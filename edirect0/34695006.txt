@@ -1,0 +1,27 @@
+1. IEEE Trans Neural Netw Learn Syst. 2023 Aug;34(8):4047-4056. doi: 
+10.1109/TNNLS.2021.3119510. Epub 2023 Aug 4.
+
+Metaparametric Neural Networks for Survival Analysis.
+
+De Mello FL, Wilkinson JM, Kadirkamanathan V.
+
+Survival analysis is a critical tool for the modeling of time-to-event data, 
+such as life expectancy after a cancer diagnosis or optimal maintenance 
+scheduling for complex machinery. However, current neural network models provide 
+an imperfect solution for survival analysis as they either restrict the shape of 
+the target probability distribution or restrict the estimation to predetermined 
+times. As a consequence, current survival neural networks lack the ability to 
+estimate a generic function without prior knowledge of its structure. In this 
+article, we present the metaparametric neural network framework that encompasses 
+the existing survival analysis methods and enables their extension to solve the 
+aforementioned issues. This framework allows survival neural networks to satisfy 
+the same independence of generic function estimation from the underlying data 
+structure that characterizes their regression and classification counterparts. 
+Furthermore, we demonstrate the application of the metaparametric framework 
+using both simulated and large real-world datasets and show that it outperforms 
+the current state-of-the-art methods in: 1) capturing nonlinearities and 2) 
+identifying temporal patterns, leading to more accurate overall estimations 
+while placing no restrictions on the underlying function structure.
+
+DOI: 10.1109/TNNLS.2021.3119510
+PMID: 34695006 [Indexed for MEDLINE]

@@ -1,0 +1,28 @@
+1. Technol Health Care. 2023;31(1):21-35. doi: 10.3233/THC-213320.
+
+Design and control of intelligent bionic artificial hand based on image 
+recognition.
+
+Shi P, Fang K, Yu H.
+
+BACKGROUND: At present, the popular control method for intelligent bionic 
+prosthetic hands is EMG control. However, the control accuracy of this method is 
+low. It is a trend to integrate computer vision into the prosthetic hand.
+OBJECTIVE: The purpose of this paper is to design an intelligent prosthetic hand 
+based on image recognition, improve the control accuracy and the quality of life 
+of the disabled.
+METHODS: Convolutional neural network is used to recognize the object to be 
+grasped, and the recognition result is used as a trigger signal to control our 
+intelligent prosthetic hand. We have designed a four-bar linkage mechanism and a 
+side swing mechanism in the structure, which can not only achieve the flexion 
+and extension of fingers but also realize the adduction and abduction of the 
+four fingers and the lateral swing of the thumb.
+RESULTS: Through the method of image recognition, the new intelligent bionic 
+hand can achieve five kinds of Human action. Including grasp, side pinch, 
+three-finger pinch, two-finger pinch, and pinch between fingers.
+CONCLUSIONS: The experiment result proves that the precision of image 
+recognition control is very excellent, the intelligent prosthetic hand can be 
+completed the corresponding task.
+
+DOI: 10.3233/THC-213320
+PMID: 35723126 [Indexed for MEDLINE]

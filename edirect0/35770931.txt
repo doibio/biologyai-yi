@@ -1,0 +1,41 @@
+1. Med Decis Making. 2023 Jan;43(1):3-20. doi: 10.1177/0272989X221103163. Epub
+2022  Jun 30.
+
+An Introductory Tutorial on Cohort State-Transition Models in R Using a 
+Cost-Effectiveness Analysis Example.
+
+Alarid-Escudero F(1), Krijkamp E(2), Enns EA(3), Yang A(4), Hunink MGM(2)(5), 
+Pechlivanoglou P(6), Jalal H(7).
+
+Author information:
+(1)Division of Public Administration, Center for Research and Teaching in 
+Economics (CIDE), Aguascalientes, Aguascalientes, Mexico.
+(2)Department of Epidemiology and Department of Radiology, Erasmus University 
+Medical Center, Rotterdam, The Netherlands.
+(3)Division of Health Policy and Management, University of Minnesota School of 
+Public Health, Minneapolis, MN, USA.
+(4)The Hospital for Sick Children, Toronto, Ontario, Canada.
+(5)Center for Health Decision Sciences, Harvard T.H. Chan School of Public 
+Health, Boston, USA.
+(6)The Hospital for Sick Children, Toronto and University of Toronto, Toronto, 
+Ontario, Canada.
+(7)School of Epidemiology and Public Health, Faculty of Medicine, University of 
+Ottawa, Ottawa, ON, Canada.
+
+Decision models can combine information from different sources to simulate the 
+long-term consequences of alternative strategies in the presence of uncertainty. 
+A cohort state-transition model (cSTM) is a decision model commonly used in 
+medical decision making to simulate the transitions of a hypothetical cohort 
+among various health states over time. This tutorial focuses on time-independent 
+cSTM, in which transition probabilities among health states remain constant over 
+time. We implement time-independent cSTM in R, an open-source mathematical and 
+statistical programming language. We illustrate time-independent cSTMs using a 
+previously published decision model, calculate costs and effectiveness outcomes, 
+and conduct a cost-effectiveness analysis of multiple strategies, including a 
+probabilistic sensitivity analysis. We provide open-source code in R to 
+facilitate wider adoption. In a second, more advanced tutorial, we illustrate 
+time-dependent cSTMs.
+
+DOI: 10.1177/0272989X221103163
+PMCID: PMC9742144
+PMID: 35770931 [Indexed for MEDLINE]

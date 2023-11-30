@@ -1,0 +1,55 @@
+1. J Gerontol A Biol Sci Med Sci. 2023 Mar 30;78(4):690-697. doi: 
+10.1093/gerona/glac161.
+
+Development of a Novel Multidimensional Measure of Aging to Predict Mortality 
+and Morbidity in the Prospective MJ Cohort.
+
+Wang S(1)(2), Wen CP(3)(4), Li W(1), Li S(1), Sun M(1), Xu A(1), Tsai MK(3), Chu 
+DT(5), Tsai SP(6), Tu H(1), Wu X(1)(6).
+
+Author information:
+(1)Department of Big Data in Health Science School of Public Health, and Center 
+of Clinical Big Data and Analytics of The Second Affiliated Hospital, Zhejiang 
+University School of Medicine, Hangzhou, Zhejiang, China.
+(2)Alibaba-Zhejiang University Joint Research Center of Future Digital 
+Healthcare, Hangzhou, Zhejiang, China.
+(3)Institute of Population Health Sciences, National Health Research Institutes, 
+Zhunan, Taiwan.
+(4)Graduate Institute of Biomedical Sciences, College of Medicine, China Medical 
+University, Taichung, Taiwan.
+(5)MJ Health management Center, Taipei, Taiwan.
+(6)Cancer Center, Zhejiang University, Hangzhou, Zhejiang, China.
+
+BACKGROUND: Although biological aging has been proposed as a more accurate 
+measure of aging, few biological aging measures have been developed for Asians, 
+especially for young adults.
+METHODS: A total of 521 656 participants were enrolled in the MJ cohort 
+(1996-2011) and were followed until death, loss-to-follow-up, or December 31, 
+2011, whichever came first. We selected 14 clinical biomarkers, including 
+chronological age, using a random forest algorithm, and developed a 
+multidimensional aging measure (MDAge). Model performance was assessed by area 
+under the curve (AUC) and internal calibration. We evaluated the associations of 
+MDAge and residuals from regressing MDAge on chronological age (MDAgeAccel) with 
+mortality and morbidity, and assessed the robustness of our findings.
+RESULTS: MDAge achieved an excellent AUC of 0.892 in predicting all-cause 
+mortality (95% confidence interval [CI]: 0.889-0.894). Participants with higher 
+MDAge at baseline were at a higher risk of death (per 5 years, hazard ration 
+[HR] = 1.671, 95% CI: 1.662-1.680), and the association remained after 
+controlling for other variables and in different subgroups. Furthermore, 
+participants with higher MDAgeAccel were associated with shortened life 
+expectancy. For instance, compared to men who were biologically younger 
+(MDAgeAccel ≤ 0) at baseline, men in the highest tertiles of MDAgeAccel had 
+shortened life expectancy by 17.23 years. In addition, higher MDAgeAccel was 
+associated with having chronic disease either cross-sectionally (per 1-standard 
+deviation [SD], odds ratio [OR] = 1.564, 95% CI: 1.552-1.575) or longitudinally 
+(per 1-SD, OR = 1.218, 95% CI: 1.199-1.238).
+CONCLUSION: MDAge accurately predicted mortality and morbidity, which has great 
+potential in the early identification of individuals at higher risk and 
+therefore promoting early intervention.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of The 
+Gerontological Society of America. All rights reserved. For permissions, please 
+e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/gerona/glac161
+PMID: 35921680 [Indexed for MEDLINE]

@@ -1,0 +1,50 @@
+1. J Epidemiol. 2023 Aug 5;33(8):428-437. doi: 10.2188/jea.JE20210513. Epub 2022 
+Jun 24.
+
+The Longevity Improvement & Fair Evidence (LIFE) Study: Overview of the Study 
+Design and Baseline Participant Profile.
+
+Fukuda H(1)(2), Ishiguro C(3), Ono R(4), Kiyohara K(5).
+
+Author information:
+(1)Department of Health Care Administration and Management, Kyushu University 
+Graduate School of Medical Sciences.
+(2)Center for Cohort Studies, Kyushu University Graduate School of Medical 
+Sciences.
+(3)Section of Clinical Epidemiology, Department of Data Science, Center for 
+Clinical Sciences, National Center for Global Health and Medicine.
+(4)Department of Public Health, Kobe University Graduate School of Health 
+Sciences.
+(5)Department of Food Science, Otsuma Women's University.
+
+BACKGROUND: The Longevity Improvement & Fair Evidence (LIFE) Study, which was 
+launched in 2019, is a multi-region community-based database project that aims 
+to generate evidence toward extending healthy life expectancy and reducing 
+health disparities in Japan. Herein, we describe the LIFE Study's design and 
+baseline participant profile.
+METHODS: Municipalities participating in the LIFE Study provide data from 
+government-administered health insurance enrollees and public assistance 
+recipients. These participants cover all disease types and age groups. Centered 
+on healthcare claims data, the project also collects long-term care claims data, 
+health checkup data, vaccination records, residence-related information, and 
+income-related information. The different data types are converted into a common 
+data model containing five modules (health care, long-term care, health checkup, 
+socioeconomic status, and health services). We calculated the descriptive 
+statistics of participants at baseline in 2018.
+RESULTS: The LIFE Study currently stores data from 1,420,437 residents of 18 
+municipalities. The health care module contains 1,280,756 participants (mean 
+age: 65.2 years), the long-term care module contains 189,069 participants (mean 
+age: 84.3 years), and the health checkup module contains 274,375 participants 
+(mean age: 69.0 years). Although coverage and follow-up rates were lower among 
+younger persons, the health care module includes 74,151 children (0-19 years), 
+273,157 working-age adults (20-59 years), and 933,448 older persons (≥60 years).
+CONCLUSION: The LIFE Study provides data from over 1 million participants and 
+can facilitate a wide variety of life-course research and cohort studies. This 
+project is expected to be a useful platform for generating real-world evidence 
+from Japan.
+
+DOI: 10.2188/jea.JE20210513
+PMCID: PMC10319523
+PMID: 35753792 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest: None declared.
