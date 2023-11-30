@@ -11,7 +11,7 @@ def query(payload):
 	return response.json()
 	
 output = query({
-	"inputs": "Please summarize the following: ",
+	"inputs": "What is the immune system?",
 })
 
 print(output)

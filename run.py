@@ -40,7 +40,7 @@ for filename in os.listdir(directory_path):
 
 for document in documents:
     output = query({
-	"inputs": "Evaluate this treatment for efficacy: " + document["snippet"],
+	"inputs": "Evaluate this treatment for efficacy" + document["snippet"],
     })
     print("----------------------------------------")
     print(output)
