@@ -1,0 +1,53 @@
+1. Am J Clin Nutr. 2020 Jan 1;111(1):110-121. doi: 10.1093/ajcn/nqz255.
+
+Drug-nutrient interactions: discovering prescription drug inhibitors of the 
+thiamine transporter ThTR-2 (SLC19A3).
+
+Vora B(1), Green EAE(1), Khuri N(2), Ballgren F(3), Sirota M(4), Giacomini 
+KM(1).
+
+Author information:
+(1)Department of Bioengineering and Therapeutic Sciences, University of 
+California, San Francisco, San Francisco, CA, USA.
+(2)Department of Bioengineering, Stanford University, Stanford, CA, USA.
+(3)Department of Pharmaceutical Biosciences, Faculty of Pharmacy, Uppsala 
+University, Uppsala, Sweden.
+(4)Bakar Computational Health Sciences Institute, University of California, San 
+Francisco, San Francisco, CA, USA.
+
+Comment in
+    Am J Clin Nutr. 2020 Jan 1;111(1):4-5.
+
+BACKGROUND: Transporter-mediated drug-nutrient interactions have the potential 
+to cause serious adverse events. However, unlike drug-drug interactions, these 
+drug-nutrient interactions receive little attention during drug development. The 
+clinical importance of drug-nutrient interactions was highlighted when a phase 
+III clinical trial was terminated due to severe adverse events resulting from 
+potent inhibition of thiamine transporter 2 (ThTR-2; SLC19A3).
+OBJECTIVE: In this study, we tested the hypothesis that therapeutic drugs 
+inhibit the intestinal thiamine transporter ThTR-2, which may lead to thiamine 
+deficiency.
+METHODS: For this exploration, we took a multifaceted approach, starting with a 
+high-throughput in vitro primary screen to identify inhibitors, building in 
+silico models to characterize inhibitors, and leveraging real-world data from 
+electronic health records to begin to understand the clinical relevance of these 
+inhibitors.
+RESULTS: Our high-throughput screen of 1360 compounds, including many clinically 
+used drugs, identified 146 potential inhibitors at 200 μM. Inhibition kinetics 
+were determined for 28 drugs with half-maximal inhibitory concentration (IC50) 
+values ranging from 1.03 μM to >1 mM. Several oral drugs, including metformin, 
+were predicted to have intestinal concentrations that may result in 
+ThTR-2-mediated drug-nutrient interactions. Complementary analysis using 
+electronic health records suggested that thiamine laboratory values are reduced 
+in individuals receiving prescription drugs found to significantly inhibit 
+ThTR-2, particularly in vulnerable populations (e.g., individuals with 
+alcoholism).
+CONCLUSIONS: Our comprehensive analysis of prescription drugs suggests that 
+several marketed drugs inhibit ThTR-2, which may contribute to thiamine 
+deficiency, especially in at-risk populations.
+
+Copyright © The Author(s) 2019.
+
+DOI: 10.1093/ajcn/nqz255
+PMCID: PMC6944527
+PMID: 31764942 [Indexed for MEDLINE]

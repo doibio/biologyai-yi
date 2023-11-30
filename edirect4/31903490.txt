@@ -1,0 +1,31 @@
+1. Am J Epidemiol. 2020 May 5;189(5):461-469. doi: 10.1093/aje/kwz272.
+
+Adaptive Treatment Strategies With Survival Outcomes: An Application to the 
+Treatment of Type 2 Diabetes Using a Large Observational Database.
+
+Simoneau G, Moodie EEM, Azoulay L, Platt RW.
+
+Sequences of treatments that adapt to a patient's changing condition over time 
+are often needed for the management of chronic diseases. An adaptive treatment 
+strategy (ATS) consists of personalized treatment rules to be applied through 
+the course of a disease that input the patient's characteristics at the time of 
+decision-making and output a recommended treatment. An optimal ATS is the 
+sequence of tailored treatments that yields the best clinical outcome for 
+patients sharing similar characteristics. Methods for estimating optimal 
+adaptive treatment strategies, which must disentangle short- and long-term 
+treatment effects, can be theoretically involved and hard to explain to 
+clinicians, especially when the outcome to be optimized is a survival time 
+subject to right-censoring. In this paper, we describe dynamic weighted survival 
+modeling, a method for estimating an optimal ATS with survival outcomes. Using 
+data from the Clinical Practice Research Datalink, a large primary-care 
+database, we illustrate how it can answer an important clinical question about 
+the treatment of type 2 diabetes. We identify an ATS pertaining to which drug 
+add-ons to recommend when metformin in monotherapy does not achieve the 
+therapeutic goals.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of the 
+Johns Hopkins Bloomberg School of Public Health. All rights reserved. For 
+permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/aje/kwz272
+PMID: 31903490 [Indexed for MEDLINE]

@@ -1,0 +1,51 @@
+1. Diabetes Obes Metab. 2020 May;22(5):828-837. doi: 10.1111/dom.13966. Epub 2020
+ Feb 21.
+
+Durability of glycaemic control in patients with type 2 diabetes after metformin 
+failure: Prognostic model derivation and validation using the DISCOVER study.
+
+Ling S(1), Sun P(2), Zaccardi F(1), Khosla S(2), Cooper A(2), Fenici P(2), 
+Khunti K(1).
+
+Author information:
+(1)Leicester Real World Evidence Unit, Leicester Diabetes Centre, University of 
+Leicester, Leicester, UK.
+(2)AstraZeneca, Cambridge, UK.
+
+AIM: To develop and internally validate prognostic models on the long-term 
+durability of glycaemic control in patients with type 2 diabetes after metformin 
+failure.
+MATERIALS AND METHODS: DISCOVER is a 3-year, prospective observational study 
+across six continents investigating second-line glucose-lowering therapies. In 
+this analysis from 35 countries, we included patients on metformin initiating 
+second-line glucose-lowering medication(s) because of physician-defined lack of 
+efficacy. The outcome was durability of glycaemic control, defined as three 
+consecutive levels of HbA1c at 6-, 12- and 24-month follow-up at target (HbA1c 
+equal to or lower than the level when the physician initiated the second-line 
+therapy in patients with baseline HbA1c ≤7% [53 mmol/mol]; and equal to or lower 
+than 7% in those with baseline HbA1c >7%). We developed and internally validated 
+two prognostic models: a base model, which included age, sex, ethnicity, country 
+income group, baseline HbA1c and second-line therapy, and an advanced model, 
+established through statistical variable selections from a model including base 
+variables and 13 additional predictors selected from a literature review. We 
+used logistic regression to develop and 500 bootstrapping samples to internally 
+validate the models; discrimination and calibration were used to assess model 
+performance.
+RESULTS: Overall, 896 out of 2995 participants (29.9%) had sustained glycaemic 
+control. The base model performed well: Nagelkerke R2 was 0.13, C-index 0.70 
+(95% CI: 0.68, 0.71) and bias-corrected C-index 0.69 after internal validation. 
+Diabetes duration, insurance type, estimated glomerular filtration rate and 
+glucose self-monitoring were additionally selected in the advanced model, which 
+had only a slightly better performance compared with the base model: Nagelkerke 
+R2 0.20, C-index 0.71 (95% CI: 0.69, 0.73) and bias-corrected C-index 0.70. 
+Calibration plots showed good calibrations of both validated models.
+CONCLUSION: These prognostic models, which include simple demographic and 
+routinely collected clinical information, enabled the estimation of the 
+probability of 2-year sustained glycaemic control in patients after metformin 
+failure. The models have been implemented into a web-based tool to support 
+healthcare professionals in their decisions.
+
+© 2020 John Wiley & Sons Ltd.
+
+DOI: 10.1111/dom.13966
+PMID: 31944528 [Indexed for MEDLINE]

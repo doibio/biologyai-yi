@@ -1,0 +1,58 @@
+1. Bioorg Med Chem. 2006 Mar 15;14(6):1715-28. doi: 10.1016/j.bmc.2005.10.020.
+Epub  2005 Nov 2.
+
+Theoretical study of structure, pKa, lipophilicity, solubility, absorption, and 
+polar surface area of some centrally acting antihypertensives.
+
+Remko M(1), Swart M, Bickelhaupt FM.
+
+Author information:
+(1)Comenius University, Department of Pharmaceutical Chemistry, Odbojarov 10, 
+SK-832 32 Bratislava, Slovakia. remko@fpharm.uniba.sk
+
+The methods of theoretical chemistry have been used to elucidate the molecular 
+properties of the substituted imidazoline and oxazoline structures, a class of 
+potent agonists and antagonists of imidazoline receptors. The geometries of 
+various tautomers and isomers of 2-[2,6-dichlorophenylimino]imidazolidine 
+(clonidine), 1-(N-dicyclopropylmethyl)amino-2-oxazoline (rilmenidine), 
+4-chloro-N-(4,5-dihydro-1H-imidazol-2yl)-6-methoxy-2-methyl-5-pyrimidinamine 
+(moxonidine), N-(dicyclopropylmethyl)-4,5-dihydro-1H-pyrrol-2-amine 
+(aminopyrroline), N-dicyclopropylmethyl-4,5-dihydrothiazol-2-amine 
+(aminothiazoline), 4,5-dihydro-2-(2-methoxyphenyl)-1H-imidazole (compound_6), 
+4,5-dihydro-2-(3-methylthiophen-2-yl)-1H-imidazole (compound_7), 
+N-(2-chloro-4-iodophenyl)-4,5-dihydro-5-methyl-3H-pyrrol-2-amine (LNP_911), 
+N-amidino-3,5-diamino-6-chloropyrazine-carboxamide (amiloride), 
+2-(1,4-benzodioxan-2-yl)-2-imidazoline (idazoxan), 
+(+/-)-2-(2-ethyl-2,3-dihydro-2-benzofuranyl)-2-imidazoline (efaroxan), 
+(4-aminobutyl)guaninine (agmatine), and 1-methyl-9H-pyrido[3,4-b]indole 
+(harmane) have been studied using Becke3LYP/6-31+G(d,p) and BP86/TZ2P DFT 
+methods. The optimized geometries indicate that these molecules show a 
+distinctly nonplanar configuration of the imidazoline and oxazoline moieties. In 
+the gas-phase, rilmenidine and aminothiazoline exist in two forms (amino and 
+imino), the amino tautomers being more stable by about 6 kJ/mol. The 
+calculations showed, in agreement with experiments, that clonidine, moxonidine, 
+and LNP_911 exist in a more stable imino tautomer. The tautomer containing the 
+amino group is by about 30 kJ/mol less stable. Computations that include the 
+effect of solvation indicated that also in water the relative stability order of 
+individual tautomers (amino and imino forms) is preserved. The computed pKa 
+values varied between 6.7 and 9.0, and correlate well with the available 
+experimental pKa's found in the literature. Among the clinically useful 
+antihypertensives moxonidine exhibits the lowest basicity in water. At pH = 7.4 
+only about 50% of this drug exists in ionized form. The available experimental 
+partition coefficients of compounds investigated are best reproduced by the 
+CLOGP method. The computed partition coefficients varied between -1.80 
+(agmatine) and 5.35 (LNP_911) (CLOGP). Clonidine, moxonidine, and rilmenidine 
+are moderately lipophilic compounds with lipophilicities between these two 
+extreme values. The computed solubilities (about 0.1-4 g/L) show that the 
+imidazoline and oxazoline derivatives studied have very low water solubility. 
+The analysis of molecular descriptors defined by Lipinski has shown that most of 
+the compounds studied obey 'rule of five'. Amiloride and agmatine 'outlets' 
+exhibit also the lowest absorption. Therefore, in the early stages of the design 
+of ligands acting on imidazoline binding sites, it is becoming more important to 
+determine the pKa, lipophilicity, water solubility, polar surface area, 
+absorption, and other physicochemical properties associated with a drug, before 
+synthetic work is undertaken, with the aim of avoiding the synthesis of 
+compounds that are predicted to have poor biopharmaceutical characteristics.
+
+DOI: 10.1016/j.bmc.2005.10.020
+PMID: 16263295 [Indexed for MEDLINE]

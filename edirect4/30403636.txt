@@ -1,0 +1,31 @@
+1. IEEE/ACM Trans Comput Biol Bioinform. 2020 Jan-Feb;17(1):358-364. doi: 
+10.1109/TCBB.2018.2879504. Epub 2018 Nov 5.
+
+Using Unlabeled Data to Discover Bivariate Causality with Deep Restricted 
+Boltzmann Machines.
+
+Sokolovska N, Permiakova O, Forslund SK, Zucker JD.
+
+An important question in microbiology is whether treatment causes changes in gut 
+flora, and whether it also affects metabolism. The reconstruction of causal 
+relations purely from non-temporal observational data is challenging. We address 
+the problem of causal inference in a bivariate case, where the joint 
+distribution of two variables is observed. We consider, in particular, data on 
+discrete domains. The state-of-the-art causal inference methods for continuous 
+data suffer from high computational complexity. Some modern approaches are not 
+suitable for categorical data, and others need to estimate and fix multiple 
+hyper-parameters. In this contribution, we introduce a novel method of causal 
+inference which is based on the widely used assumption that if X causes Y, then 
+P(X) and P(Y|X) are independent. We propose to explore a semi-supervised 
+approach where P(Y|X) and P(X) are estimated from labeled and unlabeled data 
+respectively, whereas the marginal probability is estimated potentially from 
+much more (cheap unlabeled) data than the conditional distribution. We validate 
+the proposed method on the standard cause-effect pairs. We illustrate by 
+experiments on several benchmarks of biological network reconstruction that the 
+proposed approach is very competitive in terms of computational time and 
+accuracy compared to the state-of-the-art methods. Finally, we apply the 
+proposed method to an original medical task where we study whether drugs 
+confound human metagenome.
+
+DOI: 10.1109/TCBB.2018.2879504
+PMID: 30403636 [Indexed for MEDLINE]

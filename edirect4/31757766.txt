@@ -1,0 +1,52 @@
+1. J Diabetes Complications. 2020 Jan;34(1):107490. doi: 
+10.1016/j.jdiacomp.2019.107490. Epub 2019 Nov 12.
+
+Risk prediction for severe hypoglycemia in a type 2 diabetes population with 
+previous non-severe hypoglycemia.
+
+Misra-Hebert AD(1), Ji X(2), Pantalone KM(3), Hu B(2), Dey T(2), Milinovich 
+A(2), Bauman JM(2), Zimmerman RS(3), Kattan MW(2).
+
+Author information:
+(1)Department of Internal Medicine and Center for Value-Based Care Research, 
+Cleveland Clinic Community Care, Cleveland Clinic, United States of America; 
+Department of Quantitative Health Sciences, Lerner Research Institute, Cleveland 
+Clinic, United States of America. Electronic address: misraa@ccf.org.
+(2)Department of Quantitative Health Sciences, Lerner Research Institute, 
+Cleveland Clinic, United States of America.
+(3)Department of Endocrinology, Endocrinology and Metabolism Institute, 
+Cleveland Clinic, United States of America.
+
+BACKGROUND/AIM: Episodes of non-severe hypoglycemia can be captured through 
+diagnoses documented in the electronic medical record. We aimed to create a 
+clinically useful prediction model for a severe hypoglycemia event, requiring an 
+emergency department visit or hospitalization, in patients with Type 2 diabetes 
+with a history of non-severe hypoglycemia.
+METHODS: Using electronic medical record data from 50,439 patients with Type 2 
+diabetes in one health system, number of severe hypoglycemia events and 
+associated patient characteristics from 2006 to 2015 were previously defined. 
+Using the landmarking method, a dynamic prediction model was built using the 
+subset of 1876 patients who had a documented non-severe hypoglycemia diagnosis 
+code, using logistic regression to obtain landmark-specific odds of severe 
+hypoglycemia in this group. For model performance, the bootstrap procedure was 
+employed for internal validation and area under the curve (AUC) and index of 
+prediction accuracy (IPA) were calculated.
+RESULTS: Glycosylated hemoglobin (HbA1c) less than 7% (53 mmol/mol) was 
+associated with increased odds ratio (OR) of severe hypoglycemia at 3 months (OR 
+1.92 95% Confidence Interval (CI) 1.19-3.10 at HbA1c 5% (31 mmol/mol) and OR 
+1.21, CI 1.03-1.41 at HbA1c 6%(42 mmol/mol).) History of non-severe hypoglycemia 
+within the past 3 months increased odds for severe hypoglycemia (OR 2.58 95% CI 
+1.80-3.70) as did Black race, insulin use with the past 3 months, and 
+comorbidities. Metformin and sulfonlylurea use in the past 3 months, increasing 
+age and body mass index had lower odds of a future severe hypoglycemia event. 
+For the prediction model for 3 month risk of severe hypoglycemia, the AUC was 
+0.890 (CI 0.843-0.907) and the IPA was 10.8% (CI 4.4% - 12.4%).
+CONCLUSION: In patients with a documented diagnosis of non-severe hypoglycemia, 
+a dynamic prediction model identifies patients with Type 2 diabetes with 3-month 
+increased risk of severe hypoglycemia, allowing for preventive efforts, such as 
+medication changes, at the point of care.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jdiacomp.2019.107490
+PMID: 31757766 [Indexed for MEDLINE]
