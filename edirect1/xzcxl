@@ -1,0 +1,1000 @@
+
+Gańczak M(1), Miazgowski T(2), Kożybska M(3), Kotwas A(4), Korzeń M(5), Rudnicki 
+B(6), Nogal T(6), Andrei CL(7), Ausloos M(8)(9), Banach M(10)(11), Brazinova 
+A(12), Constantin MM(13)(14), Dubljanin E(15), Herteliu C(9), Hostiuc M(16)(17), 
+Hostiuc S(18)(19), Jakovljevic M(20), Jozwiak JJ(21)(22), Kissimova-Skarbek 
+K(23), Król ZJ(24), Mestrovic T(25)(26), Miazgowski B(27), Milevska Kostova 
+N(28), Naghavi M(29)(30), Negoi I(16)(31), Negoi RI(32)(33), Pana A(9)(34), 
+Rubino S(35), Sekerija M(36)(37), Sierpinski R(38)(39), Szponar L(40), 
+Topor-Madry R(41)(42), Vujcic IS(43), Widecka J(44), Widecka K(45), Wojtyniak 
+B(46), Zadnik V(47), Kopec JA(48)(49).
+
+Author information:
+(1)Department of Infectious Diseases, Institute of Medical Sciences, Zielona 
+Góra University, Zielona Góra, Poland.
+(2)Department of Propedeutics of Internal Diseases, Pomeranian Medical 
+University, Szczecin, Poland.
+(3)Department of Medical Law of the Social Medicine Chair, Pomeranian Medical 
+University in Szczecin, Faculty of Health Sciences, Szczecin, Poland.
+(4)Department of Public Health, Pomeranian Medical University, Faculty of Health 
+Sciences, Szczecin, Poland.
+(5)Department of Methods of Artificial Intelligence and Applied Mathematics, 
+West Pomeranian University of Technology, Szczecin, Poland.
+(6)Healthcare Management and Administration, Faculty of Health Sciences, 
+Pomeranian Medical University, Szczecin, Poland.
+(7)Carol Davila University of Medicine and Pharmacy, Bucharest, Romania.
+(8)School of Business, University of Leicester, Leicester, England, United 
+Kingdom.
+(9)Department of Statistics and Econometrics, Bucharest University of Economic 
+Studies, Bucharest, Romania.
+(10)Department of Hypertension, Medical University of Lodz, Lodz, Poland.
+(11)Mothers' Memorial Hospital Research Institute, Lodz, Poland.
+(12)Institute of Epidemiology, Faculty of Medicine, Comenius University, 
+Bratislava, Slovakia.
+(13)IInd Department of Dermatology, Carol Davila University of Medicine and 
+Pharmacy, Bucharest, Romania.
+(14)IInd Department of Dermatology, Colentina Clinical Hospital, Bucharest, 
+Romania.
+(15)Faculty of Medicine, University of Belgrade, Belgrade, Serbia.
+(16)Department of General Surgery, Carol Davila University of Medicine and 
+Pharmacy, Bucharest, Romania.
+(17)Department of Internal Medicine, Bucharest Emergency Hospital, Bucharest, 
+Romania.
+(18)Department of Legal Medicine and Bioethics, Carol Davila University of 
+Medicine and Pharmacy, Bucharest, Romania.
+(19)Department of Clinical Legal Medicine, National Institute of Legal Medicine 
+Mina Minovici, Bucharest, Romania.
+(20)N.A. Semashko Department of Public Health and Healthcare, I.M. Sechenov 
+First Moscow State Medical University (Sechenov University), Moscow, Russia.
+(21)Department of Family Medicine and Public Health, University of Opole, Opole, 
+Poland.
+(22)Faculty of Medicine and Health Sciences, University of Opole, Opole, Poland.
+(23)Department of Health Economics and Social Security, Jagiellonian University 
+Medical College, Krakow, Poland.
+(24)Data and Analyses Department, Ministry of Health, Warsaw, Poland.
+(25)Clinical Microbiology and Parasitology Unit, Dr. Zora Profozic Polyclinic, 
+Zagreb, Croatia.
+(26)University Centre Varazdin, University North, Varazdin, Croatia.
+(27)Center for Innovation in Medical Education, Pomeranian Medical University, 
+Szczecin, Poland.
+(28)Department of Health Policy and Management, Centre for Regional Policy 
+Research and Cooperation 'Studiorum', Skopje, Macedonia.
+(29)Institute for Health Metrics and Evaluation, University of Washington, 
+Seattle, WA, United States of America.
+(30)Department of Health Metrics Sciences, School of Medicine, University of 
+Washington, Seattle, WA, United States of America.
+(31)General Surgery Department, Emergency Hospital of Bucharest, Bucharest, 
+Romania.
+(32)Anatomy and Embryology Department, Carol Davila University of Medicine and 
+Pharmacy, Bucharest, Romania.
+(33)Department of Cardiology, Cardio-Aid, Bucharest, Romania.
+(34)Department of Health Outcomes, Center for Health Outcomes & Evaluation, 
+Bucharest, Romania.
+(35)Department of Biomedical Sciences, Università degli Studi di Sassari, 
+Sassari, Italy.
+(36)Department of Medical Statistics, Epidemiology and Medical Informatics, 
+School of Medicine, University of Zagreb, Zagreb, Croatia.
+(37)Croatian Institute of Public Health, Zagreb, Croatia.
+(38)Polish Medical Research Agency, Warsaw, Poland.
+(39)Department of Arrhythmias, Cardinal Wyszynski National Institute of 
+Cardiology, Warsaw, Poland.
+(40)National Food and Nutrition Institute, Warsaw, Poland.
+(41)Institute of Public Health, Jagiellonian University Medical College, Krakow, 
+Poland.
+(42)Agency for Health Technology Assessment and Tariff System, Warsaw, Poland.
+(43)Institute of Epidemiology, University of Belgrade, Belgrade, Serbia.
+(44)Zdroje Hospital, Pomeranian Medical University, Szczecin, Poland.
+(45)Cardiology Clinic, Pomeranian Medical University, Szczecin, Poland.
+(46)Department of Population Health Monitoring and Analysis, National Institute 
+of Public Health, Warsaw, Poland.
+(47)Epidemiology and Cancer Registry Sector, Institute of Oncology Ljubljana, 
+Ljubljana, Slovenia.
+(48)University of British Columbia, Vancouver, BC, Canada.
+(49)Arthritis Research Canada, Richmond, BC, Canada.
+
+BACKGROUND: Systematic collection of mortality/morbidity data over time is 
+crucial for monitoring trends in population health, developing health policies, 
+assessing the impact of health programs. In Poland, a comprehensive analysis 
+describing trends in disease burden for major conditions has never been 
+published. The Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 
+provides data on the burden of over 300 diseases in 195 countries since 1990. We 
+used the GBD database to undertake an assessment of disease burden in Poland, 
+evaluate changes in population health between 1990-2017, and compare Poland with 
+other Central European (CE) countries.
+METHODS: The results of GBD 2017 for 1990 and 2017 for Poland and CE were used 
+to assess rates and trends in years of life lost (YLLs), years lived with 
+disability (YLDs), disability-adjusted life years (DALYs). Data came from 
+cause-of-death registration systems, population health surveys, disease 
+registries, hospitalization databases, and the scientific literature. Analytical 
+approaches have been used to adjust for missing data, errors in cause-of-death 
+certification, and differences in data collection methodology. Main estimation 
+strategies were ensemble modelling for mortality and Bayesian meta-regression 
+for disability.
+RESULTS: Between 1990-2017, age-standardized YLL rates for all causes declined 
+in Poland by 46.0% (95% UI: 43.7-48.2), YLD rates declined by 4.0% (4.2-4.9), 
+DALY rates by 31.7% (29.2-34.4). For both YLLs and YLDs, greater relative 
+declines were observed for females. There was a large decrease in communicable, 
+maternal, neonatal, and nutritional disease DALYs (48.2%; 46.3-50.4). DALYs due 
+to non-communicable diseases (NCDs) decreased slightly (2.0%; 0.1-4.6). In 2017, 
+Poland performed better than CE as a whole (ranked fourth for YLLs, sixth for 
+YLDs, and fifth for DALYs) and achieved greater reductions in YLLs and DALYs 
+than most CE countries. In 2017 and 1990, the leading cause of YLLs and DALYs in 
+Poland and CE was ischaemic heart disease (IHD), and the leading cause of YLDs 
+was low back pain. In 2017, the top 20 causes of YLLs and YLDs in Poland and CE 
+were the same, although in different order. In Poland, age-standardized DALYs 
+from neonatal causes, other cardiovascular and circulatory diseases, and road 
+injuries declined substantially between 1990-2017, while alcohol use disorders 
+and chronic liver diseases increased. The highest observed-to-expected ratios 
+were seen for alcohol use disorders for YLLs, neonatal sepsis for YLDs, and 
+falls for DALYs (3.21, 2.65, and 2.03, respectively).
+CONCLUSIONS: There was relatively little geographical variation in premature 
+death and disability in CE in 2017, although some between-country differences 
+existed. Health in Poland has been improving since 1990; in 2017 Poland 
+outperformed CE as a whole for YLLs, YLDs, and DALYs. While the health gap 
+between Poland and Western Europe has diminished, it remains substantial. The 
+shift to NCDs and chronic disability, together with marked between-gender health 
+inequalities, poses a challenge for the Polish health-care system. IHD is still 
+the leading cause of disease burden in Poland, but DALYs from IHD are declining. 
+To further reduce disease burden, an integrated response focused on NCDs and 
+population groups with disproportionally high burden is needed.
+
+DOI: 10.1371/journal.pone.0226766
+PMCID: PMC7051048
+PMID: 32119685 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+386. Lancet Child Adolesc Health. 2020 Apr;4(4):251. doi: 
+10.1016/S2352-4642(20)30062-6. Epub 2020 Feb 28.
+
+Rare diseases: clinical progress but societal stalemate.
+
+The Lancet Child Adolescent Health.
+
+DOI: 10.1016/S2352-4642(20)30062-6
+PMID: 32119839 [Indexed for MEDLINE]
+
+
+387. Eur J Cancer. 2020 Apr;129:41-49. doi: 10.1016/j.ejca.2020.01.011. Epub 2020
+Feb  28.
+
+The cost of cancer in Europe 2018.
+
+Hofmarcher T(1), Lindgren P(2), Wilking N(3), Jönsson B(4).
+
+Author information:
+(1)IHE - The Swedish Institute for Health Economics, Box 2127, SE-22002, Lund, 
+Sweden. Electronic address: thomas.hofmarcher@ihe.se.
+(2)IHE - The Swedish Institute for Health Economics, Box 2127, SE-22002, Lund, 
+Sweden; Karolinska Institutet, Solnavägen 1, SE-17177, Solna, Sweden. Electronic 
+address: peter.lindgren@ihe.se.
+(3)Karolinska Institutet, Solnavägen 1, SE-17177, Solna, Sweden. Electronic 
+address: nils.wilking@telia.com.
+(4)Stockholm School of Economics, Department of Economics, Box 6501, SE-11383, 
+Stockholm, Sweden. Electronic address: bengt.jonsson@hhs.se.
+
+BACKGROUND: Cancer care is evolving rapidly, and costs and value of new 
+treatments are frequently debated. Up-to-date evidence on the total cost of 
+cancer is needed to inform policy decisions. This study estimates the cost of 
+cancer in Europe in 2018 and extends a previous analysis for 1995-2014.
+METHODS: Cancer-specific health expenditure were derived from national 
+estimates. Data on cancer drug sales were obtained from IQVIA. The productivity 
+loss from premature mortality was estimated from data from Eurostat and the 
+World Health Organization. Estimates of the productivity loss from morbidity and 
+informal care costs were based on previous studies.
+FINDINGS: The total cost of cancer was €199 billion in Europe (EU-27 plus 
+Iceland, Norway, Switzerland, and the United Kingdom) in 2018. Total costs 
+ranged from €160 per capita in Romania to €578 in Switzerland (after adjustment 
+for price differentials). Health expenditure on cancer care were €103 billion, 
+of which €32 billion were spent on cancer drugs. Informal care costs were €26 
+billion. The total productivity loss was €70 billion, composed of €50 billion 
+from premature mortality and €20 billion from morbidity.
+INTERPRETATION: Health expenditure on cancer care were of a similar magnitude as 
+the sum of non-health-care costs in 2018. Over the last two decades, health 
+spending on cancer has increased faster than the increase in cancer incidence. 
+The productivity loss from premature mortality has decreased because of 
+reductions in mortality in the working-age population. Trends in informal care 
+costs and productivity loss from morbidity are uncertain because of lack of 
+comparable data.
+
+Copyright © 2020 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.ejca.2020.01.011
+PMID: 32120274 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest statement T.H. and P.L. are 
+employed at IHE, an independent research organization receiving funding from 
+both public and private sector organizations. B.J. reports personal fees from 
+BMS, Celgene, Janssen, Novartis, and Roche and N.W. from Janssen, MSD, Novartis, 
+and Oasmia for participation in advisory boards and educational activities 
+outside the submitted work.
+
+
+388. Geriatrics (Basel). 2020 Feb 28;5(1):12. doi: 10.3390/geriatrics5010012.
+
+The Geriatric Surgery: The Importance of Frailty Identification Beyond 
+Chronological Age.
+
+Boccardi V(1), Marano L(2).
+
+Author information:
+(1)Institute of Gerontology and Geriatrics, Department of Medicine, University 
+of Perugia, Santa Maria della Misericordia Hospital, Piazzale Gambuli 1, 06132 
+Perugia, Italy.
+(2)Department of Medicine, Surgery and Neurosciences, Unit of General Surgery 
+and Surgical Oncology, University of Siena, 53100 Siena, Italy.
+
+In the last fifty years, there has been a great improvement in social and health 
+conditions. This have led to a significant increase in human lifespan as never 
+seen before. In Italy, older persons are the fastest growing sector of society, 
+mainly due to scientific progress but also to a decrease in the natality rate. 
+According to the latest WHO data published in 2018, life expectancy in Italy is 
+80.5 for males and 84.9 for females, with a total life expectancy of 82.9 [...].
+
+DOI: 10.3390/geriatrics5010012
+PMCID: PMC7151068
+PMID: 32121144
+
+
+389. Nutrients. 2020 Feb 28;12(3):649. doi: 10.3390/nu12030649.
+
+The Modelled Population Obesity-Related Health Benefits of Reducing Consumption 
+of Discretionary Foods in Australia.
+
+Lal A(1)(2), Peeters A(2), Brown V(1)(2), Nguyen P(1)(2), Tran HNQ(1)(2), Nguyen 
+T(1), Tonmukayakul U(1), Sacks G(2), Calache H(1), Martin J(3), Moodie M(1)(2), 
+Ananthapavan J(1)(2).
+
+Author information:
+(1)Deakin Health Economics, Institute for Health Transformation, Deakin 
+University, Geelong, VIC 3220, Australia.
+(2)Global Obesity Centre (GLOBE), Institute for Health Transformation, Deakin 
+University, Geelong, VIC 3220, Australia.
+(3)Obesity Policy Coalition, Cancer Council Victoria, Melbourne VIC 3004 
+Australia.
+
+Over one third of Australians' daily energy intake is from discretionary foods 
+and drinks. While many health promotion efforts seek to limit discretionary food 
+intake, the population health impact of reductions in the consumption of 
+different types of discretionary foods (e.g., sugar-sweetened beverages (SSBs), 
+confectionery, sweet biscuits) has not been quantified. This study estimated the 
+potential reductions in body weight, obesity-related disease incidence, and 
+healthcare cost savings associated with consumption of one less serving per week 
+of different discretionary foods. Reductions in the different types of 
+discretionary food were modelled individually to estimate the impact on energy 
+consumption and population body weight by 5-year age and sex groups. It was 
+assumed that one serving of discretionary food each week was replaced with 
+either a serving of fruit or popcorn, and a serving (375 mL) of SSBs was 
+replaced with coffee, tea, or milk. Proportional multi-state multiple-cohort 
+Markov modelling estimated likely resultant health adjusted life years (HALYs) 
+gained and healthcare costs saved over the lifetime of the 2010 Australian 
+population. A reduction of one serving of SSBs (375 mL) had the greatest 
+potential impact in terms of weight reduction, particularly in ages 19-24 years 
+(mean 0.31 kg, 95% UI: 0.23 kg to 0.37 kg) and overall healthcare cost savings 
+of AUD 793.4 million (95% UI: 589.1 M to 976.1 M). A decrease of one serving of 
+sweet biscuits had the second largest potential impact on weight change overall, 
+with healthcare cost savings of $640.7 M (95% CI: $402.6 M to $885.8 M) and the 
+largest potential weight reduction amongst those aged 75 years and over (mean 
+0.21 kg, 95% UI: 0.14 kg to 0.27 kg). The results demonstrate that small 
+reductions in discretionary food consumption are likely to have substantial 
+health benefits at the population level. Moreover, the study highlights that 
+policy responses to improve population diets may need to be tailored to target 
+different types of foods for different population groups.
+
+DOI: 10.3390/nu12030649
+PMCID: PMC7146305
+PMID: 32121199 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest
+
+
+390. Int J Environ Res Public Health. 2020 Feb 29;17(5):1576. doi: 
+10.3390/ijerph17051576.
+
+Parental Satisfaction with Caregiving across the Life Span to Their Children 
+with Developmental Disabilities: A Cross-Sectional Study in Iran.
+
+Samadi SA(1), McConkey R(1), Abdollahi Boghrabadi G(2).
+
+Author information:
+(1)Institute of Nursing and Health Research, Ulster University, Belfast BT37 
+0QB, UK.
+(2)Department of Psychology, Payame Noor University, Tehran 19569, Iran.
+
+The increased life expectancy of adult individuals with developmental 
+disabilities and the likelihood of parents having to continue caregiving into 
+their old age is an emerging international issue which deserves investigation, 
+especially concerning satisfaction with caregiving. Moreover, this needs to be 
+assessed in different cultures in order to create a better understanding of how 
+families are best supported in their lifelong caregiving. A sample of 408 
+parents was gathered in six cities across Iran with a son or daughter who had a 
+confirmed developmental disability. Self-completed measures of satisfaction and 
+stress were obtained along with demographic details of the child and family. 
+Satisfaction with caring was generally positive and was similar for mothers and 
+fathers, for older as well as for younger parents; and between different types 
+of developmental disabilities. However, both personal and child satisfaction 
+decreased when parents reported increased stress and when caring for teenage and 
+adult offspring and those with behavior problems. Parents need to receive 
+support to sustain their motivation and satisfaction with caregiving if their 
+quality of life and that of their children with disabilities is to be maintained 
+and enhanced across their lifespan.
+
+DOI: 10.3390/ijerph17051576
+PMCID: PMC7084509
+PMID: 32121366 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+391. Plants (Basel). 2020 Mar 1;9(3):303. doi: 10.3390/plants9030303.
+
+Genotypic Variation in Resistance Gene-Mediated Calcium Signaling and Hormonal 
+Signaling Involved in Effector-Triggered Immunity or Disease Susceptibility in 
+the Xanthomonas campestris pv. Campestris-Brassica napus Pathosystem.
+
+Mamun MA(1), Islam MT(1)(2), Lee BR(1)(3), La VH(1), Bae DW(4), Kim TH(1).
+
+Author information:
+(1)Department of Animal Science, Institute of Agricultural Science and 
+Technology, College of Agriculture & Life Sciences, Chonnam National University, 
+Gwangju 61186, Korea.
+(2)Alson H. Smith Jr. Agricultural Research and Extension Center, School of 
+Plant and Environmental Sciences, Virginia Tech, Winchester,VA 22602, USA.
+(3)Asian Pear Research Institute, Chonnam National University, Gwangju, 61186, 
+Korea.
+(4)Biomaterial Analytical Laboratory, Central Instruments Facility, Gyeongsang 
+National University, Jinju, 52828, Korea.
+
+To characterize cultivar variation in resistance gene (R-gene)-mediated calcium 
+signaling and hormonal regulation in effector-triggered immunity (ETI) and 
+disease susceptibility, Xanthomonas campestris pv. campestris (Xcc) was 
+inoculated in two Brassica napus cultivars (cvs. Capitol and Mosa). At 14 days 
+post inoculation (DPI) with Xcc, there was a necrotic lesion in cv. Mosa along 
+with the significant accumulation of H2O2 and malondialdehyde (MDA), whereas no 
+visual symptom was observed in cv. Capitol. The cultivar variations in the 
+R-gene expressions were found in response to Xcc. ZAR1 is a 
+coiled-coil-nucleotide binding site-leucine-rich repeat (CC-NB-LRR)-type R-gene 
+that is significantly induced in cv. Capitol, whereas toll/interleukin-1 
+receptor-nucleotide binding site-leucine-rich repeat (TIR-NB-LRR)-type R-gene, 
+TAO1, is significantly upregulated in cv. Mosa Xcc-inoculated plants. The 
+defense-related gene's non-race-specific disease resistance 1 (NDR1) and 
+mitogen-activated protein kinase 6 (MAPK6) were enhanced, whereas 
+calcium-dependent protein kinase (CDPK5) and calcium-sensing protein 60g 
+(CBP60g) were depressed in cv. Capitol Xcc inoculated plants, and opposite 
+results were found in cv. Mosa. The calcium-sensing receptor (CAS), calmodulin 
+(CaM), expression was induced in both the cultivars. However, the CAS induction 
+rate was much higher in cv. Mosa than in cv. Capitol in response to Xcc. The 
+phytohormone salicylic acid (SA) and jasmonic acid (JA) levels were 
+significantly higher in cv. Capitol along with the enhanced SA receptors (NPR3 
+and NPR4) and JA synthesis and signaling-related gene expression (LOX2, PDF1.2), 
+whereas the JA level was significantly lower in cv. Mosa Xcc inoculated plants. 
+The SA synthesis and signaling-related genes (ICS1, NPR1) and SA were present at 
+higher levels in cv. Mosa; additionally, the SA level present was much higher in 
+the susceptible cultivar (cv. Mosa) than in the resistant cultivar (cv. Capitol) 
+in response to Xcc. These results indicate that ZAR1 mediated the coordinated 
+action of SA and JA synthesis and signaling to confirm ETI, whereas TAO1 
+enhanced the synthesis of SA through CAS and CBP60g to antagonize JA synthesis 
+and signaling to cause disease susceptibility in the Brassica napus-Xcc 
+pathosystem.
+
+DOI: 10.3390/plants9030303
+PMCID: PMC7154883
+PMID: 32121557
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+392. Int J Environ Res Public Health. 2020 Mar 2;17(5):1594. doi: 
+10.3390/ijerph17051594.
+
+Does the Experience of Caring for a Severely Disabled Relative Impact Advance 
+Care Planning? A Qualitative Study of Caregivers of Disabled Patients.
+
+Chiang FM(1), Hsieh JG(2), Fan SY(3), Wang YW(4), Wang SC(5).
+
+Author information:
+(1)Department of Nursing, Institute of Medical Sciences, Tzu Chi University, 
+Hualien Tzu Chi Hospital, Buddhist Tzu Chi Medical Foundation, Hualien 97002, 
+Taiwan.
+(2)Department of Family Medicine, Institute of Health and Welfare Policy, 
+National Yang-Ming University, Hualien Tzu Chi Hospital Buddhist Tzu Chi Medical 
+Foundation, Hualien 97002, Taiwan.
+(3)Institute of Gerontology, College of Medicine, National Cheng Kung 
+University, Tainan 70101, Taiwan.
+(4)School of Medicine, Tzu Chi University, Department of Family Medicine, 
+Hualien Tzu Chi Hospital, Buddhist Tzu Chi Medical Foundation, Hualien 97002, 
+Taiwan.
+(5)Department of Nursing, Hualien Tzu Chi Hospital Buddhist Tzu Chi Medical 
+Foundation, Hualien 97002, Taiwan.
+
+The aging of the Taiwanese population has become a major issue. Previous 
+research has focused on the burden and stress faced by caregivers, but has not 
+explored how the experience of these caregivers influences decisions of advance 
+care planning (ACP). Semi-structured and in-depth interviews were conducted. 
+Qualitative content analysis was used to identify important themes. Five themes 
+and fourteen sub-themes were identified: (1) Past experiences: patient wishes, 
+professional recommendations, and expectation about disease progress; (2) Impact 
+of care on family members: positive affirmation, open-minded life, social 
+isolation and health effects, and financial and life planning effects; (3) 
+Attitude toward life: not forcing to stay, and not becoming a burden, (4) 
+Expected proxy dilemmas: torment between doing or not, seeing the extension of 
+suffering and toil, and remorse and self-blame; (5) Expectation of end of life 
+(EOL) care: caregiver's experience and EOL care decisions, and practicality of 
+EOL decision making. After making multiple medical decisions for their disabled 
+relatives, caregivers are able to calmly face their own medical decisions, and 
+"not becoming a burden" is their primary consideration. It's suggested that 
+implementation of shared decision-making on medical care for patients with 
+chronic disability will not only improve the quality of their medical care but 
+also reduce the development of remorse and guilty feelings of caregivers after 
+making medical decisions.
+
+DOI: 10.3390/ijerph17051594
+PMCID: PMC7084922
+PMID: 32121624 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+393. J Dent Res. 2020 Apr;99(4):362-373. doi: 10.1177/0022034520908533. Epub 2020
+Mar  2.
+
+Global, Regional, and National Levels and Trends in Burden of Oral Conditions 
+from 1990 to 2017: A Systematic Analysis for the Global Burden of Disease 2017 
+Study.
+
+GBD 2017 Oral Disorders Collaborators; Bernabe E, Marcenes W, Hernandez CR, 
+Bailey J, Abreu LG, Alipour V, Amini S, Arabloo J, Arefi Z, Arora A, Ayanore MA, 
+Bärnighausen TW, Bijani A, Cho DY, Chu DT, Crowe CS, Demoz GT, Demsie DG, Dibaji 
+Forooshani ZS, Du M, El Tantawi M, Fischer F, Folayan MO, Futran ND, Geramo YCD, 
+Haj-Mirzaian A, Hariyani N, Hasanzadeh A, Hassanipour S, Hay SI, Hole MK, 
+Hostiuc S, Ilic MD, James SL, Kalhor R, Kemmer L, Keramati M, Khader YS, Kisa S, 
+Kisa A, Koyanagi A, Lalloo R, Le Nguyen Q, London SD, Manohar ND, Massenburg BB, 
+Mathur MR, Meles HG, Mestrovic T, Mohammadian-Hafshejani A, Mohammadpourhodki R, 
+Mokdad AH, Morrison SD, Nazari J, Nguyen TH, Nguyen CT, Nixon MR, Olagunju TO, 
+Pakshir K, Pathak M, Rabiee N, Rafiei A, Ramezanzadeh K, Rios-Blancas MJ, Roro 
+EM, Sabour S, Samy AM, Sawhney M, Schwendicke F, Shaahmadi F, Shaikh MA, Stein 
+C, Tovani-Palone MR, Tran BX, Unnikrishnan B, Vu GT, Vukovic A, Warouw TSS, 
+Zaidi Z, Zhang ZJ, Kassebaum NJ.
+
+Government and nongovernmental organizations need national and global estimates 
+on the descriptive epidemiology of common oral conditions for policy planning 
+and evaluation. The aim of this component of the Global Burden of Disease study 
+was to produce estimates on prevalence, incidence, and years lived with 
+disability for oral conditions from 1990 to 2017 by sex, age, and countries. In 
+addition, this study reports the global socioeconomic pattern in burden of oral 
+conditions by the standard World Bank classification of economies as well as the 
+Global Burden of Disease Socio-demographic Index. The findings show that oral 
+conditions remain a substantial population health challenge. Globally, there 
+were 3.5 billion cases (95% uncertainty interval [95% UI], 3.2 to 3.7 billion) 
+of oral conditions, of which 2.3 billion (95% UI, 2.1 to 2.5 billion) had 
+untreated caries in permanent teeth, 796 million (95% UI, 671 to 930 million) 
+had severe periodontitis, 532 million (95% UI, 443 to 622 million) had untreated 
+caries in deciduous teeth, 267 million (95% UI, 235 to 300 million) had total 
+tooth loss, and 139 million (95% UI, 133 to 146 million) had other oral 
+conditions in 2017. Several patterns emerged when the World Bank's 
+classification of economies and the Socio-demographic Index were used as 
+indicators of economic development. In general, more economically developed 
+countries have the lowest burden of untreated dental caries and severe 
+periodontitis and the highest burden of total tooth loss. The findings offer an 
+opportunity for policy makers to identify successful oral health strategies and 
+strengthen them; introduce and monitor different approaches where oral diseases 
+are increasing; plan integration of oral health in the agenda for prevention of 
+noncommunicable diseases; and estimate the cost of providing universal coverage 
+for dental care.
+
+DOI: 10.1177/0022034520908533
+PMCID: PMC7088322
+PMID: 32122215 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no potential conflicts of 
+interest with respect to the authorship and/or publication of this article.
+
+
+394. Health Technol Assess. 2020 Feb;24(11):1-150. doi: 10.3310/hta24110.
+
+Interventions to reduce the risk of surgically transmitted Creutzfeldt-Jakob 
+disease: a cost-effective modelling review.
+
+Stevenson M(1), Uttley L(1), Oakley JE(2), Carroll C(1), Chick SE(3), Wong R(1).
+
+Author information:
+(1)School of Health and Related Research (ScHARR), University of Sheffield, 
+Sheffield, UK.
+(2)School of Mathematics and Statistics, University of Sheffield, Sheffield, UK.
+(3)INSEAD, Fontainebleau, France.
+
+BACKGROUND: Creutzfeldt-Jakob disease is a fatal neurological disease caused by 
+abnormal infectious proteins called prions. Prions that are present on surgical 
+instruments cannot be completely deactivated; therefore, patients who are 
+subsequently operated on using these instruments may become infected. This can 
+result in surgically transmitted Creutzfeldt-Jakob disease.
+OBJECTIVE: To update literature reviews, consultation with experts and economic 
+modelling published in 2006, and to provide the cost-effectiveness of strategies 
+to reduce the risk of surgically transmitted Creutzfeldt-Jakob disease.
+METHODS: Eight systematic reviews were undertaken for clinical parameters. One 
+review of cost-effectiveness was undertaken. Electronic databases including 
+MEDLINE and EMBASE were searched from 2005 to 2017. Expert elicitation sessions 
+were undertaken. An advisory committee, convened by the National Institute for 
+Health and Care Excellence to produce guidance, provided an additional source of 
+information. A mathematical model was updated focusing on brain and posterior 
+eye surgery and neuroendoscopy. The model simulated both patients and instrument 
+sets. Assuming that there were potentially 15 cases of surgically transmitted 
+Creutzfeldt-Jakob disease between 2005 and 2018, approximate Bayesian 
+computation was used to obtain samples from the posterior distribution of the 
+model parameters to generate results. Heuristics were used to improve 
+computational efficiency. The modelling conformed to the National Institute for 
+Health and Care Excellence reference case. The strategies evaluated included 
+neither keeping instruments moist nor prohibiting set migration; ensuring that 
+instruments were kept moist; prohibiting instrument migration between sets; and 
+employing single-use instruments. Threshold analyses were undertaken to 
+establish prices at which single-use sets or completely effective 
+decontamination solutions would be cost-effective.
+RESULTS: A total of 169 papers were identified for the clinical review. The 
+evidence from published literature was not deemed sufficiently strong to take 
+precedence over the distributions obtained from expert elicitation. Forty-eight 
+papers were identified in the review of cost-effectiveness. The previous 
+modelling structure was revised to add the possibility of misclassifying 
+surgically transmitted Creutzfeldt-Jakob disease as another neurodegenerative 
+disease, and assuming that all patients were susceptible to infection. Keeping 
+instruments moist was estimated to reduce the risk of surgically transmitted 
+Creutzfeldt-Jakob disease cases and associated costs. Based on probabilistic 
+sensitivity analyses, keeping instruments moist was estimated to on average 
+result in 2.36 (range 0-47) surgically transmitted Creutzfeldt-Jakob disease 
+cases (across England) caused by infection occurring between 2019 and 2023. 
+Prohibiting set migration or employing single-use instruments reduced the 
+estimated risk of surgically transmitted Creutzfeldt-Jakob disease cases 
+further, but at considerable cost. The estimated costs per quality-adjusted 
+life-year gained of these strategies in addition to keeping instruments moist 
+were in excess of £1M. It was estimated that single-use instrument sets 
+(currently £350-500) or completely effective cleaning solutions would need to 
+cost approximately £12 per patient to be cost-effective using a £30,000 per 
+quality-adjusted life-year gained value.
+LIMITATIONS: As no direct published evidence to implicate surgery as a cause of 
+Creutzfeldt-Jakob disease has been found since 2005, the estimations of 
+potential cases from elicitation are still speculative. A particular source of 
+uncertainty was in the number of potential surgically transmitted 
+Creutzfeldt-Jakob disease cases that may have occurred between 2005 and 2018.
+CONCLUSIONS: Keeping instruments moist is estimated to reduce the risk of 
+surgically transmitted Creutzfeldt-Jakob disease cases and associated costs. 
+Further surgical management strategies can reduce the risks of surgically 
+transmitted Creutzfeldt-Jakob disease but have considerable associated costs.
+STUDY REGISTRATION: This study is registered as PROSPERO CRD42017071807.
+FUNDING: This project was funded by the National Institute for Health Research 
+(NIHR) Health Technology Assessment programme and will be published in full in 
+Health Technology Assessment; Vol. 24, No. 11. See the NIHR Journals Library 
+website for further project information.
+
+Plain Language Summary: The aims of this report were to summarise evidence 
+relating to surgically transmitted Creutzfeldt–Jakob disease and to explore the 
+value for money of strategies to reduce the chance of any future surgically 
+transmitted Creutzfeldt–Jakob disease cases. Current recommendations include 
+keeping sets of surgical instruments together for high-risk operations and using 
+separate instruments for people born after 1996. The project involved reviewing 
+published papers, speaking with experts and building a computer model. The 
+literature reviews found that Creutzfeldt–Jakob disease occurs in around 1–2 per 
+million people and that no definite cases of surgically transmitted 
+Creutzfeldt–Jakob disease have been observed since the 1970s. The reviews also 
+looked for information on the possibility of patients being infected with 
+Creutzfeldt–Jakob disease after having surgery on high-risk tissues, such as the 
+brain and the back of the eye. They found that there was a great deal of 
+uncertainty regarding who might have Creutzfeldt–Jakob disease, but not yet have 
+symptoms, as well as the risk of transmission and the ability of strategies to 
+reduce this risk. The computer model aimed to estimate value for money of 
+different strategies to reduce the risks of surgically transmitted 
+Creutzfeldt–Jakob disease. However, the reviews found that some of the numbers 
+needed for the model were not known, so experts were asked to estimate this 
+information instead along with the range of possible values. This information 
+included the effectiveness of different cleaning practices and the chances of 
+infected tissue being transmitted between patients undergoing high-risk surgery. 
+The model found that keeping surgical instruments moist prior to cleaning was 
+likely to save money and reduce the chance of future surgically transmitted 
+Creutzfeldt–Jakob disease cases. However, additional measures, such as using 
+only sets of single-use instruments, ensuring that instruments were kept 
+together in their sets or using separate instruments for those born after 1996, 
+appeared to be poor value for money.
+
+DOI: 10.3310/hta24110
+PMCID: PMC7103914
+PMID: 32122460 [Indexed for MEDLINE]
+
+Conflict of interest statement: No competing interests were declared.
+
+
+395. Int J Cardiol. 2020 Jul 15;311:46-51. doi: 10.1016/j.ijcard.2020.02.055.
+Epub  2020 Feb 20.
+
+Health economic evaluation of implantable cardioverter defibrillators in 
+hypertrophic cardiomyopathy in adults.
+
+Magnusson P(1), Wimo A(2).
+
+Author information:
+(1)Centre for Research and Development, Region Gävleborg/Uppsala University, 
+Gävle, Sweden; Department of Medicine, Cardiology Research Unit, Karolinska 
+Institutet, Stockholm, Sweden. Electronic address: 
+peter.magnusson@regiongavleborg.se.
+(2)Centre for Research and Development, Region Gävleborg/Uppsala University, 
+Gävle, Sweden; Division of Neurogeriatrics, Department for Neurobiology, Care 
+Sciences and Society, Karolinska Institutet, Stockholm, Sweden.
+
+Comment in
+    Int J Cardiol. 2020 Jul 15;311:52-53.
+
+BACKGROUND: Hypertrophic cardiomyopathy is a heterogeneous disease in which an 
+implantable cardioverter defibrillator (ICD) effectively prevents sudden cardiac 
+death in at-risk individuals. Nevertheless, the cost-effectiveness of ICDs in 
+this specific patient group has not been evaluated.
+METHODS: A Markov cohort model was constructed to simulate the course of 
+identified adult persons with hypertrophic cardiomyopathy with and without an 
+ICD over the course of 12 years based on Swedish disease-specific unit costs. 
+The age distribution was based on empirical data from the nationwide cohort of 
+HCM patients with ICDs (mean age at the time of implant was 51.8 years). The 
+outcomes were costs per saved life and cost per gained quality adjusted life 
+year (QALY).
+RESULTS: Of 1000 simulated patients, 402 lives were saved after 12 years with an 
+ICD at a cost of 646,000 Swedish krona (SEK), which corresponds to 57,118 Euro 
+per saved life from the health care sector viewpoint. The cost per gained QALY 
+(the incremental cost effectiveness ratio (ICER)) was 171,000 SEK (15,119 Euro). 
+From a societal viewpoint, including effects on productivity losses, the use of 
+an ICD was absolutely dominant (both cheaper and better, and thus an ICER is of 
+no interest). Both the one-way sensitivity analyses and the probabilistic 
+sensitivity analyses supported the findings in the base option.
+CONCLUSION: For identified patients with hypertrophic cardiomyopathy deemed at 
+high risk of sudden cardiac death, the use of an ICD is extremely cost 
+effective, both in terms of the cost for saved lives and gained QALY.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijcard.2020.02.055
+PMID: 32122698 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+report no relationships that could be construed as a conflict of interest.
+
+
+396. Ticks Tick Borne Dis. 2020 Jul;11(4):101388. doi:
+10.1016/j.ttbdis.2020.101388.  Epub 2020 Feb 3.
+
+The distribution limit of the common tick, Ixodes ricinus, and some associated 
+pathogens in north-western Europe.
+
+Hvidsten D(1), Frafjord K(2), Gray JS(3), Henningsson AJ(4), Jenkins A(5), 
+Kristiansen BE(6), Lager M(4), Rognerud B(7), Slåtsve AM(8), Stordal F(7), Stuen 
+S(9), Wilhelmsson P(4).
+
+Author information:
+(1)University Hospital of North Norway, Department of Microbiology and Infection 
+Control, Tromsø, Norway; Nordland Hospital, Division of Diagnostic Services, 
+Department of Microbiology, Bodø, Norway. Electronic address: 
+dag.hvidsten@unn.no.
+(2)UiT The Arctic University of Norway, Tromsø University Museum, Tromsø, 
+Norway.
+(3)University College Dublin, Dublin, Ireland.
+(4)Department of Clinical Microbiology, Jönköping, Region Jönköping County, AND 
+Department of Clinical and Experimental Medicine, Linköping University, 
+Linköping, Sweden.
+(5)University of South-Eastern Norway, Department of Natural Science and 
+Environmental Health, Bø, Norway.
+(6)Skiensgate 21, Porsgrunn, Norway.
+(7)University of Oslo, Department of Geosciences, Oslo, Norway.
+(8)Nordland Hospital, Division of Diagnostic Services, Department of 
+Microbiology, Bodø, Norway.
+(9)Norwegian University of Life Sciences, Faculty of Veterinary Medicine, 
+Section for Small Ruminants Research, Sandnes, Norway.
+
+In north-western Europe, the common tick, Ixodes ricinus, is widely established, 
+its distribution appears to be increasing and the spread of tick-borne diseases 
+is of increasing concern. The project 'Flått i Nord' (Ticks in northern Norway) 
+commenced in spring 2009 with the intention of studying the tick's distribution 
+and that of its pathogens in northern Norway. Several methods were used: 
+cloth-dragging, collecting from trapped small mammals, and collecting from pets. 
+Since 2010, the occurrence of ticks in the region of northern Norway was 
+determined directly by cloth-dragging 167 times in 109 separate locations 
+between the latitudes of 64 °N and 70 °N (included seven locations in the 
+northern part of Trøndelag County). The northernmost location of a permanent I. 
+ricinus population was found to be Nordøyvågen (66.2204 °N, 12.59 °E) on the 
+Island of Dønna. In a sample of 518 nymphal and adult ticks, the Borrelia 
+prevalence collected close to this distribution limit varied but was low (1-15 
+%) compared with the locations in Trøndelag, south of the study area (15-27 %). 
+Five specimens (1 %) were positive for Rickettsia helvetica. The length of the 
+vegetation growing season (GSL) can be used as an approximate index for the 
+presence of established populations of I. ricinus. The present study suggests 
+that the threshold GSL for tick establishment is about 170 days, because the 
+median GSL from 1991 to 2015 was 174-184 days at sites with permanent tick 
+populations, showing a clear increase compared with the period 1961-1990. This 
+apparent manifestation of climate change could explain the northward extension 
+of the range of I. ricinus.
+
+Copyright © 2020 The Authors. Published by Elsevier GmbH.. All rights reserved.
+
+DOI: 10.1016/j.ttbdis.2020.101388
+PMID: 32122808 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare no conflict of interest.
+
+
+397. Sci Rep. 2020 Mar 2;10(1):3795. doi: 10.1038/s41598-020-60704-0.
+
+Genome sequencing of human in vitro fertilisation embryos for pathogenic 
+variation screening.
+
+Murphy NM(1)(2)(3)(4), Samarasekera TS(5), Macaskill L(5), Mullen J(5), Rombauts 
+LJF(5)(6)(7)(8).
+
+Author information:
+(1)Genetic Technologies Ltd., Victoria, Australia. Nicholas.murphy@monash.edu.
+(2)Monash IVF, Clayton, Victoria, Australia. Nicholas.murphy@monash.edu.
+(3)GenEmbryomics Pty. Ltd., Victoria, Australia. Nicholas.murphy@monash.edu.
+(4)Drug Delivery Disposition and Dynamics, Faculty of Pharmacy and 
+Pharmaceutical Sciences, Parkville, Melbourne, Victoria, Australia. 
+Nicholas.murphy@monash.edu.
+(5)Monash IVF, Clayton, Victoria, Australia.
+(6)Centre for Reproductive Health, Hudson Institute of Medical Research, 
+Clayton, Victoria, Australia.
+(7)Department of Obstetrics and Gynaecology, Monash University, Clayton, 
+Victoria, Australia.
+(8)Monash Women's & Newborn Program, Monash Health, Victoria, Australia.
+
+Whole-genome sequencing of preimplantation human embryos to detect and screen 
+for genetic diseases is a technically challenging extension to preconception 
+screening. Combining preconception genetic screening with preimplantation 
+testing of human embryos facilitates the detection of de novo mutations and 
+self-validates transmitted variant detection in both the reproductive couple and 
+the embryo's samples. Here we describe a trio testing workflow that involves 
+whole-genome sequencing of amplified DNA from biopsied embryo trophectoderm 
+cells and genomic DNA from both parents. Variant prediction software and 
+annotation databases were used to assess variants of unknown significance and 
+previously not described de novo variants in five single-gene preimplantation 
+genetic testing couples and eleven of their embryos. Pathogenic variation, 
+tandem repeat, copy number and structural variations were examined against 
+variant calls for compound heterozygosity and predicted disease status was 
+ascertained. Multiple trio testing showed complete concordance with known 
+variants ascertained by single-nucleotide polymorphism array and uncovered de 
+novo and transmitted pathogenic variants. This pilot study describes a method of 
+whole-genome sequencing and analysis for embryo selection in high-risk couples 
+to prevent early life fatal genetic conditions that adversely affect the quality 
+of life of the individual and families.
+
+DOI: 10.1038/s41598-020-60704-0
+PMCID: PMC7052235
+PMID: 32123222 [Indexed for MEDLINE]
+
+Conflict of interest statement: There are competing funding interests from 
+Monash IVF who contributed to a research grant for the research through the 
+Monash Research and Education Fund. The authors were employed at Monash IVF for 
+the main duration of the study. A provisional patent based on the study method 
+protocol has been submitted.
+
+
+398. Nat Struct Mol Biol. 2020 Mar;27(3):288-296. doi: 10.1038/s41594-020-0388-6.
+ Epub 2020 Mar 2.
+
+Cryo-EM structures reveal translocational unfolding in the clostridial binary 
+iota toxin complex.
+
+Yamada T(#)(1), Yoshida T(#)(1)(2), Kawamoto A(#)(3), Mitsuoka K(4), Iwasaki 
+K(3)(5), Tsuge H(6)(7)(8).
+
+Author information:
+(1)Faculty of Life Sciences, Kyoto Sangyo University, Kamigamo-motoyama, 
+Kita-ku, Kyoto, Japan.
+(2)Institute for Protein Dynamics, Kyoto Sangyo University, Kamigamo-motoyama, 
+Kita-ku, Kyoto, Japan.
+(3)Institute for Protein Research, Osaka University, Suita, Osaka, Japan.
+(4)Research Center for Ultra-High Voltage Electron Microscopy, Osaka University, 
+Ibaraki, Osaka, Japan.
+(5)Life Science Center for Survival Dynamics, Tsukuba Advanced Research Alliance 
+(TARA), University of Tsukuba, Tsukuba, Japan.
+(6)Faculty of Life Sciences, Kyoto Sangyo University, Kamigamo-motoyama, 
+Kita-ku, Kyoto, Japan. tsuge@cc.kyoto-su.ac.jp.
+(7)Institute for Protein Dynamics, Kyoto Sangyo University, Kamigamo-motoyama, 
+Kita-ku, Kyoto, Japan. tsuge@cc.kyoto-su.ac.jp.
+(8)Center for Molecular Research in Infectious Diseases, Kyoto Sangyo 
+University, Kamigamo-motoyama, Kita-ku, Kyoto, Japan. tsuge@cc.kyoto-su.ac.jp.
+(#)Contributed equally
+
+The iota toxin produced by Clostridium perfringens type E is a binary toxin 
+comprising two independent polypeptides: Ia, an ADP-ribosyltransferase, and Ib, 
+which is involved in cell binding and translocation of Ia across the cell 
+membrane. Here we report cryo-EM structures of the translocation channel Ib-pore 
+and its complex with Ia. The high-resolution Ib-pore structure demonstrates a 
+similar structural framework to that of the catalytic ϕ-clamp of the anthrax 
+protective antigen pore. However, the Ia-bound Ib-pore structure shows a unique 
+binding mode of Ia: one Ia binds to the Ib-pore, and the Ia amino-terminal 
+domain forms multiple weak interactions with two additional Ib-pore constriction 
+sites. Furthermore, Ib-binding induces tilting and partial unfolding of the Ia 
+N-terminal α-helix, permitting its extension to the ϕ-clamp gate. This new 
+mechanism of N-terminal unfolding is crucial for protein translocation.
+
+DOI: 10.1038/s41594-020-0388-6
+PMID: 32123390 [Indexed for MEDLINE]
+
+
+399. Cardiovasc Res. 2020 Sep 1;116(11):1910-1917. doi: 10.1093/cvr/cvaa025.
+
+Loss of life expectancy from air pollution compared to other risk factors: a 
+worldwide perspective.
+
+Lelieveld J(1)(2), Pozzer A(1), Pöschl U(1), Fnais M(3), Haines A(4), Münzel 
+T(5)(6).
+
+Author information:
+(1)Atmospheric Chemistry Department, Max Planck Institute for Chemistry, Mainz, 
+Germany.
+(2)Climate and Atmosphere Research Center, The Cyprus Institute, Nicosia, 
+Cyprus.
+(3)College of Science, King Saud University, Riyadh, Saudi Arabia.
+(4)Department of Public Health, Environments and Society, London School of 
+Hygiene and Tropical Medicine, London, UK.
+(5)University Medical Center of the Johannes Gutenberg University, Mainz, 
+Germany.
+(6)German Center for Cardiovascular Research, Mainz, Germany.
+
+Erratum in
+    Cardiovasc Res. 2020 Jun 1;116(7):1334.
+
+Comment in
+    Cardiovasc Res. 2020 Sep 1;116(11):1794-1796.
+    Cardiovasc Res. 2020 Jul 1;116(8):e101.
+    Cardiovasc Res. 2020 Sep 1;116(11):1797-1799.
+    Cardiovasc Res. 2020 Jul 1;116(8):e102.
+
+AIMS: Long-term exposure of humans to air pollution enhances the risk of 
+cardiovascular and respiratory diseases. A novel Global Exposure Mortality Model 
+(GEMM) has been derived from many cohort studies, providing much-improved 
+coverage of the exposure to fine particulate matter (PM2.5). We applied the GEMM 
+to assess excess mortality attributable to ambient air pollution on a global 
+scale and compare to other risk factors.
+METHODS AND RESULTS: We used a data-informed atmospheric model to calculate 
+worldwide exposure to PM2.5 and ozone pollution, which was combined with the 
+GEMM to estimate disease-specific excess mortality and loss of life expectancy 
+(LLE) in 2015. Using this model, we investigated the effects of different 
+pollution sources, distinguishing between natural (wildfires, aeolian dust) and 
+anthropogenic emissions, including fossil fuel use. Global excess mortality from 
+all ambient air pollution is estimated at 8.8 (7.11-10.41) million/year, with an 
+LLE of 2.9 (2.3-3.5) years, being a factor of two higher than earlier estimates, 
+and exceeding that of tobacco smoking. The global mean mortality rate of about 
+120 per 100 000 people/year is much exceeded in East Asia (196 per 100 000/year) 
+and Europe (133 per 100 000/year). Without fossil fuel emissions, the global 
+mean life expectancy would increase by 1.1 (0.9-1.2) years and 1.7 (1.4-2.0) 
+years by removing all potentially controllable anthropogenic emissions. Because 
+aeolian dust and wildfire emission control is impracticable, significant LLE is 
+unavoidable.
+CONCLUSION: Ambient air pollution is one of the main global health risks, 
+causing significant excess mortality and LLE, especially through cardiovascular 
+diseases. It causes an LLE that rivals that of tobacco smoking. The global mean 
+LLE from air pollution strongly exceeds that by violence (all forms together), 
+i.e. by an order of magnitude (LLE being 2.9 and 0.3 years, respectively).
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of the 
+European Society of Cardiology.
+
+DOI: 10.1093/cvr/cvaa025
+PMCID: PMC7449554
+PMID: 32123898 [Indexed for MEDLINE]
+
+
+400. Nervenarzt. 2020 May;91(5):398-403. doi: 10.1007/s00115-020-00884-2.
+
+[Palliative care of persons with dementia and delirium].
+
+[Article in German]
+
+Hewer W(1), Holthoff-Detto V(2).
+
+Author information:
+(1)Klinikum Christophsbad, 73035, Göppingen, Deutschland. 
+walter.hewer@christophsbad.de.
+(2)Klinik für Psychiatrie, Psychotherapie und Psychosomatik, Alexianer 
+Krankenhaus Hedwigshöhe, Berlin, Deutschland.
+
+The number of people with dementia and delirium not induced by alcohol and other 
+psychoactive substances has significantly increased during the last decades and 
+will rise further in the future, particularly in the oldest old. In the vast 
+majority of cases dementia is characterized by a progressive course with 
+shortened life expectancy and a lack of curative treatment options. Delirium 
+will remit in many cases; however, in a substantial proportion of patients the 
+further course is unfavorable. Life expectancy is greatly reduced in these 
+patients, mostly in association with advanced dementia and age-related 
+multimorbidity. Intensified inclusion of palliative medical care aspects in the 
+planning of treatment is indicated in the context of advanced and incurable 
+conditions associated with a presumably clearly reduced life expectancy. The aim 
+is to achieve the best possible relief of distressing somatic and psychiatric 
+symptoms for the sake of the patients and their families. The competencies of 
+psychiatry and palliative care can complement each other in this respect. In 
+addition, there is a need for healthcare policy measures beyond the associated 
+interdisciplinary opportunities and challenges in order to establish the 
+necessary healthcare structures.
+
+DOI: 10.1007/s00115-020-00884-2
+PMID: 32123935 [Indexed for MEDLINE]
+
+
+401. Cell Mol Life Sci. 2020 Sep;77(17):3351-3367. doi:
+10.1007/s00018-020-03492-0.  Epub 2020 Mar 2.
+
+Current understanding of and emerging treatment options for spinal muscular 
+atrophy with respiratory distress type 1 (SMARD1).
+
+Perego MGL(1), Galli N(1), Nizzardo M(2), Govoni A(2), Taiana M(2), Bresolin 
+N(1)(2), Comi GP(1)(3), Corti S(4)(5).
+
+Author information:
+(1)Neuroscience Section, Department of Pathophysiology and Transplantation 
+(DEPT), Dino Ferrari Centre, University of Milan, Via Francesco Sforza 35, 
+20122, Milan, Italy.
+(2)Neurology Unit, Foundation IRCCS Ca' Granda Ospedale Maggiore Policlinico, 
+Via Francesco Sforza 35, 20122, Milan, Italy.
+(3)Neuromuscular and Rare Diseases Unit, Foundation IRCCS Ca' Granda Ospedale 
+Maggiore Policlinico, Via Francesco Sforza 35, 20122, Milan, Italy.
+(4)Neuroscience Section, Department of Pathophysiology and Transplantation 
+(DEPT), Dino Ferrari Centre, University of Milan, Via Francesco Sforza 35, 
+20122, Milan, Italy. stefania.corti@unimi.it.
+(5)Neurology Unit, Foundation IRCCS Ca' Granda Ospedale Maggiore Policlinico, 
+Via Francesco Sforza 35, 20122, Milan, Italy. stefania.corti@unimi.it.
+
+Spinal muscular atrophy (SMA) with respiratory distress type 1 (SMARD1) is an 
+autosomal recessive motor neuron disease that is characterized by distal and 
+proximal muscle weakness and diaphragmatic palsy that leads to respiratory 
+distress. Without intervention, infants with the severe form of the disease die 
+before 2 years of age. SMARD1 is caused by mutations in the IGHMBP2 gene that 
+determine a deficiency in the encoded IGHMBP2 protein, which plays a critical 
+role in motor neuron survival because of its functions in mRNA processing and 
+maturation. Although it is rare, SMARD1 is the second most common motor neuron 
+disease of infancy, and currently, treatment is primarily supportive. No 
+effective therapy is available for this devastating disease, although 
+multidisciplinary care has been an essential element of the improved quality of 
+life and life span extension in these patients in recent years. The objectives 
+of this review are to discuss the current understanding of SMARD1 through a 
+summary of the presently known information regarding its clinical presentation 
+and pathogenesis and to discuss emerging therapeutic approaches. Advances in 
+clinical care management have significantly extended the lives of individuals 
+affected by SMARD1 and research into the molecular mechanisms that lead to the 
+disease has identified potential strategies for intervention that target the 
+underlying causes of SMARD1. Gene therapy via gene replacement or gene 
+correction provides the potential for transformative therapies to halt or 
+possibly prevent neurodegenerative disease in SMARD1 patients. The recent 
+approval of the first gene therapy approach for SMA associated with mutations in 
+the SMN1 gene may be a turning point for the application of this strategy for 
+SMARD1 and other genetic neurological diseases.
+
+DOI: 10.1007/s00018-020-03492-0
+PMID: 32123965 [Indexed for MEDLINE]
+
+
+402. Arch Osteoporos. 2020 Mar 2;15(1):37. doi: 10.1007/s11657-020-0699-6.
+
+Quality of life after fragility fracture in the Russian Federation: results from 
+the Russian arm of the International Cost and Utility Related to Osteoporotic 
+Fractures Study (ICUROS).
+
+Lesnyak O(1), Svedbom A(2), Belova K(3), Dobrovolskaya O(4), Ershova O(3), 
+Golubev G(5), Grebenshikov V(5), Ivanov S(6), Kochish A(7), Menshikova L(8), 
+Nikitinskaya O(9), Nurligayanov R(10), Solodovnikov A(11), Toroptsova N(9), 
+Varavko J(12), Zotkin E(9), Borgstrom F(13), Kanis JA(14).
+
+Author information:
+(1)North West Mechnikov State Medical University, St. Petersburg, Russia.
+(2)Mapi, Stockholm, Sweden.
+(3)Yaroslavl State Medical University, Yaroslavl, Russia.
+(4)V.A. Nasonova Research Institute of Rheumatology named after V.A. Nasonova, 
+Moscow, Russia.
+(5)Rostov-on-Don State Medical University, Rostov-on-Don, Russia.
+(6)The L.G. Sokolov Memorial Hospital №122, St. Petersburg, Russia.
+(7)Vreden Russian Research Institute of Traumatology and Orthopedics, St. 
+Petersburg, Russia.
+(8)Irkutsk State Medical Academy of Postgraduate Training, Irkutsk, Russia.
+(9)Research Institute of Rheumatology named after V.A. Nasonova, Moscow, Russia.
+(10)City clinical hospital №21, Ufa, Russia.
+(11)Ural State Medical University, Yekaterinburg, Russia.
+(12)Irkutsk State Medical University, Irkutsk, Russia.
+(13)LIME/MMC, Karolinska Institutet, Stockholm, Sweden.
+(14)Centre for Metabolic Bone Diseases, University of Sheffield Medical School, 
+Sheffield, UK and Mary McKillop Health Institute, Australian Catholic 
+University, Melbourne, Australia. w.j.pontefract@sheffield.ac.uk.
+
+Changes in health-related quality of life (QoL) due to hip, humeral, ankle, 
+spine, and distal forearm fracture were measured in Russian adults age 50 years 

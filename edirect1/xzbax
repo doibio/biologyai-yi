@@ -1,0 +1,1000 @@
+It is the optimal cervical cancer screening strategy to be generalized in our 
+country. careHPV testing at 3 years interval can be considered in more developed 
+areas to achieve better effectiveness.
+
+DOI: 10.3760/cma.j.issn.0253-3766.2012.08.017
+PMID: 23159002 [Indexed for MEDLINE]
+
+
+659. Bioinformatics. 2013 Jan 15;29(2):281-3. doi: 10.1093/bioinformatics/bts674.
+ Epub 2012 Nov 17.
+
+mzMatch-ISO: an R tool for the annotation and relative quantification of 
+isotope-labelled mass spectrometry data.
+
+Chokkathukalam A(1), Jankevics A, Creek DJ, Achcar F, Barrett MP, Breitling R.
+
+Author information:
+(1)College of Medical Veterinary and Life Sciences, Institute of Molecular Cell 
+and Systems Biology, University of Glasgow, Glasgow G12 8QQ, UK.
+
+MOTIVATION: Stable isotope-labelling experiments have recently gained increasing 
+popularity in metabolomics studies, providing unique insights into the dynamics 
+of metabolic fluxes, beyond the steady-state information gathered by routine 
+mass spectrometry. However, most liquid chromatography-mass spectrometry data 
+analysis software lacks features that enable automated annotation and relative 
+quantification of labelled metabolite peaks. Here, we describe mzMatch-ISO, a 
+new extension to the metabolomics analysis pipeline mzMatch.R.
+RESULTS: Targeted and untargeted isotope profiling using mzMatch-ISO provides a 
+convenient visual summary of the quality and quantity of labelling for every 
+metabolite through four types of diagnostic plots that show (i) the 
+chromatograms of the isotope peaks of each compound in each sample group; (ii) 
+the ratio of mono-isotopic and labelled peaks indicating the fraction of 
+labelling; (iii) the average peak area of mono-isotopic and labelled peaks in 
+each sample group; and (iv) the trend in the relative amount of labelling in a 
+predetermined isotopomer. To aid further statistical analyses, the values used 
+for generating these plots are also provided as a tab-delimited file. We 
+demonstrate the power and versatility of mzMatch-ISO by analysing a 
+(13)C-labelled metabolome dataset from trypanosomal parasites.
+AVAILABILITY: mzMatch.R and mzMatch-ISO are available free of charge from 
+http://mzmatch.sourceforge.net and can be used on Linux and Windows platforms 
+running the latest version of R.
+CONTACT: rainer.breitling@manchester.ac.uk.
+SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics 
+online.
+
+DOI: 10.1093/bioinformatics/bts674
+PMCID: PMC3546800
+PMID: 23162054 [Indexed for MEDLINE]
+
+
+660. J Immunol. 2012 Dec 15;189(12):5773-85. doi: 10.4049/jimmunol.1103720. Epub
+2012  Nov 16.
+
+In vitro generation of long-lived human plasma cells.
+
+Cocco M(1), Stephenson S, Care MA, Newton D, Barnes NA, Davison A, Rawstron A, 
+Westhead DR, Doody GM, Tooze RM.
+
+Author information:
+(1)Section of Experimental Haematology, Leeds Institute of Molecular Medicine, 
+University of Leeds, Leeds LS9 7TF, United Kingdom.
+
+Plasma cells (PCs), the terminal effectors of humoral immunity, are short-lived 
+unless supported by niche environments in which they may persist for years. No 
+model system has linked B cell activation with niche function to allow the in 
+vitro generation of long-lived PCs. Thus, the full trajectory of B cell terminal 
+differentiation has yet to be investigated in vitro. In this article, we 
+describe a robust model for the generation of polyclonal long-lived human PCs 
+from peripheral blood B cells. After a proliferative plasmablast phase, PCs 
+persist in the absence of cell division, with viability limited only by elective 
+culture termination. Conservative predictions for PC life expectancy are 300 d, 
+but with the potential for significantly longer life spans for some cells. These 
+long-lived PCs are preferentially derived from memory B cells, and acquire a 
+CD138(high) phenotype analogous to that of human bone marrow PCs. Analysis of 
+gene expression across the system defines clusters of genes with related 
+dynamics and linked functional characteristics. Importantly, genes in these 
+differentiation clusters demonstrate a similar overall pattern of expression for 
+in vitro and ex vivo PCs. In vitro PCs are fully reprogrammed to a secretory 
+state and are adapted to their secretory load, maintaining IgG secretion of 120 
+pg/cell/day in the absence of XBP1 mRNA splicing. By establishing a set of 
+conditions sufficient to allow the development and persistence of mature human 
+PCs in vitro, to our knowledge, we provide the first platform with which to 
+sequentially explore and manipulate each stage of human PC differentiation.
+
+DOI: 10.4049/jimmunol.1103720
+PMID: 23162129 [Indexed for MEDLINE]661. Front Psychol. 2012 Nov 7;3:441. doi: 10.3389/fpsyg.2012.00441. eCollection 
+2012.
+
+The rights and freedoms gradient of health: evidence from a cross-national 
+study.
+
+Bezo B(1), Maggi S, Roberts WL.
+
+Author information:
+(1)Department of Psychology, Carleton University Ottawa, ON, Canada.
+
+This study examined the combined influences of national levels of socioeconomic 
+status (SES), social capital, and rights and freedoms on population level 
+physical and mental health outcomes. Indicators of mental health were suicide 
+rates, alcohol consumption, and tobacco use. Indicators of physical health 
+included life expectancy, infant mortality rates, and prevalence of HIV. Using 
+pathway analysis on international data from a selected sample of European, North 
+American, South American, and South Caucasus countries, similar models for 
+mental health and physical health were developed. In the first model, the 
+positive effects of SES and social capital on physical health were completely 
+mediated via rights and freedoms. In the second model, the positive effect of 
+SES on mental health was completely mediated, while the impact of social capital 
+was partially mediated through rights and freedoms. We named the models, the 
+"rights and freedoms gradient of health" in recognition of this latter 
+construct's crucial role in determining both physical and mental health.
+
+DOI: 10.3389/fpsyg.2012.00441
+PMCID: PMC3491584
+PMID: 23162498
+
+
+662. Zh Mikrobiol Epidemiol Immunobiol. 2012 Sep-Oct;(5):42-8.
+
+[Evaluation of the effect of mass vaccination against hepatitis B in the Russian 
+Federation].
+
+[Article in Russian]
+
+Klushkina VV, Kozhanova TV, Bazhazhina PG, Popova OE, Il'chenko LIu, Kiuregian 
+KK, Mikhaĭlov MI.
+
+AIM: Evaluate the effect of mass vaccination against hepatitis B implemented 
+within the framework of national project Health on the rate of development of 
+unfavorable outcomes of infection and on average lifetime of the population of 
+Russia.
+MATERIALS AND METHODS: Hepatitis B markers (HBsAg, anti-HBc, HBeAg, anti-HBe) 
+were determined by enzyme immunoassayin 6211 blood serum samples from 
+conditionally healthy population of 6 regions of the Russian Federation. 
+Analysis of damage to health of the population caused by hepatitis B and 
+favorable effect of mass vaccination against hepatitis B was performed by using 
+mathematical model by Goldstein S.T. et al. (2005), that used results of 
+detection of hepatitis B markers in discrete groups (women of childbearing age, 
+children up to 5 years of age, adults aged 30 years and older). A formula 
+developed by us was used to evaluate the effect of vaccination on the average 
+lifespan of the population of the Russian Federation.
+RESULTS: The rate of HBsAg detection in the conditionally healthy population of 
+the Tuva Republic was significantly higher (8.1%) than in other studied regions 
+of the Russian Federation (p < 0.05): in Moscow Region--1.6%, in Rostov 
+Region--1.6%, in Sverdlovsk Region--1.2%, Khabarosvk Region--2.0%, in Sakha 
+(Yakutia) Republic--2.5%. The rate of detection of anti-HBc was significantly 
+higher in the Tuva Republic and Sakha (Yakutia) Republic (46.2% and 42.3%, 
+respectively); in other regions: Moscow Region--13.6%, Rostov Region--18.9%, 
+Sverdlovsk Region--17.5%, Khabarovsk Region--21.0%. HBeAg in women of 
+childbearing age was detected only in the Tuva Republic (0.4%). The mathematical 
+analysis performed demonstrated that the level of coverage of vaccination of 
+newborn children that in the studied regions is 96.1-99.6% may lead to the 
+reduction of morbidity and mortality from hepatitis B and its outcomes by 91-95% 
+that exceeds the similar parameter obtained by using our model, described in the 
+literature for Africa, Asia and Europe. The calculated level of decrease of 
+morbidity and mortality from hepatitis B and its outcomes may lead to the 
+increase of average lifespan of the population of the Russian Federation by 1.44 
+- 4.08 months.
+CONCLUSION: The strategy of vaccination of newborn children against hepatitis B 
+employed in the Russian Federation significantly reduces the risk of this 
+disease and development of unfavorable outcomes of the disease especially in 
+hyper endemic regions and promotes the increase of average lifespan of the 
+population of Russia.
+
+PMID: 23163035 [Indexed for MEDLINE]
+
+
+663. Popul Stud (Camb). 2013;67(1):7-23. doi: 10.1080/00324728.2012.737473. Epub
+2012  Nov 20.
+
+Multidimensional life-table analysis of the effect of child mortality on total 
+fertility in India, 1992-93, 1998-99, 2005-06.
+
+Eini-Zinab H(1).
+
+Author information:
+(1)East-West Center, Honolulu, HI, USA. eini@hawaii.edu
+
+This paper presents a new method for estimating the effect of child mortality on 
+the total fertility rate (TFR). The method is based on discrete-time survival 
+models of parity progression that allow construction of a multivariate 
+multidimensional life table of fertility with four dimensions: woman's age, 
+parity, duration in parity, and number of previous child deaths. Additional 
+socio-economic variables are included in the set of predictor variables in the 
+underlying survival models of parity progression. The life table yields a 
+replacement rate, which measures the effect of one additional child death on the 
+TFR. The method is illustrated by applying it to three Indian National Family 
+Health Surveys. Major findings are that dead children are incompletely replaced, 
+and that the replacement rate rises as the TFR falls, reflecting women's 
+increasing ability to control their fertility.
+
+DOI: 10.1080/00324728.2012.737473
+PMCID: PMC3570666
+PMID: 23164133 [Indexed for MEDLINE]
+
+
+664. BMC Cancer. 2012 Nov 19;12:530. doi: 10.1186/1471-2407-12-530.
+
+Fractionated radiosurgery for painful spinal metastases: DOSIS - a phase II 
+trial.
+
+Guckenberger M(1), Hawkins M, Flentje M, Sweeney RA.
+
+Author information:
+(1)Department of Radiation Oncology, University of Würzburg, 
+Josef-Schneider-Str, 11, Würzburg 97080, Germany. 
+Guckenberger_M@klinik.uni-wuerzburg.de
+
+BACKGROUND: One third of all cancer patients will develop bone metastases and 
+the vertebral column is involved in approximately 70% of these patients. 
+Conventional radiotherapy with of 1-10 fractions and total doses of 8-30 Gy is 
+the current standard for painful vertebral metastases; however, the median pain 
+response is short with 3-6 months and local tumor control is limited with these 
+rather low irradiation doses. Recent advances in radiotherapy technology - 
+intensity modulated radiotherapy for generation of highly conformal dose 
+distributions and image-guidance for precise treatment delivery - have made 
+dose-escalated radiosurgery of spinal metastases possible and early results of 
+pain and local tumor control are promising. The current study will investigate 
+efficacy and safety of radiosurgery for painful vertebral metastases and three 
+characteristics will distinguish this study. 1) A prognostic score for overall 
+survival will be used for selection of patients with longer life expectancy to 
+allow for analysis of long-term efficacy and safety. 2) Fractionated 
+radiosurgery will be performed with the number of treatment fractions adjusted 
+to either good (10 fractions) or intermediate (5 fractions) life expectancy. 
+Fractionation will allow inclusion of tumors immediately abutting the spinal 
+cord due to higher biological effective doses at the tumor - spinal cord 
+interface compared to single fraction treatment. 3) Dose intensification will be 
+performed in the involved parts of the vertebrae only, while uninvolved parts 
+are treated with conventional doses using the simultaneous integrated boost 
+concept.
+METHODS / DESIGN: It is the study hypothesis that hypo-fractionated image-guided 
+radiosurgery significantly improves pain relief compared to historic data of 
+conventionally fractionated radiotherapy. Primary endpoint is pain response 3 
+months after radiosurgery, which is defined as pain reduction of ≥ 2 points at 
+the treated vertebral site on the 0 to 10 Visual Analogue Scale. 60 patients 
+will be included into this two-centre phase II trial.
+CONCLUSIONS: Results of this study will refine the methods of patient selection, 
+target volume definition, treatment planning and delivery as well as quality 
+assurance for radiosurgery. It is the intention of this study to form the basis 
+for a future randomized controlled trial comparing conventional radiotherapy 
+with fractionated radiosurgery for palliation of painful vertebral metastases.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT01594892.
+
+DOI: 10.1186/1471-2407-12-530
+PMCID: PMC3522547
+PMID: 23164174 [Indexed for MEDLINE]
+
+
+665. Gend Med. 2012 Dec;9(6):390-401. doi: 10.1016/j.genm.2012.10.001. Epub 2012
+Nov  17.
+
+Sex and life expectancy.
+
+Seifarth JE(1), McGowan CL, Milne KJ.
+
+Author information:
+(1)Faculty of Human Kinetics, Department of Kinesiology, University of Windsor, 
+Windsor, Ontario, Canada.
+
+BACKGROUND: A sexual dimorphism in human life expectancy has existed in almost 
+every country for as long as records have been kept. Although human life 
+expectancy has increased each year, females still live longer, on average, than 
+males. Undoubtedly, the reasons for the sex gap in life expectancy are 
+multifaceted, and it has been discussed from both sociological and biological 
+perspectives. However, even if biological factors make up only a small 
+percentage of the determinants of the sex difference in this phenomenon, parity 
+in average life expectancy should not be anticipated.
+OBJECTIVE: The aim of this review is to highlight biological mechanisms that may 
+underlie the sexual dimorphism in life expectancy.
+METHODS: Using PubMed, ISI Web of Knowledge, and Google Scholar, as well as 
+cited and citing reference histories of articles through August 2012, 
+English-language articles were identified, read, and synthesized into categories 
+that could account for biological sex differences in human life expectancy.
+RESULTS: The examination of biological mechanisms accounting for the 
+female-based advantage in human life expectancy has been an active area of 
+inquiry; however, it is still difficult to prove the relative importance of any 
+1 factor. Nonetheless, biological differences between the sexes do exist and 
+include differences in genetic and physiological factors such as progressive 
+skewing of X chromosome inactivation, telomere attrition, mitochondrial 
+inheritance, hormonal and cellular responses to stress, immune function, and 
+metabolic substrate handling among others. These factors may account for at 
+least a part of the female advantage in human life expectancy.
+CONCLUSIONS: Despite noted gaps in sex equality, higher body fat percentages and 
+lower physical activity levels globally at all ages, a sex-based gap in life 
+expectancy exists in nearly every country for which data exist. There are 
+several biological mechanisms that may contribute to explaining why females live 
+longer than men on average, but the complexity of the human life experience 
+makes research examining the contribution of any single factor for the female 
+advantage difficult. However, this information may still prove important to the 
+development of strategies for healthy aging in both sexes.
+
+Copyright © 2012 Elsevier HS Journals, Inc. All rights reserved.
+
+DOI: 10.1016/j.genm.2012.10.001
+PMID: 23164528 [Indexed for MEDLINE]
+
+
+666. Assist Inferm Ric. 2012 Jul-Sep;31(3):158-62. doi: 10.1702/1176.13044.
+
+[Report SVIMEZ: population, education and the labor market and migration].
+
+[Article in Italian]
+
+Cura Della Redazione A.
+
+SVIMEZ REPORT: Population, school, job market, migrations. The Svimez, a private 
+non profit institution, is an association for the development of business and 
+industries in the south of Italy, whose aim is the study of the economy of the 
+South of Italy to propose development programs. The report on the Economy in the 
+South of Italy is the main annual yearly report since 1974. The main indicators 
+and the development of southern economy in several key sectors are presented and 
+discussed, each year focusing on different specific problems. AIR has already 
+proposed contributions on the gap between north and south to reflect on 
+inequalities. The relationship between economy, wellbeing and health has been 
+demonstrated. The section on school, job market and migrations is presented.
+
+DOI: 10.1702/1176.13044
+PMID: 23164970 [Indexed for MEDLINE]
+
+
+667. Am J Intellect Dev Disabil. 2012 Nov;117(6):478-96. doi: 
+10.1352/1944-7558-117.6.478.
+
+Into the unknown: aging with autism spectrum disorders.
+
+Perkins EA(1), Berkman KA.
+
+Author information:
+(1)University of South Florida, Tampa, FL, USA.
+
+Research investigation of older adults with autism spectrum disorders (ASD) 
+noticeably lags behind studies of children and younger adults with ASD. This 
+article reviews the current literature regarding a range of quality of life 
+outcomes of aging adults with ASD. Studies that have addressed life expectancy, 
+comorbid physical and mental health issues, ASD symptomatology, and social, 
+residential, and vocational outcomes are reviewed. Research challenges in 
+identifying older cohorts of adults with ASD are also discussed, and notable 
+areas of concern are highlighted. Overall, aging with ASD does present 
+challenges, but there is also evidence that positive outcomes are attainable. 
+The article concludes with brief recommendations on how to optimize the aging 
+process for individuals with ASD.
+
+DOI: 10.1352/1944-7558-117.6.478
+PMID: 23167487 [Indexed for MEDLINE]
+
+
+668. Am J Intellect Dev Disabil. 2012 Nov;117(6):509-32. doi: 
+10.1352/1944-7558-117.6.509.
+
+Unique and universal barriers: hospice care for aging adults with intellectual 
+disability.
+
+Friedman SL(1), Helm DT, Woodman AC.
+
+Author information:
+(1)University of Colorado, CO, USA. sandra.friedman@childrenscolorado.org
+
+As life expectancy of people with intellectual disability (ID) has increased, 
+there has been a concurrent increase in age-related illnesses and conditions 
+similar to that of the general population. These circumstances result in people 
+with ID dying from typical life-ending conditions, and thus, they require 
+similar end-of-life services such as palliative and hospice care. Although there 
+are notable barriers to hospice for all, people with ID face additional 
+challenges in accessing the benefits of these services. This article presents a 
+review of the literature on these issues, underscoring the multiple challenges 
+and the importance of a more collaborative approach between hospice and 
+palliative care workers with people with ID, their families, and other important 
+stakeholders.
+
+DOI: 10.1352/1944-7558-117.6.509
+PMID: 23167489 [Indexed for MEDLINE]
+
+
+669. J Palliat Med. 2013 Jan;16(1):9-19. doi: 10.1089/jpm.2012.0376. Epub 2012
+Nov  20.
+
+ACR Appropriateness Criteria ® spinal bone metastases.
+
+Expert Panel on Radiation Oncology-Bone Metastases(1); Lo SS, Lutz ST, Chang EL, 
+Galanopoulos N, Howell DD, Kim EY, Konski AA, Pandit-Taskar ND, Rose PS, Ryu S, 
+Silverman LN, Sloan AE, Van Poznak C.
+
+Author information:
+(1)University Hospitals Seidman Cancer Center, Case Western Reserve University, 
+Cleveland, Ohio, USA. Simon.Lo@UHhospitals.org
+
+Abstract The spine is a common site of involvement in patients with bone 
+metastases. Apart from pain, hypercalcemia, and pathologic fracture, progressive 
+tumor can result in neurologic deterioration caused by spinal cord compression 
+or cauda equina involvement. The treatment of spinal bone metastases depends on 
+histology, site of disease, extent of epidural disease, extent of metastases 
+elsewhere, and neurologic status. Treatment recommendations must weigh the 
+risk-benefit profile of external beam radiation therapy (EBRT) for the 
+particular individual's circumstance, including neurologic status, performance 
+status, extent of spinal disease, stability of the spine, extra-spinal disease 
+status, and life expectancy. Patients with spinal instability should be 
+evaluated for surgical intervention. Research studies are needed that evaluate 
+the combination or sequencing of localized therapies with systemic therapies 
+including chemotherapy, hormonal therapy (HT), osteoclast inhibitors (OI), and 
+radiopharmaceuticals. The roles of stereotactic body radiation therapy (SBRT) in 
+the management of spinal oligometastasis, radioresistant spinal metastasis, and 
+previously irradiated but progressive spinal metastasis are emerging, but more 
+research is needed to validate the findings from retrospective studies. The 
+American College of Radiology Appropriateness Criteria are evidence-based 
+guidelines for specific clinical conditions that are reviewed every 2 years by a 
+multidisciplinary expert panel. The guideline development and review include an 
+extensive analysis of current medical literature from peer-reviewed journals and 
+the application of a well-established consensus methodology (modified Delphi) to 
+rate the appropriateness of imaging and treatment procedures by the panel. In 
+those instances where evidence is lacking or not definitive, expert opinion may 
+be used to recommend imaging or treatment.
+
+DOI: 10.1089/jpm.2012.0376
+PMID: 23167547 [Indexed for MEDLINE]
+
+
+670. Mol Ecol. 2013 Jan;22(1):249-59. doi: 10.1111/mec.12110. Epub 2012 Nov 21.
+
+Telomere length and dynamics predict mortality in a wild longitudinal study.
+
+Barrett EL(1), Burke TA, Hammers M, Komdeur J, Richardson DS.
+
+Author information:
+(1)School of Biological Sciences, University of East Anglia, Norwich Research 
+Park, Norwich, Norfolk NR4 7TJ, UK.
+
+Explaining variation in life expectancy between individuals of the same age is 
+fundamental to our understanding of population ecology and life history 
+evolution. Variation in the length and rate of loss of the protective telomere 
+chromosome caps has been linked to cellular lifespan. Yet, the extent to which 
+telomere length and dynamics predict organismal lifespan in nature is still 
+contentious. Using longitudinal samples taken from a closed population of 
+Acrocephalus sechellensis (Seychelles warblers) studied for over 20 years, we 
+describe the first study into life-long adult telomere dynamics (1-17 years) and 
+their relationship to mortality under natural conditions (n = 204 individuals). 
+We show that telomeres shorten with increasing age and body mass, and that 
+shorter telomeres and greater rates of telomere shortening predicted future 
+mortality. Our results provide the first clear and unambiguous evidence of a 
+relationship between telomere length and mortality in the wild, and substantiate 
+the prediction that telomere length and shortening rate can act as an indicator 
+of biological age further to chronological age when exploring life history 
+questions in natural conditions.
+
+© 2012 Blackwell Publishing Ltd.
+
+DOI: 10.1111/mec.12110
+PMID: 23167566 [Indexed for MEDLINE]
+
+
+671. J Environ Manage. 2013 Jan 15;114:216-24. doi:
+10.1016/j.jenvman.2012.10.002.  Epub 2012 Nov 17.
+
+Scenario analysis of the benefit of municipal organic-waste composting over 
+landfill, Cambodia.
+
+Seng B(1), Hirayama K, Katayama-Hirayama K, Ochiai S, Kaneko H.
+
+Author information:
+(1)International Research Center for River Basin Environment, University of 
+Yamanashi, 4-3-11 Takeda, Kofu 400-8510, Japan. seng@yamanashi.ac.jp
+
+This paper presents insight into the benefits of organic waste recycling through 
+composting over landfill, in terms of landfill life extension, compost product, 
+and mitigation of greenhouse gases (GHGs). Future waste generation from 2003 to 
+2020 was forecast, and five scenarios of organic waste recycling in the 
+municipality of Phnom Penh (MPP), Cambodia, were carried out. Organic 
+waste-specifically food and garden waste-was used for composting, and the 
+remaining waste was landfilled. The recycling scenarios were set based on 
+organic waste generated from difference sources: households, restaurants, shops, 
+markets, schools, hotels, offices, and street sweeping. Through the five 
+scenarios, the minimum volume reductions of waste disposal were about 56, 123, 
+and 219 m(3) d(-1) in 2003, 2012, and 2020, respectively, whereas the maximum 
+volume reductions in these years were about 325, 643, and 1025 m(3) d(-1). These 
+volume reductions reflect a landfill life extension of a minimum of half a year 
+and a maximum of about four years. Compost product could be produced at a 
+minimum of 14, 30, and 54 tons d(-1) in 2003, 2012, and 2020, respectively, and 
+at a maximum in those years of about 80, 158, and 252 tons d(-1). At the same 
+time benefit is gained in compost product, GHG emissions could be reduced by a 
+minimum of 12.8% and a maximum of 65.0% from 2003 to 2020. This means about 3.23 
+(minimum) and 5.79 million tons CO(2)eq (maximum) contributed to GHG mitigation. 
+In this regard, it is strongly recommended that MPP should try to initiate an 
+organic-waste recycling strategy in a best fit scenario.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jenvman.2012.10.002
+PMID: 23168253 [Indexed for MEDLINE]
+
+
+672. Heart Fail Clin. 2013 Jan;9(1):93-106. doi: 10.1016/j.hfc.2012.09.005.
+
+The economics of heart failure.
+
+Kazi DS(1), Mark DB.
+
+Author information:
+(1)Division of Cardiology, Department of Medicine, University of California, San 
+Francisco, CA 94110, USA.
+
+DOI: 10.1016/j.hfc.2012.09.005
+PMID: 23168320 [Indexed for MEDLINE]
+
+
+673. J Bronchology Interv Pulmonol. 2009 Jan;16(1):15-7. doi: 
+10.1097/LBR.0b013e318195dd07.
+
+Novel use of a disposable curved stent insertion plastic device for silicone 
+stent placement in patients with limited neck extension.
+
+Hsu LH(1), Liu CC, Nobuyama S, Miyazawa T.
+
+Author information:
+(1)*Division of Pulmonary and Critical Care Medicine †Division of Thoracic 
+Surgery, Koo Foundation Sun Yat-Sen Cancer Center, Taipei, Taiwan ‡Department of 
+Respiratory and Infectious Diseases, St Marianna University School of Medicine, 
+Kawasaki, Kanagawa, Japan.
+
+As granulation tissue formation frequently complicates the insertion of metallic 
+tracheobronchial stents in patients with longer life expectancy, the inert 
+silicone tracheobronchial stent remains the treatment of choice for inoperable 
+benign tracheal stenosis. Similarly, the Y silicone stent insertion also plays 
+an important role for refractory malignant stenoses involving the carina and 
+tracheobronchial junction. The classic insertion method of a straight or Y 
+silicone stent requires rigid bronchoscopy under general anesthesia with a 
+hyperextended neck. This is not an option for patients with limited neck 
+extension. We report a novel method of silicone stent insertion using a 
+disposable curved stent insertion plastic device to solve the problem in 2 
+patients. The new device may have a role in managing patients with central 
+airway obstruction but limited neck extension. As a valuable alternative to 
+conventional rigid bronchoscope, it also adds to the ease of the silicone stent 
+placement.
+
+DOI: 10.1097/LBR.0b013e318195dd07
+PMID: 23168461
+
+
+674. Medicina (Kaunas). 2012;48(9):472-7.
+
+Particulate air pollution and its impact on health in Vilnius and Kaunas.
+
+Orru H(1), Laukaitienė A, Zurlytė I.
+
+Author information:
+(1)Department of Public Health, University of Tartu, Ravila 19, 50411 Tartu, 
+Estonia. Hans.Orru@ut.ee
+
+Particulate matter in outdoor air has a significant impact on health. Small 
+particles, composed of a variety of organic and inorganic compounds, are inhaled 
+deep into the respiratory tract. The mechanisms and outcomes are manifold, 
+resulting mainly in cardiopulmonary diseases. The current study aimed to 
+quantify the health effects of particulate pollutants in Vilnius and Kaunas.
+MATERIAL AND METHODS: For risk estimation, the methodology of health impact 
+assessment was employed. The exposure was defined as annual PM(2.5) levels for 
+long-term exposure effects and daily PM(10) averages for short-term exposure 
+effects. The baseline mortality/morbidity data were retrieved from health 
+registers and exposure-response relationships from previous epidemiological 
+studies. For health impact calculations, the WHO-developed tool AirQ was also 
+applied.
+RESULTS: The annual average concentration of PM(2.5) was 11 µg/m(3) in Vilnius 
+and 17.5 µg/m(3) in Kaunas. The exposure above the natural background 
+corresponded annually to 263 (95% CI, 68-464) and 338 (95% CI, 86-605) premature 
+deaths in Vilnius and Kaunas. This resulted in 3438 (95% CI, 905-5952) and 3693 
+(95% CI, 983-6322) years of life lost and in an average decrease in life 
+expectancy of 0.43 (95% CI, 0.11-0.74) and 0.69 (95% CI, 0.18-1.19) years, 
+respectively. In addition, 143 (95% CI, 86-200) and 129 (95% CI, 78-179) 
+respiratory and 297 (95% CI, 188-377) and 267 (95% CI, 169-338) cardiovascular 
+hospitalizations per year could be expected in Vilnius and Kaunas, respectively.
+CONCLUSIONS: There is substantial exposure to particulate matter in the main 
+Lithuanian cities, which causes considerable adverse health effects. Traffic and 
+domestic heating are considered locally the most important contributing factors 
+to the degradation of air quality.
+
+PMID: 23168922 [Indexed for MEDLINE]
+
+
+675. J Vis Exp. 2012 Nov 7;(69):4216. doi: 10.3791/4216.
+
+A new screening method for the directed evolution of thermostable bacteriolytic 
+enzymes.
+
+Heselpoth RD(1), Nelson DC.
+
+Author information:
+(1)Institute for Bioscience and Biotechnology Research, University of Maryland, 
+MD, USA.
+
+Directed evolution is defined as a method to harness natural selection in order 
+to engineer proteins to acquire particular properties that are not associated 
+with the protein in nature. Literature has provided numerous examples regarding 
+the implementation of directed evolution to successfully alter molecular 
+specificity and catalysis(1). The primary advantage of utilizing directed 
+evolution instead of more rational-based approaches for molecular engineering 
+relates to the volume and diversity of variants that can be screened(2). One 
+possible application of directed evolution involves improving structural 
+stability of bacteriolytic enzymes, such as endolysins. Bacteriophage encode and 
+express endolysins to hydrolyze a critical covalent bond in the peptidoglycan 
+(i.e. cell wall) of bacteria, resulting in host cell lysis and liberation of 
+progeny virions. Notably, these enzymes possess the ability to extrinsically 
+induce lysis to susceptible bacteria in the absence of phage and furthermore 
+have been validated both in vitro and in vivo for their therapeutic 
+potential(3-5). The subject of our directed evolution study involves the PlyC 
+endolysin, which is composed of PlyCA and PlyCB subunits(6). When purified and 
+added extrinsically, the PlyC holoenzyme lyses group A streptococci (GAS) as 
+well as other streptococcal groups in a matter of seconds and furthermore has 
+been validated in vivo against GAS(7). Significantly, monitoring residual enzyme 
+kinetics after elevated temperature incubation provides distinct evidence that 
+PlyC loses lytic activity abruptly at 45 °C, suggesting a short therapeutic 
+shelf life, which may limit additional development of this enzyme. Further 
+studies reveal the lack of thermal stability is only observed for the PlyCA 
+subunit, whereas the PlyCB subunit is stable up to ~90 °C (unpublished 
+observation). In addition to PlyC, there are several examples in literature that 
+describe the thermolabile nature of endolysins. For example, the Staphylococcus 
+aureus endolysin LysK and Streptococcus pneumoniae endolysins Cpl-1 and Pal lose 
+activity spontaneously at 42 °C, 43.5 °C and 50.2 °C, respectively(8-10). 
+According to the Arrhenius equation, which relates the rate of a chemical 
+reaction to the temperature present in the particular system, an increase in 
+thermostability will correlate with an increase in shelf life expectancy(11). 
+Toward this end, directed evolution has been shown to be a useful tool for 
+altering the thermal activity of various molecules in nature, but never has this 
+particular technology been exploited successfully for the study of bacteriolytic 
+enzymes. Likewise, successful accounts of progressing the structural stability 
+of this particular class of antimicrobials altogether are nonexistent. In this 
+video, we employ a novel methodology that uses an error-prone DNA polymerase 
+followed by an optimized screening process using a 96 well microtiter plate 
+format to identify mutations to the PlyCA subunit of the PlyC streptococcal 
+endolysin that correlate to an increase in enzyme kinetic stability (Figure 1). 
+Results after just one round of random mutagenesis suggest the methodology is 
+generating PlyC variants that retain more than twice the residual activity when 
+compared to wild-type (WT) PlyC after elevated temperature treatment.
+
+DOI: 10.3791/4216
+PMCID: PMC3520584
+PMID: 23169108 [Indexed for MEDLINE]
+
+
+676. Eur J Gastroenterol Hepatol. 2013 Mar;25(3):380-4. doi: 
+10.1097/MEG.0b013e32835b7124.
+
+Surgical management of gallbladder disease in the very elderly: are we operating 
+them at the right time?
+
+Lupinacci RM(1), Nadal LR, Rego RE, Dias AR, Marcari RS, Lupinacci RA, Farah JF.
+
+Author information:
+(1)Department of General Surgery, São Paulo Estate Employees Hospital, São 
+Paulo, Brazil. rmlupinacci@gmail.com
+
+Comment in
+    Eur J Gastroenterol Hepatol. 2013 Jun;25(6):749.
+
+BACKGROUND: As life expectancy rises worldwide and the prevalence of gallstones 
+increases with age, the number of very elderly patients requiring treatment for 
+gallstone diseases is increasing. The aim of this study was to compare the 
+results of cholecystectomy in patients 80 years or older according to different 
+clinical presentations.
+METHODS: This is a retrospective study of 81 patients 80 years or older. 
+Indications for surgery were stratified into three groups: outpatients 
+(symptomatic chronic cholecystitis), inpatients (complicated gallstone 
+diseases), and urgent patients (acute cholecystitis). Data analysis included 
+age, sex, the American Society of Anesthesiologists score, indication for 
+surgery, length of hospital stay, morbidity, and mortality.
+RESULTS: The mean age of the patients was 83.9 (range 80-94 years); there were 
+34 (42%) men. Thirty patients were operated on for acute cholecystitis. Patients 
+in the urgency group significantly required the ICU more often, required a 
+longer hospital stay, and had more complications, with 32% mortality. No 
+differences were found between inpatients and outpatients, with both groups 
+presenting low morbidity, no mortality, and the same postoperative length of 
+stay.
+CONCLUSION: More than 80% of the patients were operated on because of 
+complicated gallstone disease. Although the outcomes of patients undergoing 
+semielective cholecystectomy were similar to those of patients treated as 
+outpatients, patients operated with acute cholecystitis presented extremely high 
+morbidity and mortality rates. Thus, we can only recommend that early elective 
+cholecystectomy be performed in elderly patients as soon as they are found to 
+have symptomatic gallstones. Also, further trials are required to elucidate the 
+optimal management of acute cholecystitis in elderly patients.
+
+DOI: 10.1097/MEG.0b013e32835b7124
+PMID: 23169310 [Indexed for MEDLINE]
+
+
+677. AIDS. 2013 Mar 13;27(5):795-801. doi: 10.1097/QAD.0b013e32835c54f9.
+
+The cost-effectiveness of expanded HIV screening in the United States.
+
+Lucas A(1), Armbruster B.
+
+Author information:
+(1)Department of Industrial Engineering and Management Science, Northwestern 
+University, Evanston, IL, USA. aalucas@u.northwestern.edu
+
+OBJECTIVE: The current Centers of Disease Control and Prevention (CDC) 
+guidelines from 2006 recommend a one-time test for low-risk individuals and 
+annual testing for those at high risk. These guidelines may not be aggressive 
+enough, even for those at low risk of infection, due to the earlier initiation 
+of HAART and a movement towards a test-and-treat environment. We evaluated the 
+optimal testing frequencies for various risk groups in comparison to the CDC 
+recommendations.
+METHODS: We build a deterministic mathematical model optimizing the tradeoff 
+between the societal cost of testing and the benefits over a patient's lifetime 
+of earlier diagnosis.
+RESULTS: Under a test-and-treat scenario with immediate initiation of HAART, the 
+optimal testing frequency is every 2.4 years for low-risk (0.01% annual 
+incidence) individuals; every 9 months for moderate risk (0.1% incidence) 
+individuals; and every 3 months for high-risk (1.0% incidence) individuals. The 
+incremental cost-effectiveness of the optimal policy is $ 
+36 ,342/quality-adjusted life-years (QALY) for low-risk individuals and $ 
+45 ,074/QALY for high-risk individuals compared with 20-year and annual testing, 
+respectively.
+CONCLUSION: The current CDC guidelines for HIV testing are too conservative, and 
+more frequent testing is cost-effective for all risk groups.
+
+DOI: 10.1097/QAD.0b013e32835c54f9
+PMID: 23169333 [Indexed for MEDLINE]
+
+
+678. Mediterr J Hematol Infect Dis. 2012;4(1):e2012058. doi:
+10.4084/MJHID.2012.058.  Epub 2012 Oct 3.
+
+Quality of life in patients with thalassemia major and intermedia in kerman-iran 
+(I.R.).
+
+Safizadeh H(1), Farahmandinia Z, Nejad SS, Pourdamghan N, Araste M.
+
+Author information:
+(1)MD. MPH, Neurosciences Research Center, Kerman University of Medical 
+Sciences, Kerman, Iran.
+
+Thalassemia is the most common hemoglobin disorder in the world and thalassemia 
+major and intermedia stand among the most severe forms. Due to recent 
+improvements in treatment, patients with thalassemia have longer life 
+expectancies; hence it is of utmost importance to pay careful attention to their 
+quality of life together with life expectancy. This study was conducted to 
+assess the quality of life in patients with thalassemia and also to compare it 
+between thalassemia major and intermedia. In this cross-sectional study, 
+patients who referred for blood transfusion or follow-up visits were evaluated 
+for their quality of life (QOL). Short Form-36 questionnaire was applied to 
+evaluate QOL. In this study, 308 patients with a mean age of 22.95±4.82 years 
+were evaluated. The scores of QOL were regarded as moderate in eight domains 
+under evaluation; the least score was given to General Health (53.05±16.96) 
+whereas the highest score was given to Physical Functioning (67.95±22.68). The 
+QOL in the patients with thalassemia major was better than those with 
+thalassemia intermedia regarding Physical Functioning and Role Limitation 
+Emotional domains. Compared to injecting chelators, patients who received oral 
+chelators showed to have a better QOL considering Social Functioning and Mental 
+Health domain. The patients under study didn't have a satisfying QOL ; the QOL 
+of patients with thalassemia major was better than that of patients with 
+thalassemia intermedia in only 2 domains of sf-36(Physical Functioning & Role 
+limitation-Emotional). It is then essential that experts pay proper attention to 
+improve QOL among patients.
+
+DOI: 10.4084/MJHID.2012.058
+PMCID: PMC3499998
+PMID: 23170187
+
+
+679. Int J Equity Health. 2012 Nov 21;11:71. doi: 10.1186/1475-9276-11-71.
+
+Social inequalities in life expectancy and mortality during the transition 
+period of economic crisis (1993-2010) in Korea.
+
+Son M(1), Cho Y, Oh J, Kawachi I, Yi J, Kwon S.
+
+Author information:
+(1)Department of Preventive Medicine, Medical College, Kangwon National 
+University, Kangwon, South Korea.
+
+BACKGROUNDS: This study examines social inequalities in life expectancy and 
+mortality during the transition period of the Korean economic crisis (1993-2010) 
+among Korean adults aged 40 and over.
+METHODS: Data from the census and the national death file from the Statistics 
+Korea are employed to calculate life expectancy and age-specific-death-rates 
+(ASDR) by age, gender, and educational attainment for five years: 1993, 1995, 
+2000, 2005, and 2010. Absolute and relative differences in life expectancy and 
+Age-Specific Death Rates by educational attainment were utilized as proxy 
+measures of social inequality.
+RESULTS: Clear educational gradient of life expectancy was observed at age 40 by 
+both sexes and across five time periods (1993, 1995, 2000, 2005, and 2010). The 
+gradient became notably worse in females between 1993 and 2010 compared to the 
+trend in males. The educational gradient was also found for ASDR in all five 
+years, but it was more pronounced in working age groups (40s and 50s) than in 
+elderly groups. The relative disadvantage of ASDR among working age Korean 
+adults, both males and females, became substantially worse over time.
+CONCLUSIONS: Social inequalities in life expectancy and ASDR of the working age 
+group across socioeconomic status over time were closely related to the widening 
+of the social difference created by the macroeconomic crisis and the expansion 
+of neo-liberalism in Korea.
+
+DOI: 10.1186/1475-9276-11-71
+PMCID: PMC3515457
+PMID: 23171369 [Indexed for MEDLINE]
+
+
+680. Rev Med Suisse. 2012 Nov 7;8(361):2107.
+
+[Population aging: the challenges of success].
+
+[Article in French]
+
+Gold G, Büla C.
+
+PMID: 23173344 [Indexed for MEDLINE]
+
+
+681. Rev Med Suisse. 2012 Nov 7;8(361):2109-14.
+
+[Principles for the assessment and management of polymorbid elderly patients: a 
+guide for clinicians].
+
+[Article in French]
+
+Riat F(1), Rochat S, Büla C, Renard D, Monod S.
+
+Author information:
+(1)Service de gériatrie et réadaptation gériatrique, CUTR Sylvana, CHUV, 
+Epalinges. fabienne.riat@chuv.ch
+
+Providing care to multimorbid older patients is complex, not only because of the 
+coexistence of multiple chronic conditions, but also because of their frequent 
+intrication with psychological and social problems. This article describes a 
+guide for clinicians to assess and manage multimorbid older patients. This guide 
+was adapted from the work of a group of expert US geriatricians. It proposes 
+seven steps: identification of the main problem; identification of patients' 
+preferences; setting of goals of care; estimation of life expectancy; 
+identification of relevant evidence in the literature; revision of the plan of 
+care; and discussion of the options with the patient. The use of this guide is 
+illustrated by a clinical case.
+
+PMID: 23173345 [Indexed for MEDLINE]
+
+
+682. Rev Med Suisse. 2012 Nov 7;8(361):2115-8.
+
+[Assessment of life expectancy in older people].
+
+[Article in French]
+
+Vaucher Y(1), Monod S, Büla C, Rochat S.
+
+Author information:
+(1)Service de gériatrie et réadaptation gériatrique, CHUV, CUTR Sylvana, Chemin 
+de Sylvana 10, 1066 Epalinges. Yves.Vaucher@chuv.ch
+
+Evaluation of the remaining life expectancy in elderly persons plays an 
+important role in their care, most importantly when treatments are associated 
+with severe side effects or when they reduce the quality of life. Prognostic 
+scores, incorporating the functional status in addition to age and 
+comorbidities, enable evaluation of the mortality risk during different periods 
+of time. Despite some limitations, these scores are useful in establishing 
+individualized treatment plans.
+
+PMID: 23173346 [Indexed for MEDLINE]
+
+
+683. Ying Yong Sheng Tai Xue Bao. 2012 Jul;23(7):1927-32.
+
+[Effects of temperature on population parameters of Therioaphis trifolii 
+(Monell) (Homoptera: Aphididae)].
+
+[Article in Chinese]
+
+Liu CZ(1), Du JL, Zhang TW, Qian XJ, Chen YW.
+
+Author information:
+(1)Ministry of Education Key Laboratory of Grassland Ecosystem/Gansu Province 
+Key Laboratory of Grassland Engineering, College of Grassland Science, Gansu 
+Agricultural University, Lanzhou 730070, China. liuchzh@gsau.edu.cn
+
+To investigate the effects of temperature on the population growth of 
+Therioaphis trifolii (Monell) (Homoptera: Aphididae), a laboratory experiment 
+was conducted to study the development, reproduction, and life table of the 
+spotted alfalfa aphid at nine constant temperatures ranged from 15 to 35 degrees 
+C. The aphid could not survive at 35 degrees C. The total nymphal period 
+shortened significantly with increasing temperature. From birth to adult stage, 
+it required 18.33 days at 15 degrees C, but only 4.02 days at 32 degrees C. The 
+survivorship of the nymphs ranged from 40.0% (32 degrees C) to 83.6% (25 degrees 
+C). The average longevity of the adults ranged from 10.64 days at 32 degrees C 
+to 20.87 days at 23 degrees C. The reproductive peak was advanced with 
+increasing temperature, and the reproduction duration at all test temperatures 
+was 3-6 days except that at 15 degrees C (15 days). The average fecundity and 
+the highest fecundity were the highest at 25 degrees C, being 82.0 and 149.0 
+offspring per female aphid, respectively. When the temperature increased, the 
+mean generation time was gradually decreased from 31.17 days at 15 degrees C to 
+10.17 days at 32 degrees C. The net reproductive rate was the highest (68.62) at 
+25 degrees C and the lowest (13.96) at 32 degrees C. The intrinsic rate of 
+increase was 0.10-0.30 per day, with the highest at 28 degrees C but the lowest 
+at 15 degrees C. The developmental threshold temperature and thermal constant of 
+the nymphs were 9.35 degrees C and 97.83 day-degrees, respectively. Unary 
+quadratic equation could be used to describe the relationships of the fecundity, 
+net reproductive rate, and intrinsic growth rate with the temperature.
+
+PMID: 23173469 [Indexed for MEDLINE]
+
+
+684. Rev Infirm. 2012 Nov;(185):37-40.
+
+[Nursing practice in Lebanon: specificities and challenges].
+
+[Article in French]
+
+Kazan RS(1).
+
+Author information:
+(1)Département de formation supérieure, Faculté des sciences infirmières, 
+Université Saint-Joseph de Beyrouth, Liban. rima.sassine@usj.edu.lb
+
+The increase in life expectancy as well as the emergence of non-communicable 
+diseases have had an influence on the nursing profession in Lebanon. In this 
+predominantly female profession, the profession is recognized and encouraged to 
+pursue higher education degrees and engage into research. The Order of Nurses in 
+Lebanon contributes to the promotion of the professional autonomy of nursing.
+
+PMID: 23173495 [Indexed for MEDLINE]
+
+
+685. BMC Surg. 2012;12 Suppl 1(Suppl 1):S20. doi: 10.1186/1471-2482-12-S1-S20.
+Epub  2012 Nov 15.
+
+Major postoperative complications and survival for colon cancer elderly 
+patients.
+
+Grosso G(1), Biondi A, Marventano S, Mistretta A, Calabrese G, Basile F.
+
+Author information:
+(1)Department G F Ingrassia Section of Hygiene and Public Health, University of 
+Catania, Via Santa Sofia 82, 95123 Catania, Italy.
+
+BACKGROUND: Increased life expectancy has led to elevating the mean age of the 
+patients at the time of diagnosis of colon cancer and subsequent treatment. 
+Differences in complication rates and outcome between elderly and younger 
+patients have been investigated.
+METHODS: We retrospectively analysed a database containing the information of 
+patients who underwent surgery for stage I-III colorectal cancer from January 
+2004 to January 2012 at our institution and compared demographic, 
+cancer-related, and outcomes data of 235 elderly patients with 211 patients ≤ 65 
+years old.
+RESULTS: Intraoperative complications did not differ between young and old 
+patients whereas some differences have been found in postoperative and late 
+complications: elderly patients suffered more by ileus (P = 0.024), peritonitis 
+or septic shock (P = 0.017), pelvic abscess (P = 0.028), wound infection (P = 
+0.031), and incisional/port herniation (P = 0.012) compared with younger 
+patients. Moreover, elderly patients suffered by systemic complications such as 
+cardiovascular (4.7% vs. 1.4%, P = 0.049), renal (4.7% vs. 0.5%, P = 0.006), and 
+respiratory (10.6% vs. 5.2%, P = 0.036). The multivariate analysis assessing the 
+odds of having a complication revealed that older age (Odd Ratio [OR] 2.75, 95% 
+Confidential Interval [CI]: 1.67-4.52) and open surgery (OR 1.63, 95% CI: 
+1.01-2.62) are significantly and independently associated with having a 
+complication.
+CONCLUSIONS: In our series, elderly patients have presented a slight higher 
+incidence of comorbidities that may affect the incidence rates of postoperative 
+complications. These results have implications in increasing the hospital stay 
+as well as a higher rate of death.
+
+DOI: 10.1186/1471-2482-12-S1-S20
+PMCID: PMC3499273
+PMID: 23173563 [Indexed for MEDLINE]
+
+
+686. Curr Pharm Des. 2013;19(13):2351-65. doi: 10.2174/1381612811319130003.
+
+Effect of aging on metabolic pathways in endothelial progenitor cells.
+
+Felice F(1), Barsotti MC, Poredos P, Balbarini A, Di Stefano R.
+
+Author information:
+(1)Cardiac, Thoracic and Vascular Department, University of Pisa, Via Paradisa 
+2, 56124 Pisa, Italy. francescadi@hotmail.it
+
+Age represents a significant risk factor for the onset and progression of 
+cardiovascular disease, with the increase in life expectancy in developed 
+countries going in parallel with increased incidence of such pathologies. 
+Treatment strategies alternative or additive to pharmacological treatments are 
+needed. The relationship between aging and progenitor cell-mediated repair is of 
+great interest. Endothelial progenitor cells (EPC) mediate repair mechanisms for 
+endothelial regeneration and maintenance, but they are subject to age-associated 
+changes affecting negatively their number and/or function. Aim of this review is 
+to examine the impact of age on EPC-mediated vascular repair, with a focus on 
+the metabolic pathways involved and on the therapeutic targets with potential 
+for attenuating this effect.
+
+DOI: 10.2174/1381612811319130003
+PMID: 23173584 [Indexed for MEDLINE]
+
+
+687. BMC Surg. 2012;12 Suppl 1(Suppl 1):S36. doi: 10.1186/1471-2482-12-S1-S36.
+Epub  2012 Nov 15.
+
+Centenarians and supercentenarians: a black swan. Emerging social, medical and 
+surgical problems.
+
+Vacante M(1), D'Agata V, Motta M, Malaguarnera G, Biondi A, Basile F, 
+Malaguarnera M, Gagliano C, Drago F, Salamone S.
+
+Author information:
+(1)Department of Senescence, Urological and Neurological Sciences, Cannizzaro 
+Hospital Via Messina 829, 95125 University of Catania, Italy.
+
+The Black Swan Theory was described by Nassim Nicholas Taleb in his book "The 
+Black Swan". This theory refers to "high-impact, hard-to-predict, and rare 
+events beyond the realm of normal expectations". According to Taleb's criteria, 
+a Black Swan Event is a surprise, it has a major impact and after the fact, the 

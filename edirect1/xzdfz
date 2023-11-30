@@ -1,0 +1,1000 @@
+
+611. AIDS. 2021 May 1;35(6):957-970. doi: 10.1097/QAD.0000000000002815.
+
+Worldwide relative smoking prevalence among people living with and without HIV.
+
+Johnston PI(1), Wright SW(2), Orr M(3), Pearce FA(2), Stevens JW(3), Hubbard 
+RB(2), Collini PJ(1).
+
+Author information:
+(1)Department of Infection, Immunity and Cardiovascular Disease & Florey 
+Institute, University of Sheffield, Sheffield.
+(2)Division of Epidemiology and Public Health, University of Nottingham, 
+Nottingham.
+(3)Health Economics and Decision Science, ScHARR, University of Sheffield, 
+Sheffield, UK.
+
+OBJECTIVE AND DESIGN: People living with HIV (PLH) suffer disproportionately 
+from the chronic diseases exacerbated by smoking tobacco. We performed a 
+systematic review and meta-analysis to establish the relative prevalence of 
+smoking among PLH.
+METHODS: We included observational studies reporting current smoking rates among 
+PLH and comparators without HIV. We searched Medline, EMBASE, LILACS and SciELO 
+from inception to 31 August 2019. We excluded studies that recruited 
+participants with smoking related illness. We used a random effects model to 
+estimate the odds ratio for current smoking in PLH and people without HIV. We 
+used the Newcastle--Ottawa scale to assess methodological bias. We performed 
+subgroup analysis based on sex and WHO region. We quantified heterogeneity with 
+meta-regression and predictive distributions. PROSPERO 
+registration:CRD42016052608.
+RESULTS: We identified 6116 studies and included 37. Of 111 258 PLH compared 
+with 10 961 217 HIV-negative participants pooled odds of smoking were 1.64 [(95% 
+confidence interval, 95% CI: 1.45-1.85) (95% prediction interval: 0.66-4.10, 
+I2 = 98.1%)]. Odds for men and women living with HIV were 1.68 [(95% CI: 
+1.44-1.95) (95% prediction interval: 0.71-3.98, I2 = 91.1%)] and 2.16 [(95% CI: 
+1.77-2.63) (95% prediction interval: 0.92-5.07, I2 = 81.7%)] respectively.
+CONCLUSION: PLH are more likely to be smokers than people without HIV. This 
+finding was true in subgroup analyses of men, women and in four of five WHO 
+regions from which data were available. Meta-regression did not explain 
+heterogeneity, which we attribute to the diversity of PLH populations worldwide. 
+Smoking is a barrier to PLH achieving parity in life expectancy and an important 
+covariate in studies of HIV-associated multimorbidity.
+
+Copyright © 2021 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/QAD.0000000000002815
+PMID: 33470609 [Indexed for MEDLINE]
+
+
+612. J Palliat Med. 2021 Sep;24(9):1284-1290. doi: 10.1089/jpm.2020.0649. Epub
+2021  Jan 19.
+
+Real-World Cost-Effectiveness of Palliative Care for Terminal Cancer Patients in 
+a Japanese General Hospital.
+
+Hashimoto Y(1)(2), Hayashi A(3), Teng L(1), Igarashi A(1).
+
+Author information:
+(1)Department of Health Economics and Outcomes Research, Graduate School of 
+Pharmaceutical Sciences, The University of Tokyo, Tokyo, Japan.
+(2)Department of Pharmacy and St. Luke's International Hospital, Tokyo, Japan.
+(3)Palliative Care Department, St. Luke's International Hospital, Tokyo, Japan.
+
+Background: The concept of cost-effectiveness is necessary for optimal 
+utilization of limited health care resources. However, few studies have assessed 
+the cost-effectiveness of palliative care using quality-adjusted life years 
+(QALYs), considered common outcomes in health economics. Objective: We aimed to 
+perform a cost-effectiveness analysis of palliative care for terminal cancer 
+patients by using QALYs. Design: A retrospective cohort study was performed. 
+Setting/Patients: We included 401 patients with stage IV cancer, who were 
+hospitalized and died at a Japanese general hospital during the period April 
+2014 to March 2019. Methods: Using the hospital database, we compared the total 
+admission costs and QALYs based on pain levels of patients admitted to the 
+palliative care (PC) department with those of patients admitted to other usual 
+care (UC) departments. Patients in each group were matched through propensity 
+scores to reduce bias. Bootstrapping estimated the 95% confidence intervals (95% 
+CIs) and the probability that PC was more cost-effective than UC. Results: After 
+matching, 128 patients in each group were selected. Converting 1 U.S. dollar 
+(USD) to 100 Japanese yen, PC reduced mean total admission costs by 1732 USD 
+(95% CI: 1584-1879) and improved mean health benefits by 0.0028 QALYs (95% CI: 
+0.0025-0.0032) compared with UC. Based on the Japanese cost-effectiveness 
+threshold, there was an 82% probability that PC was more cost-effective than UC. 
+Conclusions: Our results indicated that admission of terminal cancer patients to 
+the PC department was associated with improvement in cost-effectiveness. This 
+finding could support the introduction of palliative care for terminal cancer 
+patients. Our study was approved at St. Luke's International University (receipt 
+number 18-R061 and at the Graduate School of Pharmaceutical Sciences, The 
+Univesity of Tokyo (receipt number 31-29).
+
+DOI: 10.1089/jpm.2020.0649
+PMID: 33470878 [Indexed for MEDLINE]
+
+
+613. J Gerontol A Biol Sci Med Sci. 2021 Jul 13;76(8):1347-1355. doi: 
+10.1093/gerona/glab018.
+
+Feature Selection Algorithms Enhance the Accuracy of Frailty Indexes as Measures 
+of Biological Age.
+
+Kim S(1), Fuselier J(1), Welsh DA(2), Cherry KE(3), Myers L(4), Jazwinski SM(1).
+
+Author information:
+(1)Tulane Center for Aging and Department of Medicine, Tulane University Health 
+Sciences Center, New Orleans, Louisiana, USA.
+(2)Department of Medicine, Louisiana State University Health Sciences Center, 
+New Orleans, USA.
+(3)Department of Psychology, Louisiana State University, Baton Rouge, USA.
+(4)Department of Biostatistics and Data Science, School of Public Health and 
+Tropical Medicine, Tulane University Health Sciences Center, New Orleans, 
+Louisiana, USA.
+
+Biological age captures some of the variance in life expectancy for which 
+chronological age is not accountable, and it quantifies the heterogeneity in the 
+presentation of the aging phenotype in various individuals. Among the many 
+quantitative measures of biological age, the mathematically uncomplicated 
+frailty/deficit index is simply the proportion of the total health deficits in 
+various health items surveyed in different individuals. We used 3 different 
+statistical methods that are popular in machine learning to select 17-28 health 
+items that together are highly predictive of survival/mortality, from 
+independent study cohorts. From the selected sets, we calculated frailty indexes 
+and Klemera-Doubal's biological age estimates, and then compared their mortality 
+prediction performance using Cox proportional hazards regression models. Our 
+results indicate that the frailty index outperforms age and Klemera-Doubal's 
+biological age estimates, especially among the oldest old who are most prone to 
+biological aging-caused mortality. We also showed that a DNA methylation index, 
+which was generated by applying the frailty/deficit index calculation method to 
+38 CpG sites that were selected using the same machine learning algorithms, can 
+predict mortality even better than the best performing frailty index constructed 
+from health, function, and blood chemistry.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of The 
+Gerontological Society of America. All rights reserved. For permissions, please 
+e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/gerona/glab018
+PMCID: PMC8277082
+PMID: 33471059 [Indexed for MEDLINE]
+
+
+614. Obes Rev. 2021 Mar;22 Suppl 2:e13195. doi: 10.1111/obr.13195. Epub 2021 Jan
+20.
+
+Low-carbohydrate ketogenic diets in body weight control: A recurrent plaguing 
+issue of fad diets?
+
+Schutz Y(1), Montani JP(1), Dulloo AG(1).
+
+Author information:
+(1)Department of Endocrinology, Metabolism and Cardiovascular System, Faculty of 
+Science and Medicine, University of Fribourg, Fribourg, Switzerland.
+
+Comment in
+    Obes Rev. 2021 Jul;22(7):e13232.
+    Obes Rev. 2021 Jul;22(7):e13281.
+
+The most appropriate type of diets to maintain or lose body weight over the 
+medium to long term has been a matter of controversy and debates for more than 
+half a century. Both voluntarily and coercive food restriction, resulting in 
+negative energy and macronutrient balance and hence weight loss, have not been 
+designed to be maintained for the long term. By contrast, when a classical and 
+traditional type of alimentation is consumed in ad lib conditions (e.g., the 
+Mediterranean "diet"), it generally provides an appropriate nutritional density 
+of essential macronutrients and micronutrients; it is hence appropriate for 
+long-term use, and it provides several benefits for health if the compliance of 
+the individuals is maintained over time. In this short review, we focus on four 
+specific aspects: first, the need to agree on a clear definition of what is 
+"low" versus "high" in terms of total carbohydrate intake and total fat intakes, 
+both generally inversely related, in a representative individual with a certain 
+lifestyle and a certain body morphology; second, the importance of discussing 
+the duration over which it could be prescribed, that is, acute versus chronic 
+conditions, focusing on the comparison between the fashion and often ephemeral 
+low-carbohydrate diet (acute) with the well-recognized traditional Mediterranean 
+type of alimentation (chronic), which includes lifestyle changes; third, the 
+particular metabolic characteristics induced by the low-carbohydrate (high fat) 
+diet, namely, the scramble up of ketone bodies production. The recent debate on 
+ketogenic diets concern whether or not, in iso-energetic conditions, 
+low-carbohydrate diets would significantly enhance energy expenditure. This is 
+an issue that is more "academic" than practical, on the ground that the putative 
+difference of 100-150 kcal/day or so (in the recent studies) is not negligible 
+but within the inherent error of the methodology used to track total energy 
+expenditure in free living conditions by the doubly labeled water technique. 
+Fourth, the potential medical risks and shortcomings of ingesting (over the long 
+term) low-carbohydrate ketogenic diets could exacerbate underlying renal 
+dysfunction, consecutive to the joint combination of high-fat, high-protein 
+diets, particularly in individuals with obesity. This particular diet promotes 
+metabolic acidosis and renal hyperfiltration, which ultimately may contribute to 
+a significant reduction in life expectancy in middle-age people.
+
+© 2021 World Obesity Federation.
+
+DOI: 10.1111/obr.13195
+PMID: 33471427 [Indexed for MEDLINE]
+
+
+615. Food Chem. 2021 Jun 15;347:129006. doi: 10.1016/j.foodchem.2021.129006. Epub
+ 2021 Jan 7.
+
+Effect of whey protein isolate/chitosan/microcrystalline cellulose/PET 
+multilayer bottles on the shelf life of rosebud beverages.
+
+Wang ZC(1), Qin CQ(1), Zhang X(1), Wang Q(1), Li RX(1), Ren DF(2).
+
+Author information:
+(1)Beijing Key Laboratory of Forest Food Processing and Safety, College of 
+Biological Sciences and Biotechnology, Beijing Forestry University, 100083 
+Beijing, People's Republic of China.
+(2)Beijing Key Laboratory of Forest Food Processing and Safety, College of 
+Biological Sciences and Biotechnology, Beijing Forestry University, 100083 
+Beijing, People's Republic of China. Electronic address: rendifeng@bjfu.edu.cn.
+
+Multilayer bottles consisting of chitosan (CS), microcrystalline cellulose 
+(MCC), whey protein isolate (WPI), and polyethylene terephthalate (PET) were 
+tested as novel materials for packaging and extending shelf life of rosebud 
+beverages. We studied the storage stability at 4 °C, 25 °C, 37 °C, and 55 °C by 
+assessing the physical and biochemical parameters. The results show that 
+multilayer PET bottles had better barrier performance and improved soluble 
+solids content, pH, polyphenol content, color indices, and browning degree in 
+rosebud beverages over the control at all studied temperatures. A shelf life 
+model was established based on the Arrhenius equation, and the number of days 
+when polyphenol contents dropped to <50% of the initial content was defined as 
+the shelf life. Our results highlight the reliability of the prediction model, 
+and we conclude that packaging rosebud beverages in multilayer PET bottles 
+significantly extends the product shelf life, and this benefit was further 
+extended at low temperatures.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.foodchem.2021.129006
+PMID: 33472117 [Indexed for MEDLINE]
+
+
+616. Australas Psychiatry. 2021 Aug;29(4):434-438. doi: 10.1177/1039856220978864.
+ Epub 2021 Jan 20.
+
+The Mind-Body Well-being Initiative: a better lifestyle for people with severe 
+mental illness.
+
+Lalley NA(1), Manger SH(1), Jacka F(2), Rocks T(2), Ruusunen A(2)(3)(4), Barron 
+L(1).
+
+Author information:
+(1)Continuing Care Unit (CCU), Mental Health and Addiction Services (MHAS) 
+Sunshine Coast Hospital Health Service (SCHHS), Mountain Creek, QLD, Australia.
+(2)IMPACT (Institute for Mental and Physical Health and Clinical Translation), 
+Food & Mood, Deakin University, Geelong, VIC, Australia.
+(3)Institute of Public Health and Clinical Nutrition, University of Eastern 
+Finland, Kuopio, Finland.
+(4)Department of Psychiatry, Kuopio University Hospital, Kuopio, Finland.
+
+OBJECTIVE: This article aims to describe 'The Mind-Body Well-being Initiative', 
+a residential mental health treatment model based on the Lifestyle Medicine 
+paradigm, which comprises a mind and body well-being programme. In people with 
+severe mental illness (SMI), particularly for those experiencing psychotic 
+illness, the physical health and mortality gap is significant with greater 
+presence of chronic disease and a 15-20-year life expectancy gap.
+CONCLUSIONS: Our AIM Self-Capacity model of care attempts to address the 
+physical and mental health care needs for the promotion of our patients' 
+recovery.
+
+DOI: 10.1177/1039856220978864
+PMID: 33472384 [Indexed for MEDLINE]
+
+
+617. Expert Rev Pharmacoecon Outcomes Res. 2021 Apr;21(2):183-195. doi: 
+10.1080/14737167.2021.1880321. Epub 2021 Feb 2.
+
+Incorporating patients' preferences in the value assessment of disease-modifying 
+therapies for multiple sclerosis: a narrative review.
+
+Ngorsuraches S(1), Poudel N(1).
+
+Author information:
+(1)Department of Health Outcomes Research and Policy, Auburn University, 
+Harrison School of Pharmacy, Auburn, AL, USA.
+
+Introduction: Despite the increasing role of patients in the US healthcare 
+system, patients have yet been engaged in the value assessment of their 
+treatments, including disease-modifying therapies (DMTs) for multiple sclerosis 
+(MS). The objectives of this review were therefore to summarize existing studies 
+on cost-effectiveness analysis (CEA) with quality-adjusted life years (QALYs) 
+and patients' preferences of DMTs for MS, and to discuss how to incorporate 
+patients' preferences into the value assessment of DMTs.Area covered: We 
+reviewed previous systematic reviews and conducted further search until November 
+2020 for studies on CEA with QALYs and patients' preferences of DMTs for MS. We 
+identified the outcomes that were assessed or valued in the CEA studies and the 
+DMT attributes that were important to patients with MS.Expert opinion: Our 
+literature review showed that the studies using CEA with QALYs failed to capture 
+some important DMT attributes, e.g., route and frequency of administration, 
+identified in the studies on the patients' preferences. Various approaches were 
+available for incorporating the patients' preferences in the value assessment of 
+DMTs for MS. We supported this incorporation, which subsequently would increase 
+patient access to preferred DMTs.
+
+DOI: 10.1080/14737167.2021.1880321
+PMID: 33472451 [Indexed for MEDLINE]
+
+
+618. Aging Cell. 2021 Feb;20(2):e13297. doi: 10.1111/acel.13297. Epub 2021 Jan
+20.
+
+Preserving transcriptional stress responses as an anti-aging strategy.
+
+Cheng Y(1), Pitoniak A(1), Wang J(2), Bohmann D(1).
+
+Author information:
+(1)Department of Biomedical Genetics, University of Rochester Medical Center, 
+Rochester, New York, USA.
+(2)Medical Scientist Training Program, Baylor College of Medicine, Houston, 
+Texas, USA.
+
+The progressively increasing frailty, morbidity and mortality of aging organisms 
+coincides with, and may be causally related to, their waning ability to adapt to 
+environmental perturbations. Transcriptional responses to challenges, such as 
+oxidative stress or pathogens, diminish with age. This effect is manifest in the 
+declining function of the stress responsive transcription factor Nrf2. 
+Protective gene expression programs that are controlled by the Drosophila Nrf2 
+homolog, CncC, support homeostasis and longevity. Age-associated chromatin 
+changes make these genes inaccessible to CncC binding and render them inert to 
+signal-dependent transcriptional activation in old animals. In a previous paper, 
+we have reported that overexpression of the CncC dimerization partner Maf-S 
+counteracts this degenerative effect and preserves organism fitness. Building on 
+this work, we show here that Maf-S overexpression prevents loss of chromatin 
+accessibility and maintains gene responsiveness. Moreover, the same outcome, 
+along with an extension of lifespan, can be achieved by inducing CncC target 
+gene expression pharmacologically throughout adult life. Thus, pharmacological 
+or dietary interventions that can preserve stress responsive gene expression may 
+be feasible anti-aging strategies.
+
+© 2021 The Authors. Aging Cell published by the Anatomical Society and John 
+Wiley & Sons Ltd.
+
+DOI: 10.1111/acel.13297
+PMCID: PMC7884037
+PMID: 33474790 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+619. J Int AIDS Soc. 2021 Jan;24(1):e25651. doi: 10.1002/jia2.25651.
+
+Optimizing infant HIV diagnosis with additional screening at immunization 
+clinics in three sub-Saharan African settings: a cost-effectiveness analysis.
+
+Dunning L(1), Gandhi AR(1), Penazzato M(2), Soeteman DI(1)(3), Revill P(4), 
+Frank S(1), Phillips A(5), Dugdale C(1)(6)(7), Abrams E(8), Weinstein MC(3), 
+Newell ML(9)(10), Collins IJ(11), Doherty M(2), Vojnov L(2), Fassinou Ekouévi 
+P(12), Myer L(13), Mushavi A(14), Freedberg KA(1)(6)(7), Ciaranello AL(1)(6)(7).
+
+Author information:
+(1)Medical Practice Evaluation Center, Massachusetts General Hospital, Boston, 
+MA, USA.
+(2)Global HIV, Hepatitis, and STIs Programme, World Health Organization, Geneva, 
+Switzerland.
+(3)Center for Health Decision Science, Harvard T.H. Chan School of Public 
+Health, Boston, MA, USA.
+(4)Center for Health Economics, University of York, York, United Kingdom.
+(5)Institute for Global Health, University College London, London, United 
+Kingdom.
+(6)Division of Infectious Diseases, Massachusetts General Hospital, Boston, MA, 
+USA.
+(7)Harvard Medical School, Boston, MA, USA.
+(8)Mailman School of Public Health, ICAP at Columbia University, New York City, 
+NY, USA.
+(9)Institute for Development Studies, Human Development and Health, Faculty of 
+Medicine, University of Southampton, Southampton, United Kingdom.
+(10)School of Public Health, Faculty of Health Sciences, University of 
+Witwatersrand, Johannesburg, South Africa.
+(11)Medical Research Council Clinical Trials Unit, University College London, 
+London, United Kingdom.
+(12)Elizabeth Glaser Pediatric AIDS Foundation, Abidjan, Côte d'Ivoire.
+(13)Division of Epidemiology & Biostatistics, School of Public Health & Family 
+Medicine, University of Cape Town, Cape Town, South Africa.
+(14)Ministry of Health and Child Care, Harare, Zimbabwe.
+
+INTRODUCTION: Uptake of early infant HIV diagnosis (EID) varies widely across 
+sub-Saharan African settings. We evaluated the potential clinical impact and 
+cost-effectiveness of universal maternal HIV screening at infant immunization 
+visits, with referral to EID and maternal antiretroviral therapy (ART) 
+initiation.
+METHODS: Using the CEPAC-Pediatric model, we compared two strategies for infants 
+born in 2017 in Côte d'Ivoire (CI), South Africa (SA), and Zimbabwe: (1) 
+existing EID programmes offering six-week nucleic acid testing (NAT) for infants 
+with known HIV exposure (EID), and (2) EID plus universal maternal HIV screening 
+at six-week infant immunization visits, leading to referral for infant NAT and 
+maternal ART initiation (screen-and-test). Model inputs included published 
+Ivoirian/South African/Zimbabwean data: maternal HIV prevalence 
+(4.8/30.8/16.1%), current uptake of EID (40/95/65%) and six-week immunization 
+attendance (99/74/94%). Referral rates for infant NAT and maternal ART 
+initiation after screen-and-test were 80%. Costs included NAT ($24/infant), 
+maternal screening ($10/mother-infant pair), ART ($5 to 31/month) and HIV care 
+($15 to 190/month). Model outcomes included mother-to-child transmission of HIV 
+(MTCT) among HIV-exposed infants, and life expectancy (LE) and mean lifetime 
+per-person costs for children with HIV (CWH) and all children born in 2017. We 
+calculated incremental cost-effectiveness ratios (ICERs) using discounted 
+(3%/year) lifetime costs and LE for all children. We considered two 
+cost-effectiveness thresholds in each country: (1) the per-capita GDP 
+($1720/6380/2150) per year-of-life saved (YLS), and (2) the CEPAC-generated ICER 
+of offering 2 versus 1 lifetime ART regimens (e.g. offering second-line ART; 
+$520/500/580/YLS).
+RESULTS: With EID, projected six-week MTCT was 9.3% (CI), 4.2% (SA) and 5.2% 
+(Zimbabwe). Screen-and-test decreased total MTCT by 0.2% to 0.5%, improved LE by 
+2.0 to 3.5 years for CWH and 0.03 to 0.07 years for all children, and increased 
+discounted costs by $17 to 22/child (all children). The ICER of screen-and-test 
+compared to EID was $1340/YLS (CI), $650/YLS (SA) and $670/YLS (Zimbabwe), below 
+the per-capita GDP but above the ICER of 2 versus 1 lifetime ART regimens in all 
+countries.
+CONCLUSIONS: Universal maternal HIV screening at immunization visits with 
+referral to EID and maternal ART initiation may reduce MTCT, improve paediatric 
+LE, and be of comparable value to current HIV-related interventions in high 
+maternal HIV prevalence settings like SA and Zimbabwe.
+
+© 2021 The Authors. Journal of the International AIDS Society published by John 
+Wiley & Sons Ltd on behalf of the International AIDS Society.
+
+DOI: 10.1002/jia2.25651
+PMCID: PMC8992471
+PMID: 33474817 [Indexed for MEDLINE]
+
+
+620. Expert Rev Pharmacoecon Outcomes Res. 2022 Apr;22(3):473-479. doi: 
+10.1080/14737167.2021.1880325. Epub 2021 Feb 9.
+
+Economic evaluation of adalimumab versus etanercept for psoriatic arthritis in a 
+Brazilian real-world model.
+
+da Silva MRR(1)(2), Dos Santos JBR(1)(2), Almeida AM(2)(3), Alvares-Teodoro 
+J(2), Acurcio FA(2)(4).
+
+Author information:
+(1)Health Assessment, Technology, and Economy Group; Center for Exact, Natural 
+and Health Sciences, Federal University of Espírito Santo, Alegre, Espírito 
+Santo, Brazil.
+(2)College of Pharmacy, Federal University of Minas Gerais, Belo Horizonte, 
+Minas Gerais, Brazil.
+(3)Faculty of Medical Sciences of Minas Gerais, Medical Sciences Research and 
+Graduate Institute, Minas Gerais, Brasil.
+(4)Department of Social and Preventive Medicine, School of Medicine, Federal 
+University of Minas Gerais, Belo Horizonte, Minas Gerais, Brazil.
+
+BACKGROUND: TNF inhibitors are costly drugs supplied generally on health systems 
+or private insurances. Performance analysis is essential to verify the results 
+achieved by health technologies in these systems. The objective of the study was 
+to compare the two most used biological drugs for the treatment of psoriatic 
+arthritis (PsA) in Brazil.
+METHODS: A cost-utility analysis was built using a Markov model, with a 
+five-year time horizon, a discount rate of 5%, and from the perspective of the 
+Unified Health System. Deterministic and probabilistic sensitivity analyses were 
+performed.
+RESULTS: Etanercept was the most cost-effective drug. Adalimumab became the most 
+cost-effective drug in one of the four analysis scenarios with a willingness to 
+pay from one gross domestic product per capita. The deterministic sensitivity 
+analysis identified that the cost parameters had the greatest impact on the most 
+effective drug. The probabilistic sensitivity analysis indicated that etanercept 
+is the drug most likely to be cost-effective.
+CONCLUSION: The difference between the drugs in terms of utility was minimal and 
+the costs were the main factor that impacted the cost-utility ratio, which 
+points to the benefits of price renegotiation for the efficient allocation of 
+resources in the health system.
+
+DOI: 10.1080/14737167.2021.1880325
+PMID: 33474995 [Indexed for MEDLINE]
+
+
+621. Expert Rev Pharmacoecon Outcomes Res. 2021 Oct;21(5):1107-1115. doi: 
+10.1080/14737167.2021.1879645. Epub 2021 Feb 20.
+
+An early health technology assessment of 3D anatomic models in pediatric 
+congenital heart surgery: potential cost-effectiveness and decision uncertainty.
+
+Tack P(1), Willems R(2), Annemans L(2).
+
+Author information:
+(1)Department of Innovation, Entrepreneurship and Service Management, Ghent 
+University, Ghent, Belgium.
+(2)Department of Public Health, Ghent University, Ghent, Belgium.
+
+Background: Three-dimensional anatomic models have been used for surgical 
+planning and simulation in pediatric congenital heart surgery. This research is 
+the first to evaluate the potential cost-effectiveness of 3D anatomic models 
+with the intent to guide surgeons and decision makers on its use.Method: A 
+decision tree and subsequent Markov model with a 15-year time horizon was 
+constructed and analyzed for nine cardiovascular surgeries. Epidemiological, 
+clinical, and economic data were derived from databases. Literature and experts 
+were consulted to close data gaps. Scenario, one-way, threshold, and 
+probabilistic sensitivity analysis captured methodological and parameter 
+uncertainty.Results: Incremental costs of using anatomical models ranged from 
+-366€ (95% credibility interval: -2595€; 1049€) in the Norwood operation to 
+1485€ (95% CI: 1206€; 1792€) in atrial septal defect repair. Incremental 
+health-benefits ranged from negligible in atrial septal defect repair to 0.54 
+Quality Adjusted Life Years (95% CI: 0.06; 1.43) in truncus arteriosus repair. 
+Variability in the results was mainly caused by a temporary postoperative 
+quality-adjusted life years gain.Conclusion: For complex operations, the 
+implementation of anatomic models is likely to be cost-effective on a 15 year 
+time horizon. For the right indication, these models thus provide a clinical 
+advantage at an acceptable cost.
+
+DOI: 10.1080/14737167.2021.1879645
+PMID: 33475446 [Indexed for MEDLINE]
+
+
+622. Dermatol Ther. 2021 Mar;34(2):e14787. doi: 10.1111/dth.14787. Epub 2021 Feb
+9.
+
+A multicenter, randomized, double-blind comparison of two hyaluronic acid 
+fillers in mid-face volume restoration in Asians: A 2-year extension study.
+
+Jung JM(1), Lee WS(2), Yoon J(1), Paik SH(1), Han HS(3), Lee WJ(1), Chang SE(1), 
+Won CH(1), Kim BJ(3).
+
+Author information:
+(1)Department of Dermatology, Asan Medical Center, University of Ulsan College 
+of Medicine, Seoul, South Korea.
+(2)Medytox Inc., Seoul, South Korea.
+(3)Department of Dermatology, Chung-Ang University College of Medicine, Seoul, 
+South Korea.
+
+The long-term effectiveness and safety of hyaluronic acid fillers in mid-face 
+volume restoration in Asians remain unclear. The objective of this study was to 
+compare the long-term effectiveness and safety of Neuramis Volume Lidocaine 
+(SHAPE-NVL) and Juvederm Voluma with Lidocaine (VYC-20L) in mid-face volume 
+restoration in Asians. Overall, 88 Korean subjects with moderate-to-severe 
+age-related mid-face volume deficit on the Mid-Face Volume Deficit Scale (MFVDS) 
+received SHAPE-NVL on one side and VYC-20L on the contralateral side of the 
+face. Of the 81 subjects who completed the 48-week primary study, 69 subjects 
+were enrolled in an extension study lasting 104  weeks. MFVDS score and global 
+aesthetic improvement were assessed at each visit. Response was defined as a 
+≥1-point reduction in MFVDS. At weeks 36 and 48, the responder rates for 
+SHAPE-NVL were 81.93% and 80.72%, while those for VYC-20L were 85.54% and 
+81.92%, respectively. At the 104-week visit, the responder rates were 73.91% and 
+72.46% for SHAPE-NVL and VYC-20L, respectively. No subjects experienced any 
+serious adverse events during the trial. SHAPE-NVL and VYC-20L showed comparable 
+longevity and safety in mid-face volume restoration over 2  years in Asians. 
+Both had durable effects for up to 2  years with minimal safety concerns.
+
+© 2021 Wiley Periodicals LLC.
+
+DOI: 10.1111/dth.14787
+PMID: 33476068 [Indexed for MEDLINE]
+
+
+623. Lancet Oncol. 2021 Feb;22(2):256-266. doi: 10.1016/S1470-2045(20)30599-4.
+Epub  2021 Jan 18.
+
+Cytoreductive surgery plus hyperthermic intraperitoneal chemotherapy versus 
+cytoreductive surgery alone for colorectal peritoneal metastases (PRODIGE 7): a 
+multicentre, randomised, open-label, phase 3 trial.
+
+Quénet F(1), Elias D(2), Roca L(3), Goéré D(2), Ghouti L(4), Pocard M(5), Facy 
+O(6), Arvieux C(7), Lorimier G(8), Pezet D(9), Marchal F(10), Loi V(11), Meeus 
+P(12), Juzyna B(13), de Forges H(14), Paineau J(15), Glehen O(16); UNICANCER-GI 
+Group and BIG Renape Group.
+
+Collaborators: Mariani P, Brigand C, Bereder JM, Msika S, Portier G, Rat P.
+
+Author information:
+(1)Department of Surgical Oncology, Institut du Cancer de Montpellier, 
+University of Montpellier, Montpellier, France. Electronic address: 
+francois.quenet@icm.unicancer.fr.
+(2)Department of Surgery, Gustave Roussy, Villejuif, France.
+(3)Biometrics Unit, Institut du Cancer de Montpellier, University of 
+Montpellier, Montpellier, France.
+(4)Department of Surgery, Centre Hospitalier Purpan, Toulouse, France.
+(5)Surgical Oncological and Digestive Unit, Paris University, U1275 CAP 
+Paris-Tech, Paris, France.
+(6)Department of Digestive Surgery and Oncology, Centre Hospitalier 
+Universitaire du Bocage, Dijon, France.
+(7)Department of Oncological Surgery, Centre Hospitalier Universitaire Grenoble, 
+La Tronche, France.
+(8)Department of Surgery, Centre Paul Papin, Angers, France.
+(9)Department of Digestive and Hepatobiliary Surgery, Hôtel Dieu, 
+Clermont-Ferrand, France.
+(10)Department of Oncological Surgery, Institut de Cancérologie de Lorraine, 
+Vandoeuvre-Lès-Nancy, France.
+(11)Department of Digestive and Visceral Surgery, Hôpital Tenon, Paris, France.
+(12)Department of Oncological Surgery, Centre Léon Bérard, Lyon, France.
+(13)Department of Research & Development, Unicancer, Paris, France.
+(14)Department of Clinical Research and Innovation, Institut du Cancer de 
+Montpellier, University of Montpellier, Montpellier, France.
+(15)Department of Surgery, Institut de Cancérologie de l'Ouest, Saint Herblain, 
+France.
+(16)Department of Digestive Surgery, Centre Hospitalier Lyon Sud, Pierre Bénite, 
+France.
+
+Comment in
+    Lancet Oncol. 2021 Feb;22(2):162-164.
+    Lancet Oncol. 2021 May;22(5):e174.
+    Lancet Oncol. 2021 May;22(5):e175.
+    Lancet Oncol. 2021 May;22(5):e176.
+    Lancet Oncol. 2021 May;22(5):e177.
+    Lancet Oncol. 2021 May;22(5):e178.
+    Lancet Oncol. 2021 May;22(5):e179-e180.
+    J Surg Oncol. 2022 Jun;125(8):1200-1201.
+
+BACKGROUND: The addition of hyperthermic intraperitoneal chemotherapy (HIPEC) to 
+cytoreductive surgery has been associated with encouraging survival results in 
+some patients with colorectal peritoneal metastases who were eligible for 
+complete macroscopic resection. We aimed to assess the specific benefit of 
+adding HIPEC to cytoreductive surgery compared with receiving cytoreductive 
+surgery alone.
+METHODS: We did a randomised, open-label, phase 3 trial at 17 cancer centres in 
+France. Eligible patients were aged 18-70 years and had histologically proven 
+colorectal cancer with peritoneal metastases, WHO performance status of 0 or 1, 
+a Peritoneal Cancer Index of 25 or less, and were eligible to receive systemic 
+chemotherapy for 6 months (ie, they had adequate organ function and life 
+expectancy of at least 12 weeks). Patients in whom complete macroscopic 
+resection or surgical resection with less than 1 mm residual tumour tissue was 
+completed were randomly assigned (1:1) to cytoreductive surgery with or without 
+oxaliplatin-based HIPEC. Randomisation was done centrally using minimisation, 
+and stratified by centre, completeness of cytoreduction, number of previous 
+systemic chemotherapy lines, and timing of protocol-mandated systemic 
+chemotherapy. Oxaliplatin HIPEC was administered by the closed (360 mg/m2) or 
+open (460 mg/m2) abdomen techniques, and systemic chemotherapy (400 mg/m2 
+fluorouracil and 20 mg/m2 folinic acid) was delivered intravenously 20 min 
+before HIPEC. All individuals received systemic chemotherapy (of investigators' 
+choosing) with or without targeted therapy before or after surgery, or both. The 
+primary endpoint was overall survival, which was analysed in the 
+intention-to-treat population. Safety was assessed in all patients who received 
+surgery. This trial is registed with ClinicalTrials.gov, NCT00769405, and is now 
+completed.
+FINDINGS: Between Feb 11, 2008, and Jan 6, 2014, 265 patients were included and 
+randomly assigned, 133 to the cytoreductive surgery plus HIPEC group and 132 to 
+the cytoreductive surgery alone group. After median follow-up of 63·8 months 
+(IQR 53·0-77·1), median overall survival was 41·7 months (95% CI 36·2-53·8) in 
+the cytoreductive surgery plus HIPEC group and 41·2 months (35·1-49·7) in the 
+cytoreductive surgery group (hazard ratio 1·00 [95·37% CI 0·63-1·58]; stratified 
+log-rank p=0·99). At 30 days, two (2%) treatment-related deaths had occurred in 
+each group.. Grade 3 or worse adverse events at 30 days were similar in 
+frequency between groups (56 [42%] of 133 patients in the cytoreductive surgery 
+plus HIPEC group vs 42 [32%] of 132 patients in the cytoreductive surgery group; 
+p=0·083); however, at 60 days, grade 3 or worse adverse events were more common 
+in the cytoreductive surgery plus HIPEC group (34 [26%] of 131 vs 20 [15%] of 
+130; p=0·035).
+INTERPRETATION: Considering the absence of an overall survival benefit after 
+adding HIPEC to cytoreductive surgery and more frequent postoperative late 
+complications with this combination, our data suggest that cytoreductive surgery 
+alone should be the cornerstone of therapeutic strategies with curative intent 
+for colorectal peritoneal metastases.
+FUNDING: Institut National du Cancer, Programme Hospitalier de Recherche 
+Clinique du Cancer, Ligue Contre le Cancer.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(20)30599-4
+PMID: 33476595 [Indexed for MEDLINE]
+
+
+624. Life Sci. 2021 Mar 15;269:119091. doi: 10.1016/j.lfs.2021.119091. Epub 2021
+Jan  18.
+
+Estrogens as regulator of hematopoietic stem cell, immune cells and bone 
+biology.
+
+Kumar RS(1), Goyal N(2).
+
+Author information:
+(1)CSIR-Central Drug Research Institute, Sector-10, Jankipuram Extension, 
+Sitapur Road, Lucknow 226031, Uttar Pradesh, India. Electronic address: 
+rupalisani@gmail.com.
+(2)CSIR-Central Drug Research Institute, Sector-10, Jankipuram Extension, 
+Sitapur Road, Lucknow 226031, Uttar Pradesh, India.
+
+Hematopoietic stem cells provide continuous supply of all the immune cells, 
+through proliferation and differentiation decisions. These decisions are 
+controlled by local bone marrow environment as well as by long-range signals for 
+example endocrine system. Sex dependent differential immunological responses 
+have been described under homeostasis and disease conditions. Females show 
+higher longevity than male counterpart that seems to depend on major female sex 
+hormone, estrogen. There are four estrogens - Estrone (E1), estradiol (E2), 
+Estriol (E3) and Estetrol (E4) that spatially and temporarily present during 
+different female reproductive phases. In this review, we discussed recent 
+updates describing the effects of estrogen on HSC, immune cells and in bone 
+biology. Estradiol (E2) being a major/abundant estrogen is extensively 
+investigated, while effects of other estrogens E1, E3 and E4 are started to 
+unravel recently. Furthermore, clinical effect of estrogen as hormone therapy is 
+discussed in HSC and immune cells perspectives. The data presented in this 
+review is compiled by searches of PubMed, database of American Cancer Society 
+(ACS). We have included article from September 1994 to March 2020 as covering 
+all article in chronological order is not fissile so we included relevant 
+article with substantial information in this specific area of research by using 
+the search term (alone or in combination) estrogen, hematopoietic stem cell, 
+immune cells, gender difference, estrone, estriol, estetrol, therapeutic 
+application, pregnancy, effect on bone.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.lfs.2021.119091
+PMID: 33476629 [Indexed for MEDLINE]
+
+
+625. Mitochondrion. 2021 Mar;57:270-293. doi: 10.1016/j.mito.2021.01.001. Epub
+2021  Jan 19.
+
+Mitophagy impairment in neurodegenerative diseases: Pathogenesis and therapeutic 
+interventions.
+
+Mani S(1), Swargiary G(2), Chadha R(3).
+
+Author information:
+(1)Department of Biotechnology, Centre for Emerging Disease, Jaypee Institute of 
+Information Technology, Noida, India. Electronic address: 
+Shalini.mani@jiit.ac.in.
+(2)Department of Biotechnology, Centre for Emerging Disease, Jaypee Institute of 
+Information Technology, Noida, India.
+(3)Department of Psychiatry and Behavioral Neurobiology, University of Alabama 
+at Birmingham, USA.
+
+Neurons are specialized cells, requiring a lot of energy for its proper 
+functioning. Mitochondria are the key cellular organelles and produce most of 
+the energy in the form of ATP, required for all the crucial functions of 
+neurons. Hence, the regulation of mitochondrial biogenesis and quality control 
+is important for maintaining neuronal health. As a part of mitochondrial quality 
+control, the aged and damaged mitochondria are removed through a selective mode 
+of autophagy called mitophagy. However, in different pathological conditions, 
+this process is impaired in neuronal cells and lead to a variety of 
+neurodegenerative disease (NDD). Various studies indicate that specific protein 
+aggregates, the characteristics of different NDDs, affect this process of 
+mitophagy, adding to the severity and progression of diseases. Though, the 
+detailed process of this association is yet to be explored. In light of the 
+significant role of impaired mitophagy in NDDs, further studies have also 
+investigated a large number of therapeutic strategies to target mitophagy in 
+these diseases. Our current review summarizes the abnormalities in different 
+mitophagy pathways and their association with different NDDs. We have also 
+elaborated upon various novel therapeutic strategies and their limitations to 
+enhance mitophagy in NDDs that may help in the management of symptoms and 
+increasing the life expectancy of NDD patients. Thus, our study provides an 
+overview of mitophagy in NDDs and emphasizes the need to elucidate the mechanism 
+of impaired mitophagy prevalent across different NDDs in future research. This 
+will help designing better treatment options with high efficacy and specificity.
+
+Copyright © 2021 Elsevier B.V. and Mitochondria Research Society. All rights 
+reserved.
+
+DOI: 10.1016/j.mito.2021.01.001
+PMID: 33476770 [Indexed for MEDLINE]
+
+
+626. Am J Otolaryngol. 2021 May-Jun;42(3):102868. doi:
+10.1016/j.amjoto.2020.102868.  Epub 2021 Jan 4.
+
+Is parotidectomy justified in elderly patients with pleomorphic adenoma? A 
+decision analysis model.
+
+Feinmesser G(1), Feinmesser R(2), Alon E(1), Leshno M(3).
+
+Author information:
+(1)Sheba Medical Center, Tel Hashomer 52621, Israel; Sackler Faculty of 
+Medicine, Tel Aviv University, Tel Aviv 6997801, Israel.
+(2)Department of Otolaryngology-Head and Neck Surgery, Rabin Medical Center - 
+Beilinson Hospital, Petach Tikva 4941492, Israel; Sackler Faculty of Medicine, 
+Tel Aviv University, Tel Aviv 6997801, Israel. Electronic address: 
+Fein6@walla.co.il.
+(3)Coller School of Management, Tel Aviv University, Tel Aviv 6997801, Israel. 
+Electronic address: leshnom@tauex.tau.ac.il.
+
+PURPOSE: The value of parotidectomy in older patients is unclear. This study 
+presents a decision model to help resolve this question.
+MATERIALS & METHODS: A Markov model with Monte Carlo simulation was used to 
+compare outcomes in patients of different ages with pleomorphic adenoma of the 
+parotid gland treated by surgery or surveillance.
+RESULTS: In 30-year-old patients, surgery conferred a 3.5-year gain in life 
+expectancy whereas in 75-year-olds, it was only 0.74 months. The expected rate 
+of malignant transformation at age 30 years was 6.5% after surgery and 26.5% 
+after surveillance; at age 65, corresponding rates were 0.8% and 10.7%. 
+Sensitivity analysis showed that age was the only parameter that significantly 
+contributed to life expectancy. The benefit of surgery was restricted in older 
+patients.
+CONCLUSION: Our Markov decision-analysis model suggests that patients older than 
+65 years with pleomorphic adenoma have a limited survival advantage with surgery 
+compared to surveillance.
+
+Copyright © 2020. Published by Elsevier Inc.
+
+DOI: 10.1016/j.amjoto.2020.102868
+PMID: 33476972 [Indexed for MEDLINE]
+
+
+627. Int J Mol Sci. 2021 Jan 18;22(2):917. doi: 10.3390/ijms22020917.
+
+Prebiotic Organic Chemistry of Formamide and the Origin of Life in Planetary 
+Conditions: What We Know and What Is the Future.
+
+Bizzarri BM(1), Saladino R(1), Delfino I(1), García-Ruiz JM(2), Di Mauro E(1).
+
+Author information:
+(1)Ecological and Biological Sciences Department (DEB), University of Tuscia, 
+Via S. Camillo de Lellis snc, 01100 Viterbo, Italy.
+(2)Laboratorio de Estudios Cristalográficos, Instituto Andaluz de Ciencias de la 
+Tierra, Consejo Superior de Investigaciones Científicas-Universidad de Granada, 
+Avenida de las Palmeras 4, Armilla, 18100 Granada, Spain.
+
+The goal of prebiotic chemistry is the depiction of molecular evolution events 
+preceding the emergence of life on Earth or elsewhere in the cosmos. Plausible 
+experimental models require geochemical scenarios and robust chemistry. Today we 
+know that the chemical and physical conditions for life to flourish on Earth 
+were at work much earlier than thought, i.e., earlier than 4.4 billion years 
+ago. In recent years, a geochemical model for the first five hundred million 
+years of the history of our planet has been devised that would work as a cradle 
+for life. Serpentinization processes in the Hadean eon affording self-assembled 
+structures and vesicles provides the link between the catalytic properties of 
+the inorganic environment and the impressive chemical potential of formamide to 
+produce complete panels of organic molecules relevant in pre-genetic and 
+pre-metabolic processes. Based on an interdisciplinary approach, we propose 
+basic transformations connecting geochemistry to the chemistry of formamide, and 
+we hint at the possible extension of this perspective to other worlds.
+
+DOI: 10.3390/ijms22020917
+PMCID: PMC7831497
+PMID: 33477625 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+628. Cancers (Basel). 2021 Jan 19;13(2):342. doi: 10.3390/cancers13020342.
+
+Parvovirus-Based Combinatorial Immunotherapy: A Reinforced Therapeutic Strategy 
+against Poor-Prognosis Solid Cancers.
+
+Angelova A(1), Ferreira T(2), Bretscher C(2), Rommelaere J(1), Marchini A(2)(3).
+
+Author information:
+(1)German Cancer Research Center (DKFZ), Research Program Infection, 
+Inflammation and Cancer, Clinical Cooperation Unit Virotherapy, Im Neuenheimer 
+Feld 242, 69120 Heidelberg, Germany.
+(2)German Cancer Research Center (DKFZ), Laboratory of 
+Oncolytic-Virus-Immunotherapeutics (LOVIT), Im Neuenheimer Feld 242, 69120 
+Heidelberg, Germany.
+(3)Luxembourg Institute of Health (LIH), Laboratory of 
+Oncolytic-Virus-Immunotherapeutics (LOVIT), 84 rue Val Fleuri, L-1526 
+Luxembourg, Luxembourg.
+
+Resistance to anticancer treatments poses continuing challenges to oncology 
+researchers and clinicians. The underlying mechanisms are complex and 
+multifactorial. However, the immunologically "cold" tumor microenvironment (TME) 
+has recently emerged as one of the critical players in cancer progression and 
+therapeutic resistance. Therefore, TME modulation through induction of an 
+immunological switch towards inflammation ("warming up") is among the leading 
+approaches in modern oncology. Oncolytic viruses (OVs) are seen today not merely 
+as tumor cell-killing (oncolytic) agents, but also as cancer therapeutics with 
+multimodal antitumor action. Due to their intrinsic or engineered capacity for 
+overcoming immune escape mechanisms, warming up the TME and promoting antitumor 
+immune responses, OVs hold the potential for creating a proinflammatory 
+background, which may in turn facilitate the action of other (immunomodulating) 
+drugs. The latter provides the basis for the development of OV-based 
+immunostimulatory anticancer combinations. This review deals with the smallest 
+among all OVs, the H-1 parvovirus (H-1PV), and focuses on H-1PV-based 
+combinatorial approaches, whose efficiency has been proven in preclinical and/or 
+clinical settings. Special focus is given to cancer types with the most 
+devastating impact on life expectancy that urgently call for novel therapies.
+
+DOI: 10.3390/cancers13020342
+PMCID: PMC7832409
+PMID: 33477757
+
+Conflict of interest statement: A.A., T.F., J.R. and A.M. are holders of patents 
+or patent applications related to H-1PV use for cancer therapeutic purposes. The 
+parvovirus clinical trials (ParvOryx01, ParvOryx02) and compassionate H-1PV uses 
+were financially supported by ORYX GmbH & Co. KG (Baldham, Germany). The funders 
+had no role in the writing of the manuscript or in the decision to submit it for 
+publication.
+
+
+629. Int J Environ Res Public Health. 2021 Jan 19;18(2):836. doi: 
+10.3390/ijerph18020836.
+
+The Significant Association between Health Examination Results and Population 
+Health: A Cross-Sectional Ecological Study Using a Nation-Wide Health Checkup 
+Database in Japan.
+
+Nagakura Y(1), Kato H(2), Asano S(2), Jinno Y(1), Tanei S(3).
+
+Author information:
+(1)School of Pharmacy at Fukuoka, International University of Health and 
+Welfare, 137-1 Enokizu, Okawa 831-8501, Fukuoka, Japan.
+(2)School of Pharmacy, International University of Health and Welfare, 2600-1 
+Kitakanemaru, Ohtawara 324-8501, Tochigi, Japan.
+(3)Faculty of Pharmaceutical Sciences, Nihon Pharmaceutical University, 10281 
+Komuro, Ina-machi, Kitaadachi-gun, Saitama 362-0806, Japan.
+
+In Japan, population health with life expectancy (LE) and healthy life 
+expectancy (HALE) as indicators varies across the 47 prefectures (administrative 
+regions). This study investigates how health examination results, including 
+attitude toward improving life habits, are associated with population health. 
+The association between health checkup variables and summary population health 
+outcomes (i.e., life expectancy and healthy life expectancy) was investigated 
+using a cross-sectional ecological design with prefectures as the unit of 
+analysis. The medical records, aggregated by prefecture, gender, and age in the 
+National Database of Health Insurance Claims and Specific Health Checkups of 
+Japan (NDB) Open Data Japan, were used as health checkup variables. Body weight, 
+blood pressure, liver enzymes, drinking habits, smoking habits, diabetes, serum 
+lipids, and answers to questions regarding attitude toward improving health 
+habits were significantly correlated to population health outcomes. Multiple 
+regression analysis also revealed significant influence of these variables on 
+population health. This study highlights that health examination results, 
+including attitude toward improving health habits, are positively associated 
+with population health. Consequently, implementing measures to improve health 
+habits in response to the examination results could help the population maintain 
+a healthy life.
+
+DOI: 10.3390/ijerph18020836
+PMCID: PMC7844624
+PMID: 33478122 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+630. J Dent Res. 2021 Jun;100(6):576-582. doi: 10.1177/0022034520986794. Epub
+2021  Jan 21.
+
+Reorienting Oral Health Services to Prevention: Economic Perspectives.
+
+Vernazza CR(1), Birch S(2)(3), Pitts NB(4).
+
+Author information:
+(1)School of Dental Sciences, Newcastle University, Newcastle Upon Tyne, UK.
+(2)Centre for the Business and Economics of Health, University of Queensland, 
+Saint Lucia, Queensland, Australia.
+(3)Centre for Health Economics, University of Manchester, Manchester, UK.
+(4)Faculty of Dentistry, Oral and Craniofacial Sciences, Kings College London, 
+London, UK.
+
+Despite the recognized need to change the emphasis of health services by 
+shifting the balance from treatment to prevention, limited progress has been 
+made in many settings. This is true in oral health, where evidence for 
+preventive interventions that work has not been systematically exploited in oral 
+health services. While reorienting health services is complex and context 
+specific, economics can bring a helpful perspective in understanding and 
+predicting the impact of changes in resource allocation, provider remuneration 
+systems, and patient payments. There is an increasing literature on the 
+economics of different prevention approaches. However, much of this literature 
+focuses on the costs and potential savings of alternative approaches and fails 
+to take into account benefits. Even where benefits are taken into account, these 
+tend to be narrowly focused on clinical outcomes using cost-effectiveness 
+analysis, which may be of little relevance to the policy maker, patient, and the 
+public. Some commonly used economic approaches (such as quality-adjusted life 
+years and incremental cost-effectiveness ratios) may also not be appropriate to 
+oral health. Using alternative techniques, including wider measures of benefit 
+and employing priority setting and resource allocation tools, may provide more 
+comprehensive information on economic impact to decision makers and 
+stakeholders. In addition, it is important to consider the effects of provider 
+remuneration in reorienting services. While there is some evidence about 
+traditional models of remuneration (fee for service and capitation), less is 
+known about pay for performance and blended systems. This article outlines areas 
+in which economics can offer an insight into reorientation of health systems 
+toward prevention, highlighting areas for further research and consideration.
+
+DOI: 10.1177/0022034520986794
+PMCID: PMC8138330
+PMID: 33478327 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Conflicting Interests: The 
+authors declared no potential conflicts of interest with respect to the 
+research, authorship, and/or publication of this article.
+
+
+631. Radiat Oncol. 2021 Jan 21;16(1):19. doi: 10.1186/s13014-021-01745-1.
+
+Individualized quality of life benefit and cost-effectiveness estimates of 
+proton therapy for patients with oropharyngeal cancer.
+
+Brodin NP(1)(2), Kabarriti R(3)(4), Schechter CB(5), Pankuch M(6), Gondi V(6), 
+Kalnicki S(4)(7), Garg MK(3)(4)(8)(7), Tomé WA(9)(10)(11).
+
+Author information:
+(1)Institute for Onco-Physics, Albert Einstein College of Medicine, Bronx, NY, 
+10461, USA. patrik.brodin@einsteinmed.org.
+(2)Department of Radiation Oncology, Montefiore Medical Center, Bronx, NY, 
+10461, USA. patrik.brodin@einsteinmed.org.
+(3)Institute for Onco-Physics, Albert Einstein College of Medicine, Bronx, NY, 
+10461, USA.
+(4)Department of Radiation Oncology, Montefiore Medical Center, Bronx, NY, 
+10461, USA.
+(5)Department of Family and Social Medicine, Albert Einstein College of 
+Medicine, Bronx, NY, 10461, USA.
+(6)Northwestern Medicine Chicago Proton Center, Warrenville, IL, 60555, USA.
+(7)Department of Urology, Montefiore Medical Center, Bronx, NY, 10461, USA.
+(8)Department of Otorhinolaryngology - Head and Neck Surgery, Montefiore Medical 
+Center, Bronx, NY, 10461, USA.
+(9)Institute for Onco-Physics, Albert Einstein College of Medicine, Bronx, NY, 
+10461, USA. wolfgang.tome@einsteinmed.org.
+(10)Department of Radiation Oncology, Montefiore Medical Center, Bronx, NY, 
+10461, USA. wolfgang.tome@einsteinmed.org.
+(11)Department of Neurology, Albert Einstein College of Medicine, Bronx, NY, 
+10461, USA. wolfgang.tome@einsteinmed.org.
+
+BACKGROUND: Proton therapy is a promising advancement in radiation oncology 
+especially in terms of reducing normal tissue toxicity, although it is currently 
+expensive and of limited availability. Here we estimated the individual quality 
+of life benefit and cost-effectiveness of proton therapy in patients with 
+oropharyngeal cancer treated with definitive radiation therapy (RT), as a 
+decision-making tool for treatment individualization.
+METHODS AND MATERIALS: Normal tissue complication probability models were used 
+to estimate the risk of dysphagia, esophagitis, hypothyroidism, xerostomia and 
+oral mucositis for 33 patients, comparing delivered photon intensity-modulated 
+RT (IMRT) plans to intensity-modulated proton therapy (IMPT) plans. 
+Quality-adjusted life years (QALYs) lost were calculated for each complication 
+while accounting for patient-specific conditional survival probability and 
+assigning quality-adjustment factors based on complication severity. 
+Cost-effectiveness was modeled based on upfront costs of IMPT and IMRT, and the 
+cost of acute and/or long-term management of treatment complications. 
+Uncertainties in all model parameters and sensitivity analyses were included 
+through Monte Carlo sampling.

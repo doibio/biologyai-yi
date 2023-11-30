@@ -1,0 +1,1000 @@
+RESULTS: Treatment costs for 6 months were pound1530 for venlafaxine, pound1539 
+for fluoxetine and pound1558 for amitriptyline (year of costing 2006). Cost 
+effectiveness as assessed by incremental cost per QALY ratio at 8 weeks was 
+pound20 600 for venlafaxine compared with fluoxetine, with fluoxetine dominating 
+(being less costly and more effective than) amitriptyline. To test the 
+robustness of the model a Rank Order Stability Assessment was performed that 
+showed that even if fluoxetine and/or amitriptyline were given away free, a 
+scenario starting with venlafaxine would still be the least costly treatment 
+over a 6-month period.
+CONCLUSION: In this model, venlafaxine was shown to be a cost-effective 
+alternative to generic fluoxetine and amitriptyline when used as a first-line 
+therapy. Thus, cost of therapy should not be a barrier to use of venlafaxine as 
+a first-line option in treating major depressive disorder in primary care in the 
+UK.
+
+DOI: 10.2165/00044011-200929030-00004
+PMID: 19243210 [Indexed for MEDLINE]
+
+
+207. Malar J. 2009 Feb 25;8:33. doi: 10.1186/1475-2875-8-33.
+
+Physical and chemical stability of expired fixed dose combination 
+artemether-lumefantrine in uncontrolled tropical conditions.
+
+Bate R(1), Tren R, Hess K, Attaran A.
+
+Author information:
+(1)Africa Fighting Malaria, Washington, D.C., USA. RBate@aei.org
+
+BACKGROUND: New artemisinin combination therapies pose difficulties of 
+implementation in developing and tropical settings because they have a short 
+shelf-life (two years) relative to the medicines they replace. This limits the 
+reliability and cost of treatment, and the acceptability of this treatment to 
+health care workers. A multi-pronged investigation was made into the chemical 
+and physical stability of fixed dose combination artemether-lumefantrine 
+(FDC-ALU) stored under heterogeneous, uncontrolled African conditions, to probe 
+if a shelf-life extension might be possible.
+METHODS: Seventy samples of expired FDC-ALU were collected from private 
+pharmacies and malaria researchers in seven African countries. The samples were 
+subjected to thin-layer chromatography (TLC), disintegration testing, and near 
+infrared Raman spectrometry for ascertainment of active ingredients, tablet 
+integrity, and chemical degradation of the tablet formulation including both 
+active ingredients and excipients.
+RESULTS: Seventy samples of FDC-ALU were tested in July 2008, between one and 58 
+months post-expiry. 68 of 70 (97%) samples passed TLC, disintegration and Raman 
+spectrometry testing, including eight samples that were post-expiry by 20 months 
+or longer. A weak linear association (R2 = 0.33) was observed between the age of 
+samples and their state of degradation relative to brand-identical samples on 
+Raman spectrometry. Sixty-eight samples were retested in February 2009 using 
+Raman spectrometry, between eight and 65 months post-expiry. 66 of 68 (97%) 
+samples passed Raman spectrometry retesting. An unexpected observation about 
+African drug logistics was made in three batches of FDC-ALU, which had been sold 
+into the public sector at concessional pricing in accordance with a World Health 
+Organization (WHO) agreement, and which were illegally diverted to the private 
+sector where they were sold for profit.
+CONCLUSION: The data indicate that FDC-ALU is chemically and physically stable 
+well beyond its stated shelf-life in uncontrolled, tropical conditions. While 
+these data are not themselves sufficient, it is strongly suggested that a 
+re-evaluation of the two-year shelf-life by drug regulatory authorities is 
+warranted.
+
+DOI: 10.1186/1475-2875-8-33
+PMCID: PMC2649943
+PMID: 19243589 [Indexed for MEDLINE]
+
+
+208. Neural Netw. 2009 May;22(4):463-78. doi: 10.1016/j.neunet.2009.01.012. Epub
+2009  Feb 1.
+
+SOM of SOMs.
+
+Furukawa T(1).
+
+Author information:
+(1)Department of Brain Science and Engineering, Graduate School of Life Science 
+and Systems Engineering, Kyushu Institute of Technology, Kitakyushu, Japan. 
+furukawa@brain.kyutech.ac.jp
+
+This paper proposes an extension of the self-organizing map (SOM), in which the 
+mapping objects themselves are self-organizing maps. Thus a "SOM of SOMs" is 
+presented, which we refer to as a SOM(2). A SOM(2) has a hierarchical structure 
+consisting of a single parent SOM and a set of child SOMs. Each child SOM is 
+trained to represent the distribution of a data class in a manifold, while the 
+parent SOM generates a self-organizing map of the group of manifolds modeled by 
+the child SOMs. Thus a SOM(2) is an architecture that organizes a product 
+manifold represented as (child SOM) x (parent SOM). Such a product manifold is 
+called a fiber bundle in terms of the topology. This extension of a SOM is 
+easily generalized to any combination of SOM families, including cases of neural 
+gas (NG) in which, for example, " NG(2) (=NG x NG) as an NG of NGs" and "NG x 
+SOM as a SOM of NGs" are possible. Furthermore, a SOM(2) can be extended to a 
+SOM(n), such as SOM(3)=SOM x SOM x SOM defined as a "SOM of SOM(2)". In this 
+paper, the algorithms for the SOM(2) and its variations are introduced, and some 
+simulation results are reported.
+
+DOI: 10.1016/j.neunet.2009.01.012
+PMID: 19243913 [Indexed for MEDLINE]
+
+
+209. Sci Context. 2008 Dec;21(4):537-79. doi: 10.1017/s0269889708001956.
+
+The animal economy as object and program in Montpellier vitalism.
+
+Wolfe CT(1), Terada M.
+
+Author information:
+(1)University of Sydney.
+
+Our aim in this paper is to show the importance of the notion of éonomie animale 
+in Montpellier vitalism as a hybrid concept which brings together the structural 
+and functional dimensions of the living body--dimensions which hitherto had 
+primarily been studied according to a mechanistic model, or were discussed 
+within the framework of Stahlian animism. The celebrated image of the bee-swarm 
+expresses this structural-functional understanding of living bodies quite well: 
+"One sees them press against each other, mutually supporting each other, forming 
+a kind of whole, in which each living part, in its own way, by means of the 
+correspondence and directions of its motions, enables this kind of life to be 
+sustained in the body" (Ménuret 1765c, Enc. XI, 319a). What is important here is 
+that every component part is always a living part, i.e., every structural unit 
+is always functional. Interestingly, while the twin notions of "animal economy" 
+and organisation are presented as improvements over a mechanistic perspective, 
+they are nonetheless compatible with an expanded sense of mechanism, and by 
+extension, with materialism as reflected notably in the writings of Ménuret and 
+Bordeu. We thus propose both a revision and reconstruction of the historical 
+status of the "animal economy," and a reflection on its conceptual status.
+
+DOI: 10.1017/s0269889708001956
+PMID: 19245106 [Indexed for MEDLINE]
+
+
+210. J Law Med Ethics. 2009 Spring;37(1):118-33. doi: 
+10.1111/j.1748-720X.2009.00356.x.
+
+Prejudice and the medical profession: a five-year update.
+
+Clark PA(1).
+
+Author information:
+(1)Medical Ethics, Saint Joseph's University in Philadelphia, Pennsylvania, USA.
+
+Over the past decades the mortality rate in the United States has decreased, and 
+life expectancy has increased. Yet a number of recent studies have drawn 
+Americans' attention to the fact that racial and ethnic disparities persist in 
+health care. It is clear that the U.S. health care system, which is the envy of 
+the world, is not only flawed by basic injustices, but may be the cause of both 
+injury and death for members of racial and ethnic minorities. Progress has been 
+made in several areas since the original Institute of Medicine 2002 report. 
+However, five years later, the 2007 National Healthcare Disparities Report 
+(NHDR) reported that overall, disparities in quality and access for minority 
+groups and poor populations have not been reduced since the original report. The 
+three key themes that have emerged from this report are the following: (1) 
+overall, disparities in health care quality and access are not getting smaller; 
+(2) progress is being made, but many of the biggest gaps in quality and access 
+have not been reduced; and (3) the problem of persistent uninsurance is a major 
+barrier to reducing disparities. Unless measures are taken to address this 
+racism, unless a new sense of trust is established between the medical 
+establishment and racial and ethnic minorities, these injustices will continue 
+to deepen and expand, and more lives will be placed in jeopardy. What is needed 
+is a comprehensive, multi-level, culturally relevant strategy that contains 
+interventions that target individuals, communities, and the nation as a whole. 
+This will entail understanding the causes of racism in the medical profession, 
+identifying practical interventions that address racism in individuals, 
+communities, and the nation as a whole, and forming partnerships that will work 
+to develop a new sense of trust between the medical establishment and the 
+minority communities.
+
+DOI: 10.1111/j.1748-720X.2009.00356.x
+PMID: 19245608 [Indexed for MEDLINE]
+
+
+211. Acta Physiol (Oxf). 2009 May;196(1):99-113. doi: 
+10.1111/j.1748-1716.2009.01975.x. Epub 2009 Feb 19.
+
+AMP-activated protein kinase--a sensor of glycogen as well as AMP and ATP?
+
+McBride A(1), Hardie DG.
+
+Author information:
+(1)Division of Molecular Physiology, College of Life Sciences, University of 
+Dundee, Dow Street, Dundee, UK.
+
+The classical role of the AMP-activated protein kinase (AMPK) is to act as a 
+sensor of the immediate availability of cellular energy, by monitoring the 
+concentrations of AMP and ATP. However, the beta subunits of AMPK contain a 
+glycogen-binding domain, and in this review we develop the hypothesis that this 
+is a regulatory domain that allows AMPK to act as a sensor of the status of 
+cellular reserves of energy in the form of glycogen. We argue that the pool of 
+AMPK that is bound to the glycogen particle is in an active state when glycogen 
+particles are fully synthesized, causing phosphorylation of glycogen synthase at 
+site 2 and providing a feedback inhibition of further extension of the outer 
+chains of glycogen. However, when glycogen becomes depleted, the glycogen-bound 
+pool of AMPK becomes inhibited due to binding to alpha1-->6-linked branch points 
+exposed by the action of phosphorylase and/or debranching enzyme. This allows 
+dephosphorylation of site 2 on glycogen synthase by the glycogen-bound form of 
+protein phosphatase-1, promoting rapid resynthesis of glycogen and replenishment 
+of glycogen stores. This is an extension of the classical role of AMPK as a 
+'guardian of cellular energy', in which it ensures that cellular energy reserves 
+are adequate for medium-term requirements. The literature concerning AMPK, 
+glycogen structure and glycogen-binding proteins that led us to this concept is 
+reviewed.
+
+DOI: 10.1111/j.1748-1716.2009.01975.x
+PMID: 19245651 [Indexed for MEDLINE]
+
+
+212. J Med Genet. 2009 May;46(5):324-30. doi: 10.1136/jmg.2008.063800. Epub 2009
+Feb  25.
+
+Premature death in adults with 22q11.2 deletion syndrome.
+
+Bassett AS(1), Chow EW, Husted J, Hodgkinson KA, Oechslin E, Harris L, 
+Silversides C.
+
+Author information:
+(1)Clinical Genetics Research Program, Centre for Addiction and Mental Health, 
+Ontario, Canada. anne.bassett@utoronto.ca
+
+BACKGROUND: 22q11.2 deletion syndrome (22q11.2DS) is a multisystem disease with 
+a prevalence of 1/4000. Variable expression of congenital and later onset 
+features contributes to its under-recognition. Longevity in those surviving 
+childhood is believed to be normal but data are limited.
+METHODS: We prospectively followed 264 subjects; 102 adults (>17 years) with 
+22q11.2DS (44 male (M), 58 female (F); mean (SD) age 33.6 (10.9) years) and 
+their 162 unaffected siblings (77 M, 85 F; mean age 36.1 (12.2) years). We 
+compared survival between groups using Kaplan-Meier estimates.
+RESULTS: Twelve (11.8%; 4 M, 8 F) individuals with 22q11.2DS and no siblings 
+died (p<0.0001). Survival to ages 40 and 50 years was 89.9% and 73.9%, 
+respectively. Median age at death was 41.5 (range 18.1-68.6) years. Deaths 
+included two (7.7%) of 26 subjects with neither major congenital heart disease 
+(CHD) nor schizophrenia. Four of six sudden and unexpected deaths occurred in 
+individuals with no major CHD. There was no evidence of cancer or coronary 
+artery disease or family history of sudden death in the 12 patients who died, 
+six of whom had autopsies.
+DISCUSSION: Individuals with 22q11.2DS who survive childhood have diminished 
+life expectancy and increased risk of sudden death not attributable to any 
+single factor. Some sudden and/or premature deaths observed in the general 
+population may represent undiagnosed 22q11.2DS. Increased recognition of the 
+syndrome by family doctors, specialists and coroners will be essential to 
+facilitate the tissue studies needed to determine underlying mechanisms.
+
+DOI: 10.1136/jmg.2008.063800
+PMCID: PMC3188306
+PMID: 19246480 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None.
+
+
+213. Ann Oncol. 2009 Jul;20(7):1275-9. doi: 10.1093/annonc/mdn775. Epub 2009 Feb
+26.
+
+Phase II study of 3-AP Triapine in patients with recurrent or metastatic head 
+and neck squamous cell carcinoma.
+
+Nutting CM(1), van Herpen CM, Miah AB, Bhide SA, Machiels JP, Buter J, Kelly C, 
+de Raucourt D, Harrington KJ.
+
+Author information:
+(1)Head and Neck Unit, Royal Marsden Hospital and Institute of Cancer Research, 
+London, UK. chris.nutting@rmh.nhs.uk
+
+BACKGROUND: Treatment options for recurrent or metastatic head and neck squamous 
+cell carcinoma (HNSCC) are limited with response rates to cytotoxic chemotherapy 
+of approximately 30% and median survival of 6 months.
+PATIENTS AND METHODS: In a multicentre phase II study, 32 patients with 
+recurrent or metastatic HNSCC received 3-AP Triapine 
+(3-aminopyridine-2-carboxaldehyde thiosemicarbazone), an inhibitor of 
+ribonucleotide reductase, 96 mg/m2, daily for 4 days every 14 days (one cycle). 
+Eligibility criteria required Eastern Cooperative Oncology Group performance 
+status (ECOG PS) of zero to two with a life expectancy of >3 months; one prior 
+chemotherapy regimen was allowed.
+RESULTS: Thirty patients were assessable for response and toxicity. Median age 
+was 57 years (range 36-79) and median ECOG PS was one (range 0-2). Thirteen 
+patients had previously been treated with chemotherapy. A total of 130 cycles 
+were administered with a median number of cycles of 3.5 (range 1-8). Mild 
+anaemia (40%), nausea (22%) and fatigue (22%) were commonly reported with G3 and 
+G4 neutropenia documented in 22% and 22%, respectively. Overall response rate 
+was 5.9% (95% confidence interval 0.2% to 28.7%). One patient achieved a partial 
+response, eight had stable disease and 21 progressive disease. Median time to 
+disease progression was 3.9 months.
+CONCLUSIONS: 3-AP Triapine as a single agent, at this dose and schedule, is well 
+tolerated but has only minor activity in the treatment of advanced HNSCC.
+
+DOI: 10.1093/annonc/mdn775
+PMID: 19246715 [Indexed for MEDLINE]
+
+
+214. Microbiology (Reading). 2009 Mar;155(Pt 3):751-760. doi:
+10.1099/mic.0.021907-0.
+
+Specific point mutations in Lactobacillus casei ATCC 27139 cause a phenotype 
+switch from Lac- to Lac+.
+
+Tsai YK(1), Chen HW(1), Lo TC(1), Lin TH(1).
+
+Author information:
+(1)Prof. Thy-Hou Lin laboratory, Institute of Molecular Medicine and Department 
+of Life Science, National Tsing Hua University, 101, Section 2, Kuang Fu Road, 
+Hsinchu 30013, Taiwan, ROC.
+
+Lactose metabolism is a changeable phenotype in strains of Lactobacillus casei. 
+In this study, we found that L. casei ATCC 27139 was unable to utilize lactose. 
+However, when exposed to lactose as the sole carbon source, spontaneous Lac(+) 
+clones could be obtained. A gene cluster (lacTEGF-galKETRM) involved in the 
+metabolism of lactose and galactose in L. casei ATCC 27139 (Lac(-)) and its 
+Lac(+) revertant (designated strain R1) was sequenced and characterized. We 
+found that only one nucleotide, located in the lacTEGF promoter (lacTp), of the 
+two lac-gal gene clusters was different. The protein sequence identity between 
+the lac-gal gene cluster and those reported previously for some L. casei 
+(Lac(+)) strains was high; namely, 96-100 % identity was found and no premature 
+stop codon was identified. A single point mutation located within the lacTp 
+promoter region was also detected for each of the 41 other independently 
+isolated Lac(+) revertants of L. casei ATCC 27139. The revertants could be 
+divided into six classes based on the positions of the point mutations detected. 
+Primer extension experiments conducted on transcription from lacTp revealed that 
+the lacTp promoter of these six classes of Lac(+) revertants was functional, 
+while that of L. casei ATCC 27139 was not. Northern blotting experiments further 
+confirmed that the lacTEGF operon of strain R1 was induced by lactose but 
+suppressed by glucose, whereas no blotting signal was ever detected for L. casei 
+ATCC 27139. These results suggest that a single point mutation in the lacTp 
+promoter was able to restore the transcription of a fully functional lacTEGF 
+operon and cause a phenotype switch from Lac(-) to Lac(+) for L. casei ATCC 
+27139.
+
+DOI: 10.1099/mic.0.021907-0
+PMID: 19246746 [Indexed for MEDLINE]
+
+
+215. Ann Surg. 2009 Mar;249(3):402-8. doi: 10.1097/SLA.0b013e31819a0469.
+
+The importance of tumor stage and relative survival analysis for the association 
+between sex and survival after resection of colorectal cancer.
+
+Dent OF(1), Chapuis PH, Renwick AA, Bokey EL.
+
+Author information:
+(1)Department of Colorectal Surgery, Concord Hospital and The Discipline of 
+Surgery, The University of Sydney, Sydney, New South Wales, Australia. 
+Owen.Dent@netspeed.com.au
+
+OBJECTIVE: The aim of this study was to determine whether the previously noted 
+poorer survival of men after resection of colorectal cancer varied among 
+clinicopathological tumor stages.
+SUMMARY BACKGROUND DATA: The question of whether sex is independently associated 
+with prognosis after resection of colorectal cancer has been examined in 
+numerous studies over the past 2 decades, but with conflicting results.
+METHODS: Data on 3,301 patients were drawn from a comprehensive, prospective 
+hospital registry of all resections for colorectal cancer performed between 
+January 1971 and December 2005. Statistical analysis employed Kaplan Meier 
+estimation and relative survival analysis to adjust for differential male/female 
+life expectancy in the general population.
+RESULTS: The relative survival of males was significantly less than that of 
+females (P = 0.004) only in stage B. This was not accounted for by other 
+negative pathology features and cause of death did not differ significantly 
+between males and females. However, men with stage B tumor were more likely than 
+women to experience postoperative morbidity, particularly a respiratory 
+complication or a surgical complication requiring urgent reoperation. The sex 
+difference in relative survival persisted among patients who had either a 
+respiratory complication or an urgent reoperation (P = 0.003) but disappeared 
+among those who had neither (P = 0.193).
+CONCLUSION: The poorer survival of men with stage B tumor was attributable to 
+their greater postoperative morbidity which led to the earlier death of some due 
+to causes unrelated to their colorectal cancer.
+
+DOI: 10.1097/SLA.0b013e31819a0469
+PMID: 19247026 [Indexed for MEDLINE]
+
+
+216. J Rehabil Med. 2009 Mar;41(4):237-41. doi: 10.2340/16501977-0313.
+
+A prospective study on coping strategies and quality of life in patients after 
+stroke, assessing prognostic relationships and estimates of cost-effectiveness.
+
+Darlington AS(1), Dippel DW, Ribbers GM, van Balen R, Passchier J, Busschbach 
+JJ.
+
+Author information:
+(1)Department of Medical Psychology and Psychotherapy, Erasmus MC, Rotterdam, 
+The Netherlands. a.darlington@erasmusmc.nl
+
+OBJECTIVE: To examine the prognostic value of coping strategies of patients 
+after stroke at time of discharge on quality of life approximately one year 
+later. In addition, we estimated the maximum cost of improving quality of life 
+by enhancing coping strategies using strict assumptions.
+METHODS: Eighty patients with a stroke completed several questionnaires, at 
+discharge to home and 9-12 months later (follow-up). Questionnaires measured 
+quality of life, coping strategies Tenacious Goal Pursuit and Flexible Goal 
+Adjustment. First, a regression analysis was carried out predicting quality of 
+life at follow-up from coping strategies at discharge. Secondly, a maximum in 
+terms of acceptable cost was calculated for several possible effect sizes.
+RESULTS: Both coping strategies at discharge were positively associated with 
+quality of life at follow-up. With regards to cost-effectiveness, a medium 
+effect size would result in an increase in quality of life of approximately 10%. 
+The maximum acceptable cost of an intervention for a single patient is therefore 
+set at euro2500, assuming a benefit of one year and a cost per quality adjusted 
+life year of euro25,000.
+CONCLUSION: Coping strategies at discharge are predictive of quality of life one 
+year later. The costs of improving quality of life are thought to be within the 
+limits that determine a cost-effective intervention.
+
+DOI: 10.2340/16501977-0313
+PMID: 19247542 [Indexed for MEDLINE]
+
+
+217. Arthritis Rheum. 2009 Mar 15;61(3):291-9. doi: 10.1002/art.24169.
+
+Cost-utility analysis of treatment strategies in patients with recent-onset 
+rheumatoid arthritis.
+
+van den Hout WB(1), Goekoop-Ruiterman YP, Allaart CF, de Vries-Bouwstra JK, 
+Hazes JM, Kerstens PJ, van Zeben D, Hulsmans HM, de Jonge-Bok JM, de Sonnaville 
+PB, Dijkmans BA, Breedveld FC.
+
+Author information:
+(1)Department of Medical Decision Making, Leiden University Medical Center, 
+Leiden, The Netherlands. Hout@lumc.nl
+
+Comment in
+    Arthritis Rheum. 2009 Mar 15;61(3):289-90.
+    Arthritis Rheum. 2009 Nov 15;61(11):1616-7; author reply 1617-8.
+
+OBJECTIVE: To evaluate societal costs and quality-adjusted life years (QALYs) of 
+treatment strategies for patients with recent-onset active rheumatoid arthritis 
+(RA).
+METHODS: Patients (n = 508) were randomly allocated to 1 of 4 treatment strategy 
+groups: sequential monotherapy, step-up combination therapy, initial combination 
+therapy with prednisone, or initial combination therapy with infliximab. For 2 
+years, patients reported cost and utility measures.
+RESULTS: Average QALYs (ideally 2.00) for groups 1-4 were 1.29, 1.31, 1.32, and 
+1.41, respectively, for the British EuroQol (P <or= 0.05 for group 4 versus 
+groups 1-3); 1.41, 1.43, 1.44, and 1.52, respectively, for the Dutch EuroQol (P 
+<or= 0.05 for group 4 versus groups 1-3); and 1.38, 1.38, 1.39, and 1.44, 
+respectively, for the Short Form 6D (P <or= 0.05 for group 4 versus groups 1-3). 
+The Time Trade-Off showed no significant differences. In the primary analysis, 
+using the friction cost method to value productivity, the cost-utility ratio for 
+group 4 against the next best alternative was estimated at euro 130,000 (95% 
+confidence interval euro 27,000, euro 3,000,000) per QALY. Using the human 
+capital method, the value of sustained productivity in group 4 largely 
+compensated for the extra medication costs.
+CONCLUSION: Initial combination therapy with infliximab for patients with 
+recent-onset active RA resulted in significantly better quality of life than 
+other strategies. Using the friction cost method, costs to achieve this 
+improvement are generally considered too high, and initial combination therapy 
+with prednisone should be preferred. However, depending on the extent to which 
+productivity is valued, infliximab costs could be largely compensated for by 
+savings on productivity. Since patterns of infliximab use had not yet stabilized 
+after 2 years, longer followup may change the economic conclusions.
+
+DOI: 10.1002/art.24169
+PMID: 19248130 [Indexed for MEDLINE]
+
+
+218. Nurs Stand. 2009 Jan 28-Feb 3;23(21):41-5. doi: 
+10.7748/ns2009.01.23.21.41.c6767.
+
+Poor physical health and mortality in patients with schizophrenia.
+
+Pack S(1).
+
+Author information:
+(1)Somerset Partnership NHS Foundation Trust, Bridgwater, Somerset. 
+Steve.Pack@sompar.nhs.uk
+
+Schizophrenia, its treatment and the lifestyle of patients contribute to high 
+rates of mortality. Patients often have poorer diets, lower rates of physical 
+activity and smoke more than the general population. Such lifestyle choices 
+predispose them to physical health problems and disease. This article explores 
+the impact of poor physical health on mortality in patients with schizophrenia. 
+Suggestions are made for patient education and promotion of a healthy lifestyle 
+to improve the quality of life for patients with the illness.
+
+DOI: 10.7748/ns2009.01.23.21.41.c6767
+PMID: 19248449 [Indexed for MEDLINE]
+
+
+219. J Am Coll Radiol. 2009 Mar;6(3):171-9. doi: 10.1016/j.jacr.2008.10.003.
+
+Cost effectiveness of breast cancer screening with contrast-enhanced MRI in 
+high-risk women.
+
+Taneja C(1), Edelsberg J, Weycker D, Guo A, Oster G, Weinreb J.
+
+Author information:
+(1)Policy Analysis Inc, Brookline, Massachusetts 02445, USA. ctaneja@pai2.com
+
+PURPOSE: The aim of this study was to estimate the cost effectiveness of breast 
+cancer screening with contrast-enhanced magnetic resonance imaging (MRI), with 
+and without adjunctive x-ray mammography (XM), compared with XM alone in 
+high-risk women.
+MATERIALS AND METHODS: A model was developed to depict the consequences of 
+screening with MRI and/or XM for cohorts of 10,000 women with BRCA1/2 mutations 
+and women with other high-risk characteristics, respectively. The model 
+predicted the number of women correctly and incorrectly diagnosed with each 
+strategy and lifetime consequences in terms of additional care, patient 
+utilities, life expectancy, and quality-adjusted life-years (QALYs). Cost 
+effectiveness was calculated in terms of cost per QALY gained.
+RESULTS: Among the 400 women (of 10,000) with BRCA1/2 mutations and undiagnosed 
+breast cancer, 361 cases would be detected with MRI and XM, 290 with MRI, and 
+160 with XM. False-positive results would total 1,526, 1,190, and 528, 
+respectively. Cost per QALY gained with MRI and XM compared with XM alone for 
+women with BRCA1/2 mutations was $25,277. Among other high-risk women, cost per 
+QALY gained with MRI and XM compared with XM alone varied depending on the 
+prevalence of breast cancer, ranging from $45,566 (300 cases) to $310,616 (50 
+cases). The cost effectiveness of MRI alone compared with XM alone was similar.
+CONCLUSION: Screening with MRI, alone or in combination with XM, in women with 
+BRCA1/2 mutations is cost effective by current standards compared with XM alone. 
+In women with other high-risk characteristics, MRI screening may also be cost 
+effective, depending on the expected prevalence of undiagnosed breast cancer at 
+the time of screening.
+
+DOI: 10.1016/j.jacr.2008.10.003
+PMID: 19248993 [Indexed for MEDLINE]
+
+
+220. Am Heart J. 2009 Mar;157(3):457-66. doi: 10.1016/j.ahj.2008.11.006. Epub
+2009  Jan 20.
+
+Effects of cardiac resynchronization therapy on long-term quality of life: an 
+analysis from the CArdiac Resynchronisation-Heart Failure (CARE-HF) study.
+
+Cleland JG(1), Calvert MJ, Verboven Y, Freemantle N.
+
+Author information:
+(1)Department of Cardiology, University of Hull, Castle Hill Hospital, Kingston 
+upon Hull, United Kingdom. j.g.cleland@hull.ac.uk
+
+BACKGROUND: Cardiac resynchronization therapy (CRT) improves quality of life 
+(QoL) when measured 3 to 6 months after implantation, but whether these effects 
+are sustained is unknown. The CArdiac Resynchronisation-Heart Failure study is 
+the only long-term randomized trial of CRT with repeated measures of QoL.
+METHODS: Quality of life was measured at baseline and 3 months using generic 
+European Quality of Life-5 Dimensions and disease-specific (Minnesota Living 
+with Heart Failure) questionnaires and at 18 months and study-end using the 
+latter instrument. Median follow-up was 29.6 (interquartile range 23.6-34.6) 
+months.
+RESULTS: At baseline, patients had a substantially impaired QoL (mean European 
+Quality of Life-5 Dimensions score 0.60, 95% confidence interval [CI] 0.58-0.62) 
+compared to an age-matched general population (0.78, 95% CI 0.76-0.80). Quality 
+of life improved to a greater extent in patients assigned to CRT at each time 
+point (P < .0001). By 18 months, the mean difference in disease-specific QoL 
+score was 10.7 (95% CI 7.6-13.8) in favor of CRT, mostly due to improved 
+physical functioning. Differences were sustained thereafter. Quality-adjusted 
+life-years at 18 months increased by 0.13 (95% CI 0.07-0.182) and by 0.23 (95% 
+CI 0.13-0.33) at study-end (both P < .0001). Little heterogeneity of effect 
+across subgroups was observed.
+CONCLUSION: Cardiac resynchronization therapy improves long-term QoL and 
+survival in patients with moderate to severe heart failure. The effects appear 
+sustained, and therefore, the gain in quality-adjusted life years with CRT 
+should be even greater during longer term follow-up.
+
+DOI: 10.1016/j.ahj.2008.11.006
+PMID: 19249415 [Indexed for MEDLINE]
+
+
+221. Transplant Proc. 2009 Jan-Feb;41(1):208-12. doi: 
+10.1016/j.transproceed.2008.10.050.
+
+Successful use of extended criteria donor grafts with low to moderate steatosis 
+in patients with model for end-stage liver disease scores below 27.
+
+Avolio AW(1), Frongillo F, Nicolotti N, Mulè A, Vennarecci G, De Simone P, Agnes 
+S.
+
+Author information:
+(1)Department of Surgery - Transplantation Service, "A.Gemelli" Catholic 
+University of Rome, Italy. alfonso.avolio@rm.unicatt.it
+
+Liver transplantation may be performed using extended criteria donor grafts 
+(ECDg). The characteristics of ECDg include age >60 years, long intensive care 
+unit (ICU) stay, history of malignancy or steatosis. Grafts are often discarded 
+due to steatosis, which can be macrovesicular (MaS) or microvesicular (MiS). MaS 
+is the variety most frequently involved with unfavorable outcomes due to primary 
+nonfunction (PNF) or primary dysfunction (PDF). As of January 2000, all livers 
+referred to our institution were considered potentially transplantable. 
+Steatosis was defined as the presence of fat droplets in more than 5% of 
+hepatocytes. We observed 35 steatotic grafts. Grafts were stratified according 
+to MaS and MiS as follows: low steatosis (5%-15%), mild steatosis (16%-30%), 
+moderate steatosis (31%-60%), or severe steatosis (>60%). Fifteen grafts with 
+moderate (n = 2) or severe (n = 13) MaS were discarded. Twenty grafts were 
+harvested: 18 of them were transplanted at our institution, the remaining 2, 
+discarded by our donor team, were transplanted by other Italian centers. Low MaS 
+was detected in 10 grafts (50%), mild MaS in 4 (20%), and moderate MaS in 2 
+(10%). Low MiS was detected in 8 grafts (40%), mild MiS in 5 (25%), and moderate 
+MiS in 1 (5%). Steatotic grafts were transplanted only into recipients with 
+model for end-stage liver disease (MELD) scores <27. The 6-month graft survival 
+was 80%; the PNF rate was 10%; and the PDF rate was 15%. The careful use of ECDg 
+with low to moderate steatosis is possible if particular care is taken to avoid 
+additional risk factors related to the recipient.
+
+DOI: 10.1016/j.transproceed.2008.10.050
+PMID: 19249515 [Indexed for MEDLINE]
+
+
+222. Transplant Proc. 2009 Jan-Feb;41(1):213-5. doi: 
+10.1016/j.transproceed.2008.09.056.
+
+Ten-year follow-up of kidney transplantation from hepatitis B surface 
+antigen-positive donors.
+
+Sumethkul V(1), Ingsathit A, Jirasiritham S.
+
+Author information:
+(1)Department of Medicine, Ramathibodi Hospital, Bangkok, Thailand.
+
+Hepatitis B surface antigen positivity (HBsAg(+)) was believed to be an 
+exclusion for kidney donation. However, in the presence of an organ shortage, 
+allocation of kidneys from HBsAg(+) donors to recipients with anti-HBsAb(+) 
+might be allowed. We examined the 10-year outcomes of kidney transplants (KT) 
+from HBsAg(+) donors to natural or vaccine-induced anti-HBsAb(+) recipients 
+(Group 1). Hepatitis B hyperimmune globulin (HBIG) and lamivudine were not used 
+at any time. We compared the 10-year outcomes of patients who had HBsAg(+) prior 
+to KT and received kidneys from HBsAg(-) donors (Group 2). The endpoint was 
+patient survival determined by Kaplan-Meier and Cox proportional hazard methods. 
+A total of 41 patients were transplanted from 1991-1997. There were 14 Group 1 
+patients and 27 Group 2 patients. Anti-HBsAb titer ranged from 10 to >1000 
+mIU/mL. Actuarial 10-year patient survivals were 92.8% and 62.5% for Group 1 and 
+Group 2. Only 1 patient in Group 1 died; this case was due to an acute 
+myocardial infarction. Eleven deaths occurred among Group 2; they were due to 
+chronic active hepatitis (n = 5), hepatoma (n = 3), acute fibrosing cholestatic 
+hepatitis (n = 1), and stroke (n = 2). More than 2 times elevated ALT occurred 
+among 45% of Group 2 but none in Group 1. No patients in Group 1 had positive 
+HBsAg and HBV DNA at last follow-up. Four patients in Group 2 displayed 
+seroconversion to positive HBeAg after KT. Secondary analysis examining the 
+impact of KT on patient life expectancy (from the start of dialysis until last 
+follow-up) used Cox regression, revealing that KT was significantly associated 
+with an increased risk for death within 12 months after transplantation (RR = 
+30, P = .005) but a decreased risk for death thereafter (RR = .03, P = .005) for 
+Group 2. However, KT did not have significant impact on the risk for death 
+within the first year for Group 1 (P = .61). Our results showed that the 10-year 
+survival of KT from HBsAg(+) donors to recipients with anti-HBsAb(+) was good. 
+This was not associated with evidence of active liver disease. The presence of 
+HBsAg(+) in donors thus should not be considered an exclusion for kidney 
+donation for anti-HBsAb(+) recipients.
+
+DOI: 10.1016/j.transproceed.2008.09.056
+PMID: 19249516 [Indexed for MEDLINE]
+
+
+223. Value Health. 2009 Mar;12 Suppl 1:S1-4. doi:
+10.1111/j.1524-4733.2009.00514.x.
+
+Moving the QALY forward: rationale for change.
+
+Smith MD(1), Drummond M, Brixner D.
+
+Author information:
+(1)International Society for Pharmacoeconomics and Outcomes Research, 
+Lawrenceville, NJ, USA. mdsmith@ispor.org
+
+DOI: 10.1111/j.1524-4733.2009.00514.x
+PMID: 19250124 [Indexed for MEDLINE]
+
+
+224. Value Health. 2009 Mar;12 Suppl 1:S10-5. doi:
+10.1111/j.1524-4733.2009.00516.x.
+
+QALYs: some challenges.
+
+Nord E(1), Daniels N, Kamlet M.
+
+Author information:
+(1)Norwegian Institute of Public Health, Oslo, Norway. erik.nord@fhi.no
+
+DOI: 10.1111/j.1524-4733.2009.00516.x
+PMID: 19250125 [Indexed for MEDLINE]
+
+
+225. Value Health. 2009 Mar;12 Suppl 1:S16-7. doi:
+10.1111/j.1524-4733.2009.00517.x.
+
+A different approach to health state valuation.
+
+[No authors listed]
+
+DOI: 10.1111/j.1524-4733.2009.00517.x
+PMID: 19250126 [Indexed for MEDLINE]
+
+
+226. Value Health. 2009 Mar;12 Suppl 1:S18-26. doi:
+10.1111/j.1524-4733.2009.00518.x.
+
+Retaining, and enhancing, the QALY.
+
+Lipscomb J(1), Drummond M, Fryback D, Gold M, Revicki D.
+
+Author information:
+(1)Department of Health Policy and Management, Rollins School of Public Health, 
+Emory University, Atlanta, GA 30322, USA. jlipsco@sph.emory.edu
+
+DOI: 10.1111/j.1524-4733.2009.00518.x
+PMID: 19250127 [Indexed for MEDLINE]
+
+
+227. Value Health. 2009 Mar;12 Suppl 1:S27-30. doi:
+10.1111/j.1524-4733.2009.00519.x.
+
+The use of QALYs in clinical and patient decision-making: issues and prospects.
+
+Kind P(1), Lafata JE, Matuszewski K, Raisch D.
+
+Author information:
+(1)Outcomes Research Group, Centre for Health Economics, Alcuin College, 
+University of York, York, UK. pk1@york.ac.uk
+
+DOI: 10.1111/j.1524-4733.2009.00519.x
+PMID: 19250128 [Indexed for MEDLINE]
+
+
+228. Value Health. 2009 Mar;12 Suppl 1:S31-5. doi:
+10.1111/j.1524-4733.2009.00522.x.
+
+Toward a consensus on the QALY.
+
+Drummond M(1), Brixner D, Gold M, Kind P, McGuire A, Nord E; Consensus 
+Development Group.
+
+Author information:
+(1)University of York, Centre for Health Economics, York, UK. md18@york.ac.uk
+
+DOI: 10.1111/j.1524-4733.2009.00522.x
+PMID: 19250129 [Indexed for MEDLINE]
+
+
+229. Value Health. 2009 Mar;12 Suppl 1:S36-7. doi:
+10.1111/j.1524-4733.2009.00520.x.
+
+Editorial: On the benefits of modeling using QALYs for societal resource 
+allocation: the model is the message.
+
+Garrison LP Jr.
+
+DOI: 10.1111/j.1524-4733.2009.00520.x
+PMID: 19250130 [Indexed for MEDLINE]
+
+
+230. Value Health. 2009 Mar;12 Suppl 1:S38-9. doi:
+10.1111/j.1524-4733.2009.00521.x.
+
+Editorial: Moving the QALY forward or just stuck in traffic?
+
+Johnson FR.
+
+DOI: 10.1111/j.1524-4733.2009.00521.x
+PMID: 19250131 [Indexed for MEDLINE]
+
+
+231. Value Health. 2009 Mar;12 Suppl 1:S5-9. doi:
+10.1111/j.1524-4733.2009.00515.x.
+
+QALYs: the basics.
+
+Weinstein MC(1), Torrance G, McGuire A.
+
+Author information:
+(1)Department of Health Policy and Management, Harvard School of Public Health, 
+Boston, MA 02115, USA. mcw@hsph.harvard.edu
+
+Erratum in
+    Value Health. 2010 Dec;13(8):1065.
+
+DOI: 10.1111/j.1524-4733.2009.00515.x
+PMID: 19250132 [Indexed for MEDLINE]
+
+
+232. J Laryngol Otol. 2009 Aug;123(8):873-6. doi: 10.1017/S0022215109004629. Epub
+ 2009 Mar 2.
+
+Early results for treatment of unilateral vocal fold palsy with injection 
+medialisation under local anaesthetic.
+
+Pratap R(1), Mehta P, Blagnys B, Montgomery PQ.
+
+Author information:
+(1)Department of Otolaryngology, Norfolk and Norwich University Hospital, 
+Norwich, UK. rohitpratap@doctors.org.uk
+
+BACKGROUND: The diagnosis and treatment of unilateral vocal fold palsy is a 
+common part of otolaryngology practice. In those patients in whom resolution of 
+symptoms is slow, the resulting dysphonia can have a dramatic effect on the 
+patient's quality of voice and life. We have previously described the procedure 
+of direct phonoplasty under local anaesthesia using the transnasal 
+laryngoesophagoscope.
+OBJECTIVE: To examine the subjective and objective data for the first five 
+patients to undergo this procedure, in the form of laryngographic speech 
+analysis, perceptual assessment and therapy outcome measures.
+RESULTS: Analysis showed a statistically significant improvement in voice 
+quality, in all the above assessment categories, following local anaesthetic 
+direct phonoplasty using the transnasal laryngoesophagoscope.
+CONCLUSION: Collagen injection via transnasal flexible laryngoesophagoscopy is a 
+particularly useful technique for treating vocal fold medialisation, especially 
+in palliative care patients and those with shortened life expectancy.
+
+DOI: 10.1017/S0022215109004629
+PMID: 19250587 [Indexed for MEDLINE]
+
+
+233. BMB Rep. 2009 Feb 28;42(2):62-71.
+
+Autophagy--is it a preferred route for lifespan extension?
+
+Dwivedi M(1), Ahnn J.
+
+Author information:
+(1)BK21 Life Science for Gloval Warming Team, Department of Life Science, 
+Research Institute for Natural Sciences (RINS), Hanyang University, Seoul, 
+Korea.
+
+Autophagy, which is a process of self eating, has gained interest in the past 
+decade due to its both beneficial and controversial roles in various biological 
+phenomena. The discovery of autophagy genes (ATG) in yeast has led to focused 
+research designed to elucidate the mechanism and regulation of this process. The 
+role of autophagy in a variety of biological phenomena, including human disease, 
+is still the subject of debate. However, recent findings suggest that autophagy 
+is a highly regulated process with both beneficial and negative effects. Indeed, 
+studies conducted using various model organisms have demonstrated that increased 
+autophagy leads to an extended lifespan. Despite these findings, it is still 
+unknown if all pathways leading to extended lifespan converge at the process of 
+autophagy or not. Here, an overview of modern developments related to the 
+process of autophagy, its regulation and the molecular machinery involved is 
+presented. In addition, this review focuses on one of the beneficial aspects of 
+autophagy, its role in lifespan regulation.
+
+PMID: 19250605 [Indexed for MEDLINE]
+
+
+234. Int J Radiat Oncol Biol Phys. 2009 Nov 1;75(3):828-35. doi: 
+10.1016/j.ijrobp.2008.11.017. Epub 2009 Feb 26.
+
+Clinical outcome of dose-escalated image-guided radiotherapy for spinal 
+metastases.
+
+Guckenberger M(1), Goebel J, Wilbert J, Baier K, Richter A, Sweeney RA, 
+Bratengeier K, Flentje M.
+
+Author information:
+(1)Department of Radiation Oncology, University of Wuerzburg, 
+Josef-Schneider-Strasse 11, Wuerzburg, Germany. 
+guckenberger_m@klinik.uni-wuerzburg.de
+
+PURPOSE: To evaluate the outcomes after dose-escalated radiotherapy (RT) for 
+spinal metastases and paraspinal tumors.
+METHODS AND MATERIALS: A total of 14 patients, 12 with spinal metastases and a 
+long life expectancy and 2 with paraspinal tumors, were treated for 16 lesions 
+with intensity-modulated, image-guided RT. A median biologic effective dose of 
+74 Gy(10) (range, 55-86) in a median of 20 fractions (range, 3-34) was 
+prescribed to the target volume. The spinal canal was treated to 40 Gy in 20 
+fractions using a second intensity-modulated RT dose level in the case of 
+epidural involvement.
+RESULTS: After median follow-up of 17 months, one local recurrence was observed, 
+for an actuarial local control rate of 88% after 2 years. Local control was 
+associated with rapid and long-term pain relief. Of 11 patients treated for a 
+solitary spinal metastasis, 6 developed systemic disease progression. The 
+actuarial overall survival rate for metastatic patients was 85% and 63% after 1 
+and 2 years, respectively. Acute Grade 2-3 skin toxicity was seen in 2 patients 
+with no late toxicity greater than Grade 2. No radiation-induced myelopathy was 
+observed.
+CONCLUSION: Dose-escalated irradiation of spinal metastases was safe and 
+resulted in excellent local control. Oligometastatic patients with a long life 
+expectancy and epidural involvement are considered to benefit the most from 
+fractionated RT.
+
+DOI: 10.1016/j.ijrobp.2008.11.017
+PMID: 19250762 [Indexed for MEDLINE]
+
+
+235. Biochim Biophys Acta. 2009 Oct;1790(10):1040-8. doi: 
+10.1016/j.bbagen.2009.02.011. Epub 2009 Feb 27.
+
+Caloric restriction-induced life extension of rats and mice: a critique of 
+proposed mechanisms.
+
+Masoro EJ(1).
+
+Author information:
+(1)Barshop Institute for Longevity and Aging Studies, University of Texas Health 
+Science Center, San Antonio, TX, USA. masoro@aol.com
+
+In 1935, Clive McCay and colleagues reported that decreasing the food intake of 
+rats extends their life. This finding has been confirmed many times using rat 
+and mouse models. The responsible dietary factor in rats is the reduced intake 
+of energy; thus, this phenomenon is frequently referred to as caloric 
+restriction. Although many hypotheses have been proposed during the past 74 
+years regarding the underlying mechanism, it is still not known. It is proposed 
+that this lack of progress relates to the fact that most of these hypotheses 
+have been based on a single underlying mechanism and that this is too narrow a 
+focus. Rather, a broad framework is needed. Hormesis has been suggested as 
+providing such a framework. Although it is likely that hormesis is involved in 
+the actions of caloric restriction, it also is probably too narrowly focused. 
+Based on currently available data, a provisional broad framework is presented 
+depicting the complex of mechanisms that likely underlie the life-extending and 
+other anti-aging actions of caloric restriction.
+
+DOI: 10.1016/j.bbagen.2009.02.011
+PMID: 19250959 [Indexed for MEDLINE]
+
+
+236. Encephale. 2009 Feb;35(1):18-24. doi: 10.1016/j.encep.2007.11.008. Epub 2008
+Apr  2.
+
+[A proposal for reforming psychologists' training in France and in the European 
+Union].
+
+[Article in French]
+
+Bouchard JP(1).
+
+Author information:
+(1)Centre international de sciences criminelles et pénales (CISCP), 115, rue 
+Saint-Dominique, 75007 Paris, France. jean-pierre-bouchard@yahoo.fr
+
+BACKGROUND: In France, as in the European Union, the number of psychologists 
+continues to increase and constitutes by far the most important source of 
+professionals in this field. The requests for services of psychologists in many 
+various domains have also increased in an unprecedented way over a number of 
+years. In spite of this development, which should continue to increase 
+considerably, the initial training of psychologists remains uneven and disparate 
+and often remote from, even unsuitable to, the legitimate expectations of users. 
+It is therefore important to reform this training by extending, updating, 
+homogenising and adapting it to current knowledge and needs, and by marking it 
+by a single and specific degree: that of a doctorate. This new eight-year 
+doctoral curriculum would be at the same time more complete and simpler than the 
+European Diploma in Psychology model (EuroPsy), for instance. This latter is a 
+very complicated and insufficient subject and would not completely resolve the 
+great problems of psychologists' training and the competences they need to gain 
+in order to access professional practise, research and teaching. This extension 
+of the psychologists' training would make it possible to integrate new data 
+concerning traditional fields of psychology and data concerning new fields of 
+application of psychology and should obviously include the essential training 
+for psychotherapies referred to the great theoretical and practical models, 
+since their interest is clinically acknowledged (psychoanalysis and 
+psychoanalytical therapies, cognitive and behavioural therapies, systemic 
+therapies, therapies for individuals, couples, families, groups...). This 
+polyreferred training would make it possible to go from a culture still too 
+often axed on orientation and deficiencies of the therapist, to a culture of 
+indication, opening and competence, focused on the patient's interest. Teaching 
+of psychophysiology and neurosciences should be updated and harmonised by taking 
+into account the great current and future stakes of public health. It should be 
+supplemented by psychopharmacology lectures. This reform of psychologists' 
+training would ensure a common pedestal of increased knowledge coupled with 
+theoretical/practical competence. The positive consequences of such a reform 
+would relate to many fields. Here are six examples.
+TRACKS OF WORK: Education: prevention, tracking, treatment of personal problems 
+or of instruction from nursery school to university; orientation; council, 
+assistance with managing difficulties of teaching staff, etc. Health: tracking, 
+prevention, diagnosis, treatment of psychic and behavioural disorders, of 
+addictive attitudes, of psychological problems related to somatic pathologies 
+(cancer, HIV, etc.), of problems related to ageing of population; training and 
+supervision of medical staff, etc. Justice: caring of victims, of offenders in 
+prison or out of prison, fight against repetition, expertise, staff training 
+(magistrates, lawyers, penitentiary staff, social workers...). Work context: 
+(companies, public and private organisations): recruitment, management of staff 
+problems, human resources management, coaching, competence assessment, 
+orientation, etc. Sport: assessment, management and improvement of performances, 
+management of stress, success, failures, and career; fight against doping; help 
+for retraining after suspension of activity, etc.
+RESEARCH: development of many useful research axes in relation to ground needs 
+in all application fields of psychology. Such a reform, which would make it 
+possible to shift towards a training more adapted to reality, more homogeneous 
+and aiming at excellence, would ensure better guarantees of service to 
+psychologist users and to their possible employers. Beyond a deep improvement of 
+their initial training and their offer of competence, it would also enable 
+psychologists to witness a very clear improvement of their professional status 
+as well as their level of remuneration. The number of trained psychologists 
+could be adapted to the needs of our society by organizing a numerus clausus for 
+access in a Master 1. This regulation would leave at least three years to 
+students to show their motivations and competence. It would also give a valuable 
+licence level (clearly recognized on the European scene) to students who do not 
+continue the university course in psychology and want to reorientate themselves 
+(entrance exams, studies or professions requiring good prerequisite in social 
+studies and nature studies, etc.).
+SOME SUGGESTIONS: Those already authorised to hold the title of psychologist 
+when this doctorate is created would not be obliged to validate it, but would 
+profit from the progress generated by this important improvement in the initial 
+training (status, remuneration, etc). If some of these people wished to validate 
+it, they could do so within a defined time and according to defined methods 
+(additional training, validation of experience assets, thesis, etc.). To help 
+students to materially take up the extension of the curriculum, systems of 
+financial assistance for the last three years of studies should be set up either 
+in the form of study allowances, or in the form of internship with remunerated 
+professional implication in the great sectors of exercise of psychology 
+(education, legal and paralegal sectors, industry and work sectors, health, 
+etc.) in parallel and in addition to university training. Internship should be 
+privileged because it would permit the achievement of four objectives: immersion 
+of very advanced students in professional exercise while maintaining training 
+them under supervision, to offer them various and crucial grounds of exercise 
+and research that are adapted to reality, to remunerate them and hence also, 
+offer an important professional service to users (individuals or institutions). 
+The most important and essential improvement added to the initial training of 
+psychologists by the creation of this new doctoral course would not exclude 
+continuous training when necessary in career course. This reform aiming at 
+excellence, which is socially and humanly highly necessary, must obviously also 
+be accompanied by an indispensable and important revision of the criteria in the 
+selection and competence of those who will dispense this renewed training (the 
+current criteria used to recruit psychology teachers have been widely contested 
+and deemed to be, justly so, the main cause of shortcomings of the initial 
+training of psychologists and of their professional segmentation). An 
+aggregative or postdoctoral route should thus be created to recruit future 
+psychology teachers in the higher education (public and private). This 
+recruitment should take into account candidates' theoretical knowledge, but also 
+their knowledge of the profession and their qualities in its exercise. Thus the 
+following criteria are essential when recruiting psychology teachers: validation 
+of the reformed doctorate in psychology (and possibly validation of trainings 

@@ -1,0 +1,1000 @@
+(3)Department of Fisheries, Faculty of Fisheries and Environmental Sciences, 
+Gorgan University of Agricultural Sciences and Natural Resources, Gorgan 
+4913815739, Iran.
+(4)Department of Genomics, Agricultural Biotechnology Research Institute of Iran 
+(ABRII), Karaj 3135933151, Iran.
+(5)Department of Fisheries Sciences, Faculty of Natural Resources, University of 
+Tehran, Karaj 3158777871, Iran.
+(6)Faculty of Biosciences and Aquaculture, Nord University, 8026 Bodø, Norway.
+
+Morphology and feature selection are key approaches to address several issues in 
+fisheries science and stock management, such as the hypothesis of admixture of 
+Caspian common carp (Cyprinus carpio) and farmed carp stocks in Iran. The 
+present study was performed to investigate the population classification of 
+common carp in the southern Caspian basin using data mining algorithms to find 
+the most important characteristic(s) differing between Iranian and farmed common 
+carp. A total of 74 individuals were collected from three locations within the 
+southern Caspian basin and from one farm between November 2015 and April 2016. A 
+dataset of 26 traditional morphometric (TMM) attributes and a dataset of 14 
+geometric landmark points were constructed and then subjected to various machine 
+learning methods. In general, the machine learning methods had a higher 
+prediction rate with TMM datasets. The highest decision tree accuracy of 77% was 
+obtained by rule and decision tree parallel algorithms, and "head height on eye 
+area" was selected as the best marker to distinguish between wild and farmed 
+common carp. Various machine learning algorithms were evaluated, and we found 
+that the linear discriminant was the best method, with 81.1% accuracy. The 
+results obtained from this novel approach indicate that Darwin's domestication 
+syndrome is observed in common carp. Moreover, they pave the way for automated 
+detection of farmed fish, which will be most beneficial to detect escapees and 
+improve restocking programs.
+
+DOI: 10.3390/life12070957
+PMCID: PMC9315565
+PMID: 35888047
+
+Conflict of interest statement: The authors declare that they have no competing 
+interest.
+
+
+268. Life (Basel). 2022 Jun 30;12(7):981. doi: 10.3390/life12070981.
+
+The Supercapsular Percutaneously Assisted Total Hip (SuperPATH) Approach 
+Revisited: Technique Improvements after the Perioperative Experience of 344 
+Cases.
+
+Flevas DA(1), Tsakotos GA(1)(2), Benakis LN(1), Sasalos GG(1), Tokis AV(1).
+
+Author information:
+(1)Arthroscopy and Orthopaedic Surgery Department, Metropolitan Hospital, Neo 
+Faliro, 185 47 Athens, Greece.
+(2)Department of Anatomy, School of Medicine, National and Kapodistrian 
+University of Athens, 157 72 Athens, Greece.
+
+The SuperPATH approach is a direct superior portal-assisted approach for total 
+hip arthroplasty (THA) that utilizes the interval between the gluteus minimus 
+and the piriformis to access the hip capsule. Patients and Methods: SuperPATH 
+arthroplasty was performed by a single surgeon between December of 2016 and 
+December of 2021 in 344 cases. The technique described by Chow was performed in 
+all cases. The average length of stay was 1.3 days, and all patients were 
+discharged for home. All patients were mobilized on the day of the operation. 
+Six cases presented complications: four intraoperative femur fractures and two 
+peroneal nerve palsies. No infection and no hip dislocation were noticed in any 
+case. Modifications: We recommend that the patient be placed as far from the 
+surgeon as possible as well as the use of a sterilized standard linen pack to 
+elevate the foot and internally rotate the hip. In addition, regarding 
+instrumentation, we recommend the use of a 4.5 mm drill for the first guidance 
+femur drilling and a standard corkscrew for femoral head removal. Finally, we 
+propose a different reduction technique using a hook. The use of the SuperPATH 
+approach allows for maximal tissue sparing through preservation of external 
+rotators and minimizing stretching of the gluteus medius. There is no range of 
+motion restrictions postoperatively and patients can achieve a high level of 
+function with a very low dislocation risk and reduced inpatient stay. 
+Furthermore, an incision extension is possible if needed in complex cases. For 
+surgeons familiar with the standard posterolateral approach, the SuperPATH 
+approach is a reliable and safe method with promising results for the patient. 
+In order to improve the surgical effect and facilitate some steps in the 
+procedure, we share our experience and recommend some modifications.
+
+DOI: 10.3390/life12070981
+PMCID: PMC9318286
+PMID: 35888071
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+269. Life (Basel). 2022 Jul 14;12(7):1050. doi: 10.3390/life12071050.
+
+Finding Emergent Gait Patterns May Reduce Progression of Knee Osteoarthritis in 
+a Clinically Relevant Time Frame.
+
+Gupta D(1), Donnelly CJ(2)(3), Reinbolt JA(1).
+
+Author information:
+(1)Mechanical, Aerospace and Biomedical Engineering, The University of 
+Tennessee, Knoxville, TN 37996, USA.
+(2)Rehabilitation Research Institute of Singapore, Nanyang Technological 
+University, Singapore 308232, Singapore.
+(3)School of Human Sciences (Health and Sport Sciences), The University of 
+Western Australia, Crawley, WA 6009, Australia.
+
+A high contact force between the medial femoral condyle and the tibial plateau 
+is the primary cause of medial compartment knee osteoarthritis (OA). A high 
+medial contact force (MCF) during gait has been shown to be correlated to both 
+the knee adduction moment (KAM) and knee flexion/extension moment (KFM). In this 
+study, we used OpenSim Moco to find gait kinematics that reduced the peaks of 
+the KAM, without increasing the peaks of the KFM, which could potentially reduce 
+the MCF and, hence, the progression of knee OA. We used gait data from four knee 
+OA participants. Our simulations decreased both peaks of the KAM without 
+increasing either peak of the KFM. We found that increasing the step width was 
+the primary mechanism, followed by simulations of all participants to reduce the 
+frontal plane lever arm of the ground reaction force vector about the knee, in 
+turn reducing the KAM. Importantly, each participant simulation followed 
+different patterns of kinematic changes to achieve this reduction, which 
+highlighted the need for participant-specific gait modifications. Moreover, we 
+were able to simulate emerging gait patterns within 15 min, enhancing the 
+relevance and potential for the application of developed methods in clinical 
+settings.
+
+DOI: 10.3390/life12071050
+PMCID: PMC9318542
+PMID: 35888138
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+270. Life (Basel). 2022 Jul 19;12(7):1078. doi: 10.3390/life12071078.
+
+Transarterial Treatment of Lung Cancer.
+
+Hori A(1), Dejima I(2), Hori S(1), Oka S(1), Nakamura T(1), Ueda S(2).
+
+Author information:
+(1)Institute for Image Guided Therapy, Izumisano 598-0047, Japan.
+(2)Department of Radiology, Wakayama Medical University, Wakayama 641-8509, 
+Japan.
+
+PURPOSE: The treatment efficacy of the transarterial approach to lung cancer is 
+evaluated.
+MATERIALS AND METHODS: A total of 98 patients with advanced lung cancer or 
+recurrent lung cancer after the standard therapies were enrolled 
+retrospectively. The bronchial arteries and mediastinal branches from the 
+subclavian artery were selected by a microcatheter. Immediately after the 
+selective arterial infusion of anti-neoplastic agents, embolization with a 
+spherical embolic material was carried out. Local tumor effects and overall 
+survival were evaluated.
+RESULT: The mean reduction rate was 17.9%, with 24.2% for partial remission and 
+with 2.1% for progression disease. The rate of stable disease was 72.6%. The 
+response rate was 25.3%, and the disease control rate was 97.9%. The median 
+survival time (MST) was 11.4 months, the 1-year survival rate was 45.2%, and the 
+2-year survival rate was 35.6%. Although it is insignificant, the MST for 51 
+adenocarcinomas was higher than that of 29 squamous cell carcinomas (18.6 months 
+and 9.4 months, respectively). The local extension of tumors related to a better 
+prognosis, though it was not significant. Lymph node metastases and distant 
+metastases were poor prognostic factors. No major complications nor 
+treatment-related mortalities were found in this study.
+CONCLUSION: The transarterial treatment for lung cancer should be considered as 
+a treatment option when the other treatments were not indicated both in initial 
+cases and in recurrent cases.
+
+DOI: 10.3390/life12071078
+PMCID: PMC9317801
+PMID: 35888165
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+271. Life (Basel). 2022 Jul 20;12(7):1084. doi: 10.3390/life12071084.
+
+Robust Gaussian and Nonlinear Hybrid Invariant Clustered Features Aided Approach 
+for Speeded Brain Tumor Diagnosis.
+
+Almalki YE(1), Ali MU(2), Ahmed W(3), Kallu KD(4), Zafar A(5), Alduraibi SK(6), 
+Irfan M(7), Basha MAA(8), Alshamrani HA(9), Alduraibi AK(6).
+
+Author information:
+(1)Division of Radiology, Department of Internal Medicine, Medical College, 
+Najran University, Najran 61441, Saudi Arabia.
+(2)Department of Unmanned Vehicle Engineering, Sejong University, Seoul 05006, 
+Korea.
+(3)Secret Minds, Entrepreneurial Organization, Islamabad 44000, Pakistan.
+(4)Department of Robotics and Intelligent Machine Engineering (RIME), School of 
+Mechanical and Manufacturing Engineering (SMME), National University of Sciences 
+and Technology (NUST), H-12, Islamabad 44000, Pakistan.
+(5)Department of Electrical Engineering, The Ibadat International University, 
+Islamabad 54590, Pakistan.
+(6)Department of Radiology, College of Medicine, Qassim University, Buraidah 
+52571, Saudi Arabia.
+(7)Electrical Engineering Department, College of Engineering, Najran University, 
+Najran 61441, Saudi Arabia.
+(8)Radiology Department, Faculty of Human Medicine, Zagazig University, Zagazig 
+44631, Egypt.
+(9)Radiological Sciences Department, College of Applied Medical Sciences, Najran 
+University, Najran 61441, Saudi Arabia.
+
+Brain tumors reduce life expectancy due to the lack of a cure. Moreover, their 
+diagnosis involves complex and costly procedures such as magnetic resonance 
+imaging (MRI) and lengthy, careful examination to determine their severity. 
+However, the timely diagnosis of brain tumors in their early stages may save a 
+patient's life. Therefore, this work utilizes MRI with a machine learning 
+approach to diagnose brain tumor severity (glioma, meningioma, no tumor, and 
+pituitary) in a timely manner. MRI Gaussian and nonlinear scale features are 
+extracted due to their robustness over rotation, scaling, and noise issues, 
+which are common in image processing features such as texture, local binary 
+patterns, histograms of oriented gradient, etc. For the features, each MRI is 
+broken down into multiple small 8 × 8-pixel MR images to capture small details. 
+To counter memory issues, the strongest features based on variance are selected 
+and segmented into 400 Gaussian and 400 nonlinear scale features, and these 
+features are hybridized against each MRI. Finally, classical machine learning 
+classifiers are utilized to check the performance of the proposed hybrid feature 
+vector. An available online brain MRI image dataset is utilized to validate the 
+proposed approach. The results show that the support vector machine-trained 
+model has the highest classification accuracy of 95.33%, with a low 
+computational time. The results are also compared with the recent literature, 
+which shows that the proposed model can be helpful for clinicians/doctors for 
+the early diagnosis of brain tumors.
+
+DOI: 10.3390/life12071084
+PMCID: PMC9315657
+PMID: 35888172
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+272. Materials (Basel). 2022 Jul 21;15(14):5071. doi: 10.3390/ma15145071.
+
+Horizontal Oxidation Diffusion Behavior of MEMS-Based Tungsten-Rhenium Thin Film 
+Thermocouples.
+
+Ruan Y(1), Xue M(2), Teng J(2), Wu Y(1), Shi M(1).
+
+Author information:
+(1)Department of Precision Instruments, Tsinghua University, Beijing 100084, 
+China.
+(2)Department of Materials Physics and Chemistry, University of Science and 
+Technology Beijing, Beijing 100083, China.
+
+Tungsten-rhenium thin film thermocouples (TFTCs) are well suited for the surface 
+temperature monitoring of hot components due to their small size, rapid response 
+and low cost. In this study, a tungsten-rhenium TFTC with SiC protective film on 
+all parts except the pads was fabricated by a microelectromechanical system 
+(MEMS) process. During the low to medium temperature (-40 °C to 500 °C) 
+repeatability test phase, the thermal voltage from the TFTC agreed well with 
+that of the standard tungsten-rhenium thermocouple. However, during the high 
+temperature test phase, the TFTC lost electronic response at around 620 °C. 
+Failure analysis of the TFTC tested at 620 °C was performed by microscopy, 
+scanning electron microscope (SEM), energy dispersive spectroscopy (EDS), laser 
+scanning confocal microscope (LSCM) and statistics. The results showed that the 
+pads were oxidized without the protective layer, the number of oxidized 
+protrusions distributed in this TFTC from the pad to the node decreases more and 
+more slowly and the size of the oxidized protrusions also becomes smaller and 
+smaller. This demonstrates the presence of horizontal oxidation diffusion in 
+TFTCs, further illustrating the importance of pad protection and provides a 
+direction for the subsequent structural optimization and the extension of the 
+service life of TFTCs and other sensors.
+
+DOI: 10.3390/ma15145071
+PMCID: PMC9317371
+PMID: 35888538
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study, in the collection, analyses or 
+interpretation of data, in the writing of the manuscript or in the decision to 
+publish the results.
+
+
+273. Materials (Basel). 2022 Jul 21;15(14):5077. doi: 10.3390/ma15145077.
+
+Life Prediction Method of Dissimilar Lightweight Materials Welded Joints with 
+Precrack under Coupled Impact-Fatigue Loading.
+
+Ni Z(1), Xiong T(1), Lei J(1), Wang L(1), Gao T(1), Yu J(2), Mi C(1).
+
+Author information:
+(1)Department of Mechanical Engineering, Hunan University of Technology, Zhuzhou 
+412007, China.
+(2)Department of Mechanical and Vehicle Engineering, Hunan University, Changsha 
+410082, China.
+
+This paper aims to explore the fatigue life estimation approach of welded joints 
+with precrack under coupled impact and fatigue loading, and the base metal is 
+dissimilar 5083H111 and 5754 aluminum alloy. Impact tests are first carried out 
+on the dissimilar lightweight materials welded joint with precrack located in 
+the middle of the specimen, and a stress and strain field is obtained to 
+determine the fatigue damage model parameters by using finite element dynamic 
+analysis to simulate the impact process. Based, on the S-N curve of welded 
+joints, the predicted life expectancy is found to be inconsistent with the 
+experimental results. According to the continuum damage mechanics, the lifetime 
+assessment model is presented to calculate both impact and fatigue damage. The 
+estimated results agree well with the experimental ones.
+
+DOI: 10.3390/ma15145077
+PMCID: PMC9324919
+PMID: 35888543
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+274. Nanomaterials (Basel). 2022 Jul 7;12(14):2337. doi: 10.3390/nano12142337.
+
+Inorganic Nanomaterials versus Polymer-Based Nanoparticles for Overcoming 
+Neurodegeneration.
+
+Martano S(1), De Matteis V(1), Cascione M(1), Rinaldi R(1).
+
+Author information:
+(1)Department of Mathematics and Physics "Ennio De Giorgi", University of 
+Salento, Via Arnesano, 73100 Lecce, Italy.
+
+Neurodegenerative disorders (NDs) affect a great number of people worldwide and 
+also have a significant socio-economic impact on the aging population. In this 
+context, nanomedicine applied to neurological disorders provides several 
+biotechnological strategies and nanoformulations that improve life expectancy 
+and the quality of life of patients affected by brain disorders. However, 
+available treatments are limited by the presence of the blood-brain barrier 
+(BBB) and the blood-cerebrospinal fluid barrier (B-CSFB). In this regard, 
+nanotechnological approaches could overcome these obstacles by updating various 
+aspects (e.g., enhanced drug-delivery efficiency and bioavailability, BBB 
+permeation and targeting the brain parenchyma, minimizing side effects). The aim 
+of this review is to carefully explore the key elements of different 
+neurological disorders and summarize the available nanomaterials applied for 
+neurodegeneration therapy looking at several types of nanocarriers. Moreover, 
+nutraceutical-loaded nanoparticles (NPs) and synthesized NPs using green 
+approaches are also discussed underling the need to adopt eco-friendly 
+procedures with a low environmental impact. The proven antioxidant properties 
+related to several natural products provide an interesting starting point for 
+developing efficient and green nanotools useful for neuroprotection.
+
+DOI: 10.3390/nano12142337
+PMCID: PMC9317100
+PMID: 35889562
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+275. Nutrients. 2022 Jul 17;14(14):2924. doi: 10.3390/nu14142924.
+
+Relationship between Dietary Patterns and Subjectively Measured Physical 
+Activity in Japanese Individuals 85 Years and Older: A Cross-Sectional Study.
+
+Yu T(1), Oguma Y(1)(2), Asakura K(3), Takayama M(4), Abe Y(5), Arai Y(5)(6).
+
+Author information:
+(1)Graduate School of Health Management, Keio University, 4411 Endo, Fujisawa 
+City 252-0883, Japan.
+(2)Sports Medicine Research Center, Keio University, 4-1-1 Hiyoshi, Kohoku-ku, 
+Yokohama City 223-8251, Japan.
+(3)Department of Environmental and Occupational Health, School of Medicine, Toho 
+University, 5-21-16 Omorinishi, Ota-ku, Tokyo 143-8540, Japan.
+(4)Center for Preventive Medicine, Keio University, 35 Shinanomachi, 
+Shinjuku-ku, Tokyo 160-8582, Japan.
+(5)Center for Supercentenarian Medical Research, Keio University, 35 
+Shinanomachi, Shinjuku-ku, Tokyo 160-8582, Japan.
+(6)Faculty of Nursing and Medical Care, Keio University, 4411 Endo, Fujisawa 
+City 252-0883, Japan.
+
+High-quality diets and regular physical activity (PA) are considered healthy 
+behaviors (HBs). HBs are associated with many health outcomes and are expected 
+to improve quality of life. Although implementing HBs is important, the 
+relationship between dietary patterns (DPs) and PA has not been well 
+investigated, especially among those aged ≥ 85. This study used data from the 
+Tokyo Oldest Old survey on Total Health study to examine the relationship 
+between DPs and PA in a cross-sectional study. The dietary survey used the brief 
+self-administered diet history questionnaire to estimate the intake of 58 foods. 
+After energy adjustment, principal component analysis was performed to identify 
+major DPs. A validated questionnaire was used to evaluate PA, and linear 
+regression analysis was used to investigate the association between DPs and PA, 
+considering confounders. A total of 519 participants were included. Three major 
+DPs ('Various plant foods', 'Fish and mushrooms', 'Cooked rice and miso soup') 
+were identified. 'Various plant foods' was similar to DPs previously named 
+'Healthy' or 'Prudent', and its trend was positively associated with higher PA. 
+This study observed the implementation of HBs even among those aged ≥ 85, 
+suggesting that a trend toward a healthier diet is associated with higher PA.
+
+DOI: 10.3390/nu14142924
+PMCID: PMC9323235
+PMID: 35889881 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+276. Nutrients. 2022 Jul 20;14(14):2977. doi: 10.3390/nu14142977.
+
+Systematic Review on the Potential Effect of Berry Intake in the Cognitive 
+Functions of Healthy People.
+
+De Amicis R(1)(2), Mambrini SP(1)(3), Pellizzari M(1), Foppiani A(1), Bertoli 
+S(1)(2), Battezzati A(1), Leone A(1).
+
+Author information:
+(1)International Center for the Assessment of Nutritional Status (ICANS), 
+Department of Food, Environmental and Nutritional Sciences (DeFENS), University 
+of Milan, 20133 Milan, Italy.
+(2)Laboratory of Nutrition and Obesity Research, Department of Endocrine and 
+Metabolic Diseases, IRCCS, Istituto Auxologico Italiano, 20145 Milan, Italy.
+(3)Laboratory of Metabolic Research, S. Giuseppe Hospital, IRCCS, Istituto 
+Auxologico Italiano, 28824 Piancavallo, Italy.
+
+The increase in life expectancy poses health challenges, such as increasing the 
+impairment of cognitive functions. Berries show a neuroprotective effect thanks 
+to flavonoids, able to reduce neuroinflammatory and to increase neuronal 
+connections. The aim of this systematic review is to explore the impact of 
+berries supplementation on cognitive function in healthy adults and the elderly. 
+Twelve studies were included for a total of 399 participants, aged 18-81 years 
+(mean age: 41.8 ± 4.7 years). Six studies involved young adults (23.9 ± 3.7 
+years), and four studies involved the elderly (60.6 ± 6.4 years). Most studies 
+investigated effects of a single berry product, but one used a mixture of 4 
+berries. Non-significant differences were detected across cognition domains and 
+methodologies, but significant and positive effects were found for all cognitive 
+domains (attention and concentration, executive functioning, memory, motor 
+skills and construction, and processing speed), and in most cases they were 
+present in more than one study and detected using different methodologies. 
+Although some limitations should be taken into account to explain these results, 
+the positive findings across studies and methodologies elicit further studies on 
+this topic, to endorse the consumption of berries in healthy populations to 
+prevent cognitive decline.
+
+DOI: 10.3390/nu14142977
+PMCID: PMC9321916
+PMID: 35889934 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+277. Pathogens. 2022 Jul 21;11(7):819. doi: 10.3390/pathogens11070819.
+
+The Current Knowledge on Clostridioides difficile Infection in Patients with 
+Inflammatory Bowel Diseases.
+
+Boeriu A(1)(2), Roman A(1)(2), Fofiu C(1), Dobru D(1)(2).
+
+Author information:
+(1)Gastroenterology Department, University of Medicine Pharmacy, Sciences, and 
+Technology "George Emil Palade" Targu Mures, 540142 Targu Mures, Romania.
+(2)Gastroenterology Department, Mures County Clinical Hospital, 540103 Targu 
+Mures, Romania.
+
+Clostridioides difficile (C. difficile) represents a major health burden with 
+substantial economic and clinical impact. Patients with inflammatory bowel 
+diseases (IBD) were identified as a risk category for Clostridioides difficile 
+infection (CDI). In addition to traditional risk factors for C. difficile 
+acquisition, IBD-specific risk factors such as immunosuppression, severity and 
+extension of the inflammatory disease were identified. C. difficile virulence 
+factors, represented by both toxins A and B, induce the damage of the intestinal 
+mucosa and vascular changes, and promote the inflammatory host response. Given 
+the potential life-threatening complications, early diagnostic and therapeutic 
+interventions are required. The screening for CDI is recommended in IBD 
+exacerbations, and the diagnostic algorithm consists of clinical evaluation, 
+enzyme immunoassays (EIAs) or nucleic acid amplification tests (NAATs). An 
+increased length of hospitalization, increased colectomy rate and mortality are 
+the consequences of concurrent CDI in IBD patients. Selection of CD strains of 
+higher virulence, antibiotic resistance, and the increasing rate of recurrent 
+infections make the management of CDI in IBD more challenging. An individualized 
+therapeutic approach is recommended to control CDI as well as IBD flare. Novel 
+therapeutic strategies have been developed in recent years in order to manage 
+severe, refractory or recurrent CDI. In this article, we aim to review the 
+current evidence in the field of CDI in patients with underlying IBD, pointing 
+to pathogenic mechanisms, risk factors for infection, diagnostic steps, clinical 
+impact and outcomes, and specific management.
+
+DOI: 10.3390/pathogens11070819
+PMCID: PMC9323231
+PMID: 35890064
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+278. Pharmaceuticals (Basel). 2022 Jul 10;15(7):847. doi: 10.3390/ph15070847.
+
+Chalcones as Potential Ligands for the Treatment of Parkinson's Disease.
+
+Królicka E(1), Kieć-Kononowicz K(1), Łażewska D(1).
+
+Author information:
+(1)Department of Technology and Biotechnology of Drugs, Faculty of Pharmacy, 
+Jagiellonian University Medical College, Medyczna 9, 30-688 Kraków, Poland.
+
+Along with the increase in life expectancy, a significant increase of people 
+suffering from neurodegenerative diseases (ND) has been noticed. The second most 
+common ND, after Alzheimer's disease, is Parkinson's disease (PD), which 
+manifests itself with a number of motor and non-motor symptoms that hinder the 
+patient's life. Current therapies can only alleviate those symptoms and slow 
+down the progression of the disease, but not effectively cure it. So now, in 
+addition to understanding the mechanism and causes of PD, it is also important 
+to find a powerful way of treatment. It has been proved that in the etiology and 
+course of PD, the essential roles are played by dopamine (DA) (an important 
+neurotransmitter), enzymes regulating its level (e.g., COMT, MAO), and oxidative 
+stress leading to neuroinflammation. Chalcones, due to their "simple" structure 
+and valuable biological properties are considered as promising candidates for 
+treatment of ND, also including PD. Here, we provide a comprehensive review of 
+chalcones and related structures as potential new therapeutics for cure and 
+prevention of PD. For this purpose, three databases (Pubmed, Scopus and Web of 
+Science) were searched to collect articles published during the last 5 years 
+(January 2018-February 2022). Chalcones have been described as promising enzyme 
+inhibitors (MAO B, COMT, AChE), α-synuclein imaging probes, showing 
+anti-neuroinflammatory activity (inhibition of iNOS or activation of Nrf2 
+signaling), as well as antagonists of adenosine A1 and/or A2A receptors. This 
+review focused on the structure-activity relationships of these compounds to 
+determine how a particular substituent or its position in the chalcone ring(s) 
+(ring A and/or B) affects biological activity.
+
+DOI: 10.3390/ph15070847
+PMCID: PMC9317344
+PMID: 35890146
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+279. Polymers (Basel). 2022 Jul 21;14(14):2960. doi: 10.3390/polym14142960.
+
+New Opportunities for Organic Semiconducting Polymers in Biomedical 
+Applications.
+
+Kim K(1), Yoo H(2), Lee EK(3).
+
+Author information:
+(1)Samsung Advanced Institute of Technology (SAIT), Suwon 16678, Korea.
+(2)Department of Electronic Engineering, Gachon University, 1342 Seongnam-daero, 
+Seongnam 13120, Korea.
+(3)Department of Chemical Engineering, Pukyong National University, Busan 48513, 
+Korea.
+
+The life expectancy of humans has been significantly elevated due to 
+advancements in medical knowledge and skills over the past few decades. Although 
+a lot of knowledge and skills are disseminated to the general public, electronic 
+devices that quantitatively diagnose one's own body condition still require 
+specialized semiconductor devices which are huge and not portable. In this 
+regard, semiconductor materials that are lightweight and have low power 
+consumption and high performance should be developed with low cost for mass 
+production. Organic semiconductors are one of the promising materials in 
+biomedical applications due to their functionalities, solution-processability 
+and excellent mechanical properties in terms of flexibility. In this review, we 
+discuss organic semiconductor materials that are widely utilized in biomedical 
+devices. Some advantageous and unique properties of organic semiconductors 
+compared to inorganic semiconductors are reviewed. By critically assessing the 
+fabrication process and device structures in organic-based biomedical devices, 
+the potential merits and future aspects of the organic biomedical devices are 
+pinpointed compared to inorganic devices.
+
+DOI: 10.3390/polym14142960
+PMCID: PMC9318588
+PMID: 35890734
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+280. Vaccines (Basel). 2022 Jun 30;10(7):1054. doi: 10.3390/vaccines10071054.
+
+Factors Influencing Men's Attitudes toward HPV Vaccination in Males Included in 
+the Chinese National Immunization Program.
+
+Tao Y(1), Shao H(2), Zhang T(3), Pu J(1), Tang C(1).
+
+Author information:
+(1)Department of Phase I Clinical Trial Ward, The First Affiliated Hospital of 
+Chongqing Medical University, Chongqing 400016, China.
+(2)College of Pharmacy, Chongqing Medical University, Chongqing 400016, China.
+(3)The First Clinical College, Chongqing Medical University, Chongqing 400016, 
+China.
+
+BACKGROUND: Human papillomavirus (HPV) infection is the most common sexually 
+transmitted disease, and it is associated with anogenital warts and 
+oropharyngeal and anogenital cancers. Among female malignant tumors in China, 
+the incidence of cervical cancer ranks second, with only breast cancer being 
+more prevalent. HPV infection and related diseases affects both women and men. 
+HPV vaccination is an optimal prevention strategy in preventing HPV infection 
+and related diseases. The inclusion of the HPV vaccine in the national 
+immunization program is an effective way to increase immunization coverage, 
+reduce the burden of HPV related diseases, and increase national life 
+expectancy.
+OBJECTIVE: This study aimed to explore the factors influencing the attitudes of 
+Chinese men toward the inclusion of the HPV vaccine in males included in the 
+national immunization program, thus providing reference for launching the 
+national immunization program policy.
+METHODS: We invited men aged 20 to 45 to participate in an online survey. The 
+participants were requested to complete a questionnaire, including 
+sociodemographic characteristics, sexual behavior characteristics, knowledge of 
+HPV and the HPV vaccine, and attitudes toward the HPV vaccine. A logistic 
+regression model was constructed to analyze the influencing factors of 
+attitudes.
+RESULTS: A total of 660 males in China participated in this survey, and 80.45% 
+supported the inclusion of HPV vaccines in national immunization programs. 
+Participants earning CNY 100,000-200,000 (dds ratio (OR): 0.63, 95% confidence 
+interval (CI): 0.39-1.00) or ≥200,000 (OR: 0.34, 95% CI: 0.17-0.68) were more 
+likely to disapprove this strategy. Compared with people without a history of 
+HPV infection, those with a history of HPV infection (OR: 1.84, 95% CI: 
+1.17-2.90) were more likely to approve. Men who had better knowledge of HPV were 
+more likely to approve than men with less knowledge about HPV (OR: 1.44, 95% CI: 
+1.17-1.79). Compared with participants who did not know when the HPV vaccine 
+should be given, those who knew that the ideal time of vaccination is before an 
+individual becomes sexually active (OR: 1.75, 95% CI: 1.04-2.95) were more 
+likely to approve.
+CONCLUSION: One in five men did not support the inclusion of HPV vaccines in 
+national immunization programs, and they are likely to be from higher 
+socioeconomic background and have poor knowledge of HPV. In order to implement 
+comprehensive immunity, targeted actions need to be taken at national and public 
+levels. In addition, when implementing measures, more attention needs to be paid 
+to lower income men, men without a history of HPV infection and with poor 
+knowledge of HPV, as well as young men.
+
+DOI: 10.3390/vaccines10071054
+PMCID: PMC9319647
+PMID: 35891217
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+281. Vaccines (Basel). 2022 Jul 19;10(7):1145. doi: 10.3390/vaccines10071145.
+
+Adults with Trisomy 21 Have Differential Antibody Responses to Influenza A.
+
+James S(1), Haight RC(2), Hanna C(2), Furton L(3).
+
+Author information:
+(1)School of Pharmacy, Regis University, Denver, CO 80221, USA.
+(2)Department of Pharmacotherapy, College of Pharmacy, University of North Texas 
+Health Science Center, Fort Worth, TX 76107, USA.
+(3)School of Public Health, Boston University, Boston, MA 02118, USA.
+
+Down syndrome is caused by an extra copy of chromosome 21. In the past two 
+decades, the life expectancy of individuals with Down syndrome has significantly 
+increased from early 20s to early 60s, creating a population of individuals of 
+which little is known about how well they are protected against infectious 
+disease. The goal of this work is to better understand if adults with Down 
+syndrome are well protected against influenza following vaccination. We obtained 
+plasma samples from 18 adults (average age = 31yo) with Down syndrome and 17 
+age/gender-matched disomic individuals, all vaccinated against influenza. 
+Antibody concentration to influenza A was measured using ELISA and antibody 
+titers were measured using a hemagglutinin inhibition assay. Statistical 
+analysis was performed using Stata Statistical Software. Adults with Down 
+syndrome had a significantly increased concentration of antibodies to a mixture 
+of influenza A viral proteins; however, they had a significantly decreased titer 
+to the Influenza A/Hong Kong compared to disomic controls. These findings 
+suggest that more vigorous studies of B- and T-cell function in adults with Down 
+syndrome with respect to influenza vaccination are warranted, and that this 
+population may benefit from a high-dose influenza vaccine.
+
+DOI: 10.3390/vaccines10071145
+PMCID: PMC9324516
+PMID: 35891309
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+282. Viruses. 2022 Jul 5;14(7):1475. doi: 10.3390/v14071475.
+
+Development of a Novel RT-qPCR Detecting Method of Covert Mortality Nodavirus 
+(CMNV) for the National Proficiency Test in Molecular Detection.
+
+Wang W(1)(2), Liu S(2), Yao L(1)(2), Xia J(1)(2), Xu T(2), Wang C(2), Li C(2), 
+Zhang Q(1)(2).
+
+Author information:
+(1)College of Fisheries and Life Science, Shanghai Ocean University, Shanghai 
+201306, China.
+(2)Yellow Sea Fisheries Research Institute, Chinese Academy of Fishery Sciences, 
+Function Laboratory for Marine Fisheries Science and Food Production Processes, 
+Qingdao National Laboratory for Marine Science and Technology, Key Laboratory of 
+Maricultural Organism Disease Control, Ministry of Agriculture, Qingdao Key 
+Laboratory of Mariculture Epidemiology and Biosecurity, Qingdao 266071, China.
+
+Covert mortality nodavirus (CMNV), the pathogen of viral covert mortality 
+disease (VCMD), has caused serious economic losses of shrimp aquaculture in 
+Southeast Asian countries and China in the past decade. In view of that the 
+rapid and accurate laboratory detection of CMNV plays a major role in the 
+effective control of the spread of VCMD. The national proficiency test (NPT) for 
+the detection of covert mortality nodavirus (CMNV) started in China from 2021. 
+In this study, a novel TaqMan real-time reverse transcription quantitative PCR 
+(RT-qPCR) detection method for CMNV with higher sensitivity than previous 
+reports was established based on specific primers and probe designing from the 
+conserved regions of the CMNV coat protein gene for using molecular detection of 
+CMNV in NPT. The optimized RT-qPCR reaction program was determined as reverse 
+transcription at 54.9 °C for 15 min and denaturation at 95 °C for 1 min, 
+followed by 40 cycles including denaturation at 95 °C for 10 s, and annealing 
+and extension at 54.9 °C for 25 s. The detection limit of the newly developed 
+RT-qPCR method was determined to be as low as 2.15 copies of CMNV plasmids 
+template per reaction, with the correlation coefficient (R2) at above 0.99. The 
+new method showed no cross reaction with the six common aquatic animal pathogens 
+and could be finished in one hour, which represents a rapid detection method 
+that can save 50% detection time versus the previously reported assay. The CMNV 
+TaqMan probe based RT-qPCR method developed in present study supplies a novel 
+sensitive and specific tool for both the rapid diagnosing and quantitating of 
+CMNV in NPT activities and in the farmed crustaceans, and will help 
+practitioners in the aquaculture industry to prevent and control VCMD 
+effectively.
+
+DOI: 10.3390/v14071475
+PMCID: PMC9319686
+PMID: 35891455 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflict of interest.
+
+
+283. World Allergy Organ J. 2022 Jul 14;15(7):100665. doi: 
+10.1016/j.waojou.2022.100665. eCollection 2022 Jul.
+
+Anaphylaxis in older adult patients: a 10-year retrospective experience.
+
+Yıldız E(1), Arslan Ş(1), Çölkesen F(1), Evcen R(1), Sadi Aykan F(1), Kılınç 
+M(1).
+
+Author information:
+(1)Division of Clinical Immunology and Allergy, Department of Internal Medicine, 
+Meram Faculty of Medicine, Necmettin Erbakan University, Konya, Turkey.
+
+BACKGROUND: Despite the worldwide increase in life expectancy and the elderly 
+population, very little is known about the characteristics of anaphylaxis in 
+older adults.
+METHODS: A retrospective scan was made of the files of patients who presented at 
+the Allergy Unit of our clinic between October 2011 and October 2021. The study 
+included 971 patients aged ≥18 years who met the criteria for diagnosis of 
+anaphylaxis. The patients were separated into 2 groups of adults (18-64 years) 
+and older adults (≥65 years).
+RESULTS: The adult group included 887 (91.3%) patients and the older adult 
+group, 84 (8.7%) patients. Comorbid diseases were seen more frequently in the 
+older adults than in the adult group (p < 0.001). Drugs were seen to be the most 
+common trigger of anaphylaxis in both groups, and this was more common in the 
+older adult group (p = 0.039). Food was a more common trigger of anaphylaxis in 
+the adult group than in the older adult group (p = 0.017). In both groups, the 
+skin was the organ most affected, and was less affected in the older adults than 
+in the adults (p = 0.020). Cardiovascular symptoms were seen significantly more 
+and respiratory symptoms significantly less in the older adult group (p < 0.001, 
+p = 0.002, respectively). Admission to the hospital and the intensive care unit 
+was more frequent in the older adult group and rates of adrenalin administration 
+were higher compared to the adult group (p < 0.001 for all).
+CONCLUSION: Anaphylaxis in the older adults is generally caused by drugs. Older 
+adults were found to have more cardiovascular symptoms and more frequent 
+adrenalin injections, hospitalizations and intensive care unit admissions.
+
+© 2022 The Authors.
+
+DOI: 10.1016/j.waojou.2022.100665
+PMCID: PMC9293944
+PMID: 35891674
+
+
+284. Cureus. 2022 Jun 22;14(6):e26190. doi: 10.7759/cureus.26190. eCollection
+2022  Jun.
+
+Role of Supplemental Teriparatide Therapy to Augment Functional and Radiological 
+Outcomes in Osteoporotic Intertrochanteric Hip Fractures in the Elderly 
+Population.
+
+Mishra S(1), Satapathy D(1), Samal S(1), Zion N(1), Lodh U(1).
+
+Author information:
+(1)Department of Orthopedic Surgery, Institute of Medical Sciences & SUM 
+Hospital, Bhubaneswar, IND.
+
+With improved life expectancy and ever-increasing geriatric population with 
+concomitant osteoporosis, there is increase in osteoporotic intertrochanteric 
+hip fractures. Even the best surgical advances fail to provide satisfactory and 
+early results. As a result, researchers' focus has lately shifted to developing 
+a more integrated approach that combines the pharmacotherapeutic capabilities of 
+teriparatide, a recombinant version of human parathyroid hormone (1-34), a new 
+anabolic drug that enhances bone mass and strength by promoting osteoblastic 
+activity and hastens fracture union in both human and animals. We attempted to 
+evaluate the therapeutic efficiency of teriparatide therapy on outcomes of 
+surgically managed Intertrochanteric hip fractures in osteoporotic patients. A 
+total of 31 patients with established osteoporosis and Intertrochanteric 
+fractures were selected and divided into two groups, managed surgically with 
+proximal femur nailing, and then prospectively compared with one group receiving 
+teriparatide therapy in addition to standard treatment after taking necessary 
+consent and allocation into two groups based on the preference of patients to 
+take additional teriparatide or not after understanding the benefits and risks 
+involved. We aimed to assess the functional and radiological effects of 
+teriparatide on bone mineral density, the time taken for fracture union, and 
+other fracture-related postoperative complications such as weight bearing and 
+residual bone pain. All patients were followed up at 6, 12, and 24 weeks. Time 
+to fracture union was significantly shortened, with considerable improvement in 
+bone density and functional outcome in the teriparatide group. Varus collapse, 
+the rate of migration of the helical blade, and shortening of the femoral neck 
+were also significantly less in the study group. From the assembled data, we can 
+safely assume that with early union rates with better functional improvement 
+with additional advantage of increased bone mass, we favor supplemental 
+teriparatide therapy in the management of osteoporotic patients with femoral 
+intertrochanteric fractures to augment healing. Further studies with a larger 
+sample size are required to support our observation.
+
+Copyright © 2022, Mishra et al.
+
+DOI: 10.7759/cureus.26190
+PMCID: PMC9305672
+PMID: 35891832
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+285. Int J Nurs Sci. 2022 Jun 7;9(3):389-396. doi: 10.1016/j.ijnss.2022.06.001. 
+eCollection 2022 Jul.
+
+The perceptions on good death of the older adults in the semi-urban community: A 
+qualitative study.
+
+Tipwong A(1), Ruamsook T(1), Hongkittiyanon T(2), Kgowsiri K(1).
+
+Author information:
+(1)College of Nursing and Health, Suan Sunandha Rajabhat University, Bangkok, 
+Thailand.
+(2)Faculty of Nursing, Rambhai Barni Rajabhat University, Chanthaburi, Thailand.
+
+OBJECTIVE: This study aimed to explore the perceptions of good death of the 
+older adults living in Bang Nang Li Sub-District, Amphawa District, Samut 
+Songkhram Province, Thailand.
+METHOD: The data of the study was collected using in-depth interviews between 
+October 2019 to January 2020. The data collected a total of 14 older adults who 
+had firsthand experience in caring for terminally ill patients were recruited 
+for the study. Content analysis was employed to analyze qualitative data.
+RESULTS: The results of this study revealed the perceptions of good death which 
+were categorized into three main themes and eight sub-themes, including 1) death 
+without suffering (not suffering from life support devices, dying with care); 2) 
+natural death (death with the end of life expectancy, death with illness or 
+ailments); and 3) death without the worries (preparation for death, spiritual 
+and belief practice toward preparation for death, family and property management 
+before death, death among family members and at their familiar place).
+CONCLUSION: The findings of this research provided the insight to clarify the 
+understanding of the perceptions on a good death of older adults. The findings 
+can be used to support the practice and management of nursing education and 
+health care providers who have to be involved in palliative care for terminally 
+ill older adults.
+
+© 2022 The Authors.
+
+DOI: 10.1016/j.ijnss.2022.06.001
+PMCID: PMC9305014
+PMID: 35891908
+
+Conflict of interest statement: The authors have declared no conflict of 
+interest.
+
+
+286. Brain Sci. 2022 Jul 26;12(8):981. doi: 10.3390/brainsci12080981.
+
+A Validation Study for SHE Score for Acute Subdural Hematoma in the Elderly.
+
+Vychopen M(1), Hamed M(1), Bahna M(1), Racz A(2), Ilic I(1), Salemdawod A(1), 
+Schneider M(1), Lehmann F(3), Eichhorn L(3), Bode C(3), Jacobs AH(4), Behning 
+C(5), Schuss P(1), Güresir E(1), Vatter H(1), Borger V(1).
+
+Author information:
+(1)Department of Neurosurgery, University Hospital Bonn, 53127 Bonn, Germany.
+(2)Department of Epileptology, University Hospital Bonn, 53127 Bonn, Germany.
+(3)Department of Anesthesiology and Intensive Care Medicine, University Hospital 
+Bonn, 53127 Bonn, Germany.
+(4)Department of Geriatric Medicine and Neurology, Johanniter Hospital Bonn, 
+53113 Bonn, Germany.
+(5)Department of Medical Biometry, Informatics and Epidemiology, University 
+Hospital Bonn, 53127 Bonn, Germany.
+
+OBJECTIVE: The aim of this study was the verification of the Subdural Hematoma 
+in the Elderly (SHE) score proposed by Alford et al. as a mortality predictor in 
+patients older than 65 years with nontraumatic/minor trauma acute subdural 
+hematoma (aSDH). Additionally, we evaluated further predictors associated with 
+poor outcome.
+METHODS: Patients were scored according to age (1 point is given if patients 
+were older than 80 years), GCS by admission (1 point for GCS 5-12, 2 points for 
+GCS 3-4), and SDH volume (1 point for volume 50 mL). The sum of points 
+determines the SHE score. Multivariate logistic regression analysis was 
+performed to identify additional independent risk factors associated with 30-day 
+mortality.
+RESULTS: We evaluated 131 patients with aSDH who were treated at our institution 
+between 2008 and 2020. We observed the same 30-day mortality rates published by 
+Alford et al.: SHE 0: 4.3% vs. 3.2%, p = 1.0; SHE 1: 12.2% vs. 13.1%, p = 1.0; 
+SHE 2: 36.6% vs. 32.7%, p = 0.8; SHE 3: 97.1% vs. 95.7%, p = 1.0 and SHE 4: 100% 
+vs. 100%, p = 1.0. Additionally, 18 patients who developed status epilepticus 
+(SE) had a mortality of 100 percent regardless of the SHE score. The 
+distribution of SE among the groups was: 1 for SHE 1, 6 for SHE 2, 9 for SHE 3, 
+and 2 for SHE 4. The logistic regression showed the surgical evacuation to be 
+the only significant risk factor for developing the seizure. All patients who 
+developed SE underwent surgery (p = 0.0065). Furthermore, SHE 3 and 4 showed no 
+difference regarding the outcome between surgical and conservative treatment.
+CONCLUSIONS: SHE score is a reliable mortality predictor for minor trauma acute 
+subdural hematoma in elderly patients. In addition, we identified status 
+epilepticus as a strong life-expectancy-limiting factor in patients undergoing 
+surgical evacuation.
+
+DOI: 10.3390/brainsci12080981
+PMCID: PMC9330492
+PMID: 35892422
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+287. Biomedicines. 2022 Jul 25;10(8):1786. doi: 10.3390/biomedicines10081786.
+
+Long-Term Persistence of Mitochondrial DNA Instability in HIV-Exposed Uninfected 
+Children during and after Exposure to Antiretroviral Drugs and HIV.
+
+Desquiret-Dumas V(1)(2), D'Ottavi M(3), Monnin A(3), Goudenège D(1)(2), Méda 
+N(4), Vizeneux A(3), Kankasa C(5), Tylleskar T(6), Bris C(1)(2), Procaccio 
+V(1)(2), Nagot N(3), Van de Perre P(3), Reynier P(1)(2), Molès JP(3).
+
+Author information:
+(1)Department of Biochemistry and Genetics, University Hospital of Angers, 
+F-49000 Angers, France.
+(2)UMR MITOVASC, CNRS 6015, INSERM U1083, University of Angers, F-49000 Angers, 
+France.
+(3)Pathogenesis and Control of Chronic and Emerging Infections, INSERM, 
+Etablissement Français du Sang, University of Montpellier, University of 
+Antilles, F-34394 Montpellier, France.
+(4)Centre MURAZ, Bobo-Dioulasso 01 B.P. 390, Burkina Faso.
+(5)Department of Paediatrics and Child Health, University Teaching Hospital, 
+Lusaka P.O. Box 50001, Zambia.
+(6)Centre for International Health, University of Bergen, N-5020 Bergen, Norway.
+
+HIV-exposed uninfected (HEU) children show impaired health outcomes during 
+childhood. A high rate of mitochondrial DNA (mtDNA) instability was reported in 
+the blood of HEU at birth. We aimed to explore the relationship between these 
+health outcomes and mtDNA deletions over time in a case series of 24 HEU 
+children. MtDNA instability was assessed by deep sequencing and analyzed by 
+eKLIPse-v2 algorithm at three time points, namely birth, 1 year, and 6 years of 
+age. Association between mtDNA deletion and health outcomes, including growth, 
+clinical, and neurodevelopmental parameters, were explored using univariate 
+statistical analyses and after stratification with relevant variables. HEU 
+children were selected with an equal male:female ratio. An elevated number of 
+mtDNA deletions and duplications events was observed at 7 days' post-partum. 
+Median heteroplasmy increased at one year of life and then returned to baseline 
+by six years of age. The mtDNA instability was acquired and was not transmitted 
+by the mother. No risk factors were significantly associated with mtDNA 
+instability. In this small case series, we did not detect any association 
+between any health outcome at 6 years and mtDNA instability measures. A 
+significant effect modification of the association between the duration of 
+maternal prophylaxis and child growth was observed after stratification with 
+heteroplasmy rate. Genomic instability persists over time among HEU children 
+but, despite its extension, stays subclinical at six years.
+
+DOI: 10.3390/biomedicines10081786
+PMCID: PMC9331317
+PMID: 35892686
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript, or in the decision to 
+publish the results.
+
+
+288. J Fungi (Basel). 2022 Jul 26;8(8):779. doi: 10.3390/jof8080779.
+
+RNA-Seq Provides Insights into the Mechanisms Underlying Ilyonectria robusta 
+Responding to Secondary Metabolites of Bacillus methylotrophicus NJ13.
+
+Li X(1), Li M(2), Liu X(2), Jiang Y(2), Zhao D(3), Gao J(2), Wang Z(4), Jiang 
+Y(1), Chen C(2).
+
+Author information:
+(1)College of Life Science, Jilin Agricultural University, Changchun 130118, 
+China.
+(2)College of Plant Protection, Jilin Agricultural University, Changchun 130118, 
+China.
+(3)Jilin Provincial Agro-Tech Extension Center, Changchun 130031, China.
+(4)College of Agronomy, Jilin Agricultural University, Changchun 130118, China.
+
+(1) Background: Ilyonectria robusta can cause ginseng to suffer from rusty root 
+rot. Secondary metabolites (SMs) produced by Bacillus methylotrophicus NJ13 can 
+inhibit the mycelial growth of I. robusta. However, the molecular mechanism of 
+the inhibition and response remains unclear. (2) Methods: Through an in vitro 
+trial, the effect of B. methylotrophicus NJ13’s SMs on the hyphae and conidia of 
+I. robusta was determined. The change in the physiological function of I. 
+robusta was evaluated in response to NJ13’s SMs by measuring the electrical 
+conductivity, malondialdehyde (MDA) content, and glucose content. The molecular 
+interaction mechanism of I. robusta’s response to NJ13’s SMs was analyzed by 
+using transcriptome sequencing. (3) Results: NJ13’s SMs exhibited antifungal 
+activity against I. robusta: namely, the hyphae swelled and branched abnormally, 
+and their inclusions leaked out due to changes in the cell membrane permeability 
+and the peroxidation level; the EC50 value was 1.21% (v/v). In transcripts at 4 
+dpi and 7 dpi, the number of differentially expressed genes (DEGs) (|log2(fold 
+change)| > 1, p adj ≤ 0.05) was 1960 and 354, respectively. NJ13’s SMs affected 
+the glucose metabolism pathway, and the sugar-transporter-related genes were 
+downregulated, which are utilized by I. robusta for energy production. The cell 
+wall structure of I. robusta was disrupted, and chitin-synthase-related genes 
+were downregulated. (4) Conclusions: A new dataset of functional responses of 
+the ginseng pathogenic fungus I. robusta was obtained. The results will benefit 
+the development of targeted biological fungicides for I. robusta and the study 
+of the molecular mechanisms of interaction between biocontrol bacteria and 
+phytopathogenic fungi.
+
+DOI: 10.3390/jof8080779
+PMCID: PMC9332032
+PMID: 35893148
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+289. Metabolites. 2022 Jul 24;12(8):677. doi: 10.3390/metabo12080677.
+
+Metabolomic Analysis of Severe Osteoarthritis in a Spanish Population of Women 
+Compared to Healthy and Osteoporotic Subjects.
+
+Pertusa C(1), Mifsut D(1)(2), Morales JM(1)(3), Tarín JJ(4), Cano A(5), Monleón 
+D(1)(3)(6), García-Pérez MÁ(1)(7).
+
+Author information:
+(1)Research Unit, INCLIVA Health Research Institute, 46010 Valencia, Spain.
+(2)Orthopedic Surgery and Traumatology, Clinic Hospital, INCLIVA Institute of 
+Health Research, 46010 Valencia, Spain.
+(3)Department of Pathology, University of Valencia, 46010 Valencia, Spain.
+(4)Department of Cellular Biology, Functional Biology and Physical Anthropology, 
+University of Valencia, 46100 Burjassot, Spain.
+(5)Department of Pediatrics, Obstetrics and Gynecology, University of Valencia, 
+46010 Valencia, Spain.

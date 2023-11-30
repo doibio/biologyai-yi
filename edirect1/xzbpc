@@ -1,0 +1,1000 @@
+10.1021/acs.molpharmaceut.5b00301.  Epub 2015 Aug 14.
+
+Branched Polymer-Drug Conjugates for Multivalent Blockade of Angiotensin II 
+Receptors.
+
+Hennig R(1), Veser A(1), Kirchhof S(1), Goepferich A(1).
+
+Author information:
+(1)Department of Pharmaceutical Technology, University of Regensburg , 
+Regensburg, Germany.
+
+The use of angiotensin receptor blockers (ARBs) for treatment of ocular diseases 
+associated with neovascularizations, such as proliferative diabetic retinopathy, 
+shows tremendous promise but is presently limited due to short intravitreal 
+half-life. Conjugation of ARB molecules to branched polymers could vastly 
+augment their therapeutic efficacy. EXP3174, a potent non-peptide ARB, was 
+conjugated to branched poly(ethylene glycol) (PEG) and poly(amido amine) (PAMAM) 
+dendrimers: 7.8 ligand molecules were tethered to each 40 kDa PEG molecule 
+whereas 16.7 ligand molecules were linked to each PAMAM generation 5 dendrimer. 
+The multivalent PEG and PAMAM conjugates blocked AT1R signaling with an IC50 of 
+224 and 36.3 nM, respectively. The 6-fold higher affinity of the multivalent 
+ligand-conjugated PAMAM dendrimers was due to their unique microarchitecture and 
+ability to suppress polymer-drug interactions. Remarkably, both polymer-drug 
+conjugates exhibited no cytotoxicity, in stark contrast to plain PAMAM 
+dendrimers. With sufficiently long vitreous half-lives, both synthesized 
+polymer-ARB conjugates have the potential to pave a new path for the therapy of 
+ocular diseases accompanied by retinal neovascularizations.
+
+DOI: 10.1021/acs.molpharmaceut.5b00301
+PMID: 26252154 [Indexed for MEDLINE]
+
+
+389. Gastroenterology. 2015 Nov;149(6):1425-37. doi:
+10.1053/j.gastro.2015.07.042.  Epub 2015 Aug 4.
+
+Personalizing colonoscopy screening for elderly individuals based on screening 
+history, cancer risk, and comorbidity status could increase cost effectiveness.
+
+van Hees F(1), Saini SD(2), Lansdorp-Vogelaar I(1), Vijan S(2), Meester RG(1), 
+de Koning HJ(1), Zauber AG(3), van Ballegooijen M(4).
+
+Author information:
+(1)Department of Public Health, Erasmus University Medical Center, Rotterdam, 
+the Netherlands.
+(2)Veteran Affairs Health Services Research and Development Center for Clinical 
+Management Research, Ann Arbor, Michigan; Department of Internal Medicine, 
+University of Michigan Medical School, Ann Arbor, Michigan.
+(3)Department of Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer 
+Center, New York, New York.
+(4)Department of Public Health, Erasmus University Medical Center, Rotterdam, 
+the Netherlands. Electronic address: m.vanballegooijen@erasmusmc.nl.
+
+Comment in
+    Evid Based Med. 2016 Oct;21(5):182.
+
+BACKGROUND & AIMS: Colorectal cancer (CRC) screening decisions for elderly 
+individuals are often made primarily on the basis of age, whereas other factors 
+that influence the effectiveness and cost effectiveness of screening are often 
+not considered. We investigated the relative importance of factors that could be 
+used to identify elderly individuals most likely to benefit from CRC screening 
+and determined the maximum ages at which screening remains cost effective based 
+on these factors.
+METHODS: We used a microsimulation model (Microsimulation Screening 
+Analysis-Colon) calibrated to the incidence of CRC in the United States and the 
+prevalence of adenomas reported in autopsy studies to determine the appropriate 
+age at which to stop colonoscopy screening in 19,200 cohorts (of 10 million 
+individuals), defined by sex, race, screening history, background risk for CRC, 
+and comorbidity status. We applied a willingness-to-pay threshold of $100,000 
+per quality-adjusted life-year (QALY) gained.
+RESULTS: Less intensive screening history, higher background risk for CRC, and 
+fewer comorbidities were associated with cost-effective screening at older ages. 
+Sex and race had only a small effect on the appropriate age to stop screening. 
+For some individuals likely to be screened in current practice (for example, 
+74-year-old white women with moderate comorbidities, half the average background 
+risk for CRC, and negative findings from a screening colonoscopy 10 years 
+previously), screening resulted in a loss of QALYs, rather than a gain. For some 
+individuals unlikely to be screened in current practice (for example, 
+81-year-old black men with no comorbidities, an average background risk for CRC, 
+and no previous screening), screening was highly cost effective. Although 
+screening some previously screened, low-risk individuals was not cost effective 
+even when they were 66 years old, screening some healthy, high-risk individuals 
+remained cost effective until they reached the age of 88 years old.
+CONCLUSIONS: The current approach to CRC screening in elderly individuals, in 
+which decisions are often based primarily on age, is inefficient, resulting in 
+underuse of screening for some and overuse of screening for others. CRC 
+screening could be more effective and cost effective if individual factors for 
+each patient are considered.
+
+Copyright © 2015 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.gastro.2015.07.042
+PMCID: PMC4631390
+PMID: 26253304 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosures: For none of the authors there is a 
+conflict of interest to disclose.
+
+
+390. Comput Med Imaging Graph. 2015 Oct;45:36-46. doi: 
+10.1016/j.compmedimag.2015.06.005. Epub 2015 Jul 18.
+
+X-ray physics- and bone composition-based estimation of thickness 
+characteristics from clinical mandibular radiographs.
+
+Scheiner S(1), Hellmich C(2), Müller C(3), Bonitz L(4), Kober C(5).
+
+Author information:
+(1)Institute for Mechanics of Materials and Structures, TU Wien - Vienna 
+University of Technology, Vienna, Austria. Electronic address: 
+stefan.scheiner@tuwien.ac.at.
+(2)Institute for Mechanics of Materials and Structures, TU Wien - Vienna 
+University of Technology, Vienna, Austria.
+(3)CADFEM GmbH, Grafing by Munich, Germany.
+(4)Department for Cranial and Maxillofacial Surgery, Plastic Operations, 
+Klinikum Dortmund GmbH, University Witten/Herdecke, Germany.
+(5)Faculty of Life Sciences, Hamburg University of Applied Sciences, Hamburg, 
+Germany.
+
+In dentistry, clinical radiographs (also called X-ray images) reflect the 
+intensity loss of an X-ray when being transmitted through the mandibular 
+objects, and this loss is quantified in terms of grey values. While such images 
+are standardly used for pathology detection by the experienced dentist, we here 
+present a new method for getting more quantitative information out of such 2D 
+radiographs, "extending" them into the third dimension. This "extension" 
+requires consistent combination of X-ray physics (namely, X-ray intensity loss 
+quantification along paths orthogonal to the panoramic clinical image and X-ray 
+attenuation averaging for composite materials) with anatomically known upper and 
+lower limits of vascular porosities in cortical and trabecular bone 
+compartments. Correspondingly computed ranges of overall organ thicknesses are 
+extremely narrow, suggesting adequate estimation of thickness characteristics 
+from 2D radiographic panoramas used clinically, while predicted cortical and 
+trabecular thickness ranges vary by ±8.47% and ±16.13%, respectively. The 
+proposed method also identifies variations between thicknesses at similar 
+anatomical locations left and right of the face's symmetry axis, and molar 
+regions turn out to be thicker than those close to incisors. This paves the way 
+to more detailed diagnostic activities, e.g. in combination with Finite Element 
+simulations.
+
+Copyright © 2015 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.compmedimag.2015.06.005
+PMID: 26253382 [Indexed for MEDLINE]
+
+
+391. Eur Arch Otorhinolaryngol. 2016 Aug;273(8):2201-7. doi: 
+10.1007/s00405-015-3744-0. Epub 2015 Aug 8.
+
+Treatment strategies in early-stage oropharyngeal squamous cell carcinoma: a 
+French national survey.
+
+Gorphe P(1), Blanchard P(2), Morinière S(3), Fakhry N(4).
+
+Author information:
+(1)Département de Cancérologie Cervico-Faciale, Gustave Roussy, 94805, 
+Villejuif, France. Philippe.gorphe@gustaveroussy.fr.
+(2)Département de Radiothérapie, Gustave Roussy, 94805, Villejuif, France.
+(3)Département d'ORL et Chirurgie Cervico-Faciale, CHU Bretonneau, 2 boulevard 
+Tonnellé, 37000, Tours, France.
+(4)Service d'ORL et Chirurgie Cervico-Faciale, CHU La Timone, Aix Marseille 
+Université, 264 rue Saint Pierre, 13385, Marseille Cedex 05, France.
+
+The objective of the study is to perform a national survey of practices in 
+early-stage squamous cell carcinoma (SCC) of the oropharynx (base of tongue and 
+tonsils) targeting surgical and non-surgical procedures in France. A 
+questionnaire concerning practices in surgery, radiotherapy, HPV screening, and 
+two clinical cases were sent to all centers participating in the French Head and 
+Neck Oncology Society, and to public hospitals listed as authorized to treat 
+head and neck cancer according to the French National Cancer Institute (INCa). 
+Sixty-four teams comprising almost all the University Hospitals and most of the 
+Comprehensive Cancer Centers completed the survey questionnaire and responded to 
+the clinical cases. Surgical and radiotherapy strategies were used in similar 
+measure for early-stage SCC of the base of the tongue while tonsil lesions were 
+mainly treated with surgery. The main arguments were disease control for the 
+teams offering patients surgery, and functional results for those offering 
+radiotherapy. However, concomitant chemoradiotherapy was chosen more frequently 
+than radiotherapy alone in early-stage SCC of the base of tongue. Age and 
+tobacco-alcohol addiction were decisive criteria in decision making for the 
+majority of the teams. French oncology teams offered surgical and radiotherapy 
+strategies in similar measure to treat early-stage SCC of the oropharynx (base 
+of tongue and tonsils) as well as a high rate of multimodality therapy. Decision 
+making was guided by the desire to achieve oncologic results adapted to the 
+patient and his age, as well as functional preservation taking into account life 
+expectancy.
+
+DOI: 10.1007/s00405-015-3744-0
+PMID: 26253428 [Indexed for MEDLINE]
+
+
+392. J Affect Disord. 2015 Nov 1;186:241-8. doi: 10.1016/j.jad.2015.06.034. Epub
+2015  Jul 26.
+
+Is bipolar disorder associated with accelerating aging? A meta-analysis of 
+telomere length studies.
+
+Colpo GD(1), Leffa DD(2), Köhler CA(3), Kapczinski F(4), Quevedo J(5), Carvalho 
+AF(6).
+
+Author information:
+(1)Center for Translational Psychiatry, Department of Psychiatry and Behavioral 
+Sciences, The University of Texas Medical School at Houston, Houston, TX, USA.
+(2)Laboratório de Neurociências, Programa de Pós-Graduação em Ciências da Saúde, 
+Unidade Acadêmica de Ciências da Saúde, Universidade do Extremo Sul Catarinense, 
+Laboratório de Biologia Celular e Molecular, Criciúma, SC, Brazil.
+(3)Memory Research Laboratory, Brain Institute, Federal University of Rio Grande 
+do Norte (UFRN), Natal, Brazil.
+(4)Department of Psychiatry and Behavioral Sciences, The University of Texas 
+Medical School at Houston, UT Center of Excellence on Mood Disorders, Houston, 
+TX, USA; Laboratory of Molecular Psychiatry, Centro de Pesquisas Experimentais, 
+Hospital de Clínicas de Porto Alegre, and Instituto Nacional de Ciencia e 
+Tecnologia for Translational Medicine, Porto Alegre, Rio Grande do Sul, Brazil.
+(5)Center for Translational Psychiatry, Department of Psychiatry and Behavioral 
+Sciences, The University of Texas Medical School at Houston, Houston, TX, USA; 
+Laboratório de Neurociências, Programa de Pós-Graduação em Ciências da Saúde, 
+Unidade Acadêmica de Ciências da Saúde, Universidade do Extremo Sul Catarinense, 
+Criciúma, SC, Brazil.
+(6)Translational Psychiatry Research Group and Department of Clinical Medicine, 
+Faculty of Medicine, Federal University of Ceará, Fortaleza, CE, Brazil. 
+Electronic address: andrefc7@terra.com.br.
+
+BACKGROUND: Bipolar disorder (BD) is associated with a reduced life expectancy 
+compared to the general population mainly due to a high prevalence of comorbid 
+somatic illnesses. A model of accelerated aging has been proposed as a potential 
+explanation to these epidemiological findings. Nevertheless, studies measuring 
+telomere length (TL) in patients with BD compared to healthy controls have 
+provided mixed results.
+OBJECTIVE: To compare TL between BD patients and healthy controls, and to search 
+for potential modeP<rators for observed differences.
+METHODS: We performed a systematic review and meta-analysis of original studies 
+comparing TL in patients with BD vs. healthy controls published up to February 
+24th, 2015 in main electronic databases. Heterogeneity was explored through 
+meta-regression and subgroup analysis.
+RESULTS: Seven studies met inclusion criteria (N=1115). There was no difference 
+in TL between participants with BD and healthy controls (Hedges's g=-0.012; 95% 
+CI=-0.418 to 0.393, P=0.952). There was no evidence for publication bias. 
+Heterogeneity was high (I(2)=89.65%). In meta-regression analyses, the 
+percentage of females in healthy control samples (P=0.04) and the methodological 
+quality of included studies (P<0.001) emerged as significant moderators, while 
+subgroup analyses suggest that the type of assay employed to measure TL and age- 
+and gender-matching of BD and HC participants may contribute to heterogeneity.
+CONCLUSIONS: Telomere length does not differ between participants with BD vs. 
+healthy controls; this finding does not support the view of BD as an illness 
+associated with accelerated cellular aging. However, more studies controlling 
+for potential confounders are necessary.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jad.2015.06.034
+PMID: 26253905 [Indexed for MEDLINE]
+
+
+393. Am J Clin Dermatol. 2015 Oct;16(5):447-52. doi: 10.1007/s40257-015-0150-8.
+
+Ivermectin: A Review in Rosacea.
+
+Deeks ED(1).
+
+Author information:
+(1)Springer, Private Bag 65901, Mairangi Bay, 0754, Auckland, New Zealand. 
+demail@springer.com.
+
+Ivermectin 1% cream (Soolantra(®); Rosiver™; Izefla(®)) is a novel topical agent 
+indicated for the once-daily treatment of inflammatory lesions of rosacea. 
+Ivermectin is a derivative of the avermectin family of macrocyclic lactone 
+parasiticides. It displays anti-inflammatory properties as well as 
+broad-spectrum anti-parasitic activity, both of which may contribute to its 
+efficacy in treating rosacea. In phase III trials of 12 or 16 weeks' duration in 
+adults with moderate to severe papulopustular rosacea, once-daily ivermectin 1% 
+cream improved the symptoms of rosacea (as per Investigator Global Assessment 
+and inflammatory lesion count) and health-related quality of life versus 
+vehicle, and was more effective than twice-daily metronidazole 0.75% cream in 
+terms of these measures. Ivermectin 1% cream continues to provide benefit for up 
+to 52 weeks of treatment, according to extension studies, and is well tolerated, 
+with the most common treatment-related adverse events (skin burning sensation, 
+pruritus, dry skin and skin irritation) each occurring with low incidence (<2%). 
+Thus, ivermectin 1% cream is an effective and well tolerated option for the 
+topical treatment of inflammatory lesions of rosacea, with the convenience of 
+once-daily application.
+
+DOI: 10.1007/s40257-015-0150-8
+PMID: 26254001 [Indexed for MEDLINE]
+
+
+394. J Crohns Colitis. 2015 Nov;9(11):1016-23. doi: 10.1093/ecco-jcc/jjv134. Epub
+ 2015 Aug 7.
+
+Comparison of Costs and Quality of Life in Ulcerative Colitis Patients with an 
+Ileal Pouch-Anal Anastomosis, Ileostomy and Anti-TNFα Therapy.
+
+van der Valk ME(1), Mangen MJ(2), Severs M(1), van der Have M(1), Dijkstra G(3), 
+van Bodegraven AA(4), Fidder HH(1), de Jong DJ(5), Pierik M(6), van der Woude 
+CJ(7), Romberg-Camps MJ(8), Clemens CH(9), Jansen JM(10), van de Meeberg PC(11), 
+Mahmmod N(12), van der Meulen-de Jong AE(13), Ponsioen CY(14), Bolwerk C(15), 
+Vermeijden JR(16), Siersema PD(1), Leenders M(1), Oldenburg B(17); COIN study 
+group; Dutch Initiative on Crohn and Colitis.
+
+Author information:
+(1)Department of Gastroenterology and Hepatology, University Medical Centre 
+Utrecht, Utrecht, The Netherlands.
+(2)Julius Centre for Health Sciences and Primary Care, University Medical Centre 
+Utrecht, Utrecht, The Netherlands.
+(3)Department of Gastroenterology and Hepatology, University Medical Centre 
+Groningen, Groningen, The Netherlands.
+(4)Department of Gastroenterology and Hepatology, VU University Medical Centre, 
+Amsterdam, The Netherlands Department of Gastroenterology and Hepatology, Orbis 
+Medical Centre, Sittard, The Netherlands.
+(5)Department of Gastroenterology and Hepatology, Radboud University Nijmegen 
+Medical Centre, Nijmegen, The Netherlands.
+(6)Department of Gastroenterology and Hepatology, Maastricht University Medical 
+Centre, Maastricht, The Netherlands.
+(7)Department of Gastroenterology and Hepatology, Erasmus University Medical 
+Centre, Rotterdam, The Netherlands.
+(8)Department of Gastroenterology and Hepatology, Orbis Medical Centre, Sittard, 
+The Netherlands.
+(9)Department of Gastroenterology and Hepatology, Diaconessenhuis, Leiden, The 
+Netherlands.
+(10)Department of Gastroenterology and Hepatology, Onze Lieve Vrouwe Gasthuis, 
+Amsterdam, The Netherlands.
+(11)Department of Gastroenterology and Hepatology, Slingeland Hospital, 
+Doetinchem, The Netherlands.
+(12)Department of Gastroenterology and Hepatology, Antonius Hospital, 
+Nieuwegein, The Netherlands.
+(13)Department of Gastroenterology and Hepatology, Leiden University Medical 
+Centre, Leiden, The Netherlands.
+(14)Department of Gastroenterology and Hepatology, Academic Medical Centre 
+Amsterdam, Amsterdam, The Netherlands.
+(15)Department of Gastroenterology and Hepatology, Reinier de Graaf Groep, 
+Delft, The Netherlands.
+(16)Department of Gastroenterology and Hepatology, Meander Medical Centre, 
+Amersfoort, The Netherlands.
+(17)Department of Gastroenterology and Hepatology, University Medical Centre 
+Utrecht, Utrecht, The Netherlands boldenbu@umcutrecht.nl.
+
+BACKGROUND AND AIMS: More data are warranted on the economic impact of different 
+treatment strategies in ulcerative colitis (UC) patients. We compared the costs 
+and quality of life of UC patients with a pouch reconstruction, an ileostomy or 
+anti-tumour necrosis factor α (TNFα) therapy.
+METHODS: UC patients filled out 3-monthly questionnaires for 2 years. 
+Differences in 3-monthly healthcare costs, productivity costs and patient costs 
+were tested using mixed model analysis. Quality of life was assessed employing 
+the ) and the inflammatory bowel disease questionnaire (IBDQ).
+RESULTS: Out of 915 UC patients, 81 (9%) had a pouch and 48 (5%) an ileostomy, 
+and 34 (4%) were on anti-TNFα therapy. Anti-TNFα-treated patients reported high 
+UC related-healthcare costs per 3 months (€5350). Medication use accounted for 
+92% of healthcare costs. UC-attributable healthcare costs were 3-fold higher in 
+ileostomy patients compared with pouch patients (€1581 versus €407; p < 0.01). 
+Main cost drivers in ileostomy patients were healthcare costs and ileostomy 
+supplies (2 and 23% of healthcare costs, respectively). In pouch patients, the 
+main cost driver was hospitalization, accounting for 50% of healthcare costs. 
+Productivity loss did not differ between pouch and ileostomy patients (€483 
+versus €377; p < 0.23), but was significantly higher in anti-TNFα-treated 
+patients (€1085). No difference was found in IBDQ scores, but pouch patients 
+were found to have higher quality-adjusted life years than ileostomy patients 
+and anti-TNFα-treated patients (0.90 [interquartile range 0.78-1.00] versus 0.84 
+[0.78-1.00] and 0.84 [0.69-1.00], respectively; p < 0.01).
+CONCLUSION: Patients receiving anti-TNFα therapy reported the highest healthcare 
+cost, in which medication use was the major cost driver. Ileostomy patients were 
+three times more expensive than pouch patients due to frequent hospitalization 
+and ileostomy supplies.
+
+Copyright © 2015 European Crohn’s and Colitis Organisation (ECCO). Published by 
+Oxford University Press. All rights reserved. For permissions, please email: 
+journals.permissions@oup.com.
+
+DOI: 10.1093/ecco-jcc/jjv134
+PMID: 26254056 [Indexed for MEDLINE]
+
+
+395. Vascul Pharmacol. 2015 Oct;73:1-3. doi: 10.1016/j.vph.2015.08.004. Epub 2015
+Aug  4.
+
+Direct effects of DPP-4 inhibition on the vasculature. Reconciling basic 
+evidence with lack of clinical evidence.
+
+Fadini GP(1), Albiero M(2), Avogaro A(2).
+
+Author information:
+(1)Department of Medicine, University of Padova, 35128 Padova, Italy; Venetian 
+Institute of Molecular Medicine, 35128 Padova, Italy. Electronic address: 
+gianpaolofadini@hotmail.com.
+(2)Department of Medicine, University of Padova, 35128 Padova, Italy; Venetian 
+Institute of Molecular Medicine, 35128 Padova, Italy.
+
+Diabetes is burdened by macrovascular and microvascular complications that 
+collectively reduce life expectancy. As the ultimate goal of diabetes treatment 
+is to prevent excess morbidity and mortality associated with its complications, 
+the interest on cardiovascular effects of glucose lowering medications is high. 
+Dipeptidyl peptidase-4 inhibitors (DPP-4i) lower blood glucose by protecting the 
+incretin hormone glucagon-like peptide-1 (GLP-1) from enzymatic degradation, 
+thereby restoring meal-stimulated insulin release. DPP-4 has several 
+non-incretin substrates, including cytokines, chemokines, and neurohormones, 
+which can exert favourable, but also unpredictable, vascular effects, once they 
+are stabilized by DPP-4i. Choi et al. now provide additional evidence that 
+DPP-4i counteracts vascular smooth muscle cell proliferation and migration, 
+resulting in an attenuation of neointimal hyperplasia. Though several other in 
+vitro, preclinical, and preliminary clinical studies on surrogate end-points 
+suggest that DPP-4i can exert similar direct vasculoprotective actions, results 
+of placebo-controlled phase IV trials have so far shown no reduction 
+cardiovascular endpoints by DPP-4i. In this commentary, we put DPP-4 pleiotropy 
+and complexity into context, trying to reconcile why results from basic science 
+have not yet translated into clinical evidence of cardiovascular protection.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.vph.2015.08.004
+PMID: 26254108 [Indexed for MEDLINE]
+
+
+396. Neuro Oncol. 2016 Jan;18(1):114-8. doi: 10.1093/neuonc/nov149. Epub 2015 Aug
+8.
+
+Prediction of life expectancy in patients with spinal epidural metastasis.
+
+Bartels RH(1), de Ruiter G(1), Feuth T(1), Arts MP(1).
+
+Author information:
+(1)Department of Neurosurgery, Radboud University Medical Center, Nijmegen, 
+Netherlands (R.H.M.A.B.); Department of Neurosurgery, The Haaglanden Medical 
+Center, The Hague, Netherlands (G.d.R., M.P.A.); Department for Health Evidence, 
+Radboud University Medical Center, Nijmegen, Netherlands (T.F.).
+
+BACKGROUND: The treatment of spinal epidural metastasis is multidisciplinary and 
+usually involves a team of medical oncologists, radiologists, radiotherapists, 
+and spinal surgeons. Life expectancy is one of the factors considered when 
+deciding whether surgery is warranted. Because expert estimates of life 
+expectancy are generally not reliable, a prediction model is needed. Here, we 
+temporally validated a model that was previously validated geographically.
+METHODS: The records of 110 consecutive patients who were referred with a spinal 
+epidural metastasis were collected prospectively from 2009 to 2013 in order to 
+validate the model, which was published in 2011. The actual and estimated life 
+expectancies were represented graphically, and calibration and discrimination 
+were determined. The calibration slope, Harrell's c-index, D, and R2D were 
+calculated. Hazard ratios in the derivation set of 2011 were compared with the 
+validation set. Misspecification was determined using the joint test for β*.
+RESULTS: The calibration slope was 0.64 ± 0.15 (95% CI: 0.34-0.94), Harrell's 
+c-index was 0.72, D was 1.08, and R2D was 0.22, indicating slightly worse 
+discrimination in the derivation set. The joint test for β* = 0 was 
+statistically significant and indicated misspecification; however, this 
+misspecification was attributed entirely to the surgical group.
+CONCLUSIONS: We validated a prediction model for surgical decision making, 
+showing that the model's overall performance is good. Based on these results, 
+this model will help clinicians to decide whether to offer surgery to patients 
+with spinal epidural metastasis.
+
+© The Author(s) 2015. Published by Oxford University Press on behalf of the 
+Society for Neuro-Oncology. All rights reserved. For permissions, please e-mail: 
+journals.permissions@oup.com.
+
+DOI: 10.1093/neuonc/nov149
+PMCID: PMC4677416
+PMID: 26254478 [Indexed for MEDLINE]
+
+
+397. Injury. 2015 Oct;46(10):1891-9. doi: 10.1016/j.injury.2015.07.028. Epub 2015
+Jul  29.
+
+The investigation and management of suspected malignant pathological fractures: 
+a review for the general orthopaedic surgeon.
+
+Bryson DJ(1), Wicks L(2), Ashford RU(3).
+
+Author information:
+(1)Department of Orthopaedics, Nottingham University Hospitals NHS Trust, 
+Queen's Medical Centre, Derby Road, Nottingham, Nottinghamshire, NG7 2UH, UK. 
+Electronic address: davidjbryson@hotmail.com.
+(2)Leicester Orthopaedics, University Hospitals of Leicester NHS Trust, 
+Infirmary Square, Leicester, LE1 5WW, UK. Electronic address: 
+laurence.wicks@uhl-tr.nhs.uk.
+(3)East Midlands Sarcoma Service, University Hospitals of Leicester NHS Trust, 
+Infirmary Square, Leicester, LE1 5WW, UK; Academic Orthopaedics, Trauma & Sports 
+Medicine, University of Nottingham, Queen's Medical Centre, Derby Road, 
+Nottingham, Nottinghamshire, NG7 2UH, UK. Electronic address: 
+robert.ashford@uhl-nhs.uk.
+
+The management of malignant pathological fractures necessitates careful 
+diagnostic work-up, pre-operative investigation, planning and multidisciplinary 
+input from specialists in the fields of radiology, pathology, oncology, trauma 
+and orthopaedics. Malignant and non-malignant conditions including metabolic 
+disorders, benign tumours and pharmacological therapies can be implicated. The 
+majority of patients who present with suspected pathological fractures will be 
+managed by general orthopaedic and trauma surgeons rather than specialists in 
+orthopaedic oncology. Skeletal metastases can result in considerable morbidity 
+and predispose to pathological fractures. With advances in the medical 
+management of malignancy, life expectancy in cancer patients is increasing, 
+leading to an increasing risk of skeletal metastasis and the potential for 
+pathological fractures. Conventional modes of trauma fixation for pathological 
+fractures may not be appropriate. The aim of this review is to outline 
+diagnostic and management strategies for patients who present with a long bone 
+fracture that is potentially pathological in nature.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.injury.2015.07.028
+PMID: 26254572 [Indexed for MEDLINE]
+
+
+398. Aging Cell. 2015 Dec;14(6):971-81. doi: 10.1111/acel.12379. Epub 2015 Aug 8.
+
+Atypical antidepressants extend lifespan of Caenorhabditis elegans by activation 
+of a non-cell-autonomous stress response.
+
+Rangaraju S(1)(2)(3), Solis GM(1)(2)(3), Andersson SI(1), Gomez-Amaro 
+RL(1)(2)(3), Kardakaris R(1), Broaddus CD(1)(2)(3), Niculescu AB 3rd(4), 
+Petrascheck M(1)(2)(3).
+
+Author information:
+(1)Department of Chemical Physiology, The Scripps Research Institute, La Jolla, 
+CA, USA.
+(2)Department of Molecular and Experimental Medicine, The Scripps Research 
+Institute, La Jolla, CA, USA.
+(3)Department of Molecular and Cellular Neuroscience, The Scripps Research 
+Institute, La Jolla, CA, USA.
+(4)Department of Psychiatry, Indiana University School of Medicine, 
+Indianapolis, IN, USA.
+
+Oxidative stress has long been associated with aging and has recently been 
+linked to psychiatric disorders, including psychosis and depression. We 
+identified multiple antipsychotics and antidepressants that extend 
+Caenorhabditis elegans lifespan and protect the animal from oxidative stress. 
+Here, we report that atypical antidepressants activate a neuronal mechanism that 
+regulates the response to oxidative stress throughout the animal. While the 
+activation of the oxidative stress response by atypical antidepressants depends 
+on synaptic transmission, the activation by reactive oxygen species does not. 
+Lifespan extension by atypical antidepressants depends on the neuronal oxidative 
+stress response activation mechanism. Neuronal regulation of the oxidative 
+stress response is likely to have evolved as a survival mechanism to protect the 
+organism from oxidative stress, upon detection of adverse or dangerous 
+conditions by the nervous system.
+
+© 2015 The Authors. Aging Cell published by the Anatomical Society and John 
+Wiley & Sons Ltd.
+
+DOI: 10.1111/acel.12379
+PMCID: PMC4693466
+PMID: 26255886 [Indexed for MEDLINE]
+
+
+399. J Appl Res Intellect Disabil. 2015 Sep;28(5):373-82. doi: 10.1111/jar.12193.
+
+The Life Expectancy of People with Intellectual Disabilities in Germany.
+
+Dieckmann F(1), Giovis C(1), Offergeld J(1).
+
+Author information:
+(1)Center for Participation Research, Catholic University of Applied Sciences 
+North Rhine - Westphalia Münster, Münster, Germany.
+
+BACKGROUND: This study presents age group-specific mortality rates and the 
+average life expectancy of people with intellectual disabilities in Germany.
+METHOD: For two samples from Westphalia-Lippe and Baden-Wuerttemberg, 
+person-related data for the years 2007-2009 were analysed. Age group-specific 
+mortality rates were estimated by exponential regression analyses.
+RESULTS: The average life expectancy of men with intellectual disabilities was 
+70.9 years in Westphalia-Lippe and 65.3 years in the Baden-Wuerttemberg sample. 
+Women with intellectual disabilities reached a life expectancy of 72.8 years in 
+the Westphalian sample and 69.9 years in Baden-Wuerttemberg. The mortality 
+tables, the crude mortality rates and the standardized mortality rates according 
+to the WHO standard population are reported.
+CONCLUSION: Comparing the results with other international studies, the trend of 
+increasing life expectancies of people with intellectual disabilities is 
+confirmed. People with intellectual disabilities still have a lower average life 
+expectancy than the general population, partly due to subgroups with low life 
+expectancies.
+
+© 2015 John Wiley & Sons Ltd.
+
+DOI: 10.1111/jar.12193
+PMID: 26256274 [Indexed for MEDLINE]
+
+
+400. PLoS One. 2015 Aug 10;10(8):e0134782. doi: 10.1371/journal.pone.0134782. 
+eCollection 2015.
+
+An Economic Evaluation of Neonatal Screening for Inborn Errors of Metabolism 
+Using Tandem Mass Spectrometry in Thailand.
+
+Thiboonboon K(1), Leelahavarong P(1), Wattanasirichaigoon D(2), Vatanavicharn 
+N(3), Wasant P(3), Shotelersuk V(4), Pangkanon S(5), Kuptanon C(5), Chaisomchit 
+S(6), Teerawattananon Y(1).
+
+Author information:
+(1)Health Intervention and Technology Assessment Program (HITAP), Ministry of 
+Public Health, Nonthaburi, Thailand.
+(2)Division of Medical Genetics, Department of Pediatrics, Faculty of Medicine 
+Ramathibodi Hospital, Mahidol University, Bangkok, Thailand.
+(3)Division of Medical Genetics, Department of Pediatrics, Faculty of Medicine 
+Siriraj Hospital, Mahidol University, Bangkok, Thailand.
+(4)Center of Excellence for Medical Genetics, Department of Pediatrics, Faculty 
+of Medicine, Chulalongkorn University, Bangkok, Thailand.
+(5)Genetic Unit, Department of Pediatrics, The Queen Sirikit National Institute 
+of Child Health, Department of Medical Services, Ministry of Public Health, 
+Bangkok, Thailand.
+(6)Neonatal Screening Operation Centre, Department of Medical Science, Ministry 
+of Public Health, Nonthaburi, Thailand.
+
+BACKGROUND: Inborn errors of metabolism (IEM) are a rare group of genetic 
+diseases which can lead to several serious long-term complications in newborns. 
+In order to address these issues as early as possible, a process called tandem 
+mass spectrometry (MS/MS) can be used as it allows for rapid and simultaneous 
+detection of the diseases. This analysis was performed to determine whether 
+newborn screening by MS/MS is cost-effective in Thailand.
+METHOD: A cost-utility analysis comprising a decision-tree and Markov model was 
+used to estimate the cost in Thai baht (THB) and health outcomes in life-years 
+(LYs) and quality-adjusted life year (QALYs) presented as an incremental 
+cost-effectiveness ratio (ICER). The results were also adjusted to international 
+dollars (I$) using purchasing power parities (PPP) (1 I$ = 17.79 THB for the 
+year 2013). The comparisons were between 1) an expanded neonatal screening 
+programme using MS/MS screening for six prioritised diseases: phenylketonuria 
+(PKU); isovaleric acidemia (IVA); methylmalonic acidemia (MMA); propionic 
+acidemia (PA); maple syrup urine disease (MSUD); and multiple carboxylase 
+deficiency (MCD); and 2) the current practice that is existing PKU screening. A 
+comparison of the outcome and cost of treatment before and after clinical 
+presentations were also analysed to illustrate the potential benefit of early 
+treatment for affected children. A budget impact analysis was conducted to 
+illustrate the cost of implementing the programme for 10 years.
+RESULTS: The ICER of neonatal screening using MS/MS amounted to 1,043,331 THB 
+per QALY gained (58,647 I$ per QALY gained). The potential benefits of early 
+detection compared with late detection yielded significant results for PKU, IVA, 
+MSUD, and MCD patients. The budget impact analysis indicated that the 
+implementation cost of the programme was expected at approximately 2,700 million 
+THB (152 million I$) over 10 years.
+CONCLUSION: At the current ceiling threshold, neonatal screening using MS/MS in 
+the Thai context is not cost-effective. However, the treatment of patients who 
+were detected early for PKU, IVA, MSUD, and MCD, are considered favourable. The 
+budget impact analysis suggests that the implementation of the programme will 
+incur considerable expenses under limited resources. A long-term epidemiological 
+study on the incidence of IEM in Thailand is strongly recommended to ascertain 
+the magnitude of problem.
+
+DOI: 10.1371/journal.pone.0134782
+PMCID: PMC4530882
+PMID: 26258410 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+401. PLoS One. 2015 Aug 10;10(8):e0135489. doi: 10.1371/journal.pone.0135489. 
+eCollection 2015.
+
+Parity and longevity of Aedes aegypti according to temperatures in controlled 
+conditions and consequences on dengue transmission risks.
+
+Goindin D(1), Delannay C(1), Ramdini C(2), Gustave J(2), Fouque F(3).
+
+Author information:
+(1)Laboratory of Medical Entomology, Unit Environment and Health, Institut 
+Pasteur de la Guadeloupe, 97183 Les Abymes, Guadeloupe.
+(2)Service de Lutte Anti-Vectorielle, Agence Régionale de Santé, Dothémare, Les 
+Abymes, Guadeloupe.
+(3)Laboratory of Medical Entomology, Unit Environment and Health, Institut 
+Pasteur de la Guadeloupe, 97183 Les Abymes, Guadeloupe; Vector Environment and 
+Society Unit, Special Programme for Research and Training in Tropical Diseases 
+(TDR), World Health Organization, 20, Avenue Appia, CH-1211 Geneva 27, 
+Switzerland.
+
+BACKGROUND: In Guadeloupe, Aedes aegypti mosquitoes are the only vectors of 
+dengue and chikungunya viruses. For both diseases, vector control is the only 
+tool for preventing epidemics since no vaccine or specific treatment is 
+available. However, to efficiently implement control of mosquitoes vectors, a 
+reliable estimation of the transmission risks is necessary. To become infective 
+an Ae. aegypti female must ingest the virus during a blood meal and will not be 
+able to transmit the virus during another blood-meal until the extrinsic 
+incubation period is completed. Consequently the aged females will carry more 
+infectious risks. The objectives of the present study were to estimate under 
+controlled conditions the expectation of infective life for females and thus the 
+transmission risks in relation with their reproductive cycle and parity status.
+METHODOLOGY/PRINCIPAL FINDINGS: Larvae of Ae. aegypti were collected in central 
+Guadeloupe and breed under laboratory conditions until adult emergence. The 
+experiments were performed at constant temperatures (± 1.5°C) of 24°C, 27°C and 
+30°C on adults females from first generation (F1). Females were kept and fed 
+individually and records of blood-feeding, egg-laying and survival were done 
+daily. Some females were dissected at different physiological stages to observe 
+the ovaries development. The data were analyzed to follow the evolution of 
+parity rates, the number of gonotrophic cycles, the fecundity and to study the 
+mean expectation of life and the mean expectation of infective life for Ae. 
+aegypti females according to temperatures. The expectation of life varies with 
+the parity rates and according to the temperatures, with durations from about 10 
+days at low parity rates at the higher temperature to an optimal duration of 
+about 35 days when 70% of females are parous at 27°C. Infective life expectancy 
+was found highly variable in the lower parous rates and again the optimal 
+durations were found when more than 50% of females are parous for the mean 
+temperatures of 27°C and 30°C.
+CONCLUSION: Parity rates can be determined for field collected females and could 
+be a good proxy of the expectation of infective life according to temperatures. 
+However, for the same parity rates, the estimation of infective life expectation 
+is very different between Ae. aegypti and Anopheles gambiae mosquitoes. 
+Correlation of field parity rates with transmission risks requires absolutely to 
+be based on Ae. aegypti models, since available Anopheles sp. models 
+underestimate greatly the females longevity.
+
+DOI: 10.1371/journal.pone.0135489
+PMCID: PMC4530937
+PMID: 26258684 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+402. PLoS One. 2015 Aug 10;10(8):e0135099. doi: 10.1371/journal.pone.0135099. 
+eCollection 2015.
+
+Cost-effectiveness of physical activity among women with menopause symptoms: 
+findings from a randomised controlled trial.
+
+Kolu P(1), Raitanen J(2), Nygård CH(3), Tomás E(4), Luoto R(1).
+
+Author information:
+(1)UKK Institute for Health Promotion; Tampere, Finland.
+(2)UKK Institute for Health Promotion; Tampere, Finland; School of Health 
+Sciences, University of Tampere; Tampere, Finland.
+(3)School of Health Sciences, University of Tampere; Tampere, Finland.
+(4)Tampere University Hospital; Tampere, Finland.
+
+Menopause is a period that may predispose one to a decrease in muscle strength, 
+cardiorespiratory fitness, and quality of life. A study was carried out to 
+evaluate the cost-effectiveness of physical activity among women displaying 
+symptoms of menopause. The cost-effectiveness analysis was based on data from a 
+six-month randomised controlled trial (n = 151). The women in the intervention 
+group engaged in an unsupervised session of at least 50 minutes of physical 
+activity four times a week. The control group continued their physical activity 
+as before. An incremental cost-effectiveness ratio (ICER) was calculated in 
+terms of maximal oxygen consumption, lean muscle mass, and quality-adjusted life 
+years (QALYs) gained. A bootstrap technique was utilised to estimate uncertainty 
+around the point estimate for ICER associated with the intervention. The mean 
+total cost in the intervention group was €1,307 (SEM: €311) and in the control 
+group was €1,253 (SEM: €279, p = 0.10) per person. The mean intervention cost 
+was €208 per person. After six months of the behaviour-change intervention, the 
+ICER was €63 for a 1 ml/kg/min improvement in cardiorespiratory fitness, the 
+additional cost per one-gram increase in lean muscle mass was €126, and the cost 
+per QALY gained was €46. According to the findings, physical activity among 
+menopausal women was cost-effective for cardiorespiratory fitness, for lean 
+muscle mass, and for QALYs gained, since the intervention was more effective 
+than the actions within the control group and the additional effects of physical 
+activity were gained at a very low price. From the societal perspective, the 
+intervention used may promote ability to work and thereby save on further costs 
+associated with early retirement or disability pension if the physical-activity 
+level remains at least the same as during the intervention.
+
+DOI: 10.1371/journal.pone.0135099
+PMCID: PMC4530885
+PMID: 26258804 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+403. J Clin Endocrinol Metab. 2015 Oct;100(10):E1362-9. doi:
+10.1210/jc.2015-1827.  Epub 2015 Aug 10.
+
+Expanding the Clinical Spectrum Associated With GLIS3 Mutations.
+
+Dimitri P(1), Habeb AM(1), Gurbuz F, Millward A(1), Wallis S(1), Moussa K(1), 
+Akcay T(1), Taha D(1), Hogue J(1), Slavotinek A(1), Wales JK(1), Shetty A(1), 
+Hawkes D(1), Hattersley AT(1), Ellard S(1), De Franco E(1).
+
+Author information:
+(1)Department of Paediatric Endocrinology (P.D.), Sheffield Children's NHS 
+Foundation Trust, Sheffield S10 2TH, United Kingdom; Paediatric Department 
+(A.M.H.), Prince Mohamed Bin Abdulaziz Hospital, National Guard Health 
+Authority, Al-Madinah, Riyadh 14214, Kingdom of Saudi Arabia; Ankara Pediatric 
+Hematology Oncology Education and Training Hospital (F.G.), Ankara, Turkey; 
+Diabetes Clinical Research Centre (A.M.), Plymouth Hospitals NHS Trust, 
+Derriford PL6 8DH, United Kingdom; Department of Paediatrics (S.W.), Bradford 
+Teaching Hospitals NHS Foundation Trust, Bradford, West Yorkshire BD9 6RJ, 
+United Kingdom; Paediatric Department (K.M.), Maternity and Children Hospital, 
+Jeddah 23342, Kingdom of Saudi Arabia; Kanuni Sultan Süleyman Education and 
+Research Hospital (T.A.), 34303 Küçükçekmece, Istanbul, Turkey; Division of 
+Pediatric Endocrinology (D.T.), Children's Hospital of Michigan, Wayne State 
+University, Detroit, Michigan 48201; Department of Paediatrics (J.J.), Madigan 
+Army Medical Center, Tacoma, Washington 98431; Institute for Human Genetics 
+(A.S.), University of California, San Francisco, California 94143; Department of 
+Paediatric Endocrinology and Diabetes (J.K.H.W.), Lady Cilento Children's 
+Hospital, South Brisbane, Queensland 4101, Australia; Department of Paediatrics 
+(A.S.), Nevill Hall Hospital, Abergavenny NP7 7EG, Wales, United Kingdom; 
+Department of Paediatrics (D.H.), Royal Gwent Hospital, Newport NP20 2UB Wales, 
+United Kingdom; and Institute of Biomedical and Clinical Science (A.T.H., S.E., 
+E.D.F.), University of Exeter Medical School, EX2 5DW, United Kingdom.
+
+Erratum in
+    J Clin Endocrinol Metab. 2015 Dec;100(12):4685. Garbuz, F [corrected to 
+Gurbuz, F].
+
+CONTEXT: GLIS3 (GLI-similar 3) is a member of the GLI-similar zinc finger 
+protein family encoding for a nuclear protein with 5 C2H2-type zinc finger 
+domains. The protein is expressed early in embryogenesis and plays a critical 
+role as both a repressor and activator of transcription. Human GLIS3 mutations 
+are extremely rare.
+OBJECTIVE: The purpose of this article was determine the phenotypic presentation 
+of 12 patients with a variety of GLIS3 mutations.
+METHODS: GLIS3 gene mutations were sought by PCR amplification and sequence 
+analysis of exons 1 to 11. Clinical information was provided by the referring 
+clinicians and subsequently using a questionnaire circulated to gain further 
+information.
+RESULTS: We report the first case of a patient with a compound heterozygous 
+mutation in GLIS3 who did not present with congenital hypothyroidism. All 
+patients presented with neonatal diabetes with a range of insulin sensitivities. 
+Thyroid disease varied among patients. Hepatic and renal disease was common with 
+liver dysfunction ranging from hepatitis to cirrhosis; cystic dysplasia was the 
+most common renal manifestation. We describe new presenting features in patients 
+with GLIS3 mutations, including craniosynostosis, hiatus hernia, atrial septal 
+defect, splenic cyst, and choanal atresia and confirm further cases with 
+sensorineural deafness and exocrine pancreatic insufficiency.
+CONCLUSION: We report new findings within the GLIS3 phenotype, further extending 
+the spectrum of abnormalities associated with GLIS3 mutations and providing 
+novel insights into the role of GLIS3 in human physiological development. All 
+but 2 of the patients within our cohort are still alive, and we describe the 
+first patient to live to adulthood with a GLIS3 mutation, suggesting that even 
+patients with a severe GLIS3 phenotype may have a longer life expectancy than 
+originally described.
+
+DOI: 10.1210/jc.2015-1827
+PMCID: PMC4596041
+PMID: 26259131 [Indexed for MEDLINE]
+
+
+404. BMJ. 2015 Aug 10;351:h4333. doi: 10.1136/bmj.h4333.
+
+Tackling social factors is key in reducing cardiovascular disease, say US heart 
+doctors.
+
+McCarthy M(1).
+
+Author information:
+(1)Seattle.
+
+DOI: 10.1136/bmj.h4333
+PMID: 26259759 [Indexed for MEDLINE]
+
+
+405. Clin Orthop Relat Res. 2016 Jan;474(1):222-33. doi:
+10.1007/s11999-015-4494-4.  Epub 2015 Aug 11.
+
+Dedicated Perioperative Hip Fracture Comanagement Programs are Cost-effective in 
+High-volume Centers: An Economic Analysis.
+
+Swart E(1), Vasudeva E(1), Makhni EC(1), Macaulay W(1), Bozic KJ(2).
+
+Author information:
+(1)Department of Orthopaedic Surgery, Columbia University Medical Center, New 
+York, NY, USA.
+(2)Department of Surgery and Perioperative Care, University of Texas at Austin 
+Dell Medical School, 1912 Speedway, Suite 564, Sanchez Building, Austin, TX, 
+78712, USA. kevin.bozic@austin.utexas.edu.
+
+Comment in
+    Clin Orthop Relat Res. 2016 Jan;474(1):234-6.
+
+BACKGROUND: Osteoporotic hip fractures are common injuries typically occurring 
+in patients who are older and medically frail. Studies have suggested that 
+creation of a multidisciplinary team including orthopaedic surgeons, internal 
+medicine physicians, social workers, and specialized physical therapists, to 
+comanage these patients can decrease complication rates, improve time to 
+surgery, and reduce hospital length of stay; however, they have yet to achieve 
+widespread implementation, partly owing to concerns regarding resource 
+requirements necessary for a comanagement program.
+QUESTIONS/PURPOSES: We performed an economic analysis to determine whether 
+implementation of a comanagement model of care for geriatric patients with 
+osteoporotic hip fractures would be a cost-effective intervention at hospitals 
+with moderate volume. We also calculated what annual volume of cases would be 
+needed for a comanagement program to "break even", and finally we evaluated 
+whether universal or risk-stratified comanagement was more cost effective.
+METHODS: Decision analysis techniques were used to model the effect of 
+implementing a systems-based strategy to improve inpatient perioperative care. 
+Costs were obtained from best-available literature and included salary to 
+support personnel and resources to expedite time to the operating room. The 
+major economic benefit was decreased initial hospital length of stay, which was 
+determined via literature review and meta-analysis, and a health benefit was 
+improvement in perioperative mortality owing to expedited preoperative 
+evaluation based on previously conducted meta-analyses. A break-even analysis 
+was conducted to determine the annual case volume necessary for comanagement to 
+be either (1) cost effective (improve health-related quality of life enough to 
+be worth additional expenses) or (2) result in cost savings (actually result in 
+decreased total expenses). This calculation assumed the scenario in which a 
+hospital could hire only one hospitalist (and therapist and social worker) on a 
+full-time basis. Additionally, we evaluated the scenario where the necessary 
+staff was already employed at the hospital and could be dedicated to a 
+comanagement service on a part-time basis, and explored the effect of triaging 
+only patients considered high risk to a comanagement service versus comanaging 
+all geriatric patients. Finally, probabilistic sensitivity analysis was 
+conducted on all critical variables, with broad ranges used for values around 
+which there was higher uncertainty.
+RESULTS: For the base case, universal comanagement was more cost effective than 
+traditional care and risk-stratified comanagement (incremental cost 
+effectiveness ratios of USD 41,100 per quality-adjusted life-year and USD 81,900 
+per quality-adjusted life-year, respectively). Comanagement was more cost 
+effective than traditional management as long as the case volume was more than 
+54 patients annually (range, 41-68 patients based on sensitivity analysis) and 
+resulted in cost savings when there were more than 318 patients annually (range, 
+238-397 patients). In a scenario where staff could be partially dedicated to a 
+comanagement service, universal comanagement was more cost effective than 
+risk-stratified comanagement (incremental cost effectiveness of USD 2300 per 
+quality-adjusted life-year), and both comanagement programs had lower costs and 
+better outcomes compared with traditional management. Sensitivity analysis was 
+conducted and showed that the level of uncertainty in key variables was not high 
+enough to change the core conclusions of the model.
+CONCLUSIONS: Implementation of a systems-based comanagement strategy using a 
+dedicated team to improve perioperative medical care and expedite preoperative 
+evaluation is cost effective in hospitals with moderate volume and can result in 
+cost savings at higher-volume centers. The optimum patient population for a 
+comanagement strategy is still being defined.
+LEVEL OF EVIDENCE: Level 1, Economic and Decision Analysis.
+
+DOI: 10.1007/s11999-015-4494-4
+PMCID: PMC4686498
+PMID: 26260393 [Indexed for MEDLINE]
+
+
+406. Health Qual Life Outcomes. 2015 Aug 11;13:122. doi:
+10.1186/s12955-015-0321-6.
+
+The PROMIS of QALYs.
+
+Hanmer J(1), Feeny D(2), Fischhoff B(3), Hays RD(4), Hess R(5), Pilkonis PA(6), 
+Revicki DA(7), Roberts MS(8)(9), Tsevat J(10), Yu L(11).
+
+Author information:
+(1)Department of General Internal Medicine, University of Pittsburgh Medical 
+Center, 230 McKee Place, Suite 600, Pittsburgh, PA, 15213, USA. 
+hanmerjz@upmc.edu.
+(2)Department of Economics, McMaster University, Hamilton, ON, Canada; Health 
+Utilities Incorporated, Dundas, ON, Canada. feeny@mcmaster.ca.
+(3)Department of Engineering and Public Policy and Department of Social and 
+Decision Sciences, Carnegie Mellon University, Pittsburgh, PA, USA. 
+baruch@cmu.edu.
+(4)Division of General Internal Medicine & Health Services Research, UCLA, Los 
+Angeles, CA, USA. drhays@g.ucla.edu.
+(5)Division of Health System Innovation and Research, University of Utah Schools 
+of the Health Sciences, Salt Lake City, UT, USA. rachel.hess@hsc.utah.edu.
+(6)Department of Psychiatry, University of Pittsburgh Medical Center, 
+Pittsburgh, PA, USA. pilkonispa@upmc.edu.
+(7)Outcomes Research, Evidera, Bethesda, MD, USA. Dennis.Revicki@evidera.com.
+(8)Department of General Internal Medicine, University of Pittsburgh Medical 
+Center, 230 McKee Place, Suite 600, Pittsburgh, PA, 15213, USA. 
+mroberts@pitt.edu.
+(9)Department of Health Policy and Management, University of Pittsburgh, 
+Pittsburgh, PA, USA. mroberts@pitt.edu.
+(10)Division of General Internal Medicine, University of Cincinnati College of 
+Medicine and Cincinnati VA Medical Center, Cincinnati, OH, USA. 
+joel.tsevat@uc.edu.
+(11)Department of General Internal Medicine, University of Pittsburgh Medical 
+Center, 230 McKee Place, Suite 600, Pittsburgh, PA, 15213, USA. Yul2@upmc.edu.
+
+Measuring health and health-related quality of life (HRQoL) is important for 
+tracking the health of individuals and populations over time. Generic HRQoL 
+measures allow for comparison across health conditions. One form of generic 
+HRQoL measures are profile measures, which provide a description of health 
+across several different domains (such as physical functioning, depression, and 
+pain). Recent advances in health profile measurement include the development of 
+measures based on item response theory. The Patient-Reported Outcomes 
+Measurement Information System (PROMIS®) has been constructed using this theory. 
+Another form of generic HRQoL measures are utility measures, which assess the 
+value of health states. Multi-attribute utility theory provides a framework for 
+valuing disparate domains of health and aggregating them into a single 
+preference-based score. Such a score provides an overall measure of health 
+outcomes as well as a quality of life weight for use in decision analyses and 
+cost-effectiveness analyses. Developing a utility score for PROMIS® would allow 
+simultaneous estimation of both health profile and utility scores using a single 
+measure. The purpose of this paper is to provide a roadmap of the methodological 
+steps necessary to create such a scoring system.
+
+DOI: 10.1186/s12955-015-0321-6
+PMCID: PMC4530486
+PMID: 26260491 [Indexed for MEDLINE]
+
+
+407. Health Qual Life Outcomes. 2015 Aug 11;13:123. doi:
+10.1186/s12955-015-0323-4.
+
+Adverse childhood experiences and health-related quality of life in adulthood: 
+revelations from a community needs assessment.
+
+Salinas-Miranda AA(1)(2), Salemi JL(3), King LM(4), Baldwin JA(5), Berry EL(6), 
+Austin DA(7), Scarborough K(8), Spooner KK(9), Zoorob RJ(10), Salihu HM(11).
+
+Author information:
+(1)Department of Epidemiology and Biostatistics, College of Public Health, 
+University of South Florida, 13201 Bruce B Downs, MDC56, Tampa, Florida, 33612, 
+USA. asalinas@health.usf.edu.
+(2)REACHUP Inc., 2902 N, Armenia Avenue Suite 100, Tampa, Florida, 33607, USA. 
+asalinas@health.usf.edu.
+(3)Department of Family and Community Medicine, Baylor College of Medicine, 3701 
+Kirby Drive, Suite 600, Houston, Texas, 77098, USA. Jason.Salemi@bcm.edu.
+(4)Department of Epidemiology and Biostatistics, College of Public Health, 
+University of South Florida, 13201 Bruce B Downs, MDC56, Tampa, Florida, 33612, 
+USA. lking1@health.usf.edu.
+(5)Department of Community and Family Health, College of Public Health, 
+University of South Florida, 13201 Bruce B. Downs Blvd. MDC 56, Tampa, Florida, 
+33612, USA. jbaldwin@health.usf.edu.
+(6)REACHUP Inc., 2902 N, Armenia Avenue Suite 100, Tampa, Florida, 33607, USA. 
+LBerry@reachupincorporated.org.
+(7)REACHUP Inc., 2902 N, Armenia Avenue Suite 100, Tampa, Florida, 33607, USA. 
+DAustin@reachupincorporated.org.
+(8)REACHUP Inc., 2902 N, Armenia Avenue Suite 100, Tampa, Florida, 33607, USA. 
+KScarborough@reachupincorporated.org.
+(9)Department of Family and Community Medicine, Baylor College of Medicine, 3701 
+Kirby Drive, Suite 600, Houston, Texas, 77098, USA. Kiara.Spooner@bcm.edu.
+(10)Department of Family and Community Medicine, Baylor College of Medicine, 
+3701 Kirby Drive, Suite 600, Houston, Texas, 77098, USA. Roger.Zoorob@bcm.edu.
+(11)Department of Family and Community Medicine, Baylor College of Medicine, 
+3701 Kirby Drive, Suite 600, Houston, Texas, 77098, USA. Hamisu.Salihu@bcm.edu.

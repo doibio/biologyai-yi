@@ -1,0 +1,1000 @@
+
+
+423. JMIR Med Inform. 2020 Feb 25;8(2):e14583. doi: 10.2196/14583.
+
+A Communication Infrastructure for the Health and Social Care Internet of 
+Things: Proof-of-Concept Study.
+
+Della Mea V(1), Popescu MH(1), Gonano D(2), Petaros T(3), Emili I(3), Fattori 
+MG(2).
+
+Author information:
+(1)Department of Mathematics, Computer Science and Physics, University of Udine, 
+Udine, Italy.
+(2)Cimtech Srl, Reana del Rojale, Italy.
+(3)MIPOT SpA, Cormons, Italy.
+
+BACKGROUND: Increasing life expectancy and reducing birth rates indicate that 
+the world population is becoming older, with many challenges related to quality 
+of life for old and fragile people, as well as their informal caregivers. In the 
+last few years, novel information and communication technology techniques 
+generally known as the Internet of Things (IoT) have been developed, and they 
+are centered around the provision of computation and communication capabilities 
+to objects. The IoT may provide older people with devices that enable their 
+functional independence in daily life by either extending their own capacity or 
+facilitating the efforts of their caregivers. LoRa is a proprietary wireless 
+transmission protocol optimized for long-range, low-power, low-data-rate 
+applications. LoRaWAN is an open stack built upon LoRa.
+OBJECTIVE: This paper describes an infrastructure designed and experimentally 
+developed to support IoT deployment in a health care setup, and the management 
+of patients with Alzheimer's disease and dementia has been chosen for a 
+proof-of-concept study. The peculiarity of the proposed approach is that it is 
+based on the LoRaWAN protocol stack, which exploits unlicensed frequencies and 
+allows for the use of very low-power radio devices, making it a rational choice 
+for IoT communication.
+METHODS: A complete LoRaWAN-based infrastructure was designed, with features 
+partly decided in agreement with caregivers, including outdoor patient tracking 
+to control wandering; fall recognition; and capability of collecting data for 
+further clinical studies. Further features suggested by caregivers were night 
+motion surveillance and indoor tracking for large residential structures. 
+Implementation involved a prototype node with tracking and fall recognition 
+capabilities, a middle layer based on an existing network server, and a Web 
+application for overall management of patients and caregivers. Tests were 
+performed to investigate indoor and outdoor capabilities in a real-world setting 
+and study the applicability of LoRaWAN in health and social care scenarios.
+RESULTS: Three experiments were carried out. One aimed to test the technical 
+functionality of the infrastructure, another assessed indoor features, and the 
+last assessed outdoor features. The only critical issue was fall recognition, 
+because a slip was not always easy to recognize.
+CONCLUSIONS: The project allowed the identification of some advantages and 
+restrictions of the LoRaWAN technology when applied to the health and social 
+care sectors. Free installation allows the development of services that reach 
+ranges comparable to those available with cellular telephony, but without 
+running costs like telephony fees. However, there are technological limitations, 
+which restrict the scenarios in which LoRaWAN is applicable, although there is 
+room for many applications. We believe that setting up low-weight infrastructure 
+and carefully determining whether applications can be concretely implemented 
+within LoRaWAN limits might help in optimizing community care activities while 
+not adding much burden and cost in information technology management.
+
+©Vincenzo Della Mea, Mihai Horia Popescu, Dario Gonano, Tomaž Petaros, Ivo 
+Emili, Maria Grazia Fattori. Originally published in JMIR Medical Informatics 
+(http://medinform.jmir.org), 25.02.2020.
+
+DOI: 10.2196/14583
+PMCID: PMC7064948
+PMID: 32130158
+
+Conflict of interest statement: Conflicts of Interest: MGF is the owner and 
+chief executive officer of Cimtech Srl, DG is the chief technical officer of 
+Cimtech Srl, TP is the chief executive officer of MIPOT SpA, and IE is the 
+research & development director at MIPOT SpA.
+
+
+424. PLoS One. 2020 Mar 4;15(3):e0229733. doi: 10.1371/journal.pone.0229733. 
+eCollection 2020.
+
+The significance and expectations of HIV cure research among people living with 
+HIV in Australia.
+
+Power J(1), Dowsett GW(1)(2), Westle A(1), Tucker JD(3)(4), Hill S(5), Sugarman 
+J(6)(7), Lewin SR(8)(9), Brown G(1)(2), Lucke J(1)(10).
+
+Author information:
+(1)Australian Research Centre in Sex, Health and Society, La Trobe University, 
+Melbourne, Australia.
+(2)Centre for Social Research in Health, UNSW Australia, Sydney, Australia.
+(3)Institute for Global Health and Infectious Diseases, University of North 
+Carolina at Chapel Hill, Chapel Hill, North Carolina, United States of America.
+(4)Faculty of Infectious and Tropical Diseases, London School of Hygiene and 
+Tropical Medicine, London, United Kingdom.
+(5)Centre for Health Communication and Participation, School of Psychology and 
+Public Health, La Trobe University, Melbourne, Australia.
+(6)Berman Institute of Bioethics, Johns Hopkins University, Baltimore, Maryland, 
+United States of America.
+(7)Department of Medicine, School of Medicine, Johns Hopkins University, 
+Baltimore, Maryland, United States of America.
+(8)The Peter Doherty Institute for Infection and Immunity, University of 
+Melbourne and Royal Melbourne Hospital, Melbourne, Australia.
+(9)Department of Infectious Diseases, Alfred Health and Monash University, 
+Melbourne, Australia.
+(10)School of Public Health, The University of Queensland, Brisbane, Australia.
+
+Most people living with HIV (PLHIV) with reliable access to antiretroviral 
+treatment (ART) have a life expectancy similar to uninfected populations. 
+Despite this, HIV can negatively affect their social and psychological 
+wellbeing. This study aimed to enhance understanding of the expectations PLHIV 
+hold for HIV cure research and the implications this has for HIV cure research 
+trials. We interviewed 20 Australian PLHIV about their expectations for HIV cure 
+research outcomes and the impact a potential cure for HIV may have on their 
+everyday lives. Data were analysed thematically, using both inductive and 
+deductive approaches. The significance of a cure for HIV was expressed by 
+participants as something that would offer relief from their sense of vigilance 
+or uncertainty about their health into the future. A cure was also defined in 
+social terms, as alleviation from worry about potential for onward HIV 
+transmission, concerns for friends and family, and the negative impact of 
+HIV-related stigma. Participants did not consider sustained medication-free 
+viral suppression (or remission) as a cure for HIV because this did not offer 
+certainty in remaining virus free in a way that would alleviate these fears and 
+concerns. A cure was seen as complete elimination of HIV from the body. There is 
+an ethical need to consider the expectations of PLHIV in design of, and 
+recruitment for, HIV cure-related research. The language used to describe HIV 
+cure research should differentiate the long-term aspiration of achieving 
+complete elimination of HIV from the body and possible shorter-term therapeutic 
+advances, such as achieving medication free viral suppression.
+
+DOI: 10.1371/journal.pone.0229733
+PMCID: PMC7055878
+PMID: 32130262 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+425. Arq Bras Oftalmol. 2020 Jan-Feb;83(1):48-54. doi:
+10.5935/0004-2749.20200020.
+
+Cost-effectiveness of Anti-VEGF treatments for age-related macular degeneration: 
+a Brazilian perspective.
+
+Nunes RP(1)(2), Hirai FE(1), Rodrigues EB(1), Farah ME(1).
+
+Author information:
+(1)Department of Ophthalmology and Visual Sciences, Escola Paulista de Medicina, 
+Universidade Federal de São Paulo, São Paulo, SP, Brazil.
+(2)Instituto de Olhos de Florianópolis, Florianópolis, SC, Brazil.
+
+PURPOSE: To study the cost-effectiveness of ranibizumab and bevacizumab for the 
+treatment of age-related macular degeneration.
+METHODS: We used a decision tree model to analyze the cost-effectiveness of 
+ranibizumab and bevacizumab for the treatment of age-related macular 
+degeneration, from the Brazilian Public Health System (SUS) perspective. 
+Ranibizumab and bevacizumab were administered to patients with the same 
+treatment procedure, and the difference in treatment costs was calculated based 
+on the cost of the drugs. Direct costs were estimated using the information 
+provided by the Brazilian SUS. Effectiveness in terms of quality-adjusted life 
+years (QALYs) was calculated based on the utility values for visual impairment. 
+Incremental cost-effectiveness ratio was calculated by comparing both 
+treatments. The analytical horizon was one year.
+RESULTS: The decision tree analysis showed that the difference in treatment 
+effectiveness was 0.01 QALY. Incremental cost-effectiveness ratio showed that 
+ranibizumab treatment required an incremental annual cost of more than R$ 2 
+million to generate 1 additional QALY, as compared to bevacizumab.
+CONCLUSIONS: From the Brazilian SUS perspective, bevacizumab is more 
+cost-effective than ranibizumab for the treatment of neovascular age-related 
+macular degeneration. Its use could allow potential annual savings in health 
+budget.
+
+DOI: 10.5935/0004-2749.20200020
+PMID: 32130306 [Indexed for MEDLINE]
+
+
+426. Parasitol Res. 2020 Apr;119(4):1401-1408. doi: 10.1007/s00436-020-06631-5.
+Epub  2020 Mar 4.
+
+Fatty acid-binding proteins in Echinococcus spp.: the family has grown.
+
+Pórfido JL(1)(2), Herz M(3), Kiss F(3), Kamenetzky L(4), Brehm K(3), Rosenzvit 
+MC(4), Córsico B(1), Franchini GR(5).
+
+Author information:
+(1)Instituto de Investigaciones Bioquímicas de La Plata (INIBIOLP), Facultad de 
+Ciencias Médicas, Universidad Nacional de La Plata (UNLP)-Consejo Nacional de 
+Investigaciones Científicas y Técnicas (CONICET), La Plata, Argentina.
+(2)Institut Pasteur Montevideo, Montevideo, Uruguay.
+(3)Institut für Hygiene und Mikrobiologie, Universität Würzburg, Würzburg, 
+Germany.
+(4)Instituto de Investigaciones en Microbiología y Parasitología Médica (IMPaM), 
+Facultad de Medicina, Universidad de Buenos Aires (UBA)-Consejo Nacional de 
+Investigaciones Científicas y Técnicas (CONICET), Buenos Aires, Argentina.
+(5)Instituto de Investigaciones Bioquímicas de La Plata (INIBIOLP), Facultad de 
+Ciencias Médicas, Universidad Nacional de La Plata (UNLP)-Consejo Nacional de 
+Investigaciones Científicas y Técnicas (CONICET), La Plata, Argentina. 
+gfranchini@conicet.gov.ar.
+
+Fatty acid-binding proteins (FABPs) are small intracellular proteins that 
+reversibly bind fatty acids and other hydrophobic ligands. In cestodes, due to 
+their inability to synthesise fatty acids de novo, FABPs have been proposed as 
+essential proteins, and thus, as possible drug targets and/or carriers against 
+these parasites. We performed data mining in Echinococcus multilocularis and 
+Echinococcus granulosus genomes in order to test whether this family of proteins 
+is more complex than previously reported. By exploring the genomes of E. 
+multilocularis and E. granulosus, six genes coding for FABPs were found in each 
+organism. In the case of E. granulosus, all of them have different coding 
+sequences, whereas in E. multilocularis, two of the genes code for the same 
+protein. Remarkably, one of the genes (in both cestodes) encodes a FABP with a 
+C-terminal extension unusual for this family of proteins. The newly described 
+genes present variations in their structure in comparison with previously 
+described FABP genes in Echinococcus spp. The coding sequences for E. 
+multilocularis were validated by cloning and sequencing. Moreover, differential 
+expression patterns of FABPs were observed at different stages of the life cycle 
+of E. multilocularis by exploring transcriptomic data from several sources. In 
+summary, FABP family in cestodes is far more complex than previously thought and 
+includes new members that seem to be only present in flatworms.
+
+DOI: 10.1007/s00436-020-06631-5
+PMID: 32130486 [Indexed for MEDLINE]
+
+
+427. Clin Drug Investig. 2020 Apr;40(4):319-326. doi: 10.1007/s40261-020-00895-6.
+
+Cost-Effectiveness Analysis of Cannabinoid Oromucosal Spray Use for the 
+Management of Spasticity in Subjects with Multiple Sclerosis.
+
+Mantovani LG(1)(2), Cozzolino P(2), Cortesi PA(3)(4), Patti F(5); SA.FE. study 
+group.
+
+Collaborators: Patti F, Messina S, Solaro C, Amato MP, Bergamaschi R, Bonavita 
+S, Bruno Bossio R, Brescia Morra V, Costantino GF, Cavalla P, Centonze D, Comi 
+G, Cottone S, Danni M, Francia A, Gajofatto A, Gasperini C, Ghezzi A, Iudice A, 
+Lus G, Maniscalco GT, Marrosu MG, Matta M, Mirabella M, Montanari E, Pozzilli C, 
+Rovaris M, Sessa E, Spitaleri D, Trojano M, Valentino P, Zappia M, Benedetti MD, 
+Bertolotto A, Berra E, Bianco A, Buttari F, Cerqua R, Florio C, Fuiani A, 
+Guareschi A, Ippolito D, Nuara A, Palmieri V, Paolicelli D, Petrucci L, 
+Pontecorvo S, Saccà F, Salomone G, Signoriello E, Spinicci G, Russo M, Tavazzi 
+E, Trabucco E, Trotta M, Zaffaroni M.
+
+Author information:
+(1)Research Centre on Public Health (CESP), University of Milano Bicocca, Villa 
+Serena, Via Pergolesi 33, 20900, Monza, Italy.
+(2)Fondazione Charta, Milan, Italy.
+(3)Research Centre on Public Health (CESP), University of Milano Bicocca, Villa 
+Serena, Via Pergolesi 33, 20900, Monza, Italy. paolo.cortesi@unimib.it.
+(4)Fondazione Charta, Milan, Italy. paolo.cortesi@unimib.it.
+(5)Department of Medical, Surgical Science and Advanced Technology "GF 
+Ingrassia", University of Catania, Catania, Italy.
+
+INTRODUCTION: Multiple sclerosis (MS) is a highly symptomatic disease, with a 
+wide range of disabilities affecting many bodily functions, even in younger 
+persons with a short disease history. The availability of a cannabinoid 
+oromucosal spray (Sativex) for the management of treatment-resistant MS 
+spasticity has provided a new opportunity for many patients.
+OBJECTIVE: Our study aimed to assess the cost effectiveness of Sativex in 
+Italian patients with treatment-resistant MS spasticity. The analysis was based 
+on the real-world data of a large registry of Italian patients.
+METHODS: A cost-utility analysis was conducted using data collected 
+prospectively from an electronic registry of all patients who began to use 
+Sativex for MS-resistant spasticity between January 2014 and February 2015 in 30 
+specialized MS units across Italy and were followed up for ≤ 6 months. Data on 
+drug consumption and spasticity/utility were used to estimate the incremental 
+cost-effectiveness ratio (ICER) of Sativex, as compared with no intervention. No 
+costs or spasticity/utility changes were assumed for no treatment intervention. 
+The ICER was expressed as quality-adjusted life-years (QALYs) gained, using the 
+Italian NHS perspective and a 6-month time horizon.
+RESULTS: Sativex effectiveness and consumption was estimated analyzing data of 
+1350 patients from the registry. These patients reported a mean (SD) utility 
+increment of 0.087 (0.069) after 1 month of treatment, 0.118 (0.073) after 
+3 months' treatment and 0.127 (0.080) after 6 months' treatment. The 6-month 
+cost of treating the entire population with Sativex was €1,361,266, with a €1008 
+cost and 0.0284 QALYs gained per patient. The estimated ICER was €35,516 per 
+QALY gained, with little variability around the central estimate of 
+cost-effectiveness, as shown by the cost-effectiveness acceptability curve.
+CONCLUSION: The use of Sativex could improve the quality of life of patients 
+with a reasonable incremental cost resulting as a cost-effective option for 
+patients with MS-resistant spasticity. These results could help clinicians and 
+decision makers to develop improved management strategies for spasticity in 
+patients with MS, optimizing the use of available resources.
+
+DOI: 10.1007/s40261-020-00895-6
+PMID: 32130684 [Indexed for MEDLINE]
+
+
+428. Acute Crit Care. 2020 Feb;35(1):10-15. doi: 10.4266/acc.2019.00745. Epub
+2020  Feb 29.
+
+Elixhauser comorbidity measures-based risk factors associated with 30-day 
+mortality in elderly population after femur fracture surgery: a propensity 
+scorematched retrospective case-control study.
+
+Kim D(1), Jo H(1), Lee Y(1), Kim KO(1).
+
+Author information:
+(1)Department of Anesthesiology and Pain Medicine, Dongguk University Ilsan 
+Hospital, Goyang, Korea.
+
+BACKGROUND: As the average life expectancy increases, anesthesiologists confront 
+unique challenges in the perioperative care of elderly patients who have 
+significant comorbidities. In this study, we evaluated Elixhauser comorbidity 
+measures-based risk factors associated with 30day mortality in patients aged 66 
+years and older who underwent femur fracture surgery.
+METHODS: We used the Medical Information Mart for Intensive Care III which 
+contains the medical records of patients admitted to the intensive care unit 
+(ICU) at Beth Israel Deaconess Medical Center in the United States between 2001 
+and 2012 to identify patients admitted to the ICU after femur fracture surgery 
+(n=209). Patients who died within 30 days of admission (case group, n=49) were 
+propensity score-matched to patients who did not (control group, n=98). The 
+variables for matching were age, sex, race, anemia (hemoglobin ≤10 g/dl), and 
+malignancy. We attempted to explain mortality via nine independent factors: 
+hypertension, uncomplicated diabetes, complicated diabetes, congestive heart 
+failure (CHF), cardiac arrhythmias, chronic pulmonary disease, renal failure, 
+neurological disorders other than paralysis, and peripheral vascular disease.
+RESULTS: Logistic regression identified three significant risk factors: CHF, 
+arrhythmias, and neurological disorders other than paralysis. The odds ratio 
+(OR) for the 30-day mortality of CHF was 4.99 (95% confidence interval [CI], 
+2.18 to 12.06). The equivalent ORs for cardiac arrhythmias and neurological 
+disorders other than paralysis were 2.61 (95% CI, 1.14 to 6.21) and 2.40 (95% 
+CI, 0.95 to 6.48), respectively.
+CONCLUSIONS: Identifying patients with these risk factors (CHF, arrhythmias, and 
+neurological disorders other than paralysis) will assist clinicians with 
+perioperative planning and provide caregivers with valuable information for 
+decision-making.
+
+DOI: 10.4266/acc.2019.00745
+PMCID: PMC7056954
+PMID: 32131576
+
+Conflict of interest statement: CONFLICT OF INTEREST No potential conflict of 
+interest relevant to this article was reported.
+
+
+429. Acta Clin Belg. 2021 Oct;76(5):379-380. doi: 10.1080/17843286.2020.1737780.
+Epub  2020 Mar 5.
+
+Lung cancer in a CF patient: combination of bad luck or is there more to say?
+
+Vekens K(1), Vincken S(1), Hanon S(1), Demuynck K(1), Stylemans D(1), 
+Vanderhelst E(1).
+
+Author information:
+(1)Respiratory Division, University Hospital UZ Brussel, Brussels, Belgium.
+
+Patients with cystic fibrosis have increased risk for gastrointestinal cancer, 
+lymphoid leukemia and testicular carcinomas. Chronic inflammation does not seem 
+to be the only contributing factor. Mutations and epigenetic alterations in the 
+CFTR gene may alter susceptibility to develop cancer. Lung cancer is up to now 
+not frequently observed in CF patients. In lung cancer patients without CF low 
+CFTR expression is significantly associated with advanced staging, lymph node 
+metastasis. As the management and life expectancy of patients with cystic 
+fibrosis have improved substantially in recent years, we expect an increased 
+number of these patients diagnosed with lung cancer. In addition, it is possible 
+that they, as a result of CFTR-dysfunction, will present with more aggressive 
+lung tumors. Treating cancer in CF patients is a challenge because of 
+multi-organ involvement and chronic colonization by resistant pathogens. The 
+effectiveness and safety of immunotherapy in this population needs to be further 
+evaluated.
+
+DOI: 10.1080/17843286.2020.1737780
+PMID: 32131717 [Indexed for MEDLINE]
+
+
+430. Int J Health Geogr. 2020 Mar 4;19(1):6. doi: 10.1186/s12942-020-00200-w.
+
+Dealing with spatial misalignment to model the relationship between deprivation 
+and life expectancy: a model-based geostatistical approach.
+
+Johnson O(1), Diggle P(1), Giorgi E(2).
+
+Author information:
+(1)CHICAS Research Group, Lancaster Medical School, Lancaster University, 
+Bailrigg, Lancaster, UK.
+(2)CHICAS Research Group, Lancaster Medical School, Lancaster University, 
+Bailrigg, Lancaster, UK. e.giorgi@lancaster.ac.uk.
+
+BACKGROUND : Life expectancy at birth (LEB), one of the main indicators of human 
+longevity, has often been used to characterise the health status of a 
+population. Understanding its relationships with the deprivation is key to 
+develop policies and evaluate interventions that are aimed at reducing health 
+inequalities. However, methodological challenges in the analysis of LEB data 
+arise from the fact that different Government agencies often provide spatially 
+aggregated information on LEB and the index of multiple deprivation (IMD) at 
+different spatial scales. Our objective is to develop a geostatistical framework 
+that, unlike existing methods of inference, allows to carry out spatially 
+continuous prediction while dealing with spatial misalignment of the areal-level 
+data. METHODS : We developed a model-based geostatistical approach for the joint 
+analysis of LEB and IMD, when these are available over different partitions of 
+the study region. We model the spatial correlation in LEB and IMD across the 
+areal units using inter-point distances based on a regular grid covering the 
+whole of the study area. The advantages and strengths of the new methodology are 
+illustrated through an analysis of LEB and IMD data from the Liverpool district 
+council. RESULTS : We found that the effect of IMD on LEB is stronger in males 
+than in females, explaining about 63.35% of the spatial variation in LEB in the 
+former group and 38.92% in the latter. We also estimate that LEB is about 8.5 
+years lower between the most and least deprived area of Liverpool for men, and 
+7.1 years for women. Finally, we find that LEB, both in males and females, is at 
+least 80% likely to be above the England wide average only in some areas falling 
+in the electoral wards of Childwall, Woolton and Church. CONCLUSION : The novel 
+model-based geostatistical framework provides a feasible solution to the spatial 
+misalignment problem. More importantly, the proposed methodology has the 
+following advantages over existing methods used model LEB: (1) it can deliver 
+spatially continuous inferences using spatially aggregated data; (2) it can be 
+applied to any form of misalignment with information provided at a range of 
+spatial scales, from areal-level to pixel-level.
+
+DOI: 10.1186/s12942-020-00200-w
+PMCID: PMC7057663
+PMID: 32131836 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+431. Int J Behav Nutr Phys Act. 2020 Mar 4;17(1):30. doi:
+10.1186/s12966-020-00934-7.
+
+Five-year cost-effectiveness analysis of the European Fans in Training (EuroFIT) 
+physical activity intervention for men versus no intervention.
+
+Kolovos S(1)(2), Finch AP(1), van der Ploeg HP(3), van Nassau F(3), Broulikova 
+HM(1), Baka A(1), Treweek S(4), Gray CM(5), Jelsma JGM(3), Bunn C(5), Roberts 
+GC(6), Silva MN(7)(8), Gill JMR(9), Røynesdal Ø(6)(10), van Mechelen W(3), 
+Andersen E(6), Hunt K(11), Wyke S(5), Bosmans JE(12).
+
+Author information:
+(1)Department of Health Sciences, Faculty of Science, Vrije Universiteit 
+Amsterdam, Amsterdam Public Health research institute, Amsterdam, The 
+Netherlands.
+(2)Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal 
+Sciences, University of Oxford, Oxford, UK.
+(3)Amsterdam UMC, VU medical center, Department of Public and Occupational 
+Health, Amsterdam Public Health research institute, Van der Boechorststraat 7, 
+NL-1081 BT, Amsterdam, The Netherlands.
+(4)Health Services Research Unit, University of Aberdeen, Aberdeen, UK.
+(5)Institute of Health and Wellbeing, College of Social Sciences, University of 
+Glasgow, Glasgow, UK.
+(6)Department of coaching and psychology, Norwegian School of Sport Science, 
+Oslo, Norway.
+(7)CIPER, Faculdade de Motricidade Humana, Universidade de Lisboa, Lisbon, 
+Portugal.
+(8)Faculdade de Educação Física e Desporto, Universidade Lusófona de Humanidades 
+e Tecnologias, Lisbon, Portugal.
+(9)Institute of Cardiovascular and Medical Sciences, College of Medical, 
+Veterinary and Life Sciences, University of Glasgow, Glasgow, UK.
+(10)Department of Teacher Education, NLA University College, Bergen, Norway.
+(11)Institute for Social Marketing and Health, University of Stirling, Stirling, 
+UK.
+(12)Department of Health Sciences, Faculty of Science, Vrije Universiteit 
+Amsterdam, Amsterdam Public Health research institute, Amsterdam, The 
+Netherlands. j.e.bosmans@vu.nl.
+
+OBJECTIVES: Increasing physical activity reduces the risk of chronic illness 
+including Type 2 diabetes, cardiovascular disease and certain types of cancer. 
+Lifestyle interventions can increase physical activity but few successfully 
+engage men. This study aims to investigate the 5 year cost-effectiveness of 
+EuroFIT, a program to improve physical activity tailored specifically for male 
+football (soccer) fans compared to a no intervention comparison group.
+METHODS: We developed a Markov cohort model in which the impact of improving 
+physical activity on five chronic health conditions (colorectal cancer, Type 2 
+diabetes, coronary heart disease, stroke and depression) and mortality was 
+modelled. We estimated costs from a societal perspective and expressed benefits 
+as quality adjusted life years (QALYs). We obtained data from a 4-country 
+(England, Netherlands, Portugal and Norway) pragmatic randomised controlled 
+trial evaluating EuroFIT, epidemiological and cohort studies, and meta-analyses. 
+We performed deterministic and probabilistic sensitivity analyses to assess the 
+impact of uncertainty in the model's parameter values on the cost-effectiveness 
+results. We used Monte Carlo simulations to estimate uncertainty and presented 
+this using cost-effectiveness acceptability curves (CEACs). We tested the 
+robustness of the base case analysis using five scenario analyses.
+RESULTS: Average costs over 5 years per person receiving EuroFIT were €14,663 
+and per person receiving no intervention €14,598. Mean QALYs over 5 years were 
+4.05 per person for EuroFIT and 4.04 for no intervention. Thus, the average 
+incremental cost per person receiving EuroFIT was €65 compared to no 
+intervention, while the average QALY gain was 0.01. This resulted in an ICER of 
+€5206 per QALY gained. CEACs show that the probability of EuroFIT being 
+cost-effective compared to no intervention is 0.53, 0.56 and 0.58 at thresholds 
+of €10,000, €22,000 and €34,000 per QALY gained, respectively. When using a time 
+horizon of 10 years, the results suggest that EuroFIT is more effective and less 
+expensive compared to (i.e. dominant over) no intervention with a probability of 
+cost-effectiveness of 0.63 at a threshold of €22,000 per QALY gained.
+CONCLUSIONS: We conclude the EuroFIT intervention is not cost-effective compared 
+to no intervention over a period of 5 years from a societal perspective, but is 
+more effective and less expensive (i.e. dominant) after 10 years. We thus 
+suggest that EuroFIT can potentially improve public health in a cost-effective 
+manner in the long term.
+
+DOI: 10.1186/s12966-020-00934-7
+PMCID: PMC7055048
+PMID: 32131849 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+432. Iran J Basic Med Sci. 2019 Dec;22(12):1440-1444. doi:
+10.22038/IJBMS.2019.14052.
+
+A comparative study on the equine and camelid antivenoms upon cardiovascular 
+changes induced with Hemiscorpius lepturus venom in rats.
+
+Fatemikia H(1), Kamyab M(2), Movahed A(3), Sadeghi M(4), Kim E(5), Behdani M(6), 
+Mohammadpour Dounighi N(7), Shahrivar M(8), Seyedian R(9).
+
+Author information:
+(1)Department of Physiology, School of Medicine, Shiraz University of Medical 
+Sciences, Shiraz, Iran.
+(2)Department of Aquatic Biotechnology, Faculty of Life Sciences and 
+Biotechnology, Shahid Beheshti University, Tehran, Iran.
+(3)The Persian Gulf Tropical Research Center, Biochemistry Group, Bushehr 
+University of Medical Sciences, Bushehr, Iran.
+(4)Department of Physiology, School of Medicine, Bushehr University of Medical 
+Sciences, Bushehr, Iran.
+(5)College of Veterinary Medicine, Gyeongsang National University, Jinju, South 
+Korea.
+(6)Biotechnology Research Center, Venom and Biotherapeutics Molecules 
+Laboratory, Pasteur Institute of Iran, Tehran, Iran.
+(7)Department of Human Vaccine and Serum, Razi Vaccine and Serum Research 
+Institute, Agricultural Research, Education and Extension Organization, Karaj, 
+Iran.
+(8)School of Medicine, Bushehr University of Medical Sciences, Bushehr, Iran.
+(9)Department of Pharmacology, Bushehr University of Medical Sciences, Bushehr, 
+Iran.
+
+OBJECTIVES: In this study, the neutralizing abilities of the equine and the 
+recently introduced camelid antivenoms on the hemodynamic parameters 
+(inotropism, chronotropism, and arrhythmogenicity) were assessed following 
+envenomation by Hemiscorpius lepturus venom in rats.
+MATERIALS AND METHODS: At first, the electrophoretic profiles of both products 
+were obtained by using the SDS-PAGE method (12.5%) and stained with Coomassie 
+blue and silver nitrate. Secondly, different doses of the camelid antivenom (10, 
+50, and 100 µl) were given intravenously in 10 min before venom injection (400 
+µg/rat). The neutralizing potencies of camelid and equine antivenoms were 
+measured by preincubation (100 µl) with H. lepturus venom for 30 min at room 
+temperature. Finally, equal amounts of the antivenoms were injected 
+intravenously to observe the hemodynamic changes.
+RESULTS: Based on the electrophoretic profile, it was evident that undesired 
+proteins significantly decreased in equine antivenom, owing to impurities. 
+Pretreatment with the camelid antivenom (100 µl), neutralized the elevation of 
+the mean arterial pressure evoked with scorpion venom injection (88.15±4.56 
+versus 10.2±1.23 percent at the 8th min). The Incubation of the venom and the 
+camelid antivenom counteracted the hemodynamic changes, but the equine product 
+had no effect. The intravascular injection of the equine antivenom transiently 
+increased the mean arterial pressure as compared to the control (108.67±8.63 
+mmHg versus 52.67±1.93 mmHg at the 10th min).
+CONCLUSION: The most obvious finding emerging from this study was that the 
+camelid antivenom neutralized the hemodynamic changes in rats significantly, but 
+in comparison, the equine antivenom had just a minor ability.
+
+DOI: 10.22038/IJBMS.2019.14052
+PMCID: PMC7043884
+PMID: 32133062
+
+Conflict of interest statement: None.
+
+
+433. Expert Opin Pharmacother. 2020 May;21(7):841-851. doi: 
+10.1080/14656566.2020.1732350. Epub 2020 Mar 5.
+
+New and emerging pharmacotherapy for duchenne muscular dystrophy: a focus on 
+synthetic therapeutics.
+
+Grages SM(1), Bell M(1), Berlau DJ(1).
+
+Author information:
+(1)Department of Pharmaceutical Sciences, Regis University School of Pharmacy , 
+Denver, Colorado.
+
+INTRODUCTION: Duchenne muscular dystrophy (DMD) is the result of 
+X-chromosome-linked mutations to the dystrophin protein gene that prevent the 
+normal development and repair of muscles leading to muscle deterioration. The 
+condition affects nearly 1 in 3,500 males worldwide. Current therapeutics have 
+not been sufficient in providing a cure or resulting in a significant extension 
+in life expectancy, but many therapeutic options are currently under 
+investigation.
+AREAS COVERED: This article provides an overview of the current and emerging 
+therapies for DMD giving particular focus to synthetic therapeutic options. The 
+authors further provide their expert opinion.
+EXPERT OPINION: Many discrepancies in primary outcomes of trials have led to 
+questions of efficacy for medications, as well as difficulty in securing FDA 
+approval. A standardization of primary outcome strategies, as well as better 
+access to investigational medications, may alleviate some of the controversy and 
+pressures that exist on medication approvals. Many trials have identified 
+cohorts who responded more favorably to medications, despite a lack of 
+significance in the overall intent-to-treat populations. This indicates that 
+more medication screening and personalized treatment with patient-specific 
+targeting might deliver more clinically significant results.
+
+DOI: 10.1080/14656566.2020.1732350
+PMID: 32133879 [Indexed for MEDLINE]
+
+
+434. Med Decis Making. 2020 Apr;40(3):327-338. doi: 10.1177/0272989X20907353.
+Epub  2020 Mar 5.
+
+Subcategorizing the Expected Value of Perfect Implementation to Identify When 
+and Where to Invest in Implementation Initiatives.
+
+Johannesen K(1), Janzon M(2), Jernberg T(3), Henriksson M(1).
+
+Author information:
+(1)Department of Medical and Health Sciences, Linköping University, Linköping, 
+Sweden.
+(2)Department of Cardiology and Department of Medical and Health Sciences, 
+Linköping University, Linköping, Sweden.
+(3)Department of Clinical Sciences, Karolinska Institute, Danderyd University 
+Hospital, Stockholm, Sweden.
+
+Purpose. Clinical practice variations and low implementation of effective and 
+cost-effective health care technologies are a key challenge for health care 
+systems and may lead to suboptimal treatment and health loss for patients. The 
+purpose of this work was to subcategorize the expected value of perfect 
+implementation (EVPIM) to enable estimation of the absolute and relative value 
+of eliminating slow, low, and delayed implementation. Methods. Building on the 
+EVPIM framework, this work defines EVPIM subcategories to estimate the expected 
+value of eliminating slow, low, or delayed implementation. The work also shows 
+how information on regional implementation patterns can be used to estimate the 
+value of eliminating regional implementation variation. The application of this 
+subcategorization is illustrated by a case study of the implementation of an 
+antiplatelet therapy for the secondary prevention after myocardial infarction in 
+Sweden. Incremental net benefit (INB) estimates are based on published 
+cost-effectiveness assessments and a threshold of SEK 250,000 (£22,300) per 
+quality-adjusted life year (QALY). Results. In the case study, slow, low, and 
+delayed implementation was estimated to represent 22%, 34%, and 44% of the total 
+population EVPIM (2941 QALYs or SEK 735 million), respectively. The value of 
+eliminating implementation variation across health care regions was estimated to 
+39% of total EVPIM (1138 QALYs). Conclusion. Subcategorizing EVPIM estimates the 
+absolute and relative value of eliminating different parts of suboptimal 
+implementation. By doing so, this approach could help decision makers to 
+identify which parts of suboptimal implementation are contributing most to total 
+EVPIM and provide the basis for assessing the cost and benefit of implementation 
+activities that may address these in future implementation of health care 
+interventions.
+
+DOI: 10.1177/0272989X20907353
+PMCID: PMC7488812
+PMID: 32133911 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author(s) declared the following potential 
+conflicts of interest with respect to the research, authorship, and/or 
+publication of this article: KMJ is a part-time PhD student at Linköping 
+University and a part-time employee of Bristol Meyers Squibb AB, Sweden. The 
+latter had no role in the present study. MH has no conflicts of interest. MJ 
+received lecture fees from AstraZeneca and Pfizer. TJ received lecture fees from 
+AstraZeneca, MSD, and Ipsen.
+
+
+435. J Orthop Res. 2020 Nov;38(11):2474-2483. doi: 10.1002/jor.24647. Epub 2020
+Mar  11.
+
+Reduction of arthrofibrosis utilizing a collagen membrane drug-eluting scaffold 
+with celecoxib and subcutaneous injections with ketotifen.
+
+Limberg AK(1), Tibbo ME(1), Salib CG(1), McLaury AR(1), Turner TW(1), Berry 
+CE(1), Jay AG(1), Carter JM(1), Bolon B(2), Berry DJ(1), Morrey ME(1), 
+Sanchez-Sotelo J(1), van Wijnen AJ(1)(3), Abdel MP(1).
+
+Author information:
+(1)Department of Orthopedic Surgery, Mayo Clinic, Rochester, Minnesota.
+(2)GEMpath, Inc., Longmont, Colorado.
+(3)Department of Biochemistry & Molecular Biology, Mayo Clinic, Rochester, 
+Minnesota.
+
+The dense formation of abnormal scar tissue after total knee arthroplasty 
+results in arthrofibrosis, an unfortunate sequela of inflammation. The purpose 
+of this study was to use a validated rabbit model to assess the effects on 
+surgically-induced knee joint contractures of two combined pharmacological 
+interventions: celecoxib (CXB) loaded on an implanted collagen membrane, and 
+subcutaneously (SQ) injected ketotifen. Thirty rabbits were randomly divided 
+into five groups. The first group received no intervention after the index 
+surgery. The remaining four groups underwent intra-articular implantation of 
+collagen membranes loaded with or without CXB at the time of the index surgery; 
+two of which were also treated with SQ ketotifen. Biomechanical joint 
+contracture data were collected at 8, 10, 16, and 24 weeks. At the time of 
+necropsy (24 weeks), posterior capsule tissue was collected for messenger RNA 
+and histopathologic analyses. At 24 weeks, there was a statistically significant 
+increase in passive extension among rabbits in all groups treated with CXB 
+and/or ketotifen compared to those in the contracture control group. There was a 
+statistically significant decrease in COL3A1, COL6A1, and ACTA2 gene expression 
+in the treatment groups compared to the contracture control group (P < .001). 
+Histopathologic data also demonstrated a trend towards decreased fibrous tissue 
+density in the CXB membrane group compared to the vehicle membrane group. The 
+present data suggest that intra-articular placement of a treated collagen 
+membrane blunts the severity of contracture development in a rabbit model of 
+arthrofibrosis, and that ketotifen and CXB may independently contribute to the 
+prevention of arthrofibrosis. Statement of clinical significance: Current 
+literature has demonstrated that arthrofibrosis may affect up to 5% of primary 
+total knee arthroplasty patients. For that reason, novel pharmacologic 
+prophylaxis and treatment modalities are critical to mitigating reoperations and 
+revisions while improving the quality of life for patients with this 
+debilitating condition.
+
+© 2020 Orthopaedic Research Society. Published by Wiley Periodicals, Inc.
+
+DOI: 10.1002/jor.24647
+PMCID: PMC7483403
+PMID: 32134136 [Indexed for MEDLINE]
+
+
+436. Protein Sci. 2020 May;29(5):1120-1137. doi: 10.1002/pro.3849. Epub 2020 Mar
+19.
+
+The function of histone lysine methylation related SET domain group proteins in 
+plants.
+
+Zhou H(1), Liu Y(1), Liang Y(1), Zhou D(1), Li S(2), Lin S(3), Dong H(1)(4), 
+Huang L(1).
+
+Author information:
+(1)Laboratory of Cell & Molecular Biology, Institute of Vegetable Science, 
+Zhejiang University, Hangzhou, China.
+(2)Hangzhou Xiaoshan District Agricultural Technology Extension Center, 
+Hangzhou, China.
+(3)Institute of Life Sciences, Wenzhou University, Wenzhou, China.
+(4)Key Laboratory of Elemene Class Anti-Cancer Chinese Medicine of Zhejiang 
+Province, Engineering Laboratory of Development and Application of Traditional 
+Chinese Medicine from Zhejiang Province, School of Medicine, Holistic 
+Integrative Pharmacy Institutes (HIPI), Hangzhou Normal University, Hangzhou, 
+China.
+
+Histone methylation, which is mediated by the histone lysine (K) 
+methyltransferases (HKMTases), is a mechanism associated with many pathways in 
+eukaryotes. Most HKMTases have a conserved SET (Su(var) 3-9,E(z),Trithorax) 
+domain, while the HKMTases with SET domains are called the SET domain group 
+(SDG) proteins. In plants, only SDG proteins can work as HKMTases. In this 
+review, we introduced the classification of SDG family proteins in plants and 
+the structural characteristics of each subfamily, surmise the functions of SDG 
+family members in plant growth and development processes, including pollen and 
+female gametophyte development, flowering, plant morphology and the responses to 
+stresses. This review will help researchers better understand the SDG proteins 
+and histone methylation in plants and lay a basic foundation for further studies 
+on SDG proteins.
+
+© 2020 The Protein Society.
+
+DOI: 10.1002/pro.3849
+PMCID: PMC7184775
+PMID: 32134523 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+437. Muscle Nerve. 2020 Aug;62(2):187-191. doi: 10.1002/mus.26855. Epub 2020 Mar
+16.
+
+Hypothesis: amyotrophic lateral sclerosis and environmental pollutants.
+
+Swash M(1)(2), Eisen A(3).
+
+Author information:
+(1)Barts and The London School of Medicine, Queen Mary University of London and 
+Royal London Hospital, London, UK.
+(2)Institute of Neuroscience, University of Lisbon, Lisbon, Portugal.
+(3)Division of Neurology, University of British Columbia, Vancouver, British 
+Columbia, Canada.
+
+Genetic, epigenetic, and environmental factors are relevant in the causation of 
+amyotrophic lateral sclerosis (ALS) in a multistep cascade. We suggest that 
+exposure to environmental pollutants in early life is one such factor. ALS was 
+first described in the 19th century in the context of the Industrial Revolution 
+that began more than 50 years earlier. The rising incidence of ALS thereafter 
+correlates with increasing longevity, but this is an incomplete association. We 
+suggest that increasing exposure to environmental pollutants due to industrial 
+activity, acting over a lifetime, is also important. The combination of genetic 
+mutations and pollutant exposure, with increased life expectancy, may account 
+for the apparent variations in incidence of the disease in different countries 
+and continents and even regionally within a given country. This hypothesis is 
+testable by focused epidemiological studies, evaluating early and lifelong 
+industrial pollutant exposure of differing types, within the Bradford Hill 
+framework.
+
+© 2020 Wiley Periodicals, Inc.
+
+DOI: 10.1002/mus.26855
+PMID: 32134532 [Indexed for MEDLINE]
+
+
+438. Waste Manag. 2020 Mar 15;105:445-449. doi: 10.1016/j.wasman.2020.02.006.
+Epub  2020 Mar 2.
+
+Assessment of factors affecting source recycling among metropolitan Johannesburg 
+residents.
+
+Okonta FN(1), Mohlalifi M(2).
+
+Author information:
+(1)Civil Engineering Science Department, University of Johannesburg, P.O Box 
+524, Auckland Park 2006, South Africa. Electronic address: fnokonta@uj.ac.za.
+(2)Civil Engineering Science Department, University of Johannesburg, P.O Box 
+524, Auckland Park 2006, South Africa.
+
+Waste recycling, in particular source separation contribute significantly to the 
+extension of landfill life and the evolution of green communities. Factors that 
+affect participation in source waste separation amongst Metropolitans 
+Johannesburg residents was investigated by social survey using field 
+questionnaire data to assess socio-demographic factors and was analysed by 
+statistical tools and behavioural constructs i.e. attitudes, subjective norms, 
+perceived behavioural control, intentions, and situational factors. The results 
+revealed that for graduates, source separation was driven by social 
+responsibilities and family size while council awareness campaign, financial 
+incentives and provision of recycling facilities are the driving force for 
+source separation amongst respondents with matric and lower formal education. 
+Family size and level of education are correlated to attitude with low 
+correlations. The weak correlation was due to the perception of quality of 
+services provided by the council. Incentives are moderators of intention of 
+source separation but distances to buyback centre have to be carefully selected 
+in order not to be a deterrent. Waste management agencies should accommodate the 
+level of formal education and different family size in the formulation of source 
+separation program.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.wasman.2020.02.006
+PMID: 32135465 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest There is 
+complete of interest.
+
+
+439. Cells. 2020 Mar 3;9(3):599. doi: 10.3390/cells9030599.
+
+Melatonin's Antineoplastic Potential Against Glioblastoma.
+
+Moretti E(1), Favero G(1), Rodella LF(1)(2), Rezzani R(1)(2).
+
+Author information:
+(1)Anatomy and Physiopathology Division, Department of Clinical and Experimental 
+Sciences, University of Brescia, Viale Europa 11, 25123 Brescia, Italy.
+(2)Interdipartimental University Center of Research "Adaption and Regeneration 
+of Tissues and Organs-(ARTO)", University of Brescia, 25123 Brescia, Italy.
+
+Glioblastoma (GBM) is one of the most intransigent and aggressive brain tumors, 
+and its treatment is extremely challenging and ineffective. To improve patients' 
+expectancy and quality of life, new therapeutic approaches were investigated. 
+Melatonin is an endogenous indoleamine with an incredible variety of properties. 
+Due to evidence demonstrating melatonin's activity against several cancer 
+hallmarks, there is growing interest in its use for preventing and treating 
+cancer. In this review, we report on the potential effects of melatonin, alone 
+or in combination with anticancer drugs, against GBM. We also summarize 
+melatonin targets and/or the intracellular pathways involved. Moreover, we 
+describe melatonin's epigenetic activity responsible for its antineoplastic 
+effects. To date, there are too few clinical studies (involving a small number 
+of patients) investigating the antineoplastic effects of melatonin against GBM. 
+Nevertheless, these studies described improvement of GBM patients' quality of 
+life and did not show significant adverse effects. In this review, we also 
+report on studies regarding melatonin-like molecules with the tumor-suppressive 
+properties of melatonin together with implemented pharmacokinetics. Melatonin 
+effects and mechanisms of action against GBM require more research attention due 
+to the unquestionably high potential of this multitasking indoleamine in 
+clinical practice.
+
+DOI: 10.3390/cells9030599
+PMCID: PMC7140435
+PMID: 32138190 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+440. Sports Biomech. 2022 Oct;21(9):1046-1064. doi:
+10.1080/14763141.2020.1726994.  Epub 2020 Mar 6.
+
+A kinematic analysis of the upper limb during the topspin double-handed backhand 
+stroke in tennis.
+
+Busuttil NA(1), Reid M(2), Connolly M(2)(3), Dascombe BJ(4), Middleton KJ(1).
+
+Author information:
+(1)School of Allied Health, Human Services, and Sport, La Trobe University, 
+Melbourne, Australia.
+(2)Game Insight Group, Tennis Australia, Melbourne, Australia.
+(3)Institute for Health and Sport, Victoria University, Melbourne, Australia.
+(4)Applied Sport Science and Exercise Testing Laboratory, School of Life and 
+Environmental Sciences, University of Newcastle, Ourimbah, Australia.
+
+The purpose of this study was to compare double-handed backhand kinematics of 
+the non-dominant wrist of tennis players using either an eastern or continental 
+grip position with the non-dominant hand. Trajectory data were captured using 
+sixty reflective markers on sixteen sub-elite right-handed tennis players using 
+a 12-camera VICON motion capture system (250 Hz). Participants executed 
+double-handed backhands using two non-dominant grip positions (Eastern [E] and 
+Continental [C]), aiming for two crosscourt zones (Deep [D] and Short [S]), 
+totalling to four conditions (ED, CD, ES and CS). Three successful attempts from 
+each condition were selected for analysis. The eastern grip demonstrated faster 
+horizontal racket head velocity compared to the continental grip. However, no 
+differences were observed in accuracy or spin rate between grips (p > 0.05). In 
+the non-dominant upper limb, elbow flexion was smaller in the continental 
+condition throughout the swing, whilst wrist extension and ulnar deviation was 
+larger. Collectively, these data suggest that the continental grip may place the 
+wrist in a position vulnerable to overuse injury. Future research into the 
+kinetics of the double-handed backhand would help better understand the onset of 
+ulnar-side wrist pain in tennis.
+
+DOI: 10.1080/14763141.2020.1726994
+PMID: 32138602 [Indexed for MEDLINE]
+
+
+441. Orthop Clin North Am. 2020 Apr;51(2):207-217. doi:
+10.1016/j.ocl.2019.11.005.  Epub 2020 Jan 31.
+
+The Burden of Pediatric Musculoskeletal Diseases Worldwide.
+
+Schwend RM(1).
+
+Author information:
+(1)Department of Orthopaedic Surgery and Musculoskeletal Sciences, Children's 
+Mercy Hospital, 2401 Gillham Road, Kansas City, MO 64112, USA. Electronic 
+address: rmschwend@cmh.edu.
+
+Global burden of disease (GBD) refers to the economic and human costs resulting 
+from poor health. The disability-adjusted life year is a measure of life lost 
+from premature death and life not lived at 100% health. Surgery has long been 
+neglected in the distribution of resources for global health. Because of years 
+of life lived with a disability and the large proportion of children in a 
+population, pediatric musculoskeletal conditions early in life can contribute to 
+the GBD. Fortunately, the World Health Organization has recently promoted 
+essential surgical services through its Emergency and Essential Surgical Care 
+Project and Global Initiative.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ocl.2019.11.005
+PMID: 32138858 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The author has no commercial or 
+financial conflicts of interest related to this article. There was no funding 
+for this article.
+
+
+442. Am J Cardiol. 2020 May 1;125(9):1305-1311. doi:
+10.1016/j.amjcard.2020.02.007.  Epub 2020 Feb 8.
+
+Outcomes of Renal Transplant Recipients after Percutaneous Coronary 
+Intervention.
+
+Nakao M(1), Yamaguchi J(2), Satomi N(1), Ebihara S(1), Tanaka K(1), Otsuki H(1), 
+Inagaki Y(1), Jujo K(1), Arashi H(1), Hagiwara N(1).
+
+Author information:
+(1)Department of Cardiology, The Heart Institute of Japan, Tokyo Women's Medical 
+University, Tokyo, Japan.
+(2)Department of Cardiology, The Heart Institute of Japan, Tokyo Women's Medical 
+University, Tokyo, Japan. Electronic address: j.yamaguchi0110@gmail.com.
+
+Renal transplantation (RT) can improve life expectancy in hemodialysis (HD) 
+patients. However, little is known about the outcomes of renal transplant 
+recipients after percutaneous coronary intervention (PCI). This study aimed to 
+elucidate the effect of RT on clinical outcomes after PCI. Renal transplant 
+recipients who underwent PCI from 2002 to 2017 were enrolled. To evaluate the 
+effectiveness of RT, we retrospectively reviewed HD patients who underwent PCI. 
+Propensity-score matching was performed using logistic regression to control for 
+differences in baseline characteristics. The primary outcome was the incidence 
+of major adverse cardiac events. After propensity matching, patients were 
+classified into the RT (n = 50) group and HD (n = 50) group. Kaplan-Meier 
+analysis revealed that the incidence of major adverse cardiac events was 
+significantly lower in the RT group than in the HD group (p < 0.0001). Moreover, 
+RT was associated with a lower risk for all-cause death (odds ratio 0.04; 95% 
+confidence interval 0.002 to 0.03; p = 0.0054) and target vessel 
+revascularization (OR 0.27; 95% CI 0.07 to 0.79; p = 0.015). RT may improve 
+clinical outcomes after PCI, and it is encouraged for HD patients to increase 
+life expectancy and reduce the occurrence of adverse events after PCI. Further 
+research would be warranted to support this finding.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjcard.2020.02.007
+PMID: 32139159 [Indexed for MEDLINE]
+
+
+443. Eur Respir J. 2020 May 27;55(5):1902443. doi: 10.1183/13993003.02443-2019.
+Print  2020 May.
+
+Re-imagining cystic fibrosis care: next generation thinking.
+
+Rang C(1), Keating D(1)(2), Wilson J(1)(2), Kotsimbos T(1)(2).
+
+Author information:
+(1)Cystic Fibrosis Service, Dept of Respiratory Medicine, Alfred Health, 
+Melbourne, Australia.
+(2)Dept of Medicine, Monash University, Alfred Campus, Melbourne, Australia.
+
+Cystic fibrosis (CF) is a common multi-system genetically inherited condition, 
+predominately found in individuals of Caucasian decent. Since the identification 
+of the cystic fibrosis (CF) transmembrane conductance regulator (CFTR) gene in 
+1989, and the subsequent improvement in understanding of CF pathophysiology, 
+significant increases in life-expectancy have followed. Initially this was 
+related to improvements in the management and systems of care for treating the 
+various affected organ systems. These cornerstone treatments are still essential 
+for CF patients born today. However, over the last decade, the major advance has 
+been in therapies that target the resultant genetic defect: the dysfunctional 
+CFTR protein. Small molecule agents that target this dysfunctional protein via a 
+variety of mechanisms have led to lung function improvements, reductions in 
+pulmonary exacerbation rates and increases in weight and quality-of-life 
+indices. As more patients receive these agents earlier and earlier in life, it 
+is likely that general CF care will increasingly pivot around these specific 
+therapies, although it is also likely that effects other than those identified 
+in the initial trials will be discovered and need to be managed. Despite great 
+excitement for modulator therapies, they are unlikely to be suitable or 
+available for all; whether this is due to a lack of availability for specific 
+CFTR mutations, drug-reactions or the health economic set-up in certain 
+countries. Nevertheless, the CF community must be applauded for its ongoing 
+focus on research and development for this life-limiting disease. With time, 
+personalised individualised therapy would ideally be the mainstay of CF care.
+
+Copyright ©ERS 2020.

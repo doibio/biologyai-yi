@@ -1,0 +1,1000 @@
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript, or in the decision to 
+publish the results.
+
+
+256. Sensors (Basel). 2021 Feb 15;21(4):1361. doi: 10.3390/s21041361.
+
+Early Detection of Fluid Retention in Patients with Advanced Heart Failure: A 
+Review of a Novel Multisensory Algorithm, HeartLogic(TM).
+
+Feijen M(1), Egorova AD(1), Beeres SLMA(1), Treskes RW(1).
+
+Author information:
+(1)Department of Cardiology, Leiden University Medical Center, Albinusdreef 2, 
+2333 ZA Leiden, The Netherlands.
+
+Heart failure (HF) hospitalisations due to decompensation are associated with 
+shorter life expectancy and lower quality of life. These hospitalisations pose a 
+significant burden on the patients, doctors and healthcare resources. Early 
+detection of an upcoming episode of decompensation may facilitate timely 
+optimisation of the ambulatory medical treatment and thereby prevent 
+heart-failure-related hospitalisations. The HeartLogicTM algorithm combines data 
+from five sensors of cardiac implantable electronic devices into a cumulative 
+index value. It has been developed for early detection of fluid retention in 
+heart failure patients. This review aims to provide an overview of the current 
+literature and experience with the HeartLogicTM algorithm, illustrate how the 
+index can be implemented in daily clinical practice and discuss ongoing studies 
+and potential future developments of interest.
+
+DOI: 10.3390/s21041361
+PMCID: PMC7919012
+PMID: 33671930 [Indexed for MEDLINE]
+
+Conflict of interest statement: A.D.E. is a local sub-investigator for the 
+PREEMPT-HF study. R.W.T. received a speaker’s honorarium from Boston Scientific 
+in the past 5 years. The authors declare no conflict of interest.
+
+
+257. Pharmaceutics. 2021 Feb 15;13(2):263. doi: 10.3390/pharmaceutics13020263.
+
+Effect of C-terminus Conjugation via Different Conjugation Chemistries on In 
+Vivo Activity of Albumin-Conjugated Recombinant GLP-1.
+
+Park J(1), Bak M(2), Min K(2), Kim HW(3), Cho JH(3), Tae G(2), Kwon I(1)(2)(3).
+
+Author information:
+(1)Department of Biomedical Science and Engineering, Gwangju Institute of 
+Science and Technology (GIST), Gwangju 61005, Korea.
+(2)Gwangju Institute of Science and Technology (GIST), School of Materials 
+Science and Engineering, Gwangju 61005, Korea.
+(3)R&D Center, ProAbTech Co., Ltd., Gwangju 61005, Korea.
+
+Glucagon-like peptide-1 (GLP-1) is a peptide hormone with tremendous therapeutic 
+potential for treating type 2 diabetes mellitus. However, the short half-life of 
+its native form is a significant drawback. We previously prolonged the plasma 
+half-life of GLP-1 via site-specific conjugation of human serum albumin (HSA) at 
+position 16 of recombinant GLP-1 using site-specific incorporation of 
+p-azido-phenylalanine (AzF) and strain-promoted azide-alkyne cycloaddition 
+(SPAAC). However, the resulting conjugate GLP1_8G16AzF-HSA showed only moderate 
+in vivo glucose-lowering activity, probably due to perturbed interactions with 
+GLP-1 receptor (GLP-1R) caused by the albumin-linker. To identify 
+albumin-conjugated GLP-1 variants with enhanced in vivo glucose-lowering 
+activity, we investigated the conjugation of HSA to a C-terminal region of GLP-1 
+to reduce steric hindrance by the albumin-linker using two different conjugation 
+chemistries. GLP-1 variants GLP1_8G37AzF-HSA and GLP1_8G37C-HSA were prepared 
+using SPAAC and Michael addition, respectively. GLP1_8G37C-HSA exhibited a 
+higher glucose-lowering activity in vivo than GLP1_8G16AzF-HSA, while 
+GLP1_8G37AzF-HSA did not. Another GLP-1 variant, GLP1_8A37C-HSA, had a glycine 
+to alanine mutation at position 8 and albumin at its C-terminus and exhibited in 
+vivo glucose-lowering activity comparable to that of GLP1_8G37C-HSA, despite a 
+moderately shorter plasma half-life. These results showed that site-specific HSA 
+conjugation to the C-terminus of GLP-1 via Michael addition could be used to 
+generate GLP-1 variants with enhanced glucose-lowering activity and prolonged 
+plasma half-life in vivo.
+
+DOI: 10.3390/pharmaceutics13020263
+PMCID: PMC7919490
+PMID: 33672039
+
+Conflict of interest statement: The authors declare no conflict of interest. 
+ProAbtech Co., Ltd. was not involved in the design of the study, analyses or 
+interpretation of data, writing of the manuscript, or decision to publish the 
+results.
+
+
+258. Int J Environ Res Public Health. 2021 Feb 23;18(4):2204. doi: 
+10.3390/ijerph18042204.
+
+Do Different Models Induce Changes in Mortality Indicators? That Is a Key 
+Question for Extending the Lee-Carter Model.
+
+Debón A(1), Haberman S(2), Montes F(3), Otranto E(4).
+
+Author information:
+(1)Centro de Gestión de la Calidad y del Cambio, Universitat Politècnica de 
+València, Camino de Vera s/n, E-46022 Valencia, Spain.
+(2)Cass Business School, University of London, London EC1Y 8TZ, UK.
+(3)Department of Statistics and Operations Research, Universitat de València, 
+E-46100 Burjassot, Spain.
+(4)Department of Economics, Università di Messina, 98122 Messina, Italy.
+
+The parametric model introduced by Lee and Carter in 1992 for modeling mortality 
+rates in the USA was a seminal development in forecasting life expectancies and 
+has been widely used since then. Different extensions of this model, using 
+different hypotheses about the data, constraints on the parameters, and 
+appropriate methods have led to improvements in the model's fit to historical 
+data and the model's forecasting of the future. This paper's main objective is 
+to evaluate if differences between models are reflected in different mortality 
+indicators' forecasts. To this end, nine sets of indicator predictions were 
+generated by crossing three models and three block-bootstrap samples with each 
+of size fifty. Later the predicted mortality indicators were compared using 
+functional ANOVA. Models and block bootstrap procedures are applied to Spanish 
+mortality data. Results show model, block-bootstrap, and interaction effects for 
+all mortality indicators. Although it was not our main objective, it is 
+essential to point out that the sample effect should not be present since they 
+must be realizations of the same population, and therefore the procedure should 
+lead to samples that do not influence the results. Regarding significant model 
+effect, it follows that, although the addition of terms improves the adjustment 
+of probabilities and translates into an effect on mortality indicators, the 
+model's predictions must be checked in terms of their probabilities and the 
+mortality indicators of interest.
+
+DOI: 10.3390/ijerph18042204
+PMCID: PMC7927012
+PMID: 33672383 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+259. Int J Environ Res Public Health. 2021 Feb 12;18(4):1777. doi: 
+10.3390/ijerph18041777.
+
+Cost-Effectiveness of Two Dry Needling Interventions for Plantar Heel Pain: A 
+Secondary Analysis of an RCT.
+
+Fernández D(1), Al-Boloushi Z(2)(3), Bellosta-López P(1), Herrero P(3), Gómez 
+M(1), Calvo S(1).
+
+Author information:
+(1)Faculty of Health Sciences, Universidad San Jorge, Campus Universitario, 
+Autov. A23 km 299, Villanueva de Gállego, 50830 Zaragoza, Spain.
+(2)Ministry of Health, State of Kuwait, Jamal Abdulnasser Street, Al 
+Solaibeykhat Area 5, Safat, Kuwait City 13001, Kuwait.
+(3)Physiatry and Nursing Department, Faculty of Health Sciences, Zaragoza 
+University, C/Domingo Miral s/n, CP 50009 Zaragoza, Spain.
+
+Plantar heel pain is a common cause of foot pain that affects patients' quality 
+of life and represents a significant cost for the healthcare system. Dry 
+needling and percutaneous needle electrolysis are two minimally invasive 
+treatments that were shown to be effective for the management of plantar heel 
+pain. The aim of our study was to compare these two treatments in terms of 
+health and economic consequences based on the results of a published randomized 
+controlled trial. For this, we evaluated the costs from the point of view of the 
+hospital and we carried out a cost-effectiveness study using quality of life as 
+the main variable according to the Eq-5D-5L questionnaire. The cost of the 
+complete treatment with dry needling (DN) was €178.86, while the percutaneous 
+needle electrolysis (PNE) was €200.90. The quality of life of patients improved 
+and was translated into +0.615 quality-adjusted life years (QALYs) for DN and 
++0.669 for PNE. PNE presented an average incremental cost-effectiveness ratio 
+(ICER) of €411.34/QALY against DN. These results indicate that PNE had a better 
+cost-effectiveness ratio for the treatment of plantar heel pain than DN.
+
+DOI: 10.3390/ijerph18041777
+PMCID: PMC7918589
+PMID: 33673068 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+260. Toxins (Basel). 2021 Feb 12;13(2):137. doi: 10.3390/toxins13020137.
+
+Botulinum Neurotoxin Injections in Childhood Opisthotonus.
+
+Hull M(1)(2), Parnes M(1)(2), Jankovic J(2).
+
+Author information:
+(1)Section of Pediatric Neurology and Developmental Neuroscience, Texas 
+Children's Hospital and Baylor College of Medicine, Houston, TX 77030, USA.
+(2)Parkinson's Disease Center and Movement Disorders Clinic, Department of 
+Neurology, Baylor College of Medicine, Houston, TX 77030, USA.
+
+Opisthotonus refers to abnormal axial extension and arching of the trunk 
+produced by excessive contractions of the paraspinal muscles. In childhood, the 
+abnormal posture is most often related to dystonia in the setting of hypoxic 
+injury or a number of other acquired and genetic etiologies. The condition is 
+often painful, interferes with ambulation and quality of life, and is 
+challenging to treat. Therapeutic options include oral benzodiazepines, oral and 
+intrathecal baclofen, botulinum neurotoxin injections, and deep brain 
+stimulation. Management of opisthotonus within the pediatric population has not 
+been systematically reviewed. Here, we describe a series of seven children who 
+presented to our institution with opisthotonus in whom symptom relief was 
+achieved following administration of botulinum neurotoxin injections.
+
+DOI: 10.3390/toxins13020137
+PMCID: PMC7918608
+PMID: 33673369 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+261. Nutrients. 2021 Feb 27;13(3):786. doi: 10.3390/nu13030786.
+
+Etiology and Management of Pediatric Intestinal Failure: Focus on the 
+Non-Digestive Causes.
+
+Diamanti A(1), Calvitti G(2), Martinelli D(3), Santariga E(4), Capriati T(1), 
+Bolasco G(1), Iughetti L(2), Pujia A(4), Knafelz D(1), Maggiore G(1)(5).
+
+Author information:
+(1)Hepatology Gastroenterology and Nutrition Unit, "Bambino Gesù" Children 
+Hospital, 00165 Rome, Italy.
+(2)Pediatric Unit, Department of Medical and Surgical Sciences for Mothers, 
+Children and Adults, University of Modena and Reggio Emilia, 41121 Modena, 
+Italy.
+(3)Metabolic Diseases Unit, "Bambino Gesù" Children Hospital, 00165 Rome, Italy.
+(4)Clinical Nutrition Unit, Department of Medical and Surgical Sciences, 
+University Magna Graecia, 88100 Catanzaro, Italy.
+(5)Medical Sciences Department Ferrara University, 44121 Ferrara, Italy.
+
+BACKGROUND: Intestinal failure (IF) is defined as reduction in functioning gut 
+mass below the minimal amount necessary for adequate digestion and absorption. 
+In most cases, IF results from intrinsic diseases of the gastrointestinal tract 
+(digestive IF) (DIF); few cases arise from digestive vascular components, gut 
+annexed (liver and pancreas) and extra-digestive organs or from systemic 
+diseases (non-digestive IF) (NDIF). The present review revised etiology and 
+treatments of DIF and NDIF, with special focus on the pathophysiological 
+mechanisms, whereby NDIF develops.
+METHODS: We performed a comprehensive search of published literature from 
+January 2010 to the present by selecting the following search strings: 
+"intestinal failure" OR "home parenteral nutrition" OR "short bowel syndrome" OR 
+"chronic pseudo-obstruction" OR "chronic intestinal pseudo-obstruction" OR 
+"autoimmune enteropathy" OR "long-term parenteral nutrition".
+RESULTS: We collected overall 1656 patients with well-documented etiology of IF: 
+1419 with DIF (86%) and 237 with NDIF (14%), 55% males and 45% females. Among 
+DIF cases, 66% had SBS and among NDIF cases 90% had malabsorption/maldigestion.
+CONCLUSIONS: The improved availability of diagnostic and therapeutic tools has 
+increased prevalence and life expectancy of rare and severe diseases responsible 
+for IF. The present review greatly expands the spectrum of knowledge on the 
+pathophysiological mechanisms through which the diseases not strictly affecting 
+the intestine can cause IF. In view of the rarity of the majority of pediatric 
+IF diseases, the development of IF Registries is strongly required; in fact, 
+through information flow within the network, the Registries could improve IF 
+knowledge and management.
+
+DOI: 10.3390/nu13030786
+PMCID: PMC7997222
+PMID: 33673586 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+262. Materials (Basel). 2021 Feb 27;14(5):1124. doi: 10.3390/ma14051124.
+
+Sustainable End-of-Life Management of Wind Turbine Blades: Overview of Current 
+and Coming Solutions.
+
+Mishnaevsky L Jr(1).
+
+Author information:
+(1)Department of Wind Energy, Technical University of Denmark, 4000 Roskilde, 
+Denmark.
+
+Various scenarios of end-of-life management of wind turbine blades are reviewed. 
+"Reactive" strategies, designed to deal with already available, ageing turbines, 
+installed in the 2000s, are discussed, among them, maintenance and repair, 
+reuse, refurbishment and recycling. The main results and challenges of 
+"pro-active strategies", designed to ensure recyclability of new generations of 
+wind turbines, are discussed. Among the main directions, the wind turbine blades 
+with thermoplastic and recyclable thermoset composite matrices, as well as wood, 
+bamboo and natural fiber-based composites were reviewed. It is argued that 
+repair and reuse of wind turbine blades, and extension of the blade life has 
+currently a number of advantages over other approaches. While new recyclable 
+materials have been tested in laboratories, or in some cases on small or medium 
+blades, there are remaining technological challenges for their utilization in 
+large wind turbine blades.
+
+DOI: 10.3390/ma14051124
+PMCID: PMC7957806
+PMID: 33673684
+
+Conflict of interest statement: The author declares no conflict of interest.
+
+
+263. J Vasc Access. 2021 Mar 5:1129729821999486. doi: 10.1177/1129729821999486. 
+Online ahead of print.
+
+Providing the conduit for treatment: The impact of vascular access and vein 
+preservation in a 5-year-old child with prenatally diagnosed CRIM-negative 
+Infantile Pompe disease.
+
+Ostroff M(1), Gupta P(1), Garcia D(1).
+
+Author information:
+(1)Saint Josephs Regional Medical Center, Paterson, NJ, USA.
+
+Pompe disease is an autosomal recessive glycogen storage disorder resulting in 
+progressive glycogen accumulation expressed in infancy with cardiomyopathy and 
+skeletal myopathy. Without treatment by enzyme replacement therapy (ERT), life 
+expectancy is less than 2 years. The cross-reactive immunologic material (CRIM) 
+positive or negative status is the basis for the response to ERT. CRIM-negative 
+patients mount an immune response to ERT, making this the most dangerous 
+presentation. The following case study describes the 5-year course of the first 
+successful treatment of an in utero CRIM-negative Pompe disease patient with 
+prophylactic immune tolerance induction (ITI) and administration of ERT given 
+within the first 2 days of life followed by ultrasound guided vascular access 
+that facilitated by bi-weekly infusions and extensive phlebotomy.
+
+DOI: 10.1177/1129729821999486
+PMID: 33673749
+
+
+264. Mayo Clin Proc. 2021 Mar;96(3):788-814. doi: 10.1016/j.mayocp.2020.07.033.
+
+Hormonal and Metabolic Changes of Aging and the Influence of Lifestyle 
+Modifications.
+
+Pataky MW(1), Young WF(1), Nair KS(2).
+
+Author information:
+(1)Division of Endocrinology, Diabetes, Metabolism, and Nutrition, Mayo Clinic, 
+Rochester, MN.
+(2)Division of Endocrinology, Diabetes, Metabolism, and Nutrition, Mayo Clinic, 
+Rochester, MN. Electronic address: nair@mayo.edu.
+
+Increased life expectancy combined with the aging baby boomer generation has 
+resulted in an unprecedented global expansion of the elderly population. The 
+growing population of older adults and increased rate of age-related chronic 
+illness has caused a substantial socioeconomic burden. The gradual and 
+progressive age-related decline in hormone production and action has a 
+detrimental impact on human health by increasing risk for chronic disease and 
+reducing life span. This article reviews the age-related decline in hormone 
+production, as well as age-related biochemical and body composition changes that 
+reduce the bioavailability and actions of some hormones. The impact of hormonal 
+changes on various chronic conditions including frailty, diabetes, 
+cardiovascular disease, and dementia are also discussed. Hormone replacement 
+therapy has been attempted in many clinical trials to reverse and/or prevent the 
+hormonal decline in aging to combat the progression of age-related diseases. 
+Unfortunately, hormone replacement therapy is not a panacea, as it often results 
+in various adverse events that outweigh its potential health benefits. 
+Therefore, except in some specific individual cases, hormone replacement is not 
+recommended. Rather, positive lifestyle modifications such as regular aerobic 
+and resistance exercise programs and/or healthy calorically restricted diet can 
+favorably affect endocrine and metabolic functions and act as countermeasures to 
+various age-related diseases. We provide a critical review of the available data 
+and offer recommendations that hopefully will form the groundwork for 
+physicians/scientists to develop and optimize new endocrine-targeted therapies 
+and lifestyle modifications that can better address age-related decline in 
+heath.
+
+Copyright © 2020 Mayo Foundation for Medical Education and Research. Published 
+by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mayocp.2020.07.033
+PMCID: PMC8020896
+PMID: 33673927 [Indexed for MEDLINE]
+
+
+265. Carbohydr Polym. 2021 May 1;259:117743. doi: 10.1016/j.carbpol.2021.117743.
+Epub  2021 Feb 2.
+
+Accumulation and cross-linkage of β-1,3/1,6-glucan lead to loss of basal stipe 
+cell wall extensibility in mushroom Coprinopsis cinerea.
+
+Li M(1), Bi J(1), Bai Y(1), Kang L(2), Duan B(1), Liu Z(3), Yuan S(4).
+
+Author information:
+(1)Jiangsu Key Laboratory for Microbes and Microbial Functional Genomics, 
+Jiangsu Engineering and Technology Research Center for Industrialization of 
+Microbial Resources, College of Life Science, Nanjing Normal University, 1 
+Wenyuan Rd, Xianlin University Park, Nanjing 210046, PR China.
+(2)College of Life Science and Chemistry, Jiangsu Second Normal University, 
+Nanjing 210013, PR China.
+(3)Jiangsu Key Laboratory for Microbes and Microbial Functional Genomics, 
+Jiangsu Engineering and Technology Research Center for Industrialization of 
+Microbial Resources, College of Life Science, Nanjing Normal University, 1 
+Wenyuan Rd, Xianlin University Park, Nanjing 210046, PR China. Electronic 
+address: liuzhonghua8501@163.com.
+(4)Jiangsu Key Laboratory for Microbes and Microbial Functional Genomics, 
+Jiangsu Engineering and Technology Research Center for Industrialization of 
+Microbial Resources, College of Life Science, Nanjing Normal University, 1 
+Wenyuan Rd, Xianlin University Park, Nanjing 210046, PR China. Electronic 
+address: yuansheng@njnu.edu.cn.
+
+The mature basal stipe of mushroom Coprinopsis cinerea loses wall extensibility. 
+We found that an endo-β-1,3-glucanase ENG from C. cinerea could restore mature 
+basal stipe wall extensibility via pretreatment such that the ENG-pretreated 
+basal stipe walls could be induced to extend by chitinase ChiIII. ENG 
+pretreatment released glucose, laminaribiose, and 3-O-D-gentiobiose-D-glucose 
+from the basal stipe walls, consistent with ENG-digested products of 
+β-1,6-branched β-1,3-glucan. Different effects of endo-β-1,3-glucanase ENG and 
+exo-β-1,3-glucanase EXG pretreatment on the structure, amount and ratio 
+(β-1,3-glucoside bonds to β-1,6-glucoside bonds) of products from the basal 
+stipe and the apical stipe cell walls, respectively, and on the cell wall 
+extensibility and the cell wall ultra-architecture of the basal stipes were 
+analyzed. All results demonstrate that the more accumulation and cross-linkage 
+of β-1,6-branched β-1,3-glucan with wall maturation lead to loss of wall 
+extensibility of the basal stipe regions compared to the apical stipe cell 
+walls.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.carbpol.2021.117743
+PMID: 33674003 [Indexed for MEDLINE]
+
+
+266. Semin Oncol. 2021 Feb;48(1):47-56. doi: 10.1053/j.seminoncol.2021.02.002.
+Epub  2021 Feb 23.
+
+Future directions in drug development in pancreatic cancer.
+
+Lambert A(1), Conroy T(2), Ducreux M(3).
+
+Author information:
+(1)Medical Oncology Department, Institut de Cancérologie de Lorraine, 
+Vandœuvre-lès-Nancy, France; Université de Lorraine, Nancy, France. Electronic 
+address: a.lambert@nancy.unicancer.fr.
+(2)Medical Oncology Department, Institut de Cancérologie de Lorraine, 
+Vandœuvre-lès-Nancy, France; Université de Lorraine, Nancy, France.
+(3)Gastrointestinal Oncology Department, Gustave Roussy, Villejuif, France; 
+Université Paris-Saclay, Saint-Aubin, France.
+
+Pancreatic cancer is still one of the most lethal cancers with a reported 5-year 
+relative survival rate of approximatively 9% and medical treatment remains a 
+major challenge. Systemic treatment is recommended in every setting: resectable, 
+borderline resectable, locally advanced and metastatic. Yet, few groundbreaking 
+changes in practice have occurred in the last 30 years compared to other cancers 
+and new treatments options are highly desirable. Most treatment approaches using 
+chemotherapy have failed to improve patients' life expectancy and the few 
+therapies finally found to have statistically significant benefit actually have 
+modest clinical impact. It is becoming imperative to find new paths for 
+improvement, such as encapsulated agents, new generation targeted therapies and 
+treatments directed against the tumor microenvironment. We report here the new 
+drugs of interest in pancreatic cancer and analyze the most recent failures.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.seminoncol.2021.02.002
+PMID: 33674067 [Indexed for MEDLINE]
+
+
+267. J Formos Med Assoc. 2022 Jan;121(1 Pt 1):144-151. doi: 
+10.1016/j.jfma.2021.02.008. Epub 2021 Mar 2.
+
+Increasing burden of major trauma in elderly adults during 2003-2015: Analysis 
+of real-world data from Taiwan.
+
+Lee IY(1), Shih CY(2), Wei YT(3), Weng TC(4), Shieh SJ(5), Wang JD(6).
+
+Author information:
+(1)Division of Plastic and Reconstructive Surgery, Department of Surgery, 
+National Cheng Kung University Hospital, College of Medicine, National Cheng 
+Kung University, Tainan, Taiwan.
+(2)Department of Public Health, College of Medicine, National Cheng Kung 
+University, Tainan, Taiwan.
+(3)Department of Occupational and Environmental Medicine, National Cheng Kung 
+University Hospital, College of Medicine, National Cheng Kung University, 
+Tainan, Taiwan; Department of Environmental and Occupational Health, College of 
+Medicine, National Cheng Kung University, Tainan, Taiwan; Department of Family 
+Medicine, China Medical University Hospital, Taichung, Taiwan.
+(4)Department of Occupational and Environmental Medicine, National Cheng Kung 
+University Hospital, College of Medicine, National Cheng Kung University, 
+Tainan, Taiwan; Department of Family Medicine, National Cheng Kung University 
+Hospital, College of Medicine, National Cheng Kung University, Tainan, Taiwan.
+(5)Division of Plastic and Reconstructive Surgery, Department of Surgery, 
+National Cheng Kung University Hospital, College of Medicine, National Cheng 
+Kung University, Tainan, Taiwan; International Center for Wound Repair and 
+Regeneration, National Cheng Kung University, Tainan, Taiwan; School of 
+Medicine, National Cheng Kung University, Tainan, Taiwan.
+(6)Department of Public Health, College of Medicine, National Cheng Kung 
+University, Tainan, Taiwan; Department of Occupational and Environmental 
+Medicine, National Cheng Kung University Hospital, College of Medicine, National 
+Cheng Kung University, Tainan, Taiwan; Department of Internal Medicine, National 
+Cheng Kung University Hospital, College of Medicine, National Cheng Kung 
+University, Tainan, Taiwan. Electronic address: jdwang121@gmail.com.
+
+Erratum in
+    J Formos Med Assoc. 2022 Feb;121(2):572-573.
+
+BACKGROUND: Major trauma has been one of the leading causes of morbidity, 
+mortality, and functional disability, resulting in substantial societal burden. 
+The aim of this study was to estimate the trends in burden of adult major trauma 
+in Taiwan during 2003-2015.
+METHODS: Adult patients with initial encounter of major trauma (injury severity 
+score ≥ 16) were abstracted from the claim data of National Health Insurance 
+(NHI) in Taiwan from January 2003 to December 2015. We explored the trends of 
+incidence and mortality rates over time stratified by age and sex, as well as 
+life expectancy (LE), loss-of-LE, lifetime healthcare expenditure and total 
+loss-of-LE compared with age, sex and calendar-year matched referents simulated 
+from the vital statistics of Taiwan.
+RESULTS: A total of 71,731 cases of adult major trauma, and an estimated loss of 
+979,676 life-years were found with an increasing trend in cumulative incidence 
+rate (CIR18-84) during 2003-2015. The incidence rates were significantly higher 
+in men than women. For both sexes, the incidence rates for those aged 65 and 
+above were about 2-3 times higher than those of all other age groups. The 
+one-year case fatality rates among the elderly were about 31-61%, higher than 
+all other ages. The lifetime healthcare expenditures per person were 47,616 USD 
+in men and 43,416 USD in women.
+CONCLUSION: There is a consistently increasing trend in incidence and mortality 
+of major trauma in Taiwan, especially among elderly people. For Taiwan, an aged 
+society beginning since 2018, the challenge should be tackled more effectively 
+in the coming decades.
+
+Copyright © 2021 Formosan Medical Association. Published by Elsevier B.V. All 
+rights reserved.
+
+DOI: 10.1016/j.jfma.2021.02.008
+PMID: 33674232 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+have no conflicts of interest relevant to this article.
+
+
+268. RNA. 2021 Mar 5;27(5):628-40. doi: 10.1261/rna.076489.120. Online ahead of 
+print.
+
+OTTER, a new method quantifying absolute amounts of tRNAs.
+
+Nagai A(1), Mori K(1), Shiomi Y(1), Yoshihisa T(2).
+
+Author information:
+(1)Graduate School of Life Science, University of Hyogo.
+(2)Graduate School of Life Science, University of Hyogo 
+tyoshihi@sci.u-hyogo.ac.jp.
+
+To maintain optimal proteome, both codon choice of each mRNA and supply of 
+aminoacyl-tRNAs are two principal factors in translation. Recent reports have 
+revealed that the amounts of tRNAs in cells are more dynamic than we had 
+expected. High-throughput methods such as RNA-Seq and microarrays are versatile 
+for comprehensive detection of changes in individual tRNA amounts, but they 
+suffer from inability to assess signal production efficiencies of individual 
+tRNA species. Thus, they are not the perfect choice to measure absolute amounts 
+of tRNAs. Here, we introduce a novel method for this purpose, termed 
+Oligonucleotide-directed Three-prime Terminal Extension of RNA (OTTER), which 
+employs fluorescence-labeling at the 3'-terminus of a tRNA by optimized reverse 
+primer extension and an assessment step of each labeling efficiency by northern 
+blotting. Using this method, we quantified the absolute amounts of the 34 
+individual and 4 pairs of isoacceptor tRNAs out of the total 42 nuclear-encoded 
+isoacceptors in the yeast Saccharomyces cerevisiae. We found that the amounts of 
+tRNAs in log phase yeast cells grown in a rich glucose medium range from 0.030 
+to 0.73 pmol/µg RNA. The tRNA amounts seem to be altered at the isoacceptor 
+level by a few folds in response to physiological growing conditions. The data 
+obtained by OTTER are poorly correlated with those by simple RNA-Seq, marginally 
+with those by microarrays and by microscale thermophoresis. However, the OTTER 
+data showed good agreement with the data obtained by 2D-gel analysis of in vivo 
+radiolabeled RNAs. Thus, OTTER is a suitable method for quantifying absolute 
+amounts of tRNAs at the level of isoacceptor resolution.
+
+Published by Cold Spring Harbor Laboratory Press for the RNA Society.
+
+DOI: 10.1261/rna.076489.120
+PMCID: PMC8051270
+PMID: 33674420
+
+
+269. Clin Drug Investig. 2021 Apr;41(4):381-389. doi: 10.1007/s40261-021-01017-6.
+ Epub 2021 Mar 5.
+
+Cost-effectiveness Analysis of Atezolizumab Plus Nab-Paclitaxel for Advanced 
+PD-L1 Positive Triple-Negative Breast Cancer in Japan.
+
+Chisaki Y(1), Kuwada Y(2), Matsumura C(2), Yano Y(2).
+
+Author information:
+(1)Education and Research Center for Clinical Pharmacy, Kyoto Pharmaceutical 
+University, 5-Nakauchi-cho, Misasagi, Yamashina-ku, Kyoto, 607-8414, Japan. 
+chisaki@mb.kyoto-phu.ac.jp.
+(2)Education and Research Center for Clinical Pharmacy, Kyoto Pharmaceutical 
+University, 5-Nakauchi-cho, Misasagi, Yamashina-ku, Kyoto, 607-8414, Japan.
+
+BACKGROUND AND OBJECTIVES: Atezolizumab is an anti-programmed death ligand 1 
+(PD-L1) antibody that shows good safety and efficacy for patients with 
+PD-L1-positive triple-negative breast cancer (TNBC). The cost of atezolizumab 
+therapy is expensive, and its economic burden is an important problem. In this 
+study, we evaluated the cost effectiveness of atezolizumab plus nab-paclitaxel 
+therapy (AnP) compared with nab-paclitaxel monotherapy (nP) for PD-L1-positive 
+TNBC under Japanese medical conditions and environments using a Markov model.
+METHODS: The medical information was collected from data published by the 
+IMpassion130 trial. A Markov model was established to simulate the number of 
+patients in each disease state after AnP or nP therapy during each time period. 
+As indices for cost effectiveness, total cost, quality-adjusted life years 
+(QALYs), and incremental cost-effectiveness ratios (ICER) were calculated. 
+Probabilistic sensitivity analysis (PSA) was used to assess the uncertainty of 
+the model using 10,000 Monte Carlo simulations with difference parameters.
+RESULTS: The QALYs for AnP treatment were longer than for nP treatment (1.12 vs 
+0.82 QALYs), but the total cost of AnP treatment was more expensive than that of 
+nP treatment (¥11,070,143 vs ¥2,056,164). The ICER values comparing AnP 
+treatment with nP treatment were ¥30,208,143/QALY. The ICER/QALY was more 
+expensive than the willingness-to-pay (WTP) of ¥15,000,000 per QALY. To achieve 
+a 50% cost-effective probability with a WTP threshold, the price of the 
+atezolizumab should be reduced by 55.1%.
+CONCLUSIONS: AnP was not cost effective compared to nP for PD-L1-positive 
+inoperable TNBC under the Japanese condition.
+
+DOI: 10.1007/s40261-021-01017-6
+PMID: 33674955 [Indexed for MEDLINE]
+
+
+270. Transplantation. 2021 Dec 1;105(12):e292-e302. doi:
+10.1097/TP.0000000000003732.
+
+Psychosocial Evaluation of Candidates for Solid Organ Transplantation.
+
+Bailey P(1)(2), Vergis N(3)(4), Allison M(5), Riddell A(2)(6), Massey E(7).
+
+Author information:
+(1)Department of Population Health Sciences, Bristol Medical School, University 
+of Bristol, Bristol, UK.
+(2)Renal and Transplant Service, Southmead Hospital, North Bristol NHS Trust, 
+Bristol, UK.
+(3)Liver Services Department, St Mary's Hospital, Imperial College Healthcare 
+NHS Trust, London, UK.
+(4)Department of Metabolism Digestion and Reproduction, Imperial College London, 
+UK.
+(5)Cambridge Liver Unit, Addenbrooke's Hospital, Cambridge University Hospitals 
+NHS Foundation Trust, Cambridge, UK.
+(6)University of Exeter Medical School, Exeter, UK.
+(7)Department of Internal Medicine, Nephrology and Transplantation, Erasmus 
+Medical Center, Rotterdam, The Netherlands.
+
+Transplant candidates should undergo an assessment of their mental health, 
+social support, lifestyle, and behaviors. The primary aims of this "psychosocial 
+evaluation" are to ensure that transplantation is of benefit to life expectancy 
+and quality of life, and to allow optimization of the candidate and transplant 
+outcomes. The content of psychosocial evaluations is informed by evidence 
+regarding pretransplant psychosocial predictors of transplant outcomes. This 
+review summarizes the current literature on pretransplant psychosocial 
+predictors of transplant outcomes across differing solid organ transplants and 
+discusses the limitations of existing research. Pretransplant depression, 
+substance misuse, and nonadherence are associated with poorer posttransplant 
+outcomes. Depression, smoking, and high levels of prescription opioid use are 
+associated with reduced posttransplant survival. Pretransplant nonadherence is 
+associated with posttransplant rejection, and nonadherence may mediate the 
+effects of other psychosocial variables such as substance misuse. There is 
+evidence to suggest that social support is associated with likelihood of 
+substance misuse relapse after transplantation, but there is a lack of 
+consistent evidence for an association between social support and posttransplant 
+adherence, rejection, or survival across all organ transplant types. 
+Psychosocial evaluations should be undertaken by a trained individual and should 
+comprise multiple consultations with the transplant candidate, family members, 
+and healthcare professionals. Tools exist that can be useful for guiding and 
+standardizing assessment, but research is needed to determine how well scores 
+predict posttransplant outcomes. Few studies have evaluated interventions 
+designed to improve psychosocial functioning specifically pretransplant. We 
+highlight the challenges of carrying out such research and make recommendations 
+regarding future work.
+
+Copyright © 2021 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/TP.0000000000003732
+PMID: 33675318 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+271. Geroscience. 2021 Aug;43(4):1527-1554. doi: 10.1007/s11357-021-00330-4. Epub
+ 2021 Mar 6.
+
+Late-life intermittent fasting decreases aging-related frailty and increases 
+renal hydrogen sulfide production in a sexually dimorphic manner.
+
+Henderson YO(1), Bithi N(1), Link C(1), Yang J(1), Schugar R(1), Llarena 
+N(1)(2), Brown JM(1), Hine C(3).
+
+Author information:
+(1)Department of Cardiovascular and Metabolic Sciences, Cleveland Clinic Lerner 
+Research Institute, 9500 Carnegie Avenue, Cleveland, OH, 44195, USA.
+(2)Reproductive Endocrinology and Infertility, Cleveland Clinic Women's Health 
+Institute, Cleveland, OH, 44195, USA.
+(3)Department of Cardiovascular and Metabolic Sciences, Cleveland Clinic Lerner 
+Research Institute, 9500 Carnegie Avenue, Cleveland, OH, 44195, USA. 
+hinec@ccf.org.
+
+Global average life expectancy continues to rise. As aging increases the 
+likelihood of frailty, which encompasses metabolic, musculoskeletal, and 
+cognitive deficits, there is a need for effective anti-aging treatments. It is 
+well established in model organisms that dietary restriction (DR), such as 
+caloric restriction or protein restriction, enhances health and lifespan. 
+However, DR is not widely implemented in the clinic due to patient compliance 
+and its lack of mechanistic underpinnings. Thus, the present study tested the 
+effects of a somewhat more clinically applicable and adoptable DR regimen, 
+every-other-day (EOD) intermittent fasting, on frailty in 20-month-old male and 
+female C57BL/6 mice. Frailty was determined by a series of metabolic, 
+musculoskeletal, and cognitive tasks performed prior to and toward the end of 
+the 2.5-month dietary intervention. Late-life EOD fasting attenuated overall 
+energy intake, hypothalamic inflammatory gene expression, and frailty in males. 
+However, it failed to reduce overall caloric intake and had a little positive 
+effect in females. Given that the selected benefits of DR are dependent on 
+augmented production of the gasotransmitter hydrogen sulfide (H2S) and that 
+renal H2S production declines with age, we tested the effects of EOD fasting on 
+renal H2S production capacity and its connection to frailty in males. EOD 
+fasting boosted renal H2S production, which positively correlated with 
+improvements in multiple components of frailty tasks. Therefore, late-life 
+initiated EOD fasting is sufficient to reduce aging-related frailty, at least in 
+males, and suggests that renal H2S production capacity may modulate the effects 
+of late-life EOD fasting on frailty.
+
+© 2021. The Author(s).
+
+DOI: 10.1007/s11357-021-00330-4
+PMCID: PMC8492807
+PMID: 33675469 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+272. Ear Hear. 2021 Sep/Oct;42(5):1338-1350. doi: 10.1097/AUD.0000000000001021.
+
+Cost-benefit Analysis of Cochlear Implants: A Societal Perspective.
+
+Neve OM(1), Boerman JA(2), van den Hout WB(3), Briaire JJ(1), van Benthem 
+PPG(1), Frijns JHM(1)(4).
+
+Author information:
+(1)Department of Otorhinolaryngology and Head & Neck Surgery, Leiden University 
+Medical Center, Leiden, the Netherlands.
+(2)Finance Department, Leiden University Medical Center, Leiden, the 
+Netherlands.
+(3)Medical Decision Making, Department of Biomedical Data Sciences, Leiden 
+University Medical Center, Leiden, the Netherlands.
+(4)Leiden Institute for Brain and Cognition, Leiden University, Leiden, the 
+Netherlands.
+
+OBJECTIVES: While the costs and outcomes of cochlear implantation (CI) have been 
+widely assessed, most of these analyses were solely performed from the 
+perspective of healthcare costs. This study assesses the costs and benefits of 
+CI in the Netherlands from a broader societal perspective, including health 
+outcomes, healthcare cost, educational cost, and productivity losses and gains.
+DESIGN: The cost and benefits of CI were analyzed in this cost-benefit analysis, 
+in which a monetary value is put on both the resources needed and the outcomes 
+of CI. The costs and benefits were analyzed by prototypical instances of three 
+groups, representing the majority of cochlear implant patients: prelingually 
+deaf children implanted at the age of 1, adults with progressive profound 
+hearing loss implanted at the age of 40 and seniors implanted at the age of 70 
+with progressive profound hearing loss. Costs and benefits were estimated over 
+the expected lifetimes of the members of each group, using a Markov state 
+transition model. Model parameters and assumptions were based on published 
+literature. Probabilistic and one-way sensitivity analyses were performed.
+RESULTS: In all three patient groups, the total benefits of CI exceeded the 
+total cost, leading to a net benefit of CI. Prelingually deaf children with a 
+bilateral CI had a lifetime positive outcome net benefit of €433,000. Adults and 
+seniors with progressive profound hearing loss and a unilateral CI had a total 
+net benefit of €275,000 and €76,000, respectively. These results ensue from 
+health outcomes expressed in monetary terms, reduced educational cost, and 
+increased productivity.
+CONCLUSIONS: Based on estimates from modeling, the increased healthcare costs 
+due to CI were more than compensated by the value of the health benefits and by 
+savings in educational and productivity costs. In particular, for children and 
+working adults, the societal benefit was positive even without taking health 
+benefits into account. Therefore, CI generates an advantage for both patients 
+and society.
+
+Copyright © 2021 The Authors. Ear & Hearing is published on behalf of the 
+American Auditory Society, by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/AUD.0000000000001021
+PMCID: PMC8378541
+PMID: 33675588 [Indexed for MEDLINE]
+
+
+273. Environ Entomol. 2021 Jun 18;50(3):744-751. doi: 10.1093/ee/nvab013.
+
+Field Ecology and Food Suitability of Tarsonemus spp. (Acari: Tarsonemidae).
+
+Gautam SG(1)(2), Ouyang Y(1), Gu P(1), Grafton-Cardwell EE(1).
+
+Author information:
+(1)Department of Entomology, University of California, Riverside, CA, USA.
+(2)Kearney Agricultural Research and Extension Center, Riverbend Avenue, 
+Parlier, CA, USA.
+
+Erratum in
+    Environ Entomol. 2021 Jun 18;50(3):755.
+
+Tarsonemus bakeri Ewing (Acari: Tarsonemidae) is a species of mite commonly 
+associated with citrus in many countries including the United States. A short 
+report in 1942 suggested this species is phytophagous, but it has not been 
+reported as a pest in citrus or any other crop since then. A single survey of 78 
+orchards in three growing regions in California demonstrated that Tarsonemus 
+spp. mites were only associated with leaf samples that had visible sooty mold. A 
+seasonal population study in one citrus orchard showed that all life stages of 
+Tarsonemus spp. were present year-round on leaves and fruit, with the population 
+on fruit reaching a peak in December (59.7 ± 15.2 mites per fruit). Results from 
+a food suitability study showed that the population declined sharply on both 
+plastic and leaf substrate when the mites were not provided a supplementary food 
+source. When supplementary food was provided in the form of Alternaria, 
+honeydew, molasses, or combinations of these, mites survived and multiplied 
+throughout the 29-d study, irrespective of the substrate. Tarsonemus bakeri were 
+found on excised, decaying leaves collected from an orchard. These studies 
+verify that Tarsonemus spp. are associated only with sooty mold in citrus 
+orchards. T. bakeri populations cannot sustain themselves on leaf tissue alone, 
+indicating that they are nondamaging to citrus and therefore need not be 
+considered a phytosanitary concern by importing countries.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of 
+Entomological Society of America. All rights reserved. For permissions, please 
+e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/ee/nvab013
+PMID: 33675654 [Indexed for MEDLINE]
+
+
+274. Lancet Psychiatry. 2021 Apr;8(4):320-328. doi:
+10.1016/S2215-0366(21)00040-7.  Epub 2021 Mar 3.
+
+The hidden burden of eating disorders: an extension of estimates from the Global 
+Burden of Disease Study 2019.
+
+Santomauro DF(1), Melen S(2), Mitchison D(3), Vos T(4), Whiteford H(5), Ferrari 
+AJ(5).
+
+Author information:
+(1)School of Public Health, The University of Queensland, Herston, QLD, 
+Australia; Queensland Centre for Mental Health Research, Wacol, QLD, Australia; 
+Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+WA, USA. Electronic address: d.santomauro@uq.edu.au.
+(2)School of Public Health, The University of Queensland, Herston, QLD, 
+Australia.
+(3)Translational Health Research Institute, School of Medicine, Western Sydney 
+University, Penrith, NSW, Australia; Department of Psychology, Macquarie 
+University, North Ryde, NSW, Australia.
+(4)Institute for Health Metrics and Evaluation, University of Washington, 
+Seattle, WA, USA.
+(5)School of Public Health, The University of Queensland, Herston, QLD, 
+Australia; Queensland Centre for Mental Health Research, Wacol, QLD, Australia; 
+Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+WA, USA.
+
+Comment in
+    Lancet Psychiatry. 2022 Jan;9(1):9-11.
+
+BACKGROUND: Anorexia nervosa and bulimia nervosa are the only eating disorders 
+included in the Global Burden of Diseases, Injuries, and Risk Factors Study 
+(GBD) 2019, yet binge-eating disorder and other specified feeding or eating 
+disorder (OSFED) are more prevalent. This study sought to estimate the 
+prevalence and burden of binge-eating disorder and OSFED globally and present a 
+case for their inclusion in GBD.
+METHODS: We sourced studies from the GBD 2019 anorexia nervosa and bulimia 
+nervosa epidemiological databases, two systematic reviews that included studies 
+with epidemiological estimates of binge-eating disorder and OSFED, and experts 
+in the field. Studies, published between Jan 1, 1998, and March 1, 2019, were 
+included if they reported non-zero prevalence of two or more eating disorders 
+(anorexia nervosa, bulimia nervosa, binge-eating disorder, or OSFED) and 
+diagnosed cases according to DSM-IV or DSM-5. The proportions of total eating 
+disorder cases that met diagnostic criteria for each individual eating disorder 
+were estimated via network meta-regression and simulation using studies 
+reporting eating disorder prevalence. The global cases unrepresented in GBD 2019 
+were estimated using the proportions from the simulation and the GBD 2019 eating 
+disorder prevalence. Disability weights for binge-eating disorder and OSFED were 
+then estimated along with disability-adjusted life-years (DALYs). Estimates are 
+presented with 95% uncertainty intervals (UIs).
+FINDINGS: 54 studies, of which 36 were from high-income countries, were included 
+in the analysis. The number of global eating disorder cases in 2019 that were 
+unrepresented in GBD 2019 was 41·9 million (95% UI 27·9-59·0), and consisted of 
+17·3 million (11·3-24·9) people with binge-eating disorder and 24·6 million 
+(14·7-39·7) people with OSFED (vs 13·6 million [10·2-17·5] people with eating 
+disorders in GBD 2019). Together, binge-eating disorder and OSFED caused 3·7 
+million (95% UI 2·0-6·5) DALYs globally, bringing the total eating disorder 
+DALYs to 6·6 million (3·8-10·6) in 2019.
+INTERPRETATION: Binge-eating disorder and OSFED accounted for the majority of 
+eating disorder cases and DALYs globally. These findings warrant the inclusion 
+of binge-eating disorder and OSFED in future iterations of GBD, which will bring 
+the burden experienced by people living with these disorders to the attention of 
+policy makers with the means to target this burden.
+FUNDING: Queensland Health, Australian National Health and Medical Research 
+Council, and Bill & Melinda Gates Foundation.
+
+Copyright © 2021 The Author(s). Published by Elsevier Ltd. This is an Open 
+Access article under the CC BY 4.0 license. Published by Elsevier Ltd.. All 
+rights reserved.
+
+DOI: 10.1016/S2215-0366(21)00040-7
+PMCID: PMC7973414
+PMID: 33675688 [Indexed for MEDLINE]
+
+
+275. Infect Dis Poverty. 2021 Mar 6;10(1):24. doi: 10.1186/s40249-021-00803-w.
+
+Trends in burden of multidrug-resistant tuberculosis in countries, regions, and 
+worldwide from 1990 to 2017: results from the Global Burden of Disease study.
+
+Ou ZJ(#)(1), Yu DF(#)(2), Liang YH(1), He WQ(1), Li YZ(1), Meng YX(1), Xiong 
+HS(1), Zhang MY(1), He H(1), Gao YH(1), Wu F(1), Chen Q(3).
+
+Author information:
+(1)Guangdong Provincial Key Laboratory of Tropical Disease Research, Department 
+of Epidemiology, School of Public Health, Southern Medical University, 1838 
+Guangzhou North Road, Guangzhou, 510515, China.
+(2)Department of MICU, Guangdong Women and Children Hospital, Guangzhou, China.
+(3)Guangdong Provincial Key Laboratory of Tropical Disease Research, Department 
+of Epidemiology, School of Public Health, Southern Medical University, 1838 
+Guangzhou North Road, Guangzhou, 510515, China. qch.2009@163.com.
+(#)Contributed equally
+
+BACKGROUND: Antituberculosis-drug resistance is an important public health 
+issue, and its epidemiological patterns has dramatically changed in recent 
+decades. This study aimed to estimate the trends of multidrug-resistant 
+tuberculosis (MDR-TB), which can be used to inform health strategies.
+METHODS: Data were collected from the Global Burden of Disease study 2017. The 
+estimated annual percentage changes (EAPCs) were calculated to assess the trends 
+of MDR-TB burden at global, regional, and national level from 1990 to 2017 using 
+the linear regression model.
+RESULTS: Globally, the age-standardized rate (ASR) of MDR-TB burden including 
+incidence, prevalence, death and disability-adjusted life years (DALYs) had 
+pronounced increasing trends from 1990 to 1999, with the EAPCs were 17.63 [95% 
+confidence interval (CI): 10.77-24.92], 17.57 (95% CI 11.51-23.95), 21.21 (95% 
+CI 15.96-26.69), and 21.90 (95% CI 16.55-27.50), respectively. Particularly, the 
+largest increasing trends were seen in areas and countries with low and 
+low-middle sociodemographic index (SDI). However, the trends in incidence, 
+prevalence, death and DALYs of MDR-TB decreased globally from 2000 to 2017, with 
+the respective EAPCs were - 1.37 (95% CI - 1.62 to - 1.12), - 1.32 (95% 
+CI - 1.38 to - 1.26), - 3.30 (95% CI - 3.56 to - 3.04) and - 3.32 (95% CI - 3.59 
+to - 3.06). Decreasing trends of MDR-TB were observed in most regions and 
+countries, particularly that of death and DALYs in Slovenia were - 18.96 (95% 
+CI - 20.82 to - 17.06) and -19.35 (95% CI - 21.10 to - 17.55), respectively. 
+Whereas the pronounced increasing trends of MDR-TB occurred in Papua New Guinea, 
+Singapore, and Australia.
+CONCLUSIONS: The ASR of MDR-TB showed pronounced decreasing trends from 2000 to 
+2017. However, the MDR-TB burden remains a substantial challenge to the TB 
+control globally, and requires effective control strategies and healthcare 
+systems.
+
+DOI: 10.1186/s40249-021-00803-w
+PMCID: PMC7936417
+PMID: 33676581 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+276. Clin Breast Cancer. 2021 Aug;21(4):e479-e488. doi:
+10.1016/j.clbc.2021.01.019.  Epub 2021 Feb 4.
+
+First-line Treatment with Ribociclib plus Endocrine Therapy for Premenopausal 
+Women with Hormone-receptor-positive Advanced Breast Cancer: A 
+Cost-effectiveness Analysis.
+
+Huang X(1), Lin S(1), Rao X(1), Zeng D(1), Wang H(1), Weng X(2), Huang P(3).
+
+Author information:
+(1)Department of Pharmacy, The First Affiliated Hospital of Fujian Medical 
+University, 20 Cha Zhong Road, Taijiang, Fuzhou 350005, People's Republic of 
+China.
+(2)Department of Pharmacy, The First Affiliated Hospital of Fujian Medical 
+University, 20 Cha Zhong Road, Taijiang, Fuzhou 350005, People's Republic of 
+China. Electronic address: wxh001@fjmu.edu.cn.
+(3)Department of Pharmacy, The First Affiliated Hospital of Fujian Medical 
+University, 20 Cha Zhong Road, Taijiang, Fuzhou 350005, People's Republic of 
+China. Electronic address: abstract2016@163.com.
+
+BACKGROUND: We conducted a cost-effectiveness analysis incorporating recent 
+phase III clinical trial (MONALEESA-7) data to evaluate the cost-effectiveness 
+of ribociclib (RIB) as a first-line treatment for premenopausal women with 
+hormone receptor (HR)-positive and human epidermal growth factor receptor 2 
+(HER2)-negative advanced breast cancer (ABC) from the United States healthcare 
+payer perspective. In addition, because RIB has not been marketed in China, we 
+identified the range of drug costs for which RIB could be considered cost 
+effective from a Chinese healthcare system perspective.
+PATIENTS AND METHODS: A Markov model was developed to evaluate the 
+cost-effectiveness of adding RIB to endocrine therapy over a lifetime. The 
+clinical outcomes and utility data were obtained from published literature. 
+Costs data were obtained from United States and Chinese official websites, and 
+we determined the potential price for RIB in China based on its price in the 
+United States. The main outcomes of this study were the incremental 
+cost-effectiveness ratio (ICER) and quality-adjusted life-years (QALYs).
+RESULTS: The model projected that mean outcome was better with RIB and endocrine 
+combined (3.83366 QALYs) than with endocrine therapy alone (2.71203 QALYs). In 
+the United States, RIB and endocrine therapy cost an additional $604,960.06, 
+resulting in an ICER of $539,357.95/QALY compared with endocrine monotherapy. 
+Subgroup analyses indicated that, in China, the projected mean outcomes were 
+better for RIB and endocrine therapy (6.37 QALYs) than for endocrine monotherapy 
+(2.71 QALYs). The corresponding incremental costs were $224,731.88943. Thus, the 
+ICER comparing RIB and endocrine therapy with endocrine therapy alone 
+represented a $61,454.96/QALY gain.
+CONCLUSION: Additional use of RIB is estimated to not be cost effective as a 
+first-line treatment for premenopausal women with HR-positive, HER2-negative ABC 
+in the United States. A value-based price for the cost of RIB is less than 
+$31.74/200 mg for China.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.clbc.2021.01.019
+PMID: 33676870 [Indexed for MEDLINE]
+
+
+277. J Mol Biol. 2021 Aug 6;433(16):166909. doi: 10.1016/j.jmb.2021.166909. Epub
+2021  Mar 5.
+
+N-terminal Transmembrane-Helix Epitope Tag for X-ray Crystallography and 
+Electron Microscopy of Small Membrane Proteins.
+
+McIlwain BC(1), Erwin AL(2), Davis AR(1), Ben Koff B(1), Chang L(3), Bylund 
+T(4), Chuang GY(4), Kwong PD(4), Ohi MD(5), Lai YT(6), Stockbridge RB(7).
+
+Author information:
+(1)Department of Molecular, Cellular and Developmental Biology, University of 
+Michigan, Ann Arbor, MI 48109, United States.
+(2)Life Sciences Institute, University of Michigan, Ann Arbor, MI 48109, United 
+States; Department of Cell and Developmental Biology, University of Michigan, 
+Ann Arbor, MI 48019, United States.
+(3)Life Sciences Institute, University of Michigan, Ann Arbor, MI 48109, United 

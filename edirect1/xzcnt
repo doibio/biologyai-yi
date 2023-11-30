@@ -1,0 +1,1000 @@
+versus combination immuno-oncology therapies in metastatic melanoma.
+
+Gibson EJ(1), Begum N(1), Koblbauer I(1), Dranitsaris G(2), Liew D(3), McEwan 
+P(4), Yuan Y(5), Juarez-Garcia A(5), Tyas D(6), Pritchard C(1).
+
+Author information:
+(1)a Wickenstones Ltd , Didcot , UK.
+(2)b Augmentium Pharma Consulting Inc. , Toronto , Canada.
+(3)c Department of Epidemiology and Preventive Medicine , Monash University , 
+Melbourne , Australia.
+(4)d Health Economics and Outcomes Research Ltd , Cardiff , UK.
+(5)e Bristol-Myers Squibb , Plainsboro , NJ , USA.
+(6)f Bristol-Myers Squibb , Uxbridge , UK.
+
+Background: Model structure, despite being a key source of uncertainty in 
+economic evaluations, is often not treated as a priority for model development. 
+In oncology, partitioned survival models (PSMs) and Markov models, both types of 
+cohort model, are commonly used, but patient responses to newer immuno-oncology 
+(I-O) agents suggest that more innovative model frameworks should be explored. 
+Objective: A discussion of the theoretical pros and cons of cohort level vs 
+patient level simulation (PLS) models provides the background for an 
+illustrative comparison of I-O therapies, namely nivolumab/ipilimumab 
+combination and ipilimumab alone using patient level data from the CheckMate 067 
+trial in metastatic melanoma. PSM, Markov, and PLS models were compared on the 
+basis of coherence with short-term clinical trial endpoints and long-term cost 
+per QALY outcomes reported. Methods: The PSM was based on Kaplan-Meier curves 
+from CheckMate 067 with 3-year data on progression free survival (PFS) and 
+overall survival (OS). The Markov model used time independent transition 
+probabilities based on the average trajectory of PFS and OS over the trial 
+period. The PLS model was developed based on baseline characteristics 
+hypothesized to be associated with disease as well as significant mortality and 
+disease progression risk factors identified through a proportional hazards 
+model. Results: The short-term Markov model outputs matched the 1-3 year 
+clinical trial results approximately as well as the PSMs for OS but not PFS. The 
+fixed (average) cohort PLS results corresponded as well as the PSMs for OS in 
+the combination therapy arm and PFS in the monotherapy arm. Over the lifetime 
+horizon, the PLS produced an additional 5.95 quality adjusted life years (QALYs) 
+associated with combination therapy relative to ipilimumab alone, resulting in 
+an incremental cost-effectiveness ratio (ICER) of £6,474 per QALY, compared with 
+£14,194 for the PSMs which gave an incremental benefit of between 2.2 and 2.4 
+QALYs. The Markov model was an outlier (∼ £49,000 per QALY in the base case). 
+Conclusions: The 4- and 5-state versions of the PSM cohort model estimated in 
+this study deviate from the standard 3-state approach to better capture I-O 
+response patterns. Markov and PLS approaches, by modeling state transitions 
+explicitly, could be more informative in understanding I-O immune response, the 
+PLS particularly so by reflecting heterogeneity in treatment response. However, 
+both require a number of assumptions to capture the immune response effectively. 
+Better I-O representation with surrogate endpoints in future clinical trials 
+could yield greater model validity across all models.
+
+DOI: 10.1080/13696998.2019.1569446
+PMID: 30638416 [Indexed for MEDLINE]
+
+
+498. J Geriatr Oncol. 2019 Nov;10(6):921-925. doi: 10.1016/j.jgo.2018.12.004.
+Epub  2019 Jan 9.
+
+The prognostic value of G8 for functional decline.
+
+Chakiba C(1), Bellera C(2), Etchepare F(3), Mathoulin-Pelissier S(2), Rainfray 
+M(4), Soubeyran P(5).
+
+Author information:
+(1)Department of Medical Oncology, Institut Bergonié, Bordeaux, France.
+(2)Clinical and Epidemiological Research Unit, Institut Bergonié, Bordeaux, 
+France; ISPED, INSERM U1219 Bordeaux Population Health Center, Epicene Team, 
+Bordeaux, France.
+(3)ISPED, INSERM U1219 Bordeaux Population Health Center, Epicene Team, 
+Bordeaux, France.
+(4)Université de Bordeaux, France; Department of Geriatric Medicine, CHU 
+Bordeaux, France.
+(5)Department of Medical Oncology, Institut Bergonié, Bordeaux, France; 
+Université de Bordeaux, France; Inserm UMR1218, France. Electronic address: 
+p.soubeyran@bordeaux.unicancer.fr.
+
+PURPOSE: Clinical experience suggests that functional decline (FD) during 
+treatment may have a major adverse impact on outcome. Geriatric assessment of 
+older patients before cancer treatment is usually based on use of a screening 
+tool (such as G8) followed by comprehensive geriatric assessment (CGA). However, 
+many oncology teams cannot implement geriatric oncology management due to 
+non-availability of geriatricians. Consequently, we decided to evaluate whether 
+a procedure using G8 and routinely available factors could help oncologists 
+foresee the outcome in patients ≥70: we firstly evaluated whether functional 
+decline is a determinant of early death, then searched for predictors of early 
+functional decline (measured before initiation of the second cycle of 
+chemotherapy), including G8 but voluntarilly excluding CGA.
+METHODS: We tested the value of clinical, biological factors and early FD to 
+predict early death on a cohort of 292 patients (≥70 years) treated with 
+first-line chemotherapy. We then used a logistic regression model to search for 
+pretreatment predictors of FD, including the same factors and G8 but excluding 
+CGA.
+RESULTS: FD occurred in 48 patients. In multivariate analyses, early FD 
+(OR = 4.13, 95% CI [1.89; 9.04], p < .01), disease extension (OR = 4.55, 95% CI 
+[1.96; 10.57]; p < .01), and being male (OR = 2.59, 95% CI [1.12; 5.97], p 
+= .02) were significant prognostic factors for early death; G8 was the only 
+significant factor associated with FD (OR = 4.38, 95% CI [1.28; 14.92], 
+p = .018).
+CONCLUSIONS: FD has an important prognostic significance in patients ≥70 treated 
+with chemotherapy, and G8 predicts for its occurrence. These data reinforce the 
+routine use of G8 in the management of these patients.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jgo.2018.12.004
+PMID: 30638869 [Indexed for MEDLINE]
+
+
+499. Gastrointest Endosc. 2019 May;89(5):1017-1025.e12. doi: 
+10.1016/j.gie.2018.12.021. Epub 2019 Jan 9.
+
+Optimal age for screening colonoscopy: a modeling study.
+
+Chen C(1), Stock C(2), Hoffmeister M(2), Brenner H(3).
+
+Author information:
+(1)Division of Clinical Epidemiology and Aging Research, German Cancer Research 
+Center (DKFZ), Heidelberg, Germany; Medical Faculty Heidelberg, University of 
+Heidelberg, Heidelberg, Germany.
+(2)Division of Clinical Epidemiology and Aging Research, German Cancer Research 
+Center (DKFZ), Heidelberg, Germany.
+(3)Division of Clinical Epidemiology and Aging Research, German Cancer Research 
+Center (DKFZ), Heidelberg, Germany; Division of Preventive Oncology, German 
+Cancer Research Center (DKFZ) and National Center for Tumor Diseases (NCT), 
+Heidelberg, Germany; German Cancer Consortium (DKTK), German Cancer Research 
+Center (DKFZ), Heidelberg, Germany.
+
+BACKGROUND AND AIMS: Recent guidelines on colorectal cancer (CRC) screening 
+recommend starting screening earlier than before. We performed a simulation 
+study to examine and compare the optimal ages to have once-only screening 
+colonoscopy and repeated colonoscopies.
+METHODS: A Markov model was set up using data from the German national screening 
+colonoscopy registry to simulate the natural history of the adenoma-carcinoma 
+process. CRC deaths and years of potential life lost (YPLL) for a hypothetical 
+unscreened 50-year-old German population were estimated for a single screening 
+colonoscopy or 2 or 3 screening colonoscopies with 10-year intervals at various 
+ages.
+RESULTS: One single screening colonoscopy performed between 50 and 65 years of 
+age was expected to reduce CRC death by 49% to 69% and YPLL by 51% to 68%. An 
+inverted U-shaped association was found between screening age and proportion of 
+CRC deaths or YPLL prevented. The optimal age for once-only colonoscopy that 
+yielded the highest reductions in YPLL was around 54 years for men and 56 years 
+for women. Estimates were approximately 6 to 8 years higher when proportions of 
+CRC deaths prevented were examined. For 2 or 3 screening colonoscopies, the 
+optimal starting age fell to around 50 years or even younger for both genders.
+CONCLUSIONS: Based on the YPLL estimates, in a high CRC incidence and high life 
+expectancy country like Germany, the optimal age for once-only screening 
+colonoscopy is around 55 years and possibly slightly younger for men than for 
+women. When 2 or more screening colonoscopies are offered with 10-year 
+intervals, screening should start at age 50 at the latest or possibly even 
+younger for both genders.
+
+Copyright © 2019 American Society for Gastrointestinal Endoscopy. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.gie.2018.12.021
+PMID: 30639539 [Indexed for MEDLINE]
+
+
+500. Am J Med. 2019 May;132(5):564-566. doi: 10.1016/j.amjmed.2018.12.020. Epub
+2019  Jan 9.
+
+Ten Secrets to a Long Life.
+
+Frishman WH(1).
+
+Author information:
+(1)The Department of Medicine, New York Medical College/Westchester Medical 
+Center, Valhalla. Electronic address: William_Frishman@nymc.edu.
+
+For centuries there has been an ongoing search to identify the secrets of long 
+life and healthy aging. Recently, multiple factors have been identified, 
+including genetics, the introduction of antibiotics, vaccines, and public 
+health, effective management of cardiovascular risk factors, advances in 
+surgery, eliminating or modifying high-risk behaviors, family and social 
+supports, eliminating wars and poverty, luck, exercise and nutrition, and 
+psychological factors such as optimism and conscientiousness. To increase a 
+maximum life span now estimated to be 115-120 years will involve manipulation of 
+genes and the body's stem cells and the potential use of senolytic drugs (that 
+kill old cells), which will need to be investigated. This is a worthy pursuit if 
+these interventions will also maintain or enhance quality of life.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjmed.2018.12.020
+PMID: 30639553 [Indexed for MEDLINE]
+
+
+501. Mult Scler Relat Disord. 2019 Feb;28:290-304. doi:
+10.1016/j.msard.2018.12.043.  Epub 2019 Jan 3.
+
+Inequalities in access to health and social care among adults with multiple 
+sclerosis: A scoping review of the literature.
+
+Roddam H(1), Rog D(2), Janssen J(3), Wilson N(4), Cross L(5), Olajide O(6), Dey 
+P(7).
+
+Author information:
+(1)School of Health Sciences, University of Central Lancashire, Adelphi Street, 
+Preston PR1 2HE United Kingdom. Electronic address: HRoddam@uclan.ac.uk.
+(2)Salford Royal NHS Hospitals Foundation Trust, Stott Lane, Salford M6 8HD, 
+United Kingdom. Electronic address: David.Rog@srft.nhs.uk.
+(3)School of Health Sciences, University of Central Lancashire, Adelphi Street, 
+Preston PR1 2HE United Kingdom. Electronic address: JJanssen@uclan.ac.uk.
+(4)School of Health Sciences, University of Central Lancashire, Adelphi Street, 
+Preston PR1 2HE United Kingdom. Electronic address: NWilson9@uclan.ac.uk.
+(5)School of Health Sciences, University of Central Lancashire, Adelphi Street, 
+Preston PR1 2HE United Kingdom. Electronic address: LCross1@uclan.ac.uk.
+(6)School of Dentistry, University of Central Lancashire, Adelphi Street, 
+Preston PR1 2HE United Kingdom. Electronic address: OOlajide@uclan.ac.uk.
+(7)Edge Hill University, St Helens Road, Ormskirk, Lancashire L39 4QP United 
+Kingdom. Electronic address: paola.dey@edgehill.ac.uk.
+
+Variations in access to health care are known to contribute to differences in 
+life expectancy, morbidity and health-related quality-of-life across population 
+subgroups. We undertook a scoping review to identify what is known about 
+in-country variations in access to services for adults with multiple sclerosis 
+and to identify gaps in the literature to inform future research and national 
+policies. We searched MEDLINE, CINAHL, EMBASE, PSYCHINFO, SocINDEX and Social 
+Science Abstracts from inception to end of December 2016 for quantitative 
+studies which had investigated differences in access to prevention services, 
+healthcare services, treatments and social care between inequality groups, 
+defined using the PROGRESS-PLUS framework. A total of 4959 unique abstracts 
+yielded 36 papers which met our eligibility criteria. Only 3 studies were cohort 
+studies and only 4 were population-based; most were from the United States 
+(n = 27). There were 6 studies on access to MS focused care and 6 on access to 
+Disease Modifying drugs. There were 3 studies on access to prevention/lifestyle 
+programmes and none on access to welfare services or information support. There 
+were no papers examining inequalities in access for 'vulnerable' groups, such 
+as, those with learning disability. In the available studies, there was evidence 
+of inequalities in access to services with a trend for worse access among men, 
+older age groups, those from lower socio-economic groups or the least educated, 
+non-caucasians, those with mental health problems and those from rural areas. In 
+the studies on access to disease modifying treatments, older age and lower 
+socioeconomic status were consistently associated with a lower rate of uptake, 
+while race and gender were not. Inequalities or disparities in access to all 
+levels of services and treatments will need to be addressed through a strategic 
+research agenda with an emphasis on population-based studies and development and 
+evaluation of interventions to reduce inequality.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.msard.2018.12.043
+PMID: 30641354 [Indexed for MEDLINE]
+
+
+502. J Neurosurg. 2019 Jan 11;132(1):42-50. doi: 10.3171/2018.8.JNS181080.
+
+Comparative effectiveness analysis of Pipeline device versus coiling in 
+unruptured aneurysms smaller than 10 mm.
+
+Malhotra A(1), Wu X(1), Miller T(2), Matouk CC(1)(3), Sanelli P(4), Gandhi D(5).
+
+Author information:
+(1)1Department of Radiology and Biomedical Imaging, Yale School of Medicine, New 
+Haven, Connecticut.
+(2)2Department of Diagnostic Radiology and Nuclear Medicine, University of 
+Maryland School of Medicine, Baltimore, Maryland.
+(3)3Department of Neurosurgery, Yale School of Medicine, New Haven, Connecticut.
+(4)4Department of Radiology, Northwell Health, Manhasset, New York; and.
+(5)5Division of Interventional Neuroradiology, Department of Radiology, 
+University of Maryland School of Medicine, Baltimore, Maryland.
+
+OBJECTIVE: Both endovascular coiling and the Pipeline embolization device (PED) 
+have been shown to be safe and clinically effective for treatment of small (< 10 
+mm) aneurysms. The authors conducted a comparative effectiveness analysis to 
+compare the utility of these treatment methods in terms of health benefits.
+METHODS: A decision-analytical study was performed with Markov modeling methods 
+to simulate patients with small unruptured aneurysms undergoing endovascular 
+coiling, stent-assisted coiling (SAC), or PED placement for treatment. Input 
+probabilities were derived from prior literature, and 1-way, 2-way, and 
+probabilistic sensitivity analyses were performed to assess model and input 
+parameter uncertainty.
+RESULTS: The base case calculation for a 50-year-old man reveals PED to have a 
+higher health benefit (17.48 quality-adjusted life years [QALYs]) than coiling 
+(17.44 QALYs) or SAC (17.36 QALYs). PED is the better option in 6020 of the 
+10,000 iterations in probabilistic sensitivity analysis. When the retreatment 
+rate of PED is lower than 9.53%, and the coiling retreatment is higher than 
+15.6%, PED is the better strategy. In the 2-way sensitivity analysis varying the 
+retreatment rates from both treatment modalities, when the retreatment rate of 
+PED is approximately 14% lower than the retreatment rate of coiling, PED is the 
+more favorable treatment strategy. Otherwise, coiling is more effective. SAC may 
+be better than PED when the unfavorable outcome risk of SAC is lower than 70% of 
+its reported current value.
+CONCLUSIONS: With the increasing use of PEDs for treatment of small unruptured 
+aneurysms, the current study indicates that these devices may have higher health 
+benefits due to lower rates of retreatment compared to both simple coiling and 
+stent-assisted techniques. Longer follow-up studies are needed to document the 
+rates of recurrence and retreatment after coiling and PED to assess the 
+cost-effectiveness of these strategies.
+
+DOI: 10.3171/2018.8.JNS181080
+PMID: 30641830 [Indexed for MEDLINE]
+
+
+503. Int J Mol Sci. 2019 Jan 11;20(2):280. doi: 10.3390/ijms20020280.
+
+Bone Metastasis Pain, from the Bench to the Bedside.
+
+Aielli F(1), Ponzetti M(2), Rucci N(3).
+
+Author information:
+(1)Department of Biotechnological and Applied Clinical Sciences, University of 
+L'Aquila, 67100 L'Aquila, Italy. federica.aielli@univaq.it.
+(2)Department of Biotechnological and Applied Clinical Sciences, University of 
+L'Aquila, 67100 L'Aquila, Italy. mp.univaq@gmail.com.
+(3)Department of Biotechnological and Applied Clinical Sciences, University of 
+L'Aquila, 67100 L'Aquila, Italy. rucci@univaq.it.
+
+Bone is the most frequent site of metastasis of the most common cancers in men 
+and women. Bone metastasis incidence has been steadily increasing over the 
+years, mainly because of higher life expectancy in oncologic patients. Although 
+bone metastases are sometimes asymptomatic, their consequences are most often 
+devastating, impairing both life quality and expectancy, due to the occurrence 
+of the skeletal-related events, including bone fractures, hypercalcemia and 
+spinal cord compression. Up to 75% of patients endure crippling cancer-induced 
+bone pain (CIBP), against which we have very few weapons. This review's purpose 
+is to discuss the molecular and cellular mechanisms that lead to CIBP, including 
+how cancer cells convert the bone "virtuous cycle" into a cancer-fuelling 
+"vicious cycle", and how this leads to the release of molecular mediators of 
+pain, including protons, neurotrophins, interleukins, chemokines and ATP. 
+Preclinical tests and assays to evaluate CIBP, including the incapacitance 
+tester (in vivo), and neuron/glial activation in the dorsal root ganglia/spinal 
+cord (ex vivo) will also be presented. Furthermore, current therapeutic options 
+for CIBP are quite limited and nonspecific and they will also be discussed, 
+along with up-and-coming options that may render CIBP easier to treat and let 
+patients forget they are patients.
+
+DOI: 10.3390/ijms20020280
+PMCID: PMC6359191
+PMID: 30641973 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+504. BMC Cancer. 2019 Jan 14;19(1):63. doi: 10.1186/s12885-019-5272-6.
+
+Medical oncology outpatients' preferences and experiences with advanced care 
+planning: a cross-sectional study.
+
+Waller A(1)(2)(3), Turon H(4)(5)(6), Bryant J(4)(5)(6), Zucca A(4)(5)(6), Evans 
+TJ(7), Sanson-Fisher R(4)(5)(6).
+
+Author information:
+(1)Health Behaviour Research Collaborative, School of Medicine and Public 
+Health, Faculty of Health and Medicine, University of Newcastle, Callaghan, NSW, 
+Australia. amy.waller@newcastle.edu.au.
+(2)Priority Research Centre for Health Behaviour, University of Newcastle, 
+Callaghan, NSW, Australia. amy.waller@newcastle.edu.au.
+(3)Hunter Medical Research Institute, New Lambton Heights, NSW, Australia. 
+amy.waller@newcastle.edu.au.
+(4)Health Behaviour Research Collaborative, School of Medicine and Public 
+Health, Faculty of Health and Medicine, University of Newcastle, Callaghan, NSW, 
+Australia.
+(5)Priority Research Centre for Health Behaviour, University of Newcastle, 
+Callaghan, NSW, Australia.
+(6)Hunter Medical Research Institute, New Lambton Heights, NSW, Australia.
+(7)Clinical Research Design and Statistics Support Unit, Hunter Medical Research 
+Institute, New Lambton Heights, NSW, Australia.
+
+BACKGROUND: Medical oncology outpatients are a group for whom advance care 
+planning (ACP) activities are particularly relevant. Patient views can help 
+prioritise areas for improving end of life communication. The study aimed to 
+determine in a sample of medical oncology outpatients: (1) the perceived 
+importance of participating in ACP activities; (2) the proportion of patients 
+who have ever participated in ACP activities; and (3) the proportion of patients 
+who had not yet participated in ACP activities who were willing to do so in next 
+month.
+METHODS: Adult medical oncology outpatients in two Australian cancer treatment 
+centres were consecutively approached to complete a pen-and-paper survey. Items 
+explored perceived importance, previous participation, and willingness to 
+participate across key ACP activities including: discussing wishes with their 
+family or doctor; recording wishes in a written document; appointing a 
+substitute decision maker (SDM); and discussing life-expectancy.
+RESULTS: 185 participants completed the survey (51% consent rate). Most patients 
+agreed it was important to: discuss end of life wishes with family (85%) and 
+doctors (70%) and formally record wishes (73%). Few had discussed end of life 
+wishes with a doctor (11%), recorded their wishes (15%); chosen a SDM (28%); 
+discussed life expectancy (30%); or discussed end of life wishes with family 
+(30%). Among those who had not participated in ACP, most were willing to discuss 
+life expectancy (66%); discuss end of life wishes with family (57%) and a doctor 
+(55%); and formally record wishes (56%) in the next month. Fewer wanted to 
+appoint a SDM (40%).
+CONCLUSION: Although medical oncology outpatients perceive ACP activities are 
+important, rates of uptake are relatively low. The willingness of many patients 
+to engage in ACP activities suggests a gap in current ACP practice. Efforts 
+should focus on ensuring patients and families have clarity about the legal and 
+other ramifications of ACP activities, and better education and training of 
+health care providers in initiating conversations about end of life issues.
+
+DOI: 10.1186/s12885-019-5272-6
+PMCID: PMC6332530
+PMID: 30642289 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: 
+Approval was obtained from the human research ethics committees of the 
+University of Newcastle (H-2010-1324), and each participating hospital. Written 
+informed consent was obtained from all participants in this study. CONSENT FOR 
+PUBLICATION: Not applicable. COMPETING INTERESTS: The authors declare that they 
+have no competing interests. PUBLISHER’S NOTE: Springer Nature remains neutral 
+with regard to jurisdictional claims in published maps and institutional 
+affiliations.
+
+
+505. Elife. 2019 Jan 15;8:e41792. doi: 10.7554/eLife.41792.
+
+SUMO peptidase ULP-4 regulates mitochondrial UPR-mediated innate immunity and 
+lifespan extension.
+
+Gao K(1), Li Y(1)(2), Hu S(2), Liu Y(1).
+
+Author information:
+(1)State Key Laboratory of Membrane Biology, Institute of Molecular Medicine, 
+Beijing Key Laboratory of Cardiometabolic Molecular Medicine, and 
+Peking-Tsinghua Center for Life Sciences, Peking University, Beijing, China.
+(2)Academy for Advanced Interdisciplinary Studies, Peking University, Beijing, 
+China.
+
+Animals respond to mitochondrial stress with the induction of mitochondrial 
+unfolded protein response (UPRmt). A cascade of events occur upon UPRmt 
+activation, ultimately triggering a transcriptional response governed by two 
+transcription factors: DVE-1 and ATFS-1. Here we identify SUMO-specific 
+peptidase ULP-4 as a positive regulator of C. elegans UPRmt to control 
+SUMOylation status of DVE-1 and ATFS-1. SUMOylation affects these two axes in 
+the transcriptional program of UPRmt with distinct mechanisms: change of DVE-1 
+subcellular localization vs. change of ATFS-1 stability and activity. Our 
+findings reveal a post-translational modification that promotes immune response 
+and lifespan extension during mitochondrial stress.
+
+© 2019, Gao et al.
+
+DOI: 10.7554/eLife.41792
+PMCID: PMC6355198
+PMID: 30642431 [Indexed for MEDLINE]
+
+Conflict of interest statement: KG, YL, SH, YL No competing interests declared
+
+
+506. Lung Cancer. 2019 Jan;127:44-52. doi: 10.1016/j.lungcan.2018.11.008. Epub
+2018  Nov 23.
+
+Cost-effectiveness analysis of pembrolizumab versus standard-of-care 
+chemotherapy for first-line treatment of PD-L1 positive (>50%) metastatic 
+squamous and non-squamous non-small cell lung cancer in France.
+
+Chouaid C(1), Bensimon L(2), Clay E(3), Millier A(3), Levy-Bachelot L(2), Huang 
+M(4), Levy P(5).
+
+Author information:
+(1)Centre Hospitalier Intercommunal, Créteil, France. Electronic address: 
+christos.chouaid@chicreteil.fr.
+(2)MSD France, Courbevoie, France.
+(3)Creativ-Ceutical, Paris, France.
+(4)Merck & Co., Inc., Kenilworth, New Jersey, USA.
+(5)Université Paris-Dauphine, PSL Research University, LEDa[LEGOS], Paris, 
+France.
+
+INTRODUCTION: In the KEYNOTE-024 trial, pembrolizumab demonstrated significant 
+improvements in progression-free survival (PFS) and overall survival (OS) versus 
+Standard-of-Care (SoC) platinum-based doublets for first-line treatment of PD-L1 
+-positive (≥50%) metastatic Non-Small-Cell Lung Cancer (NSCLC) patients with no 
+EGFR mutations or ALK translocations. This study aims to assess the 
+cost-effectiveness of pembrolizumab versus SoC platinum-based chemotherapy from 
+the French healthcare system perspective.
+METHODS: A three-state partitioned-survival model was adapted to project 
+outcomes and costs of squamous and non-squamous NSCLC patients respectively, 
+over a 10-year time horizon. Clinical and utility data were collected from the 
+trial. A network meta-analysis was performed to consider platinum-based triplets 
+also used for non-squamous NSCLC. Direct medical costs were considered based on 
+ressources identified from the trial and literature. Costs and outcomes were 
+discounted at 4% per year. Incremental cost-effectiveness ratios (ICERs) were 
+calculated as cost per Life Year (LY) and cost per Quality-Adjusted Life Year 
+(QALY). Sensitivity and scenario analyses were performed to assess the 
+robustness of results.
+RESULTS: For squamous NSCLC, pembrolizumab was projected to increase life 
+expectancy of patients by 0.93 LY (11 months), and 0.74 QALY (9 months) for an 
+incremental cost of €62,032 compared with platinum-based doublets. The ICER of 
+pembrolizumab versus platinum-based doublets was €66,825/LY and €84,097/QALY. 
+For non-squamous NSCLC, pembrolizumab was projected to increase life expectancy 
+of patients by 0.85-1.32 LYs (10.2-15.8 months) and 0.64-1.02 QALYs (7.7-12.2 
+months) for an incremental cost varying from €-14,947-+47,064 depending on the 
+specific comparator. The ICER of pembrolizumab versus platinum-based 
+chemotherapy with paclitaxel plus bevacizumab was €62,846/LY and €78,729/QALY; 
+regimens including pemetrexed were dominated. Results were most sensitive to 
+extrapolations of survival outcomes and assumptions for continued effectiveness 
+and treatment duration of pembrolizumab.
+CONCLUSIONS: Pembrolizumab appears cost-effective versus SoC chemotherapy for 
+first-line treatment of PD-L1-positive (50%) metastatic NSCLC patients in 
+France, assuming willingness-to-pay under 100,000€/QALY (OECD threshold in the 
+discussion section).
+
+Copyright © 2018 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.lungcan.2018.11.008
+PMID: 30642550 [Indexed for MEDLINE]
+
+
+507. Lung Cancer. 2019 Jan;127:84-89. doi: 10.1016/j.lungcan.2018.11.029. Epub
+2018  Nov 24.
+
+Cost-effectiveness of afatinib, gefitinib, erlotinib and pemetrexed-based 
+chemotherapy as first-line treatments for advanced non-small cell lung cancer in 
+China.
+
+Gu X(1), Zhang Q(2), Chu YB(3), Zhao YY(3), Zhang YJ(3), Kuo D(3), Su B(4), Wu 
+B(5).
+
+Author information:
+(1)Department of Respiratory Medicine, Shanghai Jiao Tong University Affiliated 
+Sixth People's Hospital, Shanghai, China.
+(2)Department of Oncology, Putuo Hospital, Shanghai University of Traditional 
+Chinese Medicine, Shanghai, China.
+(3)Boehringer Ingelheim (China) Investment Co., Ltd., Shanghai, China.
+(4)Boston Healthcare, Shanghai, China.
+(5)Medical Decision and Economic Group, Department of Pharmacy, Ren Ji Hospital, 
+School of Medicine, Shanghai Jiaotong University, Shanghai, China. Electronic 
+address: scilwsjtu-wb@yahoo.com.
+
+PURPOSE: Tyrosine kinase inhibitors (TKI) of the epidermal growth factor 
+receptor (EGFR) are becoming the standard treatments for Chinese patients with 
+advanced non-small cell lung cancer (NSCLC) harboring an EGFR mutation. However, 
+the economic impact is unclear yet in China.
+MATERIALS AND METHODS: A decision-analytic model was developed to simulate 
+1-month patient transitions in a 10-year time horizon from Chinese heath care 
+system perspective. The health and economic outcomes of four first-line 
+strategies (pemetrexed plus cisplatin [PC], gefitinib, erlotinib, and afatinib) 
+among NSCLC patients harboring EGFR mutations were estimated and assessed via 
+indirect comparisons. Costs in the Chinese setting were estimated by using local 
+hospital data and literatures. A 5% annual discount rate was applied to both 
+costs and outcomes. The primary outcome was the incremental cost-effectiveness 
+ratio (ICER). Sensitivity analyses were performed.
+RESULTS: Afatinib achieved additional 0.382, 0.216 and 0.174 quality-adjusted 
+life-years (QALYs) with marginal $7930, $3680 and $2818 costs in comparison with 
+PC, gefitinib and erlotinib, which resulted in the ICERs of $20,758, $17,693 and 
+$16,197 per QALY gained, respectively. The hazard ratios (HR) of overall 
+survival (OS) of afatinib against gefitinib, erlotinib and PC strategy had 
+substantial influential parameters.
+CONCLUSIONS: First-line afatinib is cost-effective compared with gefitinib, 
+erlotinib and PC treatment for Chinese patients with EGFR mutation-positive 
+NSCLC.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.lungcan.2018.11.029
+PMID: 30642557 [Indexed for MEDLINE]
+
+
+508. Int J Alzheimers Dis. 2018 Dec 12;2018:8137464. doi: 10.1155/2018/8137464. 
+eCollection 2018.
+
+Alzheimer's Disease Mortality according to Socioeconomic Factors: Country Study.
+
+Tóth P(1), Gavurová B(1), Barták M(2).
+
+Author information:
+(1)Research and Innovation Centre Bioinformatics, TECHNICOM, Košice, Faculty of 
+Economics, Technical University of Košice, Němcovej 32, 040 01 Košice, Slovakia.
+(2)Department of Addictology, First Faculty of Medicine, Charles University and 
+General University Hospital in Prague, Apolinářská 4, 128 00 Praha 2, Czech 
+Republic.
+
+Aim of the paper is to quantify effects of socioeconomic factors on Alzheimer's 
+Disease Mortality in the Slovak Republic. We applied potential gains in life 
+expectancy (PGLE) method to measure the impact of elimination of Alzheimer's 
+disease on life expectance in Slovak regions. PGLE is based on life table 
+adjustment according to elimination of mortality caused by specific diagnosis. 
+Our dataset consists of all deceased from Slovak Republic from 2001 to 2015. We 
+analyse the impact of unemployment rate, GDP per capita, average wage, and 
+education on life expectance in Slovak regions. To estimate that impact, 
+ordinary least squares (OLS) is applied. According to our model, gross domestic 
+product, average wage, and education influence mortality caused by Alzheimer's 
+disease.
+
+DOI: 10.1155/2018/8137464
+PMCID: PMC6311262
+PMID: 30643641
+
+
+509. J Comp Eff Res. 2019 Mar;8(4):229-240. doi: 10.2217/cer-2018-0073. Epub 2019
+Jan  15.
+
+A cost-utility analysis of dulaglutide versus insulin glargine as third-line 
+therapy for Type 2 diabetes in Canada.
+
+Pollock RF(1), Norrbacka K(2), Cameron C(3), Mancillas-Adame L(4)(5), Jeddi 
+M(4).
+
+Author information:
+(1)Ossian Health Economics and Communications GmbH, Basel, Switzerland.
+(2)Oy Eli Lilly Finland Ab, Helsinki, Finland.
+(3)Cornerstone Research Group, Inc., Burlington Ontario, Canada.
+(4)Eli Lilly Canada, Inc., Toronto, Canada.
+(5)Endocrinology Division, Internal Medicine Department, Medical School & 
+University Hospital 'Dr. Jose E. Gonzalez', Universidad Autonoma de Nuevo Leon, 
+Monterrey, Mexico.
+
+AIM: The prevalence of Type 2 diabetes in Canada is estimated to be 7.6% and 
+rising. Given the substantial economic burden associated with Type 2 diabetes 
+treatment, optimizing healthcare expenditure is extremely important. In the 
+present analysis, we evaluated the cost-effectiveness of dulaglutide 1.5 mg, a 
+once-weekly glucagon-like peptide 1 agonist as third-line therapy relative to 
+insulin glargine from the perspective of a Canadian healthcare payer.
+METHODS: A patient-level cost-utility model of Type 2 diabetes was developed to 
+capture seven microvascular and macrovascular complications and severe and 
+nonsevere hypoglycemia. Cohort characteristics and the relative efficacy of 
+dulaglutide 1.5 mg and insulin glargine were derived from the AWARD-2 
+head-to-head trial, which was identified by systematic literature review. Cost 
+data were derived from Canadian sources and expressed in 2016 Canadian dollars 
+(CAD), and future cost and quality-adjusted life expectancy (QALE) estimates 
+were discounted at 1.5% per annum. One-way and probabilistic sensitivity 
+analyses were conducted.
+RESULTS: Based on the AWARD-2 trial, relative to insulin glargine, dulaglutide 
+1.5 mg was projected to increase QALE by 0.38 quality-adjusted life years and 
+increase costs by CAD 19,773, resulting in an incremental cost-effectiveness 
+ratio of CAD 52,580 per quality-adjusted life year gained.
+CONCLUSION: A computer simulation analysis showed that dulaglutide 1.5 mg would 
+likely be cost-effective relative to insulin glargine in patients with Type 2 
+diabetes inadequately controlled on metformin and sulfonylurea in Canada.
+
+DOI: 10.2217/cer-2018-0073
+PMID: 30644328 [Indexed for MEDLINE]
+
+
+510. Radiology. 2019 Mar;290(3):732-743. doi: 10.1148/radiol.2018181114. Epub
+2019  Jan 15.
+
+Personalized Treatment for Small Renal Tumors: Decision Analysis of Competing 
+Causes of Mortality.
+
+Kang SK(1), Huang WC(1), Elkin EB(1), Pandharipande PV(1), Braithwaite RS(1).
+
+Author information:
+(1)From the Departments of Radiology (S.K.K.), Population Health (S.K.K., 
+R.S.B.), Urology (W.C.H.), and Medicine (R.S.B.), NYU School of Medicine, 550 
+First Ave, New York, NY 10016; Department of Epidemiology and Biostatistics, 
+Memorial Sloan-Kettering Cancer Center, New York, NY (E.B.E.); and Institute for 
+Technology Assessment and Department of Radiology, Massachusetts General 
+Hospital, Boston, Mass (P.V.P.).
+
+Purpose To compare the effectiveness of personalized treatment for small (≤4 cm) 
+renal tumors versus routine partial nephrectomy (PN), accounting for various 
+competing causes of mortality. Materials and Methods A state-transition 
+microsimulation model was constructed to compare life expectancy of management 
+strategies for small renal tumors by using 1 000 000 simulations in the 
+following ways: routine PN or personalized treatment involving percutaneous 
+ablation for risk factors for worsening chronic kidney disease (CKD), and 
+otherwise PN; biopsy, with triage of renal cell carcinoma (RCC) to PN or 
+ablation depending on risk factors for worsening CKD; active surveillance for 
+growth; and active surveillance when MRI findings are indicative of papillary 
+RCC. Transition probabilities were incorporated from the literature. Effects of 
+parameter variability were assessed in sensitivity analysis. Results In patients 
+of all ages with normal renal function, routine PN yielded the longest life 
+expectancy (eg, 0.67 years in 65-year-old men with nephrometry score [NS] of 4). 
+Otherwise, personalized strategies extended life expectancy versus routine PN: 
+in CKD stages 2 or 3a, moderate or high NS, and no comorbidities, MRI guidance 
+for active surveillance extended life expectancy (eg, 2.60 years for MRI vs PN 
+in CKD 3a, NS 10); and with Charlson comorbidity index of 1 or more, biopsy or 
+active surveillance for growth extended life expectancy (eg, 2.70 years for 
+surveillance for growth in CKD 3a, NS 10). CKD 3b was most effectively managed 
+by using MRI to help predict papillary RCC for surveillance. Conclusion For 
+patients with chronic kidney disease and small renal tumors, personalized 
+treatment selection likely extends life expectancy. © RSNA, 2019 Online 
+supplemental material is available for this article.
+
+DOI: 10.1148/radiol.2018181114
+PMCID: PMC6394736
+PMID: 30644815 [Indexed for MEDLINE]
+
+
+511. Elife. 2019 Jan 15;8:e43101. doi: 10.7554/eLife.43101.
+
+Convergent recruitment of TALE homeodomain life cycle regulators to direct 
+sporophyte development in land plants and brown algae.
+
+Arun A(#)(1), Coelho SM(#)(1), Peters AF(2), Bourdareau S(1), Pérès L(1), 
+Scornet D(1), Strittmatter M(1), Lipinska AP(1), Yao H(1), Godfroy O(1), 
+Montecinos GJ(1), Avia K(1), Macaisne N(1), Troadec C(3), Bendahmane A(3), Cock 
+JM(1).
+
+Author information:
+(1)Sorbonne Université, CNRS, Algal Genetics Group, Integrative Biology of 
+Marine Models (LBI2M), Station Biologique de Roscoff (SBR), Roscoff, France.
+(2)Bezhin Rosko, Santec, France.
+(3)Institut National de la Recherche Agronomique (INRA), Institute of Plant 
+Sciences Paris-Saclay (IPS2), CNRS, Université Paris-Sud, Orsay, France.
+(#)Contributed equally
+
+Three amino acid loop extension homeodomain transcription factors (TALE HD TFs) 
+act as life cycle regulators in green algae and land plants. In mosses these 
+regulators are required for the deployment of the sporophyte developmental 
+program. We demonstrate that mutations in either of two TALE HD TF genes, 
+OUROBOROS or SAMSARA, in the brown alga Ectocarpus result in conversion of the 
+sporophyte generation into a gametophyte. The OUROBOROS and SAMSARA proteins 
+heterodimerise in a similar manner to TALE HD TF life cycle regulators in the 
+green lineage. These observations demonstrate that TALE-HD-TF-based life cycle 
+regulation systems have an extremely ancient origin, and that these systems have 
+been independently recruited to regulate sporophyte developmental programs in at 
+least two different complex multicellular eukaryotic supergroups, Archaeplastida 
+and Chromalveolata.
+
+© 2019, Arun et al.
+
+DOI: 10.7554/eLife.43101
+PMCID: PMC6368402
+PMID: 30644818 [Indexed for MEDLINE]
+
+Conflict of interest statement: AA, SC, AP, SB, LP, DS, MS, AL, HY, OG, GM, KA, 
+NM, CT, AB, JC No competing interests declared
+
+
+512. PLoS One. 2019 Jan 15;14(1):e0210010. doi: 10.1371/journal.pone.0210010. 
+eCollection 2019.
+
+Value of genetic testing in the prevention of coronary heart disease events.
+
+Hynninen Y(1), Linna M(2), Vilkkumaa E(3).
+
+Author information:
+(1)Department of Mathematics and Systems Analysis, School of Science, Aalto 
+University, Espoo, Finland.
+(2)The Institute of Healthcare Engineering, Management, and Architecture, 
+Department of Industrial Engineering and Management, School of Science, Aalto 
+University, Espoo, Finland.
+(3)Department of Information and Service Management, School of Business, Aalto 
+University, Helsinki, Finland.
+
+BACKGROUND: The health economic evidence about the value and optimal targeting 
+of genetic testing in the prevention of coronary heart disease (CHD) events has 
+remained limited and ambiguous. The objective of this study is to optimize the 
+population-level use and targeting of genetic testing alongside traditional risk 
+factors in the prevention of CHD events and, thereby, to assess the cost-benefit 
+of genetic testing.
+METHODS AND FINDINGS: We compare several strategies for using traditional and 
+genetic testing in the prevention of CHD through statin therapy. The targeting 
+of tests to different patient segments within these strategies is optimized by 
+using a decision-analytic model, in which a patient's estimated risk of CHD is 
+updated based on test results using Bayesian methods. We adopt the perspective 
+of healthcare sector. The data for the model is exceptionally wide and combined 
+from national healthcare registers, the Finnish Institute for Molecular 
+Medicine, and published literature. Our results suggest that targeting genetic 
+testing in an optimal way to those patients about which traditional risk factors 
+do not provide sufficiently accurate information results in the highest expected 
+net benefit. In particular, compared to the use of traditional risk factors 
+only, the optimal use of genetic testing would decrease the expected costs of an 
+average patient aged 45 years or more by 2.54€ in a 10-year follow-up period 
+while maintaining the level of the expected health outcome. Thus, genetic 
+testing is found to be a part of a cost-beneficial testing strategy alongside 
+traditional risk factors. This conclusion is robust to reasonable changes in 
+model inputs.
+CONCLUSIONS: If targeted optimally, the use of genetic testing alongside 
+traditional risk factors is cost-beneficial in the prevention of CHD.
+
+DOI: 10.1371/journal.pone.0210010
+PMCID: PMC6333335
+PMID: 30645616 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+513. Curr Hematol Malig Rep. 2019 Feb;14(1):56-61. doi:
+10.1007/s11899-019-0496-8.
+
+Treatment-Free Remission in CML: the US Perspective.
+
+Guru Murthy GS(1), Atallah E(2).
+
+Author information:
+(1)Division of Hematology/Oncology, Medical College of Wisconsin, Milwaukee, WI, 
+USA. gmurthy@mcw.edu.
+(2)Division of Hematology/Oncology, Medical College of Wisconsin, Milwaukee, WI, 
+USA.
+
+PURPOSE OF REVIEW: Chronic myeloid leukemia (CML) patients treated with tyrosine 
+kinase inhibitors (TKI) have near-normal life expectancy. However, lifelong TKI 
+therapy is associated with reduced quality of life and significant economic 
+burden. Currently, the management of CML is shifting from continuous TKI therapy 
+towards the goal of TKI cessation which is discussed in this review.
+RECENT FINDINGS: Several studies in the last decade have demonstrated the 
+feasibility and safety of TKI discontinuation in selected patients with CML who 
+achieve deep and sustained molecular response with TKI. This has moved 
+prime-time into clinical practice although open questions remain in terms of 
+understanding the disease biology that leads to successful TKI cessation in some 
+patients while not in others. Cessation of TKI for CML patients is a feasible 
+approach. Ongoing research aims to find out optimal strategies to sustain 
+ongoing treatment-free remission (TFR) and increase the number of patients who 
+achieve TFR.
+
+DOI: 10.1007/s11899-019-0496-8
+PMID: 30645715 [Indexed for MEDLINE]
+
+
+514. Alcohol Clin Exp Res. 2019 Feb;43(2):287-298. doi: 10.1111/acer.13933. Epub
+2019  Jan 15.
+
+Shifting Age of Peak Binge Drinking Prevalence: Historical Changes in Normative 
+Trajectories Among Young Adults Aged 18 to 30.
+
+Patrick ME(1), Terry-McElrath YM(1), Lanza ST(2), Jager J(3), Schulenberg JE(1), 
+O'Malley PM(1).
+
+Author information:
+(1)Institute for Social Research , University of Michigan, Ann Arbor, Michigan.
+(2)Health and Human Development , The Pennsylvania State University, State 
+College, Pennsylvania.
+(3)T. Denny Sanford School of Social and Family Dynamics, Arizona State 
+University, Tempe, Arizona.
+
+BACKGROUND: This study examined the extent to which the developmental pattern of 
+prevalence of binge drinking in the past 2 weeks from ages 18 through 30 has 
+changed across 29 cohorts of U.S. young adults, and whether the changes differed 
+by gender.
+METHODS: Analyses used national longitudinal data from 58,019 12th-grade 
+students (from graduating high school classes 1976 to 2004) participating in the 
+Monitoring the Future study followed through modal age 30 (with age 29/30 data 
+collected from 1987 to 2016). Weighted time-varying effect modeling was used to 
+model cohort group differences in age-related patterns of binge drinking.
+RESULTS: The age of peak binge drinking prevalence increased across cohorts 
+(from age 20 in 1976 to 1985 to 22 in 1996 to 2004 for women, and from 21 in 
+1976 to 1985 to 23 in 1996 to 2004 for men). Historical change in the 
+developmental pattern of binge drinking across all ages of young adulthood 
+differed for men and women. Even after controlling for key covariates, women in 
+the more recent cohort group reported significantly higher binge drinking 
+prevalence than women in earlier cohorts from ages 21 through 30. Men in the 
+more recent cohort group reported higher binge drinking prevalence at ages 25 to 
+26, but prevalence levels then converged to those seen in earlier cohort groups 
+by age 30.
+CONCLUSIONS: An older age of peak binge drinking and a decreased rate of decline 
+in the prevalence of binge drinking in later young adulthood among more recent 
+cohorts have resulted in an extension of individual and societal risks 
+associated with binge drinking, particularly for women, across young adulthood. 
+High-risk alcohol use prevention efforts are needed throughout at least the 
+third decade of life.
+
+© 2018 by the Research Society on Alcoholism.
+
+DOI: 10.1111/acer.13933
+PMCID: PMC6432634
+PMID: 30645773 [Indexed for MEDLINE]
+
+
+515. JAMA Netw Open. 2018 Aug 3;1(4):e181390. doi:
+10.1001/jamanetworkopen.2018.1390.
+
+Association of Long-term Outcomes and Survival With Multidisciplinary Salvage 
+Treatment for Local and Regional Recurrence After Stereotactic Ablative 
+Radiotherapy for Early-Stage Lung Cancer.
+
+Brooks ED(1), Sun B(1), Feng L(2), Verma V(3), Zhao L(1), Gomez DR(1), Liao 
+Z(1), Jeter M(1), O'Reilly M(1), Welsh JW(1), Nguyen QN(1), Erasmus JJ(4), Eapen 
+G(5), Ahrar K(6), Antonoff MB(7), Hahn SM(1), Heymach JV(8), Rice DC(7), Chang 
+JY(1).
+
+Author information:
+(1)Department of Radiation Oncology, The University of Texas MD Anderson Cancer 
+Center, Houston.
+(2)Department of Biostatistics, The University of Texas MD Anderson Cancer 
+Center, Houston.
+(3)Department of Radiation Oncology, University of Nebraska Medical Center, 
+Omaha.
+(4)Department of Diagnostic Radiology, The University of Texas MD Anderson 
+Cancer Center, Houston.
+(5)Department of Pulmonary Medicine, The University of Texas MD Anderson Cancer 
+Center, Houston.
+(6)Department of Interventional Radiology, The University of Texas MD Anderson 
+Cancer Center, Houston.
+(7)Department of Thoracic and Cardiovascular Surgery, The University of Texas MD 
+Anderson Cancer Center, Houston.
+(8)Department of Thoracic Head and Neck Medical Oncology, The University of 
+Texas MD Anderson Cancer Center, Houston.
+
+IMPORTANCE: Stereotactic ablative radiotherapy (SABR) is first-line treatment 
+for patients with early-stage non-small cell lung cancer (NSCLC) who cannot 
+undergo surgery. However, up to 1 in 6 such patients will develop isolated local 
+recurrence (iLR) or isolated regional recurrence (iRR). Little is known about 
+outcomes when disease recurs after SABR, or about optimal management strategies 
+for such recurrences.
+OBJECTIVE: To characterize long-term outcomes for patients with iLR or iRR after 
+SABR for early-stage NSCLC with the aim of informing treatment decision making 
+for these patients with potentially curable disease.
+DESIGN, SETTING, AND PARTICIPANTS: In this cohort study, a retrospective review 
+was conducted of 912 patients prospectively enrolled in an institutional 
+database at a tertiary cancer center from January 1, 2004, through December 31, 
+2014.
+MAIN OUTCOMES AND MEASURES: Overall survival, progression-free survival, 
+recurrence patterns, demographics, salvage techniques, patterns of salvage 
+failure, and toxic effects.
+RESULTS: Of the 912 patients in the study (456 women and 456 men; median age, 72 
+years [range, 46-91 years]), 756 (82.9%) had T1 tumors at initial diagnosis; 502 
+tumors (55.0%) were adenocarcinomas and 309 tumors (33.9%) were squamous cell 
+carcinomas. Of 912 patients with early-stage I to II NSCLC who received 
+definitive SABR (50 Gy in 4 fractions or 70 Gy in 10 fractions), 102 developed 
+isolated recurrence (49 with iLR and 53 with iRR), and 658 had no recurrence. 
+Median times to recurrence after SABR were 14.5 months (range, 1.5-60.8 months) 
+for iLR and 9.0 months (range, 1.9-70.7 months) for iRR; 39 of 49 patients 
+(79.6%) with iLR and 48 of 53 patients (90.6%) with iRR underwent salvage with 
+reirradiation, surgery, thermal ablation, or chemotherapy. Median follow-up 
+times for patients with iLR or iRR were 57.2 months (interquartile range, 
+37.7-87.6 months) from initial SABR and 38.5 months (interquartile range, 
+19.9-69.3 months) from recurrence. Rates of overall survival at 5 years from 
+initial SABR were no different between patients with iLR and salvage treatment 
+(57.9%) and patients with no recurrence (54.9%; hazard ratio, 0.89; 95% CI, 
+0.56-1.43; P = .65) but were lower for patients with iRR and salvage treatment 
+(31.1%; hazard ratio, 1.43; 95% CI, 1.00-2.34; P = .049). Patients receiving 
+salvage treatment had longer overall survival than patients who did not (median, 
+37 vs 7 months after recurrence; hazard ratio, 0.40; 95% CI, 0.09-0.66; 
+P = .006). Twenty-four of 87 patients (27.6%) who received salvage treatment for 
+iLR or iRR subsequently developed distant metastases. No patient experienced 
+grade 5 toxic effects after salvage treatment.
+CONCLUSIONS AND RELEVANCE: Life expectancy after salvage treatment for iLR was 
+similar to that for patients without recurrence, but survival after salvage 
+treatment for iRR was similar to that of patients with stage III NSCLC. Patients 
+who received salvage treatment had significantly improved survival. Because 
+salvage treatment for iLR or iRR was based on a consistent multidisciplinary 
+approach, this may help in clinical decision making.
+
+DOI: 10.1001/jamanetworkopen.2018.1390
+PMCID: PMC6324276
+PMID: 30646121 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Gomez 
+reported receiving grants and personal fees from Merck, grants and personal fees 
+from Varian, grants and personal fees from Bristol-Myers Squibb, grants and 
+personal fees from AstraZeneca, personal fees from Reflexion, and personal fees 
+from US Oncology outside the submitted work. Dr Liao reported serving on the 
+speakers bureau and receiving travel grants from Varian Medical Systems. Dr 
+Welsh reported being a cofounder of Healios, MolecularMatch, and OncoResponse; 
+holding stock in Healios, MolecularMatch, OncoResponse, Reflexion Medical, 
+Checkmate Pharmaceuticals, and Mavu Scientific; receiving consulting fees from 
+MolecularMatch; serving on the scientific advisory board for Reflexion Medical, 
+Checkmate Pharmaceuticals, and Mavu Scientific; and receiving clinical research 
+support from Bristol-Myers Squibb, Merck, Varian, GlaxoSmithKline, Mirna 
+Therapeutics, Incyte, Calithera, Checkmate Pharmaceuticals, and OncoResponse, 
+all outside the submitted work. Dr Heymach reported having financial agreements 
+with Lily, Guardant, AstraZeneca, Boehringer Ingelheim, Novartis, and 
+ScientificPathways outside the submitted work. Dr Chang reported receiving 
+financial support from Varian for travel to meetings in the past 3 years; 
+receiving grants from Bristol-Myers Squibb, and being a shareholder of Global 
+Oncology One outside the submitted work. No other disclosures were reported.
+
+
+516. JAMA Netw Open. 2018 Sep 7;1(5):e182008. doi:
+10.1001/jamanetworkopen.2018.2008.
+
+Cost-effectiveness of Financial Incentives for Patients and Physicians to Manage 
+Low-Density Lipoprotein Cholesterol Levels.
+
+Pandya A(1), Asch DA(2)(3)(4)(5)(6), Volpp KG(3)(4)(5)(6), Sy S(1), Troxel 
+AB(7), Zhu J(6), Weinstein MC(1), Rosenthal MB(1), Gaziano TA(1)(8).
+
+Author information:
+(1)Department of Health Policy and Management, Harvard T. H. Chan School of 
+Public Health, Boston, Massachusetts.
+(2)Department of Information, Decisions and Operations, The Wharton School, 
+University of Pennsylvania, Philadelphia.
+(3)Department of Medicine, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia.
+(4)Department of Health Care Management, The Wharton School, University of 
+Pennsylvania, Philadelphia.
+(5)Center for Health Equity Research and Promotion, Cpl Michael J. Crescenz 
+Veterans Affairs Medical Center, Philadelphia, Pennsylvania.
+(6)Department of Medical Ethics and Health Policy, Perelman School of Medicine, 
+University of Pennsylvania, Philadelphia.
+(7)Division of Biostatistics, Department of Population Health, New York 
+University School of Medicine, New York.
+(8)Division of Cardiovascular Medicine, Brigham and Women's Hospital, Boston, 
+Massachusetts.
+
+IMPORTANCE: Financial incentives shared between physicians and patients were 
+shown to significantly reduce low-density lipoprotein cholesterol (LDL-C) levels 
+in a randomized clinical trial, but it is not known whether these health 
+benefits are worth the added incentive and utilization costs required to achieve 
+them.
+OBJECTIVE: To evaluate the long-term cost-effectiveness of financial incentives 
+on LDL-C level control.
+DESIGN, SETTING, AND PARTICIPANTS: In this economic evaluation, a previously 
+validated microsimulation computer model was parameterized using 
+individual-level data from the randomized clinical trial on financial 
+incentives, National Health and Nutrition Examination Surveys for model 
+population inputs, and other published sources. The study was conducted from 
+April 15, 2016, to March 29, 2018.
+INTERVENTIONS: The following interventions were used: (1) usual care, (2) trial 
+control strategy (increased cholesterol level monitoring and use of electronic 
+pill bottles), (3) financial incentives for physicians, (4) financial incentives 
+for patients, and (5) incentives shared between physicians and patients.
+MAIN OUTCOMES AND MEASURES: Discounted costs (2017 US dollars), lifetime 
+cardiovascular disease risk, quality-adjusted life-years (QALYs), and 
+incremental cost-effectiveness ratios (ICERs).
+RESULTS: The model population (n = 1 000 000 [30.7% women]) had similar mean 
+(SD) age (61.5 [11.9] years) and LDL-C level (153.9 mg/dL) as the observed trial 
+population (n = 1503 [42.7% women]; age, 62.0 [8.7] years; and LDL-C level, 
+160.6 mg/dL). Using base-case assumptions (including a 10-year waning period of 
+LDL-C level reductions), the usual-care strategy was dominated (higher costs and 
+lower QALYs) by all other strategies. Strategies for physician- or patient-only 
+incentives were dominated by the shared-incentives strategy, which had an ICER 
+of $60 000/QALY compared with the trial control strategy. In a sensitivity 
+analysis regarding the duration of LDL-C level reductions, the shared-incentives 
+strategy remained cost-effective (ICERs <$100 000/QALY and <$150 000/QALY) for 
+scenarios with LDL-C level reductions lasting, with linear waning, at least 7 
+and 5 years, respectively. In the 1-way sensitivity analysis for the time 
+horizon of the analysis, the ICER of the shared-incentives strategy exceeded 

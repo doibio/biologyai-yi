@@ -1,0 +1,1000 @@
+the shorter life expectancy of people with depression, yet no study has 
+quantified their contribution. We quantify the contribution of alcohol-related 
+deaths to the life-expectancy gap in depression in four European countries with 
+differing levels of alcohol-related mortality.
+METHODS: We used cohort data linking population registers with health-care and 
+death records from Denmark, Finland, Sweden and Turin, Italy, in 1993-2007 
+(210,412,097 person years, 3046,754 deaths). We identified psychiatric 
+inpatients with depression from hospital discharge registers in Denmark, 
+Finland, and Sweden and outpatients with antidepressant prescriptions from 
+prescription registers in Finland and Turin. We assessed alcohol-related and 
+non-alcohol-related deaths using both underlying and contributory causes of 
+death, stratified by sex, age and depression status. We quantified the 
+contribution of alcohol-related deaths by cause-of-death decomposition of the 
+life-expectancy gap at age 25 between people with and without depression.
+RESULTS: The gap in life expectancy was 13.1-18.6 years between people with and 
+without inpatient treatment for depression and 6.7-9.1 years between those with 
+and without antidepressant treatment. The contribution of alcohol-related deaths 
+to the life-expectancy gap was larger in Denmark (33.6%) and Finland 
+(18.1-30.5%) - i.e., countries with high overall alcohol-related mortality - 
+than in Sweden (11.9%) and Turin (3.2%), and larger among men in all countries. 
+The life-expectancy gap due to other than alcohol-related deaths varied little 
+across countries.
+CONCLUSIONS: Alcohol contributes heavily to the lower life expectancy in 
+depression particularly among men and in countries with high overall 
+alcohol-related mortality.
+
+Copyright © 2022 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.drugalcdep.2022.109547
+PMID: 35810620 [Indexed for MEDLINE]61. Nihon Hoshasen Gijutsu Gakkai Zasshi. 2022 Aug 20;78(8):829-837. doi: 
+10.6009/jjrt.2022-1224. Epub 2022 Jul 8.
+
+[Prognosis Prediction of Lung Cancer Patients Using CT Images: Feature 
+Extraction by Convolutional Neural Network and Prediction by Machine Learning].
+
+[Article in Japanese]
+
+Oshita Y(1), Takeuchi N(2), Teramoto A(3), Kondo M(4), Imaizumi K(4), Saito 
+K(5), Fujita H(6).
+
+Author information:
+(1)Graduate School of Health Sciences, Fujita Health University.
+(2)Graduate School of Health Sciences, Fujita Health University (Current 
+address: FUJIFILM Medical Corporation).
+(3)Intelligent Information Engineering Field, Research Promotion Unit, School of 
+Medical Sciences, Fujita Health University.
+(4)School of Medicine, Fujita Health University.
+(5)Advanced Diagnostic System Development Field, Research Promotion Unit, School 
+of Medical Sciences, Fujita Health University.
+(6)Faculty of Engineering, Gifu University.
+
+PURPOSE: Lung cancer accounts for the largest number of deaths among malignant 
+tumors. Recently, more and more patients are concerned about their own life 
+expectancy. CT examination is essential for the diagnosis of lung cancer. 
+However, it is difficult to accurately predict the prognosis using CT images. In 
+this study, we developed a method to predict the prognosis of lung cancer 
+patients from CT images using a convolutional neural network (CNN) and a machine 
+learning method.
+METHODS: In this study, the CT images of 173 lung cancer patients were 
+collected. First, we selected the slice with the largest tumor size in each case 
+and extracted features using a CNN. Next, we performed feature selection using 
+information gain and predicted alive or death by classifiers. An artificial 
+neural network or Naïve Bayes was used as a classifier and alive and death were 
+predicted at one-year intervals from one year to five years later.
+RESULTS: We evaluated the prediction accuracy via the three-fold 
+cross-validation method and found that the prediction accuracies were around 80% 
+for all periods from 1 to 5 years. In the evaluation of the survival curve, the 
+shape of the curve was close to the actual curve.
+CONCLUSION: These results indicate that feature extraction by a CNN and 
+classification by the machine learning method may be effective in predicting the 
+prognosis of lung cancer patients using CT images.
+
+DOI: 10.6009/jjrt.2022-1224
+PMID: 35811128 [Indexed for MEDLINE]
+
+
+62. Korean J Intern Med. 2022 Jul;37(4):719-731. doi: 10.3904/kjim.2022.036. Epub
+ 2022 Jun 3.
+
+Current state and prospects of gout treatment in Korea.
+
+Park EH(1)(2), Choi ST(1)(3), Song JS(1)(3).
+
+Author information:
+(1)Division of Rheumatology, Department of Internal Medicine, Chung-Ang 
+University College of Medicine, Seoul, Korea.
+(2)Division of Rheumatology, Department of Internal Medicine, Chung-Ang 
+University Gwangmyeong Hospital, Gwangmyeong, Korea.
+(3)Division of Rheumatology, Department of Internal Medicine, Chung-Ang 
+University Hospital, Seoul, Korea.
+
+Effective management of gout includes the following: appropriate control of gout 
+flares; lifestyle modifications; management of comorbidities; and long-term 
+urate-lowering therapy (ULT) to prevent subsequent gout flares, structural joint 
+damage, and shortening of life expectancy. In addition to traditional treatments 
+for gout, novel therapies have been introduced in recent years. Indeed, new 
+recommendations for the management of gout have been proposed by various 
+international societies. Although effective and safe medications to treat gout 
+have been available, management of the disease has continued to be suboptimal, 
+with poor patient adherence to ULT and failure to reach serum urate target. This 
+review outlines recent progress in gout management, mainly based on the latest 
+published guidelines, and specifically provides an update on efficient 
+strategies for implementing treatment, efficacy and safety of specific 
+medications for gout, and cardiovascular outcomes of ULT. In particular, we 
+reviewed gout management approaches that can be applied to a Korean population.
+
+DOI: 10.3904/kjim.2022.036
+PMCID: PMC9271716
+PMID: 35811361 [Indexed for MEDLINE]
+
+Conflict of interest statement: No potential conflict of interest relevant to 
+this article was reported.
+
+
+63. Front Neurol. 2022 Jun 24;13:890256. doi: 10.3389/fneur.2022.890256.
+eCollection  2022.
+
+Auditory Phenotype and Histopathologic Findings of a Mutant Nlrp3 Expression 
+Mouse Model.
+
+Kim Y(1), Lee SY(2), Kim MY(1), Park K(1), Han JH(1), Kim JH(3), Kim BJ(4), Choi 
+BY(1).
+
+Author information:
+(1)Department of Otorhinolaryngology, Seoul National University Bundang 
+Hospital, Seongnam, South Korea.
+(2)Department of Otorhinolaryngology, Seoul National University Hospital, Seoul, 
+South Korea.
+(3)Department of Pathology, Seoul National University Hospital, Seoul, South 
+Korea.
+(4)Department of Otorhinolaryngology-Head and Neck Surgery, Chungnam National 
+University, Chungnam National University Sejong Hospital, Sejong, South Korea.
+
+OBJECTIVE: The pathogenesis of hearing loss in autoinflammatory disorders due to 
+activation of the inflammasome remains incompletely understood. Previously no 
+animals expressing mutant Nlrp3 (NOD-, LRR- and pyrin domain-containing protein 
+3) survived to an age when hearing evaluation was possible due to embryonic 
+lethality. We aimed to establish a novel mouse model that manifests quantifiable 
+hearing loss with other syndromic features due to alteration of Nlrp3 and 
+investigate the audiologic and histopathologic phenotype in the cochlea to 
+clarify how the genetic alterations of NLRP3 could induce autoinflammatory 
+hearing loss.
+METHODS: To induce inner ear expression of the mutant Nlrp3, Nlrp3 D301NneoR 
+mice were bred with Gfi1 Cre knock-in mice for conditional mutant Nlrp3 
+activation in the cochlea and hematopoietic cells. Hearing thresholds were 
+measured. Hematoxylin-eosin sections of the cochlea, brain, kidney, and liver 
+were examined under light microscopy. Immunohistochemical analyses using 
+polyclonal anti-NLRP3 antibodies on cochlear whole-mount preparations and frozen 
+sections were performed.
+RESULTS: We, for the first time in the literature, established a mouse model 
+that manifests quantifiable hearing loss due to Nlrp3 alteration. ABR recordings 
+of Nlrp3 D301NneoR/+; Gfi1 Cre/+ mice, albeit with limited life expectancy, 
+exhibited severe to profound hearing loss at postnatal day 20 (P20). There was 
+overall overexpression of mutant Nlrp3, and mutant Nlrp3 expression was noted in 
+the spiral prominence, the outer sulcus region (Claudius cells and outer sulcus 
+cells), the organ of Corti, the inner sulcus, and the spiral ganglion neurons in 
+the cochlea. The hematoxylin-eosin sections of Nlrp3 D301NneoR/+; Gfi1 Cre/+ 
+mice cochleae at P12 exhibited a disorganized organ of Corti between the outer 
+hair cells/supporting Deiters' cells and basilar membrane compared with the 
+normal phenotype mice, leading to a collapsed Nuel's space. This morphologic 
+feature gradually returned to normal by P15. Varying degrees of inflammation 
+with lymphocytic infiltrations were observed in the brain, kidney, and liver.
+CONCLUSION: We report the first mutant Nlrp3 overexpression mouse model (Nlrp3 
+D301NneoR/+; Gfi1 Cre/+) that shows obvious overexpression of Nlrp3 in the 
+cochlea, a transient developmental lag of the cochlea, and severe to profound 
+hearing loss. We expect that this mouse line, which models human 
+autoinflammatory hearing loss, could provide a valuable tool to elucidate the 
+underlying pathogenic mechanism of inflammasome activation-mediated hearing 
+loss.
+
+Copyright © 2022 Kim, Lee, Kim, Park, Han, Kim, Kim and Choi.
+
+DOI: 10.3389/fneur.2022.890256
+PMCID: PMC9263128
+PMID: 35812087
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+64. Cureus. 2022 Jun 7;14(6):e25732. doi: 10.7759/cureus.25732. eCollection 2022 
+Jun.
+
+Hospitalized Women's Perspective on Willingness-to-Screen for Cancers in 
+Relation to Life Expectancy.
+
+Shubella J(1), Kauffman G(1), Khaliq W(1).
+
+Author information:
+(1)Division of Hospital Medicine, Johns Hopkins University School of Medicine, 
+Baltimore, USA.
+
+OBJECTIVE:  Life expectancy is an important tool for physicians and patients to 
+determine when medical services for disease prevention should be rendered. Since 
+patients' preference is an important predictor for cancer screening compliance, 
+incorporating life expectancy with cancer screening preferences becomes 
+essential. The purpose of the study is to explore the mean life expectancy 
+duration that hospitalized women expect in order to undergo cancer screening 
+tests.
+METHODS:  A cross-sectional bedside survey including the contingent valuation 
+method was used to assess the mean life expectancy among 475 cancer-free 
+hospitalized women aged 50-75 years, which justified their willingness to 
+undergo cancer screening tests. The probit and logistic regression models were 
+used for the analysis in October 2021.
+RESULTS: A total of 74% of women were willing to undergo cancer screening if the 
+mean life expectancy was 24.3 months (SE = 12.8, p = 0.058). After adjustment 
+for sociodemographic and clinical covariates, hospitalized women were willing to 
+undergo cancer screening if the mean life expectancy was 26.6 months (SE = 13.3, 
+p = 0.045). Race (African American and others vs Caucasians, OR = 2.34, 95% CI: 
+1.43-3.81) and annual household income <$20,000 (OR = 1.71, 95% CI: 1.02-2.86) 
+were associated with the willingness to undergo cancer screening among 
+hospitalized women.
+CONCLUSION:  The study's findings suggest that hospitalized women value the 
+prospect of cancer screening tests, given the mean life expectancy of 
+approximately 27 months. Therefore, offering screening tests to nonadherent 
+hospitalized women with a mean life expectancy of 2¼ years, especially to those 
+at high risk for developing cancer, with low income, or women of color, may 
+improve adherence to cancer screening recommendations.
+
+Copyright © 2022, Shubella et al.
+
+DOI: 10.7759/cureus.25732
+PMCID: PMC9262420
+PMID: 35812618
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+65. World J Clin Cases. 2022 Jun 6;10(16):5365-5372. doi: 
+10.12998/wjcc.v10.i16.5365.
+
+Neonatal hemorrhage stroke and severe coagulopathy in a late preterm infant 
+after receiving umbilical cord milking: A case report.
+
+Lu Y(1), Zhang ZQ(2).
+
+Author information:
+(1)Department of Neonatology, Affiliated Hangzhou First People's Hospital, 
+Zhejiang University School of Medicine, Hangzhou 310003, Zhejiang Province, 
+China.
+(2)Department of Neonatology, Affiliated Hangzhou First People's Hospital, 
+Zhejiang University School of Medicine, Hangzhou 310003, Zhejiang Province, 
+China. zhiqun.zhang@163.com.
+
+BACKGROUND: Umbilical cord milking (UCM) is an alternative placental transfusion 
+method for delayed umbilical cord clamping in routine obstetric practice, 
+allowing prompt resuscitation of an infant. Thus, UCM has been adopted at some 
+tertiary neonatal centers for preterm infants to enhance placental-to-fetal 
+transfusion. It is not suggested for babies less than 28 wk of gestational age 
+because it is associated with severe brain hemorrhage. For late preterm or term 
+infants who do not require resuscitation, cord management is recommended to 
+increase iron levels and prevent the development of iron deficiency anemia, 
+which is associated with impaired motor development, behavioral problems, and 
+cognitive delays. Concerns remain about whether UCM increases the incidence of 
+intraventricular hemorrhage. However, there are very few reports of late preterm 
+infants presenting with neonatal hemorrhage stroke (NHS) and severe coagulopathy 
+after receiving UCM. Here, we report a case of a late preterm infant born at 34 
+wk of gestation. She abruptly deteriorated, exhibiting signs and symptoms of NHS 
+and severe coagulopathy after receiving UCM on the first day of life.
+CASE SUMMARY: A female preterm infant born at 34 wk of gestation received UCM 
+after birth. She was small for her gestational age and described as vigorous 
+with Apgar scores of 9 and 10 at one minute and five minutes of life, 
+respectively. After hospitalization in the neonatal intensive care unit, she 
+showed hypoglycemia and metabolic acidosis. The baby was administered glucose 
+and sodium bicarbonate infusions. Intramuscular vitamin K1 was also used to 
+prevent vitamin K deficiency. The baby developed umbilical cord bleeding and 
+gastric bleeding on day 1 of life; a physical examination showed bilateral 
+conjunctival hemorrhage, and a blood test showed thrombocytopenia, prolonged 
+prothrombin time, prolonged activated partial thromboplastin time, low 
+fibrinogen, raised D-dimer levels and anemia. A subsequent cranial ultrasound 
+and computed tomography scan showed a left parenchymal brain hemorrhage with 
+extension into the ventricular and subarachnoid spaces. The patient was 
+diagnosed with NHS in addition to disseminated intravascular coagulation (DIC). 
+Fresh frozen plasma (FFP) and prothrombin complex concentrate were given for 
+coagulopathy. Red blood cell and platelet transfusions were provided for 
+thrombocytopenia and anemia. A bolus of midazolam, intravenous calcium and 
+phenobarbital sodium were administered to control seizures. The baby's clinical 
+condition improved on day 5 of life, and the baby was hospitalized for 46 d and 
+recovered well without seizure recurrence. Our case report suggests that preterm 
+infants who receive UCM should undergo careful clinical assessment for 
+intracranial hemorrhage, NHS and severe coagulopathy that may develop under 
+certain circumstances. Supportive management, such as intensive care, FFP and 
+blood transfusion, is recommended when the development of massive NHS and 
+associated DIC is suspected.
+CONCLUSION: Our case report suggests that for late preterm infants who are small 
+for gestational age and who receive UCM for alternative placental transfusion, 
+neonatal health care professionals should be cautious in assessing the 
+development of NHS and severe coagulopathy. Neonatal health care professionals 
+should also be more cautious in assessing the complications of late preterm 
+infants after they receive UCM.
+
+©The Author(s) 2022. Published by Baishideng Publishing Group Inc. All rights 
+reserved.
+
+DOI: 10.12998/wjcc.v10.i16.5365
+PMCID: PMC9210894
+PMID: 35812658
+
+Conflict of interest statement: Conflict-of-interest statement: All authors 
+declare that they have no conflicts of interest to disclose.
+
+
+66. China CDC Wkly. 2022 Jun 10;4(23):494-498. doi: 10.46234/ccdcw2022.109.
+
+An Analysis of Life-Year Lost Due to COVID-19 - 34 Countries, December 
+2019-March 2021.
+
+Jiang S(1), Cai D(2), Chen D(2), Jiang Y(2).
+
+Author information:
+(1)School of Population and Public Health, University of British Columbia, 
+Vancouver, BC, Canada.
+(2)School of Public Health (Shenzhen), Sun Yat-sen University, Shenzhen City, 
+Guangdong Province, China.
+
+WHAT IS ALREADY KNOWN ABOUT THIS TOPIC? The coronavirus disease 2019 (COVID-19) 
+pandemic has caused severe health consequences. Though most COVID-19 deaths 
+occurred among very old people, their life-year loss might be very large because 
+of their life expectancy at that age.
+WHAT IS ADDED BY THIS REPORT? This study quantified how many years of life were 
+lost due to COVID-19 in 34 countries. COVID-19 caused 9 to 21 years of life lost 
+(YLL) per deceased patient. East Asia and Oceania had substantially lower per 
+capita YLL than North America and Europe. Among all countries included, the 
+United States had the greatest total YLL, Peru had the largest YLL per 100,000 
+people, and Mexico had the largest YLL per 100,000 COVID-19 patients.
+WHAT ARE THE IMPLICATIONS FOR PUBLIC HEALTH PRACTICE? The YLL quantification 
+indicated that the vulnerable population, especially the elderly, should be 
+protected under careful public health measures to reduce their YLL. It also 
+implied that it might be too early to lift anti-epidemic restrictions now, since 
+the extreme disproportionate consequences (total and per-capita YLL) in 
+different countries underscored the scrutinization over the variation in disease 
+control strategies to optimize future disease control and prevention.
+
+Copyright and License information: Editorial Office of CCDCW, Chinese Center for 
+Disease Control and Prevention 2022.
+
+DOI: 10.46234/ccdcw2022.109
+PMCID: PMC9257233
+PMID: 35813260
+
+
+67. China CDC Wkly. 2022 Jun 10;4(23):499-503. doi: 10.46234/ccdcw2022.110.
+
+Measuring the Effect of COVID-19 Pandemic on Mortality: Review and Prospect - 
+China, 2021.
+
+Lin J(1), Huang G(2), Wei Y(1), Pei L(1).
+
+Author information:
+(1)Institute of Population Research, China Center on Population Health and 
+Development, Peking University, Beijing, China.
+(2)Macquarie Business School, Macquarie University, Sydney, Australia.
+
+Current progress in measuring the effect of the pandemic on mortality is 
+limited. Few studies have comprehensively and systematically elucidated the 
+mechanism through which the pandemic affects mortality and what indicators are 
+valid to capture such an effect. This paper presents a comprehensive analysis 
+regarding the multifaceted effects of coronavirus disease 2019 (COVID-19) on 
+mortality and its measurements [i.e., confirmed deaths per million people 
+(CDPMP), case fatality rate (CFR), infection fatality risk (IFR), excess 
+mortality P-score (EMPS), and life expectancy (LE)]. It was revealed that both 
+data collection efforts and measurements on mortality due to COVID-19 were far 
+from perfect and discussed the importance of accurate, prompt, and accessible 
+data by any government over the course of fighting against the COVID-19 
+pandemic. It is believed that the biggest challenge in measuring the effect of 
+the COVID-19 pandemic on mortality lies not in the construction of indicators at 
+the academic level, but in the collection of data at the practical level. Thus, 
+it is suggested to take measures to better monitor the development of the 
+pandemic and mitigate the increasing burdens borne by the public health systems 
+by improving the tracking system of mortality, standardizing the diagnosis of 
+COVID-19's deaths, and disclosing mortality data.
+
+Copyright and License information: Editorial Office of CCDCW, Chinese Center for 
+Disease Control and Prevention 2022.
+
+DOI: 10.46234/ccdcw2022.110
+PMCID: PMC9257234
+PMID: 35813262
+
+Conflict of interest statement: No conflicts of interest.
+
+
+68. Ecol Evol. 2022 Jul 5;12(7):e9038. doi: 10.1002/ece3.9038. eCollection 2022
+Jul.
+
+Pace and shape of senescence in three species of duckweed.
+
+Paiha AP(1), Laird RA(1).
+
+Author information:
+(1)Department of Biological Sciences University of Lethbridge Lethbridge Alberta 
+Canada.
+
+Senescence is progressive bodily deterioration associated with declines in 
+survival and fecundity in older age classes. There is great diversity in 
+patterns of senescence across species, but these patterns can be difficult to 
+compare formally due to variation in the absolute time scales in which species 
+live and die: members of some species live for a matter of days, others for 
+millennia. To address this issue, the "pace-shape" approach was developed to 
+decouple absolute time from analyses and instead standardize life history traits 
+in terms of average life expectancy, facilitating intra- and interspecific 
+comparisons. Here, we use this approach to distinguish the generic form of 
+demographic trajectories (shape) from the time scale on which the trajectories 
+occurred (pace) in three species of tiny, free-floating aquatic plants known as 
+duckweeds (Lemna gibba L., L. minor L., and L. turionifera Landolt), which have 
+mean lifespans of less than a month under typical lab conditions, and exhibit 
+age-related declines in survivorship and reproduction. Using a randomized block 
+design in which we tracked a final total of 430 individuals, we report 
+differences in pace and shape among the three species. Specifically, the 
+largest, least-fecund, and typically longest-lived species, L. gibba, tended to 
+exhibit more rapid decreases in time-standardized survivorship and fecundity 
+compared with the other two species. This study emphasizes variation in aging 
+patterns that can be found among plant species, including those in the same 
+genus, and provides further validation for the utility of applying the pace and 
+shape approach in interspecific comparisons.
+
+© 2022 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/ece3.9038
+PMCID: PMC9254075
+PMID: 35813927
+
+Conflict of interest statement: None declared.
+
+
+69. Contrast Media Mol Imaging. 2022 Jun 13;2022:4634769. doi:
+10.1155/2022/4634769.  eCollection 2022.
+
+Efficacy of Phase II Remote Home Rehabilitation in Patients with Acute 
+Myocardial Infarction after Percutaneous Coronary Intervention.
+
+Li Z(1), Hui Z(2), Zheng Y(3), Yu J(3), Zhang J(3).
+
+Author information:
+(1)Department of Cardiac Rehabilitation, Cangzhou Teaching Hospital of Hebei 
+Medical University, Cangzhou Central Hospital, Cangzhou, Hebei, China.
+(2)ICU, Cangzhou Teaching Hospital of Hebei Medical University, Cangzhou Central 
+Hospital, Cangzhou, Hebei, China.
+(3)Department of Cardiology, Cangzhou Teaching Hospital of Hebei Medical 
+University, Cangzhou Central Hospital, Cangzhou, Hebei, China.
+
+OBJECTIVE: To assess the efficacy of home-based cardiac rehabilitation and 
+traditional outpatient rehabilitation in stage II after percutaneous coronary 
+intervention (PCI) in patients with acute myocardial infarction (AMI).
+METHODS: From September 2019 to March 2020, 80 AMI patients in Cangzhou Central 
+Hospital were randomly assigned to one of the two groups: the control group or 
+the observation group, 40 cases in each group. The control group received 
+old-fashioned outpatient rehabilitation treatment, and the study group received 
+long-distance family rehabilitation nursing intervention. The blood pressure, 
+examination results, compliance, satisfaction evaluation, incidence of cardiac 
+events, heart rate, quality of life score, and 6-minute walking test were 
+compared between the two groups.
+RESULTS: There were no deaths in both groups. There were significant differences 
+in heart failure, unstable angina pectoris, unplanned readmission rate, walking 
+compliance, and 6-minute walking test at 6 months after discharge (P < 0.05). 
+There were substantial variances in left ventricular discharge portion, 
+low-density lipoprotein, medication compliance, satisfaction, and quality of 
+life (P < 0.05); there was substantial inconsistency in the 6-minute walking 
+test concerning the two groups afterwards discharge for 3 months (P < 0.05).
+CONCLUSION: Home rehabilitation is a new home cardiac rehabilitation model with 
+high efficiency, convenience, and whole process monitoring and barrier-free 
+follow-up management. It can effectively improve the cardiac function, workout 
+patience and worth of life expectancy of victims with AMI, improve their 
+self-management awareness and rehabilitation compliance, reduce the risk of 
+cardiac events, and have a positive impact on the prognosis and rehabilitation 
+of patients with AMI.
+
+Copyright © 2022 Zhe Li et al.
+
+DOI: 10.1155/2022/4634769
+PMCID: PMC9208999
+PMID: 35815057 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.
+
+
+70. Cureus. 2022 Jul 4;14(7):e26550. doi: 10.7759/cureus.26550. eCollection 2022 
+Jul.
+
+Neuro Postural Optimization Neuromodulation Treatment of Radio Electric 
+Asymmetric Conveyer Technology on Stress and Quality of Life in 
+Institutionalized Children in a Capital City of the Brazilian Amazon.
+
+Gonçalves de Oliveira Cruz AV(1)(2)(3), Góes Gonçalves R(4)(2)(3), Nunes 
+L(1)(2)(3), Douglas Quaresma de Oliveira J(4)(2)(3), Lima Monteiro ES(5)(2)(3), 
+Soares Eneias I(6)(3), Guilherme Lima TC(7)(3), Duarte Ferreira L(7)(3), Souza 
+Neri E(5)(3), da Cunha Pena JL(7)(2), Célis de Cárdenas AM(7)(2), Côrtes Volpe 
+MI(7)(2)(3), Filgueiras de Assis Melo MV(2)(3), Rinaldi A(8)(9)(10), Pinheiro 
+Barcessat AR(7)(10)(3).
+
+Author information:
+(1)Institutional Program for Scientific Initiation Scholarships (PIBIC), Federal 
+University of Amapá (UNIFAP), Macapá, BRA.
+(2)Faculty of Nursing Department of Biological and Health Sciences (DCBS), 
+Federal University of Amapá (UNIFAP), Macapá, BRA.
+(3)Nucleus of Studies in Adaptive Neuro Psycho Physio Pathology (NPNPFPA), 
+Federal University of Amapá (UNIFAP), Macapá, BRA.
+(4)Institutional Scholarship Program for University Extension (PIBEX), Federal 
+University of Amapá (UNIFAP), Macapá, BRA.
+(5)Scientific Initiation Scholarship-Affirmative Actions (PROBIC-AF), Federal 
+University of Amapá (UNIFAP), Macapá, BRA.
+(6)Faculty of Medicine Department of Biological and Health Sciences (DCBS), 
+Federal University of Amapá (UNIFAP), Macapá, BRA.
+(7)Postgraduate Program in Health Sciences (PPGCS), Federal University of Amapá 
+(UNIFAP), Macapá, BRA.
+(8)Research Department, Rinaldi Fontani Foundation, Florence, ITA.
+(9)Department of Adaptive Neuro Psycho Physio Pathology and Neuro Psycho 
+Physical Optimization, Rinaldi Fontani Institute, Florence, ITA.
+(10)Department of Biomedical Sciences, University of Sassari, Sassari, ITA.
+
+Background The deviation from perfect bilateral symmetry is defined as 
+fluctuating asymmetry (FA) and is a common phenomenon among living organisms. 
+This deviation from perfection is thought to reflect the environmental pressures 
+experienced during development and, therefore, the FA represents an epigenetic 
+measure of the environmental stress, which affects all living beings from 
+conception, progressively affecting all aspects of life. Rinaldi and Fontani 
+hypothesized that the FA morpho-functional changes are originated by an adaptive 
+motor behavior determined by functional alterations in the cerebellum and neural 
+circuits, not caused by a lesion, but induced by the experienced environmental 
+stress. They identified in the asymmetric activation of symmetrical muscle 
+groups, detectable even in healthy subjects, the expression of the dysfunctional 
+adaptation state of the subject and named this clinical semeiotic phenomenon 
+functional dysmetria (FD). On these premises, they developed the radio electric 
+asymmetric conveyer (REAC) technology, a neuromodulation technology aimed at 
+optimizing the best neuro-psycho-motor strategies in relation to environmental 
+interaction. Neuro postural optimization (NPO) is a neurobiological stimulation 
+treatment administered with the REAC technology and it has been specifically 
+studied to treat the state of dysfunctional adaptation that is revealed through 
+the presence of FD. Aim The purpose of this study was to verify whether a single 
+administration of the REAC NPO treatment can trigger the improvement of the 
+capacity of stress management and the quality of life in a population of 
+children housed in a group home in Macapá, Brazil. Materials and methods The 
+sample of this study consisted of nine children (six boys and three girls) in 
+the age group of 6-11 years, which represented the totality of the children 
+present in the structure. The children was investigated for the assessment of 
+the presence of functional dysmetria and with the Pediatric Quality of Life 
+Inventory TM 4.0 (PedsQL) before and one week after the administration of the 
+REAC NPO. Results The stable disappearance of FD was found in all children at 
+follow-up. In addition, improvements were found in stress management and quality 
+of life, in the physical, emotional, social, and scholastic aspects evaluated 
+with PedsQL. Conclusions It was seen that the REAC NPO neurobiological 
+modulation treatment induced the stable disappearance of FD and triggered the 
+initial improvement of neurophysical aspects also in a population of children 
+housed in a group home in the Amazon region of Macapá, Brazil.
+
+Copyright © 2022, Gonçalves de Oliveira Cruz et al.
+
+DOI: 10.7759/cureus.26550
+PMCID: PMC9256006
+PMID: 35815301
+
+Conflict of interest statement: A.R. is the daughter of Salvatore Rinaldi and 
+Vania Fontani who have the patent for the REAC technology medical device
+
+
+71. Int J Technol Assess Health Care. 2022 Jul 11;38(1):e56. doi: 
+10.1017/S0266462322000356.
+
+Tisagenlecleucel for relapsed/refractory acute lymphoblastic leukemia in the 
+Irish healthcare setting: cost-effectiveness and value of information analysis.
+
+Carey N(1)(2), Leahy J(1)(2), Trela-Larsen L(1)(2), McCullagh L(1)(2), Barry 
+M(1)(2).
+
+Author information:
+(1)National Centre for Pharmacoeconomics, Old Stone Building, St James's 
+Hospital, Dublin, Ireland.
+(2)Department of Pharmacology and Therapeutics, Trinity Centre for Health 
+Sciences, St James's Hospital, Dublin, Ireland.
+
+OBJECTIVES: This study evaluates the cost-effectiveness of tisagenlecleucel (a 
+CAR T-cell therapy), versus blinatumomab, for the treatment of pediatric and 
+young adult patients with relapsed/refractory acute lymphoblastic leukemia (R/R 
+ALL) in the Irish healthcare setting. The value of conducting further research, 
+to investigate the value of uncertainty associated with the decision problem, is 
+assessed by means of expected value of perfect information (EVPI) and partial 
+EVPI (EVPPI) analyses.
+METHODS: A three-state partitioned survival model was developed. A short-term 
+decision tree partitioned patients in the tisagenlecleucel arm according to 
+infusion status. Survival was extrapolated to 60 months; general population 
+mortality with a standardized mortality ratio was then applied. Estimated EVPI 
+and EVPPI were scaled up to population according to the incidence of the 
+decision.
+RESULTS: At list prices, the incremental cost-effectiveness ratio was EUR 73,086 
+per quality-adjusted life year (QALY) (incremental costs EUR 156,928; 
+incremental QALYs 2.15). The probability of cost-effectiveness, at the 
+willingness-to-pay threshold of EUR 45,000 per QALY, was 16 percent. At this 
+threshold, population EVPI was EUR 314,455; population EVPPI was below EUR 
+100,000 for each parameter category.
+CONCLUSIONS: Tisagenlecleucel is not cost effective, versus blinatumomab, for 
+the treatment of pediatric and young adult patients with R/R ALL in Ireland (at 
+list prices). Further research to decrease decision (parameter) uncertainty, at 
+the defined willingness-to-pay threshold, may not be of value. However, there is 
+a high degree of uncertainty underpinning the analysis, which may not be 
+captured by EVPI analysis.
+
+DOI: 10.1017/S0266462322000356
+PMID: 35815435 [Indexed for MEDLINE]
+
+
+72. J Drugs Dermatol. 2022 Jul 1;21(7):783. doi: 10.36849/JDD.776.
+
+A Long-Term Study of the Safety and Efficacy of a Nutraceutical Supplement for 
+Promoting Hair Growth in Perimenopausal, Menopausal, and Postmenopausal Women.
+
+Ablon G, Kogan S, Raymond I.
+
+The prevalence of female hair loss and hair thinning increases with advancing 
+age and is most common among post-menopausal women. Recent statistics show that 
+by age 60, an estimated 80% of women experience hair loss. A previous 
+publication detailing the results of the 6-month randomized, double-blind, 
+placebo-controlled phase of this study demonstrated the ability of a 
+nutraceutical supplement to significantly improve hair growth and shedding 
+compared to placebo. Here, we present results from a subsequent 6-month, 
+open-label extension phase assessing the continued safety and efficacy of this 
+nutraceutical for promoting and improving hair growth and evaluate potential 
+long-term benefits on quality of life and menopausal symptoms. After a total of 
+12 months with the active nutraceutical, subjects had progressive improvements 
+in hair growth, quality, and shedding. Quality of life measures and menopausal 
+symptoms also improved over the duration of the study. When transitioned to 
+daily intake of the supplement, subjects previously treated with placebo 
+achieved significant increases in all hair counts, a significant decrease in 
+shedding, and significant improvement in blinded investigator global hair growth 
+and quality assessments. The results of this long-term study demonstrate that 
+continued use of a novel nutraceutical provides significant incremental 
+improvement over the beneficial effects achieved during the initial 6-month 
+randomized, placebo-controlled phase. Continued use may provide ongoing 
+improvements in hair growth and exert a positive effect on secondary symptoms of 
+menopause, and quality of life in perimenopausal, menopausal, and postmenopausal 
+women with selfperceived thinning hair (ClinicalTrials.gov Identifier: 
+NCT04048031). J Drugs Dermatol. 2022;21(7):776-783. doi:10.36849/JDD.6912.
+
+DOI: 10.36849/JDD.776
+PMID: 35816069 [Indexed for MEDLINE]
+
+
+73. Nutrition. 2022 Oct;102:111725. doi: 10.1016/j.nut.2022.111725. Epub 2022 May
+6.
+
+Improving nutrition in cystic fibrosis: A systematic literature review.
+
+Mielus M(1), Sands D(2), Woynarowski M(3).
+
+Author information:
+(1)Cystic Fibrosis Department, Institute of Mother and Child, Warsaw, Poland; 
+Cystic Fibrosis Centre, Pediatric Hospital, Dziekanów Leśny, Poland. Electronic 
+address: monika.mielus@imid.med.pl.
+(2)Cystic Fibrosis Department, Institute of Mother and Child, Warsaw, Poland; 
+Cystic Fibrosis Centre, Pediatric Hospital, Dziekanów Leśny, Poland.
+(3)Cystic Fibrosis Centre, Pediatric Hospital, Dziekanów Leśny, Poland; 
+Collegium Medicum of Jan Kochanowski University, Kielce, Poland.
+
+With increasing life expectancy of patients with cystic fibrosis (CF), 
+gastrointestinal manifestations of the disease have been increasingly brought 
+into focus. This was a systematic review of the PubMed database and ongoing 
+phase III clinical trials that aimed to summarize recent (published after June 1 
+2016) studies reporting the effects of nutritional interventions on 
+anthropometric measures (weight, height, and body mass index) in patients with 
+CF. Two ongoing trials and 40 published studies (18 interventional and 22 
+observational) were identified. Key results supported the benefits of 
+comprehensive, individualized nutritional plans, high-fat, high-calorie diet 
+including high-quality carbohydrates, and enteric tube feeding (albeit the 
+latter was derived from observational studies only). In contrast, the 
+supplementation of probiotics, lipids, docosahexaenoic, glutathione, or 
+antioxidant-enriched multivitamin appeared to have little effect on 
+anthropometric measures.
+
+Copyright © 2022 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.nut.2022.111725
+PMID: 35816813 [Indexed for MEDLINE]
+
+
+74. Ageing Res Rev. 2022 Sep;80:101683. doi: 10.1016/j.arr.2022.101683. Epub 2022
+ Jul 9.
+
+Adipose tissue and ovarian aging: Potential mechanism and protective strategies.
+
+Wu M(1), Huang Y(1), Zhu Q(1), Zhu X(1), Xue L(1), Xiong J(2), Chen Y(1), Wu 
+C(1), Guo Y(1), Li Y(1), Wu M(3), Wang S(4).
+
+Author information:
+(1)National Clinical Research Center for Obstetrical and Gynecological Diseases; 
+Department of Obstetrics and Gynecology, Tongji Hospital, Tongji Medical 
+College, Huazhong University of Science and Technology, Wuhan 430030, Hubei, 
+China; National Clinical Research Center for Obstetrical and Gynecological 
+Diseases, Wuhan, Hubei 430030, China; Key Laboratory of Cancer Invasion and 
+Metastasis, Ministry of Education, Wuhan, Hubei 430030, China.
+(2)Department of Obstetrics and Gynecology, Zhongnan Hospital of Wuhan 
+University, Wuhan, Hubei, China.
+(3)National Clinical Research Center for Obstetrical and Gynecological Diseases; 
+Department of Obstetrics and Gynecology, Tongji Hospital, Tongji Medical 
+College, Huazhong University of Science and Technology, Wuhan 430030, Hubei, 
+China; National Clinical Research Center for Obstetrical and Gynecological 
+Diseases, Wuhan, Hubei 430030, China; Key Laboratory of Cancer Invasion and 
+Metastasis, Ministry of Education, Wuhan, Hubei 430030, China. Electronic 
+address: mingfuwutj@163.com.
+(4)National Clinical Research Center for Obstetrical and Gynecological Diseases; 
+Department of Obstetrics and Gynecology, Tongji Hospital, Tongji Medical 
+College, Huazhong University of Science and Technology, Wuhan 430030, Hubei, 
+China; National Clinical Research Center for Obstetrical and Gynecological 
+Diseases, Wuhan, Hubei 430030, China; Key Laboratory of Cancer Invasion and 
+Metastasis, Ministry of Education, Wuhan, Hubei 430030, China. Electronic 
+address: sxwang@tjh.tjmu.edu.cn.
+
+Ovarian aging occurs approximately 10 years prior to the natural age-associated 
+functional decline of other organ systems. With the increase of life expectancy 
+worldwide, ovarian aging has gradually become a key health problem among women. 
+Therefore, understanding the causes and molecular mechanisms of ovarian aging is 
+very essential for the inhibition of age-related diseases and the promotion of 
+health and longevity in women. Recently, studies have revealed an association 
+between adipose tissue (AT) and ovarian aging. Alterations in the function and 
+quantity of AT have profound consequences on ovarian function because AT is 
+central for follicular development, lipid metabolism, and hormonal regulation. 
+Moreover, the interplay between AT and the ovary is bidirectional, with 
+ovary-derived signals directly affecting AT biology. In this review, we 
+summarize the current knowledge of the complex molecular mechanisms controlling 
+the crosstalk between the AT and ovarian aging, and further discuss how 
+therapeutic targeting of the AT can delay ovarian aging.
+
+Copyright © 2022 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.arr.2022.101683
+PMID: 35817297 [Indexed for MEDLINE]
+
+
+75. Fish Shellfish Immunol. 2022 Aug;127:703-714. doi: 10.1016/j.fsi.2022.07.012.
+ Epub 2022 Jul 8.
+
+The immuneoreaction and antioxidant status of Chinese mitten crab (Eriocheir 
+sinensis) involve protein metabolism and the response of mTOR signaling pathway 
+to dietary methionine levels.
+
+Wang X(1), Lei XY(1), Guo ZX(2), Wang S(1), Wan JW(3), Liu HJ(3), Chen YK(1), 
+Wang GQ(1), Wang QJ(4), Zhang DM(5).
+
+Author information:
+(1)Key Laboratory of Animal Production, Product Quality and Security, Ministry 
+of Education, Key Laboratory of Animal Nutrition and Feed Science, Jilin 
+Province, College of Animal Science and Technology, Jilin Agricultural 
+University, Changchun, 130118, China.
+(2)Tonghua Normal University, College of Life Science, Jilin, Tonghua, 134001, 
+China.
+(3)Aquatic Product Technology Extension Station of Jilin Province, Changchun, 
+130012, China.
+(4)Key Laboratory of Animal Production, Product Quality and Security, Ministry 
+of Education, Key Laboratory of Animal Nutrition and Feed Science, Jilin 
+Province, College of Animal Science and Technology, Jilin Agricultural 
+University, Changchun, 130118, China. Electronic address: wangqiuju0439@163.com.
+(5)Key Laboratory of Animal Production, Product Quality and Security, Ministry 
+of Education, Key Laboratory of Animal Nutrition and Feed Science, Jilin 
+Province, College of Animal Science and Technology, Jilin Agricultural 
+University, Changchun, 130118, China. Electronic address: 
+domgmingzhang0431@aliyun.com.
+
+To study the effects of dietary methionine on growth performance, immunity, 
+antioxidant capacity, protein metabolism, inflammatory response and apoptosis 
+factors in Chinese mitten crabs (Eriocheir sinensis). Five diets with different 
+methionine levels (0.63%, 0.85%, 1.06%, 1.25% and 1.47%) were fed to E. sinensis 
+for 8 weeks. Results showed that in the 1.25% Met group, both growth performance 
+and feed utilization were significantly increased. The crude protein content of 
+crab muscle in the 1.06% and 1.25% Met groups was significantly higher than that 
+in the control group. The immune and antioxidant enzyme activities, as well as 
+gene expression levels of anti-lipopolysaccharide factor 1 (ALF1), Crustin-1, 
+prophenoloxidase (proPO), cap 'n' collar isoform C (CncC) in 1.25% Met group 
+were significantly higher than other groups. The activities of adenosine 
+deaminase (ADA) and glutamate transaminase (GPT) in serum decreased first and 
+then increased with the increase of methionine content, while the changes of ADA 
+and GPT in hepatopancreas increased first and then decreased. 1.25% Met group 
+exhibited significantly increased levels of GOT, GPT, and ADA compared to the 
+control group. 1.25% Met diet group significantly up-regulated protein synthesis 
+and anti-apoptotic factors, and significantly down-regulated inflammatory and 
+pro-apoptotic factors in hepatopancreas. At 1.25% in the diet, methionine was 
+found to boost E. sinensis growth, muscle protein deposition and immunity, as 
+well as its antioxidant capacity. Combined with the above results, based on the 
+expression of factors involved in the mammalian target of rapamycin (mTOR) 
+signaling pathway and the mitogen-activated protein kinase (MAPK) signaling 
+pathway, it is proved that methionine can not only promote protein metabolism, 
+improve feed utilization, but also alleviate the inflammatory response and 
+apoptosis caused by oxidative stress in the body.
+
+Copyright © 2022 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fsi.2022.07.012
+PMID: 35817364 [Indexed for MEDLINE]
+
+
+76. Cell Mol Biol (Noisy-le-grand). 2022 Feb 27;67(6):68-73. doi: 
+10.14715/cmb/2021.67.6.10.
+
+Correlation analysis between CD133, Klk3 and grhl2 expression and tumor 
+characteristics in prostate cancer.
+
+Wu J(1), Guo S(1), Wang L(2), Liao Z(1).
+
+Author information:
+(1)Department of andrology, Ganzhou people's Hospital, Ganzhou, Jiangxi 341000, 
+China. bangy14077zho@126.com.
+(2)Department of Oncology, Ganxian District People's Hospital, Jiangxi Province, 
+Ganxian County, Ganzhou,Jiangxi 341100, China. bangy14077zho@126.com.
+
+Prostate cancer is a common clinical disease in men. It is known that prostate 
+cancer ranks 3rd in the incidence of malignant tumors of the male genitourinary 
+system in China, which is able to evaluate the riskiness of life expectancy of 
+male patients. Therefore, we investigated the expression of CD133, recombinant 
+human kallikrein 3 (Klk3), grainy head like 2 (grhl2) in prostate cancer, and 
+correlation with tumor characteristics in the present study. A total of 167 
+prostate cancer patients who underwent surgical treatment in our hospital from 
+February 2017 to April 2021 were selected. Their cancer and adjacent tissues 
+were resected, and CD133 was detected by double staining using 
+immunohistochemistry, Klk3 and grhl2 were detected by RT-PCR analysis, and 
+CD133, Klk3 were analyzed by Pearson's method in different clinical stages, 
+Gleason grade Correlation of grhl2 with tumor characteristics. The expression of 
+CD133, KLK3, and GRHL2 in cancer tissue was increased compared with adjacent 
+tissue (P < 0.05). The expression of CD133, KLK3, and GRHL2 increased with the 
+aggravation of the clinical stage and Gleason grade (P < 0.05). CD133, KLK3, and 
+GRHL2 showed a positive correlation in prostate cancer. The Pearson method found 
+a positive correlation between CD133, KLK3, GRHL2 and clinical stage, Gleason 
+grade, and lymph node metastasis. In general, high CD133, Klk3, and grhl2 
+expression was observed in prostate cancer and increased with the disease. They 
+presented a positive correlation in prostate cancer presence, and these three 
+gene products correlated with tumor characteristics.
+
+DOI: 10.14715/cmb/2021.67.6.10
+PMID: 35818212 [Indexed for MEDLINE]
+
+
+77. Clin Drug Investig. 2022 Aug;42(8):643-656. doi: 10.1007/s40261-022-01173-3. 
+Epub 2022 Jul 11.
+
+Cost-Effectiveness of Icosapent Ethyl, Evolocumab, Alirocumab, Ezetimibe, or 
+Fenofibrate in Combination with Statins Compared to Statin Monotherapy.
+
+Michaeli DT(1)(2)(3), Michaeli JC(4)(5), Boch T(6)(7)(8), Michaeli T(4)(6)(8).
+
+Author information:
+(1)Fifth Department of Medicine, University Hospital Mannheim, Heidelberg 
+University, Mannheim, Germany. danielmichaeli@yahoo.com.
+(2)Department of Personalized Oncology, University Hospital Mannheim, Heidelberg 
+University, Mannheim, Germany. danielmichaeli@yahoo.com.
+(3)Department of Hematology and Oncology, University Hospital Mannheim, 
+Heidelberg University, Mannheim, Germany. danielmichaeli@yahoo.com.
+(4)Fifth Department of Medicine, University Hospital Mannheim, Heidelberg 
+University, Mannheim, Germany.
+(5)Department of Obstetrics and Gynecology, Asklepios-Clinic Hamburg Altona, 
+Asklepios Hospital Group, Hamburg, Germany.
+(6)Department of Personalized Oncology, University Hospital Mannheim, Heidelberg 
+University, Mannheim, Germany.
+(7)Department of Hematology and Oncology, University Hospital Mannheim, 
+Heidelberg University, Mannheim, Germany.
+(8)Division of Personalized Medical Oncology, German Cancer Research Center 
+(DKFZ), Heidelberg, Germany.
+
+BACKGROUND: Despite treatment with statins, dyslipidaemia patients with elevated 
+cholesterol- and triglyceride-levels remain at high residual risk for major 
+adverse cardiovascular events (MACE). New lipid-lowering drugs must prevent the 
+occurrence of MACE and exhibit cost-effectiveness for their successful adoption 
+to clinical practice.
+OBJECTIVE: To assess the cost effectiveness of icosapent ethyl, fenofibrate, 
+ezetimibe, evolocumab, and alirocumab in combination with statins compared to 
+statin monotherapy for cardiovascular prevention from the perspective of UK's 
+National Health Service.
+METHODS: A Markov model simulated the progression of cardiovascular disease and 
+MACE, including myocardial infarction, stroke, angina pectoris, and coronary 
+revascularisation, in dyslipidaemia patients. The model was populated with 
+cardiovascular outcome trial data for each drug. Cost and utility data were 
+extracted from peer-reviewed literature. The incremental cost-effectiveness 
+ratio (ICER) is reported per quality-adjusted life years (QALY) gained in 2021 
+Great Britain Pounds (£).
+RESULTS: For primary cardiovascular prevention, icosapent ethyl increased QALYs 
+by 0.79 and costs by £15,421 compared to statin monotherapy (ICER = 
+£19,485/QALY). Fenofibrate yielded 0.62 additional QALYs at cost-savings of 
+- £6127 (ICER = - £9932/QALY). For secondary prevention, the omega-3 fatty acid 
+icosapent ethyl extended QALYs by 0.98 at costs of £12,981 compared to statin 
+monotherapy (ICER = £13,285/QALY). Fenofibrate added 0.85 QALYs whilst saving 
+- £637 (ICER = - £7472/QALY). Ezetimibe increased QALYs by 0.60 at cost 
+reductions of - £2529 (ICER = - £4231/QALY). PCSK9 inhibitors provided QALYs of 
+0.53 and 0.86 at costs of £45,279 and £46,375 for evolocumab (ICER = 
+£85,193/QALY) and alirocumab (ICER = £54,211/QALY), respectively. At a 
+willingness-to-pay threshold of £25,000/QALY, there is a probability of 100% for 
+icosapent ethyl (98% in primary prevention) and 0% for PCSK9 inhibitors to be 
+cost effective in secondary prevention.
+CONCLUSIONS: Icosapent ethyl is cost effective for primary and secondary 
+cardiovascular prevention at an annual price of £2064 in the UK. For PCSK9 
+inhibitors, price discounts or prescription restrictions are necessary to 
+achieve cost effectiveness.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s40261-022-01173-3
+PMCID: PMC9338124
+PMID: 35819632 [Indexed for MEDLINE]
+
+Conflict of interest statement: DM served as an advisor to NB Capital ApS. All 
+other authors declare no conflicts of interest.
+
+
+78. Environ Sci Pollut Res Int. 2022 Dec;29(58):87568-87582. doi: 
+10.1007/s11356-022-21872-w. Epub 2022 Jul 11.
+
+Beyond COP26: can income level moderate fossil fuels, carbon emissions, and 
+human capital for healthy life expectancy in Africa?
+
+Ibrahim RL(1).
+
+Author information:
+(1)University of Lagos, Akoka, Lagos State, Nigeria. lanrid23@gmail.com.
+
+The growing concerns on the need to moderate the unceasing surge in global 
+greenhouse gas (GHG) emissions believed to be detrimental to the environment and 
+wellbeing of the human race have generated concerted efforts from governments 
+and policymakers worldwide. Among many other factors, fossil fuels which remain 
+the most consumed energy resource have been identified as the primary culprit to 
+demeaning life expectancy. To this end, this study probes how income mediates 
+between fossil fuels and carbon emissions to promote life expectancy in selected 
+oil-abundant African economies from 1980 to 2019. The roles of human capital 
+through investment in education are considered in the current inquiry. The 
+empirical evidence is anchored on second-generation tests comprising 
+cross-sectional dependence, slope homogeneity, and Westerlund cointegration 
+tests. The empirical model is estimated based on advanced panel techniques 
+comprising cross-sectional dependence autoregressive distributed lag model, 
+common correlated effects mean group, augmented mean group, and quantile 
+regression. Findings from the study reveal that fossil fuels and carbon 
+emissions reduce life expectancy. Besides, income level promotes healthy life 
+expectancy while equally subduing the negative impacts of fossil fuels on it. 
+Additionally, the life-improving roles of human capital are empirically 
+confirmed. Based on the findings, withdrawing the subsidies on fossil fuels and 
+making aggregate income inclusive are among the key policies formulated.
+
+© 2022. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s11356-022-21872-w
+PMID: 35819679 [Indexed for MEDLINE]
+
+
+79. Appl Biochem Biotechnol. 2022 Dec;194(12):5767-5780. doi: 
+10.1007/s12010-022-04009-0. Epub 2022 Jul 11.
+
+Neuroprotective, Anti-inflammatory Effect of Furanochrome, Visnagin Against 
+Middle Cerebral Ischemia-Induced Rat Model.
+
+Tian Q(1), Yin H(2), Li J(2), Jiang J(2), Ren B(2), Liu J(2).
+
+Author information:
+(1)Department of Cerebrovascular Diseases Center, Linyi Traditional Chinese 
+Medical Hospital, No. 211, Jiefang Road, Lanshan District, Linyi City, 276003, 
+Shandong Province, China. qiangyuantian@hotmail.com.
+(2)Department of Cerebrovascular Diseases Center, Linyi Traditional Chinese 
+Medical Hospital, No. 211, Jiefang Road, Lanshan District, Linyi City, 276003, 
+Shandong Province, China.
+
+In recent years, the medical field had significantly progressed to a greater 
+extent which was evidenced with increased life expectancy and decreased 
+mortality rate. Due to the growth of medical field, numerous communicable 
+diseases are prevented and eradicated, whereas the non-communicable disease 
+incidence has been increased globally. One such non-communicable disease which 
+threatens the global population is stroke. Stroke tends to be the second leading 
+cause of death and disability in older population. In lower- and middle-income 
+countries, increased incidence rate of stroke was also evidenced in younger 
+population which is alarming. Lifestyle changes, poor physical activity, stress, 
+consumption of alcohol, oral contraception, and smoking tend to be the causative 
+agents of stroke. Since thrombus formation is the major pathology of stroke, 
+drugs were targeted to thrombolysis. Currently thrombolytic, antiplatelet, and 
+anticoagulant therapies were given for the stroke patients. But the recovery 
+rate of stroke patients with available drugs is very slow. Hence, it is a need 
+of today to discover a drug with increased recovery rate and decreased or nil 
+side effects. Phytochemicals are the best options to treat such non-communicable 
+chronic diseases. Visnagin is one such compound which is used to regulate blood 
+pressure, treat kidney stones, tumors of bile duct, renal colic, and whooping 
+cough. It possesses anti-inflammatory, neuroprotective, and cardioprotective 
+properties; it was also proven to treat epileptic seizures. In this study, the 
+anti-ischemic effect of a furanochrome visnagin was assessed in in vivo rat 
+model. Middle cerebral ischemic/reperfusion was induced in healthy male Sprague 
+Dawley rats and treated with different concentrations of visnagin. The 
+neuroprotective effect of visnagin against cerebral ischemia-induced rats was 
+assessed by analyzing the neurological score, brain edema, infract volume, and 
+Evans blue leakage. The anti-inflammatory property of visnagin was assessed by 
+quantifying proinflammatory cytokines in serum and brain tissues of cerebral 
+ischemia-induced rats. Prostaglandin E-2, COX-2, and NFκ-β were estimated to 
+assess the anti-ischemic effect of visnagin. Histopathological analysis with H&E 
+staining was performed to confirm the neuroprotective effect of visnagin against 
+cerebral ischemia. Our results authentically confirm that visnagin has prevented 
+the inflammation in brain region of cerebral ischemia-induced rats. The 
+neurological scoring and the quantification of PGE-2, COX-2, and NFκ-β prove the 
+anti-ischemic effect of visnagin. Furthermore, the histopathological analysis of 
+hippocampal region provides evidence to the neuroprotective effect of visnagin 
+against cerebral ischemia. Overall, our study confirms visnagin as a potent 
+alternative drug to treat stroke.
+
+© 2022. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s12010-022-04009-0
+PMID: 35819694 [Indexed for MEDLINE]
+
+

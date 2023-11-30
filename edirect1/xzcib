@@ -1,0 +1,1000 @@
+
+Nogueira P(1)(2), Urbano J(3)(4), Reis LP(3)(5), Cardoso HL(3)(4), Silva 
+DC(3)(4), Rocha AP(3)(4), Gonçalves J(6), Faria BM(3)(7).
+
+Author information:
+(1)Artificial Intelligence and Computer Science Laboratory (LIACC), Porto, 
+Portugal. pedro.alves.nogueira@fe.up.pt.
+(2)Faculty of Engineering of the University of Porto (FEUP), Porto, Portugal. 
+pedro.alves.nogueira@fe.up.pt.
+(3)Artificial Intelligence and Computer Science Laboratory (LIACC), Porto, 
+Portugal.
+(4)Faculty of Engineering of the University of Porto (FEUP), Porto, Portugal.
+(5)School of Engineering of the University of Minho (EEUM), Braga, Portugal.
+(6)EST/IPCA - Technology School/Polytechnic Institute of Cávado and Ave, 
+Barcelos, Portugal.
+(7)ESS/P.Porto - Higher School of Health/Porto Polytechnic, Porto, Portugal.
+
+With the rise in wearable technology and "health culture", we are seeing an 
+increasing interest and affordances in studying how to not only prolong life 
+expectancy but also in how to improve individuals' quality of life. On the one 
+hand, this attempts to give meaning to the increasing life expectancy, as living 
+above a certain threshold of pain and lack of autonomy or mobility is both 
+degrading and unfair. On the other hand, it lowers the cost of continuous care, 
+as individuals with high quality of life indexes tend to have lower hospital 
+readmissions or secondary complications, not to mention higher physical and 
+mental health. In this paper, we evaluate the current state of the art in 
+physiological therapy (biofeedback) along with the existing medical grade and 
+consumer grade hardware for physiological research. We provide a quick primer on 
+the most commonly monitored physiologic metrics, as well as a brief discussion 
+on the current state of the art in biofeedback-assisted medical applications. We 
+then go on to present a comparative analysis between medical and consumer grade 
+biofeedback devices and discuss the hardware specifications and potential 
+practical applications of each consumer grade device in terms of functionality 
+and adaptability for controlled (laboratory) and uncontrolled (field) studies. 
+We end this article with some empirical observations based on our study so that 
+readers might use take them into consideration when arranging a laboratory or 
+real-world experience, thus avoiding costly time delays and material 
+expenditures.
+
+DOI: 10.1007/s10916-018-0946-1
+PMID: 29667028 [Indexed for MEDLINE]
+
+
+561. Pharmacoeconomics. 2018 Jul;36(7):853-865. doi: 10.1007/s40273-018-0653-2.
+
+Cost-Effectiveness Analysis of Crohn's Disease Treatment with Vedolizumab and 
+Ustekinumab After Failure of Tumor Necrosis Factor-α Antagonist.
+
+Holko P(1), Kawalec P(2), Pilc A(2)(3).
+
+Author information:
+(1)Drug Management Department, Institute of Public Health, Faculty of Health 
+Sciences, Jagiellonian University Medical College, Grzegórzecka 20, 31-531, 
+Kraków, Poland. p.holko@peresc.com.
+(2)Drug Management Department, Institute of Public Health, Faculty of Health 
+Sciences, Jagiellonian University Medical College, Grzegórzecka 20, 31-531, 
+Kraków, Poland.
+(3)Department of Neurobiology, Polish Academy of Sciences, Smętna 12, 31-343, 
+Kraków, Poland.
+
+OBJECTIVE: The aim was to evaluate the cost-effectiveness of Crohn's disease 
+(CD) treatment with vedolizumab and ustekinumab after failure of therapy with 
+tumor necrosis factor-α antagonists (anti-TNFs).
+METHODS: The Markov model incorporated the lifetime horizon, synthesis-based 
+estimates of biologics' efficacy in relation to anti-TNF exposure, and 
+administration of biologics reflecting clinical practice (e.g., sequence of 
+biologics, retreatment, 12-month treatment). The utilities, non-medical costs 
+and indirect costs were derived from a study of 200 adult patients with CD, 
+while the healthcare costs were from a study of 1393 adults with CD who used 
+biologics in Poland. The quality-adjusted life years (QALYs) and costs (the 
+societal perspective) were discounted with the annual rates of 3.5 and 5%, 
+respectively.
+RESULTS: The addition of vedolizumab (ustekinumab) to the sequence of available 
+anti-TNFs (after first-line infliximab or after second-line adalimumab) led to a 
+gain of 0.364 (0.349) QALYs at an additional cost of €5600.24 (€6593.82). The 
+incremental cost-effectiveness ratios (ICERs) were €15,369 [95% confidence 
+interval (CI) 7496-61,354] and €18,878 (95% CI 9213-85,045) per QALY gained with 
+vedolizumab and ustekinumab, respectively. Sensitivity analyses revealed a high 
+impact on the ICERs of the relapse rate after discontinuation of biologic 
+treatment. The highest value of vedolizumab/ustekinumab was estimated after the 
+failure of therapies with both anti-TNFs.
+CONCLUSIONS: CD treatment with ustekinumab or vedolizumab after failure of 
+anti-TNF therapy appears to be cost-effective at a threshold of €31,500. The 
+replacement of the second-line anti-TNF with ustekinumab/vedolizumab and the 
+course of the disease after discontinuation of biologics are influential drivers 
+of the cost-effectiveness.
+
+DOI: 10.1007/s40273-018-0653-2
+PMCID: PMC5999163
+PMID: 29667146 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICT OF INTEREST: Przemysław Holko, Paweł 
+Kawalec, and Andrzej Pilc declare no conflict of interest. FUNDING AND ROLES: No 
+direct funding was provided for the work performed. The research was undertaken 
+as part of regular work at the Institute of Public Health. The research is part 
+of the doctoral dissertation of P.H. The study was initiated by the researchers 
+included as authors. No other persons had any influence on the work performed. 
+DATA AVAILABILITY STATEMENT: All input data of the model are presented in the 
+manuscript or the supplementary file. The model is available from the 
+corresponding author upon reasonable request.
+
+
+562. Br J Surg. 2018 Sep;105(10):1328-1337. doi: 10.1002/bjs.10857. Epub 2018 Apr
+17.
+
+Cost-utility analysis of bariatric surgery.
+
+Borisenko O(1), Lukyanov V(1), Ahmed AR(2).
+
+Author information:
+(1)Health Economics and Market Access, Synergus AB, Stockholm, Sweden.
+(2)Department of Surgery and Cancer, Imperial College London, London, UK.
+
+BACKGROUND: The objective of the study was to evaluate the cost-utility of 
+bariatric surgery in England.
+METHODS: A state-transition Markov model was developed to compare the costs and 
+outcomes of two treatment approaches for patients with morbid obesity: bariatric 
+surgery, including gastric bypass, sleeve gastrectomy and adjustable gastric 
+banding; and non-surgical usual care. Parameters of the effectiveness of surgery 
+and complications were informed by data from the UK National Bariatric Surgery 
+Registry, the Scandinavian Obesity Registry and the Swedish Obese Subjects 
+study. Costs and utilities were informed by UK sources.
+RESULTS: Bariatric surgery was associated with reduced mean costs to the health 
+service by €2742 (£1944), and gain of 0·8 life-years and 4·0 quality-adjusted 
+life-years (QALYs) over a lifetime compared with usual care. Bariatric surgery 
+also had the potential to reduce the lifetime risks of obesity-related 
+cardiovascular diseases and diabetes. Delaying surgery for up to 3 years 
+resulted in a reduction of 0·7 QALYs and a minor decrease of €2058 (£1459) in 
+associated healthcare costs.
+CONCLUSION: Currently used surgical methods were found to be cost saving over 
+the lifetime of individuals treated in England.
+
+© 2018 BJS Society Ltd Published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/bjs.10857
+PMID: 29667178 [Indexed for MEDLINE]
+
+
+563. J Med Econ. 2018 Jul;21(7):698-703. doi: 10.1080/13696998.2018.1466710. Epub
+ 2018 May 8.
+
+Cost-effectiveness analysis of suvorexant for the treatment of Japanese elderly 
+patients with chronic insomnia in a virtual cohort.
+
+Nishimura S(1)(2), Nakao M(2)(3).
+
+Author information:
+(1)a Medical Affairs, MSD K.K. , Tokyo , Japan.
+(2)b Graduate School of Public Health , Teikyo University , Tokyo , Japan.
+(3)c Division of Psychosomatic Medicine , Teikyo University Hospital , Tokyo , 
+Japan.
+
+AIMS: This study assessed the cost-effectiveness of the orexin receptor 
+antagonist suvorexant against zolpidem, the most widely used hypnotic 
+benzodiazepine receptor agonist in Japan. To this end, a model was used that 
+factored in insomnia and the risk for hip fractures, which have devastating 
+effects on the elderly.
+METHODS: Data were derived from published papers. The target population was a 
+virtual cohort of elderly patients (≥65 years) with insomnia residing in Japan. 
+Cost-effectiveness was evaluated using quality-adjusted life years (QALYs) and 
+the incremental cost-effectiveness ratio as effectiveness measures. The 
+investigators assumed the perspective of healthcare payers.
+RESULTS: In the base-case analysis, suvorexant was cost-saving (suvorexant: 
+$252.3, zolpidem: $328.7) and had higher QALYs gained (suvorexant: 0.0641, 
+zolpidem: 0.0635) for elderly Japanese patients with insomnia compared with 
+zolpidem, indicating that suvorexant was dominant. In the sensitivity analysis, 
+the outcome changed from dominant to dominated due to the relative risk for hip 
+fractures associated with suvorexant. However, when the other parameters were 
+varied from the lower to the upper limits of their ranges, suvorexant remained 
+dominant compared to zolpidem.
+LIMITATIONS: The relative risk for hip fractures for suvorexant used in the 
+model was based on data from pre-approval clinical trials. More precise data may 
+be needed.
+CONCLUSIONS: Suvorexant seemed to be more cost-effective than the alternative 
+zolpidem. The findings suggested that suvorexant might be a viable alternative 
+to zolpidem for elderly patients with insomnia. A sensitivity analysis showed 
+that outcome varied depending on the relative risk for hip fractures associated 
+with suvorexant. Further investigations may be needed for more precise results.
+
+DOI: 10.1080/13696998.2018.1466710
+PMID: 29667471 [Indexed for MEDLINE]
+
+
+564. Rejuvenation Res. 2018 Apr;21(2):168-172. doi: 10.1089/rej.2018.2073.
+
+Telomerase May Paradoxically Accelerate Aging of the DNA Methylome.
+
+Mendelsohn AR(1)(2), Larrick JW(1)(2).
+
+Author information:
+(1)1 Panorama Research Institute , Sunnyvale, California.
+(2)2 Regenerative Sciences Institute , Sunnyvale, California.
+
+DNA methylation (DNAm) clocks such as the Horvath DNAm clock provide the most 
+accurate biological determination of biological age relative to chronological 
+age available today. However, there is little correlation between DNAm clocks, 
+telomere-based aging clocks, and transcriptomic-based aging clocks. Recently, a 
+genome-wide association study identified single-nucleotide polymorphism variants 
+of TERT, the gene that encodes telomerase, as accelerating intrinsic aging in 
+the Horvath DNAm clock. These same variants have been previously associated with 
+long telomeres in leukocytes, suggesting that TERT acts paradoxically on 
+telomere-associated aging and DNAm-associated aging. In dividing fibroblasts, 
+ectopic expression of TERT accelerated the Horvath intrinsic DNAm clock. 
+However, it is little appreciated that TERT may be expressed at low levels 
+transiently in somatic cells and may play a role in chromatin maintenance and 
+DNA repair. We hypothesize that TERT may interfere with the maintenance of 
+patterns of DNA methylation in proliferating cells, perhaps by altering 
+regulators of DNA repair and maintenance of chromatin. The implications of these 
+findings for life span extension and the development of antiaging therapeutics 
+are profound.
+
+DOI: 10.1089/rej.2018.2073
+PMID: 29667924 [Indexed for MEDLINE]
+
+
+565. Health Rep. 2018 Apr 18;29(4):14-22.
+
+Health-adjusted life expectancy in Canada.
+
+Bushnik T(1), Tjepkema M(1), Martel L(2).
+
+Author information:
+(1)Health Analysis Division, Statistics Canada, Ottawa, Ontario.
+(2)Demography Division, Statistics Canada, Ottawa, Ontario.
+
+BACKGROUND: Over the past century, life expectancy at birth in Canada has risen 
+substantially. However, these gains in the quantity of life say little about 
+gains in the quality of life.
+DATA AND METHODS: Health-adjusted life expectancy (HALE), an indicator of 
+quality of life, was estimated for the household and institutional populations 
+combined every four years from 1994/1995 to 2015. Health status was measured by 
+the Health Utilities Index Mark 3 instrument in two national population health 
+surveys, and was used to adjust life expectancy. The percentage of the 
+population living in health-related institutions was estimated based on the 
+Census of Population. Attribute-deleted HALE was calculated to determine how 
+various aspects of health status contributed to the differences between life 
+expectancy and HALE.
+RESULTS: HALE has increased in Canada. Greater gains among males have narrowed 
+the gap between males and females. The ratio of HALE to life expectancy changed 
+little for males, and a marginal improvement was observed for females aged 65 or 
+older. Mobility problems and pain, the latter mainly among females, accounted 
+for an increased share of the burden of ill health over time. Exclusion of the 
+institutional population significantly increased the estimates of HALE and 
+yielded higher ratios of HALE to life expectancy.
+DISCUSSION: Although people are living longer, the share of years spent in good 
+functional health has remained fairly constant. Data for both the household and 
+institutional populations are necessary for a complete picture of health 
+expectancy in Canada.
+
+PMID: 29668029 [Indexed for MEDLINE]
+
+
+566. Med Care. 2018 Jun;56(6):529-536. doi: 10.1097/MLR.0000000000000912.
+
+Choice Defines QALYs: A US Valuation of the EQ-5D-5L.
+
+Craig BM(1), Rand K(2)(3).
+
+Author information:
+(1)Department of Economics, University of South Florida, Tampa, FL.
+(2)Department of Health Management and Health Economics, University of Oslo, 
+Oslo.
+(3)Health Services Research Centre, Akershus University Hospital, Lørenskog, 
+Norway.
+
+BACKGROUND: The 5-level version of the EQ-5D (EQ-5D-5L) was introduced as an 
+improvement on the original 3-level version (EQ-5D-3L). To date, 6 
+country-specific value sets have been published for EQ-5D-5L and 9 US value sets 
+have been published for other instruments. Our aims were to (1) produce EQ-5D-5L 
+values on a quality-adjusted life year (QALY) scale from the perspective of US 
+adults and (2) compare them with US EQ-5D-3L values and the other 
+country-specific EQ-5D-5L values.
+METHODS: In 2016, 8222 US respondents from all 50 states and Washington, DC 
+completed an online survey including a discrete choice experiment with 20 paired 
+comparisons. Each comparison asked respondents, "Which do you prefer?" regarding 
+a pair of alternatives described using EQ-5D-5L and lifespan attributes. On the 
+basis of more than 50 choices on each of the 3160 pairs, we estimated EQ-5D-5L 
+values on a QALY scale and compared them with the US EQ-5D-3L values and the 
+other country-specific EQ-5D-5L values.
+RESULTS: Ranging from -0.287 (55555) to 0.992 (11121) on a QALY scale, the 
+estimated EQ-5D-5L values were similar to the US EQ-5D-3L values. Compared with 
+the US EQ-5D-3L values, the values exhibited greater sensitivity and specificity 
+and higher correlation with the EQ-5D-5L values of other countries, particularly 
+England.
+CONCLUSIONS: Like previous US valuation studies, this study produced nationally 
+representative EQ-5D-5L values on a QALY scale. The results further demonstrate 
+the advantages of the EQ-5D-5L over its 3-level predecessor as a 
+preference-based summary measure of health-related quality of life from the 
+perspective of US adults.
+
+DOI: 10.1097/MLR.0000000000000912
+PMID: 29668646 [Indexed for MEDLINE]
+
+
+567. Surg Laparosc Endosc Percutan Tech. 2018 Jun;28(3):147-152. doi: 
+10.1097/SLE.0000000000000523.
+
+Pancreatic Neuroendocrine Neoplasms: A Role of Laparoscopy in Surgical 
+Treatment: Review.
+
+Szeliga J(1), Jackowski M.
+
+Author information:
+(1)Department of General, Gastroenterological, and Oncological Surgery Collegium 
+Medicum, Nicolaus Copernicus University, Torun, Poland.
+
+Pancreatic neuroendocrine neoplasms (PNENs) are extremely rare neoplasms of the 
+pancreas. They originate from pancreatic islet cells, and from the very 
+beginning, cancer cells may or may not show hormone hypersecretion. Currently, 
+surgical treatment is the only therapeutic method that significantly prolongs 
+life expectancy, and in such cases it is a method of choice. In the paper, a 
+review of literature based on the Medline database and including mainly the 
+period of 2013 to 2017 was performed. In each case an operating surgeon is 
+responsible for selection of a method used for surgical treatment. There is no 
+unanimous consensus with regard to selection of a surgical method. With regard 
+to surgeries performed in PNEN cases a laparoscopic approach can be used in 
+almost all procedures to treat PNENs. The analysis of oncological outcomes of 
+resection surgeries is still incomplete, but a video approach has a strong 
+position in PNEN surgery, and according to current knowledge its therapeutic 
+effects are equivalent to those of traditional surgery, and it offers general 
+benefits associated with a minimally invasive approach.
+
+DOI: 10.1097/SLE.0000000000000523
+PMID: 29668669 [Indexed for MEDLINE]
+
+
+568. J Gerontol B Psychol Sci Soc Sci. 2018 Apr 16;73(suppl_1):S20-S28. doi: 
+10.1093/geronb/gbx135.
+
+Educational Differences in the Prevalence of Dementia and Life Expectancy with 
+Dementia: Changes from 2000 to 2010.
+
+Crimmins EM(1), Saito Y(2), Kim JK(1), Zhang YS(1), Sasson I(3), Hayward MD(4).
+
+Author information:
+(1)Andrus Gerontology Center, University of Southern California, Los Angeles, 
+California.
+(2)Population Research Institute, Nihon University, Tokyo, Japan.
+(3)Department of Sociology and Anthropology, Tel Aviv University, Tel Aviv, 
+Israel.
+(4)Population Research Center, University of Texas at Austin, Austin, Texas.
+
+OBJECTIVES: This article provides the first estimates of educational differences 
+in age-specific prevalence, and changes in prevalence over time, of dementia by 
+education levels in the United States. It also provides information on life 
+expectancy, and changes in life expectancy, with dementia and cognitively 
+healthy life for educational groups.
+METHOD: Data on cognition from the 2000 and 2010 Health and Retirement Study are 
+used to classify respondents as having dementia, cognitive impairment without 
+dementia (CIND), or being cognitively intact. Vital statistics data are used to 
+estimate life tables for education groups and the Sullivan method is used to 
+estimate life expectancy by cognitive state.
+RESULTS: People with more education have lower prevalence of dementia, more 
+years of cognitively healthy life, and fewer years with dementia. Years spent in 
+good cognition increased for most sex-education groups and, conversely, years 
+spent with dementia decreased for some. Mortality reduction was the most 
+important factor in increasing cognitively healthy life. Change in the 
+distribution of educational attainment has played a major role in the reduction 
+of life with dementia in the overall population.
+DISCUSSION: Differences in the burden of cognitive loss by education point to 
+the significant cost of low social status both to individuals and to society.
+
+DOI: 10.1093/geronb/gbx135
+PMCID: PMC6019027
+PMID: 29669097 [Indexed for MEDLINE]
+
+
+569. J Gerontol B Psychol Sci Soc Sci. 2018 Apr 16;73(suppl_1):S38-S47. doi: 
+10.1093/geronb/gbx147.
+
+The Impact of Changes in Population Health and Mortality on Future Prevalence of 
+Alzheimer's Disease and Other Dementias in the United States.
+
+Zissimopoulos JM(1), Tysinger BC(2), St Clair PA(2), Crimmins EM(3).
+
+Author information:
+(1)Price School of Public Policy & Schaeffer Center, University of Southern 
+California, Los Angeles.
+(2)Schaeffer Center for Health Policy and Economics, University of Southern 
+California, Los Angeles.
+(3)Davis School of Gerontology, University of Southern California, Los Angeles.
+
+OBJECTIVES: We assessed potential benefits for older Americans of reducing risk 
+factors associated with dementia.
+METHODS: A dynamic simulation model tracked a national cohort of persons 51 and 
+52 years of age to project dementia onset and mortality in risk reduction 
+scenarios for diabetes, hypertension, and dementia.
+RESULTS: We found reducing incidence of diabetes by 50% did not reduce number of 
+years a person ages 51 or 52 lived with dementia and increased the population 
+ages 65 and older in 2040 with dementia by about 115,000. Eliminating 
+hypertension at middle and older ages increased life expectancy conditional on 
+survival to age 65 by almost 1 year, however, it increased years living with 
+dementia. Innovation in treatments that delay onset of dementia by 2 years 
+increased longevity, reduced years with dementia, and decreased the population 
+ages 65 and older in 2040 with dementia by 2.2 million.
+CONCLUSIONS: Prevention of chronic disease may generate health and longevity 
+benefits but does not reduce burden of dementia. A focus on treatments that 
+provide even short delays in onset of dementia can have immediate impacts on 
+longevity and quality of life and reduce the number of Americans with dementia 
+over the next decades.
+
+DOI: 10.1093/geronb/gbx147
+PMCID: PMC6019010
+PMID: 29669100 [Indexed for MEDLINE]
+
+
+570. N Engl J Med. 2018 Apr 19;378(16):1557-1558. doi: 10.1056/NEJMc1800328.
+
+Troubling Trends in Health Disparities.
+
+Bilal U(1), Diez-Roux AV(1).
+
+Author information:
+(1)Drexel Dornsife School of Public Health, Philadelphia, PA ubilal@drexel.edu.
+
+DOI: 10.1056/NEJMc1800328
+PMID: 29669223 [Indexed for MEDLINE]
+
+
+571. Cardiovasc Diabetol. 2018 Apr 18;17(1):59. doi: 10.1186/s12933-018-0704-1.
+
+The role of dipeptidylpeptidase-4 inhibitors in management of cardiovascular 
+disease in diabetes; focus on linagliptin.
+
+Aroor AR(1)(2)(3), Manrique-Acevedo C(1)(2)(3), DeMarco VG(4)(5)(6)(7).
+
+Author information:
+(1)Diabetes and Cardiovascular Center, University of Missouri School of 
+Medicine, Columbia, MO, USA.
+(2)Division of Endocrinology and Metabolism, Department of Medicine, University 
+of Missouri-Columbia School of Medicine, One Hospital Drive, Columbia, MO, 
+65212, USA.
+(3)Research Service, Harry S. Truman Memorial Veterans Hospital, Columbia, MO, 
+USA.
+(4)Diabetes and Cardiovascular Center, University of Missouri School of 
+Medicine, Columbia, MO, USA. demarcov@missouri.edu.
+(5)Division of Endocrinology and Metabolism, Department of Medicine, University 
+of Missouri-Columbia School of Medicine, One Hospital Drive, Columbia, MO, 
+65212, USA. demarcov@missouri.edu.
+(6)Research Service, Harry S. Truman Memorial Veterans Hospital, Columbia, MO, 
+USA. demarcov@missouri.edu.
+(7)Department of Medical Pharmacology and Physiology, University of Missouri, 
+Columbia, MO, USA. demarcov@missouri.edu.
+
+Multiple population based analyses have demonstrated a high incidence of 
+cardiovascular disease (CVD) and cardiovascular (CV) mortality in subjects with 
+T2DM that reduces life expectancy by as much as 15 years. Importantly, the CV 
+system is particularly sensitive to the metabolic and immune derangements 
+present in obese pre-diabetic and diabetic individuals; consequently, CV 
+dysfunction is often the initial CV derangement to occur and promotes the 
+progression to end organ/tissue damage in T2DM. Specifically, diabetic CVD can 
+manifest as microvascular complications, such as nephropathy, retinopathy, and 
+neuropathy, as well as, macrovascular impairments, including ischemic heart 
+disease, peripheral vascular disease, and cerebrovascular disease. Despite some 
+progress in prevention and treatment of CVD, mainly via blood pressure and 
+dyslipidemia control strategies, the impact of metabolic disease on CV outcomes 
+is still a major challenge and persists in proportion to the epidemics of 
+obesity and diabetes. There is abundant pre-clinical and clinical evidence 
+implicating the DPP-4-incretin axis in CVD. In this regard, linagliptin is a 
+unique DPP-4 inhibitor with both CV and renal safety profiles. Moreover, it 
+exerts beneficial CV effects beyond glycemic control and beyond class effects. 
+Linagliptin is protective for both macrovascular and microvascular complications 
+of diabetes in preclinical models, as well as clinical models. Given the role of 
+endothelial-immune cell interactions as one of the key events in the initiation 
+and progression of CVD, linagliptin modulates these cell-cell interactions by 
+affecting two important pathways involving stimulation of NO signaling and 
+potent inhibition of a key immunoregulatory molecule.
+
+DOI: 10.1186/s12933-018-0704-1
+PMCID: PMC5907287
+PMID: 29669555 [Indexed for MEDLINE]
+
+
+572. J Med Internet Res. 2018 Apr 18;20(4):e122. doi: 10.2196/jmir.8954.
+
+Physical Activity, Sedentary Behavior, and Diet-Related eHealth and mHealth 
+Research: Bibliometric Analysis.
+
+Müller AM(1)(2), Maher CA(3), Vandelanotte C(4), Hingle M(5), Middelweerd A(6), 
+Lopez ML(7), DeSmet A(8)(9), Short CE(10), Nathan N(11)(12)(13), Hutchesson 
+MJ(14), Poppe L(8)(9), Woods CB(15), Williams SL(4), Wark PA(16).
+
+Author information:
+(1)Domain: Health Systems & Behavioural Sciences, Saw Swee Hock School of Public 
+Healh, National University of Singapore, Singapore, Singapore.
+(2)Sports Centre, University of Malaya, Kuala Lumpur, Malaysia.
+(3)School of Health Sciences, University of South Australia, Adelaide, 
+Australia.
+(4)Physical Activity Research Group, School of Health, Medical and Applied 
+Sciences, Central Queensland University, Rockhampton, Australia.
+(5)Department of Nutritional Sciences, College of Agriculture and Life Sciences, 
+The University of Arizona, Tucson, AZ, United States.
+(6)EMGO Institute for Health and Care Research, Department of Epidemiology and 
+Biostatistics, VU University Medical Centre, Amsterdam, Netherlands.
+(7)Texas A&M AgriLife Extension Service, Texas A&M University, College Station, 
+TX, United States.
+(8)Department of Movement and Sports Sciences, Faculty of Medicine and Health 
+Sciences, Ghent University, Ghent, Belgium.
+(9)Research Foundation Flanders, Brussels, Belgium.
+(10)Freemasons Foundation Centre for Men's Health, Faculty of Health Sciences, 
+University of Adelaide, Adelaide, Australia.
+(11)Priority Research Centre for Health Behaviour, School of Medicine and Public 
+Health, The University of Newcastle Australia, Newcastle, Australia.
+(12)Hunter New England Population Health, Hunter New England Area Health 
+Service, Newcastle, Australia.
+(13)Hunter Medical Research Institute, Newcastle, Australia.
+(14)Priority Research Centre in Physical Activity and Nutrition, School of 
+Health Sciences, The University of Newcastle Australia, Newcastle, Australia.
+(15)Department of Physical Education and Sports Sciences, Faculty of Education 
+and Health Sciences, University of Limerick, Limerick, Ireland.
+(16)Centre for Innovative Research Across the Life Course, Faculty of Health and 
+Life Sciences, Coventry University, Coventry, United Kingdom.
+
+BACKGROUND: Electronic health (eHealth) and mobile health (mHealth) approaches 
+to address low physical activity levels, sedentary behavior, and unhealthy diets 
+have received significant research attention. However, attempts to 
+systematically map the entirety of the research field are lacking. This gap can 
+be filled with a bibliometric study, where publication-specific data such as 
+citations, journals, authors, and keywords are used to provide a systematic 
+overview of a specific field. Such analyses will help researchers better 
+position their work.
+OBJECTIVE: The objective of this review was to use bibliometric data to provide 
+an overview of the eHealth and mHealth research field related to physical 
+activity, sedentary behavior, and diet.
+METHODS: The Web of Science (WoS) Core Collection was searched to retrieve all 
+existing and highly cited (as defined by WoS) physical activity, sedentary 
+behavior, and diet related eHealth and mHealth research papers published in 
+English between January 1, 2000 and December 31, 2016. Retrieved titles were 
+screened for eligibility, using the abstract and full-text where needed. We 
+described publication trends over time, which included journals, authors, and 
+countries of eligible papers, as well as their keywords and subject categories. 
+Citations of eligible papers were compared with those expected based on 
+published data. Additionally, we described highly-cited papers of the field (ie, 
+top ranked 1%).
+RESULTS: The search identified 4805 hits, of which 1712 (including 42 
+highly-cited papers) were included in the analyses. Publication output increased 
+on an average of 26% per year since 2000, with 49.00% (839/1712) of papers being 
+published between 2014 and 2016. Overall and throughout the years, eHealth and 
+mHealth papers related to physical activity, sedentary behavior, and diet 
+received more citations than expected compared with papers in the same WoS 
+subject categories. The Journal of Medical Internet Research published most 
+papers in the field (9.58%, 164/1712). Most papers originated from high-income 
+countries (96.90%, 1659/1717), in particular the United States (48.83%, 
+836/1712). Most papers were trials and studied physical activity. Beginning in 
+2013, research on Generation 2 technologies (eg, smartphones, wearables) sharply 
+increased, while research on Generation 1 (eg, text messages) technologies 
+increased at a reduced pace. Reviews accounted for 20 of the 42 highly-cited 
+papers (n=19 systematic reviews). Social media, smartphone apps, and wearable 
+activity trackers used to encourage physical activity, less sedentary behavior, 
+and/or healthy eating were the focus of 14 highly-cited papers.
+CONCLUSIONS: This study highlighted the rapid growth of the eHealth and mHealth 
+physical activity, sedentary behavior, and diet research field, emphasized the 
+sizeable contribution of research from high-income countries, and pointed to the 
+increased research interest in Generation 2 technologies. It is expected that 
+the field will grow and diversify further and that reviews and research on most 
+recent technologies will continue to strongly impact the field.
+
+©Andre Matthias Müller, Carol A Maher, Corneel Vandelanotte, Melanie Hingle, 
+Anouk Middelweerd, Michael L Lopez, Ann DeSmet, Camille E Short, Nicole Nathan, 
+Melinda J Hutchesson, Louise Poppe, Catherine B Woods, Susan L Williams, Petra A 
+Wark. Originally published in the Journal of Medical Internet Research 
+(http://www.jmir.org), 18.04.2018.
+
+DOI: 10.2196/jmir.8954
+PMCID: PMC5932335
+PMID: 29669703 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: CV is listed in the 
+manuscript as the author with the most publications in the field as well as most 
+highly cited publications. His input was mostly conceptual, and he was only one 
+of numerous contributors to the development of the search strategy and inclusion 
+and exclusion criteria. He did not conduct any data analyses. He, therefore, did 
+not willingly influence the results.
+
+
+573. Int J Environ Res Public Health. 2018 Apr 18;15(4):789. doi: 
+10.3390/ijerph15040789.
+
+Indigenous Health and Human Rights: A Reflection on Law and Culture.
+
+Mazel O(1).
+
+Author information:
+(1)Melbourne Law School and Faculty of Medicine, Dentistry and Health Sciences, 
+The University of Melbourne, Carlton 3010, Australia. omazel@unimelb.edu.au.
+
+In Australia, Aboriginal and Torres Strait Islander peoples bear a greater 
+burden of disease and have lower life expectancy than their non-Indigenous 
+counterparts. These combined indicators are evidence of an entrenched health 
+crisis in the Indigenous population that is linked to systemic disadvantage over 
+many decades. In an effort to improve life expectancy and lessen the burden of 
+disease, a number of strategies and national frameworks now embed a human 
+rights-based approach to achieving health equality. This paper explores the 
+application of human rights to Indigenous health and examines the inherent 
+tensions that exist in engaging a system of law based on universal assumptions 
+of the Enlightenment to advance Indigenous rights. What becomes apparent through 
+this exploration is that the strategic approach of Indigenous peoples&rsquo; use 
+of human rights, despite its genesis in a system of law that justified 
+colonisation, has opened up opportunities to reframe fixed ideas of law and 
+culture.
+
+DOI: 10.3390/ijerph15040789
+PMCID: PMC5923831
+PMID: 29670026 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author declares no conflict of interest.
+
+
+574. Int J Chron Obstruct Pulmon Dis. 2018 Apr 4;13:1079-1088. doi: 
+10.2147/COPD.S159103. eCollection 2018.
+
+Cost-effectiveness analysis of a fixed-dose combination of indacaterol and 
+glycopyrronium as maintenance treatment for COPD.
+
+Chan MC(#)(1), Tan EC(2), Yang MC(#)(3).
+
+Author information:
+(1)Section of Chest Medicine, Department of Internal Medicine, Taichung Veterans 
+General Hospital, Taichung, Taiwan, Republic of China.
+(2)National Research Institute of Chinese Medicine, Ministry of Health and 
+Welfare, Taipei, Taiwan, Republic of China.
+(3)Institute of Health Policy and Management, National Taiwan University, 
+Taipei, Taiwan, Republic of China.
+(#)Contributed equally
+
+OBJECTIVE: The aim of this study was to evaluate the cost-effectiveness of the 
+long-acting beta-2 agonist (LABA)/long-acting muscarinic antagonist (LAMA) dual 
+bronchodilator indacaterol/glycopyrronium (IND/GLY) as a maintenance treatment 
+for COPD patients from the perspective of health care payer in Taiwan.
+PATIENTS AND METHODS: We adopted a patient-level simulation model, which 
+included a cohort of COPD patients aged ≥40 years. The intervention used in the 
+study was the treatment using IND/GLY, and comparators were tiotropium or 
+salmeterol/fluticasone combination (SFC). Data related to the efficacy of drugs, 
+incidence of exacerbation, and utility were obtained from clinical studies. 
+Direct costs were estimated from claims data based on the severity of COPD. The 
+cycle length was 6 months (to match forced expiratory volume in 1 second [FEV1] 
+data), and the time horizons included 1, 3, 5, 10 years, and lifetime. 
+Deterministic and probabilistic sensitivity analyses were conducted to test the 
+robustness of the model results. Costs were expressed in US dollars with a 
+discount rate of 3.0%.
+RESULTS: Compared to tiotropium and SFC, the incremental cost-effectiveness 
+ratios (ICERs) per quality-adjusted life year (QALY) gained of patients treated 
+with IND/GLY were US$5,987 and US$14,990, respectively. One-way sensitivity 
+analysis revealed that the improvement in FEV1 provided by IND/GLY, the 
+distribution of patients with regard to the severity of COPD, and acute 
+exacerbation rate ratio were the key drivers behind cost-effectiveness. Adopting 
+a willingness to pay of US$60,000 per QALY gained as the threshold, there was a 
+98.7% probability that IND/GLY was cost-effective compared to tiotropium. 
+Similarly, there was a 99.9% probability that IND/GLY was cost-effective 
+compared to SFC.
+CONCLUSION: As a maintenance treatment for COPD, we consider the dual 
+bronchodilator IND/GLY as a cost-effective strategy when compared to either 
+tiotropium or SFC.
+
+DOI: 10.2147/COPD.S159103
+PMCID: PMC5894684
+PMID: 29670344 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors report no conflicts of 
+interest in this work.
+
+
+575. Onco Targets Ther. 2018 Apr 4;11:1885-1889. doi: 10.2147/OTT.S153122. 
+eCollection 2018.
+
+Long-term survival with transarterial chemoembolization and radioembolization in 
+a patient with cancers of unknown primary.
+
+Aktas G(1), Kus T(2), Metin T(3), Kervancioglu S(4), Elboga U(5).
+
+Author information:
+(1)Department of Internal Medicine, Division of Medical Oncology, School of 
+Medicine, University of Kahramanmaras Sutcu Imam, Kahramanmaraş, Turkey.
+(2)Division of Medical Oncology, Adiyaman Training and Research Hospital, 
+Adiyaman, Turkey.
+(3)Department of Internal Medicine, School of Medicine, Gaziantep Oncology 
+Hospital, University of Gaziantep, Gaziantep, Turkey.
+(4)Department of Radiology, Faculty of Medicine, University of Gaziantep, 
+Gaziantep, Turkey.
+(5)Department of Nuclear Medicine, Faculty of Medicine, University of Gaziantep, 
+Gaziantep, Turkey.
+
+Cancers of unknown primary (CUP) are histologically proven metastatic malignant 
+tumors without an identified primary site before treatment. The common 
+characteristics are early dissemination, lower response to chemotherapy and poor 
+prognosis with short life expectancy. Treatment was directed according to the 
+presence of localized or disseminated disease. The most frequent site of 
+metastasis is the liver, which is a suitable target organ for arterial-directed 
+therapies. We report a case of 53-year-old woman who was diagnosed with CUP and 
+suspected with intracellular cholangiocellular carcinoma (ICC), presented with a 
+very large, unresectable, chemotherapy-refractory hepatic mass and treated with 
+transarterial chemoembolization and transarterial radioembolization and 
+surprisingly followed for 48 months with minimally progressive and stable 
+disease. Arterial-directed therapies, an important therapeutic option in 
+unresectable liver tumors, can provide survival benefit even for ICC and CUP 
+which are very large in size.
+
+DOI: 10.2147/OTT.S153122
+PMCID: PMC5894720
+PMID: 29670363
+
+Conflict of interest statement: Disclosure The authors report no conflicts of 
+interest in this work.
+
+
+576. Eur J Health Econ. 2018 Dec;19(9):1207-1211. doi: 10.1007/s10198-018-0975-1.
+
+What should we know about the person behind a TTO?
+
+van Nooten F(1), Busschbach J(2), van Agthoven M(3), van Exel J(1), Brouwer 
+W(4)(5).
+
+Author information:
+(1)Erasmus School of Health Policy and Management, Erasmus University Rotterdam, 
+Rotterdam, The Netherlands.
+(2)Section Medical Psychology and Psychotherapy, Department of Psychiatry, 
+Erasmus MC, Rotterdam, The Netherlands.
+(3)Janssen-Cilag BV, Tilburg, The Netherlands.
+(4)Erasmus School of Health Policy and Management, Erasmus University Rotterdam, 
+Rotterdam, The Netherlands. brouwer@eshpm.eur.nl.
+(5)Institute for Medical Technology Assessment, Erasmus University Rotterdam, 
+Rotterdam, The Netherlands. brouwer@eshpm.eur.nl.
+
+DOI: 10.1007/s10198-018-0975-1
+PMID: 29671142 [Indexed for MEDLINE]
+
+
+577. Przegl Lek. 2016;73(6):392-4.
+
+[Why women live longer than men? Review of biological and non-biological 
+factors].
+
+[Article in Polish]
+
+Gryclewska B.
+
+Males have a significantly higher mortality rate, which shortens their life 
+expectancy in comparison with that of woman. The article discusses biological, 
+social, behavioral and evolutionary factors which may explain the differences of 
+life expectancies between sexes.
+
+PMID: 29671299 [Indexed for MEDLINE]
+
+
+578. Przegl Lek. 2016;73(6):399-401.
+
+[Coronary artery disease in women – how to prevent heart failure after 
+myocardial infarction?].
+
+[Article in Polish]
+
+Kornacewicz-Jach Z.
+
+Cardiovascular disease has been the most common cause of death and disability in 
+women. The prevelence of cardiovascular diseases in women increases dramatically 
+with age as the population ages and women’s life expectancy inareases. Compared 
+with men, women with coronary artery diseases are older and more likely to have 
+hyprtension, diabetes and congestive heart failure. Principles of diagnostic and 
+therapeutic management of women are similar to those in men. Clinical trials 
+focusing on treatment alternatives in women have demonstrated improvements in 
+outcomes with advances in technologies and contemporary therapies. All efforts 
+should be focused on the proper screening, prevention and referral for treatment 
+of women with coronary artery disease in order to impact the increasing 
+mortality from heart failure.
+
+PMID: 29671301 [Indexed for MEDLINE]
+
+
+579. Przegl Lek. 2016;73(6):402-6.
+
+[Heart failure in elderly women. How to treat?].
+
+[Article in Polish]
+
+Chomik S, Hoffman P.
+
+Cardiovascular disease is the leading cause of death among women in developed 
+countries. Almost one-third of cardiovascular deaths are related to heart 
+failure (HF). The prevalence of HF increases dynamically with advancing age, 
+from 1% among population of 50 years of age to over 10% among individuals of 
+70-80 years or older. Women already represent the majority of HF patients and 
+taking into consideration their longer life expectancy compared to men 
+population, these proportions are likely to grow further. From the other hand 
+this dominant position of women in the HF segment is under- -recognized and 
+under-represented in clinical studies. Elderly women with HF are frequently 
+excluded from clinical trials because of their relatively higher comorbidity 
+compared to men population thus substantial uncertainty remains regarding 
+efficacy and safety of HF treatment in this population.
+
+PMID: 29671302 [Indexed for MEDLINE]
+
+
+580. Am Fam Physician. 2018 Mar 1;97(5):Online.
+
+Life Expectancy with Hospice Care.
+
+Eichelberger T(1), Shadiack A(1).
+
+Author information:
+(1)Ocala Health, Ocala, FL, USA.
+
+PMID: 29671507 [Indexed for MEDLINE]
+
+
+581. Aging Cell. 2018 Aug;17(4):e12740. doi: 10.1111/acel.12740. Epub 2018 Apr
+19.
+
+Comparative transcriptomics across 14 Drosophila species reveals signatures of 
+longevity.
+
+Ma S(1)(2), Avanesov AS(1), Porter E(1), Lee BC(1)(3), Mariotti M(1)(4), 
+Zemskaya N(5), Guigo R(4), Moskalev AA(5)(6)(7), Gladyshev VN(1)(8).
+
+Author information:
+(1)Division of Genetics, Department of Medicine, Brigham and Women's Hospital, 
+Harvard Medical School, Boston, MA, USA.
+(2)Genome Institute of Singapore, A*STAR, Singapore City, Singapore.
+(3)College of Life Sciences and Biotechnology, Korea University, Seoul, South 
+Korea.
+(4)Bioinformatics and Genomics Program, Centre for Genomic Regulation and 
+Universitat Pompeu Fabra, Barcelona, Spain.
+(5)Institute of Biology, Komi Science Center, Russian Academy of Sciences, 
+Syktyvkar, Russia.
+(6)Moscow Institute of Physics and Technology, Dolgoprudny, Moscow Region, 
+Russia.
+(7)Engelhardt Institute of Molecular Biology, Russian Academy of Sciences, 
+Moscow, Russia.
+(8)Belozersky Institute of Physico-Chemical Biology, Moscow State University, 
+Moscow, Russia.
+
+Lifespan varies dramatically among species, but the biological basis is not well 
+understood. Previous studies in model organisms revealed the importance of 
+nutrient sensing, mTOR, NAD/sirtuins, and insulin/IGF1 signaling in lifespan 
+control. By studying life-history traits and transcriptomes of 14 Drosophila 
+species differing more than sixfold in lifespan, we explored expression 
+divergence and identified genes and processes that correlate with longevity. 
+These longevity signatures suggested that longer-lived flies upregulate fatty 
+acid metabolism, downregulate neuronal system development and activin signaling, 
+and alter dynamics of RNA splicing. Interestingly, these gene expression 
+patterns resembled those of flies under dietary restriction and several other 
+lifespan-extending interventions, although on the individual gene level, there 
+was no significant overlap with genes previously reported to have 
+lifespan-extension effects. We experimentally tested the lifespan regulation 
+potential of several candidate genes and found no consistent effects, suggesting 
+that individual genes generally do not explain the observed longevity patterns. 
+Instead, it appears that lifespan regulation across species is modulated by 
+complex relationships at the system level represented by global gene expression.
+
+© 2018 The Authors. Aging Cell published by the Anatomical Society and John 
+Wiley & Sons Ltd.
+
+DOI: 10.1111/acel.12740
+PMCID: PMC6052463
+PMID: 29671950 [Indexed for MEDLINE]
+
+
+582. J Agric Food Chem. 2018 May 23;66(20):5041-5054. doi:
+10.1021/acs.jafc.7b06055.  Epub 2018 May 15.
+
+Chemical Modifications of Lipids and Proteins by Nonthermal Food Processing 
+Technologies.
+
+Pérez-Andrés JM(1)(2), Charoux CMG(1)(3), Cullen PJ(2)(4), Tiwari BK(1).
+
+Author information:
+(1)Food Chemistry and Technology , Teagasc Food Research Centre , Dublin 3 , 
+Ireland.
+(2)BioPlasma Research Group, School of Food Science and Environmental Health , 
+Dublin Institute of Technology , Cathal Brugha Street , Dublin 1 , Ireland.
+(3)School of Biosystems and Food Engineering , University College Dublin , 
+Dublin 4 , Ireland.
+(4)Department of Chemical and Environmental Engineering , University of 
+Nottingham , Nottingham , NG7 2RD , U.K.
+
+A range of nonthermal techniques have demonstrated process efficacy in ensuring 
+product safety, extension of shelf life, and in general a retention of key 
+quality attributes. However, various physical, chemical and biochemical effects 
+of nonthermal techniques on macro and micro nutrients are evident, leading to 
+both desirable and undesirable changes in food products. The objective of this 
+review is to outline the effects of nonthermal techniques on food chemistry and 
+the associated degradation mechanisms with the treatment of foods. Oxidation is 
+one of the key mechanisms responsible for undesirable effects induced by 
+nonthermal techniques. Degradation of key macromolecules largely depends on the 
+processing conditions employed. Various extrinsic and intrinsic control 
+parameters of high-pressure processing, pulsed electric field, ultrasound 
+processing, and cold atmospheric plasma on chemistry of processed food are 
+outlined. Proposed mechanisms and associated degradation of macromolecules, 
+i.e., proteins, lipids, and bioactive molecules resulting in food quality 
+changes are also discussed.
+
+DOI: 10.1021/acs.jafc.7b06055
+PMID: 29672043 [Indexed for MEDLINE]
+
+
+583. DNA Cell Biol. 2018 Jun;37(6):535-542. doi: 10.1089/dna.2018.4161. Epub 2018
+Apr  19.
+
+Unlike Butylcycloheptylprodigiosin, Isolated Undecylprodigiosin from 
+Streptomyces parvulus Is Not a MDR1 and BCRP Substrate in Multidrug-Resistant 
+Cancers.
+
+Mirzaei SA(1)(2), Safari Kavishahi M(1), Keshavarz Z(1), Elahian F(1)(2).
+
+Author information:
+(1)1 Department of Medical Biotechnology, School of Advanced Technologies, 
+Shahrekord University of Medical Sciences , Shahrekord, Iran .
+(2)2 Cellular and Molecular Research Center, Basic Health Sciences Institute, 
+Shahrekord University of Medical Sciences , Shahrekord, Iran .
+
+The search for new chemotherapeutics unaffected by efflux pumps would 
+significantly increase life expectancy in patients with malignant cancers. In 
+this study, butylcycloheptylprodigiosin and undecylprodigiosin were 
+HPLC-purified and verified, using nuclear magnetic resonance spectroscopy. Cell 
+cytotoxicity and transportation kinetics on multiple-drug resistance (MDR) cells 
+were evaluated. Daunorubicin and butylcycloheptylprodigiosin were less toxic in 
+the MDR1 overexpressing line, but undecylprodigiosin revealed potent toxicity 
+toward MDR1 and BCRP expressing malignant cells. There was no noticeable change 
+in MDR1 and BCRP transcripts during 3 days of treatment with prodiginines. While 
+daunorubicin and mitoxantrone uptake from the cell environment significantly 
+decreased with increasing multidrug resistance up to 46% and 62%, respectively, 
+the accumulation of undecylprodigiosin and to a lesser extent 
+butylcycloheptylprodigiosin in the resistance cells occurred cell- and 
+dose-dependently via a passive diffusion process and were almost equally 
+sensitive to the parent lines. The efflux of xenobiotics commenced immediately 
+with different kinetics in various cells. A greater amount of daunorubicin and 
+mitoxantrone were rapidly thrown out of their corresponding MDR cells in the 
+absence of the specific inhibitor (3.01 and 1.81 dF/min, respectively) and 
+represented functional efflux pumps. MDR pumps did not apparently influence 
+undecylprodigiosin efflux patterns; but butylcycloheptylprodigiosin was 
+partially removed from EPG85.257RDB cells at the rate of 2.66 and 1.41 dF/min in 
+the absence and presence of verapamil, respectively.
+
+DOI: 10.1089/dna.2018.4161
+PMID: 29672160 [Indexed for MEDLINE]
+
+
+584. J Occup Environ Med. 2018 Aug;60(8):683-687. doi:
+10.1097/JOM.0000000000001343.
+
+Cost Effectiveness of a Weight Management Program Implemented in the Worksite: 
+Translation of Fuel Your Life.
+
+Corso PS(1), Ingels JB, Padilla HM, Zuercher H, DeJoy DM, Vandenberg RJ, Wilson 
+MG.
+
+Author information:
+(1)College of Public Health (Dr Corso, Mr Ingels, Ms Padilla, Ms Zuercher, Dr 
+Dejoy, Dr Wilson); Terry College of Business (Dr Vandenberg), University of 
+Georgia, Athens, Georgia.
+
+OBJECTIVE: Conduct a cost-effectiveness analysis of the Fuel Your Life (FYL) 
+program dissemination.
+METHODS: Employees were recruited from three workplaces randomly assigned to one 
+of the conditions: telephone coaching, small group coaching, and self-study. 
+Costs were collected prospectively during the efficacy trial. The main outcome 
+measures of interest were weight loss and quality-adjusted life years (QALYs).
+RESULTS: The phone condition was most costly ($601 to $589/employee) and the 
+self-study condition was least costly ($145 to $143/employee). For weight loss, 
+delivering FYL through the small group condition was no more effective, yet more 
+expensive, than the self-study delivery. For QALYs, the group delivery of FYL 
+was in an acceptable cost-effectiveness range ($22,400/QALY) relative to 
+self-study (95% confidence interval [CI]: $10,600/QALY-dominated).
+CONCLUSIONS: Prevention programs require adaptation at the local level and 
+significantly affect the cost, effectiveness, and cost-effectiveness of the 
+program.
+
+DOI: 10.1097/JOM.0000000000001343
+PMCID: PMC6086753
+PMID: 29672341 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest statement: None declared.
+
+
+585. Eur J Cardiothorac Surg. 2018 Oct 1;54(4):729-737. doi:
+10.1093/ejcts/ezy165.
+
+Amaze: a randomized controlled trial of adjunct surgery for atrial fibrillation.
+
+Nashef SAM(1), Fynn S(2), Abu-Omar Y(1), Spyt TJ(3), Mills C(4), Everett CC(5), 
+Fox-Rushby J(6), Singh J(6), Dalrymple-Hay M(7), Sudarshan C(1), Codispoti M(1), 
+Braidley P(8), Wells FC(1), Sharples LD(9).
+
+Author information:
+(1)Department of Surgery, Papworth Hospital, Cambridge, UK.
+(2)Department of Cardiology, Papworth Hospital, Cambridge, UK.
+(3)Department of Cardiothoracic Surgery, Glenfield Hospital, Leicester, UK.
+(4)Research and Development, Papworth Hospital, Cambridge, UK.
+(5)Clinical Trials Unit, University of Leeds, Leeds, UK.
+(6)Department of Health Economics, Brunel University, London, UK.
+(7)Department of Cardiothoracic Surgery, Plymouth Hospital, Derriford Hospital, 
+Plymouth, UK.
+(8)Department of Cardiothoracic Surgery, Northern General Hospital, Sheffield, 
+UK.
+(9)Department of Medical Statistics, London School of Hygiene and Tropical 
+Medicine, London, UK.
+
+OBJECTIVES: Atrial fibrillation (AF) reduces survival and quality of life (QoL). 
+It can be treated at the time of major cardiac surgery using ablation procedures 
+ranging from simple pulmonary vein isolation to a full maze procedure. The aim 
+of this study is to evaluate the impact of adjunct AF surgery as currently 

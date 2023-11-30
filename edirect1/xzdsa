@@ -1,0 +1,1000 @@
+terms of the Creative Commons Attribution CC BY 4.0 licence, which permits 
+unrestricted use, distribution, reproduction and adaption in any medium and for 
+any purpose provided that it is properly attributed. See: 
+https://creativecommons.org/licenses/by/4.0/. For attribution the title, 
+original author(s), the publication source – NIHR Journals Library, and the DOI 
+of the publication must be cited.
+
+DOI: 10.3310/ULTI9178
+PMID: 35289990
+
+
+418. J Chem Theory Comput. 2022 Apr 12;18(4):2354-2366. doi: 
+10.1021/acs.jctc.1c00821. Epub 2022 Mar 15.
+
+Transferable Neural Network Potential Energy Surfaces for Closed-Shell Organic 
+Molecules: Extension to Ions.
+
+Jacobson LD(1), Stevenson JM(1), Ramezanghorbani F(1), Ghoreishi D(1), Leswing 
+K(1), Harder ED(1), Abel R(1).
+
+Author information:
+(1)Schrödinger Inc., 1540 Broadway, 24th floor, New York, New York 10036, United 
+States.
+
+Transferable high dimensional neural network potentials (HDNNPs) have shown 
+great promise as an avenue to increase the accuracy and domain of applicability 
+of existing atomistic force fields for organic systems relevant to life science. 
+We have previously reported such a potential (Schrödinger-ANI) that has broad 
+coverage of druglike molecules. We extend that work here to cover ionic and 
+zwitterionic druglike molecules expected to be relevant to drug discovery 
+research activities. We report a novel HDNNP architecture, which we call QRNN, 
+that predicts atomic charges and uses these charges as descriptors in an energy 
+model that delivers conformational energies within chemical accuracy when 
+measured against the reference theory it is trained to. Further, we find that 
+delta learning based on a semiempirical level of theory approximately halves the 
+errors. We test the models on torsion energy profiles, relative conformational 
+energies, geometric parameters, and relative tautomer errors.
+
+DOI: 10.1021/acs.jctc.1c00821
+PMID: 35290063 [Indexed for MEDLINE]
+
+
+419. J Proteome Res. 2022 Apr 1;21(4):1189-1195. doi:
+10.1021/acs.jproteome.1c00771.  Epub 2022 Mar 15.
+
+Proteomics Standards Initiative's ProForma 2.0: Unifying the Encoding of 
+Proteoforms and Peptidoforms.
+
+LeDuc RD(1), Deutsch EW(2), Binz PA(3), Fellers RT(1), Cesnik AJ(4)(5)(6), Klein 
+JA(7), Van Den Bossche T(8)(9), Gabriels R(8)(9), Yalavarthi A(1), Perez-Riverol 
+Y(10), Carver J, Bittremieux W, Kawano S(11)(12), Pullman B, Bandeira N, 
+Kelleher NL(1), Thomas PM(1), Vizcaíno JA(10).
+
+Author information:
+(1)National Resource for Translational and Developmental Proteomics, 
+Northwestern University, Evanston, Illinois 60611, United States.
+(2)Institute for Systems Biology, Seattle, Washington 98109, United States.
+(3)Clinical Chemistry Service, Lausanne University Hospital, 1011 Lausanne, 
+Switzerland.
+(4)Department of Genetics, Stanford University, Stanford, California 94305, 
+United States.
+(5)Chan Zuckerberg Biohub, 499 Illinois Street, San Francisco, California 94158, 
+United States.
+(6)SciLifeLab, School of Engineering Sciences in Chemistry Biotechnology and 
+Health, KTH-Royal Institute of Technology, SE-171 21 Solna, Stockholm, Sweden 
+113 51.
+(7)Program for Bioinformatics, Boston University, Boston, Massachusetts 02215, 
+United States.
+(8)VIB-UGent Center for Medical Biotechnology, VIB, Technologiepark 75-FSVM II, 
+9052 Ghent, Belgium.
+(9)Department of Biomolecular Medicine, Faculty of Medicine and Health Sciences, 
+Ghent University, 9000 Ghent, Belgium.
+(10)European Molecular Biology Laboratory, EMBL-European Bioinformatics 
+Institute (EMBL-EBI), Hinxton, Cambridge CB10 1SD, United Kingdom.
+(11)Toyama University of International Studies, Toyama, 930-1292 Toyama, 
+Higashikuromaki, 6 5-1, Japan.
+(12)Database Center for Life Science, Joint Support-Center for Data Science 
+Research, Research Organization of Information and Systems, Kashiwa, Chiba 
+277-0871, Japan.
+
+It is important for the proteomics community to have a standardized manner to 
+represent all possible variations of a protein or peptide primary sequence, 
+including natural, chemically induced, and artifactual modifications. The Human 
+Proteome Organization Proteomics Standards Initiative in collaboration with 
+several members of the Consortium for Top-Down Proteomics (CTDP) has developed a 
+standard notation called ProForma 2.0, which is a substantial extension of the 
+original ProForma notation developed by the CTDP. ProForma 2.0 aims to unify the 
+representation of proteoforms and peptidoforms. ProForma 2.0 supports use cases 
+needed for bottom-up and middle-/top-down proteomics approaches and allows the 
+encoding of highly modified proteins and peptides using a human- and 
+machine-readable string. ProForma 2.0 can be used to represent protein 
+modifications in a specified or ambiguous location, designated by mass shifts, 
+chemical formulas, or controlled vocabulary terms, including cross-links 
+(natural and chemical) and atomic isotopes. Notational conventions are based on 
+public controlled vocabularies and ontologies. The most up-to-date full 
+specification document and information about software implementations are 
+available at http://psidev.info/proforma.
+
+DOI: 10.1021/acs.jproteome.1c00771
+PMCID: PMC7612572
+PMID: 35290070 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.
+
+
+420. PLoS Med. 2022 Mar 15;19(3):e1003936. doi: 10.1371/journal.pmed.1003936. 
+eCollection 2022 Mar.
+
+A comparison over 2 decades of disability-free life expectancy at age 65 years 
+for those with long-term conditions in England: Analysis of the 2 longitudinal 
+Cognitive Function and Ageing Studies.
+
+Bennett HQ(1), Kingston A(1), Lourida I(1), Robinson L(1), Corner L(1), Brayne 
+C(2), Matthews FE(1), Jagger C(1); Cognitive Function and Ageing Studies 
+Collaboration.
+
+Author information:
+(1)Population Health Sciences Institute, Faculty of Medical Sciences, Newcastle 
+University, Newcastle, United Kingdom.
+(2)Cambridge Public Health, University of Cambridge, Cambridge, United Kingdom.
+
+BACKGROUND: Previous research has examined the improvements in healthy years if 
+different health conditions are eliminated, but often with cross-sectional data, 
+or for a limited number of conditions. We used longitudinal data to estimate 
+disability-free life expectancy (DFLE) trends for older people with a broad 
+number of health conditions, identify the conditions that would result in the 
+greatest improvement in DFLE, and describe the contribution of the underlying 
+transitions.
+METHODS AND FINDINGS: The Cognitive Function and Ageing Studies (CFAS I and II) 
+are both large population-based studies of those aged 65 years or over in 
+England with identical sampling strategies (CFAS I response 81.7%, N = 7,635; 
+CFAS II response 54.7%, N = 7,762). CFAS I baseline interviews were conducted in 
+1991 to 1993 and CFAS II baseline interviews in 2008 to 2011, both with 2 years 
+of follow-up. Disability was measured using the modified Townsend activities of 
+daily living scale. Long-term conditions (LTCs-arthritis, cognitive impairment, 
+coronary heart disease (CHD), diabetes, hearing difficulties, peripheral 
+vascular disease (PVD), respiratory difficulties, stroke, and vision impairment) 
+were self-reported. Multistate models estimated life expectancy (LE) and DFLE, 
+stratified by sex and study and adjusted for age. DFLE was estimated from the 
+transitions between disability-free and disability states at the baseline and 
+2-year follow-up interviews, and LE was estimated from mortality transitions up 
+to 4.5 years after baseline. In CFAS I, 60.8% were women and average age was 
+75.6 years; in CFAS II, 56.1% were women and average age was 76.4 years. 
+Cognitive impairment was the only LTC whose prevalence decreased over time (odds 
+ratio: 0.6, 95% confidence interval (CI): 0.5 to 0.6, p < 0.001), and where the 
+percentage of remaining years at age 65 years spent disability-free decreased 
+for men (difference CFAS II-CFAS I: -3.6%, 95% CI: -8.2 to 1.0, p = 0.12) and 
+women (difference CFAS II-CFAS I: -3.9%, 95% CI: -7.6 to 0.0, p = 0.04) with the 
+LTC. For men and women with any other LTC, DFLE improved or remained similar. 
+For women with CHD, years with disability decreased (-0.8 years, 95% CI: -3.1 to 
+1.6, p = 0.50) and DFLE increased (2.7 years, 95% CI: 0.7 to 4.7, p = 0.008), 
+stemming from a reduction in the risk of incident disability (relative risk 
+ratio: 0.6, 95% CI: 0.4 to 0.8, p = 0.004). The main limitations of the study 
+were the self-report of health conditions and the response rate. However, 
+inverse probability weights for baseline nonresponse and longitudinal attrition 
+were used to ensure population representativeness.
+CONCLUSIONS: In this study, we observed improvements to DFLE between 1991 and 
+2011 despite the presence of most health conditions we considered. Attention 
+needs to be paid to support and care for people with cognitive impairment who 
+had different outcomes to those with physical health conditions.
+
+DOI: 10.1371/journal.pmed.1003936
+PMCID: PMC8923437
+PMID: 35290368 [Indexed for MEDLINE]
+
+Conflict of interest statement: I have read the journal’s policy and the authors 
+of this manuscript have the following competing interests: CB is an Academic 
+Editor on PLOS Medicine’s editorial board. FM is a paid statistical consultant 
+on PLOS Medicine’s statistical board.421. Soc Sci Med. 2022 Apr;298:114855. doi: 10.1016/j.socscimed.2022.114855. Epub
+ 2022 Feb 24.
+
+Life expectancies across congressional districts in the United States.
+
+Takai A(1), Kumar A(2), Kim R(3), Subramanian SV(4).
+
+Author information:
+(1)Harvard T.H. Chan School of Public Health, Boston, MA, USA.
+(2)Turner Fenton Secondary School, Brampton, ON, Canada; Center for Geographic 
+Analysis, Harvard University, Cambridge, MA, USA.
+(3)Division of Health Policy & Management, College of Health Science, Korea 
+University, Seoul, South Korea; Interdisciplinary Program in Precision Public 
+Health, Department of Public Health Sciences, Graduate School of Korea 
+University, Seoul, South Korea. Electronic address: rocklikim@korea.ac.kr.
+(4)Harvard T.H. Chan School of Public Health, Boston, MA, USA; Harvard Center 
+for Population and Development Studies, Harvard University, Cambridge, MA, USA. 
+Electronic address: svsubram@hsph.harvard.edu.
+
+Examining data on the congressional district level may better align with the 
+interests of Members of Congress who have the power to implement federal health 
+policies. Despite this importance, measurement of health indicators at the 
+congressional district level remains widely understudied. In this study, we 
+estimated overall life expectancy and variation within each congressional 
+district by computing standard deviations of census tract-level age-specific 
+life expectancies for 2010-2015. We found smaller standard deviations in 
+congressional districts with higher overall life expectancy at younger ages, but 
+the pattern was reversed at older ages.
+
+Copyright © 2022 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.socscimed.2022.114855
+PMID: 35290786 [Indexed for MEDLINE]
+
+
+422. Glob Health Med. 2022 Feb 28;4(1):1-8. doi: 10.35772/ghm.2021.01120.
+
+AIDS at 40(th): The progress of HIV treatment in Japan.
+
+Oka S(1).
+
+Author information:
+(1)AIDS Clinical Center, National Center for Global Health and Medicine, Tokyo, 
+Japan.
+
+Forty years have passed since the first five AIDS cases in Los Angeles were 
+reported in 1981. Looking back at the history, these 40 years could be divided 
+into 3 phases. During the first 15 years, when there was little efficacious 
+therapy against HIV, clinical research was directed to develop diagnosis and 
+treatment for opportunistic infections, mainly Pneumocystis jirovecii pneumonia. 
+When combination antiretroviral therapy (cART) became available in 1996, taking 
+cART had been troublesome to most patients following 10 years because some of 
+them had severe side effects, diet restrictions, high pill burdens, drug 
+interactions, etc. It was not easy for patients to keep high adherence and, 
+therefore, the virus easily obtained drug resistance. Although the prognosis has 
+been dramatically improved, patients had been still living with hard times 
+during the second phase. Along with advancement of anti-retroviral drugs that 
+have allowed simple treatment possible, their life expectancy has further 
+improved and is reaching almost nearly the general population in the following 
+15 years. However, some patients have recently faced an additional load to treat 
+life-related comorbidities and non-AIDS defining malignancies. The problem is 
+that these diseases start to occur in the 40s- or 50s-year-old generations and 
+that means HIV-infected persons are suffering from pre-mature aging. AIDS no 
+longer signifies death. However, we still have a lot to improve for their 
+quality of life.
+
+2022, National Center for Global Health and Medicine.
+
+DOI: 10.35772/ghm.2021.01120
+PMCID: PMC8884036
+PMID: 35291198
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.
+
+
+423. Glob Health Med. 2022 Feb 28;4(1):9-13. doi: 10.35772/ghm.2021.01109.
+
+Ningen Dock: Japan's unique comprehensive health checkup system for early 
+detection of disease.
+
+Lu J(1).
+
+Author information:
+(1)Medical Examination Center, National Center for Global Health and Medicine, 
+Tokyo, Japan.
+
+Japan's comprehensive health checkup - Ningen Dock - is a unique system for 
+early detection of disease that has developed over the years along with the 
+country's universal health insurance system. Ningen Dock is currently offered at 
+1,727 facilities nationwide, involving about 3.7 million people annually. The 
+development of the comprehensive health checkup system may be one reason for 
+Japan's long life expectancy. The major purpose of the comprehensive health 
+checkup system is to maintain health in three main ways: early detection of 
+cancer, detection of lifestyle-related diseases, and confirmation of health 
+status. Here, the history and current status of Ningen Dock in Japan, tests and 
+examinations included in the comprehensive health checkup system, the 
+effectiveness of those checkups, and their advantages and disadvantages are 
+described.
+
+2022, National Center for Global Health and Medicine.
+
+DOI: 10.35772/ghm.2021.01109
+PMCID: PMC8884042
+PMID: 35291200
+
+Conflict of interest statement: The author has no conflicts of interest to 
+disclose.
+
+
+424. Cureus. 2022 Feb 3;14(2):e21857. doi: 10.7759/cureus.21857. eCollection 2022
+ Feb.
+
+Assessment of Surgical Outcome in Three- and Four-Part Proximal Humerus Fracture 
+Treated With Proximal Humerus Internal Locking System (PHILOS) Plate Versus 
+Neer's Prosthesis in Elderly Patients.
+
+Gurnani S(1), Pisal T(2), Phalak MO(1), Chaudhari T(3), Patel S(1), Yadav P(1), 
+Mizanur SK(1).
+
+Author information:
+(1)Orthopaedics, Dr. D. Y. Patil Medical College, Hospital & Research Centre, 
+Pune, IND.
+(2)Orthopedics and Traumatology, Spine Surgeon, Dr. D. Y. Patil Medical College, 
+Hospital & Research Centre, Pune, IND.
+(3)Orthopaedic Surgery, Dr. D. Y. Patil Medical College, Hospital & Research 
+Centre, Pune, IND.
+
+BACKGROUND: With an incidence of 50% of humerus fractures, proximal humerus 
+fractures (PHFs) can significantly impact one's quality of life. Moreover, 
+management of highly comminuted or displaced PHFs poses a significant challenge 
+amongst elderly population due to poor bone quality. Prosthetic replacement of 
+humeral head or its stabilization using external plates is a commonly employed 
+intervention for treating three- and four-part PHFs. Thus, these two methods 
+were compared in this study to identify a preferable intervention.
+METHODS: Patients were randomly divided into two groups to receive proximal 
+humerus internal locking system (PHILOS®, Synthes, Switzerland) plating and 
+Neer's hemiarthroplasty. The deltopectoral approach was deployed as the surgical 
+method. Their surgical outcome was assessed from functional range of motion 
+(ROM) and Constant-Murley scores at regular intervals of three, six, twelve, and 
+twenty-four weeks.
+RESULTS: Twenty patients were divided into two groups who received PHILOS® 
+plating and Neer's hemiarthroplasty, averaged 67.2 years and 72.8 years. The ROM 
+pertaining to flexion, extension, abduction, internal rotation, and external 
+rotation for individuals with PHILOS® plating was 20%, 12.5%, 14.7%, 11.5%, and 
+18.5% higher than those who received Neer's hemiarthroplasty. Moreover, the 
+Murley score was also 8.7 units higher for individuals with PHILOS® plating.
+CONCLUSIONS: Prognosis following PHILOS® plate osteosynthesis had a better 
+overall outcome than hemiarthroplasty with Neer's prosthesis. Although 
+hemiarthroplasty yielded a consistent functional outcome, PHILOS® plate 
+osteosynthesis tends to restore a greater ROM. Thus, PHILOS® plating is 
+recommended as the suitable method to manage three- and four-part PHF for people 
+above fifty-five years of age.
+
+Copyright © 2022, Gurnani et al.
+
+DOI: 10.7759/cureus.21857
+PMCID: PMC8897720
+PMID: 35291533
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+425. Rep Biochem Mol Biol. 2022 Jan;10(4):664-674. doi: 10.52547/rbmb.10.4.664.
+
+Relationship Between IL-2, IL-17 Concentrations, and Serum Creatinine Levels in 
+Men with Chronic Kidney Diseases.
+
+Al-Rawi KF(1), Ali HH(1), Guma MA(2), Mohammed Aldahham BJ(2), Tuleab Alaaraji 
+SF(3), Al-Ani O(4), Tariq Ali A(5).
+
+Author information:
+(1)Department of Chemistry, College of Science, University of Anbar, Al-anbar 
+Province, Iraq.
+(2)Department of Applied Chemistry, College of Applied Sciences, University of 
+Anbar, Al-anbar Province, Iraq.
+(3)Department of Chemistry, College of Education for pure Science, University of 
+Anbar, Al-anbar Province, Iraq.
+(4)Yarmouk Academic Hospital, Baghdad, Iraq.
+(5)University of Anbar, Al-anbar Province, Iraq.
+
+BACKGROUND: Chronic kidney disease (CKD), is a major public health challenge 
+worldwide. It is more prevalent in developed countries compared with the rest of 
+the world, due to the higher rates of life expectancy and unhealthy lifestyle 
+related factors. This aim of the current study is to evaluate the relationship 
+between interleukins IL-2 and IL-17 concentrations and kidney function markers 
+in men with CKD.
+METHODS: Forty-five men with CKD and seventy controls were enrolled in the 
+current study to assess the relationship between interleukin-2 (IL-2), 
+interleukin-17 (IL-17), and CKD parameters. Fasting blood samples were collected 
+from patients with CKD and their controls at same time. Serum IL-2, and IL-17 
+were measured in patients with CKD and their controls, and then the relationship 
+between these interleukins and serum creatinine, serum urea, serum uric acid and 
+urine albumin were evaluated.
+RESULTS: A significant relationship was detected between IL-2 (p< 0.001), IL-17 
+(p< 0.001) levels and serum creatinine concentrations. The significant increase 
+of IL-2 and IL-17 levels were also paralleled with a significant increase in 
+serum urea (p< 0.001), and urine albumin (p< 0.001) concentrations respectively.
+CONCLUSION: IL-2 and IL-17 may play a critical role in the pathophysiology of 
+CKD. The significant increase of IL-2 and IL-17 is associated with significantly 
+high concentrations of creatinine, serum urea and urine albumin suggesting that 
+these interleukins may be used as targets for future biomarkers and molecular 
+therapy. However, due to limited sample size of the current study, larger 
+prospective cohorts are needed to confirm these observations.
+
+DOI: 10.52547/rbmb.10.4.664
+PMCID: PMC8903360
+PMID: 35291613
+
+
+426. Sci Rep. 2022 Mar 15;12(1):4436. doi: 10.1038/s41598-022-08500-w.
+
+Freeze-thaw cycle frequency affects root growth of alpine meadow through 
+changing soil moisture and nutrients.
+
+Man Z(1), Xie C(1), Jiang R(1), Che S(2).
+
+Author information:
+(1)School of Design, Shanghai Jiao Tong University, Shanghai, 200240, China.
+(2)School of Design, Shanghai Jiao Tong University, Shanghai, 200240, China. 
+chsq@sjtu.edu.cn.
+
+Alpine meadows grow in alpine regions and play an important role in the 
+production and life of alpine regions. As a unique feature of alpine regions, 
+freeze-thaw cycles (FTCs) affect the growth of alpine meadows. However, with 
+climate change, the change in the freeze-thaw cycle frequency (FTCF) has become 
+obvious. These changes affect the content and distribution of soil moisture and 
+nutrients, as well as the growth of roots in the alpine meadow. Therefore, based 
+on the analysis of FTCF in the Nagqu River Basin, the characteristics of soil 
+moisture, nutrients, and alpine meadow roots are analyzed, thus revealing the 
+influence mechanism of FTCF on the root growth of alpine meadows. The results 
+highlight three major findings. (1) Compared with the low-frequency mode (LFM), 
+the moisture at 0-20, 20-40, and 40-60 cm in the high-frequency mode (HFM) has 
+decreased by 30.74%, 52.89%, and 47.52%, respectively. Additionally, in HFM the 
+contents of soil hydrolysable nitrogen (HN), available K (AK), and microbial 
+biomass carbon (MBC) at the same depth are lower than those in LFM. (2) The 
+original distribution of soil moisture at 0-60 cm has gradually increased from 
+the surface to the bottom. However, with the increase in FTCF, the distribution 
+of the soil moisture now means that the soil moisture at the surface (0-20 cm) 
+and the deeper layers (40-60 cm) is higher than that in the middle (20-40 cm). 
+(3) With the increase in FTCF, the growth mode of alpine meadow roots has 
+changed from vertical extension to horizontal divergence; the distribution range 
+of roots has changed from 0-40 cm to 0-20 cm; the length, surface area, and 
+volume of 0-0.5 mm roots have increased by 20.95 cm, 1.90 cm2, and 0.014 cm3; 
+and the corresponding specific gravity has increased by 9.09%, 13.50%, and 
+12.14%, respectively. This study provides a theoretical basis for predicting the 
+growth mode of alpine meadow roots in the Nagqu River Basin under the influence 
+of climate change and provides guidance for protecting the ecology of alpine 
+regions and mitigating and solving global climate change.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41598-022-08500-w
+PMCID: PMC8924160
+PMID: 35292754 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+427. Demography. 2022 Apr 1;59(2):629-652. doi: 10.1215/00703370-9830687.
+
+Life Course Socioeconomic Status and Healthy Longevity in China.
+
+Payne CF(1), Xu KQ(1).
+
+Author information:
+(1)School of Demography, Research School of Social Sciences, The Australian 
+National University, Canberra, Australia.
+
+In 2020, China's population aged 60 or older exceeded 264 million, representing 
+25% of the global population in that age-group. Older adults in China 
+experienced periods of dramatic political and social unrest in early life, as 
+well as economic transformations leading to drastic improvements in living 
+standards during adulthood and older age. However, the implications of life 
+course socioeconomic status (SES) trajectories for healthy longevity in later 
+life have not been systematically studied in China. We utilize data from the 
+China Health and Retirement Longitudinal Study (CHARLS) to comprehensively 
+investigate how early-life conditions and adult SES combine to influence healthy 
+longevity in later life. We find that both childhood and adulthood SES are 
+associated with late-life health. The largest disparities in life expectancy 
+(LE) and disability-free LE are found between those with persistently low SES 
+throughout life and those with consistently high SES. At age 45, the gap in 
+total LE between the most advantaged and least advantaged groups is six years 
+for men and five years for women. Despite China's major policy changes 
+prioritizing equity in income and health care in recent decades, our findings 
+suggest that dramatic health inequalities among older adults remain. Our 
+findings extend the literature on the effect of socioeconomic patterns across 
+the life course on gradients in later-life health and highlight continuing 
+disparities in healthy longevity among older adults in China.
+
+Copyright © 2022 The Authors.
+
+DOI: 10.1215/00703370-9830687
+PMID: 35292811 [Indexed for MEDLINE]
+
+
+428. Cell Mol Life Sci. 2022 Mar 16;79(4):192. doi: 10.1007/s00018-022-04215-3.
+
+Targeting the E1 ubiquitin-activating enzyme (UBA1) improves 
+elexacaftor/tezacaftor/ivacaftor efficacy towards F508del and rare misfolded 
+CFTR mutants.
+
+Borgo C(#)(1), D'Amore C(#)(2), Capurro V(3), Tomati V(3), Sondo E(3), Cresta 
+F(4), Castellani C(4), Pedemonte N(#)(5), Salvi M(#)(6).
+
+Author information:
+(1)Department of Biomedical Sciences, University of Padova, Via Ugo Bassi 58/B, 
+35131, Padova, Italy. christian.borgo@unipd.it.
+(2)Department of Biomedical Sciences, University of Padova, Via Ugo Bassi 58/B, 
+35131, Padova, Italy.
+(3)UOC Genetica Medica, IRCCS Istituto Giannina Gaslini, Via Gerolamo Gaslini 5, 
+16147, Genova, Italy.
+(4)Centro Fibrosi Cistica, IRCCS Istituto Giannina Gaslini, Genova, Italy.
+(5)UOC Genetica Medica, IRCCS Istituto Giannina Gaslini, Via Gerolamo Gaslini 5, 
+16147, Genova, Italy. nicolettapedemonte@gaslini.org.
+(6)Department of Biomedical Sciences, University of Padova, Via Ugo Bassi 58/B, 
+35131, Padova, Italy. mauro.salvi@unipd.it.
+(#)Contributed equally
+
+The advent of Trikafta (Kaftrio in Europe) (a triple-combination therapy based 
+on two correctors-elexacaftor/tezacaftor-and the potentiator ivacaftor) has 
+represented a revolution for the treatment of patients with cystic fibrosis (CF) 
+carrying the most common misfolding mutation, F508del-CFTR. This therapy has 
+proved to be of great efficacy in people homozygous for F508del-CFTR and is also 
+useful in individuals with a single F508del allele. Nevertheless, the efficacy 
+of this therapy needs to be improved, especially in light of the extent of its 
+use in patients with rare class II CFTR mutations. Using CFBE41o- cells 
+expressing F508del-CFTR, we provide mechanistic evidence that targeting the E1 
+ubiquitin-activating enzyme (UBA1) by TAK-243, a small molecule in clinical 
+trials for other diseases, boosts the rescue of F508del-CFTR induced by CFTR 
+correctors. Moreover, TAK-243 significantly increases the F508del-CFTR 
+short-circuit current induced by elexacaftor/tezacaftor/ivacaftor in 
+differentiated human primary airway epithelial cells, a gold standard for the 
+pre-clinical evaluation of patients' responsiveness to pharmacological 
+treatments. This new combinatory approach also leads to an improvement in CFTR 
+conductance on cells expressing other rare CF-causing mutations, including 
+N1303K, for which Trikafta is not approved. These findings show that Trikafta 
+therapy can be improved by the addition of a drug targeting the misfolding 
+detection machinery at the beginning of the ubiquitination cascade and may pave 
+the way for an extension of Trikafta to low/non-responding rare misfolded CFTR 
+mutants.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s00018-022-04215-3
+PMCID: PMC8924136
+PMID: 35292885 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no relevant financial or 
+non-financial interests to disclose.
+
+
+429. Anim Genet. 2022 Jun;53(3):317-326. doi: 10.1111/age.13189. Epub 2022 Mar
+15.
+
+Functional characterization of cAMP signaling of variant porcine MC1R alleles in 
+PK15 cells.
+
+Lan J(1), Wang M(1), Qin K(1), Liu X(1), Shi X(1), Sun G(1), Liu X(1), Chen 
+Y(1), He Z(1).
+
+Author information:
+(1)State Key Laboratory of Biocontrol, School of Life Sciences, Sun Yat-sen 
+University, Guangzhou, 510006, China.
+
+The melanocortin 1 receptor (MC1R), encoded by the classical extension (E) coat 
+color locus, is expressed on the surface of melanocytes and plays a critical 
+role in switching melanin synthesis from pheomelanin (red/yellow) to eumelanin 
+(black/brown). Different MC1R alleles associated with various coat color 
+patterns in pigs have been identified over the past decades. However, functional 
+analysis of variant porcine MC1R alleles has not yet been performed. Therefore, 
+in this study, we examined the subcellular localization and cyclic adenosine 
+monophosphate (cAMP) signaling capability of MC1R variants in porcine kidney 
+epithelial cells (PK15) overexpressing different MC1R alleles. Transcriptional 
+slippage may partially restore the reading frame of the EP allele, possibly 
+accounting for the observed spot phenotype. The A243T substitution in the e 
+allele severely disrupted the membrane localization of the MC1R receptor, 
+resulting in a severely impaired cAMP signaling capability. Both the V95M and 
+L102P substitutions in the ED1 allele may contribute to the constitutively 
+active function of MC1R, thus accounting for the dominant black phenotype. The 
+D124N substitution in the ED2 allele severely attenuated the cAMP signaling 
+capability of MC1R; however, whether this mutation contributes to the distinct 
+phenotype of Hampshire pigs requires further investigation. Thus, our results 
+provide new insights into the functional characteristics of MC1R variants and 
+their roles in porcine coat color formation.
+
+© 2022 Stichting International Foundation for Animal Genetics.
+
+DOI: 10.1111/age.13189
+PMID: 35292981 [Indexed for MEDLINE]
+
+
+430. Rejuvenation Res. 2022 Apr;25(2):110-115. doi: 10.1089/rej.2022.0017.
+
+It Is Time to Work on the Extension of Body Growth and Reproductive Stages.
+
+Gu W(1)(2)(3).
+
+Author information:
+(1)Department of Orthopaedic Surgery and BME-Campbell Clinic, University of 
+Tennessee Health Science Center, Memphis, Tennessee, USA.
+(2)Research Service, Memphis VA Medical Center, Memphis, Tennessee, USA.
+(3)Department of Pharmaceutical Sciences, University of Tennessee Health Science 
+Center, Memphis, Tennessee, USA.
+
+There are three major changes for the human lifespan in the past half decade: 
+the decreased age of sexual maturity, slight increase in age of 
+menopause/andropause, and a trend of increase in life expectancy. The ages of 
+puberty and menopause are the transitions in life stages, such that early 
+puberty leads to loss and late menopause leads to gain in the lifespan. So far, 
+the strategies for increased lifespan have been largely focused on the 
+postreproductive stage. These approaches are challenging and may at some point 
+reach a plateau. It might be interesting to expand this focus to potentially 
+delaying the puberty and extending the period of body growth, which might yield 
+longer reproductive stages as well as the longer and healthier lifespan.
+
+DOI: 10.1089/rej.2022.0017
+PMID: 35293249 [Indexed for MEDLINE]
+
+
+431. Acta Clin Belg. 2023 Feb;78(1):16-24. doi: 10.1080/17843286.2022.2053812.
+Epub  2022 Mar 16.
+
+Palliative profile, one-year mortality and quality of life in older inpatients 
+according to Be-PICT: a multicenter prospective cohort study.
+
+De Brauwer I(1)(2), Henrard S(2)(3), Baeyens H(4), Van Den Noortgate N(5)(6), De 
+Saint-Hubert M(2)(7), Piers R(5)(6).
+
+Author information:
+(1)Department of Geriatric Medicine, Cliniques Universitaires Saint-Luc, 
+Bruxelles, Belgium.
+(2)Institute of Health and Society, UCLouvain, Bruxelles, Belgium.
+(3)Louvain Drug Research Institute, UCLouvain, Bruxelles, Belgium.
+(4)Department of Geriatric Medicine, AZ Alma Campus Eeklo, Eeklo, Belgium.
+(5)Department of Geriatric Medicine, Ghent University Hospital, Ghent, Belgium.
+(6)Department of Internal Medicine and Pediatrics, Ghent University Faculty of 
+Medicine and Health Sciences, Ghent, Belgium.
+(7)Department of Geriatric Medicine, CHU UCL Namur, Yvoir, Namur, Belgium.
+
+BACKGROUND: A palliative care approach (PCA), including advanced care planning 
+(ACP), should be considered for patients with limited life expectancy. The 
+Belgian Palliative Care Indicators Tool (Be-PICT) has been released to help 
+identify patients who may benefit from such approach. This study aimed at 
+measuring 1-year mortality and describe the quality of life in older inpatients, 
+according to baseline Be-PICT results.
+METHODS: Prospective multicentre cohort study in older patients (≥ 75 years) 
+admitted at geriatrics and cardiology wards of four Belgian hospitals. The 
+palliative profile was defined as a positive Be-PICT.1, defined by the presence 
+of its three criteria, i.e. a negative physician's answer to the surprise 
+question 'would you be surprised if this patient dies in the 6-12 next months?', 
+≥ 1 poor health indicator and ≥ 1 life-limiting condition.
+RESULTS: Of the 379 patients (50% aged ≥85 years; 51% female), 52 (14%) 
+presented a palliative profile and 83 (23%) died within 1 year. Be-PICT.1 showed 
+the following characteristics to predict 1-year mortality: sensitivity 0.54, 
+specificity 0.83, positive and negative predictive values 0.48 and 0.86, 
+positive and negative likelihood ratios 3.22 and 0.55. The patients with a 
+palliative profile were at higher mortality risk (hazard ratio 4.79 p < 0.001) 
+and 1-year mortality rate (45%). Not using the SQ allowed to improve sensitivity 
+to include a larger number of patients who may benefit from ACP and PCA.
+CONCLUSIONS: Be-PICT.1 is a simple case-finding tool to identify older 
+inpatients being at high mortality risk and candidates for ACP and PCA.
+
+DOI: 10.1080/17843286.2022.2053812
+PMID: 35293853 [Indexed for MEDLINE]
+
+
+432. J Nutr. 2022 Jul 6;152(7):1597-1610. doi: 10.1093/jn/nxac059.
+
+Sex Differences Across the Life Course: A Focus On Unique Nutritional and Health 
+Considerations among Women.
+
+Bailey RL(1), Dog TL(2), Smith-Ryan AE(3), Das SK(4), Baker FC(5), Madak-Erdogan 
+Z(6), Hammond BR(7), Sesso HD(8), Eapen A(9), Mitmesser SH(10), Wong A(11), 
+Nguyen H(11).
+
+Author information:
+(1)Institute for Advancing Health Through Agriculture, Texas A&M, College 
+Station, TX, USA.
+(2)Healthy Lifestyle Brands, Phoenix, AZ, USA.
+(3)Department of Exercise and Sport Science, University of North Carolina, 
+Chapel Hill, NC, USA.
+(4)Jean-Mayer USDA Human Nutrition Research Center on Aging, Tufts University, 
+Boston, MA, USA.
+(5)Center for Health Sciences, SRI International, Menlo Park, CA, USA.
+(6)Department of Food Science and Human Nutrition, University of Illinois, 
+Urbana-Champaign, Urbana, IL, USA.
+(7)Behavioral and Brain Sciences Program, Department of Psychology, University 
+of Georgia, Athens, GA, USA.
+(8)Division of Preventive Medicine, Brigham and Women's Hospital, Boston, MA, 
+USA.
+(9)R&D Scientific & Regulatory Affairs-North America, Cargill, Wayzata, MN, USA.
+(10)Science & Technology, Pharmavite, Los Angeles, CA, USA.
+(11)Scientific & Regulatory Affairs, Council for Responsible Nutrition, 
+Washington, DC, USA.
+
+In the United States, women, while having a longer life expectancy than men, 
+experience a differential risk for chronic diseases and have unique nutritional 
+needs based on physiological and hormonal changes across the life span. However, 
+much of what is known about health is based on research conducted in men. 
+Additional complexity in assessing nutritional needs within gender include the 
+variations in genetics, body compositions, hormonal milieus, underlying chronic 
+diseases, and medication usage, with this list expanding as we consider these 
+variables across the life course. It is clear women experience nutrient 
+shortfalls during key periods of their lives, which may differentially impact 
+their health. Consequently, as we move into the era of precision nutrition, 
+understanding these sex- and gender-based differences may help optimize 
+recommendations and interventions chosen to support health and weight 
+management. Recently, a scientific conference was convened with content experts 
+to explore these topics from a life-course perspective at biological, 
+physiological, and behavioral levels. This publication summarizes the 
+presentations and discussions from the workshop and provides an overview of 
+important nutrition and related lifestyle considerations across the life course. 
+The landscape of addressing female-specific nutritional needs continues to grow; 
+now more than ever, it is essential to increase our understanding of the 
+physiological differences between men and women, and determine how these 
+physiological considerations may aid in optimizing nutritional strategies to 
+support certain personal goals related to health, quality of life, sleep, and 
+exercise performance among women.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of the 
+American Society for Nutrition.
+
+DOI: 10.1093/jn/nxac059
+PMCID: PMC9258555
+PMID: 35294009 [Indexed for MEDLINE]
+
+
+433. Sci Transl Med. 2022 Mar 16;14(636):eabl9945. doi:
+10.1126/scitranslmed.abl9945.  Epub 2022 Mar 16.
+
+Treatment of a genetic brain disease by CNS-wide microglia replacement.
+
+Shibuya Y(1)(2), Kumar KK(1)(3), Mader MM(1)(2), Yoo Y(1)(2), Ayala LA(1)(2), 
+Zhou M(4), Mohr MA(5), Neumayer G(1)(2), Kumar I(1)(2), Yamamoto R(1)(6), 
+Marcoux P(1)(2), Liou B(7), Bennett FC(8), Nakauchi H(1)(6)(9), Sun Y(7)(10), 
+Chen X(5), Heppner FL(11)(12)(13)(14)(15), Wyss-Coray T(16)(17), Südhof 
+TC(4)(18), Wernig M(1)(2).
+
+Author information:
+(1)Institute for Stem Cell Biology and Regenerative Medicine and Department of 
+Pathology, Stanford University School of Medicine, Stanford, CA 94305, USA.
+(2)Department of Pathology, Stanford University School of Medicine, Stanford, CA 
+94305, USA.
+(3)Department of Neurosurgery, Stanford University School of Medicine, Stanford, 
+CA 94305, USA.
+(4)Department of Molecular and Cellular Physiology, Stanford University School 
+of Medicine, Stanford, CA 94305, USA.
+(5)Department of Biology, Stanford University, Stanford, CA 94305, USA.
+(6)Department of Genetics, Stanford University School of Medicine, Stanford, CA 
+94305, USA.
+(7)Division of Human Genetics, Cincinnati Children's Hospital Medical Center, 
+Cincinnati, OH 45229, USA.
+(8)Department of Psychiatry, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA 19104, USA.
+(9)Division of Stem Cell Therapy, Distinguished Professor Unit, The Institute of 
+Medical Science, The University of Tokyo, Tokyo 108-8639, Japan.
+(10)Department of Pediatrics, University of Cincinnati College of Medicine, 
+Cincinnati, OH 45229, USA.
+(11)Department of Neuropathology, Cluster of Excellence, NeuroCure, 
+Charité-Universitätsmedizin Berlin, 10117 Berlin, Germany.
+(12)Department of Neuropathology, Charité-Universitätsmedizin Berlin, corporate 
+member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin 
+Institute of Health, 10117 Berlin, Germany.
+(13)Cluster of Excellence, NeuroCure, Charitéplatz 1, 10117 Berlin, Germany.
+(14)Berlin Institute of Health (BIH), 10117 Berlin, Germany.
+(15)German Center for Neurodegenerative Diseases (DZNE) Berlin, 10117 Berlin, 
+Germany.
+(16)Department of Neurology and Neurological Sciences, Stanford University 
+School of Medicine, Stanford, CA 94305, USA.
+(17)Veterans Administration Palo Alto Healthcare System, Palo Alto, CA 94304, 
+USA.
+(18)Howard Hughes Medical Institute, Stanford University School of Medicine, 
+Stanford, CA 94305, USA.
+
+Hematopoietic cell transplantation after myeloablative conditioning has been 
+used to treat various genetic metabolic syndromes but is largely ineffective in 
+diseases affecting the brain presumably due to poor and variable myeloid cell 
+incorporation into the central nervous system. Here, we developed and 
+characterized a near-complete and homogeneous replacement of microglia with bone 
+marrow cells in mice without the need for genetic manipulation of donor or host. 
+The high chimerism resulted from a competitive advantage of scarce donor cells 
+during microglia repopulation rather than enhanced recruitment from the 
+periphery. Hematopoietic stem cells, but not immediate myeloid or monocyte 
+progenitor cells, contained full microglia replacement potency equivalent to 
+whole bone marrow. To explore its therapeutic potential, we applied microglia 
+replacement to a mouse model for Prosaposin deficiency, which is characterized 
+by a progressive neurodegeneration phenotype. We found a reduction of cerebellar 
+neurodegeneration and gliosis in treated brains, improvement of motor and 
+balance impairment, and life span extension even with treatment started in young 
+adulthood. This proof-of-concept study suggests that efficient microglia 
+replacement may have therapeutic efficacy for a variety of neurological 
+diseases.
+
+DOI: 10.1126/scitranslmed.abl9945
+PMCID: PMC9618306
+PMID: 35294256 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: The authors declare no 
+conflict of interest.
+
+
+434. Health Policy Plan. 2022 Sep 13;37(8):1066-1069. doi:
+10.1093/heapol/czac026.
+
+Estimating a cost-effectiveness threshold for health care decision-making in 
+South Africa-a Commentary.
+
+Barr G(1).
+
+Author information:
+(1)Department of Statistical Sciences, University of Cape Town, Cape Town, South 
+Africa.
+
+Comment in
+    Health Policy Plan. 2022 Sep 13;37(8):1070-1073.
+
+Comment on
+    Health Policy Plan. 2020 Jun 1;35(5):546-555.
+    Health Policy Plan. 2022 Jun 28;:
+
+DOI: 10.1093/heapol/czac026
+PMID: 35294523 [Indexed for MEDLINE]
+
+
+435. Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz. 2022 
+Apr;65(4):503-510. doi: 10.1007/s00103-022-03517-y. Epub 2022 Mar 16.
+
+[Physical and psychological long-term consequences of diabetes mellitus].
+
+[Article in German; Abstract available in German from the publisher]
+
+Kulzer B(1)(2)(3).
+
+Author information:
+(1)Forschungsinstitut der Diabetes-Akademie Bad Mergentheim (FIDAM), 
+Theodor-Klotzbücher-Str. 12, 97980, Bad Mergentheim, Deutschland. 
+kulzer@fidam.de.
+(2)Diabetes-Klinik Bad Mergentheim, Bad Mergentheim, Deutschland. 
+kulzer@fidam.de.
+(3)Lehrstuhl für klinische Psychologie, Universität Bamberg, Bamberg, 
+Deutschland. kulzer@fidam.de.
+
+Despite improvements in the treatment of diabetes and better care conditions, 
+those affected still have a significantly increased risk of physical and 
+psychological complications and a reduced quality of life compared to the 
+general population. About 21% of all deaths in Germany are due to diabetes and 
+its complications, and the mortality risk for people with diabetes is more than 
+1.5 times higher than for people without diabetes. This review describes the 
+prevalence and risk factors for the most common physical and psychological 
+complications of diabetes as well as their influences on patients' quality of 
+life. Associations between the complications and increased mortality are 
+shown.In large intervention studies, the importance of good glucose control - 
+especially at the beginning of the disease - has been shown regarding 
+a reduction in the mortality rate. Other important influencing factors include 
+blood pressure, blood lipids, and smoking. Worldwide study results indicate 
+a stable trend about improved life expectancy of people with diabetes in recent 
+years. In the future, the positive trend could be continued through better care 
+structures and new technologies as well as digital devices in research and 
+therapy. With the help of precision medicine, individual risk factors and 
+protective factors could be identified to even better prevent the development of 
+complications.
+
+Publisher: Trotz Verbesserungen in der Therapie des Diabetes und besseren 
+Versorgungbedingungen weisen die Betroffenen aktuell im Vergleich zur 
+Allgemeinbevölkerung noch immer ein deutlich erhöhtes Risiko für physische wie 
+psychische Folgeerkrankungen sowie eine reduzierte Lebensqualität auf. Etwa 21 % 
+aller Todesfälle sind in Deutschland auf Diabetes und seine Folgeerkrankungen 
+zurückzuführen, das Mortalitätsrisiko ist für Menschen mit Diabetes um mehr als 
+das 1,5-Fache gegenüber Menschen ohne Diabetes erhöht. In dieser Übersicht 
+werden die Verbreitung und die Risikofaktoren für die häufigsten körperlichen 
+und psychischen Folgen des Diabetes beschrieben sowie deren Einflüsse auf die 
+Lebensqualität der Patienten. Zusammenhänge zwischen den Folgeerkrankungen und 
+einer erhöhten Mortalität werden aufgezeigt.In großen Interventionsstudien 
+konnte die Bedeutung einer guten Glukoseeinstellung – vor allem zu Beginn der 
+Erkrankung – in Hinblick auf eine Senkung der Mortalitätsrate gezeigt werden, 
+weitere wichtige Einflussfaktoren sind z. B. Blutdruck, Blutfette und Rauchen. 
+Weltweite Studienergebnisse deuten auf einen stabilen Trend hinsichtlich einer 
+verbesserten Lebenserwartung von Menschen mit Diabetes in den letzten Jahren 
+hin. Zukünftig könnte der positive Trend durch bessere Versorgungsstrukturen und 
+neue Technologien sowie digitale Anwendungen in der Forschung und Therapie 
+fortgesetzt werden. Mithilfe der Präzisionsmedizin könnten individuelle 
+Risikofaktoren und protektive Faktoren erkannt werden, um der Entstehung von 
+Folgekomplikationen noch besser vorzubeugen.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s00103-022-03517-y
+PMCID: PMC8979877
+PMID: 35294561 [Indexed for MEDLINE]
+
+
+436. Clin Drug Investig. 2022 Apr;42(4):333-343. doi: 10.1007/s40261-022-01138-6.
+ Epub 2022 Mar 16.
+
+Cost-Effectiveness of Bivalent, Quadrivalent, and Nonavalent HPV Vaccination in 
+South Africa.
+
+Michaeli DT(1)(2)(3), Stoycheva S(4)(5), Marcus SM(4)(6)(7), Zhang W(4)(8), 
+Michaeli JC(#)(9)(8), Michaeli T(#)(9)(10)(11).
+
+Author information:
+(1)Fifth Department of Medicine, University Hospital Mannheim, Heidelberg 
+University, Mannheim, Germany. danielmichaeli@yahoo.com.
+(2)Department of Personalized Oncology, University Hospital Mannheim, Heidelberg 
+University, Mannheim, Germany. danielmichaeli@yahoo.com.
+(3)Department of Health Policy, London School of Economics and Political 
+Science, London, UK. danielmichaeli@yahoo.com.
+(4)Department of Health Policy, London School of Economics and Political 
+Science, London, UK.
+(5)Health Economics and Outcomes Research, Pfizer Inc, New York, NY, USA.
+(6)Homerton University Hospital NHS Trust, London, UK.
+(7)Department of Family Medicine and Primary Care, School of Clinical Medicine, 
+Faculty of Health Science, University of the Witwatersrand, Johannesburg, South 
+Africa.
+(8)Department of Obstetrics and Gynecology, Asklepios-Clinic Hamburg-Altona, 
+Asklepios Hospital Group, Hamburg, Germany.
+(9)Fifth Department of Medicine, University Hospital Mannheim, Heidelberg 
+University, Mannheim, Germany.
+(10)Department of Personalized Oncology, University Hospital Mannheim, 
+Heidelberg University, Mannheim, Germany.
+(11)Division of Personalized Medical Oncology, German Cancer Research Center 
+(DKFZ), Heidelberg, Germany.
+(#)Contributed equally
+
+BACKGROUND AND OBJECTIVES: In South Africa, the prevalence of human 
+papillomavirus (HPV) and associated diseases, such as cervical cancer and 
+genital warts, is among the highest in the world. This study evaluates the 
+cost-effectiveness of bivalent, quadrivalent, and nonavalent HPV vaccination for 
+9- to 14-year-old girls from the South African healthcare system perspective.
+METHODS: A Markov model portraying the natural HPV disease progression from 
+high-risk infection to cervical intraepithelial neoplasia (CIN) I, CIN II/III, 
+or cervical cancer and from low-risk infection to genital warts was built. 
+Transition probability, utility, and efficacy data were sourced from 
+peer-reviewed literature. Vaccination costs were calculated based on the World 
+Health Organization (WHO) guidelines. The model was populated with a cohort of 
+520,000 9-year-old girls to calculate incremental cost-effectiveness ratios 
+(ICER) in South African Rand (R) per quality-adjusted life-years (QALYs) gained 
+for each vaccination strategy.
+RESULTS: All HPV vaccination strategies dominate the no vaccine strategy. 
+Compared with the bivalent vaccine, the nonavalent strategy increases QALYs by 
+0.14 and costs by R1793 (ICER: R13,013 per QALY) per person, while the 
+quadrivalent vaccination provides -0.02 incremental QALYs and R1748 costs (ICER: 
+-R116,397 per QALY). Consequently, at the South African willingness-to-pay 
+threshold of R23,630 per QALY, nonavalent vaccination is the preferred strategy, 
+with a probability of 90.2%. Scenario analysis demonstrated that results are 
+influenced by vaccine coverage, efficacy, and duration of efficacy.
+CONCLUSIONS: The introduction of nonavalent for bivalent HPV vaccination is a 
+cost-effective intervention in South Africa. HPV vaccination should be part of a 
+multifaceted public health strategy entailing screening, condoms, and education 
+of all stakeholders to reduce the significant burden of sexual transmitted 
+diseases in South Africa. Sex-neutral and catch-up vaccinations are subjects for 
+further research.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s40261-022-01138-6
+PMCID: PMC8989937
+PMID: 35294726 [Indexed for MEDLINE]
+
+Conflict of interest statement: Daniel Tobias Michaeli, Sophia Stoycheva, Simon 
+Mashudu Marcus, Wenjia Zhang, Julia Caroline Michaeli, and Thomas Michaeli 
+declare no conflicts of interest.
+
+
+437. Lancet. 2022 Apr 2;399(10332):1322-1335. doi: 10.1016/S0140-6736(21)02868-3.
+ Epub 2022 Mar 13.
+
+Progress in health among regions of Ethiopia, 1990-2019: a subnational country 
+analysis for the Global Burden of Disease Study 2019.
+
+GBD 2019 Ethiopia Subnational-Level Disease Burden Initiative Collaborators.
+
+Collaborators: Misganaw A, Naghavi M, Walker A, Mirkuzie AH, Giref AZ, Berheto 
+TM, Waktola EA, Kempen JH, Eticha GT, Wolde TK, Deguma D, Abate KH, Abegaz KH, 
+Ahmed MB, Akalu Y, Aklilu A, Alemu BW, Asemahagn MA, Awedew AF, Balakrishnan S, 
+Bekuma TT, Beyene AS, Beyene MG, Bezabih YM, Birhanu BT, Chichiabellu TY, Dachew 
+BA, Dagnew AB, Demeke FM, Demissie GD, Derbew Molla M, Dereje N, Deribe K, Desta 
+AA, Eshetu MK, Ferede TY, Gebreyohannes EA, Geremew A, Gesesew HA, Getacher L, 
+Glenn SD, Hafebo AS, Hashi A, Hassen HY, Hay SI, Hordofa DF, Huluko DH, Kasa AS, 
+Kassahun Azene G, Kebede EM, Kebede HK, Kelkay B, Kidane SZ, Legesse SM, Manamo 
+WA, Melaku YAA, Mengesha EW, Mengesha SD, Merie HE, Mersha AM, Mersha AG, 
+Mirutse MK, Mohammed AS, Mohammed H, Mohammed S, Netsere HB, Nigatu D, Obsa MS, 
+Odo DB, Omer M, Regassa LD, Sahiledengle B, Shaka MF, Shiferaw WS, Sidemo NB, 
+Sinke AH, Sintayehu Y, Sorrie MB, Tadesse BT, Tadesse EG, Tamir Z, Tamiru AT, 
+Tareke AA, Tefera YG, Tekalegn Y, Tesema AK, Tesema TT, Tesfay FH, Tessema ZT, 
+Tilahun T, Tsegaye GW, Tusa BS, Weledesemayat GT, Yazie TS, Yeshitila YG, Yirdaw 
+BW, Zegeye DT, Murray CJL, Gebremedhin LT.
+
+Comment in
+    Lancet. 2022 Apr 2;399(10332):1283-1284.
+
+BACKGROUND: Previous Global Burden of Diseases, Injuries, and Risk Factors Study 
+(GBD) studies have reported national health estimates for Ethiopia. Substantial 
+regional variations in socioeconomic status, population, demography, and access 
+to health care within Ethiopia require comparable estimates at the subnational 
+level. The GBD 2019 Ethiopia subnational analysis aimed to measure the progress 
+and disparities in health across nine regions and two chartered cities.
+METHODS: We gathered 1057 distinct data sources for Ethiopia and all regions and 
+cities that included census, demographic surveillance, household surveys, 
+disease registry, health service use, disease notifications, and other data for 
+this analysis. Using all available data sources, we estimated the 
+Socio-demographic Index (SDI), total fertility rate (TFR), life expectancy, 
+years of life lost, years lived with disability, disability-adjusted life-years, 
+and risk-factor-attributable health loss with 95% uncertainty intervals (UIs) 
+for Ethiopia's nine regions and two chartered cities from 1990 to 2019. 
+Spatiotemporal Gaussian process regression, cause of death ensemble model, 
+Bayesian meta-regression tool, DisMod-MR 2.1, and other models were used to 
+generate fertility, mortality, cause of death, and disability rates. The risk 
+factor attribution estimations followed the general framework established for 
+comparative risk assessment.
+FINDINGS: The SDI steadily improved in all regions and cities from 1990 to 2019, 
+yet the disparity between the highest and lowest SDI increased by 54% during 
+that period. The TFR declined from 6·91 (95% UI 6·59-7·20) in 1990 to 4·43 
+(4·01-4·92) in 2019, but the magnitude of decline also varied substantially 
+among regions and cities. In 2019, TFR ranged from 6·41 (5·96-6·86) in Somali to 
+1·50 (1·26-1·80) in Addis Ababa. Life expectancy improved in Ethiopia by 21·93 
+years (21·79-22·07), from 46·91 years (45·71-48·11) in 1990 to 68·84 years 
+(67·51-70·18) in 2019. Addis Ababa had the highest life expectancy at 70·86 
+years (68·91-72·65) in 2019; Afar and Benishangul-Gumuz had the lowest at 63·74 
+years (61·53-66·01) for Afar and 64.28 (61.99-66.63) for Benishangul-Gumuz. The 
+overall increases in life expectancy were driven by declines in under-5 
+mortality and mortality from common infectious diseases, nutritional deficiency, 
+and war and conflict. In 2019, the age-standardised all-cause death rate was the 
+highest in Afar at 1353·38 per 100 000 population (1195·69-1526·19). The leading 
+causes of premature mortality for all sexes in Ethiopia in 2019 were neonatal 
+disorders, diarrhoeal diseases, lower respiratory infections, tuberculosis, 
+stroke, HIV/AIDS, ischaemic heart disease, cirrhosis, congenital defects, and 
+diabetes. With high SDIs and life expectancy for all sexes, Addis Ababa, Dire 
+Dawa, and Harari had low rates of premature mortality from the five leading 

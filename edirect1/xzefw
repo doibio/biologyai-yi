@@ -1,0 +1,1000 @@
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Khan 
+reported grants from the National Institutes of Health during the conduct of the 
+study and outside the submitted work. No other disclosures were reported.
+
+
+50. Aging (Albany NY). 2023 Jul 13;15(13):6073-6099. doi: 10.18632/aging.204866. 
+Epub 2023 Jul 13.
+
+Predicting lifespan-extending chemical compounds for C. elegans with machine 
+learning and biologically interpretable features.
+
+Ribeiro C(1), Farmer CK(2), de Magalhães JP(3), Freitas AA(1).
+
+Author information:
+(1)School of Computing, University of Kent, Canterbury, Kent, UK.
+(2)Centre for Health Services Studies, University of Kent, Canterbury, Kent, UK.
+(3)Genomics of Ageing and Rejuvenation Lab, Institute of Inflammation and 
+Ageing, University of Birmingham, Birmingham, UK.
+
+Recently, there has been a growing interest in the development of 
+pharmacological interventions targeting ageing, as well as in the use of machine 
+learning for analysing ageing-related data. In this work, we use machine 
+learning methods to analyse data from DrugAge, a database of chemical compounds 
+(including drugs) modulating lifespan in model organisms. To this end, we 
+created four types of datasets for predicting whether or not a compound extends 
+the lifespan of C. elegans (the most frequent model organism in DrugAge), using 
+four different types of predictive biological features, based on: 
+compound-protein interactions, interactions between compounds and proteins 
+encoded by ageing-related genes, and two types of terms annotated for proteins 
+targeted by the compounds, namely Gene Ontology (GO) terms and physiology terms 
+from the WormBase's Phenotype Ontology. To analyse these datasets, we used a 
+combination of feature selection methods in a data pre-processing phase and the 
+well-established random forest algorithm for learning predictive models from the 
+selected features. In addition, we interpreted the most important features in 
+the two best models in light of the biology of ageing. One noteworthy feature 
+was the GO term "Glutathione metabolic process", which plays an important role 
+in cellular redox homeostasis and detoxification. We also predicted the most 
+promising novel compounds for extending lifespan from a list of previously 
+unlabelled compounds. These include nitroprusside, which is used as an 
+antihypertensive medication. Overall, our work opens avenues for future work in 
+employing machine learning to predict novel life-extending compounds.
+
+DOI: 10.18632/aging.204866
+PMCID: PMC10373959
+PMID: 37450404 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICTS OF INTEREST: JPM is CSO of YouthBio 
+Therapeutics, an advisor/consultant for the Longevity Vision Fund and NOVOS, and 
+the founder of Magellan Science Ltd, a company providing consulting services in 
+longevity science. The other authors declare no conflict of interest.
+
+
+51. Food Chem. 2023 Dec 1;428:136783. doi: 10.1016/j.foodchem.2023.136783. Epub
+2023  Jul 1.
+
+Tea (Camellia sinensis (L.) Kuntze) as an emerging source of protein and 
+bioactive peptides: A narrative review.
+
+Kumar M(1), Selvasekaran P(2), Chidambaram R(3), Zhang B(4), Hasan M(5), Prakash 
+Gupta O(6), Rais N(7), Sharma K(8), Sharma A(9), Lorenzo JM(10), Parameswari 
+E(11), Deshmukh VP(12), Elkelish A(13), Abdel-Wahab BA(14), Chandran D(15), Dey 
+A(16), Senapathy M(17), Singh S(18), Pandiselvam R(19), Sampathrajan V(20), 
+Dhumal S(21), Amarowicz R(22).
+
+Author information:
+(1)Chemical and Biochemical Processing Division, ICAR - Central Institute for 
+Research on Cotton Technology, Mumbai 400019, India; Department of Biology, East 
+Carolina University, Greenville 27858, USA. Electronic address: 
+manoj.kumar13@icar.gov.in.
+(2)Instrumental and Food Analysis Laboratory, School of Biosciences and 
+Technology, Vellore Institute of Technology, Vellore, Tamilnadu 632014, India. 
+Electronic address: pavidharshiniselva58@gmail.com.
+(3)Instrumental and Food Analysis Laboratory, School of Biosciences and 
+Technology, Vellore Institute of Technology, Vellore, Tamilnadu 632014, India.
+(4)Department of Biology, East Carolina University, Greenville 27858, USA.
+(5)Agro Produce Processing Division, ICAR-Central Institute of Agricultural 
+Engineering, Bhopal 462038, India.
+(6)ICAR - Indian Institute of Wheat and Barley Research, Karnal 132001, India.
+(7)Department of Pharmacy, Bhagwant University, Ajmer, Rajasthan 305004, India.
+(8)Chemical and Biochemical Processing Division, ICAR - Central Institute for 
+Research on Cotton Technology, Mumbai 400019, India.
+(9)Department of Food Science and Technology, Dr. Y.S. Parmar University of 
+Horticulture and Forestry, Nauni 173230, India.
+(10)Centro Tecnológico de la Carne de Galicia, rúa Galicia n 4, Parque 
+Tecnológico de Galicia, San Cibrao das Viñas, 32900 Ourense, Spain.
+(11)Nammazhvar Organic Farming Research Centre, Tamil Nadu Agricultural 
+University, 641003 Coimbatore, India.
+(12)Bharati Vidyapeeth (Deemed to be University), Yashwantrao Mohite Institute 
+of Management, Karad, India.
+(13)Department of Biology, College of Science, Imam Mohammad Ibn Saud Islamic 
+University (IMSIU), Riyadh 11623, Saudi Arabia; Botany Department, Faculty of 
+Science, Suez Canal University, Ismailia 41522, Egypt.
+(14)Department of Medical Pharmacology, College of Medicine, Assiut University, 
+Assiut 7111, Egypt; Department of Pharmacology, College of Pharmacy, Najran 
+University, Najran, Saudi Arabia.
+(15)Department of Animal Husbandry, Government of Kerala, Kerala 679335, India.
+(16)Department of Life Sciences, Presidency University, 86/1 College Street, 
+Kolkata, West Bengal, India.
+(17)Department of Rural Development and Agricultural Extension, College of 
+Agriculture, Wolaita Sodo University, Wolaita Sodo, Ethiopia.
+(18)Dr. S. S. Bhatnagar University Institute of Chemical Engineering and 
+Technology, Panjab University, Chandigarh 160014, India.
+(19)Division of Physiology, Biochemistry and Post-Harvest Technology, 
+ICAR-Central Plantation Crops Research Institute (CPCRI), Kasaragod 671124, 
+India.
+(20)Agricultural College and Research Institute, Tamil Nadu Agricultural 
+University, Madurai 625104, India.
+(21)Division of Horticulture, RCSM College of Agriculture, Kolhapur 416004, 
+India. Electronic address: sangram1326@hotmail.com.
+(22)Institute of Animal Reproduction and Food Research, Polish Academy of 
+Sciences, Olsztyn, Poland.
+
+Tea residues represent one of the major agricultural wastes that are generated 
+after the processing of tea. They account for 21-28% of crude protein and are 
+often discarded without the extraction of valuable proteins. Due to various 
+bioactivity and functional properties, tea proteins are an excellent alternative 
+to other plant-based proteins for usage as food supplements at a higher dosage. 
+Moreover, their good gelation capacity is ideal for the manufacturing of dairy 
+products, jellies, condensation protein, gelatin gel, bread, etc. The current 
+study is the first to comprehend various tea protein extraction methods and 
+their amino acid profile. The preparation of tea protein bioactive peptides and 
+hydrolysates are summarized. Several functional properties (solubility, foaming 
+capacity, emulsification, water/oil absorption capacity) and bioactivities 
+(antioxidant, antihypertensive, antidiabetic) of tea proteins are emphasized.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.foodchem.2023.136783
+PMID: 37450955 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+52. Theor Popul Biol. 2023 Oct;153:69-90. doi: 10.1016/j.tpb.2023.07.001. Epub
+2023  Jul 13.
+
+The Recombination Hotspot Paradox: Co-evolution between PRDM9 and its target 
+sites.
+
+Úbeda F(1), Fyon F(2), Bürger R(3).
+
+Author information:
+(1)Department of Biology, Royal Holloway University of London, Egham TW20 0EX, 
+UK. Electronic address: f.ubeda@rhul.ac.uk.
+(2)Department of Biology, Royal Holloway University of London, Egham TW20 0EX, 
+UK.
+(3)Faculty of Mathematics, University of Vienna, 1090 Vienna, Austria.
+
+Recombination often concentrates in small regions called recombination hotspots 
+where recombination is much higher than the genome's average. In many 
+vertebrates, including humans, gene PRDM9 specifies which DNA motifs will be the 
+target for breaks that initiate recombination, ultimately determining the 
+location of recombination hotspots. Because the sequence that breaks (allowing 
+recombination) is converted into the sequence that does not break (preventing 
+recombination), the latter sequence is over-transmitted to future generations 
+and recombination hotspots are self-destructive. Given their self-destructive 
+nature, recombination hotspots should eventually become extinct in genomes where 
+they are found. While empirical evidence shows that individual hotspots do 
+become inactive over time (die), hotspots are abundant in many vertebrates: a 
+contradiction called the Recombination Hotspot Paradox. What saves recombination 
+hotspots from their foretold extinction? Here we formulate a co-evolutionary 
+model of the interaction among sequence-specific gene conversion, fertility 
+selection, and recurrent mutation. We find that allelic frequencies oscillate 
+leading to stable limit cycles. From a biological perspective this means that 
+when fertility selection is weaker than gene conversion, it cannot stop 
+individual hotspots from dying but can save them from extinction by driving 
+their re-activation (resuscitation). In our model, mutation balances death and 
+resuscitation of hotspots, thus maintaining their number over evolutionary time. 
+Interestingly, we find that multiple alleles result in oscillations that are 
+chaotic and multiple targets in oscillations that are asynchronous between 
+targets thus helping to maintain the average genomic recombination probability 
+constant. Furthermore, we find that the level of expression of PRDM9 should 
+control for the fraction of targets that are hotspots and the overall 
+temperature of the genome. Therefore, our co-evolutionary model improves our 
+understanding of how hotspots may be replaced, thus contributing to solve the 
+Recombination Hotspot Paradox. From a more applied perspective our work provides 
+testable predictions regarding the relation between mutation probability and 
+fertility selection with life expectancy of hotspots.
+
+Copyright © 2023 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.tpb.2023.07.001
+PMID: 37451508 [Indexed for MEDLINE]
+
+
+53. BMJ Open. 2023 Jul 14;13(7):e071319. doi: 10.1136/bmjopen-2022-071319.
+
+Burdens of non-communicable disease attributable to metabolic risk factors in 
+Australia, 1990-2019: joinpoint regression analysis of the Global Burden of 
+Disease Study.
+
+Kibret KT(1), Backholer K(2), Peeters A(2), Tesfay F(2), Nichols M(2).
+
+Author information:
+(1)Global Centre for Preventive Health and NutritionI, Institute for Health 
+Transformation, School of Health and Social Development, Faculty of Health, 
+Deakin University, Geelong, Victoria, Australia kelemu.kibret@deakin.edu.au.
+(2)Global Centre for Preventive Health and NutritionI, Institute for Health 
+Transformation, School of Health and Social Development, Faculty of Health, 
+Deakin University, Geelong, Victoria, Australia.
+
+BACKGROUND: Long-term and comparative assessments of trends in non-communicable 
+disease (NCD) burden attributable to metabolic risk are sparse. This study aimed 
+to assess burdens and trends of NCD attributable to metabolic risk factors in 
+Australia, 1990-2019.
+DESIGN: Population-based observational study.
+SETTINGS AND DATA SOURCE: Data were extracted from the Global Burden of Disease 
+Study 2019 for Australia and trends in NCD burden attributable metabolic risks 
+were estimated using the joinpoint regression model.
+MAIN OUTCOME MEASURES: NCD deaths and disability-adjusted life-years (DALYs) 
+attributed to metabolic risk factors, 1990-2019.
+RESULTS: Results indicate a 1.1% yearly increase in exposure to combined 
+metabolic risk factors from 1990 to 2019. Between 1990 and 2019, the estimated 
+absolute number of deaths from NCDs attributed to combined metabolic risks 
+increased by 17.0%. However, metabolic risk-related NCD burdens in Australia 
+decreased between 1990 and 2019. In 2019, 34.0% of NCD deaths and 20.0% of NCD 
+DALYs were attributed to metabolic risk factors, compared with 42.9% and 
+24.4%, respectively, in 1990. In 2019, cardiovascular diseases (CVDs), neoplasms 
+and chronic kidney diseases were the most common NCD deaths attributed to 
+metabolic risks. High body mass index accounted for the highest proportion of 
+diabetes deaths (47.0%) and DALYs (58.1%) as well as chronic kidney disease 
+deaths (35.4%) and DALYs (39.7%). Similarly, high systolic blood pressure 
+contributed to a high proportion of chronic kidney disease deaths (60.9%) and 
+DALYs (53.2%), and CVDs deaths (44.0%) and DALYs (46.0%).
+CONCLUSION: While the contribution of metabolic risk factors to the burden of 
+NCDs has declined from 1990 to 2019, their role in NCD death and disability 
+remains a challenge as the prevalence of these risk factors has increased. 
+Prevention strategies should focus on metabolic risks particularly high body 
+mass index and high systolic blood pressure to substantially reduce NCD burdens.
+
+© Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY. Published 
+by BMJ.
+
+DOI: 10.1136/bmjopen-2022-071319
+PMCID: PMC10351265
+PMID: 37451731 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+54. BMJ Open. 2023 Jul 14;13(7):e070609. doi: 10.1136/bmjopen-2022-070609.
+
+Proof of concept of prehabilitation: a combination of education and behavioural 
+change, to promote physical activity in people with fibromyalgia.
+
+Courel-Ibáñez J(1), Estévez-López F(2)(3)(4), Hughes C(5), Adams N(6), Fullen 
+BM(7), Davison G(8), Montgomery A(9), Cramp F(10), Maestre C(11), Martin D(12), 
+McVeigh JG(13).
+
+Author information:
+(1)Department of Physical Education and Sports, Faculty of Education and Sport 
+Sciences, University of Granada, Melilla, Spain.
+(2)Department of Child and Adolescent Psychiatry/Psychology, Erasmus MC 
+University Medical Center, Rotterdam, The Netherlands fer@estevez-lopez.com.
+(3)Department of Social and Behavioral Sciences, Harvard TH Chan School of 
+Public Health, Boston, Massachusetts, USA.
+(4)Department of Education, Faculty of Education Sciences, SPORT Research Group 
+(CTS-1024) and CERNEP Research Center, University of Almería, Almería, Spain.
+(5)School of Health Sciences, Ulster University, Belfast, UK.
+(6)Department of Sport, Exercise & Rehabilitation, Northumbria University, 
+Newcastle upon Tyne, UK.
+(7)School of Public Health, Physiotherapy and Sports Science, University College 
+Dublin, Dublin, Ireland.
+(8)Sport and Exercise Sciences Research Institute, Ulster University, Belfast, 
+UK.
+(9)Physiotherapy Department, Ulster Hospital, Dundonald, UK.
+(10)College of Health, Science and Society, University of the West of England, 
+Bristol, UK.
+(11)Department of Health and Human Performance, Universidad Politécnica de 
+Madrid, Madrid, Spain.
+(12)School of Health and Life Sciences, Teesside University & NIHR Applied 
+Research Collaboration for the North East and North Cumbria, Middlesbrough, UK.
+(13)Discipline of Physiotherapy, College of Medicine and Health, University 
+College Cork, Cork, Ireland.
+
+OBJECTIVES: To establish proof of concept of a prehabilitation intervention, a 
+combination of education and behavioural change, preceding a physical activity 
+programme in people with fibromyalgia (FM).
+SETTINGS: Open-label, feasibility clinical trial.
+PARTICIPANTS: Eleven people with FM (10 women).
+INTERVENTIONS: The prehabilitation intervention consisted of 4 weeks, 1 weekly 
+session (~1 to 1.5 hours), aimed to increase self-efficacy and understand why 
+and how to engage in a gentle and self-paced physical activity programme (6 
+weeks of walking with telephone support).
+PRIMARY AND SECONDARY OUTCOME MEASURES: Primary outcome was the acceptability 
+and credibility of the intervention by means of the Credibility/Expectancy 
+Questionnaire. Secondary outcomes comprised scales to measure FM severity, 
+specific symptoms and sedentary behaviour. An exit interview was conducted to 
+identify the strengths and weaknesses and barriers to the intervention.
+RESULTS: One participant dropped out due to finding the walking programme 
+excessively stressful. Participants expected the intervention would improve 
+their symptoms by 22%-38% but resulted in 5%-26% improvements. Participants 
+would be confident in recommending this intervention to a friend who experiences 
+similar problems. The interviews suggested that the fluctuation of symptoms 
+should be considered as an outcome and that the prehabilitation intervention 
+should accomodate these fluctuation. Additional suggestions were to incorporate 
+initial interviews (patient-centred approach), to tailor the programmes to 
+individuals' priorities and to offer a variety of physical activity programmes 
+to improve motivation.
+CONCLUSIONS: This feasibility study demonstrated that our novel approach is 
+acceptable to people with FM. Future interventions should pay attention to 
+flexibility, symptoms fluctuation and patients support.
+TRIAL REGISTRATION NUMBER: NCT03764397.
+
+© Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2022-070609
+PMCID: PMC10351288
+PMID: 37451740 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+55. Sci Rep. 2023 Jul 14;13(1):11386. doi: 10.1038/s41598-023-38294-4.
+
+Evaluating the global, regional, and national impact of syphilis: results from 
+the global burden of disease study 2019.
+
+Chen T(#)(1), Wan B(#)(1)(2), Wang M(3)(4)(5), Lin S(3)(4)(5), Wu Y(3)(4)(5), 
+Huang J(6)(7)(8).
+
+Author information:
+(1)The First Affiliated Hospital, Fujian Medical University, Fuzhou, Fujian, 
+China.
+(2)Faculty of Life Sciences and Medicine, King's College London, London, UK.
+(3)Department of Hepatology, Hepatology Research Institute, The First Affiliated 
+Hospital, Fujian Medical University, No. 20, Chazhong Road, Taijiang District, 
+Fuzhou, 350005, Fujian, China.
+(4)Fujian Clinical Research Center for Liver and Intestinal Diseases, The First 
+Affiliated Hospital, Fujian Medical University, Fuzhou, Fujian, China.
+(5)Department of Hepatology, National Regional Medical Center, Binhai Campus of 
+the First Affiliated Hospital, Fujian Medical University, Fuzhou, Fujian, China.
+(6)Department of Hepatology, Hepatology Research Institute, The First Affiliated 
+Hospital, Fujian Medical University, No. 20, Chazhong Road, Taijiang District, 
+Fuzhou, 350005, Fujian, China. huangjiaofeng@fjmu.edu.cn.
+(7)Fujian Clinical Research Center for Liver and Intestinal Diseases, The First 
+Affiliated Hospital, Fujian Medical University, Fuzhou, Fujian, China. 
+huangjiaofeng@fjmu.edu.cn.
+(8)Department of Hepatology, National Regional Medical Center, Binhai Campus of 
+the First Affiliated Hospital, Fujian Medical University, Fuzhou, Fujian, China. 
+huangjiaofeng@fjmu.edu.cn.
+(#)Contributed equally
+
+Syphilis is a global public health concern. This study aimed to assess the 
+global and regional burden of syphilis from 1990 to 2019. Disease burden was 
+evaluated using disability-adjusted life-years (DALYs) and prevalence. Data were 
+extracted from the 2019 global burden of disease Study, an open database 
+available for download. Age-standardized rates (ASR) and estimated annual 
+percentage changes (EAPC) were calculated to evaluate the syphilis burden over 
+time. In 2019, the total number of prevalent cases of syphilis was 49.71 million 
+worldwide. The ASR of prevalence was stable from 1990 to 2019 with an EAPC 
+of 0.00 (95% CI - 0.10-0.11). The number of DALYs caused by syphilis was 
+7.36 million in 2019, reflecting a reduction of 16.38% compared with that in 
+1990 (8.80 million). The ASR of DALYs exhibited a decreasing trend from 1990 to 
+2019 (EAPC =  - 1.01; 95% CI - 1.19 to - 0.84), with the highest rates observed 
+in the younger age group (< 14 years old). In 2019, the highest ASR of DALYs was 
+found in low sociodemographic index (SDI) regions (239.21/100,000), and the 
+lowest in high SDI regions (3.14/100,000). Generally, the ASR of DALYs decreased 
+as the SDI increased. The top three countries with the highest ASR of DALYs for 
+syphilis were the Solomon Islands, Equatorial Guinea, and Liberia. While the 
+global prevalence of syphilis remained persistently high from 1990 to 2019, 
+there has been a recent decrease in the ASR of DALYs. Increased attention should 
+be dedicated to younger populations and regions characterized by low SDIs.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41598-023-38294-4
+PMCID: PMC10349077
+PMID: 37452074 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+56. J Cancer Educ. 2023 Oct;38(5):1697-1709. doi: 10.1007/s13187-023-02324-6.
+Epub  2023 Jul 14.
+
+Feasibility of Microlearning for Improving the Self-Efficacy of Cancer Patients 
+Managing Side Effects of Chemotherapy.
+
+Janssen A(1), Shah K(2), Rabbets M(3), Nagrial A(3), Pene C(4), Zachulski C(3), 
+Phillips JL(5)(6), Harnett P(3), Shaw T(2).
+
+Author information:
+(1)Faculty of Medicine and Health, The University of Sydney, Sydney, Australia. 
+anna.janssen@sydney.edu.au.
+(2)Faculty of Medicine and Health, The University of Sydney, Sydney, Australia.
+(3)Crown Princess Mary Cancer Centre, Western Sydney Local Health District, 
+Westmead, NSW, Australia.
+(4)Sacred Heart Service, St Vincent's Hospital, Sydney, NSW, Australia.
+(5)Faculty of Health, School of Nursing, Queensland University of Technology, 
+QLD, Brisbane, Australia.
+(6)IMPACCT, Faculty of Health, University of Technology Sydney, Ultimo, 
+Australia.
+
+Lung cancer patients have a high symptom burden that negatively affects their 
+quality of life. Increasing patient self-efficacy to deal with treatment side 
+effects can ameliorate their symptom burden. Education programs can help enhance 
+patient self-efficacy by giving patients more control over their condition 
+through increased disease literacy. This study aimed to evaluate the feasibility 
+of microlearning for delivering lung cancer patients' information on side 
+effects of chemotherapy. Secondary objectives of the program are to understand 
+the acceptability of microlearning for delivery this type of education to lung 
+cancer patients and the potential impact of microlearning on patient 
+self-efficacy, knowledge and confidence managing side effects of chemotherapy. A 
+mixed-methods prepost test (or quasi-experimental) study design was used to 
+better enable patients to identify and manage the side effects of their 
+condition and chemotherapy. Participants were patients diagnosed with stage II 
+to stage IV lung cancer, who had a life expectancy of greater than 3 months and 
+were aged 18 years or older. Multiple validated scales were used to assess 
+patient self-efficacy pre- and post-intervention. The online program was 
+evaluated using quantitative data of completion rates extracted from the online 
+platform. Semi-structured interviews were used to explore the impact of the 
+online program on perceived self-efficacy and quality of life. Twenty-three 
+participants agreed to participate in the study and five agreed to complete a 
+semi-structured interview. Participants found the content comprehensive, 
+relevant and engaging. The program improved perceived disease literacy and 
+helped participants develop coping strategies to manage side effects. 
+Participants also found the platform easy to use and navigate. Additional 
+courses and features were requested. Patients with a diagnosis of cancer receive 
+a large amount of information about the side effects of chemotherapy and how to 
+manage them. This information is often provided soon after diagnosis or upon 
+commencement of therapy, which can be overwhelming for some patients. 
+Microlearning, a method of online learning that spaces distributing of content 
+over several weeks, may be a useful tool for supporting delivering of health 
+information to this group of patients.
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s13187-023-02324-6
+PMCID: PMC10509055
+PMID: 37452227 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors listed in this publication conducted 
+the research as part of the salaried position supported by their hiring 
+organisation. No additional funding was provided for this research study.
+
+
+57. Alcohol Alcohol. 2023 Sep 9;58(5):485-496. doi: 10.1093/alcalc/agad046.
+
+The global burden of alcoholic liver disease: a systematic analysis of the 
+global burden of disease study 2019.
+
+Zhang N(1)(2), Xue F(1), Wu XN(1)(2), Zhang W(1)(2), Hou JJ(1)(2), Xiang 
+JX(1)(2), Lv Y(1)(2), Zhang XF(1)(2).
+
+Author information:
+(1)Department of Hepatobiliary Surgery and Institute of Advanced Surgical 
+Technology and Engineering, The First Affiliated Hospital of Xi'an Jiaotong 
+University, 277 West Yanta Road, Xi'an, Shaanxi Province, PR China.
+(2)National Local Joint Engineering Research Center for Precision Surgery and 
+Regenerative Medicine, The First Affiliated Hospital of Xi'an Jiaotong 
+University, 277 West Yanta Road, Xi'an, Shaanxi Province, PR China.
+
+Alcohol use is a major risk factor for the burden of mortality and morbidity. 
+Alcoholic cirrhosis (AC) and alcoholic liver cancer (ALC) are most important and 
+severe liver disease outcomes caused by alcohol use. The objectives of the 
+current study were to investigate the global prevalence and burden of disease in 
+disability-adjusted life years (DALYs) for AC and ALC, based on data from the 
+Global Burden of Disease (GBD). Incidence, prevalence, death, and DALYs for GBDs 
+in different locations, years, sex, and age groups were estimated using 
+DisMod-MR 2.1 and a generic Cause of Death Ensemble Modeling approach. The 
+correlations between the age-standardized incidence rate or age-standardized 
+death rate and gender, sociodemographic index (SDI), and alcohol usage were 
+conducted by Generalized Linear Models. Globally, the changes of 
+age-standardized rates of indicators were not much significant over the 30-year 
+period. However, the changes varied widely across regions. Central Asia and East 
+Europe contributed the highest age-standardized incidence, prevalence, death, 
+and DALYs and increased sharply by past 30 years. Generalized Linear Models 
+(GLMs) showed male gender as a risk factor of AC, with the relative risk of 
+incidence of 1.521 and relative risk of death of 1.503. Globally, there were 
+improvements in overall health with regard to GBDs over the 30 years. However, 
+the prevention of AC and ALC should be promoted in middle and middle-high SDI 
+regions, especially Central Asia and East Europe, whereas more medical resources 
+should be provided to improve treatment levels in low SDI region.
+
+© The Author(s) 2023. Medical Council on Alcohol and Oxford University Press. 
+All rights reserved. For permissions, please e-mail: 
+journals.permissions@oup.com.
+
+DOI: 10.1093/alcalc/agad046
+PMID: 37452498 [Indexed for MEDLINE]
+
+
+58. Adv Exp Med Biol. 2023;1405:545-564. doi: 10.1007/978-3-031-23705-8_21.
+
+Metastatic Lesions of the Brain and Spine.
+
+Ung TH(1), Meola A(2), Chang SD(1).
+
+Author information:
+(1)Center for Academic Medicine, Department of Neurosurgery, MC: 5327, Stanford 
+University School of Medicine, 453 Quarry Road, Palo Alto, CA, 94304, USA.
+(2)Center for Academic Medicine, Department of Neurosurgery, MC: 5327, Stanford 
+University School of Medicine, 453 Quarry Road, Palo Alto, CA, 94304, USA. 
+ameola@stanford.edu.
+
+Brain and spinal metastases are common in cancer patients and are associated 
+with significant morbidity and mortality. Continued advancement in the systemic 
+care of cancer has increased the life expectancy of patients, and consequently, 
+the incidence of brain and spine metastasis has increased. There has been an 
+increase in the understanding of oncogenic mutations, and research has also 
+demonstrated spatial and temporal mutations in patients that may drive overall 
+treatment resistance and failure. Combinatory treatments with radiation, 
+surgery, and newer systemic therapies have continued to increase the life 
+expectancy of patients with brain and spine metastases. Given the overall 
+complexity of brain and spine metastases, this chapter aims to give a 
+comprehensive overview and cover important topics concerning brain and spine 
+metastases. This will include the molecular, genetic, radiographic, surgical, 
+and non-surgical treatments of brain and spinal metastases.
+
+© 2023. Springer Nature Switzerland AG.
+
+DOI: 10.1007/978-3-031-23705-8_21
+PMID: 37452953 [Indexed for MEDLINE]
+
+
+59. J Cyst Fibros. 2023 Jul 13:S1569-1993(23)00831-7. doi: 
+10.1016/j.jcf.2023.07.001. Online ahead of print.
+
+Improvement of lipid and lipoprotein profiles in children and adolescents with 
+cystic fibrosis on CFTR modulator therapy.
+
+Yuzyuk T(1), McDonald CM(2), Zuromski LM(3), De Biase I(4), Johnson L(5), 
+Williams N(2), Meihls S(6), Asfour F(6).
+
+Author information:
+(1)Department of Pathology, University of Utah School of Medicine, Salt Lake 
+City, UT, USA; ARUP Institute of Clinical & Experimental Pathology, Salt Lake 
+City, UT, USA. Electronic address: tatiana.n.yuzyuk@aruplab.com.
+(2)Cystic Fibrosis Clinic, Primary Children's Hospital, Salt Lake City, UT.
+(3)ARUP Institute of Clinical & Experimental Pathology, Salt Lake City, UT, USA.
+(4)Department of Pathology, University of Utah School of Medicine, Salt Lake 
+City, UT, USA; ARUP Institute of Clinical & Experimental Pathology, Salt Lake 
+City, UT, USA.
+(5)Seattle Children's Hospital, Seattle, WA, USA.
+(6)Department of Pediatrics, University of Utah School of Medicine, Salt Lake 
+City, UT, USA.
+
+BACKGROUND: Association of a high-fat diet with increased risks of 
+cardiovascular disease (CVD) and type 2 diabetes, has prompted evaluation of 
+lipids in people with CF (pwCF). However, most evidence on dyslipidemia was 
+published before CF transmembrane conductance regulator (CFTR) modulators became 
+a standard of care. The main goal of this study was to investigate the effect of 
+CFTR modulator therapies on lipid and lipoprotein profiles in children and 
+adolescents with CF.
+METHODS: Blood samples were collected from 153 pwCF (10.1 ± 4.7 years of age) 
+and 60 age-matched controls. Most pwCF were pancreatic insufficient on 
+pancreatic enzyme replacement therapy. By the end of the study, 65% of CF 
+participants were on CFTR modulator therapy for >1 month. The results of 
+traditional and advanced lipid testing in pwCF were correlated with clinical and 
+dietary information.
+RESULTS: Total cholesterol and low-density lipoprotein (LDL) cholesterol were 
+significantly lower in pwCF compared to non-CF participants. Those not receiving 
+CFTR modulators also had significantly lower high-density lipoprotein (HDL) 
+cholesterol and HDL particle number than controls. Individuals with CF on 
+modulator therapy had significantly higher concentrations of anti-atherogenic 
+HDL cholesterol and HDL particles along with lower levels of atherogenic large 
+very-low density lipoprotein (VLDL) particles, total and small LDL particles, 
+and triglycerides compared to those without CFTR modulator therapy.
+CONCLUSION: CFTR modulator therapy has a beneficial effect on dyslipidemia in 
+CF. It remains to be seen if these positive changes translate into decreased CVD 
+risk later in life given the increasing life expectancy in CF.
+
+Copyright © 2023 European Cystic Fibrosis Society. Published by Elsevier B.V. 
+All rights reserved.
+
+DOI: 10.1016/j.jcf.2023.07.001
+PMID: 37453889
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+have declared no conflict of interest related to this work.
+
+
+60. BMC Public Health. 2023 Jul 15;23(1):1361. doi: 10.1186/s12889-023-16076-x.
+
+Global, regional, and national time trends in cancer mortality attributable to 
+high fasting plasma glucose: an age-period cohort analysis.
+
+Xie J(#)(1), Liu Z(#)(2), Ren L(3), He L(4), Lu S(5), Meng X(6), Zhang X(7), Su 
+Z(8), Jing S(7), Shan T(5), Wang J(9), Xia R(10), Feng W(9), Li Y(11), Liu 
+N(12)(13), Liu Y(14)(15).
+
+Author information:
+(1)Department of Pharmacy, Zhongda Hospital, School of Medicine, Southeast 
+University, Nanjing, China.
+(2)National Center for Cardiovascular Disease, Fuwai Hospital, Chinese Academy 
+of Medical Sciences & Peking Union Medical College, Beijing, 100037, China.
+(3)Department of Gerontology, Zhongda Hospital, School of Medicine, Southeast 
+University, Nanjing, Jiangsu, China.
+(4)Department of Endocrinology, Key Laboratory of Endocrinology of National 
+Health Commission, Peking Union Medical College Hospital, Chinese Academy of 
+Medical Sciences & Peking Union Medical College, Beijing, China.
+(5)Department of Outpatient, The First Affiliated Hospital, Nanjing Medical 
+University, Nanjing, China.
+(6)Department of Thoracic Surgical Oncology, National Cancer Center/Cancer 
+Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, 
+Beijing, 100021, China.
+(7)Department of Information, The First Affiliated Hospital of Nanjing Medical 
+University, Nanjing, China.
+(8)Guangdong Cardiovascular Institute, Guangdong Provincial People's Hospital, 
+Guangdong Academy of Medical Sciences, Guangzhou, China.
+(9)Department of Medical Informatics, School of Biomedical Engineering and 
+Informatics, Nanjing Medical University, Nanjing, China.
+(10)Department of Medicine, University Hospital Munich, 
+Ludwig-Maximilians-University Munich (LMU), Munich, Germany.
+(11)Laboratory of Experimental Intensive Care and Anesthesiology, Academic 
+Medical Center, Amsterdam, The Netherlands.
+(12)Department of Pharmacy, Zhongda Hospital, School of Medicine, Southeast 
+University, Nanjing, China. liuyun@njmu.edu.cn.
+(13)Department of Cardiology, Zhongda Hospital, School of Medicine, Southeast 
+University, Nanjing, China. liuyun@njmu.edu.cn.
+(14)Department of Information, The First Affiliated Hospital of Nanjing Medical 
+University, Nanjing, China. liunf@seu.edu.cn.
+(15)Department of Medical Informatics, School of Biomedical Engineering and 
+Informatics, Nanjing Medical University, Nanjing, China. liunf@seu.edu.cn.
+(#)Contributed equally
+
+BACKGROUND: High fasting plasma glucose (HFPG) is the fastest-growing risk 
+factor for cancer deaths worldwide. We reported the cancer mortality 
+attributable to HFPG at global, regional, and national levels over the past 
+three decades and associations with age, period, and birth cohort.
+METHODS: Data for this study were retrieved from the Global Burden of Disease 
+Study 2019, and we used age-period-cohort modelling to estimate age, cohort and 
+period effects, as well as net drift (overall annual percentage change) and 
+local drift (annual percentage change in each age group).
+RESULTS: Over the past 30 years, the global age-standardized mortality rate 
+(ASMR) attributable to HFPG has increased by 27.8%. The ASMR in 2019 was highest 
+in the male population in high sociodemographic index (SDI) areas (8.70; 95% CI, 
+2.23-18.04). The net drift for mortality was highest in the female population in 
+low SDI areas (2.33; 95% CI, 2.12-2.55). Unfavourable period and cohort effects 
+were found across all SDI quintiles. Cancer subtypes such as "trachea, bronchus, 
+and lung cancers", "colon and rectal cancers", "breast cancer" and "pancreatic 
+cancer" exhibited similar trends.
+CONCLUSIONS: The cancer mortality attributable to HFPG has surged during the 
+past three decades. Unfavourable age-period-cohort effects on mortality were 
+observed across all SDI quintiles, and the cancer mortality attributable to HFPG 
+is expected to continue to increase rapidly in the future, particularly in lower 
+SDI locations. This is a grim global public health issue that requires immediate 
+attention.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12889-023-16076-x
+PMCID: PMC10349485
+PMID: 37454041 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.61. Sci Rep. 2023 Jul 15;13(1):11429. doi: 10.1038/s41598-023-38549-0.
+
+Modulation of toxicity effects of CuSO(4) by sulfated polysaccharides extracted 
+from brown algae (Sargassum tenerrimum) in Danio rerio as a model.
+
+Zargari A(1), Nejatian M(2)(3), Abbaszadeh S(4)(5), Jahanbin K(6), Bagheri T(7), 
+Hedayati A(8), Sheykhi M(9).
+
+Author information:
+(1)Faculty of Fisheries and Environmental Sciences, Gorgan University of 
+Agricultural Sciences and Natural Resources, Gorgan, Iran. 
+ash.zargari@gmail.com.
+(2)Department of Nutrition Science and Food Hygiene, Faculty of Health, 
+Baqiyatallah University of Medical Sciences, Tehran, Iran. mnejaatian@gmail.com.
+(3)Health Research Center, Life Style Institute, Baqiyatallah University of 
+Medical Sciences, Tehran, Iran. mnejaatian@gmail.com.
+(4)Department of Nutrition Science and Food Hygiene, Faculty of Health, 
+Baqiyatallah University of Medical Sciences, Tehran, Iran.
+(5)Health Research Center, Life Style Institute, Baqiyatallah University of 
+Medical Sciences, Tehran, Iran.
+(6)Faculty of Agricultural Engineering, Department of Food Science and 
+Technology, Shahrood University of Technology, Shahrood, Iran.
+(7)Offshore Water Research Center (OWRC), Iranian Fisheries Science Research 
+Institute, Agricultural Research, Education and Extension Organization (AREEO), 
+Chabahar, Iran.
+(8)Faculty of Fisheries and Environmental Sciences, Gorgan University of 
+Agricultural Sciences and Natural Resources, Gorgan, Iran.
+(9)Student Research Committee, Baqiyatallah University of Medical Sciences, 
+Tehran, Iran.
+
+Copper is widely used in agriculture and aquaculture due to its high 
+disinfection properties and relatively low cost. However, the increase in copper 
+concentration due to evaporation can lead to water reservoir pollution, which 
+can harm the health of consumers. The present study aimed to determine the role 
+of sulfated polysaccharides (SPs) extracted from Sargassum tenerimum algae in 
+reducing lesions caused by the heavy metal copper. Zebrafish (Danio rerio) were 
+used as a human model in five treatments. The negative and positive control 
+groups were fed a diet containing zero percent of SPs, while the experimental 
+groups were fed 0.5%, 1%, and 1.5% of SPs in three treatments for 56 days, 
+finally CuSO4 was exposed only to the positive control group and the groups fed 
+with SPs. Results showed a significant decrease in the activity level of ALT 
+enzymes (39-16 U/mL), AST (67-46 U/mL), and ALP (485-237 U/mL), confirming the 
+results obtained from histopathological studies in CuSO4 exposed groups. The 
+addition of SPs to the diet resulted in a significant reduction (sig < 0.05) of 
+mortalities due to the decrease of tissue damage. Additionally, due to the 
+anti-inflammatory properties and the protective effect of SPs, a significant 
+decrease (sig < 0.05) was observed in the relative expression of Il-1β and Tnf-α 
+genes.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41598-023-38549-0
+PMCID: PMC10349887
+PMID: 37454230 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+62. Braz J Microbiol. 2023 Sep;54(3):2163-2171. doi: 10.1007/s42770-023-01066-3. 
+Epub 2023 Jul 16.
+
+Risk factors for listeriosis due to sausage consumption in Mexico: consumer 
+practices, bacterial survival, and quantitative microbial risk assessment.
+
+Castañeda-Ruelas GM(1), Arce-Navarro KS(1), Jiménez-Edeza M(2).
+
+Author information:
+(1)Programa de Posgrado Integral en Biotecnología, Facultad de Ciencias Químico 
+Biológicas, Laboratorio de Investigación y Diagnóstico Microbiológico, 
+Universidad Autónoma de Sinaloa, Ciudad Universitaria, 80013, Culiacán, Sinaloa, 
+Mexico.
+(2)Programa de Posgrado Integral en Biotecnología, Facultad de Ciencias Químico 
+Biológicas, Laboratorio de Investigación y Diagnóstico Microbiológico, 
+Universidad Autónoma de Sinaloa, Ciudad Universitaria, 80013, Culiacán, Sinaloa, 
+Mexico. mjimeneze@uas.edu.mx.
+
+Listeriosis is a foodborne disease caused by Listeria monocytogenes (Lm), which 
+represents a public health problem. Lm has been identified as an important 
+contaminating bacterium of ready-to-eat meat products (RTEM) in Mexico. The 
+objective was to explore the risk factors for acquiring listeriosis due to 
+sausage consumption by defining the consumer profile, evaluating the survival of 
+Lm in sausage (5, 10, and 25 °C for 32 days) and performing a quantitative 
+microbiological risk assessment. The survey of 100 participants revealed that 
+the factors compromising the safety of the RTEM by the consumer are the 
+extension of the shelf life. Acquiring packaged RTEM was observed as a safe 
+habit. All respondents stated that they were unaware of listeriosis, but 18% 
+reported infections linked to RTEM, mainly sausage. The sausage supports the 
+growth of Lm, whose population increases in congruence with temperature (25 °C > 
+10 °C >5 °C) and storage time (P ≤ 0.05). The increase in temperature decreases 
+the adaptation time (Lag25 °C = 1.0 h, Lag10 °C= 92.5 h, Lag5 °C = 226.1 h) and 
+increases the growth rate (μ25 °C = 4.43 CFU/h, μ10 °C = 0.075 CFU/h, μ5 °C = 
+0.0026 CFU/h) of Lm on the sausage. The risk of listeriosis due to sausage 
+consumption increased according to the increase in temperature: 5.53 × 10-8-1.42 
+× 10-5 (5 °C), 0.00616-0.111 (10 °C), and 0.109-1.00 (25 °C). Consumer education 
+in the hygienic management of RTEM and information on associated pathogens will 
+minimize the risk of disease.
+
+© 2023. The Author(s) under exclusive licence to Sociedade Brasileira de 
+Microbiologia.
+
+DOI: 10.1007/s42770-023-01066-3
+PMCID: PMC10484847
+PMID: 37454392 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+63. Philos Trans A Math Phys Eng Sci. 2023 Sep 4;381(2254):20220168. doi: 
+10.1098/rsta.2022.0168. Epub 2023 Jul 17.
+
+Feasibility of determining asphalt pavement condition from falling weight 
+deflectometer test and finite element model updating.
+
+Deng Y(1), Zhang Y(2)(3), Shi X(1).
+
+Author information:
+(1)National Center for Transportation Infrastructure Durability and 
+Life-Extension (TriDurLE), Department of Civil and Environmental Engineering, 
+Washington State University, Pullman, WA 99164, USA.
+(2)State Key Laboratory for Health and Safety of Bridge Structures, Wuhan, Hubei 
+430034, People's Republic of China.
+(3)China Railway Bridge Science Research Institute, Ltd., Wuhan, Hubei 430034, 
+People's Republic of China.
+
+Determination of pavement internal condition from a non-destructive field test 
+is a persistent topic for its practical necessity and difficulty. It is 
+essentially an inverse problem calibrating pavement material and structural 
+properties from pavement responses. Considering the intrinsic complexity of 
+asphalt pavement materials (e.g., time and temperature dependencies of asphalt 
+mixture and stress dependency of unbound granular materials), this problem has 
+become a typical high-dimensional optimization problem with a large and diverse 
+set of calibrated parameters. This study investigated the feasibility of 
+artificial intelligence-based finite element model updating in addressing this 
+problem, and focused on the accuracy as well as stability of the backcalculated 
+results. For a comprehensive evaluation of this method, the effects of its 
+components such as the surrogate model representing the pavement system, 
+the applied pavement response, the optimization algorithm and 
+the backcalculation scheme were characterized. Finally, we found that the 
+sensitivity of applied pavement responses to thebackcalculated pavement 
+condition, the number of applied pavement responses and the balance between the 
+backcalculated pavement condition and the applied test were of significant 
+importance to achieving accurate and stable backcalculation results. 
+Corresponding modifications were recommended to be conducted in future research 
+for improving the performance of the proposed backcalculation method. This 
+article is part of the theme issue 'Artificial intelligence in failure analysis 
+of transportation infrastructure and materials'.
+
+DOI: 10.1098/rsta.2022.0168
+PMID: 37454683
+
+
+64. Zhongguo Xue Xi Chong Bing Fang Zhi Za Zhi. 2023 May 17;35(3):299-306. doi: 
+10.16250/j.32.1374.2022287.
+
+[Progress in methodology of the Global Burden of Disease Study and its impact on 
+the disease burden of parasitic diseases].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Zeng T(1), Jia T(1).
+
+Author information:
+(1)National Institute of Parasitic Diseases, Chinese Center for Disease Control 
+and Prevention (Chinese Center for Tropical Diseases Research); WHO 
+Collaborating Centre for Tropical Diseases; National Center for International 
+Research on Tropical Diseases; National Health Commission Key Laboratory of 
+Parasite and Vector Biology, Shanghai 200025, China.
+
+Currently, the Global Burden of Disease Study (GBD) is the most comprehensive, 
+systematic, and largest-scale global observational epidemiological project, 
+which measures the national, regional and global mortality and disability of 
+diseases, injuries and risk factors that threaten human health using unified 
+indicators, such as disability-adjusted life year. This review describes the 
+development history, assessment process and methodological advances of GBD, and 
+discusses the impact of GBD on the burden of parasitic diseases, aiming to 
+provide insights into the widespread use of GBD.
+
+Publisher: ［摘要］ 全球疾病负担研究 (Global Burden of Disease Study, GBD) 
+是目前最综合、最系统、最大规模的世界性观察流行病 学研究项目, 采用伤残调整寿命年 (disability-adjusted life year, DALY) 
+等一致性指标对威胁人类健康的主要疾病、伤害和 危险因素所致的死亡和伤残进行国家、地区和全球水平的人群健康进行综合测量。本文全面介绍了 GBD 的发展史、评 
+估流程和方法学研究进展及其对寄生虫病疾病负担的影响, 从而为 GBD 方法的推广应用提供参考。.
+
+DOI: 10.16250/j.32.1374.2022287
+PMID: 37455104 [Indexed for MEDLINE]
+
+
+65. Thorac Cancer. 2023 Aug;14(24):2361-2407. doi: 10.1111/1759-7714.15026. Epub 
+2023 Jul 17.
+
+Burden of esophageal cancer between 2010 and 2019 in Asian countries by 
+geographical region and sociodemographic index: A comparison with global data.
+
+Mazidimoradi A(1), Amiri S(1), Khani Y(2)(3), Allahqoli L(4), Salehiniya H(5).
+
+Author information:
+(1)Shiraz University of Medical Sciences, Shiraz, Iran.
+(2)Clinical Research Development Unit, Shahid Madani Hospital, Alborz University 
+of Medical Sciences, Karaj, Iran.
+(3)School of Public Health and Safety, Shahid Beheshti University of Medical 
+Sciences, Tehran, Iran.
+(4)Midwifery Department, Ministry of Health and Medical Education, Tehran, Iran.
+(5)Department of Epidemiology and Biostatistics, School of Health, Social 
+Determinants of Health Research Center, Birjand University of Medical Sciences, 
+Birjand, Iran.
+
+BACKGROUND: The aim of this study was to describe the trends in incidence, 
+mortality, and burden of esophageal cancer (EC) in Asia from 2010 through 2019 
+and compare with other global continental data.
+METHODS: We collected EC data from the 2019 Global Burden of Disease study from 
+2010 to 2019 in 49 countries and territories in Asia based on the 
+sociodemographic index (SDI). For all locations, annual case data and 
+age-standardized rates (ASRs) were extracted to investigate the EC incidence, 
+prevalence, mortality, and disability-adjusted life-years (DALYs). The ASR 
+relative difference (%) between years and the male/female (M/F) ratio were 
+calculated. Data are reported in values and 95% uncertainty interval (UI).
+RESULTS: In 2019, more than 70% of EC new cases, deaths, prevalence, and DALYs 
+occurred in Asian countries. From 2010 to 2019, incidences, deaths, prevalence 
+cases, and DALY number of EC increased over 1.10-, 1.07-, 1.14-, and 1.03-fold, 
+in Asia. During this period, the age-standardized incidence rate (ASIR), 
+age-standardized death rate (ASDR), age-standardized prevalence rate (ASPR), and 
+age-standardized DALYs rate (DALYs ASR) of EC decreased by 18, 21, 14, and 22%, 
+respectively. The rate of decline in Asia is higher than in the world and other 
+continents. In 2019, age-specific incidence, death, prevalence, and DALY cases 
+of EC cancer peaked at 65-74, 70-74, 65-69, and 65-69 years, respectively. In 
+2019, the highest ASIR, ASDR, ASPR, and DALYs ASR of EC were observed in East 
+Asian countries, while having the highest decreasing trend. In 2019, among high 
+SDI Asian countries, Taiwan had the highest ASIR, ASPR, and DALYs ASR, and the 
+United Arab Emirates had the highest ASDR. Among high-middle SDIs, Kazakhstan 
+had the highest ASIR, ASPR, ASDR, and DALYs ASR; among middle SDIs, China had 
+the highest ASIR, ASDR, and ASPR, and Viet Nam had the highest DALYs ASR; among 
+low-middle SDIs, Mongolia had the highest ASIR, ASDR, ASPR, and DALY ASR of EC 
+cancer. Among low SDI Asian countries, Pakistan had the highest ASIR and ASPR, 
+and DALY ASR for EC cancer. For four indicators, in most countries, the ratio of 
+men was higher than women, and in some countries, this ratio reached more than 
+10 times.
+CONCLUSION: Although the rate of decline in incidence, death, prevalence and 
+burden of EC in Asia was higher than in other areas in the last 10 years, more 
+than 70% of these amounts occur in Asia. Therefore, it appears that adopting 
+appropriate strategies in the field of identifying and controlling modifiable 
+risk factors for EC, implementing screening programs, and timely diagnosis and 
+treatment will help in reducing the burden of this disease in Asian countries.
+
+© 2023 The Authors. Thoracic Cancer published by China Lung Oncology Group and 
+John Wiley & Sons Australia, Ltd.
+
+DOI: 10.1111/1759-7714.15026
+PMCID: PMC10447175
+PMID: 37455657 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no competing interest.
+
+
+66. Kidney Med. 2023 Jun 14;5(8):100687. doi: 10.1016/j.xkme.2023.100687. 
+eCollection 2023 Aug.
+
+Perceived Life Expectancy Among Dialysis Recipients: A Scoping Review.
+
+Beckwith H(1)(2), Thind A(1)(2), Brown EA(1)(2).
+
+Author information:
+(1)Renal Department, Imperial College Healthcare NHS Trust, London, United 
+Kingdom.
+(2)Department of Renal Medicine, Imperial College London, London, United 
+Kingdom.
+
+RATIONALE & OBJECTIVE: Greater prognostic understanding is associated with 
+higher quality care at the end of life. We undertook a scoping review to explore 
+how long dialysis recipients expect to live.
+STUDY DESIGN: Scoping Review.
+SETTING & STUDY POPULATIONS: People with kidney failure over 18 years old.
+SEARCH STRATEGY & SOURCES: Studies were identified by searching Medline, Embase, 
+APA PsycINFO, HMIC, and ProQuest database for terms related to "life 
+expectancy", "self-estimated", and "end stage kidney disease".
+DATA EXTRACTION: Search strategies reported 349 unique, potentially eligible 
+studies, with 8 studies meeting the inclusion criteria after screening.
+RESULTS: Significant mismatches between dialysis recipients and their health 
+care provider's estimations of prognosis were reported, with patients predicting 
+significantly higher life expectancies than health care professionals and almost 
+no agreement between patient and nephrologist's estimates of 1-year survival. 
+Documented cognitive impairment did not affect 1-year or 5-year prognosis 
+estimates, nor did gender, age, time on dialysis, or discussing perceived life 
+expectancy. Dialysis recipients who thought they were on the transplant list or 
+who self-identified as African American reported higher perceived life 
+expectancy, whereas people who were 75 years or older, or with fair or poor 
+self-reported health status reported a lower perceived life expectancy. Those 
+with a lower perceived life expectancy preferred care focusing on relieving pain 
+and discomfort, whereas people who thought they had a higher chance of survival 
+were significantly more likely to prefer life-extending care.
+LIMITATIONS: There is a marked paucity of research in this area, with most 
+studies conducted in North American cohorts.
+CONCLUSIONS: Optimistic patient prognostic expectations persist in dialysis 
+recipients. Given the effects of perceived life expectancy on treatment choices 
+and subsequent quality of life, it is important that transparent discussions 
+regarding prognosis are conducted with people receiving dialysis and their 
+families.
+PLAIN-LANGUAGE SUMMARY: Understanding illness severity and prognosis allows 
+people to make decisions and prioritize areas of their lives that are important 
+to them. We undertook a scoping review to explore how long dialysis recipients 
+expect to live. We found significant mismatches between the perceived life 
+expectancy of people treated with dialysis and their health care providers. 
+Perceived life expectancy influenced treatment choices; thus, those who thought 
+they would die sooner prioritized care focusing on relieving pain and 
+discomfort. Those who thought they had a higher chance of survival were more 
+likely to prefer life-extending care (with potential effects on quality of 
+life). It is important to have frank discussions about prognosis with people 
+receiving dialysis, to empower individuals and help them make informed decisions 
+about their care.
+
+© 2023 The Authors.
+
+DOI: 10.1016/j.xkme.2023.100687
+PMCID: PMC10345159
+PMID: 37455792
+
+
+67. Int J Burns Trauma. 2023 Jun 15;13(3):126-135. eCollection 2023.
+
+Uncemented hemiarthroplasty may have a role in the treatment of unstable 
+intertrochanteric fractures in elderly patient. A survival complications and 
+functional outcomes analysis.
+
+Andriollo L(1)(2), Sangaletti R(1)(3), Are L(1)(2), Perticarini L(3), Benazzo 
+F(3)(4), Rossi SMP(3).
+
+Author information:
+(1)U.O.C Ortopedia e Traumatologia, Fondazione Poliambulanza Via Bissolati 57, 
+25124, Brescia, Italy.
+(2)Università Cattolica del Sacro Cuore 00185, Roma, Italy.
+(3)Sezione di Chirurgia Protesica ad Indirizzo Robotico - Unità di Traumatologia 
+dello Sport, U.O.C Ortopedia e Traumatologia, Fondazione Poliambulanza Via 
+Bissolati 57, 25124, Brescia, Italy.
+(4)IUSS Istituto Universitario di Studi Superiori 27100, Pavia, Italy.
+
+BACKGROUND: Fractures of the proximal femur account for 30% of all fractures 
+requiring surgical treatment. The optimal treatment for per- and 
+intertrochanteric fractures, particularly associated with trochanter 
+instability, is still open to debate. For these reasons, some authors have 
+recently supported the use of bipolar arthroplasty or hemiarthroplasty as a 
+treatment capable of reducing the risk of complications and obtaining a better 
+functional result. The purpose of this study was to evaluate the functional and 
+clinical outcomes at minimum six months of follow up of bipolar hemiarthroplasty 
+as the primary treatment for intertrochanteric fracture in older patients. A 
+secondary objective was to study the risk of early and intraoperative 
+complications.
+METHODS: From November 2020 to April 2022, 102 patients with lateral proximal 
+femur fracture underwent surgical operation with implant of a long-stemmed 
+bipolar hemiarthroplasty. 86 patients were enrolled. The average age at the time 
+of fracture was 87.4 ± 4.6 (range 77-98) years. Of the patients, 76.7% were 
+female. For all patients intra- and perioperative data were extracted. All 
+available patients were evaluated at a minimum 6-months follow-up to 

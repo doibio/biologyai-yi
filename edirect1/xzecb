@@ -1,0 +1,1000 @@
+
+Conflict of interest statement: Conflict of interest: JWM has published two 
+books on the subject of goal-oriented care from which he receives income.
+
+
+232. Clin Epigenetics. 2023 Mar 3;15(1):38. doi: 10.1186/s13148-023-01457-1.
+
+Epigenome-wide association study in Chinese monozygotic twins identifies DNA 
+methylation loci associated with blood pressure.
+
+Wang W(1), Yao J(1)(2), Li W(3), Wu Y(1), Duan H(4), Xu C(4), Tian X(4), Li 
+S(5), Tan Q(5), Zhang D(6).
+
+Author information:
+(1)Department of Epidemiology and Health Statistics, Public Health College, 
+Qingdao University, No. 308 Ningxia Road, Qingdao, 266021, Shandong, China.
+(2)Jiangsu Health Development Research Center, Nanjing, Jiangsu, China.
+(3)Population Research Unit, Faculty of Social Sciences, University of Helsinki, 
+Helsinki, Finland.
+(4)Qingdao Municipal Center for Disease Control and Prevention/Qingdao Institute 
+of Preventive Medicine, Qingdao, Shandong, China.
+(5)Unit of Human Genetics, Department of Clinical Research, University of 
+Southern Denmark, Odense, Denmark.
+(6)Department of Epidemiology and Health Statistics, Public Health College, 
+Qingdao University, No. 308 Ningxia Road, Qingdao, 266021, Shandong, China. 
+zhangdf1961@126.com.
+
+BACKGROUND: Hypertension is a crucial risk factor for developing cardiovascular 
+disease and reducing life expectancy. We aimed to detect DNA methylation (DNAm) 
+variants potentially related to systolic blood pressure (SBP) and diastolic 
+blood pressure (DBP) by conducting epigenome-wide association studies in 60 and 
+59 Chinese monozygotic twin pairs, respectively.
+METHODS: Genome-wide DNA methylation profiling in whole blood of twins was 
+performed using Reduced Representation Bisulfite Sequencing, yielding 551,447 
+raw CpGs. Association between DNAm of single CpG and blood pressure was tested 
+by applying generalized estimation equation. Differentially methylated regions 
+(DMRs) were identified by comb-P approach. Inference about Causation through 
+Examination of Familial Confounding was utilized to perform the causal 
+inference. Ontology enrichment analysis was performed using Genomic Regions 
+Enrichment of Annotations Tool. Candidate CpGs were quantified using Sequenom 
+MassARRAY platform in a community population. Weighted gene co-expression 
+network analysis (WGCNA) was conducted using gene expression data.
+RESULTS: The median age of twins was 52 years (95% range 40, 66). For SBP, 31 
+top CpGs (p < 1 × 10-4) and 8 DMRs were identified, with several DMRs within 
+NFATC1, CADM2, IRX1, COL5A1, and LRAT. For DBP, 43 top CpGs (p < 1 × 10-4) and 
+12 DMRs were identified, with several DMRs within WNT3A, CNOT10, and DAB2IP. 
+Important pathways, such as Notch signaling pathway, p53 pathway by glucose 
+deprivation, and Wnt signaling pathway, were significantly enriched for SBP and 
+DBP. Causal inference analysis suggested that DNAm at top CpGs within NDE1, 
+MYH11, SRRM1P2, and SMPD4 influenced SBP, while SBP influenced DNAm at CpGs 
+within TNK2. DNAm at top CpGs within WNT3A influenced DBP, while DBP influenced 
+DNAm at CpGs within GNA14. Three CpGs mapped to WNT3A and one CpG mapped to 
+COL5A1 were validated in a community population, with a hypermethylated and 
+hypomethylated direction in hypertension cases, respectively. Gene expression 
+analysis by WGCNA further identified some common genes and enrichment terms.
+CONCLUSION: We detect many DNAm variants that may be associated with blood 
+pressure in whole blood, particularly the loci within WNT3A and COL5A1. Our 
+findings provide new clues to the epigenetic modification underlying 
+hypertension pathogenesis.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s13148-023-01457-1
+PMCID: PMC9985232
+PMID: 36869404 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+233. Small. 2023 Jun;19(23):e2207360. doi: 10.1002/smll.202207360. Epub 2023 Mar
+3.
+
+Amoeba-Inspired Magnetic Venom Microrobots.
+
+Zhang W(1), Deng Y(1), Zhao J(1), Zhang T(1), Zhang X(2)(3)(4), Song W(5)(6), 
+Wang L(5)(6), Li T(5)(6).
+
+Author information:
+(1)School of Mechanical and Power Engineering, Zhengzhou University, Zhengzhou, 
+Henan, 450001, P. R. China.
+(2)School of Mechanics and Safety Engineering, Zhengzhou University, Zhengzhou, 
+Henan, 450001, P. R. China.
+(3)National Center for International Joint Research of Micro-nano Molding 
+Technology, Zhengzhou University, Zhengzhou, Henan, 450001, P. R. China.
+(4)State Key Laboratory of Fluid Power and Mechatronic Systems, Zhejiang 
+University, Hangzhou, 310027, P. R. China.
+(5)State Key Laboratory of Robotics and System, Harbin Institute of Technology, 
+Harbin, Heilongjiang, 150001, P. R. China.
+(6)Research center for intelligent equipment, Chongqing Research Institute of 
+Harbin Institute of Technology, Chongqing, 400722, P. R. China.
+
+Nature provides a successful evolutionary direction for single-celled organisms 
+to solve complex problems and complete survival tasks - pseudopodium. Amoeba, a 
+unicellular protozoan, can produce temporary pseudopods in any direction by 
+controlling the directional flow of protoplasm to perform important life 
+activities such as environmental sensing, motility, predation, and excretion. 
+However, creating robotic systems with pseudopodia to emulate environmental 
+adaptability and tasking capabilities of natural amoeba or amoeboid cells 
+remains challenging. Here, this work presents a strategy that uses alternating 
+magnetic fields to reconfigure magnetic droplet into Amoeba-like microrobot, and 
+the mechanisms of pseudopodia generation and locomotion are analyzed. By simply 
+adjusting the field direction, microrobots switch in monopodia, bipodia, and 
+locomotion modes, performing all pseudopod operations such as active 
+contraction, extension, bending, and amoeboid movement. The pseudopodia endow 
+droplet robots with excellent maneuverability to adapt to environmental 
+variations, including spanning 3D terrains and swimming in bulk liquids. 
+Inspired by the "Venom," the phagocytosis and parasitic behaviors have also been 
+investigated. Parasitic droplets inherit all the capabilities of amoeboid robot, 
+expanding their applicable scenarios such as reagent analysis, microchemical 
+reactions, calculi removal, and drug-mediated thrombolysis. This microrobot may 
+provide fundamental understanding of single-celled livings, and potential 
+applications in biotechnology and biomedicine.
+
+© 2023 Wiley-VCH GmbH.
+
+DOI: 10.1002/smll.202207360
+PMID: 36869412 [Indexed for MEDLINE]
+
+
+234. Adv Ther. 2023 Apr;40(4):1838-1849. doi: 10.1007/s12325-023-02472-7. Epub
+2023  Mar 4.
+
+Cemiplimab as Second-Line Therapy for Patients with Recurrent Cervical Cancer: A 
+United States-based Cost-effectiveness Analysis.
+
+Liu K(#)(1), Zhu Y(#)(1), Zhou Y(1), Zhu H(2)(3).
+
+Author information:
+(1)Department of Oncology, Xiangya Hospital, Central South University, Changsha, 
+410008, Hunan, China.
+(2)Department of Oncology, Xiangya Hospital, Central South University, Changsha, 
+410008, Hunan, China. zhuhong0719@126.com.
+(3)National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, 
+Central South University, Changsha, 410008, Hunan, China. zhuhong0719@126.com.
+(#)Contributed equally
+
+INTRODUCTION: The efficacy of cemiplimab in recurrent cervical cancer has been 
+demonstrated in the clinical trial EMPOWER-Cervical 1. However, its high price 
+makes patients and clinicians hesitate to use it. Therefore, we designed a study 
+to evaluate its cost-effectiveness.
+METHODS: We developed a Markov model based on phase III clinical trials to 
+calculate the cost, life years (LYs), quality-adjusted life years (QALYs), and 
+incremental cost-effectiveness ratio (ICER) over 20 years with a 
+willingness-to-pay (WTP) threshold of $150,000/QALY. The economic data included 
+were obtained from official US government websites and published literature. 
+Sensitivity analysis was used to determine the uncertainties associated with the 
+model, and a subgroup analysis was performed.
+RESULTS: Compared with chemotherapy, cemiplimab produced an additional 0.597 
+QALYs (0.751 LYs), resulting in an ICER of $111,211.471/QALY in the United 
+States. The cost of cemiplimab is the most influential factor in the model. The 
+results of these models were robust in all sensitivity analyses. From the 
+American public payers' perspective, subgroup analysis showed cemiplimab was a 
+cost-effective regimen in patients with squamous cell carcinoma, adenocarcinoma, 
+or programmed cell death ligand 1 (PD-L1) ≥ 1%.
+CONCLUSION: From the American public payers' perspective, cemiplimab is a 
+cost-effective treatment option for second-line treatment of recurrent cervical 
+cancer. Meanwhile, cemiplimab was a cost-effective treatment for patients with 
+PD-L1 ≥ 1 and all histological types.
+
+© 2023. The Author(s), under exclusive licence to Springer Healthcare Ltd., part 
+of Springer Nature.
+
+DOI: 10.1007/s12325-023-02472-7
+PMID: 36870042 [Indexed for MEDLINE]
+
+
+235. Spectrochim Acta A Mol Biomol Spectrosc. 2023 Jun 5;294:122514. doi: 
+10.1016/j.saa.2023.122514. Epub 2023 Feb 23.
+
+Identification of Perna viridis contaminated with diarrhetic shellfish poisoning 
+toxins in vitro using NIRS and a discriminative non-negative 
+representation-based classifier.
+
+Liu Y(1), Liu Z(2), Qiao F(3), Xu L(4), Xu Z(5).
+
+Author information:
+(1)School of Electronic and Electrical Engineering, Lingnan Normal University, 
+Zhanjiang 524048, China. Electronic address: liuyao@lingnan.edu.cn.
+(2)School of Computer Science and Intelligence Education, Lingnan Normal 
+University, Zhanjiang 524048, China.
+(3)School of Computer Science and Intelligence Education, Lingnan Normal 
+University, Zhanjiang 524048, China; Mangrove Institute, Lingnan Normal 
+University, Zhanjiang 524048, China.
+(4)School of Life Science and Technology, Lingnan Normal University, Zhanjiang 
+524048, China.
+(5)Science and Technology Extension Department, Heilongjiang Academy of 
+Agricultural Sciences, Harbin 150086, China.
+
+Diarrhetic shellfish poisoning (DSP) toxins are one of the most widespread 
+marine biotoxins that affect aquaculture and human health, and their detection 
+has become crucial. In this study, near-infrared reflectance spectroscopy (NIRS) 
+with non-destructive characteristics was used to identify DSP toxins in Perna 
+viridis. The spectral data of the DSP toxin-contaminated and non-contaminated 
+Perna viridis samples were acquired in the 950-1700 nm range. To solve the 
+discrimination of spectra with crossover and overlapping, a discriminative 
+non-negative representation-based classifier (DNRC) has been proposed. Compared 
+with collaborative and non-negative representation-based classifiers, the DNRC 
+model exhibited better performance in detecting DSP toxins, with a 
+classification accuracy of 99.44 %. For a relatively small-scale sample dataset 
+in practical applications, the performance of the DNRC model was compared with 
+those of classical models. The DNRC model achieved the best results for both 
+identification accuracy and F-measure, and its detection performance did not 
+significantly decrease with decreasing sample size. The experimental results 
+validated that a combination of NIRS and the DNRC model can facilitate rapid, 
+convenient, and non-destructive detection of DSP toxins in Perna viridis.
+
+Copyright © 2023 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.saa.2023.122514
+PMID: 36870183 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+236. J Infect Public Health. 2023 Apr;16(4):632-639. doi:
+10.1016/j.jiph.2023.02.020.  Epub 2023 Feb 21.
+
+Prevention of antimicrobial resistance in sub-Saharan Africa: What has worked? 
+What still needs to be done?
+
+Moyo P(1), Moyo E(1), Mangoya D(1), Mhango M(1), Mashe T(2), Imran M(3), 
+Dzinamarira T(4).
+
+Author information:
+(1)College of Medicine and Health Sciences, University of Zimbabwe, Harare, 
+Zimbabwe.
+(2)World Health Organization, Harare, Zimbabwe.
+(3)Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Northern Border 
+University, Saudi Arabia. Electronic address: mohammad.baks@nbu.edu.sa.
+(4)ICAP at Columbia University, Harare, Zimbabwe. Electronic address: 
+u19395419@up.ac.za.
+
+Antibiotics help in preventing and treating infections and increasing life 
+expectancy globally. Globally, many people's lives are being threatened by the 
+emergence of antimicrobial resistance (AMR). The cost of treating and preventing 
+infectious diseases has increased due to AMR. Bacteria can resist the effects of 
+antibiotics by altering drug targets, inactivating drugs, and activating drug 
+efflux pumps. According to estimates, five million individuals died in 2019 from 
+AMR-related causes, wherein 1.3 million deaths were directly linked to bacterial 
+AMR. Sub-Saharan Africa (SSA) experienced the greatest mortality rate from AMR 
+in 2019. In this article, we discuss AMR's causes and challenges SSA faces in 
+implementing AMR prevention measures and propose recommendations to address the 
+challenges. Antibiotic misuse and overuse, widespread usage in agriculture, and 
+the pharmaceutical industry's absence of new antibiotic development are the 
+factors contributing to AMR. SSA's challenges in preventing AMR include poor AMR 
+surveillance and lack of collaboration, irrational use of antibiotics, weak 
+medicine regulatory systems, lack of infrastructural and institutional 
+capacities, lack of human resources, and inefficient infection prevention and 
+control (IPC) practices. The challenges faced by countries in SSA can be 
+addressed by increasing the public's knowledge of antibiotics and AMR, promoting 
+antibiotic stewardship, improving AMR surveillance, promoting collaboration 
+within and beyond countries, antibiotics regulatory enforcement, and improving 
+the practice of IPC measures at home, food handling establishments, and 
+healthcare facilities.
+
+Copyright © 2023 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.jiph.2023.02.020
+PMID: 36870230 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+237. Am Heart J. 2023 Jun;260:82-89. doi: 10.1016/j.ahj.2023.02.014. Epub 2023
+Mar 2.
+
+A randomized controlled trial of gamification, financial incentives, or both to 
+increase physical activity among patients with elevated risk for cardiovascular 
+disease: rationale and design of the be active study.
+
+Fanaroff AC(1), Patel MS(2), Chokshi N(3), Coratti S(4), Farraday D(4), Norton 
+L(5), Rareshide C(4), Zhu J(6), Szymczak JE(7), Russell LB(8), Small DS(9), 
+Volpp KGM(10).
+
+Author information:
+(1)Department of Medicine, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA; Penn Cardiovascular Outcomes, Quality, and 
+Evaluative Research Center, University of Pennsylvania, Philadelphia, PA; Penn 
+Center for Health Incentives and Behavioral Economics, University of 
+Pennsylvania, Philadelphia, PA; Leonard Davis Institute of Health Economics, 
+University of Pennsylvania, Philadelphia, PA; Penn Center for Digital 
+Cardiology, University of Pennsylvania, Philadelphia, PA. Electronic address: 
+alexander.fanaroff@pennmedicine.upenn.edu.
+(2)Ascension Health, St. Louis, MO.
+(3)Department of Medicine, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA; Leonard Davis Institute of Health Economics, 
+University of Pennsylvania, Philadelphia, PA; Penn Center for Digital 
+Cardiology, University of Pennsylvania, Philadelphia, PA.
+(4)Penn Center for Health Incentives and Behavioral Economics, University of 
+Pennsylvania, Philadelphia, PA.
+(5)Penn Center for Health Incentives and Behavioral Economics, University of 
+Pennsylvania, Philadelphia, PA; Department of Medical Ethics and Health Policy, 
+University of Pennsylvania, Philadelphia, PA.
+(6)Department of Medicine, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA; Penn Center for Health Incentives and Behavioral 
+Economics, University of Pennsylvania, Philadelphia, PA; Department of Medical 
+Ethics and Health Policy, University of Pennsylvania, Philadelphia, PA.
+(7)Department of Internal Medicine, University of Utah School of Medicine, Salt 
+Lake City, UT.
+(8)Penn Center for Health Incentives and Behavioral Economics, University of 
+Pennsylvania, Philadelphia, PA; Leonard Davis Institute of Health Economics, 
+University of Pennsylvania, Philadelphia, PA; Department of Medical Ethics and 
+Health Policy, University of Pennsylvania, Philadelphia, PA.
+(9)Leonard Davis Institute of Health Economics, University of Pennsylvania, 
+Philadelphia, PA; The Wharton School, University of Pennsylvania, Philadelphia, 
+PA.
+(10)Department of Medicine, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA; Penn Center for Health Incentives and Behavioral 
+Economics, University of Pennsylvania, Philadelphia, PA; Leonard Davis Institute 
+of Health Economics, University of Pennsylvania, Philadelphia, PA; Department of 
+Medical Ethics and Health Policy, University of Pennsylvania, Philadelphia, PA; 
+The Wharton School, University of Pennsylvania, Philadelphia, PA.
+
+BACKGROUND: Higher levels of physical activity are associated with improvements 
+in cardiovascular health, and consensus guidelines recommend that individuals 
+with or at risk for atherosclerotic cardiovascular disease (ASCVD) participate 
+in regular physical activity. However, most adults do not achieve recommended 
+levels of physical activity. Concepts from behavioral economics have been used 
+to design scalable interventions that increase physical activity over short time 
+periods, but the longer-term efficacy of these strategies is uncertain.
+STUDY DESIGN AND OBJECTIVES: BE ACTIVE (NCT03911141) is a pragmatic, virtual, 
+randomized controlled trial designed to evaluate the effectiveness of 3 
+strategies informed by behavioral economic concepts to increase daily physical 
+activity in patients with established ASCVD or 10-year ASCVD risk > 7.5% who are 
+seen in primary care and cardiology clinics affiliated with the University of 
+Pennsylvania Health System. Patients are contacted by email or text message, and 
+complete enrollment and informed consent on the Penn Way to Health online 
+platform. Patients are then provided with a wearable fitness tracker, establish 
+a baseline daily step count, set a goal to increase daily step count by 33% to 
+50%, and are randomized 1:2:2:2 to control, gamification, financial incentives, 
+or both gamification and financial incentives. Interventions continue for 12 
+months, with follow-up for an additional 6 months to evaluate the durability of 
+behavior change. The trial has met its enrollment goal of 1050 participants, 
+with a primary endpoint of change from baseline in daily steps over the 12-month 
+intervention period. Key secondary endpoints include change from baseline in 
+daily steps over the 6-month post-intervention follow-up period and change in 
+moderate to vigorous physical activity over the intervention and follow-up 
+periods. If the interventions prove effective, their effects on life expectancy 
+will be compared with their costs in cost-effectiveness analysis.
+CONCLUSIONS: BE ACTIVE is a virtual, pragmatic randomized clinical trial powered 
+to demonstrate whether gamification, financial incentives, or both are superior 
+to attention control in increasing physical activity. Its results will have 
+important implications for strategies to promote physical activity in patients 
+with or at risk for ASCVD, as well as for the design and implementation of 
+pragmatic virtual clinical trials within health systems.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ahj.2023.02.014
+PMID: 36870551 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest Dr. Fanaroff reports a 
+career development grant from the American Heart Association. Dr. Patel is an 
+employee of Ascension Health. Dr. Volpp is a co-owner of a behavioral economics 
+consulting firm, VAL Health. All other authors report no relevant conflicts of 
+interest.
+
+
+238. Transfus Apher Sci. 2023 Apr;62(2):103685. doi:
+10.1016/j.transci.2023.103685.  Epub 2023 Feb 26.
+
+Hematological toxicities of immune checkpoint inhibitors and the impact of blood 
+transfusion and its microbiome on therapeutic efficacy and recipient's safety 
+and survival outcome:A systematic narrative appraisal of where we are now!
+
+Shouman M(1), Goubran H(2), Seghatchian J(3), Burnouf T(4).
+
+Author information:
+(1)Department of Medical Oncology, National Cancer Institute, Cairo, Egypt; 
+Saskatoon Cancer Centre, Saskatchewan, Canada.
+(2)Saskatoon Cancer Centre and College of Medicine, University of Saskatchewan, 
+Saskatoon, Canada.
+(3)International Consultancy in Blood Components Manufacturing/Quality/Safety, 
+Apheresis Technologies, Quality Audit/Inspection and Innovative DDR Strategy, 
+London, England, UK.
+(4)Graduate Institute of Biomedical Materials and Tissue Engineering, College of 
+Biomedical Engineering, Taipei Medical University, Taipei, Taiwan; International 
+Ph.D. Program in Biomedical Engineering, College of Biomedical Engineering, 
+Taipei Medical University, Taipei, Taiwan. Electronic address: 
+thburnouf@gmail.com.
+
+Classically, patients with solid and hematologic malignancies have been treated 
+with a combination of chemotherapy with or without a holistic targeted strategy 
+using approved conventional therapy. While the evidence-based use of 
+Immunomodulatory drugs and Immune checkpoint inhibitors (ICIs), including those 
+targeting the PD-1, PD-L1 and CTLA-4, have reshaped the treatment paradigm for 
+many malignant tumors and significantly stretched the life expectancy of 
+patients, as for any interventional therapy, the rise in ICI applications, was 
+associated with the observation of more immune-related hematological adverse 
+events. Many of these patients require transfusion support during their 
+treatment in line with precision transfusion. It has been presumed that 
+transfusion-related immunomodulation (TRIM) and the microbiome can pose 
+immunosuppressive effects on the recipients. Looking to the past and beyond and 
+translating available data into practice in the evolving role of pharmaceutical 
+therapy to ICI-receiving patients, we performed a narrative review of the 
+literature on the immune-related hematological adverse events of ICIs, 
+immunosuppressive mechanisms linked to blood product transfusions, as well as 
+the detrimental impact of transfusions and its related microbiome on the 
+sustained efficacy of ICIs and the patients' survival outcomes. Recent reports 
+are pointing to the negative impact of transfusion on ICI response. Studies have 
+concluded that packed RBC [PRBC] transfusions lead to an inferior 
+progression-free and overall survival in patients with advanced cancer receiving 
+ICIs, even after adjustments for other prognostic variables. The attenuation of 
+the effectiveness of immunotherapy likely results from the immunosuppressive 
+effects of PRBC transfusions. It is, therefore, wise to look retrospectively and 
+prospectively at the impact of transfusion on ICI effects and adopt, in the 
+interim, a restrictive transfusion strategy, if applicable, for those patients.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.transci.2023.103685
+PMID: 36870904 [Indexed for MEDLINE]
+
+
+239. Pneumonia (Nathan). 2023 Mar 5;15(1):5. doi: 10.1186/s41479-023-00110-y.
+
+Acute organ injury and long-term sequelae of severe pneumococcal infections.
+
+Kruckow KL(1), Zhao K(2), Bowdish DME(2), Orihuela CJ(3).
+
+Author information:
+(1)Department of Microbiology, University of Alabama at Birmingham, Birmingham, 
+AL, USA.
+(2)McMaster Immunology Research Centre and the Firestone Institute for 
+Respiratory Health, McMaster University, Hamilton, Canada.
+(3)Department of Microbiology, University of Alabama at Birmingham, Birmingham, 
+AL, USA. corihuel@uab.edu.
+
+Streptococcus pneumoniae (Spn) is a major public health problem, as it is a main 
+cause of otitis media, community-acquired pneumonia, bacteremia, sepsis, and 
+meningitis. Acute episodes of pneumococcal disease have been demonstrated to 
+cause organ damage with lingering negative consequences. Cytotoxic products 
+released by the bacterium, biomechanical and physiological stress resulting from 
+infection, and the corresponding inflammatory response together contribute to 
+organ damage accrued during infection. The collective result of this damage can 
+be acutely life-threatening, but among survivors, it also contributes to the 
+long-lasting sequelae of pneumococcal disease. These include the development of 
+new morbidities or exacerbation of pre-existing conditions such as COPD, heart 
+disease, and neurological impairments. Currently, pneumonia is ranked as the 9th 
+leading cause of death, but this estimate only considers short-term mortality 
+and likely underestimates the true long-term impact of disease. Herein, we 
+review the data that indicates damage incurred during acute pneumococcal 
+infection can result in long-term sequelae which reduces quality of life and 
+life expectancy among pneumococcal disease survivors.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s41479-023-00110-y
+PMCID: PMC9985869
+PMID: 36870980
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+240. Hepatol Int. 2023 Aug;17(4):1028-1044. doi: 10.1007/s12072-023-10503-2. Epub
+ 2023 Mar 5.
+
+Contribution of alcohol use to the global burden of cirrhosis and liver cancer 
+from 1990 to 2019 and projections to 2044.
+
+Liu Y(1), Sun Z(1), Wang Q(1), Wu K(2), Tang Z(1), Zhang B(3).
+
+Author information:
+(1)The Fourth Affiliated Hospital, Zhejiang University School of Medicine, Yiwu, 
+322000, Zhejiang, China.
+(2)The Second Affiliated Hospital, Zhejiang University School of Medicine, 88 
+Jiefang Road, Hangzhou, 310000, Zhejiang Province, China.
+(3)The Second Affiliated Hospital, Zhejiang University School of Medicine, 88 
+Jiefang Road, Hangzhou, 310000, Zhejiang Province, China. jjs10@zju.edu.cn.
+
+BACKGROUND: Identifying the temporal trends of cirrhosis and liver cancer 
+attributable to alcohol use in both the past and the future can formulate the 
+control strategies.
+METHODS: Data on cirrhosis and liver cancer attributable to alcohol use from 
+1990 to 2019, including mortality and disability-adjusted life year (DALY) rates 
+were collected from the 2019 Global Burden of Disease (GBD) study. To analyze 
+the temporal trends, the average annual percentage change (AAPC) was calculated, 
+and the Bayesian age-period-cohort model was applied.
+RESULT: Deaths and DALY of cirrhosis and liver cancer attributable to alcohol 
+use increased year by years, but the age-standardized death rate (ASDR) and 
+age-standardized DALY rate declined or remained stable from 1990 to 2019 in most 
+regions of the world. The burden of cirrhosis attributable to alcohol increased 
+in low-middle social-development index (SDI) regions, while the burden of liver 
+cancer increased in high-SDI regions. Eastern Europe and Central Asia have the 
+highest burden of cirrhosis and liver cancer caused by alcohol use. Deaths and 
+DALYs are mainly distributed in people aged 40+ years, but there is an 
+increasing trend in people aged under 40 years. New deaths from cirrhosis and 
+liver cancer attributable to alcohol use are predicted to increase in the next 
+25 years, but the ASDR of cirrhosis in males will increase slightly.
+CONCLUSIONS: Although the age-standardized rate of cirrhosis and liver cancer 
+due to alcohol use have decreased, the absolute burden increased and will 
+continue to increase. Therefore, alcohol control measures should be further 
+strengthened and improved through effective national policies.
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s12072-023-10503-2
+PMCID: PMC9985909
+PMID: 36871271 [Indexed for MEDLINE]
+
+Conflict of interest statement: Yang Liu, Zhouyi Sun, Qianwen Wang, Kangze Wu, 
+Zhe Tang, and Bo Zhang have no relevant financial or non-financial interests to 
+disclose.241. Sci Total Environ. 2023 Jun 1;875:162589. doi:
+10.1016/j.scitotenv.2023.162589.  Epub 2023 Mar 3.
+
+Ambient particulate matter, a novel factor hindering life spans of HIV/AIDS 
+patients: Evidence from a ten-year cohort study in Hubei, China.
+
+Zhang F(1), Zhu S(1), Tang H(2), Zhao D(2), Zhang X(3), Zhao G(3), Zhang X(1), 
+Li T(1), Ruan L(4), Zhu W(5).
+
+Author information:
+(1)Department of Occupational and Environmental Health, School of Public Health, 
+Wuhan University, Wuhan 430071, China.
+(2)Institute of Chronic Infectious Disease Prevention and Control, Hubei 
+Provincial Center for Disease Control and Prevention, Wuhan 430079, China.
+(3)Department of Public Health, School of Public Health, Wuhan University, Wuhan 
+430071, China.
+(4)Wuhan Jinyintan Hospital, Tongji Medical College of Huazhong University of 
+Science and Technology; Hubei Clinical Research Center for Infectious Diseases; 
+Wuhan Research Center for Communicable Disease Diagnosis and Treatment, Chinese 
+Academy of Medical Sciences; Joint Laboratory of Infectious Diseases and Health, 
+Wuhan Institute of Virology and Wuhan Jinyintan Hospital, Chinese Academy of 
+Sciences, Wuhan, 430023, China. Electronic address: ruanlianguo_whjyt@163.com.
+(5)Department of Occupational and Environmental Health, School of Public Health, 
+Wuhan University, Wuhan 430071, China. Electronic address: weizhu@whu.edu.cn.
+
+BACKGROUND: The life spans of human immunodeficiency virus/acquired 
+immunodeficiency syndrome (HIV/AIDS) patients have been extended in the era of 
+antiretroviral therapy. However, few studies have considered the influence of 
+the environment on the life expectancy of people living with HIV/AIDS. Several 
+studies have investigated mortality and air pollution associations, but the 
+evidence for associations between long-term exposure to particulate matter (PM) 
+and mortality among HIV/AIDS patients remains extremely sparse.
+METHODS: We conceived a dynamic cohort study by enrolling people with HIV/AIDS 
+from 103 counties in Hubei province, China from 2010 to 2019, with 23,809 
+persons and 78,457.2 person-years of follow-up. The county-level annual 
+concentrations of PM2.5 and PM10 were extracted from the ChinaHighAirPollutants 
+dataset. Cox proportional hazards models with time-varying exposures were 
+conducted to assess the associations between PM and mortality.
+RESULTS: Per 1 μg/m3 increased in PM2.5 and PM10 would elevate 0.69 % (95 % CIs: 
+0.39, 1.00) and 0.39 % (95 % CIs: 0.18, 0.59) risk of all-cause deaths (ACD) and 
+1.65 % (95 % CIs: 1.14, 2.17) and 0.90 % (95 % CIs: 0.56, 1.24) of AIDS-related 
+deaths (ARD), respectively. Significantly stronger associations of PM-ARD were 
+found in patients aged over 60 years old, with corresponding excess risk of 
+2.66 % (95 % CIs: 1.76, 3.58) for PM2.5 and 1.62 (95 % CIs: 1.01, 2.23) for 
+PM10.
+CONCLUSIONS: This study added to the existing evidence that long-term exposure 
+to ambient PM adversely affects the life spans of HIV/AIDS patients. Hence, 
+public health departments should take proactive measures to prevent further life 
+loss and promote survival among those living with HIV/AIDS.
+
+Copyright © 2023 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2023.162589
+PMID: 36871737 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+242. Zhongguo Zhong Yao Za Zhi. 2023 Feb;48(3):608-613. doi: 
+10.19540/j.cnki.cjcmm.20221031.101.
+
+[Overview of Chinese medicinal materials industry in 2021 and development 
+suggestions].
+
+[Article in Chinese]
+
+Wan XF(1), Jiang JY(2), Yang Y(3), Kang CZ(1), Wang S(1), Lyu CG(1), Guo LP(1), 
+Huang LQ(4).
+
+Author information:
+(1)State Key Laboratory Breeding Base of Dao-di Herbs, National Resource Center 
+for Chinese Materia Medica, China Academy of Chinese Medical Sciences Beijing 
+100700, China.
+(2)National Agro-Tech Extension and Service Center Beijing 100125, China.
+(3)Faculty of Life Science and Technology, Kunming University of Science and 
+Technology Kunming 650031, China.
+(4)China Academy of Chinese Medical Sciences Beijing 100700, China.
+
+This paper introduced the overview of the &quot;eight trends&quot; of Chinese 
+medicinal materials(CMM) industry in 2021, analyzed the problems of CMM 
+production, and put forward development suggestions. Specifically, &quot;eight 
+trends&quot; could be summarized as follows.(1) The growing area of CMM tended 
+to be stable, and some provinces began to release the local catalog of Dao-di 
+herbs.(2) The protection process of new varieties accelerated, and a number of 
+excellent varieties were bred.(3) The theory of ecological cultivation was 
+further enriched, and the demonstration effect of ecological cultivation 
+technology was prominent.(4) Some CMM realized complete mechanization and formed 
+typical model cases.(5) The number of cultivation bases using the traceability 
+platform increased, and provincial internet trading platforms were set up.(6) 
+The construction of CMM industrial clusters accelerated, and the number of 
+provincial-level regional brands increased rapidly.(7) Many new agricultural 
+business entities were founded nationwide, and a variety of methods were used to 
+drive the intensified development of CMM.(8) A number of local TCM laws were 
+promulgated, and the management regulation of food and medicine homology 
+substances catalogs was issued. On this basis, four suggestions for CMM 
+production were proposed.(1) It is suggested to speed up the formulation of the 
+national catalog of Dao-di herbs and carry out the certification of Dao-di herbs 
+production bases.(2) Ecological planting of forest and grassland medicine should 
+be further strengthened in terms of technical research and promotion based on 
+the principle of ecological priority.(3) The basic work of disaster prevention 
+should be paid more attention and technical measures for disaster mitigation 
+should be developed.(4) The planted area of commonly used CMM should be 
+incorporated into the national regular statistical system.
+
+DOI: 10.19540/j.cnki.cjcmm.20221031.101
+PMID: 36872223 [Indexed for MEDLINE]
+
+
+243. J Indian Soc Periodontol. 2023 Jan-Feb;27(1):4-30. doi: 
+10.4103/jisp.jisp_561_22. Epub 2023 Jan 3.
+
+ISP good clinical practice recommendations for gum care.
+
+Kumar A(1), Grover V(2), Satpathy A(3), Jain A(4), Grover HS(5), Khatri M(6), 
+Kolte A(7), Dani N(8), Melath A(9), Chahal GS(2), Thomas B(10), Pradeep AR(11), 
+Pandit N(12), Pillai BRM(13), Manjunath RGS(14), Nandkeoliar T(1), Puri K(15), 
+Singhal R(16), Dodwad V(17), Bhardwaj A(18), Thakur R(19), Jalaluddin M(20), 
+Boyapati R(21), Singh MK(22), Bansal M(6).
+
+Author information:
+(1)Department of Periodontology, Dental College, Regional Institute of Medical 
+Sciences, Imphal, Manipur, India.
+(2)Department of Periodontology, Dr. Harvansh Singh Judge Institute of Dental 
+Sciences, Panjab University, Chandigarh, India.
+(3)Department of Periodontics and Oral Implantology, Institute of Dental 
+Sciences, Siksha 'O' Anusandhan (Deemed to be University), KIIT University, 
+Bhubaneswar, Odisha, India.
+(4)Department of Periodontology, Dental Institute, RIMS, Ranchi, Jharkhand, 
+India.
+(5)Department of Dentistry, NC Medical College, Panipat, Haryana, India.
+(6)Department of Periodontology, Institute of Dental Studies and Technologies, 
+Modinagar, Uttar Pradesh, India.
+(7)Department of Periodontics, VSPM Dental College and Research Centre, Nagpur, 
+India.
+(8)Private Practitioner, Nashik, India.
+(9)Department of Periodontics, Mahe Institute of Dental Sciences and Hospital, 
+Puducherry, India.
+(10)Department of Periodontics, AB Shetty Memorial Institute of Dental Sciences, 
+Mangaluru, India.
+(11)Department of Periodontology, The Oxford Dental College, Bengaluru, 
+Karnataka, India.
+(12)Department of Periodontology, D.A.V Dental College and Hospital, 
+Yamunanagar, Haryana, India.
+(13)Department of Periodontology, Government Dental College, Kottayam, Kerala, 
+India.
+(14)Department of Periodontics, Institute of Dental Sciences, Bareilly, Uttar 
+Pradesh, India.
+(15)Department of Periodontology, Faculty of Dental Sciences, PDM University, 
+Bahadurgarh, Haryana, India.
+(16)Department of Periodontology, Faculty of Dental Sciences, King George's 
+Medical University, Lucknow, Uttar Pradesh, India.
+(17)Department of Periodontology, Bharati Vidyapeeth (Deemed to be University) 
+Dental College and Hospital, Pune, India.
+(18)Department of Periodontology, Faculty of Dental Sciences, SGT University, 
+Gurugram, Haryana, India.
+(19)Department of Periodontics, Saraswati Dhanvantari Dental College and 
+Hospital, Parbhani, Maharashtra, India.
+(20)Department of Periodontics and Implantology, Kalinga Institute of Dental 
+Sciences, KIIT University, Bhubaneswar, Odisha, India.
+(21)Department of Periodontics, Sibar Institute of Dental Sciences, Guntur, 
+Andhra Pradesh, India.
+(22)Department of Periodontics, Guru Nanak Institute of Dental Science and 
+Research, Kolkata, West Bengal, India.
+
+Oral health is vital for the general well-being, overall body health and the 
+quality of life throughout our lifetime. Most of the oral diseases and 
+conditions are largely related to the maintenance of oral hygiene, lacking that 
+people suffer from diverse oral diseases at different times in their life. With 
+greater life expectancy, the individuals have teeth involved with periodontal 
+diseases that would not only require professional care but also home gum care 
+for them to last a lifetime. Indian Society of Periodontology (ISP) has 
+recognized the need for systematic documents to update everyday clinical 
+practice of general dental practitioners and have provided evidence-based 
+consensus documents, namely good clinical practice recommendations from time to 
+time to raise the oral health-related awareness and standards of oral healthcare 
+delivery across the country. The current set of clinical practice 
+recommendations focused to "Gum Care for All", is aimed at emphasizing and 
+enhancing the awareness regarding oral health promotion, maintenance, and 
+disease prevention. Twenty-five subject matter experts from across the nation, 
+prepared these recommendations after a thorough literature review and group 
+discussions. The document has been prepared in three distinct sections, namely 
+pretherapeutic, therapeutic, and post therapeutic, to provide guidance during 
+the respective phases of patient management and may serve as a quick and concise 
+reference to the readers. The guidelines shall provide the distinct definitions, 
+signs and symptoms, treatment required; recall visit specifications for 
+plausible clinical case situations, home care advice regarding maintenance of 
+oral hygiene including information on brushing technique, care and change of 
+brush, use of interdental aids, and mouthwashes, etc. The document should 
+advocate and guide the combined efforts of general dentists, and the population 
+at large toward an empowered, evidence based, integrated, and comprehensive oral 
+health care, which shall enhance the healthful functioning and longevity of the 
+dentition and general health of the individual.
+
+Copyright: © 2023 Indian Society of Periodontology.
+
+DOI: 10.4103/jisp.jisp_561_22
+PMCID: PMC9979817
+PMID: 36873963
+
+
+244. Contexts (Berkeley Calif). 2022 Nov;21(4):20-23. doi:
+10.1177/15365042221131075.  Epub 2022 Dec 20.
+
+Feeling the Squeeze.
+
+Patterson SE(1).
+
+Author information:
+(1)Survey Research Center, University of Michigan.
+
+People often provide caregiving to other family members across the life course. 
+"Sandwiched" caregiving, or caring for a child and aging parent at the same 
+time, is a common form of combining care duties. However, adults share more 
+years of life with many different family members due to population level 
+demographic shifts in life expectancy and family formation. This shift means 
+that multigenerational care, or providing for two or more different generations 
+of family members simultaneously, may better reflect the reality of caregiving 
+for contemporary cohorts of adults. Although there is strong public backing for 
+providing supports to caregivers, current policies are often limited.
+
+DOI: 10.1177/15365042221131075
+PMCID: PMC9983570
+PMID: 36874256
+
+
+245. Front Endocrinol (Lausanne). 2023 Feb 16;14:1079009. doi: 
+10.3389/fendo.2023.1079009. eCollection 2023.
+
+The association between distal symmetric polyneuropathy in diabetes with 
+all-cause mortality - a meta-analysis.
+
+Vági OE(1), Svébis MM(1)(2), Domján BA(1), Körei AE(1), Tesfaye S(3), Horváth 
+VJ(1), Kempler P(1), Tabák ÁG(1)(4)(5).
+
+Author information:
+(1)Department of Internal Medicine and Oncology, Semmelweis University Faculty 
+of Medicine, Budapest, Hungary.
+(2)School of PhD studies, Semmelweis University Faculty of Medicine, Budapest, 
+Hungary.
+(3)Diabetes Research Unit, Royal Hallamshire Hospital, University of Sheffield, 
+Sheffield, United Kingdom.
+(4)Department of Public Health, Semmelweis University Faculty of Medicine, 
+Budapest, Hungary.
+(5)Department of Epidemiology and Public Health, University College London, 
+London, United Kingdom.
+
+BACKGROUND: Distal symmetric polyneuropathy (DSPN) is a common microvascular 
+complication of both type 1 and 2 diabetes with substantial morbidity burden and 
+reduced quality of life. Its association with mortality is equivocal.
+PURPOSE: To describe the association between DSPN and all-cause mortality in 
+people with diabetes and further stratify by the type of diabetes based on a 
+meta-analysis of published observational studies.
+DATA SOURCES: We searched Medline from inception to May 2021.
+STUDY SELECTION: Original data were collected from case-control and cohort 
+studies that reported on diabetes and DSPN status at baseline and all-cause 
+mortality during follow-up.
+DATA EXTRACTION: was completed by diabetes specialists with clinical experience 
+in neuropathy assessment.
+DATA SYNTHESIS: Data was synthesized using random-effects meta-analysis. The 
+difference between type 1 and 2 diabetes was investigated using meta-regression.
+RESULTS: A total of 31 cohorts (n=155,934 participants, median 27.4% with DSPN 
+at baseline, all-cause mortality 12.3%) were included. Diabetes patients with 
+DSPN had an almost twofold mortality (HR: 1.96, 95%CI: 1.68-2.27, I2 = 91.7%), 
+I2 = 91.7%) compared to those without DSPN that was partly explained by baseline 
+risk factors (adjusted HR: 1.60, 95%CI: 1.37-1.87, I2 = 78.86%). The association 
+was stronger in type 1 compared to type 2 diabetes (HR: 2.22, 95%CI: 1.43-3.45). 
+Findings were robust in sensitivity analyses without significant publication 
+bias.
+LIMITATIONS: Not all papers reported multiple adjusted estimates. The definition 
+of DSPN was heterogeneous.
+CONCLUSIONS: DSPN is associated with an almost twofold risk of death. If this 
+association is causal, targeted therapy for DSPN could improve life expectancy 
+of diabetic patients.
+
+Copyright © 2023 Vági, Svébis, Domján, Körei, Tesfaye, Horváth, Kempler and 
+Tabák.
+
+DOI: 10.3389/fendo.2023.1079009
+PMCID: PMC9978416
+PMID: 36875485 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest. The reviewer VS declared a 
+past co-authorship with the authors ST, PK to the handling editor.
+
+
+246. Aquac Nutr. 2022 Aug 23;2022:3768368. doi: 10.1155/2022/3768368. eCollection
+ 2022.
+
+Effect of Adding L-carnitine to High-Fat/Low-Protein Diets of Common Carp 
+(Cyprinus carpio) and the Mechanism of Regulation of Fat and Protein Metabolism.
+
+Luo W(#)(1), Chen P(#)(1), Zhang X(1), Zhang Y(1), Zhang S(1), Sun K(1), He 
+F(1), Li L(1), Zhang N(1), Xiong Y(2), Guo Z(3), Du Z(1), Wen A(4).
+
+Author information:
+(1)Sichuan Agriculture University, College of Animal Science, Chengdu, China.
+(2)Original Stock Farm Leiocassis Longirostris, Sichuan, Chengdu, China.
+(3)Chongzhou Agriculture & Rural Bureau, Chengdu, China.
+(4)Sichuan Agriculture University, College of Life Science, Yaan 625014, China.
+(#)Contributed equally
+
+L-carnitine is a low molecular weight amino acid that plays an essential role in 
+the oxidation of long-chain fatty acids. The regulatory effects and molecular 
+mechanisms of L-carnitine on fat and protein metabolism in common carp (Cyprinus 
+carpio) were investigated in this study. Common carp (n = 270) were randomly 
+divided into three groups and fed either (1) common carp diet, (2) 
+high-fat/low-protein diet, or (3) L-carnitine-high-fat/low-protein diet. Growth 
+performance, plasma biochemistry, muscle composition, and ammonia excretion rate 
+were all examined after 8 weeks. Additionally, each group's hepatopancreas was 
+subjected to transcriptome analysis. The results showed that decreasing the feed 
+protein/fat ratio resulted in a considerable increase in feed conversion ratio 
+and a significant decrease in common carp-specific growth rate to 1.19 ± 0.02 (P 
+< 0.05). Similarly, total plasma cholesterol sharply increased to 10.15 ± 2.07, 
+while plasma urea nitrogen, muscle protein, and ammonia excretion levels dropped 
+(P < 0.05). After adding L-carnitine to the high-fat/low-protein diet, it was 
+found that the specific growth rate and protein content of the dorsal muscle 
+increased significantly (P < 0.05). In contrast, the plasma total cholesterol 
+and ammonia excretion rate decreased considerably at most time points after 
+feeding (P < 0.05). The expression of genes in the hepatopancreas differed 
+substantially between the different groups. Through GO analysis, it was 
+demonstrated that L-carnitine increased the ability of fat decomposition by 
+up-regulating the expression of cpt1 in the hepatopancreas and decreased the 
+expression of fasn and elovl6 to reduce the production and extension of lipids. 
+Simultaneously, mtor was more abundant in the hepatopancreas, implying that 
+L-carnitine can increase protein synthesis. According to the findings, adding 
+L-carnitine to high-fat/low-protein diets can stimulate growth by enhancing 
+lipolysis and protein synthesis.
+
+Copyright © 2022 Wei Luo et al.
+
+DOI: 10.1155/2022/3768368
+PMCID: PMC9980285
+PMID: 36875635
+
+Conflict of interest statement: The authors declare no competing financial 
+interests.
+
+
+247. Curr Res Food Sci. 2023 Feb 18;6:100464. doi: 10.1016/j.crfs.2023.100464. 
+eCollection 2023.
+
+Antiobesity potential of major metabolites from Clitoria ternatea kombucha: 
+Untargeted metabolomic profiling and molecular docking simulations.
+
+Hardinsyah H(1), Gunawan WB(2), Nurkolis F(3), Alisaputra D(4), Kurniawan R(5), 
+Mayulu N(6), Taslim NA(7), Tallei TE(8).
+
+Author information:
+(1)Applied Nutrition Division, Community Nutrition Department, Faculty of Human 
+Ecology, IPB University, Bogor, Indonesia.
+(2)Alumnus of Department of Nutrition Science, Faculty of Medicine, Diponegoro 
+University, Semarang, Indonesia.
+(3)Department of Biological Sciences, State Islamic University of Sunan Kalijaga 
+(UIN Sunan Kalijaga), Yogyakarta, Indonesia.
+(4)Department of Chemistry, State Islamic University of Sunan Kalijaga (UIN 
+Sunan Kalijaga), Yogyakarta, 55281, Indonesia.
+(5)Alumnus of Department of Internal Medicine, Faculty of Medicine, University 
+of Indonesia - Cipto Mangunkusumo Hospital, Indonesia.
+(6)Department of Nutrition and Food, Faculty of Medicine, Sam Ratulangi 
+University, Manado, Indonesia.
+(7)Department of Clinical Nutrition, Faculty of Medicine, Hasanuddin University, 
+Makassar, Indonesia.
+(8)Department of Biology, Faculty of Mathematics and Natural Sciences, Sam 
+Ratulangi University, Indonesia.
+
+The prevalence of obesity is rapidly increasing and poses serious health risks 
+accompanied by a decrease in life expectancy and quality of life. Therefore, the 
+therapeutic potential of natural-derived nutraceuticals against obesity and its 
+comorbidities needs to be explored. Molecular inhibition of lipase enzymes and 
+fat mass and obesity-associated (FTO) protein has attracted some recent interest 
+in efforts to find antiobesity agents. This study aims to innovate a fermented 
+drink from Clitoria ternatea kombucha (CTK), find out their metabolites profile, 
+and determine the antiobesity potential through a molecular docking study. The 
+CTK formulation refers to previous research while the metabolites profile was 
+determined using HPLC-ESI-HRMS/MS. Major compounds were selected based on best 
+match value > 99.0% of the M/Z cloud database. A total of 79 compounds were 
+identified in CTK, and 13 ideal compounds were selected to be simulated in the 
+molecular docking study against human pancreatic lipase, α-amylase, 
+α-glucosidase, porcine pancreatic lipase, and FTO proteins. The study found that 
+Kaempferol, Quercetin-3β-D-glucoside, Quercetin, Dibenzylamine, and 
+α-Pyrrolidinopropiophenone showed the best potential as functional antiobesity 
+compounds since their affinity value ranked high in each respective receptor. In 
+conclusion, the major compounds of CTK metabolites have the potential to be 
+promising functional foods against obesity. However, further in vitro and in 
+vivo studies should validate these health benefits.
+
+© 2023 The Author(s).
+
+DOI: 10.1016/j.crfs.2023.100464
+PMCID: PMC9976213
+PMID: 36875892
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+248. eNeurologicalSci. 2023 Feb 21;31:100452. doi: 10.1016/j.ensci.2023.100452. 
+eCollection 2023 Jun.
+
+A meta-analysis of post-exercise outcomes in people with amyotrophic lateral 
+sclerosis.
+
+Donohue C(1)(2), Carnaby G(3), Reilly MC(4), Colquhoun RJ(5), Lacomis D(6), 
+Garand KLF(1)(4).
+
+Author information:
+(1)Department of Communication Science and Disorders, School of Health and 
+Rehabilitation Sciences, University of Pittsburgh, Pittsburgh, PA 15260, USA.
+(2)Department of Hearing and Speech Sciences, Vanderbilt University Medical 
+Center, Nashville, TN 37232, USA.
+(3)Department of Health Sciences, School of Health Professions, University of 
+Texas Health Science Center, San Antonio, TX 77030, USA.
+(4)Department of Speech Pathology and Audiology, College of Allied Health 
+Professions, University of South Alabama, Mobile, AL 36688, USA.
+(5)Department of Health, Kinesiology, and Sport, College of Education and 
+Professional Studies, University of South Alabama, Mobile, AL 36688, USA.
+(6)Departments of Neurology and Pathology and the Live Like Lou Center for ALS 
+Research, School of Medicine, University of Pittsburgh, Pittsburgh, PA 15260, 
+USA.
+
+OBJECTIVE: To systematically evaluate post-exercise outcomes related to function 
+and quality of life in people with ALS.
+METHODS: PRISMA guidelines were used for identifying and extracting articles. 
+Levels of evidence and quality of articles were judged based on The Oxford 
+Centre for Evidence-based Medicine Levels of Evidence and the QualSyst. Outcomes 
+were analyzed with Comprehensive Meta-Analysis V2 software, random effects 
+models, and Hedge's G. Effects were examined at 0-4 months, up to 6 months, 
+and > 6 months. Pre-specified sensitivity analyses were performed for 1) 
+controlled trials vs. all studies and 2) ALSFRS-R bulbar, respiratory, and motor 
+subscales. Heterogeneity of pooled outcomes was computed with the I2 statistic.
+RESULTS: 16 studies and seven functional outcomes met inclusion for the 
+meta-analysis. Of the outcomes explored, the ALSFRS-R demonstrated a favorable 
+summary effect size and had acceptable heterogeneity and dispersion. While FIM 
+scores demonstrated a favorable summary effect size, heterogeneity limited 
+interpretations. Other outcomes did not demonstrate a favorable summary effect 
+size and/or could not be reported due to few studies reporting outcomes.
+CONCLUSIONS: This study provides inconclusive guidance regarding exercise 
+regimens to maintain function and quality of life in people with ALS due to 
+study limitations (e.g., small sample size, high attrition rate, heterogeneity 
+in methods and participants, etc.). Future research is warranted to determine 
+optimal treatment regimens and dosage parameters in this patient population.
+
+© 2023 The Authors.
+
+DOI: 10.1016/j.ensci.2023.100452
+PMCID: PMC9982645
+PMID: 36875937
+
+Conflict of interest statement: The authors report no conflict of interest.
+
+
+249. Front Microbiol. 2023 Feb 16;14:1078886. doi: 10.3389/fmicb.2023.1078886. 
+eCollection 2023.
+
+Rhizobacterial compositions and their relationships with soil properties and 
+medicinal bioactive ingredients in Cinnamomum migao.
+
+Li L(1), Yang X(1)(2), Tong B(3), Wang D(4), Tian X(1), Liu J(1), Chen J(1), 
+Xiao X(1), Wang S(1).
+
+Author information:
+(1)Forest Ecology Research Center, College of Forestry, Guizhou University, 
+Guiyang, Guihzou, China.
+(2)Guizhou Extension Station of Grassland Technology, Guiyang, Guizhou, China.
+(3)School of Life Sciences, Guizhou Normal University, Guiyang, Guizhou, China.
+(4)College of Urban and Rural Construction, Shaoyang University, Shaoyang, 
+China.
+
+INTRODUCTION: Rhizobacterial communities and their metabolites can affect plant 
+growth, development, and stress resistance, as well as the biosynthesis and 
+accumulation of bioactive compounds in medicinal plants. This relationship has 
+been well-characterized in many medicinal herbs, although much less commonly in 
+medicinal trees.
+METHODS: Here, we analyzed the composition and structure of Cinnamomum migao 
+rhizobacterial communities across nine growing regions in Yunnan, Guizhou and 
+Guangxi, China, as well as differences in soil properties and fruit bioactive 
+compounds.
+RESULTS: Results showed that the C. migao rhizobacterial communities exhibited 
+high species richness, but location-specific differences in structure. 
+Site-specific differences in soil properties and bioactive compounds were also 
+observed. Furthermore, rhizobacterial community compositions were correlated 
+with both soil properties and fruit bioactive compounds, metabolism-related 
+functions were most common in C. migao rhizobacteria.
+DISCUSSION: Several bacterial genera, including Acidothermus, Acidibacter, 
+Bryobacter, Candidatus_Solibacter, and Acidimicrobiales, potentially promote the 

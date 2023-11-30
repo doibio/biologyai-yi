@@ -1,0 +1,1000 @@
+Author information:
+(1)Department of Hepatology and Infectious Diseases, Second Affiliated Hospital 
+of Xi'an Jiaotong University, Xi'an, China.
+(2)Department of Pediatrics, Second Affiliated Hospital of Xi'an Jiaotong 
+University, Xi'an, China.
+
+Comment in
+    JAMA Netw Open. 2021 Apr 1;4(4):e215476.
+
+IMPORTANCE: Atezolizumab plus bevacizumab as a first-line therapy for patients 
+with unresectable or metastatic hepatocellular carcinoma has been shown to 
+improve overall and progression-free survival compared with standard sorafenib 
+treatment. However, because of the high cost of atezolizumab plus bevacizumab, 
+assessment of its value by considering both efficacy and cost is needed.
+OBJECTIVE: To evaluate the cost-effectiveness of atezolizumab plus bevacizumab 
+vs sorafenib for patients with unresectable or metastatic hepatocellular 
+carcinoma from a US payer perspective.
+DESIGN, SETTING, AND PARTICIPANTS: This economic evaluation was performed from 
+June through September 2020, with a 6-year investment time period. Hypothetical 
+patients were male and female adults 18 years or older who had a diagnosis of 
+locally advanced metastatic or unresectable hepatocellular carcinoma confirmed 
+by histologic or clinical features.
+MAIN OUTCOMES AND MEASURES: Health care costs (adjusted to 2020 US dollars), 
+life-years, quality-adjusted life-years (QALYs), and incremental 
+cost-effectiveness ratio (ICER) of atezolizumab plus bevacizumab vs sorafenib 
+were examined using a partitioned survival model. One-way deterministic and 
+probabilistic sensitivity analyses were used to examine model uncertainty. The 
+model was also used to estimate price reductions of atezolizumab plus 
+bevacizumab that would achieve more favorable cost-effectiveness.
+RESULTS: In the base case analysis of a hypothetical sample of 424 patients, 
+atezolizumab plus bevacizumab was associated with an increase of 0.623 
+life-years (1.840 vs 1.218 life-years) and 0.484 QALYs (1.412 vs 0.928 QALYs) 
+and with an incremental cost of $156 210 per patient compared with sorafenib. 
+The ICER was $322 500 per QALY (5th to 95th percentile, $149 364-$683 744 per 
+QALY), with 0.6% and 5.1% chance of being cost-effective at willingness-to-pay 
+thresholds of $100 000 and $150 000 per QALY, respectively. The ICER never 
+decreased below $150 000 per QALY in the 1-way sensitivity analyses. To achieve 
+more favorable cost-effectiveness under the thresholds of $150 000 to $100 000 
+per QALY, the prices of atezolizumab and bevacizumab would need to be reduced by 
+37% to 47%.
+CONCLUSIONS AND RELEVANCE: In this economic evaluation, atezolizumab plus 
+bevacizumab was associated with clinical benefit but was not cost-effective 
+compared with sorafenib for first-line treatment of unresectable or metastatic 
+hepatocellular carcinoma from a US payer perspective. A substantial reduction in 
+price for atezolizumab plus bevacizumab would be needed to achieve favorable 
+cost-effectiveness for this new therapy.
+
+DOI: 10.1001/jamanetworkopen.2021.4846
+PMCID: PMC8027915
+PMID: 33825837 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: None reported.721. JAMA Netw Open. 2021 Apr 1;4(4):e215476. doi:
+10.1001/jamanetworkopen.2021.5476.
+
+Challenges for Measuring Cost-effectiveness of Immunotherapy in Unresectable 
+Hepatocellular Carcinoma.
+
+Wagle NS(1)(2), Spencer JC(3)(4).
+
+Author information:
+(1)Department of Health Policy and Management, Texas A&M University, College 
+Station.
+(2)Population Informatics Lab, Texas A&M University, College Station.
+(3)Center for Health Decision Sciences, Harvard T.H. Chan School of Public 
+Health, Boston, Massachusetts.
+(4)Department of Population Sciences, Dana-Farber Cancer Institute, Boston, 
+Massachusetts.
+
+Comment on
+    JAMA Netw Open. 2021 Apr 1;4(4):e214846.
+
+DOI: 10.1001/jamanetworkopen.2021.5476
+PMID: 33825843 [Indexed for MEDLINE]
+
+
+722. Stat Methods Med Res. 2021 May;30(5):1373-1392. doi:
+10.1177/0962280221997507.  Epub 2021 Apr 7.
+
+A review of multistate modelling approaches in monitoring disease progression: 
+Bayesian estimation using the Kolmogorov-Chapman forward equations.
+
+Matsena Zingoni Z(1)(2), Chirwa TF(1), Todd J(3), Musenge E(1).
+
+Author information:
+(1)Division of Epidemiology and Biostatistics, School of Public Health, Faculty 
+of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa.
+(2)National Institute of Health Research, Causeway, Harare, Zimbabwe.
+(3)Department of Population Health, London School of Hygiene and Tropical 
+Medicine, London, UK.
+
+There are numerous fields of science in which multistate models are used, 
+including biomedical research and health economics. In biomedical studies, these 
+stochastic continuous-time models are used to describe the time-to-event life 
+history of an individual through a flexible framework for longitudinal data. The 
+multistate framework can describe more than one possible time-to-event outcome 
+for a single individual. The standard estimation quantities in multistate models 
+are transition probabilities and transition rates which can be mapped through 
+the Kolmogorov-Chapman forward equations from the Bayesian estimation 
+perspective. Most multistate models assume the Markov property and time 
+homogeneity; however, if these assumptions are violated, an extension to 
+non-Markovian and time-varying transition rates is possible. This manuscript 
+extends reviews in various types of multistate models, assumptions, methods of 
+estimation and data features compatible with fitting multistate models. We 
+highlight the contrast between the frequentist (maximum likelihood estimation) 
+and the Bayesian estimation approaches in the multistate modeling framework and 
+point out where the latter is advantageous. A partially observed and aggregated 
+dataset from the Zimbabwe national ART program was used to illustrate the use of 
+Kolmogorov-Chapman forward equations. The transition rates from a three-stage 
+reversible multistate model based on viral load measurements in WinBUGS were 
+reported.
+
+DOI: 10.1177/0962280221997507
+PMCID: PMC7612622
+PMID: 33826459 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest The authors declare no 
+competing interests for this manuscript.
+
+
+723. PLoS Med. 2021 Apr 7;18(4):e1003389. doi: 10.1371/journal.pmed.1003389. 
+eCollection 2021 Apr.
+
+Health information technology interventions and engagement in HIV care and 
+achievement of viral suppression in publicly funded settings in the US: A 
+cost-effectiveness analysis.
+
+Shade SB(1)(2), Marseille E(1), Kirby V(2), Chakravarty D(2), Steward WT(2), 
+Koester KK(2), Cajina A(3), Myers JJ(2).
+
+Author information:
+(1)Institute for Global Health Sciences, Department of Epidemiology and 
+Biostatistics, University of California, San Francisco, California, United 
+States of America.
+(2)Center for AIDS Prevention Studies, University of California, San Francisco, 
+California, United States of America.
+(3)Demonstration and Evaluation Branch, HIV/AIDS Bureau, Health Resources and 
+Services Administration, Rockville, Maryland, United States of America.
+
+BACKGROUND: The US National HIV/AIDS Strategy (NHAS) emphasizes the use of 
+technology to facilitate coordination of comprehensive care for people with HIV. 
+We examined cost-effectiveness from the health system perspective of 6 health 
+information technology (HIT) interventions implemented during 2008 to 2012 in a 
+Ryan White HIV/AIDS Program (RWHAP) Special Projects of National Significance 
+(SPNS) Program demonstration project.
+METHODS/FINDINGS: HIT interventions were implemented at 6 sites: Bronx, New 
+York; Durham, North Carolina; Long Beach, California; New Orleans, Louisiana; 
+New York, New York (2 sites); and Paterson, New Jersey. These interventions 
+included: (1) use of HIV surveillance data to identify out-of-care individuals; 
+(2) extension of access to electronic health records (EHRs) to support service 
+providers; (3) use of electronic laboratory ordering and prescribing; and (4) 
+development of a patient portal. We employed standard microcosting techniques to 
+estimate costs (in 2018 US dollars) associated with intervention implementation. 
+Data from a sample of electronic patient records from each demonstration site 
+were analyzed to compare prescription of antiretroviral therapy (ART), CD4 cell 
+counts, and suppression of viral load, before and after implementation of 
+interventions. Markov models were used to estimate additional healthcare costs 
+and quality-adjusted life-years saved as a result of each intervention. Overall, 
+demonstration site interventions cost $3,913,313 (range = $287,682 to $998,201) 
+among 3,110 individuals (range = 258 to 1,181) over 3 years. Changes in the 
+proportion of patients prescribed ART ranged from a decrease from 87.0% to 72.7% 
+at Site 4 to an increase from 74.6% to 94.2% at Site 6; changes in the 
+proportion of patients with 0 to 200 CD4 cells/mm3 ranged from a decrease from 
+20.2% to 11.0% in Site 6 to an increase from 16.7% to 30.2% in Site 2; and 
+changes in the proportion of patients with undetectable viral load ranged from a 
+decrease from 84.6% to 46.0% in Site 1 to an increase from 67.0% to 69.9% in 
+Site 5. Four of the 6 interventions-including use of HIV surveillance data to 
+identify out-of-care individuals, use of electronic laboratory ordering and 
+prescribing, and development of a patient portal-were not only cost-effective 
+but also cost saving ($6.87 to $14.91 saved per dollar invested). In contrast, 
+the 2 interventions that extended access to EHRs to support service providers 
+were not effective and, therefore, not cost-effective. Most interventions 
+remained either cost-saving or not cost-effective under all sensitivity analysis 
+scenarios. The intervention that used HIV surveillance data to identify 
+out-of-care individuals was no longer cost-saving when the effect of HIV on an 
+individual's health status was reduced and when the natural progression of HIV 
+was increased. The results of this study are limited in that we did not have 
+contemporaneous controls for each intervention; thus, we are only able to assess 
+sites against themselves at baseline and not against standard of care during the 
+same time period.
+CONCLUSIONS: These results provide additional support for the use of HIT as a 
+tool to enhance rapid and effective treatment of HIV to achieve sustained viral 
+suppression. HIT has the potential to increase utilization of services, improve 
+health outcomes, and reduce subsequent transmission of HIV.
+
+DOI: 10.1371/journal.pmed.1003389
+PMCID: PMC8059802
+PMID: 33826617 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+724. BMJ Open. 2021 Apr 7;11(4):e046826. doi: 10.1136/bmjopen-2020-046826.
+
+Economic evaluation of a novel community-based diabetes care model in rural 
+Mexico: a cost and cost-effectiveness study.
+
+Duan KI(1), Rodriguez Garza F(2), Flores H(3)(4), Palazuelos D(3)(4)(5)(6), Maza 
+J(4), Martinez-Juarez LA(7), Elliott PF(8), Moreno Lázaro E(9), Enriquez Rios 
+N(9), Nigenda G(10), Palazuelos L(4)(6), McBain RK(6)(11).
+
+Author information:
+(1)Division of Pulmonary, Critical Care and Sleep Medicine, University of 
+Washington, Seattle, Washington, USA kduan@uw.edu.
+(2)Last Mile Health, Boston, Massachusetts, USA.
+(3)Division of Global Health Equity, Brigham and Women's Hospital, Boston, 
+Massachusetts, USA.
+(4)Compañeros en Salud/Partners In Health Mexico, Ángel Albino Corzo, Chiapas, 
+Mexico.
+(5)Harvard Medical School, Boston, Massachusetts, USA.
+(6)Partners In Health, Boston, Massachusetts, USA.
+(7)London School of Hygiene & Tropical Medicine, London, UK.
+(8)Royal Darwin Hospital, Casuarina, Darwin, Australia.
+(9)Instituto de Salud del Estado de Chiapas, Tuxtla Gutiérrez, Chiapas, Mexico.
+(10)National School of Nursing and Obstetrics, National Autonomous University of 
+Mexico, Mexico City, Mexico.
+(11)RAND Corp Boston Office, Boston, Massachusetts, USA.
+
+OBJECTIVES: Diabetes is the leading cause of disability-adjusted life years in 
+Mexico, and cost-effective care models are needed to address the epidemic. We 
+sought to evaluate the cost and cost-effectiveness of a novel community-based 
+model of diabetes care in rural Mexico, compared with usual care.
+DESIGN: We performed time-driven activity-based costing to estimate annualised 
+costs associated with typical diabetes care in Chiapas, Mexico, as well as a 
+novel diabetes care model known as Compañeros En Salud Programa de Enfermedades 
+Crónicas (CESPEC). We conducted Markov chain analysis to estimate the 
+cost-effectiveness of CESPEC compared with usual care from a societal 
+perspective. We used patient outcomes from CESPEC in 2016, as well as secondary 
+data from existing literature.
+SETTING: Rural primary care clinics in Chiapas, Mexico.
+PARTICIPANTS: Adults with diabetes.
+INTERVENTIONS: CESPEC is a novel, comprehensive, diabetes care model that 
+integrates community health workers, provider education, supply chain management 
+and active case finding.
+OUTCOME MEASURE: The primary outcome was the incremental cost-effectiveness of 
+CESPEC compared with care as usual, per quality-adjusted life year (QALY) 
+gained, expressed in 2016 US dollars.
+RESULTS: The economic cost of the CESPEC diabetes model was US$144 per patient 
+per year, compared with US$125 for diabetes care as usual. However, CESPEC care 
+was associated with 0.13 additional years of health-adjusted life expectancy 
+compared with usual care and 0.02 additional years in the first 5 years of 
+treatment. This translated to an incremental cost-effectiveness ratio (ICER) of 
+US$2981 per QALY gained over a patient's lifetime and an ICER of US$10 444 over 
+the first 5 years. Findings were robust to multiple sensitivity analyses.
+CONCLUSIONS: CESPEC is a cost-effective, community-based model of diabetes care 
+for patients in rural Mexico. Given the high prevalence and significant 
+morbidity associated with diabetes in Mexico and other countries in Central 
+America, this model should be considered for broader scale up and evaluation.
+
+© Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2020-046826
+PMCID: PMC8031699
+PMID: 33827847 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: DP receives funding from 
+Last Mile Health as a consultant to the Community Health Academy.
+
+
+725. Front Oncol. 2021 Mar 22;11:629166. doi: 10.3389/fonc.2021.629166.
+eCollection  2021.
+
+Challenging Giant Insular Gliomas With Brain Mapping: Evaluation of 
+Neurosurgical, Neurological, Neuropsychological, and Quality of Life Results in 
+a Large Mono-Institutional Series.
+
+Rossi M(1), Gay L(1), Conti Nibali M(1), Sciortino T(1), Ambrogi F(2), Leonetti 
+A(1)(3), Puglisi G(1)(3), Howells H(3), Zito P(4), Villa F(4), Ciroi G(1), Riva 
+M(1), Bello L(1).
+
+Author information:
+(1)Neurosurgical Oncological Unit, Department of Oncology and Hemato-Oncology, 
+Università Degli Studi di Milano, Milano, Italy.
+(2)Laboratory of Medical Statistics, Biometry, and Epidemiology "G.A. 
+Maccararo," Department of Clinical Sciences and Community Health, Università 
+degli Studi di Milano, Milano, Italy.
+(3)Laboratory of Motor Control, Department of Medical Biotechnology and 
+Translational Medicine, Università degli Studi di Milano, Laboratorio 
+Interdisciplinare di Tecnologie Avanzate (LITA), Milano, Italy.
+(4)Department of Anesthesia and Intensive Care, Humanitas Research Hospital, 
+IRCCS, Milano, Italy.
+
+OBJECTIVE: Giant insular tumors are commonly not amenable to complete resection 
+and are associated with a high postoperative morbidity rate. Transcortical 
+approach and brain mapping techniques allow to identify peri-insular functional 
+networks and, with neurophysiological monitoring, to reduce vascular-associated 
+insults. Cognitive functions to be mapped are still under debate, and the 
+analysis of the functional risk of surgery is currently limited to neurological 
+examination. This work aimed to investigate the neurosurgical outcome (extent of 
+resection, EOR) and functional impact of giant insular gliomas resection, 
+focusing on neuropsychological and Quality of Life (QoL) outcomes.
+METHODS: In our retrospective analysis, we included all patients admitted in a 
+five-year period with a radiological diagnosis of giant insular glioma. A 
+transcortical approach was adopted in all cases. Resections were pursued up to 
+functional boundaries defined intraoperatively by brain mapping techniques. We 
+examined clinical, radiological, and intra-operative factors possibly affecting 
+EOR and postoperative neurological, neuropsychological, and Quality of Life 
+(QoL) outcomes.
+RESULTS: We finally enrolled 95 patients in the analysis. Mean EOR was 92.3%. A 
+Gross Total Resection (GTR) was obtained in 70 cases (73.7%). Five patients 
+reported permanent morbidity (aphasia in 3, 3.2%, and superior quadrantanopia in 
+2, 2.1%). Suboptimal EOR associated with poor seizures control postoperatively. 
+Extensive intraoperative mapping (inclusive of cognitive, visual, and haptic 
+functions) decreased long-term neurological, neuropsychological, and QoL 
+morbidity and increased EOR. Tumor infiltration of deep perforators (vessels 
+arising either medial to lenticulostriate arteries through the anterior 
+perforated substance or from the anterior choroidal artery) associated with a 
+higher chance of postoperative ischemia in consonant areas, with the persistence 
+of new-onset motor deficits 1-month post-op, and with minor EOR. Ischemic 
+insults in eloquent sites represented the leading factor for long-term 
+neurological and neuropsychological morbidity.
+CONCLUSION: In giant insular gliomas, the use of a transcortical approach with 
+extensive brain mapping under awake anesthesia ensures broad insular exposure 
+and extension of the surgical resection preserving patients' functional 
+integrity. The relation between tumor mass and deep perforators predicts 
+perioperative ischemic insults, the most relevant risk factor for long-term and 
+permanent postoperative morbidity.
+
+Copyright © 2021 Rossi, Gay, Conti Nibali, Sciortino, Ambrogi, Leonetti, 
+Puglisi, Howells, Zito, Villa, Ciroi, Riva and Bello.
+
+DOI: 10.3389/fonc.2021.629166
+PMCID: PMC8019925
+PMID: 33828981
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+726. One Health Outlook. 2020 Mar 23;2:5. doi: 10.1186/s42522-020-00012-9. 
+eCollection 2020.
+
+Chicken eggs, childhood stunting and environmental hygiene: an ethnographic 
+study from the Campylobacter genomics and environmental enteric dysfunction 
+(CAGED) project in Ethiopia.
+
+Bardosh KL(#)(1)(2), Hussein JW(#)(3), Sadik EA(3), Hassen JY(4), Ketema M(5), 
+Ibrahim AM(4), McKune SL(6), Havelaar AH(7).
+
+Author information:
+(1)Department of Anthropology, University of Florida, Gainesville, USA.
+(2)Center for One Health Research, School of Public Health, University of 
+Washington, Seattle, USA.
+(3)College of Social Sciences and Humanities, Haramaya University, Dire Dawa, 
+Ethiopia.
+(4)Department of Rural Development and Agricultural Extension, Haramaya 
+University, Dire Dawa, Ethiopia.
+(5)School of Agricultural Economics and Agribusiness Management, Haramaya 
+University, Dire Dawa, Ethiopia.
+(6)Environmental and Global Health, University of Florida, Gainesville, USA.
+(7)Department of Animal Sciences, Emerging Pathogens Institute, Institute for 
+Sustainable Food Systems, University of Florida, Gainesville, USA.
+(#)Contributed equally
+
+BACKGROUND: Childhood stunting and malnutrition condemn millions of people 
+globally to a life of disadvantage and cognitive and physical impairment. Though 
+increasing egg consumption is often seen as an important solution for low and 
+middle income countries (including Ethiopia), emerging evidence suggests that 
+greater exposure to poultry feces may also inhibit child growth due to the 
+effects of enteric bacteria, especially Campylobacter, on gut health.
+METHODS: In this rapid ethnographic study, we explored village poultry 
+production, child dietary practices, and environmental hygiene conditions as 
+they relate to Campylobacter risk and intervention in 16 villages in Haramaya 
+Woreda, Eastern Ethiopia.
+RESULTS: In the study area, we found that women assumed primary responsibility 
+to care for both chickens and children: in feeding, housing, and healthcare. 
+Most chickens were free-range local indigenous breeds, and flock sizes were 
+small and unstable due to epidemics, seasonal trends, reproductive patterns, and 
+lack of food. Generally, eggs were seen as "too luxurious" to be eaten, and were 
+predominantly sold at local markets for scarce cash, despite high malnutrition 
+rates. Local narratives of extreme poverty, social dietary norms, parental 
+fatalism, and lack of "dietary consciousness" (as it was called) were invoked to 
+explain this. We found that homesteads were highly contaminated with human and 
+animal feces. Although community members viewed chicken feces and poultry 
+gastrointestinal contents as particularly noxious in comparison to other animals 
+because of their feeding behaviour, they did not relate them to any particular 
+disease. Shared human-animal housing and childcare practices place children at 
+high risk of exposure to enteric bacteria from animal manure, despite daily 
+routines designed to manage the domestic landscape.
+CONCLUSIONS: Addressing childhood stunting and malnutrition through egg 
+production in rural landscapes like Haramaya must navigate three distinct health 
+and care regimes: for children, chickens, and home environments. Interventions 
+should be based on a holistic approach to social and economic empowerment, one 
+that considers both women and men and integrates nutrition, health, and 
+community change as its overarching goal.
+
+© The Author(s) 2020.
+
+DOI: 10.1186/s42522-020-00012-9
+PMCID: PMC7993501
+PMID: 33829128
+
+Conflict of interest statement: Competing interestsThe authors declare that they 
+have no competing interests.
+
+
+727. Eur J Health Econ. 2021 Aug;22(6):991-999. doi: 10.1007/s10198-021-01303-2.
+Epub  2021 Apr 7.
+
+Economic evaluation of orphan drug Lutetium-Octreotate vs. Octreotide 
+long-acting release for patients with an advanced midgut neuroendocrine tumour 
+in the Netherlands.
+
+Hagendijk ME(1)(2), van der Schans S(3)(4), Boersma C(3)(5), Postma MJ(6)(3)(7), 
+van der Pol S(3).
+
+Author information:
+(1)Departments of Economics, Econometrics and Finance, Faculty of Economics and 
+Business, University of Groningen, Groningen, The Netherlands. 
+m.e.hagendijk@amsterdamumc.nl.
+(2)Coronel Institute of Occupational Health and Research Center for Insurance 
+Medicine, Amsterdam UMC, University of Amsterdam, Amsterdam Public Health 
+Research Institute, Amsterdam, The Netherlands. m.e.hagendijk@amsterdamumc.nl.
+(3)Department of Health Sciences, University of Groningen, University Medical 
+Center Groningen, Groningen, The Netherlands.
+(4)Fair Medicine Foundation, Amsterdam, The Netherlands.
+(5)Faculty of Management Sciences, Open University, Heerlen, The Netherlands.
+(6)Departments of Economics, Econometrics and Finance, Faculty of Economics and 
+Business, University of Groningen, Groningen, The Netherlands.
+(7)Institute of Science in Healthy Aging and Healthcare (SHARE), University of 
+Groningen, University Medical Center Groningen, Groningen, The Netherlands.
+
+OBJECTIVES: Multiple studies showed positive effects of Lutetium-Octreotate (LO) 
+treatment in neuroendocrine tumours. LO has been used in the Netherlands since 
+the 1980s and recently received the orphan status shortly after the acquisition 
+by Novartis. Since then, the official list price has increased sixfold. From a 
+value-based pricing perspective, we analysed the impact of the increase in price 
+on the incremental cost-effectiveness ratio (ICER) of LO treatment compared to 
+optimal best supportive care, a high dose of Octreotide long-acting release 
+(O-LAR), using the clinical data of the NETTER-1 trial.
+METHODS: A Markov model was developed to evaluate the costs per quality-adjusted 
+life-year (QALY) for LO treatment compared to O-LAR from the healthcare 
+perspective. A scenario analysis was conducted to compare the cost-effectiveness 
+with the initial and increased price level of the LO-treatment.
+RESULTS: At the increased price level, the cost-effectiveness analysis rendered 
+a deterministic ICER of €53,500 per QALY, while at the initial pricing, the ICER 
+was €19,000 per QALY. The probabilistic sensitivity analysis (PSA) showed that 
+LO had a high probability of being cost-effective at both the increased and 
+initial price level, considering a cost-effectiveness threshold of €80,000.
+CONCLUSIONS: Even at the increased price level, LO treatment can still be 
+considered cost-effective using the applicable Dutch willingness-to-pay 
+threshold of 80,000 euro per QALY. Considering the public scrutiny in relation 
+to this price increase, these outcomes raise the question whether traditional 
+cost-effectiveness methods are sufficient in fully capturing the societal 
+acceptance of prices of new medicines.
+
+© 2021. The Author(s).
+
+DOI: 10.1007/s10198-021-01303-2
+PMCID: PMC8275500
+PMID: 33829344 [Indexed for MEDLINE]
+
+Conflict of interest statement: Prof. Dr. Maarten J. Postma received grants and 
+honoraria from various pharmaceutical companies, including the company marketing 
+the drug of interest in this paper. This study was however not financially 
+supported and performed at our own initiative. Prof Dr. Cornelis Boersma 
+received grants and honoraria from various pharmaceutical companies, all fully 
+unrelated to this study. All other authors have no conflict of interest. Marije 
+E. Hagendijk carried out this study as a result of her graduation project at the 
+University of Groningen.
+
+
+728. Drugs Real World Outcomes. 2021 Sep;8(3):417-425. doi: 
+10.1007/s40801-021-00241-y. Epub 2021 Apr 7.
+
+Factors Associated with Survival in Patients Undergoing Invasive Mechanical 
+Ventilation in an Intensive Care Unit in Colombia, 2017-2018: A Retrospective 
+Cohort Study.
+
+Machado-Alba JE(1), Usma-Valencia AF(2), Sánchez-Ramírez N(2), 
+Valladales-Restrepo LF(2)(3), Machado-Duque M(2)(3), Gaviria-Mendoza A(2)(3).
+
+Author information:
+(1)Grupo de Investigación en Farmacoepidemiología y Farmacovigilancia, 
+Universidad Tecnológica de Pereira-Audifarma S.A, Calle 105 No. 14-140, 660003, 
+Pereira, Risaralda, Colombia. machado@utp.edu.co.
+(2)Grupo de Investigación en Farmacoepidemiología y Farmacovigilancia, 
+Universidad Tecnológica de Pereira-Audifarma S.A, Calle 105 No. 14-140, 660003, 
+Pereira, Risaralda, Colombia.
+(3)Grupo de Investigación Biomedicina, Facultad de Medicina, Fundación 
+Universitaria Autónoma de las Américas, Pereira, Colombia.
+
+BACKGROUND: Critically ill patients are admitted to intensive care units so they 
+can be comprehensively managed and provided with services not covered in general 
+hospital wards, with the aim to increase their chances of survival. These 
+procedures include invasive mechanical ventilation.
+OBJECTIVE: The aim of this study was to identify the factors associated with 
+survival in critically ill patients who required invasive mechanical ventilation 
+in an intensive care unit of a tertiary-level hospital in Colombia.
+METHODS: This was a retrospective follow-up study of a cohort of adult patients 
+who required invasive mechanical ventilation in an intensive care unit in San 
+José de Buga Hospital, between 2017 and 2018. Sociodemographic, clinical, and 
+pharmacological variables were identified. Using Cox regression, variables 
+associated with survival and complications were identified.
+RESULTS: A total of 357 patients were analyzed. The average age was 64.8 ± 18.9 
+years, and 52.9% were male. The most frequent diagnoses were sepsis/septic shock 
+(38.4%) and trauma (17.4%). The main factors associated with shorter survival 
+were advanced age (HR 0.97; 95% CI 0.96-0.99), a diagnosis of septic shock (HR 
+0.29; 95% CI 0.18-0.48) or diabetes mellitus at admission (HR 0.57; 95% CI 
+0.33-0.98), a healthcare-associated infection (HR 0.51; 95% CI 0.33-0.80), and 
+the need for vasopressors (HR 0.36; 95% CI 0.22-0.59). The administration of 
+systemic corticosteroids was associated with a higher probability of survival 
+(HR 1.93; 95% CI 1.15-3.25).
+CONCLUSIONS: The use of systemic corticosteroids was associated with a greater 
+probability of survival in critically ill patients who required invasive 
+mechanical ventilation in an intensive care unit. The identification of the 
+variables associated with a higher risk of dying should allow care protocols to 
+be improved, thereby extending the life expectancy of these patients.
+
+© 2021. The Author(s).
+
+DOI: 10.1007/s40801-021-00241-y
+PMCID: PMC8026090
+PMID: 33829374
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+729. Water Environ Res. 2021 Sep;93(9):1779-1788. doi: 10.1002/wer.1569. Epub
+2021  May 17.
+
+Modeling transmission of hexavalent chromium concentration and its health cost 
+with a water quality analysis simulation program.
+
+Chen YC(1), Tseng CH(2), Chen YT(2).
+
+Author information:
+(1)Department of Civil Engineering, National Taipei University of Technology, 
+Taipei City, Taiwan.
+(2)Institute of Environmental Engineering and Management, National Taipei 
+University of Technology, Taipei City, Taiwan.
+
+In this study, the Water Quality Analysis Simulation Program (WASP7) was used to 
+evaluate the transmission of hexavalent chromium (Cr(VI)) contamination in a 
+water-sediment system and its flux into cultivated soils. The agricultural areas 
+adjacent to the Wu River in Taiwan were taken as the study area, as these soils 
+were heavily polluted with Cr(VI) concentrations of 2173-3271 μg/kg. The rates 
+of accumulation of Cr(VI) are affected by the distance from the source of 
+contamination and the size and type of cultivated areas. The highest 
+concentrations of Cr(VI) (4.27 mg/kg) were detected in soil from Changhua city 
+and correlated with the greater risk of gastric cancer in residents. 
+Specifically, the risk of gastric cancer due to Cr(VI) contamination of 
+agricultural soil was 3 × 10-7 - 15.2 × 10-6 in Taichung city (upstream) and 
+1.3 × 10-6 - 76.3 × 10-6 in Changhua county (downstream). The values of 
+statistical life-years (VSLYs) were US$6.2-10 million for rice, US$42-60 million 
+for corn, and US$360-580 million for other vegetables, respectively, each year. 
+It is critical that techniques other than source reduction are used to reduce 
+human exposure to Cr(VI), such as chemical oxidation or ion-exchange treatment 
+to remove Cr(VI) from factory wastewaters, prior to their discharge into rivers. 
+PRACTITIONER POINTS: This study evaluated the transmission of hexavalent 
+chromium (Cr(VI)) contamination in a water-sediment-soil system. Maximum 
+concentrations of Cr(VI) most rapidly accumulated in the smallest cultivated 
+areas. The highest concentrations of Cr(VI) (3.3 mg/kg) were correlated with the 
+greater risk of gastric cancer. Young children had a threefold greater risk of 
+gastric cancer than adults. Techniques other than source reduction are prior to 
+their discharge into rivers.
+
+© 2021 Water Environment Federation.
+
+DOI: 10.1002/wer.1569
+PMID: 33829623 [Indexed for MEDLINE]
+
+
+730. Mymensingh Med J. 2021 Apr;30(2):307-314.
+
+Study on Body Mass Index, Serum C-Reactive Protein and Their Association with 
+Cardiovascular Risk Factors in Postmenopausal Women.
+
+Dipa MI(1), Nessa A, Firoz S, Akter N, Sharmin A, Israt S.
+
+Author information:
+(1)Dr Mahmoda Islam Dipa, M Phil (Thesis Part Student), Mymensingh Medical 
+College (MMC), Mymensingh, Bangladesh; E-mail: depamaruf169@gmail.com.
+
+Menopause is the natural process of ageing when women pass from reproductive to 
+non -reproductive phase with the cessation of cyclical ovarian functions. After 
+menopause women are usually troubled by increasing weight and waist 
+circumference caused by obesity and androidal fat redistribution. With the 
+increase in life expectancy resulting in women living one half to one third of 
+their lives after menopause, the high incidence of overweight and obesity in 
+women have become important public health concerns. In postmenopausal women, 
+elevated C-reactive protein (CRP) is one of the most significant predictors of 
+cardiovascular disease and heart attack risk. In middle aged women, the risk of 
+a coronary event rises dramatically after onset of menopause corresponding to 
+decreased levels of circulating endogenous estrogens. Both body mass index (BMI) 
+and serum CRP are significantly higher among postmenopausal women as compared 
+with reproductive aged women. To assess the BMI and serum CRP level changes in 
+healthy postmenopausal women in order to compare this parameter with healthy 
+reproductive aged women. This comparative study was carried out in the 
+Department of Physiology, Mymensingh Medical College, Mymensingh, Bangladesh 
+from July, 2018 to June, 2019. Two hundred healthy women (100 female were 
+postmenopausal as study group and 100 female were reproductive aged women as 
+control group) aged between 25 to 65 years were enrolled in this study. BMI was 
+calculated as weight in kilogram divided by the height in meter square. Serum 
+CRP by CRP-Latex Test (Slide agglutination procedure). Data were expressed as 
+mean±SD and statistical significance of difference among the group was 
+calculated by unpaired students' 't' test. The mean value ±SD of BMI and serum 
+CRP level was higher in postmenopausal group in comparison to the reproductive 
+women group. This study concludes, BMI and Serum C-Reactive protein level 
+increased in postmenopausal women.
+
+PMID: 33830107 [Indexed for MEDLINE]
+
+
+731. Diabetes Ther. 2021 May;12(5):1227-1247. doi: 10.1007/s13300-021-01035-9.
+Epub  2021 Apr 8.
+
+Diabetes and Frailty: An Expert Consensus Statement on the Management of Older 
+Adults with Type 2 Diabetes.
+
+Strain WD(1), Down S(2), Brown P(3), Puttanna A(4), Sinclair A(5).
+
+Author information:
+(1)University of Exeter Medical School, and Royal Devon and Exeter Hospital, 
+Exeter, UK. d.strain@exeter.ac.uk.
+(2)Somerset Foundation Trust, Somerset, UK.
+(3)GP, Swansea, UK.
+(4)Good Hope Hospital, Sutton Coldfield, UK.
+(5)The Foundation for Diabetes Research in Older People (fDROP) and King's 
+College, London, UK.
+
+Prognosis and appropriate treatment goals for older adults with diabetes vary 
+greatly according to frailty. It is now recognised that changes may be needed to 
+diabetes management in some older people. Whilst there is clear guidance on the 
+evaluation of frailty and subsequent target setting for people living with 
+frailty, there remains a lack of formal guidance for healthcare professionals in 
+how to achieve these targets. The management of older adults with type 2 
+diabetes is complicated by comorbidities, shortened life expectancy and 
+exaggerated consequences of adverse effects from treatment. In particular, older 
+adults are more prone to hypoglycaemia and are more vulnerable to its 
+consequences, including falls, fractures, hospitalisation, cardiovascular events 
+and all-cause mortality. Thus, assessment of frailty should be a routine 
+component of a diabetes review for all older adults, and glycaemic targets and 
+therapeutic choices should be modified accordingly. Evidence suggests that 
+over-treatment of older adults with type 2 diabetes is common, with many having 
+had their regimens intensified over preceding years when they were in better 
+health, or during more recent acute hospital admissions when their blood glucose 
+levels might have been atypically high, and nutritional intake may vary. In 
+addition, assistance in taking medications, as often occurs in later life 
+following implementation of community care strategies or admittance to a care 
+home, may dramatically improve treatment adherence, leading to a fall in 
+glycated haemoglobin (HbA1c) levels. As a person with diabetes gets older, 
+simplification, switching or de-escalation of the therapeutic regimen may be 
+necessary, depending on their level of frailty and HbA1c levels. Consideration 
+should be given, in particular, to de-escalation of therapies that may induce 
+hypoglycaemia, such as sulphonylureas and shorter-acting insulins. We discuss 
+the use of available glucose-lowering therapies in older adults and recommend 
+simple glycaemic management algorithms according to their level of frailty.
+
+DOI: 10.1007/s13300-021-01035-9
+PMCID: PMC8099963
+PMID: 33830409
+
+
+732. Orthop Surg. 2021 May;13(3):1026-1035. doi: 10.1111/os.13017. Epub 2021 Apr
+8.
+
+Personality Traits Affect the Cost-Effectiveness of Total Knee Arthroplasty.
+
+Chen C(1), Shi YY(2), An X(3), Gong L(4), Tan MS(4)(5), Fang ZY(5)(6).
+
+Author information:
+(1)Department of Orthopaedics, Beijing Hospital of Traditional Chinese Medicine, 
+Capital Medical University, Beijing, China.
+(2)Department of Psychology, Hainan Hospital of Chinese PLA General Hospital, 
+Sanya, China.
+(3)Department of Orthopaedics, Hainan Hospital of Chinese PLA General Hospital, 
+Sanya, China.
+(4)Department of Orthopaedics, China-Japan Friendship Hospital, Peking Union 
+Medical College, Chinese Academy of Medical College, Beijing, China.
+(5)Beijing University of Chinese Medicine, Beijing, China.
+(6)Dongfang Hospital Beijing University of Chinese Medicine, Beijing, China.
+
+OBJECTIVE: To assess the clinical benefit and compare the cost-effectiveness of 
+total knee arthroplasty (TKA) in patients with different personality traits.
+METHODS: The present study was retrospectively conducted from January 2017 to 
+May 2018. A total of 232 patients between 46 and 71 years old who underwent 
+unilateral, primary TKA with the diagnosis of knee osteoarthritis were 
+interviewed. Three types of data were required to compare the cost-effectiveness 
+differences among groups: personality traits, postoperative clinical outcomes 
+about health-related quality of life, and costs associated with TKA. Personality 
+was assessed using the Eysenck Personality Questionnaire, functional outcome was 
+assessed through the Western Ontario and McMaster Universities Osteoarthritis 
+Index (WOMAC) questionnaire, and costs were evaluated. Besides, the marginal 
+cost-effectiveness ratio (MCER) as the primary outcome, which relates the direct 
+costs to the associated patient benefit as assessed by the clinical endpoint 
+($/quality-adjusted life years [QALY]), was compared among different personality 
+traits. All information for this study was acquired by directly interviewing the 
+patients and reviewing the medical computer records at our hospital.
+RESULTS: Two hundred and eleven patients completed the final analysis with an 
+average of 24.6 months follow-up postoperatively. The choleric group, sanguine 
+group, melancholic group, and phlegmatic group has 41, 70, 46, and 54 patients, 
+respectively. A statistically significant difference in MECR, QALYs, and 
+postoperative WOMAC existed among different personality traits (all P < 0.05). 
+There was no significant difference in mean age (P = 0.588), body mass index 
+(BMI) (P = 0.790), smoking (P = 0.934), heavy drinking (P = 0.994), chronic 
+comorbidities (all P > 0.05), preoperative albumin <3.5 g/dL (P = 0.991), and 
+American Society of Anaesthesiologists (ASA) score (P = 0.687) among personality 
+traits. More women tend to be melancholic in comparison to other personality 
+traits (P = 0.016). Melancholic patients attested inferiority of TKA compared 
+with other personality traits, who would pay for the same QALYs at the highest 
+costs (P < 0.05). By contrast, sanguine patients have a more cost-effective TKA 
+than other personality traits, as they pay the least money for the same QALYs (P 
+< 0.05). Although phlegmatic and choleric patients seemingly have moderate gains 
+from TKA, in general, the extroversion (measured by the extroversion subscale) 
+and stability (measured by the neuroticism subscale) displayed more pleasurable 
+QALYs in comparison with introversion and instability (P < 0.05). Sensitivity 
+analysis showed that the results mentioned above appeared not to be sensitive 
+when varying key parameters (prosthesis survival and life expectancy) in a 
+one-way sensitivity analysis. Sanguine and melancholic patients still have the 
+lowest and highest MCER in comparison with choleric and phlegmatic traits (P 
+< 0.05). The multivariate logistic regression showed that RA (adjusted OR = 1.3, 
+95% CI = 1.2-1.4, P < 0.01), ASA Class I-II (adjusted OR = 0.9, 95% CI 
+= 0.8-1.0, P < 0.001), sanguine (adjusted OR = 0.8, 95% CI = 0.7-0.9, P < 0.001) 
+and melancholic (adjusted OR = 1.2, 95% CI = 1.1-1.3, P < 0.001) were 
+significantly associated with MCER.
+CONCLUSIONS: Before surgery, screening the melancholic patients would 
+significantly reduce the economic burden, avoid unnecessary suffering, and 
+shorten the recovery period.
+
+© 2021 The Authors. Orthopaedic Surgery published by Chinese Orthopaedic 
+Association and John Wiley & Sons Australia, Ltd.
+
+DOI: 10.1111/os.13017
+PMCID: PMC8126940
+PMID: 33830658 [Indexed for MEDLINE]
+
+
+733. Cent Eur J Public Health. 2021 Mar;29(1):9-13. doi: 10.21101/cejph.a6394.
+
+Distribution of COVID-19 cases and deaths in Europe during the first 12 peak 
+weeks of outbreak.
+
+Zach H(1), Hanová M(1), Letkovičová M(2).
+
+Author information:
+(1)Department of Statistics and Operations Research, Faculty of Economics and 
+Management, Slovak University of Agriculture in Nitra, Nitra, Slovak Republic.
+(2)Environment a.s., Centre for Biostatistics and Environment, Nitra, Slovak 
+Republic.
+
+OBJECTIVE: The aim of the study was to identify similar WHO European countries 
+in COVID-19 incidence and mortality rate during the first 12 peak weeks of 
+pandemic outbreak to find out whether exact coherent parts of Europe were more 
+affected than others, and to set relationship between age and higher COVID-19 
+mortality rate.
+METHODS: COVID-19 cases and deaths from 28 February to 21 May 2020 of 37 WHO 
+European countries were aggregated into 12 consecutive weeks. The fuzzy C-means 
+clustering was performed to identify similar countries in COVID-19 incidence and 
+mortality rate. Pearson product-moment correlation coefficient and log-log 
+linear regression analyses were performed to set up relation between COVID-19 
+mortality rate and age. Mann-Whitney (Wilcoxon) test was used to explore 
+differences between countries possessing higher mortality rate and age.
+RESULTS: Based on the highest value of the coefficient of overall separation 
+five clusters of similar countries were identified for incidence rate, mortality 
+rate and in total. Analysis according to weeks offered trends where progress of 
+COVID-19 incidence and mortality rate was visible. Pearson coefficient (0.69) 
+suggested moderately strong connection between mortality rate and age, 
+Mann-Whitney (Wilcoxon) test proved statistically significant differences 
+between countries experiencing higher mortality rate and age vs. countries 
+having both indicators lower (p < 0.001). Log-log linear regression analysis 
+defined every increase in life expectancy at birth in total by 1% meant growth 
+in mortality rate by 22% (p < 0.001).
+CONCLUSION: Spain, Belgium and Ireland, closely followed by Sweden and Great 
+Britain were identified as the worst countries in terms of incidence and 
+mortality rate in the monitored period. Luxembourg, Belarus and Moldova 
+accompanied the group of the worst countries in terms of incidence rate and 
+Italy, France and the Netherland in terms of mortality rate. Correlation 
+analysis and the Mann-Whitney (Wilcoxon) test proved statistically significant 
+positive relationship between mortality rate and age. Log-log linear regression 
+analysis proved that higher age accelerated the growth of mortality rate.
+
+DOI: 10.21101/cejph.a6394
+PMID: 33831280 [Indexed for MEDLINE]
+
+
+734. Value Health Reg Issues. 2021 May;24:173-180. doi:
+10.1016/j.vhri.2020.12.009.  Epub 2021 Apr 5.
+
+Is It Worth Delaying Total Knee Replacement as Late as Possible? A 
+Cost-Effectiveness Analysis Using a Markov Model in the Indian Setting.
+
+George J(1), Gautam D(2), Devasenapathy N(3), Malhotra R(1).
+
+Author information:
+(1)Department of Orthopedic Surgery, AIIMS, New Delhi, India.
+(2)Department of Orthopedic Surgery, AIIMS, New Delhi, India. Electronic 
+address: cmcdeepak@yahoo.com.
+(3)Public Health Foundation of India, Indian Institute of Public Health-Delhi, 
+India.
+
+BACKGROUND: Total knee replacement (TKR) is often delayed in younger patients in 
+an attempt to prolong the longevity of the prosthesis and avoid the risk of 
+revision. But delaying a TKR might compromise the quality of life of young 
+patients who are otherwise active and healthy.
+METHODS: We built a Markov decision model to study the simulated clinical course 
+of a 50-year-old patient with severe unilateral knee osteoarthritis who could be 
+either treated with conservative therapies or with a TKR at some point in time. 
+An Indian healthcare payer perspective model was used, and lifetime costs (in 
+Indian rupees), quality-adjusted life-years (QALYs), and incremental 
+cost-effectiveness ratio (ICER) were calculated.
+RESULTS: In the base case scenario, patients who did not receive a TKR had a 
+total lifetime cost of ₹216 709 and accumulated 13.59 QALYS in their lifetime. 
+Those who received a TKR without delay (at age 50) accumulated 16.71 QALYS in 
+their lifetime with an ICER of ₹9789 per QALY. When TKR was delayed, the total 
+QALYs decreased, and ICER increased with each year of delay. But the cumulative 
+risk of revision decreased from 27.4% when TKR was performed at 50 years to 
+10.0% when TKR was done at 70 years.
+CONCLUSION: Our analysis found that TKR is a cost-effective procedure when the 
+healthcare payer is willing to pay at least ₹9789 ($132) per QALY. The results 
+also suggested that an early TKR is preferred to a delayed TKR despite the 
+higher incidence of revisions.
+
+Copyright © 2021 ISPOR--The professional society for health economics and 
+outcomes research. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.vhri.2020.12.009
+PMID: 33831792 [Indexed for MEDLINE]
+
+
+735. World J Mens Health. 2022 Jan;40(1):1-10. doi: 10.5534/wjmh.200190. Epub
+2021  Mar 4.
+
+Rehabilitation Nutrition and Exercise Therapy for Sarcopenia.
+
+Kakehi S(1), Wakabayashi H(2), Inuma H(1), Inose T(1), Shioya M(1), Aoyama Y(1), 
+Hara T(1), Uchimura K(1), Tomita K(1), Okamoto M(1), Yoshida M(1), Yokota S(1), 
+Suzuki H(1).
+
+Author information:
+(1)Department of Rehabilitation Medicine, Tokyo Women's Medical University, 
+Tokyo, Japan.
+(2)Department of Rehabilitation Medicine, Tokyo Women's Medical University, 
+Tokyo, Japan. noventurenoglory@gmail.com.
+
+Sarcopenia is an age-related loss of skeletal muscle associated with adverse 
+outcomes such as falls, fractures, disability, and increased mortality in older 
+people and hospitalized patients. About half of older male nursing home 
+residents have sarcopenia. The diagnostic criteria by the European Working Group 
+on Sarcopenia in Older People (EWGSOP) and the Asian Working Group for 
+Sarcopenia (AWGS) have led to increased interest in sarcopenia. Exercise and 
+nutritional management are crucial for the prevention and treatment of 
+sarcopenia. Nutritional therapy for sarcopenia that includes 20 g of whey 
+protein and 800 IU of vitamin D twice a day improves lower limb strength. 
+Exercise therapy for sarcopenia, such as resistance training and 6 months of 
+home exercises, improves muscle strength and physical function. Combination 
+therapy that includes both nutritional and exercise therapy improves gait speed 
+and knee extension strength more than either exercise alone or nutrition therapy 
+alone. Excessive bedrest and mismanagement of nutrition in medical facilities 
+can lead to iatrogenic sarcopenia. Iatrogenic sarcopenia is sarcopenia caused by 
+the activities of health care workers in health care facilities. Appropriate 
+nutritional management and exercise programs through rehabilitation nutrition 
+are important for prevention and treatment of iatrogenic sarcopenia. Nutritional 
+and exercise therapy should be started very early after admission and adjusted 
+to the level of inflammation and disease status. Repeated assessment, diagnosis, 
+goal setting, interventions, and monitoring using the rehabilitation nutrition 
+care process is important to maximize treatment effectiveness and improve 
+patients' functional recovery and quality of life.
+
+Copyright © 2022 Korean Society for Sexual Medicine and Andrology.
+
+DOI: 10.5534/wjmh.200190
+PMCID: PMC8761238
+PMID: 33831974
+
+Conflict of interest statement: The authors have nothing to disclose.
+
+
+736. BMC Public Health. 2021 Apr 8;21(1):688. doi: 10.1186/s12889-021-10395-7.
+
+From income inequality to social inequity: impact on health levels in an 
+international efficiency comparison panel.
+
+Schenkman S(1), Bousquat A(2).
+
+Author information:
+(1)Department of Policies, Management and Health, Faculdade de Saúde Pública - 
+FSP (School of Public Health), Universidade de São Paulo - USP (Sao Paulo 
+University), Av. Dr. Arnaldo 715, Cerqueira César, São Paulo, SP, 01246-904, 
+Brazil. simoneschenkman16@gmail.com.
+(2)Department of Policies, Management and Health, Faculdade de Saúde Pública - 
+FSP (School of Public Health), Universidade de São Paulo - USP (Sao Paulo 
+University), Av. Dr. Arnaldo 715, Cerqueira César, São Paulo, SP, 01246-904, 
+Brazil.
+
+BACKGROUND: Health equity, although addressed in several publications dealing 
+with health efficiency analysis, is not easily translated into the 
+operationalization of variables, mainly due to technical difficulties. Some 
+studies provide evidence that it does not influence health outcomes; others 
+demonstrate that its effect is an indirect one, with the hegemony of material 
+living conditions over its social connotation. The aim of this article is to 
+evaluate the role of health equity in determining health outcomes, in an 
+international comparative analysis of the effectiveness and efficiency of health 
+systems.
+METHOD: Fixed Effects Model Panel and Data Envelopment Analysis, a dynamic and 
+network model, in addition to comparative analysis between methods and health 
+impacts. The effect variables considered in the study were life expectancy at 
+birth and infant mortality, in 2010 and 2015, according to the sociocultural 
+regions of the selected countries. Inequity was assessed both economically and 
+socially. The following dimensions were considered: physical and financial 
+resources, health production (access, coverage and prevention) and intersectoral 
+variables: demographic, socioeconomic, governance and health risks.
+RESULTS: Both methods demonstrated that countries with higher inequity levels 
+(regarding income, education and health dimensions), associated or not with 
+poverty, are the least efficient, not reaching the potential for effective 
+health outcomes. The outcome life expectancy at birth exhibited, in the final 
+model, the following variables: social inequity and per capita health 
+expenditure. The outcome infant mortality comprehended the level of education 
+variable, in association with the following healthcare variabels: care seeking 
+due to diarrhea in children under five, births attended by skilled health 
+professionals and the reduction in the incidence of HIV.
+CONCLUSION: The dissociation between the distribution of health outcomes and the 
+overall level of health of the population characterizes a devastating political 
+choice for society, as it is associated with high levels of segregation, 
+disrespect and violence from within. Countries should prioritize health equity, 
+adding value to its resources, since health inequties affect society altogether, 
+generating mistrust and reduced social cohesion.
+
+DOI: 10.1186/s12889-021-10395-7
+PMCID: PMC8033748
+PMID: 33832455 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors declare no competing interests.
+
+
+737. BMC Health Serv Res. 2021 Apr 8;21(1):319. doi: 10.1186/s12913-021-06271-0.
+
+The cost-effectiveness of Cochlear implants in Swedish adults.
+
+Gumbie M(1), Olin E(1), Parkinson B(1), Bowman R(1), Cutler H(2).
+
+Author information:
+(1)Macquarie University Centre for the Health Economy, Level 1, 3 Innovation Rd, 
+Sydney, NSW, 2109, Australia.
+(2)Macquarie University Centre for the Health Economy, Level 1, 3 Innovation Rd, 
+Sydney, NSW, 2109, Australia. henry.cutler@mq.edu.au.
+
+BACKGROUND: Research has shown unilateral cochlear implants (CIs) significantly 
+improve clinical outcomes and quality of life in adults. However, only 13% of 
+eligible Swedish adults currently use a unilateral CI. The objective was to 
+estimate the cost-effectiveness of unilateral CIs compared to a hearing aid for 
+Swedish adults with severe to profound hearing loss.
+METHODS: A Markov model with a lifetime horizon and six-month cycle length was 
+developed to estimate the benefits and costs of unilateral CIs from the Swedish 
+health system perspective. A treatment pathway was developed through 
+consultation with clinical experts to estimate resource use and costs. Unit 
+costs were derived from the Swedish National Board of Health and Welfare and the 
+Swedish Association of Local Authorities and Regions. Health outcomes were 
+reported in terms of Quality Adjusted Life Years (QALYs).
+RESULTS: Unilateral CIs for Swedish adults with severe to profound hearing loss 
+are likely to be deemed cost-effective when compared to a hearing aid (SEK 
+140,474 per QALY gained). The results were most sensitive to the age when 
+patients are implanted with a CI and the proportion of patients eligible for CIs 
+after triage.
+CONCLUSIONS: An increase in the prevalence of Swedish adults with severe to 
+profound hearing loss is expected as the population ages. Earlier implantation 
+of unilateral CIs improves the cost-effectiveness among people eligible for CIs. 
+Unilateral CIs are an efficacious and cost-effective option to improve hearing 
+and quality of life in Swedish adults with severe to profound hearing loss.
+
+DOI: 10.1186/s12913-021-06271-0
+PMCID: PMC8034197
+PMID: 33832467 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare they have no competing 
+interests, financial or otherwise.
+
+
+738. Geriatr Psychol Neuropsychiatr Vieil. 2021 Apr 6. doi:
+10.1684/pnv.2021.0927.  Online ahead of print.
+
+Insomnia comorbid to Parkinson's disease Part II: Therapeutic approaches.
+
+Lebrun C(1), Gély-Nargeot MC(1), Bayard S(1).
+
+Author information:
+(1)Université Paul Valéry Montpellier 3, Univ Montpellier, EPSYLON EA 4556, 
+Montpellier, France.
+
+Insomnia is four times more frequent in patients with Parkinson's disease (PD) 
+than in the general population. In PD, insomnia is associated with a very 
+significant decrease in quality of life and has deleterious consequences on both 
+patients' and caregivers' health. When insomnia is comorbid to PD, the main 
+therapeutic response is the prescription of benzodiazepines or related drugs. As 
+in the general population, these sedative-hypnotic molecules have very low 
+efficacy in PD and are associated with adverse effects. They are highly 
+addictive and are also associated with drowsiness, a risk of falling and 
+decreased life expectancy. These side effects may in themselves be symptoms 
+associated with PD in the absence of insomnia. In this clinical context, it is 
+clear that sedative-hypnotic drugs are likely to potentiate these clinical 
+symptoms in PD. We recently documented that insomnia disorder comorbid to PD is 
+associated with the classic psychological factors that perpetuate insomnia in 
+neurologically disease-free individuals with insomnia. These results enabled us 
+to emphasise that target-oriented interventions, such as cognitive-behavioural 
+therapy for chronic insomnia (CBT-i), should be considered as a treatment for 
+insomnia comorbid to PD. As a reminder, for decades CBT-i has been considered to 
+be the most effective first-line treatment for the management of chronic 
+insomnia, whether or not it is associated with a comorbidity. In this context, 

@@ -1,0 +1,1000 @@
+Author information:
+(1)Washington University School of Medicine, St. Louis, MO, USA. 
+aging.advice@gmail.com.
+
+An experimental design is proposed for high-throughput testing of combined 
+interventions that might increase life expectancy in rodents. There is a growing 
+backlog of promising treatments that have never been tested in mammals, and 
+known treatments have not been tested in combination. The dose-response curve is 
+often nonlinear, as are the interactions among different therapies. Herein are 
+proposed two experimental designs optimized for detecting high-value 
+combinations. In Part I, numerical simulation is used to explore a protocol for 
+testing different dosages of a single intervention. With reasonable and general 
+biological assumptions about the dose-response curve, information is maximized 
+when each animal receives a different dosage. In Part II, numerical simulation 
+is used to explore a protocol for testing interactions among many combinations 
+of treatments, once their individual dosages have been established. Combinations 
+of three are identified as a sweet spot for statistics. To conserve resources, 
+the protocol is designed to identify those outliers that lead to life extension 
+greater than 50%, but not to offer detailed survival curves for any treatments. 
+Every combination of three treatments from a universe of 15 total treatments is 
+represented, with just three mice replicating each combination. Stepwise 
+regression is used to infer information about the effects of individual 
+treatments and all their pairwise interactions. Results are not quite as robust 
+as for the dosage protocol in Part I, but if there is a combination that extends 
+lifespan by more than 50%, it will be detected with 80% certainty. These two 
+screening protocols offer the possibility of expediting the identification of 
+treatment combinations that are most likely to have the largest effect, while 
+controlling costs overall.
+
+DOI: 10.1134/S0006297917120057
+PMID: 29486696 [Indexed for MEDLINE]
+
+
+3. Gynecol Oncol. 2018 May;149(2):256-262. doi: 10.1016/j.ygyno.2018.02.007. Epub
+ 2018 Mar 1.
+
+Modeling treatment outcomes for patients with advanced ovarian cancer: Projected 
+benefits of a test to optimize treatment selection.
+
+Weaver DT(1), Raphel TJ(2), Melamed A(3), Rauh-Hain JA(4), Schorge JO(5), 
+Knudsen AB(6), Pandharipande PV(7).
+
+Author information:
+(1)Massachusetts General Hospital Institute for Technology Assessment, 101 
+Merrimac Street, Boston, MA 02114, United States. Electronic address: 
+davis@mgh-ita.org.
+(2)Massachusetts General Hospital Institute for Technology Assessment, 101 
+Merrimac Street, Boston, MA 02114, United States.
+(3)Massachusetts General Hospital, Division of Gynecologic Oncology, 55 Fruit 
+Street, Boston, MA 02114, United States; Harvard Medical School, United States. 
+Electronic address: Alexander.Melamed@mgh.harvard.edu.
+(4)Massachusetts General Hospital, Division of Gynecologic Oncology, 55 Fruit 
+Street, Boston, MA 02114, United States; Harvard Medical School, United States. 
+Electronic address: jarauh-hain@partners.org.
+(5)Massachusetts General Hospital, Division of Gynecologic Oncology, 55 Fruit 
+Street, Boston, MA 02114, United States; Harvard Medical School, United States. 
+Electronic address: jschorge@partners.org.
+(6)Massachusetts General Hospital Institute for Technology Assessment, 
+Department of Radiology, 101 Merrimac Street, Boston, MA 02114, United States; 
+Harvard Medical School, United States. Electronic address: aknudsen@mgh-ita.org.
+(7)Massachusetts General Hospital Institute for Technology Assessment, 
+Department of Radiology, 101 Merrimac Street, Boston, MA 02114, United States; 
+Harvard Medical School, United States. Electronic address: pari@mgh-ita.org.
+
+OBJECTIVE: For patients with advanced stage epithelial ovarian cancer (EOC), 
+substantial emphasis has been placed on diagnostic tests that can discern which 
+of two treatment options - primary cytoreductive surgery (PCS) or neoadjuvant 
+chemotherapy followed by interval cytoreductive surgery (NACT+ICS) - optimizes 
+patient-level outcomes. Our goal was to project potential life expectancy (LE) 
+gains that could be achieved by use of such a test.
+METHODS: We developed a microsimulation model to project LE for patients with 
+stage IIIC EOC. We compared: a "standard-of-care" strategy, in which patients 
+were triaged to PCS vs. NACT+ICS based on current clinical practice; and a 
+"test" strategy, in which patients were triaged based on results of a 
+hypothetical test. We identified those test performance characteristics for 
+which the test strategy outperformed the standard-of-care strategy, from a LE 
+standpoint. Effects of parameter uncertainty were evaluated in sensitivity 
+analysis.
+RESULTS: Even with a perfect test, the LE gain was modest (LE with test vs. 
+standard-of-care strategy=67.6 vs. 66.4months; LE gain=1.2months). In order to 
+outperform the standard-of-care, the test had to have a high probability of 
+correctly identifying "resectable" patients at PCS (i.e. those for whom complete 
+or optimal cytoreduction would be possible); this test property was more 
+important than correct triage of unresectable patients to NACT+ICS. Results were 
+sensitive to the proportion of patients whose underlying disease was resectable 
+at PCS.
+CONCLUSION: Diagnostic tests that are designed to triage patients with advanced 
+stage EOC will likely have only a modest effect on LE.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ygyno.2018.02.007
+PMID: 29486993 [Indexed for MEDLINE]
+
+
+4. Circulation. 2018 Aug 7;138(6):590-599. doi:
+10.1161/CIRCULATIONAHA.117.030414.
+
+Proteomic Biomarkers for Incident Aortic Stenosis Requiring Valvular 
+Replacement.
+
+Ljungberg J(1), Janiec M(2)(3), Bergdahl IA(4), Holmgren A(1), Hultdin J(5), 
+Johansson B(1), Näslund U(1), Siegbahn A(6), Fall T(3), Söderberg S(1).
+
+Author information:
+(1)Departments of Public Health and Clinical Medicine (J.L., A.H., B.J., U.N., 
+S.S.).
+(2)Umeå University, Sweden. Departments of Cardiothoracic Surgery and 
+Anaesthesia (M.J.).
+(3)Medical Sciences, Molecular Epidemiology and Science for Life Laboratory 
+(M.J., T.F.).
+(4)Biobank Research (I.A.B.).
+(5)Medical Biosciences (J.H.).
+(6)Medical Sciences, Clinical Chemistry and Science for Life Laboratory (A.S.), 
+Uppsala University, Sweden.
+
+BACKGROUND: Aortic valve stenosis (AS) is the most common indication for cardiac 
+valve surgery; untreated AS is linked to high mortality. The etiological 
+background of AS is unknown. Previous human studies were typically based on 
+case-control studies. Biomarkers identified in prospective studies could lead to 
+novel mechanistic insights.
+METHODS: Within a large population survey with blood samples obtained at 
+baseline, 334 patients were identified who later underwent surgery for AS 
+(median age [interquartile range], 59.9 [10.4] years at survey and 68.3 [12.7] 
+at surgery; 48% female). For each case, 2 matched referents were allocated. 
+Plasma was analyzed with the multiplex proximity extension assay for screening 
+of 92 cardiovascular candidate proteins. Conditional logistic regression models 
+were used to assess associations between each protein and AS, with correction 
+for multiple testing. A separate set of 106 additional cases with 212 matched 
+referents was used in a validation study.
+RESULTS: Six proteins (growth differentiation factor 15, galectin-4, von 
+Willebrand factor, interleukin 17 receptor A, transferrin receptor protein 1, 
+and proprotein convertase subtilisin/kexin type 9) were associated with case 
+status in the discovery cohort; odds ratios ranged from 1.25 to 1.37 per SD 
+increase in the protein signal. Adjusting the multivariable models for classical 
+cardiovascular risk factors at baseline yielded similar results. Subanalyses of 
+case-referent triplets (n=133) who showed no visible coronary artery disease at 
+the time of surgery in the index person supported associations between AS and 
+growth differentiation factor 15 (odds ratio, 1.40; 95% confidence interval, 
+1.10-1.78) and galectin-4 (odds ratio, 1.27; 95% confidence interval, 
+1.02-1.59), but these associations were attenuated after excluding individuals 
+who donated blood samples within 5 years before surgery. In triplets (n=201), 
+which included index individuals with concurrent coronary artery disease at the 
+time of surgery, all 6 proteins were robustly associated with case status in all 
+sensitivity analyses. In the validation study, the association of all but 1 
+(interleukin 17 receptor A) of these proteins were replicated in patients with 
+AS with concurrent coronary artery disease but not in patients with AS without 
+coronary artery disease.
+CONCLUSIONS: We provide evidence that 5 proteins were altered years before AS 
+surgery and that the associations seem to be driven by concurrent 
+atherosclerotic disease.
+
+DOI: 10.1161/CIRCULATIONAHA.117.030414
+PMID: 29487139 [Indexed for MEDLINE]
+
+
+5. Front Genet. 2018 Feb 13;9:31. doi: 10.3389/fgene.2018.00031. eCollection
+2018.
+
+Digital Twins in Health Care: Ethical Implications of an Emerging Engineering 
+Paradigm.
+
+Bruynseels K(1), Santoni de Sio F(1), van den Hoven J(1).
+
+Author information:
+(1)Department of Philosophy, Faculty of Technology, Policy and Management, Delft 
+University of Technology, Delft, Netherlands.
+
+Personalized medicine uses fine grained information on individual persons, to 
+pinpoint deviations from the normal. 'Digital Twins' in engineering provide a 
+conceptual framework to analyze these emerging data-driven health care 
+practices, as well as their conceptual and ethical implications for therapy, 
+preventative care and human enhancement. Digital Twins stand for a specific 
+engineering paradigm, where individual physical artifacts are paired with 
+digital models that dynamically reflects the status of those artifacts. When 
+applied to persons, Digital Twins are an emerging technology that builds on in 
+silico representations of an individual that dynamically reflect molecular 
+status, physiological status and life style over time. We use Digital Twins as 
+the hypothesis that one would be in the possession of very detailed bio-physical 
+and lifestyle information of a person over time. This perspective redefines the 
+concept of 'normality' or 'health,' as a set of patterns that are regular for a 
+particular individual, against the backdrop of patterns observed in the 
+population. This perspective also will impact what is considered therapy and 
+what is enhancement, as can be illustrated with the cases of the 'asymptomatic 
+ill' and life extension via anti-aging medicine. These changes are the 
+consequence of how meaning is derived, in case measurement data is available. 
+Moral distinctions namely may be based on patterns found in these data and the 
+meanings that are grafted on these patterns. Ethical and societal implications 
+of Digital Twins are explored. Digital Twins imply a data-driven approach to 
+health care. This approach has the potential to deliver significant societal 
+benefits, and can function as a social equalizer, by allowing for effective 
+equalizing enhancement interventions. It can as well though be a driver for 
+inequality, given the fact that a Digital Twin might not be an accessible 
+technology for everyone, and given the fact that patterns identified across a 
+population of Digital Twins can lead to segmentation and discrimination. This 
+duality calls for governance as this emerging technology matures, including 
+measures that ensure transparency of data usage and derived benefits, and data 
+privacy.
+
+DOI: 10.3389/fgene.2018.00031
+PMCID: PMC5816748
+PMID: 29487613
+
+
+6. Pharmacoeconomics. 2018 Apr;36(4):495-504. doi: 10.1007/s40273-018-0625-6.
+
+Cost Effectiveness of Alectinib vs. Crizotinib in First-Line Anaplastic Lymphoma 
+Kinase-Positive Advanced Non-Small-Cell Lung Cancer.
+
+Carlson JJ(1), Suh K(2), Orfanos P(3), Wong W(4).
+
+Author information:
+(1)University of Washington, 1959 NE Pacific St., H-375I, Box 357630, Seattle, 
+WA, 98195-7630, USA. Carlsojj@u.washington.edu.
+(2)University of Washington, 1959 NE Pacific St., H-375I, Box 357630, Seattle, 
+WA, 98195-7630, USA.
+(3)F. Hoffmann-La Roche, Ltd, Basel, Switzerland.
+(4)Genentech, Inc., South San Francisco, CA, USA.
+
+BACKGROUND: The recently completed ALEX trial demonstrated that alectinib 
+improved progression-free survival, and delayed time to central nervous system 
+progression compared with crizotinib in patients with anaplastic lymphoma 
+kinase-positive non-small-cell lung cancer. However, the long-term clinical and 
+economic impact of using alectinib vs. crizotinib has not been evaluated. The 
+objective of this study was to determine the potential cost utility of alectinib 
+vs. crizotinib from a US payer perspective.
+METHODS: A cost-utility model was developed using partition survival methods and 
+three health states: progression-free, post-progression, and death. ALEX trial 
+data informed the progression-free and overall survival estimates. Costs 
+included drug treatments and supportive care (central nervous system and 
+non-central nervous system). Utility values were obtained from trial data and 
+literature. Sensitivity analyses included one-way and probabilistic sensitivity 
+analyses.
+RESULTS: Treatment with alectinib vs. crizotinib resulted in a gain of 0.91 
+life-years, 0.87 quality-adjusted life-years, and incremental costs of 
+US$34,151, resulting in an incremental cost-effectiveness ratio of 
+US$39,312/quality-adjusted life-year. Drug costs and utilities in the 
+progression-free health state were the main drivers of the model in the one-way 
+sensitivity analysis. From the probabilistic sensitivity analysis, alectinib had 
+a 64% probability of being cost effective at a willingness-to-pay threshold of 
+US$100,000/quality adjusted life-year.
+CONCLUSIONS: Alectinib increased time in the progression-free state and 
+quality-adjusted life-years vs. crizotinib. The marginal cost increase was 
+reflective of longer treatment durations in the progression-free state. Central 
+nervous system-related costs were considerably lower with alectinib. Our results 
+suggest that compared with crizotinib, alectinib may be a cost-effective therapy 
+for treatment-naïve patients with anaplastic lymphoma kinase-positive 
+non-small-cell lung cancer.
+
+DOI: 10.1007/s40273-018-0625-6
+PMID: 29488070 [Indexed for MEDLINE]
+
+
+7. Gastric Cancer. 2018 Sep;21(5):782-791. doi: 10.1007/s10120-018-0809-y. Epub 
+2018 Feb 27.
+
+A multicenter, randomized trial comparing efficacy and safety of 
+paclitaxel/capecitabine and cisplatin/capecitabine in advanced gastric cancer.
+
+Lu Z(1), Zhang X(1), Liu W(2), Liu T(3), Hu B(4), Li W(5), Fan Q(6), Xu J(7), Xu 
+N(8), Bai Y(9), Pan Y(10), Xu Q(11), Bai W(12), Xia L(13), Gao Y(14), Wang 
+W(15), Shu Y(16), Shen L(17).
+
+Author information:
+(1)Key Laboratory of Carcinogenesis and Translational Research (Ministry of 
+Education/Beijing), Department of Gastrointestinal Oncology, Peking University 
+Cancer Hospital and Institute, #52 Fucheng Road, Haidian District, Beijing, 
+100142, People's Republic of China.
+(2)Department of Medical Oncology, The 4th Hospital, Hebei Medical University, 
+Shijiazhuang, Hebei, China.
+(3)Department of Oncology, Shanghai Zhong Shan Hospital, Fu Dan University, 
+Shanghai, China.
+(4)Department of Oncology, Anhui Provincial Hospital, Hefei, Anhui, China.
+(5)Department of Oncology, The First Hospital of JiLin University, Changchun, 
+Jilin, China.
+(6)Department of Oncology, The First Affiliated Hospital of Zhengzhou 
+University, Zhengzhou, Henan, China.
+(7)Department of Gastrointestinal Oncology, Affiliated Hospital Cancer Center, 
+Academy of Military Medical Sciences, Beijing, Dongda Street 8, Fengtai 
+District, Beijing, 100071, People's Republic of China.
+(8)The First Affiliated Hospital of Zhejiang University School of Medicine, 
+Hangzhou, Zhejiang, China.
+(9)Gastrointestinal Oncology Department, Harbin Medical University Cancer 
+Hospital, Harbin, Heilongjiang, China.
+(10)Department of Medical Oncology, The First Affiliated Hospital of Anhui 
+Medical University, Hefei, China.
+(11)Department of Medical Oncology, Shanghai Tenth People's Hospital, Tongji 
+University, Shanghai, China.
+(12)Department of Gastrointestinal Oncology, Shanxi Cancer Hospital, Xinghua 
+District, Taiyuan, Shanxi, China.
+(13)Department of Medical Oncology, Jilin Province People's Hospital, Changchun, 
+Jilin, China.
+(14)Department of Medical Oncology, Shanghai Dongfang Hospital, Tongji 
+University, Pudong New District, Shanghai, China.
+(15)Department of Abdominal Oncology, Guizhou Cancer Hospital, Yunyan District, 
+Guiyang, Guizhou, China.
+(16)Department of Medical Oncology, Jiangsu Province Hospital, Nanjing, Jiangsu, 
+China.
+(17)Key Laboratory of Carcinogenesis and Translational Research (Ministry of 
+Education/Beijing), Department of Gastrointestinal Oncology, Peking University 
+Cancer Hospital and Institute, #52 Fucheng Road, Haidian District, Beijing, 
+100142, People's Republic of China. linshenpku@163.com.
+
+BACKGROUND: We compared efficacy and safety of paclitaxel/capecitabine therapy 
+followed by capecitabine for maintenance (PACX) versus cisplatin/capecitabine 
+therapy (XP) in advanced gastric cancer.
+METHODS: Multicenter, randomized, phase III trial was conducted in China 
+(December 2009-February 2014). Adults (n = 320) with histologically confirmed, 
+untreated metastatic/unresectable gastric or gastroesophageal junction 
+adenocarcinoma; with ≥ 1 measureable lesions according to Response Evaluation 
+Criteria in Solid Tumors 1.0 criteria; Karnofsky performance score ≥ 70 and life 
+expectancy ≥ 3 months were randomized (1:1) to PACX or XP. PACX group received 
+paclitaxel 80 mg/m2 intravenous on days 1 and 8; capecitabine 1000 mg/m2 orally 
+BD on days 1-14, followed by a 7-day rest interval for 4 cycles, followed by 
+maintenance capecitabine at same dosage/schedule until disease progression, 
+unendurable adverse events or death. XP group received cisplatin intravenous 
+80 mg/m2 on day 1 and capecitabine at same dosage/schedule as PACX group per 
+cycle for 6 cycles.
+RESULTS: Median progression-free survival (5.0 versus 5.3 months; hazard ratio 
+[95% CI]: 0.906; 0.706-1.164; p = 0.44) and overall survival (12.5 versus 
+11.8 months; hazard ratio: 0.878 [0.685-1.125]; p = 0.30) were not significantly 
+different between PACX and XP groups. Objective response rate was significantly 
+higher (43.1 versus 28.8%; p = 0.012) and disease control rate was similar (77.5 
+versus 72.5%; p = 0.75) in PACX versus XP, respectively. Quality of life was 
+significantly improved in PACX versus XP after three treatment cycles. Many 
+treatment-related adverse events were significantly lesser in PACX than XP.
+CONCLUSIONS: First-line chemotherapy with PACX is effective with milder 
+toxicities in advanced gastric cancer, but could not replace XP.
+
+DOI: 10.1007/s10120-018-0809-y
+PMCID: PMC6097104
+PMID: 29488121 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICT OF INTEREST: The authors have declared 
+no conflicts of interest. This work was supported by Shanghai Roche 
+Pharmaceuticals Ltd., China and Haiyao Ltd. This study is an investigator 
+initiated study. Roche Ltd. provided the drug capecitabine and part of funding. 
+Haiyao Ltd. provided part of paclitaxel. These two corporations played no role 
+in study design, data collection, data analysis, data interpretation. ETHICAL 
+STANDARDS: The study protocol was approved by the institutional review board of 
+Peking University Cancer Hospital and respective independent ethics committees 
+at each investigating site. All procedures followed were in accordance with the 
+ethical standards of the responsible committee on human experimentation 
+(institutional and national) and with the Helsinki Declaration of 1964 and later 
+versions. INFORMED CONSENT: All participants included in the study provided 
+written informed consent.
+
+
+8. J Am Geriatr Soc. 2018 Apr;66(4):742-747. doi: 10.1111/jgs.15316. Epub 2018
+Feb  28.
+
+Economic Evaluation of a Catheter-Associated Urinary Tract Infection Prevention 
+Program in Nursing Homes.
+
+Hutton DW(1), Krein SL(2)(3), Saint S(2)(3), Graves N(4)(5), Kolli A(6), Lynem 
+R(1), Mody L(2)(7)(8).
+
+Author information:
+(1)Health Management and Policy, School of Public Health, University of 
+Michigan, Ann Arbor, Michigan.
+(2)Department of Internal Medicine, University of Michigan, Ann Arbor, Michigan.
+(3)Veterans Affairs Ann Arbor Healthcare System, Ann Arbor, Michigan.
+(4)School of Public Health and Biomedical Innovation, Queensland University of 
+Technology, Australia.
+(5)Institute of Health and Biomedical Innovation, Queensland University of 
+Technology, Australia.
+(6)Cellular and Molecular Biology, University of Michigan, Ann Arbor, Michigan.
+(7)Division of Geriatric and Palliative Care Medicine, School of Medicine, 
+University of Michigan Ann Arbor, Michigan.
+(8)Geriatrics Research Education and Clinical Center, Veterans Affairs Ann Arbor 
+Healthcare System, Ann Arbor, Michigan.
+
+Comment in
+    J Urol. 2018 Dec;200(6):1143.
+
+OBJECTIVE: To assess the economic effect and cost effectiveness of a targeted 
+catheter-associated urinary tract infection (CAUTI) prevention intervention in 
+the nursing home (NH) setting.
+DESIGN: Randomized clinical trial.
+SETTING: Community-based NHs (N=12).
+PARTICIPANTS: NH residents with indwelling urinary catheters (N=418).
+INTERVENTION: Standard care versus infection prevention program involving 
+barrier precautions, active surveillance, and NH staff education.
+MEASUREMENTS: Costs of the intervention, costs of disease, and health outcomes 
+were used to calculate an incremental cost-effectiveness ratio for the 
+intervention. Data came from intervention results and the literature and 
+outcomes were analyzed over one year.
+RESULTS: A 120-bed NH would have program costs of $20,279/year. The cost of 
+disease treatment would be reduced by $54,316 per year, resulting in a $34,037 
+net cost savings. Most of this savings would come from fewer CAUTI 
+hospitalizations ($39,180), with $15,136 in savings from CAUTI care within the 
+NH. The intervention also yielded a gain of 0.197 quality-adjusted life-years 
+(QALYs). Taking into account uncertainty in all parameters suggests there is an 
+85% chance that the intervention is cost-saving.
+CONCLUSIONS: The CAUTI prevention program is expected to benefit payers by 
+reducing costs and improving health outcomes. Because the savings accrue to 
+payers and not to NHs, payers such as Medicare and private insurers may want to 
+provide incentives for NHs to implement such programs.
+TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT01062841.
+
+© 2018, Copyright the Authors Journal compilation © 2018, The American 
+Geriatrics Society.
+
+DOI: 10.1111/jgs.15316
+PMCID: PMC6374025
+PMID: 29489017 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: None.
+
+
+9. J Palliat Med. 2018 Jun;21(6):836-841. doi: 10.1089/jpm.2017.0616. Epub 2018
+Feb  28.
+
+Therapeutic Procedures for Malignant Ascites in a Palliative Care Outpatient 
+Clinic.
+
+Korpi S(1), Salminen VV(2), Piili RP(1)(2), Paunu N(2), Luukkaala T(3)(4), Lehto 
+JT(1)(2).
+
+Author information:
+(1)1 Faculty of Medicine and Life Sciences, University of Tampere , Tampere, 
+Finland .
+(2)2 Department of Oncology, Palliative Care Unit, Tampere University Hospital , 
+Tampere, Finland .
+(3)3 Research and Innovation Center, Tampere University Hospital , Tampere, 
+Finland .
+(4)4 Faculty of Social Sciences, University of Tampere , Tampere, Finland .
+
+BACKGROUND: The optimal treatment of malignant ascites (MA) and feasibility of 
+the management with free drainage remain unclear.
+OBJECTIVE: To study the success of drainage, complications, and survival after 
+paracentesis or insertion of an indwelling tunneled catheter (TC) for the MA 
+performed on a day-case basis.
+DESIGN AND SETTING: We evaluated 118 paracenteses and 48 insertions of TCs 
+performed in 104 patients with MA at the Palliative Care Outpatient Unit of 
+Tampere University Hospital.
+RESULTS: Drainage of ascites fluid (median 3700 mL; range 300-13,200 mL) was 
+successful in all cases. The complication rates were 7% and 25% for paracenteses 
+and TCs, respectively. Most of the complications were minor. Repeated procedures 
+were needed in 64% and 10% of the paracenteses and insertions of TCs, 
+respectively, (p < 0.001). Median survival after the first procedure was 40 days 
+(interquartile range, IQR: 17-115). Patients with pancreatic cancer had shorter 
+median survival (19 days; IQR: 9-35) compared with other patients (47 days; IQR: 
+23-143) (age-adjusted HR 2.73; 95% CI: 1.65-4.52), whereas patients receiving 
+chemotherapy had longer median survival (112 days; IQR: 43-205) compared with 
+patients without chemotherapy (25 days; IQR: 14-52) (age-adjusted HR 2.48; 95% 
+CI: 1.58-3.89). The volume of removed ascites fluid was not associated with 
+survival.
+CONCLUSIONS: Free drainage of MA seems feasible in an outpatient clinic. Early 
+insertion of TC should be considered to avoid repeated paracenteses. However, in 
+patients with pancreatic cancer, paracentesis might be an accepted alternative 
+due to their short life expectancy.
+
+DOI: 10.1089/jpm.2017.0616
+PMID: 29489450 [Indexed for MEDLINE]
+
+
+10. Clin Orthop Relat Res. 2018 Jun;476(6):1166-1175. doi: 
+10.1007/s11999.0000000000000097.
+
+Do Patients Live Longer After THA and Is the Relative Survival 
+Diagnosis-specific?
+
+Cnudde P(1), Rolfson O, Timperley AJ, Garland A, Kärrholm J, Garellick G, Nemes 
+S.
+
+Author information:
+(1)P. Cnudde, O. Rolfson, A. Garland, J. Kärrholm, G. Garellick, S. Nemes, 
+Swedish Hip Arthroplasty Register, Centre of Registers Västra Götaland, 
+Gothenburg, Sweden A. J. Timperley, Hip Unit, Princess Elizabeth Orthopaedic 
+Centre, Royal Devon & Exeter Hospital, Exeter, UK P. Cnudde, O. Rolfson, J. 
+Kärrholm, G. Garellick, S. Nemes, Department of Orthopaedics, Institute of 
+Clinical Sciences, Sahlgrenska Academy, University of Gothenburg, Gothenburg, 
+Sweden A. Garland, Department of Orthopaedics, Institute of Surgical Sciences, 
+Uppsala University Hospital, Uppsala, Sweden.
+
+Comment in
+    Clin Orthop Relat Res. 2018 Jun;476(6):1176-1177.
+
+BACKGROUND: Hip replacements are successful in restoring mobility, reducing 
+pain, and improving quality of life. However, the association between THA and 
+the potential for increased life expectancy (as expressed by mortality rate) is 
+less clear, and any such association could well be influenced by diagnosis and 
+patient-related, socioeconomic, and surgical factors, which have not been well 
+studied.
+QUESTIONS/PURPOSES: (1) After controlling for birth year and sex, are Swedish 
+patients who underwent THA likely to survive longer than individuals in the 
+general population? (2) After controlling for relevant patient-related, 
+socioeconomic/demographic factors and surgical factors, does relative survival 
+differ across the various diagnoses for which THAs were performed in Sweden?
+METHODS: Data from the Swedish Hip Arthroplasty Register, linked to 
+administrative health databases, were used for this study. We identified 131,808 
+patients who underwent THA between January 1, 1999, and December 31, 2012. Of 
+these, 21,755 had died by the end of followup. Patient- and surgery-specific 
+data in combination with socioeconomic data were available for analysis. We 
+compared patient survival (relative survival) with age- and sex-matched survival 
+data in the entire Swedish population according to Statistics Sweden. We used 
+multivariable modeling proceeded with a Cox proportional hazards model in 
+transformed time.
+RESULTS: Patients undergoing elective THA had a slightly improved survival rate 
+compared with the general population for approximately 10 years after surgery. 
+At 1 year after surgery, the survival in patients undergoing THA was 1% better 
+than the expected survival (r = 1.01; 95% confidence interval [CI], 1.01-1.02; p 
+< 0.001); at 5 years, this increased to 3% (r = 1.03; 95% CI, 1.03-1.03; p < 
+0.001); at 10 years, the difference was 2% (r = 1.02; 95% CI, 1.02-1.03; p < 
+0.001); and by 12 years, there was no difference between patients undergoing THA 
+and the general population (r = 1.01; 95% CI, 0.99-1.02; p = 0.13). Using the 
+diagnosis of primary osteoarthritis as a reference, hip arthroplasties performed 
+for sequelae of childhood hip diseases had a similar survival rate (hazard ratio 
+[HR], 1.02; 95% CI, 0.88-1.18; p = 0.77). Patients undergoing surgery for 
+osteonecrosis of the femoral head (HR, 1.69; 95% CI, 1.60-1.79; p < 0.001), 
+inflammatory arthritis (HR, 1.49; 95% CI, 1.38-1.61; p < 0.001), and secondary 
+osteoarthritis (HR, 2.46; 95% CI, 2.03-2.99; p < 0.001) all had poorer relative 
+survival. Comorbidities and the Elixhauser comorbidity index had a negative 
+association with relative survival. Level of achieved education (middle level of 
+education: HR, 0.90, 95% CI, 0.87-0.93, p < 0.001; high level: 0.76, 95% CI, 
+0.73-0.80, p < 0.001) and marital status (single status: HR, 1.33; 95% CI, 
+1.28-1.38; p < 0.001) were also negatively associated with survival.
+CONCLUSIONS: Whereas it has been known that in most patients, THA improves 
+quality of life, this study demonstrates that it also is associated with a 
+slightly increased life expectancy that lasts for approximately 10 years after 
+surgery, especially among patients whose diagnosis was primary osteoarthritis. 
+This adds further proof of a health-economic value for this surgical 
+intervention. The reasons for the increase in relative survival are unknown but 
+are probably multifactorial.
+LEVEL OF EVIDENCE: Level III, therapeutic study.
+
+DOI: 10.1007/s11999.0000000000000097
+PMCID: PMC6263594
+PMID: 29489471 [Indexed for MEDLINE]
+
+Conflict of interest statement: Each author certifies that he or she has no 
+commercial associations (eg, consultancies, stock ownership, equity interest, 
+patent/licensing arrangements, etc) that might pose a conflict of interest in 
+connection with the submitted article. All ICMJE Conflict of Interest Forms for 
+authors and Clinical Orthopaedics and Related Research® editors and board 
+members are on file with the publication and can be viewed on request.
+
+
+11. J Econ Entomol. 2018 Apr 2;111(2):575-585. doi: 10.1093/jee/toy012.
+
+Age-Stage, Two-Sex Life Tables of the Lady Beetle (Coleoptera: Coccinellidae) 
+Feeding on Different Aphid Species.
+
+Farooq M(1)(2), Shakeel M(3), Iftikhar A(1), Shahid MR(1), Zhu X(2)(4).
+
+Author information:
+(1)Entomological Research Institute, Ayub Agricultural Research Institute, 
+Faisalabad, Pakistan.
+(2)State Key Laboratory for Biology of Plant Disease and Insect Pests, Institute 
+of Plant Protection, Chinese Academy of Agricultural Sciences, Beijing, China.
+(3)Laboratory of Bio-Pesticide Creation and Application of Guangdong Province, 
+College of Agriculture, South China Agricultural University, Guangzhou, P.R. 
+China.
+(4)Scientific Observing and Experimental Station of Crop Pests in Guilin, 
+Ministry of Agriculture, Guilin, China.
+
+Life table and predation data were collected for Coccinella septempunctata 
+(Linnaeus) (Coleoptera: Coccinellidae) feeding on three different host aphid 
+species, Aphis craccivora (Koch) (Hemiptera: Aphididae), Lipaphis erysimi 
+(Kaltenbach) (Hemiptera: Aphididae), and Myzus persicae (Sulzer) (Hemiptera: 
+Aphididae), under laboratory conditions, using age-stage, two-sex life table. 
+The preadult developmental period of C. septempunctata was the shortest on M. 
+persicae (21.12 d) and the longest on A. craccivora (28.81 d). Net reproductive 
+rate (R0) ranged from 77.31 offspring per individual on A. craccivora to 165.97 
+offspring per individual on M. persicae. Mean generation time (T) ranged from 
+39.10 d on M. persicae to 51.96 d on L. erysimi. Values of the intrinsic rate of 
+increase (r) decreased in the order M. persicae, A. craccivora, and L. erysimi 
+(0.1302, 0.0864 and 0.0848 d-1, respectively). The highest finite rate of 
+increase (λ) was observed on M. persicae (1.1391 d-1) and the lowest was 
+observed on A. craccivora and L. erysimi (1.0903 and 1.0885 d-1, respectively). 
+This information will be useful in relation to the mass rearing of C. 
+septempunctata in biological control systems.
+
+DOI: 10.1093/jee/toy012
+PMID: 29490056 [Indexed for MEDLINE]
+
+
+12. J Econ Entomol. 2018 Apr 2;111(2):595-602. doi: 10.1093/jee/toy031.
+
+Demography and Mass-Rearing Harmonia dimidiata (Coleoptera: Coccinellidae) Using 
+Aphis gossypii (Hemiptera: Aphididae) and Eggs of Bactrocera dorsalis (Diptera: 
+Tephritidae).
+
+Yu JZ(1), Chen BH(2), Güncan A(3), Atlihan R(4), Gökçe A(5), Smith CL(6), Gümüs 
+E(7), Chi H(5).
+
+Author information:
+(1)Applied Zoology Division, Taiwan Agricultural Research Institute, Wufeng, 
+Taichung, Taiwan, Republic of China.
+(2)Counsel of Agriculture, Taipei, Taiwan, Republic of China.
+(3)Ordu University, Faculty of Agriculture, Department of Plant Protection, 
+Ordu, Turkey.
+(4)Department of Plant Protection, Faculty of Agriculture, University of Yüzüncu 
+Yil, Van, Turkey.
+(5)Department of Plant Production and Technologies, Faculty of Agricultural 
+Sciences and Technologies, Nigde Ömer Halisdemir University, Turkey.
+(6)Georgia Museum of Natural History, University of Georgia Athens, GA.
+(7)Ministry of Food, Agriculture and Livestock of Turkey, Hazelnut Research 
+Institute, Teyyaredüzü Mah. Atatürk Bulvari, Giresun, Turkey.
+
+We compared rearing Harmonia dimidiata (F.) (Coleoptera: Coccinellidae) on four 
+combinations of Aphis gossypii Glover (Hemiptera: Aphididae), and eggs of 
+Bactrocera dorsalis Hendel (Diptera: Tephritidae), using the age-stage, two-sex 
+life table. The four combinations were: both larvae and adults were reared on 
+aphids; larvae were reared on aphids and adults were reared on fresh fruit fly 
+eggs; larvae were reared on lyophilized fruit fly eggs and adults were reared on 
+aphids; and larvae were reared on lyophilized eggs and adults were reared on 
+fresh eggs. The highest intrinsic rate of increase (r = 0.1125 d-1) and net 
+reproductive rate (R0 = 260.7 offspring) were observed when both larval and 
+adult stages of H. dimidiata were reared on A. gossypii. When B. dorsalis eggs 
+were used as rearing media for larvae, adults, or both, the values of r and R0 
+were significantly decreased. The lowest values (r = 0.0615 d-1 and R0 = 38.6 
+offspring) were observed when both larvae and adults were reared entirely on B. 
+dorsalis eggs. Despite the lower r and R0 values, our results showed that B. 
+dorsalis eggs could be considered as an adequate, less expensive alternative 
+diet for rearing H. dimidiata because of the time and labor savings resulting 
+from the ease of preparation and the ability to store the eggs for timely usage. 
+The mass-rearing analysis showed that the most economical rearing system was to 
+rear larvae on A. gossypii and adults on B. dorsalis eggs.
+
+DOI: 10.1093/jee/toy031
+PMID: 29490075 [Indexed for MEDLINE]
+
+
+13. Diabetes Care. 2018 May;41(5):979-984. doi: 10.2337/dc17-2138. Epub 2018 Feb
+28.
+
+The Productivity Burden of Diabetes at a Population Level.
+
+Magliano DJ(1)(2), Martin VJ(3), Owen AJ(3), Zomer E(3), Liew D(3).
+
+Author information:
+(1)School of Public Health and Preventive Medicine, Monash University, 
+Melbourne, Australia dianna.magliano@monash.edu.
+(2)Baker Heart and Diabetes Institute, Melbourne, Australia.
+(3)School of Public Health and Preventive Medicine, Monash University, 
+Melbourne, Australia.
+
+OBJECTIVE: Recent studies suggest that diabetes may impact work productivity. In 
+the current study, we sought to estimate the lifetime and population impact of 
+diabetes on productivity using the novel measure of "productivity-adjusted life 
+years" (PALYs).
+RESEARCH DESIGN AND METHODS: Using age-specific mortality rates and a 
+productivity index attributable to diabetes (akin to the quality of life index, 
+but which adjusts for reduction in productivity) and life table modeling, we 
+estimated years of life and PALYs lost to diabetes among Australians with 
+diabetes currently aged 20-65 years, with follow-up until 69 years. Life tables 
+were first constructed for the cohort with diabetes and then repeated for the 
+same cohort but with the assumption that they no longer had diabetes. The 
+"nondiabetic" cohort had lower mortality rates and improved productivity. The 
+differences in total years of life lived and PALYs lived between the two cohorts 
+reflected the impact of diabetes.
+RESULTS: Overall, diabetes reduced total years of life lived by the cohort by 
+190,219 years or almost 3%. Diabetes reduced PALYs by 11.6% and 10.5% among men 
+and women, respectively. For both sexes, the impact of diabetes on productivity 
+was lowest in those aged 65-69 years and highest in those 20-24 years. Among the 
+latter, PALYs were reduced by 12.2% and 11.0% for men and women, respectively.
+CONCLUSIONS: Elimination of diabetes can prolong life years lived by the whole 
+population and increase the amount of productive years lived. Employers and 
+government should be aware that having diabetes affects work force productivity 
+and implement prevention programs to reduce the impact of diabetes on the 
+workforce.
+
+© 2018 by the American Diabetes Association.
+
+DOI: 10.2337/dc17-2138
+PMID: 29490901 [Indexed for MEDLINE]
+
+
+14. Development. 2018 Mar 29;145(7):dev152488. doi: 10.1242/dev.152488.
+
+The heart tube forms and elongates through dynamic cell rearrangement 
+coordinated with foregut extension.
+
+Kidokoro H(1)(2)(3), Yonei-Tamura S(2), Tamura K(2), Schoenwolf GC(1), Saijoh 
+Y(4).
+
+Author information:
+(1)Department of Neurobiology and Anatomy, University of Utah School of 
+Medicine, Salt Lake City, UT 84132-3401, USA.
+(2)Department of Developmental Biology and Neurosciences, Graduate School of 
+Life Sciences, Tohoku University, Sendai, 980-8578, Japan.
+(3)Department of Cell Biology, National Cerebral and Cardiovascular Center 
+Research Institute, Suita, Osaka 565-8565, Japan.
+(4)Department of Neurobiology and Anatomy, University of Utah School of 
+Medicine, Salt Lake City, UT 84132-3401, USA yukio.saijoh@neuro.utah.edu.
+
+In the initiation of cardiogenesis, the heart primordia transform from bilateral 
+flat sheets of mesoderm into an elongated midline tube. Here, we discover that 
+this rapid architectural change is driven by actomyosin-based oriented cell 
+rearrangement and resulting dynamic tissue reshaping (convergent extension, CE). 
+By labeling clusters of cells spanning the entire heart primordia, we show that 
+the heart primordia converge toward the midline to form a narrow tube, while 
+extending perpendicularly to rapidly lengthen it. Our data for the first time 
+visualize the process of early heart tube formation from both the medial 
+(second) and lateral (first) heart fields, revealing that both fields form the 
+early heart tube by essentially the same mechanism. Additionally, the adjacent 
+endoderm coordinately forms the foregut through previously unrecognized 
+movements that parallel those of the heart mesoderm and elongates by CE. In 
+conclusion, our data illustrate how initially two-dimensional flat primordia 
+rapidly change their shapes and construct the three-dimensional morphology of 
+emerging organs in coordination with neighboring morphogenesis.
+
+© 2018. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/dev.152488
+PMCID: PMC5963862
+PMID: 29490984 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interestsThe authors declare no 
+competing or financial interests.
+
+
+15. Pak J Med Sci. 2017 Nov-Dec;33(6):1490-1494. doi: 10.12669/pjms.336.13300.
+
+Determinants of health expenditure in OECD countries: A decision tree model.
+
+Akca N(1), Sonmez S(2), Yilmaz A(3).
+
+Author information:
+(1)Nesrin Akca, PhD.Department of Health Management, Faculty of Health Sciences, 
+Kirikkale University, Kirikkale, Turkey.
+(2)Seda Sonmez, MSc.Department of Health Management, Faculty of Health Sciences, 
+Kirikkale University, Kirikkale, Turkey.
+(3)Ali Yilmaz, PhD.Department of Health Management, Faculty of Health Sciences, 
+Kirikkale University, Kirikkale, Turkey.
+
+OBJECTIVE: This study aimed to identify the major variables in the estimation of 
+health expenditure in OECD member countries with the decision tree method and to 
+categorize the member countries by health expenditure.
+METHODS: The study population comprised the 2014 data of the 35 OECD countries. 
+In the study, health expenditure as a share of gross domestic product was the 
+dependent variable while gross domestic product per capita, percentage of total 
+population covered by public and private insurance, out-of-pocket health 
+expenditure as percentage of total expenditure on health, age dependency ratio, 
+life expectancy at birth, number of hospitals per million population, number of 
+physicians per 1000 population/head counts, pharmaceutical sales and perceived 
+health status were designated as independent variables. The decision tree model 
+was constructed with the CART algorithm using the Orange data mining software 
+package.
+RESULTS: In the study, GDP per capita, life expectancy at birth, age dependency 
+ratio, number of hospitals and percentage of the population with a bad perceived 
+health status were identified as the major variables in the estimation of health 
+expenditure. OECD countries were categorized in 6 groups according to the 
+decision tree model. According to the CART algorithm used in the model, the 
+classification accuracy rate and the precision of estimation were computed as 
+80.56% and 81.25%, respectively.
+CONCLUSION: The study results revealed that the most important determinant for 
+estimating the share of GDP allocated to health expenditure was GDP per capita. 
+Future studies should be conducted with the inclusion of different variables in 
+the model.
+
+DOI: 10.12669/pjms.336.13300
+PMCID: PMC5768850
+PMID: 29492084
+
+
+16. Antimicrob Resist Infect Control. 2018 Feb 27;7:31. doi: 
+10.1186/s13756-018-0327-z. eCollection 2018.
+
+Economic evaluations and their use in infection prevention and control: a 
+narrative review.
+
+Rennert-May E(1), Conly J(2), Leal J(3), Smith S(4), Manns B(5).
+
+Author information:
+(1)1Departments of Medicine and Community Health Sciences, University of 
+Calgary, and Alberta Health Services, AGW5 Ground Floor SSB, 1403 29 St NW, 
+Calgary, AB T2N 2T9 Canada.
+(2)2Departments of Medicine, Immunology, Microbiology and Infectious Diseases, 
+Pathology and Laboratory Medicine, O'Brien Institute for Public Health and 
+Snyder Institute for Chronic Diseases, University of Calgary and Alberta Health 
+Services, Calgary, AB Canada.
+(3)Department of Community Health Sciences, University of Calgary and Infection 
+Prevention and Control, Alberta Health Services, Foothills Medical Centre, 
+Calgary, AB Canada.
+(4)4Department of Medicine, University of Alberta and University of Alberta 
+Hospital and Alberta Health Services, Edmonton, AB Canada.
+(5)5Departments of Medicine and Community Health Sciences, O'Brien Institute for 
+Public Health and Libin Cardiovascular Institute, University of Calgary and 
+Alberta Health Services, Calgary, AB Canada.
+
+BACKGROUND: The objective of this review is to provide a comprehensive overview 
+of the different types of economic evaluations that can be utilized by Infection 
+Prevention and Control practitioners with a particular focus on the use of the 
+quality adjusted life year, and its associated challenges. We also highlight 
+existing economic evaluations published within Infection Prevention and Control, 
+research gaps and future directions.
+DESIGN: Narrative Review.
+CONCLUSIONS: To date the majority of economic evaluations within Infection 
+Prevention and Control are considered partial economic evaluations. 
+Acknowledging the challenges, which include variable utilities within infection 
+prevention and control, a lack of randomized controlled trials, and difficulty 
+in modelling infectious diseases in general, future economic evaluation studies 
+should strive to be consistent with published guidelines for economic 
+evaluations. This includes the use of quality adjusted life years. Further 
+research is required to estimate utility scores of relevance within Infection 
+Prevention and Control.
+
+DOI: 10.1186/s13756-018-0327-z
+PMCID: PMC5828323
+PMID: 29492261 [Indexed for MEDLINE]
+
+Conflict of interest statement: Not applicable.Has been obtained by all 
+authors.The authors declare that they have no competing interests.Springer 
+Nature remains neutral with regard to jurisdictional claims in published maps 
+and institutional affiliations.
+
+
+17. Oncology (Williston Park). 2018 Feb 15;32(2):58-63.
+
+Management of Triple-Negative Breast Cancer in Older Patients: How Is It 
+Different?
+
+Shachar SS, Jolly TA, Jones E, Muss HB.
+
+Triple-negative breast cancer, which affects about 10% of older women with 
+breast cancer, represents a major treatment challenge in this population. 
+Treatment decisions for these patients can best be made based on geriatric 
+assessment, estimated life expectancy, whether the treatment goal is prolonged 
+survival or palliation, the potential benefits and toxicities of a specific 
+treatment, and the patient's personal goals for treatment. Treatment outcomes 
+for healthy older and younger women are similar, but great challenges exist in 
+managing the vulnerable and frail patient. The cornerstone of therapy for 
+early-stage triple-negative breast cancer is local therapy (surgery and 
+radiation) and, for most patients, adjuvant chemotherapy. In the management of 
+metastatic triple-negative breast cancer, all therapy is palliative and 
+chemotherapy is the treatment of choice. Since all treatment modalities in older 
+patients-especially chemotherapy-can affect physical and mental function, a 
+geriatric assessment is key in selecting the most appropriate treatment 
+strategy. Many older patients (older than 70 years) are poor candidates for 
+state-of-the-art therapy, and some who have substantial comorbidities not 
+related to breast cancer may opt for palliative and hospice care. In this 
+review, we will discuss the role of geriatric assessment, alternative treatment 
+modalities for older women with triple-negative breast cancer, and other special 
+considerations for this patient population.
+
+PMID: 29492945 [Indexed for MEDLINE]
+
+
+18. Aging Cell. 2018 Jun;17(3):e12724. doi: 10.1111/acel.12724. Epub 2018 Mar 1.
+
+Sex-specific regulation of aging in Caenorhabditis elegans.
+
+Hotzi B(1), Kosztelnik M(1), Hargitai B(1), Takács-Vellai K(2), Barna J(1), 
+Bördén K(1), Málnási-Csizmadia A(3), Lippai M(4), Ortutay C(5), Bacquet C(6), 
+Pasparaki A(7), Arányi T(6)(8), Tavernarakis N(7), Vellai T(1)(9).
+
+Author information:
+(1)Department of Genetics, Eötvös Loránd University, Budapest, Hungary.
+(2)Department of Biological Anthropology, Eötvös Loránd University, Budapest, 
+Hungary.
+(3)Department of Biochemistry, Eötvös Loránd University, Budapest, Hungary.
+(4)Department of Anatomy, Cell- and Developmental Biology, Eötvös Loránd 
+University, Budapest, Hungary.
+(5)HiDucator Ltd, Kangasala, Finland.
+(6)Institute of Enzymology, Research Centre for Natural Sciences, Hungarian 
+Academy of Sciences, Budapest, Hungary.
+(7)Institute of Molecular Biology and Biotechnology, Foundation for Research and 
+Technology-Hellas, Heraklion, Greece.
+(8)BNMI (INSERM 1083/CNRS 6214), Université d'Angers, Angers, France.
+(9)MTA-ELTE Genetics Research Group, Eötvös Loránd University, Budapest, 
+Hungary.
+
+A fascinating aspect of sexual dimorphism in various animal species is that the 
+two sexes differ substantially in lifespan. In humans, for example, women's life 
+expectancy exceeds that of men by 3-7 years. Whether this trait can be 
+attributed to dissimilar lifestyles or genetic (regulatory) factors remains to 
+be elucidated. Herein, we demonstrate that in the nematode Caenorhabditis 
+elegans, the significantly longer lifespan of hermaphrodites-which are 
+essentially females capable of sperm production-over males is established by 
+TRA-1, the terminal effector of the sex-determination pathway. This 
+transcription factor directly controls the expression of daf-16/FOXO, which 
+functions as a major target of insulin/IGF-1 signaling (IIS) and key modulator 
+of aging across diverse animal phyla. TRA-1 extends hermaphrodite lifespan 
+through promoting daf-16 activity. Furthermore, TRA-1 also influences 
+reproductive growth in a DAF-16-dependent manner. Thus, the sex-determination 
+machinery is an important regulator of IIS in this organism. These findings 
+provide a mechanistic insight into how longevity and development are specified 
+unequally in the two genders. As TRA-1 is orthologous to mammalian GLI 
+(glioma-associated) proteins, a similar sex-specific mechanism may also operate 
+in humans to determine lifespan.
+
+© 2018 The Authors. Aging Cell published by the Anatomical Society and John 
+Wiley & Sons Ltd.
+
+DOI: 10.1111/acel.12724
+PMCID: PMC5946081
+PMID: 29493066 [Indexed for MEDLINE]
+
+
+19. J Invasive Cardiol. 2018 Mar;30(3):105-109.
+
+Favorable Short-Term and Long-Term Outcomes Among Patients With Prior History of 
+Malignancy Undergoing Transcatheter Aortic Valve Implantation.
+
+Berkovitch A, Guetta V, Barbash IM, Fink N, Regev E, Maor E, Vered Y, Grossman 
+Y, Younis A, Kuperstein R, Feinberg M, Asher E, Segev A, Fefer P(1).
+
+Author information:
+(1)Leviev Heart Institute, Sheba Medical Center, Tel Hashomer, Israel 52621. 
+Paul.Fefer@sheba.health.gov.il.
+
+BACKGROUND: Transcatheter aortic valve replacement (TAVR) is now the treatment 
+of choice for high-surgical risk patients with symptomatic aortic stenosis. 
+Little is known regarding the outcome of TAVR in patients with previous 
+malignancy.
+METHODS: We investigated 477 patients who underwent TAVR in a tertiary medical 
+center. Subjects were divided into two groups according to malignancy status: no 
+history of malignancy (n = 386) and positive history of malignancy (n = 91).
+RESULTS: Mean age of the study population was 81 ± 7 years, and 52% were men. No 
+major differences in baseline characteristics were found between groups. 
+All-cause mortality was 24% for both malignancy and non-malignancy groups at a 
+mean follow-up of 851 ± 629 days. Kaplan-Meier survival analysis demonstrated no 
+difference in all-cause mortality between groups. Multivariate Cox regression 
+analysis showed that malignancy status did not affect prognosis regarding 
+overall mortality (hazard ratio [HR], 0.83; 95% confidence interval [CI], 
+0.5-1.4; P=.46). However, cancer therapy administered within 12-months of TAVR 
+was significantly associated with increased total mortality among patients 
+undergoing TAVR (HR, 4.38; 95% CI, 1.14-16.77; P=.03).
+CONCLUSIONS: Malignancy is a common comorbidity among TAVR candidates. Mere 
+history of malignancy among elderly patients does not adversely affect 
+short-term or long-term outcomes after TAVR; however, history of recent (<1 
+year) cancer-related treatment increases the risk for long-term mortality after 
+TAVR. Decisions regarding TAVR among oncological patients should be 
+individualized according to their malignancy status and anticipated life 
+expectancy.
+
+PMID: 29493511 [Indexed for MEDLINE]
+
+
+20. Ortop Traumatol Rehabil. 2017 Dec 30;19(6):513-521. doi: 
+10.5604/01.3001.0010.8042.
+
+Assessment of the Effect of Swedish Massage and Acupressure in Rehabilitation of 
+Patients with Low Back Pain. Preliminary Report.
+
+Boguszewski D(1), Krupiński M(2), Białoszewski D(1).
+
+Author information:
+(1)Warszawski Uniwersytet Medyczny / Medical University of Warsaw / Zakład 
+Rehabilitacji, Oddział Fizjoterapii / Division of Rehabilitation, Department of 
+Physiotherapy.
+(2)Wyższa Szkoła Rehabilitacji w Warszawie / College of Rehabilitation in Warsaw 
+/ Wydział Rehabilitacji / Faculty of Rehabilitation.
+
+BACKGROUND: Low-back pain is a common problem in developed societies. The quest 
+for methods to reduce this com-plaint may contribute to improving the quality of 
+life for many people. The aim of the study was to compare the effect of Swedish 
+massage combined with acupressure vs. Swedish massage alone in patients with low 
+back pain.
+MATERIAL AND METHODS: The study involved 20 women and 20 men with lumbosacral 
+pain. The group was clinically ho-mo-geneous. The participants were randomized 
+into two groups: Group 1, which received Swedish massage with acu-pressure 
+techniques, and Group 2, treated with Swedish massage only. The research tools 
+comprised the Laitinen Pain Score, the International Physical Activity 
+Questionnaire, the Roland-Morris Ques-tion-naire, the Thomayer test, and the 
+measurement of lumbar spine extension. Differences between the mea-surements 
+were evaluated with the Wilcoxon test, with the minimum significance level set 
+at p≤0.05.
+RESULTS: Both groups demonstrated a significant (p&lt;0.05) decrease in pain 
+intensity, improvement in quality of life and increase in physical activity. 
+Increased segmental mobility of the spine was also observed in all patients, 
+with significant changes (p&lt;0.05) noted only in Group 1. In Group 2, the 
+differences tended towards significance.
+CONCLUSION: In selected cases, Swedish massage combined with acupressure 
+techniques may be more effective as a mo-notherapy in patients with non-specific 
+low back pain than massage alone.
+
+DOI: 10.5604/01.3001.0010.8042
+PMID: 29493523 [Indexed for MEDLINE]
+
+
+21. Recenti Prog Med. 2018 Feb;109(2):149-150. doi: 10.1701/2865.28914.
+
+[Cochrane and World Health Organization "Rehabilitation 2030: a call for 
+action".].
+
+[Article in Italian]
+
+Arienti C(1), Gimigliano F(2), Pollet J(3), Kiekens C(4), Negrini S(5).
+
+Author information:
+(1)IRCCS Fondazione Don Carlo Gnocchi, Milano.
+(2)Dipartimento di Salute Mentale e Fisica e Medicina Preventiva, Università 
+della Campania "Luigi Vanvitelli", Napoli, Italia.
+(3)Dipartimento di Scienze Cliniche e Sperimentali, Università di Brescia.
+(4)Physical & Rehabilitation Medicine, University Hospitals Leuven, Belgium.
+(5)IRCCS Fondazione Don Carlo Gnocchi, Milano - Dipartimento di Scienze Cliniche 
+e Sperimentali, Università di Brescia.
+
+INTRODUCTION: The World Health Organization (WHO) has launched in February 2017 
+"Rehabilitation 2030: a call for action". This is likely to have a deep impact 
+in the Health Systems in the next few years. The new Cochrane Rehabilitation 
+Field has been invited by WHO as a relevant stakeholder in this effort. WHO 
+recognizes the dramatic changes in health and demographic profiles of 
+populations that are characterizing the 21st century. Main goals of WHO are to 
+ensure healthy lives and promote well-being for all at all ages, and to promote 
+healthy life expectancy.

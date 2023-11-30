@@ -1,0 +1,1000 @@
+Evidence Review Group Perspective of a NICE Single Technology Appraisal.
+
+Bermejo I(1), Ren S(2), Simpson E(2), Clowes M(2), Scott DL(3), Young A(4), 
+Stevenson M(2).
+
+Author information:
+(1)School of Health and Related Research (ScHARR), University of Sheffield, 
+Regent Court, 30 Regent Street, Sheffield, S1 4DA, UK. inigo.bermejo@gmail.com.
+(2)School of Health and Related Research (ScHARR), University of Sheffield, 
+Regent Court, 30 Regent Street, Sheffield, S1 4DA, UK.
+(3)Department of Rheumatology, King's College Hospital NHS Foundation Trust, 
+London, UK.
+(4)Department of Rheumatology, Centre for Lifespan and Chronic Illness Research, 
+University of Hertsfordshire, Hatfield, UK.
+
+As part of its single technology appraisal (STA) process, the National Institute 
+for Health and Care Excellence (NICE) invited the manufacturer (Sanofi Genzyme) 
+of sarilumab (SAR; Kevzara®) to submit evidence of its clinical effectiveness 
+and cost-effectiveness for previously treated moderate or severe rheumatoid 
+arthritis (RA). The School of Health and Related Research Technology Appraisal 
+Group at the University of Sheffield was commissioned to act as the independent 
+Evidence Review Group (ERG). The ERG produced a detailed review of the evidence 
+for the clinical effectiveness and cost-effectiveness of the technology, based 
+upon the company's submission to NICE. The clinical effectiveness evidence in 
+the company's submission for SAR was based predominantly on five randomised 
+controlled trials comparing the efficacy of SAR against adalimumab, tocilizumab 
+or placebo. The clinical effectiveness review identified no head-to-head 
+evidence on the efficacy of SAR against all the comparators within the scope. 
+Therefore, the company performed three network meta-analyses (NMAs) in two 
+different populations: two in patients who had had an inadequate response to 
+conventional disease-modifying antirheumatic drugs (cDMARDs) (one for 
+combination therapies and one for monotherapies) and the other one in patients 
+who had had an inadequate response to tumour necrosis factor inhibitors (TNFis). 
+The company's NMAs concluded that SAR in combination with cDMARDs or as 
+monotherapy has a statistically superior efficacy to cDMARDs and a comparable 
+efficacy to most biologic disease-modifying antirheumatic drugs (bDMARDs) in 
+both populations. The company submitted a Markov model that assessed the 
+cost-effectiveness of SAR from the perspective of the National Health Service 
+(NHS) and Personal Social Services in seven different populations: (1) patients 
+with severe RA who have had an inadequate response to cDMARDs (cDMARD-IR); (2) 
+cDMARD-IR patients with severe RA for whom methotrexate (MTX) is contraindicated 
+or not tolerated; (3) patients with severe RA who have had an inadequate 
+response to a TNFi (TNFi-IR); (4) TNFi-IR patients with severe RA for whom 
+rituximab (RTX) is not an option; (5) TNFi-IR patients with severe RA for whom 
+MTX is contraindicated or not tolerated; (6) TNFi-IR patients after RTX; and (7) 
+cDMARD-IR patients with moderate RA whose 28-joint Disease Activity Score 
+(DAS28) is between 4.0 and 5.1. The company's economic evaluation resulted in 
+incremental cost-effectiveness ratios (ICERs) lower than £20,000 per 
+quality-adjusted life year (QALY) gained for SAR in combination with MTX or as 
+monotherapy versus its comparators when the comparators were less effective, and 
+it resulted in cost savings higher than £60,000 per QALY lost when SAR was less 
+effective, except in TNFi-IR patients who are RTX eligible (where the ICER for 
+SAR + MTX compared with RTX + MTX was £130,691 per QALY gained) and in patients 
+with moderate RA and a DAS28 of > 4.0 (where the ICER of SAR + MTX compared with 
+MTX was £38,254 per QALY gained). Following a critique of the model, the ERG 
+undertook exploratory analyses after applying two changes to the company's 
+model: (1) use of a latent class approach to model Health Assessment 
+Questionnaire Disability Index (HAQ-DI) progression for patients on cDMARDs; and 
+(2) amendment of the company's modelling of patient progression from moderate to 
+severe RA. The ICERs estimated by the ERG's exploratory analyses for SAR + MTX 
+increased to £171,466 per QALY gained when compared with RTX + MTX in TNFi-IR 
+patients who are RTX eligible, and to £63,438 per QALY gained when compared with 
+MTX in patients with moderate RA and a DAS28 of > 4.0. The Appraisal Committee 
+concluded that SAR in combination with MTX or as monotherapy is a cost-effective 
+use of NHS resources in the considered populations, except in TNFi-IR patients 
+who are RTX eligible and in patients with moderate RA and a DAS28 of > 4.0.
+
+DOI: 10.1007/s40273-018-0677-7
+PMID: 29882210 [Indexed for MEDLINE]
+
+
+119. J Med Econ. 2018 Sep;21(9):930-935. doi: 10.1080/13696998.2018.1486845. Epub
+ 2018 Jun 25.
+
+Cost-effectiveness modeling for neuropathic pain treatments: investigating the 
+relative importance of parameters using an open-source model.
+
+Hirst M(1), Bending MW(2), Baio G(3), Yesufu-Udechuku A(2), Dunlop WCN(1).
+
+Author information:
+(1)a Mundipharma International Ltd , Cambridge , UK.
+(2)b The Translation & Innovation Hub Building , London , UK.
+(3)c Department of Statistical Science , University College London , London , 
+UK.
+
+AIMS: The study objective was to develop an open-source replicate of a 
+cost-effectiveness model developed by National Institute for Health and Care 
+(NICE), in order to explore uncertainties in health economic modeling of novel 
+pharmacological neuropathic pain treatments.
+MATERIALS AND METHODS: The NICE model, consisting of a decision tree with 
+branches for discrete levels of pain relief and adverse event (AE) severities, 
+was replicated using R, and used to compare a hypothetical neuropathic pain drug 
+to pregabalin. Model parameters were sourced from NICE's clinical guidelines and 
+associated with probability distributions to account for underlying uncertainty. 
+A simulation-based scenario analysis was conducted to assess how uncertainty in 
+efficacy and AEs affected the net monetary benefit (NMB) for the hypothetical 
+treatment at a cost-effectiveness threshold of £20,000 per QALY.
+RESULTS: Relative to pregabalin, an increase in efficacy was associated with 
+greater NMB than an improvement in tolerability. A greater NMB was observed when 
+efficacy was marginally higher than that of pregabalin, while maintaining the 
+same level of AEs than when efficacy was equivalent to pregabalin, but with a 
+more substantial reduction in AEs. In the latter scenario, the NMB was only 
+positive at a low cost-effectiveness threshold.
+LIMITATIONS: The replicate model shares the limitations described in the NICE 
+guidelines. There is a lack of support in scientific literature for the 
+assumption that increased efficacy is associated with a greater reduction in 
+tolerability. The replicate model also included a single comparator, unlike the 
+NICE model.
+CONCLUSIONS: Pain relief is a stronger driver of NMB than tolerability, at a 
+cost-effectiveness threshold of £20,000 per QALY. Health technology assessment 
+decisions which are influenced by NICE's model may reward efficacy gains, even 
+if they are associated with more severe AEs. This contrasts with recommendations 
+from clinical guidelines for neuropathic pain, which place more equal weighting 
+on improvements in efficacy and tolerability as value drivers.
+
+DOI: 10.1080/13696998.2018.1486845
+PMID: 29882452 [Indexed for MEDLINE]
+
+
+120. J Med Econ. 2018 Sep;21(9):902-911. doi: 10.1080/13696998.2018.1484748. Epub
+ 2018 Jun 28.
+
+Cost-effectiveness analysis of mechanical thrombectomy with stent retriever in 
+the treatment of acute ischemic stroke in Italy.
+
+Ruggeri M(1), Basile M(1), Zini A(2), Mangiafico S(3), Agostoni EC(4), Lobotesis 
+K(5), Saver J(6), Coretti S(1), Drago C(7), Cicchetti A(1).
+
+Author information:
+(1)a ALTEMS Postgraduate School of Health Economics , Rome , Italy.
+(2)b Stroke Unit, Neurology Clinic, Department of Neuroscience , Nuovo Ospedale 
+Civile "S.Agostino-Estense", Modena University Hospital , Modena , Italy.
+(3)c Neurovascular Interventional Unit , Careggi University Hospital , Florence 
+, Italy.
+(4)d Neurosciences Department , Niguarda Ca' Granda Hospital , Milan , Italy.
+(5)e Imperial College Healthcare NHS Trust , London , UK.
+(6)f Department of Neurology and Comprehensive Stroke Center , David Geffen 
+School of Medicine, University of California, Los Angeles (UCLA) , Los Angeles , 
+CA , USA.
+(7)g "Nicolò Cusano" University , Rome , Italy.
+
+BACKGROUND: Stroke has a significant disease burden in terms of acute and 
+long-term disability in Italy and throughout the world. Endovascular treatments 
+for the management of a stroke event have been coupled in the past years with 
+the possibility to mechanically remove the occlusion by means of specially 
+designed thrombectomy devices, and their exclusive use showed levels of 
+effectiveness in line with those of the existing pharmacological treatments.
+OBJECTIVE: To assess the cost-effectiveness of mechanical thrombectomy (MT) with 
+the Solitaire Revascularization Device (stent retriever) for the treatment of 
+acute ischemic stroke (AIS) in patients with large vessel occlusions (LVOs), 
+comparing MT plus intravenous tissue plasminogen activation (MT plus IV t-PA) vs 
+IV t-PA alone, in Italy.
+METHODS: A Markov model was used to simulate costs and benefits of MT plus IV 
+t-PA and IV t-PA alone over a 5-year time horizon and considering the 
+perspective of the Italian National Health Service (NHS). Results are reported 
+in terms of Incremental Cost Effectiveness Ratio (ICER). Deterministic and 
+probabilistic sensitivity analyses are carried out in order to test the 
+robustness of the results.
+RESULTS: Total costs of MT plus IV t-PA and IV t-PA alone are equal to €31,798 
+and €34,855, respectively. The MT allows incremental QALYs for 0.77, determining 
+a dominant ICER. The utilities associated to the mRS health states are the 
+parameters with the highest impact on the results. Multiway sensitivity analyses 
+determined a 90% probability of dominance.
+CONCLUSIONS: MT plus IV t-PA for AIS patients with LVO is cost-effective from 
+year 1 through year 3, and cost-saving from year 4 onward in the Italian 
+context, achieving better results, both in terms of efficacy and in terms of 
+resource consumption.
+
+DOI: 10.1080/13696998.2018.1484748
+PMID: 29882711 [Indexed for MEDLINE]121. Sensors (Basel). 2018 Jun 6;18(6):1851. doi: 10.3390/s18061851.
+
+Wearable Sensors Integrated with Internet of Things for Advancing eHealth Care.
+
+Bayo-Monton JL(1), Martinez-Millana A(2), Han W(3), Fernandez-Llatas C(4)(5), 
+Sun Y(6), Traver V(7)(8).
+
+Author information:
+(1)Instituto Universitario de Investigación de Aplicaciones de las Tecnologías 
+de la Información y de las Comunicaciones Avanzadas (ITACA), Universitat 
+Politècnica de València, Camino de Vera S/N, Valencia 46022, Spain. 
+jobamon@itaca.upv.es.
+(2)Instituto Universitario de Investigación de Aplicaciones de las Tecnologías 
+de la Información y de las Comunicaciones Avanzadas (ITACA), Universitat 
+Politècnica de València, Camino de Vera S/N, Valencia 46022, Spain. 
+anmarmil@itaca.upv.es.
+(3)School of Electronic Engineering and Computer Science, Queen Mary University 
+of London, London E1 4NS, UK. w.han@se13.qmul.ac.uk.
+(4)Instituto Universitario de Investigación de Aplicaciones de las Tecnologías 
+de la Información y de las Comunicaciones Avanzadas (ITACA), Universitat 
+Politècnica de València, Camino de Vera S/N, Valencia 46022, Spain. 
+cfllatas@itaca.upv.es.
+(5)Unidad Mixta de Reingeniería de Procesos Sociosanitarios (eRPSS), Instituto 
+de Investigación Sanitaria del Hospital Universitario y Politecnico La Fe, 
+Bulevar Sur S/N, Valencia 46026, Spain. cfllatas@itaca.upv.es.
+(6)School of Electronic Engineering and Computer Science, Queen Mary University 
+of London, London E1 4NS, UK. yan.sun@qmul.ac.uk.
+(7)Instituto Universitario de Investigación de Aplicaciones de las Tecnologías 
+de la Información y de las Comunicaciones Avanzadas (ITACA), Universitat 
+Politècnica de València, Camino de Vera S/N, Valencia 46022, Spain. 
+vtraver@itaca.upv.es.
+(8)Unidad Mixta de Reingeniería de Procesos Sociosanitarios (eRPSS), Instituto 
+de Investigación Sanitaria del Hospital Universitario y Politecnico La Fe, 
+Bulevar Sur S/N, Valencia 46026, Spain. vtraver@itaca.upv.es.
+
+Health and sociological indicators alert that life expectancy is increasing, 
+hence so are the years that patients have to live with chronic diseases and 
+co-morbidities. With the advancement in ICT, new tools and paradigms are been 
+explored to provide effective and efficient health care. Telemedicine and health 
+sensors stand as indispensable tools for promoting patient engagement, 
+self-management of diseases and assist doctors to remotely follow up patients. 
+In this paper, we evaluate a rapid prototyping solution for information merging 
+based on five health sensors and two low-cost ubiquitous computing components: 
+Arduino and Raspberry Pi. Our study, which is entirely described with the 
+purpose of reproducibility, aimed to evaluate the extent to which portable 
+technologies are capable of integrating wearable sensors by comparing two 
+deployment scenarios: Raspberry Pi 3 and Personal Computer. The integration is 
+implemented using a choreography engine to transmit data from sensors to a 
+display unit using web services and a simple communication protocol with two 
+modes of data retrieval. Performance of the two set-ups is compared by means of 
+the latency in the wearable data transmission and data loss. PC has a delay of 
+0.051 ± 0.0035 s (max = 0.2504 s), whereas the Raspberry Pi yields a delay of 
+0.0175 ± 0.149 s (max = 0.294 s) for N = 300. Our analysis confirms that 
+portable devices ( p < < 0 . 01 ) are suitable to support the transmission and 
+analysis of biometric signals into scalable telemedicine systems.
+
+DOI: 10.3390/s18061851
+PMCID: PMC6022128
+PMID: 29882790 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+founding sponsors had no role in the design of the study; in the collection, 
+analyses, or interpretation of data; in the writing of the manuscript, and in 
+the decision to publish the results.
+
+
+122. Life (Basel). 2018 Jun 6;8(2):21. doi: 10.3390/life8020021.
+
+Homochirality through Photon-Induced Denaturing of RNA/DNA at the Origin of 
+Life.
+
+Michaelian K(1).
+
+Author information:
+(1)Department of Nuclear Physics and Application of Radiations, Instítuto de 
+Física, Universidad Nacional Autónoma de México, A. P. 20-364, México, D.F. 
+01000, Mexico. karo@fisica.unam.mx.
+
+Since a racemic mixture of chiral nucleotides frustrates the enzymeless 
+extension of RNA and DNA, the origin of homochirality must be intimately 
+connected with the origin of life. Homochirality theories have elected to 
+presume abiotic mechanisms for prebiotic enantiomer enrichment and post 
+amplification, but none, so far, has been generally accepted. Here I present a 
+novel hypothesis for the procurement of homochirality from an asymmetry in 
+right- over left-circularly polarized photon-induced denaturing of RNA and DNA 
+at the Archean ocean surface as temperatures descended below that of RNA and DNA 
+melting. This asymmetry is attributed to the small excess of right-handed 
+circularly polarized submarine light during the afternoon, when surface water 
+temperatures were highest and thus most conducive to photon-induced denaturing, 
+and to a negative circular dichroism band extending from 230 to 270 nm for small 
+oligos of RNA and DNA. Because D-nucleic acids have greater affinity for 
+L-tryptophan due to stereochemistry, and because D-RNA/DNA+L-tryptophan 
+complexes have an increased negative circular dichroism band between 230 and 270 
+nm, the homochirality of tryptophan can also be explained by this hypothesis. A 
+numerical model is presented, demonstrating the efficacy of such a mechanism in 
+procuring homochirality of RNA or DNA from an original racemic solution in as 
+little as 270 Archean years.
+
+DOI: 10.3390/life8020021
+PMCID: PMC6027432
+PMID: 29882802
+
+Conflict of interest statement: The author declares no conflict of interest.
+
+
+123. J Int AIDS Soc. 2018 Jun;21(6):e25142. doi: 10.1002/jia2.25142.
+
+Optimal timing of HIV home-based counselling and testing rounds in Western 
+Kenya.
+
+Olney JJ(1), Eaton JW(2), Braitstein P(3)(4), Hogan JW(5), Hallett TB(2).
+
+Author information:
+(1)Centre for Health Economics & Policy Innovation, Imperial College Business 
+School, London, United Kingdom.
+(2)Department of Infectious Disease Epidemiology, Imperial College London, 
+London, United Kingdom.
+(3)Dalla Lana School of Public Health, University of Toronto, Toronto, Canada.
+(4)Department of Medicine, School of Medicine, College of Health Sciences, Moi 
+University, Eldoret, Kenya.
+(5)Department of Biostatistics and Center for Statistical Sciences, Brown 
+University School of Public Health, Providence, RI, USA.
+
+Comment in
+    J Int AIDS Soc. 2019 Jan;22(1):e25230.
+    J Int AIDS Soc. 2019 Jan;22(1):e25231.
+
+INTRODUCTION: Weaknesses in care programmes providing anti-retroviral therapy 
+(ART) persist and are often instigated by late HIV diagnosis and poor linkage to 
+care. We investigated the potential for a home-based counselling and testing 
+(HBCT) campaign to be improved through the optimal timing and enhancement of 
+testing rounds to generate greater health outcomes at minimum cost.
+METHODS: Using a mathematical model of HIV care calibrated to longitudinal data 
+from The Academic Model Providing Access To Healthcare (AMPATH) in Kenya, we 
+simulated HBCT campaigns between 2016 and 2036, assessing the impact and total 
+cost of care for each, for a further 20 years.
+RESULTS: We find that simulating five equally spaced rounds averts 1.53 million 
+disability-adjusted life-years (DALYs) at a cost of $1617 million. By altering 
+the timing of HBCT rounds, a four-round campaign can produce greater impact for 
+lower cost. With "front-loaded" rounds, the cost per DALY averted is reduced by 
+12% as fewer rounds are required ($937 vs. $1060). Furthermore, improvements to 
+HBCT coverage and linkage to care avert over two million DALYs at a cost per 
+DALY averted of $621 (41% less than the reference scenario).
+CONCLUSIONS: Countries implementing HBCT can reduce costs by optimally timing 
+rounds and generate greater health outcomes through improving linkage, coverage, 
+and retention. Tailoring HBCT campaigns to individual settings can enhance 
+patient outcomes for minimal cost.
+
+© 2018 The Authors. Journal of the International AIDS Society published by John 
+Wiley & sons Ltd on behalf of the International AIDS Society.
+
+DOI: 10.1002/jia2.25142
+PMCID: PMC5993164
+PMID: 29883052 [Indexed for MEDLINE]
+
+
+124. PLoS One. 2018 Jun 8;13(6):e0198437. doi: 10.1371/journal.pone.0198437. 
+eCollection 2018.
+
+Agreement between patients' and radiation oncologists' cancer diagnosis and 
+prognosis perceptions: A cross sectional study in Japan.
+
+Mackenzie LJ(1)(2), Carey ML(1), Suzuki E(3), Sanson-Fisher RW(1), Asada H(4), 
+Ogura M(5), D'Este C(6), Yoshimura M(5), Toi M(3).
+
+Author information:
+(1)School of Medicine and Public Health, The University of Newcastle, Callaghan, 
+New South Wales, Australia.
+(2)Graduate School of Medicine, Kyoto University Hospital, Kyoto, Japan.
+(3)Breast Surgery, Kyoto University Hospital, Kyoto, Japan.
+(4)Department of Nursing, Kyoto University Hospital, Kyoto, Japan.
+(5)Department of Radiation Oncology and Image Applied Therapy, Kyoto University 
+Hospital, Kyoto, Japan.
+(6)National Centre for Epidemiology and Population Health, Research School of 
+Population Health, Australian National University, Acton, Australian Capital 
+Territory, Australia.
+
+This study assessed agreement between radiation oncologist- and cancer 
+patient-reported perceptions about cancer diagnosis, time since diagnosis, 
+treatment purpose, and whether life expectancy had been discussed; and described 
+preferences for prognosis discussions. Adult cancer patients receiving 
+radiotherapy at a Japanese hospital were invited to complete a touchscreen 
+tablet survey. Patient survey responses were linked and comparisons made with a 
+survey completed by their radiation oncologist. Among 146 cancer 
+patient-oncologist dyads, there was almost perfect agreement on cancer diagnosis 
+(ĸ = 0.88, 95% CI: 0.82-0.94), substantial agreement on time since diagnosis (ĸ 
+= 0.70, 95% CI: 0.57-0.83) and moderate agreement on whether treatment goal was 
+curative or palliative (ĸ = 0.44, 95% CI: 0.28-0.57; all p's < 0.0001). 
+Agreement about whether a life expectancy discussion had occurred was less than 
+expected by chance (κ = -0.06, p = 0.9). Radiation oncologists reported that 
+they had spoken to over two thirds of patients about this, whilst less than one 
+third of patients stated that this discussion had occurred with their radiation 
+oncologist. Over half of the patients who had not discussed life expectancy 
+wanted to. Patients had variable preferences for whether they (80%), their 
+radiation oncologist (78%) or their partner/family (52%) should decide whether 
+they discuss their life expectancy. Although patient self-reported information 
+about diagnosis and time since diagnosis appears to be reasonably accurate 
+(compared with clinician-reported information), limitations of self-reported 
+data about prognostic discussions were highlighted by poor agreement between 
+patient- and clinician-reported information about whether prognostic discussions 
+have occurred. Additional support is needed to improve prognosis communication 
+and understanding in radiation oncology settings.
+
+DOI: 10.1371/journal.pone.0198437
+PMCID: PMC5993258
+PMID: 29883453 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+125. PLoS One. 2018 Jun 8;13(6):e0199052. doi: 10.1371/journal.pone.0199052. 
+eCollection 2018.
+
+Causes of death in patients with Berardinelli-Seip congenital generalized 
+lipodystrophy.
+
+Lima JG(1), Nobrega LHC(1), Lima NN(1), Dos Santos MCF(1), Silva PHD(1), Baracho 
+MFP(1), Lima DN(2), de Melo Campos JTA(3), Ferreira LC(4), Freire Neto FP(4), 
+Mendes-Aguiar CO(4), Jeronimo SMB(4).
+
+Author information:
+(1)Departamento de Medicina Clínica, Hospital Universitário Onofre Lopes 
+(HUOL/UFRN), Natal, RN, Brazil.
+(2)Universidade Federal de Pernambuco (UFPE), Recife, PE, Brazil.
+(3)Faculdade de Ciências da Saúde do Trairi (UFRN), Santa Cruz, RN, Brazil.
+(4)Instituto de Medicina Tropical do Rio Grande do Norte (UFRN), Natal, RN, 
+Brazil.
+
+INTRODUCTION: Berardinelli-Seip Congenital Lipodystrophy (BSCL) is a rare 
+autosomal recessive disease that affects the development of adipocytes and leads 
+to an inability to store fat in adipocytes. This study aimed to evaluate the 
+life expectancy and the causes of death of patients with BSCL.
+METHOD: We analyzed death certificates, and medical records of BSCL patients who 
+died between 1997 and 2017. If the death certificate was incomplete or 
+unavailable, we reviewed the medical records, and if they were not available 
+too, we collected information from the patient's relatives to understand how the 
+death happened. We calculated the potential years of life lost as a result of 
+premature death.
+RESULTS: Twenty patients (12 female and 8 male) died between 1997 and 2017. The 
+mean age at the time of death was 27.1±12.4 years (women 25.2±12.5 vs. men 
+29.9±12.6 years, p = 0.41). Life expectancy for the study population was 
+62.9±4.8 years. The potential number of years of life lost was 35.6±16.6 years. 
+The causes of deaths were divided into three major groups: infections (7 
+patients, 35%), liver disease (7 patients, 35%), and other causes (acute 
+pancreatitis, one patient; renal failure, three patients; sudden 
+death/myocardial infarction, two patients). Three patients had pulmonary 
+fibrosis.
+CONCLUSION: BSCL led to premature death, cutting the patients' lifespan by 30 or 
+more years. The majority of these young patients died of liver disease or 
+infection. Other studies are needed to understand better the mechanisms that 
+predispose to infections, as well as to assess whether new therapies can alter 
+the natural history of this disease.
+
+DOI: 10.1371/journal.pone.0199052
+PMCID: PMC5993255
+PMID: 29883474 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+126. Braz J Infect Dis. 2018 May-Jun;22(3):245-247. doi:
+10.1016/j.bjid.2018.05.005.  Epub 2018 Jun 6.
+
+Low variation in initial CD4 cell count in a HIV referral center, in Salvador, 
+Brazil, from 2002 to 2015.
+
+Pereira MF(1), Luz E(1), Netto EM(1), Barbosa MHF(1), Brites C(2).
+
+Author information:
+(1)Universidade Federal da Bahia, Faculdade de Medicina, Complexo Hospitalar 
+Professor Edgard Santos, LAPI - Laboratório de Pesquisa em Infectologia, 
+Salvador, BA, Brazil.
+(2)Universidade Federal da Bahia, Faculdade de Medicina, Complexo Hospitalar 
+Professor Edgard Santos, LAPI - Laboratório de Pesquisa em Infectologia, 
+Salvador, BA, Brazil. Electronic address: crbrites@gmail.com.
+
+Early initiation of antiretroviral therapy increases the likelihood of effective 
+immune restoration, quality of life, and greater life expectancy for 
+HIV-infected individuals. We evaluated the evolution of mean CD4+ cells count at 
+diagnosis of HIV/AIDS in Salvador, Brazil from 2002 to 2015. We identified 
+HIV/AIDS patients older than 18 years with diagnosis of HIV infection from 2002 
+to 2015, who had their first laboratory evaluation at Complexo Hospitalar Prof. 
+Edgard Santos, Federal University of Bahia. Initial mean CD4+ cells count and 
+age, over time were evaluated. A total of 1801 patients randomly selected 
+individuals were included in the analysis. Overall mean CD4+ count at diagnosis 
+in the whole period was 279±265, varying from 191 in 2015 to 334 in 2011. There 
+was no improvement in the immunological status at diagnosis from 2002 to 2015. 
+In addition, a higher frequency of CD4+ cells count<200cells/mL in the last two 
+years was observed. This suggests that the adopted strategies for early 
+diagnosis of HIV/AIDS in Salvador, Brazil, are still ineffective.
+
+Copyright © 2018 Sociedade Brasileira de Infectologia. Published by Elsevier 
+Editora Ltda. All rights reserved.
+
+DOI: 10.1016/j.bjid.2018.05.005
+PMCID: PMC9425651
+PMID: 29883585 [Indexed for MEDLINE]
+
+
+127. Psychoneuroendocrinology. 2018 Sep;95:179-185. doi: 
+10.1016/j.psyneuen.2018.05.027. Epub 2018 May 19.
+
+Can prebiotics assist in the management of cognition and weight gain in 
+schizophrenia?
+
+Kao AC(1), Burnet PWJ(1), Lennox BR(2).
+
+Author information:
+(1)Department of Psychiatry, University of Oxford, Oxford, OX3 7JX, United 
+Kingdom.
+(2)Department of Psychiatry, University of Oxford, Oxford, OX3 7JX, United 
+Kingdom. Electronic address: belinda.lennox@psych.ox.ac.uk.
+
+Schizophrenia is among the top half of the 25 leading causes of disabilities 
+worldwide with a 10-20 year decrease in life expectancy. Ineffective 
+pharmacotherapy in the management of cognitive deficits and weight gain are 
+known to be significant contributors; therefore interventions that may mitigate 
+one, or both, of these parameters would be highly beneficial. Manipulation of 
+the gut microbiome using dietary supplements such as prebiotics may be one such 
+intervention. Preclinical studies have shown that a 2-4 week dietary 
+supplementation with a prebiotic has beneficial effects on learning and memory, 
+and prevents pro-inflammatory signals that are detrimental to cognitive 
+processes. Furthermore, prebiotics influence metabolism, and in obesity they 
+increase the expression of anorexigenic gut hormones such as peptide tyrosine 
+tyrosine, glucagon-like peptide 1 and leptin, as well as decrease levels of 
+orexigenic hormones such as ghrelin. Despite compelling evidence for the 
+pro-cognitive and neuroprotective effects of prebiotics in rodents, their 
+ability to alleviate cognitive deficits or enhance cognition needs to be 
+evaluated in humans. Here we suggest that important symptoms associated with 
+schizophrenia, such as cognitive impairment and weight gain, may benefit from 
+concurrent prebiotic therapy.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.psyneuen.2018.05.027
+PMID: 29883788 [Indexed for MEDLINE]
+
+
+128. Trials. 2018 Jun 8;19(1):315. doi: 10.1186/s13063-018-2685-5.
+
+The effectiveness of a stratified care model for non-specific low back pain in 
+Danish primary care compared to current practice: study protocol of a randomised 
+controlled trial.
+
+Morso L(1)(2), Schiøttz-Christensen B(3)(4), Søndergaard J(5), Andersen NV(6), 
+Pedersen F(7), Olsen KR(8), Jensen MS(9), Hill J(10), Christiansen DH(6)(11).
+
+Author information:
+(1)Centre for Quality, Region of Southern Denmark, P.V. Tuxensvej 5, 5500, 
+Middelfart, Denmark. lars.morsoe@rsyd.dk.
+(2)Department of Regional Health Research, University of Southern Denmark, 
+Odense, Denmark. lars.morsoe@rsyd.dk.
+(3)Department of Regional Health Research, University of Southern Denmark, 
+Odense, Denmark.
+(4)Spine Centre of Southern Denmark, Odense, Denmark.
+(5)Research Unit of General Practice, University of Southern Denmark, Odense, 
+Denmark.
+(6)Department for Health Provision, Region of Central Denmark, Viborg, Denmark.
+(7)Physiothery Primary Care Consultant, Region of Southern Denmark, Vejle, 
+Denmark.
+(8)Department of Business and Economics, COHERE, University of Southern Denmark, 
+Odense, Denmark.
+(9)Centre for Quality, Region of Southern Denmark, P.V. Tuxensvej 5, 5500, 
+Middelfart, Denmark.
+(10)Institute for Primary Care and Health Sciences, Keele University, 
+Staffordshire, UK.
+(11)Department of Occupational Medicine, Regional Hospital West Jutland, 
+University Research Clinic, Herning, Denmark.
+
+BACKGROUND: Prior studies indicate that stratified care for low back pain 
+results in better clinical outcome and reduced costs in healthcare compared to 
+current practice. Stratified care may be associated with clinical benefits for 
+patients with low back pain at a lower cost, but evidence is sparse. Hence this 
+study aims to evaluate the clinical effects and cost-effectiveness of stratified 
+care in patients with non-specific low back pain compared to current practice.
+METHODS/DESIGN: The study is a two-armed randomised controlled trial in primary 
+care in the Regions of Southern and Central Denmark (2.5 million citizens). 
+Patients with non-specific low back will be recruited by paticpating GPs. 
+Patients are randomised to either (1) stratified care or (2) current practice at 
+participating physiotherapy clinics. In the stratified care arm, the 
+intervention is based on the patient's STarT Back Tool classification and 
+trained accordingly, whereas physiotherapists in the current pratice arm are 
+blinded to the STarT score. Primary outcomes in the trial will be group 
+differences in time off work, improvement in LBP disability measured by the 
+Roland Morris Disability Questionnaire (RMDQ) and patient-reported global 
+change. Secondary measures will be pain intensity, patient satisfaction, data on 
+patient healthcare resource utilisation and quality-adjusted life year based on 
+the EQ-5D-5L.
+DISCUSSION: Stratified care that effectively targets treatment to relevant 
+sub-groups of patients has potentially great impact on the treatment pathways of 
+low back pain. Thus, if effective, this could result in better patient outcomes 
+and at the same time reduce the costs for treatment of low back pain.
+TRIAL REGISTRATION: ClinicalTrials.gov , NCT02612467 . Registered on 16 November 
+2015.
+
+DOI: 10.1186/s13063-018-2685-5
+PMCID: PMC5994129
+PMID: 29884217 [Indexed for MEDLINE]
+
+Conflict of interest statement: AUTHORS’ INFORMATION: LM is post-doctoral, BSC 
+is a professor and MSJ a Ph.D. student at the Department of Regional Health 
+Research, University of Southern Denmark, Odense. JS is a professor at the 
+Research Unit of General Practice, University of Southern Denmark, Odense, FP 
+and NBVA are physiotherapy primary care consultants for the regions of Southern 
+and Central Denmark, KRO is an assisting professor at the Department of Business 
+and Economics, COHERE, University of Southern Denmark, Odense, JH is an 
+assisting professor at the Institute for Primary care and Health Sciences, Keele 
+University, Staffordshire, UK, DHC is a post-doctoral at the Department of 
+Occupational Medicine, Regional Hospital West Jutland, University Research 
+Clinic, Denmark. ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Participation is 
+based on informed consent. All patients in the study receive written and verbal 
+information regarding the study. Consent for participation can at any time can 
+be re-drawn and participation can be terminated without consequences for the 
+patient. Patients who are not interested in participation in the project will be 
+treated and referred in concordance with usual practice in primary care. The 
+study has been approved by the Scientific Ethics Committee of Southern Denmark 
+(file no. S-20140205) and the Danish Data Protection Agency (file no. 15/3321). 
+All rules of storage of personal information are met according to the Danish 
+Data Protection Agency. Data will only be reported in anonymous form. Data 
+management will be conducted according to the regional rules of the Region of 
+Southern Denmark. The trial has been registered at ClinicalTrials.gov (Protocol 
+Record S-20140205). CONSENT FOR PUBLICATION: All authors gave consent for 
+publication. COMPETING INTERESTS: The authors declare that they have no 
+competing interests. PUBLISHER’S NOTE: Springer Nature remains neutral with 
+regard to jurisdictional claims in published maps and institutional 
+affiliations.
+
+
+129. J Pak Med Assoc. 2018 May;68(5):811-813.
+
+Effectiveness of muscle energy technique on cervical range of motion and pain.
+
+Jalal Y(1), Ahmad A(2), Rahman AU(3); Irfanullah(4); Daud M(3); Aneela(5).
+
+Author information:
+(1)N.C.S. University System.
+(2)Government Naseerullah Khan Babar Memorial Hospital.
+(3)Mahboob Medical Institute.
+(4)Hayatabad Medical Complex.
+(5)Naseer Teaching Hospital, Peshawar.
+
+Every individual in his/her life experiences cervical pain at some stage which 
+may restrict daily activities. Various approaches are available for the 
+management of cervical pain, which include surgical, pharmacological and 
+physical therapy. Different Manual therapy techniques are used for the treatment 
+of neck pain. Muscle energy techniques and active isolated stretching are under 
+consideration. This case series study was conducted at physical therapy 
+department of North West General Hospital, Peshawar from August 2015 to January 
+2016 to find out the effectiveness of muscles energy techniques on cervical 
+range of motion and pain. A total of 20 patients suffering neck pain, both 
+genders having age of 25 - 50 years, cervical ROM limitation and muscles spasm 
+were included in the study. Patients were treated by muscles energy technique 
+(MET). The patient's outcome measures were Inclinometer and Visual Analogue 
+Scale (VAS). Data was analyzed using SPSS version 20. The mean age was 32.3±6.53 
+years. The patient treated with muscles energy technique showed clinically 
+improvement in the range of motion and pain. Results showed that pre and post 
+treatment differences were statistically significant for cervical flexion 
+(0.001), cervical extension (0.001), cervical right side rotation (0.001), 
+cervical left side rotation (0.001), cervical right side bending (0.001), and 
+cervical left side bending (0.01). Paired t-test finding for the pain showed 
+statistically significant difference (0.005). It was concluded that Muscles 
+Energy Technique is effective in the treatment of restricted range of motion and 
+cervical pain.
+
+PMID: 29885191 [Indexed for MEDLINE]
+
+
+130. ANZ J Surg. 2019 Jan;89(1-2):25-31. doi: 10.1111/ans.14676. Epub 2018 Jun 9.
+
+Does an extreme age (≥80 years) affect outcomes in patients after liver cancer 
+surgery? A meta-analysis.
+
+Wei F(1)(2).
+
+Author information:
+(1)School of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.
+(2)Department of Developmental Biology, Pittsburgh Liver Research Center, 
+McGowan Institute for Regenerative Medicine, School of Medicine, University of 
+Pittsburgh, Pittsburgh, Pennsylvania, USA.
+
+BACKGROUND: Increasing global life expectancy has resulted in a greater demand 
+for cancer surgery in aged patients. However, whether extreme age causes poorer 
+clinical outcomes remains unclear. This meta-analysis aimed to evaluate the 
+impact of extreme age (≥80 years) on outcomes in patients after liver cancer 
+surgery.
+METHODS: A systematic search was performed to enrol relevant studies. Data were 
+analysed using fixed-effects or random-effects models. Eight retrospective 
+studies involving 253 participants older than 80 years were included.
+RESULTS: Compared with younger patients, patients of extreme age (≥80 years) who 
+had undergone curative liver cancer surgery experienced less operating time and 
+blood loss (both P < 0.0001); a larger size (weighted mean difference = 0.48 cm, 
+95% confidence interval (CI) 0.08-0.87 cm; P = 0.02) and more advanced stage of 
+hepatocellular carcinoma (risk ratio (RR) = 1.20, 95% CI 1.04-1.39; P = 0.01); a 
+higher overall morbidity (RR = 1.24, 95% CI 1.05-1.47; P = 0.01); and more 
+post-operative ileus (POI) (RR = 3.45, 95% CI 1.03-11.56; P = 0.04), delirium 
+(RR = 3.04, 95% CI 1.36-6.78; P = 0.007) and cardiovascular events (RR = 6.17, 
+95% CI 2.79-13.60; P < 0.00001). No significant difference was noted in overall 
+(hazard ratio (HR) = 1.15, 95% CI 0.87-1.53; P = 0.32) or disease-free 
+(HR = 0.96, 95% CI 0.75-1.24; P = 0.77) survival.
+CONCLUSION: Although an extreme age may not be a contraindication for 
+undertaking liver cancer surgery, it may cause more morbidity. Perioperative 
+intervention should be considered for prevention and early treatment of POI, 
+delirium and cardiovascular events.
+
+© 2018 Royal Australasian College of Surgeons.
+
+DOI: 10.1111/ans.14676
+PMID: 29885205 [Indexed for MEDLINE]
+
+
+131. J Urol. 2018 Oct;200(4):709-711. doi: 10.1016/j.juro.2018.06.008. Epub 2018
+Jun  6.
+
+Ethical Pitfalls When Estimating Life Expectancy for Patients with Prostate 
+Cancer.
+
+Leppert JT(1), Asch SM(2), Bergman J(3).
+
+Author information:
+(1)Departments of Urology and Medicine, Division of Nephrology, Stanford 
+University, Stanford, California.
+(2)Division of Primary Care and Population Health, Department of Medicine, 
+Stanford University, Stanford, California; VA Center for Innovation to 
+Implementation, Palo Alto, California.
+(3)Departments of Urology and Family Medicine, David Geffen School of Medicine 
+at UCLA, Olive View-UCLA Medical Center, Veterans Administration Greater Los 
+Angeles Healthcare System, Los Angeles, California.
+
+DOI: 10.1016/j.juro.2018.06.008
+PMID: 29885322 [Indexed for MEDLINE]
+
+
+132. Eur J Cancer. 2018 Aug;99:1-8. doi: 10.1016/j.ejca.2018.04.009. Epub 2018
+Jun 6.
+
+Impact of age on breast cancer mortality and competing causes of death at 10 
+years follow-up in the adjuvant TEAM trial.
+
+Derks MGM(1), Bastiaannet E(2), van de Water W(1), de Glas NA(3), Seynaeve C(4), 
+Putter H(5), Nortier JWR(3), Rea D(6), Hasenburg A(7), Markopoulos C(8), Dirix 
+LY(9), Portielje JEA(3), van de Velde CJH(10), Liefers GJ(1).
+
+Author information:
+(1)Department of Surgery, Leiden University Medical Center, Leiden, The 
+Netherlands.
+(2)Department of Surgery, Leiden University Medical Center, Leiden, The 
+Netherlands; Department of Medical Oncology, Leiden University Medical Center, 
+Leiden, The Netherlands.
+(3)Department of Medical Oncology, Leiden University Medical Center, Leiden, The 
+Netherlands.
+(4)Department of Medical Oncology, Erasmus MC Cancer Institute, Rotterdam, The 
+Netherlands.
+(5)Department of Medical Statistics, Leiden University Medical Center, Leiden, 
+The Netherlands.
+(6)Department of Medical Oncology, University of Birmingham, Birmingham, UK.
+(7)Department of Obstetrics and Gynaecology, University Hospital Mainz, Mainz, 
+Germany.
+(8)Department of Surgery, Medical School, National and Kapodistrian University 
+of Athens, Greece.
+(9)Oncology Center, Sint-Augustinus, Wilrijk-Antwerp, Belgium.
+(10)Department of Surgery, Leiden University Medical Center, Leiden, The 
+Netherlands. Electronic address: c.j.h.van_de_velde@lumc.nl.
+
+AIM: Due to increasing life expectancy, patients with breast cancer remain at 
+risk of dying due to breast cancer over a long time. This study aims to assess 
+the impact of age on breast cancer mortality and other cause mortality 10 years 
+after diagnosis.
+METHODS: Postmenopausal patients with hormone-receptor positive breast cancer 
+were included in the Tamoxifen and Exemestane Adjuvant Multinational (TEAM) 
+trial between 2001 and 2006. Age at diagnosis was categorised as <65 years 
+(n = 3369), 65-74 years (n = 1896) and ≥75 years (n = 854). Breast cancer 
+mortality was assessed considering other cause mortality as competing event 
+using competing risk analysis.
+RESULTS: After a median follow-up of 9.8 years (interquartile range 8.0-10.3), 
+cumulative incidence of breast cancer mortality increased with increasing age 
+(age <65 years, 11.7% [95% confidence interval {CI}: 10.2-13.2]; 65-74 years, 
+12.7% (11.2-14.2) and ≥75 years, 15.6% (13.1-18.0)). Univariate subdistribution 
+hazard ratio (sHR) increased with increasing age (age: 65-74 years, sHR: 1.08, 
+95% CI: 0.92-1.27 and ≥75 years sHR: 1.30, 95% CI: 1.06-1.58, P = 0.013). 
+Multivariable sHR adjusted for tumour and treatment characteristics increased 
+with age but did not reach significance (age 65-74 years, sHR: 1.11, 95% CI: 
+0.94-1.31; ≥75 years, sHR: 1.18, 95% CI: 0.94-1.48, P = 0.055).
+CONCLUSION: Ten years after diagnosis, older age at diagnosis is associated with 
+increasing breast cancer mortality in univariate analysis, but it did not reach 
+significance in multivariable analysis. This is not outweighed by a 
+substantially higher other cause mortality with older age. This underlines the 
+need to improve the balance between undertreatment and overtreatment in older 
+patients with breast cancer. The trial was registered in International Trial 
+Databases (ClinicalTrials.govNCT00279448, NCT00032136, and NCT00036270; the 
+Netherlands Trial Registry NTR267).
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ejca.2018.04.009
+PMID: 29885375 [Indexed for MEDLINE]
+
+
+133. Tob Control. 2019 Jan;28(1):88-94. doi: 10.1136/tobaccocontrol-2017-054229.
+Epub  2018 Jun 9.
+
+Cost-effectiveness analysis of smoking cessation interventions using cell phones 
+in a low-income population.
+
+Daly AT(1), Deshmukh AA(2), Vidrine DJ(3), Prokhorov AV(4), Frank SG(3), Tahay 
+PD(4), Houchen ME(4), Cantor SB(1).
+
+Author information:
+(1)Department of Health Services Research, The University of Texas MD Anderson 
+Cancer Center, Houston, Texas, USA.
+(2)Department of Health Services Research, The University of Florida Health 
+Science Center, Gainesville, Florida, USA.
+(3)Oklahoma Tobacco Research Center, University of Oklahoma Health Sciences 
+Center, Oklahoma City, Oklahoma, USA.
+(4)Department of Behavioral Science, The University of Texas MD Anderson Cancer 
+Center, Houston, Texas, USA.
+
+BACKGROUND: The prevalence of cigarette smoking is significantly higher among 
+those living at or below the federal poverty level. Cell phone-based 
+interventions among such populations have the potential to reduce smoking rates 
+and be cost-effective.
+METHODS: We performed a cost-effectiveness analysis of three smoking cessation 
+interventions: Standard Care (SC) (brief advice to quit, nicotine replacement 
+therapy and self-help written materials), Enhanced Care (EC) (SC plus cell 
+phone-delivered messaging) and Intensive Care (IC) (EC plus cell phone-delivered 
+counselling). Quit rates were obtained from Project ACTION (Adult smoking 
+Cessation Treatment through Innovative Outreach to Neighborhoods). We evaluated 
+shorter-term outcomes of cost per quit and long-term outcomes using cost per 
+quality-adjusted life year (QALY).
+RESULTS: For men, EC cost an additional $541 per quit vs SC; however, IC cost an 
+additional $5232 per quit vs EC. For women, EC was weakly dominated by IC-IC 
+cost an additional $1092 per quit vs SC. Similarly, for men, EC had incremental 
+cost-effectiveness ratio (ICER) of $426 per QALY gained vs SC; however, IC 
+resulted in ICER of $4127 per QALY gained vs EC. For women, EC was weakly 
+dominated; the ICER of IC vs SC was $1251 per QALY gained. The ICER was below 
+maximum acceptable willingness-to-pay threshold of $50 000 per QALY under all 
+alternative modelling assumptions.
+DISCUSSION: Cell phone interventions for low socioeconomic groups are a 
+cost-effective use of healthcare resources. Intensive Care was the most 
+cost-effective strategy both for men and women.
+TRIAL REGISTRATION NUMBER: NCT00948129; Results.
+
+© Article author(s) (or their employer(s) unless otherwise stated in the text of 
+the article) 2019. All rights reserved. No commercial use is permitted unless 
+otherwise expressly granted.
+
+DOI: 10.1136/tobaccocontrol-2017-054229
+PMCID: PMC6692895
+PMID: 29886411 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+134. Environ Monit Assess. 2018 Jun 9;190(7):387. doi: 10.1007/s10661-018-6771-7.
+
+Assessment of water quality of rivers that serve as water sources for drinking 
+and domestic functions in rural and pre-urban communities in Edo North, Nigeria.
+
+Beshiru A(1), Okareh OT(2), Chigor VN(3), Igbinosa EO(4).
+
+Author information:
+(1)Applied Microbial Processes & Environmental Health Research Group, Department 
+of Microbiology, Faculty of Life Sciences, University of Benin, Private Mail Bag 
+1154, Benin City, 300001, Nigeria.
+(2)Department of Environmental Health Sciences, Faculty of Public Health, 
+College of Medicine, University of Ibadan, Ibadan, Nigeria.
+(3)Water and Public Health Research Group, Department of Microbiology, Faculty 
+of Biological Sciences, University of Nigeria, Nsukka, 410001, Nigeria.
+(4)Applied Microbial Processes & Environmental Health Research Group, Department 
+of Microbiology, Faculty of Life Sciences, University of Benin, Private Mail Bag 
+1154, Benin City, 300001, Nigeria. eigbinosa@gmail.com.
+
+Surface waters are important to humans because they are a significant water 
+supply source. They are, however, under serious environmental stress and are 
+being threatened as a consequence of developmental activities. The present study 
+describes the physicochemical properties and water quality indices of five 
+different rivers used for drinking and other domestic activities in rural and 
+pre-urban communities in Edo North, Nigeria. The physicochemical variable ranges 
+include pH [wet season (6.47 ± 0.30-6.89 ± 0.11), dry season 
+(6.61 ± 0.14-7.84 ± 0.24)], electrical conductivity (EC) [wet season 
+(3.33 ± 0.57-12.33 ± 2.51 μS/cm), dry season (5.33 ± 0.57-21.33 ± 2.08 μS/cm)], 
+water temperature [wet season (24.23 ± 0.98-25.40 ± 1.15 °C), dry season 
+(26.20 ± 0.55-27.10 ± 0.75 °C)], TDS [wet season 
+(417.00 ± 15.87-433.33 ± 18.50 mg/L), dry season 
+(319.33 ± 16.50-372.66 ± 22.30 mg/L)], turbidity [wet season 
+(1.01 ± 0.11-2.08 ± 0.99 NTU), dry season (3.11 ± 0.01-5.41 ± 0.24 NTU)], and DO 
+[wet season (2.65 ± 0.37-3.99 ± 0.01 mg/L), dry season 
+(2.12 ± 0.11-2.44 ± 0.01 mg/L)]. For the wet and dry seasons, the water quality 
+indices were 120.225 and 585.015 for River Osolo, 119.849 and 445.751 for River 
+Foreign, 200.474 and 587.833 for Ijoh River, 105.261 and 512.498 for Ole River, 
+and 150.114 and 489.992 for Ole Extension River, respectively. The pH was 
+negatively correlated with DO (r = -0.648), and EC was negatively correlated 
+with DO (r = -0.635). Most of the evaluated parameters were within recommended 
+water safety guidelines. However, the water quality index shows that the water 
+quality was very poor and/or unsuitable for drinking and other domestic uses, 
+especially during the dry season. It is suggested that river water be treated 
+prior to its use for drinking and other domestic purposes.
+
+DOI: 10.1007/s10661-018-6771-7
+PMID: 29886512 [Indexed for MEDLINE]
+
+
+135. Zhonghua Wai Ke Za Zhi. 2018 Jun 1;56(6):414-417. doi: 
+10.3760/cma.j.issn.0529-5815.2018.06.005.
+
+[Progress of surgical treatment for aortic valve diseases in children].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Wang K(1), Jia B.
+
+Author information:
+(1)Cardiac Center, Children's Hospital of Fudan University, Shanghai 201102, 
+China.
+
+As the primary treatment of aortic valve stenosis in children, surgical aortic 
+valvotomy (SAV) and balloon aortic valvuloplasty (BAV) are widely used. With the 
+similar early curative effect to BAV, SAV performs better in long-term 
+follow-up. But the first choice for aortic valve stenosis is still 
+controversial. These years, aortic valve repair is valued and different repair 
+techniques have been reported and achieved good results. The complex repair 
+techniques, as leaflet extension, leaflet replacement or valve reconstruction, 
+are effective in treating diseased valves that cannot be repaired before. Ozaki 
+technology, using glutaraldehyde-treated autologous pericardium to replace the 
+aortic valve, makes the surgery more standardized and reproducible by developing 
+special instruments. Pulmonary autograft (Ross procedure) is considered to be 
+superior to other valve replacement technologies due to the good hemodynamic 
+performance and lower reoperation rate. Mechanical valve is still used in some 
+cases, but the quality of life is low due to the lifelong anticoagulation, and 
+it has a high reintervention rate. The biological valve has been rarely used in 
+children because of its high rate of early calcification and structural failure.
+
+Publisher: 
+儿童主动脉瓣狭窄的首选治疗方法目前仍有争议。主动脉瓣切开术和球囊主动脉瓣成形术早期疗效相仿，但前者中远期免于再干预率明显优于后者。主动脉瓣修复是目前学界的关注重点，瓣叶延长、瓣叶置换或瓣膜重建为原本无法修复的病变提供了治疗机会。Ozaki技术采用戊二醛处理的自体心包进行一个或多个瓣叶的置换，测量工具和裁剪模板的使用提高了该技术的标准化程度和可复制性，易于推广应用。自体肺动脉瓣移植具有良好的术后血流动力学表现和较低的再手术率，效果优于其他瓣膜置换术。机械瓣置换需终身抗凝治疗，具有较高的再干预率；生物瓣置换由于其早期钙化失功率较高，已很少用于儿童患者。.
+
+DOI: 10.3760/cma.j.issn.0529-5815.2018.06.005
+PMID: 29886662 [Indexed for MEDLINE]
+
+
+136. Zhonghua Yu Fang Yi Xue Za Zhi. 2018 Jun 6;52(6):668-672. doi: 
+10.3760/cma.j.issn.0253-9624.2018.06.018.
+
+[Effects and associated factors of HIV/AIDS anti-retroviral therapy in Liangshan 
+Yi Autonomous Prefecture, Sichuan Province].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Xu JL(1), Jike KCN, Ma Y, Yu G, Wang J, Wang K, Xu P, Liao Q, Gong YH, Zhong SY, 
+Liu H, Jike KES, Pang L, Liu ZF.
+
+Author information:
+(1)National Center for AIDS/STD Control and Prevention, Chinese Center for 
+Disease Control and Prevention, Beijing 102206, China.
+
+Objective: To evaluate the effectiveness and to explore the releated factors of 
+antiretroviral therapy among HIV/AIDS patients in Liangshan Yi Autonomous 
+Prefecture, Sichuan Province. Methods: The method of convenience sampling was 
+adopted in July 2017 to select the research objects who were accepted 
+antiretroviral therapy (ART) over 6 months, older than 18 years and had HIV 
+viral load in 2016, totally 400 cases. A retrospective study was used to collect 
+the data, including social demography, medicine use, information of medical 
+service acquisition, their own behaviors and cognition. 395 questionnaires were 
+effectively recovered. χ(2) test and logistic regression were performed to 
+examine relationships between factors and effects. Results: All of the 395 
+respondents were Yi-nationality. The average age of all cases was (39.23±7.52) 
+years old and 223 were male (56.5%). Among 395 cases patients who were detect 
+Viral load in 2016, 221 cases were under the number of 400 copies, thze 
+effective rate of ART was 55.9%. Multivariate analysis showed that HIV/AIDS 
+patients who missed the medication during the antiviral therapy had poor 
+antiviral effects. Compared to those who adhered to medication, the 
+treatment-ineffective OR (95%CI) of the patients missing the medication during 
+the therapy was 7.06 (3.67-13.58); Compared to those who had adverse reactions 
+that affect the therapy, the treatment-ineffective OR (95%CI) of the patients 
+with mild adverse reactions that did not affect the therapy was 0.45 
+(0.23-0.87); Compared to the patients who used drugs during the treatment, the 
+treatment-ineffective OR (95%CI) value of the antiretroviral therapy effect of 
+non-drug users was 0.39 (0.16-0.91);Compared to the patients who have a correct 
+cognition that insisting on taking medicine correctly can extend their life 
+expectancy as a common person, the treatment-ineffective OR (95%CI) values for 
+those who hold the view that could be prolonged by 10-20 years and not/unknown 
+were 4.18 (1.59-10.99) and 6.64 (2.67-16.53). Conclusion: The HIV/AIDS patients 
+who receive ART were less effective in Liangshan, Prefecture. Missings drugs is 
+one of the main influencing factors for the ineffective treatment.
+
+Publisher: 目的： 评价四川者凉山彝族自治州（凉山州）接受艾滋病抗病毒治疗（ART）的HIV感染者和艾滋病患者抗病毒治疗效果及相关因素。 方法： 
+于2017年7月，采用方便抽样的方法，以凉山州某重点县正在接受ART的HIV感染者和艾滋病患者为调查对象，纳入其中接受抗病毒治疗≥6个月、≥18周岁且2016年做过HIV病毒载量检测者进行回顾性研究，共400例。通过问卷调查的方式获取调查对象的一般人口学特征、服药情况、医疗服务获取情况、自身行为与认知情况等，有效回收问卷395份。采用χ(2)检验和多因素非条件logistic回归模型分析抗病毒治疗效果的相关因素。 
+结果： 
+395例调查对象均为彝族，年龄为（39.23±7.52）岁；其中男性为223（56.5%）例。2016年HIV病毒载量检测结果<400拷贝/ml者为221例，抗病毒治疗有效率55.9%。与坚持服药者相比，服药期间漏服药物的HIV感染者和艾滋病患者抗病毒治疗无效的OR（95%CI）值为7.06（3.67~13.58）；与服药期间发生不良反应影响继续服药的患者相比，发生不良反应轻微未影响继续服药者抗病毒治疗无效的OR（95%CI）值为0.45（0.23~0.87）；与服药期间有吸毒行为的患者相比，不吸毒者抗病毒治疗无效的OR（95%CI）值为0.39（0.16~0.91）；与认为坚持服药能接近健康人寿命的HIV感染者和艾滋病患者相比，认为能延长10~20年和不能/不知道者相对于正确认知的感染者和患者抗病毒治疗无效的OR（95%CI）值分别为4.18（1.59~10.99）和6.64（2.67~16.53）。 
+结论： 凉山州接受抗病毒治疗的HIV感染者和艾滋病患者抗病毒治疗有效率较低，漏服药物是其治疗无效主要相关因素。.
+
+DOI: 10.3760/cma.j.issn.0253-9624.2018.06.018
+PMID: 29886691 [Indexed for MEDLINE]
+
+
+137. Scand J Public Health. 2019 Aug;47(6):611-617. doi:
+10.1177/1403494818780024.  Epub 2018 Jun 11.
+
+Ageing populations in the Nordic countries: Mortality and longevity from 1990 to 
+2014.
+
+Jørgensen TSH(1)(2), Fors S(3), Nilsson CJ(1)(2), Enroth L(4), Aaltonen M(4)(5), 
+Sundberg L(3), Brønnum-Hansen H(1), Strand BH(6), Chang M(7)(8), Jylhä M(4).
+
+Author information:
+(1)Section of Social Medicine, Department of Public Health, Faculty of Health 
+and Medical Sciences, University of Copenhagen, Denmark.
+(2)Center for Healthy Aging, University of Copenhagen, Copenhagen K, Denmark.
+(3)Aging Research Center, Department of Neurobiology, Care Sciences and Society, 
+Karolinska Institutet and Stockholm University, Sweden.
+(4)Faculty of Social Sciences and Gerontology Research Center (GEREC), 
+University of Tampere, Finland.
+(5)Institute for Advanced Social Research, University of Tampere, Finland.
+(6)Department of Chronic Diseases and Ageing, Norwegian Institute of Public 
+Health Oslo, Norway.
+(7)The Icelandic Gerontological Research Center, Landspitali University Hospital 
+and University of Iceland, Reykjavik, Iceland.
+(8)Faculty of Health Promotion, Sport and Leisure Studies University of Iceland, 
+Reykjavík, Iceland.
+
+Aims: Cross-country comparisons of mortality and longevity patterns of Nordic 
+populations could contribute with novel insights into the compositional changes 
+of these populations. We investigated three metrics of population ageing: the 
+proportion of the population aged 75+ and 90+ years, the proportion of birth 
+cohorts reaching 75 and 90 years, and life expectancy (LE) at age 75 and 
+90 years in Sweden, Norway, Iceland, Denmark and Finland, in the period 
+1990-2014. Methods: Demographic information was collected from national 
+statistical databases and the Human Mortality Database. Results: All metrics on 
+population ageing increased during the study period, but there were some 
+cross-country variations. Finland experienced a notably steep increase in the 
+proportion of 75+ and 90+ year olds compared to the other countries. Regarding 

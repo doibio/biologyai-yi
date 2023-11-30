@@ -1,0 +1,1000 @@
+segmentation in a reasonable time, limiting the use of precise quantitative 
+measurements in the clinical practice. So, automatic and reliable segmentation 
+methods are required; however, the large spatial and structural variability 
+among brain tumors make automatic segmentation a challenging problem. In this 
+paper, we propose an automatic segmentation method based on Convolutional Neural 
+Networks (CNN), exploring small 3 ×3 kernels. The use of small kernels allows 
+designing a deeper architecture, besides having a positive effect against 
+overfitting, given the fewer number of weights in the network. We also 
+investigated the use of intensity normalization as a pre-processing step, which 
+though not common in CNN-based segmentation methods, proved together with data 
+augmentation to be very effective for brain tumor segmentation in MRI images. 
+Our proposal was validated in the Brain Tumor Segmentation Challenge 2013 
+database (BRATS 2013), obtaining simultaneously the first position for the 
+complete, core, and enhancing regions in Dice Similarity Coefficient metric 
+(0.88, 0.83, 0.77) for the Challenge data set. Also, it obtained the overall 
+first position by the online evaluation platform. We also participated in the 
+on-site BRATS 2015 Challenge using the same model, obtaining the second place, 
+with Dice Similarity Coefficient metric of 0.78, 0.65, and 0.75 for the 
+complete, core, and enhancing regions, respectively.
+
+DOI: 10.1109/TMI.2016.2538465
+PMID: 26960222 [Indexed for MEDLINE]
+
+
+606. World Neurosurg. 2016 Jun;90:236-243. doi: 10.1016/j.wneu.2016.02.108. Epub
+2016  Mar 4.
+
+Sacral Nerve Stimulation for Neurogenic Bladder.
+
+Li LF(1), Ka-Kit Leung G(2), Lui WM(2).
+
+Author information:
+(1)Division of Neurosurgery, Department of Surgery, Li Ka Shing Faculty of 
+Medicine, The University of Hong Kong, Queen Mary Hospital, Hong Kong. 
+Electronic address: llfrandom@gmail.com.
+(2)Division of Neurosurgery, Department of Surgery, Li Ka Shing Faculty of 
+Medicine, The University of Hong Kong, Queen Mary Hospital, Hong Kong.
+
+Neurogenic bladder refers to dysfunction of the urinary bladder secondary to 
+diseases of the nervous system that result in problems with urine storage, 
+micturition, or both. The most common causes are multiple sclerosis and spinal 
+cord injury. Patients commonly present with recurrent UTIs, obstructive 
+uropathies, and urinary retention. Without proper treatment, neurogenic bladder 
+may result in nephropathy and renal failure, both of which have a significant 
+negative impact on the health and life expectancy of patients. Restoration of 
+lost neural function using artificial stimulators is a feasible therapeutic 
+strategy. This article reviews the pathophysiology of neurogenic bladder and the 
+2 most commonly employed sacral nerve stimulation methods-the Brindley procedure 
+and sacral neuromodulation.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.wneu.2016.02.108
+PMID: 26960284 [Indexed for MEDLINE]
+
+
+607. BMJ. 2016 Mar 9;352:i1336. doi: 10.1136/bmj.i1336.
+
+Crossing the line: NICE's value for money threshold.
+
+Appleby J(1).
+
+Author information:
+(1)King's Fund, London, UK.
+
+DOI: 10.1136/bmj.i1336
+PMID: 26960807 [Indexed for MEDLINE]
+
+
+608. Genome Biol Evol. 2016 Mar 9;8(3):495-506. doi: 10.1093/gbe/evw014.
+
+Ancient Duplications Have Led to Functional Divergence of Vitellogenin-Like 
+Genes Potentially Involved in Inflammation and Oxidative Stress in Honey Bees.
+
+Salmela H(1), Stark T(2), Stucki D(1), Fuchs S(1), Freitak D(1), Dey A(3), Kent 
+CF(3), Zayed A(3), Dhaygude K(1), Hokkanen H(4), Sundström L(5).
+
+Author information:
+(1)Department of Biosciences, Centre of Excellence in Biological Interactions, 
+University of Helsinki, Helsinki, Finland.
+(2)Department of Biosciences, Centre of Excellence in Biological Interactions, 
+University of Helsinki, Helsinki, Finland Department of Agricultural Sciences, 
+University of Helsinki, Helsinki, Finland.
+(3)Department of Biology, York University, Toronto, ON, Canada.
+(4)Department of Agricultural Sciences, University of Helsinki, Helsinki, 
+Finland.
+(5)Department of Biosciences, Centre of Excellence in Biological Interactions, 
+University of Helsinki, Helsinki, Finland liselotte.sundstrom@helsinki.fi.
+
+Protection against inflammation and oxidative stress is key in slowing down 
+aging processes. The honey bee (Apis mellifera) shows flexible aging patterns 
+linked to the social role of individual bees. One molecular factor associated 
+with honey bee aging regulation is vitellogenin, a lipoglycophosphoprotein with 
+anti-inflammatory and antioxidant properties. Recently, we identified three 
+genes in Hymenopteran genomes arisen from ancient insect vitellogenin 
+duplications, named vg-like-A, -B, and -C. The function of these vitellogenin 
+homologs is unclear. We hypothesize that some of them might share gene- and 
+protein-level similarities and a longevity-supporting role with vitellogenin. 
+Here, we show how the structure and modifications of the vg-like genes and 
+proteins have diverged from vitellogenin. Furthermore, all three vg-like genes 
+show signs of positive selection, but the spatial location of the selected 
+protein sites differ from those found in vitellogenin. We show that all these 
+genes are expressed in both long-lived winter worker bees and in summer nurse 
+bees with intermediate life expectancy, yet only vg-like-A shows elevated 
+expression in winter bees as found in vitellogenin. Finally, we show that 
+vg-like-A responds more strongly than vitellogenin to inflammatory and oxidative 
+conditions in summer nurse bees, and that also vg-like-B responds to oxidative 
+stress. We associate vg-like-A and, to lesser extent, vg-like-B to the antiaging 
+roles of vitellogenin, but that vg-like-C probably is involved in some other 
+function. Our analysis indicates that an ancient duplication event facilitated 
+the adaptive and functional divergence of vitellogenin and its paralogs in the 
+honey bee.
+
+© The Author(s) 2016. Published by Oxford University Press on behalf of the 
+Society for Molecular Biology and Evolution.
+
+DOI: 10.1093/gbe/evw014
+PMCID: PMC4825421
+PMID: 26961250 [Indexed for MEDLINE]
+
+
+609. Appl Health Econ Health Policy. 2016 Jun;14(3):281-92. doi: 
+10.1007/s40258-016-0228-3.
+
+Long-Term Cost-Effectiveness of Insulin Glargine Versus Neutral Protamine 
+Hagedorn Insulin for Type 2 Diabetes in Thailand.
+
+Permsuwan U(1), Chaiyakunapruk N(2)(3)(4)(5), Dilokthornsakul P(3), Thavorn 
+K(6)(7)(8), Saokaew S(3)(9).
+
+Author information:
+(1)Faculty of Pharmacy, Chiang Mai University, Suthep Road, Muang District, 
+Chiang Mai, 50200, Thailand. unchalee.permsuwan@gmail.com.
+(2)School of Pharmacy, Monash University Malaysia, Selangor, Malaysia.
+(3)Center of Pharmaceutical Outcomes Research (CPOR), Faculty of Pharmaceutical 
+Sciences, Naresuan University, Phitsanulok, Thailand.
+(4)School of Population Health, University of Queensland, Brisbane, Australia.
+(5)School of Pharmacy, University of Wisconsin-Madison, Madison, WI, USA.
+(6)Ottawa Hospital Research Institute, The Ottawa Hospital, Ottawa, ON, Canada.
+(7)Faculty of Medicine, School of Epidemiology, Public Health and Preventive 
+Medicine, University of Ottawa, Ottawa, ON, Canada.
+(8)Institute of Clinical and Evaluative Sciences, Toronto, ON, Canada.
+(9)School of Pharmaceutical Sciences, Center of Health Outcomes Research and 
+Therapeutic Safety (COHORTS), University of Phayao, Phayao, Thailand.
+
+BACKGROUND: Even though Insulin glargine (IGlar) has been available and used in 
+other countries for more than a decade, it has not been adopted into Thai 
+national formulary. This study aimed to evaluate the long-term cost 
+effectiveness of IGlar versus neutral protamine Hagedorn (NPH) insulin in type 2 
+diabetes from the perspective of Thai Health Care System.
+METHODS: A validated computer simulation model (the IMS CORE Diabetes Model) was 
+used to estimate the long-term projection of costs and clinical outcomes. The 
+model was populated with published characteristics of Thai patients with type 2 
+diabetes. Baseline risk factors were obtained from Thai cohort studies, while 
+relative risk reduction was derived from a meta-analysis study conducted by the 
+Canadian Agency for Drugs and Technology in Health. Only direct costs were taken 
+into account. Costs of diabetes management and complications were obtained from 
+hospital databases in Thailand. Both costs and outcomes were discounted at 3 % 
+per annum and presented in US dollars in terms of 2014 dollar value. Incremental 
+cost-effectiveness ratio (ICER) was calculated. One-way and probabilistic 
+sensitivity analyses were also performed.
+RESULTS: IGlar is associated with a slight gain in quality-adjusted life years 
+(0.488 QALYs), an additional life expectancy (0.677 life years), and an 
+incremental cost of THB119,543 (US$3522.19) compared with NPH insulin. The ICERs 
+were THB244,915/QALY (US$7216.12/QALY) and THB176,525/life-year gained (LYG) 
+(US$5201.09/LYG). The ICER was sensitive to discount rates and IGlar cost. At 
+the acceptable willingness to pay of THB160,000/QALY (US$4714.20/QALY), the 
+probability that IGlar was cost effective was less than 20 %.
+CONCLUSIONS: Compared to treatment with NPH insulin, treatment with IGlar in 
+type 2 diabetes patients who had uncontrolled blood glucose with oral 
+anti-diabetic drugs did not represent good value for money at the acceptable 
+threshold in Thailand.
+
+DOI: 10.1007/s40258-016-0228-3
+PMID: 26961276 [Indexed for MEDLINE]
+
+
+610. Eur J Health Econ. 2017 Apr;18(3):321-335. doi: 10.1007/s10198-016-0777-2.
+Epub  2016 Mar 9.
+
+Long-term cost effectiveness of cardiac secondary prevention in primary care in 
+the Republic of Ireland and Northern Ireland.
+
+Gillespie P(1), Murphy E(2), Smith SM(3), Cupples ME(4), Byrne M(5), Murphy 
+AW(6).
+
+Author information:
+(1)J.E. Cairnes School of Business and Economics, National University of Ireland 
+(NUI), University Road, Galway, Ireland. paddy.gillespie@nuigalway.ie.
+(2)J.E. Cairnes School of Business and Economics, National University of Ireland 
+(NUI), University Road, Galway, Ireland.
+(3)Department of General Practice, Royal College of Surgeons, Dublin, Ireland.
+(4)Department of General Practice and Primary Care and UKCRC Centre of 
+Excellence for Public Health Research (NI), Queen's University Belfast, Belfast, 
+Northern Ireland, UK.
+(5)School of Psychology, National University of Ireland, Galway, Ireland.
+(6)School of Medicine, National University of Ireland, Galway, Ireland.
+
+While cardiac secondary prevention in primary care is established practice, 
+little is known about its long-term cost effectiveness. This study examines the 
+cost effectiveness of a secondary prevention intervention in primary care in the 
+Republic of Ireland and Northern Ireland over 6 years. An economic evaluation, 
+based on a cluster randomised controlled trial of 903 patients with heart 
+disease, was conducted 4.5 years after the intervention ceased to be delivered. 
+Patients originally randomised to the control received usual practice while 
+those randomised to the intervention received a tailored care package over the 
+1.5-year delivery period. Data on healthcare costs and quality adjusted life 
+expectancy were used to undertake incremental cost utility analysis. Multilevel 
+regression was used to estimate mean cost effectiveness and uncertainty was 
+examined using cost effectiveness acceptability curves. At 6 years, there was a 
+divergence in the results across jurisdictions. While the probability of the 
+intervention being cost effective in the Republic of Ireland was 0.434, 0.232, 
+0.180, 0.150, 0.115 and 0.098 at selected threshold values of €5000, €15,000, 
+€20,000, €25,000, €35,000 and €45,000, respectively, all equivalent 
+probabilities for Northern Ireland equalled 1.000. Our findings suggest that the 
+intervention in its current format is likely to be more cost effective than 
+usual general practice care in Northern Ireland, but this is not the case in the 
+Republic of Ireland.
+
+DOI: 10.1007/s10198-016-0777-2
+PMID: 26961365 [Indexed for MEDLINE]
+
+
+611. Int Psychogeriatr. 2016 Sep;28(9):1555-65. doi: 10.1017/S1041610216000181.
+Epub  2016 Mar 10.
+
+The partner in late-life repartnering: caregiving expectations from an 
+intergenerational perspective.
+
+Koren C(1), Simhi S(1), Lipman-Schiby S(1), Fogel S(1).
+
+Author information:
+(1)School of Social Work and Center for the Study of Society,University of 
+Haifa,Haifa,Israel.
+
+BACKGROUND: Late-life repartnering among functionally independent adults, 
+resulting in complex stepfamilies, has emerged with increased life expectancy, 
+and is likely to develop further. It is perceived as a chance for renewal and 
+autonomy, enabling a release from dependency on offspring, whereas caregiving is 
+associated with dependency and becoming a burden on family members. Thus, the 
+experiences of late-life repartnering and caregiving are opposites. Using a life 
+course perspective, we explore partner caregiving expectations in late-life 
+repartnering from the viewpoints of three generations in complex stepfamilies in 
+Israel, a society characterized by collectivist alongside individualist familial 
+norms.
+METHODS: Using criterion sampling, we recruited 19 stepfamily units (38 
+families) of functionally independent persons who repartnered at the official 
+retirement age or older and had offspring from a lifelong marriage that ended in 
+widowhood or divorce. One-hundred-seven semi-structured qualitative interviews 
+with older partners, their adult children, and grandchildren were audio-recorded 
+and transcribed verbatim. Analysis was based on grounded theory principles and 
+dyadic analysis adapted to families.
+RESULTS: Two themes emerged: caregiving commitment and decision making. Issues 
+included: influences of partner-caregiving history; chronic versus temporary 
+caregiving situations; caregiving strengthening partner relationships and 
+influencing stepfamily relationships, and moral dilemmas, such as what happens 
+when fun - a motive for repartnering - is no longer possible. Could abandonment 
+become an option?
+CONCLUSIONS: From a life course perspective, caregiving, as "on-time," and 
+late-life repartnering, as "off-time," highlight the lack of norms and the need 
+to establish normative behavior for caregiving in late-life repartnering in 
+diverse cultural contexts along with its reservations.
+
+DOI: 10.1017/S1041610216000181
+PMID: 26961865 [Indexed for MEDLINE]
+
+
+612. Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz. 2016 
+Apr;59(4):489-96. doi: 10.1007/s00103-016-2320-0.
+
+[The Competence Network for HIV/AIDS. Data, Samples, Facts].
+
+[Article in German]
+
+Michalik C(1)(2), Skaletz-Rorowski A(1), Brockmeyer NH(3)(4).
+
+Author information:
+(1)Kompetenznetz HIV/AIDS, Ruhr-Universität Bochum, Bochum, Deutschland.
+(2)Zentrum für Klinische Studien (ZKS) Köln, Universität zu Köln, Köln, 
+Deutschland.
+(3)Kompetenznetz HIV/AIDS, Ruhr-Universität Bochum, Bochum, Deutschland. 
+n.brockmeyer@derma.de.
+(4)Klinik für Dermatologie, Venerologie und Allergologie, St. Josef-Hospital, 
+Ruhr-Universität Bochum, Gudrunstraße 56, 44791, Bochum, Deutschland. 
+n.brockmeyer@derma.de.
+
+BACKGROUND: With funding for the Competence Networks in Medicine from the 
+Federal Ministry of Education and Research, the Competence Network for HIV/AIDS 
+(KompNet HIV/AIDS) was established as an interdisciplinary research association. 
+Essential working groups were incorporated all over Germany, which are active in 
+clinical and basic HIV/AIDS research.
+OBJECTIVES: After successful establishment, providing research infrastructure 
+for national and international cooperation in the field of HIV/AIDS was the 
+focus of the network. By bringing together research activities, preconditions 
+are created for improving HIV infection treatment and increasing life expectancy 
+of HIV-infected patients.
+MATERIALS AND METHODS: The members of KompNet HIV/AIDS are HIV experts from 
+university clinics, HIV physicians, patient representatives, as well as national 
+reference centers. As a scientific research basis, the network established 
+an HIV patient cohort. Clinical and sociodemographic data of HIV patients were 
+documented biannually and complemented by serum and DNA-samples collected twice 
+per year. Furthermore, a child cohort was set up.
+RESULTS AND CONCLUSION: Within the KompNet HIV/AIDS, a research infrastructure 
+for HIV was established for internal, external as well international scientists. 
+Within the HIV cohort a total of 16,500 patients are documented. The associated 
+biobank comprises ~ 56,000 serum samples and ~ 16,000 DNA samples. The child 
+cohort consists of 647 HIV-exposed and 230 infected children. The KompNet 
+HIV/AIDS cohorts became an important partner in several international 
+collaborations. Nevertheless, the maintenance of such infrastructures without 
+public funding is a challenge.
+
+DOI: 10.1007/s00103-016-2320-0
+PMID: 26961868 [Indexed for MEDLINE]
+
+
+613. Oncologist. 2016 Apr;21(4):453-60. doi: 10.1634/theoncologist.2015-0075.
+Epub  2016 Mar 9.
+
+The Human Papillomavirus Vaccine: Current Perspective and Future Role in 
+Prevention and Treatment of Anal Intraepithelial Neoplasia and Anal Cancer.
+
+Mensah FA(1), Mehta MR(2), Lewis JS Jr(3), Lockhart AC(4).
+
+Author information:
+(1)Division of Geriatric Medicine, Saint Louis University School of Medicine, 
+St. Louis, Missouri, USA Department of Internal Medicine, Saint Louis University 
+School of Medicine, St. Louis, Missouri, USA felix_mensah@hotmail.com.
+(2)Department of Internal Medicine, Saint Louis University School of Medicine, 
+St. Louis, Missouri, USA.
+(3)Department of Pathology, Microbiology, and Immunology, Vanderbilt University 
+Medical Center, Nashville, Tennessee, USA Department of Otolaryngology, 
+Vanderbilt University Medical Center, Nashville, Tennessee, USA.
+(4)Division of Oncology, Department of Medicine, Washington University School of 
+Medicine, St. Louis, Missouri, USA.
+
+The incidences of human papillomavirus (HPV)-related anal cancer and its 
+precursor lesion, anal intraepithelial neoplasia, are rising in the U.S. and 
+globally. Five-year survival rates with current modalities of treatment for anal 
+cancer are generally favorable for localized and regional disease. For 
+metastatic disease, the relative survival rate is poor. Major contributing 
+factors for the increase in anal cancer incidence include increasing receptive 
+anal intercourse (hetero- and homosexual), increasing HPV infections, and longer 
+life expectancy of treated people who are seropositive for human 
+immunodeficiency virus. Because treatment outcomes with systemic therapy in 
+patients with advanced disease are so poor, prevention may be the best approach 
+for reducing disease burden. The association of a major causative agent with 
+anal cancer provides an excellent opportunity for prevention and treatment. The 
+advent of the HPV vaccine for anal cancer prevention and treatment is a 
+significant milestone and has the potential to greatly impact these cancers. The 
+data regarding potential use of the HPV vaccine in anal cancer prevention and 
+treatment are reviewed.
+IMPLICATIONS FOR PRACTICE: The incidences of human papillomavirus (HPV)-related 
+anal cancer and its precursor lesion, anal intraepithelial neoplasia, are on the 
+rise in the U.S. and globally. Based on recent studies, the HPV vaccine is 
+approved for prevention of the infection and development of HPV-related anal 
+cancer. In addition, several small studies have shown that the vaccine may be 
+useful as adjuvant therapy for anal cancer. There is a need for public health 
+strategies aimed at education of both patients and practitioners to improve the 
+use of the vaccine for prevention of HPV-related anal cancer. The development of 
+a therapeutic vaccine is a work in progress.
+
+©AlphaMed Press.
+
+DOI: 10.1634/theoncologist.2015-0075
+PMCID: PMC4828129
+PMID: 26961923 [Indexed for MEDLINE]
+
+
+614. Ivacaftor (Kalydeco) 150 mg Tablet: For Treatment of Cystic Fibrosis with
+G551D,  G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N, S549R, or G970R
+Mutation  [Internet].
+
+Ottawa (ON): Canadian Agency for Drugs and Technologies in Health; 2015 Jul.
+CADTH Common Drug Reviews.
+
+Cystic fibrosis (CF), an autosomal recessive condition, is the most common fatal 
+genetic disease affecting children and young adults in Canada. It is caused by 
+mutations in the CF transmembrane conductance regulator (CFTR) gene, located on 
+chromosome seven. This gene encodes for a chloride channel that regulates 
+transport of salt and water across cell membranes. When CFTR is dysfunctional, 
+secretions become tenacious and sticky, resulting in pathology in multiple organ 
+systems, most notably the lungs and gastrointestinal tract. Although there is no 
+cure for the underlying disease process, current therapies have increased the 
+overall survival of CF patients, with the median life expectancy now at 48 years 
+based on recent Canadian statistics. The goals of CF therapy until now have 
+been: (1) preservation of lung function by minimizing pulmonary infection and 
+inflammation; (2) restoration of baseline pulmonary function, symptoms, and 
+level of inflammation following acute respiratory exacerbations; and (3) 
+maintenance of adequate nutrition. Therapeutic strategy consists of a 
+combination of physiotherapy, pharmacologic drugs (i.e., antibiotics, 
+anti-inflammatory drugs, mucolytic drugs), nutritional treatments (i.e., 
+high-calorie and high-fat diets) and pancreatic enzyme replacement for those 
+with pancreatic insufficiency. To date, no therapies have addressed the 
+underlying genetic defect or corrected the abnormal functioning of CFTR. 
+Ivacaftor is a first-in-class oral CFTR potentiator approved by Health Canada 
+for the treatment of CF in patients aged six years and older who have G551D, 
+G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N, S549R, or G970R mutation in 
+the CFTR gene. The drug works by prolonging the time that activated CFTR 
+channels remain open, thereby enhancing the regulation of chloride and water 
+transport across cell membranes. It is available as a 150 mg oral tablet. The 
+Health Canada recommended dose is 150 mg every 12 hours with fat-containing 
+food. The manufacturer is seeking a listing recommendation based on the Health 
+Canada indication. Accordingly, a systematic review was undertaken to evaluate 
+the beneficial and harmful effects of ivacaftor 150 mg for the treatment of CF 
+in patients age six years and older who have a G551D, G1244E, G1349D, G178R, 
+G551S, S1251N, S1255P, S549N, S549R, or G970R mutation in the CFTR gene.
+
+Copyright © CADTH 2015.
+
+PMID: 26962591
+
+
+615. Thromb Haemost. 2016 Jul 4;116(1):1-8. doi: 10.1160/TH15-10-0780. Epub 2016
+Mar  10.
+
+Long-acting recombinant factor VIII Fc fusion protein (rFVIIIFc) for 
+perioperative haemostatic management in severe haemophilia A.
+
+Mahlangu JN, Ragni M, Gupta N, Rangarajan S, Klamroth R, Oldenburg J, Nogami K, 
+Young G, Cristiano LM, Dong Y, Allen G(1), Pierce GF, Robinson B.
+
+Author information:
+(1)Dr. Geoffrey Allen, 593 Eddy St, Providence, RI 02903, USA, Tel.: +1 773 699 
+7564, Fax: +1 401 444 6104, E-mail: geoff.a.allen@gmail.com.
+
+The Phase 3 A-LONG and Kids A-LONG studies demonstrated the prolonged half-life 
+of rFVIIIFc compared with rFVIII, and the safety and efficacy of rFVIIIFc in 
+subjects with severe haemophilia A. Eligible subjects from A-LONG and Kids 
+A-LONG continued rFVIIIFc treatment by enrolling in ASPIRE, an ongoing extension 
+study. Based on combined data from the primary studies and ASPIRE interim data, 
+the safety and efficacy of rFVIIIFc in subjects requiring surgery were 
+evaluated. Perioperative dosing regimens were determined by investigators with 
+guidance based on pharmacokinetic data and recommendations from a clinical 
+dosing committee. In addition to dosing frequency, factor consumption, blood 
+loss, transfusions, bleeding episodes, and haemostatic response were assessed. 
+Across studies, 21 subjects underwent 23 evaluable major surgeries, including 19 
+orthopaedic surgeries; 41 subjects underwent 52 minor surgeries, including 30 
+dental procedures. No major and 10 minor surgeries were performed in paediatric 
+subjects. Of the major (n = 22) and minor (n = 32) surgeries assessed for 
+haemostatic response, all were rated as excellent or good by the 
+investigator/surgeon. During most major surgeries (95.7 %), haemostasis was 
+maintained with one rFVIIIFc infusion. Blood loss in major surgeries was 
+consistent with similar surgeries in subjects without haemophilia. Across 
+studies, rFVIIIFc was well tolerated; no subject developed an inhibitor.
+
+DOI: 10.1160/TH15-10-0780
+PMID: 26962852 [Indexed for MEDLINE]
+
+
+616. J Popul Ther Clin Pharmacol. 2016;23(1):e53-9. Epub 2016 Mar 9.
+
+Life Expectancy of People with Fetal Alcohol Syndrome.
+
+Thanh NX, Jonsson E.
+
+OBJECTIVES: To estimate the life expectancy and specify the causes of death 
+among people with fetal alcohol syndrome (FAS).
+METHODS: Included were all patients recorded in Alberta provincial databases of 
+inpatients, outpatients, or practitioner claims from 2003 to 2012. People with 
+FAS were identified by ICD-9 code 760.71 and ICD-10 codes Q86.0 and P04.3, and 
+were linked to the Vital Statistics Death Registry to get information about 
+mortality. Life expectancy was estimated by using the life table template 
+developed in the United Kingdom, which is recommended for estimating life 
+expectancy in small areas or populations.
+RESULTS: The life expectancy at birth of people with FAS was 34 years (95% 
+confidence interval: 31 to 37 years), which was about 42% of that of the general 
+population. The leading causes of death for people with FAS were "external 
+causes" (44%), which include suicide (15%), accidents (14%), poisoning by 
+illegal drugs or alcohol (7%), and other external causes (7%). Other common 
+causes of death were diseases of the nervous and respiratory systems (8% each), 
+diseases of the digestive system (7%), congenital malformations (7%), mental and 
+behavioural disorders (4%), and diseases of the circulatory system (4%).
+CONCLUSION: The life expectancy of people with FAS is considerably lower than 
+that of the general population. As the cause of FAS is known and preventable, 
+more attention devoted to the prevention of FAS is urgently needed.
+
+PMID: 26962962 [Indexed for MEDLINE]
+
+
+617. Int J Cardiol. 2016 May 1;210:173-8. doi: 10.1016/j.ijcard.2016.02.115. Epub
+ 2016 Feb 23.
+
+Cardiovascular and other causes of death as a function of lifestyle habits in a 
+quasi extinct middle-aged male population. A 50-year follow-up study.
+
+Menotti A(1), Puddu PE(2), Maiani G(3), Catasta G(3).
+
+Author information:
+(1)Association for Cardiac Research, Rome, Italy.
+(2)Department of Cardiovascular, Respiratory, Nephrological, Anesthesiological 
+and Geriatric Sciences, Sapienza University of Rome, Rome, Italy. Electronic 
+address: paoloemilio.puddu@uniroma1.it.
+(3)Centro di Ricerca per gli Alimenti e la Nutrizione, CREA-NUT, Rome, Italy.
+
+OBJECTIVES: To relate major causes of death with lifestyle habits in an almost 
+extinct male middle-aged population.
+MATERIAL AND METHODS: A 40-59 aged male population of 1712 subjects was examined 
+and followed-up for 50 years. Baseline smoking habits, working physical activity 
+and dietary habits were related to 50 years mortality subdivided into 12 simple 
+and 3 composite causes of death by Cox proportional hazard models. Duration of 
+survival was related to the same characteristics by a multiple linear regression 
+model.
+RESULTS: Death rate in 50 years was of 97.5%. Out of 12 simple groups of causes 
+of death, 6 were related to smoking habits, 3 to physical activity and 4 to 
+dietary habits. Among composite groups of causes of death, hazard ratios (and 
+their 95% confidence limits) of never smokers versus smokers were 0.68 
+(0.57-0.81) for major cardiovascular diseases; 0.65 (0.52-0.81) for all cancers; 
+and 0.72 (0.64-0.81) for all-cause deaths. Hazard ratios of vigorous physical 
+activity at work versus sedentary physical activity were 0.63 (0.49-0.80) for 
+major cardiovascular diseases; 1.01 (0.72-1.41) for all cancers; and 0.76 
+(0.64-0.90) for all-cause deaths. Hazard ratios of Mediterranean Diet versus 
+non-Mediterranean Diet were 0.68 (0.54-0.86) for major cardiovascular diseases; 
+0.54 (0.40-0.73) for all cancers; and 0.67 (0.57-0.78) for all-cause deaths. 
+Expectancy of life was 12 years longer for men with the 3 best behaviors than 
+for those with the 3 worst behaviors.
+CONCLUSIONS: Some lifestyle habits are strongly related to lifetime mortality.
+
+Copyright © 2016 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.ijcard.2016.02.115
+PMID: 26962972 [Indexed for MEDLINE]
+
+
+618. Nucl Med Commun. 2016 Jul;37(7):715-20. doi: 10.1097/MNM.0000000000000495.
+
+Clinical significance of thyroid incidentalomas identified by 18F-FDG PET/CT: 
+correlation of ultrasonograpy findings with cytology results.
+
+Demir Ö(1), Köse N, Özkan E, Ünlütürk U, Aras G, Erdoğan MF.
+
+Author information:
+(1)Department of aEndocrinology and Metabolic Diseases bNuclear Medicine, School 
+of Medicine, Ankara University, Ankara, Turkey.
+
+AIM: The aim of this study was to investigate the clinical importance of 
+incidental focal or diffuse fluorine-18 fluorodeoxyglucose (F-FDG) uptake in the 
+thyroid gland on positron emission tomography (PET)/computed tomography (CT) and 
+to evaluate the additive value of thyroid ultrasonography (US) in defining the 
+malignancy potential of thyroid incidentalomas.
+PATIENTS AND METHODS: A total of 1450 patients, who had undergone a PET/CT scan 
+for staging or restaging of various malignancies, were screened retrospectively 
+and 52 (3.6%) patients with focal or diffuse F-FDG uptake in the thyroid gland 
+on PET/CT were enrolled in the study. None of the patients had any history of 
+thyroid diseases. Thyroid US with elastography for a thyroid nodule was 
+performed for all the patients cross-sectionally. Thyroid fine-needle aspiration 
+biopsy (FNAB) was also applied at the same time as the thyroid US to 34 patients 
+with a nodule(s) 10 mm or more in diameter or less than 10 mm, but with 
+malignancy potential ultrasonographically. The cytology results were compared 
+with the thyroid US and F-FDG PET/CT findings.
+RESULTS: Although 39 patients had focal (group 1) F-FDG uptake in the thyroid 
+gland, the remaining 13 patients had diffuse (group 2) uptake. In group 1, FNAB 
+was performed in 32 patients. In 10 of 32 (31%) patients, FNAB results were 
+concordant with malignant cytology (seven primary thyroid malignancy and three 
+metastasis to thyroid). In group 2, in one of two patients who had undergone 
+FNAB, malignant cytology (metastasis to thyroid) was detected. Although the 
+difference between the maximum standardized uptake value (SUVmax) of malignant 
+and benign nodules was statistically significant (10.2±8.9 vs. 5.6±3.0, 
+P=0.013), the difference between the nodule sizes was not statistically 
+significant (20.0±7.3 vs. 16.7±7.4, P=0.923). The presence of suspicious US 
+findings and a high elastography score (≥4) were also statistically significant 
+(P<0.001 and P=0.035, respectively). In the receiver-operator characteristic 
+analysis, a 5.3 cut-off SUVmax was calculated with 82% sensitivity and 65% 
+specificity for predicting malignant cytology.
+CONCLUSION: Focal F-FDG uptake was associated with a higher prevalence of 
+malignant thyroid nodule compared with diffuse F-FDG uptake. In particular, if a 
+focal thyroid incidentaloma with high SUVmax (>5.5), suspicious US findings, and 
+a high elastography score (≥4) is detected, a pathological diagnosis, either by 
+histology or by cytology examination, should be made, especially when the 
+patient has a long life expectancy.
+
+DOI: 10.1097/MNM.0000000000000495
+PMID: 26963467 [Indexed for MEDLINE]
+
+
+619. Otol Neurotol. 2016 Jun;37(5):462-9. doi: 10.1097/MAO.0000000000001000.
+
+Economic Evaluation of Treatments for Pediatric Bilateral Severe to Profound 
+Sensorineural Hearing Loss: An Australian Perspective.
+
+Foteff C(1), Kennedy S, Milton AH, Deger M, Payk F, Sanderson G.
+
+Author information:
+(1)*Cochlear Limited, Macquarie University, Sydney †Centre for Clinical 
+Epidemiology and Biostatistics (CCEB), School of Medicine and Public Health, The 
+University of Newcastle, Callaghan, NSW, Australia ‡Cochlear AG Europe, Europe 
+Middle East and Africa Headquarters, Basel, Switzerland.
+
+OBJECTIVES: In Australia, surgical treatment options for children with bilateral 
+severe to profound sensorineural hearing loss exist in a continuum ranging from 
+unilateral cochlear implantation (CI), sequential bilateral CI through to 
+simultaneous bilateral CI, depending on the condition. When treatment options 
+are mutually exclusive, the mean costs and benefits of each treatment group are 
+summed together to obtain the total mean costs and benefits. This enables an 
+incremental analysis of treatment options in the context of the treated 
+populations.The objective was to evaluate the cost-utility of current Australian 
+CI treatment practices in children using domestic costs and consequences when 
+compared with bilateral hearing aids (HAs).
+RESEARCH DESIGN: Economic evaluation including a Markov model based on secondary 
+sources.
+SETTING: The base case modeled a government health payer perspective over a 
+child's lifetime. Primary and secondary school education costs were also 
+assessed.
+INTERVENTION: Bilateral HAs compared with CI, including unilateral, sequential 
+bilateral, or simultaneous bilateral CI weighted according to treatment.
+MAIN OUTCOME MEASURES: Incremental costs per quality adjusted life year.
+RESULTS: Approximately 42% of children in Australia with unilateral CI did not 
+transition to sequential bilateral nor undergo simultaneous bilateral 
+implantation. This differs from previous economic evaluations that assumed 100% 
+of children transitioned to sequential bilateral CI treatment or were treated 
+with simultaneous bilateral CI.The incremental cost utility of unilateral 
+cochlear implantation compared with HAs was AUD 21,947/QALY. The weighted 
+average incremental cost utility of the combined cochlear implantation treatment 
+groups was AUD 31,238/QALY when compared with HAs.
+CONCLUSION: Previous economic evaluations of cochlear implantation assumed 100% 
+of unilaterally treated patients would transition to sequential bilateral or be 
+treated with simultaneous bilateral implantation. This approach does not take 
+into account the total treated population, where a proportion of patients are 
+treated with unilateral CI.CI was cost effective when compared with HAs, and 
+included children treated with unilateral, sequential bilateral, and 
+simultaneous bilateral CI.The model was sensitive to the number of assessment 
+and habilitation visits. Alternative health service models with cost 
+efficiencies are needed to reduce after care costs.
+
+DOI: 10.1097/MAO.0000000000001000
+PMID: 26963667 [Indexed for MEDLINE]
+
+
+620. Otol Neurotol. 2016 Jun;37(5):454-61. doi: 10.1097/MAO.0000000000000999.
+
+Cost-Utility Analysis of Cochlear Implantation in Australian Adults.
+
+Foteff C(1), Kennedy S, Milton AH, Deger M, Payk F, Sanderson G.
+
+Author information:
+(1)*Cochlear Limited, Macquarie University, Sydney †Centre for Clinical 
+Epidemiology and Biostatistics (CCEB), School of Medicine and Public Health, The 
+University of Newcastle, Callaghan, NSW, Australia ‡Cochlear AG Europe, Europe 
+Middle East and Africa Headquarters, Basel, Switzerland.
+
+OBJECTIVES: Sequential and simultaneous bilateral cochlear implants are emerging 
+as appropriate treatment options for Australian adults with sensory deficits in 
+both cochleae. Current funding of Australian public hospitals does not provide 
+for simultaneous bilateral cochlear implantation (CI) as a separate surgical 
+procedure. Previous cost-effectiveness studies of sequential and simultaneous 
+bilateral CI assumed 100% of unilaterally treated patients' transition to a 
+sequential bilateral CI. This assumption does not place cochlear implantation in 
+the context of the generally treated population. When mutually exclusive 
+treatment options exist, such as unilateral CI, sequential bilateral CI, and 
+simultaneous bilateral CI, the mean costs of the treated populations are 
+weighted in the calculation of incremental cost-utility ratios. The objective 
+was to evaluate the cost-utility of bilateral hearing aids (HAs) compared with 
+unilateral, sequential, and simultaneous bilateral CI in Australian adults with 
+bilateral severe to profound sensorineural hearing loss.
+RESEARCH DESIGN: Cost-utility analysis of secondary sources input to a Markov 
+model.
+SETTING: Australian health care perspective, lifetime horizon with costs and 
+outcomes discounted 5% annually.
+INTERVENTION: Bilateral HAs as treatment for bilateral severe to profound 
+sensorineural hearing loss compared with unilateral, sequential, and 
+simultaneous bilateral CI.
+MAIN OUTCOME MEASURES: Incremental costs per quality adjusted life year 
+(AUD/QALY).
+RESULTS: When compared with bilateral hearing aids the incremental cost-utility 
+ratio for the CI treatment population was AUD11,160/QALY. The incremental 
+cost-utility ratio was weighted according to the number of patients treated 
+unilaterally, sequentially, and simultaneously, as these were mutually exclusive 
+treatment options.
+CONCLUSION: No peer-reviewed articles have reported the incremental analysis of 
+cochlear implantation in a continuum of care for surgically treated populations 
+with bilateral severe to profound sensorineural hearing loss. Unilateral, 
+sequential, and simultaneous bilateral CI were cost-effective when compared with 
+bilateral hearing aids. Technologies that reduce the total number of visits for 
+a patient could introduce additional cost efficiencies into clinical practice.
+
+DOI: 10.1097/MAO.0000000000000999
+PMID: 26963668 [Indexed for MEDLINE]
+
+
+621. Med Decis Making. 2016 Nov;36(8):1034-42. doi: 10.1177/0272989X16636054.
+Epub  2016 Mar 10.
+
+Contemporary Context of Drug-Eluting Stents in Brazil: A Cost Utility Study.
+
+Stella SF(1)(2), Gehling Bertoldi E(1)(2)(3), Polanczyk CA(1)(2)(4)(5).
+
+Author information:
+(1)Graduate Program in Cardiology and Cardiovascular Sciences, School of 
+Medicine, Universidade Federal do Rio Grande do Sul, Porto Alegre, Brazil (SFS, 
+EGB, CAP)
+(2)National Institute of Science and Technology for Health Technology Assessment 
+(IATS), CNPq, Brazil (SFS, EGB, CAP)
+(3)Department of Internal Medicine, School of Medicine, Universidade Federal de 
+Pelotas, Pelotas, Brazil (EGB)
+(4)Department of Internal Medicine, School of Medicine, Universidade Federal do 
+Rio Grande do Sul, Porto Alegre, Brazil (CAP)
+(5)Cardiology Division, Hospital de Clínicas de Porto Alegre, Porto Alegre, 
+Brazil (CAP)
+
+BACKGROUND: Although drug-eluting stents (DES) have been widely incorporated 
+into clinical practice in developed countries, several countries restrict their 
+use mainly because of their high cost and unfavorable incremental 
+cost-effectiveness ratios (ICER).
+OBJECTIVE: To evaluate the cost-effectiveness of DES in comparison with 
+bare-metal stents (BMS) for treatment of coronary artery disease (CAD).
+DESIGN: Markov model.
+DATA SOURCES: Published literature, government database, and CAD patient cohort.
+TARGET POPULATION: Single-vessel CAD patients.
+TIME HORIZON: One year and lifetime.
+PERSPECTIVE: Brazilian Public Health System (SUS).
+INTERVENTION: Six strategies composed of percutaneous intervention with a BMS or 
+1 of 5 DES (paclitaxel, sirolimus, everolimus, zotarolimus, and zotarolimus 
+resolute).
+OUTCOME MEASURES: Cost for target vessel revascularization avoided and cost for 
+quality-adjusted life year gained.
+BASE CASE ANALYSIS: In the short-term analysis, sirolimus was the most effective 
+and least costly among DES (ICER of I$20,642 per target vessel revascularization 
+avoided), with all others DES dominated by sirolimus. Lifetime cumulative costs 
+ranged from I$18,765 to I$21,400. In the base case analysis, zotarolimus 
+resolute had the most favorable ICER among the DES (ICER I$62,761), with 
+sirolimus, paclitaxel, and zotarolimus being absolute dominated and everolimus 
+extended dominated by zotarolimus resolute, although all the results were above 
+the willingness-to-pay threshold of 3 times the gross domestic product per 
+capita (I$35,307).
+SENSITIVITY ANALYSIS: In deterministic sensitivity analysis, results were 
+sensitive to cost of DES, number of stents used per patient, baseline 
+probability, and duration of stent thrombosis risk. The probabilistic 
+sensitivity analysis demonstrated a probability of 81% for BMS being the 
+strategy of choice, with 9% for everolimus and 9% zotarolimus resolute, at the 
+willingness-to-pay threshold.
+CONCLUSION: DES is not a good value for money in SUS perspective, despite its 
+benefit in reducing target vessel revascularization. Since the 
+cost-effectiveness of DES is mainly driven by the stents' cost difference, they 
+should cost less than twice the BMS price to become a cost-effective 
+alternative.
+
+© The Author(s) 2016.
+
+DOI: 10.1177/0272989X16636054
+PMID: 26964876 [Indexed for MEDLINE]
+
+
+622. Am J Med. 2016 Jul;129(7):667-73. doi: 10.1016/j.amjmed.2016.02.011. Epub
+2016  Mar 8.
+
+Pancreas Transplantation: Past, Present, Future.
+
+Dholakia S(1), Mittal S(2), Quiroga I(2), Gilbert J(2), Sharples EJ(2), Ploeg 
+RJ(2), Friend PJ(2).
+
+Author information:
+(1)Nuffield Department of Surgical Sciences and Oxford Transplant Centre, 
+University of Oxford and Oxford University Hospitals NHS Trust, UK. Electronic 
+address: sham.dholakia@nhs.net.
+(2)Nuffield Department of Surgical Sciences and Oxford Transplant Centre, 
+University of Oxford and Oxford University Hospitals NHS Trust, UK.
+
+Diabetes is the pandemic disease of the modern era, with 10% of these patients 
+having type 1 diabetes mellitus. Despite the prevalence, morbidities, and 
+associated financial burden, treatment options have not changed since the 
+introduction of injectable insulin. To date, over 40,000 pancreas transplants 
+have been performed globally. It remains the only known method for restoring 
+glycemic control and thus curing type 1 diabetes mellitus. The aim of this 
+review is to bring pancreatic transplantation out of the specialist realm, 
+informing practitioners about this important procedure, so that they feel better 
+equipped to refer suitable patients for transplantation and manage, counsel, and 
+support when encountering them within their own specialty. This study was a 
+narrative review conducted in October 2015, with OVID interface searching EMBASE 
+and MEDLINE databases, using Timeframe: Inception to October 2015. Articles were 
+assessed for clinical relevance and most up-to-date content, with articles 
+written in English as the only inclusion criterion. Other sources used included 
+conference proceedings/presentations and unpublished data from our institution 
+(Oxford Transplant Centre). Pancreatic transplantation is growing and has 
+quickly become the gold standard of care for patients with type 1 diabetes 
+mellitus and renal failure. Significant improvements in quality of life and life 
+expectancy make pancreatic transplant a viable and economically feasible 
+intervention. It remains the most effective method of establishing and 
+maintaining euglycemia, halting and potentially reversing complications 
+associated with diabetes.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjmed.2016.02.011
+PMID: 26965300 [Indexed for MEDLINE]
+
+
+623. Anal Chim Acta. 2016 Mar 31;914:35-46. doi: 10.1016/j.aca.2016.02.002. Epub
+2016  Feb 19.
+
+Extension of least squares spectral resolution algorithm to high-resolution 
+lipidomics data.
+
+Zeng YX(1), Mjøs SA(2), David FP(3), Schmid AW(4).
+
+Author information:
+(1)Department of Chemistry, University of Bergen, PO Box 7803, N-5020 Bergen, 
+Norway.
+(2)Department of Chemistry, University of Bergen, PO Box 7803, N-5020 Bergen, 
+Norway. Electronic address: svein.mjos@kj.uib.no.
+(3)Bioinformatics and Biostatistics Core Facility, School of Life Sciences, 
+Ecole Polytechnique Fédérale de Lausanne (EPFL) and Swiss Institute of 
+Bioinformatics (SIB), Lausanne, Switzerland.
+(4)Proteomics Core Facility, Ecole Polytechnique Fédérale de Lausanne (EPFL), 
+1015 Lausanne, Switzerland.
+
+Lipidomics, which focuses on the global study of molecular lipids in biological 
+systems, has been driven tremendously by technical advances in mass spectrometry 
+(MS) instrumentation, particularly high-resolution MS. This requires powerful 
+computational tools that handle the high-throughput lipidomics data analysis. To 
+address this issue, a novel computational tool has been developed for the 
+analysis of high-resolution MS data, including the data pretreatment, 
+visualization, automated identification, deconvolution and quantification of 
+lipid species. The algorithm features the customized generation of a lipid 
+compound library and mass spectral library, which covers the major lipid classes 
+such as glycerolipids, glycerophospholipids and sphingolipids. Next, the 
+algorithm performs least squares resolution of spectra and chromatograms based 
+on the theoretical isotope distribution of molecular ions, which enables 
+automated identification and quantification of molecular lipid species. 
+Currently, this methodology supports analysis of both high and low resolution MS 
+as well as liquid chromatography-MS (LC-MS) lipidomics data. The flexibility of 
+the methodology allows it to be expanded to support more lipid classes and more 
+data interpretation functions, making it a promising tool in lipidomic data 
+analysis.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.aca.2016.02.002
+PMID: 26965325 [Indexed for MEDLINE]
+
+
+624. Ann Vasc Surg. 2016 May;33:230.e5-230.e13. doi: 10.1016/j.avsg.2015.11.033.
+Epub  2016 Mar 8.
+
+A Case of Primary Aortoenteric Fistula: Review of Therapeutic Challenges.
+
+Keunen B(1), Houthoofd S(1), Daenens K(1), Hendriks J(2), Fourneau I(3).
+
+Author information:
+(1)Department of Vascular Surgery, University Hospitals Leuven, Leuven, Belgium.
+(2)Department of Thoracic and Vascular Surgery, Antwerp University Hospital, 
+Antwerp, Belgium.
+(3)Department of Vascular Surgery, University Hospitals Leuven, Leuven, Belgium. 
+Electronic address: Inge.Fourneau@uzleuven.be.
+
+BACKGROUNDS: Primary aortoenteric fistula (PAEF) is a lethal cause of 
+gastrointestinal bleeding. They mainly originate from eroding abdominal aortic 
+aneurysms into the intestinal wall. Other known causes involve malignancies, 
+infection, corpora aliena, or radiation therapy. Traditional treatment consists 
+of resection of the fistula and extra-anatomic reconstruction. In situ repair 
+and endovascular stenting have offered new therapeutic options in managing this 
+complex entity.
+CASE REPORT: A 79-year-old woman presented with a PAEF. She was known with a 
+3.9-cm abdominal aortic aneurysm and polymyalgia rheumatica. The initial 
+treatment consisted of endovascular stenting. Several months later, she 
+presented with persistent inflammation of the aortic endoprosthesis. The 
+prosthesis and inflammatory tissue were resected, and in situ reconstruction 
+with autologous superficial femoral vein and omentoplasty was performed. Two 
+years later, she remains well with no evidence for infection or bleeding.
+CONCLUSIONS: Polymyalgia rheumatica might induce an AEF as in this patient no 
+other provoking factors were retained. The different therapeutic options all 
+have their advantages and disadvantages. In line with this case, we suggest an 
+individualized approach for AEFs. In case of precarious hemodynamical state or 
+life expectancy, endovascular treatment is indicated. Afterward, the possibility 
+and/or necessity of open repair should be discussed. For stable patients with 
+respectable life expectancy in situ repair with autologuous vein or 
+rifampicin-soaked prosthesis (adjusted to comorbidities) might be most 
+appropriate. Extra-anatomic reconstruction still remains a valuable alternative 
+in older patients and in the presence of any other local factors hampering in 
+situ reconstruction.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.avsg.2015.11.033
+PMID: 26965800 [Indexed for MEDLINE]
+
+
+625. Pharmacoeconomics. 2016 Aug;34(8):795-804. doi: 10.1007/s40273-016-0396-x.
+
+Cost Effectiveness of Protease Inhibitor Monotherapy Versus Standard Triple 
+Therapy in the Long-Term Management of HIV Patients: Analysis Using Evidence 
+from the PIVOT Trial.
+
+Oddershede L(1)(2), Walker S(3), Stöhr W(4), Dunn DT(4), Arenas-Pinto A(4), 
+Paton NI(4)(5), Sculpher M(6); Protease Inhibitor monotherapy Versus Ongoing 
+Triple therapy (PIVOT) Trial Team.
+
+Author information:
+(1)The Danish Center for Healthcare Improvements, Faculty of Social Sciences and 
+Faculty of Health Sciences, Aalborg University, Aalborg, Denmark.
+(2)HEOR Consult ApS, Copenhagen, Denmark.
+(3)Centre for Health Economics, The University of York, York, YO10 5DD, UK. 
+smw501@york.ac.uk.
+(4)MRC Clinical Trials Unit at UCL, Institute of Clinical Trials and 
+Methodology, London, UK.
+(5)Yong Loo Lin School of Medicine, National University of Singapore, Singapore, 
+Singapore.
+(6)Centre for Health Economics, The University of York, York, YO10 5DD, UK.
+
+BACKGROUND: Protease inhibitor (PI) monotherapy can maintain virological 
+suppression in the majority of patients once it has been established on triple 
+therapy and may also have the potential for substantial cost savings arising 
+from the use of fewer drugs. However, the cost effectiveness of PI monotherapy 
+has yet to be demonstrated.
+OBJECTIVES: In this study we examine the cost effectiveness of PI monotherapy 
+with prompt return to combination therapy in the event of viral load rebound 
+compared with ongoing triple therapy (OT) in patients with suppressed viral load 
+on combination antiretroviral therapy (ART) in the UK.
+METHODS: The analysis used data from the PIVOT trial in which HIV-positive 
+adults with suppressed viral load for ≥24 weeks on combination ART were 
+randomised to maintain OT or to a strategy of PI monotherapy with prompt return 
+to combination therapy if viral load rebounded. A cost-effectiveness analysis 
+including long-term modelling was conducted. Main outcomes included UK National 
+Health Service (NHS) costs and quality-adjusted life-years (QALYs) with 
+comparative results presented as incremental cost-effectiveness ratios.
+RESULTS: PI monotherapy was cost saving as a result of large savings in ART drug 
+costs while being no less effective in terms of QALYs in the within-trial 
+analysis and marginally less effective with lifetime modelling. In the base-case 
+analysis over 3 years, the incremental total cost per patient was -£6424.11 
+(95 % confidence interval -7418.84 to -5429.38) and incremental QALYs were 
+0.0051 (95 % CI -0.0479 to 0.0582), resulting in PI monotherapy 'dominating' OT. 
+Multiple scenario analyses found that PI monotherapy was cost saving with no 
+marked differences in QALYs. Modelling of lifetime costs and QALYs showed that 
+PI monotherapy was associated with significant cost savings and was marginally 
+less effective; PI monotherapy was cost effective at accepted cost-effectiveness 
+thresholds in all but one scenario analysis.
+CONCLUSIONS: Under most assumptions, PI monotherapy appears to be a 
+cost-effective treatment strategy compared with OT for HIV-infected patients who 
+have achieved sustained virological suppression.
+
+DOI: 10.1007/s40273-016-0396-x
+PMID: 26966125 [Indexed for MEDLINE]
+
+
+626. Res Aging. 2016 Apr;38(3):283-98. doi: 10.1177/0164027515620245.
+
+The Effect of Changes in Educational Composition on Adult Female Mortality in 
+Brazil.
+
+Turra CM(1), Renteria E(2), Guimarães R(3).
+
+Author information:
+(1)Department of Demography, Cedeplar, Federal University of Minas Gerais, Belo 
+Horizonte, Brazil turra@cedeplar.ufmg.br.
+(2)University of Barcelona, Barcelona, Spain.
+(3)Economics Department, Federal University of Paraná, Curitiba, Brazil.
+
+The last century in Brazil was witness to profound changes. Female life 
+expectancy at birth increased from 34.6 years in 1910 to 77.26 years in 2010. At 
+the same time, the educational composition of the population has changed 
+dramatically. In the 1940s, only 25% of the children aged 5-14 years old were 
+enrolled in school. Currently, nearly all children attend school. We examine the 
+extent to which changes in the age-specific distribution of education have 
+contributed to the decline in adult mortality among women in Brazil. Our 
+analysis follows other applications in the literature to measure the mortality 
+reduction that would occur if exposure to specific risk factors was changed at 
+the counterfactual level. The effects are not trivial: Between 1960 and 2010, 
+about 38% of the increase in life expectancy at age 30 can be attributed to 
+changes in the educational composition of women. An additional 22% increase is 
+expected until 2040.
+
+© The Author(s) 2015.
+
+DOI: 10.1177/0164027515620245
+PMCID: PMC4975599
+PMID: 26966252 [Indexed for MEDLINE]
+
+
+627. Investig Clin Urol. 2016 Jan;57(1):14-20. doi: 10.4111/icu.2016.57.1.14.
+Epub  2016 Jan 11.
+
+Current status of active surveillance in prostate cancer.
+
+Chung MS(1), Lee SH(2).
+
+Author information:
+(1)Department of Urology, Catholic Kwandong University, International St. Mary's 
+Hospital, Incheon, Korea.
+(2)Department of Urology, Urological Science Institute, Yonsei University 
+College of Medicine, Seoul, Korea.
+
+Active surveillance (AS) is a management strategy involving close monitoring the 
+course of disease with the expectation to intervene if the cancer progress, in a 
+super-selected group of low-risk prostate cancer (PCa) patients. Determining AS 
+candidates should be based on careful individualized weighing of numerous 
+factors: life expectancy, general health condition, disease characteristics, 
+potential side effects of treatment, and patient preference. Several protocols 
+have been developed to determine insignificant PCa for choosing ideal AS 
+candidates. Results regarding disease reclassification during AS have been also 
+reported. In an effort to enhance accuracy during selection of AS candidate, 
+there were several reports on using magnetic resonance imaging for prediction of 
+insignificant PCa. Currently, there is an urgent need for further clinical 
+studies regarding the criteria for recommending AS, the criteria for 
+reclassification on AS, and the schedule for AS. Considering the racial 
+differences in behavior of PCa between Western and Asian populations, more 
+stringent AS protocols for Asian patients should be established from additional, 
+well-designed, large clinical studies.
+
+DOI: 10.4111/icu.2016.57.1.14
+PMCID: PMC4778755
+PMID: 26966722 [Indexed for MEDLINE]
+

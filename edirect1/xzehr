@@ -1,0 +1,1000 @@
+DOI: 10.32687/0869-866X-2023-31-s1-806-809
+PMID: 37742253 [Indexed for MEDLINE]
+
+
+877. Probl Sotsialnoi Gig Zdravookhranenniiai Istor Med. 2023 Aug;31(Special
+Issue  1):903-907. doi: 10.32687/0869-866X-2023-31-s1-903-907.
+
+[Brief description of some aspects of public health in Austria, Belgium, Germany 
+and Estonia].
+
+[Article in Russian]
+
+Amlaev KR(1), Mazharov VN(2), Dahkilgova KT(2).
+
+Author information:
+(1)Stavropol State Medical University, 355017, Stavropol, Russia, 
+kum672002@mail.ru.
+(2)Stavropol State Medical University, 355017, Stavropol, Russia.
+
+The article, which reviews some aspects of public health in Austria, Belgium, 
+Germany and Estonia, highlights the achievements of public health in these 
+countries, which is expressed in an increase in life expectancy, primarily due 
+to a reduction in mortality from cardiovascular diseases. In the countries 
+listed above, there is a difference in life expectancy, both between men and 
+women, and between people with higher and basic education. There is still an 
+urgent problem of the prevalence of risk factors - smoking and alcohol 
+consumption, while the level of physical activity of residents of the designated 
+countries can be called high. The fight against risk factors in these States is 
+carried out, among other things, through the implementation of screening 
+programs. The digital transformation in healthcare in Austria, Belgium, Germany 
+and Estonia is also intensifying. A significant part of medical data, including 
+informational and educational materials, is now available to the public in 
+digital format.
+
+DOI: 10.32687/0869-866X-2023-31-s1-903-907
+PMID: 37742272 [Indexed for MEDLINE]
+
+
+878. Comput Methods Programs Biomed. 2023 Dec;242:107811. doi: 
+10.1016/j.cmpb.2023.107811. Epub 2023 Sep 17.
+
+Computer-aided diagnosis of skeletal metastases in multi-parametric whole-body 
+MRI.
+
+Ceranka J(1), Wuts J(2), Chiabai O(3), Lecouvet F(3), Vandemeulebroucke J(4).
+
+Author information:
+(1)Vrije Universiteit Brussel, Department of Electronics and Informatics, 
+Pleinlaan 2, Brussels, 1050, Belgium; imec, Kapeldreef 75, Leuven, B-3001, 
+Belgium. Electronic address: jceranka@etrovub.be.
+(2)Vrije Universiteit Brussel, Department of Electronics and Informatics, 
+Pleinlaan 2, Brussels, 1050, Belgium; imec, Kapeldreef 75, Leuven, B-3001, 
+Belgium; Cliniques universitaires Saint Luc, Institut de Recherche Expérimentale 
+et Clinique (IREC), Université catholique de Louvain (UCLouvain), Avenue 
+Hippocrate 10, Brussels, 1200, Belgium. Electronic address: jwuts@etrovub.be.
+(3)Cliniques universitaires Saint Luc, Institut de Recherche Expérimentale et 
+Clinique (IREC), Université catholique de Louvain (UCLouvain), Avenue Hippocrate 
+10, Brussels, 1200, Belgium.
+(4)Vrije Universiteit Brussel, Department of Electronics and Informatics, 
+Pleinlaan 2, Brussels, 1050, Belgium; imec, Kapeldreef 75, Leuven, B-3001, 
+Belgium; Universitair Ziekenhuis Brussel, Department of Radiology, Laarbeeklaan 
+101, Brussels, 1090, Belgium.
+
+The confident detection of metastatic bone disease is essential to improve 
+patients' comfort and increase life expectancy. Multi-parametric magnetic 
+resonance imaging (MRI) has been successfully used for monitoring of metastatic 
+bone disease, allowing for comprehensive and holistic evaluation of the total 
+tumour volume and treatment response assessment. The major challenges of 
+radiological reading of whole-body MRI come from the amount of data to be 
+reviewed and the scattered distribution of metastases, often of complex shapes. 
+This makes bone lesion detection and quantification demanding for a radiologist 
+and prone to error. Additionally, whole-body MRI are often corrupted with 
+multiple spatial and intensity distortions, which further degrade the 
+performance of image reading and image processing algorithms. In this work we 
+propose a fully automated computer-aided diagnosis system for the detection and 
+segmentation of metastatic bone disease using whole-body multi-parametric MRI. 
+The system consists of an extensive image preprocessing pipeline aiming at 
+enhancing the image quality, followed by a deep learning framework for detection 
+and segmentation of metastatic bone disease. The system outperformed 
+state-of-the-art methodologies, achieving a detection sensitivity of 63% with a 
+mean of 6.44 false positives per image, and an average lesion Dice coefficient 
+of 0.53. A provided ablation study performed to investigate the relative 
+importance of image preprocessing shows that introduction of region of interest 
+mask and spatial registration have a significant impact on detection and 
+segmentation performance in whole-body MRI. The proposed computer-aided 
+diagnosis system allows for automatic quantification of disease infiltration and 
+could provide a valuable tool during radiological examination of whole-body MRI.
+
+Copyright © 2023 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.cmpb.2023.107811
+PMID: 37742486 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest None Declared
+
+
+879. Biomater Adv. 2023 Nov;154:213632. doi: 10.1016/j.bioadv.2023.213632. Epub
+2023  Sep 20.
+
+Edible coatings and films for shelf-life extension of fruit and vegetables.
+
+Chettri S(1), Sharma N(1), Mohite AM(2).
+
+Author information:
+(1)Amity Institute of Food Technology, Amity University, Noida, U.P., India.
+(2)Amity Institute of Food Technology, Amity University, Noida, U.P., India. 
+Electronic address: ashishmohite1251@gmail.com.
+
+The execution of the edible coatings and films for food preservation; 
+vegetables, fruits, meat, and dry fruits has been ladened in history. The study 
+of literature portrays enough pieces of evidence dating back from centuries of 
+coatings or films being utilized for the conservation of numerous fruits and 
+vegetables to stretch their average shelf-life. The mechanism that remains 
+operative in extending the shelf-life of fruits and vegetables beyond the normal 
+shelf-life is the controlled entry and exit of moisture and gases. The non- 
+biodegradable packaging which is also non-sustainable can be substituted with 
+compostable and edible coatings and films made up of natural biopolymers. 
+Therefore, keeping in mind the environment and consumer safety, a score of 
+research has been going on from former decades for the development of edible 
+coatings and films with efficient shelf life-extending qualities. The films 
+composed of proteins exhibit a good mechanical strength while the polysaccharide 
+composed films and coatings show efficient gas blocking qualities, however, both 
+lack moisture shielding attributes. These shortcomings can be fixed by combining 
+them with lipids and or some appropriate hydrocolloids. The edible coatings and 
+films have been integrated with various food products; however, they haven't 
+been completely successful in substitution of the total fraction of their 
+non-edible counterparts. The implementation of edible coatings and films have 
+shown to serve an immense value in extending the shelf-life of fruits and 
+vegetables along with being a sustainable and eco-friendly approach for food 
+packaging.
+
+Copyright © 2023 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bioadv.2023.213632
+PMID: 37742558 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+880. J Vasc Surg. 2023 Sep 22:S0741-5214(23)02048-7. doi:
+10.1016/j.jvs.2023.08.131.  Online ahead of print.
+
+Implementing methods in the ELEGANCE registry to increase diversity in clinical 
+research.
+
+Secemsky EA(1), Giri J(2), Brodmann M(3), Gouëffic Y(4), Fu W(5), 
+Greenberg-Worisek AJ(6), Jaff MR(6), Kirksey L(7), Kohi MP(8).
+
+Author information:
+(1)Department of Vascular Medicine, Beth Israel Deaconess Medical Center, 
+Boston, MA. Electronic address: esecemsk@bidmc.harvard.edu.
+(2)Department of Cardiovascular Medicine, University of Pennsylvania, 
+Philadelphia, PA.
+(3)Division of Angiology, Medical University of Graz, Graz, Austria.
+(4)Vascular Center, Groupe Hospitalier Paris Saint Joseph, Paris, France.
+(5)Department of Vascular Surgery, Zhongshan Hospital, Fudan University, 
+Shanghai, China.
+(6)Peripheral Interventions, Boston Scientific Corporation, Marlborough, MA.
+(7)Department of Vascular Surgery, Cleveland Clinic, Cleveland, OH.
+(8)Department of Radiology, University of North Carolina at Chapel Hill, Chapel 
+Hill, NC.
+
+OBJECTIVE: Women and underrepresented minorities (URMs) who are at an increased 
+risk of presenting with severe peripheral artery disease (PAD) and have 
+different responses to treatment compared with non-Hispanic White males yet are 
+underrepresented in PAD research.
+METHODS: ELEGANCE is a global, prospective, multi-center, post-market registry 
+of PAD patients treated with drug-eluting device that aims to enroll at least 
+40% women and 40% URMs. The study design incorporates strategies to increase 
+enrollment of women and URMs. Inclusion criteria are age ≥18 years and treatment 
+with any commercially available Boston Scientific Corporation drug-eluting 
+device marketed for peripheral vasculature lesions; exclusion criterion is life 
+expectancy <1 year.
+RESULTS: Of 750 patients currently enrolled (951 lesions) across 39 sites, 324 
+(43.2%) are female and 350 (47.3%) are URMs (21.6% Black, 11.2% Asian, 8.5% 
+Hispanic/Latino, and 5.3% other). Rutherford classification is distributed 
+differently between sexes (P = .019). Treatment indication differs among 
+race/ethnicity groups (P = .003). Chronic limb-threatening ischemia was higher 
+for Black (38.3%) and Hispanic/Latino (28.1%) patients compared with 
+non-Hispanic White (21.8%) and Asian patients (21.4%). De-novo stenosis was 
+higher in Asian patients (92.3%) compared with Black, non-Hispanic White, and 
+Hispanic/Latino patients (72.2%, 68.7%, and 77.8%, respectively; P < .001). Mean 
+lesion length was longest for Black patients (162.7 mm), then non-Hispanic White 
+(135.2 mm), Asian (134.8 mm), and Hispanic/Latino patients (128.1 mm; P = .008).
+CONCLUSIONS: Analyses of data from the ELEGANCE registry show that differences 
+exist in baseline disease characteristics by sex and race/ethnicity; these may 
+be the result of other underlying factors, including time to diagnosis, burden 
+of undermanaged comorbidities, and access to care.
+
+Copyright © 2023 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jvs.2023.08.131
+PMID: 37742734
+
+Conflict of interest statement: Disclosures E.A.S. reports research grants (to 
+Beth Israel Deaconess Medical Center) from the National Institutes of Health/ 
+National Heart, Lung, and Blood Institute K23HL150290, United States Food a d 
+Drug Administration, BD, Boston Scientific, Cook, CSI, Laminate Medical, 
+Medtronic, and Philips; and consulting/speaking for Abbott, Bayer, BD, Boston 
+Scientific, Cook, Cordis, CSI, Inari, Medtronic, Philips, Shockwave, and 
+VentureMed. J.G. reports research funds to the institution and advisory boards 
+for Boston Scientific, Inari Medical, Abiomed, Recor Medical, and Abbott 
+Vascular; and equity in Endovascular Engineering. M.B. reports consulting for 
+Medtronic, BD Bard, Phillips, Boston Scientific, Cagent Vascular, Soundbite 
+Medical, Shockwave, Resolv Medical, R3 Vascular, Bolt Medical, Bayer Healthcare, 
+Cook Medical, and Biotronik. Y.G. received research funding from Abbott, Boston 
+Scientific, General Electric, Veryan, and WL Gore; and personal fees and grants 
+from Abbott, Bard, Biotronik, Boston Scientific, Cook, General Electric, 
+Medtronic, Penumbra, Terumo, Veryan, WL Gore. F.W. serves as a member of the 
+ELEGANCE Registry Steering Committee (Boston Scientific Corporation). A.J.G.-W. 
+reports employee of Boston Scientific Corporation. M.R.J. reports employee of 
+Boston Scientific Corporation. L.K. reports consultant to Boston Scientific, 
+Gore Medical, Cook Medical, and 3M. M.P.K. reports VIVA board member; SIR 
+Foundation board member; and Global PI for the ELEGANCE Registry (Boston 
+Scientific Corporation).
+
+
+881. J Am Acad Dermatol. 2023 Sep 22:S0190-9622(23)02837-2. doi: 
+10.1016/j.jaad.2023.09.029. Online ahead of print.
+
+Estimating remaining life expectancy in veterans with basal cell carcinoma using 
+an automated electronic health record scoring system: A retrospective cohort 
+study.
+
+Dizon MP(1), Linos E(2), Swetter SM(3).
+
+Author information:
+(1)Center for Innovation to Implementation, Veterans Affairs Palo Alto Health 
+Care System, Menlo Park, California; Dermatology Service, Veterans Affairs Palo 
+Alto Health Care System, Palo Alto, California; Department of Health Policy, 
+Stanford University School of Medicine, Palo Alto, California. Electronic 
+address: Matthew.Dizon@va.gov.
+(2)Program for Clinical Research and Technology, Stanford University, Stanford, 
+California.
+(3)Dermatology Service, Veterans Affairs Palo Alto Health Care System, Palo 
+Alto, California; Department of Dermatology/Cutaneous Oncology, Stanford 
+University Medical Center and Cancer Institute, Stanford, California.
+
+BACKGROUND: Active surveillance may be considered for low-risk basal cell 
+carcinomas (BCCs) in patients with limited life expectancy; however, estimates 
+of life expectancy are not readily available. Veterans Health Administration's 
+Care Assessment Need (CAN) score may address this problem.
+OBJECTIVE: We examined the CAN score's performance in predicting 1-, 3-, and 
+5-year mortality in US veterans with BCC.
+METHODS: This retrospective cohort study used national Veterans Health 
+Administration's electronic medical record data. The CAN score's performance in 
+the prediction of mortality in veterans with BCC was evaluated based on tests of 
+goodness-of-fit, discrimination, and calibration.
+RESULTS: For 54,744 veterans with BCC treatment encounters between 2013 and 
+2018, the CAN score performed well in the prediction of mortality based on 
+multiple tests. A threshold CAN score of 90 had a positive predictive value of 
+55% for 3-year mortality, clinically useful in identifying patients with 
+intermediate-term survival.
+LIMITATIONS: The study relied upon the combination of diagnosis codes and 
+procedure codes to identify BCC cases.
+CONCLUSION: The CAN score has the potential to improve the quality of cancer 
+care for veterans by providing clinicians with an estimate of life expectancy 
+and facilitating conversations in cases where active surveillance can be 
+considered.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.jaad.2023.09.029
+PMID: 37742837
+
+Conflict of interest statement: Conflicts of interest None disclosed.
+
+
+882. Heart Lung Circ. 2023 Oct;32(10):1178-1188. doi: 10.1016/j.hlc.2023.06.853.
+Epub  2023 Sep 22.
+
+Burden of Hypertensive Heart Disease and High Systolic Blood Pressure in 
+Australia from 1990 to 2019: Results From the Global Burden of Diseases Study.
+
+Islam SMS(1), Daryabeygi-Khotbehsara R(2), Ghaffari MP(2), Uddin R(2), Gao L(3), 
+Xu X(4), Siddiqui MU(5), Livingstone KM(2), Siopis G(6), Sarrafzadegan N(7), 
+Schlaich M(8), Maddison R(2), Huxley R(9), Schutte AE(4).
+
+Author information:
+(1)Institute for Physical Activity and Nutrition, Deakin University, Geelong, 
+Vic, Australia. Electronic address: shariful.islam@deakin.edu.au.
+(2)Institute for Physical Activity and Nutrition, Deakin University, Geelong, 
+Vic, Australia.
+(3)School of Health and Social Development, Faculty of Health, Deakin 
+University, Geelong, Vic, Australia.
+(4)School of Population Health, University of New South Wales, Sydney, NSW, 
+Australia; The George Institute for Global Health, Sydney, NSW, Australia.
+(5)Department of Internal Medicine, Thomas Jefferson University Hospital 
+Philadelphia, PA, USA.
+(6)Institute for Physical Activity and Nutrition, Deakin University, Geelong, 
+Vic, Australia; Faculty of Medicine, Nursing and Health Sciences, Monash 
+University, Melbourne, Vic, Australia.
+(7)Isfahan Cardiovascular Research Center, Cardiovascular Research Institute, 
+Isfahan University of Medical Sciences, Isfahan, Iran.
+(8)Dobney Hypertension Centre, Medical School-Royal Perth Hospital Unit, The 
+University of Western Australia, Perth, WA, Australia.
+(9)Faculty of Health, Deakin University, Geelong, Vic, Australia.
+
+BACKGROUND: There is a dearth of comprehensive studies examining the burden and 
+trends of hypertensive heart disease (HHD) and high systolic blood pressure 
+(SBP) among the Australian population. We aimed to explore the burden of HHD and 
+high SBP, and how they changed over time from 1990 to 2019 in Australia.
+METHODS: We analysed data from the Global Burden of Disease study in Australia. 
+We assessed the prevalence, mortality, disability-adjusted life-years (DALY), 
+years lived with disability (YLD) and years of life lost (YLL) attributable to 
+HHD and high SBP. Data were presented as point estimates with 95% uncertainty 
+intervals (UI). We compared the burden of HHD and high SBP in Australia with 
+World Bank defined high-income countries and six other comparator countries with 
+similar sociodemographic characteristics and economies.
+RESULTS: From 1990 to 2019, the burden of HHD and high SBP in Australia reduced. 
+Age standardised prevalence rate of HHD was 119.3 cases per 100,000 people (95% 
+UI 86.6-161.0) in 1990, compared to 80.1 cases (95% UI 57.4-108.1) in 2019. 
+Deaths due to HDD were 3.4 cases per 100,000 population (95% UI 2.6-3.8) in 
+1990, compared to 2.5 (95% UI 1.9-3.0) in 2019. HHD contributed to 57.2 (95% UI 
+46.6-64.7) DALYs per 100,000 population in 1990 compared to 38.4 (95% UI 
+32.0-45.2) in 2019. Death rates per 100,000 population attributable to high SBP 
+declined significantly over time for both sexes from 1990 (155.6 cases; 95% UI 
+131.2-177.0) to approximately one third in 2019 (53.8 cases; 95% UI 43.4-64.4). 
+Compared to six other countries in 2019, the prevalence of HHD was highest in 
+the USA (274.3%) and lowest in the UK (52.6%), with Australia displaying the 
+third highest prevalence. Australia ranked second in term of lowest rates of 
+deaths and third for lowest DALYs respectively due to high SBP. From 1990-2019, 
+Australia ranked third best for reductions in deaths and DALYs due to HHD and 
+first for reductions in deaths and DALYs due to high SBP.
+CONCLUSION: Over the past three decades, the burden of HHD in Australia has 
+reduced, but its prevalence remains relatively high. The contribution of high 
+SBP to deaths, DALYs and YLLs also reduced over the three decades.
+
+Copyright © 2023 The Author(s). Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.hlc.2023.06.853
+PMID: 37743220 [Indexed for MEDLINE]
+
+
+883. Zhonghua Liu Xing Bing Xue Za Zhi. 2023 Sep 10;44(9):1344-1351. doi: 
+10.3760/cma.j.cn112338-20230327-00183.
+
+[Trend of hypertension death and its impact on life expectancy in 6 northwestern 
+provinces of China, 2013-2021].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Bi HT(1), Wang BH(2), Liu YN(3), Zhou Y(4), Wang QT(2), Wu J(5).
+
+Author information:
+(1)China Field Epidemiology Training Program, Chinese Center for Disease Control 
+and Prevention, Beijing 100050, China Baotou Prefectural Center for Disease 
+Control and Prevention, Baotou 014000, China.
+(2)Key Chronic Disease Control and Prevention Laboratory, National Center for 
+Chronic and Non-communicable Disease Control and Prevention, Chinese Center for 
+Disease Control and Prevention, Beijing 100050, China.
+(3)Division of Vital Registration and Death Cause Surveillance, National Center 
+for Chronic and Non-communicable Disease Control and Prevention, Chinese Center 
+for Disease Control and Prevention, Beijing 100050, China.
+(4)China Field Epidemiology Training Program, Chinese Center for Disease Control 
+and Prevention, Beijing 100050, China.
+(5)National Center for Chronic and Non-communicable Disease Control and 
+Prevention, Chinese Center for Disease Control and Prevention, Beijing 100050, 
+China.
+
+Objective: To analyze the mortality trend of hypertension in Xinjiang Uygur 
+Autonomous Region, Qinghai Province, Shaanxi Province, Gansu Province, Ningxia 
+Hui Autonomous Region and Inner Mongolia Autonomous Region (6 provinces) in 
+northwestern China, from 2013 to 2021, and evaluate the influence of 
+hypertension on people's life expectancy. Methods: Based on national death 
+surveillance data and demographic data in the 6 provinces from 2013 to 2021, the 
+mortality rate, standardized mortality rate, life expectancy, cause eliminated 
+life expectancy (CELE), potential gains in life expectancy (PGLEs) and life loss 
+rate of hypertension were calculated. Software Joinpoint was used to analyze the 
+mortality trends and calculate average annual percentage change (AAPC) and 
+annual percentage change (APC) in hypertension deaths. Results: From 2013 to 
+2021, the overall standardized mortality rate of hypertension in the 6 provinces 
+showed a downward trend (AAPC=-1.82%, P=0.050). The mortality rate in rural area 
+was always higher than that in urban area, and showed an increasing trend after 
+2016 (APC=4.74%, P=0.003), and the mortality rate in men was always higher than 
+that in women. The incidence trend of deaths of different types of hypertension 
+were different, and the deaths caused by hypertensive heart disease accounted 
+for the highest proportion (72.69%). In 2021, the life expectancy of the 
+population in the 6 provinces increased by 1.01 years, the CELE increased by 
+0.93 years, the PGLEs decreased by 0.08 years, and the life loss rate decreased 
+by 0.11% compared with 2013. Conclusions: The overall standardized mortality 
+rate of hypertension showed a decreasing trend in the 6 northwestern provinces 
+from 2013 to 2021, but it showed an increasing trend in rural area after 2016. 
+Prevention of hypertension should be further strengthened in rural area, men and 
+elderly population.
+
+Publisher: 目的： 
+分析2013-2021年我国新疆维吾尔自治区、青海省、陕西省、甘肃省、宁夏回族自治区、内蒙古自治区（西北6省）高血压死亡率变化趋势，探讨高血压对期望寿命变化的影响程度。 
+方法： 
+基于2013-2021年中国CDC全国死因监测系统中西北6省国家级死因监测点死亡数据和人口学数据，计算该地区高血压的死亡率、标化死亡率、期望寿命、去死因期望寿命（CELE）、去死因期望寿命增长年（PGLEs）、寿命损失率，利用Joinpoint 
+4.9软件计算高血压的死亡趋势以及期望寿命等的平均年度变化百分比（AAPC）和年度变化百分比（APC）。 结果： 
+2013-2021年中国西北6省高血压标化死亡率整体呈下降趋势（AAPC=-1.82%，P=0.050），农村地区始终高于城市地区，且2016年后呈上升趋势（APC=4.74%，P=0.003），男性始终高于女性，不同分型高血压死亡状况和趋势不同，高血压性心脏病占比最高（72.69%）。与2013年相比，2021年研究地区人群期望寿命增长1.01岁，高血压CELE增长0.93岁，PGLEs下降0.08岁，寿命损失率下降0.11%。 
+结论： 西北6省2013-2021年高血压标化死亡率整体呈下降趋势，但农村地区在2016年以后有上升趋势，应继续加强针对农村地区、男性和老年人群的预防干预。.
+
+DOI: 10.3760/cma.j.cn112338-20230327-00183
+PMID: 37743264 [Indexed for MEDLINE]
+
+
+884. Zhonghua Yu Fang Yi Xue Za Zhi. 2023 Sep 6;57(9):1316-1323. doi: 
+10.3760/cma.j.cn112150-20230705-00514.
+
+[Attention to the prevention and control of allergic diseases in the elderly].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Ren HL(1), Liu XG(1), Zhu ZX(2), Sun JL(3), Liu GH(4).
+
+Author information:
+(1)Department of Allergy, Beijing Electric Power Hospital of State Grid Company 
+of China, Electric Power Teaching Hospital of Capital Medical University, 
+Beijing 100073, China.
+(2)Department of Gerontology, Beijing Electric Power Hospital of State Grid 
+Company of China, Electric Power Teaching Hospital of Capital Medical 
+University, Beijing 100073, China.
+(3)Department of Allergy, State Key Laboratory of Complex Severe and Rare 
+Diseases, Peking Union Medical College Hospital, Chinese Academy of Medical 
+Sciences and Peking Union Medical College, Beijing 100730, China.
+(4)Department of Allergy, Huazhong University of Science and Technology Union 
+Shenzhen Hospital, Shenzhen 518052, China.
+
+With the global increase in the prevalence of allergic diseases and the rising 
+life expectancy, it is anticipated that the number of elderly patients affected 
+by allergies will also increase. While it was previously believed that allergies 
+primarily affected children and adolescents and diminished with age, 
+epidemiological studies indicate a growing prevalence of allergies in the 
+elderly. Various allergic diseases have similar prevalence rates in the elderly 
+as in the general population, and some, like drug allergies, are even more 
+prevalent in this age group. Allergic diseases in the elderly often present with 
+atypical symptoms, leading to challenges in differential diagnosis and 
+treatment. This paper discusses immunosenescence and the distinct features of 
+allergic diseases in older individuals. The goal is to raise awareness among 
+healthcare providers about allergies in older adults, encourage preventive 
+measures, and improve the quality of life for elderly patients with allergies. 
+By managing allergies better, it can also help with the management of other 
+chronic diseases in the elderly and contribute to better overall health for 
+everyone.
+
+Publisher: 
+老年人患过敏性疾病不少见。随着世界范围人类预期寿命延长及过敏性疾病的人群患病率增加，老年过敏性疾病患者绝对人数不容忽视。既往认为，过敏多为儿童及青少年发病，随着年龄增长过敏逐渐消失。但流行病学调查显示，老年人过敏患病率呈增长趋势。多种过敏性疾病患病率与人群发病相似，某些过敏性疾病如药物过敏在老年人患病率更高。老年人过敏性疾病表现常不典型，且合并多病鉴别诊断难度增加，老年人多重用药增加，使得老年过敏性疾病治疗存在更多挑战。本文从免疫衰老的特点及不同过敏性疾病在老年人群的表现，阐述老年人过敏的特点，以引起对老年人过敏性疾病的重视，推动预防及疾病控制，提高患者生活质量，助力老年人慢病管理。.
+
+DOI: 10.3760/cma.j.cn112150-20230705-00514
+PMID: 37743290
+
+
+885. Zhonghua Yu Fang Yi Xue Za Zhi. 2023 Sep 6;57(9):1523-1528. doi: 
+10.3760/cma.j.cn112150-20221229-01231.
+
+[Research progress on the comorbidity between hepatitis B virus infection and 
+noncommunicable diseases].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Xie JZ(1), Li TY(1), Zheng LX(1), Cai SY(1), Gu J(2), Hao YT(3).
+
+Author information:
+(1)Department of Medical Statistics, School of Public Health, Sun Yat-Sen 
+University, Guangzhou 510080, China.
+(2)Department of Medical Statistics, School of Public Health, Sun Yat-Sen 
+University, Guangzhou 510080, China Center of Global Health Research, Sun 
+Yat-Sen University, Guangzhou 510080, China Center for Health Information 
+Research, Sun Yat-sen University, Guangzhou 510300, China.
+(3)Department of Medical Statistics, School of Public Health, Sun Yat-Sen 
+University, Guangzhou 510080, China Center of Global Health Research, Sun 
+Yat-Sen University, Guangzhou 510080, China Center for Health Information 
+Research, Sun Yat-sen University, Guangzhou 510300, China Peking University 
+Center for Public Health and Epidemic Preparedness & Response, Beijing 100191, 
+China.
+
+With the decline in hepatitis B virus (HBV) incidence and the increase in the 
+life expectancy of infected individuals, the population infected with HBV is 
+experiencing rapid aging, leading to an escalating risk of co-morbid chronic 
+noncommunicable diseases (NCDs). This study summarizes research related to the 
+comorbidity between HBV and NCDs, discussing the aging of the HBV-infected 
+population, the mechanisms, prevalence, and management of this comorbidity. This 
+study provides insights into potential directions for future research on the 
+comorbidity between HBV and NCDs and aims to provide a basis for further 
+research and the development of prevention and treatment strategies for the 
+comorbidity of NCDs among HBV-infected individuals in China.
+
+Publisher: 
+随着乙型肝炎病毒（HBV）新发感染的减少和感染者期望寿命延长，HBV感染者群体呈现快速老龄化的趋势，感染者共患慢性非传染性疾病（NCDs）的风险增加。本文通过对HBV感染和NCDs共病的相关研究进行综述，探讨了HBV感染者的老龄化情况及共患NCDs的机制、流行情况和共病患者的管理等，提出了未来HBV感染和NCDs共病相关研究的方向，以期为我国HBV感染者共患NCDs的进一步研究以及防治策略制定提供依据。.
+
+DOI: 10.3760/cma.j.cn112150-20221229-01231
+PMID: 37743318 [Indexed for MEDLINE]
+
+
+886. J Adv Nurs. 2023 Sep 24. doi: 10.1111/jan.15880. Online ahead of print.
+
+Autistic patients' experiences of the hospital setting: A scoping review.
+
+Greenwood E(1), Cooklin A(2), Barbaro J(3), Miller C(4).
+
+Author information:
+(1)School of Nursing and Midwifery, La Trobe University, Melbourne, Australia.
+(2)Judith Lumley Centre, School of Nursing and Midwifery, La Trobe University, 
+Melbourne, Australia.
+(3)Olga Tennison Autism Research Centre, School of Psychology and Public Health, 
+La Trobe University, Melbourne, Australia.
+(4)Department of Nursing, School of Health Sciences, University of Melbourne 
+Affiliated with School of Nursing and Midwifery, La Trobe University, Melbourne, 
+Australia.
+
+AIM: To explore the factors that affect the experiences of autistic patients in 
+the hospital setting.
+DESIGN: A scoping review.
+DATA SOURCES: A systematic literature search using the databases CINAHL, Medline 
+and Google Scholar was undertaken in September 2021 and updated in January 2023. 
+This review is based on the methodological framework of Arksey and O'Malley 
+(International Journal of Social Research Methodology, 8(1):19-32, 2005), which 
+was further refined by the Preferred Reporting Items for Systematic Reviews and 
+Meta-Analyses Extension for Scoping Reviews.
+RESULTS: Autistic patients, as well as their families and healthcare staff, face 
+several barriers that can impact their healthcare experiences within hospital 
+settings. Of 211 articles screened, 30 were eligible and included. Through our 
+review, we identified two main themes. The first theme, 'challenges to hospital 
+experiences', includes four sub-themes: (1) communication, (2) a mismatch 
+between the needs for autistic patients and the hospital environment, (3) 
+challenges related to parents' experiences and (4) challenges related to 
+hospital systems. The second theme, 'facilitators that improve hospital 
+experiences', includes three sub-themes: (1) provision of care pathways, (2) 
+partnership between parents and experts and (3) facilitators to improve hospital 
+systems. By understanding these themes, we can work to address the barriers that 
+autistic patients and their families face, while leveraging the facilitators to 
+improve their hospital experiences.
+CONCLUSION: It is critical to understand the experiences of autistic patients in 
+the hospital setting because they present a substantial risk of hospital 
+admission due to their associated acute to chronic health conditions. 
+Additionally, nurses and other medical staff must understand the unique hospital 
+experiences and challenges of autistic patients to improve care and facilitate 
+better hospital experiences. This review further highlights the crucial need to 
+adopt a collaborative and inclusive approach between autistic patients, their 
+families and healthcare staff. To achieve this, co-design initiatives that 
+incorporate the perspectives and lived experiences of the autistic community are 
+necessary. By placing autistic voices at the forefront of these initiatives, it 
+is hoped that changes are meaningful, relevant and can be sustained.
+IMPACT: Understanding the unique hospital experiences and challenges of autistic 
+patients can improve their quality of life and well-being by reducing stress and 
+anxiety during hospitalization, leading to better health outcomes and 
+potentially shorter hospital stays. It can also promote a more positive view of 
+healthcare among autistic individuals, encouraging them to seek medical care 
+when needed and have broader societal impacts such as reducing healthcare costs 
+and improving the overall health and well-being of the population. Autistic 
+patients present a substantial risk of hospital admission due to their 
+associated acute to chronic conditions. Nurses and other medical staff must 
+understand the unique hospital experiences and challenges of autistic patients 
+to improve care and facilitate better hospital experiences.
+PATIENT OR PUBLIC CONTRIBUTION: No patient or public contribution.
+
+© 2023 The Authors. Journal of Advanced Nursing published by John Wiley & Sons 
+Ltd.
+
+DOI: 10.1111/jan.15880
+PMID: 37743597
+
+
+887. Clin Transl Med. 2023 Sep;13(9):e1412. doi: 10.1002/ctm2.1412.
+
+Inflammatory proteins are associated with mortality in a middle-aged diverse 
+cohort.
+
+Noren Hooten N(1), Mode NA(1), Allotey S(1)(2), Ezike N(1), Zonderman AB(1), 
+Evans MK(1).
+
+Author information:
+(1)Laboratory of Epidemiology and Population Science National Institute on 
+Aging, National Institutes of Health, Baltimore, Maryland, USA.
+(2)Feinberg School of Medicine, Northwestern University, Chicago, Illinois, USA.
+
+BACKGROUND: Recent data indicate a decline in overall longevity in the United 
+States. Even prior to the COVID-19 pandemic, an increase in midlife mortality 
+rates had been reported. Life expectancy disparities have persisted in the 
+United States for racial and ethnic groups and for individuals living at low 
+socioeconomic status. These continued trends in mortality indicate the 
+importance of examining biomarkers of mortality at midlife in at-risk 
+populations. Circulating levels of cytokines and inflammatory markers reflect 
+systemic chronic inflammation, which is a well-known driver of many age-related 
+diseases.
+METHODS: In this study, we examined the relationship of nine different 
+inflammatory proteins with mortality in a middle-aged socioeconomically diverse 
+cohort of African-American and White men and women (n = 1122; mean age = 47.8 
+years).
+RESULTS: We found significant differences in inflammatory-related protein serum 
+levels between African-American and White middle-aged adults. E-selectin and 
+fibrinogen were significantly higher in African-American adults. IFN-γ, TNF-α 
+trimer, monocyte chemoattractant protein-1 (MCP-1), soluble receptor for 
+advanced glycation end-products (sRAGE) and P-selectin were significantly higher 
+in White participants compared to African-American participants. Higher levels 
+of E-selectin, MCP-1 and P-selectin were associated with a higher mortality 
+risk. Furthermore, there was a significant interaction between sex and IL-6 with 
+mortality. IL-6 levels were associated with an increased risk of mortality, an 
+association that was significantly greater in women than men. In addition, White 
+participants with high levels of sRAGE had significantly higher survival 
+probability than White participants with low levels of sRAGE, while 
+African-American participants had similar survival probabilities across sRAGE 
+levels.
+CONCLUSIONS: These results suggest that circulating inflammatory markers can be 
+utilized as indicators of midlife mortality risk in a socioeconomically diverse 
+cohort of African-American and White individuals.
+
+Published 2023. This article is a U.S. Government work and is in the public 
+domain in the USA. Clinical and Translational Medicine published by John Wiley & 
+Sons Australia, Ltd on behalf of Shanghai Institute of Clinical Bioinformatics.
+
+DOI: 10.1002/ctm2.1412
+PMCID: PMC10518496
+PMID: 37743657 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+888. Int J Epidemiol. 2023 Sep 25:dyad121. doi: 10.1093/ije/dyad121. Online ahead
+of  print.
+
+Effect of the COVID-19 pandemic on life expectancy in Australia, 2020-22.
+
+Adair T(1), Houle B(2)(3), Canudas-Romo V(2).
+
+Author information:
+(1)Nossal Institute for Global Health, Melbourne School of Population and Global 
+Health, University of Melbourne, Melbourne, VIC, Australia.
+(2)School of Demography, Research School of Social Sciences, Australian National 
+University, Canberra, ACT, Australia.
+(3)MRC/Wits Rural Public Health and Health Transitions Research Unit 
+(Agincourt), School of Public Health, Faculty of Health Sciences, University of 
+the Witwatersrand, Johannesburg, Gauteng, South Africa.
+
+BACKGROUND: Australia provides a valuable international case study of life 
+expectancy during the pandemic. In contrast to many other countries, it 
+experienced relatively stringent restrictions and low COVID-19 mortality during 
+2020-21, followed by relaxation of these restrictions when high vaccination 
+rates were achieved. This study measures Australia's life expectancy trends and 
+the contributions of age group and causes of death, during the pandemic.
+METHODS: Trends in life expectancy at birth in Australia and its states and 
+territories were measured from 2020 to 2022. The contributions of age group and 
+cause of death to these trends were measured using decomposition methods. Life 
+expectancy was compared with other high-income countries.
+RESULTS: Australia's life expectancy fell by more than half a year in 2022, 
+following a sharp increase in 2020 and moderate decline in 2021. For the 3 years 
+2020 to 2022, life expectancy was 0.13 years (95% confidence interval 0.07-0.19) 
+higher for males and 0.09 years (0.03-0.14) higher for females versus 2017-19. 
+Australia's life expectancy increase in 2020 was larger than that in the vast 
+majority of other high-income countries, but its decline in 2022 was greater 
+than in other countries whose life expectancy rose in the first year of the 
+pandemic. The small negative contribution of COVID-19 deaths to life expectancy 
+in Australia was more than offset by lower non-communicable disease mortality. 
+There were only small differences in life expectancy change between the states 
+with the most stringent restrictions (Victoria and New South Wales) and the rest 
+of Australia.
+CONCLUSIONS: Australia's life expectancy trends during 2020-22 were relatively 
+favourable compared with other high-income countries, with the exception of its 
+sharp decline in 2022 once restrictions were loosened.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of the 
+International Epidemiological Association.
+
+DOI: 10.1093/ije/dyad121
+PMID: 37743848
+
+
+889. World J Gastrointest Endosc. 2023 Sep 16;15(9):545-552. doi: 
+10.4253/wjge.v15.i9.545.
+
+Human immunodeficiency virus patients with low CD4 counts are more likely to 
+have precancerous polyps identified during index colonoscopy.
+
+Likhtshteyn M(1), Marzouk E(2), Arroyo-Mercado FM(3), Chawla G(4), Rosengarten 
+S(5), Lerer R(6), Ojeda-Martinez H(7), Thor S(4).
+
+Author information:
+(1)Department of Gastroenterology, SUNY Downstate Health Sciences University, 
+Brooklyn, NY 11203, United States. mlikhtsh@gmail.com.
+(2)Department of Internal Medicine and Pediatrics, Baystate Medical Center, 
+Springfield, IL 01199, United States.
+(3)Department of Gastroenterology, University of New Mexico, Albuquerque, NM 
+87106, United States.
+(4)Department of Gastroenterology, SUNY Downstate Health Sciences University, 
+Brooklyn, NY 11203, United States.
+(5)Department of Emergency Medicine, New York-Presbyterian Queens Hospital, 
+Queens, NY 11355, United States.
+(6)Department of Gastroenterology, University of Pennsylvania, Philadelphia, PA 
+19104, United States.
+(7)Department of Infectious Disease, Nuvance Health-Vassar Brothers Medical 
+Center, Poughkeepsie, NY 12601, United States.
+
+BACKGROUND: Antiretroviral treatment (ART) has improved the life expectancy of 
+patients living with human immunodeficiency virus (HIV). As these patients age, 
+they are at increased risk for developing non-acquired immunodeficiency syndrome 
+defining malignancies (NADMs) such as colon cancers.
+AIM: To determine which factors are associated with the development of 
+precancerous polyps on screening colonoscopy in patients with HIV and to 
+investigate whether HIV disease status, measured by viral load and CD4 count, 
+might influence precancerous polyp development.
+METHODS: A retrospective review of records at two urban academic medical centers 
+was performed for HIV patients who had a screening colonoscopy between 
+2005-2015. Patients with a history of colorectal cancer or polyps, poor bowel 
+preparation, or inflammatory bowel disease were excluded. Demographic data such 
+as sex, age, race, and body mass index (BMI) as well as information regarding 
+the HIV disease status such as CD4 count, viral load, and medication regimen 
+were collected. Well-controlled patients were defined as those that had viral 
+load < 50 copies, and poorly-controlled patients were those with viral load ≥ 
+50. Patients were also stratified based on their CD4 count, comparing those with 
+a low CD4 count to those with a high CD4 count. Using colonoscopy reports in the 
+medical record, the size, histology, and number of polyps were recorded for each 
+patient. Precancerous polyps included adenomas and proximal serrated polyps. 
+Data was analyzed using Fisher's exact tests and logistic regression through SAS 
+3.8 software.
+RESULTS: Two hundred and seven patients met our inclusion criteria. The mean age 
+was 56.13 years, and 58% were males. There were no significant differences in 
+terms of age, race or ethnicity, insurance, and smoking status between patients 
+with CD4 counts above or below 500. BMI was lower in patients with CD4 count < 
+500 as compared to those with count > 500 (P = 0.0276). In patients with CD4 > 
+500, 53.85% of patients were female, and 70.87% of patients with CD4 < 500 were 
+male (P = 0.0004). Only 1.92% of patients with CD4 ≥ 500 had precancerous polyps 
+vs 10.68% of patients with CD4 < 500 (P = 0.0102). When controlled for sex, BMI, 
+and ART use, patients with CD4 < 500 were 9.01 times more likely to have 
+precancerous polyps [95% confidence interval (CI): 1.69-47.97; P = 0.0100]. 
+Patients taking non-nucleoside reverse transcriptase inhibitors were also found 
+to be 10.23 times more likely to have precancerous polyps (95%CI: 1.08-97.15; P 
+= 0.0428). There was not a significant difference noted in precancerous polyps 
+between those that had viral loads greater or less than 50 copies.
+CONCLUSION: Patients with low CD4 counts were more likely to have precancerous 
+polyps on their screening colonoscopy although the etiology for this association 
+is unclear. We also found an increased risk of precancerous polyps in patients 
+taking non-nucleoside reverse transcriptase inhibitors, which is contradictory 
+to prior literature showing ART has decreased the risk of development of NADMs. 
+However, there have not been studies looking at colorectal cancer and ART by 
+drug class, to our knowledge. Further prospective studies are needed to 
+determine the effect of HIV control and therapies on polyp development.
+
+©The Author(s) 2023. Published by Baishideng Publishing Group Inc. All rights 
+reserved.
+
+DOI: 10.4253/wjge.v15.i9.545
+PMCID: PMC10514706
+PMID: 37744318
+
+Conflict of interest statement: Conflict-of-interest statement: The authors 
+declare having no conflicts of interest for this article.
+
+
+890. Front Public Health. 2023 Sep 6;11:1201818. doi: 10.3389/fpubh.2023.1201818.
+ eCollection 2023.
+
+Effectiveness and cost-effectiveness of six GLP-1RAs for treatment of Chinese 
+type 2 diabetes mellitus patients that inadequately controlled on metformin: a 
+micro-simulation model.
+
+Yuan S(1), Wu Y(1).
+
+Author information:
+(1)Department of Pharmacoeconomics, School of International Pharmaceutical 
+Business, China Pharmaceutical University, Nanjing, Jiangsu, China.
+
+OBJECTIVE: To systematically estimate and compare the effectiveness and 
+cost-effectiveness of the glucagon-like peptide-1 receptor agonists (GLP-1RAs) 
+approved in China and to quantify the relationship between the burden of 
+diabetic comorbidities and glycosylated hemoglobin (HbA1c) or body mass index 
+(BMI).
+METHODS: To estimate the costs (US dollars, USD) and quality-adjusted life years 
+(QALY) for six GLP-1RAs (exenatide, loxenatide, lixisenatide, dulaglutide, 
+semaglutide, and liraglutide) combined with metformin in the treatment of 
+patients with type 2 diabetes mellitus (T2DM) which is inadequately controlled 
+on metformin from the Chinese healthcare system perspective, a discrete event 
+microsimulation cost-effectiveness model based on the Chinese Hong Kong 
+Integrated Modeling and Evaluation (CHIME) simulation model was developed. A 
+cohort of 30,000 Chinese patients was established, and one-way sensitivity 
+analysis and probabilistic sensitivity analysis (PSA) with 50,000 iterations 
+were conducted considering parameter uncertainty. Scenario analysis was 
+conducted considering the impacts of research time limits. A network 
+meta-analysis was conducted to compare the effects of six GLP-1RAs on HbA1c, 
+BMI, systolic blood pressure, and diastolic blood pressure. The incremental net 
+monetary benefit (INMB) between therapies was used to evaluate the 
+cost-effectiveness. China's per capita GDP in 2021 was used as the 
+willingness-to-pay threshold. A generalized linear model was used to quantify 
+the relationship between the burden of diabetic comorbidities and HbA1c or BMI.
+RESULTS: During a lifetime, the cost for a patient ranged from USD 42,092 with 
+loxenatide to USD 47,026 with liraglutide, while the QALY gained ranged from 
+12.50 with dulaglutide to 12.65 with loxenatide. Compared to exenatide, the INMB 
+of each drug from highest to lowest were: loxenatide (USD 1,124), dulaglutide 
+(USD -1,418), lixisenatide (USD -1,713), semaglutide (USD -4,298), and 
+liraglutide (USD -4,672). Loxenatide was better than the other GLP-1RAs in the 
+base-case analysis. Sensitivity and scenario analysis results were consistent 
+with the base-case analysis. Overall, the price of GLP-1RAs most affected the 
+results. Medications with effective control of HbA1c or BMI were associated with 
+a significantly smaller disease burden (p < 0.05).
+CONCLUSION: Loxenatide combined with metformin was identified as the most 
+economical choice, while the long-term health benefits of patients taking the 
+six GLP-1RAs are approximate.
+
+Copyright © 2023 Yuan and Wu.
+
+DOI: 10.3389/fpubh.2023.1201818
+PMCID: PMC10513082
+PMID: 37744474 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+891. Exp Ther Med. 2023 Aug 25;26(4):481. doi: 10.3892/etm.2023.12180.
+eCollection  2023 Oct.
+
+Knee osteoarthritis: Current status and research progress in treatment (Review).
+
+Geng R(1)(2), Li J(1)(3), Yu C(1)(4), Zhang C(1)(2), Chen F(1)(2), Chen J(1)(5), 
+Ni H(1), Wang J(1)(2), Kang K(1)(2), Wei Z(1)(3), Xu Y(1)(2), Jin T(1)(2).
+
+Author information:
+(1)Graduate School, Kunming Medical University, Kunming, Yunnan 650500, P.R. 
+China.
+(2)Institute of Traumatology and Orthopedics, 920th Hospital of Joint Logistics 
+Support Force of The People's Liberation Army, Kunming, Yunnan 650051, P.R. 
+China.
+(3)Department of Anatomy and Histology, and Embryology, Kunming Medical 
+University, Kunming, Yunnan 650500, P.R. China.
+(4)Department of Orthopedics, The First People's Hospital of Yunnan Province, 
+Kunming, Yunnan 650034, P.R. China.
+(5)School of Public Health, Kunming Medical University, Kunming, Yunnan 650032, 
+P.R. China.
+
+Knee osteoarthritis (KOA) is a common chronic articular disease worldwide. It is 
+also the most common form of OA and is characterized by high morbidity and 
+disability rates. With the gradual increase in life expectancy and ageing 
+population, KOA not only affects the quality of life of patients, but also poses 
+a burden on global public health. OA is a disease of unknown etiology and 
+complex pathogenesis. It commonly affects joints subjected to greater loads and 
+higher levels of activity. The knee joint, which is the most complex joint of 
+the human body and bears the greatest load among all joints, is therefore most 
+susceptible to development of OA. KOA lesions may involve articular cartilage, 
+synovium, joint capsule and periarticular muscles, causing irreversible 
+articular damage. Factors such as mechanical overload, inflammation, metabolism, 
+hormonal changes and ageing serve key roles in the acceleration of KOA 
+progression. The clinical diagnosis of KOA is primarily based on combined 
+analysis of symptoms, signs, imaging and laboratory examination results. At 
+present, there is no cure for KOA and the currently available therapies 
+primarily focus on symptomatic treatment and delay of disease progression. Knee 
+replacement surgery is typically performed in patients with advanced disease. 
+The current study presents a review of epidemiological characteristics, risk 
+factors, histopathological manifestations, pathogenesis, diagnosis, treatment 
+modalities and progress in KOA research.
+
+Copyright: © Geng et al.
+
+DOI: 10.3892/etm.2023.12180
+PMCID: PMC10515111
+PMID: 37745043
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+892. J Diabetes Mellitus. 2021 Nov;11(5):249-277. doi: 10.4236/jdm.2021.115021.
+Epub  2021 Nov 17.
+
+The Evolution of Insulin Administration in Type 1 Diabetes.
+
+Pinnaro CT(1)(2), Tansey MJ(1)(2).
+
+Author information:
+(1)University of Iowa Stead Family Department of Pediatrics.
+(2)Fraternal Order of Eagles Diabetes Research Center.
+
+Insulin has been utilized in the treatment of type 1 diabetes (T1D) for 100 
+years. While there is still no cure for T1D, insulin administration has 
+undergone a remarkable evolution which has contributed to improvements in 
+quality of life and life expectancy in individuals with T1D. The advent of 
+faster-acting and longer-acting insulins allowed for the implementation of 
+insulin regimens more closely resembling normal insulin physiology. These 
+improvements afforded better glycemic control, which is crucial for limiting 
+microvascular complications and improving T1D outcomes. Suspension of insulin 
+delivery in response to actual and forecasted hypoglycemia has improved quality 
+of life and mitigated hypoglycemia without compromising glycemic control. 
+Advances in continuous glucose monitoring (CGM) and insulin pumps, efforts to 
+model glucose and insulin kinetics, and the application of control theory to T1D 
+have made the automation of insulin delivery a reality. This review will 
+summarize the past, present, and future of insulin administration in T1D.
+
+DOI: 10.4236/jdm.2021.115021
+PMCID: PMC10516284
+PMID: 37745178
+
+Conflict of interest statement: Conflicts of Interest: The authors declare no 
+conflict of interest.
+
+
+893. Precis Nutr. 2022 Aug 18;1(2):e00011. doi: 10.1097/PN9.0000000000000011. 
+eCollection 2022 Sep.
+
+Boston Birth Cohort profile: rationale and study design.
+
+Pearson C(1), Bartell T(2), Wang G(3), Hong X(3), Rusk SA(3), Fu L(1), Cerda 
+S(4), Bustamante-Helfrich B(5), Kuohung W(6), Yarrington C(6), Adams WG(1), Wang 
+X(3)(7).
+
+Author information:
+(1)Department of Pediatrics, Boston University School of Medicine and Boston 
+Medical Center, Boston, MA, USA.
+(2)Patrick M. Magoon Institute for Healthy Communities, Ann & Robert H. Lurie 
+Children's Hospital of Chicago, Chicago, IL, USA.
+(3)Center on the Early Life Origins of Disease, Department of Population, Family 
+and Reproductive Health, Johns Hopkins Bloomberg School of Public Health, 
+Baltimore, MD, USA.
+(4)Department of Pathology, Boston University School of Medicine and Boston 
+Medical Center, Boston, MA, USA.
+(5)University of the Incarnate Word School of Osteopathic Medicine, San Antonio, 
+TX, USA.
+(6)Department of Obstetrics and Gynecology, Boston University School of Medicine 
+and Boston Medical Center, Boston, MA, USA.
+(7)Department of Pediatrics, Johns Hopkins School of Medicine, Baltimore, MD, 
+USA.
+
+In1998, the Boston Birth Cohort (BBC) was initiated at Boston Medical Center 
+(BMC) in response to persistently high rates of preterm birth (PTB, defined as 
+birth before 37 weeks of gestation) in the US population and the longstanding 
+profound PTB disparity among Black, Indigenous, and people of color (BIPOC). The 
+BBC encompasses two linked study protocols: The PTB Study serves as the baseline 
+recruitment in the BBC. It aims to address fundamental questions about the 
+causes and consequences of PTB. The study oversamples preterm babies using a 
+case/control study design, in which cases are defined as mothers who deliver a 
+preterm and/or low birthweight baby (<2500 grams regardless of gestational age). 
+Controls are enrolled at a 2:1 control/case ratio and matched by maternal age 
+(±5 years), self-reported race and ethnicity, and date of delivery (± 7 days for 
+case delivery). From inception, it was designed as a comprehensive 
+gene-environmental study of PTB. As a natural extension, the Children's Health 
+Study, under a separate but linked Institutional Review Board protocol, is a 
+longitudinal follow-up study of the participants who were recruited at birth in 
+the PTB Study and who continue pediatric care at BMC. This linked model allows 
+for investigation of early life origins of pediatric and chronic disease in a 
+prospective cohort design. The BBC is one of the largest and longest National 
+Institutes of Health-funded prospective birth cohort studies in the United 
+States, consisting of 8733 mother-child dyads enrolled in the PTB Study at 
+birth, and of those, 3592 children have been enrolled in the Children's Health 
+Study, with a median follow-up of 14.5 years. The BBC mirrors the urban, 
+underresourced, and underrepresented BIPOC population served by BMC. A high 
+proportion of BBC children were born prematurely and had chronic health 
+conditions (e.g., asthma, obesity, and elevated blood pressure) in childhood. 
+The BBC's long-term goal has been to build a large, comprehensive database 
+(epidemiological, clinical, and multiomics) and biospecimen repository to 
+elucidate early life origins of pediatric and chronic diseases and identify 
+modifiable upstream factors (e.g., psychosocial, environmental, and nutritional) 
+to improve health across the life course for BIPOC mothers and children.
+
+Copyright © 2022 The Author(s), Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/PN9.0000000000000011
+PMCID: PMC9844822
+PMID: 37745944
+
+Conflict of interest statement: None declared.
+
+
+894. Front Neurosci. 2023 Sep 7;17:1260977. doi: 10.3389/fnins.2023.1260977. 
+eCollection 2023.
+
+Rationale and protocol of a double-blind, randomized, placebo-controlled trial 
+to test the efficacy, safety, and tolerability of dimethyl fumarate in 
+Friedreich Ataxia (DMF-FA-201).
+
+Pane C(1), Marra AM(2), Aliberti L(2), Campanile M(1), Coscetta F(2), Crisci 
+G(2), D'Assante R(2), Marsili A(1), Puorro G(1), Salzano A(3), Cittadini A(2), 
+Saccà F(1).
+
+Author information:
+(1)Department of Neurosciences and Reproductive and Odontostomatological 
+Sciences, Federico II University, Naples, Italy.
+(2)Department of Translational Medical Sciences, Federico II University, Naples, 
+Italy.
+(3)Cardiac Unit, AORN A Cardarelli, Naples, Italy.
+
+INTRODUCTION: Friedreich Ataxia (FRDA) is an autosomal recessive 
+neurodegenerative disorder that causes gait and limb ataxia, dysarthria, and 
+impaired vibratory sense, with cardiomyopathy being the predominant cause of 
+death. There is no approved therapy, which results in the use of symptomatic 
+treatments and the chronic support of physiotherapy. Dimethyl fumarate (DMF) is 
+a fumaric acid ester used for the treatment of psoriasis and Multiple Sclerosis 
+(MS). It induces Nrf2 in vitro and in vivo, and it increases frataxin in FRDA 
+patient lymphoblasts, in mouse models, and in MS treated patients.
+METHODS: The aim of our study is to investigate if DMF can increase the 
+expression of the FXN gene and frataxin protein and ameliorate in-vivo 
+detectable measures of mitochondrial dysfunction in FRDA. The study is composed 
+of a screening visit and two sequential 12-week phases: a core phase and an 
+extension phase. During the first phase (core), patients will be randomly 
+assigned to either the DMF or a placebo group in a 1:1 ratio. During the first 
+week, patients will receive a total daily dose of 240 mg of DMF or placebo; from 
+the second week of treatment, the dose will be increased to two 120 mg tablets 
+BID for a total daily dose of 480 mg. During the second phase (extension), all 
+patients will be treated with DMF. EudraCT number 2021-006274-23.
+ENDPOINTS: The primary endpoint will be a change in FXN gene expression level 
+after 12 weeks of treatment. Secondary endpoints will be frataxin protein level, 
+cardiopulmonary exercise test outputs, echocardiographic measures, Nrf2 pathway 
+and mitochondrial biogenesis gene expression, safety, clinical scales, and 
+quality of life scales.
+CONCLUSIONS: This is the first study aimed at exploring the ability of DMF, an 
+already available treatment for MS and psoriasis, to correct the biological 
+deficits of FRDA and potentially improve mitochondrial respiration in-vivo.

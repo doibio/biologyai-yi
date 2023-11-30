@@ -1,0 +1,1000 @@
+Republic.
+(2)Faculty of Science, University of South Bohemia in Ceske Budejovice, 
+Branisovska 1760, 37005 Ceske Budejovice, Czech Republic.
+(3)Graduate School of Life Sciences, Tohoku University, 2-1-1 Katahira, 980-8577 
+Sendai, Japan.
+(4)Institute of Molecular Genetics, Academy of Sciences of the Czech Republic, 
+142 20 Prague, Czech Republic.
+
+Engineering enzyme catalytic properties is important for basic research as well 
+as for biotechnological applications. We have previously shown that the 
+reshaping of enzyme access tunnels via the deletion of a short surface loop 
+element may yield a haloalkane dehalogenase variant with markedly modified 
+substrate specificity and enantioselectivity. Here, we conversely probed the 
+effects of surface loop-helix transplantation from one enzyme to another within 
+the enzyme family of haloalkane dehalogenases. Precisely, we transplanted a 
+nine-residue long extension of L9 loop and α4 helix from DbjA into the 
+corresponding site of DbeA. Biophysical characterization showed that this 
+fragment transplantation did not affect the overall protein fold or oligomeric 
+state, but lowered protein stability (ΔT m = -5 to 6 °C). Interestingly, the 
+crystal structure of DbeA mutant revealed the unique structural features of 
+enzyme access tunnels, which are known determinants of catalytic properties for 
+this enzyme family. Biochemical data confirmed that insertion increased activity 
+of DbeA with various halogenated substrates and altered its enantioselectivity 
+with several linear β-bromoalkanes. Our findings support a protein engineering 
+strategy employing surface loop-helix transplantation for construction of novel 
+protein catalysts with modified catalytic properties.
+
+© 2020 The Author(s).
+
+DOI: 10.1016/j.csbj.2020.05.019
+PMCID: PMC7306515
+PMID: 32612758
+
+
+892. Health Technol Assess. 2020 Jun;24(34):1-68. doi: 10.3310/hta24340.
+
+Mapping clinical outcomes to generic preference-based outcome measures: 
+development and comparison of methods.
+
+Hernández Alava M(1), Wailoo A(1), Pudney S(1), Gray L(1), Manca A(2).
+
+Author information:
+(1)School of Health and Related Research (ScHARR), University of Sheffield, 
+Sheffield, UK.
+(2)Centre for Health Economics, University of York, York, UK.
+
+BACKGROUND: Cost-effectiveness analysis using quality-adjusted life-years as the 
+measure of health benefit is commonly used to aid decision-makers. Clinical 
+studies often do not include preference-based measures that allow the 
+calculation of quality-adjusted life-years, or the data are insufficient. 
+'Mapping' can bridge this evidence gap; it entails estimating the relationship 
+between outcomes measured in clinical studies and the required preference-based 
+measures using a different data set. However, many methods for mapping yield 
+biased results, distorting cost-effectiveness estimates.
+OBJECTIVES: Develop existing and new methods for mapping; test their performance 
+in case studies spanning different preference-based measures; and develop 
+methods for mapping between preference-based measures.
+DATA SOURCES: Fifteen data sets for mapping from non-preference-based measures 
+to preference-based measures for patients with head injury, breast cancer, 
+asthma, heart disease, knee surgery and varicose veins were used. Four 
+preference-based measures were covered: the EuroQoL-5 Dimensions, three-level 
+version (n = 11), EuroQoL-5 Dimensions, five-level version (n = 2), Short Form 
+questionnaire-6 Dimensions (n = 1) and Health Utility Index Mark 3 (n = 1). 
+Sample sizes ranged from 852 to 136,327. For mapping between generic 
+preference-based measures, data from FORWARD, the National Databank for 
+Rheumatic Diseases (which includes the EuroQoL-5 Dimensions, three-level 
+version, and EuroQoL-5 Dimensions, five-level version, in its 2011 wave), were 
+used.
+MAIN METHODS DEVELOPED: Mixture-model-based approaches for direct mapping, in 
+which the dependent variable is the health utility value, including adaptations 
+of methods developed to model the EuroQoL-5 Dimensions, three-level version, and 
+beta regression mixtures, were developed, as were indirect methods, in which 
+responses to the descriptive systems are modelled, for consistent 
+multidirectional mapping between preference-based measures. A highly flexible 
+approach was designed, using copulas to specify the bivariate distribution of 
+each pair of EuroQoL-5 Dimensions, three-level version, and EuroQoL-5 
+Dimensions, five-level version, responses.
+RESULTS: A range of criteria for assessing model performance is proposed. 
+Theoretically, linear regression is inappropriate for mapping. Case studies 
+confirm this. Flexible, direct mapping methods, based on different variants of 
+mixture models with appropriate underlying distributions, perform very well for 
+all preference-based measures. The precise form is important. Case studies show 
+that a minimum of three components are required. Covariates representing disease 
+severity are required as predictors of component membership. Beta-based mixtures 
+perform similarly to the bespoke mixture approaches but necessitate detailed 
+consideration of the number and location of probability masses. The flexible, 
+bi-directional indirect approach performs well for testing differences between 
+preference-based measures.
+LIMITATIONS: Case studies drew heavily on EuroQoL-5 Dimensions. Indirect methods 
+could not be undertaken for several case studies because of a lack of coverage. 
+These methods will often be unfeasible for preference-based measures with 
+complex descriptive systems.
+CONCLUSIONS: Mapping requires appropriate methods to yield reliable results. 
+Evidence shows that widely used methods such as linear regression are 
+inappropriate. More flexible methods developed specifically for mapping show 
+that close-fitting results can be achieved. Approaches based on mixture models 
+are appropriate for all preference-based measures. Some features are universally 
+required (such as the minimum number of components) but others must be assessed 
+on a case-by-case basis (such as the location and number of probability mass 
+points).
+FUTURE RESEARCH PRIORITIES: Further research is recommended on (1) the use of 
+the monotonicity concept, (2) the mismatch of trial and mapping distributions 
+and measurement error and (3) the development of indirect methods drawing on 
+methods developed for mapping between preference-based measures.
+FUNDING: This project was funded by the National Institute for Health Research 
+(NIHR) Health Technology Assessment programme and will be published in full in 
+Health Technology Assessment; Vol. 24, No. 34. See the NIHR Journals Library 
+website for further project information. This project was also funded by a 
+Medical Research Council grant (MR/L022575/1).
+
+Plain Language Summary: Coherent decisions about which health services and 
+treatments to provide rely on economic analysis to weigh potential health 
+benefits against costs. For decisions to be consistent across the whole health 
+service, benefits need to be counted in the same way for patients with different 
+health problems. This is accomplished by using a unit of measurement for 
+treatment outcomes called the quality-adjusted life-year. The best way to 
+calculate quality-adjusted life-years is to ask patients taking part in clinical 
+studies to fill in specially designed questionnaires to describe their health in 
+a simple, standardised way. However, clinical trials often record patient 
+outcomes in different ways, leaving economic analysts without the necessary 
+information to calculate quality-adjusted life-years. A way to overcome this 
+problem (known as ‘statistical mapping’) is to use the available clinical data 
+to predict the responses that would have been made by trial participants to the 
+standard questionnaire. This requires analysis of data from an additional study 
+in which patients have provided both types of outcome data to construct a 
+statistical ‘mapping model’. Mapping is widely used in practice, but it is often 
+based on simple mapping models that in some circumstances systematically 
+mispredict and may consequently give a false picture of the real health benefits 
+of treatments. This is important because it influences decisions about which 
+treatments are available in the NHS; it has real effects on patients, 
+clinicians, industry and the general public. Our objectives are to develop 
+promising new statistical mapping models specifically designed for different 
+clinical contexts and to compare them using patient data in different disease 
+areas. We have also developed an approach for judging the outcome of a mapping 
+study. We find that the new methods work better than existing methods in terms 
+of their ability to fit the data and avoid systematic bias.
+
+DOI: 10.3310/hta24340
+PMCID: PMC7357250
+PMID: 32613941 [Indexed for MEDLINE]
+
+Conflict of interest statement: No competing interests were declared.
+
+
+893. Hum Vaccin Immunother. 2020 Sep 1;16(9):2018-2032. doi: 
+10.1080/21645515.2020.1765622. Epub 2020 Jul 2.
+
+The importance of semen leukocytes in HIV-1 transmission and the development of 
+prevention strategies.
+
+Cavarelli M(1), Le Grand R(1).
+
+Author information:
+(1)Université Paris-Saclay, Inserm, CEA, Center for Immunology of Viral, 
+Auto-immune, Hematological and Bacterial diseases (IMVA-HB/IDMIT) , 
+Fontenay-aux-Roses & Le Kremlin-Bicêtre, France.
+
+HIV-1 sexual transmission occurs mostly through contaminated semen, which is a 
+complex mixture of soluble factors with immunoregulatory functions and cells. It 
+is well established that semen cells from HIV-1-infected men are able to produce 
+the virus and that are harnessed to efficiently interact with mucosal barriers 
+exposed during sexual intercourse. Several cofactors contribute to semen 
+infectivity and may enhance the risk of HIV-1 transmission to a partner by 
+increasing local HIV-1 replication in the male genital tract, thereby increasing 
+the number of HIV-1-infected cells and the local HIV-1 shedding in semen. The 
+introduction of combination antiretroviral therapy has improved the life 
+expectancy of HIV-1 infected individuals; however, there is evidence that 
+systemic viral suppression does not always reflect full viral suppression in the 
+seminal compartment. This review focus on the role semen leukocytes play in 
+HIV-1 transmission and discusses implications of the increased resistance of 
+cell-mediated transmission to immune-based prevention strategies.
+
+DOI: 10.1080/21645515.2020.1765622
+PMCID: PMC7553688
+PMID: 32614649 [Indexed for MEDLINE]
+
+
+894. Am J Perinatol. 2021 Dec;38(14):1505-1512. doi: 10.1055/s-0040-1713819. Epub
+ 2020 Jul 2.
+
+Cost-Utility of Sildenafil for Persistent Pulmonary Hypertension of the Newborn.
+
+Evers PD(1), Critser PJ(2), Cash M(2), Magness M(2), Hoelle S(2), Hirsch 
+R(2)(3).
+
+Author information:
+(1)Division of Pediatric Cardiology, Oregon Health and Sciences University, 
+Portland, Oregon.
+(2)Heart Institute, Cincinnati Children's Hospital Medical Center, Cincinnati, 
+Ohio.
+(3)Department of Pediatrics, University of Cincinnati College of Medicine, 
+Cincinnati, Ohio.
+
+OBJECTIVE: While advanced therapies for severe persistent pulmonary hypertension 
+of the newborn (PPHN) such as inhaled nitric oxide (iNO) and extracorporeal 
+membrane oxygenation (ECMO) are standard treatments in high-income countries, 
+these therapies are often unavailable in resource-limited settings such as 
+middle-income countries. However, there are small clinical trials illustrating 
+the efficacy of sildenafil at reducing mortality in PPHN. This analysis sought 
+to determine the cost-utility of enteral sildenafil for the treatment of severe 
+PPHN.
+STUDY DESIGN: A Markov-state transition model was constructed for the two 
+clinical approaches to compare costs, clinical outcomes, and quality of life: 
+(1) "conventional," (2) "sildenafil." The impact of sildenafil was modeled as a 
+relative risk modifier of the conventional strategy's mortality risk. 
+Transitional probabilities, costs, and utility metrics were extracted from the 
+literature. Sensitivity analyses for each model input as well as 100-patient 
+Monte Carlo simulations were used to test the durability of the model 
+conclusion.
+RESULTS: The sildenafil strategy was cost-effective for upper but not lower 
+middle-income countries with an incremental cost-effectiveness ratio of $2,339 
+per quality-adjusted life year. This conclusion was durable across a wide-range 
+of model assumptions; the sildenafil strategy only failed to meet criteria for 
+cost-effectiveness when sildenafil therapy had a mortality relative risk 
+efficacy of >0.89, if life expectancy in that country is <40 years, or if the 
+lifetime forecasted costs of a survivor's life was quite high.
+CONCLUSION: Enteral sildenafil is a cost-effective intervention for severe PPHN 
+for upper middle-income countries where ECMO and iNO are not available.
+KEY POINTS: · PPHN is a common life-threatening condition in newborns.. · 
+Sildenafil improves survival of PPHN.. · Sildenafil is cost-effective for 
+upper-middle income countries..
+
+Thieme. All rights reserved.
+
+DOI: 10.1055/s-0040-1713819
+PMID: 32615617 [Indexed for MEDLINE]
+
+Conflict of interest statement: None declared.
+
+
+895. Circ Cardiovasc Qual Outcomes. 2020 Jul;13(7):e006492. doi: 
+10.1161/CIRCOUTCOMES.120.006492. Epub 2020 Jul 3.
+
+Can Pay-for Performance Incentive Levels be Determined Using a 
+Cost-Effectiveness Framework?
+
+Pandya A(1)(2), Soeteman DI(1), Gupta A(3), Kamel H(4), Mushlin AI(5), Rosenthal 
+MB(2).
+
+Author information:
+(1)Center for Health Decision Science (A.P., D.I.S.), Harvard T.H.
+(2)Department of Health Policy and Management (A.P., M.B.R.), Harvard T.H.
+(3)Chan School of Public Health, Boston, MA. Department of Radiology (A.G.), 
+Weill Cornell Medicine, New York, NY.
+(4)Department of Neurology and Neuroscience (H.K.), Weill Cornell Medicine, New 
+York, NY.
+(5)Department of Healthcare Policy and Research, Weill Cornell Medical College, 
+New York, NY (A.I.M.).
+
+BACKGROUND: Healthcare payers in the United States are increasingly tying 
+provider payments to quality and value using pay-for-performance policies. 
+Cost-effectiveness analysis quantifies value in healthcare but is not currently 
+used to design or prioritize pay-for-performance strategies or metrics. Acute 
+ischemic stroke care provides a useful application to demonstrate how simulation 
+modeling can be used to determine cost-effective levels of financial incentives 
+used in pay-for-performance policies and associated challenges with this 
+approach.
+METHODS AND RESULTS: Our framework requires a simulation model that can estimate 
+quality-adjusted life years and costs resulting from improvements in a quality 
+metric. A monetary level of incentives can then be back-calculated using the 
+lifetime discounted quality-adjusted life year (which includes effectiveness of 
+quality improvement) and cost (which includes incentive payments and cost 
+offsets from quality improvements) outputs from the model. We applied this 
+framework to an acute ischemic stroke microsimulation model to calculate the 
+difference in population-level net monetary benefit (willingness-to-pay of 
+$50 000 to $150 000/quality-adjusted life year) accrued under current Medicare 
+policy (stroke payment not adjusted for performance) compared with various 
+hypothetical pay-for-performance policies. Performance measurement was based on 
+time-to-thrombolytic treatment with tPA (tissue-type plasminogen activator). 
+Compared with current payment, equivalent population-level net monetary benefit 
+was achieved in pay-for-performance policies with 10-minute door-to-needle time 
+reductions (5057 more acute ischemic stroke cases/y in the 0-3-hour window) 
+incentivized by increasing tPA payment by as much as 18% to 44% depending on 
+willingness-to-pay for health.
+CONCLUSIONS: Cost-effectiveness modeling can be used to determine the upper 
+bound of financial incentives used in pay-for-performance policies, although 
+currently, this approach is limited due to data requirements and modeling 
+assumptions. For tPA payments in acute ischemic stroke, our model-based results 
+suggest financial incentives leading to a 10-minute decrease in door-to-needle 
+time should be implemented but not exceed 18% to 44% of current tPA payment. In 
+general, the optimal level of financial incentives will depend on 
+willingness-to-pay for health and other modeling assumptions around parameter 
+uncertainty and the relationship between quality improvements and long-run 
+quality-adjusted life expectancy and costs.
+
+DOI: 10.1161/CIRCOUTCOMES.120.006492
+PMCID: PMC7375940
+PMID: 32615799 [Indexed for MEDLINE]
+
+
+896. Glob Health Action. 2020 Dec 31;13(1):1776507. doi: 
+10.1080/16549716.2020.1776507.
+
+National incidence, prevalence and disability-adjusted life years (DALYs) of 
+common micronutrient deficiencies in Ethiopia from 1990 to 2017: estimates from 
+the global burden of diseases study.
+
+Hassen HY(1), Ali JH(2), Gebreyesus SH(2), Endris BS(2), Temesgen AM(3)(4).
+
+Author information:
+(1)Department of Public Health, Mizan Tepi University , Mizan Teferi, Ethiopia.
+(2)School of Public Health, Addis Ababa University , Addis Ababa, Ethiopia.
+(3)National Data Management Center, Ethiopian Public Health Institute , Addis 
+Ababa, Ethiopia.
+(4)Institute for Health Metrics and Evaluation, University of Washington , 
+Washington, DC, USA.
+
+BACKGROUND: Understanding the national burden and trend of micronutrient 
+deficiencies helps to guide effective intervention strategies under various 
+circumstances. There is, however, a lack of evidence on trends, age- and 
+sex-specific variations in Ethiopia.
+OBJECTIVE: This study aimed to provide evidence on the trends of common 
+micronutrient deficiencies including, dietary iron, iodine, vitamin A and other 
+nutritional deficiencies in Ethiopia, from 1990 to 2017, using findings from the 
+Global Burden of Disease study.
+METHOD: We used estimates from the GBD 2017 study to report the incidence, 
+prevalence and disability-adjusted life years of micronutrient deficiencies in 
+Ethiopia from 1990 to 2017. All estimates, both crude counts, as well as all-age 
+and age-standardized rates per 100,000 population, are accompanied by 95% 
+uncertainty intervals (UIs). We summarized the age- and sex-specific patterns 
+and we compared the burden with the sub-Saharan Africa and global estimate.
+RESULTS: From 1990 to 2017, the age-standardized prevalence rate of dietary 
+iron, vitamin A and iodine deficiency decreased by 20.1%, 16.7%, and 91.6%, 
+respectively. However, MNDs still account for a large number of DALYs in the 
+country. In 2017, the all-age total DALYs due to dietary iron deficiency were 
+estimated to be 448.4 thousand [95% UI: 298.9-640.7], accounting for 1.18% of 
+the total DALYs. Similarly, the all-age total DALYs due to vitamin A deficiency 
+were 397.8 thousand [256.1-589.2]. The total DALYs due to iodine deficiency were 
+estimated to be 89.6 thousand [48.3-155.4].
+CONCLUSIONS: Micronutrient deficiencies and associated morbidity and mortality 
+are still high in Ethiopia compared with the sub-Saharan and global estimate. 
+Adolescent and early adult females and children aged under-five are 
+disproportionately affected segments of the population. Therefore, in 
+collaboration with other sectors, the National Nutrition Program needs to place 
+greater emphasis upon improving accessibility and utilization of nutrient-rich 
+foods and supplementation, particularly for vulnerable groups of the population.
+
+DOI: 10.1080/16549716.2020.1776507
+PMCID: PMC7480576
+PMID: 32615870 [Indexed for MEDLINE]
+
+Conflict of interest statement: No potential conflict of interest was reported 
+by the authors.
+
+
+897. BMC Res Notes. 2020 Jul 2;13(1):313. doi: 10.1186/s13104-020-05149-4.
+
+Analysis of medico-social factors for return to work among patients presenting 
+with haematological malignancy (adamantine): results of a 'pilot study'.
+
+Clin B(1)(2)(3), Heutte N(4)(5), Boulanger M(6), Troussard X(7)(8), Cornet E(8), 
+Damaj GL(7), Bouvier V(6), Guizard AV(6), Launoy G(6)(9), Licaj I(6)(5)(10).
+
+Author information:
+(1)INSERM U1086 « ANTICIPE », 14033, Caen Cedex, France. 
+benedicte.clin14@orange.fr.
+(2)Université de Caen Normandie, Caen, France. benedicte.clin14@orange.fr.
+(3)Occupational Health Department, Service de Santé au Travail et Pathologie 
+Professionnelle, C.H.U. (University Hospital) Côte de Nacre, CHU Caen, Caen, 
+France. benedicte.clin14@orange.fr.
+(4)CETAPS EA3832, Université de Rouen, Mont-Saint-Aignan, France.
+(5)Clinical Research Department, Centre François Baclesse, Caen, France.
+(6)INSERM U1086 « ANTICIPE », 14033, Caen Cedex, France.
+(7)Service d'Hématologie Clinique, CHU de Caen, Caen, France.
+(8)Registre des Hémopathies Malignes de Basse-Normandie, Caen, France.
+(9)Université de Caen Normandie, Caen, France.
+(10)Department of Community Medicine, Faculty of Health Sciences, The UiT Arctic 
+University of Norway, Tromsø, Norway.
+
+OBJECTIVE: The aim of this study was to describe return to work determinants in 
+patients with haematological malignancy.
+RESULTS: This medico-social pilot study included patients with haematological 
+malignancy in the département of Calvados, aged 18 to 55 years, diagnosed 
+between 1st January and 31st December 2010 and alive at 1st January 2015. 
+Patients were identified via consultation of the Lower Normandy haematological 
+malignancy Registry. They completed a specially developed self-questionnaire, in 
+addition to validated questionnaires for anxiety-depression, quality of life and 
+fatigue. Of the patients contacted, 50% accepted to participate. The mean age at 
+diagnosis was 49.8 years, and the majority of patients (79.2%) was 
+professionally active at the time of diagnosis. Only 64.9% of subjects had 
+stopped work due to illness. The psychological impact (demonstrated anxiety) was 
+significantly greater in men (p = 0.01). The majority of subjects returned to 
+work after treatment (80.7%) and among them, the mean duration of absence from 
+work was 16.1 months. Only 52.6% of subjects had informed their occupational 
+physician and 56.7% had benefited from a pre-return visit. The satisfactory 
+response rate obtained is promising for the extension of the present project as 
+a prospective multicentric study.
+
+DOI: 10.1186/s13104-020-05149-4
+PMCID: PMC7331231
+PMID: 32616070 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+898. Clin Epigenetics. 2020 Jul 2;12(1):97. doi: 10.1186/s13148-020-00893-7.
+
+Wandering along the epigenetic timeline.
+
+Topart C(1)(2), Werner E(1)(2), Arimondo PB(3).
+
+Author information:
+(1)Department of Chemistry, Ecole Normale Supérieure, 24 rue Lhomond, 75005, 
+Paris, France.
+(2)PSL Research University, 60 Rue Mazarine, 75006, Paris, France.
+(3)EpiCBio, Epigenetic Chemical Biology, Department Structural Biology and 
+Chemistry, Institut Pasteur, CNRS UMR n°3523, 28 rue du Dr Roux, 75015, Paris, 
+France. paola.arimondo@cnrs.fr.
+
+BACKGROUND: Increasing life expectancy but also healthspan seems inaccessible as 
+of yet but it may become a reality in the foreseeable future. To extend 
+lifespan, it is essential to unveil molecular mechanisms involved in ageing. As 
+for healthspan, a better understanding of the mechanisms involved in age-related 
+pathologies is crucial.
+MAIN BODY: We focus on the epigenetic side of ageing as ageing is traced by 
+specific epigenetic patterns and can be measured by epigenetic clocks. We 
+discuss to what extent exposure to environmental factor, such as alcohol use, 
+unhealthy diet, tobacco and stress, promotes age-related conditions. We focused 
+on inflammation, cancer and Alzheimer's disease. Finally, we discuss strategies 
+to reverse time based on epigenetic reprogramming.
+CONCLUSIONS: Reversibility of the epigenetic marks makes them promising targets 
+for rejuvenation. For this purpose, a better understanding of the epigenetic 
+mechanisms underlying ageing is essential. Epigenetic clocks were successfully 
+designed to monitor these mechanisms and the influence of environmental factors. 
+Further studies on age-related diseases should be conducted to determine their 
+epigenetic signature, but also to pinpoint the defect in the epigenetic 
+machinery and thereby identify potential therapeutic targets. As for 
+rejuvenation, epigenetic reprogramming is still at an early stage.
+
+DOI: 10.1186/s13148-020-00893-7
+PMCID: PMC7330981
+PMID: 32616071 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+899. Adv Pharmacol. 2020;89:237-259. doi: 10.1016/bs.apha.2020.05.002. Epub 2020
+Jun  20.
+
+Relapse prevention in treatment-resistant major depressive disorder with 
+rapid-acting antidepressants.
+
+Singh JB(1), Fedgchin M(2), Daly EJ(3), Drevets WC(4).
+
+Author information:
+(1)Department of Neuroscience, Janssen Research & Development, LLC, San Diego, 
+CA, United States; Department of Neuroscience, Janssen Research & Development, 
+LLC, Titusville, NJ, United States.
+(2)Department of Neuroscience, Janssen Research & Development, LLC, Titusville, 
+NJ, United States.
+(3)Department of Clinical Medical Affairs, Janssen Scientific Affairs, LLC, 
+Titusville, NJ, United States.
+(4)Department of Neuroscience, Janssen Research & Development, LLC, San Diego, 
+CA, United States. Electronic address: wdrevets@its.jnj.com.
+
+Major depressive disorder (MDD) is the leading cause of disability worldwide and 
+reduces life expectancy. Achieving and sustaining remission from depression is 
+challenging after initial improvement of an acute episode with an 
+antidepressant, especially for patients whose depressive episodes have proven 
+treatment-resistant in response to conventional antidepressant pharmacotherapy. 
+While standard antidepressants are at least partly effective for the short-term 
+treatment of acute depressive episodes of MDD, many patients relapse within 6 
+months of apparent clinical remission, with faster and higher rates observed in 
+those with treatment-resistant depression (TRD). Efficacy of IV ketamine, a 
+rapid-acting N-methyl d-aspartate (NMDA) receptor antagonist, in maintaining 
+antidepressant effect was suggested in a few small, single center, open-label 
+studies and case series. More recently, maintenance of antidepressant effects 
+beyond the initial acute (induction) treatment period has been shown with 
+esketamine nasal spray, an enantiomer of ketamine, in conjunction with an oral 
+antidepressant in three phase 2/3 registration studies (SYNAPSE, SUSTAIN-1, 
+SUSTAIN-2) of adult patients with TRD. In these studies the maintenance of 
+efficacy of an intermittently-dosed esketamine treatment regimen was established 
+in which twice-weekly dose administration during a 4-week induction period was 
+followed initially by weekly administration and later by either weekly or 
+every-other-week administration. During long-term maintenance therapy the 
+antidepressant effect persisted in most patients with this regimen, despite 
+their history of being resistant to conventional antidepressants prior to 
+entering esketamine studies. These data suggest that the neurobiological changes 
+induced by initial esketamine treatment, which putatively underlie its 
+antidepressant effect, can be maintained using repeated administration.
+
+© 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/bs.apha.2020.05.002
+PMID: 32616208 [Indexed for MEDLINE]
+
+
+900. Sci Rep. 2020 Jul 2;10(1):10866. doi: 10.1038/s41598-020-66483-y.
+
+Genome-wide identification and expression profiling of the YUCCA gene family in 
+Malus domestica.
+
+Song C(#)(1)(2), Zhang D(#)(1), Zheng L(1), Shen Y(1), Zuo X(1), Mao J(1), Meng 
+Y(1), Wu H(3), Zhang Y(4), Liu X(5), Qian M(1), Zhang J(6), Li G(1), Zhao C(1), 
+Xing L(1), Ma J(1), Han M(1), An N(7)(8).
+
+Author information:
+(1)College of Horticulture, Northwest A&F University, Yangling, Shaanxi, 712100, 
+China.
+(2)College of Horticulture, Henan Agriculture University, Zhengzhou, Henan, 
+450002, China.
+(3)Gaotou Township People's Government of Wuji County, Shijiazhuang, Hebei, 
+050000, China.
+(4)Taiyuan Academy of Agricultural Sciences, Taiyuan, Shannxi, 030000, China.
+(5)Weinan Agro-Tech Extension Center, Weinan, Shaanxi, 714000, China.
+(6)Silkworm Tea Fruit Technology Extension Center in Nanzheng District, 
+Hanzhong, 723100, Shaanxi, China.
+(7)College of Horticulture, Northwest A&F University, Yangling, Shaanxi, 712100, 
+China. anna206@nwsuaf.edu.cn.
+(8)College of Life Sciences, Northwest A&F University, Yangling, Shaanxi, 
+712100, China. anna206@nwsuaf.edu.cn.
+(#)Contributed equally
+
+The plant hormone auxin is essential for plant growth and development. YUCCA 
+proteins catalyse the rate-limiting step for endogenous auxin biosynthesis. In 
+this study, we isolated 20 MdYUCCA genes from apple genome. MdYUCCA6a, 
+MdYUCCA8a, and MdYUCCA10a were expressed in most organs and could support whole 
+plant basal auxin synthesis. MdYUCCA4a, MdYUCCA10b, and MdYUCCA11a expression 
+indicated roles for these genes in auxin biosynthesis in vegetative organs. 
+MdYUCCA2b, MdYUCCA11b, and MdYUCCA11d were mainly expressed in flower organs. 
+High temperature induced the expression of MdYUCCA4a, MdYUCCA6a, MdYUCCA8a, and 
+MdYUCCA10a, and down-regulated the expression of MdYUCCA2b and MdYUCCA6b. 
+Dual-luciferase assay indicated that MdPIF4 could trans-activate the MdYUCCA8a 
+promoter. Overexpression of MdYUCCA8a increased IAA content, increased stem 
+height, enhanced apical dominance, and led to silique malformation. These 
+results provide a foundation for further investigation of the biological 
+functions of apple MdYUCCAs.
+
+DOI: 10.1038/s41598-020-66483-y
+PMCID: PMC7331580
+PMID: 32616911 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.901. Oral Maxillofac Surg. 2020 Dec;24(4):447-453. doi:
+10.1007/s10006-020-00871-6.  Epub 2020 Jul 2.
+
+Does the third molar position influence periodontal status and overall condition 
+of patients with acute pericoronitis? A cross-sectional study.
+
+Santos JF(1), Santos LCR(1), da Silveira EM(1), Magesty RA(1), Flecha OD(1), 
+Falci SGM(1), Gonçalves PF(1), Galvão EL(2).
+
+Author information:
+(1)Universidade Federal dos Vales do Jequitinhonha e Mucuri, Rua da Glória, 187, 
+Centro, Diamantina, Minas Gerais, 39100-000, Brazil.
+(2)Universidade Federal dos Vales do Jequitinhonha e Mucuri, Rua da Glória, 187, 
+Centro, Diamantina, Minas Gerais, 39100-000, Brazil. endilanza@yahoo.com.br.
+
+PURPOSE: The teeth positioning may be an important associated factor for the 
+pericoronitis' clinical signs. Our objective was to verify the association 
+between lower third molar position according to the Pell and Gregory 
+classification and clinical variables in patients with pericoronitis.
+METHODS: Cross-sectional analysis of panoramic radiographs and medical records 
+of patients with pericoronitis. Primary outcomes: pain and oral health-related 
+quality of life (OHRQoL); secondary outcomes: mouth opening, edema/erythema 
+extension, visible plaque index, bleeding on probing index, periodontal pocket 
+probing depth, and distal alveolar bone crest height of the adjacent second 
+molar.
+RESULTS: The edema/erythema extension was higher in the IIA position compared 
+with the IA position (p = 0.03). Regarding the OHRQoL, the OHIP-14 score was 
+21.0 (± 9.26, range from 4 to 44). The most scored domain was physical pain 
+(5.24), followed by psychological discomfort (4.43). Third molars in IIA 
+position are associated with worse OHRQoL than IB and IIB positions (p = 0.03).
+CONCLUSIONS: There was a higher extension of edema/erythema and worse OHRQoL 
+when the third molar was in IIA position. Prophylactic removal of mandibular 
+third molar in position IIA may avoid the onset of mucosal edema/erythema and 
+prevent pericoronitis from promoting impairment of individuals' quality of life.
+
+DOI: 10.1007/s10006-020-00871-6
+PMID: 32617697 [Indexed for MEDLINE]
+
+
+902. J Gastrointest Cancer. 2021 Jun;52(2):666-675. doi:
+10.1007/s12029-020-00448-2.
+
+Can Hematological Inflammatory Parameters Predict Mortality in Hepatocellular 
+Carcinoma?
+
+Dertli R(1), Asil M(2), Biyik M(2), Karakarcayildiz A(3), Keskin M(2), Göktepe 
+HM(3), Kayar Y(4), Ataseven H(2).
+
+Author information:
+(1)Division of Gastroenterology, Department of Internal Medicine, Meram School 
+of Medicine, Necmettin Erbakan University, Meram, Konya, Turkey. 
+dededoc@hotmail.com.
+(2)Division of Gastroenterology, Department of Internal Medicine, Meram School 
+of Medicine, Necmettin Erbakan University, Meram, Konya, Turkey.
+(3)Department of Internal Medicine, Meram School of Medicine, Necmettin Erbakan 
+University, Konya, Turkey.
+(4)Division of Gastroenterology, Department of Internal Medicine, Van Education 
+and Research Hospital, Van, Turkey.
+
+PURPOSE: Hepatocellular carcinoma (HCC) is one of the most common malignant 
+tumors. Inflammatory and hematological parameters such as neutrophil/lymphocyte 
+ratio (NLR) and platelet/lymphocyte ratio (PLR) provided useful information 
+especially in the diagnosis, treatment, and follow-up of malignancies. In this 
+study, we planned to demonstrate the efficacy of NLR and PLR levels in the 
+evaluation of the prognosis of patients with HCC in our clinic.
+MATERIAL AND METHODS: This study was planned as a prospective observational 
+cohort study. The study included 105 patients with HCC on the base of cirrhosis. 
+Our study group was classified according to Barcelona Clinic Liver Cancer 
+(BCLC), Okuda staging system, and Milan criteria at the time of admission.
+RESULTS: The mean age of all cases was 60.6 ± 12.4 years, and 77 (73.3%) of the 
+patients were male. The mean life expectancy of all patients was 
+7.7 ± 4.3 months. During 1-year follow-up, 61 (58.1%) HCC patients died. The 
+mean survival of the patients who died was 4.6 ± 3.0 months. In our study, 
+patients with NLR > 2.7, patients with PLR > 100.29, BCLC advanced stage, and 
+Okuda advanced stage, and patients who did not meet the Milan criteria had 
+shorter survival duration. NLR > 2.7, BCLC advanced stage, and Child C were 
+determined as independent risk factors affecting mortality.
+CONCLUSION: There was a strong correlation between NLR-PLR levels and mortality. 
+PLR and NLR levels can be used in conjunction with other staging systems to 
+regulate, monitor, and predict the survival of HCC patients.
+
+DOI: 10.1007/s12029-020-00448-2
+PMID: 32617832 [Indexed for MEDLINE]
+
+
+903. Am J Trop Med Hyg. 2020 Aug;103(2_Suppl):46-53. doi: 10.4269/ajtmh.19-0661.
+
+Cost-Effectiveness of Focal Mass Drug Administration and Mass Drug 
+Administration with Dihydroartemisinin-Piperaquine for Malaria Prevention in 
+Southern Province, Zambia: Results of a Community-Randomized Controlled Trial.
+
+Yukich JO(1), Scott C(2), Silumbe K(3), Larson BA(4), Bennett A(5), Finn TP(1), 
+Hamainza B(6), Conner RO(2), Porter TR(1), Keating J(1), Steketee RW(2), Eisele 
+TP(1), Miller JM(3).
+
+Author information:
+(1)1Department of Tropical Medicine, Center for Applied Malaria Research and 
+Evaluation, Tulane University School of Public Health and Tropical Medicine, New 
+Orleans, Louisiana.
+(2)2PATH Malaria Control and Elimination Partnership in Africa (MACEPA), 
+Seattle, Washington.
+(3)3PATH MACEPA, Lusaka, Zambia.
+(4)4Department of Global Health, Boston University School of Public Health, 
+Boston, Massachusetts.
+(5)5Malaria Elimination Initiative, Global Health Group, University of 
+California San Francisco, San Francisco, California.
+(6)6National Malaria Control Centre, Zambia Ministry of Health, Lusaka, Zambia.
+
+Community-wide administration of antimalarial drugs in therapeutic doses is a 
+potential tool to prevent malaria infection and reduce the malaria parasite 
+reservoir. To measure the effectiveness and cost of using the antimalarial drug 
+combination dihydroartemisinin-piperaquine (DHAp) through different 
+community-wide distribution strategies, Zambia's National Malaria Control Centre 
+conducted a three-armed community-randomized controlled trial. The trial arms 
+were as follows: 1) standard of care (SoC) malaria interventions, 2) SoC plus 
+focal mass drug administration (fMDA), and 3) SoC plus MDA. Mass drug 
+administration consisted of offering all eligible individuals DHAP, irrespective 
+of a rapid diagnostic test (RDT) result. Focal mass drug administration 
+consisted of offering DHAP to all eligible individuals who resided in a 
+household where anyone tested positive by RDT. Results indicate that the costs 
+of fMDA and MDA per person targeted and reached are similar (US$9.01 versus 
+US$8.49 per person, respectively, P = 0.87), but that MDA was superior in all 
+cost-effectiveness measures, including cost per infection averted, cost per case 
+averted, cost per death averted, and cost per disability-adjusted life year 
+averted. Subsequent costing of the MDA intervention in a non-trial, operational 
+setting yielded significantly lower costs per person reached (US$2.90). Mass 
+drug administration with DHAp also met the WHO thresholds for "cost-effective 
+interventions" in the Zambian setting in 90% of simulations conducted using a 
+probabilistic sensitivity analysis based on trial costs, whereas fMDA met these 
+criteria in approximately 50% of simulations. A sensitivity analysis using costs 
+from operational deployment and trial effectiveness yielded improved 
+cost-effectiveness estimates. Mass drug administration may be a cost-effective 
+intervention in the Zambian context and can help reduce the parasite reservoir 
+substantially. Mass drug administration was more cost-effective in relatively 
+higher transmission settings. In all scenarios examined, the cost-effectiveness 
+of MDA was superior to that of fMDA.
+
+DOI: 10.4269/ajtmh.19-0661
+PMCID: PMC7416981
+PMID: 32618249 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure: The funding source had no role in 
+the conduct, analysis, or interpretation of results of the study. All authors 
+had full access to all the data in the study.
+
+
+904. Am J Gastroenterol. 2020 Jul;115(7):1019-1021. doi: 
+10.14309/ajg.0000000000000650.
+
+Overutilization of Endoscopic Surveillance in Barrett's Esophagus: The Perils of 
+Too Much of a Good Thing.
+
+Cotton CC(1), Shaheen NJ(1).
+
+Author information:
+(1)Division of Gastroenterology and Hepatology, Center for Esophageal Diseases 
+and Swallowing, University of North Carolina at Chapel Hill, Chapel Hill, North 
+Carolina, USA.
+
+Comment on
+    Am J Gastroenterol. 2020 Jul;115(7):1026-1035.
+
+A cost-utility analysis in the current issue of AJG examines the ramifications 
+of the overuse of surveillance endoscopy in Barrett's esophagus (BE). This study 
+suggests that excess surveillance is expensive, increasing costs by 50% or more, 
+with only nominal increases in quality-adjusted life expectancy. This study 
+joins a growing literature of cost-utility analyses that suggest that more is 
+not likely better when it comes to surveillance endoscopy. Given the plentiful 
+literature showing overutilization of surveillance endoscopy in BE, the authors 
+argue for a focus on the quality of endoscopy rather than increased frequency of 
+surveillance to improve returns on our healthcare investment.
+
+DOI: 10.14309/ajg.0000000000000650
+PMID: 32618650 [Indexed for MEDLINE]
+
+
+905. Lancet Public Health. 2020 Jul;5(7):e395-e403. doi: 
+10.1016/S2468-2667(20)30114-6.
+
+Population-based estimates of healthy working life expectancy in England at age 
+50 years: analysis of data from the English Longitudinal Study of Ageing.
+
+Parker M(1), Bucknall M(2), Jagger C(3), Wilkie R(4).
+
+Author information:
+(1)School of Primary, Community and Social Care, Keele University, Newcastle 
+under Lyme, UK. Electronic address: m.e.parker@keele.ac.uk.
+(2)School of Primary, Community and Social Care, Keele University, Newcastle 
+under Lyme, UK.
+(3)Population Health Sciences Institute, Newcastle University, Newcastle upon 
+Tyne, UK.
+(4)School of Primary, Community and Social Care, Keele University, Newcastle 
+under Lyme, UK; MRC Versus Arthritis Centre for Musculoskeletal Health and Work, 
+University of Southampton, Southampton, UK.
+
+Comment in
+    Lancet Public Health. 2020 Jul;5(7):e361.
+
+BACKGROUND: Retirement ages are rising in many countries to offset the 
+challenges of population ageing, but people's capacity to work for more years in 
+their later working life (>50 years) is unclear. We aimed to estimate healthy 
+working life expectancy in England.
+METHODS: This analysis included adults aged 50 years and older from six waves 
+(2002-13) of the English Longitudinal Study of Ageing (ELSA), with linked 
+mortality data. Healthy working life expectancy was defined as the average 
+number of years expected to be spent healthy (no limiting long-standing illness) 
+and in paid work (employment or self-employment) from age 50 years. Healthy 
+working life expectancy was estimated for England overall and stratified by sex, 
+educational attainment, deprivation level, occupation type, and region by use of 
+interpolated Markov chain multi-state modelling.
+FINDINGS: There were 15 284 respondents (7025 men and 8259 women) with survey 
+and mortality data for the study period. Healthy working life expectancy at age 
+50 years was on average 9·42 years (10·94 years [95% CI 10·65-11·23] for men and 
+8·25 years [7·92-8·58] for women) and life expectancy was 31·76 years (30·05 
+years for men and 33·49 years for women). The number of years expected to be 
+spent unhealthy and in work from age 50 years was 1·84 years (95% CI 1·74-1·94) 
+in England overall. Population subgroups with the longest healthy working life 
+expectancy were the self-employed (11·76 years [95% CI 10·76-12·76]) or those 
+with non-manual occupations (10·32 years [9·95-10·69]), those with a tertiary 
+education (11·27 years [10·74-11·80]), those living in southern England (10·73 
+years [10·16-11·30] in the South East and 10·51 years [9·80-11·22] in the South 
+West), and those living in the least deprived areas (10·53 years [10·06-10·99]).
+INTERPRETATION: Healthy working life expectancy at age 50 years in England is 
+below the remaining years to State Pension age. Older workers of lower 
+socioeconomic status and in particular regions in England might benefit from 
+proactive approaches to improve health, workplace environments, and job 
+opportunities to improve their healthy working life expectancy. Continued 
+monitoring of healthy working life expectancy would provide further examination 
+of the success of such approaches and that of policies to extend working lives.
+FUNDING: Economic and Social Research Council.
+
+Copyright © 2020 The Author(s). Published by Elsevier Ltd. This is an Open 
+Access article under the CC BY 4.0 license. Published by Elsevier Ltd.. All 
+rights reserved.
+
+DOI: 10.1016/S2468-2667(20)30114-6
+PMID: 32619541 [Indexed for MEDLINE]
+
+
+906. Cell Syst. 2020 Aug 26;11(2):176-185.e6. doi: 10.1016/j.cels.2020.06.006.
+Epub  2020 Jul 2.
+
+Quantitative Translation of Dog-to-Human Aging by Conserved Remodeling of the 
+DNA Methylome.
+
+Wang T(1), Ma J(1), Hogan AN(2), Fong S(3), Licon K(1), Tsui B(1), Kreisberg 
+JF(1), Adams PD(4), Carvunis AR(5), Bannasch DL(6), Ostrander EA(2), Ideker 
+T(7).
+
+Author information:
+(1)Division of Genetics, Department of Medicine, University of California, San 
+Diego, La Jolla, CA 92093, USA.
+(2)National Human Genome Research Institute, National Institutes of Health, 
+Bethesda, MD 20892, USA.
+(3)Department of Bioengineering, University of California, San Diego, La Jolla, 
+CA 92093, USA.
+(4)Sanford Burnham Prebys Medical Discovery Institute, San Diego, La Jolla, CA 
+92093, USA.
+(5)Department of Computational and Systems Biology, Pittsburgh Center for 
+Evolutionary Biology and Medicine, University of Pittsburgh School of Medicine, 
+Pittsburgh, PA 15213, USA.
+(6)Department of Population Health and Reproduction, School of Veterinary 
+Medicine, University of California, Davis, Davis, CA, USA.
+(7)Division of Genetics, Department of Medicine, University of California, San 
+Diego, La Jolla, CA 92093, USA; Department of Bioengineering, University of 
+California, San Diego, La Jolla, CA 92093, USA. Electronic address: 
+tideker@ucsd.edu.
+
+Comment in
+    Nat Rev Genet. 2020 Sep;21(9):508-509.
+
+All mammals progress through similar physiological stages throughout life, from 
+early development to puberty, aging, and death. Yet, the extent to which this 
+conserved physiology reflects underlying genomic events is unclear. Here, we map 
+the common methylation changes experienced by mammalian genomes as they age, 
+focusing on comparison of humans with dogs, an emerging model of aging. Using 
+oligo-capture sequencing, we characterize methylomes of 104 Labrador retrievers 
+spanning a 16-year age range, achieving >150× coverage within mammalian syntenic 
+blocks. Comparison with human methylomes reveals a nonlinear relationship that 
+translates dog-to-human years and aligns the timing of major physiological 
+milestones between the two species, with extension to mice. Conserved changes 
+center on developmental gene networks, which are sufficient to translate age and 
+the effects of anti-aging interventions across multiple mammals. These results 
+establish methylation not only as a diagnostic age readout but also as a 
+cross-species translator of physiological aging milestones.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cels.2020.06.006
+PMCID: PMC7484147
+PMID: 32619550 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interests T.I. is co-founder of 
+Data4Cure Inc, is on the Scientific Advisory Board, and has an equity interest. 
+T.I. is on the Scientific Advisory Board of Ideaya Biosciences, has an equity 
+interest, and receives sponsored research funding. The terms of these 
+arrangements have been reviewed and approved by the University of California San 
+Diego in accordance with its conflict of interest policies. T.I. and T.W. hold a 
+patent entitled “Methylome profiling of animals and uses thereof,” international 
+patent application #PCT/US18/49103, US application #16/638,454.
+
+
+907. Food Chem. 2020 Dec 1;332:127416. doi: 10.1016/j.foodchem.2020.127416. Epub
+2020  Jun 27.
+
+Nitric oxide alleviates lignification and softening of water bamboo (Zizania 
+latifolia) shoots during postharvest storage.
+
+Qi X(1), Ji Z(2), Lin C(3), Li S(4), Liu J(5), Kan J(6), Zhang M(7), Jin C(8), 
+Qian C(9).
+
+Author information:
+(1)Department of Horticulture, School of Horticulture and Plant Protection, 
+Yangzhou University, Yangzhou, China. Electronic address: xhqi@yzu.edu.cn.
+(2)Department of Food Science, School of Food Science and Engineering, Yangzhou 
+University, Yangzhou, China. Electronic address: jzj0923@qq.com.
+(3)Department of Food Science, School of Food Science and Engineering, Yangzhou 
+University, Yangzhou, China.
+(4)Xiaoshan Agricultural Technology Extension Center, Hangzhou, China.
+(5)Department of Food Science, School of Food Science and Engineering, Yangzhou 
+University, Yangzhou, China. Electronic address: junliu@yzu.edu.cn.
+(6)Department of Food Science, School of Food Science and Engineering, Yangzhou 
+University, Yangzhou, China. Electronic address: kanjuan@yzu.edu.cn.
+(7)Department of Food Science, School of Food Science and Engineering, Yangzhou 
+University, Yangzhou, China. Electronic address: mzhang@yzu.edu.cn.
+(8)Department of Food Science, School of Food Science and Engineering, Yangzhou 
+University, Yangzhou, China. Electronic address: chjin@yzu.edu.cn.
+(9)Department of Food Science, School of Food Science and Engineering, Yangzhou 
+University, Yangzhou, China. Electronic address: clqian@yzu.edu.cn.
+
+Water bamboo shoots quickly deteriorate after harvest as a result of rapid 
+lignification and softening. Nitric oxide (NO) has been used to extend the 
+postharvest life of several other vegetables. Here, we examined the effect of NO 
+on the storage of water bamboo shoots at 4℃ for 28 days. Without NO, fresh 
+weight and firmness decreased quickly, while the cellulose and lignin contents 
+increased sharply during storage. NO treatment delayed softening by maintaining 
+the integrity of the cell wall and inhibiting the degradation of protopectin and 
+the expressions of pectin methylesterase and polygalacturonase. NO treatment 
+also delayed cellulose synthesis by increasing cellulase activity. NO treatment 
+decreased the synthesis of lignin by inhibiting the activities of phenylalanine 
+ammonia-lyase, cinnamyl alcohol dehydrogenase, laccase and peroxidase. These 
+results indicate that NO treatment is effective at suppressing the softening and 
+lignification of water bamboo shoots during postharvest storage.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.foodchem.2020.127416
+PMID: 32619946 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+908. J Med Econ. 2020 Oct;23(10):1130-1141. doi: 10.1080/13696998.2020.1791890.
+Epub  2020 Jul 23.
+
+Cost-effectiveness analysis of treatment regimens with obinutuzumab plus 
+chemotherapy in Japan for untreated follicular lymphoma patients.
+
+Ohno S(1)(2), Shoji A(3)(4), Hatake K(5), Oya N(2), Igarashi A(4)(6).
+
+Author information:
+(1)Global Regulatory Science, Gifu Pharmaceutical University, Gifu, Japan.
+(2)Chugai Pharmaceutical Co., Ltd., Tokyo, Japan.
+(3)Medilead, Inc., Tokyo, Japan.
+(4)Department of Health Economics and Outcomes Research, Graduate School of 
+Pharmaceutical Sciences, The University of Tokyo, Tokyo, Japan.
+(5)International University of Health and Welfare, Tokyo, Japan.
+(6)Unit of Public Health and Preventive Medicine, Yokohama City University 
+School of Medicine, Yokohama, Japan.
+
+AIMS: Obinutuzumab (GA101; G) is a new treatment for follicular lymphoma (FL) 
+that is anticipated to have greater efficacy than the current treatment, 
+rituximab (R). The aim of this study was to evaluate the cost-effectiveness of G 
+plus chemotherapy (G + Chemo) against that of R plus chemotherapy (R + Chemo) 
+for patients in Japan with previously untreated FL.
+MATERIALS AND METHODS: We localized a previously reported cost-effectiveness 
+model using the Japanese cost data. For estimating costs adapted in the model, 
+FL patients treated with R were identified from Japanese hospital-based claims 
+database and classified into three treatment regimen groups according to 
+chemotherapies used with R: CHOP, CVP, and bendamustine (B). Based on services 
+per patient and cost items, parameters determining the cost amounts were derived 
+using a multivariate generalized linear mixed model to estimate the direct 
+medical costs for each treatment regimen group for G and R. For the utility, 
+same values in the previous model were used. Lifetime cost and quality-adjusted 
+life year (QALY) were estimated under the payer's perspective.
+RESULTS: The calculated incremental cost-effectiveness ratios (ICERs) in million 
+JPY per QALY for G-CHOP vs. R-CHOP, G-CVP vs. R-CVP, and G-B vs. R-B were 5.4, 
+4.3, and 4.8, respectively. ICERs were lower than 7.5 million JPY per QALY, 
+which is the cost-effectiveness threshold for cancer treatments, and showed that 
+G + Chemo is a cost-effective treatment regimen for Japanese patients with 
+previously untreated FL. Lifetime direct medical costs were lowest in the R-B 
+group because hospitalization costs that accounted for most of the total cost 
+were lowest in this group. Limitations and conclusions: The cost-effectiveness 
+of G + Chemo is acceptable in Japan. Differences in the direct medical costs 
+among treatment regimen groups were mostly due to hospitalization costs. This is 
+probably because many Japanese hematologists choose inpatient treatments over 
+outpatient treatments in CHOP-based induction therapy.
+
+DOI: 10.1080/13696998.2020.1791890
+PMID: 32620061 [Indexed for MEDLINE]
+
+
+909. BMC Musculoskelet Disord. 2020 Jul 3;21(1):431. doi:
+10.1186/s12891-020-03469-x.
+
+Association between musculoskeletal function deterioration and locomotive 
+syndrome in the general elderly population: a Japanese cohort survey randomly 
+sampled from a basic resident registry.
+
+Tokida R(1), Ikegami S(2)(3), Takahashi J(4), Ido Y(1), Sato A(1), Sakai N(5), 
+Horiuchi H(1), Kato H(1)(4).
+
+Author information:
+(1)Rehabilitation Center, Shinshu University Hospital, Asahi 3-1-1, Matsumoto, 
+Nagano, 390-8621, Japan.
+(2)Rehabilitation Center, Shinshu University Hospital, Asahi 3-1-1, Matsumoto, 
+Nagano, 390-8621, Japan. sh.ikegami@gmail.com.
+(3)Department of Orthopaedic Surgery, Shinshu University School of Medicine, 
+Asahi 3-1-1, Matsumoto, Nagano, 390-8621, Japan. sh.ikegami@gmail.com.
+(4)Department of Orthopaedic Surgery, Shinshu University School of Medicine, 
+Asahi 3-1-1, Matsumoto, Nagano, 390-8621, Japan.
+(5)Department of Orthopaedic Surgery, New Life Hospital, Obuse, Kamitakai-gun, 
+Nagano, 381-0295, Japan.
+
+BACKGROUND: Locomotive syndrome (LoS) is defined as the loss of mobility due to 
+age-related impairment of motor organs. The purpose of this study was to 
+evaluate the prevalence and severity of LoS, muscular strength and balancing 
+ability, and prevalence of sarcopenia in relation to the presence of LoS 
+according to sex and age groups ranging between 50 and 89 years.
+METHODS: Male and female participants between the ages of 50-89 were randomly 
+selected in the resident registry of a cooperating town. Calls for participation 
+continued until approximately 50 consenting participants were successfully 
+recruited for each age group and sex. A total of 413 participants (203 male and 
+210 female) were enrolled for undergoing a LoS risk test and measuring their 
+physical function. Physical function was compared to participants with or 
+without LoS.
+RESULTS: A total of 312 patients (75.5%) were diagnosed as LoS, of which 144 
+(46.2%) were male and 168 (53.8%) were female. The severity of LoS for the 312 
+patients were 210 (67.3%) for stage 1 and 102 (32.7%) for stage 2. The 
+prevalence of LoS in males were 37, 59, 91, and 100% in the 50s, 60s, 70s, and 
+80s age strata, respectively. The prevalence of LoS in females were 71, 62, 89, 
+and 98% in the 50s, 60s, 70s, and 80s age strata, respectively. The prevalence 
+of sarcopenia was significantly higher as the age strata in males grew higher. 
+Knee extension strength was significantly lower for participants in their 50s 
+and females in addition to females in their 60s with LoS. The 31 patients 
+diagnosed as sarcopenia included 29 (93.5%) with LoS, 11 (35.4%) classified as 
+LoS stage 1, and 18 (58.1%) classified as stage 2.
+CONCLUSIONS: The prevalence of LoS was high in participants over 70 years of 
+age. In males, the prevalence of sarcopenia was higher as the age strata grew 
+higher. Patients with LoS exhibited lower knee extension strength. We believe 
+that some measures to prevent or improve LoS may require exercise to increase 
+the muscle strength of the lower limbs.
+
+DOI: 10.1186/s12891-020-03469-x
+PMCID: PMC7334862
+PMID: 32620119 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+910. Popul Health Metr. 2020 Jul 3;18(1):3. doi: 10.1186/s12963-020-00210-7.
+

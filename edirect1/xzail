@@ -1,0 +1,1000 @@
+for the diagnosis of renal artery stenosis. Management decisions should be 
+conditional on the prior probability.
+
+DOI: 10.1148/radiol.2442060713
+PMID: 17581886 [Indexed for MEDLINE]
+
+
+763. J Am Soc Nephrol. 2007 Jul;18(7):2125-34. doi: 10.1681/ASN.2006091048. Epub
+2007  Jun 20.
+
+Effect of age, gender, and diabetes on excess death in end-stage renal failure.
+
+Villar E(1), Remontet L, Labeeuw M, Ecochard R.
+
+Author information:
+(1)Department of Nephrology, Dialysis and Transplantation, Lyon Sud Hospital, 
+Pierre-Bénite, Lyon, France. emmanuel.villar@chu-lyon.fr
+
+Life expectancy is short in elderly individuals with end-stage renal failure 
+(ESRF). This study aimed to compare mortality in patients with ESRF versus the 
+general population (GP) to assess the evolution of excess mortality by age, 
+gender, nephropathy, and dialysis modality after first dialysis. All incident 
+adult dialysis patients from January 1,1999, to December 31, 2003, who lived in 
+Rhône-Alpes Region (France) were included and followed up to death or December 
+31, 2005. Standardized mortality ratios (SMR) in comparison with GP were 
+computed in the first to the fifth years after first dialysis. In the whole 
+cohort (3025 incident patients), SMR decreased during these 5 yr from 7.4 to 5.2 
+(P = 0.002). In the 18- to 44-, 45- to 64-, 65- to 74-, 75- to 84-, and > or 
+=85-yr-old groups, SMR decreased from 26.7 to 6.2 (P = 0.01), from 12.8 to 8.1 
+(P = 0.03), from 8.6 to 5.6 (P = 0.051), from 7.1 to 4.5 (P = 0.02), and from 
+3.5 to 1.2 (P = 0.14), respectively. Among age categories, differences were 
+significant in the first 3 yr (P < 0.05). SMR were higher 1.5-fold in women than 
+in men in the first 4 yr (P < 0.05). In patients with diabetic nephropathy (DN), 
+SMR increased during the first 3 yr (P = 0.045) and were higher than in patients 
+without DN in the second, third, and fourth years (P < 0.05). SMR were higher in 
+the peritoneal dialysis than in the hemodialysis group in the fourth year (P < 
+0.01). Patients with ESRF have a high excess mortality compared with the GP. 
+Older patients with ESRF experienced less excess mortality. ESRF cancels out 
+women's survival advantage noted in the GP. SMR evolution in patients with DN 
+was different from that in patients without DN.
+
+DOI: 10.1681/ASN.2006091048
+PMID: 17582163 [Indexed for MEDLINE]
+
+
+764. Comput Biol Med. 2007 Dec;37(12):1741-9. doi:
+10.1016/j.compbiomed.2007.04.010.  Epub 2007 Jun 19.
+
+Making relative survival analysis relatively easy.
+
+Pohar M(1), Stare J.
+
+Author information:
+(1)Department of Medical Informatics, University of Ljubljana, Vrazov trg 2, 
+SI-1000 Ljubljana, Slovenia. maja.pohar@mf.uni-lj.si
+
+In survival analysis we are interested in time from the beginning of an 
+observation until certain event (death, relapse, etc.). We assume that the final 
+event is well defined, so that we are never in doubt whether the final event has 
+occurred or not. In practice this is not always true. If we are interested in 
+cause-specific deaths, then it may sometimes be difficult or even impossible to 
+establish the cause of death, or there may be different causes of death, making 
+it impossible to assign death to just one cause. Suicides of terminal cancer 
+patients are a typical example. In such cases, standard survival techniques 
+cannot be used for estimation of mortality due to a certain cause. The cure to 
+the problem are relative survival techniques which compare the survival 
+experience in a study cohort to the one expected should they follow the 
+background population mortality rates. This enables the estimation of the 
+proportion of deaths due to a certain cause. In this paper, we briefly review 
+some of the techniques to model relative survival, and outline a new fitting 
+method for the additive model, which solves the problem of dependency of the 
+parameter estimation on the assumption about the baseline excess hazard. We then 
+direct the reader's attention to our R package relsurv that provides functions 
+for easy and flexible fitting of all the commonly used relative survival 
+regression models. The basic features of the package have been described in 
+detail elsewhere, but here we additionally explain the usage of the new fitting 
+method and the interface for using population mortality data freely available on 
+the Internet. The combination of the package and the data sets provides a 
+powerful informational tool in the hands of a skilled 
+statistician/informatician.
+
+DOI: 10.1016/j.compbiomed.2007.04.010
+PMID: 17582396 [Indexed for MEDLINE]
+
+
+765. Eur J Health Econ. 2007 Sep;8 Suppl 1:S5-31. doi: 10.1007/s10198-007-0063-4.
+
+Methods for determining cost-benefit ratios for pharmaceuticals in Germany.
+
+von der Schulenburg J(1), Vauth C, Mittendorf T, Greiner W.
+
+Author information:
+(1)School of Economics and Management, Centre for Health Economics and Health 
+System Research, Leibniz University Hanover, Hannover, Germany.
+
+Comment in
+    Eur J Health Econ. 2007 Sep;8 Suppl 1:S3.
+
+The aim of this methodological paper is to summarize evidence on how to 
+implement cost-benefit assessment according to the new German legislative 
+framework (Competition Enhancement Act). Given the complexity of existing health 
+policy frameworks within industrialised countries in adapting health economics 
+in their respective regulatory scheme, no clear international scientific 
+consensus on which health economic methods should be chosen for assessment can 
+be determined. Nevertheless, a broad consensus on the internal properties of 
+methods itself can be found. Based on these common international standards in 
+methodology, this work provides a minimum catalogue of methods and criteria that 
+meet legal and local German requirements with regard to specific factors of its 
+health care system. Aside from categorising clearly defined standards (e.g., 
+study forms, cost and benefit categories) the suggested catalogue specifies some 
+intensively debated areas in Germany (e.g., the QALY, modelling, the perspective 
+used in the assessment). After the proposition of certain methods the paper 
+leads to a first recommendation of a detailed assessment-process itself specific 
+for the German way in implementing cost-benefit ratios within regulatory 
+decision making in Germany.
+
+DOI: 10.1007/s10198-007-0063-4
+PMID: 17582539 [Indexed for MEDLINE]
+
+
+766. Ned Tijdschr Geneeskd. 2007 Jan 6;151(1):89-92.
+
+[Doctors should not rest in an uneven world].
+
+[Article in Dutch]
+
+Mackenbach J.
+
+PMID: 17583050 [Indexed for MEDLINE]
+
+
+767. Ned Tijdschr Geneeskd. 2007 Jan 6;151(1):93.
+
+[Physicians burn up faster].
+
+[Article in Dutch]
+
+van Putten BM.
+
+PMID: 17583051 [Indexed for MEDLINE]
+
+
+768. Vasc Health Risk Manag. 2007;3(1):11-22.
+
+A review of pulmonary arterial hypertension: role of ambrisentan.
+
+Barst RJ(1).
+
+Author information:
+(1)New York Presbyterian Pulmonary Hypertension Center, Columbia University 
+College of Physicians & Surgeons, 3959 Broadway, BHN 2-255, NewYork, NY 10032, 
+USA. rjb3@columbia.edu
+
+Pulmonary arterial hypertension (PAH) is a rare fatal disease. Current 
+disease-specific therapeutic interventions in PAH target 1 of 3 established 
+pathways in disease pathobiology: prostacyclin, nitric oxide, and endothelin-1. 
+Endothelin receptor antagonists (ERAs) act on the endothelin pathway by blocking 
+binding of endothelin-1 to its receptors (endothelin type-A [ET(A)] and/or 
+type-B [ET(B)]) on the surface of endothelial and smooth muscle cells. 
+Ambrisentan is an oral, once-daily, ET(A)-selective ERA in development for the 
+treatment of PAH. In Phase 3 clinical trials in patients with PAH, ambrisentan 
+(2.5-10 mg orally once-daily) improved exercise capacity, Borg dyspnea index, 
+time to clinical worsening, WHO functional class, and quality of life compared 
+with placebo. Ambrisentan provided durable (at least 2 years) improvement in 
+exercise capacity in a Phase 2 long-term extension study. Ambrisentan was well 
+tolerated with a lower incidence and severity of liver function test 
+abnormalities compared with the ET(A)/ET(B) ERA, bosentan, and the 
+ET(A)-selective ERA, sitaxsentan. Ambrisentan does not induce or inhibit P450 
+enzymes; therefore, ambrisentan is unlikely to affect the pharmacokinetics of 
+P450-metabolized drugs. The demonstration of clinical efficacy, low incidence of 
+acute hepatic toxicity, and low risk of drug-drug interactions support the role 
+of ambrisentan for the treatment of PAH.
+
+PMCID: PMC1994051
+PMID: 17583171 [Indexed for MEDLINE]
+
+
+769. J Reprod Med. 2007 May;52(5):422-4.
+
+Leiomyomatosis peritonealis disseminata presenting with intravascular extension 
+and coexisting with endometriosis: a case report.
+
+Haberal A(1), Kayikcioglu F, Caglar GS, Cavusoglu D.
+
+Author information:
+(1)Department of Obstetrics and Gynecology, SSK Ankara Maternity and Women's 
+Health Teaching Hospital, Ankara, Turkey.
+
+BACKGROUND: Leiomyomatosis peritonealis disseminata is a benign disease of women 
+of reproductive age. Female gonadal steroids play the major role in 
+pathogenesis, but reported cases in postmenopausal women suggests other factors. 
+A few cases in the literature with coexisting endometriosis confirm the 
+hypothesis that both originate in submesothelial multipotential mesenchymal 
+cells. The clinical behavior can be life threatening due to extension through 
+the pelvic veins.
+CASE: A 46-year-old woman with endometriosis diagnosed at laparotomy 3 years 
+earlier presented with a huge pelvic mass. Postoperative histologic examination 
+of the peritoneal nodules confirmed the diagnosis. Magnetic resonance 
+angiography performed postoperatively revealed intravenous leiomyomatosis. 
+Surgical castration was satisfactory after 2 years of follow-up.
+CONCLUSION: Although malignant transformation of the disease is known, 
+intravascular extension of the tumor increases the risk of mortality. Close 
+follow-up by clinical examination and radiologic evaluations is required.
+
+PMID: 17583244 [Indexed for MEDLINE]
+
+
+770. J Environ Health. 2007 Jun;69(10):86, 85.
+
+Rethinking retirement--and a footnote on diversity.
+
+Fabian N.
+
+PMID: 17583301 [Indexed for MEDLINE]
+
+
+771. Rev Neurol. 2007 Jun 16-30;44(12):733-8.
+
+[Mild cognitive impairment: a prevalence and sociodemographic factors study in 
+the city of Córdoba, Argentina].
+
+[Article in Spanish]
+
+Mías CD(1), Sassi M, Masih ME, Querejeta A, Krawchik R.
+
+Author information:
+(1)Servicio de Neuropsicología, Facultad de Psicología, Universidad Nacional de 
+Córdoba, Córdoba, Argentina. cdmias@psyche.nc.edu.ar
+
+INTRODUCTION: The increase in life expectancy and the significant growth in the 
+population of the elderly have generated an interest in secondary prevention of 
+different diseases, especially from the age of 50. In Argentina, those over 65 
+represent 10% of the total population, what makes important to research into 
+their mental health. A trans-sectional descriptive study has been carried out in 
+four neuropsychology services in the city of Cordoba, within the framework of a 
+campaign assessing memory for people over 50.
+SUBJECTS AND METHODS: In three months, 418 volunteers took part, with an average 
+age of 64.24 years and 12.76 years of instruction, mostly belonging to a urban 
+environment (80%). They were administered Folstein's Minimental State, 
+neuropsychological tests and behavioral measures in two work sessions.
+RESULTS: The majority was found to have normal performances (75.6%, n = 316) at 
+both behavioral and neuropsychological levels. A lower percentage was found at 
+the borders of normality (8.6%, n = 36). 9.1% (n = 38) of those studied were 
+found to have an amnesiac type of mild cognitive impairment, and 4.5% (n = 19) a 
+multidomain type of deterioration. In sum, about 13.6% of people have a greater 
+chance of developing dementia in coming years.
+CONCLUSION: The socio-demographic variables that most influence cognitive state 
+appear to be the female gender, age higher than 65 years, lower levels of 
+instruction, fewer children and fewer siblings.
+
+PMID: 17583866 [Indexed for MEDLINE]
+
+
+772. Curr Med Chem. 2007;14(13):1399-407. doi: 10.2174/092986707780831195.
+
+Pharmacologic therapy in growth hormone disorders and the heart.
+
+Climent V(1), Marín F, Picó A.
+
+Author information:
+(1)Department of Cardiology, General Hospital of Alicante, Spain.
+
+Growth hormone (GH)/insulin-like growth factor-I (IGF-I) axis is not only 
+involved in the regulation of somatic growth but also has important 
+physiological functions in adults. Several studies have shown that GH deficiency 
+in adults is associated with abnormalities in body composition, metabolic 
+derangements, and suboptimal physical performance. Furthermore, GH/IGF-I axis 
+plays an important role in the maintenance of heart structure and function. 
+Until recently, GH therapy was only used to treat short stature children, with 
+or without established GH deficiency, and it remains common practice to 
+discontinue GH replacement therapy when final height is achieved. Acromegaly, 
+entity characterized by GH hypersecretion, is associated with an increased risk 
+of premature death. Cardiac complications are known to be major determinants of 
+the shortened life expectancy. Treatment of acromegaly accounts for a 
+substantial decrease in morbidity and mortality. Surgery, radiation therapy and 
+bromocriptine have only been able to reduce GH levels to normal levels in 10-30% 
+of patients. The synthesis of somatostatin analogs has provided a new approach 
+to acromegaly treatment. These drugs reduce GH and IGF-I levels in 80% of cases 
+and normalize them in 40-60% of cases. Finally, GH/IGF-I system improves left 
+ventricular systolic function and has also indirect effects on the 
+cardiovascular system, mainly as a consequence of the peripheral vasodilatation. 
+These effects are important in the understanding of the potential role of GH on 
+improving ventricular systolic dysfunction and point to the use of GH as a 
+potential therapy for chronic heart failure. The aim of the present review is to 
+provide an update overview describing the role of GH on acromegaly, adult GH 
+deficiency and heart failure, as well as the influence of GH-based therapy on 
+heart structure and function.
+
+DOI: 10.2174/092986707780831195
+PMID: 17584052 [Indexed for MEDLINE]
+
+
+773. Br J Ophthalmol. 2007 Dec;91(12):1675-9. doi: 10.1136/bjo.2007.118687. Epub
+2007  Jun 21.
+
+Falls and health status in elderly women following first eye cataract surgery: 
+an economic evaluation conducted alongside a randomised controlled trial.
+
+Sach TH(1), Foss AJ, Gregson RM, Zaman A, Osborn F, Masud T, Harwood RH.
+
+Author information:
+(1)School of Chemical Sciences and Pharmacy, University of East Anglia, Norwich 
+NR4 7TJ, UK. T.Sach@uea.ac.uk
+
+AIM: To evaluate the cost-effectiveness of first eye cataract surgery compared 
+with no surgery from a health service and personal social services perspective.
+METHODS: An economic evaluation undertaken alongside a randomised controlled 
+trial of first eye cataract surgery in secondary care ophthalmology clinics. A 
+sample of 306 women over 70 years old with bilateral cataracts was randomised to 
+cataract surgery (expedited, approximately four weeks) or control (routine, 12 
+months wait); 75% of participants had baseline acuity of 6/12 or better. 
+Outcomes included falls and the EuroQol EQ-5D.
+RESULTS: The operated group cost a mean pounds sterling 2004 (bootstrapped) more 
+than the control group over one year (95% confidence interval (CI), pounds 
+sterling 1363 to pounds sterling 2833) (p<0.001), but experienced on average 
+0.456 fewer falls, an incremental cost per fall prevented of pounds sterling 
+4390. The bootstrapped mean gain in quality adjusted life years (QALYs) per 
+patient was 0.056 (95% CI, 0.006 to 0.108) (p<0.001). The incremental 
+cost-utility ratio was pounds sterling 35 704, above the currently accepted UK 
+threshold level of willingness to pay per QALY of pounds sterling 30 000. 
+However, in an analysis modelling costs and benefits over patients' expected 
+lifetime, the incremental cost per QALY was pounds sterling 13 172, under 
+conservative assumptions.
+CONCLUSIONS: First eye cataract surgery, while cost-ineffective over the trial 
+period, was probably cost-effective over the participants' remaining lifetime.
+
+DOI: 10.1136/bjo.2007.118687
+PMCID: PMC2095519
+PMID: 17585002 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+774. Med Decis Making. 2007 Jul-Aug;27(4):414-22. doi: 10.1177/0272989X07302128.
+Epub  2007 Jun 21.
+
+Abnormal outcomes following cervical cancer screening: event duration and health 
+utility loss.
+
+Insinga RP(1), Glass AG, Myers ER, Rush BB.
+
+Author information:
+(1)Department of Health Economic Statistics, Merck Research Laboratories, North 
+Wales, Pennsylvania, USA. Ralph_insinga@merck.com
+
+BACKGROUND: For decision analytic models, little empirical data are available 
+from which to model the amount of time women spend with various cervical 
+cytologic and histologic diagnoses following an abnormal Pap smear or the 
+associated loss in quality-adjusted life-years (QALYs).
+METHODS: The authors retrospectively examined administrative and cytopathology 
+data for women with abnormal routine cervical smears within the Kaiser 
+Permanente Northwest (Portland, OR) health plan during 1998. Data were examined 
+through the conclusion of follow-up, with final outcomes categorized as cervical 
+intraepithelial neoplasia (CIN) grades 1 to 3 (n = 201) or a false-positive 
+result (n = 722) if no CIN or cancer was detected on follow-up. CIN outcomes 
+were assigned according to the initial grade of dysplasia observed during the 
+care episode in the primary analysis. The number of months spent with various 
+cytologic and histologic diagnoses during the course of follow-up was tabulated, 
+and utility weights were assigned using data from a prior study reporting time 
+tradeoff scores for cervical health states.
+RESULTS: The average total duration of follow-up was between 18 and 22 months 
+for women with CIN, compared with 10 months for a false-positive Pap smear. The 
+number of months spent with either an abnormal cytologic or histologic diagnosis 
+was greater (P = 0.01) for women with CIN 1 (12.6 months) than CIN 3 (9.2 
+months), although this relationship was reversed for time spent receiving 
+negative follow-up Pap smears and biopsies to rule out the presence of CIN and 
+cancer. Total QALY losses per episode of care were estimated to be 0.11 for all 
+3 grades of CIN and 0.04 for a false-positive Pap smear.
+CONCLUSIONS: The health and psychosocial burdens associated with follow-up for 
+abnormal Pap smears translate into tangible QALY losses in a decision analytic 
+context, with women receiving many months of follow-up and a variety of 
+cytologic and histologic diagnoses over the course of a care episode.
+
+DOI: 10.1177/0272989X07302128
+PMID: 17585005 [Indexed for MEDLINE]
+
+
+775. Med Decis Making. 2007 Jul-Aug;27(4):406-13. doi: 10.1177/0272989X07302127.
+Epub  2007 Jun 21.
+
+Extrinsic goals and time tradeoff.
+
+van der Pol M(1), Shiell A.
+
+Author information:
+(1)Health Economics Research Unit, University of Aberdeen, Scotland. 
+m.vanderpol@abdn.ac.uk
+
+BACKGROUND: The aim of this article is to investigate the extrinsic goals 
+hypothesis in time tradeoff (TTO). The extrinsic goal of interest here is seeing 
+children through to maturity. In TTO, the time it takes to attain this goal 
+becomes a target life expectancy, with no trades happening below the critical 
+value implied by the target, no matter how severe the health state.
+METHODS: A combined quantitative and qualitative approach was used to elicit 
+values for 4 EQ-5D states from 30 recent mothers. The qualitative analysis 
+allowed the researchers to explore with participants whether a target life 
+expectancy was being used.
+RESULTS: The differences in the visual analogue scale and TTO scores of the 
+mothers compared with the general population suggest that the mothers value 
+life-years differently than the general population does. The finding was also 
+consistent with the target life expectancy hypothesis. However, the interview 
+data were not so strongly supportive of the target life expectancy hypothesis. 
+Although some women suggested this had motivated their responses to the TTO, the 
+interviews paint a more complicated and nuanced picture of what drives a 
+person's responses to health valuation surveys.
+CONCLUSIONS: A higher value was assigned to life-years relative to quality of 
+life by recent parents, but there was no reduction in the willingness to trade 
+per se. Parenthood affects how much one will trade for better health but not 
+whether one will trade in the 1st place. This conclusion became apparent only 
+when the qualitative and quantitative data were combined.
+
+DOI: 10.1177/0272989X07302127
+PMID: 17585007 [Indexed for MEDLINE]
+
+
+776. Asian J Surg. 2002 Jan;25(1):13-7.
+
+Necrotizing fasciitis of head & neck: the Pakistani experience.
+
+Ikram M(1), Saeed O, Ali SS, Salahuddin I.
+
+Author information:
+(1)Department of Otorhinolaryngology-Head & Neck Surgery, Aga Khan University 
+Hospital, Stadium Road, Karachi, Pakistan. mubasher.ikram@aku.edu
+
+Necrotizing fasciitis is a potentially life threatening, rapidly spreading 
+polymicrobial infection rarely seen in the head and neck region. We present our 
+experience of managing five patients with necrotizing fasciitis of head and neck 
+at the Aga Khan University Hospital, Karachi, Pakistan. One patient had 
+necrotizing fasciitis of the facial region only; three had necrotizing fasciitis 
+of the neck region; and one patient had necrotizing fasciitis of the neck with 
+extension to the chest. None of these patients was immunocompromised. Dental 
+foci of infection was the root cause in three of the patients. Imaging was not 
+only diagnostic but also helped to identify the extent of the disease. All five 
+patients had early extensive multiple debridments, and received multiple 
+antibiotic therapy and intensive care support. Four patients survived. We 
+conclude that necrotizing fasciitis is a very aggressive infection, which may be 
+misdiagnosed unless imaging examination is performed early. Aggressive medical 
+and surgical treatment results in good survival but extension of disease beyond 
+the neck into the chest carries a poor prognosis.
+
+PMID: 17585440 [Indexed for MEDLINE]
+
+
+777. Surg Neurol. 2007 Jul;68(1):112-3. doi: 10.1016/j.surneu.2007.04.012.
+
+What will you do with the rest of your life?
+
+Ausman JI.
+
+DOI: 10.1016/j.surneu.2007.04.012
+PMID: 17586245 [Indexed for MEDLINE]
+
+
+778. RNA. 2007 Jul;13(7):1017-26. doi: 10.1261/rna.548807.
+
+Selection of an improved RNA polymerase ribozyme with superior extension and 
+fidelity.
+
+Zaher HS(1), Unrau PJ.
+
+Author information:
+(1)Department of Molecular Biology and Biochemistry, Simon Fraser University, 
+BC, Canada.
+
+Our current understanding of biology suggests that early life relied 
+predominantly on RNA for catalysis and replication. Here, we report the 
+isolation of an RNA polymerase ribozyme called B6.61 that exhibits superior 
+extension and fidelity relative to its progenitor, the Round-18 polymerase. The 
+B6.61 polymerase was selected from a mutagenized pool containing approximately 9 
+x 10(14) sequence variants through the use of a novel large-scale in vitro 
+compartmentalization system. B6.61 polymerized all tested primer-template (PT) 
+complexes faster than the Round-18 variant. For one PT, B6.61 exhibited 
+dramatically faster elongation past one full helical turn and incorporated at 
+least 20 nucleotides of sequence, setting a new extension record for an RNA 
+polymerase ribozyme. The increased efficiency of the B6.61 construct was related 
+to improvements in fidelity, with the new variant incorporating less incorrect 
+wobble base pairs than its parent. This new polymerase demonstrates the 
+feasibility of evolving an artificial RNA replicase ribozyme in the foreseeable 
+future.
+
+DOI: 10.1261/rna.548807
+PMCID: PMC1894930
+PMID: 17586759 [Indexed for MEDLINE]
+
+
+779. Lifetime Data Anal. 2007 Sep;13(3):381-97. doi: 10.1007/s10985-007-9040-6.
+Epub  2007 Jun 21.
+
+Distribution of the random future life expectancies in log-bilinear mortality 
+projection models.
+
+Denuit M(1).
+
+Author information:
+(1)Institut de Statistique & Institut des Sciences Actuarielles, Université 
+Catholique de Louvain, Louvain-la-Neuve, Belgium. denuit@stat.ucl.ac.be
+
+Projected life tables are obtained from forecasting methods and account for 
+future improvements in longevity. Since the future path of mortality is unknown, 
+working with projected life tables makes the survival probabilities stochastic. 
+The resulting demographic indicators in turn become random variables. This paper 
+aims to study the distribution of period and cohort life expectancies derived 
+from projected life tables. To fix the ideas, we adopt here the standard 
+Lee-Carter framework, where the future forces of mortality are decomposed in a 
+log-bilinear way. Exact formulas are derived for period life expectancies, and 
+approximations are proposed for cohort life expectancies. In the latter case, 
+numerical illustrations based on Belgian population data show that the relative 
+accuracy is remarkable.
+
+DOI: 10.1007/s10985-007-9040-6
+PMID: 17587177 [Indexed for MEDLINE]
+
+
+780. Exp Gerontol. 2007 Aug;42(8):798-806. doi: 10.1016/j.exger.2007.04.013. Epub
+ 2007 May 10.
+
+Modifications of plasma proteome in long-lived rats fed on a coenzyme 
+Q10-supplemented diet.
+
+Santos-González M(1), Gómez Díaz C, Navas P, Villalba JM.
+
+Author information:
+(1)Departamento de Biología Celular, Fisiología e Inmunología, Facultad de 
+Ciencias, Campus Rabanales, Ed. Severo Ochoa, 3a planta, Universidad de Córdoba, 
+E-14014 Córdoba, Spain.
+
+Dietary coenzyme Q(10) prolongs life span of rats fed on a PUFAn-6-enriched 
+diet. Our aim was to analyze changes in the levels of plasma proteins of rats 
+fed on a PUFAn-6 plus coenzyme Q(10)-based diet. This approach could give novel 
+insights into the mechanisms of life span extension by dietary coenzyme Q(10) in 
+the rat. Serum albumin, which decreases with aging in the rat, was significantly 
+increased by coenzyme Q(10) supplementation both at 6 and 24 months. After 
+depletion of the most abundant proteins by affinity chromatography, levels of 
+less abundant plasma proteins were also studied by using 2D-electrophoresis and 
+MALDI-TOF mass fingerprinting analysis. Our results have shown that lifelong 
+dietary supplementation with coenzyme Q(10) induced significant decreases of 
+plasma hemopexin, apolipoprotein H and inter-alpha-inhibitor H4P heavy chain (at 
+both 6 and 24 months), preprohaptoglobin, fibrinogen gamma-chain precursor, and 
+fetuin-like protein (at 6 months), and alpha-1-antitrypsin precursor and type II 
+peroxiredoxin (at 24 months). On the other hand, coenzyme Q(10) supplementation 
+resulted in significant increases of serine protease inhibitor 3, vitamin 
+D-binding protein (at 6 months), and Apo A-I (at 24 months). Our results support 
+a beneficial role of dietary coenzyme Q(10) decreasing oxidative stress and 
+cardiovascular risk, and modulating inflammation during aging.
+
+DOI: 10.1016/j.exger.2007.04.013
+PMID: 17587521 [Indexed for MEDLINE]781. Eur J Cancer. 2007 Jul;43(11):1687-93. doi: 10.1016/j.ejca.2007.05.001. Epub
+ 2007 Jun 22.
+
+An economic evaluation of oxaliplatin for the adjuvant treatment of colon cancer 
+in the United Kingdom (UK).
+
+Aballéa S(1), Boler A, Craig A, Wasan H.
+
+Author information:
+(1)i3 Innovus, Uxbridge, Middlesex, United Kingdom.
+
+The MOSAIC study was the first trial to show a statistically significant 
+disease-free survival benefit for a treatment regimen for stage III colon cancer 
+in the adjuvant setting. At 4 years, there was a 25% reduction in the risk of 
+disease recurrence in these patients for the combination of oxaliplatin/5-FU/FA 
+compared with 5-FU/FA alone (p=0.002). This analysis evaluates the long-term 
+cost effectiveness of oxaliplatin given in combination with 5-FU/FA from the 
+perspective of the NHS in the United Kingdom (UK). The cost per quality-adjusted 
+life-year gained over a lifetime was calculated using patient level data from 
+the MOSAIC trial. Trial data were available for a median of 4 years of 
+follow-up, these data were then extrapolated to a lifetime horizon. The 
+estimated incremental lifetime cost per quality-adjusted life-year of 
+oxaliplatin/5-FU/FA compared with 5-FU/FA alone in patients with stage III 
+postoperative colon cancer is pound 4805. This compares favourably with other 
+accepted interventions in oncology.
+
+DOI: 10.1016/j.ejca.2007.05.001
+PMID: 17587564 [Indexed for MEDLINE]
+
+
+782. Curr Med Res Opin. 2007 Jul;23(7):1715-32. doi: 10.1185/030079907x210534.
+
+Evidence-based guidelines for the management of lower urinary tract symptoms 
+related to uncomplicated benign prostatic hyperplasia in Italy: updated summary.
+
+Spatafora S(1), Conti G, Perachino M, Casarico A, Mazzi G, Pappagallo GL; 
+AURO.it BPH Guidelines Committee.
+
+Author information:
+(1)Urology Complex Structure, Department of Surgery, Azienda Ospedaliera Santa 
+Maria Nuova, Reggio Emilia, Italy. sebastiano.spatafora@auro.it
+
+BACKGROUND AND SCOPE: Despite the high prevalence and huge socio-economic impact 
+of benign prostatic hyperplasia (BPH) in Italy, no national guidelines have been 
+produced so far. This is a summary of the first Italian guidelines on the 
+diagnosis and treatment of lower urinary tract symptoms (LUTS) related to 
+uncomplicated BPH, prepared by a multidisciplinary panel under the auspices of 
+the Italian Association of Urologists and introduced in Italy in 2003. An update 
+compiled by the authors is also included.
+METHODS: Relevant papers published from 1998 to 2003 (updated to 2006) were 
+identified through a structured literature review and the quality of evidence 
+presented therein was graded according to the Centre for the Evaluation of 
+Effectiveness in Health Administration (CeVEAS) system. Recommendations were 
+based on evidence from the literature, but also on feedback from practitioners 
+and specialists. MAIN FINDINGS/RECOMMENDATIONS: Given the prevalence of BPH, all 
+men aged > or = 50 years of age should be asked about LUTS and informed about 
+disease characteristics and therapeutic options, while sexual function should 
+always be assessed in patients with severe and long-standing LUTS. Initial 
+assessment should include medical history (including drug and co-morbidity 
+history), digital rectal examination, urinalysis, International Prostate Symptom 
+Score-Quality of Life (IPSS-QoL) and a voiding diary, while prostate-specific 
+antigen (PSA) and measurement of prostate volume by suprapubic ultrasonography 
+are indicated in fully informed patients with a life expectancy of > or = 10 
+years in whom BPH progression could influence treatment choices. QoL 
+considerations should dictate whether to start active treatment. When QoL is not 
+affected by LUTS, watchful waiting is indicated if symptoms are mild, acceptable 
+if they are moderate. When QoL is affected, medical therapy with alpha1-blockers 
+or 5alpha-reductase inhibitors (the latter indicated in patients with increased 
+prostate volume) is appropriate. Combined therapy with alpha1-blockers + 
+5alpha-reductase inhibitors should only be considered in patients at high risk 
+for progression (prostate volume > 40 mL or PSA > 4 ng/mL), since the 
+incremental cost of combination therapy vs. monotherapy with alpha1-blockers or 
+finasteride is prohibitive. Selection of the type of surgery should be based on 
+the surgeon's experience, the presence of co-morbid conditions and the size of 
+the prostate. Open prostatectomy and transurethral resection of the prostate 
+(TURP) are recommended in patients with acute or chronic retention of urine, and 
+acceptable in obstructed patients with moderate/severe symptoms and worsened 
+QoL. Transurethral incision of the prostate (TUIP) is acceptable when prostate 
+volume is < or = 30 mL. Holmium laser enucleation of the prostate (HoLEP) may be 
+proposed to motivated patients where expert surgeons are available. 
+Transurethral microwave thermotherapy (TUMT) or transurethral needle ablation 
+(TUNA) may be proposed to motivated patients who prefer to avoid surgery and/or 
+do not respond to medical treatment. The possible effects of medical or surgical 
+treatments on sexual function should always be discussed.
+CONCLUSIONS: These guidelines are intended to provide a framework for health 
+professionals involved in BPH management in order to facilitate decision-making 
+in all areas and at all levels of healthcare.
+
+DOI: 10.1185/030079907x210534
+PMID: 17588302 [Indexed for MEDLINE]
+
+
+783. Ann Thorac Surg. 2007 Jul;84(1):134-41. doi:
+10.1016/j.athoracsur.2007.03.052.
+
+Combined strategy using myoblasts and hepatocyte growth factor in dilated 
+cardiomyopathic hamsters.
+
+Kondoh H(1), Sawa Y, Fukushima N, Matsumiya G, Miyagawa S, Kitagawa-Sakakida S, 
+Imanishi Y, Kawaguchi N, Matsuura N, Matsuda H.
+
+Author information:
+(1)Department of Surgery, Division of Cardiovascular Surgery, Osaka University 
+Graduate School of Medicine, Suita, Osaka, Japan.
+
+BACKGROUND: There are few reports on treating dilated cardiomyopathy (DCM) with 
+myoblast transplantation, and these show limited efficacy. Hepatocyte growth 
+factor has cardioprotective effects on failed myocardium. Here, we combined 
+these two treatments and analyzed cardiac function in DCM hamsters.
+METHODS: Twenty-seven-week-old BIO TO-2 hamsters, which show moderate cardiac 
+remodeling, were divided into four treatment groups: myoblast transplantation (T 
+group, n = 24), human hepatocyte growth factor gene transfection (H group, n = 
+29), combined treatment (T+H group, n = 21), and medium alone (C group, n = 26).
+RESULTS: Significantly better fractional shortening was observed in the T+H 
+group compared with the others (14.9% +/- 1.0%, 11.7% +/- 1.5%, 11.3% +/- 1.3%, 
+and 8.6% +/- 1.1 %, in the T+H, H, T, and C groups, respectively). 
+Immunohistochemical analysis showed alpha- and beta-sarcoglycan expression in 
+the hearts of the H and T+H groups but not in the other groups. There was less 
+myocardial fibrosis in the H and T+H groups than in the other two, and 
+neovascularization in the T+H group was significantly greater than in the other 
+groups (266 +/- 24, 209 +/- 27, 199 +/- 36, and 96 +/- 17 vessels/mm2, in the 
+T+H, H, T, and C groups, respectively). Survival was significantly prolonged in 
+the H and T+H groups compared with the other groups.
+CONCLUSIONS: Hepatocyte growth factor gene transfection and myoblast 
+transplantation preserved the cardiac function of DCM hamsters, probably through 
+different mechanisms, and the combined treatments preserved cardiac performance 
+better than either treatment alone. The combined therapy is a promising strategy 
+for treating DCM.
+
+DOI: 10.1016/j.athoracsur.2007.03.052
+PMID: 17588400 [Indexed for MEDLINE]
+
+
+784. Artif Intell Med. 2007 Jul;40(3):171-86. doi: 10.1016/j.artmed.2007.04.004.
+Epub  2007 Jun 27.
+
+Selecting treatment strategies with dynamic limited-memory influence diagrams.
+
+van Gerven MA(1), Díez FJ, Taal BG, Lucas PJ.
+
+Author information:
+(1)Institute for Computing and Information Sciences, Radboud University 
+Nijmegen, Toernooiveld 1, 6525 ED Nijmegen, The Netherlands. marcelge@cs.ru.nl
+
+OBJECTIVE: The development of dynamic limited-memory influence diagrams as a 
+framework for representing factorized infinite-horizon partially observable 
+Markov decision processes (POMDPs), the introduction of algorithms for their 
+(approximate) solution, and the application to a dynamic decision problem in 
+clinical oncology.
+MATERIALS AND METHODS: A dynamic limited-memory influence diagram for high-grade 
+carcinoid tumor pathophysiology was developed in collaboration with an expert 
+physician. Three algorithms, known as single policy updating, single rule 
+updating, and simulated annealing have been examined for approximating the 
+optimal treatment strategy from a space of 10(19) possible strategies.
+RESULTS: Single policy updating proved intractable for finding a treatment 
+strategy for carcinoid tumors. Single rule updating and simulated annealing both 
+found the treatment strategy that is applied by physicians in practice.
+CONCLUSIONS: Dynamic limited-memory influence diagrams are a suitable framework 
+for the representation of factorized infinite-horizon POMDPs, and the developed 
+algorithms find acceptable solutions under the assumption of limited memory 
+about past observations. The framework allows for finding reasonable treatment 
+strategies for complex dynamic decision problems in medicine.
+
+DOI: 10.1016/j.artmed.2007.04.004
+PMID: 17588729 [Indexed for MEDLINE]
+
+
+785. J Cardiovasc Nurs. 2007 Jul-Aug;22(4):279-85; quiz 286-7. doi: 
+10.1097/01.JCN.0000278958.98124.6e.
+
+Women's prehospital delay associated with myocardial infarction: does race 
+really matter?
+
+McSweeney JC(1), Lefler LL, Fischer EP, Naylor AJ Jr, Evans LK.
+
+Author information:
+(1)College of Nursing, University of Arkansas for Medical Sciences, Little Rock, 
+AR 72205, USA. jcmcsweeney@uams.edu
+
+BACKGROUND/RESEARCH OBJECTIVE: Well-documented disparities in cardiovascular 
+health account for approximately one third of the difference in life expectancy 
+between blacks and whites. Mortality from cardiovascular disease is greater 
+among black women than among white women, and black women report longer delays 
+in treatment seeking following onset of symptoms of acute myocardial infarction 
+(AMI). Despite this disparate burden, there is little race-specific data on 
+correlates of delay for black or white women. This secondary data analysis 
+compares duration and correlates of delay in treatment seeking by race following 
+onset of AMI symptoms.
+SUBJECTS/METHODS: We analyzed self-report data from 509 black and 500 white 
+women, interviewed 4 to 6 months after AMI, using multivariable logistic and 
+linear regression.
+RESULTS/CONCLUSIONS: Median delay time was nonsignificantly shorter for black 
+than for white women (1.0 vs 1.5 hours). Equal proportions of black and white 
+women (57% vs 54%) sought treatment within 2 hours of symptom onset. In 
+multivariable analyses, correct attribution of symptoms to AMI was a significant 
+predictor of treatment seeking within 2 hours of symptom onset for black and 
+white women (odds ratios = 2.79 and 3.86, respectively); eligibility for public 
+insurance was a significant predictor for black women only (odds ratio = 2.3). 
+Common comorbidities, AMI risk factors, and other demographics were not 
+significantly associated with delay time. Insurance coverage and the correct 
+attribution of symptoms to cardiac causes are substantial and modifiable 
+predictors of delay in seeking treatment of AMI.
+
+DOI: 10.1097/01.JCN.0000278958.98124.6e
+PMID: 17589279 [Indexed for MEDLINE]
+
+
+786. Rural Remote Health. 2007 Apr-Jun;7(2):738. Epub 2007 Jun 22.
+
+Improving access to medicines in urban, regional and rural Aboriginal 
+communities--is expansion of Section 100 the answer?
+
+Stoneman J(1), Taylor SJ.
+
+Author information:
+(1)Faculty of Pharmacy, The University of Sydney, New South Wales, Australia. 
+jsto8579@mail.usyd.edu.au
+
+The poor health of Indigenous Australians is highlighted by the fact that their 
+life expectancy is 17 years less than that of non-Indigenous Australians. The 
+cause of this health disparity is multifactorial, and includes the under use of 
+health services and medications. Distance, cost, and embarrassment, or fear of 
+seeking help from culturally inappropriate services have all contributed to the 
+reduced health status of Indigenous Australians. The introduction of Aboriginal 
+medical services (AMS), Aboriginal health workers, and Section 100 (S100) of the 
+Australian Pharmaceutical Benefits Scheme (PBS) have been important steps 
+towards improving Aboriginal access to health services and medications. Despite 
+this, spending on pharmaceuticals under the PBS per capita among the Indigenous 
+population remains significantly lower than that of the non-Indigenous 
+population. Because Aboriginal people from all areas experience similar barriers 
+in their access to medicines, it has been suggested that the S100 scheme be made 
+available to all AMS. Ensuring quality use of medicines needs to be addressed 
+because patient counselling is carried out by the clinic staff, rather than the 
+pharmacist and, therefore, in this case the pharmacist's role converts to one of 
+training and providing information to the AMS. This expansion of S100 services 
+may lead Indigenous health down a path of separation from mainstream services, 
+which in turn would require nearly no adjustment by pharmacies and pharmacists 
+to meet the needs of Indigenous people. Unfortunately, for no known reasons, 
+previous suggestions to improve Aboriginal people's utilisation of mainstream 
+health services and pharmacies have not been actioned.
+
+PMID: 17590140 [Indexed for MEDLINE]
+
+
+787. Soc Secur Bull. 2005-2006;66(4):37-45.
+
+Coping with the demographic challenge: fewer children and living longer.
+
+Reznik GL(1), Shoffner D, Weaver DA.
+
+Author information:
+(1)Office of Retirement Policy, Office of Policy, Social Security 
+Administration, USA.
+
+Due to demographic changes, the U.S. Social Security system will face financial 
+challenges in the near future. Declining fertility rates and increasing life 
+expectancies are causing the U.S. population to age. Today 12 percent of the 
+total population is aged 65 or older, but by 2080, it will be 23 percent. At the 
+same time, the working-age population is shrinking from 60 percent today to a 
+projected 54 percent in 2080. Consequently, the Social Security system is 
+experiencing a declining worker-to-beneficiary ratio, which will fall from 3.3 
+in 2005 to 2.1 in 2040 (the year in which the Social Security trust fund is 
+projected to be exhausted). This presents a significant challenge to 
+policymakers. One policy option that could help keep the Social Security system 
+solvent is to reduce retirement benefits, either by raising the normal 
+retirement age or through life expectancy indexing, to reflect the fact that 
+people are living longer. However, these reductions in benefits have the 
+potential to harm economically vulnerable retirees. Other options, such as 
+progressive price indexing proposals, explicitly protect the retirement benefits 
+of low lifetime earners. Still other options would seek to raise additional 
+revenue for the system. Since individuals will be living longer in retirement, 
+many policymakers believe it is important to encourage older workers to delay 
+retirement so that they can maintain a quality standard of living throughout 
+their retirement. One proposal to encourage continued work would be to increase 
+the early eligibility age for Social Security benefits from age 62 to age 65. 
+This could possibly hurt individuals who need to retire from physically 
+demanding jobs but would ensure that people receive higher benefit amounts once 
+they were able to fully retire. Other proposals that could promote more work at 
+older ages include expanding phased retirement options and reforming pension and 
+defined contribution systems to create incentives to work and save.
+
+PMID: 17590983 [Indexed for MEDLINE]
+
+
+788. Minerva Med. 2007 Jun;98(3):191-201.
+
+Menopause and related problems.
+
+Gambacciani M(1), Pepe A.
+
+Author information:
+(1)Department of Obstetrics and Gynecology, Pisa University Hospital, Pisa, 
+Italy. margamba@tin.it
+
+Due to the increase in life expectancy and the constant age at menopause, women 
+at the West, can now expect to spend more than 1/3 of their lifetime after 
+menopause. This leads to increased concern regarding not only short-term 
+symptoms, but also long-term consequences of estrogens deficiency. Understanding 
+the natural history of menopausal symptoms and long-term consequences of 
+estrogen deficiency requires long-term data on numerous women from different 
+backgrounds. We have evaluated scientific evidences for the association between 
+menopause and somatic or psychological problems; the temporal association of 
+different symptoms with stage of the menopausal transition and the consistency 
+of risk factors for symptoms.
+
+PMID: 17592440 [Indexed for MEDLINE]
+
+
+789. J Gastrointestin Liver Dis. 2007 Jun;16(2):189-91.
+
+How can a pancreatic neoplasm be diagnosed by colonoscopy? A case report.
+
+Molnar T(1), Kurucsai G, Tiszlavicz L, Nagy F, Lazar G, Lonovics J.
+
+Author information:
+(1)1st Department of Medicine, Faculty of Medicine, University of Szeged, 
+Koranyi fasor 8, H-6720 Szeged, Hungary. Mot@in1st.szote.u-szeged.hu
+
+Gastrointestinal bleeding frequently manifests as a severe, life-threatening 
+condition. The pathological conditions of the pancreas rarely associate with 
+rectal hemorrhage. The history of a male patient with cancer of the tail of the 
+pancreas, which invaded the large bowel and manifested clinically as a severe 
+lower gastrointestinal bleeding, is reported. Repeated colonoscopy diagnosed a 
+necrotising tumor mass which was communicating with the bowel through a fistula. 
+Neoplasms of the tail of the pancreas usually do not cause early symptoms, 
+therefore extra pancreatic extension and invasion of other organs are relatively 
+common at the time of diagnosis. When managing patients with distal 
+gastrointestinal bleeding, the possibility of malignancy originating from other 
+organs other than the large bowel must always be borne in mind.
+
+PMID: 17592569 [Indexed for MEDLINE]
+
+
+790. Clin Breast Cancer. 2007 Jun;7(8):608-18. doi: 10.3816/CBC.2007.n.018.
+
+Cost-effectiveness of letrozole versus tamoxifen as initial adjuvant therapy in 
+hormone receptor-positive postmenopausal women with early-stage breast cancer.
+
+Delea TE(1), Karnon J, Sofrygin O, Thomas SK, Papo NL, Barghout V.
+
+Author information:
+(1)Policy Analysis Inc., Brookline, MA 02445, USA. tdelea@pai2.com
+
+BACKGROUND: In Breast International Group (BIG) 1-98, a randomized, double-blind 
+trial comparing 5 years of initial adjuvant therapy with letrozole versus 
+tamoxifen in postmenopausal women with hormone receptor-positive early breast 
+cancer, letrozole significantly improved disease-free survival by 19% and 
+reduced risk of breast cancer recurrence by 28% and distant recurrence by 27%.
+PATIENTS AND METHODS: A Markov model was used to estimate the incremental cost 
+per quality-adjusted life year (QALY) gained with 5 years of initial adjuvant 
+therapy with letrozole versus tamoxifen from a US health care system 
+perspective. Probabilities and costs of breast cancer recurrence and 
+treatment-related adverse events and health-state utilities were based on 
+published results of BIG 1-98 and other published studies. Costs and QALYs were 
+estimated over the lifetime of a cohort of postmenopausal women with hormone 
+receptor-positive early breast cancer, aged 60 years at initiation of therapy. 
+In our base case, we assumed that benefits of letrozole on risk of breast cancer 
+recurrence are maintained for 5 years after therapy discontinuation ("carry-over 
+effect") and examined the effects of this assumption on results in sensitivity 
+analyses.
+RESULTS: Under base-case assumptions, letrozole yields an additional 0.409 QALYs 
+versus tamoxifen at an additional cost of $9705, yielding a cost per QALY gained 
+for letrozole versus tamoxifen of $23,743 (95% confidence interval, 
+$14,087-$51,129). Assuming no carry-over effects, letrozole yields 0.264 QALYs 
+at a cost of $10,341, for a cost per QALY gained of $39,098 (95% confidence 
+interval, $23,968- $83,501).
+CONCLUSION: In postmenopausal women with hormone receptor-positive early breast 
+cancer, initial adjuvant treatment with letrozole is cost-effective from the US 
+health care system perspective.
+
+DOI: 10.3816/CBC.2007.n.018
+PMID: 17592673 [Indexed for MEDLINE]
+
+
+791. Cancer. 2007 Aug 1;110(3):499-508. doi: 10.1002/cncr.22824.
+
+Cost-effectiveness of switching to exemestane versus continued tamoxifen as 
+adjuvant therapy for postmenopausal women with primary breast cancer.
+
+Risebrough NA(1), Verma S, Trudeau M, Mittmann N.
+
+Author information:
+(1)HOPE Research Centre, Sunnybrook Health Sciences Centre, Toronto, Ontario, 
+Canada.
+
+BACKGROUND: Sequential tamoxifen/exemestane therapy reportedly improves 
+disease-free survival in women with primary breast cancer compared with 
+continued tamoxifen therapy. The objective of the current study was to assess 
+the cost-effectiveness of switching to exemestane after 2 to 3 years of 
+tamoxifen versus continued tamoxifen in postmenopausal women with primary breast 
+cancer for a total of 5 years of adjuvant therapy.
+METHODS: A Markov model based on the Intergroup Exemestane Study (IES) 
+population compared switching to exemestane versus continued tamoxifen for 2.5 
+years of therapy and 5 years of postadjuvant therapy follow-up. Disease 
+progression and hazards ratios (HR) for recurrence and survival were determined 
+from datasets (IES and the Surveillance, Epidemiology, and End Results program 
+of the National Cancer Institute) and from the published literature. An expert 
+panel validated treatment patterns, outcomes, and resource utilization. Direct 
+medical costs were included based on published sources. Cost-effectiveness 
+ratios were determined, and extensive sensitivity analyses were conducted.
+RESULTS: Exemestane was found to be more effective than tamoxifen alone with 
+regard to disease-free survival (2.6% absolute improvement), life-years gained 
+(0.1028 LY), and quality-adjusted life-years gained (0.1195 QALY), at an 
+additional cost of 2,889 Can dollars per person over 7.5 years. Incremental 
+cost-effectiveness ratios were 28,119 Can dollars/LY gained and 24,185 Can 
+dollars/QALY gained. The model was most sensitive to distant recurrence HR but 
+was robust to variations in clinical, cost, and utility parameters.
+CONCLUSIONS: Switching to adjuvant exemestane after 2 to 3 years of tamoxifen is 
+cost-effective in postmenopausal women with primary breast cancer.
+
+(c) 2007 American Cancer Society.
+
+DOI: 10.1002/cncr.22824
+PMID: 17592825 [Indexed for MEDLINE]
+
+
+792. Cancer. 2007 Aug 1;110(3):489-98. doi: 10.1002/cncr.22806.
+
+Cost-effectiveness analysis of trastuzumab in the adjuvant setting for treatment 
+of HER2-positive breast cancer.
+
+Garrison LP Jr(1), Lubeck D, Lalla D, Paton V, Dueck A, Perez EA.
+
+Author information:
+(1)Department of Pharmacy, University of Washington, Seattle, Washington, USA. 
+lgarrisn@u.washington.edu
+
+BACKGROUND: Adding trastuzumab to adjuvant chemotherapy provides significant 
+clinical benefit in patients with human epidermal growth factor receptor 2 
+(HER2)-positive breast cancer. A cost-effectiveness analysis was performed to 
+assess clinical and economic implications of adding trastuzumab to adjuvant 
+chemotherapy, based upon joint analysis of NSABP B-31 and NCCTG N9831 trials.
+METHODS: A Markov model with 4 health states was used to estimate the cost 
+utility for a 50-year-old woman on the basis of trial results through 4 years 
+and estimates of long-term recurrence and death based on a meta-analysis of 
+trials. From 6 years onward, rates of recurrence and death were assumed to be 
+the same in both trastuzumab and chemotherapy-only arms. Incremental costs were 
+estimated for diagnostic and treatment-related costs. Analyses were from payer 
+and societal perspectives, and these analyses were projected to lifetime and 
+20-year horizons.
+RESULTS: Over a lifetime, the projected cost of trastuzumab per quality-adjusted 
+life year (QALY; discount rate 3%) gained was 26,417 dollars (range 9,104 
+dollars-69,340 dollars under multiway sensitivity analysis). Discounted 
+incremental lifetime cost was 44,923 dollars, and projected life expectancy was 
+3 years longer for patients who received trastuzumab (19.4 years vs 16.4 years). 
+During a 20-year horizon, the projected cost of adding trastuzumab to 
+chemotherapy was 34,201 dollars per QALY gained. Key cost-effectiveness drivers 
+were discount rate, trastuzumab price, and probability of metastasis. The 
+cost-effectiveness result was robust to sensitivity analysis.
+CONCLUSIONS: Trastuzumab for adjuvant treatment of early stage breast cancer was 
+projected to be cost effective over a lifetime horizon, achieving a 
+cost-effectiveness ratio below that of many widely accepted oncology treatments.
+

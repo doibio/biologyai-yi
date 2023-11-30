@@ -1,0 +1,1000 @@
+(8)Division of Nephrology, Department of Pediatric Subspecialties, Bambino Gesù 
+Children's Hospital, IRCCS, 00146 Rome, Italy.
+
+Cysteamine is currently the only therapy for nephropathic cystinosis. It 
+significantly improves life expectancy and delays progression to end-stage 
+kidney disease; however, it cannot prevent it. Unfortunately, compliance to 
+therapy is often weak, particularly during adolescence. Therefore, finding 
+better treatments is a priority in the field of cystinosis. Previously, we found 
+that genistein, an isoflavone particularly enriched in soy, can revert part of 
+the cystinotic cellular phenotype that is not sensitive to cysteamine in vitro. 
+To test the effects of genistein in vivo, we fed 2-month-old wild-type and 
+Ctns-/- female mice with either a control diet, a genistein-containing diet or a 
+cysteamine-containing diet for 14 months. Genistein (160 mg/kg/day) did not 
+affect the growth of the mice or hepatic functionality. Compared with untreated 
+mice at 16 months, Ctns-/- mice fed with genistein had lower cystine 
+concentrations in their kidneys, reduced formation of cystine crystals, a 
+smaller number of LAMP1-positive structures and an overall better-preserved 
+parenchymal architecture. Cysteamine (400 mg/kg/day) was efficient in reverting 
+the lysosomal phenotype and in preventing the development of renal lesions. 
+These preclinical data indicate that genistein ameliorates kidney injury 
+resulting from cystinosis with no side effects. Genistein therapy represents a 
+potential treatment to improve the outcome for patients with cystinosis.
+
+© The Author(s) 2022. Published by Oxford University Press. All rights reserved. 
+For Permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/hmg/ddac266
+PMCID: PMC10026248
+PMID: 36300303 [Indexed for MEDLINE]
+
+
+563. Elife. 2022 Oct 27;11:e78550. doi: 10.7554/eLife.78550.
+
+Autoantibody discovery across monogenic, acquired, and COVID-19-associated 
+autoimmunity with scalable PhIP-seq.
+
+Vazquez SE(#)(1)(2)(3), Mann SA(#)(1)(4), Bodansky A(#)(5), Kung AF(1), Quandt 
+Z(2)(6), Ferré EMN(7), Landegren N(8)(9), Eriksson D(10)(11), Bastard 
+P(12)(13)(14)(15), Zhang SY(12)(13)(14), Liu J(1)(16), Mitchell A(1)(4), Proekt 
+I(2), Yu D(2), Mandel-Brehm C(1), Wang CY(1)(4), Miao B(1), Sowa G(3), Zorn 
+K(1), Chan AY(17), Tagi VM(18), Shimizu C(19), Tremoulet A(19), Lynch K(20)(21), 
+Wilson MR(22), Kämpe O(8)(23)(24), Dobbs K(25), Delmonte OM(25), Bacchetta 
+R(18), Notarangelo LD(25), Burns JC(19), Casanova JL(12)(13)(14)(15)(26), 
+Lionakis MS(7), Torgerson TR(27)(28), Anderson MS(#)(2), DeRisi JL(#)(1)(4).
+
+Author information:
+(1)Department of Biochemistry and Biophysics, University of California, San 
+Francisco, San Francisco, United States.
+(2)Diabetes Center, University of California, San Francisco, San Francisco, 
+United States.
+(3)School of Medicine, University of California, San Francisco, San Francisco, 
+United States.
+(4)Chan Zuckerberg Biohub, San Francisco, United States.
+(5)Department of Pediatric Critical Care Medicine, University of California, San 
+Francisco, San Francisco, United States.
+(6)Department of Medicine, University of California, San Francisco, San 
+Francisco, United States.
+(7)Fungal Pathogenesis Unit, Laboratory of Clinical Immunology & Microbiology, 
+National Institute of Allergy and Infectious Diseases, National Institutes of 
+Health, Bethesda, United States.
+(8)Department of Medicine, Karolinska University Hospital, Karolinska Institute, 
+Stockholm, Sweden.
+(9)Science for life Laboratory, Department of Medical Sciences, Uppsala 
+University, Uppsala, Sweden.
+(10)Department of Medical Biochemistry and Microbiology, Uppsala University, 
+Uppsala, Sweden.
+(11)Centre for Molecular Medicine, Department of Medicine, Karolinska 
+Institutet, Stockholm, Sweden.
+(12)St. Giles Laboratory of Human Genetics of Infectious Diseases, Rockefeller 
+University, New York, United States.
+(13)Laboratory of Human Genetics of Infectious Diseases, Necker Branch, INSERM 
+U1163, Necker Hospital for Sick Children, Paris, France.
+(14)Imagine Institute, University of Paris, Paris, France.
+(15)Department of Pediatrics, Necker Hospital for Sick Children, Paris, France.
+(16)Berkeley-University of California, San Francisco Graduate Program in 
+Bioengineering, University of California, San Francisco, San Francisco, United 
+States.
+(17)Department of Pediatrics, Division of Pediatric Allergy, Immunology, Bone 
+and Marrow Transplantation, Division of Pediatric Rheumatology, University of 
+California, San Francisco, San Francisco, United States.
+(18)Division of Stem Cell Transplantation and Regenerative Medicine, Stanford 
+University School of Medicine, Stanford, United States.
+(19)Kawasaki Disease Research Center, Rady Children's Hospital and Department of 
+Pediatrics, University of California, San Diego, La Jolla, United States.
+(20)Department of Laboratory Medicine, University of California, San Francisco, 
+San Francisco, United States.
+(21)Zuckerberg San Francisco General, San Francisco, United States.
+(22)Weill Institute for Neurosciences, University of California, San Francisco, 
+San Francisco, United States.
+(23)Department of Clinical Science and KG Jebsen Center for Autoimmune 
+Disorders, University of Bergen, Bergen, Norway.
+(24)Center of Molecular Medicine, and Department of Endocrinology, Metabolism 
+and Diabetes, Karolinska University Hospital, Stockholm, Sweden.
+(25)Laboratory of Clinical Immunology and Microbiology, National Institute of 
+Allergy and Infectious Diseases, National Institutes of Health, Bethesda, United 
+States.
+(26)Howard Hughes Medical Institute, New York, United States.
+(27)Seattle Children's Research Institute, Seattle, United States.
+(28)Department of Pediatrics, University of Washington, Seattle, United States.
+(#)Contributed equally
+
+Update of
+    bioRxiv. 2022 Mar 24;:
+
+Phage immunoprecipitation sequencing (PhIP-seq) allows for unbiased, 
+proteome-wide autoantibody discovery across a variety of disease settings, with 
+identification of disease-specific autoantigens providing new insight into 
+previously poorly understood forms of immune dysregulation. Despite several 
+successful implementations of PhIP-seq for autoantigen discovery, including our 
+previous work (Vazquez et al., 2020), current protocols are inherently difficult 
+to scale to accommodate large cohorts of cases and importantly, healthy 
+controls. Here, we develop and validate a high throughput extension of PhIP-seq 
+in various etiologies of autoimmune and inflammatory diseases, including APS1, 
+IPEX, RAG1/2 deficiency, Kawasaki disease (KD), multisystem inflammatory 
+syndrome in children (MIS-C), and finally, mild and severe forms of COVID-19. We 
+demonstrate that these scaled datasets enable machine-learning approaches that 
+result in robust prediction of disease status, as well as the ability to detect 
+both known and novel autoantigens, such as prodynorphin (PDYN) in APS1 patients, 
+and intestinally expressed proteins BEST4 and BTNL8 in IPEX patients. 
+Remarkably, BEST4 antibodies were also found in two patients with RAG1/2 
+deficiency, one of whom had very early onset IBD. Scaled PhIP-seq examination of 
+both MIS-C and KD demonstrated rare, overlapping antigens, including CGNL1, as 
+well as several strongly enriched putative pneumonia-associated antigens in 
+severe COVID-19, including the endosomal protein EEA1. Together, scaled PhIP-seq 
+provides a valuable tool for broadly assessing both rare and common autoantigen 
+overlap between autoimmune diseases of varying origins and etiologies.
+
+DOI: 10.7554/eLife.78550
+PMCID: PMC9711525
+PMID: 36300623 [Indexed for MEDLINE]
+
+Conflict of interest statement: SV, SM, AB, AK, ZQ, EF, NL, DE, PB, SZ, JL, AM, 
+IP, DY, CM, CW, BM, GS, KZ, AC, VT, CS, AT, KL, MW, OK, KD, OD, RB, LN, JB, JC, 
+ML, TT, MA, JD No competing interests declared
+
+
+564. J Bras Nefrol. 2022 Oct-Dec;44(4):557-572. doi: 
+10.1590/2175-8239-JBN-2022-0006en.
+
+Relationship of advanced glycation end-products in hypertension in diabetic 
+patients: a systematic review.
+
+Fuhr JC(1), Ramos MEK(2), Piovesan F(2), Renner LO(2), Siqueira LO(1).
+
+Author information:
+(1)Universidade de Passo Fundo, Instituto de Ciências Biológicas, Passo Fundo, 
+RS, Brazil.
+(2)Universidade de Passo Fundo, Faculdade de Medicina, Passo Fundo, RS, Brazil.
+
+Diabetes mellitus and arterial hypertension are among the five risk factors that 
+increase mortality in the world. Both are chronic, non-communicable diseases 
+(NCDs), that have a pathophysiological association. Advanced glycation end 
+products (AGEs), produced by the lack of glycemic control in diabetic patients, 
+interact with their AGE receptors (AGER) resulting in increased arterial 
+stiffness, inflammation and endothelial changes - which increases the risk of 
+developing hypertension and other complications. We ran a systematic review in 
+Pubmed, SciELO, Cochrane Library and Web of Science databases using keywords and 
+Boolean operators to optimize the search, with the objective of assessing the 
+mechanism of non-enzymatic glycation of proteins present in patients with 
+diabetes and its correlation with the onset of hypertension, exposing all the 
+endothelial and cellular damage caused by AGEs. We found 719 papers, of which 99 
+were read in full, and 26 met the eligibility criteria and were included in the 
+present review. AGEs should be considered one of the main cardiometabolic risk 
+factors. Reducing the AGE-AGER interaction will result in cardiovascular 
+protection and increased life expectancy.
+
+Diabetes mellitus e hipertensão arterial estão entre os cinco fatores de risco 
+que elevam a mortalidade no mundo. Ambas são doenças crônicas não transmissíveis 
+(DCNT) que têm associação fisiopatológica. Os produtos finais de glicação 
+avançada (AGEs), produzidos pela falta de controle glicêmico nos pacientes 
+diabéticos, interagem com seus receptores para AGEs (RAGE) resultando no aumento 
+da rigidez arterial e da inflamação e em alterações endoteliais, fatores que 
+intensificam o risco do desenvolvimento da hipertensão e de demais complicações. 
+Realizou-se uma revisão sistemática nas bases de dados Pubmed, SciELO, Cochrane 
+Library e Web of Science utilizando descritores e operadores booleanos para 
+otimizar a busca, com o objetivo de fornecer o mecanismo da glicação não 
+enzimática de proteínas presente em pacientes com diabetes e sua correlação com 
+o aparecimento da hipertensão, expondo todo o dano endotelial e celular 
+ocasionado pelos AGEs. Foram encontrados 719 artigos, dos quais 99 foram lidos 
+na íntegra, e 26 atenderam aos critérios de elegibilidade e foram incluídos na 
+presente revisão. Os AGEs devem ser considerados um dos principais fatores de 
+risco cardiometabólico. A redução da interação AGE-RAGE resultará na proteção 
+cardiovascular e no aumento da expectativa de vida.
+
+DOI: 10.1590/2175-8239-JBN-2022-0006en
+PMCID: PMC9838656
+PMID: 36300672 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest The authors declare no 
+conflict of interest.
+
+
+565. Health Technol Assess. 2022 Oct;26(40):1-144. doi: 10.3310/PLPU1526.
+
+Photodynamic versus white-light-guided resection of first-diagnosis 
+non-muscle-invasive bladder cancer: PHOTO RCT.
+
+Heer R(1), Lewis R(2), Duncan A(3), Penegar S(2), Vadiveloo T(3), Clark E(1), Yu 
+G(1), Mariappan P(4), Cresswell J(5), McGrath J(6), N'Dow J(7), Nabi G(8), 
+Mostafid H(9), Kelly J(10), Ramsay C(11), Lazarowicz H(12), Allan A(13), 
+Breckons M(1), Campbell K(3), Campbell L(3), Feber A(10), McDonald A(3), Norrie 
+J(14), Orozco-Leal G(1), Rice S(1), Tandogdu Z(10), Taylor E(15), Wilson L(1), 
+Vale L(1), MacLennan G(3), Hall E(2).
+
+Author information:
+(1)Northern Institute for Cancer Research, Newcastle University, Newcastle upon 
+Tyne, UK.
+(2)Clinical Trials and Statistics Unit, The Institute of Cancer Research, 
+London, UK.
+(3)Centre for Healthcare Randomised Trials (CHaRT), University of Aberdeen, 
+Aberdeen, UK.
+(4)Department of Urology, Western General Hospital, NHS Lothian, Edinburgh, UK.
+(5)Department of Urology, South Tees Hospitals NHS Trust, Middlesbrough, UK.
+(6)Department of Urology, Royal Devon and Exeter Hospital NHS Trust, Exeter, UK.
+(7)Academic Urology Unit, University of Aberdeen, Aberdeen, UK.
+(8)School of Medicine, University of Dundee, Dundee, UK.
+(9)Department of Urology, Basingstoke and North Hampshire NHS Foundation Trust, 
+Basingstoke, UK.
+(10)University College London Cancer Institute, University College London 
+Hospitals NHS Foundation Trust, London, UK.
+(11)Health Services Research Unit, University of Aberdeen, Aberdeen, UK.
+(12)Department of Urology, Royal Liverpool and Broadgreen University Hospitals 
+NHS Trust, Liverpool, UK.
+(13)Department of Urology, Aberdeen Royal Infirmary, NHS Grampian, Aberdeen, UK.
+(14)Edinburgh Clinical Trials Unit, University of Edinburgh, Edinburgh, UK.
+(15)Tyne and Wear, UK.
+
+BACKGROUND: Around 7500 people are diagnosed with non-muscle-invasive bladder 
+cancer in the UK annually. Recurrence following transurethral resection of 
+bladder tumour is common, and the intensive monitoring schedule required after 
+initial treatment has associated costs for patients and the NHS. In photodynamic 
+diagnosis, before transurethral resection of bladder tumour, a photosensitiser 
+that is preferentially absorbed by tumour cells is instilled intravesically. 
+Transurethral resection of bladder tumour is then conducted under blue light, 
+causing the photosensitiser to fluoresce. Photodynamic diagnosis-guided 
+transurethral resection of bladder tumour offers better diagnostic accuracy than 
+standard white-light-guided transurethral resection of bladder tumour, 
+potentially reducing the chance of subsequent recurrence.
+OBJECTIVE: The objective was to assess the clinical effectiveness and 
+cost-effectiveness of photodynamic diagnosis-guided transurethral resection of 
+bladder tumour.
+DESIGN: This was a multicentre, pragmatic, open-label, parallel-group, 
+non-masked, superiority randomised controlled trial. Allocation was by remote 
+web-based service, using a 1 : 1 ratio and a minimisation algorithm balanced by 
+centre and sex.
+SETTING: The setting was 22 NHS hospitals.
+PARTICIPANTS: Patients aged ≥ 16 years with a suspected first diagnosis of 
+high-risk non-muscle-invasive bladder cancer, no contraindications to 
+photodynamic diagnosis and written informed consent were eligible.
+INTERVENTIONS: Photodynamic diagnosis-guided transurethral resection of bladder 
+tumour and standard white-light cystoscopy transurethral resection of bladder 
+tumour.
+MAIN OUTCOME MEASURES: The primary clinical outcome measure was the time to 
+recurrence from the date of randomisation to the date of pathologically proven 
+first recurrence (or intercurrent bladder cancer death). The primary health 
+economic outcome was the incremental cost per quality-adjusted life-year gained 
+at 3 years.
+RESULTS: We enrolled 538 participants from 22 UK hospitals between 11 November 
+2014 and 6 February 2018. Of these, 269 were allocated to photodynamic diagnosis 
+and 269 were allocated to white light. A total of 112 participants were excluded 
+from the analysis because of ineligibility (n = 5), lack of non-muscle-invasive 
+bladder cancer diagnosis following transurethral resection of bladder tumour 
+(n = 89) or early cystectomy (n = 18). In total, 209 photodynamic diagnosis and 
+217 white-light participants were included in the clinical end-point analysis 
+population. All randomised participants were included in the cost-effectiveness 
+analysis. Over a median follow-up period of 21 months for the photodynamic 
+diagnosis group and 22 months for the white-light group, there were 86 
+recurrences (3-year recurrence-free survival rate 57.8%, 95% confidence interval 
+50.7% to 64.2%) in the photodynamic diagnosis group and 84 recurrences (3-year 
+recurrence-free survival rate 61.6%, 95% confidence interval 54.7% to 67.8%) in 
+the white-light group (hazard ratio 0.94, 95% confidence interval 0.69 to 1.28; 
+p = 0.70). Adverse event frequency was low and similar in both groups [12 (5.7%) 
+in the photodynamic diagnosis group vs. 12 (5.5%) in the white-light group]. At 
+3 years, the total cost was £12,881 for photodynamic diagnosis-guided 
+transurethral resection of bladder tumour and £12,005 for white light. There was 
+no evidence of differences in the use of health services or total cost at 3 
+years. At 3 years, the quality-adjusted life-years gain was 2.094 in the 
+photodynamic diagnosis transurethral resection of bladder tumour group and 2.087 
+in the white light group. The probability that photodynamic diagnosis-guided 
+transurethral resection of bladder tumour was cost-effective was never > 30% 
+over the range of society's cost-effectiveness thresholds.
+LIMITATIONS: Fewer patients than anticipated were correctly diagnosed with 
+intermediate- to high-risk non-muscle-invasive bladder cancer before 
+transurethral resection of bladder tumour and the ratio of intermediate- to 
+high-risk non-muscle-invasive bladder cancer was higher than expected, reducing 
+the number of observed recurrences and the statistical power.
+CONCLUSIONS: Photodynamic diagnosis-guided transurethral resection of bladder 
+tumour did not reduce recurrences, nor was it likely to be cost-effective 
+compared with white light at 3 years. Photodynamic diagnosis-guided 
+transurethral resection of bladder tumour is not supported in the management of 
+primary intermediate- to high-risk non-muscle-invasive bladder cancer.
+FUTURE WORK: Further work should include the modelling of appropriate 
+surveillance schedules and exploring predictive and prognostic biomarkers.
+TRIAL REGISTRATION: This trial is registered as ISRCTN84013636.
+FUNDING: This project was funded by the National Institute for Health and Care 
+Research ( NIHR ) Health Technology Assessment programme and will be published 
+in full in Health Technology Assessment; Vol. 26, No. 40. See the NIHR Journals 
+Library website for further project information.
+
+Plain Language Summary: Around 7500 people are diagnosed with early-stage 
+bladder cancer in the UK each year. Early bladder cancer is contained within the 
+bladder and has not yet invaded the bladder’s muscle wall or spread elsewhere in 
+the body. The cancer will return (recur) in around half of people after initial 
+treatment and they have to attend hospital for regular check-ups, with costs to 
+both them and the NHS. The first step in treating early bladder cancer is 
+surgery to remove the tumour. This surgery is normally performed under white 
+light. Photodynamic diagnosis is a new technique in which a liquid is put into 
+the patient’s bladder before surgery and a blue light is used during the 
+operation. This causes the bladder cancer to fluoresce so that it can be seen 
+more easily by the surgeon. The Photodynamic versus white-light-guided resection 
+of first diagnosis non-muscle-invasive bladder cancer ( PHOTO ) trial aimed to 
+find out whether or not using photodynamic diagnosis at initial surgery would 
+reduce how often the cancer recurred and whether or not this could reduce the 
+cost of treating early bladder cancer. A total of 538 people with early bladder 
+cancer who had a medium to high chance of their cancer returning after treatment 
+were enrolled in the PHOTO trial. They were included in one of two treatment 
+groups, at random: 269 had photodynamic surgery and 269 had standard white-light 
+surgery. People in both groups were monitored regularly for any recurrences, 
+with further treatment as appropriate. After 3 years, 4 out of 10 people in each 
+group had a recurrence of their bladder cancer. We found no difference between 
+the treatment groups in the number of people with recurrences. We found no 
+evidence of a benefit to patients, and the total costs of photodynamic surgery 
+were higher than those of standard white light. We therefore recommend that it 
+is no longer used in the treatment of this group of patients.
+
+DOI: 10.3310/PLPU1526
+PMCID: PMC9639219
+PMID: 36300825 [Indexed for MEDLINE]
+
+
+566. Immun Inflamm Dis. 2022 Nov;10(11):e712. doi: 10.1002/iid3.712.
+
+Exploratory analysis of interleukin-38 in hospitalized COVID-19 patients.
+
+de Graaf DM(1)(2), Teufel LU(1), de Nooijer AH(1), van Gammeren AJ(3), Ermens 
+AAM(3), Gaál IO(4), Crișan TO(4), van de Veerdonk FL(1), Netea MG(1)(5), 
+Dinarello CA(1)(2), Joosten LAB(1)(4), Arts RJW(1); Radboudumc Center for 
+Infectious Diseases COVID-19 Study Group.
+
+Author information:
+(1)Department of Internal Medicine, Radboud Institute of Molecular Life Sciences 
+(RIMLS) and Radboudumc Center for Infectious Diseases, Radboud University 
+Medical Center, Nijmegen, The Netherlands.
+(2)Department of Medicine, University of Colorado, Aurora, Colorado, USA.
+(3)Department of Clinical Chemistry and Hematology, Amphia Hospital, Breda, The 
+Netherlands.
+(4)Department of Medical Genetics, Iuliu Hatieganu University of Medicine and 
+Pharmacy, Cluj-Napoca, Romania.
+(5)Department of Immunology and Metabolism, Life and Medical Sciences Institute, 
+University of Bonn, Bonn, Germany.
+
+INTRODUCTION: A major contributor to coronavirus disease 2019 (COVID-19) 
+progression and severity is a dysregulated innate and adaptive immune response. 
+Interleukin-38 (IL-38) is an IL-1 family member with broad anti-inflammatory 
+properties, but thus far little is known about its role in viral infections. 
+Recent studies have shown inconsistent results, as one study finding an increase 
+in circulating IL-38 in COVID-19 patients in comparison to healthy controls, 
+whereas two other studies report no differences in IL-38 concentrations.
+METHODS: Here, we present an exploratory, retrospective cohort study of 
+circulating IL-38 concentrations in hospitalized COVID-19 patients admitted to 
+two Dutch hospitals (discovery n = 148 and validation n = 184) and age- and 
+sex-matched healthy subjects. Plasma IL-38 concentrations were measured by 
+enzyme-linked immunosorbent assay, disease-related proteins by proximity 
+extension assay, and clinical data were retrieved from hospital records.
+RESULTS: IL-38 concentrations were stable during hospitalization and similar to 
+those of healthy control subjects. IL-38 was not associated with rates of 
+intensive care unit admission or mortality. Only in men in the discovery cohort, 
+IL-38 concentrations were positively correlated with hospitalization duration. A 
+positive correlation between IL-38 and the inflammatory biomarker d-dimer was 
+observed in men of the validation cohort. In women of the validation 
+cohort, IL-38 concentrations correlated negatively with thrombocyte numbers. 
+Furthermore, plasma IL-38 concentrations in the validation cohort correlated 
+positively with TNF, TNFRSF9, IL-10Ra, neurotrophil 3, polymeric immunoglobulin 
+receptor, CHL1, CD244, superoxide dismutase 2, and fatty acid binding protein 
+2, and negatively with SERPINA12 and cartilage oligomeric matrix protein.
+CONCLUSIONS: These data indicate that IL-38 is not associated with disease 
+outcomes in hospitalized COVID-19 patients. However, moderate correlations 
+between IL-38 concentrations and biomarkers of disease were identified in one of 
+two cohorts. While we demonstrate that IL-38 concentrations are not indicative 
+of COVID-19 severity, its anti-inflammatory effects may reduce COVID-19 severity 
+and should be experimentally investigated.
+
+© 2022 The Authors. Immunity, Inflammation and Disease published by John Wiley 
+&amp; Sons Ltd.
+
+DOI: 10.1002/iid3.712
+PMCID: PMC9601778
+PMID: 36301025 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+567. Int J Eat Disord. 2023 Feb;56(2):394-406. doi: 10.1002/eat.23835. Epub 2022
+Oct  27.
+
+The estimated burden of bulimia nervosa in the Middle East and North Africa 
+region, 1990-2019.
+
+Safiri S(1)(2), Noori M(3), Nejadghaderi SA(1)(4), Shamekh A(5), Karamzad N(6), 
+Sullman MJM(7)(8), Grieger JA(9)(10), Collins GS(11), Abdollahi M(12), Kolahi 
+AA(12).
+
+Author information:
+(1)Research Center for Integrative Medicine in Aging, Aging Research Institute, 
+Tabriz University of Medical Sciences, Tabriz, Iran.
+(2)Department of Community Medicine, Faculty of Medicine, Tabriz University of 
+Medical Sciences, Tabriz, Iran.
+(3)Student Research Committee, School of Medicine, Iran University of Medical 
+Sciences, Tehran, Iran.
+(4)Systematic Review and Meta-analysis Expert Group (SRMEG), Universal 
+Scientific Education and Research Network (USERN), Tehran, Iran.
+(5)Student Research Committee, Tabriz University of Medical Sciences, Tabriz, 
+Iran.
+(6)Nutrition Research Center, Department of Biochemistry and Diet Therapy, 
+School of Nutrition and Food Sciences, Tabriz University of Medical Sciences, 
+Tabriz, Iran.
+(7)Department of Life and Health Sciences, University of Nicosia, Nicosia, 
+Cyprus.
+(8)Department of Social Sciences, University of Nicosia, Nicosia, Cyprus.
+(9)Adelaide Medical School, University of Adelaide, Adelaide, South Australia, 
+Australia.
+(10)Robinson Research Institute, University of Adelaide, Adelaide, South 
+Australia, Australia.
+(11)Centre for Statistics in Medicine, NDORMS, Botnar Research Centre, 
+University of Oxford, Oxford, UK.
+(12)Social Determinants of Health Research Center, Shahid Beheshti University of 
+Medical Sciences, Tehran, Iran.
+
+OBJECTIVE: We aimed to report the burden of bulimia nervosa (BN) in the Middle 
+East and North Africa (MENA) region by age, sex, and sociodemographic index 
+(SDI), for the period 1990-2019.
+METHODS: Estimates of the prevalence, incidence, and disability-adjusted 
+life-years (DALYs) attributable to BN were retrieved from the Global Burden of 
+Disease study 2019, between 1990 and 2019, for the 21 countries in the MENA 
+region. The counts and age-standardized rates (per 100,000) were presented, 
+along with their corresponding 95% uncertainty intervals.
+RESULTS: In 2019, the estimated regional age-standardized point prevalence and 
+incidence rates of BN were 168.3 (115.0-229.6) and 178.6 (117.0-255.6) per 
+100,000, which represented 22.0% (17.5-27.2) and 10.4% (7.1-14.7) increases, 
+respectively, since 1990. Moreover, in 2019 the regional age-standardized DALY 
+rate was 35.5 (20.6-55.5) per 100,000, which was 22.2% (16.7-28.2) higher than 
+in 1990. In 2019, Qatar (58.6 [34.3-92.5]) and Afghanistan (18.4 [10.6-29.2]) 
+had the highest and lowest age-standardized DALY rates, respectively. 
+Regionally, the age-standardized point prevalence of BN peaked in the 30-34 age 
+group and was more prevalent among women. In addition, there was a generally 
+positive association between SDI and the burden of BN across the measurement 
+period.
+DISCUSSION: In the MENA region, the burden of BN has increased over the last 
+three decades. Cost-effective preventive measures are needed in the region, 
+especially in the high SDI countries.
+PUBLIC SIGNIFICANCE: This study reports the estimated burden of BN in the MENA 
+region and shows that its burden has increased over the last three decades.
+
+© 2022 Wiley Periodicals LLC.
+
+DOI: 10.1002/eat.23835
+PMID: 36301044 [Indexed for MEDLINE]
+
+
+568. Environ Sci Pollut Res Int. 2023 Feb;30(9):22509-22519. doi: 
+10.1007/s11356-022-23678-2. Epub 2022 Oct 27.
+
+Environmental factors and its influence on human health in BRICS: implications 
+for human development.
+
+Wang W(1)(2), Hafeez M(3), Jiang H(4)(5), Ahmad W(3), Badar H(3), Salahodjaev 
+R(6).
+
+Author information:
+(1)Department of Public Administration, Law School, Shantou University, 243 
+Daxue Road, Shantou, Guangdong, People's Republic of China.
+(2)Institute of Local Government Development, Shantou, 515063, People's Republic 
+of China.
+(3)Institute of Business Management Sciences, University of Agriculture, 
+Faisalabad, 38040, Pakistan.
+(4)Department of Public Administration, Law School, Shantou University, 243 
+Daxue Road, Shantou, Guangdong, People's Republic of China. hjiang@stu.edu.cn.
+(5)Institute of Local Government Development, Shantou, 515063, People's Republic 
+of China. hjiang@stu.edu.cn.
+(6)Department of Mathematical Methods in Economics, Tashkent State University of 
+Economics, Tashkent, Uzbekistan.
+
+BRICS economies are facing severe environmental issues that exert a detrimental 
+impact on human health. The analysis intends to examine the impact of CO2 
+emissions, environmental policy stringency, and environmental innovations on 
+health outcomes for the BRICS economies. The long-run results of the ARDL-PMG 
+infer that CO2 has a significant negative in the life expectancy model while it 
+has a significant positive in the death rate model. These findings imply that 
+the rise in CO2 emissions reduces life expectancy and increases the death rate 
+in BRICS economies. On the other side, the estimates of environmental innovation 
+and environmental policy stringency are positively significant in the life 
+expectancy model; however, in the death rate model, the estimate of 
+environmental innovation is insignificant, and environmental policy stringency 
+is negatively significant in the death rate model. In a nutshell, the findings 
+imply that CO2 emissions exacerbate health problems, environmental innovations, 
+and environmental policy stringency, improving the health status of the people. 
+Our findings suggest that the BRICS economies should revisit their environmental 
+policies for the betterment of human health.
+
+© 2022. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s11356-022-23678-2
+PMID: 36301398 [Indexed for MEDLINE]
+
+
+569. Pharmacoeconomics. 2023 Jan;41(1):33-42. doi: 10.1007/s40273-022-01209-8.
+Epub  2022 Oct 27.
+
+Fenfluramine for Treating Dravet Syndrome: An Evidence Review Group Perspective 
+of a NICE Single Technology Appraisal.
+
+Wijnen B(1)(2), Witlox W(3)(4), Wolff R(5), Fayter D(5), Ramaekers B(1)(6), 
+Otten T(1)(6), Ryder S(5), Posadzki P(5), Worthy G(5)(7), Stirk L(5), Armstrong 
+N(5), Kleijnen J(2), Joore M(1)(6).
+
+Author information:
+(1)Department of Clinical Epidemiology and Medical Technology Assessment, 
+Maastricht University Medical Centre+ (MUMC+), P. Debyelaan 25, PO Box 5800, 
+6202 AZ, Maastricht, The Netherlands.
+(2)Center of Economic Evaluation and Machine Learning, Trimbos Institute 
+(Netherlands Institute of Mental Health and Addiction), Utrecht, The 
+Netherlands.
+(3)Department of Clinical Epidemiology and Medical Technology Assessment, 
+Maastricht University Medical Centre+ (MUMC+), P. Debyelaan 25, PO Box 5800, 
+6202 AZ, Maastricht, The Netherlands. willem.witlox@mumc.nl.
+(4)Care and Public Health Research Institute (CAPHRI), , Maastricht University, 
+Maastricht, The Netherlands. willem.witlox@mumc.nl.
+(5)Kleijnen Systematic Reviews Ltd, York, UK.
+(6)Care and Public Health Research Institute (CAPHRI), , Maastricht University, 
+Maastricht, The Netherlands.
+(7)Adelphi Values, Adelphi Mill, Bollington, UK.
+
+Fenfluramine, tradename Fintepla®, was appraised within the National Institute 
+for Health and Care Excellence (NICE) single technology appraisal (STA) process 
+as Technology Appraisal 808. Within the STA process, the company (Zogenix 
+International) provided NICE with a written submission and a mathematical health 
+economic model, summarising the company's estimates of the clinical 
+effectiveness and cost-effectiveness of fenfluramine for patients with Dravet 
+syndrome (DS). This company submission (CS) was reviewed by an evidence review 
+group (ERG) independent of NICE. The ERG, Kleijnen Systematic Reviews in 
+collaboration with Maastricht University Medical Centre, produced an ERG report. 
+This paper presents a summary of the ERG report and the development of the NICE 
+guidance. The CS included a systematic review of the evidence for fenfluramine. 
+From this review the company identified and presented evidence from two 
+randomised trials (Study 1 and Study 1504), an open-label extension study (Study 
+1503) and 'real world evidence' from a prospective and retrospective study. Both 
+randomised trials were conducted in patients up to 18 years of age with DS, 
+whose seizures were incompletely controlled with previous anti-epileptic drugs. 
+A Bayesian network meta-analysis was performed to compare fenfluramine with 
+cannabidiol plus clobazam. There was no evidence of a difference between any 
+doses of fenfluramine and cannabidiol in the mean convulsive seizure frequency 
+(CSF) rate during treatment. However, fenfluramine increased the number of 
+patients achieving ≥ 50% reduction in CSF frequency from baseline compared to 
+cannabidiol. The company used an individual-patient state-transition model (R 
+version 3.5.2) to model cost-effectiveness of fenfluramine. The CSF and 
+convulsive seizure-free days were estimated using patient-level data from the 
+placebo arm of the fenfluramine registration studies. Subsequently, a treatment 
+effect of either fenfluramine or cannabidiol was applied. Utility values for the 
+economic model were obtained by mapping Pediatric Quality of Life Inventory data 
+from the registration studies to EuroQol-5D-3L Youth (EQ-5D-Y-3L). The company 
+included caregiver utilities in their base-case, as the severe needs of patients 
+with DS have a major impact on parents and caregivers. There were several key 
+issues. First, the company included caregiver utilities in the model in a way 
+that when patients in the economic model died, the corresponding caregiver 
+utility was also set to zero. Second, the model was built in R statistical 
+software, resulting in transparency issues. Third, the company assumed the same 
+percentage reduction for convulsive seizure days as was estimated for CSF. 
+Fourth, during the final appraisal committee meeting, influential changes were 
+made to the model that were not in line with the ERG's preferences (but were 
+accepted by the appraisal committee). The company's revised and final 
+incremental cost effectiveness ratio (ICER) in line with committee preferences 
+resulted in fenfluramine dominating cannabidiol. Fenfluramine was recommended as 
+an add-on to other antiepileptic medicines for treating seizures associated with 
+DS in people aged 2 years and older in the National Health Service (NHS).
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s40273-022-01209-8
+PMCID: PMC9813053
+PMID: 36301414 [Indexed for MEDLINE]
+
+Conflict of interest statement: No conflicts of interest to declare.
+
+
+570. PLoS One. 2022 Oct 27;17(10):e0276749. doi: 10.1371/journal.pone.0276749. 
+eCollection 2022.
+
+The prevalence of hyperglycemia and its impact on mortality among people living 
+with HIV in Georgia.
+
+Borkowska T(1), Chkhartishvili N(1), Karkashadze E(1), Chokoshvili O(1), Gabunia 
+P(1), Sharvadze L(1)(2), Tsertsvadze T(1)(2).
+
+Author information:
+(1)Infectious Diseases, AIDS & Clinical Immunology Research Center, Tbilisi, 
+Georgia.
+(2)Ivane Javakhishvili Tbilisi State University, Tbilisi, Georgia.
+
+BACKGROUND: Life expectancy and quality of life of people living with HIV have 
+been dramatically improved after introducing antiretroviral therapy, and the 
+prevalence of non-communicable diseases has increased. Several studies have 
+found that hyperglycemia with or without type 2 diabetes was associated with 
+poor outcomes in people living with HIV. The study's objective was to determine 
+the prevalence of hyperglycemia and assess its impact on mortality.
+MATERIALS AND METHODS: A retrospective cohort study was conducted among people 
+living with HIV diagnosed in 2012-2018 and followed through 2020 at the 
+Infectious Diseases, AIDS and Clinical Immunology Research Center in Tbilisi, 
+Georgia. Primary outcomes of interest included the prevalence of hyperglycemia 
+and mortality. Causes of death were classified according to the Coding of Death 
+in HIV (CoDe) protocol.
+RESULTS: Our study included 2914 people living with HIV. Two hundred and 
+forty-two (8.3%) patients had hyperglycemia, with an increasing prevalence by 
+age. Three hundred one (9.7%) participants died over the median 3.71 (IQR: 
+2.14-5.37) years of follow-up. Among these, 139 (46.2%) were due to AIDS- 
+related causes, 123 (40.9%)-were due to non-AIDS causes, and in 39 (12.9%) 
+cases, the cause of death could not be determined. Overall, the cohort 
+contributed to 11,148 person-years of follow-up (PYFU), translating into a 
+mortality rate of 2.70 deaths per 100 PYFU. The mortality rate was significantly 
+higher among individuals with hyperglycemia-11.17 deaths per 100 PYFU vs 2.07 
+deaths per 100 PYFU among normoglycemic patients(p<0.0001).
+CONCLUSIONS: Hyperglycemia was associated with increased odds of mortality. 
+Screening and management of hyperglycemia should be integrated into routine HIV 
+clinical services as part of a comprehensive care package.
+
+DOI: 10.1371/journal.pone.0276749
+PMCID: PMC9612544
+PMID: 36301817 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+571. PLoS One. 2022 Oct 27;17(10):e0276186. doi: 10.1371/journal.pone.0276186. 
+eCollection 2022.
+
+Water treatment at the point-of-use and treatment preferences among households 
+in Ethiopia: A contemporaneous systematic review and meta-analysis.
+
+Tamene A(1), Habte A(1), Woldeyohannes D(1), Tamrat H(2), Endale F(1), Eajo 
+T(1), Afework A(3).
+
+Author information:
+(1)School of Public Health, College of Medicine and Health Sciences, Wachemo 
+University, Hosanna, Ethiopia.
+(2)Department of Orthopaedic Surgery, School of Medicine, College of Medicine 
+and Health Sciences, Wachemo University, Hosanna, Ethiopia.
+(3)Dilla University Referral Hospital, Dilla University, Dilla, Ethiopia.
+
+BACKGROUND: Water is essential for maintaining human life, health, and dignity. 
+Untreated water consumption causes 1.8 million deaths annually, over 99.8% of 
+which happen in developing nations and 90% of which include children. 
+Point-of-use water treatment enables people without reliable access to safe 
+drinking water to reduce contamination and minimize microbial risk levels. This 
+Systematic Review and Meta-analysis was, therefore, used to identify, select, 
+and critically appraise relevant evidence about water treatment practices and 
+their associated factors among Ethiopian households.
+METHODS: PubMed, Science Direct, Web of Science, Scopus, Embase, Google Scholar, 
+ProQuest, and other databases were searched for studies published before May 5, 
+2022. The final synthesis included twelve investigations. Microsoft Excel was 
+used to extract the data, and STATA 16 was used for the analysis. The Joanna 
+Briggs Institute's Critical assessment checklist for prevalence studies was used 
+to evaluate the quality of the included studies. Egger's test and funnel plot 
+were used to assess publication bias. I2 statistics were calculated to check for 
+study heterogeneity. The DerSimonian and Laird random-effects model was used to 
+analyze the pooled effect size, odds ratios, and 95% confidence intervals across 
+studies. Analysis of subgroups was done by publication year and geographic 
+region.
+RESULTS: Of the 550 identified articles, 12 studies were eligible for analysis 
+(n = 4849 participants). The pooled prevalence estimate of point-of-use water 
+treatment practice among Ethiopian homes was 36.07% (95% CI: 21.94-50.19, I2 = 
+99.5%). Receiving training from Community health workers (OR, 1.7; 95% CI: 
+1.33-2.08), female headship (OR, 2.52; 95% CI: 1.60-3.44), and household wealth 
+(OR, 1.6; 95% CI: 1.19-2.16) were significantly associated with point-of-use 
+water treatment practice.
+CONCLUSION: Despite the absence of safely managed water sources, very few homes 
+routinely treated their drinking water. Adoption of water treatment practices 
+necessitates ongoing communication and assistance from health extension 
+personnel. Moreover, program planners must be aware of the many user categories 
+that households may fall under to guarantee that ongoing training messages and 
+treatment products reach every home.
+
+DOI: 10.1371/journal.pone.0276186
+PMCID: PMC9612552
+PMID: 36301990 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist
+
+
+572. Maturitas. 2023 Jan;167:8-16. doi: 10.1016/j.maturitas.2022.09.005. Epub
+2022  Sep 14.
+
+Function and employment after total hip replacement in older adults: A narrative 
+review.
+
+Zaballa E(1), Dennison E(2), Walker-Bone K(3).
+
+Author information:
+(1)MRC Lifecourse Epidemiology Centre, University of Southampton, Southampton, 
+UK; MRC Versus Arthritis Centre for Musculoskeletal Health and Work, University 
+of Southampton, Southampton, UK. Electronic address: ez@mrc.soton.ac.uk.
+(2)MRC Lifecourse Epidemiology Centre, University of Southampton, Southampton, 
+UK. Electronic address: emd@mrc.soton.ac.uk.
+(3)MRC Lifecourse Epidemiology Centre, University of Southampton, Southampton, 
+UK; MRC Versus Arthritis Centre for Musculoskeletal Health and Work, University 
+of Southampton, Southampton, UK; Monash Centre for Occupational and 
+Environmental Health, Monash University, Melbourne, Australia. Electronic 
+address: kwb@mrc.soton.ac.uk.
+
+The burden of osteoarthritis (OA) has increased steadily due to an aging 
+population, increasing life expectancy, obesity and lifestyle factors. Total hip 
+replacement has become one of the most prevalent and successful operations 
+globally and it is projected that demand will continue to grow as the incidence 
+of OA continues to increase. Patients undergoing the operation expect 
+much-improved function and pain relief but also increasingly need to return to 
+work postoperatively, especially given the growing demand for the procedure and 
+the encouragement of older people to continue working by most governments in the 
+developed world. This review provides an overview of function and employment 
+outcomes after hip arthroplasty. Despite the generally good success rate, some 
+patients do not attain good functional outcomes and it is important that we 
+develop ways to identify these patients preoperatively. We describe the effect 
+of demographic, clinical and other factors on functional outcomes, as well as 
+trajectories of physical function and pain recovery beyond the first few weeks 
+after total hip replacement. Regarding employment outcomes, many people in work 
+preoperatively are likely to resume to work after recovery; however, patients 
+feel that they lack guidance from clinicians about returning to work 
+postoperatively. Our review encompasses factors associated with return to work, 
+timing of return to work, and potential temporary or permanent limitations that 
+people might experience at work depending on type of employment.
+
+Copyright © 2022 The Author(s). Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.maturitas.2022.09.005
+PMID: 36302339 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interest.
+
+
+573. Int J Radiat Oncol Biol Phys. 2022 Dec 1;114(5):849-855. doi: 
+10.1016/j.ijrobp.2022.08.026. Epub 2022 Oct 24.
+
+Validation of the Prognostic Utility of ESTRO/EORTC Oligometastatic Disease 
+Classification: A Secondary Analysis From the Population-Based Phase II SABR-5 
+Trial.
+
+Baker S(1), Mou B(2), Jiang W(1), Liu M(3), Bergman AM(4), Schellenberg D(1), 
+Alexander AS(5), Carolan H(3), Atrchian S(2), Berrang T(5), Bang A(5), Chng 
+N(6), Matthews Q(6), Tyldesley S(3), Olson RA(7).
+
+Author information:
+(1)Departement of Cancer, University of British Columbia, British Columbia, 
+Canada; Departement of Cancer, University of British Columbia, BC Cancer - 
+Surrey, British Columbia, Canada.
+(2)Departement of Cancer, University of British Columbia, British Columbia, 
+Canada; Departement of Cancer, University of British Columbia, BC Cancer - 
+Kelowna, British Columbia, Canada.
+(3)Departement of Cancer, University of British Columbia, British Columbia, 
+Canada; Departement of Cancer, University of British Columbia, BC Cancer - 
+Vancouver, British Columbia, Canada.
+(4)Departement of Cancer, University of British Columbia, BC Cancer - Vancouver, 
+British Columbia, Canada.
+(5)Departement of Cancer, University of British Columbia, British Columbia, 
+Canada; Departement of Cancer, University of British Columbia, BC Cancer - 
+Victoria, British Columbia, Canada.
+(6)Departement of Cancer, University of British Columbia, BC Cancer - Prince 
+George, British Columbia, Canada.
+(7)Departement of Cancer, University of British Columbia, British Columbia, 
+Canada; Departement of Cancer, University of British Columbia, BC Cancer - 
+Prince George, British Columbia, Canada. Electronic address: 
+rolson2@bccancer.bc.ca.
+
+PURPOSE: The recently developed European Society for Radiotherapy and Oncology 
+(ESTRO)/European Organization for Research and Treatment of Cancer (EORTC) 
+oligometastatic disease (OMD) classification has not been validated in terms of 
+its prognostic significance. This study stratified patients from the phase II 
+SABR-5 trial based on ESTRO/EORTC criteria and compared progression-free 
+survival (PFS) and overall survival (OS) to determine the prognostic 
+significance of the classification scheme.
+METHODS AND MATERIALS: The SABR-5 trial was a single arm phase II study 
+conducted at the 6 regional cancer centers across British Columbia (BC), Canada, 
+where SABR for oligometastases was only offered on trial. Patients with up to 5 
+oligometastases (total or not controlled by prior treatment and including 
+induced OMD) underwent SABR to all lesions. Patients were 18 years of age or 
+older, Eastern Cooperative Oncology Group 0 to 2, and life expectancy ≥6 months. 
+PFS and OS were calculated using the Kaplan-Meier method and differences between 
+OMD groups were assessed with log-rank tests. Univariable and multivariable 
+analyses were performed using Cox regression modeling.
+RESULTS: Between November 2016 and July 2020, 381 patients underwent SABR on 
+trial. Median follow-up was 27 months (interquartile range, 18-36). The most 
+frequent OMD group was de novo OMD (69%), followed by repeat (16%) and induced 
+(13%). OMD groups differed significantly in PFS (P < .001) but not OS 
+(P = .069). The OMD classification was an independent predictor of both PFS 
+(P = .005) and OS (P = .002). Of the 5 classification factors, only chronicity 
+(synchronous, hazard ratio, 0.52; P = .027) and oligoprogression (hazard ratio, 
+2.05; P = .004) were independently prognostic for OS.
+CONCLUSIONS: In this large prospective cohort, the ESTRO/EORTC classification 
+was an independent predictor of PFS and OS and should be used to identify 
+specific patient groups for clinical trials. In this trial population, the 
+prognostic power is largely attributable to chronicity and oligoprogression. 
+Simplification of the framework may be possible in the future and allow for 
+greater ease of use; however, further data on underrepresented OMD groups and 
+histologies will be required.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ijrobp.2022.08.026
+PMID: 36302495 [Indexed for MEDLINE]
+
+
+574. Br J Sports Med. 2022 Dec;56(23):1353-1365. doi:
+10.1136/bjsports-2022-105747.  Epub 2022 Oct 27.
+
+Economic evaluations of fall prevention exercise programs: a systematic review.
+
+Pinheiro MB(1)(2), Sherrington C(3)(2), Howard K(2)(4), Caldwell P(3)(2), 
+Tiedemann A(3)(2), Wang B(3)(2), S Oliveira J(3)(2), Santos A(5), Bull FC(5), 
+Willumsen JF(5), Michaleff ZA(6), Ferguson S(3)(2), Mayo E(3)(2), Fairhall 
+NJ(3)(2), Bauman AE(2), Norris S(2)(4).
+
+Author information:
+(1)Institute for Musculoskeletal Health, The University of Sydney and Sydney 
+Local Health District, Sydney, New South Wales, Australia 
+marina.pinheiro@sydney.edu.au.
+(2)Sydney School of Public Health, Faculty of Medicine and Health, The 
+University of Sydney, Sydney, New South Wales, Australia.
+(3)Institute for Musculoskeletal Health, The University of Sydney and Sydney 
+Local Health District, Sydney, New South Wales, Australia.
+(4)Menzies Centre for Health Policy and Economics & Sydney School of Public 
+Health, Faculty of Medicine and Health, The University of Sydney, Sydney, New 
+South Wales, Australia.
+(5)Physical Activity Unit, Department of Health Promotion, Division of Universal 
+Health Coverage and Healthier Populations, World Health Organization (WHO), 
+Geneve, Switzerland.
+(6)Northern NSW Local Health District, Lismore, New South Wales, Australia.
+
+OBJECTIVE: To investigate cost-effectiveness and costs of fall prevention 
+exercise programmes for older adults.
+DESIGN: Systematic review.
+DATA SOURCES: Medline, Embase, Web of Science, Scopus, National Institute for 
+Health Research Economic Evaluation Database, Health Technology Assessment 
+database, Tufts Cost-Effectiveness Analysis Registry, Research Papers in 
+Economics and EconLit (inception to May 2022).
+ELIGIBILITY CRITERIA FOR STUDY SELECTION: Economic evaluations (trial-based or 
+model-based) and costing studies investigating fall prevention exercise 
+programmes versus no intervention or usual care for older adults living in the 
+community or care facilities, and reporting incremental cost-effectiveness ratio 
+(ICER) for fall-related outcomes or quality-adjusted life years (QALY, expressed 
+as cost/QALY) and/or intervention costs.
+RESULTS: 31 studies were included. For community-dwelling older adults (21 
+economic evaluations, 6 costing studies), results ranged from more effective and 
+less costly (dominant) interventions up to an ICER of US$279 802/QALY gained and 
+US$11 986/fall prevented (US$ in 2020). Assuming an arbitrary willingness-to-pay 
+threshold (US$100 000/QALY), most results (17/24) were considered cost-effective 
+(moderate certainty). The greatest value for money (lower ICER/QALY gained and 
+fall prevented) appeared to accrue for older adults and those with high fall 
+risk, but unsupervised exercise appeared to offer poor value for money (higher 
+ICER/QALY). For care facilities (two economic evaluations, two costing studies), 
+ICERs ranged from dominant (low certainty) to US$35/fall prevented (moderate 
+certainty). Overall, intervention costs varied and were poorly reported.
+CONCLUSIONS: Most economic evaluations investigated fall prevention exercise 
+programmes for older adults living in the community. There is moderate certainty 
+evidence that fall prevention exercise programmes are likely to be 
+cost-effective. The evidence for older adults living in care facilities is more 
+limited but promising.
+PROSPERO REGISTRATION NUMBER: PROSPERO 2020 CRD42020178023.
+
+© Author(s) (or their employer(s)) 2022. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bjsports-2022-105747
+PMCID: PMC9685693
+PMID: 36302631 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+575. Front Genet. 2022 Oct 11;13:952467. doi: 10.3389/fgene.2022.952467.
+eCollection  2022.
+
+Pathogenic variants of ornithine transcarbamylase deficiency: Nation-wide study 
+in Japan and literature review.
+
+Kido J(1)(2), Sugawara K(2), Sawada T(1)(2), Matsumoto S(1)(2), Nakamura 
+K(1)(2).
+
+Author information:
+(1)Department of Pediatrics, Kumamoto University Hospital, Kumamoto, Japan.
+(2)Department of Pediatrics, Faculty of Life Sciences, Kumamoto University, 
+Kumamoto, Japan.
+
+Ornithine transcarbamylase deficiency (OTCD) is an X-linked disorder. Several 
+male patients with OTCD suffer from severe hyperammonemic crisis in the neonatal 
+period, whereas others develop late-onset manifestations, including 
+hyperammonemic coma. Females with heterozygous pathogenic variants in the OTC 
+gene may develop a variety of clinical manifestations, ranging from asymptomatic 
+conditions to severe hyperammonemic attacks, owing to skewed lyonization. We 
+reported the variants of CPS1, ASS, ASL and OTC detected in the patients with 
+urea cycle disorders through a nation-wide survey in Japan. In this study, we 
+updated the variant data of OTC in Japanese patients and acquired information 
+regarding genetic variants of OTC from patients with OTCD through an extensive 
+literature review. The 523 variants included 386 substitution (330 missense, 53 
+nonsense, and 3 silent), eight deletion, two duplication, one 
+deletion-insertion, 55 frame shift, two extension, and 69 no category (1 
+regulatory and 68 splice site error) mutations. We observed a genotype-phenotype 
+relation between the onset time (neonatal onset or late onset), the severity, 
+and genetic mutation in male OTCD patients because the level of deactivation of 
+OTC significantly depends on the pathogenic OTC variants. In conclusion, genetic 
+information about OTC may help to predict long-term outcomes and determine 
+specific treatment strategies, such as liver transplantation, in patients with 
+OTCD.
+
+Copyright © 2022 Kido, Sugawara, Sawada, Matsumoto and Nakamura.
+
+DOI: 10.3389/fgene.2022.952467
+PMCID: PMC9593096
+PMID: 36303552
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+576. Heliyon. 2022 Oct 13;8(10):e11067. doi: 10.1016/j.heliyon.2022.e11067. 
+eCollection 2022 Oct.
+
+Investigating the cellular antioxidant and anti-inflammatory effects of the 
+novel peptides in lingzhi mushrooms.
+
+Aursuwanna T(1), Noitang S(2), Sangtanoo P(2)(3), Srimongkol P(2)(3), Saisavoey 
+T(2), Puthong S(2), Reamtong O(4), Karnchanatat A(2)(3).
+
+Author information:
+(1)Program in Biotechnology, Faculty of Science, Chulalongkorn University, 254 
+Phayathai Road, Pathumwan, Bangkok, 10330, Thailand.
+(2)Institute of Biotechnology and Genetic Engineering, Chulalongkorn University, 
+254 Phayathai Road, Pathumwan, Bangkok 10330, Thailand.
+(3)Center of Excellence in Bioconversion and Bioseparation for Platform Chemical 
+Production, Institute of Biotechnology and Genetic Engineering, Chulalongkorn 
+University, 254 Phayathai Road, Pathumwan, Bangkok 10330, Thailand.
+(4)Department of Molecular Tropical Medicine and Genetics, Faculty of Tropical 
+Medicine, Mahidol University, 420/6 Ratchawithi Road, Ratchathewi, Bangkok 
+10400, Thailand.
+
+The lingzhi mushroom (Ganoderma lucidum) is well known for its medicinal 
+properties and has long played a role in traditional oriental medicine due to 
+its health-giving benefits and potential to extend life expectancy. The mushroom 
+contains a number of highly bioactive compounds and can also act as an excellent 
+source of protein. This research investigated the peptides obtained from the 
+protein hydrolysates of lingzhi mushrooms to assess their free radical 
+scavenging abilities. These peptides were acquired via different proteases 
+(Alcalase, Neutrase, papain, and pepsin-pancreatin) and were tested at a range 
+of different concentrations (1.0%, 2.5%, and 5.0% w/v). The highest levels of 
+2,2'-azino-bis-3-ethylbenzothiazoline-6-sulfonic acid (ABTS), 
+2,2-diphenyl-1-picrylhydrazyl (DPPH) and nitric oxide (NO) radical scavenging 
+activities were presented by lingzhi mushroom hydrolysate using 2.5% (w/v) 
+pepsin-pancreatin after 6 h of digestion. The hydrolysate was then fractionated 
+using 10, 5, 3, and 0.65 kDa molecular weight cut-off membranes. The results 
+showed that the MW 0.65 kDa fraction had the highest level of free radical 
+scavenging activity. Further analysis of this MW 0.65 kDa fraction began with 
+another RP-HPLC fractionation technique to obtain three further sub-fractions. 
+De novo peptide sequencing using electrospray ionization quadrupole 
+time-of-flight mass spectrometry (ESI-Q-TOF-MS/MS) was chosen as the optimum 
+method for studying the F3 sub-fraction. DRVSIYGWG and ALLSISSF were discovered 
+as new peptides with different antioxidant properties. Adenocarcinoma colon 
+(Caco-2) cells showed the antioxidant action of these synthesized peptides. This 
+activity was linked to peptide concentration. The peptides and their pure 
+synthetic counterparts were found to reduce NO generation by RAW 264.7 
+macrophages without causing cytotoxicity. The results of gene expression reveal 
+that the DRVSIYGWG and ALLSISSF peptides were able to cut the expression of the 
+proinflammatory cytokine genes iNOS, IL-6, TNF-α, and COX-2 in the context of 
+RAW 264.7 macrophages.
+
+© 2022 The Author(s).
+
+DOI: 10.1016/j.heliyon.2022.e11067
+PMCID: PMC9593296
+PMID: 36303910
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+577. Front Reprod Health. 2021 Jul 6;3:704153. doi: 10.3389/frph.2021.704153. 
+eCollection 2021.
+
+Severe Ovarian Hyperstimulation Syndrome in a Woman With Breast Cancer Under 
+Letrozole Triggered With GnRH Agonist: A Case Report and Review of the 
+Literature.
+
+Iorio GG(1), Rovetto MY(1), Conforti A(1), Carbone L(1), Vallone R(1), Cariati 
+F(1), Bagnulo F(1), Di Girolamo R(2), La Marca A(3), Alviggi C(1).
+
+Author information:
+(1)Department of Neuroscience, Reproductive Science and Odontostomatology, 
+School of Medicine and Surgery, University of Naples Federico II, Naples, Italy.
+(2)Department of Obstetrics and Gynecology, Center for Fetal Care and High-Risk 
+Pregnancy, University of Chieti, Chieti, Italy.
+(3)Department of Medical and Surgical Sciences for Children and Adults, 
+University of Modena and Reggio Emilia, Modena, Italy.

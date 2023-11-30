@@ -1,0 +1,1000 @@
+UI, 658,347 to 2,543,613). But the ASMR and the ASDR slightly decreased by 8.49% 
+and 13.16%, respectively. The burden of road injury death attributable to high 
+temperature remained high in low SDI and tropical regions. In addition, road 
+transport infrastructure investment per inhabitant is associated with the burden 
+of road injuries attributable to high temperature.
+CONCLUSIONS: Globally, the ASMR and ASDR for road injuries attributable to high 
+temperature decreased from 1990 to 2019, but the absolute death and DALYs 
+continued to increase. Thus, concerning global warming, implementation of 
+prevention and interventions to reduce road injuries from heat exposure should 
+be stressed globally.
+
+Copyright © 2022. Published by Elsevier B.V.
+
+DOI: 10.1016/j.scitotenv.2022.159369
+PMID: 36228793 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+316. Value Health. 2023 Feb;26(2):193-203. doi: 10.1016/j.jval.2022.08.006. Epub
+2022  Oct 11.
+
+Cost-Effectiveness Analysis of Treating Patients With NTRK-Positive Cancer With 
+the Histology-Independent Therapy Entrectinib.
+
+Huygens S(1), Vellekoop H(1), Versteegh M(1), Santi I(1), Szilberhorn L(2), 
+Zelei T(2), Nagy B(2), Tsiachristas A(3), Koleva-Kolarova R(3), Wordsworth S(3), 
+Rutten-van Mölken M(4); HEcoPerMed Consortium.
+
+Author information:
+(1)Institute for Medical Technology Assessment, Erasmus University Rotterdam, 
+Rotterdam, The Netherlands.
+(2)Syreon Research Institute, Budapest, Hungary.
+(3)Health Economics Research Centre, University of Oxford, Oxford, England, 
+United Kingdom.
+(4)Institute for Medical Technology Assessment, Erasmus University Rotterdam, 
+Rotterdam, The Netherlands; Erasmus School of Health Policy & Management, 
+Erasmus University Rotterdam, Rotterdam, The Netherlands. Electronic address: 
+m.rutten@eshpm.eur.nl.
+
+OBJECTIVES: This study tackles several challenges of evaluating 
+histology-independent treatments using entrectinib as an example. 
+Histology-independent treatments are provided based on genetic marker(s) of 
+tumors, regardless of the tumor type. We evaluated the lifetime 
+cost-effectiveness of testing all patients for NTRK fusions and treating the 
+positive cases with entrectinib compared with no testing and standard of care 
+(SoC) for all patients.
+METHODS: The health economic model consisted of a decision tree reflecting the 
+NTRK testing phase followed by a microsimulation model reflecting treatment with 
+either entrectinib or SoC. Efficacy of entrectinib was based on data from basket 
+trials, whereas historical data from NTRK-negative patients were corrected for 
+the prognostic value of NTRK fusions to model SoC.
+RESULTS: "Testing" (testing for NTRK fusions, with subsequent entrectinib 
+treatment in NTRK-positive patients and SoC in NTRK-negative patients) had 
+higher per-patient quality-adjusted life-years (QALYs) and costs than "No 
+testing" (SoC for all patients), with a difference of 0.0043 and €732, 
+respectively. This corresponded to an incremental cost-effectiveness ratio 
+(ICER) of €169 957/QALY and, using a cost-effectiveness threshold of 
+€80 000/QALY, an incremental net monetary benefit of -€388. When excluding the 
+costs of genetic testing for NTRK fusions, the ICER was reduced to €36 290/QALY 
+and the incremental net monetary benefit increased to €188.
+CONCLUSIONS: When treatment requires the identification of a genetic marker, the 
+associated costs and effects need to be accounted for. Because of the low 
+prevalence of NTRK fusions, the number needed-to-test to identify patients 
+eligible for entrectinib is large. Excluding the testing phase reduces the ICER 
+substantially.
+
+Copyright © 2022 International Society for Pharmacoeconomics and Outcomes 
+Research, Inc. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2022.08.006
+PMID: 36229359 [Indexed for MEDLINE]
+
+
+317. Sci Rep. 2022 Oct 13;12(1):17157. doi: 10.1038/s41598-022-21326-w.
+
+Applicability of modified weibull extension distribution in modeling censored 
+medical datasets: a bayesian perspective.
+
+Feroze N(1), Tahir U(2), Noor-Ul-Amin M(3), Nisar KS(4), Alqahtani MS(5)(6), 
+Abbas M(7)(8), Ali R(9), Jirawattanapanit A(10).
+
+Author information:
+(1)Department of Statistics, The University of Azad Jammu and Kashmir, 
+Muzaffarabad, Pakistan. navid.feroze@ajku.edu.pk.
+(2)Department of Statistics, The University of Azad Jammu and Kashmir, 
+Muzaffarabad, Pakistan.
+(3)Department of Statistics, COMSATS University Islamabad-Lahore Campus, Lahore, 
+Pakistan.
+(4)Department of Mathematics, College of Arts and Sciences, Prince Sattam Bin 
+Abdulaziz University, Wadi Aldawaser, Saudi Arabia.
+(5)Radiological Sciences Department, College of Applied Medical Sciences, King 
+Khalid University, Abha, 61421, Saudi Arabia.
+(6)BioImaging Unit, Space Research Centre, Michael Atiyah Building, University 
+of Leicester, Leicester, LE1 7RH, UK.
+(7)Electrical Engineering Department, College of Engineering, King Khalid 
+University, Abha, 61421, Saudi Arabia.
+(8)Electronics and communications Department, College of Engineering, Delta 
+University for Science and Technology, Gamasa, 35712, Egypt.
+(9)School of Mathematics and Statistics, HNP LAMA, Central South University, 
+Changsha, 410083, Hunan, People's Republic of China. rashidali@csu.edu.cn.
+(10)Department of Mathematics, Faculty of Science, Phuket Rajabhat University 
+(PKRU), 6 Thepkasattree Road, Raddasa, Phuket, 83000, Thailand. 
+anuwat.j@pkru.ac.th.
+
+Erratum in
+    Sci Rep. 2022 Nov 29;12(1):20579.
+
+There are some contributions analyzing the censored medical datasets using 
+modifications of the conventional lifetime distribution; however most of the 
+said contributions did not considered the modification of the Weibull 
+distribution (WD). The WD is an important lifetime model. Due to its prime 
+importance in modeling life data, many researchers have proposed different 
+modifications of WD. One of the most recent modifications of WD is Modified 
+Weibull Extension distribution (MWED). However, the ability of MWED to model the 
+censored medical data has not yet been explored in the literature. We have 
+explored the suitability of the model in modeling censored medical datasets. The 
+analysis has been carried out using Bayesian methods under different loss 
+functions and informative priors. The approximate Bayes estimates have been 
+computed using Lindley's approximation. Based on detailed simulation study and 
+real life analysis, it has been concluded that Bayesian methods performed better 
+as compared to maximum likelihood estimates. In case of small samples, the 
+performance of Bayes estimates under ELF and informative prior was the best. 
+However, in case of large samples, the choice of prior and loss function did not 
+affect the efficiency of the results to a large extend. The MWED performed 
+efficiently in modeling real censored datasets relating to survival times of the 
+leukemia and bile duct cancer patients. The MWED was explored to be a very 
+promising candidate model for modeling censored medical datasets.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41598-022-21326-w
+PMCID: PMC9558059
+PMID: 36229626 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+318. BMC Geriatr. 2022 Oct 13;22(1):796. doi: 10.1186/s12877-022-03502-9.
+
+Application of machine learning model to predict osteoporosis based on abdominal 
+computed tomography images of the psoas muscle: a retrospective study.
+
+Huang CB(#)(1)(2), Hu JS(#)(1), Tan K(1)(2), Zhang W(1), Xu TH(1)(2), Yang 
+L(3)(4).
+
+Author information:
+(1)Department of Orthopaedic Surgery, The Second Affiliated Hospital and Yuying 
+Childrens Hospital of Wenzhou Medical University, Wenzhou, 325000, China.
+(2)Key Laboratory of Orthopaedics of Zhejiang Province, Wenzhou, 325000, China.
+(3)Department of Orthopaedic Surgery, The Second Affiliated Hospital and Yuying 
+Childrens Hospital of Wenzhou Medical University, Wenzhou, 325000, China. 
+yanglei@wmu.edu.cn.
+(4)Key Laboratory of Orthopaedics of Zhejiang Province, Wenzhou, 325000, China. 
+yanglei@wmu.edu.cn.
+(#)Contributed equally
+
+BACKGROUND: With rapid economic development, the world's average life expectancy 
+is increasing, leading to the increasing prevalence of osteoporosis worldwide. 
+However, due to the complexity and high cost of dual-energy x-ray absorptiometry 
+(DXA) examination, DXA has not been widely used to diagnose osteoporosis. In 
+addition, studies have shown that the psoas index measured at the third lumbar 
+spine (L3) level is closely related to bone mineral density (BMD) and has an 
+excellent predictive effect on osteoporosis. Therefore, this study developed a 
+variety of machine learning (ML) models based on psoas muscle tissue at the L3 
+level of unenhanced abdominal computed tomography (CT) to predict osteoporosis.
+METHODS: Medical professionals collected the CT images and the clinical 
+characteristics data of patients over 40 years old who underwent DXA and 
+abdominal CT examination in the Second Affiliated Hospital of Wenzhou Medical 
+University database from January 2017 to January 2021. Using 3D Slicer software 
+based on horizontal CT images of the L3, the specialist delineated three layers 
+of the region of interest (ROI) along the bilateral psoas muscle edges. The 
+PyRadiomics package in Python was used to extract the features of ROI. Then 
+Mann-Whitney U test and the least absolute shrinkage and selection operator 
+(LASSO) algorithm were used to reduce the dimension of the extracted features. 
+Finally, six machine learning models, Gaussian naïve Bayes (GNB), random forest 
+(RF), logistic regression (LR), support vector machines (SVM), Gradient boosting 
+machine (GBM), and Extreme gradient boosting (XGBoost), were applied to train 
+and validate these features to predict osteoporosis.
+RESULTS: A total of 172 participants met the inclusion and exclusion criteria 
+for the study. 82 participants were enrolled in the osteoporosis group, and 90 
+were in the non-osteoporosis group. Moreover, the two groups had no significant 
+differences in age, BMI, sex, smoking, drinking, hypertension, and diabetes. 
+Besides, 826 radiomic features were obtained from unenhanced abdominal CT images 
+of osteoporotic and non-osteoporotic patients. Five hundred fifty radiomic 
+features were screened out of 826 by the Mann-Whitney U test. Finally, 16 
+significant radiomic features were obtained by the LASSO algorithm. These 16 
+radiomic features were incorporated into six traditional machine learning models 
+(GBM, GNB, LR, RF, SVM, and XGB). All six machine learning models could predict 
+osteoporosis well in the validation set, with the area under the receiver 
+operating characteristic (AUROC) values greater than or equal to 0.8. GBM is 
+more effective in predicting osteoporosis, whose AUROC was 0.86, sensitivity 
+0.70, specificity 0.92, and accuracy 0.81 in validation sets.
+CONCLUSION: We developed six machine learning models to predict osteoporosis 
+based on psoas muscle images of abdominal CT, and the GBM model had the best 
+predictive performance. GBM model can better help clinicians to diagnose 
+osteoporosis and provide timely anti-osteoporosis treatment for patients. In the 
+future, the research team will strive to include participants from multiple 
+institutions to conduct external validation of the ML model of this study.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12877-022-03502-9
+PMCID: PMC9563158
+PMID: 36229793 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+319. J Prev Med Public Health. 2022 Sep;55(5):415-423. doi: 10.3961/jpmph.22.195.
+ Epub 2022 Aug 24.
+
+The Primary Process and Key Concepts of Economic Evaluation in Healthcare.
+
+Kim Y(1), Kim Y(2), Lee HJ(2), Lee S(2), Park SY(3), Oh SH(4), Jang S(5), Lee 
+T(6), Ahn J(7), Shin S(2).
+
+Author information:
+(1)Department of Social Medicine, Inha University College of Medicine, Incheon, 
+Korea.
+(2)Division of Healthcare Technology Assessment Research, National 
+Evidence-based Healthcare Collaborating Agency, Seoul, Korea.
+(3)VIAplus, Suwon, Korea.
+(4)BK21 FOUR Community-Based Intelligent Novel Drug Discovery Education Unit, 
+College of Pharmacy, Research Institute of Pharmaceutical Sciences, Kyungpook 
+National University, Daegu, Korea.
+(5)College of Pharmacy and Gachon Institute of Pharmaceutical Sciences, Gachon 
+University, Incheon, Korea.
+(6)Department of Public Health Science, Graduate School of Public Health, Seoul 
+National University, Seoul, Korea.
+(7)Department of Health Convergence, Ewha Womans University, Seoul, Korea.
+
+Economic evaluations in the healthcare are used to assess economic efficiency of 
+pharmaceuticals and medical interventions such as diagnoses and medical 
+procedures. This study introduces the main concepts of economic evaluation 
+across its key steps: planning, outcome and cost calculation, modeling, 
+cost-effectiveness results, uncertainty analysis, and decision-making. When 
+planning an economic evaluation, we determine the study population, 
+intervention, comparators, perspectives, time horizon, discount rates, and type 
+of economic evaluation. In healthcare economic evaluations, outcomes include 
+changes in mortality, the survival rate, life years, and quality-adjusted life 
+years, while costs include medical, non-medical, and productivity costs. 
+Model-based economic evaluations, including decision tree and Markov models, are 
+mainly used to calculate the total costs and total effects. In 
+cost-effectiveness or costutility analyses, cost-effectiveness is evaluated 
+using the incremental cost-effectiveness ratio, which is the additional cost per 
+one additional unit of effectiveness gained by an intervention compared with a 
+comparator. All outcomes have uncertainties owing to limited evidence, diverse 
+methodologies, and unexplained variation. Thus, researchers should review these 
+uncertainties and confirm their robustness. We hope to contribute to the 
+establishment and dissemination of economic evaluation methodologies that 
+reflect Korean clinical and research environment and ultimately improve the 
+rationality of healthcare policies.
+
+DOI: 10.3961/jpmph.22.195
+PMCID: PMC9561137
+PMID: 36229903 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICT OF INTEREST The authors have no 
+conflicts of interest associated with the material presented in this paper.
+
+
+320. Foods. 2022 Sep 20;11(19):2934. doi: 10.3390/foods11192934.
+
+Preservation of Litchi Fruit with Nanosilver Composite Particles (Ag-NP) and 
+Resistance against Peronophythora litchi.
+
+Lin X(1), Lin Y(1), Liao Z(1), Niu X(2), Wu Y(3), Shao D(1), Shen B(4), Shen 
+T(4), Wang F(1), Ding H(1), Ye B(1), Li Y(1).
+
+Author information:
+(1)Institute of Natural Products of Horticultural Plants, Fujian Agriculture and 
+Forestry University, Fuzhou 350002, China.
+(2)Fujian Institute of Tropical Crops, Zhangzhou 363001, China.
+(3)Qingyuan Agricultural Science and Technology Extension Service Center, 
+Qingyuan 511500, China.
+(4)Agricultural and Rural Bureau of Zhaoan County, Zhaoan 363500, China.
+
+Litchi (Litchi chinensis Sonn.) is susceptible to infection by Peronophythora 
+litchi post storage, which rapidly decreases the sensory and nutritional quality 
+of the fruit. In this study, the effects of nanosilver (Ag-NP) solution 
+treatment on the shelf life of litchi fruit and the inhibition of P. litchi were 
+examined, and the underlying mechanisms were discussed. For investigations, we 
+used one variety of litchi ('Feizixiao'), dipping it in different concentrations 
+of Ag-NP solution after harvesting. Meanwhile, we treated P. litchi with 
+different concentrations of Ag-NP solution. According to the data analysis, 
+litchi treated with 400 μg/mL Ag-NPs and stored at 4 °C had the highest health 
+rate and the lowest browning index among all the samples. In the same trend, 
+treatment with 400 μg/mL Ag-NPs produced the best results for anthocyanin 
+content, total soluble solids content, and titratable acidity content. 
+Additionally, according to the results of the inhibition test, 800 μg/mL Ag-NP 
+solution had a 94.97% inhibition rate against P. litchi. Within 2-10 h following 
+exposure to 400 μg/mL Ag-NP solution, the contents of superoxide dismutase, 
+peroxidase, and catalase in P. litchi gradually increased and peaked, followed 
+by a gradual decline. At this time, the integrity of the cell membrane of P. 
+litchi could be broken by Ag-NP solution, and the sporangia showed deformed germ 
+tubes and abnormal shapes. Taken together, these results suggested that Ag-NP 
+treatment inhibited respiration and P. litchi activity, which might attenuate 
+litchi pericarp browning and prolong the shelf life of litchi. Accordingly, 
+Ag-NPs could be used as an effective antistaling agent in litchi fruit and as an 
+ecofriendly fungicide for the post-harvest control of litchi downy blight. This 
+study provides new insights into the application of Ag-NP as an antistaling 
+agent for fruit storage and as an ecofriendly fungicide.
+
+DOI: 10.3390/foods11192934
+PMCID: PMC9564286
+PMID: 36230009
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+321. Foods. 2022 Sep 21;11(19):2945. doi: 10.3390/foods11192945.
+
+Antifungal Activities of Essential Oils in Vapor Phase against Botrytis cinerea 
+and Their Potential to Control Postharvest Strawberry Gray Mold.
+
+Tančinová D(1), Mašková Z(1), Mendelová A(2), Foltinová D(3), Barboráková Z(1), 
+Medo J(1).
+
+Author information:
+(1)Institute of Biotechnology, Faculty of Biotechnology and Food Sciences, 
+Slovak University of Agriculture in Nitra, Tr. A Hlinku 2, 949 76 Nitra, 
+Slovakia.
+(2)Institute of Food Sciences, Faculty of Biotechnology and Food Sciences, 
+Slovak University of Agriculture in Nitra, Tr. A Hlinku 2, 949 76 Nitra, 
+Slovakia.
+(3)The State Veterinary and Food Administration of the Slovak Republic, 
+Botanická 17, 842 13 Bratislava, Slovakia.
+
+Essential oils (EOs) from aromatic plants seem to have the potential to control 
+several fungal pathogens and food contaminants. Botrytis cinerea is the main 
+strawberry fruit contaminant causing high losses during storage. Here, thirteen 
+EOs applied in the vapor phase were evaluated for their potential to inhibit the 
+growth of three different strains of B. cinerea isolated from strawberry fruits. 
+Eight EOs (lemongrass, litsea, lavender, peppermint, mint, petitgrain, sage, and 
+thyme) were able to completely inhibit the growth of B. cinerea for 7 days when 
+applied at a concentration of 625 μL·L-1. Four EOs with the lowest minimal 
+inhibition concentrations (thyme, peppermint, lemongrass, and litsea) have been 
+tested on strawberry fruits intentionally inoculated by B. cinerea. All four EOs 
+showed high inhibition at a concentration of 250 or 500 μL·L-1, but only 
+peppermint EO was able to completely inhibit B. cinerea lesion development at a 
+concentration of 125 μL·L-1. The sensory evaluation of strawberries treated by 
+EOs at a concentration 125 μL·L-1 resulted in a statistically significant 
+decrease in taste, aftertaste, aroma, and overall quality. Lemongrass and litsea 
+EOs scored better than thyme and peppermint ones, thus forming two viable 
+methods for B. cinerea suppression and the extension of packed strawberries' 
+shelf life.
+
+DOI: 10.3390/foods11192945
+PMCID: PMC9563059
+PMID: 36230021
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+322. Foods. 2022 Oct 5;11(19):3083. doi: 10.3390/foods11193083.
+
+Formation of Starch-Lipid Complexes during the Deep-Frying Process and Its 
+Effects on Lipid Oxidation.
+
+Hu X(1)(2), Li Z(1)(2), Wang F(3), Mu H(1), Guo L(1), Xiao J(1), Liu Y(4), Li 
+X(1).
+
+Author information:
+(1)College of Food Science and Engineering, Qingdao Agricultural University, 
+Qingdao 266109, China.
+(2)Qingdao Special Food Research Institute, Qingdao 266109, China.
+(3)COFCO Nutrition & Health Research Institute, Beijing 102209, China.
+(4)State Key Laboratory of Food Science and Technology, School of Food Science 
+and Technology, National Engineering Research Center for Functional Food, 
+National Engineering Laboratory for Cereal Fermentation Technology, 
+Collaborative Innovation Center of Food Safety and Quality Control in Jiangsu 
+Province, Jiangnan University, Wuxi 214122, China.
+
+In the present study, maize starch (MS), potato starch (PS), high-amylose maize 
+starch (HAMS), and wheat starch (WS) were deep-fried in soybean oil that was 
+continuously heated for 40 h under 180 °C. The thermodynamic and pasting 
+properties of deep-fried starch samples were determined. The results suggested 
+that starch−lipid complexes formed with the extension of frying oils’ usage; 
+however, their number was not dependent on the frying oils’ life cycle. 
+Importantly, the results of pasting properties revealed the following strength 
+of intermolecular force in deep-fried starch samples: PS > MS > HAMS > WS. The 
+results of XRD and FTIR analysis confirmed the formation of starch−lipid 
+complexes during the deep-frying process. Furthermore, the results of the in 
+vitro digestibility of deep-fried starch revealed that the formation of 
+starch−lipid complexes inhibited the swelling of starch granules and prevented 
+the entrance of amylase into the interior. Additionally, the results of the 
+oxidation stability of deep-frying oil indicated that the formation of 
+starch−lipid complexes did not alter the trend of lipid oxidation as an effect 
+of the limited number of starch−lipid complexes. These results could have 
+critical implications for the development of healthier deep-fried foods.
+
+DOI: 10.3390/foods11193083
+PMCID: PMC9562666
+PMID: 36230159
+
+Conflict of interest statement: The authors declare no conflict of interest. 
+F.W. from COFCO Nutrition & Health Research Institute reviewed and edited the 
+manuscript. The company or this cooperation did not affect the authenticity and 
+objectivity of the experimental results of this work.
+
+
+323. Animals (Basel). 2022 Sep 24;12(19):2555. doi: 10.3390/ani12192555.
+
+Unraveling the Drifting Larval Fish Community in a Large Spawning Ground in the 
+Middle Pearl River Using DNA Barcoding.
+
+Chen W(1)(2)(3), Li C(4), Li X(1)(2)(3), Li J(1)(2)(3), Li Y(1)(2)(3).
+
+Author information:
+(1)Pearl River Fisheries Research Institute, Chinese Academy of Fishery 
+Sciences, Guangzhou 510380, China.
+(2)Key Laboratory of Aquatic Animal Immune Technology of Guangdong Province, 
+Guangzhou 510380, China.
+(3)Guangzhou Scientific Observing and Experimental Station of National Fisheries 
+Resources and Environment, Guangzhou 510380, China.
+(4)Zhaoqing Aquatic technology Extension Center, Zhaoqing 526060, China.
+
+Resolving the species composition of a larval pool in a spawning ground can 
+provide novel insights into regional fish stocks and can support the development 
+of effective monitoring and conservation policies. However, it is challenging to 
+identify fish larvae to species due to their high diversity and dramatic 
+phenotypic changes over development. In this study, we collected fish larvae in 
+the Dongta spawning ground (Guiping City, Guangxi Province, China) in the middle 
+reaches of the Pearl River between May and August 2018. We used a DNA barcoding 
+approach to determine the species composition of the larval pool. A total of 905 
+larvae were chosen for molecular identification, of which 750 yielded 
+high-quality barcoding sequences. Of these, 597 (≈79.6%), 151 (≈20.1%)/and 2 
+(≈0.3%) were assigned to 28 species, 8 genera, and 1 subfamily using the Barcode 
+of Life Data System and GenBank nucleotide databases, respectively. Among the 28 
+identified species, 21 were cyprinids. Two species (Mugilogobius myxodermus and 
+Pseudolaubuca engraulis) that were present only infrequently in previous adult 
+surveys were abundant in the larval pool. Six invasive species were identified 
+in the larval pool, implying that these species had successfully colonized the 
+studied river section. Several migratory species common in the lower Pearl River 
+were rare or absent in the investigated region, suggesting that dam construction 
+in the Pearl River has had adverse effects on these migratory species. In 
+summary, our study confirmed the applicability of DNA barcoding to studies of 
+fish larval ecology and provided important reference data for fishery management 
+and conservation in the Pearl River.
+
+DOI: 10.3390/ani12192555
+PMCID: PMC9559676
+PMID: 36230296
+
+Conflict of interest statement: The authors declare no competing financial 
+interests.
+
+
+324. Cancers (Basel). 2022 Sep 21;14(19):4570. doi: 10.3390/cancers14194570.
+
+Addition of Chromosome 17 Polysomy and HER2 Amplification Status Improves the 
+Accuracy of Clinicopathological Factor-Based Progression Risk Stratification and 
+Tumor Grading of Non-Muscle-Invasive Bladder Cancer.
+
+Kocsmár I(1)(2), Kocsmár É(1), Pajor G(3), Kulka J(1), Székely E(1), Kristiansen 
+G(4), Schilling O(5), Nyirády P(2), Kiss A(1), Schaff Z(1), Riesz P(2), Lotz 
+G(1).
+
+Author information:
+(1)Department of Pathology, Forensic and Insurance Medicine, Semmelweis 
+University, Üllői Street 93, H-1091 Budapest, Hungary.
+(2)Department of Urology, Semmelweis University, Üllői Street 78b, H-1082 
+Budapest, Hungary.
+(3)Department of Pathology, Medical School and Clinical Center, University of 
+Pécs, Szigeti Street 12, H-7624 Pécs, Hungary.
+(4)Department of Pathology, University Hospital Bonn, Universitätsklinikum Bonn 
+(AöR), Venusberg-Campus 1 Building 62, 53127 Bonn, Germany.
+(5)Institute of Surgical Pathology, Medical Center, University of Freiburg, 
+Breisacher Street 115A, 79106 Freiburg im Breisgau, Germany.
+
+Progression of non-muscle-invasive bladder cancer (NMIBC) to muscle-invasive 
+disease (MIBC) significantly worsens life expectancy. Its risk can be assessed 
+by clinicopathological factors according to international guidelines. However, 
+additional molecular markers are needed to refine and improve the prediction. 
+Therefore, in the present study, we aimed to predict the progression of NMIBCs 
+to MIBC by assessing p53 expression, polysomy of chromosome 17 (Chr17) and HER2 
+status in the tissue specimens of the tumors of 90 NMIBC patients. Median 
+follow-up was 77 months (range 2−158). Patients with Chr17 polysomy or HER2 gene 
+amplification had a higher rate of disease progression (hazard ratio: 7.44; p < 
+0.001 and 4.04; p = 0.033, respectively; univariate Cox regression). 
+Multivariable Cox regression models demonstrated that the addition of either 
+Chr17 polysomy or HER2 gene amplification status to the European Association of 
+Urology (EAU) progression risk score increases the c-index (from 0.741/EAU/ to 
+0.793 and 0.755, respectively), indicating that Chr17 polysomy/HER2 
+amplification status information improves the accuracy of the EAU risk table in 
+predicting disease progression. HER2/Chr17 in situ hybridization can be used to 
+select non-progressive cases not requiring strict follow-up, by reclassifying 
+non-HER2-amplified, non-polysomic NMIBCs from the high- and very high-risk 
+groups of EAU to the intermediate-risk group.
+
+DOI: 10.3390/cancers14194570
+PMCID: PMC9558547
+PMID: 36230493
+
+Conflict of interest statement: The funders of the study had no role in the 
+study design and conduct of the study; collection, management, analysis, and 
+interpretation of the data; and preparation, review, or approval of the 
+manuscript. The authors declare that they have no conflict of interest with 
+respect to the research, authorship, and publication of this article, including 
+specific financial interests and relationships or affiliations relevant to the 
+subject matter or materials discussed in the manuscript (e.g., 
+employment/affiliation, grants or funding, consultancies, honoraria, stock 
+ownership or options, expert testimony, royalties, or patents filed, received, 
+or pending).
+
+
+325. Cancers (Basel). 2022 Sep 30;14(19):4790. doi: 10.3390/cancers14194790.
+
+Surgical Treatment of Spinal Meningiomas in the Elderly (≥75 Years): Which 
+Factors Affect the Neurological Outcome? An International Multicentric Study of 
+72 Cases.
+
+Capo G(1), Moiraghi A(2)(3)(4), Baro V(5), Tahhan N(1), Delaidelli A(6)(7), 
+Saladino A(8), Paun L(2), DiMeco F(8)(9)(10), Denaro L(5), Meling TR(2), 
+Tessitore E(2), Barrey CY(1)(11).
+
+Author information:
+(1)Department of Spine and Spinal Cord Surgery, Hôpital Pierre Wertheimer, 
+Hospices Civils de Lyon, Claude Bernard University of Lyon 1, 59 Boulevard 
+Pinel, 69677 Lyon-Bron, France.
+(2)Department of Neurosurgery, Geneva University Hospitals, Faculty of Medicine, 
+University of Geneva, 1205 Geneva, Switzerland.
+(3)Department of Neurosurgery, GHU Paris-Psychiatrie et Neurosciences, 
+Sainte-Anne Hospital, 75014 Paris, France.
+(4)Institut de Psychiatrie et Neurosciences de Paris (IPNP), UMR S1266, INSERM, 
+IMA-BRAIN, 75014 Paris, France.
+(5)Academic Neurosurgery, Department of Neurosciences, University of Padova, 
+35128 Padova, Italy.
+(6)Department of Molecular Oncology, British Columbia Cancer Research Centre, 
+Vancouver, BC V5Z 1L3, Canada.
+(7)Department of Pathology and Laboratory Medicine, University of British 
+Columbia, Vancouver, BC V6T 1Z7, Canada.
+(8)Neurosurgery Department, Fondazione IRCCS Istituto Neurologico Nazionale "C. 
+Besta", 20133 Milan, Italy.
+(9)Department of Oncology and Hemato-Oncology, University of Milan, 20122 Milan, 
+Italy.
+(10)Department of Neurological Surgery, Johns Hopkins Medical School, Baltimore, 
+MD 21205, USA.
+(11)Laboratory of Biomechanics, ENSAM, Arts et Metiers ParisTech, 153 Boulevard 
+de l'Hôpital, 75013 Paris, France.
+
+(1) Background: With the increasing life expectancy in the Western world, an 
+increasing number of old patients presents with spinal meningioma. Considering 
+the benign nature of these tumors, the functional outcome remains of great 
+importance, since more people reach old age in general conditions of well-being 
+and satisfactory autonomy. (2) Methods: We conducted an international 
+multicenter retrospective study to investigate demographic, clinical and 
+radiological data in a population of elderly patients (≥75 years of age) 
+undergoing surgery for SM from January 2000 to December 2020 in four European 
+referral centers. The aim was to identify prognostic and predictive factors for 
+a good postoperative functional outcome. (3) Results: 72 patients were included 
+in the study. Complete tumor resection (Simpson I or II) was achieved in 67 
+(95.7%) cases. Intraoperative complications were reported in 7 (9.9%) patients 
+while postoperative complications were found in 12 (16.7%). An excellent general 
+postoperative status (McCormick I and II) was achieved in 65.3%. Overall, 
+surgical resection had a good impact on patients’ functional outcome (86.1% 
+either showing an improvement or maintaining a good preoperative status). Uni- 
+and multivariate analyses found that both age and preoperative modified 
+McCormick independently correlated with relative outcome (coeff = −0.058, p = 
+0.0251; coeff = 0.597, p < 0.0001) and with postoperative status (coeff = 0.058, 
+p = 0.02507; coeff = 0.402, p = 0.00027), respectively. (4) Conclusions: Age and 
+preoperative modified McCormick were found to be independent prognostic factors. 
+Nevertheless, advanced age (≥75), per se, did not seem to contraindicate 
+surgery, even in those with severe preoperative neurological deficits. The 
+functional results sustain the need for surgical resection of SM in the elderly.
+
+DOI: 10.3390/cancers14194790
+PMCID: PMC9563730
+PMID: 36230713
+
+Conflict of interest statement: Enrico Tessitore: training fees from Spineart 
+and Depuy Synthes. The other authors have no conflict of interest to disclose.
+
+
+326. Int J Environ Res Public Health. 2022 Sep 22;19(19):11985. doi: 
+10.3390/ijerph191911985.
+
+Cost-Effectiveness of Positive Memory Training (PoMeT) for the Treatment of 
+Depression in Schizophrenia.
+
+Simon J(1)(2), Kiss N(1), Korrelboom K(3)(4), Kingdon D(5), Wykes T(6)(7), Phiri 
+P(8)(9), van der Gaag M(10)(11), Baksh MF(12), Steel C(13)(14).
+
+Author information:
+(1)Department of Health Economics, Center for Public Health, Medical University 
+of Vienna, Kinderspitalgasse 15, 1090 Wien, Austria.
+(2)Department of Psychiatry, University of Oxford, Warneford Hospital, Oxford 
+OX3 7JX, UK.
+(3)Department of Anxiety Disorders, PsyQ Parnassia Group, Psychiatric Center, 
+Lijnbaan 4, 2512 VA The Hague, The Netherlands.
+(4)Department of Medical and Clinical Psychology, Tilburg University, 
+Warandelaan 2, 5037 AB Tilburg, The Netherlands.
+(5)Department of Psychiatry, Faculty of Medicine, University of Southampton, 
+Highfield, Southampton SO17 1BJ, UK.
+(6)Department of Psychology, Institute of Psychiatry, Psychology & Neuroscience, 
+London SE5 8AF, UK.
+(7)South London and Maudsley NHS Foundation Trust, London SE5 8AZ, UK.
+(8)Department of Psychology, Faculty of Environmental and Life Sciences, 
+University of Southampton, Highfield Campus, Southampton SO17 1BJ, UK.
+(9)Research & Innovation Department, Tom Rudd Unit, Southern Health NHS 
+Foundation Trust Moorgreen Hospital, Botley Rd, West End, Southampton SO30 3JB, 
+UK.
+(10)Department of Clinical Psychology, VU University and Amsterdam Public Mental 
+Health Research Institute, Van der Boechorststraat 1, 1081 BT Amsterdam, The 
+Netherlands.
+(11)Parnassia Psychiatric Institute, Zoutkeetsingel 40, 2512 HN The Hague, The 
+Netherlands.
+(12)Department of Mathematics and Statistics, University of Reading, 
+Whiteknights, Reading RG6 6AL, UK.
+(13)School of Psychology and Clinical Language Sciences, University of Reading, 
+Whiteknights, Reading RG6 6AL, UK.
+(14)Oxford Health NHS Foundation Trust, Oxford OX3 7JX, UK.
+
+The Positive Memory Training (PoMeT) trial demonstrated reduced depression 
+symptoms at 3 months for schizophrenia, but its longer-term outcome and cost 
+impacts remain unknown. This study is a within-trial cost-utility analysis with 
+quality-adjusted life years (QALYs) as outcome based on health-related quality 
+of life (HRQoL) measurement and secondary outcome analyses of capability 
+well-being. The incremental cost-effectiveness of PoMeT was compared to 
+Treatment As Usual only (TAU) over 9 months from the 'health and social' care 
+and 'societal' perspectives. Uncertainty was explored using bootstrapping and 
+sensitivity analyses for cost outliers and outcome methods. HRQoL improvement 
+was observed for both PoMeT and TAU at 3 months, but reached statistical 
+significance and was sustained only for TAU. There was no change in capability 
+well-being and no significant group difference in QALYs gained over 9 months. 
+Mean intervention cost was GBP 823. Compared to TAU, PoMeT had significantly 
+higher mental health care costs (+GBP 1251, 95% CI GBP 185 to GBP 2316) during 
+the trial, but 'health and social care' and 'societal' cost differences were 
+non-significant. Compared to the before-trial period, psychiatric medication 
+costs increased significantly in both groups. The probability of PoMeT being 
+cost-effective in the given format over 9 months was <30% and decreased further 
+in sensitivity analyses.. Generalizability remains limited since the 
+before-after cost analysis revealed additional treatment effects also in the TAU 
+group that likely diminished the incremental impacts and cost-effectiveness of 
+PoMeT. It is not clear whether an active post-intervention follow-up could 
+result in sustained longer-term effects and improved cost-effectiveness.
+
+DOI: 10.3390/ijerph191911985
+PMCID: PMC9565889
+PMID: 36231292 [Indexed for MEDLINE]
+
+Conflict of interest statement: Kees Korrelboom declares royalties received for 
+books written on PoMeT and fees received for workshops and presentations about 
+PoMeT. Peter Phiri received research grant from Novo Nordisk, and other from 
+John Wile and Sons outside the submitted work. All other authors declare no 
+conflicts of interest.
+
+
+327. Int J Environ Res Public Health. 2022 Sep 28;19(19):12360. doi: 
+10.3390/ijerph191912360.
+
+Psycho-Social Factors Associated with Intimacy Needs in Divorced and Widowed 
+Older Chinese Women.
+
+Ji Z(1), Yan E(2).
+
+Author information:
+(1)Faculty of Social Sciences, Hong Kong Baptist University, Hong Kong 999077, 
+China.
+(2)Department of Applied Social Sciences, The Hong Kong Polytechnic University, 
+Hong Kong 999077, China.
+
+The rapidly ageing population, the growing rate of divorce, and the longer life 
+expectancy of women compared with men have resulted in a large proportion of 
+older Chinese women being alone. The sexual health and intimacy needs of this 
+group of women are ignored due to traditional Chinese cultural values that 
+undermine older adults' needs for sex and intimacy, and the subordinate position 
+of women in society. The present study used a quantitative survey method to 
+investigate bio-psycho-social factors associated with divorced and widowed older 
+Chinese women's sexual health and intimacy needs in two cities in Shanghai and 
+Wuhan. The conceptual framework of this study was guided by cognitive stress 
+theory, attachment theory, gender theory, socioemotional selectivity theory, 
+objectification theory, and activity theory. We adopted a model involving 
+demographic, biological, psychological, and social factors to unearth the 
+mechanism influencing divorced and widowed older Chinese women's sexual health 
+and intimacy needs. Data were collected between October 2020 and March 2021 via 
+face-to-face surveys. A convenience sample of 278 (N = 278) divorced and widowed 
+older Chinese women was recruited (166 in Shanghai and 112 in Wuhan). Sexual 
+health and intimacy needs were associated with current relationship status, 
+financial status, physical health, attachment style, neuroticism, mental health, 
+social support, prior marital conflict, and gender norm attitude. Sexual 
+behaviour was associated with age, number of children, financial status, 
+physical health, attachment style, neuroticism, prior marital conflict, gender 
+norm attitude, sexual knowledge, sexual attitude, and intimacy attitude as 
+predictors. Most participants in this study seemed to have found new intimate 
+partners with whom to continue participating in sexual activities after their 
+divorce or widowhood. The present study is one of the first examples of 
+empirical research to examine the sexual health and intimacy needs of older 
+Chinese women who are divorced or widowed. The findings generated by this study 
+will inform the design and implementation of appropriate social programs for 
+this demographic, and provide invaluable insight for social workers, educators, 
+sex therapists, healthcare professionals, community workers, and policymakers 
+working with this population.
+
+DOI: 10.3390/ijerph191912360
+PMCID: PMC9564901
+PMID: 36231665 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+328. Int J Environ Res Public Health. 2022 Sep 28;19(19):12371. doi: 
+10.3390/ijerph191912371.
+
+Prediction of China's Population Mortality under Limited Data.
+
+Cheng Z(1), Si W(1), Xu Z(1), Xiang K(2).
+
+Author information:
+(1)School of Mathematics and Statistics, Guizhou University, Guiyang 550025, 
+China.
+(2)School of Management, Guizhou University, Guiyang 550025, China.
+
+Population mortality is an important step in quantifying the risk of longevity. 
+China lacks data on population mortality, especially the elderly population. 
+Therefore, this paper first uses spline fitting to supplement the missing data 
+and then uses dynamic models to predict the species mortality of the Chinese 
+population, including age extrapolation and trend extrapolation. Firstly, for 
+age extrapolation, kannisto is used to expand the data of the high-age 
+population. Secondly, the Lee-Carter single-factor model is used to predict 
+gender and age mortality. This paper fills and smoothes the deficiencies of the 
+original data to make up for the deficiencies of our population mortality data 
+and improve the prediction accuracy of population mortality and life expectancy, 
+while analyzing the impact of mortality improvement and providing a theoretical 
+basis for policies to deal with the risk of longevity.
+
+DOI: 10.3390/ijerph191912371
+PMCID: PMC9565027
+PMID: 36231669 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there is no conflict of 
+interest regarding the publication of this paper.
+
+
+329. Int J Mol Sci. 2022 Sep 20;23(19):11038. doi: 10.3390/ijms231911038.
+
+The Antiaging Activities of Phytochemicals in Dark-Colored Plant Foods: 
+Involvement of the Autophagy- and Apoptosis-Associated Pathways.
+
+Luo M(1), Mai M(1), Song W(1), Yuan Q(1), Feng X(1), Xia E(1), Guo H(1)(2).
+
+Author information:
+(1)Department of Nutrition, School of Public Health, Guangdong Medical 
+University, Dongguan 523808, China.
+(2)Dongguan Key Laboratory of Environmental Medicine, School of Public Health, 
+Guangdong Medical University, Dongguan 523808, China.
+
+In the last two decades, human life expectancy has increased by about 10 years, 
+but this has not been accompanied by a corresponding increase in healthy 
+lifespan. Aging is associated with a wide range of human disorders, including 
+cancer, diabetes, and cardiovascular and neurodegenerative diseases. Delaying 
+the aging of organs or tissues and improving the physiological functions of the 
+elderly can reduce the risk of aging-related diseases. Autophagy and apoptosis 
+are crucial mechanisms for cell survival and tissue homeostasis, and may also be 
+primary aging-regulatory pathways. Recent epidemiological studies have shown 
+that eating more colorful plant foods could increase life expectancy. Several 
+representative phytochemicals in dark-colored plant foods such as quercetin, 
+catechin, curcumin, anthocyanins, and lycopene have apparent antiaging 
+potential. Nevertheless, the antiaging signaling pathways of the phytochemicals 
+from dark-colored plant foods remain elusive. In the present review, we 
+summarized autophagy- and apoptosis-associated targeting pathways of those 
+phytochemicals and discussed the core targets involved in the antiaging effects. 
+Further clinical evaluation and exploitation of phytochemicals as antiaging 
+agents are needed to develop novel antiaging therapeutics for preventing 
+age-related diseases and improving a healthy lifespan.
+
+DOI: 10.3390/ijms231911038
+PMCID: PMC9569742
+PMID: 36232338 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+330. Int J Mol Sci. 2022 Sep 25;23(19):11305. doi: 10.3390/ijms231911305.
+
+Nutrient-Mediated Perception and Signalling in Human Metabolism: A Perspective 
+of Nutrigenomics.
+
+Lal MK(1), Sharma E(2), Tiwari RK(3), Devi R(4), Mishra UN(5), Thakur R(6), 
+Gupta R(7), Dey A(8), Lal P(9), Kumar A(10), Altaf MA(11), Sahu DN(12), Kumar 
+R(3), Singh B(1), Sahu SK(12).
+
+Author information:
+(1)Division of Crop Physiology, Biochemistry and Post-Harvest Technology, 
+ICAR-Central Potato Research Institute, Shimla 171001, India.
+(2)Department of Molecular Biology and Biochemistry, Guru Nanak Dev University, 
+Amritsar 143005, India.
+(3)Division of Plant Protection, ICAR-Central Potato Research Institute, Shimla 
+171001, India.
+(4)Department of Microbiology, Punjab Agricultural University, Ludhiana 141004, 
+India.
+(5)Faculty of Agriculture, Sri Sri University, Cuttack 754006, India.
+(6)Division of Silviculture and Forest Management, Himalayan Forest Research 
+Institute, Conifer Campus, Shimla 171001, India.
+(7)Department of horticulture, Sher-e-Kashmir University of Agricultural Science 
+and Technology of Jammu, Jammu 181101, India.
+(8)Department of Life Sciences, Presidency University, 86/1 College Street, 
+Kolkata 700073, India.
+(9)Department of Agricultural Economics and Extension, School of Agriculture, 
+Lovely Professional University, Jalandhar GT Road (NH1), Phagwara 144402, India.
+(10)Division of Crop Physiology and Biochemistry, ICAR-National Rice Research 
+Institute, Cuttack 754006, India.
+(11)College of Horticulture, Hainan University, Haikou 570228, China.
+(12)State Key Laboratory of Agricultural Genomics, BGI-Shenzhen, Shenzhen 
+518083, China.
+
+The interaction between selective nutrients and linked genes involving a 
+specific organ reveals the genetic make-up of an individual in response to a 
+particular nutrient. The interaction of genes with food opens opportunities for 
+the addition of bioactive compounds for specific populations comprising 
+identical genotypes. The slight difference in the genetic blueprints of humans 
+is advantageous in determining the effect of nutrients and their metabolism in 
+the body. The basic knowledge of emerging nutrigenomics and nutrigenetics can be 
+applied to optimize health, prevention, and treatment of diseases. In addition, 
+nutrient-mediated pathways detecting the cellular concentration of nutrients 
+such as sugars, amino acids, lipids, and metabolites are integrated and 
+coordinated at the organismal level via hormone signals. This review deals with 
+the interaction of nutrients with various aspects of nutrigenetics and 
+nutrigenomics along with pathways involved in nutrient sensing and regulation, 
+which can provide a detailed understanding of this new leading edge in nutrition 
+research and its potential application to dietetic practice.
+
+DOI: 10.3390/ijms231911305
+PMCID: PMC9569568
+PMID: 36232603 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+331. Int J Mol Sci. 2022 Sep 28;23(19):11441. doi: 10.3390/ijms231911441.
+
+Decreased Expression of the Slc31a1 Gene and Cytoplasmic Relocalization of 
+Membrane CTR1 Protein in Renal Epithelial Cells: A Potent Protective Mechanism 
+against Copper Nephrotoxicity in a Mouse Model of Menkes Disease.
+
+Haberkiewicz O(1), Lipiński P(2), Starzyński RR(2), Jończy A(2), Kurowska P(3), 
+Ogórek M(1), Bednarz A(1), Herman S(1), Hatala D(1), Grzmil P(1), Rajfur Z(4), 
+Baster Z(4)(5), Lenartowicz M(1).
+
+Author information:
+(1)Laboratory of Genetics and Evolution, Institute of Zoology and Biomedical 
+Research, Jagiellonian University, Gronostajowa 9, 30-387 Kraków, Poland.
+(2)Department of Molecular Biology, Institute of Genetics and Animal 
+Biotechnology, Polish Academy of Sciences, Jastrzebiec, Postepu 36A, 05-552 
+Magdalenka, Poland.
+(3)Laboratory of Physiology and Toxicology of Reproduction, Institute of Zoology 
+and Biomedical Research, Jagiellonian University, Gronostajowa 9, 30-387 Krakow, 
+Poland.
+(4)Department of Molecular and Interfacial Biophysics, Faculty of Physics, 
+Astronomy and Applied Computer Science, Jagiellonian University, Łojasiewicza 
+11, 30-348 Kraków, Poland.
+(5)Cell and Developmental Biology Center, National Heart Lung and Blood 
+Institute, National Institutes of Health, Bethesda, MD 20824-0105, USA.
+
+Kidneys play an especial role in copper redistribution in the organism. The 
+epithelial cells of proximal tubules perform the functions of both copper uptake 
+from the primary urine and release to the blood. These cells are equipped on 
+their apical and basal membrane with copper transporters CTR1 and ATP7A. Mosaic 
+mutant mice displaying a functional dysfunction of ATP7A are an established 
+model of Menkes disease. These mice exhibit systemic copper deficiency despite 
+renal copper overload, enhanced by copper therapy, which is indispensable for 
+their life span extension. The aim of this study was to analyze the expression 
+of Slc31a1 and Slc31a2 genes (encoding CTR1/CTR2 proteins) and the cellular 
+localization of the CTR1 protein in suckling, young and adult mosaic mutants. 
+Our results indicate that in the kidney of both intact and copper-injected 
+14-day-old mutants showing high renal copper content, CTR1 mRNA level is not 
+up-regulated compared to wild-type mice given a copper injection. The expression 
+of the Slc31a1 gene in 45-day-old mice is even reduced compared with intact 
+wild-type animals. In suckling and young copper-injected mutants, the CTR1 
+protein is relocalized from the apical membrane to the cytoplasm of epithelial 
+cells of proximal tubules, the process which prevents copper transport from the 
+primary urine and, thus, protects cells against copper toxicity.
+
+DOI: 10.3390/ijms231911441
+PMCID: PMC9570402
+PMID: 36232742 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+332. Int J Mol Sci. 2022 Sep 30;23(19):11556. doi: 10.3390/ijms231911556.
+
+Embryogenic Stem Cell Identity after Protoplast Isolation from Daucus carota and 
+Recovery of Regeneration Ability through Protoplast Culture.
+
+Han JE(1), Lee HS(1), Lee H(2), Cho H(3), Park SY(1).
+
+Author information:
+(1)Department of Horticultural Science, Division of Animal, Horticultural and 
+Food Sciences, Chungbuk National University, Cheongju 28644, Korea.
+(2)Department of Forest Genetic Resources, National Institute of Forest Science, 
+39 Onjeong-ro, Suwon 16631, Korea.
+(3)Department of Industrial Plant Science and Technology, College of 
+Agricultural, Life and Environmental Sciences, Chungbuk National University, 
+Cheongju 28644, Korea.
+
+Protoplasts are single cells isolated from tissues or organs and are considered 
+a suitable system for cell studies in plants. Embryogenic cells are totipotent 
+stem cells, but their regeneration ability decreases or becomes lost altogether 
+with extension of the culture period. In this study, we isolated and cultured 
+EC-derived protoplasts (EC-pts) from carrots and compared them with 
+non-EC-derived protoplasts (NEC-pts) with respect to their totipotency. The 
+protoplast isolation conditions were optimized, and the EC-pts and NEC-pts were 
+characterized by their cell size and types. Both types of protoplasts were then 
+embedded using the alginate layer (TAL) method, and the resulting EC-pt-TALs and 
+NEC-pt-TALs were cultured for further regeneration. The expression of the 
+EC-specific genes SERK1, WUS, BBM, LEC1, and DRN was analyzed to confirm whether 
+EC identity was maintained after protoplast isolation. The protoplast isolation 
+efficiency for EC-pts was 2.4-fold higher than for NEC-pts (3.5 × 106 
+protoplasts·g−1 FW). In the EC-pt group, protoplasts < 20 µm accounted for 58% 
+of the total protoplasts, whereas in the NEC-pt group, small protoplasts 
+accounted for only 26%. In protoplast culture, the number of protoplasts that 
+divided was 2.6-fold higher for EC-pts than for NEC-pts (7.7 × 104 
+protoplasts·g−1 FW), with a high number of plants regenerated for EC-pt-TALs, 
+whereas no plants were induced by NEC-pt-TAL. Five times more plants were 
+regenerated from EC-pts than from ECs. Regarding the expression of EC-specific 
+genes, WUS and SERK1 expression increased 12-fold, and LEC1 and BBM expression 
+increased 3.6−6.4-fold in isolated protoplasts compared with ECs prior to 
+protoplast isolation (control). These results reveal that the protoplast 
+isolation process did not affect the embryogenic cell identity; rather, it 
+increased the plant regeneration rate, confirming that EC-derived protoplast 
+culture may be an efficient system for increasing the regeneration ability of 
+old EC cultures through the elimination of old and inactivate cells. EC-derived 
+protoplasts may also represent an efficient single-cell system for application 
+in new breeding technologies such as genome editing.
+
+DOI: 10.3390/ijms231911556
+PMCID: PMC9570137
+PMID: 36232857 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+333. Int J Mol Sci. 2022 Sep 30;23(19):11574. doi: 10.3390/ijms231911574.
+
+Down-Regulation of Lipid Metabolism in the Hepatopancreas of Shrimp Litopenaeus 
+vannamei upon Light and Heavy Infection of Enterocytozoon hepatopenaei: A 
+Comparative Proteomic Study.
+
+Wu Y(1)(2), Chen J(1)(2), Liao G(3), Hu M(1)(2), Zhang Q(1)(2), Meng X(1)(2), Li 
+T(1)(2), Long M(1)(2), Fan X(4), Yu Q(1)(2), Zhang L(5), Pan G(1)(2), Zhou 
+Z(1)(4).
+
+Author information:
+(1)Chongqing Key Laboratory of Microsporidia Infection and Control, Southwest 
+University, Chongqing 400715, China.
+(2)State Key Laboratory of Silkworm Genome Biology, Southwest University, 
+Chongqing 400715, China.
+(3)Pearl River Fisheries Research Institute, Chinese Academy of Fishery 
+Sciences, Guangzhou 510380, China.
+(4)College of Life Science, Chongqing Normal University, Chongqing 400047, 
+China.
+(5)Chongqing Fisheries Technical Extension Center, Chongqing 400014, China.
+
+Enterocytozoon hepatopenaei (EHP) is the pathogen of hepatopancreatic 
+microsporidiosis (HPM) in shrimp. The diseased shrimp Litopenaeus vannamei 
+exhibits a slow growth syndrome, which causes severe economic losses. Herein, 4D 
+label-free quantitative proteomics was employed to analyze the hepatopancreas of 
+L. vannamei with a light (EHPptp2 < 103 copies/50 ng hpDNA, L group) and heavy 
+(EHPptp2 > 104 copies/50 ng hpDNA, H group) load of EHP to better understand the 
+pathogenesis of HPM. Exactly 786 (L group) and 1056 (H group) differentially 
+expressed proteins (DEPs) versus the EHP-free (C group) control were mainly 
+clustered to lipid metabolism, amino acid metabolism, and energy production 
+processing. Compared with the L group, the H group exhibited down-regulation 
+significantly in lipid metabolism, especially in the elongation and degradation 
+of fatty acid, biosynthesis of unsaturated fatty acid, metabolism of α-linolenic 
+acid, sphingolipid, and glycerolipid, as well as juvenile hormone (JH) 
+degradation. Expression pattern analysis showed that the degree of infection was 
+positively correlated with metabolic change. About 479 EHP proteins were 
+detected in infected shrimps, including 95 predicted transporters. These 
+findings suggest that EHP infection induced the consumption of storage lipids 
+and the entire down-regulation of lipid metabolism and the coupling energy 
+production, in addition to the hormone metabolism disorder. These were 
+ultimately responsible for the stunted growth.
+
+DOI: 10.3390/ijms231911574
+PMCID: PMC9570011
+PMID: 36232879 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+334. J Clin Med. 2022 Sep 30;11(19):5805. doi: 10.3390/jcm11195805.
+
+Healthcare Transition in Inherited Metabolic Disorders-Is a Collaborative 
+Approach between US and European Centers Possible?
+
+Gold JI(1), Stepien KM(2)(3).
+
+Author information:
+(1)Division of Human Genetics, Children's Hospital of Philadelphia, 
+Philadelphia, PA 19104, USA.
+(2)Inherited Metabolic Disorders Department, Salford Royal NHS Foundation Trust, 
+Salford H6 8HD, UK.
+(3)Division of Diabetes, Endocrinology and Gastroenterology, University of 

@@ -1,0 +1,1000 @@
+
+Collaborators: Sun FY, Villabona-Arenas CJ, Nightingale ES, Showering A, Knight 
+GM, Sherratt K, Liu Y, Abbas K, Funk S, Endo A, Hellewell J, Rosello A, Lowe R, 
+Quaife M, Gimma A, Brady O, Williams J, Procter SR, Eggo RM, Chan YD, Munday JD, 
+Barnard RC, Gore-Langton GR, Bosse NI, Waterlow NR, Diamond C, Russell TW, 
+Medley G, Flasche S, Atkins KE, Prem K, Simons D, Auzenbergs M, Tully DC, Jarvis 
+CI, van Zandvoort K, Abbott S, Pearson CAB, Jombart T, Meakin SR, Foss AM, 
+Kucharski AJ, Quilty BJ, Gibbs HP, Clifford S, Klepac P.
+
+Author information:
+(1)Centre for Mathematical Modelling of Infectious Diseases, London School of 
+Hygiene & Tropical Medicine, London, UK; Statistics, Modelling and Economics 
+Department, National Infection Service, Public Health England, London, UK. 
+Electronic address: frank.sandmann@phe.gov.uk.
+(2)Centre for Mathematical Modelling of Infectious Diseases, London School of 
+Hygiene & Tropical Medicine, London, UK.
+(3)Centre for Mathematical Modelling of Infectious Diseases, London School of 
+Hygiene & Tropical Medicine, London, UK; School of Public Health, University of 
+Hong Kong, Hong Kong Special Administrative Region, China.
+
+Erratum in
+    Lancet Infect Dis. 2021 Oct;21(10):e302.
+
+Comment in
+    Lancet Infect Dis. 2021 Jul;21(7):893-894.
+
+BACKGROUND: In response to the COVID-19 pandemic, the UK first adopted physical 
+distancing measures in March, 2020. Vaccines against SARS-CoV-2 became available 
+in December, 2020. We explored the health and economic value of introducing 
+SARS-CoV-2 immunisation alongside physical distancing in the UK to gain insights 
+about possible future scenarios in a post-vaccination era.
+METHODS: We used an age-structured dynamic transmission and economic model to 
+explore different scenarios of UK mass immunisation programmes over 10 years. We 
+compared vaccinating 75% of individuals aged 15 years or older (and annually 
+revaccinating 50% of individuals aged 15-64 years and 75% of individuals aged 65 
+years or older) to no vaccination. We assumed either 50% vaccine efficacy 
+against disease and 45-week protection (worst-case scenario) or 95% vaccine 
+efficacy against infection and 3-year protection (best-case scenario). Natural 
+immunity was assumed to wane within 45 weeks. We also explored the additional 
+impact of physical distancing on vaccination by assuming either an initial 
+lockdown followed by voluntary physical distancing, or an initial lockdown 
+followed by increased physical distancing mandated above a certain threshold of 
+incident daily infections. We considered benefits in terms of quality-adjusted 
+life-years (QALYs) and costs, both to the health-care payer and the national 
+economy. We discounted future costs and QALYs at 3·5% annually and assumed a 
+monetary value per QALY of £20 000 and a conservative long-run cost per vaccine 
+dose of £15. We explored and varied these parameters in sensitivity analyses. We 
+expressed the health and economic benefits of each scenario with the net 
+monetary value: QALYs × (monetary value per QALY) - costs.
+FINDINGS: Without the initial lockdown, vaccination, and increased physical 
+distancing, we estimated 148·0 million (95% uncertainty interval 48·5-198·8) 
+COVID-19 cases and 3·1 million (0·84-4·5) deaths would occur in the UK over 10 
+years. In the best-case scenario, vaccination minimises community transmission 
+without future periods of increased physical distancing, whereas SARS-CoV-2 
+becomes endemic with biannual epidemics in the worst-case scenario. Ongoing 
+transmission is also expected in intermediate scenarios with vaccine efficacy 
+similar to published clinical trial data. From a health-care perspective, 
+introducing vaccination leads to incremental net monetary values ranging from 
+£12·0 billion to £334·7 billion in the best-case scenario and from -£1·1 billion 
+to £56·9 billion in the worst-case scenario. Incremental net monetary values of 
+increased physical distancing might be negative from a societal perspective if 
+national economy losses are persistent and large.
+INTERPRETATION: Our model findings highlight the substantial health and economic 
+value of introducing SARS-CoV-2 vaccination. Smaller outbreaks could continue 
+even with vaccines, but population-wide implementation of increased physical 
+distancing might no longer be justifiable. Our study provides early insights 
+about possible future post-vaccination scenarios from an economic and 
+epidemiological perspective.
+FUNDING: National Institute for Health Research, European Commission, Bill & 
+Melinda Gates Foundation.
+
+Copyright © 2021 The Author(s). Published by Elsevier Ltd. This is an Open 
+Access article under the CC BY 4.0 license. Published by Elsevier Ltd.. All 
+rights reserved.
+
+DOI: 10.1016/S1473-3099(21)00079-7
+PMCID: PMC7972313
+PMID: 33743846 [Indexed for MEDLINE]
+
+
+454. Lancet Psychiatry. 2021 Apr;8(4):310-319. doi:
+10.1016/S2215-0366(21)00029-8.
+
+Register-based metrics of years lived with disability associated with mental and 
+substance use disorders: a register-based cohort study in Denmark.
+
+Weye N(1), Santomauro DF(2), Agerbo E(3), Christensen MK(1), Iburg KM(4), Momen 
+NC(1), Mortensen PB(3), Pedersen CB(5), Whiteford HA(6), McGrath JJ(7), 
+Plana-Ripoll O(1).
+
+Author information:
+(1)National Centre for Register-based Research, Aarhus University, Aarhus, 
+Denmark.
+(2)School of Public Health, Aarhus University, Aarhus, Denmark; School of Public 
+Health, The University of Queensland, Herston, QLD, Australia; Queensland Centre 
+for Mental Health Research, The Park Centre for Mental Health, Wacol, QLD, 
+Australia; Institute for Health Metrics and Evaluation, University of 
+Washington, Seattle, WA, USA.
+(3)National Centre for Register-based Research, Aarhus University, Aarhus, 
+Denmark; Centre for Integrated Register-based Research, Aarhus University, 
+Aarhus, Denmark; Lundbeck Foundation Initiative for Integrative Psychiatric 
+Research, Aarhus, Denmark.
+(4)School of Public Health, Aarhus University, Aarhus, Denmark.
+(5)National Centre for Register-based Research, Aarhus University, Aarhus, 
+Denmark; Centre for Integrated Register-based Research, Aarhus University, 
+Aarhus, Denmark.
+(6)School of Public Health, The University of Queensland, Herston, QLD, 
+Australia; Queensland Centre for Mental Health Research, The Park Centre for 
+Mental Health, Wacol, QLD, Australia; Institute for Health Metrics and 
+Evaluation, University of Washington, Seattle, WA, USA.
+(7)National Centre for Register-based Research, Aarhus University, Aarhus, 
+Denmark; Queensland Centre for Mental Health Research, The Park Centre for 
+Mental Health, Wacol, QLD, Australia; Queensland Brain Institute, University of 
+Queensland, St Lucia, QLD, Australia. Electronic address: j.mcgrath@uq.edu.au.
+
+Comment in
+    Lancet Psychiatry. 2021 Apr;8(4):263-264.
+    Lancet Psychiatry. 2021 Apr;8(4):261-263.
+
+BACKGROUND: Mental disorders account for a substantial proportion of the years 
+lived with disability (YLDs) globally. These estimates have generally been 
+calculated top down based on summary statistics. The aim for this study was to 
+calculate YLDs and a novel related measure, Health Loss Proportion (HeLP), for 
+18 mental and substance use disorders, based on person-level register data 
+(bottom up).
+METHODS: A cohort of 6 989 627 Danish residents (5·9% had a diagnosis of a 
+mental or substance use disorder registered in the Danish Psychiatric Central 
+Research Register) was investigated. YLDs (the duration of disease multiplied by 
+a disability weight) were calculated for the disorder of interest and for 
+comorbid mental and substance use disorders. HeLPs were estimated as YLDs 
+associated with an index disorder and comorbid mental and substance use 
+disorders divided by person-years at risk in persons with the index disorder. 
+All analyses were adjusted for mental and substance use comorbidity using a 
+multiplicative model of disability weights.
+FINDINGS: Major depressive disorder was the most prevalent disorder, although 
+schizophrenia was the leading cause of YLDs in both sexes combined (YLDs 273·3 
+[95 % CI 232·3-313·6] per 100 000 person-years). People diagnosed with 
+schizophrenia lost the equivalent of 73% (63-83%) of healthy life per year due 
+to mental and substance use disorders, the largest HeLP of all mental and 
+substance use disorders. Comorbidity of mental and substance use disorders 
+accounted for 69-83% of HeLPs in people with either cannabis use disorders, 
+other drug use disorder and ADHD. By contrast, comorbidity explained 11-23% of 
+the HeLPs in people with autism spectrum disorders, conduct disorder, and 
+schizophrenia.
+INTERPRETATION: Substantial variation in disability was observed across age, 
+sex, and disorders. The new HeLP metric provides novel details of the 
+contribution of comorbidity to the disability associated with mental and 
+substance use disorders.
+FUNDING: The Danish National Research Foundation, Queensland Government 
+Department of Health, European Union's Horizon 2020, Lundbeck Foundation, 
+Stanley Medical Research Institute.
+TRANSLATION: For the Danish translation of the abstract see Supplementary 
+Materials section.
+
+Copyright © 2021 The Author(s). Published by Elsevier Ltd. This is an Open 
+Access article under the CC BY 4.0 license. Published by Elsevier Ltd.. All 
+rights reserved.
+
+DOI: 10.1016/S2215-0366(21)00029-8
+PMID: 33743882 [Indexed for MEDLINE]
+
+
+455. Vaccine. 2021 Apr 15;39(16):2255-2263. doi: 10.1016/j.vaccine.2021.03.040.
+Epub  2021 Mar 18.
+
+Cost-effectiveness analysis of the nonavalent human papillomavirus vaccine for 
+the prevention of cervical cancer in Singapore.
+
+Phua LC(1), Choi HCW(2), Wu J(3), Jit M(4), Low J(5), Ng K(1), Pearce F(1), Hall 
+C(1), Abdul Aziz MI(6).
+
+Author information:
+(1)Agency for Care Effectiveness, Ministry of Health, Singapore.
+(2)Department of Clinical Oncology, Li Ka Shing Faculty of Medicine, The 
+University of Hong Kong, Hong Kong.
+(3)Laboratory of Data Discovery for Health (D24H), Hong Kong Science Park, Hong 
+Kong Special Administrative Region; WHO Collaborating Centre for Infectious 
+Disease Epidemiology and Control, School of Public Health, Li Ka Shing Faculty 
+of Medicine, The University of Hong Kong, Hong Kong. Electronic address: 
+joewu@hku.hk.
+(4)London School of Hygiene and Tropical Medicine, London, United Kingdom.
+(5)Gynaecologic Oncology, National University Cancer Institute, National 
+University Hospital, Singapore.
+(6)Agency for Care Effectiveness, Ministry of Health, Singapore. Electronic 
+address: mohamed_ismail_abdul_aziz@moh.gov.sg.
+
+BACKGROUND: The nonavalent human papillomavirus (HPV) vaccine has been shown to 
+extend protection against oncogenic HPV types 31/33/45/52/58 (HPV-OV) not 
+covered by the bivalent and quadrivalent HPV vaccines. Besides its clinical 
+benefit, evidence on the economic value of the nonavalent vaccine is required to 
+inform local vaccination strategies and funding decisions. This study evaluated 
+the cost-effectiveness of replacing the bivalent vaccine with the nonavalent 
+vaccine in the national school-based HPV vaccination programme in Singapore.
+METHODS: An existing age-structured dynamic transmission model coupled with 
+stochastic individual-based simulations was adapted to project the health and 
+economic impact of vaccinating 13-year-old girls with two doses of the 
+nonavalent or bivalent HPV vaccines in Singapore. Direct costs (in Singapore 
+dollars, S$) were obtained from public healthcare institutions in Singapore, 
+while health state utilities were sourced from the literature. Incremental 
+cost-effectiveness ratios (ICERs) were estimated over a lifetime horizon, from a 
+healthcare system perspective. Probabilistic sensitivity analysis was performed 
+to obtain the ICERs and corresponding variations across variable uncertainty. 
+Particularly, this study tested the scenarios of lifelong and 20-year 
+vaccine-induced protection, assumed 96.0% and 22.3% cross-protection against 
+HPV-OV by nonavalent and bivalent vaccines respectively, and fixed vaccine 
+prices per dose at S$188 for nonavalent and S$61.50 for bivalent vaccines.
+RESULTS: Compared with the bivalent vaccine, the use of the nonavalent vaccine 
+was associated with an ICER of S$61,629 per quality-adjusted life year gained in 
+the base case. The result was robust across a range of plausible input values, 
+and to assumptions regarding the duration of vaccine protection.
+CONCLUSION: Given the high ICER, the nonavalent vaccine is unlikely to represent 
+a cost-effective option compared with the bivalent vaccine for school-based HPV 
+vaccination of 13-year old female students in Singapore. Substantial price 
+reductions would be required to justify its inclusion in the school-based 
+programme in the future.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.vaccine.2021.03.040
+PMID: 33744050 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+456. J Ren Nutr. 2021 Sep;31(5):484-493. doi: 10.1053/j.jrn.2020.12.008. Epub
+2021  Mar 18.
+
+Cost-Effectiveness of Behavior Modification Intervention for Patients With 
+Chronic Kidney Disease in the FROM-J Study.
+
+Okubo R(1), Kondo M(2), Hoshi SL(1), Okada M(3), Doi M(4), Takahashi H(5), Kai 
+H(6), Saito C(6), Iseki K(7), Iseki C(7), Watanabe T(8), Narita I(9), Matsuo 
+S(10), Makino H(11), Hishida A(12), Yamagata K(6).
+
+Author information:
+(1)Department of Health Care Policy and Health Economics, Faculty of Medicine, 
+University of Tsukuba, Tsukuba, Ibaraki, Japan.
+(2)Department of Health Care Policy and Health Economics, Faculty of Medicine, 
+University of Tsukuba, Tsukuba, Ibaraki, Japan. Electronic address: 
+mkondo@md.tsukuba.ac.jp.
+(3)Department of Epidemiology, Faculty of Medicine, University of Tsukuba, 
+Tsukuba, Ibaraki, Japan.
+(4)Department of Health Policy and Technology Assessment, National Institute of 
+Public Health, Wako, Saitama, Japan.
+(5)National Institute of Public Health, Wako, Saitama, Japan.
+(6)Department of Nephrology, Faculty of Medicine, University of Tsukuba, 
+Tsukuba, Ibaraki, Japan.
+(7)Okinawa Heart and Renal Association (OHRA), Naha, Okinawa, Japan.
+(8)Tokyo-Kita Medical Center, Tokyo, Japan.
+(9)Division of Clinical Nephrology and Rheumatology, Niigata University Graduate 
+School of Medical and Dental Science, Niigata, Niigata, Japan.
+(10)Nagoya University, Nagoya, Aichi, Japan.
+(11)Okayama University, Okayama, Japan.
+(12)Yaizu City Hospital, Yaizu, Shizuoka, Japan.
+
+OBJECTIVES: Chronic kidney disease (CKD) is a significant public health problem. 
+An advanced, or innovative, CKD care system of clinical practice collaboration 
+among general physicians (GPs), nephrologists, and other healthcare workers 
+achieved behavior modification in patients with Stage 3 CKD in the Frontier of 
+Renal Outcome Modifications in Japan (FROM-J) study. This behavior modification 
+intervention consisted of educational sessions on nutrition and lifestyle, as 
+well as encouragement of patients' regular visits. The intervention contributed 
+to slowing CKD progression. This study aimed to evaluate the cost-effectiveness 
+of the widespread diffusion of the behavior modification intervention proven 
+effective by the FROM-J study.
+METHODS: A cost-effectiveness analysis was carried out to compare the behavior 
+modification intervention with the current practice recommended by the latest 
+CKD clinical guidelines for GPs. A Markov model with a societal perspective 
+under Japan's health system was constructed. We assumed that the behavior 
+modification intervention proven effective by the FROM-J study would be 
+initiated by GPs for targeted patient cohorts-patients aged 40-74 years with 
+Stage 3 CKD-as a part of the innovative CKD care system.
+RESULTS: The incremental cost-effectiveness ratio for the behavior modification 
+intervention compared with current guideline-based practice was calculated as 
+145,593 Japanese yen (¥; $1,324 United States dollars [$]) per quality-adjusted 
+life year (QALY).
+CONCLUSIONS: Using the suggested value of social willingness to pay for a 
+one-QALY gain in Japan of ¥5 million (US$45,455) as the threshold to judge 
+cost-effectiveness, the behavior modification intervention is cost-effective. 
+Our results suggest that diffusing the behavior modification intervention proven 
+effective by the FROM-J study could be justifiable as an efficient use of finite 
+healthcare resources. GPs could be encouraged to initiate this intervention by 
+revising the National Health Insurance fee schedule and strengthening clinical 
+guidelines regarding behavior modification interventions.
+
+Copyright © 2021 National Kidney Foundation, Inc. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1053/j.jrn.2020.12.008
+PMID: 33744060 [Indexed for MEDLINE]
+
+
+457. Diabetes Res Clin Pract. 2021 May;175:108759. doi: 
+10.1016/j.diabres.2021.108759. Epub 2021 Mar 17.
+
+The long-term cost-effectiveness of oral semaglutide in the Netherlands based on 
+the PIONEER 2, 3 and 4 randomized controlled trials.
+
+Malkin SJP(1), Hunt B(2), Huisman EL(3), Grand TS(4), Chubb B(4).
+
+Author information:
+(1)Ossian Health Economics and Communications, Basel, Switzerland. Electronic 
+address: malkin@ossianconsulting.com.
+(2)Ossian Health Economics and Communications, Basel, Switzerland.
+(3)Novo Nordisk BV, Alphen aan den Rijn, Netherlands.
+(4)Novo Nordisk A/S, Søborg, Denmark.
+
+AIMS: To assess the long-term cost-effectiveness of novel glucagon-like 
+peptide-1 (GLP-1) analog oral semaglutide versus sodium-glucose cotransporter-2 
+inhibitor empagliflozin, dipeptidyl peptidase-4 inhibitor sitagliptin and 
+injectable GLP-1 analog liraglutide in the Netherlands, based on the results of 
+the PIONEER clinical trials.
+METHODS: Outcomes were projected over patient lifetimes using the IQVIA CORE 
+Diabetes Model. Clinical data were derived from PIONEER 2, 3 and 4. Patients 
+were assumed to receive initial treatments until glycated hemoglobin exceeded 
+7.5%, then treatment-intensified to basal insulin therapy. Costs were accounted 
+from a societal perspective in 2019 euros (EUR).
+RESULTS: Oral semaglutide 14 mg was associated with improvements in 
+quality-adjusted life expectancy of 0.15, 0.22 and 0.09quality-adjusted life 
+years (QALYs) versus empagliflozin 25 mg, sitagliptin 100 mg and liraglutide 
+1.8 mg, respectively, with combined costs EUR1,032 higher, EUR115 higher and 
+EUR1,267 lower. Oral semaglutide was therefore associated with incremental 
+cost-effectiveness ratios of EUR7,061 and EUR516 per QALY gained versus 
+empagliflozin and sitagliptin, respectively.
+CONCLUSIONS: Based on long-term projections, oral semaglutide 14 mg was 
+considered cost-effective versus empagliflozin 25 mg and sitagliptin 100 mg and 
+dominant versus liraglutide 1.8 mg for the treatment of type 2 diabetes in the 
+Netherlands.
+
+Copyright © 2021 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.diabres.2021.108759
+PMID: 33744377 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest Samuel Malkin 
+and Barnaby Hunt are employees of Ossian Health Economics and Communications 
+GmbH. Ossian received consulting fees from Novo Nordisk A/S to support 
+preparation of the analysis. Eline Huisman is an employee of Novo Nordisk BV. 
+Tobias Grand and Barrie Chubb are employees of Novo Nordisk A/S, and Barrie 
+Chubb owns Novo Nordisk stock.
+
+
+458. Aging (Albany NY). 2021 Mar 19;13(7):9859-9873. doi: 10.18632/aging.202738.
+Epub  2021 Mar 19.
+
+Hydrogen sulfide treatment at the late growth stage of Saccharomyces cerevisiae 
+extends chronological lifespan.
+
+Shah AA(1), Liu B(1), Tang Z(1), Wang W(1), Yang W(1), Hu Q(1), Liu Y(1), Zhang 
+N(1), Liu K(1).
+
+Author information:
+(1)Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, 
+College of Life Sciences, Sichuan University, Chengdu 610065, Sichuan, China.
+
+Previous studies demonstrated that lifelong treatment with a slow H2S releasing 
+donor extends yeast chronological lifespan (CLS), but it is not clear when the 
+action of H2S benefits to CLS during yeast growth. Here, we show that short H2S 
+treatments by using NaHS as a fast H2S releasing donor at 96 hours after 
+inoculation extended yeast CLS while NaHS treatments earlier than 72 hours after 
+inoculation failed to do so. To reveal the mechanism, we analyzed the 
+transcriptome of yeast cells with or without the early and late NaHS treatments. 
+We found that both treatments had similar effects on pathways related to CLS 
+regulation. Follow-up qPCR and ROS analyses suggest that altered expression of 
+some antioxidant genes by the early NaHS treatments were not stable enough to 
+benefit CLS. Moreover, transcriptome data also indicated that some genes were 
+regulated differently by the early and late H2S treatment. Specifically, we 
+found that the expression of YPK2, a human SGK2 homolog and also a key regulator 
+of the yeast cell wall synthesis, was significantly altered by the late NaHS 
+treatment but not altered by the early NaHS treatment. Finally, the key role of 
+YPK2 in CLS regulation by H2S is revealed by CLS data showing that the late NaHS 
+treatment did not enhance the CLS of a ypk2 knockout mutant. This study sheds 
+light on the molecular mechanism of CLS extension induced by H2S, and for the 
+first time addresses the importance of H2S treatment timing for lifespan 
+extension.
+
+DOI: 10.18632/aging.202738
+PMCID: PMC8064171
+PMID: 33744847 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICTS OF INTEREST: All authors declare no 
+conflicts of interest.
+
+
+459. Nucleic Acids Res. 2021 Apr 19;49(7):3681-3691. doi: 10.1093/nar/gkab173.
+
+Competition between bridged dinucleotides and activated mononucleotides 
+determines the error frequency of nonenzymatic RNA primer extension.
+
+Duzdevich D(1)(2), Carr CE(1)(3), Ding D(1)(4), Zhang SJ(1)(4), Walton TS(1), 
+Szostak JW(1)(2)(4)(5).
+
+Author information:
+(1)Department of Molecular Biology, Center for Computational and Integrative 
+Biology, Massachusetts General Hospital, Boston, MA 02114, USA.
+(2)Howard Hughes Medical Institute, Massachusetts General Hospital, Boston, MA 
+02114, USA.
+(3)Department of Earth, Atmospheric and Planetary Sciences, Massachusetts 
+Institute of Technology, Cambridge, MA, 02139, USA.
+(4)Department of Chemistry and Chemical Biology, Harvard University, Cambridge, 
+MA 02138, USA.
+(5)Department of Genetics, Harvard Medical School, Boston, MA 02115, USA.
+
+Nonenzymatic copying of RNA templates with activated nucleotides is a useful 
+model for studying the emergence of heredity at the origin of life. Previous 
+experiments with defined-sequence templates have pointed to the poor fidelity of 
+primer extension as a major problem. Here we examine the origin of mismatches 
+during primer extension on random templates in the simultaneous presence of all 
+four 2-aminoimidazole-activated nucleotides. Using a deep sequencing approach 
+that reports on millions of individual template-product pairs, we are able to 
+examine correct and incorrect polymerization as a function of sequence context. 
+We have previously shown that the predominant pathway for primer extension 
+involves reaction with imidazolium-bridged dinucleotides, which form 
+spontaneously by the reaction of two mononucleotides with each other. We now 
+show that the sequences of correctly paired products reveal patterns that are 
+expected from the bridged dinucleotide mechanism, whereas those associated with 
+mismatches are consistent with direct reaction of the primer with activated 
+mononucleotides. Increasing the ratio of bridged dinucleotides to activated 
+mononucleotides, either by using purified components or by using 
+isocyanide-based activation chemistry, reduces the error frequency. Our results 
+point to testable strategies for the accurate nonenzymatic copying of arbitrary 
+RNA sequences.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gkab173
+PMCID: PMC8053118
+PMID: 33744957 [Indexed for MEDLINE]
+
+
+460. Eur J Health Econ. 2021 Jul;22(5):669-677. doi: 10.1007/s10198-021-01282-4.
+Epub  2021 Mar 21.
+
+A cost-effectiveness analysis of pembrolizumab with or without chemotherapy for 
+the treatment of patients with metastatic, non-squamous non-small cell lung 
+cancer and high PD-L1 expression in Switzerland.
+
+Barbier MC(#)(1), Pardo E(#)(2), Panje CM(3), Gautschi O(2)(4), Lupatsch JE(5); 
+Swiss Group for Clinical Cancer Research (SAKK).
+
+Author information:
+(1)Institute of Pharmaceutical Medicine (ECPM), University of Basel, 
+Klingelbergstrasse 61, 4056, Basel, Switzerland. michaela.barbier@unibas.ch.
+(2)Medical Oncology, Department of Internal Medicine, Cantonal Hospital Lucerne, 
+Lucerne, Switzerland.
+(3)Department of Radiation Oncology, Cantonal Hospital St. Gallen, St. Gallen, 
+Switzerland.
+(4)University of Bern, Bern, Switzerland.
+(5)Institute of Pharmaceutical Medicine (ECPM), University of Basel, 
+Klingelbergstrasse 61, 4056, Basel, Switzerland.
+(#)Contributed equally
+
+INTRODUCTION: Pembrolizumab monotherapy or in combination with chemotherapy are 
+two new treatment options for patients with metastatic non-squamous non-small 
+cell lung cancer (NSCLC) and high (≥ 50%) programmed death ligand 1 (PD-L1) 
+expression. We conducted a cost-effectiveness analysis for Switzerland comparing 
+these two options but also pembrolizumab to chemotherapy.
+METHODS: We constructed a 3-state Markov model with a time horizon of 10 years. 
+Parametric functions were fitted to Kaplan-Meier overall survival (OS) and 
+progression-free survival (PFS) using 2-year follow-up data from the KN-024 and 
+KN-189 registration trials. We included estimated costs for further treatment 
+lines and costs for best supportive care. Costs were assessed from the Swiss 
+healthcare payer perspective. We used published utility values.
+RESULTS: Combination therapy resulted in an expected gain of 0.17 
+quality-adjusted life years (QALYs) per patient and incremental costs of Swiss 
+Francs (CHF) 81,085 as compared to pembrolizumab. These estimates led to an 
+incremental cost-effectiveness ratio (ICER) of CHF 475,299/QALY. Pembrolizumab 
+in comparison to chemotherapy was estimated to generate mean incremental QALYs 
+of 0.83 and incremental costs of CHF 56,585, resulting in an ICER of 
+CHF 68,580/QALY. Results were most sensitive to changes in costs of 1L 
+pembrolizumab and combination therapy, together with changes in PFS. In the 
+probabilistic sensitivity analysis, we estimated combination therapy was 
+cost-effective in 4.9% of the simulations and pembrolizumab monotherapy in 
+82.9%, assuming a willingness-to-pay threshold of CHF 100,000 per QALY gained.
+CONCLUSIONS: Pembrolizumab is likely to be cost-effective from the Swiss 
+healthcare payer perspective, whereas pembrolizumab plus chemotherapy is not.
+
+DOI: 10.1007/s10198-021-01282-4
+PMCID: PMC8214587
+PMID: 33745093 [Indexed for MEDLINE]
+
+Conflict of interest statement: No author reported a conflict of interest 
+statement.
+
+
+461. J Hand Surg Am. 2021 May;46(5):359-367. doi: 10.1016/j.jhsa.2021.01.018.
+Epub  2021 Mar 19.
+
+Cost Comparison of Botulinum Toxin Injections Versus Surgical Treatment in 
+Pediatric Patients With Cerebral Palsy: A Markov Model.
+
+Kazarian GS(1), Van Heest AE(2), Goldfarb CA(1), Wall LB(3).
+
+Author information:
+(1)Department of Orthopaedic Surgery, Washington University School of Medicine, 
+St Louis, MO.
+(2)Department of Orthopaedic Surgery, University of Minnesota, Minneapolis, MN.
+(3)Department of Orthopaedic Surgery, Washington University School of Medicine, 
+St Louis, MO. Electronic address: wallli@wustl.edu.
+
+PURPOSE: The purpose of this study was to compare the cost-effectiveness of 
+surgical release to botulinum toxin injections in the treatment of 
+upper-extremity (UE) cerebral palsy (CP).
+METHODS: A Markov transition-state model was developed to assess the direct and 
+indirect costs as well as accumulated quality-adjusted life-years associated 
+with surgery (surgery group) and continuous botulinum toxin injections 
+(botulinum group) for the treatment of UE CP in children aged 7 to 12 years. 
+Direct medical costs were obtained from institutional billing departments. The 
+number of parental missed workdays associated with each treatment was estimated 
+and previously published regressions were used to calculate indirect costs 
+associated with missed work. Total costs, cost-effectiveness, and incremental 
+cost-effectiveness ratios were calculated. Incremental cost-effectiveness ratios 
+and willingness to pay thresholds were used to make decisions regarding 
+society's willingness to pay for the incremental cost of each treatment given 
+the incremental benefit.
+RESULTS: The surgery group demonstrated lower direct, indirect, and total costs 
+compared with the botulinum group. Direct costs were $29,250.50 for the surgery 
+group and $50,596.00 for the botulinum group. Indirect costs were $9,467.46 for 
+the surgery group and $44,428.60 for the botulinum group. Total costs were 
+$38,717.96 for the surgery group and $95,024.60 for the botulinum group, a 
+difference of $56,306.64. The incremental cost-effectiveness ratio was 
+-$42,019.88, indicating that surgery is a less costly and more effective 
+treatment and that botulinum injections fall outside the societal willingness to 
+pay threshold. Excluding indirect costs associated with parental missed work 
+during home occupational therapy did not have a significant impact on the model.
+CONCLUSIONS: Surgery is associated with lower direct, indirect, and total costs, 
+as well as a greater number of accumulated quality-adjusted life-years. Surgery 
+provides a greater benefit at a lower cost, which suggests that botulinum 
+injections should be used sparingly in this population. Treatment with surgery 
+could represent savings of $5.6 to $11.3 billion annually in the United States.
+TYPE OF STUDY/LEVEL OF EVIDENCE: Economic/Decision Analysis II.
+
+Copyright © 2021 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2021.01.018
+PMID: 33745764 [Indexed for MEDLINE]
+
+
+462. Perspect Biol Med. 2021;64(1):70-81. doi: 10.1353/pbm.2021.0006.
+
+"Community Care": Historical Perspective on Deinstitutionalization.
+
+Scull A.
+
+This article examines the discrepancies between the rhetoric surrounding 
+deinstitutionalization and community care and the reality of the abandonment of 
+the seriously mentally ill to their fate. It discusses how the earlier 
+commitment to the asylum came to be abandoned, analyzes various attempts to 
+explain why the mentally ill were decanted from institutions into a largely 
+unreceptive community, and dissects the shortcomings of these actions. The 
+realities of care in the community and the connections of deinstitutionalization 
+to the collapse of public psychiatry, the epidemic of homelessness, and the 
+place of jails as our primary in-patient response to serious mental illness are 
+explored, as is the curious political coalition that endorsed the end of the 
+asylum. The connections of deinstitutionalization to the rise of neoliberal 
+ideas are documented, and the impact of the changed public policy on the life 
+expectancy of those with serious mental illness is analyzed.
+
+DOI: 10.1353/pbm.2021.0006
+PMID: 33746131 [Indexed for MEDLINE]
+
+
+463. Eur J Ageing. 2020 Jul 12;18(1):117-144. doi: 10.1007/s10433-020-00574-7. 
+eCollection 2021 Mar.
+
+Questionnaire measures of self-directed ageing stereotype in older adults: a 
+systematic review of measurement properties.
+
+Burton AE(1)(2), Dean SE(1), Demeyin W(1), Reeves J(1).
+
+Author information:
+(1)Staffordshire Centre for Psychological Research and Centre for Health 
+Psychology, School of Life Sciences and Education, Staffordshire University, 
+Stoke-on-Trent, UK.
+(2)Psychology Department, School of Life Sciences and Education, Staffordshire 
+University, Leek Road, Stoke-on-Trent, ST4 2DF UK.
+
+The population is ageing, but while average life expectancy continues to 
+increase, healthy life expectancy has not necessarily matched this and negative 
+ageing stereotypes remain prevalent. Self-directed ageing stereotypes are 
+hypothesised to play an important role in older adults' health and well-being; 
+however, a wide variety of terms and measures are used to explore this construct 
+meaning there is a lack of clarity within the literature. A review was conducted 
+to identify tools used to measure self-directed ageing stereotype in older 
+adults and evaluate their quality. Searches identified 109 papers incorporating 
+40 different measures. Most common were the Philadelphia Geriatric Centre Morale 
+Scale Attitude Towards Own Ageing (ATOA) subscale, Ageing Perceptions 
+Questionnaire (APQ) and Attitudes to Ageing Questionnaire. Despite being most 
+frequently used, the ATOA was developed to measure morale in older adults rather 
+than self-directed ageing stereotypes. Over 25 terms were used to describe the 
+concept, and it is suggested that for consistency the term "self-directed ageing 
+stereotype" be adopted universally. Across measures, poor reporting of 
+psychometric properties made it difficult to assess scale quality and more 
+research is needed to fully assess measures before conclusions can be drawn as 
+to the best tool; however, the Brief-APQ appears to hold most promise. Future 
+research must address this issue before interventions to reduce negative 
+self-directed ageing stereotypes can be developed and fully evaluated.
+
+© Springer Nature B.V. 2020.
+
+DOI: 10.1007/s10433-020-00574-7
+PMCID: PMC7925708
+PMID: 33746687
+
+Conflict of interest statement: Conflict of interestThe authors declare that 
+there is no conflict of interest.
+
+
+464. Front Pharmacol. 2021 Mar 4;12:602112. doi: 10.3389/fphar.2021.602112. 
+eCollection 2021.
+
+What Matters Most to Lung Cancer Patients? A Qualitative Study in Italy and 
+Belgium to Investigate Patient Preferences.
+
+Petrocchi S(1), Janssens R(2), Oliveri S(1), Arnou R(2), Durosini I(1), Guiddi 
+P(1), Louis E(3), Vandevelde M(3), Nackaerts K(3), Smith MY(4), Galli G(5), de 
+Marinis F(6), Gianoncelli L(6), Pravettoni G(1)(7), Huys I(2).
+
+Author information:
+(1)Applied Research Division for Cognitive and Psychological Science, IEO, 
+European Institute of Oncology IRCCS, Milan, Italy.
+(2)Department of Pharmaceutical and Pharmacological Sciences, KU Leuven, Leuven, 
+Belgium.
+(3)Department of Pulmonology/Respiratory Oncology, University Hospital Leuven, 
+Leuven, Belgium.
+(4)Alexion Pharmaceuticals, Boston, MA, United States, University of Southern 
+California School of Pharmacy, Los Angeles, CA, United States.
+(5)Department of Medical Oncology, Fondazione IRCCS Istituto Nazionale dei 
+Tumori, Milan, Italy.
+(6)Thoracic Oncology Division, IEO, European Institute of Oncology IRCCS, Milan, 
+Italy.
+(7)Department of Oncology and Hemato-Oncology, University of Milan, Milan, 
+Italy.
+
+Background: The potential value of patient preference studies has been 
+recognized in clinical individual treatment decision-making between clinicians 
+and patients, as well as in upstream drug decision-making. Drug developers, 
+regulators, reimbursement and Health Technology Assessment (HTA) bodies are 
+exploring how the use of patient preference studies could inform drug 
+development, regulatory benefit risk-assessment and reimbursement decisions 
+respectively. Understanding patient preferences may be especially valuable in 
+decisions regarding Non-Small Cell Lung Cancer (NSCLC) treatment options, where 
+a variety of treatment options with different characteristics raise uncertainty 
+about which features are most important to NSCLC patients. As part of the 
+Innovative Medicines Initiative PREFER project, this qualitative study aimed to 
+identify patient-relevant lung cancer treatment characteristics. Methods: This 
+study consisted of a scoping literature review and four focus group discussions, 
+2 in Italy and 2 in Belgium, with a total of 24 NSCLC patients (Stages III-IV). 
+The focus group discussions sought to identify which treatment characteristics 
+patients find most relevant. The discussions were analyzed thematically using a 
+thematic inductive analysis. Results: Patients highlighted themes reflecting: 1) 
+positive effects or expected gains from treatment such as greater life 
+expectancy and maintenance of daily functioning, 2) negative effects or adverse 
+events related to therapy that negatively impact patients' daily functioning 
+such as fatigue and 3) uncertainty regarding the duration and type of treatment 
+effects. These overarching themes were consistent among patients from Belgium 
+and Italy, suggesting that treatment aspects related to efficacy and safety as 
+well as the psychological impact of lung cancer treatment are common areas of 
+concern for patients, regardless of cultural background or country. Discussion: 
+Our findings illustrate the value of using qualitative methods with patients to 
+identify preferred treatment characteristics for advanced lung cancer. These 
+could inform a subsequent quantitative preference survey that assesses patient 
+trade-offs regarding treatment options.
+
+Copyright © 2021 Petrocchi, Janssens, Oliveri, Arnou, Durosini, Guiddi, Louis, 
+Vandevelde, Nackaerts, Smith, Galli, de Marinis, Gianoncelli, Pravettoni and 
+Huys.
+
+DOI: 10.3389/fphar.2021.602112
+PMCID: PMC7970036
+PMID: 33746750
+
+Conflict of interest statement: MS was employed by Alexion Pharmaceuticals, Inc 
+at the time of the study. The remaining authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+465. Food Sci Nutr. 2021 Jan 19;9(3):1625-1639. doi: 10.1002/fsn3.2137.
+eCollection  2021 Mar.
+
+Utilization of Plantago major seed mucilage containing Citrus limon essential 
+oil as an edible coating to improve shelf-life of buffalo meat under 
+refrigeration conditions.
+
+Noshad M(1), Alizadeh Behbahani B(1), Jooyandeh H(1), Rahmati-Joneidabad M(2), 
+Hemmati Kaykha ME(1), Ghodsi Sheikhjan M(1).
+
+Author information:
+(1)Department of Food Science and Technology Faculty of Animal Science and Food 
+Technology Agricultural Sciences and Natural Resources University of Khuzestan 
+Mollasani Iran.
+(2)Department of Horticultural Science Faculty of Agriculture, Agricultural 
+Sciences and Natural Resources University of Khuzestan Mollasani Iran.
+
+This study is aimed to develop a novel edible coating based on Plantago major 
+seed mucilage (PMSM) and Citrus limon essential oil (CLEO) to increase the 
+shelf-life of buffalo meat during cold storage. The CLEO was firstly isolated by 
+the hydrodistillation method, and it contained mainly limonene (40.5%) and 
+carene (15.4%) with remarkable antioxidant activity (55.7%, 63.8%, and 51.85% 
+based on the DPPH-radical scavenging, ABTS-radical scavenging, and 
+carotene-linoleic acid bleaching tests, respectively) and antibacterial effect 
+against some pathogenic and spoilage microorganisms. The CLEO (0%, 0.5%, 1%, 
+1.5%, and 2%) was then incorporated into PMSM solution to develop a novel 
+CLEO-loaded PMSM edible coating for improving the shelf-life of buffalo meat. 
+The edible coating was able to significantly reduce the progression of lipid 
+oxidation (peroxide value) and microbial growth (total viable count, 
+psychrotrophic bacteria, Escherichia coli, Staphylococcus aureus, and fungi) in 
+buffalo meat during storage period of 10 days at 4°C in comparison with the 
+control (noncoated sample). The meat hardness and sensory properties (i.e., 
+odor, color, appearance, texture, and overall acceptability) were also 
+maintained better upon edible coating applications. Based on the results, the 
+CLEO-rich PMSM edible coating could be applied as a new and effective 
+preservative to improve the stability of meat products to lipid oxidation and 
+microbial spoilage.
+
+© 2021 The Authors. Food Science & Nutrition published by Wiley Periodicals LLC.
+
+DOI: 10.1002/fsn3.2137
+PMCID: PMC7958549
+PMID: 33747474
+
+Conflict of interest statement: The authors have declared no conflict of 
+interest.
+
+
+466. JMA J. 2018 Sep 28;1(1):73-74. doi: 10.31662/jmaj.2018-0018.
+
+Letter to the Editor.
+
+Hasegawa T(1), Kakuta T(2).
+
+Author information:
+(1)Future Health Research Institute.
+(2)Public Health Committee of Japan Medical Association.
+
+DOI: 10.31662/jmaj.2018-0018
+PMCID: PMC7969841
+PMID: 33748526
+
+Conflict of interest statement: None
+
+
+467. Cancer. 2021 Jul 1;127(13):2238-2250. doi: 10.1002/cncr.33476. Epub 2021 Mar
+22.
+
+The global, regional, and national burden of gallbladder and biliary tract 
+cancer and its attributable risk factors in 195 countries and territories, 1990 
+to 2017: A systematic analysis for the Global Burden of Disease Study 2017.
+
+Ouyang G(1), Liu Q(1), Wu Y(1), Liu Z(1), Lu W(1), Li S(1), Pan G(1), Chen 
+X(2)(3).
+
+Author information:
+(1)Department of Hepatobiliary Surgery, Liuzhou People's Hospital, Liuzhou, 
+China.
+(2)Department of General Surgery, The Second Xiangya Hospital, Central South 
+University, Changsha, China.
+(3)Department of Anesthesia, the Sixth Affiliated Hospital, Sun Yat-sen 
+University, Guangzhou, China.
+
+BACKGROUND: The global burden of gallbladder and biliary tract cancer (GBTC) is 
+increasing. A comprehensive evaluation of the burden is crucial to improve 
+strategies for GBTC prevention and treatment.
+METHODS: The incidence rates, mortality, and disability-adjusted life years 
+(DALYs) of GBTC from 1990 to 2017 were extracted from the Global Burden of 
+Diseases Study (GBD) 2017. Estimated annual percent changes (EAPCs) were 
+calculated to quantify GBTC trends during the study period.
+RESULTS: Globally, there were 210,878 new cases, 173,974 deaths, and 3,483,046 
+DALYs because of GBTC in 2017. GBTC incidence increased by 76%, mortality 
+increased by 65%, and DALYs increased by 52% from 1990 to 2017. In addition, 
+relatively higher Socio-Demographic Index regions had greater incidence and 
+death rates but greatly decreased age-standardized incidence rate (ASIR) and 
+age-standardized death rate (ASDR). At the national level, Chile had the highest 
+ASIR (10.38 per 100,000 population) and the highest ASDR (10.43 per 100,000 
+population) in 2017. The largest increases in ASIR (EAPC, 3.38) and ASDR (EAPC, 
+3.39) were observed in Georgia. Nonlinear associations were observed between the 
+ASDR, the Socio-Demographic Index, and DALYs at the 21 GBD regional levels and 
+at the national level. The proportions of GBTC age-standardized deaths and DALYs 
+attributable to high body mass index were 15.4% and 16%, respectively.
+CONCLUSIONS: GBTC remains a major health burden worldwide. These findings are 
+expected to prompt policymakers to establish a cost-effective method for the 
+early diagnosis, prevention, and treatment of GBTC, reducing its modifiable risk 
+factors and reversing its increasing trends.
+LAY SUMMARY: Although the rates of age-standardized incidence, death, and 
+disability-adjusted life-years for gallbladder and biliary tract cancer 
+decreased from 1990 to 2017, the numbers of these measures increased. Nonlinear 
+associations existed between the age-standardized death rate, the 
+Socio-Demographic Index, and disability-adjusted life-years at the 21 regional 
+and national levels in the Global Burden of Disease Study.
+
+© 2021 American Cancer Society.
+
+DOI: 10.1002/cncr.33476
+PMID: 33748947 [Indexed for MEDLINE]
+
+
+468. J Int AIDS Soc. 2021 Mar;24(3):e25690. doi: 10.1002/jia2.25690.
+
+Cost-effectiveness of statins for primary prevention of atherosclerotic 
+cardiovascular disease among people living with HIV in the United States.
+
+Boettiger DC(1)(2), Newall AT(3), Phillips A(4), Bendavid E(5), Law MG(2), Ryom 
+L(6), Reiss P(7)(8), Mocroft A(4), Bonnet F(9), Weber R(10), El-Sadr W(11), 
+d'Arminio Monforte A(12), de Wit S(13), Pradier C(14), Hatleberg CI(6), Lundgren 
+J(6), Sabin C(4), Kahn JG(1), Kazi DS(15)(16).
+
+Author information:
+(1)Philip R. Lee Institute for Health Policy Studies, University of California, 
+San Francisco, CA, USA.
+(2)Kirby Institute, UNSW Sydney, Sydney, NSW, Australia.
+(3)The School of Public Health and Community Medicine, UNSW Sydney, Sydney, NSW, 
+Australia.
+(4)Institute for Global Health, University College London, London, UK.
+(5)Center for Health Policy and the Center for Primary Care and Outcomes 
+Research, Stanford University, Stanford, CA, USA.
+(6)Rigshospitalet, University of Copenhagen, Copenhagen, Denmark.
+(7)Amsterdam University Medical Centers, University of Amsterdam, Amsterdam, The 
+Netherlands.
+(8)HIV Monitoring Foundation, Amsterdam, The Netherlands.
+(9)Université Bordeaux, CHU de Bordeaux, France.
+(10)University Hospital Zurich, University of Zurich, Zurich, Switzerland.
+(11)ICAP-Columbia University and Harlem Hospital, New York, NY, USA.
+(12)Clinica di Malattie Infettive e Tropicali, Azienda Ospedaliera-Polo 
+Universitario San Paolo, Milan, Italy.
+(13)Saint Pierre University Hospital, Université Libre de Bruxelles, Brussels, 
+Belgium.
+(14)Department of Public Health, Nice University Hospital, Nice, France.
+(15)Smith Center for Outcomes Research in Cardiology, Beth Israel Deaconess 
+Medical Center, Boston, MA, USA.
+(16)Harvard Medical School, Harvard University, Boston, MA, USA.
+
+BACKGROUND: Expanding statin use may help to alleviate the excess burden of 
+atherosclerotic cardiovascular disease in people living with HIV (PLHIV). 
+Pravastatin and pitavastatin are preferred agents due to their lack of 
+substantial interaction with antiretroviral therapy. We aimed to evaluate the 
+cost-effectiveness of pravastatin and pitavastatin for the primary prevention of 
+atherosclerotic cardiovascular disease among PLHIV in the United States.
+METHODS: We developed a microsimulation model that randomly selected (with 
+replacement) individuals from the Data-collection on Adverse Effects of Anti-HIV 
+Drugs study with follow-up between 2013 and 2016. Our study population was PLHIV 
+aged 40 to 75 years, stable on antiretroviral therapy, and not currently using 
+lipid-lowering therapy. Direct medical costs and quality-adjusted life-years 
+(QALYs) were assigned in annual cycles and discounted at 3% per year. We assumed 
+a willingness-to-pay threshold of $100,000/QALY gained. The interventions 
+assessed were as follows: (1) treating no one with statins; (2) treating 
+everyone with generic pravastatin 40 mg/day (drug cost $236/year) and (3) 
+treating everyone with branded pitavastatin 4 mg/day (drug cost $2,828/year). 
+The model simulated each individual's probability of experiencing 
+atherosclerotic cardiovascular disease over 20 years.
+RESULTS: Persons receiving pravastatin accrued 0.024 additional QALYs compared 
+with those not receiving a statin, at an incremental cost of $1338, giving an 
+incremental cost-effectiveness ratio of $56,000/QALY gained. Individuals 
+receiving pitavastatin accumulated 0.013 additional QALYs compared with those 
+using pravastatin, at an additional cost of $18,251, giving an incremental 
+cost-effectiveness ratio of $1,444,000/QALY gained. These findings were most 
+sensitive to the pill burden associated with daily statin administration, statin 
+costs, statin efficacy and baseline atherosclerotic cardiovascular disease risk. 
+In probabilistic sensitivity analysis, no statin was optimal in 5.2% of 
+simulations, pravastatin was optimal in 94.8% of simulations and pitavastatin 
+was never optimal.
+CONCLUSIONS: Pravastatin was projected to be cost-effective compared with no 
+statin. With substantial price reduction, pitavastatin may be cost-effective 
+compared with pravastatin. These findings bode well for the expanded use of 
+statins among PLHIV in the United States. To gain greater confidence in our 
+conclusions it is important to generate strong, HIV-specific estimates on the 
+efficacy of statins and the quality-of-life burden associated with taking an 
+additional daily pill.
+
+© 2021 The Authors. Journal of the International AIDS Society published by John 
+Wiley & Sons Ltd on behalf of the International AIDS Society.
+
+DOI: 10.1002/jia2.25690
+PMCID: PMC7982504
+PMID: 33749164 [Indexed for MEDLINE]
+
+
+469. JMIR Hum Factors. 2021 Mar 22;8(1):e25604. doi: 10.2196/25604.
+
+Usability of a Fall Risk mHealth App for People With Multiple Sclerosis: Mixed 
+Methods Study.
+
+Hsieh K(#)(1)(2), Fanning J(#)(3), Frechette M(#)(1), Sosnoff J(#)(1)(4).
+
+Author information:
+(1)Department of Kinesiology and Community Health, University of Illinois at 
+Urbana-Champaign, Urbana, IL, United States.
+(2)Department of Internal Medicine, Section on Gerontology and Geriatric 
+Medicine, Wake Forest School of Medicine, Winston-Salem, NC, United States.
+(3)Department of Health and Exercise Science, Wake Forest University, 
+Winston-Salem, NC, United States.
+(4)Department of Physical Therapy and Rehabilitation Sciences, School of Health 
+Professions, University of Kansas Medical Center, Kansas City, KS, United 
+States.
+(#)Contributed equally
+
+BACKGROUND: Multiple sclerosis (MS) is a chronic, neurodegenerative disease that 
+causes a range of motor, sensory, and cognitive symptoms. Due to these symptoms, 
+people with MS are at a high risk for falls, fall-related injuries, and 
+reductions in quality of life. There is no cure for MS, and managing symptoms 
+and disease progression is important to maintain a high quality of life. Mobile 
+health (mHealth) apps are commonly used by people with MS to help manage their 
+health. However, there are limited health apps for people with MS designed to 
+evaluate fall risk. A fall risk app can increase access to fall risk assessments 
+and improve self-management. When designing mHealth apps, a user-centered 
+approach is critical for improving use and adoption.
+OBJECTIVE: The purpose of this study is to undergo a user-centered approach to 
+test and refine the usability of the app through an iterative design process.
+METHODS: The fall risk app Steady-MS is an extension of Steady, a fall risk app 
+for older adults. Steady-MS consists of 2 components: a 25-item questionnaire 
+about demographics and MS symptoms and 5 standing balance tasks. Data from the 
+questionnaire and balance tasks were inputted into an algorithm to compute a 
+fall risk score. Two iterations of semistructured interviews (n=5 participants 
+per iteration) were performed to evaluate usability. People with MS used 
+Steady-MS on a smartphone, thinking out loud. Interviews were recorded, 
+transcribed, and developed into codes and themes. People with MS also completed 
+the System Usability Scale.
+RESULTS: A total of 3 themes were identified: intuitive navigation, efficiency 
+of use, and perceived value. Overall, the participants found Steady-MS efficient 
+to use and useful to learn their fall risk score. There were challenges related 
+to cognitive overload during the balance tasks. Modifications were made, and 
+after the second iteration, people with MS reported that the app was intuitive 
+and efficient. Average System Usability Scale scores were 95.5 in both 
+iterations, representing excellent usability.
+CONCLUSIONS: Steady-MS is the first mHealth app for people with MS to assess 
+their overall risk of falling and is usable by a subset of people with MS. 
+People with MS found Steady-MS to be usable and useful for understanding their 
+risk of falling. When developing future mHealth apps for people with MS, it is 
+important to prevent cognitive overload through simple and clear instructions 
+and present scores that are understood and interpreted correctly through visuals 
+and text. These findings underscore the importance of user-centered design and 
+provide a foundation for the future development of tools to assess and prevent 
+scalable falls for people with MS. Future steps include understanding the 
+validity of the fall risk algorithm and evaluating the clinical utility of the 
+app.
+
+©Katherine Hsieh, Jason Fanning, Mikaela Frechette, Jacob Sosnoff. Originally 
+published in JMIR Human Factors (http://humanfactors.jmir.org), 22.03.2021.
+
+DOI: 10.2196/25604
+PMCID: PMC8080269
+PMID: 33749609
+
+Conflict of interest statement: Conflicts of Interest: JJS has ownership in 
+Sosnoff Technologies, LLC. Other authors declared no conflicts of interest.
+
+
+470. Ann Intern Med. 2021 Jul;174(7):920-926. doi: 10.7326/M20-7381. Epub 2021
+Mar  23.
+
+Estimated Effect on Life Expectancy of Alleviating Primary Care Shortages in the 
+United States.
+
+Basu S(1), Phillips RS(2), Berkowitz SA(3), Landon BE(2), Bitton A(4), Phillips 
+RL(5).
+
+Author information:
+(1)Harvard Medical School, Brigham and Women's Hospital, and Harvard T.H. Chan 
+School of Public Health, Boston, Massachusetts; Collective Health, San 
+Francisco, California; and School of Public Health, Imperial College, London, 
+United Kingdom (S.B.).
+(2)Harvard Medical School and Beth Israel Deaconess Medical Center, Boston, 
+Massachusetts (R.S.P., B.E.L.).
+(3)Harvard Medical School, Boston, Massachusetts, and University of North 
+Carolina at Chapel Hill School of Medicine, Chapel Hill, North Carolina 
+(S.A.B.).
+(4)Harvard Medical School, Brigham and Women's Hospital, and Harvard T.H. Chan 
+School of Public Health, Boston, Massachusetts (A.B.).
+(5)Harvard Medical School, Boston, Massachusetts, and American Board of Family 
+Medicine Center for Professionalism and Value in Health Care, Lexington, 
+Kentucky (R.L.P.).
+
+BACKGROUND: Prior studies have reported that greater numbers of primary care 
+physicians (PCPs) per population are associated with reduced population 
+mortality, but the effect of increasing PCP density in areas of low density is 
+poorly understood.
+OBJECTIVE: To estimate how alleviating PCP shortages might change life 
+expectancy and mortality.
+DESIGN: Generalized additive models, mixed-effects models, and generalized 
+estimating equations.
+SETTING: 3104 U.S. counties from 2010 to 2017.
+PARTICIPANTS: Children and adults.
+MEASUREMENTS: Age-adjusted life expectancy; all-cause mortality; and mortality 
+due to cardiovascular disease, cancer, infectious disease, respiratory disease, 
+and substance use or injury.
+RESULTS: Persons living in counties with less than 1 physician per 3500 persons 
+in 2017 had a mean life expectancy that was 310.9 days shorter than for persons 
+living in counties above that threshold. In the low-density counties (n = 1218), 
+increasing the density of PCPs above the 1:3500 threshold would be expected to 
+increase mean life expectancy by 22.4 days (median, 19.4 days [95% CI, 0.9 to 
+45.6 days]), and all such counties would require 17 651 more physicians, or 
+about 14.5 more physicians per shortage county. If counties with less than 1 
+physician per 1500 persons (n = 2636) were to reach the 1:1500 threshold, life 
+expectancy would be expected to increase by 56.3 days (median, 55.6 days [CI, 
+4.2 to 105.6 days]), and all such counties would require 95 754 more physicians, 

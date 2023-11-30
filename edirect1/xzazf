@@ -1,0 +1,1000 @@
+
+Defining patient safety in hospice: principles to guide measurement and public 
+reporting.
+
+Casarett D(1), Spence C, Clark MA, Shield R, Teno JM.
+
+Author information:
+(1)Division of Geriatric Medicine, University of Pennsylvania Perelman School of 
+Medicine, Philadelphia, Pennsylvania, USA. casarett@mail.med.upenn.edu
+
+Despite progress towards safer care in most settings, there has been much less 
+attention to improving safety in hospices, which care for more than 1,500,000 
+patients every year. In this article, we describe three serious conflicts that 
+arise when safety measures from other settings are applied to hospice. First, 
+safety measures that are imposed in order to reduce morbidity and mortality may 
+be irrelevant for a hospice patient whose goals focus on comfort. Second, safety 
+measures that are defined in patients with a life expectancy of years can be 
+inappropriate for hospice patients whose typical survival is measured in days. 
+Third, it can be very difficult to assign responsibility for the safety of 
+hospice patients, whose care is provided mostly by family and friends. 
+Therefore, generally accepted safety measures are often inappropriate for 
+hospice care, and can lead to unintended consequences if they are applied 
+without critical evaluation or modification. Instead, we suggest three 
+principles that can guide the development of hospice-appropriate safety measures 
+by considering a patient's goals and life expectancy, and the degree to which 
+responsibility for a patient's care is shared.
+
+DOI: 10.1089/jpm.2011.0530
+PMID: 22690916 [Indexed for MEDLINE]
+
+
+519. J Palliat Med. 2012 Aug;15(8):863-9. doi: 10.1089/jpm.2011.0417. Epub 2012
+Jun  12.
+
+A clinical decision support tool to predict survival in cancer patients beyond 
+120 days after palliative chemotherapy.
+
+Ng T(1), Chew L, Yap CW.
+
+Author information:
+(1)Department of Pharmacy, National University of Singapore, Singapore.
+
+BACKGROUND: Palliative chemotherapy is often administered to terminally ill 
+cancer patients to relieve symptoms. Yet, unnecessary use of chemotherapy can 
+worsen patients' quality of life due to treatment-related toxicities. Thus, 
+accurate prediction of survival in terminally ill patients can help clinicians 
+decide on the most appropriate palliative care for these patients. However, 
+studies have shown that clinicians often make imprecise predictions of survival 
+in cancer patients. Hence, the purpose of this study was to create a clinical 
+decision support tool to predict survival in cancer patients beyond 120 days 
+after palliative chemotherapy.
+MATERIALS AND METHODS: Data were obtained from a retrospective study of 400 
+randomly selected terminally ill cancer patients in the National Cancer Centre 
+Singapore (NCCS) from 2008 to 2009. After removing patients with missing data, 
+there were 325 patients remaining for model development. Three classification 
+algorithms, naive Bayes (NB), neural network (NN), and support vector machine 
+(SVM) were used to create the models. A final model with the best prediction 
+performance was then selected to develop the tool.
+RESULTS: The NN model had the best prediction performance. The accuracy, 
+specificity, sensitivity, and area under the curve (AUC) of this model were 78%, 
+82%, 74%, and 0.857, respectively. Five patient attributes (albumin level, 
+alanine transaminase level (ATL), absolute neutrophil count, Eastern Cooperative 
+Oncology Group (ECOG) status, and number of metastatic sites) were included in 
+the model.
+CONCLUSIONS: A decision support tool to predict survival in cancer patients 
+beyond 120 days after palliative chemotherapy was created. With further 
+validation, this tool coupled with the professional judgment of clinicians can 
+help improve patient care.
+
+DOI: 10.1089/jpm.2011.0417
+PMCID: PMC3396145
+PMID: 22690950 [Indexed for MEDLINE]
+
+
+520. J Am Geriatr Soc. 2012 Jun;60(6):1185. doi:
+10.1111/j.1532-5415.2012.03988.x.
+
+The effect of exceptional parental longevity on life expectancy.
+
+Shavelle R, Paculdo D.
+
+DOI: 10.1111/j.1532-5415.2012.03988.x
+PMID: 22690998 [Indexed for MEDLINE]
+
+
+521. Int J Stroke. 2012 Aug;7(6):517-20. doi: 10.1111/j.1747-4949.2012.00799.x.
+Epub  2012 Jun 13.
+
+Burden of stroke in Nepal.
+
+Shaik MM(1), Loo KW, Gan SH.
+
+Author information:
+(1)Department of Pharmacology, College of Medical Sciences, Bharatpur, Nepal.
+
+Based on disability-adjusted life years, stroke is one of the major causes of 
+death and is among the top five diseases in Nepal. Despite this fact, 
+information on the prevalence, morbidity, and mortality of stroke in Nepal is 
+limited to urban areas, with no official reports published on the epidemiology 
+of stroke throughout the country. The mean age of stroke patients in Nepal is 
+between 59 and 62 years, with males affected more frequently. Hypertension, 
+cigarette smoking, alcohol consumption, and diabetes are the main predisposing 
+factors for stroke, and ischemic stroke is more common (63%) than hemorrhagic 
+stroke (37%). Because of a lack of facilities and specialists, most stroke 
+patients, especially in the rural areas, seek traditional healers to treat their 
+conditions. More governmental and non-governmental organizations should be 
+involved in improving facilities and implementing prevention strategies.
+
+© 2012 The Authors. International Journal of Stroke © 2012 World Stroke 
+Organization.
+
+DOI: 10.1111/j.1747-4949.2012.00799.x
+PMID: 22691158 [Indexed for MEDLINE]
+
+
+522. Med Decis Making. 2012 Nov-Dec;32(6):750-63. doi: 10.1177/0272989X12448929.
+Epub  2012 Jun 12.
+
+Methods for estimating subgroup effects in cost-effectiveness analyses that use 
+observational data.
+
+Kreif N(1), Grieve R(1), Radice R(1), Sadique Z(1), Ramsahai R(1), Sekhon JS(2).
+
+Author information:
+(1)Department of Health Services Research and Policy, London School of Hygiene 
+and Tropical Medicine, London, UK (NK, RG, RR, ZS, RR)
+(2)Travers Department of Political Science, UC Berkeley, Berkeley, CA, USA (JSS)
+
+Decision makers require cost-effectiveness estimates for patient subgroups. In 
+nonrandomized studies, propensity score (PS) matching and inverse probability of 
+treatment weighting (IPTW) can address overt selection bias, but only if they 
+balance observed covariates between treatment groups. Genetic matching (GM) 
+matches on the PS and individual covariates using an automated search algorithm 
+to directly balance baseline covariates. This article compares these methods for 
+estimating subgroup effects in cost-effectiveness analyses (CEA). The motivating 
+case study is a CEA of a pharmaceutical intervention, drotrecogin alfa (DrotAA), 
+for patient subgroups with severe sepsis (n = 2726). Here, GM reported better 
+covariate balance than PS matching and IPTW. For the subgroup at a high level of 
+baseline risk, the probability that DrotAA was cost-effective ranged from 30% 
+(IPTW) to 90% (PS matching and GM), at a threshold of £20 000 per 
+quality-adjusted life-year. We then compared the methods in a simulation study, 
+in which initially the PS was correctly specified and then misspecified, for 
+example, by ignoring the subgroup-specific treatment assignment. Relative 
+performance was assessed as bias and root mean squared error (RMSE) in the 
+estimated incremental net benefits. When the PS was correctly specified and 
+inverse probability weights were stable, each method performed well; IPTW 
+reported the lowest RMSE. When the subgroup-specific treatment assignment was 
+ignored, PS matching and IPTW reported covariate imbalance and bias; GM reported 
+better balance, less bias, and more precise estimates. We conclude that if the 
+PS is correctly specified and the weights for IPTW are stable, each method can 
+provide unbiased cost-effectiveness estimates. However, unlike IPTW and PS 
+matching, GM is relatively robust to PS misspecification.
+
+DOI: 10.1177/0272989X12448929
+PMID: 22691446 [Indexed for MEDLINE]
+
+
+523. Lancet Infect Dis. 2012 Jul;12(7):571-5. doi: 10.1016/S1473-3099(12)70085-3.
+ Epub 2012 Jun 11.
+
+Integration of palliative care throughout HIV disease.
+
+Simms V(1), Higginson IJ, Harding R.
+
+Author information:
+(1)London School of Hygiene and Tropical Medicine, London, UK. 
+victoria.simms@lshtm.ac.uk
+
+People with HIV have a high burden of pain and physical, psychological, and 
+social difficulties that can be managed effectively with palliative care. 
+However, most individuals do not have access to this type of care. Palliative 
+care is holistic patient-centred management of life-limiting progressive 
+disorders and is recognised by WHO as an essential element of HIV care, from 
+diagnosis to end of life. Historically, palliative care and HIV care were linked 
+closely, but misconceptions divide the two disciplines today. Palliative care 
+can augment patients' outcomes and boost adherence to antiretroviral treatments 
+and life expectancy. In much of the world, services providing palliative care 
+are isolated, and most individuals in need have no access to this care. The 
+commitment to provide palliative care for all people with HIV can be fulfilled 
+if clinical workers are trained in this therapeutic approach and if care is 
+delivered at community level, with support for family caregivers.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1473-3099(12)70085-3
+PMID: 22691838 [Indexed for MEDLINE]
+
+
+524. Postgrad Med. 2012 May;124(3):50-8. doi: 10.3810/pgm.2012.05.2548.
+
+The current status of active surveillance for prostate cancer.
+
+Pan DL(1), Samavedi S, Eldefrawy A, Manoharan M.
+
+Author information:
+(1)Department of Urology, University of Miami, Miller School of Medicine, Miami, 
+FL 33136, USA. dpan111@hotmail.com
+
+The occurrence of low-risk, localized prostate cancer (PCa) has increased in the 
+prostate-specific antigen era. A significant amount of low-risk PCas progress 
+slowly and may not impact patient survival. Thus, these patients may be 
+subjected to unnecessary interventions that result in physical and psychological 
+complications. The active surveillance (AS) protocol has been used over the few 
+past decades. It was designed so that patients with low-risk PCa can be 
+monitored for a period of time, during which they are free from complication of 
+interventions, and can be treated with curative intention on evidence of disease 
+progression. Institutions have developed different selection criteria and 
+follow-up schedules for suitable patients with PCa. Recently, long-term data 
+have emerged suggesting that AS is a reasonable option for appropriately 
+selected patients with low-risk PCa who have a life expectancy of < 10 years. 
+Subsequently, the AS protocol has been recognized by various guidelines as part 
+of the treatment strategy for PCa. However, the challenges that remain for AS 
+are the risk of under-staging of PCa and the low uptake and high attrition rate 
+of AS, and questions remain regarding its long-term efficacy. Recent advances in 
+AS for PCa, such as better imaging modality, combining AS with limited local 
+therapy, as well as the role of AS in association with chemoprevention, are 
+discussed.
+
+DOI: 10.3810/pgm.2012.05.2548
+PMID: 22691899 [Indexed for MEDLINE]
+
+
+525. JAMA. 2012 Jun 13;307(22):2357-8. doi: 10.1001/jama.2012.5792.
+
+"Every child deserves a 5th birthday": campaigns target child survival, preterm 
+birth.
+
+Kuehn BM.
+
+DOI: 10.1001/jama.2012.5792
+PMID: 22692151 [Indexed for MEDLINE]
+
+
+526. Beijing Da Xue Xue Bao Yi Xue Ban. 2012 Jun 18;44(3):397-402.
+
+[Empirical research of measuring elderly health utility in the outskirts of 
+Beijing by using European quality of life 5-dimensions].
+
+[Article in Chinese]
+
+Wu YQ(1), Liu K, Tang X, Cao Y, Wang JW, Li N, Liu JJ, Yu LP, Xu HT, Liu WJ, Wen 
+SS, Hu YH, Li K.
+
+Author information:
+(1)Department of Epidemiology and Biostatistics, Peking University School of 
+Public Health, Beijing, China.
+
+OBJECTIVE: To evaluate health utility values of the elderly in the outskirts of 
+Beijing by European quality of life 5-dimensions (EQ-5D) from the EuroQol Group, 
+and to compare the health utility values by using different translation models.
+METHODS: In the cross-sectional study, EQ-5D was used to measure the quality of 
+life for 65 to 79 year-old usual residents in the town of Qinglonghu and 
+Zhoukoudian in Fangshan District of Beijing. The health index which represented 
+the health utility was calculated by using the Japan, the United Kingdom (UK), 
+the United States (US) population-based time trade-off (TTO) models. 
+Kruskal-Wallis H test was adopted to compare the health indexes calculated by 
+the different models, and intraclass correlations coefficients (ICCs) and 
+Bland-Altman plot were used to evaluate the consistency of the utility 
+calculated by the three models. Mann-Whitney U test was used to compare the 
+impacts of Cardio-vascular diseasel (CVD) on the 3 kinds of health index. The 
+Spearman rho correlation coefficients between the 3 kinds of health index, 
+EQ-VAS (visual analogue scales) score and age, gender, health status were also 
+calculated.
+RESULTS: There were 2 406 participants in this analysis, with a mean age of 70.3 
+years, of whom 34.3% were male. The median and quantile range of Japan weights, 
+US weights and UK weights health indexes were 1 (0.28), 1 (0.24) and 1 (0.29), 
+respectively. The minimum and maximum of the three indexes were -0.06/1, -0.43/1 
+and -0.03/1, respectively. The US weights yielded the highest scores and the UK 
+weights the lowest scores. The Japan, US and UK weight scores differed from each 
+other (P<0.005). The Japan and US scores had the highest ICCs (0.987, 95%CI 
+0.986-0.988), followed by the US and UK scores (0.941, 95%CI 0.937- 0.946) and 
+then the Japan and UK scores (0.921, 95%CI 0.915-0.927). The difference scores 
+of 96.9%, 95.1% and 95.0% were found between the limits of agreement in 
+Bland-Altmand plot. Negative correlations existed between the US/UK score and 
+the number of CVDs, but not existed between the Japan score and the number of 
+CVDs.
+CONCLUSION: The health indexes calculated by using the different EQ-5D TTO 
+transform models were different for the elderly people in the Beijing suburban 
+district, TTO model based on Chinese health preference should be developed.
+
+PMID: 22692310 [Indexed for MEDLINE]
+
+
+527. Beijing Da Xue Xue Bao Yi Xue Ban. 2012 Jun 18;44(3):454-63.
+
+[Maturation of Cordyceps sinensis associates with alterations of fungal 
+expressions of multiple Ophiocordyceps sinensis mutants in stroma of Cordyceps 
+sinensis].
+
+[Article in Chinese]
+
+Gao L(1), Li XH, Zhao JQ, Lu JH, Zhao JG, Zhu JS.
+
+Author information:
+(1)Pharmanex Beijing Clinical Pharmacology Center, Beijing 100088, China.
+
+OBJECTIVE: To examine maturational changes in expressions of Ophiocordyceps 
+sinensis (O.sinensis) transition and transversion mutation genotypes in 
+Cordyceps sinensis (C.sinensis) stroma.
+METHODS: MassARRAY single nucleotide polymorphism (SNP) matrix-assisted laser 
+desorption/ionization-time of flight (MALDI-TOF) mass spectrum genotyping was 
+used, and 8 SNP extension primers were designed based on the scattered, multiple 
+point mutations of known sequences for the O.sinensis mutants within their 
+internal transcribed spacer (ITS) segments. Of the extension primers, 5 (not 
+capable of distinguishing between the 2 AT-biased genotypes) located in rDNA 
+ITS1 and ITS2 regions: 067721-211, 067721-240, 067721-477, 067721-531 and 
+067721-581. The other 3 extension primers located in 5.8S rDNA region: 
+067740-324, 067740-328 and 067740-360, to distinguish between the 2 AT-biased 
+genotypes.
+RESULTS: MS chromatograms at the 8 SNP sites showed dynamic alterations of 
+mutant alleles in C.sinensis stroma. The allele for the AT-biased genotypes at 
+067721-211 site showed higher peak height than its GC-biased counterpart in the 
+premature C.sinensis stroma, but disappeared with C.sinensis maturation. 
+Chromatograms displayed not only the transition mutation alleles, but also 
+transversion mutants. Some of the transversion mutation alleles displayed higher 
+peak heights than those for GC- and AT-biased alleles, but their peak heights 
+and detection rates tended to be decreased with C.sinensis maturation. When 
+distinguishing between the 2 AT-biases, AB067744 and AB067740 genotype alleles 
+co-existed in the premature C.sinensis stroma. The allele peak height for 
+AB067744 genotype was greatly decreased with C.sinensis maturation, while that 
+for AB067740 genotype increased.
+CONCLUSION: Co-existence of at least 5 transition and transversion mutant 
+genotypes of O.sinensis and the dynamic changes in their expressions in 
+C.sinensis stroma along with C.sinensis maturation may be of extreme importance 
+in C.sinensis stroma germination and maturation, enabling C.sinensis to complete 
+its life cycle.
+
+PMID: 22692321 [Indexed for MEDLINE]
+
+
+528. Clin Exp Metastasis. 2012 Oct;29(7):807-19. doi: 10.1007/s10585-012-9496-y.
+Epub  2012 Jun 13.
+
+The role of targeted therapy and biomarkers in breast cancer treatment.
+
+Stopeck AT(1), Brown-Glaberman U, Wong HY, Park BH, Barnato SE, Gradishar WJ, 
+Hudis CA, Rugo HS.
+
+Author information:
+(1)University of Arizona Cancer Center, 1515N. Campbell Avenue, Tucson, AZ 
+85724, USA. astopeck@azcc.arizona.edu
+
+Breast cancer is the most prevalent life-threatening cancer in women and the 
+second leading cause of cancer associated deaths. Consequently, optimizing 
+breast cancer therapy to increase cure rates in early stage disease and improve 
+life expectancy and palliation for patients with metastasis is a critical need 
+and major area of research in medical oncology. This article focuses on the 
+development of personalized therapy in breast cancer though the use of targeted 
+therapies and their associated biomarkers. Topics reviewed include the historic 
+advances in targeting the HER2 receptor and the current avenues being studied to 
+circumvent resistance; new developments in the management of triple negative and 
+metastatic breast cancer; and the challenges and pitfalls associated with 
+targeting angiogenesis. Using these as examples, many of the innovations and 
+challenges in the treatment of women with breast cancer are explored.
+
+DOI: 10.1007/s10585-012-9496-y
+PMID: 22692561 [Indexed for MEDLINE]
+
+
+529. J Med Ethics. 2012 Nov;38(11):647-51. doi: 10.1136/medethics-2011-100333.
+Epub  2012 Jun 12.
+
+Evaluating a patient's request for life-prolonging treatment: an ethical 
+framework.
+
+Winkler EC(1), Hiddemann W, Marckmann G.
+
+Author information:
+(1)National Center for Tumour Diseases, University of Heidelberg, Heidelberg, 
+Germany. eva.winkler@med.uni-heidelberg.de
+
+Contrary to the widespread concern about over-treatment at the end of life, 
+today, patient preferences for palliative care at the end of life are frequently 
+respected. However, ethically challenging situations in the current healthcare 
+climate are, instead, situations in which a competent patient requests active 
+treatment with the goal of life-prolongation while the physician suggests best 
+supportive care only. The argument of futility has often been used to justify 
+unilateral decisions made by physicians to withhold or withdraw life-sustaining 
+treatment. However, we argue that neither the concept of futility nor that of 
+patient autonomy alone is apt for resolving situations in which physicians are 
+confronted with patients' requests for active treatment. Instead, we integrate 
+the relevant arguments that have been put forward in the academic discussion 
+about 'futile' treatment into an ethical algorithm with five guiding questions: 
+(1) Is there a chance that medical intervention will be effective in achieving 
+the patient's treatment goal? (2) How does the physician evaluate the expected 
+benefit and the potential harm of the treatment? (3) Does the patient understand 
+his or her medical situation? (4) Does the patient prefer receiving treatment 
+after evaluating the benefit-harm ratio and the costs? (5) Does the treatment 
+require many resources? This algorithm shall facilitate approaching patients' 
+requests for treatments deemed futile by the physician in a systematic way, and 
+responding to these requests in an ethically appropriate manner. It thereby adds 
+substantive considerations to the current procedural approaches of conflict 
+resolution in order to improve decision making among physicians, patients and 
+families.
+
+DOI: 10.1136/medethics-2011-100333
+PMCID: PMC3582068
+PMID: 22692859 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None.
+
+
+530. PLoS Comput Biol. 2012 May;8(5):e1002534. doi: 10.1371/journal.pcbi.1002534.
+ Epub 2012 May 31.
+
+Thermodynamic basis for the emergence of genomes during prebiotic evolution.
+
+Woo HJ(1), Vijaya Satya R, Reifman J.
+
+Author information:
+(1)DoD Biotechnology High Performance Computing Software Applications Institute, 
+Telemedicine and Advanced Technology Research Center, United States Army Medical 
+Research and Materiel Command, Fort Detrick, Maryland, United States of America.
+
+The RNA world hypothesis views modern organisms as descendants of RNA molecules. 
+The earliest RNA molecules must have been random sequences, from which the first 
+genomes that coded for polymerase ribozymes emerged. The quasispecies theory by 
+Eigen predicts the existence of an error threshold limiting genomic stability 
+during such transitions, but does not address the spontaneity of changes. 
+Following a recent theoretical approach, we applied the quasispecies theory 
+combined with kinetic/thermodynamic descriptions of RNA replication to analyze 
+the collective behavior of RNA replicators based on known experimental kinetics 
+data. We find that, with increasing fidelity (relative rate of base-extension 
+for Watson-Crick versus mismatched base pairs), replications without enzymes, 
+with ribozymes, and with protein-based polymerases are above, near, and below a 
+critical point, respectively. The prebiotic evolution therefore must have 
+crossed this critical region. Over large regions of the phase diagram, fitness 
+increases with increasing fidelity, biasing random drifts in sequence space 
+toward 'crystallization.' This region encloses the experimental nonenzymatic 
+fidelity value, favoring evolutions toward polymerase sequences with ever higher 
+fidelity, despite error rates above the error catastrophe threshold. Our work 
+shows that experimentally characterized kinetics and thermodynamics of RNA 
+replication allow us to determine the physicochemical conditions required for 
+the spontaneous crystallization of biological information. Our findings also 
+suggest that among many potential oligomers capable of templated replication, 
+RNAs may have evolved to form prebiotic genomes due to the value of their 
+nonenzymatic fidelity.
+
+DOI: 10.1371/journal.pcbi.1002534
+PMCID: PMC3364946
+PMID: 22693440 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+531. PLoS One. 2012;7(6):e38560. doi: 10.1371/journal.pone.0038560. Epub 2012 Jun
+5.
+
+A modified sagittal spine postural classification and its relationship to 
+deformities and spinal mobility in a chinese osteoporotic population.
+
+Wang HJ(1), Giambini H, Zhang WJ, Ye GH, Zhao C, An KN, Li YK, Lan WR, Li JY, 
+Jiang XS, Zou QL, Zhang XY, Chen C.
+
+Author information:
+(1)Department of Orthopedics, School of Traditional Chinese Medicine, Southern 
+Medical University, Guangzhou, China.
+
+BACKGROUND: Abnormal posture and spinal mobility have been demonstrated to cause 
+functional impairment in the quality of life, especially in the postmenopausal 
+osteoporotic population. Most of the literature studies focus on either thoracic 
+kyphosis or lumbar lordosis, but not on the change of the entire spinal 
+alignment. Very few articles reported the spinal alignment of Chinese people. 
+The purpose of this study was threefold: to classify the spinal curvature based 
+on the classification system defined by Satoh consisting of the entire spine 
+alignment; to identify the change of trunk mobility; and to relate spinal 
+curvature to balance disorder in a Chinese population.
+METHODOLOGY/PRINCIPAL FINDINGS: 450 osteoporotic volunteers were recruited for 
+this study. Spinal range of motion and global curvature were evaluated 
+noninvasively using the Spinal-Mouse® system and sagittal postural deformities 
+were characterized.
+RESULTS: We found a new spine postural alignment consisting of an increased 
+thoracic kyphosis and decreased lumbar lordosis which we classified as our 
+modified round back. We did not find any of Satoh's type 5 classification in our 
+population. Type 2 sagittal alignment was the most common spinal deformity 
+(38.44%). In standing, thoracic kyphosis angles in types 2 (58.34°) and 3 
+(58.03°) were the largest and lumbar lordosis angles in types 4 (13.95°) and 5 
+(-8.61°) were the smallest. The range of flexion (ROF) and range of 
+flexion-extension (ROFE) of types 2 and 3 were usually greater than types 4 and 
+5, with type 1 being the largest.
+CONCLUSIONS/SIGNIFICANCE: The present study classified and compared for the 
+first time the mobility, curvature and balance in a Chinese population based on 
+the entire spine alignment and found types 4 and 5 to present the worst balance 
+and mobility. This study included a new spine postural alignment classification 
+that should be considered in future population studies.
+
+DOI: 10.1371/journal.pone.0038560
+PMCID: PMC3367929
+PMID: 22693647 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+532. Am J Manag Care. 2012 May 1;18(5):e179-85.
+
+Influence of patient preferences on the cost-effectiveness of screening for 
+Lynch syndrome.
+
+Wang G(1), Kuppermann M, Kim B, Phillips KA, Ladabaum U.
+
+Author information:
+(1)American Institutes for Research, Washington, DC, USA. gwang@air.org
+
+PURPOSE: Patients and relatives have varying preferences for genetic testing and 
+interventions related to hereditary cancer syndromes. We examined how the impact 
+of these services on quality of life (QoL) affects the cost-effectiveness of 
+screening for Lynch syndrome among probands newly diagnosed with colorectal 
+cancer and their relatives.
+METHODS: We constructed a state-transition model comparing screening strategies 
+(clinical criteria, prediction algorithms, tumor testing, and upfront germline 
+testing) with no screening to identify Lynch syndrome. The model incorporated 
+individuals' health state utilities after screening, germline testing, and 
+risk-reducing surgeries, with utilities persisting for 12 months in the base 
+case. Outcomes consisted of quality-adjusted lifeyears (QALYs), costs, and cost 
+per QALY gained. Sensitivity analyses assessed how the duration and magnitude of 
+changes in QoL influenced results.
+RESULTS: Multiple screening strategies yielded gains in QALYs at acceptable 
+costs compared with no screening. The preferred strategy-immunohistochemistry of 
+tumors followed by BRAF mutation testing (IHC/BRAF)-cost $59,700 per QALY gained 
+in the base case. The duration and magnitude of decreases in QoL after decisions 
+related to germline testing and surgeries were key determinants of the 
+cost-effectiveness of screening. IHC/BRAF cost >$100,000 per QALY gained when 
+decrements to QoL persisted for 21 months.
+CONCLUSION: Screening for Lynch syndrome in the population is likely to yield 
+long-term gains in life expectancy that outweigh any short-term decreases in 
+QoL, at acceptable costs. Counseling for individuals should aim to mitigate 
+potential negative impact of genetic testing and risk-reducing interventions on 
+QoL.
+
+PMID: 22694112 [Indexed for MEDLINE]
+
+
+533. Pediatr Transplant. 2012 Sep;16(6):564-76. doi: 
+10.1111/j.1399-3046.2012.01730.x. Epub 2012 Jun 14.
+
+Cardiovascular risk assessment in children following kidney transplantation.
+
+Dégi A(1), Kerti A, Kis E, Cseprekál O, Tory K, Szabó AJ, Reusz GS.
+
+Author information:
+(1)First Department of Pediatrics, Semmelweis University, Budapest, Hungary.
+
+CV diseases are the leading cause of death among patients with ESRD. RTX 
+decreases the CV risk; however, it still remains definitely higher than that of 
+the general population. Large multicenter and longitudinal studies are difficult 
+to perform and hard end-points of CV events are usually missing among pediatric 
+population. Thus, appropriate estimation of CV risk is of crucial importance to 
+define the potential hazards and to evaluate the effect of treatments aimed to 
+reduce the risk. A number of validated non-invasive methods are available to 
+assess the extent of CV damage in adults, such as calcification scores, cIMT, 
+aPWV, 24-h ABPM, AASI, and HRV; however, they need adaptation, standardization, 
+and validation in pediatric studies. cIMT and PWV are the most promising 
+methods, as pediatric normative values are already present. The up-to-date 
+treatment of ESRD aims not only to save life, but to offer the patient a life 
+expectancy approaching that of the healthy population and to ensure a reasonable 
+quality of life.
+
+© 2012 John Wiley & Sons A/S.
+
+DOI: 10.1111/j.1399-3046.2012.01730.x
+PMID: 22694162 [Indexed for MEDLINE]
+
+
+534. Clin Neuropsychol. 2012;26(5):769-89. doi: 10.1080/13854046.2012.693541.
+Epub  2012 Jun 14.
+
+Neuropsychological assessment of distractibility in mild traumatic brain injury 
+and depression.
+
+Schnabel R(1), Kydd R.
+
+Author information:
+(1)Department of Psychological Medicine, University of Auckland, New Zealand. 
+rsch087@aucklanduni.ac.nz
+
+Traditional neuropsychological assessments are conducted exclusively in a quiet, 
+distraction-free environment; clients' abilities to operate under busy and 
+distracting conditions remain untested. Environmental distractions, however, are 
+typical for a multitude of real-life situations and present a challenge to 
+clients with frontal-temporal brain injury. In an effort to improve ecological 
+validity, an extension of the traditional neuropsychological assessment was 
+developed, comprising a standardized distraction condition. This allowed 
+cognitive functions to be tested both in the traditional setting and with 
+exposure to a specified audio-visual distraction. The present study (n = 240) 
+investigated how clients with mild Traumatic Brain Injury (mTBI) (n = 80), Major 
+Depression (MDE) (n = 80), and a healthy control sample (n = 80) performed on 
+sub-tests of the Wechsler Adult Intelligence Scale-IV and the Wechsler Memory 
+Scale-IV both in the standard and the distraction conditions. Test effort was 
+controlled. Significant deterioration of performance in the distraction setting 
+was observed among clients with mTBI. In contrast the performance of a healthy 
+control sample remained unchanged. Significant improvement of performance in the 
+distraction setting was documented for clients with MDE. Contrary to their 
+improved performance, depressed clients experienced the distraction setting as 
+more distressing than the control and mTBI group.
+
+DOI: 10.1080/13854046.2012.693541
+PMID: 22694212 [Indexed for MEDLINE]
+
+
+535. Am J Cardiovasc Drugs. 2012 Aug 1;12(4):225-32. doi: 10.1007/BF03261831.
+
+Changes to the statin prescribing policy in Belgium: potential impact in 
+clinical and economic terms.
+
+Liew D(1), Webb K, Marbaix S, Annemans L.
+
+Author information:
+(1)Melbourne EpiCentre, Department of Medicine (RMH), University of Melbourne, 
+Melbourne, Australia. danny.liew@mh.org.au
+
+BACKGROUND AND OBJECTIVE: New policies in Belgium encourage prescribing of 
+generic HMG-CoA reductase inhibitors (statins), but may lead to non-equivalent 
+switching of patients from more potent second generation statins, as has 
+occurred elsewhere. We sought to assess the potential health economic impact of 
+the new policies.
+DESIGN: This was a cost-effectiveness analysis.
+METHODS: A Markov model was constructed to simulate the onset of cardiovascular 
+disease (CVD) and death among a representative cohort of 80 Belgian patients 
+initially free of CVD and taking atorvastatin. Cardiovascular risks were 
+estimated from calibrated Framingham equations, and utilities and costs from 
+published data. Decision analysis assessed the potential impact of switching all 
+80 patients to simvastatin. Changes in lipid levels expected to arise from 
+switching were based on a published meta-analysis.
+RESULTS: If the 80 patients remained on atorvastatin, the model predicted that 
+23 (29%) would develop CVD over 20 years. If they were switched to simvastatin, 
+the predicted number was 25 (31%), equating to a 'number needed to harm' of 52. 
+Switching would lead to a net cost saving of €131 (2012) per subject, but also a 
+loss of 0.03 quality-adjusted life-years (QALYs) per subject. These equated to a 
+decremental cost-effectiveness ratio of €4777 per QALY lost. Sensitivity 
+analyses indicated this result to be robust.
+CONCLUSION: Recently introduced statin prescribing policies in Belgium are 
+likely, as intended, to reduce statin costs, but also increase the burden of CVD 
+due to non-equivalent switching. It would be cost effective to maintain patients 
+on atorvastatin for primary prevention rather than switch them to simvastatin.
+
+DOI: 10.1007/BF03261831
+PMID: 22694315 [Indexed for MEDLINE]
+
+
+536. Semin Dial. 2012 Jul;25(4):419-22. doi: 10.1111/j.1525-139X.2012.01093.x.
+Epub  2012 Jun 14.
+
+The diagnosis of tuberculosis in dialysis patients.
+
+Richardson RM(1).
+
+Author information:
+(1)Division of Nephrology, Department of Medicine, The Toronto General Hospital, 
+Toronto, Ontario, Canada. robert.richardson@uhn.ca
+
+Tuberculosis is an important issue for nephrologists caring for dialysis 
+patients. Because dialysis patients are immunocompromised, they are at higher 
+risk for reactivation of latent tuberculosis, and they frequently have atypical 
+presentation. Furthermore, hemodialysis units may foster rapid spread of active 
+pulmonary tuberculosis. The diagnosis of active pulmonary tuberculosis still 
+depends on detection of organisms by smear and culture. Newer nucleic acid 
+detection techniques are more sensitive and specific. Nephrologists should 
+remember that nonspecific presentation of tuberculosis including fever, weight 
+loss, and adenopathy are more common in dialysis patients than in the general 
+population, and diagnosis may require biopsy of extrapulmonary tissue. Detection 
+of latent tuberculosis in dialysis patients should only be undertaken if 
+treatment is planned. Generally, this should apply only to potential transplant 
+candidates and younger dialysis patients with longer life expectancy. Tuberculin 
+skin test is very insensitive in dialysis patients, and false-positives occur in 
+patients born in countries where Bacillus Calmette-Guérin vaccine has been used. 
+Blood tests using stimulation of gamma interferon have been shown to be more 
+sensitive tests of latent tuberculosis and may be used in conjunction with 
+tuberculin skin tests.
+
+© 2012 Wiley Periodicals, Inc.
+
+DOI: 10.1111/j.1525-139X.2012.01093.x
+PMID: 22694662 [Indexed for MEDLINE]
+
+
+537. Gastrointest Endosc. 2012 Aug;76(2):267-74. doi: 10.1016/j.gie.2012.04.442.
+Epub  2012 Jun 12.
+
+Combination of biodegradable stent placement and single-dose brachytherapy is 
+associated with an unacceptably high complication rate in the treatment of 
+dysphagia from esophageal cancer.
+
+Hirdes MM(1), van Hooft JE, Wijrdeman HK, Hulshof MC, Fockens P, Reerink O, van 
+Oijen MG, van der Tweel I, Vleggaar FP, Siersema PD.
+
+Author information:
+(1)Department of Gastroenterology and Hepatology, University Medical Center 
+Utrecht, Utrecht, the Netherlands. M.M.C.Hirdes@umcutrecht.nl
+
+BACKGROUND: For the palliative treatment of dysphagia, esophageal stent 
+placement provides immediate improvement, whereas brachytherapy offers better 
+long-term relief.
+OBJECTIVE: To evaluate safety and efficacy of concurrent brachytherapy and 
+biodegradable stent placement.
+DESIGN: Prospective, single-arm study.
+SETTING: Two tertiary-care referral centers.
+PATIENTS: Nineteen consecutive patients with significant dysphagia resulting 
+from unresectable esophageal cancer, with a life expectancy of more than 3 
+months.
+INTERVENTION: Single-dose brachytherapy (12 Gy) on day 1 followed by 
+biodegradable stent placement on day 2.
+MAIN OUTCOME MEASUREMENTS: Intervention-related major complications (determined 
+by an expert panel) and dysphagia.
+RESULTS: Nineteen patients (13 men, median age 66 years [interquartile range 
+(IQR) 59-71] years) were included; 7 patients (37%) also received palliative 
+chemotherapy. After inclusion of 19 patients, the study was ended prematurely 
+because the safety threshold was exceeded. In total, 28 major complications 
+occurred in 17 patients (89%). In 9 patients (47%), major complications were 
+determined intervention-related (severe retrosternal pain with or without 
+vomiting [n = 6], hematemesis [n = 1], recurrent dysphagia [n = 2]. Dysphagia 
+scores decreased significantly from a median of 3 (IQR 3-4) to a median of 1 
+(IQR 0-3) after 1 month (P < .001). Despite adequate luminal patency in 17 
+patients (89%), normal diet could not be tolerated in 7 patients (37%) because 
+of retrosternal pain and vomiting.
+LIMITATIONS: Lack of routine endoscopy or contrast esophagram to evaluate 
+recurrent dysphagia during follow-up.
+CONCLUSION: Despite restoration of luminal patency, a combined treatment of 
+brachytherapy and biodegradable stent placement cannot be recommended for the 
+palliative treatment of esophageal cancer because of an unacceptably high 
+intervention-related major complication rate.
+
+Copyright © 2012 American Society for Gastrointestinal Endoscopy. Published by 
+Mosby, Inc. All rights reserved.
+
+DOI: 10.1016/j.gie.2012.04.442
+PMID: 22695208 [Indexed for MEDLINE]
+
+
+538. Clin Ther. 2012 Jul;34(7):1544-58. doi: 10.1016/j.clinthera.2012.05.004.
+Epub  2012 Jun 12.
+
+Economic impact of using additional diagnostic tests to better select patients 
+with stroke for intravenous thrombolysis in the United Kingdom.
+
+Earnshaw SR(1), McDade C, Chapman AM, Jackson D, Schwamm L.
+
+Author information:
+(1)RTI Health Solutions, 200 Park Offices Dr, Research Triangle Park, NC 27709, 
+USA. searnshaw@rti.org
+
+BACKGROUND: Eligibility for thrombolysis as an acute stroke treatment is 
+determined through the use of unenhanced noncontrast computed tomography (CT), 
+time since stroke onset, and patient history. Assessing penumbral patterns, 
+which can be examined only through the use of diagnostic technologies such as 
+magnetic resonance imaging (MRI) and perfusion CT (CTP), may be able to better 
+select patients for thrombolysis. However, trade-offs in terms of administration 
+time and cost may affect the value of using these diagnostic studies.
+OBJECTIVE: We examined the trade-offs among patient selection via usual care 
+with CT, usual care plus MRI using diffusion-weighted and perfusion imaging, and 
+usual care plus CTP for their effect on costs and outcomes when diagnosing 
+stroke and selecting candidates for thrombolysis in the United Kingdom.
+METHODS: A decision-analytic model was developed. Efficacy and utilities were 
+obtained from published studies. Costs were obtained from standard UK costing 
+sources and were supplemented with data from the published literature. Outcomes 
+included a favorable outcome (modified Rankin Scale score <2), costs, 
+life-years, quality-adjusted life-years, and incremental cost-effectiveness 
+ratios.
+RESULTS: Compared with usual care selection, adding CTP or MRI to better select 
+patients for thrombolysis reduced the number of patients receiving thrombolysis 
+by 9 and 14.6 per 1000 patients treated, respectively, while improving favorable 
+outcome (19.2 and 17.6 per 1000 patients treated, respectively). In both 
+scenarios, costs were decreased slightly. Both CTP and MRI selection were cost 
+saving (more efficacious and less costly) compared with unenhanced CT selection; 
+CTP selection was found to dominate MRI selection.
+CONCLUSIONS: Adding diagnostic tests such as CTP and MRI to select UK patients 
+for thrombolysis may be a good value for the money and may improve patient 
+outcomes. If a preferred diagnostic test had to be chosen based on economic 
+value, CTP might be the best compromise between unenhanced CT selection and MRI 
+selection.
+
+Copyright © 2012. Published by EM Inc USA.
+
+DOI: 10.1016/j.clinthera.2012.05.004
+PMID: 22695225 [Indexed for MEDLINE]
+
+
+539. AIDS. 2012 Aug 24;26(13):1663-72. doi: 10.1097/QAD.0b013e3283560678.
+
+Cost-effectiveness of laboratory monitoring for management of HIV treatment in 
+sub-Saharan Africa: a model-based analysis.
+
+Hamers RL(1), Sawyer AW, Tuohy M, Stevens WS, Rinke de Wit TF, Hill AM; ART-A 
+Consortium.
+
+Author information:
+(1)PharmAccess Foundation, Department of Global Health, Academic Medical Center 
+of the University of Amsterdam and Amsterdam Institute for Global Health and 
+Development, Amsterdam, The Netherlands. r.hamers@aighd.org
+
+OBJECTIVE: To compare the cost-effectiveness of three different strategies for 
+long-term monitoring of antiretroviral therapy (ART) failure and regimen 
+switching in sub-Saharan Africa: a symptom-based approach, or monitoring of 
+either CD4 cell counts or plasma viral load (pVL).
+DESIGN: Markov model.
+SETTING AND PARTICIPANTS: Hypothetical HIV-infected adult population who began 
+first-line ART and subsequently had up to 6 years of follow-up.
+MAIN OUTCOME MEASURES: Total cost, life expectancy and incremental 
+cost-effectiveness ratio (ICER).
+RESULTS: A symptom-based approach yielded a life expectancy of 64.0 months at a 
+total cost of US$ 4028 per person. All laboratory-based strategies, at testing 
+intervals of 6 or 12 months, were cost-saving and improved life expectancy, 
+compared with a symptom-based approach. The life-expectancy gain was larger for 
+pVL than for CD4 strategies at 6-monthly (2.3 and 0.9 months, respectively) and 
+12-monthly testing (2.0 and 0.8 months, respectively). Cost-savings of 6-monthly 
+pVL or CD4 testing were similar (US$ 630 and 621, respectively), whereas 
+12-monthly CD4 cell counts were more cost-saving than 12-monthly pVL (US$ 1132 
+and 880, respectively). Testing every 12 months - rather than every 6 months - 
+decreased the ICER by 102% for CD4 cell count and 67% for pVL. These findings 
+were robust to a wide range of deterministic sensitivity analyses, but were 
+sensitive to the specificity and costs of diagnostic tests.
+CONCLUSION: Additional diagnostic costs are balanced by cost-savings from 
+avoiding unnecessary switching due to misdiagnosis of ART failure. Routine pVL 
+monitoring may be preferred as a replacement for CD4 cell counts because of its 
+additional public-health advantages in preventing drug-resistance, supporting 
+adherence and reducing HIV transmission.
+
+© 2012 Wolters Kluwer Health | Lippincott Williams & Wilkins
+
+DOI: 10.1097/QAD.0b013e3283560678
+PMID: 22695297 [Indexed for MEDLINE]
+
+
+540. MMWR Suppl. 2012 Jun 15;61(2):32-7.
+
+Characteristics associated with poor glycemic control among adults with 
+self-reported diagnosed diabetes--National Health and Nutrition Examination 
+Survey, United States, 2007-2010.
+
+Ali MK(1), McKeever Bullard K, Imperatore G, Barker L, Gregg EW; Centers for 
+Disease Control and Prevention (CDC).
+
+Author information:
+(1)Division of Diabetes Translation, National Center for Chronic Disease 
+Prevention and Health Promotion, CDC, 4770 Buford Hwy NE, Atlanta, GA 30341, 
+USA. ise1@cdc.gov
+
+Nationally representative estimates indicate that 18.8 million adults in the 
+United States have received a diagnosis with diabetes mellitus. When glycemic 
+control is not optimized, diabetes imposes additional burdensome care 
+requirements, health-care costs, and high risk of disabling complications, and 
+this has been especially evident in socioeconomically disadvantaged and minority 
+populations. For example, higher levels of glycated hemoglobin (A1c) have been 
+associated with increased risk of diabetic retinopathy, increased risk of 
+chronic kidney disease, and increased risk of cardiovascular disease. Reducing 
+A1c levels through combined clinical and effective self-management has 
+demonstrated reduced risk for microvascular complications. Although the most 
+appropriate target A1c levels to achieve optimal health impact might vary among 
+persons, the majority of adults with diabetes will benefit from reduction of A1c 
+levels to ≤7%; targets for patients with a history of severe hypoglycemia, or 
+with limited life expectancy, or with advanced complications, or with certain 
+comorbid conditions might be higher. Nevertheless, an A1c level of 9% 
+constitutes a clearly modifiable, high level of risk that few, if any, persons 
+with diabetes should be exposed to. Accordingly, the Healthy People 2020 
+objectives include a 10% reduction in the proportion of the diabetes population 
+that has poor glycemic control (A1c >9%) as a target.
+
+PMID: 22695461 [Indexed for MEDLINE]541. Palliat Med. 2013 Mar;27(3):273-80. doi: 10.1177/0269216312448507. Epub 2012
+Jun  13.
+
+Opinions of health care professionals and the public after eight years of 
+euthanasia legislation in the Netherlands: a mixed methods approach.
+
+Kouwenhoven PS(1), Raijmakers NJ, van Delden JJ, Rietjens JA, Schermer MH, van 
+Thiel GJ, Trappenburg MJ, van de Vathorst S, van der Vegt BJ, Vezzoni C, Weyers 
+H, van Tol DG, van der Heide A.
+
+Author information:
+(1)Julius Center, University Medical Center Utrecht, The Netherlands. 
+P.S.C.Kouwenhoven@umcutrecht.nl
+
+BACKGROUND: The practice of euthanasia and physician-assisted suicide (PAS) in 
+the Netherlands has been regulated since 2002 by the Euthanasia Act. In the 
+ongoing debate about the interpretation of this Act, comparative information 
+about the opinions of the different stakeholders is needed.
+AIM: To evaluate the opinions of Dutch physicians, nurses and the general public 
+on the legal requirements for euthanasia and PAS.
+DESIGN: A cross-sectional survey among Dutch physicians and nurses in primary 
+and secondary care and members of the Dutch general public, followed by 
+qualitative interviews among selected respondents. The participants were: 793 
+physicians, 1243 nurses and 1960 members of the general public who completed the 
+questionnaire; 83 were interviewed.
+RESULTS: Most respondents agreed with the requirement of a patient request 
+(64-88%) and the absence of a requirement concerning life expectancy (48-71%). 
+PAS was thought acceptable by 24-39% of respondents for patients requesting it 
+because of mental suffering due to loss of control, chronic depression or early 
+dementia. In the case of severe dementia, one third of physicians, 58% of nurses 
+and 77% of the general public agreed with performing euthanasia based on an 
+advance directive. Interviewees illustrated these findings and supported the 
+Act.
+CONCLUSIONS: Health care professionals and the general public mostly support the 
+legal requirements for euthanasia and PAS. The law permits euthanasia or PAS for 
+mental suffering but this possibility is not widely endorsed. The general public 
+is more liberal towards euthanasia for advanced dementia than health care 
+professionals. We conclude that there is ample support for the law after eight 
+years of legal euthanasia.
+
+DOI: 10.1177/0269216312448507
+PMID: 22695742 [Indexed for MEDLINE]
+
+
+542. Age Ageing. 2012 Sep;41(5):635-41. doi: 10.1093/ageing/afs071. Epub 2012 Jun
+13.
+
+Community falls prevention for people who call an emergency ambulance after a 
+fall: an economic evaluation alongside a randomised controlled trial.
+
+Sach TH(1), Logan PA, Coupland CA, Gladman JR, Sahota O, Stoner-Hobbs V, 
+Robertson K, Tomlinson V, Ward M, Avery AJ.
+
+Author information:
+(1)Health Economics Group, Norwich Medical School, University of East Anglia, 
+Norwich Research Park, Norwich NR4 7TJ, UK. t.sach@uea.ac.uk
+
+OBJECTIVE: we estimated the cost-effectiveness of a community falls prevention 
+service compared with usual care from a National Health Service and personal 
+social services perspective over the 12 month trial period.
+DESIGN: a cost-effectiveness and cost utility analysis alongside a randomised 
+controlled trial
+SETTING: community.
+PARTICIPANTS: people over 60 years of age living at home or in residential care 
+who had fallen and called an emergency ambulance but were not taken to hospital.
+INTERVENTIONS: referral to community fall prevention services or usual health 
+and social care.
+MEASUREMENTS: incremental cost per fall prevented and incremental cost per 
+Quality-Adjusted Life Years (QALYs)
+RESULTS: a total of 157 participants (82 interventions and 75 controls) were 
+used to perform the economic evaluation. The mean difference in NHS and personal 
+social service costs between the groups was £-1,551 per patient over 1 year (95% 
+CI: £-5,932 to £2,829) comparing the intervention and control groups. The 
+intervention patients experienced on average 5.34 fewer falls over 12 months 
+(95% CI: -7.06 to -3.62). The mean difference in QALYs was 0.070 (95% CI: -0.010 
+to 0.150) in favour of the intervention group.
+CONCLUSION: the community falls prevention service was estimated to be 
+cost-effective in this high-risk group. Current Controlled Trials 
+ISRCTN67535605. (controlled-trials.com).
+
+DOI: 10.1093/ageing/afs071
+PMCID: PMC3424053
+PMID: 22695789 [Indexed for MEDLINE]
+
+
+543. Eur Rev Med Pharmacol Sci. 2012 Apr;16(4):483-90.
+
+Coronary and carotid artery occlusive disease: single center experience.
+
+Kovacevic P(1), Redzek A, Kovacevic-Ivanovic S, Velicki L, Ivanovic V, Kieffer 
+E.
+
+Author information:
+(1)Institute of Cardiovascular Diseases Vojvodina, Sremska Kamenica, Serbia.
+
+BACKGROUND AND OBJECTIVE: Due to increased life expectancy, the risk profile of 
+the patients undergoing cardiac surgery changed dramatically. This is especially 
+important in case of concomitant coronary artery disease and carotid artery 
+stenosis (CAS). Careful decision making and appropriate surgical strategy in 
+these patients is critical for the success of the operation. Controversy about 
+relationship between staged and concomitant carotid endarterectomy (CEA) and 
+coronary artery bypass grafting (CABG) still exists. In the current study, we 
+present our case lood in treating patients with concomitant carotid artery 
+stenosis and coronary artery disease.
+PATIENTS AND METHODS: CABG with additional CEA due to neurologic symptoms or 
+high grade (>80%) CAS has been performed in 835 patients in the period of 
+1982-2010. Results of evaluation of perioperative mortality and morbidity in 
+regard to the surgical approach have been discussed.
+RESULTS: The average patient age was 62.6 +/- 8.7 years. Echocardiography 
+revealed that 28% of the patients had poor left ventricle ejection fraction 
+(<30%). Coronarography demonstrated that 21.4% of the operated patients had 
+significant left main coronary artery stenosis (>60%). In terms of neurological 
+status, majority of the patients (88.3%) were neurologically asymptomatic. The 
+overall mortality regardless the sequence of procedures was 2.3% (19 patients). 
+In the group of concomitantly treated patients 44.6% (50 patients) required 
+triple coronary bypass while the mean number of coronary bypasses was 2.6. 
+Postoperative neurologic complications were present in 102 patients (12.2%). 
+Eighty-four patients (10.0%) have had TIA, while 18 patients (2.2%) have had 
+permanent neurologic deficit while 4 patients (0.5%) died as a result of it.
+CONCLUSIONS: It is imperative that every patient being considered for CABG 
+should undergo ultrasonic evaluation of the carotid arteries regardless the 
+neurological symptomatology. Concomitant surgery on patients with severe CAS and 
+coronary disease carries a slightly higher operative risk and, therefore, should 
+be avoided. Concomitant surgical treatment should only be considered in patients 
+with unstable angina and significant CAS in whom we may expect higher morbidity 
+and mortality.
+
+PMID: 22696875 [Indexed for MEDLINE]
+
+
+544. J Int Soc Sports Nutr. 2012 Jun 14;9(1):26. doi: 10.1186/1550-2783-9-26.
+
+β-alanine supplementation improves isometric endurance of the knee extensor 
+muscles.
+
+Sale C(1), Hill CA, Ponte J, Harris RC.
+
+Author information:
+(1)Biomedical, Life and Health Sciences Research Centre, Nottingham Trent 
+University, Clifton Lane, Nottingham, NG11 8NS, UK. craig.sale@ntu.ac.uk.
+
+BACKGROUND: We examined the effect of four weeks of β-alanine supplementation on 

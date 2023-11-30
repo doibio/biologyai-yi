@@ -1,0 +1,1000 @@
+to enrich the data with additional information. The Regulatory Circuits project 
+is one of the largest efforts for integrating human cell genomics data to 
+predict tissue-specific transcription factor-genes interaction networks. In 
+spite of its success, it exhibits the usual shortcomings limiting its update, 
+its reuse (as a whole or partially), and its extension with new data samples. To 
+address these limitations, the resource has previously been integrated in an RDF 
+triplestore so that TF-gene interaction networks could be generated with two 
+SPARQL queries. However, this triplestore did not store the computed networks 
+and did not integrate metadata about tissues and samples, therefore limiting the 
+reuse of this dataset. In particular, it does not enable to reuse only a portion 
+of Regulatory Circuits if a study focuses on a subset of the tissues, nor to 
+combine the samples described in the datasets with samples from other studies. 
+Overall, these limitations advocate for the design of a complete, flexible and 
+reusable representation of the Regulatory Circuits dataset based on Semantic Web 
+technologies.
+RESULTS: We provide a modular RDF representation of the Regulatory Circuits, 
+called Linked Extended Regulatory Circuits (LERC). It consists in (i) 
+descriptions of biological and experimental context mapped to the references 
+databases, (ii) annotations about TF-gene interactions at the sample level for 
+808 samples, (iii) annotations about TF-gene interactions at the tissue level 
+for 394 tissues, (iv) metadata connecting the knowledge graphs cited above. LERC 
+is based on a modular organisation into 1,205 RDF named graphs for representing 
+the biological data, the sample-specific and the tissue-specific networks, and 
+the corresponding metadata. In total it contains 3,910,794,050 triples and is 
+available as a SPARQL endpoint.
+CONCLUSION: The flexible and modular architecture of LERC supports 
+biologically-relevant SPARQL queries. It allows an easy and fast querying of the 
+resources related to the initial Regulatory Circuits datasets and facilitates 
+its reuse in other studies. ASSOCIATED WEBSITE: 
+https://regulatorycircuits-lod.genouest.org.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s13326-022-00266-4
+PMCID: PMC8962212
+PMID: 35346379 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.601. Elife. 2022 Mar 29;11:e75374. doi: 10.7554/eLife.75374.
+
+Assessing the causal role of epigenetic clocks in the development of multiple 
+cancers: a Mendelian randomization study.
+
+Morales Berstein F(1)(2), McCartney DL(3), Lu AT(4), Tsilidis KK(5)(6), Bouras 
+E(6), Haycock P(1)(2), Burrows K(1)(2), Phipps AI(7)(8), Buchanan DD(9), Cheng 
+I(10); PRACTICAL consortium; Martin RM(1)(2)(98), Davey Smith G(1)(2), Relton 
+CL(1)(2), Horvath S(4)(99), Marioni RE(3), Richardson TG(1)(2)(100), Richmond 
+RC(1)(2).
+
+Collaborators: Eeles RA(11)(12), Haiman CA(13), Kote-Jarai Z(11), Schumacher 
+FR(14)(15), Benlloch S(11)(16), Al Olama AA(16)(17), Muir KR(18), Berndt SI(19), 
+Conti DV(13), Wiklund F(20), Chanock S(19), Wang Y(21), Tangen CM(22), Batra 
+J(23)(24), Clements JA(23)(24), Apcb BioResource Australian Prostate Cancer 
+BioResource(24)(25), Grönberg H(20), Pashayan N(26)(27), Schleutker J(28)(29), 
+Albanes D(19), Weinstein S(19), Wolk A(30), West CML(31), Mucci LA(32), 
+Cancel-Tassin G(33)(34), Koutros S(19), Sørensen KD(35)(36), Grindedal EM(37), 
+Neal DE(38)(39)(40), Hamdy FC(41)(42), Donovan JL(43), Travis RC(44), Hamilton 
+RJ(45)(46), Ingles SA(47), Rosenstein BS(48), Lu YJ(49), Giles GG(50)(51)(52), 
+MacInnis RJ(50)(51), Kibel AS(53), Vega A(54)(55)(56), Kogevinas 
+M(57)(58)(59)(60), Penney KL(61), Park JY(62), Stanford JL(63)(8), Cybulski 
+C(64), Nordestgaard BG(65)(66), Nielsen SF(65)(66), Brenner H(67)(68)(69), Maier 
+C(70), Kim U(71), John EM(72), Teixeira MR(73)(74)(75), Neuhausen SL(76), De 
+Ruyck K(77), Razack A(78), Newcomb LF(63)(79), Lessel D(80), Kaneva R(81), 
+Usmani N(82)(83), Claessens F(84), Townsend PA(85)(86), Esteban Castelao J(87), 
+Roobol MJ(88), Menegaux F(89), Khaw KT(90), Cannon-Albright U(91)(92), Pandha 
+H(86), Thibodeau SN(93), Hunter DJ(94), Kraft P(95), Blot WJ(96)(97), Riboli 
+E(5).
+
+Author information:
+(1)MRC Integrative Epidemiology Unit, University of Bristol, Bristol, United 
+Kingdom.
+(2)Population Health Sciences, Bristol Medical School, Bristol, United Kingdom.
+(3)Centre for Genomic and Experimental Medicine, Institute of Genetics and 
+Cancer, University of Edinburgh, Edinburgh, United Kingdom.
+(4)Department of Human Genetics, David Geffen School of Medicine, University of 
+California, Los Angeles, Los Angeles, United States.
+(5)Department of Epidemiology and Biostatistics, School of Public Health, 
+Imperial College London, London, United Kingdom.
+(6)Department of Hygiene and Epidemiology, School of Medicine, University of 
+Ioannina, Ioannina, Greece.
+(7)Public Health Sciences Division, Fred Hutchinson Cancer Research Center, 
+Seattle, United States.
+(8)Department of Epidemiology, School of Public Health, University of 
+Washington, Seattle, United States.
+(9)Department of Clinical Pathology, Melbourne Medical School, University of 
+Melbourne, Parkville, Australia.
+(10)Cancer Prevention Institute of California, Fremont, United States.
+(11)The Institute of Cancer Research, London, United Kingdom.
+(12)Royal Marsden NHS Foundation Trust, London, United Kingdom.
+(13)Center for Genetic Epidemiology, Department of Preventive Medicine, Keck 
+School of Medicine, University of Southern California/Norris Comprehensive 
+Cancer Center, Los Angeles, United States.
+(14)Department of Population and Quantitative Health Sciences, Case Western 
+Reserve University, Cleveland, United States.
+(15)Seidman Cancer Center, University Hospitals, Cleveland, United States.
+(16)Centre for Cancer Genetic Epidemiology, Department of Public Health and 
+Primary Care, University of Cambridge, Strangeways Research Laboratory, 
+Cambridge, United Kingdom.
+(17)University of Cambridge, Department of Clinical Neurosciences, Stroke 
+Research Group, Cambridge, United Kingdom.
+(18)Division of Population Health, Health Services Research and Primary Care, 
+University of Manchester, Manchester, United Kingdom.
+(19)Division of Cancer Epidemiology and Genetics, National Cancer Institute, 
+NIH, Bethesda, United States.
+(20)Department of Medical Epidemiology and Biostatistics, Karolinska Institute, 
+Stockholm, Sweden.
+(21)Department of Population Science, American Cancer Society, Atlanta, United 
+States.
+(22)SWOG Statistical Center, Fred Hutchinson Cancer Research Center, Seattle, 
+United States.
+(23)Australian Prostate Cancer Research Centre-Qld, Institute of Health and 
+Biomedical Innovation and School of Biomedical Sciences, Queensland University 
+of Technology, Brisbane, Australia.
+(24)Translational Research Institute, Brisbane, Australia.
+(25)Australian Prostate Cancer Research Centre-Qld, Queensland University of 
+Technology, Brisbane; Prostate Cancer Research Program, Monash University, 
+Melbourne; Dame Roma Mitchell Cancer Centre, University of Adelaide, Adelaide, 
+Australia.
+(26)Department of Applied Health Research, University College London, London, 
+United Kingdom.
+(27)Centre for Cancer Genetic Epidemiology, Department of Oncology, University 
+of Cambridge, Strangeways Laboratory, Worts Causeway, Cambridge, United Kingdom.
+(28)Institute of Biomedicine, University of Turku, Turku, Finland.
+(29)Department of Medical Genetics, Genomics, Laboratory Division, Turku 
+University Hospital, Turku, Finland.
+(30)Department of Surgical Sciences, Uppsala University, Uppsala, Sweden.
+(31)Division of Cancer Sciences, University of Manchester, Manchester Academic 
+Health Science Centre, Radiotherapy Related Research, The Christie Hospital NHS 
+Foundation Trust, Manchester, United Kingdom.
+(32)Department of Epidemiology, Harvard T. H. Chan School of Public Health, 
+Boston, United States.
+(33)CeRePP, Tenon Hospital, Paris, France.
+(34)Sorbonne Universite, GRC n°5 , AP-HP, Tenon Hospital, 4 rue de la Chine, 
+Paris, France.
+(35)Department of Molecular Medicine, Aarhus University Hospital, Aarhus, 
+Denmark.
+(36)Department of Clinical Medicine, Aarhus University, Aarhus, Denmark.
+(37)Department of Medical Genetics, Oslo University Hospital, Oslo, Norway.
+(38)Nuffield Department of Surgical Sciences, University of Oxford, Room 6603, 
+Level 6, John Radcliffe Hospital, Headley Way, Oxford, United Kingdom.
+(39)University of Cambridge, Department of Oncology, Cambridge, United Kingdom.
+(40)Cancer Research UK, Cambridge Research Institute, Cambridge, United Kingdom.
+(41)Nuffield Department of Surgical Sciences, University of Oxford, Oxford, 
+United Kingdom.
+(42)Faculty of Medical Science, University of Oxford, John Radcliffe Hospital, 
+Oxford, United Kingdom.
+(43)Population Health Sciences, Bristol Medical School, University of Bristol, 
+Bristol, United Kingdom.
+(44)Cancer Epidemiology Unit, Nuffield Department of Population Health, 
+University of Oxford, Oxford, United Kingdom.
+(45)Dept. of Surgical Oncology, Princess Margaret Cancer Centre, Toronto, 
+Canada.
+(46)Dept. of Surgery (Urology), University of Toronto, Toronto, Canada.
+(47)Department of Preventive Medicine, Keck School of Medicine, University of 
+Southern California/Norris Comprehensive Cancer Center, Los Angeles, United 
+States.
+(48)Department of Radiation Oncology and Department of Genetics and Genomic 
+Sciences, Box 1236, Icahn School of Medicine at Mount Sinai, One Gustave L. Levy 
+Place, New York, United States.
+(49)Centre for Cancer Biomarker and Biotherapeutics, Barts Cancer Institute, 
+Queen Mary University of London, John Vane Science Centre, Charterhouse Square, 
+London, United Kingdom.
+(50)Cancer Epidemiology Division, Cancer Council Victoria, Melbourne, Australia.
+(51)Centre for Epidemiology and Biostatistics, Melbourne School of Population 
+and Global Health, The University of Melbourne, Parkville, Australia.
+(52)Precision Medicine, School of Clinical Sciences at Monash Health, Monash 
+University, Victoria, Australia.
+(53)Division of Urologic Surgery, Brigham and Womens Hospital, Boston, United 
+States.
+(54)Fundación Pública Galega Medicina Xenómica, Santiago de Compostela, Spain.
+(55)Instituto de Investigación Sanitaria de Santiago de Compostela, Santiago De 
+Compostela, Spain.
+(56)Centro de Investigación en Red de Enfermedades Raras (CIBERER), Valencia, 
+Spain.
+(57)ISGlobal, Barcelona, Spain.
+(58)IMIM (Hospital del Mar Medical Research Institute), Barcelona, Spain.
+(59)Universitat Pompeu Fabra (UPF), Barcelona, Spain.
+(60)CIBER Epidemiología y Salud Pública (CIBERESP), Madrid, Spain.
+(61)Channing Division of Network Medicine, Department of Medicine, Brigham and 
+Women's Hospital/Harvard Medical School, Boston, United States.
+(62)Department of Cancer Epidemiology, Moffitt Cancer Center, Tampa, United 
+States.
+(63)Division of Public Health Sciences, Fred Hutchinson Cancer Research Center, 
+Seattle, United States.
+(64)International Hereditary Cancer Center, Department of Genetics and 
+Pathology, Pomeranian Medical University, Szczecin, Poland.
+(65)Faculty of Health and Medical Sciences, University of Copenhagen, 
+Copenhagen, Denmark.
+(66)Department of Clinical Biochemistry, Herlev and Gentofte Hospital, 
+Copenhagen University Hospital, Herlev, Denmark.
+(67)Division of Clinical Epidemiology and Aging Research, German Cancer Research 
+Center (DKFZ), Heidelberg, Germany.
+(68)German Cancer Consortium (DKTK), German Cancer Research Center (DKFZ), 
+Heidelberg, Germany.
+(69)Division of Preventive Oncology, German Cancer Research Center (DKFZ) and 
+National Center for Tumor Diseases (NCT), Heidelberg, Germany.
+(70)Humangenetik Tuebingen, Tuebingen, Germany.
+(71)The University of Texas M. D. Anderson Cancer Center, Department of 
+Genitourinary Medical Oncology, Houston, United States.
+(72)Departments of Epidemiology & Population Health and of Medicine, Division of 
+Oncology, Stanford Cancer Institute, Stanford University School of Medicine, 
+Stanford, United States.
+(73)Department of Genetics, Portuguese Oncology Institute of Porto (IPO-Porto), 
+Porto, Portugal.
+(74)Biomedical Sciences Institute (ICBAS), University of Porto, Porto, Portugal.
+(75)Cancer Genetics Group, IPO-Porto Research Center (CI-IPOP), Portuguese 
+Oncology Institute of Porto (IPO-Porto), Porto, Portugal.
+(76)Department of Population Sciences, Beckman Research Institute of the City of 
+Hope, Duarte, United States.
+(77)Ghent University, Faculty of Medicine and Health Sciences, Basic Medical 
+Sciences, Ghent, Belgium.
+(78)Department of Surgery, Faculty of Medicine, University of Malaya, Kuala 
+Lumpur, Malaysia.
+(79)Department of Urology, University of Washington, Seattle, United States.
+(80)Institute of Human Genetics, University Medical Center Hamburg-Eppendorf, 
+Hamburg, Germany.
+(81)Molecular Medicine Center, Department of Medical Chemistry and Biochemistry, 
+Medical University of Sofia, Sofia, Bulgaria.
+(82)Department of Oncology, Cross Cancer Institute, University of Alberta, 
+Edmonton, Canada.
+(83)Division of Radiation Oncology, Cross Cancer Institute, University Avenue, 
+Edmonton, Canada.
+(84)Molecular Endocrinology Laboratory, Department of Cellular and Molecular 
+Medicine, Leuven, Belgium.
+(85)Division of Cancer Sciences, Manchester Cancer Research Centre, Faculty of 
+Biology, Medicine and Health, Manchester Academic Health Science Centre, NIHR 
+Manchester Biomedical Research Centre, Health Innovation Manchester, Univeristy 
+of Manchester, Manchester, United Kingdom.
+(86)The University of Surrey, Guildford, Surrey, United Kingdom.
+(87)Genetic Oncology Unit, CHUVI Hospital, Complexo Hospitalario Universitario 
+de Vigo, Instituto de Investigación Biomédica Galicia Sur (IISGS), Vigo, Spain.
+(88)Department of Urology, Erasmus University Medical Center, Rotterdam, 
+Netherlands.
+(89)"Exposome and Heredity", CESP (UMR 1018), Faculté de Médecine, Université 
+Paris-Saclay, Villejuif, France.
+(90)Clinical Gerontology Unit, University of Cambridge, Cambridge, United 
+Kingdom.
+(91)Division of Epidemiology, Department of Internal Medicine, University of 
+Utah School of Medicine, Salt Lake City, United States.
+(92)George E. Wahlen Department of Veterans Affairs Medical Center, Salt Lake 
+City, United States.
+(93)Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, 
+United States.
+(94)Nuffield Department of Population Health, University of Oxford, Oxford, 
+United Kingdom.
+(95)Program in Genetic Epidemiology and Statistical Genetics, Department of 
+Epidemiology, Harvard School of Public Health, Boston, United States.
+(96)Division of Epidemiology, Department of Medicine, Vanderbilt University 
+Medical Center, Nashville, United States.
+(97)International Epidemiology Institute, Rockville, United States.
+(98)National Institute for Health Research (NIHR) Bristol Biomedical Research 
+Centre, University Hospitals Bristol and Weston NHS Foundation Trust and the 
+University of Bristol, Bristol, United Kingdom.
+(99)Department of Biostatistics, Fielding School of Public Health, University of 
+California, Los Angeles, Los Angeles, United States.
+(100)Novo Nordisk Research Centre, Oxford, United Kingdom.
+
+Comment in
+    doi: 10.7554/eLife.78693.
+
+BACKGROUND: Epigenetic clocks have been associated with cancer risk in several 
+observational studies. Nevertheless, it is unclear whether they play a causal 
+role in cancer risk or if they act as a non-causal biomarker.
+METHODS: We conducted a two-sample Mendelian randomization (MR) study to examine 
+the genetically predicted effects of epigenetic age acceleration as measured by 
+HannumAge (nine single-nucleotide polymorphisms (SNPs)), Horvath Intrinsic Age 
+(24 SNPs), PhenoAge (11 SNPs), and GrimAge (4 SNPs) on multiple cancers (i.e. 
+breast, prostate, colorectal, ovarian and lung cancer). We obtained genome-wide 
+association data for biological ageing from a meta-analysis (N = 34,710), and 
+for cancer from the UK Biobank (N cases = 2671-13,879; N controls = 
+173,493-372,016), FinnGen (N cases = 719-8401; N controls = 74,685-174,006) and 
+several international cancer genetic consortia (N cases = 11,348-122,977; N 
+controls = 15,861-105,974). Main analyses were performed using multiplicative 
+random effects inverse variance weighted (IVW) MR. Individual study estimates 
+were pooled using fixed effect meta-analysis. Sensitivity analyses included 
+MR-Egger, weighted median, weighted mode and Causal Analysis using Summary 
+Effect Estimates (CAUSE) methods, which are robust to some of the assumptions of 
+the IVW approach.
+RESULTS: Meta-analysed IVW MR findings suggested that higher GrimAge 
+acceleration increased the risk of colorectal cancer (OR = 1.12 per year 
+increase in GrimAge acceleration, 95% CI 1.04-1.20, p = 0.002). The direction of 
+the genetically predicted effects was consistent across main and sensitivity MR 
+analyses. Among subtypes, the genetically predicted effect of GrimAge 
+acceleration was greater for colon cancer (IVW OR = 1.15, 95% CI 1.09-1.21, p = 
+0.006), than rectal cancer (IVW OR = 1.05, 95% CI 0.97-1.13, p = 0.24). Results 
+were less consistent for associations between other epigenetic clocks and 
+cancers.
+CONCLUSIONS: GrimAge acceleration may increase the risk of colorectal cancer. 
+Findings for other clocks and cancers were inconsistent. Further work is 
+required to investigate the potential mechanisms underlying the results.
+FUNDING: FMB was supported by a Wellcome Trust PhD studentship in Molecular, 
+Genetic and Lifecourse Epidemiology (224982/Z/22/Z which is part of grant 
+218495/Z/19/Z). KKT was supported by a Cancer Research UK (C18281/A29019) 
+programme grant (the Integrative Cancer Epidemiology Programme) and by the 
+Hellenic Republic's Operational Programme 'Competitiveness, Entrepreneurship & 
+Innovation' (OΠΣ 5047228). PH was supported by Cancer Research UK 
+(C18281/A29019). RMM was supported by the NIHR Biomedical Research Centre at 
+University Hospitals Bristol and Weston NHS Foundation Trust and the University 
+of Bristol and by a Cancer Research UK (C18281/A29019) programme grant (the 
+Integrative Cancer Epidemiology Programme). RMM is a National Institute for 
+Health Research Senior Investigator (NIHR202411). The views expressed are those 
+of the author(s) and not necessarily those of the NIHR or the Department of 
+Health and Social Care. GDS and CLR were supported by the Medical Research 
+Council (MC_UU_00011/1 and MC_UU_00011/5, respectively) and by a Cancer Research 
+UK (C18281/A29019) programme grant (the Integrative Cancer Epidemiology 
+Programme). REM was supported by an Alzheimer's Society project grant 
+(AS-PG-19b-010) and NIH grant (U01 AG-18-018, PI: Steve Horvath). RCR is a de 
+Pass Vice Chancellor's Research Fellow at the University of Bristol.
+
+Plain Language Summary: Have you noticed that some people seem to get older 
+faster than others? Scientists have previously found that a chemical tag on DNA 
+known as DNA methylation can be used to predict an individual’s chronological 
+age. However, age predicted using DNA methylation (also known as biological or 
+epigenetic age) does not always perfectly correspond to chronological age. 
+Indeed, some people’s biological age is higher than their years, while other 
+people’s is lower. When an individual’s biological age is higher than their 
+chronological age, they are said to be experiencing ‘epigenetic age 
+acceleration’. This type of accelerated ageing, which can be measured with 
+‘epigenetic clocks’ based on DNA methylation, has been associated with several 
+adverse health outcomes, including cancer. This means that epigenetic clocks may 
+improve our ability to predict cancer risk and detect cancer early. However, it 
+is still unclear whether accelerated biological ageing causes cancer, or whether 
+it simply correlates with the disease. Morales-Berstein et al. wanted to 
+investigate whether epigenetic age acceleration, as measured by epigenetic 
+clocks, plays a role in the development of several cancers. To do so, they used 
+an approach known as Mendelian randomization. Using genetic variants as natural 
+experiments, they studied the effect of different measures of epigenetic age 
+acceleration on cancer risk. Their work focused on five types of cancer: breast, 
+colorectal, prostate, ovarian and lung cancer. They used genetic association 
+data from people of European ancestry to determine whether genetic variants that 
+are strongly associated with accelerated ageing are also strongly associated 
+with cancer. The results showed that one of the DNA methylation markers used as 
+an estimate of biological ageing could be directly related to the risk of 
+developing colorectal cancer. This work provides new insights into the 
+relationship between markers of biological ageing and cancer. Similar 
+relationships should also be studied in other groups of people and for other 
+cancer sites. The results suggest that reversing biological ageing by altering 
+DNA methylation could prevent or delay the development of colorectal cancer.
+
+© 2022, Morales Berstein et al.
+
+DOI: 10.7554/eLife.75374
+PMCID: PMC9049976
+PMID: 35346416 [Indexed for MEDLINE]
+
+Conflict of interest statement: FM, DM, KT, EB, PH, KB, AP, DB, IC, RM, GD, TR, 
+RR No competing interests declared, AL declares that UC Regents filed the patent 
+"DNA METHYLATION BASED BIOMARKERS FOR LIFE EXPECTANCY AND MORBIDITY" 
+(International Application Number PCT/US2019/055444; in pending status) and that 
+the Epigenetic Clock Development Foundation and Foxo Labs hold licenses, CR 
+declares that UC Regents filed the patent "DNA METHYLATION BASED BIOMARKERS FOR 
+LIFE EXPECTANCY AND MORBIDITY" (International Application Number 
+PCT/US2019/055444; in pending status) and that the Epigenetic Clock Development 
+Foundation and Foxo Labs hold licenses. SH receives consulting fees from the 
+Epigenetic Clock Development Foundation and royalties for patents involving 
+epigenetic clocks, SH has received a speaker fee from Illumina and is an advisor 
+to the Epigenetic Clock Development Foundation, RM is employed part time by Novo 
+Nordisk outside of this work
+
+
+602. J Sci Med Sport. 2022 Jun;25(6):505-510. doi: 10.1016/j.jsams.2022.03.007.
+Epub  2022 Mar 16.
+
+Motor competence across the life span: A cross-sectional study of Iranians aged 
+5 to 85 years.
+
+Shamsipour Dehkordi P(1), Hardy LL(2), Shams A(3), Sohrabi F(1).
+
+Author information:
+(1)Department of Motor Behaviour, Faculty of Sport Sciences, Alzahra University, 
+Iran.
+(2)Prevention Research Collaboration, Sydney School of Public Health, The 
+University of Sydney, Australia. Electronic address: louise.hardy@sydney.edu.au.
+(3)Motor Behaviour Department, Sport Sciences Research Institute (SSRI) of Iran, 
+Iran.
+
+OBJECTIVES: To measure motor competence among a representative sample of 
+Iranians aged 5-85 years.
+DESIGN: Cross-sectional.
+METHODS: Motor competence was assessed quantitatively by the Test of Motor 
+Competence; two fine motor skills (placing and building bricks) and two gross 
+motor skills (heel-to-toe-walking and walking/running in slopes) to assess 
+dynamic balance. Task scores were summed and transformed into standardized 
+scores (z-scores). Data were stratified by 12 chronological age groups and sex.
+RESULTS: Participants were 500 Iranians aged 5-85 years (females = 64%, age 
+5-35 years = 82%). There were significant age differences in motor competence 
+and the distribution between age and z-score distribution was u-shaped. Between 
+childhood and adolescence there was a rapid improvement in motor competence with 
+maximal speed (-2 standard deviations) occurring among 19-25-year-olds. For each 
+decade after age 25 years, z-scores progressively decreased approximately 1 
+standard deviations until age ≥56 years when performance decreased to 
+approximately the same speeds as children (> +3 standard deviations). Sex 
+differences were observed between children and adolescents.
+CONCLUSIONS: The sample characteristics constrain the generalizability of our 
+findings. The Test of Motor Competence is easy to administer, uses a 
+standardized test battery for people aged 5-85 years, and the quantitative 
+outcome enables longitudinal monitoring of motor competence across the life 
+course. As life expectancy and the proportion of populations aged >65 years 
+increases, understanding how to maintain health in older age is an important 
+public health issue in 21st century.
+
+Copyright © 2022 Sports Medicine Australia. All rights reserved.
+
+DOI: 10.1016/j.jsams.2022.03.007
+PMID: 35346580 [Indexed for MEDLINE]
+
+
+603. Environ Res. 2022 Sep;212(Pt A):113172. doi: 10.1016/j.envres.2022.113172.
+Epub  2022 Mar 25.
+
+Impact of high, low, and non-optimum temperatures on chronic kidney disease in a 
+changing climate, 1990-2019: A global analysis.
+
+He L(1), Xue B(1), Wang B(1), Liu C(1), Gimeno Ruiz de Porras D(2), Delclos 
+GL(2), Hu M(3), Luo B(4), Zhang K(5).
+
+Author information:
+(1)Institute of Occupational Health and Environmental Health, School of Public 
+Health, Lanzhou University, Lanzhou, Gansu, 730000, People's Republic of China.
+(2)Department of Epidemiology, Human Genetics and Environmental Sciences, School 
+of Public Health, The University of Texas Health Science Center at Houston, 
+Houston, TX, 77030, USA; Southwest Center for Occupational and Environmental 
+Health, School of Public Health, The University of Texas Health Science Center 
+at Houston, Houston, TX, 77030, USA.
+(3)School of Architecture, Planning and Preservation, University of Maryland, 
+College Park, MD, 20742, USA.
+(4)Institute of Occupational Health and Environmental Health, School of Public 
+Health, Lanzhou University, Lanzhou, Gansu, 730000, People's Republic of China. 
+Electronic address: luob@lzu.edu.cn.
+(5)Department of Environmental Health Sciences, School of Public Health, 
+University at Albany, State University of New York, One University Place, 
+Rensselaer, NY, 12144, USA. Electronic address: kzhang9@albany.edu.
+
+BACKGROUND: Although a few studies have reported the relationship between high 
+and low temperatures and chronic kidney disease (CKD), the global burden of CKD 
+attributable to extreme heat and cold in recent decades remains unknown.
+METHODS: Based on the Global Burden of Disease Study (GBD) 2019, we obtained 
+data on age-standardized mortality rates (ASMR) and age-standardized rates of 
+disability-adjusted life years (ASDR) per 100 000 population of the CKD 
+attributable to non-optimum temperatures from 1990 to 2019. The annual mean 
+temperature of each country was used to divide each country into five climate 
+zones (tropical, subtropical, warm-temperate, cool-temperate, and boreal). The 
+locally weighted regression model was used to estimate the burden for different 
+climate zones and Socio-demographic index (SDI) regions.
+RESULTS: In 1990, the ASMR and ASDR due to high temperature estimated -0.01 (95% 
+UI, -0.74 to 0.44) and -0.32 (-21.66 to 12.66) per 100 000 population, 
+respectively. In 2019, the ASMR and ASDR reached 0.10 (-0.28 to 0.38) and 2.71 
+(-8.07 to 10.46), respectively. The high-temperature burden increased most 
+rapidly in tropical and low SDI regions. There were 0.99 (0.59 to 1.39) ASMR 
+attributable to low-temperature in 1990, which increased to 1.05 (0.61-1.49) in 
+2019. While the ASDR due to low temperature declined from 22.03 (12.66 to 30.64) 
+in 1990 to 20.43 (11.30 to 29.26) in 2019. Overall, the burden of CKD 
+attributable to non-optimal temperatures has increased from 1990 to 2019. CKD 
+due to hypertension and diabetes mellitus were the primary causes of CKD death 
+attributable to non-optimum temperatures in 2019 with males and older adults 
+being more susceptible to these temperatures.
+CONCLUSIONS: The CKD burden due to high, low, and non-optimum temperatures 
+varies considerably by regions and countries. The burden of CKD attributable to 
+high temperature has been increasing since 1990.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.envres.2022.113172
+PMCID: PMC9907637
+PMID: 35346653 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+604. BMJ Open Diabetes Res Care. 2022 Mar;10(2):e002557. doi: 
+10.1136/bmjdrc-2021-002557.
+
+Comparison of cognitive function in older adults with type 1 diabetes, type 2 
+diabetes, and no diabetes: results from the Study of Longevity in Diabetes 
+(SOLID).
+
+Lacy ME(1)(2), Moran C(3), Gilsanz P(2), Beeri MS(4)(5), Karter AJ(2), Whitmer 
+RA(2)(6).
+
+Author information:
+(1)Department of Epidemiology, University of Kentucky, Lexington, Kentucky, USA 
+mary.lacy@uky.edu.
+(2)Division of Research, Kaiser Permanente, Oakland, California, USA.
+(3)Academic Unit, Peninsula Clinical School, Monash University Central Clinical 
+School, Melbourne, Victoria, Australia.
+(4)Icahn School of Medicine at Mount Sinai, New York City, New York, USA.
+(5)Joseph Sagol Neuroscience, Sheba Medical Center, Tel Hashomer, Israel.
+(6)Department of Epidemiology, University of California Davis School of 
+Medicine, Davis, California, USA.
+
+INTRODUCTION: The incidence of both type 1 diabetes (T1D) and type 2 diabetes 
+(T2D) is increasing. Life expectancy is improving in T1D, resulting in a growing 
+population of elderly adults with diabetes. While it is well established that 
+older adults with T2D are at increased risk of cognitive impairment, little is 
+known regarding cognitive aging in T1D and how their cognitive profiles may 
+differ from T2D.
+RESEARCH DESIGN AND METHODS: We compared baseline cognitive function and low 
+cognitive function by diabetes status (n=734 T1D, n=232 T2D, n=247 without 
+diabetes) among individuals from the Study of Longevity in Diabetes (mean 
+age=68). We used factor analysis to group cognition into five domains and a 
+composite measure of total cognition. Using linear and logistic regression 
+models, we examined the associations between diabetes type and cognitive 
+function, adjusting for demographics, comorbidities, depression, and sleep 
+quality.
+RESULTS: T1D was associated with lower scores on total cognition, language, 
+executive function/psychomotor processing speed, and verbal episodic memory, and 
+greater odds of low executive function/psychomotor processing speed (OR=2.99, 
+95% CI 1.66 to 5.37) and verbal episodic memory (OR=1.92, 95% CI 1.07 to 3.46), 
+compared with those without diabetes. T2D was associated with lower scores on 
+visual episodic memory. Compared with T2D, T1D was associated with lower scores 
+on verbal episodic memory and executive function/psychomotor processing speed 
+and greater odds of low executive function/psychomotor processing speed 
+(OR=1.74, 95% CI 1.03 to 2.92).
+CONCLUSIONS: Older adults with T1D had significantly poorer cognition compared 
+with those with T2D and those without diabetes even after accounting for a range 
+of comorbidities. Future studies should delineate how to reduce risk in this 
+vulnerable population who are newly surviving to old age.
+
+© Author(s) (or their employer(s)) 2022. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjdrc-2021-002557
+PMCID: PMC8961108
+PMID: 35346969 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+605. Anticancer Res. 2022 Apr;42(4):1965-1972. doi: 10.21873/anticanres.15674.
+
+Photon-based High-dose Single-fraction Radiosurgery, an Effective Treatment 
+Modality for Large and Posterior Uveal Melanoma.
+
+Laliscia C(1), Genovesi-Ebert F(2), Perrone F(3), Guido F(2), Cresti F(2), 
+Fuentes T(4), Coccia N(4), Mattioni R(4), Morganti R(5), Paiar F(4).
+
+Author information:
+(1)Department of New Technologies and Translational Research, Division of 
+Radiation Oncology, University Hospital of Pisa, Pisa, Italy; 
+c.laliscia@ao-pisa.toscana.it concettalaliscia@gmail.com.
+(2)Department of Ophthalmic Surgery, Division of Ophthalmic Surgery, University 
+Hospital of Pisa, Pisa, Italy.
+(3)Department of Medical Physics, Division of Medical Physics, University 
+Hospital of Pisa, Pisa, Italy.
+(4)Department of New Technologies and Translational Research, Division of 
+Radiation Oncology, University Hospital of Pisa, Pisa, Italy.
+(5)Department of Clinical and Experimental Medicine, Section of Statistics, 
+University of Pisa, Pisa, Italy.
+
+BACKGROUND/AIM: Uveal melanoma (UM) is the most common primary intraocular 
+malignant tumor. This malignancy is frequently treated using brachytherapy, 
+stereotactic radiotherapy, or proton therapy. The objective of this study was to 
+assess the role of stereotactic radiosurgery in the treatment of large and 
+posterior UM.
+PATIENTS AND METHODS: From January 2014 to July 2021, we treated 65 patients 
+(median age=71 years; range=31-89 years) affected by UM. Inclusion criteria were 
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) ≤2, life 
+expectancy >6 months, tumor thickness >10 mm, diameter >16 mm or posterior UM. 
+The treatment was delivered with a True Beam™ LINAC with arc modulation 
+technique. All patients received 27 Gy in one fraction (biological effective 
+dose ≈100 Gy, assuming an α/β of 10).
+RESULTS: The median follow-up was 36 (range=3-90) months. Acute toxicities were 
+reported in 14 patients, whereas late toxicity occurred in 45 (69.2%). Fifteen 
+patients (23.0%) underwent enucleation: eight (12.3%) for failure of local 
+control and seven (10.7%) for late treatment co-morbidities. The 5-year local 
+control, and progression-free, metastasis-free, enucleation-free, and overall 
+survival rates were 80%, 43%, 62%, 65% and 56%, respectively. In multivariate 
+analysis, tumor dimensions significantly influenced survival [larger basal 
+diameter: progression-free [hazard ratio (HR)=2.42] and overall (HR=2.61) 
+survival; greater thickness: overall survival (HR=2.36)]. In multivariate 
+analysis, patients without local control had a higher risk of distant metastasis 
+(HR=3.25).
+CONCLUSION: Stereotactic radiosurgery offers an effective and safe approach for 
+selected cases of UM due to the satisfactory results in terms of local control, 
+eye conservation and survival.
+
+Copyright © 2022 International Institute of Anticancer Research (Dr. George J. 
+Delinasios), All rights reserved.
+
+DOI: 10.21873/anticanres.15674
+PMID: 35347016 [Indexed for MEDLINE]
+
+
+606. Clin Transl Gastroenterol. 2022 May 1;13(5):e00481. doi: 
+10.14309/ctg.0000000000000481.
+
+Incidence Trends of Inflammatory Bowel Disease in a Southern European Country: A 
+Mirror of the Western World?
+
+Santiago M(1)(2), Stocker F(3), Ministro P(2)(4), Gonçalves R(2)(5), Carvalho 
+D(2)(6), Portela F(2)(7), Correia L(2)(8), Lago P(2)(9), Trindade E(2)(10), Dias 
+CC(1)(11), Magro F(1)(2)(3)(12)(13).
+
+Author information:
+(1)Center for Health Technology and Services Research (CINTESIS), Porto, 
+Portugal.
+(2)Portuguese Inflammatory Bowel Disease Study Group (GEDII), Porto, Portugal.
+(3)Department of Biomedicine, Unit of Pharmacology and Therapeutics, Faculty of 
+Medicine, University of Porto, Porto, Portugal.
+(4)Department of Gastroenterology, Tondela-Viseu Hospital Center, Viseu, 
+Portugal.
+(5)Department of Gastroenterology, Braga Hospital, Braga, Portugal.
+(6)Department of Gastroenterology, Central Lisbon Hospital Center, Lisbon, 
+Portugal.
+(7)Department of Gastroenterology, Coimbra University Hospital Center, Coimbra, 
+Portugal.
+(8)Department of Gastroenterology and Hepatology, Northern Lisbon Hospital 
+Center, Lisbon, Portugal.
+(9)Department of Gastroenterology, Porto University Hospital Center, Porto, 
+Portugal.
+(10)Department of Pediatrics, São João University Hospital Center, Porto, 
+Portugal.
+(11)Department of Community Medicine, Information and Health Decision Sciences 
+(MEDCIDS), Faculty of Medicine, University of Porto, Porto, Portugal.
+(12)Department of Gastroenterology, São João University Hospital Center, Porto, 
+Portugal.
+(13)Clinical Pharmacology Unit, São João University Hospital Center, Porto, 
+Portugal.
+
+INTRODUCTION: Inflammatory bowel disease (IBD) affects people from all age 
+categories worldwide. Although the incidence of the disease is stabilizing or 
+decreasing in most Western world countries, its prevalence is still increasing 
+because of the rise in life expectancy and better disease management. This work 
+intends to identify the trends related to IBD incidence nationwide, analyzing 
+regional, sex, and age distributions.
+METHODS: Data were provided by the Portuguese Shared Services of the Ministry of 
+Health. This study consisted of a retrospective analysis of all first 
+consultations coded for "Chronic enteritis/ulcerative colitis" (D94) in a 
+primary healthcare setting, between 2017 and 2020, in Portugal. The primary 
+outcome measure was the IBD incidence rate per 100,000 inhabitants. We also 
+calculated the incidence rate per person-year and forecasted incidence until 
+2024.
+RESULTS: Between 2017 and 2019, the incidence rate of IBD in Portugal decreased 
+from 54.9 to 48.6 per 100,000 inhabitants. The average incidence was 20 new 
+cases of IBD per 1,000 person-year. It was predicted that, in December 2023, IBD 
+incidence would reach 305.4 new cases (95% Prediction Interval 156.6-454.3), a 
+similar result to the values forecasted for December 2021 (305.4, 95% Prediction 
+Interval 197.3-413.6).
+DISCUSSION: The incidence of IBD slightly declined from 2017 to 2019, and it is 
+posed to stabilize in the future. The presented data are of the utmost 
+importance for the characterization of IBD in Southern European countries and 
+the establishment of future health policies in the setting of compounding 
+prevalence in the Western world.
+
+Copyright © 2022 The Author(s). Published by Wolters Kluwer Health, Inc. on 
+behalf of The American College of Gastroenterology.
+
+DOI: 10.14309/ctg.0000000000000481
+PMCID: PMC9132531
+PMID: 35347090 [Indexed for MEDLINE]
+
+Conflict of interest statement: Guarantor of the article: Fernando Magro, MD. 
+Specific author contributions: Mafalda Santiago, BSc, and Francisco Stocker, 
+MSc, contributed equally to this work. M.S. and F.S. were involved in data 
+analysis, interpretation, and manuscript drafting; C.C.D. was involved in data 
+interpretation and manuscript revision; F.M. coordinated the study's conception 
+and design and was involved in data interpretation and manuscript revision. 
+P.M., R.G., D.C., F.P., and L.C. were involved in data interpretation and 
+manuscript revision. All authors approved the final version of the manuscript. 
+Financial support: This work was supported by the Portuguese Study Group of 
+Inflammatory Bowel Disease (GEDII). Potential competing interests: F.M. served 
+as a speaker and received honoraria from Merck Sharp & Dohme, AbbVie, Vifor, 
+Falk, Laboratórios Vitória, Ferring, Hospira, and Biogen. The other authors have 
+no conflicts of interest to disclose. Data availability statement: The data 
+underlying this article will be shared at reasonable request to the 
+corresponding author.
+
+
+607. Qual Life Res. 2022 Oct;31(10):2939-2957. doi: 10.1007/s11136-022-03119-w.
+Epub  2022 Mar 26.
+
+Knowledge translation concerns for the CONSORT-PRO extension reporting guidance: 
+a review of reviews.
+
+Mercieca-Bebber R(1), Aiyegbusi OL(2)(3), King MT(4), Brundage M(5), Snyder 
+C(6), Calvert M(2)(4).
+
+Author information:
+(1)NHMRC Clinical Trials Centre, Faculty of Medicine and Health, University of 
+Sydney, Sydney, Australia. rebecca.mercieca@sydney.edu.au.
+(2)Centre for Patient Reported Outcomes Research, and Birmingham Health Partners 
+Centre for Regulatory Science and Innovation, Institute of Applied Health 
+Research, University of Birmingham, and University Hospitals Birmingham NHS 
+Foundation Trust, Birmingham, UK.
+(3)National Institute for Health Research (NIHR) Birmingham Biomedical Research 
+Centre, NIHR Surgical Reconstruction and Microbiology Research Centre, NIHR 
+Applied Research Centre West Midlands, University of Birmingham, Birmingham, UK.
+(4)School of Psychology, Faculty of Science, University of Sydney, Sydney, 
+Australia.
+(5)Cancer Care and Epidemiology, Department of Oncology, Cancer Research 
+Institute, Queen's University, Kingston, ON, Canada.
+(6)Johns Hopkins School of Medicine and Bloomberg School of Public Health, 
+Baltimore, MD, USA.
+
+This review of reviews aimed to appraise the use of the CONSORT-PRO Extension as 
+an evaluation tool for assessing the reporting of patient-reported outcome 
+(PROs) in publications, and to describe the reporting of PRO research across 
+reviews. We also outlined how variation in such evaluations impacts knowledge 
+translation and may lead to potential misuse of the CONSORT-PRO Extension. We 
+systematically searched Medline, Pubmed and CINAHL from 2013 to 2025 March 2021 
+for reviews of the completeness of reporting of PRO endpoints according to 
+CONSORT-PRO criteria. Two reviewers extracted details of each review, the 
+percentage of included studies that addressed each CONSORT-PRO item, and key 
+recommendations from each review. Fourteen reviews met inclusion criteria, and 
+only six of these used the full CONSORT-PRO checklist with minimal justified 
+modifications. The remaining eight studies made significant or unjustified 
+adjustments to the CONSORT-PRO Extension. Review studies also varied in how they 
+scored multi-component CONSORT-PRO items. CONSORT-PRO items were often 
+unreported in trial reports, and certain CONSORT-PRO items were reported less 
+often than others. The reporting of statistical approaches to dealing with 
+missing PRO data were poor in RCTs included in all 14 review articles. Studies 
+reviewing PRO publications often omitted recommended CONSORT-PRO items from 
+their evaluations, which may cause confusion among readers regarding how best to 
+report their PRO research according to the CONSORT-PRO extension. Many trials 
+published since CONSORT-PRO's release did not report recommended CONSORT-PRO 
+items, which may lead to misinterpretation and consequently to research waste.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s11136-022-03119-w
+PMCID: PMC9470606
+PMID: 35347521 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no competing interests 
+direcetly relevant to this work.
+
+
+608. Dig Dis Sci. 2022 Dec;67(12):5483-5492. doi: 10.1007/s10620-022-07482-z.
+Epub  2022 Mar 28.
+
+Patient-Predicted Outcomes Are Associated with Quality of Life in Patients with 
+Primary Sclerosing Cholangitis.
+
+Henson JB(1), Helzberg JH(2), Muir AJ(3).
+
+Author information:
+(1)Division of Gastroenterology, Department of Medicine, Duke University School 
+of Medicine, DUMC 3913, Durham, NC, 27710, USA. jackie.henson@duke.edu.
+(2)Department of Medicine, Duke University School of Medicine, Durham, NC, USA.
+(3)Division of Gastroenterology, Department of Medicine, Duke University School 
+of Medicine and Duke Clinical Research Institute, Durham, NC, USA.
+
+BACKGROUND: Primary sclerosing cholangitis (PSC) is a chronic, progressive liver 
+disease, and many patients ultimately require liver transplantation (LT). PSC 
+also confers an increased risk of malignancies, including cholangiocarcinoma 
+(CCA) and colorectal cancer.
+AIMS: This study aimed to evaluate patient-perceived outcomes and the extent to 
+which these impact health-related quality of life (HRQoL).
+METHODS: Patients with PSC completed a risk perception questionnaire, the Short 
+Form-36 (SF-36), and the Chronic Liver Disease Questionnaire. Multivariable 
+models were used to determine factors associated with patient-perceived risks of 
+malignancy, LT, and life expectancy, as well as their relationship with HRQoL 
+scores.
+RESULTS: A total of 95 patients completed the risk perception questionnaire, and 
+73 returned the remaining instruments. The estimated risks varied widely. Half 
+overestimated their one-year or lifetime CCA risk, while some predicted zero 
+chance. Predicted LT risk was the only outcome concordant with disease severity. 
+Pruritus was associated with higher predicted one-year risks and lower life 
+expectancy. Lifetime CCA and LT risks were associated with the SF-36 physical 
+component score, while perceived life expectancy was strongly associated with 
+mental health domains, including the SF-36 mental component score.
+CONCLUSIONS: Predicted prognosis varies widely among patients with PSC and is 
+influenced more by symptoms than objective disease severity. The psychological 
+burden of shorter perceived life expectancy impacts mental HRQoL more than the 
+risks of malignancy or LT. These findings highlight an opportunity for improved 
+patient communication regarding these outcomes, as well as the importance of 
+discussing them, as they may impact HRQoL.
+
+© 2022. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s10620-022-07482-z
+PMID: 35347534 [Indexed for MEDLINE]
+
+
+609. Isr Med Assoc J. 2022 Mar;24(3):144-150.
+
+Systolic Time Intervals for Diagnosis of Severe Aortic Stenosis.
+
+Mazin I(1)(2), Vaturi O(1)(2), Kuperstein R(1)(2), Beigel R(1)(2), Feinberg 
+M(1)(2), Ben Zekry S(1)(2).
+
+Author information:
+(1)Leviev Cardiothoracic and Vascular Center, Sheba Medical Center, Tel 
+Hashomer, Israel.
+(2)Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel.
+
+BACKGROUND: Estimated frequency of aortic stenosis (AS) in those over 75 years 
+of age is 3.4%. Symptomatic patients with severe AS have increased morbidity and 
+mortality and aortic valve replacement should be offered to improve life 
+expectancy and quality of life.
+OBJECTIVES: To identify whether systolic time intervals can identify severe AS.
+METHODS: The study comprised 200 patients (mean age 79 years, 55% men). Patients 
+were equally divided into normal, mild, moderate, or severe AS. All patients had 
+normal ejection fraction. Acceleration time (AT) was defined as the time from 
+the beginning of systolic flow to maximal velocity; ejection time (ET) was the 
+time from onset to end of systolic flow. The relation of AT/ET was calculated. 
+Death or aortic valve intervention were documented. AT increased linearly with 
+the severity of AS, similar to ET and AT/ET ratio (P for trend < 0.05 for all). 
+Receiver-operator characteristic curve analysis demonstrated that AT can 
+identify severe AS with a cutoff ≥ 108 msec with 100% sensitivity and 98% 
+specificity, while a cutoff of 0.34 when using AT/ET ratio can identify severe 
+AS with 96% sensitivity and 94% specificity. Multivariate analysis adjusting to 
+sex, stroke volume index, heart rate, and body mass index showed similar 
+results. Kaplan-Meier curve for AT ≥ 108 and AT/ET ≥ 0.34 predicted death or 
+aortic valve intervention in a 3-year follow-up.
+CONCLUSIONS: Acceleration time and AT/ET ratio are reliable measurements for 
+identifying patients with severe AS. Furthermore, AT and AT/ET were able to 
+predict aortic valve replacement or death.
+
+PMID: 35347925 [Indexed for MEDLINE]
+
+
+610. Isr Med Assoc J. 2022 Mar;24(3):175-178.
+
+The Cardiologist's Role in the Management of Patients with a Genitourinary 
+Cancer.
+
+Cirne F(1), Mukherjee SD(1), Pinthus J(1), Leong DP(1)(2).
+
+Author information:
+(1)Department of Medicine, McMaster University, Hamilton, Ontario, Canada.
+(2)Population Health Research Institute, McMaster University and Hamilton Health 
+Sciences, Hamilton, Ontario, Canada.
+
+Increased life expectancy due to improved cancer prognosis, shared determinants 
+(e.g., tobacco use), and cardiovascular toxicities related to cancer therapies, 
+including the adverse cardiometabolic effects of androgen deprivation therapy 
+for prostate cancer, make cardiovascular disease an frequent and important 
+co-morbidity in patients with a genitourinary malignancy. Complex cardiovascular 
+disease can pose significant challenges in the management of these patients 
+given the uncertainties related to the best approach to reconcile ischemic and 
+bleeding risks, and the role of invasive cardiovascular interventions in 
+individuals with advanced cancer. In this review, we discuss the current 
+evidence that informs decision-making in this clinical context.
+
+PMID: 35347931 [Indexed for MEDLINE]
+
+
+611. Perm J. 2021 Dec 14;25:20.286. doi: 10.7812/TPP/20.286.
+
+Life Expectancy Trends Among Integrated Health Care System Enrollees, 2014-2017.
+
+Finch T(1), Jonas MC(1)(2), Rubenstein K(1)(2), Watson E(1)(2), Basra S(1)(2), 
+Martinez J(1), Horberg M(1)(2).
+
+Author information:
+(1)Mid-Atlantic Permanente Medical Group, Rockville, MD.
+(2)Mid-Atlantic Permanente Research Institute, Rockville, MD.
+
+INTRODUCTION: The Centers for Disease Control and Prevention (CDC) has reported 
+downward trends in life expectancy and racial/ethnic differences between 2014 
+and 2017.
+OBJECTIVE: To determine the life expectancy of the Kaiser Permanente 
+Mid-Atlantic States (KPMAS) insured population as compared to the CDC National 
+Vital Statistics data from 2014 to 2017. We also aimed to highlight the 
+utilization of membership data to inform population statistical estimates such 
+as life expectancy. We examine whether national trends in life expectancy are 
+reflected in an insured population with relatively uniform access to care.
+METHODS: This retrospective, data only study examined life expectancy between 
+2014 and 2017. Data from electronic medical records and the National Death Index 
+were combined to construct complete life tables by race and sex for the KPMAS 
+population, which was compared to the CDC National Vital Statistics data.
+RESULTS: From 2014 to 2017, the overall KPMAS population life expectancy at 
+birth varied between 84.6 and 85.2 years compared to the CDC reported national 
+average of 78.6-78.9 years (p < 0.001). While the CDC dataset reported a 3.5- to 
+3.7-year life expectancy gap between non-Hispanic White and non-Hispanic Black 
+populations, in the KPMAS population, this gap was significantly smaller 
+(0.0-0.9 years). The gap in life expectancy between males and females was 
+consistent across KPMAS and the CDC data; however, overall KPMAS male and female 
+patient life expectancy was extended in comparison.
+CONCLUSION: Among members who disclosed their race/ethnicity, KPMAS Hispanic, 
+non-Hispanic Black, and non-Hispanic White members had significantly higher life 
+expectancies than the CDC dataset in all years reported.
+
+DOI: 10.7812/TPP/20.286
+PMCID: PMC8784056
+PMID: 35348069 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure Statement: The authors have no 
+conflicts of interest to disclose.
+
+
+612. J Forensic Sci. 2022 Jul;67(4):1476-1489. doi: 10.1111/1556-4029.15035. Epub
+ 2022 Mar 29.
+
+The influence of biological sex on latent fingermark aging as examined by the 
+color contrast technique.
+
+De Alcaraz-Fossoul J(1), Einfalt MR(1), Kammrath BW(1).
+
+Author information:
+(1)Forensic Science Department, Henry C. Lee College of Criminal Justice and 
+Forensic Science, University of New Haven, West Haven, Connecticut, USA.
+
+This research further expands previous studies in which color contrast between 
+ridges and furrows was examined as a possible age indicator for latent 
+fingermarks. Here, the variable biological sex and its influence on aging were 
+investigated. A total of 756 sebaceous-rich impressions from seven males and 
+seven females were deposited on glass and polystyrene plastic and aged in the 
+dark for three months. At nine discrete times, random fingermarks were 
+visualized with a titanium dioxide-based powder (TiO2 ), photographed, and 
+edited in Photoshop® to collect pixel color data. Two color contrast-related 
+metrics, mean color intensity (MI) and intensity amplitude (IA), were analyzed 
+to determine whether the aging processes of biological male and female 
+fingermarks were equivalent. These metrics revealed that impressions from the 
+different biological sexes behaved in a similar manner over time. However, 
+significant effects between substrates were observed. Quadratic regression 
+models best represented the aging trends based on the MI and IA metrics for both 
+male and female fingermarks. The correlation coefficients (R) and coefficients 
+of determination (R2 ) were moderate to strong for impressions on glass but 
+weaker for plastic. These findings indicated that biological male and female 
+fingermarks could be incorporated into a single universal age estimation model 
+per substrate when utilizing color contrast as an age indicator. Nonetheless, 
+future studies are needed to better understand aging processes on plastic when 
+using this methodology and to determine the life expectancy (i.e., the potential 
+for identification) of latent fingermarks beyond three months.
+
+© 2022 American Academy of Forensic Sciences.
+
+DOI: 10.1111/1556-4029.15035
+PMID: 35348199 [Indexed for MEDLINE]
+
+
+613. Arthritis Care Res (Hoboken). 2023 Mar;75(3):482-490. doi:
+10.1002/acr.24886.  Epub 2022 Nov 17.
+
+Loss of Productivity-Adjusted Life-Years in Working-Age Australians Due to Knee 
+Osteoarthritis: A Life-Table Modeling Approach.
+
+Jin X(1), Ackerman IN(2), Ademi Z(3).
+
+Author information:
+(1)Centre for Big Data Research in Health, University of New South Wales, 
+Sydney, New South Wales, Australia, and Sydney Musculoskeletal Health, The 
+University of Sydney, Camperdown, New South Wales, Australia.
+(2)School of Public Health and Preventive Medicine, Monash University, 
+Melbourne, Victoria, Australia.
+(3)School of Public Health and Preventive Medicine and Centre for Medicine Use 
+and Safety, Monash University, Melbourne, Victoria, Australia.
+
+OBJECTIVE: Productivity-adjusted life-years (PALYs) offers a novel approach for 
+quantifying the productivity burden of chronic conditions at the population 
+level over the working lifespan. This study was undertaken to estimate the 
+productivity burden of knee osteoarthritis (KOA) among working-age Australians, 
+defined as lost PALYs and lost gross domestic product (GDP).
+METHODS: A static life-table model was constructed to simulate the experiences 
+of working Australians (between the ages of 15-64 years) with KOA and those 
+without KOA, with follow-up to 65 years (retirement age), a 1-year cycle length, 
+and an annual discount rate of 5%. KOA prevalence data were obtained from the 
+2019 Global Burden of Diseases, Injuries, and Risk Factors study. Demographic 
+and mortality data were sourced from the Australian Bureau of Statistics. Health 
+utilities and productivity indices were derived from published sources. 
+Population-level losses in years of life, quality-adjusted life-years (QALYs), 
+and PALYs attributable to KOA were estimated by comparing estimates in the KOA 
+cohort to the no KOA cohort.
+RESULTS: In 2019, a total of 913,539 working-age Australians were estimated to 
+have KOA, with an overall prevalence of 5.5% (4.5% in men and 6.5% in women). By 
+retirement age, KOA was associated with 39,602 excess deaths, 125,651 years of 
+life lost, 1,938,059 QALYs lost, and 1,943,287 PALYs lost. The economic impact 
+of lost productivity due to KOA amounted to 424 billion Australian dollars in 
+lost GDP.
+CONCLUSION: Our modeling demonstrates a significant economic burden of KOA among 
+the working Australian population, with marked productivity loss. Our findings 
+highlight the need for public health funding and scalable population-level 
+strategies for effective KOA prevention and support to maintain productive 
+working.
+
+© 2022 The Authors. Arthritis Care & Research published by Wiley Periodicals LLC 
+on behalf of American College of Rheumatology.
+
+DOI: 10.1002/acr.24886
+PMID: 35348305 [Indexed for MEDLINE]
+
+
+614. Br J Radiol. 2022 Jul 1;95(1135):20211225. doi: 10.1259/bjr.20211225. Epub
+2022  May 5.
+
+Patients undergoing multiple (18)F-FDG PET/CT exams: Assessment of frequency, 
+dose and disease classification.
+
+Indrakanti S(1), Li X(1), Rehani MM(1).
+
+Author information:
+(1)Radiology department, Massachusetts General Hospital, Boston, MA, USA.
+
+OBJECTIVE: To analyse the frequency, demographics, primary disease and 
+cumulative effective dose of patients undergoing two or more 18F-FDG PET/CT 
+examinations in a year.
+METHODS: In a retrospective study performed at a tertiary-care hospital, 
+patients who underwent ≥2 18F-FDG PET/CT scans in a calendar year were 
+identified for two consecutive years. The CT radiation dose was calculated using 
+dose-length-product and sex-specific conversion factors. The primary malignancy 
+of patients was retrieved from electronic medical records.
+RESULTS: 10,714 18F-FDG PET/CT exams were performed for 6,831 unique patients in 
+2 years, yielding an average of 1.6 exams per patient. The maximum number of 
+18F-FDG PET/CT examinations any patient underwent in a single year was seven. 

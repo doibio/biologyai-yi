@@ -1,0 +1,1000 @@
+unrelated regression) that included interactions between TNM stage, age, and 
+surgical procedure to perform subgroup analysis.
+RESULTS: The sample was composed of 1591 patients, 963 who underwent laparoscopy 
+and 628 open surgery. Using propensity score and regression analysis, we found 
+that laparoscopy was associated with more QALYs and less resource use than open 
+surgery (0.0163 QALYs, 95% CI 0.0114-0.0212; and - €3461, 95% CI - 3337 to 
+- 3586). Costs were lower for laparoscopy in all subgroups. In the subgroups 
+younger than 80 years old, utility was higher in patients who underwent 
+laparoscopy. Nevertheless, open surgery had better outcomes in older patients in 
+stages I-II (0.0618 QALYs) and IV (0.5090 QALYs).
+CONCLUSION: Overall, laparoscopy appears to be dominant, resulting in more QALYs 
+and lower costs. Nevertheless, while laparoscopy required fewer resources in all 
+subgroups, outcomes may be negatively affected in elderly patients, representing 
+an opportunity for shared decision making between surgeons and patients. 
+ClinicalTrials.gov Identifier: NCT02488161.
+
+DOI: 10.1007/s00464-018-6250-9
+PMID: 29869084 [Indexed for MEDLINE]
+
+
+76. Environ Sci Pollut Res Int. 2018 Aug;25(23):23261-23275. doi: 
+10.1007/s11356-018-2357-8. Epub 2018 Jun 4.
+
+Leaf decomposition and nutrient release of three tree species in the 
+hydro-fluctuation zone of the Three Gorges Dam Reservoir, China.
+
+Wang C(1), Xie Y(1), Ren Q(1), Li C(2).
+
+Author information:
+(1)Key Laboratory of Eco-Environments in the Three Gorges Reservoir Region 
+(Ministry of Education), Chongqing Key Laboratory of Plant Ecology and Resources 
+in the Three Gorges Reservoir Region, School of Life Sciences, Southwest 
+University, Chongqing, 400715, China.
+(2)Key Laboratory of Eco-Environments in the Three Gorges Reservoir Region 
+(Ministry of Education), Chongqing Key Laboratory of Plant Ecology and Resources 
+in the Three Gorges Reservoir Region, School of Life Sciences, Southwest 
+University, Chongqing, 400715, China. lichangx@swu.edu.cn.
+
+In order to understand the effect of submergence on nutrient release of the 
+reforested tree leaves and assess the environmental risk of leaf decomposition 
+under submergence, the mass loss and nutrient release rates of three 
+reforestation tree species, Taxodium ascendens Brongn, Taxodium distichum (L.) 
+Rich., and Salix matsudana Koidz., at different elevation in the 
+hydro-fluctuation zone of the Three Gorges Dam Reservoir (TGDR) region were 
+tested in situ. Results showed that the initial macroelement contents of the 
+leaves of the three tree species varied among different elevations due to 
+different submergence stresses. All foliar mass loss rates of the three tree 
+species at 165 m a.s.l. were significantly higher than that at 175 m a.s.l. 
+(except that of S. matsudana at 165 m a.s.l.), after 179 days of incubation 
+commenced September 20. After 138 days of incubation commenced October 5, the 
+foliar mass loss rates of the three tree species at 170 m a.s.l. were 
+significantly higher than that at 175 m a.s.l. Moreover, the leaf mass loss 
+rates of S. matsudana were higher than the other two species when compared at 
+the same elevation of the same incubation period. In addition, foliar release 
+rates of N and Ca in T. ascendens, C, N, and Ca in T. distichum as well as Ca in 
+S. matsudana at 165 m a.s.l. after 179 days of incubation and at 170 m a.s.l. 
+after 138 days of incubation were significantly higher than that at 
+175 m a.s.l., respectively. Leaf mass loss rates of T. ascendens were 
+significantly correlated with its initial leaf K, Ca, and Mg contents. In 
+contrast, leaf mass loss rates of T. distichum had significant correlations with 
+the initial leaf P and K contents, as well as C/P and N/P ratios. However, the 
+mass loss rates of S. matsudana significantly correlated with initial leaf N, P, 
+and Ca contents and C/N, C/P, and N/P ratios. Foliar nutrient release rates, 
+especially the foliar release of C, N, and P of the three tree species, had 
+significant correlations with initial leaf C/P and N/P ratios. Our results 
+suggested that submergence facilitated the decomposition and nutrient release 
+rates of the leaves of the three woody species, especially the broad leaves of 
+S. matsudana, which may potentially cause secondary pollution to the water body 
+of the TGDR. Thus, we suggested that a sustainable harvest of leaves of the 
+reforested forest stands prior to submergence should be considered in the 
+hydro-fluctuation zone so as to protect the water quality of the TGDR.
+
+DOI: 10.1007/s11356-018-2357-8
+PMID: 29869211 [Indexed for MEDLINE]
+
+
+77. Biogerontology. 2018 Oct;19(5):341-365. doi: 10.1007/s10522-018-9759-3. Epub 
+2018 Jun 4.
+
+Applying parametric models to survival data: tradeoffs between statistical 
+significance, biological plausibility, and common sense.
+
+Golubev A(1), Panchenko A(2), Anisimov V(2).
+
+Author information:
+(1)N.N. Petrov Research Institute of Oncology, Pesochny-2, Saint-Petersburg, 
+197758, Russia. lxglbv@rambler.ru.
+(2)N.N. Petrov Research Institute of Oncology, Pesochny-2, Saint-Petersburg, 
+197758, Russia.
+
+Parametric models for survival data help to differentiate aging from other 
+lifespan determinants. However, such inferences suffer from small sizes of 
+experimental animal samples and variable animals handling by different labs. We 
+analyzed control data from a single laboratory where interventions in murine 
+lifespan were studied over decades. The minimal Gompertz model (GM) was found to 
+perform best with most murine strains. However, when several control datasets 
+related to a particular strain are fitted to GM, strikingly rigid 
+interdependencies between GM parameters emerge, consistent with the 
+Strehler-Mildvan correlation (SMC). SMC emerges even when survival patterns do 
+not conform to GM, as with cancer-prone HER2/neu mice, which die at a 
+log-normally distributed age. Numerical experiments show that SMC includes an 
+artifact whose magnitude depends on dataset deviation from conformance to GM 
+irrespectively of the noisiness of small datasets, another contributor to SMC. 
+Still another contributor to SMC is the compensation effect of mortality (CEM): 
+a real tradeoff between the physiological factors responsible for initial 
+vitality and the rate of its decline. To avoid misinterpretations, we advise 
+checking experimental results against a SMC based on historical controls or on 
+subgroups obtained by randomization of control animals. An apparent acceleration 
+of aging associated with a decrease in the initial mortality is invalid if it is 
+not greater than SMC suggests. This approach applied to published data suggests 
+that the effects of calorie restriction and of drugs believed to mimic it are 
+different. SMC and CEM relevance to human survival patterns is discussed.
+
+DOI: 10.1007/s10522-018-9759-3
+PMID: 29869230 [Indexed for MEDLINE]
+
+
+78. Am J Trop Med Hyg. 2018 Aug;99(2):404-412. doi: 10.4269/ajtmh.17-0922. Epub
+2018  May 31.
+
+Snakebite: An Exploratory Cost-Effectiveness Analysis of Adjunct Treatment 
+Strategies.
+
+Herzel BJ(1)(2), Samuel SP(3)(4), Bulfone TC(5)(6), Raj CS(4), Lewin M(5)(6), 
+Kahn JG(1).
+
+Author information:
+(1)Philip R. Lee Institute for Health Policy Studies, University of California, 
+San Francisco, San Francisco, California.
+(2)Loma Linda University School of Medicine, Loma Linda, California.
+(3)Queen Elizabeth Hospital, King's Lynn, United Kingdom.
+(4)TCR Multispecialty Hospital, Krishnagiri, Tamil Nadu, India.
+(5)California Academy of Sciences, San Francisco, California.
+(6)Ophirex, Inc., Corte Madera, California.
+
+The cost-effectiveness of the standard of care for snakebite treatment, 
+antivenom, and supportive care has been established in various settings. In this 
+study, based on data from South Indian private health-care providers, we address 
+an additional question: "For what cost and effectiveness values would adding 
+adjunct-based treatment strategies to the standard of care for venomous 
+snakebites be cost-effective?" We modeled the cost and performance of potential 
+interventions (e.g., pharmacologic or preventive) used adjunctively with 
+antivenom and supportive care for the treatment of snakebite. Because these 
+potential interventions are theoretical, we used a threshold cost-effectiveness 
+approach to explore this forward-looking concept. We examined economic 
+parameters at which these interventions could be cost-effective or even cost 
+saving. A threshold analysis was used to examine the addition of new 
+interventions to the standard of care. Incremental cost-effectiveness ratios 
+were used to compare treatment strategies. One-way, scenario, and probabilistic 
+sensitivity analyses were conducted to analyze parameter uncertainty and define 
+cost and effectiveness thresholds. Our results suggest that even a 3% reduction 
+in severe cases due to an adjunct strategy is likely to reduce the cost of 
+overall treatment and have the greatest impact on cost-effectiveness. In this 
+model, for example, an investment of $10 of intervention that reduces the 
+incidence of severe cases by 3%, even without changing antivenom usage patterns, 
+creates cost savings of $75 per individual. These findings illustrate the 
+striking degree to which an adjunct intervention could improve patient outcomes 
+and be cost-effective or even cost saving.
+
+DOI: 10.4269/ajtmh.17-0922
+PMCID: PMC6090346
+PMID: 29869597 [Indexed for MEDLINE]
+
+
+79. J Mol Model. 2018 Jun 5;24(7):151. doi: 10.1007/s00894-018-3696-6.
+
+In silico identification of AChE and PARP-1 dual-targeted inhibitors of 
+Alzheimer's disease.
+
+Hu XM(1)(2), Dong W(2), Cui ZW(2), Gao CZ(2), Yu ZJ(2), Yuan Q(2)(3)(4), Min 
+ZL(5)(6)(7).
+
+Author information:
+(1)College of Pharmacy, Shanghai University of Medicine & Health Sciences, 
+Shanghai, China.
+(2)Department of Pharmacy, College of Medicine, Wuhan University of Science and 
+Technology, Wuhan, Hubei Province, China.
+(3)Hubei Province Key Laboratory of Occupational Hazard Identification and 
+Control, Wuhan University of Science and Technology, Wuhan, Hubei Province, 
+China.
+(4)New Drugs Innovation and Development Institute, Department of Pharmacy, 
+College of Medicine, Wuhan University of Science and Technology, Wuhan, Hubei 
+Province, China.
+(5)Department of Pharmacy, College of Medicine, Wuhan University of Science and 
+Technology, Wuhan, Hubei Province, China. minzhenli@wust.edu.cn.
+(6)Hubei Province Key Laboratory of Occupational Hazard Identification and 
+Control, Wuhan University of Science and Technology, Wuhan, Hubei Province, 
+China. minzhenli@wust.edu.cn.
+(7)New Drugs Innovation and Development Institute, Department of Pharmacy, 
+College of Medicine, Wuhan University of Science and Technology, Wuhan, Hubei 
+Province, China. minzhenli@wust.edu.cn.
+
+Alzheimer's disease (AD) is a chronic neurodegenerative disease of the elderly 
+that seriously affects the quality of life and the life expectancy of those 
+affected. There is, as yet, no effective drug treatment of AD, although several 
+acetylcholinesterase (AChE) inhibitors and a glutamate antagonist can provide 
+relief from its symptoms. Recent studies have indicated that the overactivation 
+of poly(ADP-ribose) polymerase-1 (PARP-1) may promote nerve cell death in the 
+brains of AD patients, implying that PARP-1 inhibition may have therapeutic 
+value for the treatment of AD. Therefore, it is important to investigate novel 
+agents with both AChE- and PARP-1-inhibitory bioactivities. In this study, the 
+structure-based virtual screening of PARP-1 inhibitors was performed to search 
+for potential agents with high affinities for AChE. The dynamic stability of the 
+selected AChE-ligand complexes was investigated by molecular dynamics (MD) 
+simulation. Two compounds, CID57390505 and CID71605390, showed high affinities 
+for and stability in complex with AChE in docking and MD simulations. Thus, our 
+in silico research identified two compounds with AChE and PARP-1 dual-targeted 
+activities, indicating that this technique could aid attempts to develop more 
+potent agents against AD.
+
+DOI: 10.1007/s00894-018-3696-6
+PMID: 29869722 [Indexed for MEDLINE]
+
+
+80. Clin Exp Nephrol. 2019 Feb;23(2):151-157. doi: 10.1007/s10157-018-1588-9.
+Epub  2018 Jun 5.
+
+Molecular mechanisms underlying uremic toxin-related systemic disorders in 
+chronic kidney disease: focused on β(2)-microglobulin-related amyloidosis and 
+indoxyl sulfate-induced atherosclerosis-Oshima Award Address 2016.
+
+Yamamoto S(1).
+
+Author information:
+(1)Division of Clinical Nephrology and Rheumatology, Niigata University Graduate 
+School of Medical and Dental Sciences, 1-757 Asahimachi-dori, Niigata, 951-8510, 
+Japan. yamamots@med.niigata-u.ac.jp.
+
+Uremic toxins are linked to chronic kidney disease (CKD)-related systemic 
+diseases. β2-Microglobulin (β2-m), a water-soluble, middle-sized molecule, is 
+associated with mortality and dialysis-related amyloidosis (DRA). DRA occurs in 
+long-term dialysis patients, with β2-m amyloid deposited mainly in 
+osteoarticular tissues. We investigated a model of β2-m amyloid fibril extension 
+at neutral pH in the presence of trifluoroethanol or sodium dodecyl sulfate. 
+Using this model, some biological molecules, including glycosaminoglycans and 
+lysophospholipids, were found to be chaperones for β2-m amyloid fibril 
+extension. Several protein-bound solutes, such as indoxyl sulfate (IS) and 
+p-cresyl sulfate, are independent risk factors for cardiovascular disease in CKD 
+patients, especially those undergoing dialysis. We investigated kidney 
+injury-induced acceleration of atherosclerosis in association with macrophage 
+phenotypic change to a proinflammatory state as well as increased IS deposition 
+in lesions in an animal model. IS directly induced macrophage inflammation and 
+impaired cholesterol efflux to high-density lipoprotein (HDL) in vitro. In 
+addition, a clinical study showed that HDL isolated from CKD patients induced 
+proinflammatory reactions and impaired cholesterol efflux to macrophages. These 
+findings suggest that protein-bound solutes, including IS, will induce 
+dysfunction of both macrophages and HDL in atherosclerotic lesions. To remove 
+uremic toxins efficiently, we demonstrated the potential efficacy of oral 
+charcoal adsorbent and hexadecyl-immobilized cellulose beads in hemodialysis 
+patients. These findings suggest that uremic toxins induce various CKD-related 
+systemic disorders, and further therapeutic strategies will be needed to reduce 
+uremic toxins enough and improve life expectancy in CKD patients.
+
+DOI: 10.1007/s10157-018-1588-9
+PMCID: PMC6510801
+PMID: 29869756 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICT OF INTEREST: All authors declared that 
+they have no conflict of interest. ETHICAL APPROVAL: This article does not 
+contain any original studies with human participants or animals performed by any 
+of the authors.
+
+
+81. Plant Cell Environ. 2018 Oct;41(10):2449-2462. doi: 10.1111/pce.13361. Epub
+2018  Jul 12.
+
+Ethylene promotes cadmium-induced root growth inhibition through EIN3 controlled 
+XTH33 and LSU1 expression in Arabidopsis.
+
+Kong X(1), Li C(1), Zhang F(1), Yu Q(2), Gao S(3), Zhang M(1), Tian H(1), Zhang 
+J(4), Yuan X(4), Ding Z(1).
+
+Author information:
+(1)Shandong University, The Key Laboratory of Plant Cell Engineering and 
+Germplasm Innovation, Ministry of Education, College of Life Science, Jinan, 
+China.
+(2)Liaocheng University, College of Life Sciences, Liaocheng, Shandong, China.
+(3)Qilu Normal University, College of Life Sciences, Jinan, Shandong, China.
+(4)Shandong University, Shandong Key Laboratory of Water Pollution Control and 
+Resource Reuse, School of Environmental Science and Engineering, Jinan, 
+Shandong, China.
+
+Cadmium (Cd) stress is one of the most serious heavy metal stresses limiting 
+plant growth and development. However, the molecular mechanisms underlying 
+Cd-induced root growth inhibition remain unclear. Here, we found that ethylene 
+signalling positively regulates Cd-induced root growth inhibition. Arabidopsis 
+seedlings pretreated with the ethylene precursor 
+1-aminocyclopropane-1-carboxylic acid exhibited enhanced Cd-induced root growth 
+inhibition, whereas the addition of the ethylene biosynthesis inhibitor 
+aminoethoxyvinyl glycine decreased Cd-induced root growth inhibition. 
+Consistently, ethylene-insensitive mutants, such as ein4-1, ein3-1 eil1-1 double 
+mutant, and EBF1ox, displayed an increased tolerance to Cd. Furthermore, we also 
+observed that Cd inhibited EIN3 protein degradation, a process that was 
+regulated by ethylene signalling. Genetic and biochemical analyses showed that 
+EIN3 enhanced root growth inhibition under Cd stress through direct binding to 
+the promoters and regulating the expression of XTH33 and LSU1, which encode key 
+regulators of cell wall extension and sulfur metabolic process, respectively. 
+Collectively, our study demonstrates that ethylene plays a positive role in 
+Cd-regulated root growth inhibition through EIN3-mediated transcriptional 
+regulation of XTH33 and LSU1 and provides a molecular framework for the 
+integration of environmental signals and intrinsic regulators in modulating 
+plant root growth.
+
+© 2018 John Wiley & Sons Ltd.
+
+DOI: 10.1111/pce.13361
+PMID: 29869796 [Indexed for MEDLINE]
+
+
+82. Ir Med J. 2018 Jan 10;111(1):672.
+
+Is Increasing Life Expectancy Leading To More Complexity?
+
+Johnson H(1), O'Farrell A(1), McKeown D(1), Sayers G(1), Hayes C(2), Beaton 
+D(1).
+
+Author information:
+(1)Health Intelligence Unit, Health and Wellbeing Directorate, HSE, Dublin 8.
+(2)Discipline of Public Health and Primary Care Institute of Population Health, 
+TCD, Russell Building, Tallaght Cross, Dublin 24.
+
+Life expectancy is increasing in Ireland, but whether this has resulted in 
+healthier life years among the elderly and its impact (if any) on hospital 
+services is unknown. The purpose of the study was to use routinely available 
+data to explore the relationship of age and indicators of clinical complexity in 
+acute hospitals over ten years. The study included all in-patients aged 65+ 
+years from the Hospital In-Patient Enquiry (HIPE) discharged between 2005 and 
+2014. Indicators of complexity included the Charlson index, overall length of 
+stay (LOS), intensive care unit LOS and deaths in hospital, analysed by the 
+major clinical classification software (CCS). Over the period, the number and 
+rate of admissions increased, especially among those aged 85+. Indicators of 
+patient complexity increased and LOS decreased. In-hospital mortality decreased 
+from 5.9% to 4.7%. Hospitals appear to be managing the emergency care of the 
+older and more complex patient more efficiently and with better outcomes.
+
+PMID: 29869853 [Indexed for MEDLINE]
+
+
+83. Ideggyogy Sz. 2017 Jan 30;70(1-2):33-41. doi: 10.18071/isz.70.0033.
+
+The evaluation of the relationship between risk factors and prognosis in 
+intracerebral hemorrhage patients.
+
+[Article in English]
+
+Senadim S (1), Cabalar M (2), Yayla V (2), Bulut A (2).
+
+Author information:
+(1)Department of Neurology, Bakırköy Education and Research Hospital for 
+Psychiatric and Neurological Diseases, Istanbul, Turkey.
+(2)Department of Neurology, Bakırköy Dr. Sadi Konuk Education and Research 
+Hospital, Istanbul, Turkey.
+
+BACKGROUND AND PURPOSE: Patients were assessed in terms of risk factors, 
+hematoma size and localization, the effects of spontaneous intracerebral 
+hemorrhage (ICH) on mortality and morbidity, and post-stroke depression.
+METHODS: The present study evaluated the demographic data, risk factors, and 
+neurological examinations of 216 ICH patients. The diagnosis, volume, 
+localization, and ventricular extension of the hematomas were determined using 
+computed tomography scans. The mortality rate through the first 30 days was 
+evaluated using ICH score and ICH grading scale. The Modified Rankin Scale (mRS) 
+was used to determine the dependency status and functional recovery of each 
+patient, and the Hamilton Depression Rating Scale was administered to assess the 
+psychosocial status of each patient.
+RESULTS: The mean age of the patients was 65.3±14.5 years. The most common 
+locations of the ICH lesions were as follows: lobar (28.3%), thalamus (26.4%), 
+basal ganglia (24.0%), cerebellum (13.9%), and brainstem (7.4%). The average 
+hematoma volume was 15.8±23.8 cm3; a ventricular extension of the hemorrhage 
+developed in 34.4% of the patients, a midline shift in 28.7%, and perihematomal 
+edema, as the most frequently occurring complication, in 27.8%. Over the 6-month 
+follow-up period, 57.9% of patients showed a poor prognosis (mRS: ≥3), while 
+42.1% showed a good prognosis (mRS: <3). The mortality rate over the first 30 
+days was significantly higher in patients with a low Glasgow Coma Scale (GCS) 
+score at admission, a large hematoma volume, and ventricular extension of the 
+hemorrhage (p=0.0001). In the poor prognosis group, the presence of moderate 
+depression (39.13%) was significantly higher than in the good prognosis group 
+(p=0.0001).
+CONCLUSION: Determination and evaluation of the factors that could influence the 
+prognosis and mortality of patients with ICH is crucial for the achievement of 
+more effective patient management and improved quality of life.
+
+Publisher: BACKGROUND AND PURPOSE: A betegeket az alábbiak szerint értékeltük: 
+kockázati tényezők, a haematoma mérete és lokalizációja, a spontán 
+intracerebralis haematoma (ICH) hatása a mortalitásra, a morbiditásra és a 
+post-stroke depresszióra.
+METHODS: A vizsgálat 216, ICH-t szenvedett beteg demográfiai adatait, kockázati 
+tényezőit és neurológiai vizsgálati eredményeit elemezte. A haematoma 
+diagnózisát, méretét, lokalizációját és kamrai kiterjedését CT-vizsgálattal 
+határoztuk meg. Az első 30-on belüli mortalitási arányt az ICH-pontszám és az 
+ICH súlyossági skála alapján értékeltük. A módosított Rankin-skálát (mRS) 
+alkalmaztuk minden betegnél a függőségi állapot és a funkcionális javulás 
+meghatározásához, a pszichoszociális állapot megítéléséhez pedig a Hamilton-féle 
+Depresszió Skálát.
+RESULTS: A betegek átlagos életkora 65,3±14,5 év volt. Az ICH leggyakrabban az 
+alábbi lokalizációkban volt jelen: lobaris (28,3%), thalamicus (26,4%), basalis 
+ganglionbeli (24,0%), kisagyi (13,9%), agytörzsi (7,4%). A haematomák átlagos 
+volumene 15,8±23,8 cm3 volt, a haematoma a betegek 34,4%-ánál terjedt ki a 
+kamrára. Középvonali struktúrák eltolódása a betegek 28,7%-ánál, haematoma 
+körüli oedema pedig, mint a leggyakrabban előforduló szövődmény, 27,8%-uknál. A 
+hat hónapos követési időszak alatt a betegek 57,9%-a esetében bizonyult 
+kedvezőtlennek a prognózis (mRS≥3), kedvező prognózist (mRS<3) pedig 42,1%-nál 
+észleltünk. Az első 30 napra vonatkozó mortalitási arány szignifikánsan magasabb 
+volt a felvételkor kis GCS (Glasgow Coma Scale) -pontszámú betegek esetében, 
+továbbá nagy haematomavolumen és kamrai kiterjedés esetén (p=0,0001). A 
+kedvezőtlen prognózisú csoportban a közepes erősségű depresszió szignifikánsan 
+gyakrabban fordult elő (39,13%), mint a kedvező prognózisúak csoportjában 
+(p=0,0001).
+CONCLUSION: Intracerebralis haematoma esetén a prognózist és a mortalitást 
+befolyásolni képes faktorok meghatározása és értékelése döntő fontosságú a 
+hatékonyabb betegellátás és a jobb életminőség eléréséhez.
+
+DOI: 10.18071/isz.70.0033
+PMID: 29870191 [Indexed for MEDLINE]
+
+
+84. PLoS One. 2018 Jun 5;13(6):e0197665. doi: 10.1371/journal.pone.0197665. 
+eCollection 2018.
+
+Cancer risk in HIV patients with incomplete viral suppression after initiation 
+of antiretroviral therapy.
+
+Lee JS(1)(2), Cole SR(1)(3), Achenbach CJ(4), Dittmer DP(3)(5), Richardson 
+DB(1), Miller WC(6), Mathews C(7), Althoff KN(2), Moore RD(8), Eron JJ Jr(3)(9); 
+Center for AIDS Research (CFAR) Network of Integrated Clinical Systems (CNICS).
+
+Author information:
+(1)Department of Epidemiology, University of North Carolina at Chapel Hill, 
+Chapel Hill, North Carolina, United States of America.
+(2)Department of Epidemiology, Johns Hopkins University, Baltimore, Maryland, 
+United States of America.
+(3)Center for AIDS Research, University of North Carolina at Chapel Hill, Chapel 
+Hill, North Carolina, United States of America.
+(4)Department of Medicine, Division of Infectious Diseases, Center for Global 
+Health, Feinberg School of Medicine, Northwestern University, Chicago, Illinois, 
+United States of America.
+(5)Department of Microbiology and Immunology, Lineberger Comprehensive Cancer 
+Center, University of North Carolina at Chapel Hill, Chapel Hill, North 
+Carolina, United States of America.
+(6)Division of Epidemiology, The Ohio State University, Columbus, Ohio, United 
+States of America.
+(7)University of California, San Diego, California, United States of America.
+(8)Department of Medicine, Johns Hopkins University, Baltimore, Maryland, United 
+States of America.
+(9)Department of Medicine, University of North Carolina at Chapel Hill, Chapel 
+Hill, North Carolina, United States of America.
+
+BACKGROUND: Cancer causes significant morbidity and mortality among HIV patients 
+in the US due to extended life expectancy with access to effective 
+antiretroviral therapy. Low, detectable HIV RNA has been studied as a risk 
+factor for adverse health outcomes, but its clinical impact on cancer risk 
+remains unclear. The objective of this study was to determine whether HIV RNA 
+<1,000 copies/mL six months after starting therapy was associated with 10-year 
+first cancer risk.
+METHODS: We followed 7,515 HIV therapy initiators from a US-based multicenter 
+clinical cohort from 1998 to 2014. We used nonparametric multiple imputation to 
+account for viral loads that fell below assay detection limits, and categorized 
+viral loads six months after therapy initiation into four groups: <20, 20-199, 
+200-999, and >999 copies/mL. We calculated estimates of the cumulative incidence 
+of cancer diagnosis, accounting for death as a competing event. Inverse 
+probability of exposure and censoring weights were used to control for 
+confounding and differential loss to follow up, respectively.
+RESULTS: Crude 10-year first cancer risk in the study sample was 7.03% (95% CI: 
+6.08%, 7.98%), with the highest risk observed among patients with viral loads 
+between 200 and 999 copies/mL six months after ART initiation (10.7%). After 
+controlling for baseline confounders, 10-year first cancer risk was 6.90% (95% 
+CI: 5.69%, 8.12%), and was similar across viral load categories.
+CONCLUSION: Overall risk of first cancer was not associated with incomplete 
+viral suppression; however, cancer remains a significant threat to HIV patients 
+after treatment initiation. As more HIV patients gain access to treatment in the 
+current "treat all" era, occurrences of incomplete viral suppression will be 
+observed more frequently in clinical practice, which supports continued study of 
+the role of low-level HIV RNA on cancer development.
+
+DOI: 10.1371/journal.pone.0197665
+PMCID: PMC5988275
+PMID: 29870537 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors of this manuscript have the 
+following competing interests: Dr. Althoff serves on the scientific advisory 
+board for TrioHealth and previously served on a scientific advisory board for 
+Gilead Sciences, Inc. Dr. Moore is a consultant to Medscape. Dr. Eron is a 
+consultant to ViiV Healthcare, Gilead Sciences, Merck, and Janssen; he was 
+previously a consultant to Bristol-Myers Squibb. The University of North 
+Carolina at Chapel Hill receives research contracts from ViiV Healthcare, Gilead 
+Science, and Janssen, on which Dr. Eron is an investigator. The remaining 
+authors have declared that no competing interests exist. This does not alter our 
+adherence to PLOS ONE policies on sharing data and materials, though we note 
+restrictions to data access.
+
+
+85. PLoS One. 2018 Jun 5;13(6):e0198478. doi: 10.1371/journal.pone.0198478. 
+eCollection 2018.
+
+Rhodanine derivatives as potent anti-HIV and anti-HSV microbicides.
+
+Tintori C(1), Iovenitti G(1), Ceresola ER(2), Ferrarese R(2), Zamperini C(1)(3), 
+Brai A(1)(3), Poli G(1), Dreassi E(1), Cagno V(4)(5), Lembo D(4), Canducci F(2), 
+Botta M(1)(3)(6).
+
+Author information:
+(1)Department of Biotechnology, Chemistry and Pharmacy, University of Siena, 
+Siena, Italy.
+(2)Laboratory of Microbiology and Virology, Ospedale San Raffaele, Milan, Italy.
+(3)Lead Discovery Siena S.r.l., Castelnuovo Berardenga, Siena, Italy.
+(4)Laboratory of Molecular Virology and Antiviral Research. Department of 
+Clinical and Biological Sciences, University of Torino, Orbassano, Torino, 
+Italy.
+(5)Department of Molecular Microbiology, University of Geneva, Geneva, 
+Switzerland.
+(6)Sbarro Institute for Cancer Research and Molecular Medicine, Center for 
+Biotechnology, College of Science and Technology, Temple University, 
+Philadelphia, PA, United States of America.
+
+Although highly active antiretroviral therapies (HAART) remarkably increased 
+life expectancy of HIV positive people, the rate of novel HIV-1 infections 
+worldwide still represent a major concern. In this context, pre-exposure 
+prophylaxis (PrEP) approaches such as vaginal microbicide gels topically 
+releasing antiretroviral drugs, showed to have a striking impact in limiting 
+HIV-1 spread. Nevertheless, the co-presence of other genital infections, 
+particularly those due to HSV-1 or 2, constitute a serious drawback that 
+strongly limits the efficacy of PrEP approaches. For this reason, combinations 
+of different compounds with mixed antiviral and antiretroviral activity are 
+thoroughly investigated Here we report the synthesis and the biological 
+evaluation of a novel series of rhodanine derivatives, which showed to inhibit 
+both HIV-1 and HSV-1/2 replication at nanomolar concentration, and were found to 
+be active also on acyclovir resistant HSV-2 strains. The compounds showed a 
+considerable reduction of activity in presence of serum due to a high binding to 
+serum albumin, as determined through in vitro ADME evaluations. However, the 
+most promising compound of the series maintained a considerable activity in gel 
+formulation, with an EC50 comparable to that obtained for the reference drug 
+tenofovir. Moreover, the series of compounds showed pharmacokinetic properties 
+suitable for topical formulation, thus suggesting that the novel rhodanine 
+derivatives could represent effective agents to be used as dual anti HIV/HSV 
+microbicides in PrEP approaches.
+
+DOI: 10.1371/journal.pone.0198478
+PMCID: PMC5988308
+PMID: 29870553 [Indexed for MEDLINE]
+
+Conflict of interest statement: The commercial affiliation to Lead Discovery 
+Siena srl does not alter our adherence to PLOS ONE policies on sharing data and 
+materials.
+
+
+86. Cancer Treat Rev. 2018 Sep;69:29-38. doi: 10.1016/j.ctrv.2018.05.013. Epub
+2018  May 29.
+
+The Dutch national guideline on metastases and hematological malignancies 
+localized within the spine; a multidisciplinary collaboration towards timely and 
+proactive management.
+
+Groenen KHJ(1), van der Linden YM(2), Brouwer T(3), Dijkstra SPD(4), de Graeff 
+A(5), Algra PR(6), Kuijlen JMA(7), Minnema MC(8), Nijboer C(9), Poelma DLH(10), 
+Rolf C(11), Sluis T(12), Terheggen MAMB(13), van der Togt-van Leeuwen ACM(14), 
+Bartels RHMA(15), Taal W(16).
+
+Author information:
+(1)Radboud University Medical Center, Radboud Institute for Health Sciences, 
+Orthopaedic Research Laboratory, P.O. Box 9101, 6500 HB Nijmegen, The 
+Netherlands.
+(2)Leiden University Medical Center, Department of Radiotherapy, Centre of 
+Expertise Palliative Care, P.O. Box 9600, 2300 RC Leiden, The Netherlands.
+(3)National Federation of Cancer Patient Organizations, P.O. Box 8152, 3503 RD 
+Utrecht, The Netherlands.
+(4)Leiden University Medical Center, Department of Orthopedics, P.O. Box 9600, 
+2300 RC Leiden, The Netherlands.
+(5)University Medical Centre Utrecht, Department of Medical Oncology, P.O. Box 
+85500, 3508 GA Utrecht, The Netherlands.
+(6)Alkmaar Medical Centre, Department of Radiology, P.O. Box 501, 1800 AM 
+Alkmaar, The Netherlands.
+(7)University Medical Centre Groningen, Department of Neurosurgery, P.O. Box 
+30001, 9700 RB Groningen, The Netherlands.
+(8)UMC Utrecht Cancer Center, Department of Hematology, PO Box 85500, 3508 GA 
+Utrecht, The Netherlands.
+(9)VU University Medical Center, Department of Neurology, P.O. Box 7057, 1007 MB 
+Amsterdam, The Netherlands.
+(10)Radiotherapy Institute Friesland, Borniastraat 36, 8934 AD Leeuwarden, The 
+Netherlands.
+(11)Community Health Center Hardijzer en Rolf, Jel Rinckesstrjitte 2, 8851 ED 
+Tzummarum, The Netherlands.
+(12)Rijndam Rehabilitation Centre, SCI Unit, Westersingel 300, 3015 LJ 
+Rotterdam, The Netherlands.
+(13)Rijnstate, Department of Anesthesiology, Pain Medicine and Palliatieve Care, 
+P.O. Box 9555, 6800 TA Arnhem, The Netherlands.
+(14)Netherlands Comprehensive Cancer Organisation (IKNL), Vasteland 78, 3011 BN 
+Rotterdam, The Netherlands.
+(15)Radboud University Medical Center, Department of Neurosurgery, P.O. Box 
+9101, 6500 HB Nijmegen, The Netherlands.
+(16)Erasmus MC Cancer Institute, Department of Neuro-Oncology/Neurology, Dr. 
+Molewaterplein 40, 3015 EA Rotterdam, The Netherlands. Electronic address: 
+w.taal@erasmusmc.nl.
+
+Here, we describe the development of a Dutch national guideline on metastases 
+and hematological malignancies localized within the spine. The aim was to create 
+a comprehensive guideline focusing on proactive management of these diseases, 
+enabling healthcare professionals to weigh patient perspectives, life 
+expectancy, and expected outcomes to make informed treatment recommendations. A 
+national multidisciplinary panel consisting of clinicians, a nurse, a patient 
+advocate, an epidemiologist, and a methodologist drafted the guideline. The 
+important role of patients in the realization of the guideline enabled us to 
+identify and address perceived shortcomings in patient care. The guideline 
+covers not only metastatic epidural spinal cord compression, but also the 
+treatment of uncomplicated metastases and hematological malignancies localized 
+within the spine. The guideline is applicable in daily practice and provides an 
+up-to-date and concise overview of the diagnostic and treatment possibilities 
+for patients suffering from a disease that can have a serious impact on their 
+quality of life. Suggestions for the practical implementation of patient care in 
+hospitals are also provided, including approaches for pursuing proactive 
+management. The crucial role of the patient in decision making is emphasized in 
+this guideline.
+
+Copyright © 2018 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.ctrv.2018.05.013
+PMID: 29870874 [Indexed for MEDLINE]
+
+
+87. Digestion. 2018;98(3):135-142. doi: 10.1159/000488449. Epub 2018 Jun 5.
+
+Treatment Perspectives in Crohn's Disease.
+
+Vetter M, Neurath MF.
+
+BACKGROUND: Crohn's disease (CD) is a chronic immune-mediated disorder of the 
+gastrointestinal tract. The pathophysiological understanding of this disease is 
+limited and no curative therapy is available so far. Therefore, most patients 
+require long-lasting or even life-long immunosuppressive therapies for the 
+suppression of symptoms to improve quality of life and reduction of long-term 
+risks. However, in a relevant subgroup of patients, these therapeutic goals 
+cannot be sufficiently attained.
+SUMMARY: Clinically established therapies in active CD comprise corticosteroids 
+and immunosuppressants such as azathioprine. After the introduction of anti-TNFα 
+(Tumor necrosis factor alpha) antibodies, other biologicals (e.g., vedolizumab 
+and ustekinumab) have also been approved. New drugs in the pipeline like 
+filgotinib, upadacitinib, risankizumab or rifaximin could improve the therapy of 
+CD in the near future. Thus, an individualized therapy management, based on 
+optimal selection of therapeutic agents will become more important. 
+Additionally, the local application of mesenchymal stem cells might be helpful 
+in the management of fistulas. Key Messages: The targeted biological therapeutic 
+agents (anti-TNFα antibodies, vedolizumab, ustekinumab) are well established for 
+therapy in CD. There are several new substances in the pipeline with promising 
+results in phase II trials (filgotinib, rifaximin, risankizumab, upadacitinib). 
+The upcoming extension of the therapeutic arsenal will require methods for an 
+optimized selection of substances, thus enabling a more individualized therapy.
+
+© 2018 S. Karger AG, Basel.
+
+DOI: 10.1159/000488449
+PMID: 29870990 [Indexed for MEDLINE]
+
+
+88. J Hand Surg Am. 2018 Jul;43(7):657-667. doi: 10.1016/j.jhsa.2018.03.053. Epub
+ 2018 Jun 2.
+
+Current Concepts in Upper-Extremity Amputation.
+
+Pierrie SN(1), Gaston RG(2), Loeffler BJ(3).
+
+Author information:
+(1)Department of Orthopaedic Surgery, Atrium Health, Charlotte, NC.
+(2)Department of Orthopaedic Surgery, Atrium Health, Charlotte, NC; 
+OrthoCarolina Reconstructive Center for Lost Limbs, Charlotte, NC. Electronic 
+address: Glenn.Gaston@orthocarolina.com.
+(3)Department of Orthopaedic Surgery, Atrium Health, Charlotte, NC; 
+OrthoCarolina Reconstructive Center for Lost Limbs, Charlotte, NC.
+
+Advances in motor vehicle safety, trauma care, combat body armor, and cancer 
+treatment have enhanced the life expectancy and functional expectations of 
+patients with upper-extremity amputations. Upper-extremity surgeons have 
+multiple surgical options to optimize the potential of emerging prosthetic 
+technologies for this diverse patient group. Targeted muscle reinnervation is an 
+evolving technique that improves control of myoelectric prostheses and can 
+prevent or treat symptomatic neuromas. This review addresses current strategies 
+for the care of patients with amputations proximal to the wrist with an emphasis 
+on recent advancements in surgical techniques and prostheses.
+
+Copyright © 2018 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2018.03.053
+PMID: 29871787 [Indexed for MEDLINE]
+
+
+89. Clin Epidemiol. 2018 May 25;10:581-591. doi: 10.2147/CLEP.S155601.
+eCollection  2018.
+
+Lifetime risks, loss of life expectancy, and health care expenditures for 19 
+types of cancer in Taiwan.
+
+Wu TY(1), Chung CH(2), Lin CN(3), Hwang JS(2), Wang JD(3)(4).
+
+Author information:
+(1)Institute of Economics, Academia Sinica, Taipei, Taiwan.
+(2)Institute of Statistical Science, Academia Sinica, Taipei, Taiwan.
+(3)Department of Public Health, College of Medicine, National Cheng Kung 
+University, Tainan, Taiwan.
+(4)Department of Occupational and Environmental Medicine, National Cheng Kung 
+University Hospital, College of Medicine, National Cheng Kung University, 
+Tainan, Taiwan.
+
+BACKGROUND: The mortality rates for different cancers are no longer an efficient 
+tool for making national policy. The purpose of this study were to quantify the 
+lifetime risks, life expectancies (LEs) after diagnosis, expected years of life 
+lost (EYLL), and lifetime health care expenditures for 19 major cancers in 
+Taiwan.
+METHODS: A total of 831,314 patients with 19 pathologically proven cancers were 
+abstracted from the Taiwan Cancer Registry from 1998 to 2012. They were linked 
+to the National Mortality Registry (1998-2014) and National Health Insurance 
+reimbursement database (1998-2013) for survival and health care costs. We 
+estimated the cumulative incidence rate for ages 0-79 years and the lifetime 
+survival function for patients with different cancer sites. The EYLL was 
+calculated by subtracting the LE of each cancer cohort from that of the age- and 
+sex-matched referents simulated from national life tables. The estimated 
+lifetime cost was calculated by adding up the product of survival probability 
+and mean cost at the corresponding duration-to-date after adjustment for the 
+inflation to the year of 2013.
+RESULTS: There were 5 cancers with a lifetime risk exceeding 4%: colorectal, 
+liver, lung, and prostate in males, and breast and colorectal in females. 
+Cancers with EYLL of >10 years were: esophageal, intrahepatic bile ducts, liver, 
+pancreas, oral, nasopharyngeal, leukemia, lung, and gallbladder, extrahepatic 
+bile ducts and biliary tract in males, and intrahepatic bile ducts, pancreas, 
+nasopharyngeal, lung, esophageal, leukemia, liver, gallbladder, extrahepatic 
+bile ducts and biliary tract, ovary, and stomach in females. Cancers with 
+lifetime health care expenditures exceeding US$50,000 to the National Health 
+Insurance were as follows: leukemia, kidney, testis, renal pelvis and ureter in 
+males, and renal pelvis and ureter, leukemia, breast, urinary bladder, kidney, 
+ovary, and nasopharyngeal in females. All these impacts should be considered in 
+health policy decisions.
+CONCLUSION: The impacts of cancer in Taiwan are very large. Future studies must 
+consider both quality of life and the entire impact from societal perspectives.
+
+DOI: 10.2147/CLEP.S155601
+PMCID: PMC5973634
+PMID: 29872347
+
+Conflict of interest statement: Disclosure The authors report no conflicts of 
+interest in this work.
+
+
+90. Heliyon. 2018 May 31;4(5):e00637. doi: 10.1016/j.heliyon.2018.e00637. 
+eCollection 2018 May.
+
+A finite and stable exponential growth-adjusted indirect cost of cancer 
+associated with discounted years of life lost in Saudi Arabia.
+
+Da'ar OB(1)(2), El-Metwally A(1)(3), Abu-Saris R(1), Jazieh AR(4)(5).
+
+Author information:
+(1)College of Public Health & Health Informatics, King Saud Bin Abdulaziz 
+University for Health Sciences, National Guard Health Affairs (NGHA), Riyadh, 
+Saudi Arabia.
+(2)Graduate School of Professional Studies, St. Mary's University of Minnesota, 
+USA.
+(3)University of Tampere, Tampere, Finland.
+(4)Oncology Department, King Abdulaziz Medical City, National Guard Health 
+Affairs Hospital, Riyadh, Saudi Arabia.
+(5)College of Medicine, King Saud bin Abdulaziz University for Health Sciences, 
+National Guard Health Affairs (NGHA), Riyadh, Saudi Arabia.
+
+BACKGROUND: The risk of getting cancer before full life expectancy and 
+mortalities per year are on the rise in Saudi Arabia. Yet, evidence of economic 
+burden of cancer in the country remains largely unknown. In order to provide 
+evidence, we attempted to estimate the economic burden in terms of indirect cost 
+associated with premature cancer deaths among the active or potentially 
+economically active population aged 15-60 years in Saudi Arabia.
+METHOD: Within the framework of the World Health Organization guide of 
+identifying the economic consequences of disease and injury, our method employs 
+cost-of-illness approach. This approach is based on a macroeconomic model that 
+estimates the indirect cost of cancer in terms of total non-health gross 
+domestic product resource loss associated with a disease. We used 
+epidemiological, health system, and macroeconomic data for our estimation. We 
+discounted the net loss at 3% and computed an extension of the loss with a 
+finite and stable upper limit proxied by non-health gross domestic product per 
+capita. We carried out separate analyses for male and female. We conducted 
+sensitivity analyses to account for uncertainties of epidemiological and 
+economic factors on the robustness of the estimated economic burden. We varied 
+the proportion of total cancer deaths, discount rate, and value of health 
+expenditure per capita by ±20%. We further determined which of these factors or 
+parameters had the greatest uncertainty or variation on the net present value 
+total non-health gross domestic product resource loss per Capita.
+RESULTS: Our results indicate the indirect cost associated with cancer deaths 
+among Saudi population aged 15-60 years to be Int$ 2.57 billion of which Int$ 
+1.46 billion (57%) was accounted for by females. The total indirect loss of 
+cancer deaths increased by 8% to Int$ 2.77 billion when the loss is allowed to 
+grow with a finite and stable upper limit proxied by non-health gross domestic 
+product per capita over the discounted years of life lost per a death among 
+female and male respectively. Much of the uncertainty in the determination of 
+the value of the loss was accounted for by the proportion of total cancer deaths 
+and discount rate, while health expenditure per capita was responsible for the 
+least variability.
+CONCLUSION: Our findings reveal evidence of indirect cost associated with cancer 
+premature deaths in Saudi Arabia. In order to develop cancer control actions, 
+the results of this study can inform health system policymakers not only of the 
+extent of the enormous economic burden but also drawing attention to 
+epidemiological and economic factors that explain the variability of the burden.
+
+DOI: 10.1016/j.heliyon.2018.e00637
+PMCID: PMC5986542
+PMID: 29872769
+
+
+91. Cardiovasc Ther. 2018 Oct;36(5):e12442. doi: 10.1111/1755-5922.12442. Epub
+2018  Jun 28.
+
+Cost-effectiveness analysis of biodegradable polymer versus durable polymer 
+drug-eluting stents incorporating real-world evidence.
+
+Teng M(1), Zhao YJ(1), Khoo AL(1), Ananthakrishna R(2), Yeo TC(2)(3), Lim BP(1), 
+Chan MY(2)(3), Loh JP(2)(3).
+
+Author information:
+(1)Pharmacy and Therapeutics Office, Group Health Informatics, National 
+Healthcare Group, Singapore, Singapore.
+(2)Department of Cardiology, National University Heart Centre, Singapore, 
+Singapore.
+(3)Department of Medicine, Yong Loo Lin School of Medicine, National University 
+of Singapore, Singapore, Singapore.
+
+AIM: Compared with second-generation durable polymer drug-eluting stents 
+(DP-DES), the cost-effectiveness of biodegradable polymer drug-eluting stents 
+(BP-DES) remains unclear in the real-world setting. We assessed the 
+cost-effectiveness of BP-DES in patients with coronary artery disease undergoing 
+percutaneous coronary intervention (PCI).
+METHODS: We developed a decision-analytic model to compare the 
+cost-effectiveness of BP-DES to DP-DES over 1 year and 5 years from healthcare 
+payer perspective. Relative treatment effects during the first year post-PCI 
+were obtained from a real-world population analysis while clinical event risks 
+in the subsequent 4 years were derived from a meta-analysis of published 
+studies.
+RESULTS: At 1 year, based on the clinical data analysis of 497 propensity-score 
+matched pairs of patients, BP-DES were associated with an incremental 
+cost-effectiveness ratio (ICER) of USD20 503 per quality-adjusted life-year 
+(QALY) gained. At 5 years, BP-DES yielded an ICER of USD4062 per QALY gained. At 
+the willingness-to-pay threshold of USD50 400 (one gross domestic product per 
+capita in Singapore in 2015), BP-DES were cost-effective. Sensitivity analysis 
+showed that the cost of stents had a significant impact on the 
+cost-effectiveness of BP-DES. Threshold analysis demonstrated that if the cost 
+difference between BP-DES and DP-DES exceeded USD493, BP-DES would not be 
+cost-effective in patients with 1 year of follow-up.
+CONCLUSIONS: Biodegradable polymer drug-eluting stents were cost-effective 
+compared with DP-DES in patients with coronary artery disease at 1 year and 
+5 years after PCI. It is worth noting that the cost of stents had a significant 
+impact on the findings.
+
+© 2018 John Wiley & Sons Ltd.
+
+DOI: 10.1111/1755-5922.12442
+PMID: 29873191 [Indexed for MEDLINE]
+
+
+92. J Med Econ. 2018 Aug;21(8):810-820. doi: 10.1080/13696998.2018.1474747. Epub 
+2018 Jun 6.
+
+Cost-effectiveness analysis of sequential biologic therapy with ixekizumab 
+versus secukinumab as first-line treatment of moderate-to-severe psoriasis in 
+the UK.
+
+Johansson EC(1), Hartz S(2), Kiri SH(2), Kumar G(2), Svedbom A(1).
+
+Author information:
+(1)a Mapi Group , Stockholm , Sweden.
+(2)b Eli Lilly and Company Ltd , United Kingdom.
+
+AIMS: Patients with psoriasis often undergo treatment with a sequence of 
+biologic agents because of poor/loss of response to initial therapy. With the 
+availability of newer agents like ixekizumab and secukinumab, there is a need 
+for cost-effectiveness analyses to better reflect current clinical practice. 
+This study aimed to assess the cost-effectiveness of a sequence of biologic 
+therapies containing first-line ixekizumab vs first-line secukinumab in patients 
+with moderate-to-severe plaque psoriasis in the UK.
+MATERIALS AND METHODS: A Markov model with a lifetime horizon was developed to 
+compare the cost-effectiveness of ixekizumab and secukinumab treatment 
+sequences: ixekizumab → ustekinumab → infliximab → best supportive care (BSC) vs 
+secukinumab → ustekinumab → infliximab → BSC. The model used monthly cycles, and 
+included four health states: trial period, treatment maintenance, BSC, and 
+death. At the end of the trial period, responders transitioned to maintenance 
+therapy; non-responders transitioned to the next biologic in the sequence. An 
+annual discontinuation rate of 20% was assumed for maintenance therapy.
+RESULTS: The ixekizumab sequence provided cost savings of £898 (£176,203 vs 
+177,101) [year 2015 values] and gained 0.03 more quality-adjusted life-years 
+(QALYs: 1.45 vs 1.42) vs the secukinumab sequence over the lifetime horizon. 
+Probabilistic sensitivity analysis showed an 89.8% likelihood that the 
+ixekizumab sequence would be cost-effective at a threshold of £20,000 per QALY 
+gained.
+LIMITATIONS: The analysis used list prices for drugs rather than confidential, 
+preferentially priced Patient Access Scheme costs. In addition, efficacy input 
+data were based on a network meta-analysis, as there were no head-to-head trials 
+comparing ixekizumab and secukinumab.
+CONCLUSION: First-line treatment with ixekizumab as part of a specific 
+sequential biologic therapy for moderate-to-severe plaque psoriasis in the UK 
+provided slight advantages in cost savings and QALYs gained over a similar 
+treatment sequence initiated with secukinumab. In view of the small magnitude of 
+these differences, factors such as patient preferences (e.g. for number of 
+injections) and long-term safety (e.g. related to time on the market) may also 
+be important for clinical decision-making.
+
+DOI: 10.1080/13696998.2018.1474747
+PMID: 29873270 [Indexed for MEDLINE]
+
+
+93. Diabet Med. 2018 Jun 6. doi: 10.1111/dme.13702. Online ahead of print.
+
+Failing to meet the needs of generations of care home residents with diabetes: a 
+review of the literature and a call for action.
+
+Sinclair AJ(1), Gadsby R(2), Abdelhafiz AH(3), Kennedy M(4).
+
+Author information:
+(1)Foundation for Diabetes Research in Older People and University of Aston, UK.
+(2)Warwick Medical School, Warwick, UK.
+(3)Department of Elderly Medicine, Rotherham General Hospital, UK.
+(4)Corio Medical Clinic, Victoria, Australia.
+
+In residential care homes and aged-care facilities globally, between one in 
+three and one in four residents may have diabetes, an often complex highly 
+co-morbid illness that leads to frailty, dependency, disability and reduced life 
+expectancy. Residents with diabetes also have a high risk of hypoglycaemia, 
+avoidable hospital admissions, and represent one of the most difficult 
+challenges to health professionals and care staff in optimizing their diabetes 
+and medical care. This detailed review examines the literature relating to care 
+home diabetes over the last 25 years to assess what has been achieved in 
+characterizing residents with diabetes, and what we know about the various but 
+limited intervention studies that have been carried out internationally. The 
+guidance and guidelines that have been published to assist clinicians in 
+planning effective and safe care for this rather vulnerable group of people with 
+diabetes are also reviewed. The review presents the first diagrammatic 
+representation of a likely physiological cascade depicting the mainly 
+irreversible functional decline a resident with diabetes might experience, 
+provides modern principles of care for each resident with diabetes, and 
+identifies what priority recommendations are required to be implemented if 
+diabetes care is to improve. The review concludes that action is required since 
+diabetes care still remains fragmented, sub-optimal, and in need of investment, 
+otherwise care home residents with diabetes will continue to have their needs 
+unfulfilled.
+
+© 2018 Diabetes UK.
+
+DOI: 10.1111/dme.13702
+PMID: 29873423
+
+
+94. J Med Econ. 2018 Sep;21(9):920-929. doi: 10.1080/13696998.2018.1484750. Epub 
+2018 Jun 18.
+
+A brief instrument to measure health-related quality-of-life in patients with 
+bone metastasis: validation of the German version of Bone Metastases 
+Quality-of-Life-10 (BOMET-QoL-10).
+
+Marschner N(1), Wilke J(2), Reschke D(3), Kaiser F(4), Schmoor C(5), Grugel 
+R(6), Boller E(6)(7).
+
+Author information:
+(1)a Outpatient Center for Interdisciplinary Oncology and Hematology , Freiburg 
+, Germany.
+(2)b Specialized Medical Practice for Hematology and Internal Oncology , Fürth , 
+Germany.
+(3)c Outpatient Center for Oncology Oldenburg , Oldenburg , Germany.
+(4)d VK&K Studien GbR , Landshut , Germany.
+(5)e Clinical Trials Unit , Faculty of Medicine and Medical Centre , University 
+of Freiburg , Freiburg , Germany.
+(6)f iOMEDICO , Clinical Epidemiology and Biostatistics , Freiburg , Germany.
+(7)g CERES GmbH Evaluation & Research , Lörrach , Germany.
+
+AIMS: This prospective, epidemiologic study was designed to translate the 
+original Spanish Bone Metastases Quality-of-Life-10 (BOMET-QoL-10) questionnaire 
+and undertake a validation of the translated German version of BOMET-QoL-10 in 
+Germany to assess health-related quality-of-life (HRQoL) in patients with bone 
+metastases (BM).
+METHODS: The translation process included forward and backward translations, and 
+a linguistic validation. Patients aged ≥18 years with histological confirmation 
+of cancer, diagnosed with BM, life expectancy ≥6 months, and fluency in German 
+were eligible for this study (enrolled consecutively in 33 outpatient centers in 
+Germany). Patients were given the German version of BOMET-QoL-10, together with 
+the European Organization for Research and Treatment of Cancer (EORTC) Quality 
+of Life Questionnaire QLQ-C30 and EORTC QLQ-BM22 questionnaires at inclusion, 6 
+weeks, 3 months, and 6 months after inclusion. A debriefing questionnaire was 
+administered at inclusion to determine patient acceptability and understanding.
+RESULTS: Data include 364 patients with BM (median age = 68 years; 
+females = 71.7%). The BOMET-QoL-10 is brief and clear (median completion 
+time = 5 minutes; >90% of patients completed the questionnaire without 
+assistance). The BOMET-QoL-10 forms only one overall scale. All 10 items showed 
+a substantial correlation with the first factor (factor loading, 
+range = 0.58-0.86). BOMET-QoL-10 exhibits high internal consistency and 
+reproducibility (Cronbach's alpha = 0.91; intra-class correlation 
+coefficient = 0.76). BOMET-QoL-10 showed significant correlations 
+(range = 0.69-0.79) both with EORTC QLQ-C30 and EORTC QLQ-BM22 within the 
+functioning (physical, social, interference) and symptom (fatigue, pain) scales, 
+displayed significant sensitivity to change in EORTC QLQ-BM22 scores, and proved 
+the potential ability to detect change in HRQoL in patients with different 
+disease status.
+LIMITATIONS: There was a high proportion of females in this study, which might 
+represent a limitation.
+CONCLUSIONS: The German version of BOMET-QoL-10 is a valid, reliable, brief, and 
+clear instrument able to measure HRQoL in patients with BM.
+
+DOI: 10.1080/13696998.2018.1484750
+PMID: 29874105 [Indexed for MEDLINE]
+
+
+95. J Clin Oncol. 2018 Jul 20;36(21):2133-2134. doi: 10.1200/JCO.2018.79.0477.

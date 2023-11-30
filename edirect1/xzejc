@@ -1,0 +1,1000 @@
+
+Cost-Effectiveness of Liquid Biopsy for Colorectal Cancer Screening in Patients 
+Who Are Unscreened.
+
+Aziz Z(1), Wagner S(1), Agyekum A(1), Pumpalova YS(1), Prest M(1), Lim F(1), 
+Rustgi S(1), Kastrinos F(1), Grady WM(2), Hur C(1).
+
+Author information:
+(1)Department of Medicine, Columbia University Irving Medical Center, New York, 
+New York.
+(2)Fred Hutchinson Cancer Center, Seattle, Washington.
+
+Comment in
+    doi: 10.1001/jamanetworkopen.2023.43346.
+
+IMPORTANCE: Despite recommendations for universal screening, adherence to 
+colorectal cancer screening in the US is approximately 60%. Liquid biopsy tests 
+are in development for cancer early detection, but it is unclear whether they 
+are cost-effective for colorectal cancer screening.
+OBJECTIVE: To estimate the cost-effectiveness of liquid biopsy for colorectal 
+cancer screening in the US.
+DESIGN, SETTING, AND PARTICIPANTS: In this economic evaluation, a Markov model 
+was developed to compare no screening and 5 colorectal cancer screening 
+strategies: colonoscopy, liquid biopsy, liquid biopsy following nonadherence to 
+colonoscopy, stool DNA, and fecal immunochemical test. Adherence to first-line 
+screening with colonoscopy, stool DNA, or fecal immunochemical test was assumed 
+to be 60.6%, and adherence for liquid biopsy was assumed to be 100%. For 
+colonoscopy, stool DNA, and fecal immunochemical test, patients who did not 
+adhere to testing were not offered other screening. In colonoscopy-liquid biopsy 
+hybrid, liquid biopsy was second-line screening for those who deferred 
+colonoscopy. Scenario analyses were performed to include the possibility of 
+polyp detection for liquid biopsy.
+EXPOSURES: No screening, colonoscopy, fecal immunochemical test, stool DNA, 
+liquid biopsy, and colonoscopy-liquid biopsy hybrid screening.
+MAIN OUTCOMES AND MEASURES: Model outcomes included life expectancy, total cost, 
+and incremental cost-effectiveness ratios. A strategy was considered 
+cost-effective if it had an incremental cost-effectiveness ratio less than the 
+US willingness-to-pay threshold of $100 000 per life-year gained.
+RESULTS: This study used a simulated cohort of patients aged 45 years with 
+average risk of colorectal cancer. In the base case, colonoscopy was the 
+preferred, or cost-effective, strategy with an incremental cost-effectiveness 
+ratio of $28 071 per life-year gained. Colonoscopy-liquid biopsy hybrid had the 
+greatest gain in life-years gained but had an incremental cost-effectiveness 
+ratio of $377 538. Colonoscopy-liquid biopsy hybrid had a greater gain in 
+life-years if liquid biopsy could detect polyps but remained too costly.
+CONCLUSIONS AND RELEVANCE: In this economic evaluation of liquid biopsy for 
+colorectal cancer screening, colonoscopy was a cost-effective strategy for 
+colorectal cancer screening in the general population, and the inclusion of 
+liquid biopsy as a first- or second-line screening strategy was not 
+cost-effective at its current cost and screening performance. Liquid biopsy 
+tests for colorectal cancer screening may become cost-effective if their cost is 
+substantially lowered.
+
+DOI: 10.1001/jamanetworkopen.2023.43392
+PMCID: PMC10654798
+PMID: 37971743 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Pumpalova 
+reported receiving stock from Pfizer outside the submitted work. Dr Grady 
+reported receiving personal fees from SEngine, Guardant Health, Freenome, 
+Diacarta, Natera, Helio, Guidepoint, and GLG and receiving nonfinancial support 
+from LucidDx outside the submitted work. Additionally, Dr Grady reported having 
+a patent pending for methylated gene biomarker for esophageal cancer. Dr Hur 
+reported receiving consulting fees from Value Analytics outside the submitted 
+work. No other disclosures were reported.
+
+
+552. PLoS One. 2023 Nov 16;18(11):e0291390. doi: 10.1371/journal.pone.0291390. 
+eCollection 2023.
+
+Cost-effectiveness analysis of artificial intelligence-based diabetic 
+retinopathy screening in rural China based on the Markov model.
+
+Li H(1), Li G(2)(3), Li N(2), Liu C(2), Yuan Z(2), Gao Q(2), Hao S(1), Fan S(4), 
+Yang J(5).
+
+Author information:
+(1)Department of Ophthalmology, Heji Hospital Affiliated to Changzhi Medical 
+College, Changzhi, 046000, China.
+(2)Postgraduate Department, Changzhi Medical College, Changzhi, 046000, China.
+(3)Shenzhen Longgang Otorhinolaryngology Hospital, Shenzhen, 518100, China.
+(4)Department of Foreign Languages, Changzhi Medical College, Changzhi, 046000, 
+China.
+(5)Department of Public Health and Preventive Medicine, Changzhi Medical 
+College, Changzhi, 046000, China.
+
+This study assessed the cost-effectiveness of different diabetic retinopathy 
+(DR) screening strategies in rural regions in China by using a Markov model to 
+make health economic evaluations. In this study, we determined the structure of 
+a Markov model according to the research objectives, which required parameters 
+collected through field investigation and literature retrieval. After perfecting 
+the model with parameters and assumptions, we developed a Markov decision 
+analytic model according to the natural history of DR in TreeAge Pro 2011. For 
+this model, we performed Markov cohort and cost-effectiveness analyses to 
+simulate the probabilistic distributions of different developments in DR and the 
+cumulative cost-effectiveness of artificial intelligence (AI)-based screening 
+and ophthalmologist screening for DR in the rural population with diabetes 
+mellitus (DM) in China. Additionally, a model-based health economic evaluation 
+was performed by using quality-adjusted life years (QALYs) and incremental 
+cost-effectiveness ratios. Last, one-way and probabilistic sensitivity analyses 
+were performed to assess the stability of the results. From the perspective of 
+the health system, compared with no screening, AI-based screening cost more (the 
+incremental cost was 37,257.76 RMB (approximately 5,211.31 US dollars)), but the 
+effect was better (the incremental utility was 0.33). Compared with AI-based 
+screening, the cost of ophthalmologist screening was higher (the incremental 
+cost was 14,886.76 RMB (approximately 2,070.19 US dollars)), and the effect was 
+worse (the incremental utility was -0.31). Compared with no screening, the 
+incremental cost-effectiveness ratio (ICER) of AI-based DR screening was 
+112,146.99 RMB (15,595.47 US dollars)/QALY, which was less than the threshold 
+for the ICER (< 3 times the per capita gross domestic product (GDP), 217,341.00 
+RMB (30,224.03 US dollars)). Therefore, AI-based screening was cost-effective, 
+which meant that the increased cost for each additional quality-adjusted life 
+year was merited. Compared with no screening and ophthalmologist screening for 
+DR, AI-based screening was the most cost-effective, which not only saved costs 
+but also improved the quality of life of diabetes patients. Popularizing 
+AI-based DR screening strategies in rural areas would be economically effective 
+and feasible and can provide a scientific basis for the further formulation of 
+early screening programs for diabetic retinopathy.
+
+Copyright: © 2023 Li et al. This is an open access article distributed under the 
+terms of the Creative Commons Attribution License, which permits unrestricted 
+use, distribution, and reproduction in any medium, provided the original author 
+and source are credited.
+
+DOI: 10.1371/journal.pone.0291390
+PMCID: PMC10653408
+PMID: 37971984 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+553. Rev Esp Geriatr Gerontol. 2023 Nov 14;59(2):101434. doi: 
+10.1016/j.regg.2023.101434. Online ahead of print.
+
+[Association of grip strength and knee extensors with nutritional status of 
+community-dwelling older adults].
+
+[Article in Spanish]
+
+Cifuentes-Amigo A(1), Cuevas-Cid R(1), Maureira Pareja H(2), Mancilla Solorza 
+E(3).
+
+Author information:
+(1)Laboratorio de Gerontología, Departamento de Kinesiología, Facultad Ciencias 
+de la Salud, Universidad Católica del Maule, Talca, Chile.
+(2)Laboratorio de Biomecánica, Departamento de Kinesiología, Facultad de 
+Ciencias de la Salud, Universidad Católica del Maule, Talca, Chile.
+(3)Laboratorio de Gerontología, Departamento de Kinesiología, Facultad Ciencias 
+de la Salud, Universidad Católica del Maule, Talca, Chile. Electronic address: 
+emancill@ucm.cl.
+
+AIM: To determine the association of hand grip strength and knee extensor 
+strength with the nutritional status of community-dwelling older adults.
+MATERIAL AND METHODS: Observational cross-sectional study. Weight and height of 
+847 older adults were analyzed according to body mass index and classified into 
+four nutritional categories according to the Chilean Ministry of Health. Hand 
+grip and knee extensors strength for both extremities were evaluated. Strength 
+was normalized by body mass. Spearman's correlation between body mass index and 
+muscle strength was used.
+RESULTS: The sample was 582 women, 265 men and an average age of 71.72±7.09. The 
+women had a BMI of 30.03±5.48 and the men of 27.64 ± 4.05, the most numerous 
+category was normal weight (n = 288) and the lowest low weight (n = 74). Hand 
+grip strength presented a higher correlation than knee extensors, specifically, 
+right hand grip strength (r: -0.40). The highest correlation and significance 
+were presented by the obese category for all strength measurements, with right 
+hand grip strength being the highest (r: -0.29).
+CONCLUSIONS: The increase in the nutritional status of older adults has a 
+negative influence on muscle strength. The best association between body mass 
+index and muscle strength was the right hand grip. The finding of the increase 
+in life expectancy as the nutritional status of the sample decreases stands out. 
+Future studies are needed to generate percentiles and normalized values in the 
+Chilean population.
+
+Copyright © 2023 SEGG. Publicado por Elsevier España, S.L.U. All rights 
+reserved.
+
+DOI: 10.1016/j.regg.2023.101434
+PMID: 37972498
+
+
+554. Lancet. 2023 Nov 13:S0140-6736(23)01518-0. doi:
+10.1016/S0140-6736(23)01518-0.  Online ahead of print.
+
+Treatment of severe symptomatic aortic valve stenosis using non-invasive 
+ultrasound therapy: a cohort study.
+
+Messas E(1), Ijsselmuiden A(2), Trifunović-Zamaklar D(3), Cholley B(4), Puymirat 
+E(5), Halim J(2), Karan R(6), van Gameren M(2), Terzić D(7), Milićević V(8), 
+Tanter M(9), Pernot M(9), Goudot G(10).
+
+Author information:
+(1)Cardiovascular Department, Hôpital Européen Georges-Pompidou, Université 
+Paris-Cité, Paris, France; Paris Cardiovascular Research Center, Inserm 
+UMR_U970, Université Paris-Cité, Paris, France; STOP-AS Research Consortium, 
+Recherche Hospitalo-Universitaire, Rouen, France. Electronic address: 
+emmanuel.messas@aphp.fr.
+(2)Cardiology Department, Amphia Hospital, Breda, Netherlands.
+(3)Faculty of Medicine, University of Belgrade, Belgrade, Serbia; Clinic for 
+Cardiology, University Clinical Centre of Serbia, Belgrade, Serbia.
+(4)Department of Anaesthesiology and Intensive Care Medicine, Hôpital Européen 
+Georges-Pompidou, Université Paris-Cité, Paris, France; Innovative Therapies in 
+Haemostasis, Inserm UMR_S1140, Université Paris-Cité, Paris, France.
+(5)Cardiovascular Department, Hôpital Européen Georges-Pompidou, Université 
+Paris-Cité, Paris, France; Paris Cardiovascular Research Center, Inserm 
+UMR_U970, Université Paris-Cité, Paris, France.
+(6)Faculty of Medicine, University of Belgrade, Belgrade, Serbia; Department of 
+Anaesthesiology and Intensive Care at Clinic for Cardiac Surgery, University 
+Clinical Centre of Serbia, Belgrade, Serbia.
+(7)Faculty of Medicine, University of Belgrade, Belgrade, Serbia; Clinic for 
+Cardiac Surgery, University Clinical Centre of Serbia, Belgrade, Serbia.
+(8)Clinic for Cardiac Surgery, University Clinical Centre of Serbia, Belgrade, 
+Serbia.
+(9)Physics for Medicine Paris, Inserm/ESPCI Paris-PSL/CRNS, Paris, France.
+(10)Cardiovascular Department, Hôpital Européen Georges-Pompidou, Université 
+Paris-Cité, Paris, France.
+
+BACKGROUND: Calcific aortic stenosis is commonly treated using surgical or 
+transcatheter aortic valve replacement; however, many patients are not 
+considered suitable candidates for these interventions due to severe 
+comorbidities and limited life expectancy. As such, non-invasive therapies might 
+offer alternative therapeutic possibilities in these patients. This study aimed 
+to assess the safety of non-invasive ultrasound therapy and its ability to 
+improve valvular function by softening calcified valve tissue.
+METHODS: This prospective, multicentre, single-arm series enrolled 40 adult 
+patients with severe symptomatic aortic valve stenosis at three hospitals in 
+France, the Netherlands, and Serbia between March 13, 2019, and May 8, 2022. 
+Patients were treated with transthoracically delivered non-invasive ultrasound 
+therapy. Follow-ups were scheduled at 1, 3, 6, 12, and 24 months. The primary 
+endpoints were procedure-related deaths within 30 days and improved valve 
+function. We report the 6-month data. This study is registered at 
+ClinicalTrials.gov, NCT03779620 and NCT04665596.
+FINDINGS: 40 high-risk patients with a mean Society of Thoracic Surgeons score 
+of 5·6% (SD 4·4) and multiple severe comorbidities were included. The primary 
+endpoint, procedure-related mortality, did not occur; furthermore, no 
+life-threatening or cerebrovascular events were reported. Improved valve 
+function was confirmed up to 6 months, reflected by a 10% increase in mean 
+aortic valve area from 0·58 cm2 (SD 0·19) at baseline to 0·64 cm2 (0·21) at 
+follow-up (p=0·0088), and a 7% decrease in mean pressure gradient from 41·9 mm 
+Hg (20·1) to 38·8 mm Hg (17·8; p=0·024). At 6 months, the New York Heart 
+Association score had improved or stabilised in 24 (96%) of 25 patients, and the 
+mean Kansas City Cardiomyopathy Questionnaire score had improved by 33%, from 
+48·5 (SD 22·6) to 64·5 (21·0). One serious procedure-related adverse event 
+occurred in a patient who presented with a transient decrease in peripheral 
+oxygen saturation. Non-serious adverse events included pain, discomfort during 
+treatment, and transient arrhythmias.
+INTERPRETATION: This novel, non-invasive ultrasound therapy for calcified aortic 
+stenosis proved to be safe and feasible.
+FUNDING: Cardiawave.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(23)01518-0
+PMID: 37972628
+
+Conflict of interest statement: Declaration of interests EM, AI, DT-Z, EP, BC, 
+JH, RK, MvG, DT, VM, and GG are investigators of the study. EM reports being a 
+co-founder and scientific advisory board member of, and holding shares in 
+Cardiawave. DT-Z reports honoraria for lectures from AstraZeneca, Boehringer 
+Ingelheim, Pfizer, Hemofarm, and Amicus Therapeutics; support to attend meetings 
+from and participation in data safety monitoring and advisory boards for 
+Boehringer Ingelheim; and being the President of the Echocardiographic Society 
+of Serbia. MT and MP are co-founders of and hold shares in Cardiawave. All other 
+authors declare no competing interests.
+
+
+555. Huan Jing Ke Xue. 2023 Nov 8;44(11):6387-6398. doi:
+10.13227/j.hjkx.202211100.
+
+[Effect of Continuous Cropping on the Physicochemical Properties, Microbial 
+Activity, and Community Characteristics of the Rhizosphere Soil of Codonopsis 
+pilosula].
+
+[Article in Chinese]
+
+Yang Y(1), Li HL(2), Ma KL(1), Yu FF(1), Niu SQ(1).
+
+Author information:
+(1)College of Life Sciences, Northwest Normal University, Lanzhou 730070, China.
+(2)College of Resources and Environmental Sciences, Gansu Agricultural 
+University, Lanzhou 730070, China.
+
+Effects of continuous cropping on rhizosphere soil physical and chemical 
+properties, soil microbial activity, and community characteristics of Codonopsis 
+pilosula were investigated. The C. pilosula plot(CK) fallow for five years and 
+C. pilosula fields with different years of continuous cropping were studied 
+using Illumina high-throughput sequencing technology combined with soil physical 
+and chemical properties analysis. The response of rhizosphere soil physical and 
+chemical properties, microbial activities, and microbial community 
+characteristics to continuous cropping years of C. pilosula were investigated. 
+The results were as follows:the contents of organic carbon, total phosphorus, 
+total nitrogen, and salt in rhizosphere soil of C. pilosula increased with the 
+extension of continuous cropping years. However, soil pH value decreased with 
+the extension of continuous cropping years. Compared with that in the CK 
+treatment, rhizosphere soil organic carbon content of C. pilosula in continuous 
+cropping for one, two, three, and four years increased by 11.1%, 80.5%, 74.9%, 
+and 78.2%, respectively. Total phosphorus content increased by 11.8%, 52.9%, 
+66.7%, and 78.4%, and total nitrogen content increased by 31.3%, 68.8%, 52.1%, 
+and 56.3%, respectively. Soil salt content increased significantly under 
+continuous cropping of three and four years, and soil conductivity increased by 
+54.2% and 84.7% compared with that in the CK treatment, respectively. The C/N 
+ratio of microbial biomass in rhizosphere soil exhibited an increasing trend 
+with the extension of continuous cropping years. Soil respiration entropy and 
+microbial entropy showed a decreasing trend. With the increase in continuous 
+cropping years, the diversity and abundance of bacteria in soil decreased, 
+whereas the diversity and abundance of fungi increased. In addition, with the 
+increase in continuous cropping years, the antagonistic effect between bacterial 
+communities was enhanced, whereas the synergistic effect between fungal 
+communities was mainly observed. Correlation analysis showed that soil total 
+phosphorus, available potassium, carbon to nitrogen ratio of microbial biomass, 
+soil respiration entropy, microbial biomass carbon, and electrical conductivity 
+were the main factors affecting the changes in soil bacterial community 
+characteristics. Soil total nitrogen, available potassium, available phosphorus, 
+and soil respiration entropy were the main factors affecting the changes in 
+fungal community characteristics. In conclusion, continuous cropping 
+significantly changed the physical and chemical properties of soil and microbial 
+activity and affected the abundance and diversity of bacteria and fungi in soil. 
+This changed the interaction between microorganisms, which disrupted the 
+stability of microbial communities in the soil.
+
+DOI: 10.13227/j.hjkx.202211100
+PMID: 37973120 [Indexed for MEDLINE]
+
+
+556. BMJ. 2023 Nov 16;383:2704. doi: 10.1136/bmj.p2704.
+
+US men live six years less than women as gender health gap widens.
+
+Tanne JH(1).
+
+Author information:
+(1)New York.
+
+DOI: 10.1136/bmj.p2704
+PMID: 37973179 [Indexed for MEDLINE]
+
+
+557. BMJ Support Palliat Care. 2023 Nov 16:spcare-2023-004412. doi: 
+10.1136/spcare-2023-004412. Online ahead of print.
+
+Effects of 24/7 palliative care consultation availability on the use of 
+emergency department and emergency medical services resources from 
+non-oncological patients: a before-and-after observational cohort study.
+
+Valenti D(1), Gamberini L(2), Allegri D(3), Tartaglione M(4), Moggia F(1), Del 
+Giudice D(5), Baroni R(6), Di Mirto CVF(1), Tamanti J(1), Rosa S(1), Paoletti 
+S(1), Bruno L(1), Peterle C(1), Cuomo AMR(1), Bertini A(7), Giostra F(8), 
+Mengoli F(1); Collaborators.
+
+Collaborators: Manuzzi L, Taggi F, Ronchi L, Bartoli L.
+
+Author information:
+(1)Palliative Care Network, AUSL di Bologna, Bologna, Italy.
+(2)Department of Anesthesia, Intensive Care and Prehospital Emergency, Maggiore 
+Hospital Carlo Alberto Pizzardi, Bologna, Italy lorenzo.gamberini86@gmail.com.
+(3)Department of Clinical Governance and Quality, AUSL di Bologna, Bologna, 
+Italy.
+(4)Department of Anesthesia, Intensive Care and Prehospital Emergency, Maggiore 
+Hospital Carlo Alberto Pizzardi, Bologna, Italy.
+(5)EMS 118 Regional Programme, Maggiore Hospital Carlo Alberto Pizzardi, 
+Bologna, Italy.
+(6)Management Staff - Business Information Systems, AUSL di Bologna, Bologna, 
+Italy.
+(7)Emergency Medicine, Emergency Department, Maggiore Hospital Carlo Alberto 
+Pizzardi, Bologna, Italy.
+(8)Emergency Medicine, Emergency Department, IRCCS Azienda 
+Ospedaliero-Universitaria di Bologna, Bologna, Italy.
+
+OBJECTIVES: The non-oncological population is relatively under-represented among 
+end-of-life (EOL) patients managed by palliative care (PC) services, and the 
+effects of different PC delivery models are understudied in this population.This 
+retrospective observational study on routinely collected data aimed at 
+evaluating the effects of the extension from workday-only to 24/7 mixed hands-on 
+and advisory home PC service on emergency department (ED) access and emergency 
+medical services (EMS) interventions needed by non-oncological patients during 
+their last 90 days of life, and their probability to die in hospital.
+METHODS: A before-and-after design was adopted comparing preimplementation and 
+postimplementation periods (2018-2019 and 2021-22).We used a 
+difference-in-differences approach to estimate changes in ED access and EMS 
+intervention rates in the postintervention period through binomial negative 
+regression. The oncological population, always exposed to 24/7 PC, was used as a 
+control. A robust Poisson regression model was adopted to investigate the 
+differences regarding hospital mortality. The analyses were adjusted for age, 
+sex and disease grouping by the system involved. Results were reported as 
+incidence rate ratios (IRRs) and ORs.
+RESULTS: A total of 2831 patients were enrolled in the final analysis.After the 
+implementation of 24/7 home PC, both ED admissions (IRR=0.390, p<0.001) and EMS 
+interventions (IRR=0.413, p<0.001) dropped, as well as the probability to die in 
+hospital (OR=0.321, p<0.001).
+CONCLUSIONS: The adoption of a 24/7 mixed hands-on and advisory model of home PC 
+could have relevant effects in terms of ED access and EMS use by non-oncological 
+EOL patients under PC.
+TRIAL REGISRATION NUMBER: NCT05640076.
+
+© Author(s) (or their employer(s)) 2023. No commercial re-use. See rights and 
+permissions. Published by BMJ.
+
+DOI: 10.1136/spcare-2023-004412
+PMID: 37973206
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+558. Lancet Glob Health. 2023 Dec;11(12):e1931-e1942. doi: 
+10.1016/S2214-109X(23)00432-1.
+
+The burden of diseases and risk factors in Bangladesh, 1990-2019: a systematic 
+analysis for the Global Burden of Disease Study 2019.
+
+GBD 2019 Bangladesh Burden of Disease Collaborators.
+
+Collaborators: Islam SMS, Uddin R, Das S, Ahmed SI, Zaman SB, Alif SM, Hossen 
+MT, Sarker M, Siopis G, Livingstone KM, Mehlman ML, Rahman MM, Chowdhury RI, 
+Alim MA, Choudhury SR, Ahmed SM, Adhikary RK, Anjum A, Banik PC, Chowdhury FR, 
+Faruk MO, Gupta RD, Hannan MA, Haque MN, Haque SE, Hasan MT, Hossain MB, Hossain 
+MM, Hossain M, Hossain S, Hossain SJ, Khan MN, Khan MJ, Mamun MA, Mokdad AH, 
+Moni MA, Murray CJL, Rahman M, Rahman MM, Rahman M, Ratan ZA, Ripon RK, 
+Saif-Ur-Rahman KM, Sayeed A, Siraj MS, Sultana S, Maddison R, Hay SI, Naghavi M.
+
+BACKGROUND: Bangladesh has made substantial progress in improving socioeconomic 
+and health indicators over the past 50 years, but data on national disease 
+burden are scarce. We used data from the Global Burden of Diseases, Injuries, 
+and Risk Factors Study (GBD) 2019 to estimate the burden of diseases and risk 
+factors in Bangladesh from 1990 to 2019.
+METHODS: For this systematic analysis, we analysed data from vital registration 
+systems, surveys, and censuses using multistage modelling processes to estimate 
+life expectancy at birth, mortality rate, years of life lost (YLLs), years lived 
+with disability (YLDs), and disability-adjusted life-years (DALYs). 
+Additionally, we compared the health status of Bangladesh with that of the other 
+countries in the GBD south Asia region-Bhutan, India, Nepal, and Pakistan.
+FINDINGS: Life expectancy at birth in Bangladesh increased from 58·2 years (95% 
+uncertainty interval 57·1-59·2) in 1990 to 74·6 years (72·4-76·7) in 2019. 
+Between 1990 and 2019, the age-standardised mortality rate decreased from 1509·3 
+(1428·6-1592·1) to 714·4 (604·9-838·2) deaths per 100 000 population. In 2019, 
+non-communicable diseases represented 14 of the top 20 causes of death; the 
+leading three causes were stroke, ischaemic heart disease, and chronic 
+obstructive pulmonary disease. High blood pressure, high fasting plasma glucose, 
+and smoking were the top three risk factors. From 1990 to 2019, the rate of 
+all-cause DALYs decreased by 54·9% (48·8-60·4). In 2019, the leading causes of 
+DALYs and YLLs were neonatal disorders, stroke, and ischaemic heart disease, 
+whereas musculoskeletal disorders, depressive disorders, and low back pain were 
+the leading causes of YLDs. Bangladesh has the lowest age-standardised rates of 
+mortality, YLDs, and YLLs and the highest life expectancy at birth in south 
+Asia.
+INTERPRETATION: Over the past 30 years, mortality rates have reduced by more 
+than half in Bangladesh. Bangladesh must now address the double burden of 
+communicable and non-communicable diseases. Cost-effective, multisectoral 
+efforts are needed to prevent and control non-communicable diseases, promote 
+healthy lifestyles, and prevent premature mortality and disabilities.
+FUNDING: Bill & Melinda Gates Foundation.
+TRANSLATION: For the Bangla translation of the abstract see Supplementary 
+Materials section.
+
+Copyright © 2023 The Author(s). Published by Elsevier Ltd. This is an Open 
+Access article under the CC BY 4.0 license. Published by Elsevier Ltd.. All 
+rights reserved.
+
+DOI: 10.1016/S2214-109X(23)00432-1
+PMCID: PMC10664824
+PMID: 37973341 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests S M S Islam reports 
+support for this manuscript from an Emerging Leadership Fellowship from the 
+National Health and Medical Research Council of Australia (APP1195406) and 
+Vanguard grants from the National Heart Foundation of Australia. S M S Islam has 
+unpaid roles, outside the submitted work, with the IT Committee of the Cardiac 
+Society of Australia and New Zealand, as a volunteer on the Cardiac Devices 
+Committee of the ESC Heart Failure Association, and as a volunteer topic group 
+leader for the WHO-ITU Global Initiative on AI for Health. K M Livingstone 
+reports support for this manuscript from a National Health and Medical Research 
+Council of Australia grant (APP1173803).
+
+
+559. J Infect Public Health. 2023 Dec;16 Suppl 1:97-110. doi: 
+10.1016/j.jiph.2023.10.046. Epub 2023 Nov 2.
+
+Tackling antimicrobial resistance in primary care facilities across Pakistan: 
+Current challenges and implications for the future.
+
+Alam M(1), Saleem Z(2), Haseeb A(3), Qamar MU(4), Sheikh A(5), Almarzoky 
+Abuhussain SS(3), Iqbal MS(6), Raees F(7), Chigome A(8), Cook A(9), Moore 
+CE(10), Mustafa ZU(11), Salman M(12), Saleh U(13), Shabbir S(13), Godman B(14).
+
+Author information:
+(1)Department of Pharmacy Practice, Faculty of Pharmacy, Bahauddin Zakariya 
+University, Multan 60800, Pakistan.
+(2)Department of Pharmacy Practice, Faculty of Pharmacy, Bahauddin Zakariya 
+University, Multan 60800, Pakistan. Electronic address: xikria@gmail.com.
+(3)Department of Clinical Pharmacy, College of Pharmacy, Umm Al-Qura University, 
+Makkah 21955, Saudi Arabia.
+(4)Institute of Microbiology, Faculty of Life Sciences, Government College 
+University Faisalabad, Faisalabad 38000, Pakistan; Division of Infectious 
+Diseases, Department of Medicine, Geneva University Hospitals and Medical 
+School, Geneva, Switzerland.
+(5)Usher Institute, The University of Edinburgh, Teviot Place, Edinburgh EH16 
+4UX, UK.
+(6)Department of Clinical Pharmacy, College of Pharmacy, Prince Sattam bin 
+Abdulaziz University, Alkharj, Saudi Arabia.
+(7)Department of Medical Microbiology, Faculty of Medicine, Umm Al-Qura 
+University, Makkah 24382, Saudi Arabia.
+(8)Department of Public Health Pharmacy and Management, School of Pharmacy, 
+Sefako Makgatho Health Sciences University, Ga-Rankuwa 0208, South Africa.
+(9)Centre for Neonatal and Paediatric Infection, Institute of Infection and 
+Immunity, St. George's University of London, London SW17 0RE, UK; Health 
+Economics Research Centre, Nuffield Department of Population Health, University 
+of Oxford, Oxford OX1 2JD, UK.
+(10)Centre for Neonatal and Paediatric Infection, Institute of Infection and 
+Immunity, St. George's University of London, London SW17 0RE, UK.
+(11)Department of Pharmacy Services, District Headquarter Hospital, Pakpattan, 
+Pakistan.
+(12)Institute of Pharmacy, Faculty of Pharmaceutical and Allied Health Sciences, 
+Lahore College for Women University, Lahore, Pakistan.
+(13)University College of Pharmacy, Faculty of Pharmacy, University of the 
+Punjab, Lahore, Pakistan.
+(14)Department of Public Health Pharmacy and Management, School of Pharmacy, 
+Sefako Makgatho Health Sciences University, Ga-Rankuwa 0208, South Africa; 
+Strathclyde Institute of Pharmacy and Biomedical Sciences, University of 
+Strathclyde, Glasgow G4 0RE, UK.
+
+Antibiotics are gradually becoming less effective against bacteria worldwide, 
+and this issue is of particular concern in economically-developing nations like 
+Pakistan. We undertook a scoping review in order to review the literature on 
+antimicrobial use, prescribing, dispensing and the challenges associated with 
+antimicrobial resistance in primary care (PC) settings in Pakistan. Furthermore, 
+this review aims to identify potential solutions to promote appropriate use of 
+antimicrobials in Pakistan. Following the Preferred Reporting Items for 
+Systematic Reviews and Meta-Analyses extension for scoping reviews (PRISMA-ScR) 
+checklist, a comprehensive scoping review was conducted to review the literature 
+of antimicrobials used, prescribed and dispensed in PC settings in Pakistan. 
+Google Scholar and Pub-Med were searched for the period 2000-2023. Papers were 
+analyzed on the basis of eligibility i.e., included antimicrobial use, 
+prescribing and dispensing practices by general population at homes, by 
+prescribers in outpatient departments of hospitals and by pharmacists/dispensers 
+in community pharmacies, respectively. Two researchers analyzed the articles 
+thoroughly and disagreements were resolved through discussion with a third 
+reviewer. Both quantitative and qualitative research studies were eligible for 
+inclusion. Additionally, the selected papers were grouped into different themes. 
+We identified 4070 papers out of which 46 studies satisfied our eligibility 
+criteria. The findings revealed limited understanding of antimicrobial 
+resistance (AMR) by physicians and community pharmacists along with 
+inappropriate practices in prescribing and dispensing antibiotics. Moreover, a 
+notable prevalence of self-medication with antibiotics was observed among the 
+general population, underscoring a lack of awareness and knowledge concerning 
+proper antibiotic usage. Given the clinical and public health implications of 
+AMR, Pakistan must prioritize its policies in PC settings. Healthcare 
+professionals (HCPs) need to reduce inappropriate antibiotic prescribing and 
+dispensing, improve their understanding of the AWaRe (access, watch and reserve 
+antibiotics) classification and guidance, monitor current usage and resistance 
+trends, as well as implement antimicrobial stewardship (ASP) activities starting 
+in targeted locations.
+
+Copyright © 2023 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.jiph.2023.10.046
+PMID: 37973496 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+confirm that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+560. Oncol Ther. 2023 Nov 16. doi: 10.1007/s40487-023-00251-6. Online ahead of
+print.
+
+Repotrectinib's Clinical Benefit and Its Brain Penetration in a Patient with 
+Meningeal Carcinomatosis from G2032R-Mutated ROS-1 Positive Non-Small Cell Lung 
+Cancer.
+
+Metro G(#)(1), Gariazzo E(#)(2), Costabile S(1), Baglivo S(1), Roila F(3), 
+Colamartini F(1), Palumbo B(4), Chiarini P(5), Gori S(6), Conti A(7), Marcomigni 
+L(1), Bellezza G(8), Lunardi G(7).
+
+Author information:
+(1)Medical Oncology, Santa Maria della Misericordia Hospital, Azienda 
+Ospedaliera di Perugia, Via Dottori, 1, 06156, Perugia, Italy.
+(2)Medical Oncology, Santa Maria della Misericordia Hospital, Azienda 
+Ospedaliera di Perugia, Via Dottori, 1, 06156, Perugia, Italy. 
+eleonora.gariazzo@ospedale.perugia.it.
+(3)Medical Oncology, Department of Medicine and Surgery, University of Perugia, 
+Perugia, Italy.
+(4)Department of Medicine and Surgery, Section of Nuclear Medicine and Health 
+Physics, University of Perugia, Perugia, Italy.
+(5)Neuroradiology, Santa Maria della Misericordia Hospital, Azienda Ospedaliera 
+di Perugia, Perugia, Italy.
+(6)Medical Oncology, IRCCS-Sacro Cuore Don Calabria Hospital, Negrar di 
+Valpolicella, Verona, Italy.
+(7)Clinical Analysis Laboratory and Transfusional Medicine, Clinical 
+Pharmacology, IRCCS-Sacro Cuore Don Calabria Hospital, Negrar di Valpolicella, 
+Verona, Italy.
+(8)Section of Anatomic Pathology and Histology, Department of Medicine and 
+Surgery, University of Perugia, Perugia, Italy.
+(#)Contributed equally
+
+In this work, we report on a clinically significant response of meningeal 
+carcinomatosis to repotrectinib in a woman with a heavily pretreated 
+ROS1-rearranged non-small cell lung cancer (NSCLC) that harbored the concomitant 
+solvent front G2032R mutation. Meningeal carcinomatosis has a higher incidence 
+in oncogene addicted NSCLC due to increased life expectancy, yet no report has 
+ever documented the activity of repotrectinib in this context. In line with its 
+activity, we documented the presence of the drug at potentially active 
+concentrations in the cerebrospinal fluid. Nevertheless, the short-lived 
+response reported by our patient highlights the importance for novel 
+ROS1-tyrosine kinase inhibitors (TKIs) to be specifically developed to be able 
+to penetrate the blood-brain barrier.
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s40487-023-00251-6
+PMID: 37973688
+
+
+561. Transp Rev. 2021 Mar 15;41:766-787. doi: 10.1080/01441647.2021.1898488.
+
+The effects of road pricing on transportation and health equity: A scoping 
+review.
+
+Hosford K, Firth C, Brauer M, Winters M.
+
+Road pricing is increasingly considered as an option to support transportation 
+infrastructure costs, manage demand, and reduce emissions. However, the extent 
+to which implementation of such approaches may impact transportation and health 
+equity is unclear. In this scoping review, we examine the differential 
+transportation and health effects of road pricing policies across population 
+groups and geographic region. We conducted a systematic database search of 
+Transport Research International Documentation, GEOBASE, Scopus, and Ovid 
+Medline, supplemented by bibliographic review and internet searches. Fifteen 
+studies were included in the review. The studies evaluated area and cordon road 
+pricing systems in Singapore, London, Stockholm, Milan, and Gothenburg, and had 
+a median follow-up period of 12 months. Outcomes evaluated include car 
+commuting, mode shift to public transit, accessibility to destinations, 
+affordability, welfare, social interactions, air pollution, traffic injuries and 
+deaths, acute asthma attacks, and life expectancy. While more studies across 
+diverse urban contexts and policy settings will be needed to strengthen the 
+evidence base, the existing evidence suggests road pricing has mostly net 
+positive effects related to a reduction in car trips, air pollution, asthma 
+attacks, and road traffic collisions, and increases in life expectancy. 
+Frequency and ease of social interactions were found to be negatively impacted, 
+with fewer visits to family and friends. The population groups that generally 
+fared better across transportation and health outcomes were those with higher 
+incomes, men, and people between the ages of 35-55. Across space, there are 
+benefits for both the areas inside and outside the cordon boundary, but to a 
+greater degree for the area inside. Overall, the evidence base is limited by a 
+narrow set of health-related outcomes and a lack of longer-term studies. We did 
+not come across any studies assessing distributional effects of noise pollution, 
+mode shifts to walking or cycling, or other morbidities in the general 
+population that are not listed above. In addition, there are few evaluations 
+that include non-work trips, therefore potentially missing effects for 
+unemployed populations or women who are more likely to make non-work trips. We 
+find that the limited body of evidence on area and cordon pricing policies 
+suggests these policies are beneficial for a number of transportation and health 
+outcomes, particularly for populations inside the cordon area, but that there 
+may be some degree of inequities in the distribution of the benefits and 
+burdens.
+
+DOI: 10.1080/01441647.2021.1898488
+PMCID: PMC7615312
+PMID: 37974632
+
+Conflict of interest statement: Disclosure statement: No potential conflict of 
+interest.
+
+
+562. Indian J Otolaryngol Head Neck Surg. 2023 Dec;75(4):4071-4074. doi: 
+10.1007/s12070-023-04046-z. Epub 2023 Jul 12.
+
+Capillary Hemangioma of the Maxillary Sinus: A Rare Cause of Massive 
+Life-Threatening Epistaxis.
+
+Sigdel B(1), Ghimire A(1), Parajuli R(1), Regmi S(1), Poudel S(2), Pokhrel A(3).
+
+Author information:
+(1)Department of Otolaryngology and Head and Neck Surgery, Gandaki Medical 
+College Teaching Hospital, Pokhara, Nepal.
+(2)Department of Pathology, Gandaki Medical College, Pokhara, Nepal.
+(3)Department of Emergency Medicine, Metrocity Hospital, Pokhara, Nepal.
+
+Hemangioma of the paranasal sinus is an infrequent condition. Two types of 
+hemangioma are present at the nose; cavernous and capillary. Capillary 
+hemangioma is rare in the sinonasal tract. Patients presented with massive 
+epistaxis should think of nasal hemangioma. Resuscitation of patients is 
+important and urgent Computerized Tomography scans should be performed which 
+will help character and extension of any mass present at the nasal cavity. 
+Initial nasal packing may help to prevent bleeding. We report a case of 
+capillary hemangioma of a 30-year lady present with massive epistaxis initially 
+controlled by Nasal packing. Her CT scan shows a homogenous mass at left 
+maxillary sinuses and underwent left endoscopic sphenopalatine artery ligation 
+and removal of the mass.
+SUPPLEMENTARY INFORMATION: The online version contains supplementary material 
+available at 10.1007/s12070-023-04046-z.
+
+© Association of Otolaryngologists of India 2023. Springer Nature or its 
+licensor (e.g. a society or other partner) holds exclusive rights to this 
+article under a publishing agreement with the author(s) or other 
+rightsholder(s); author self-archiving of the accepted manuscript version of 
+this article is solely governed by the terms of such publishing agreement and 
+applicable law.
+
+DOI: 10.1007/s12070-023-04046-z
+PMCID: PMC10645818
+PMID: 37974689
+
+Conflict of interest statement: Conflict of InterestThere was no conflict of 
+interest.
+
+
+563. Indian J Otolaryngol Head Neck Surg. 2023 Dec;75(4):3180-3184. doi: 
+10.1007/s12070-023-03673-w. Epub 2023 Jun 15.
+
+A Study on Demographic Profile of Patients and Correlation Between Clinical and 
+Radiological Findings in Oral and Oropharyngeal Malignancies.
+
+Das R(1), Sarkar T(1).
+
+Author information:
+(1)R.G. Kar Medical College and Hospital, 1, Khudiram Bose Sarani, Shyam Bazar, 
+Kolkata, 700004 India.
+
+Oral and Oropharyngeal cancers are on rise year after year and Head and Neck 
+Cancer rank sixth among all cancers worldwide. This study is an institutional 
+based retrospective type of study conducted in a tertiary care hospital for a 
+period of 6 months with an aim to identify the demographic profile of the 
+patients and to correlate between the clinical and radiological findings of the 
+disease using Cohen's Kappa value. Both oral and oropharyngeal cancer was 
+predominant in male population with commonest age being the 5th decade of life. 
+Tongue was the most common site for oral cancer, on the other hand, base of 
+tongue was commonest among oropharyngeal cancer. The disease extension was 
+thoroughly examined clinically by palpation and 70 degree Hopkins Endoscope and 
+also radiologically using appropriate imaging tools. The clinical and 
+radiological T showed moderate degree of agreement for both oral and 
+oropharyngeal cancers whereas clinical and radiological N showed a almost 
+perfect degree of agreement.
+
+© Association of Otolaryngologists of India 2023. Springer Nature or its 
+licensor (e.g. a society or other partner) holds exclusive rights to this 
+article under a publishing agreement with the author(s) or other 
+rightsholder(s); author self-archiving of the accepted manuscript version of 
+this article is solely governed by the terms of such publishing agreement and 
+applicable law.
+
+DOI: 10.1007/s12070-023-03673-w
+PMCID: PMC10646077
+PMID: 37974792
+
+Conflict of interest statement: Conflict of interestNo conflict of interest 
+present in the study.
+
+
+564. Demography. 2023 Nov 17:11058373. doi: 10.1215/00703370-11058373. Online
+ahead  of print.
+
+Decomposition of Differentials in Health Expectancies From Multistate Life 
+Tables: A Research Note.
+
+Shen T(1), Riffe T(2)(3)(4), Payne CF(1)(5), Canudas-Romo V(1).
+
+Author information:
+(1)School of Demography, Australian National University, Canberra, Australia.
+(2)University of the Basque Country (UPV/EHU), Bilbao, Spain.
+(3)Ikerbasque (Basque Foundation for Science), Leioa, Spain.
+(4)Max Planck Institute for Demographic Research, Rostock, Germany.
+(5)Harvard Center for Population and Development Studies, Harvard T. H. Chan 
+School of Public Health, Cambridge, MA, USA.
+
+Multistate modeling is a commonly used method to compute healthy life 
+expectancy. However, there is currently no analytical method to decompose the 
+components of differentials in summary measures calculated from multistate 
+models. In this research note, we propose a derivative-based method to decompose 
+the differentials in population-based health expectancies estimated via a 
+multistate model into two main components: the proportion resulting from 
+differences in initial health structure and the proportion resulting from 
+differences in health transitions. We illustrate the method using data on 
+activities of daily living from the U.S. Health and Retirement Study to 
+decompose the sex differential in disability-free life expectancy (HLE) among 
+older Americans. Our results suggest that the sex gap in HLE results primarily 
+from differences in transition rates between disability states rather than from 
+the initial health distribution of female and male populations. The methods 
+introduced here will enable researchers, including those working in fields other 
+than health, to decompose the relative contribution of initial population 
+structure and transition probabilities to differences in state-specific life 
+expectancies from multistate models.
+
+Copyright © 2023 The Authors.
+
+DOI: 10.1215/00703370-11058373
+PMID: 37975571
+
+
+565. Quintessence Int. 2023 Nov 17;0(0):0. doi: 10.3290/j.qi.b4656969. Online
+ahead  of print.
+
+Bariatric dentistry: implications for coordinated dental education and public 
+health policy.
+
+Stefanova Stephens N, Lipschitz W, Psoter J, Psoter W.
+
+Bariatric dentistry is the branch of dental medicine, focused on preventive and 
+comprehensive oral health care of overweight or obese patients. Obesity is an 
+increasing U.S. and international health problem and is a condition 
+characterized by abnormal or excessive fat accumulation in the adipose tissue 
+and is categorized by body mass index (BMI) according to the World Health 
+Organization (WHO). With the increase of morbid obesity worldwide and the 
+unfavorable effect on the overall health and life expectancy it is necessary 
+proper accommodations to be made for accessible dental care of this vulnerable 
+population of patients. The following case report details the emergency and the 
+subsequent elective dental treatment of a patient with a morbid obesity and 
+demonstrates the importance of necessary equipment, a multidisciplinary 
+approach, and broad networking communication needed to treat bariatric patients. 
+Our goal was through this case report to bring awareness and start professional 
+discussions on the importance of all dentists in the community and dental 
+academic programs working together to assure access for primary oral health for 
+bariatric patients.
+
+DOI: 10.3290/j.qi.b4656969
+PMID: 37975645
+
+
+566. J Neurosurg Spine. 2023 Nov 17:1-11. doi: 10.3171/2023.9.SPINE23504. Online 
+ahead of print.
+
+Durable responses at 24 months with high-frequency spinal cord stimulation for 
+nonsurgical refractory back pain.
+
+Patel NP(1), Jameson J(2), Johnson C(3), Kloster D(4), Calodney A(5), Kosek 
+P(6), Pilitsis J(7), Bendel M(8), Petersen E(9), Wu C(10), Cherry T(11), Lad 
+S(12), Yu C(13), Sayed D(14), Goree J(9), Lyons MK(1), Sack A(14), Bruce D(11), 
+Bharara M(15), Province-Azalde R(15), Caraway D(15), Kapural L(16).
+
+Author information:
+(1)1Department of Neurosurgery, Mayo Clinic, Phoenix, Arizona.
+(2)2Axis Spine Center, Coeur d'Alene, Idaho.
+(3)3Midwest Pain Management Center, Overland Park, Kansas.
+(4)4Crimson Pain Management, Overland Park, Kansas.
+(5)5Texas Spine and Joint Hospital, Tyler, Texas.
+(6)6Oregon Neurosurgery Specialists, Springfield, Oregon.
+(7)7Department of Neurosurgery, Albany Medical Center, Albany, New York.
+(8)8Department of Pain Management, Mayo Clinic, Rochester, Minnesota.
+(9)9Department of Neurosurgery, University of Arkansas for Medical Sciences, 
+Little Rock, Arkansas.
+(10)10Department of Neurosurgery, Thomas Jefferson University Hospitals, 
+Philadelphia, Pennsylvania.
+(11)11Department of Pain Management, Kaiser Permanente, Redwood City, 
+California.
+(12)12Department of Neurosurgery, Duke University Medical Center, Durham, North 
+Carolina.
+(13)13Swedish Health Services, Seattle, Washington.
+(14)14Department of Pain Management, University of Kansas Hospital, Kansas City, 
+Kansas.
+(15)15Clinical Research, Nevro Corp., Redwood City, California; and.
+(16)16Carolinas Pain Institute, Winston-Salem, North Carolina.
+
+OBJECTIVE: The objective of this study was to evaluate the 24-month durability 
+of pain relief, function, quality of life, and safety outcomes for patients with 
+nonsurgical refractory back pain (NSRBP) treated with high-frequency spinal cord 
+stimulation (SCS) within a large, national, multicenter randomized controlled 
+trial (RCT).
+METHODS: Following the completion of an RCT comparing high-frequency SCS plus 
+CMM with CMM alone for the treatment of NSRBP, patients gave additional consent 
+for a follow-up extension to 24 months. Presented is the cohort analysis of all 
+patients treated with high-frequency SCS following the optional crossover at 6 
+months. The outcomes assessed to 24 months included responder rate of ≥ 50% pain 
+relief measured according to the visual analog scale [VAS]), disability 
+(Oswestry Disability Index [ODI]), quality of life (EQ-5D 5-level [EQ-5D-5L]), 
+opioid reduction.
+RESULTS: Of the 125 patients who received a permanent implant, 121 completed the 
+12-month follow-up, 101 gave additional consent for extended follow-up, and 98 
+completed the 24-month follow-up. At 24 months after implantation, the mean back 
+pain VAS score was reduced by 73% and the responder rate was 82%. ODI and 
+EQ-5D-5L both improved by at least double the minimal clinically important 
+difference for each measure. No unexpected adverse events were observed, and the 
+rates of serious adverse events (3.4%) and device explantations (4.8%) were low.
+CONCLUSIONS: The addition of high-frequency SCS to CMM in patients with NSRBP 
+offers profound improvements at 24 months in pain, function, quality of life, 
+and reduced opioid use. This study provides much-needed evidence to inform 
+current clinical practice for managing patients with NSRBP.
+
+DOI: 10.3171/2023.9.SPINE23504
+PMID: 37976509
+
+
+567. Value Health Reg Issues. 2023 Nov 15;40:45-52. doi:
+10.1016/j.vhri.2023.09.010.  Online ahead of print.
+
+Comparative Analysis of the Healthcare Delivery System in China and Nigeria: A 
+Review.
+
+Emmanuel-Ajayi OT(1), Gu X(2).
+
+Author information:
+(1)Department of Project Management Engineering and Technology, Hefei University 
+of Technology, Hefei, Anhui Province, China. Electronic address: 
+olalekanopeyemi04@gmail.com.
+(2)Department of Project Management Engineering and Technology, Hefei University 
+of Technology, Hefei, Anhui Province, China.
+
+OBJECTIVES: Equitable distribution of quality healthcare services among 
+different subpopulations in China and Nigeria is inconsistent. This necessitates 
+an examination of potential avenues for improving healthcare provision in both 
+countries. A comparative analysis of both health systems was carried out to 
+provide insights into the progress each nation has made, the obstacles they 
+face, and areas both countries can learn from each other.
+METHODS: We assessed 3 key dimensions of these systems using the Hsiao 
+analytical framework. First, we scrutinized the policy levers of the health 
+systems. Next, we evaluated intermediate outcomes, such as access to healthcare 
+and the quality of care. Lastly, we assessed the extent to which the health 
+systems achieve their ultimate goals, including improving citizen health status 
+and enhancing overall patient satisfaction with the healthcare services.
+RESULTS: China surpasses Nigeria in terms of better birth outcomes, life 
+expectancy, and management of communicable diseases. Both countries offer 
+minimal protection against out-of-pocket spending on medical bills, which 
+consequently exacerbates the poverty rate.
+CONCLUSIONS: China surpasses Nigeria in every health metrics. However, Nigeria's 
+healthcare system offers services to a larger proportion of its populace because 
+of the involvement of the private sector in healthcare delivery. Both countries 
+continue to experience significant challenges, such as limited access to 
+healthcare services in rural areas and overall patient dissatisfaction with the 
+quality of care provided.
+
+Copyright © 2023 International Society for Health Economics and Outcomes 
+Research. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.vhri.2023.09.010
+PMID: 37976659
+
+
+568. Pathol Res Pract. 2023 Dec;252:154947. doi: 10.1016/j.prp.2023.154947. Epub
+2023  Nov 13.
+
+Deciphering signaling pathway interplay via miRNAs in malignant pleural 
+mesothelioma.
+
+Salman A(1), Abdel Mageed SS(2), Fathi D(3), Elrebehy MA(4), Abulsoud AI(5), 
+Elshaer SS(6), Khidr EG(7), Al-Noshokaty TM(3), Khaled R(4), Rizk NI(3), 
+Elballal MS(4), Sayed GA(1), Abd-Elmawla MA(8), El Tabaa MM(9), Mohammed OA(10), 
+Ashraf A(11), El-Husseiny AA(12), Midan HM(4), El-Dakroury WA(13), Abdel-Reheim 
+MA(14), Doghish AS(15).
+
+Author information:
+(1)Department of Biochemistry, Faculty of Pharmacy, Egyptian Russian University, 
+Badr City, 11829 Cairo, Egypt.
+(2)Pharmacology and Toxicology Department, Faculty of Pharmacy, Badr University 
+in Cairo (BUC), Badr City, Cairo 11829, Egypt.
+(3)Biochemistry Department, Faculty of Pharmacy, Heliopolis University, Cairo 
+11785, Egypt.
+(4)Department of Biochemistry, Faculty of Pharmacy, Badr University in Cairo 
+(BUC), Badr City, Cairo 11829, Egypt.
+(5)Biochemistry Department, Faculty of Pharmacy, Heliopolis University, Cairo 
+11785, Egypt; Biochemistry and Molecular Biology Department, Faculty of Pharmacy 
+(Boys), Al-Azhar University, Nasr City, 11231 Cairo, Egypt. Electronic address: 
+abulsoudahmed@azhar.edu.eg.
+(6)Biochemistry Department, Faculty of Pharmacy, Heliopolis University, Cairo 
+11785, Egypt; Department of Biochemistry, Faculty of Pharmacy (Girls), Al-Azhar 
+University, Nasr City, Cairo 11823, Egypt.
+(7)Biochemistry and Molecular Biology Department, Faculty of Pharmacy (Boys), 
+Al-Azhar University, Nasr City, 11231 Cairo, Egypt.
+(8)Biochemistry, Department of Biochemistry, Faculty of Pharmacy, Cairo 
+University, Cairo, Egypt.
+(9)Pharmacology & Environmental Toxicology, Environmental Studies & Research 
+Institute (ESRI), University of Sadat City, Sadat City, 32897 Menoufia, Egypt.
+(10)Department of Pharmacology, College of Medicine, University of Bisha, Bisha 
+61922, Saudi Arabia.
+(11)Department of Clinical Pharmacy and Pharmacy Practice, Faculty of Pharmacy, 
+Badr University in Cairo (BUC), Badr City, Cairo 11829, Egypt.
+(12)Department of Biochemistry, Faculty of Pharmacy, Egyptian Russian 
+University, Badr City, 11829 Cairo, Egypt; Biochemistry and Molecular Biology 
+Department, Faculty of Pharmacy (Boys), Al-Azhar University, Nasr City, 11231 
+Cairo, Egypt.
+(13)Department of Pharmaceutics and Industrial Pharmacy, Faculty of Pharmacy, 
+Badr University in Cairo (BUC), Badr City, Cairo 11829, Egypt.
+(14)Department of Pharmaceutical Sciences, College of Pharmacy, Shaqra 
+University, Shaqra 11961, Saudi Arabia; Department of Pharmacology and 
+Toxicology, Faculty of Pharmacy, Beni-Suef University, Beni Suef 62521, Egypt. 
+Electronic address: m.ahmed@su.edu.sa.
+(15)Department of Biochemistry, Faculty of Pharmacy, Badr University in Cairo 
+(BUC), Badr City, Cairo 11829, Egypt; Biochemistry and Molecular Biology 
+Department, Faculty of Pharmacy (Boys), Al-Azhar University, Nasr City, 11231 
+Cairo, Egypt. Electronic address: ahmed_doghish@azhar.edu.eg.
+
+Malignant pleural mesothelioma (MPM) is a highly invasive form of lung cancer 
+that adversely affects the pleural and other linings of the lungs. MPM is a very 
+aggressive tumor that often has an advanced stage at diagnosis and a bad 
+prognosis (between 7 and 12 months). When people who have been exposed to 
+asbestos experience pleural effusion and pain that is not explained, MPM should 
+be suspected. After being diagnosed, most MPM patients have a one- to four-year 
+life expectancy. The life expectancy is approximately six months without 
+treatment. Despite the plethora of current molecular investigations, a 
+definitive universal molecular signature has yet to be discovered as the 
+causative factor for the pathogenesis of MPM. MicroRNAs (miRNAs) are known to 
+play a crucial role in the regulation of gene expression at the 
+posttranscriptional level. The association between the expression of these 
+short, non-coding RNAs and several neoplasms, including MPM, has been observed. 
+Although the incidence of MPM is very low, there has been a significant increase 
+in research focused on miRNAs in the past few years. In addition, miRNAs have 
+been found to have a role in various regulatory signaling pathways associated 
+with MPM, such as the Notch signaling network, Wnt/β-catenin, mutation of KRAS, 
+JAK/STAT signaling circuit, protein kinase B (AKT), and Hedgehog signaling 
+pathway. This study provides a comprehensive overview of the existing 
+understanding of the roles of miRNAs in the underlying mechanisms of pathogenic 
+symptoms in MPM, highlighting their potential as viable targets for therapeutic 
+interventions.

@@ -1,0 +1,1000 @@
+nivolumab versus ipilimumab for the treatment of previously untreated patients 
+with BRAF-advanced melanoma (BRAF-AM) from an Australian health system 
+perspective.
+METHODS: A state-transition Markov model was constructed to simulate the 
+progress of Australian patients with BRAF-AM. The model had a 10-year time 
+horizon with outcomes discounted at 5% annually. For the nivolumab group, risks 
+of progression and death were based on those observed in the nivolumab arm of a 
+phase III trial (nivolumab vs. dacarbazine). Progression-free survival and 
+overall survival were extrapolated using parametric survival modeling with a 
+log-logistic distribution. In the absence of head-to-head evidence, overall 
+survival and progression-free survival for ipilimumab were estimated on the 
+basis of an indirect comparison using published data. Costs of managing AM were 
+estimated from a survey of Australian clinicians. The cost of ipilimumab was 
+based on the reimbursement price in Australia. The cost of nivolumab was based 
+on expected reimbursement prices in Australia. Quality-of-life data were 
+obtained within the trial using the EuroQol five-dimensional questionnaire.
+RESULTS: Compared with ipilimumab, nivolumab therapy over 10 years was estimated 
+to yield 1.58 life-years and 1.30 quality-adjusted life-years per person, at a 
+(discounted) net cost of US $39,039 per person. The incremental 
+cost-effectiveness ratios for nivolumab compared with ipilimumab were US $25,101 
+per year of life saved and $30,475 per quality-adjusted life-year saved.
+CONCLUSIONS: Nivolumab is a cost-effective means of preventing downstream 
+mortality and morbidity in patients with AM compared with ipilimumab in the 
+Australian setting.
+
+Copyright © 2016 International Society for Pharmacoeconomics and Outcomes 
+Research (ISPOR). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2016.05.013
+PMID: 27987627 [Indexed for MEDLINE]
+
+
+417. Value Health. 2016 Dec;19(8):1026-1032. doi: 10.1016/j.jval.2016.07.006.
+Epub  2016 Sep 21.
+
+Translating Pharmacometrics to a Pharmacoeconomic Model of COPD.
+
+Slejko JF(1), Willke RJ(2), Ribbing J(3), Milligan P(4).
+
+Author information:
+(1)Pharmaceutical Health Services Research, University of Maryland School of 
+Pharmacy, Baltimore, MD, USA. Electronic address: jslejko@rx.umaryland.edu.
+(2)International Society for Pharmacoeconomics and Outcomes Research, 
+Lawrenceville, NJ, USA.
+(3)Pharmetheus AB, Uppsala, Sweden.
+(4)Global Clinical Pharmacology, Pfizer, Sandwich, United Kingdom.
+
+BACKGROUND: A model-based meta-analysis (MBMA) is a type of meta-regression that 
+uses nonlinear mixed-effects models estimated on trial-level data to relate 
+patient and trial characteristics, dosing, biomarkers, and outcomes of 
+treatment.
+OBJECTIVES: To use a pharmacometric MBMA within a pharmacoeconomic model of 
+chronic obstructive pulmonary disease (COPD).
+METHODS: A Markov microsimulation model was developed to estimate monthly 
+changes in the key disease severity metrics of COPD (forced expiratory volume in 
+1 second [FEV1] and exacerbations) to compare a hypothetical drug that increases 
+FEV1 to usual care. The MBMA was used to predict a baseline exacerbation rate in 
+a group of actual trial patients, given their known baseline FEV1. The 
+hypothetical drug increased FEV1, thereby decreasing individuals' predicted 
+exacerbation rates. Individual patient simulations allowed stochastic changes in 
+monthly FEV1 decline.
+RESULTS: In a sample of 1097 trial patients with a mean FEV1 of 50%, the MBMA 
+predicted 0.93 exacerbations per year on average. The exacerbation rate ranged 
+from 0.52 to 1.3 per year across moderate and severe patient subgroups. A 
+hypothetical anti-inflammatory drug that increased FEV1 by 50 ml decreased 
+exacerbations by 26%. Given a simplified estimation of costs and 
+quality-adjusted life-years (QALYs) associated with COPD, a drug with a 50-ml 
+increase priced at €35/mo had an incremental cost-effectiveness ratio ranging 
+from €13,000/QALY to approximately €207,000/QALY across patient severity 
+subgroups.
+CONCLUSIONS: The synergistic aspects of MBMA and pharmacoeconomic modeling are 
+highlighted in this hypothetical example. Markov microsimulation modeling allows 
+the finer predictions of MBMA to inform parameters. Such an approach has utility 
+in both early-phase cost-effectiveness estimations and trial design.
+
+Copyright © 2016 International Society for Pharmacoeconomics and Outcomes 
+Research (ISPOR). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2016.07.006
+PMID: 27987629 [Indexed for MEDLINE]
+
+
+418. Value Health. 2016 Dec;19(8):1033-1038. doi: 10.1016/j.jval.2016.07.003.
+Epub  2016 Sep 21.
+
+Order of Presentation of Dimensions Does Not Systematically Bias Utility Weights 
+from a Discrete Choice Experiment.
+
+Norman R(1), Kemmler G(2), Viney R(3), Pickard AS(4), Gamper E(2), Holzner B(2), 
+Nerich V(5), King M(6).
+
+Author information:
+(1)School of Public Health, Curtin University, Bentley, Western Australia, 
+Australia. Electronic address: Richard.norman@curtin.edu.au.
+(2)Department of Psychiatry and Psychotherapy, Medical University of Innsbruck, 
+Innsbruck, Austria.
+(3)Centre for Health Economics Research and Evaluation, University of 
+Technology, Sydney, New South Wales, Australia.
+(4)Department of Pharmacy Systems, Outcomes and Policy, University of Illinois 
+at Chicago, Chicago, IL, USA.
+(5)INSERM, Unit 1098, University of Franche-Comté, Besançon, France; Department 
+of Pharmacy, University Hospital of Besançon, Besançon, France.
+(6)Psycho-Oncology Cooperative Research Group (PoCoG), School of Psychology, 
+University of Sydney, Sydney, New South Wales, Australia; Central Clinical 
+School, Sydney Medical School, University of Sydney, Sydney, New South Wales, 
+Australia.
+
+BACKGROUND: Discrete choice experiments (DCEs) are increasingly used to value 
+aspects of health. An issue with their adoption is that results may be sensitive 
+to the order in which dimensions of health are presented in the valuation task. 
+Findings in the literature regarding order effects are discordant at present.
+OBJECTIVES: To quantify the magnitude of order effect of quality-of-life (QOL) 
+dimensions within the context of a DCE designed to produce country-specific 
+value sets for the EORTC Quality of Life Utility Measure-Core 10 dimensions 
+(QLU-C10D), a new utility instrument derived from the widely used 
+cancer-specific QOL questionnaire, the European Organisation for Research and 
+Treatment of Cancer Quality of Life Questionnaire-Core 30.
+METHODS: The DCE comprised 960 choice sets, divided into 60 versions of 16 
+choice sets, with each respondent assigned to a version. Within each version, 
+the order of QLU-C10D QOL dimensions was randomized, followed by life duration 
+in the last position. The DCE was completed online by 2053 individuals in France 
+and Germany. We analyzed the data with a series of conditional logit models, 
+adjusted for repeated choices within respondent. We used F tests to assess order 
+effects, correcting for multiple hypothesis testing.
+RESULTS: Each F test failed to reject the null hypothesis of no position effect: 
+1) all QOL order positions considered jointly; 2) last QOL position only; 3) 
+first QOL position only. Furthermore, the order coefficients were small relative 
+to those of the QLU-C10D QOL dimension levels.
+CONCLUSIONS: The order of presentation of QOL dimensions within a DCE designed 
+to provide utility weights for the QLU-C10D had little effect on level 
+coefficients of those QOL dimensions.
+
+Copyright © 2016 International Society for Pharmacoeconomics and Outcomes 
+Research (ISPOR). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2016.07.003
+PMID: 27987630 [Indexed for MEDLINE]
+
+
+419. Value Health. 2016 Dec;19(8):929-935. doi: 10.1016/j.jval.2016.02.017.
+
+Country-Level Cost-Effectiveness Thresholds: Initial Estimates and the Need for 
+Further Research.
+
+Woods B(1), Revill P(2), Sculpher M(2), Claxton K(2).
+
+Author information:
+(1)Centre for Health Economics, University of York, Heslington, York, North 
+Yorkshire, UK. Electronic address: beth.woods@york.ac.uk.
+(2)Centre for Health Economics, University of York, Heslington, York, North 
+Yorkshire, UK.
+
+BACKGROUND: Cost-effectiveness analysis can guide policymakers in resource 
+allocation decisions. It assesses whether the health gains offered by an 
+intervention are large enough relative to any additional costs to warrant 
+adoption. When there are constraints on the health care system's budget or 
+ability to increase expenditures, additional costs imposed by interventions have 
+an "opportunity cost" in terms of the health foregone because other 
+interventions cannot be provided. Cost-effectiveness thresholds (CETs) are 
+typically used to assess whether an intervention is worthwhile and should 
+reflect health opportunity cost. Nevertheless, CETs used by some decision 
+makers-such as the World Health Organization that suggested CETs of 1 to 3 times 
+the gross domestic product (GDP) per capita-do not.
+OBJECTIVES: To estimate CETs based on opportunity cost for a wide range of 
+countries.
+METHODS: We estimated CETs based on recent empirical estimates of opportunity 
+cost (from the English National Health Service), estimates of the relationship 
+between country GDP per capita and the value of a statistical life, and a series 
+of explicit assumptions.
+RESULTS: CETs for Malawi (the country with the lowest income in the world), 
+Cambodia (with borderline low/low-middle income), El Salvador (with borderline 
+low-middle/upper-middle income), and Kazakhstan (with borderline 
+high-middle/high income) were estimated to be $3 to $116 (1%-51% GDP per 
+capita), $44 to $518 (4%-51%), $422 to $1967 (11%-51%), and $4485 to $8018 
+(32%-59%), respectively.
+CONCLUSIONS: To date, opportunity-cost-based CETs for low-/middle-income 
+countries have not been available. Although uncertainty exists in the underlying 
+assumptions, these estimates can provide a useful input to inform resource 
+allocation decisions and suggest that routinely used CETs have been too high.
+
+Copyright © 2016 International Society for Pharmacoeconomics and Outcomes 
+Research (ISPOR). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2016.02.017
+PMCID: PMC5193154
+PMID: 27987642 [Indexed for MEDLINE]
+
+
+420. Value Health. 2016 Dec;19(8):936-944. doi: 10.1016/j.jval.2016.05.015. Epub
+2016  Aug 31.
+
+Cancer Care Coordinators to Improve Tamoxifen Persistence in Breast Cancer: How 
+Heterogeneity in Baseline Prognosis Impacts on Cost-Effectiveness.
+
+Nair N(1), Kvizhinadze G(2), Blakely T(2).
+
+Author information:
+(1)Burden of Disease Epidemiology, Equity and Cost-Effectiveness Programme, 
+Department of Public Health, University of Otago Wellington, Wellington, New 
+Zealand. Electronic address: nisha.nair@otago.ac.nz.
+(2)Burden of Disease Epidemiology, Equity and Cost-Effectiveness Programme, 
+Department of Public Health, University of Otago Wellington, Wellington, New 
+Zealand.
+
+OBJECTIVES: To assess the cost-effectiveness of a cancer care coordinator (CCC) 
+in helping women with estrogen receptor positive (ER+) early breast cancer 
+persist with tamoxifen for 5 years.
+METHODS: We investigated the cost-effectiveness of a CCC across eight breast 
+cancer subtypes, defined by progesterone receptor (PR) status, human epidermal 
+growth factor receptor 2 (HER2) status, and local/regional spread. These 
+subtypes range from excellent to poorer prognoses. The CCC helped in improving 
+tamoxifen persistence by providing information, checking-in by phone, and 
+"troubleshooting" concerns. We constructed a Markov macrosimulation model to 
+estimate health gain (in quality-adjusted life-years or QALYs) and health system 
+costs in New Zealand, compared with no CCC. Participants were modeled until 
+death or till the age of 110 years. Some input parameters (e.g., the impact of a 
+CCC on tamoxifen persistence) had sparse evidence. Therefore, we used estimates 
+with generous uncertainty and conducted sensitivity analyses.
+RESULTS: The cost-effectiveness of a CCC for regional ER+/PR-/HER2+ breast 
+cancer (worst prognosis) was NZ $23,400 (US $15,800) per QALY gained, compared 
+with NZ $368,500 (US $248,800) for local ER+/PR+/HER2- breast cancer (best 
+prognosis). Using a cost-effectiveness threshold of NZ $45,000 (US $30,400) per 
+QALY, a CCC would be cost-effective only in the four subtypes with the worst 
+prognoses.
+CONCLUSIONS: There is value in investigating cost-effectiveness by different 
+subtypes within a disease. In this example of breast cancer, the poorer the 
+prognosis, the greater the health gains from a CCC and the better the 
+cost-effectiveness. Incorporating heterogeneity in a cost-utility analysis is 
+important and can inform resource allocation decisions. It is also feasible to 
+undertake in practice.
+
+Copyright © 2016 International Society for Pharmacoeconomics and Outcomes 
+Research (ISPOR). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2016.05.015
+PMID: 27987643 [Indexed for MEDLINE]421. Value Health. 2016 Dec;19(8):945-950. doi: 10.1016/j.jval.2016.05.014. Epub
+2016  Jul 15.
+
+Using Patient-Reported Outcomes for Economic Evaluation: Getting the Timing 
+Right.
+
+Schilling C(1), Dowsey MM(2), Clarke PM(3), Choong PF(2).
+
+Author information:
+(1)Centre for Health Policy, School of Population and Global Health, the 
+University of Melbourne, Carlton, Victoria, Australia; The University of 
+Melbourne Department of Surgery, St. Vincent's Hospital, Fitzroy, Victoria, 
+Australia. Electronic address: chris.schilling@unimelb.edu.au.
+(2)The University of Melbourne Department of Surgery, St. Vincent's Hospital, 
+Fitzroy, Victoria, Australia; Department of Orthopaedics, St. Vincent's Hospital 
+Melbourne, Melbourne, Victoria, Australia.
+(3)Centre for Health Policy, School of Population and Global Health, the 
+University of Melbourne, Carlton, Victoria, Australia.
+
+BACKGROUND: Patient-reported outcome measures (PROMs) are becoming increasingly 
+popular in orthopedic surgery. Preoperative and postoperative follow-up often 
+elicit PROMs in the form of generic quality-of-life instruments (e.g., Short 
+Form health survey SF-12 [SF-12]) that can be used in economic evaluation to 
+estimate quality-adjusted life-years (QALYs). However, the timing of 
+postoperative measurement is still under debate.
+OBJECTIVES: To explore the timing of postoperative PROMs collection and the 
+implications for bias in QALY estimation for economic evaluation.
+METHODS: We compared the accuracy of QALY estimation on the basis of utilities 
+derived from the SF-12 at one of 6 weeks, 3 months, 6 months, and 12 months 
+after total knee arthroplasty, under different methods of interpolation between 
+points. Five years of follow-up data were extracted from the St. Vincent's 
+Melbourne Arthroplasty Outcomes (SMART) registry (n = 484). The SMART registry 
+collects follow-up PROMs annually and obtained more frequent outcomes on subset 
+of patients (n = 133).
+RESULTS: Postoperative PROM collection at 6 weeks, 6 months, or 12 months biased 
+the estimation of QALY gain from total knee arthroplasty by -41% (95% confidence 
+interval [CI] -59% to -22%), 18% (95% CI 4%-32%), and -8% (95% CI -18% to -2%), 
+respectively. This bias was minimized by collecting PROMs at 3 months 
+postoperatively (6% error; 95% CI -9% to 21%).
+CONCLUSIONS: The timing of PROM collection and the interpolation assumptions 
+between measurements can bias economic evaluation. In the case of total knee 
+arthroplasty, we recommend a postoperative measurement at 3 months with linear 
+interpolation between preoperative and postoperative measures. The design of 
+economic evaluations should consider timing and interpolation issues.
+
+Copyright © 2016 International Society for Pharmacoeconomics and Outcomes 
+Research (ISPOR). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2016.05.014
+PMID: 27987644 [Indexed for MEDLINE]
+
+
+422. Value Health. 2016 Dec;19(8):951-956. doi: 10.1016/j.jval.2016.08.001. Epub
+2016  Sep 19.
+
+Health Economics as Rhetoric: The Limited Impact of Health Economics on Funding 
+Decisions in Four European Countries.
+
+Franken M(1), Heintz E(2), Gerber-Grote A(3), Raftery J(4).
+
+Author information:
+(1)Institute for Medical Technology Assessment, Erasmus University, Rotterdam, 
+The Netherlands; Institute of Health Policy and Management, Erasmus University, 
+Rotterdam, The Netherlands. Electronic address: franken@imta.eur.nl.
+(2)Health Outcomes and Economic Evaluation Research Group, Medical Management 
+Centre, Department of Learning, Informatics, Management and Ethics, Karolinska 
+Institutet, Stockholm, Sweden.
+(3)School of Health Professions, Zurich University of Applied Sciences, 
+Winterthur, Switzerland.
+(4)University of Southampton, Southampton, England.
+
+BACKGROUND: A response to the challenge of high-cost treatments in health care 
+has been economic evaluation. Cost-effectiveness analysis presented as cost per 
+quality-adjusted life-years gained has been controversial, raising heated 
+support and opposition.
+OBJECTIVES: To assess the impact of economic evaluation in decisions on what to 
+fund in four European countries and discuss the implications of our findings.
+METHODS: We used a protocol to review the key features of the application of 
+economic evaluation in reimbursement decision making in England, Germany, the 
+Netherlands, and Sweden, reporting country-specific highlights.
+RESULTS: Although the institutions and processes vary by country, health 
+economic evaluation has had limited impact on restricting access of 
+controversial high-cost drugs. Even in those countries that have gone the 
+furthest, ways have been found to avoid refusing to fund high-cost drugs for 
+particular diseases including cancer, multiple sclerosis, and orphan diseases. 
+Economic evaluation may, however, have helped some countries to negotiate price 
+reductions for some drugs. It has also extended to the discussion of clinical 
+effectiveness to include cost.
+CONCLUSIONS: The differences in approaches but similarities in outcomes suggest 
+that health economic evaluation be viewed largely as rhetoric (in D.N. 
+McCloskey's terms in The Rhetoric of Economics, 1985). This is not to imply that 
+economics had no impact: rather that it usually contributed to the discourse in 
+ways that differed by country. The reasons for this no doubt vary by 
+perspective, from political science to ethics. Economic evaluation may have less 
+to do with rationing or denial of medical treatments than to do with expanding 
+the discourse used to discuss such issues.
+
+Copyright © 2016 International Society for Pharmacoeconomics and Outcomes 
+Research (ISPOR). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2016.08.001
+PMID: 27987645 [Indexed for MEDLINE]
+
+
+423. Value Health. 2016 Dec;19(8):964-975. doi: 10.1016/j.jval.2016.05.012. Epub
+2016  Jul 15.
+
+Cost-Effectiveness of Quadrivalent versus Trivalent Influenza Vaccine in the 
+United States.
+
+de Boer PT(1), Crépey P(2), Pitman RJ(3), Macabeo B(4), Chit A(5), Postma MJ(6).
+
+Author information:
+(1)Unit of PharmacoTherapy, -Epidemiology & -Economics (PTE2), Department of 
+Pharmacy, University of Groningen, Groningen, The Netherlands. Electronic 
+address: p.t.de.boer@rug.nl.
+(2)EHESP Rennes, Sorbonne Paris-Cité, Paris, France; Aix-Marseille Univ, UMR EPV 
+190, Marseille, France.
+(3)ICON Health Economics, Oxford, UK.
+(4)Sanofi Pasteur, Lyon, France.
+(5)Sanofi Pasteur, Swiftwater, PA, USA; Lesli Dan Faculty of Pharmacy, Toronto, 
+Ontario, Canada.
+(6)Unit of PharmacoTherapy, -Epidemiology & -Economics (PTE2), Department of 
+Pharmacy, University of Groningen, Groningen, The Netherlands; Institute of 
+Science in Healthy Aging & healthcaRE (SHARE), University Medical Center 
+Groningen (UMCG), Groningen, The Netherlands; Department of Epidemiology, 
+University Medical Center Groningen (UMCG), University of Groningen, Groningen, 
+The Netherlands.
+
+BACKGROUND: Designed to overcome influenza B mismatch, new quadrivalent 
+influenza vaccines (QIVs) contain one additional B strain compared with 
+trivalent influenza vaccines (TIVs).
+OBJECTIVE: To examine the expected public health impact, budget impact, and 
+incremental cost-effectiveness of QIV versus TIV in the United States.
+METHODS: A dynamic transmission model was used to predict the annual incidence 
+of influenza over the 20-year-period of 2014 to 2034 under either a TIV program 
+or a QIV program. A decision tree model was interfaced with the transmission 
+model to estimate the public health impact and the cost-effectiveness of 
+replacing TIV with QIV from a societal perspective. Our models were informed by 
+published data from the United States on influenza complication probabilities 
+and relevant costs. The incremental vaccine price of QIV as compared with that 
+of TIV was set at US $5.40 per dose.
+RESULTS: Over the next 20 years, replacing TIV with QIV may reduce the number of 
+influenza B cases by 27.2% (16.0 million cases), resulting in the prevention of 
+137,600 hospitalizations and 16,100 deaths and a gain of 212,000 
+quality-adjusted life-years (QALYs). The net societal budget impact would be US 
+$5.8 billion and the incremental cost-effectiveness ratio US $27,411/QALY 
+gained. In the probabilistic sensitivity analysis, 100% and 96.5% of the 
+simulations fell below US $100,000/QALY and US $50,000/QALY, respectively.
+CONCLUSIONS: Introducing QIV into the US immunization program may prevent a 
+substantial number of hospitalizations and deaths. QIV is also expected to be a 
+cost-effective alternative option to TIV.
+
+Copyright © 2016 International Society for Pharmacoeconomics and Outcomes 
+Research (ISPOR). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2016.05.012
+PMID: 27987647 [Indexed for MEDLINE]
+
+
+424. Value Health. 2016 Dec;19(8):976-984. doi: 10.1016/j.jval.2016.05.017. Epub
+2016  Jul 29.
+
+Life Expectancy and Lifetime Health Care Expenditures for Type 1 Diabetes: A 
+Nationwide Longitudinal Cohort of Incident Cases Followed for 14 Years.
+
+Ou HT(1), Yang CY(2), Wang JD(3), Hwang JS(4), Wu JS(5).
+
+Author information:
+(1)Institute of Clinical Pharmacy and Pharmaceutical Sciences, College of 
+Medicine, National Cheng Kung University, Tainan, Taiwan. Electronic address: 
+huangtz@mail.ncku.edu.tw.
+(2)Institute of Clinical Pharmacy and Pharmaceutical Sciences, College of 
+Medicine, National Cheng Kung University, Tainan, Taiwan.
+(3)Department of Public Health, College of Medicine, National Cheng Kung 
+University, Tainan, Taiwan.
+(4)Institute of Statistical Science, Academia Sinica, Taipei, Taiwan.
+(5)Department of Family Medicine, College of Medicine, National Cheng Kung 
+University, Tainan, Taiwan; Department of Family Medicine, National Cheng Kung 
+University Hospital, Tainan, Taiwan.
+
+OBJECTIVES: To assess additional life expectancy (LE), expected years of life 
+lost , and lifetime health care expenditures after type 1 diabetes diagnosis, 
+stratified by sex and age of first diagnosis (early: 0-12 years; late: 13-40 
+years).
+METHODS: A longitudinal cohort of patients with diabetes was constructed from 
+Taiwan's National Health Insurance Research Database of 1999 to 2012. The 
+survival functions for diabetic patients and age- and sex-matched general 
+population were estimated by using a semiparametric extrapolation method with 
+annual life tables. The average monthly health care expenditures were multiplied 
+by the corresponding monthly survival rates and summed to calculate the lifetime 
+health care expenditures. Cox proportional hazard models were constructed to 
+corroborate the effects of sex and age, after being adjusted for comorbidities, 
+complications, and calendar years.
+RESULTS: A total of 2386 cases (45% early diagnosis, 49% males) were identified. 
+An additional LE after diabetes diagnosis was 45.12 years, with an estimated 
+17.63 years of life lost. The predicted total and diabetes-related lifetime 
+costs were $56,939 and $102,140, respectively. Early diagnosed patients had a 
+longer LE and lower health care spending compared with those of late-diagnosed 
+patients. Male patients had a shorter LE and a higher expected years of life 
+lost than the female patients, which corresponded to lower lifetime costs for 
+the former. The Cox model results for overall mortality corroborated these 
+trends.
+CONCLUSIONS: Early detection of type 1 diabetes and sex-specific strategies 
+would probably improve long-term health outcomes and save on the cost of 
+diabetes care.
+
+Copyright © 2016 International Society for Pharmacoeconomics and Outcomes 
+Research (ISPOR). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2016.05.017
+PMID: 27987648 [Indexed for MEDLINE]
+
+
+425. Value Health. 2016 Dec;19(8):985-995. doi: 10.1016/j.jval.2016.07.007. Epub
+2016  Oct 5.
+
+Cost-Effectiveness of a National Opportunistic Screening Program for Atrial 
+Fibrillation in Ireland.
+
+Moran PS(1), Teljeur C(2), Harrington P(3), Smith SM(4), Smyth B(5), Harbison 
+J(6), Normand C(7), Ryan M(8).
+
+Author information:
+(1)Health Policy and Management, School of Medicine, Trinity College Dublin, 
+Dublin, Ireland; Health Technology Assessment, Health Information and Quality 
+Authority, Dublin, Ireland. Electronic address: moranps@tcd.ie.
+(2)Health Technology Assessment, Health Information and Quality Authority, 
+Dublin, Ireland; Department of Public Health and Primary Care, Trinity College 
+Dublin, Dublin, Ireland.
+(3)Health Technology Assessment, Health Information and Quality Authority, 
+Dublin, Ireland.
+(4)Department of General Practice, Royal College of Surgeons in Ireland, Dublin, 
+Ireland.
+(5)Department of Public Health, Health Service Executive, Merlin Park University 
+Hospital, Galway, Ireland.
+(6)Trinity College Dublin Health Sciences Centre, St James's Hospital, Dublin, 
+Ireland.
+(7)Department of Health Policy and Management, School of Medicine, Trinity 
+College Dublin, Dublin, Ireland.
+(8)Health Technology Assessment, Health Information and Quality Authority, 
+Dublin, Ireland; Department of Pharmacology and Therapeutics, Trinity College 
+Dublin, Dublin, Ireland.
+
+OBJECTIVES: To evaluate the cost-effectiveness of a national atrial fibrillation 
+screening program in Ireland involving annual opportunistic pulse palpation of 
+all those older than 65 years during general practitioner consultations, with an 
+electrocardiogram being performed if an irregular pulse is detected.
+METHODS: A probabilistic Markov model was used to simulate costs and clinical 
+outcomes in a hypothetical cohort of men and women with and without screening 
+over the course of 25 years, using a societal perspective.
+RESULTS: Screening was associated with an incremental cost-effectiveness ratio 
+of €23,004/quality-adjusted life-year compared with routine care. Nevertheless, 
+if the relative risk of stroke and systematic embolism in screen-detected 
+patients is more than 12% lower than that in patients with atrial fibrillation 
+identified through routine practice, then screening would not be considered 
+cost-effective at a willingness-to-pay threshold of €45,000/quality-adjusted 
+life-year. An analysis comparing alternative combinations of start age and 
+screening interval found that less frequent screening with a later start age may 
+be more cost-effective than an annual screening from age 65 years.
+CONCLUSIONS: Annual opportunistic screening of men and women aged 65 years and 
+older in primary care in Ireland is likely to be cost-effective using 
+conventional willingness-to-pay thresholds, assuming that those detected through 
+screening have a comparable stroke risk profile as those detected through 
+routine practice. Raising the start age of screening or increasing the screening 
+interval may improve the cost-effectiveness of a prospective screening program.
+
+Copyright © 2016 International Society for Pharmacoeconomics and Outcomes 
+Research (ISPOR). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2016.07.007
+PMID: 27987649 [Indexed for MEDLINE]
+
+
+426. Carbohydr Polym. 2017 Feb 10;157:1094-1104. doi:
+10.1016/j.carbpol.2016.10.073.  Epub 2016 Oct 25.
+
+Effect of nanocellulose as a filler on biodegradable thermoplastic starch films 
+from tuber, cereal and legume.
+
+Montero B(1), Rico M(2), Rodríguez-Llamazares S(3), Barral L(2), Bouza R(2).
+
+Author information:
+(1)Grupo de Polímeros, Departamento de Física, Universidade da Coruña (UDC), 
+Escuela Universitaria Politécnica, Campus de Ferrol, Avda. 19 de Febrero s/n, 
+15405 Ferrol, Spain. Electronic address: belen.montero@udc.es.
+(2)Grupo de Polímeros, Departamento de Física, Universidade da Coruña (UDC), 
+Escuela Universitaria Politécnica, Campus de Ferrol, Avda. 19 de Febrero s/n, 
+15405 Ferrol, Spain.
+(3)Centro de Investigación de Polímeros Avanzados (CIPA), Edificio Laboratorio 
+CIPA, Av. Collao 1202, Concepción, Chile.
+
+Starches from different vegetal sources (tuber, cereal and legume) were 
+plasticized with an invariant glycerol content and reinforced with cellulose 
+nanocrystals by solution casting method. The influence of both, starch nature 
+and filler amount, in the crystallinity and the extension of plasticization have 
+been analyzed by X-ray diffraction. Thermoplastic starches (TPS) morphologies 
+were obtained by scanning electron microscopy. Mechanical properties and thermal 
+stability were analyzed by dynamomechanical and thermogravimetric analysis. 
+Water absorption evolution was studied as well. A major extension in 
+plasticization (high amylopectin starches) led to matrices with large 
+starch-rich domains, a good thermal stability and resistance to water absorption 
+but low stiffness. The incorporation of cellulose nanoparticles favoured 
+plasticization and increased the rigidity in TPS films, as well as the thermal 
+stability and moisture resistance. The aim of this work was to obtain bio-based 
+thermoplastic starch films for replacing petroleum-derived ones in packaging 
+industry, especially for short-life applications.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.carbpol.2016.10.073
+PMID: 27987811 [Indexed for MEDLINE]
+
+
+427. Peptides. 2017 Feb;88:8-17. doi: 10.1016/j.peptides.2016.12.007. Epub 2016
+Dec  14.
+
+The anti-tumor effects of the recombinant toxin protein rLj-RGD3 from Lampetra 
+japonica on pancreatic carcinoma Panc-1 cells in nude mice.
+
+Wang Y(1), Zheng Y(2), Tu Z(1), Dai Y(1), Xu H(1), Lv L(3), Wang J(4).
+
+Author information:
+(1)Department of Pharmacology, Dalian Medical University, Dalian, Liaoning 
+Province 116044, China.
+(2)School of Life Sciences, Liaoning Normal University, Dalian, Liaoning 
+Province 116029, China.
+(3)Department of Pharmacology, Dalian Medical University, Dalian, Liaoning 
+Province 116044, China. Electronic address: lv_li@126.com.
+(4)School of Life Sciences, Liaoning Normal University, Dalian, Liaoning 
+Province 116029, China. Electronic address: jihongwang999@hotmail.com.
+
+Recombinant Lampetra japonica RGD peptide (rLj-RGD3) is a soluble toxin protein 
+with three RGD (Arg-Gly-Asp) motifs and a molecular weight of 13.5kDa. The aim 
+of this study was to investigate the effects and mechanisms of rLj-RGD3 on tumor 
+growth and survival in pancreatic carcinoma Panc-1 cell-bearing mice. A Panc-1 
+human pancreatic carcinoma-bearing nude mouse model was successfully generated, 
+and the animals were treated with different doses of rLj-RGD3 for 3 weeks. The 
+volume and weight of the subcutaneous tumors, the survival of the nude mice, 
+histopathological changes, the intratumoral MVD, the number of apoptotic Panc-1 
+cells, and apoptosis-related proteins and gene expressions were determined. 
+rLj-RGD3 significantly decreased the tumor volumes and weights, and the maximum 
+tumor volume and weight IR values were 53.2% (p<0.001) and 55.9% (p<0.001), 
+respectively. The life expectancy of Panc-1-bearing nude mice treated with 
+rLj-RGD3 was increased by 56.3% (p<0.001). Meanwhile, rLj-RGD3 promoted the 
+expression of Bax, caspase-3, and caspase-9 and inhibited Bcl-2 and VEGF 
+expression. In addition, rLj-RGD3 did not change FAK, PI3K and Akt expression, 
+but p-FAK, p-PI3K and p-Akt, levels were down-regulated. These results show that 
+rLj-RGD3 induced potent anti-tumor activity in vivo and suppressed the growth of 
+transplanted Panc-1 cells in a nude mouse model, implying that rLj-RGD3 may 
+serve as a potent clinical therapeutic agent for human pancreatic carcinoma.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.peptides.2016.12.007
+PMID: 27988354 [Indexed for MEDLINE]
+
+
+428. J Gerontol B Psychol Sci Soc Sci. 2017 Mar 1;72(2):310-318. doi: 
+10.1093/geronb/gbw162.
+
+Toward a More Comprehensive Concept of Successful Aging: Disability and Care 
+Needs.
+
+Tesch-Römer C(1), Wahl HW(2).
+
+Author information:
+(1)German Centre of Gerontology, Berlin, Germany.
+(2)Department for Psychological Ageing Research, Institute of Psychology, 
+Heidelberg University, Germany.
+
+Rowe and Kahn's model of Successful Aging 2.0 argues that changing environmental 
+settings, societal policies, and individual life styles will lead to a 
+significant extension of healthy life years. Recent epidemiological research, 
+however, confirms the dilemma that the ongoing extension of life expectancy 
+prolongs not only the years in good health but also those in poor health. We see 
+it as a major limitation that Rowe and Kahn's model is not able to cover the 
+emerging linkage between increasing life expectation and aging with disability 
+and care needs. Therefore, we suggest a set of propositions towards a more 
+comprehensive model of successful aging which captures desirable living 
+situations including for those who grow old with disabilities and care needs. We 
+describe individual, environmental, and care related strategies and resources 
+for autonomy and quality of life when facing disabilities and care needs in late 
+life, putting emphasis on inter-individual differences and social inequality. We 
+argue that expanding the traditional concept of successful aging to aging with 
+disabilities and care needs serves not to undermine, but rather to anchor the 
+concept in aging science and in public perception.
+
+© The Author 2016. Published by Oxford University Press on behalf of The 
+Gerontological Society of America.
+
+DOI: 10.1093/geronb/gbw162
+PMCID: PMC5926993
+PMID: 27988482 [Indexed for MEDLINE]
+
+
+429. Clin Drug Investig. 2017 Mar;37(3):285-293. doi: 10.1007/s40261-016-0487-7.
+
+Cost-Effectiveness Analysis of Apixaban, Dabigatran, Rivaroxaban, and Warfarin 
+for Stroke Prevention in Atrial Fibrillation in Taiwan.
+
+Liu CY(1)(2), Chen HC(3).
+
+Author information:
+(1)Department of Midwifery and Women Care, School of Nursing, National Taipei 
+University of Nursing and Health Sciences, 365 Min-der Road, Bei-tou district, 
+Taipei, Taiwan, ROC. chiehyu@ntunhs.edu.tw.
+(2)Department of Nursing, School of Nursing, National Taipei University of 
+Nursing and Health Sciences, 365 Min-der Road, Bei-tou district, Taipei, Taiwan, 
+ROC. chiehyu@ntunhs.edu.tw.
+(3)Department of Nursing, School of Nursing, National Taipei University of 
+Nursing and Health Sciences, 365 Min-der Road, Bei-tou district, Taipei, Taiwan, 
+ROC.
+
+BACKGROUND AND OBJECTIVES: The aim of this study was to evaluate the cost 
+effectiveness of novel oral anticoagulants (NOACs) for stroke prevention among 
+atrial fibrillation (AF) patients by incorporating Taiwanese demographic 
+information derived from a population-based database, the National Health 
+Insurance Research Database (NHIRD), into cost-effectiveness analysis.
+METHODS: From 1 January to 31 December 2012, 98,213 AF patients were selected 
+from the NHIRD database. A Markov model was constructed that combined published 
+secondary data with the Taiwan NHIRD to compare the cost and incremental cost 
+effectiveness of apixaban 5 mg twice daily, dabigatran 110 or 150 mg twice 
+daily, rivaroxaban 20 mg once daily, and warfarin.
+RESULTS: The lifetime costs of warfarin, dabigatran 110 mg, dabigatran 150 mg, 
+rivaroxaban 20 mg, and apixaban 5 mg were US$10,660, US$13,693, US$13,426, 
+US$13,455, US$15,965, respectively. Apixaban resulted in an incremental cost 
+effectiveness of US$39,351, US$27,039, US$41,298, and US$48,896 per 
+quality-adjusted life-year (QALY) compared with warfarin, dabigatran 110 mg, 
+dabigatran 150 mg, and rivaroxaban 20 mg, respectively. In Monte-Carlo analyses, 
+apixaban 5 mg, rivaroxaban 20 mg, warfarin, and dabigatran 110 mg were cost 
+effective in 83, 10.4, 7, and 0.8%, respectively, of the simulations using a 
+willingness-to-pay (WTP) threshold of US$50,000 per QALY.
+CONCLUSIONS: Apixaban was more cost effective than warfarin, dabigatran, and 
+rivaroxaban for stroke prevention in patients with AF. Among the anticoagulant 
+therapies, the WTP threshold of apixaban was about US$50,000 per QALY gained. 
+These cost-effectiveness estimations provide useful information to aid clinical 
+decision making in stroke prevention for AF patients.
+
+DOI: 10.1007/s40261-016-0487-7
+PMID: 27988835 [Indexed for MEDLINE]
+
+
+430. J Heart Valve Dis. 2016 May;25(3):349-355.
+
+Valve Replacement in Patients with Carcinoid Heart Disease: Choosing the Right 
+Valve at the Right Time.
+
+Korach A(1), Grozinsky-Glasberg S(2), Atlan J(3), Dabah A(3), Atlan K(4), Rudis 
+E(3), Elami A(3), Gross DJ(2), Reardon MJ(5), Shapira OM(3).
+
+Author information:
+(1)Department of Cardiothoracic Surgery, Hadassah Hebrew University Medical 
+Center, Jerusalem, Israel. Electronic correspondence: akorach@yahoo.com.
+(2)Department of Endocrinology, Hadassah Hebrew University Medical Center, 
+Jerusalem, Israel.
+(3)Department of Cardiothoracic Surgery, Hadassah Hebrew University Medical 
+Center, Jerusalem, Israel.
+(4)Department of Pathology, Hadassah Hebrew University Medical Center, 
+Jerusalem, Israel.
+(5)Department of Cardiac Surgery, Houston DeBakey Heart and Vascular Institute, 
+Houston, TX, USA.
+
+BACKGROUND AND AIM OF THE STUDY: The prosthetic valve of choice in patients with 
+carcinoid valve disease (CVD) remains controversial due to the limited life 
+expectancy of patients with advanced-stage neuroendocrine tumors (NETs) on the 
+one hand, and concerns regarding structural valve deterioration (SVD) on the 
+other hand.
+METHODS: The records of 17 patients (11 females, seven males; mean age 65 ± 11 
+years; undergoing 18 operations) with primarily right heart failure due to CVD 
+were reviewed. All patients received somatostatin analogs perioperatively. 
+Hospital and follow up data (acquired via direct patient contact and 
+echocardiography) collected included baseline characteristics, procedural 
+details, and clinical outcomes.
+RESULTS: The primary NET site was the ileum (n = 11), lungs (n = 2) and stomach, 
+colon and appendix (n = 1 each). In one patient the primary tumor location could 
+not be identified. Preoperative urinary levels of 5-hydroxyindole acetic acid 
+(5-HIAA; 61 ± 36 mg/24 h) and serum levels of chromogranin A (2926 ± 4057 ng/ml) 
+were 10- and 50-fold greater than normal, respectively. A total of 23 valves was 
+implanted: five tricuspid valve replacements (TVR; four tissue and one 
+mechanical), TVR and pulmonary valve replacements (PVR; three tissue and one 
+mechanical), and TVR and mitral valve replacements (MVR; one tissue and two 
+mechanical). The 30-day mortality was 11% (n = 2). No patient experienced a 
+carcinoid crisis. The mean follow up was 24 ± 21 months (range: 4-85 months). 
+Four patients (receiving seven valves) developed SVD at 12, 14, 15, and 20 
+months after surgery, and all of these patients died. The actuarial four-year 
+survival and freedom from SVD were 23 ± 14% and 43 ± 15%, respectively.
+CONCLUSIONS: The data acquired suggested that the main advantage of tissue valve 
+prostheses, namely to avoid lifelong, intense anticoagulation, might be offset 
+by accelerated SVD. The use of mechanical valves should be considered in CVD 
+patients with a large primary tumor mass and persistent high urinary levels of 
+5-HIAA, and who are unresponsive to therapy.
+
+PMID: 27989046 [Indexed for MEDLINE]
+
+
+431. J Heart Valve Dis. 2016 Jan;25(1):8-13.
+
+Favorable Survival after Aortic Valve Replacement Compared to the General 
+Population.
+
+Viktorsson SA(1)(2), Helgason D(2), Orrason AW(2), Aspelund T(2)(3), Sigurdsson 
+MI(4), Geirsson A(1)(2), Gudbjartsson T(1)(2).
+
+Author information:
+(1)Department of Cardiothoracic Surgery, Landspitali University Hospital, 
+Reykjavik.
+(2)Faculty of Medicine, University of Iceland.
+(3)The Icelandic Heart Association.
+(4)Department of Anesthesiology, Landspitali University Hospital, Reykjavik, 
+Iceland.
+
+BACKGROUND: A comparison was made between the long-term survival of patients 
+undergoing aortic valve replacement (AVR) for aortic stenosis and of the general 
+Icelandic population, using centralized registries.
+METHODS: A total of 366 AVR patients (231 males, 135 females; mean age 70.1 
+years) operated on for aortic stenosis in Iceland between 2002 and 2011 was 
+included in the study. Concomitant coronary artery bypass grafting was performed 
+in 54% of cases. Short-term complications and 30-day mortality were analyzed. 
+The patients' overall survival was compared with the survival of Icelanders of 
+the same age and gender. The median follow up was 4.7 years.
+RESULTS: A bioprosthesis was used in 81% of the patients; the median prosthesis 
+size was 25 mm. Atrial fibrillation (68%) and acute kidney injury (23%) were the 
+most common complications, and the 30-day operative mortality was 6%. Overall 
+survival at one year and five years was 92% and 82%, respectively. There was no 
+difference in survival between the surgical cohorts and expected survival of 
+Icelanders of the same age and gender (p = 0.08), except for the first 30 
+postoperative days.
+CONCLUSIONS: Despite the significant rate of short-term complications, the 
+long-term survival of patients undergoing AVR for aortic stenosis was good 
+compared to the general population of the same age and gender. These results 
+confirmed the value of AVR as an excellent treatment option for aortic stenosis, 
+as it offers a normalization of the patients' life expectancy.
+
+PMID: 27989077 [Indexed for MEDLINE]
+
+
+432. Physiol Behav. 2017 Mar 1;170:37-46. doi: 10.1016/j.physbeh.2016.12.011.
+Epub  2016 Dec 15.
+
+The influence of coping strategies and behavior on the physiological response to 
+social stress in women: The role of age and menstrual cycle phase.
+
+Villada C(1), Espin L(2), Hidalgo V(3), Rubagotti S(4), Sgoifo A(4), Salvador 
+A(3).
+
+Author information:
+(1)Laboratory of Social Cognitive Neuroscience, University of Valencia, 
+Valencia, Spain. Electronic address: carolina.villada@uv.es.
+(2)Department of Human Anatomy and Psychobiology, University of Murcia, Murcia, 
+Spain.
+(3)Laboratory of Social Cognitive Neuroscience, University of Valencia, 
+Valencia, Spain.
+(4)Stress Physiology Laboratory, Department of Neuroscience, University of 
+Parma, Parma, Italy.
+
+There is information indicating that the variations induced by the menstrual 
+cycle may influence the capacity of young women to respond to stress. The 
+physiological response to stress changes across the stages of the lifespan; 
+however, in spite of the great increase in life expectancy, the way women react 
+after menopause, a period characterized by a dramatic decline in sex hormones, 
+has not been sufficiently studied. The main objective of the study was to 
+examine the capacity to respond to and recover from an acute social stressor in 
+post-menopausal women compared to young women. The second objective was to 
+investigate the consequences of behavior on the self-regulatory systems. We 
+measured behavior, cortisol, and heart rate during a speaking task in front of a 
+committee in sixty-seven women: 36 post-menopausal and 31 pre-menopausal 
+(follicular group n=14; luteal group n=17). No differences in heart rate 
+reactivity between three groups were found. Post-menopausal women showed less 
+cortisol reactivity to stress; they also displayed a higher percentage of 
+Gestures during the speaking task, reflecting a clearer pattern of active coping 
+compared to the young women. In post-menopausal women, behaviors that reflect 
+active coping strategies were related to better autonomic regulation. By 
+contrast, in pre-menopausal women, cortisol changes seemed to be modulated by 
+passive and reactive behaviors such as Submission and Assertion. These results 
+emphasize the importance of considering age and Hormonal Status in coping 
+processes, including reactivity and recovery from stressful situations.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.physbeh.2016.12.011
+PMID: 27989716 [Indexed for MEDLINE]
+
+
+433. J Clin Epidemiol. 2017 Jun;86:91-100. doi: 10.1016/j.jclinepi.2016.10.007.
+Epub  2016 Oct 28.
+
+Latin American Clinical Epidemiology Network Series - Paper 4: Economic 
+evaluation of Kangaroo Mother Care: cost utility analysis of results from a 
+randomized controlled trial conducted in Bogotá.
+
+Ruiz JG(1), Charpak N(2), Castillo M(3), Bernal A(3), Ríos J(3), Trujillo T(4), 
+Córdoba MA(5).
+
+Author information:
+(1)Department of Clinical Epidemiology and Biostatistics, School of Medicine, 
+Pontificia Universidad Javeriana, Cra 7 #40-62, Hospital Universitario San 
+Ignacio, Piso 2, Bogotá, DC, Colombia; Fundación Canguro, Calle 44b #53-50, 
+Bogotá, DC, Colombia; Servicio de Pediatría, Hospital Universitario San Ignacio, 
+Cra 7 #40-62, Piso 7, Bogotá, DC, Colombia; Department of Medical and Population 
+Health Sciences Research, Herbert Wertheim College of Medicine, 11200 SW 8th St. 
+AHC1-344, Miami, FL, 33199, USA. Electronic address: jruiz@javeriana.edu.co.
+(2)Fundación Canguro, Calle 44b #53-50, Bogotá, DC, Colombia.
+(3)Departamento de Ingeniería Industrial, Universidad de los Andes, Cra 1 Este 
+#19A-40 Edificio Mario Laserna, Piso 7 Bogotá, DC, Colombia.
+(4)Department of Clinical Epidemiology and Biostatistics, School of Medicine, 
+Pontificia Universidad Javeriana, Cra 7 #40-62, Hospital Universitario San 
+Ignacio, Piso 2, Bogotá, DC, Colombia.
+(5)Department of Clinical Epidemiology and Biostatistics, School of Medicine, 
+Pontificia Universidad Javeriana, Cra 7 #40-62, Hospital Universitario San 
+Ignacio, Piso 2, Bogotá, DC, Colombia; Fundación Canguro, Calle 44b #53-50, 
+Bogotá, DC, Colombia.
+
+BACKGROUND AND OBJECTIVE: Although kangaroo mother care (KMC) has been shown to 
+be safe and effective in randomized controlled trials (RCTs), there are no 
+published complete economic evaluations including the three components of the 
+full intervention.
+METHODS: A cost utility analysis performed on the results of an RCT conducted in 
+Bogotá, Colombia between 1993 and 1996. Hospital and ambulatory costs were 
+estimated by microcosting in a sample of preterm infants from a University 
+Hospital in Bogotá in 2011 and at a KMC clinic in the same period. Utility 
+scores were assigned by experts by means of (1) direct ordering and scoring 
+discrete health states and (2) constructing a multi-attribute utility function. 
+Ninety-five percent confidence intervals (CIs) for the incremental cost-utility 
+ratios (ICURs) were computed by the Fiellers theorem method. One-way sensitivity 
+analysis on price estimates for valuing costs was performed.
+RESULTS: ICUR at 1 year of corrected age was $ -1,546 per extra quality-adjusted 
+life year gained using the KMC method (95% CI $ -7,963 to $ 4,910).
+CONCLUSION: In Bogotá, the use of KMC is dominant: more effective and 
+cost-saving. Although results from an economic analysis should not be 
+extrapolated to different systems and communities, this dominant result suggests 
+that KMC could be cost-effective in similar low and middle income countries 
+settings.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jclinepi.2016.10.007
+PMID: 27989952 [Indexed for MEDLINE]
+
+
+434. Ont Health Technol Assess Ser. 2016 Nov 1;16(19):1-94. eCollection 2016.
+
+Transcatheter Aortic Valve Implantation for Treatment of Aortic Valve Stenosis: 
+A Health Technology Assessment.
+
+Health Quality Ontario.
+
+Collaborators: Sehatzadeh S, Tu HA, Holubowich C, Higgins C.
+
+BACKGROUND: Surgical aortic valve replacement (SAVR) is the gold standard for 
+treating aortic valve stenosis. It is a major operation that requires sternotomy 
+and the use of a heart-lung bypass machine, but in appropriately selected 
+patients with symptomatic, severe aortic valve stenosis, the benefits of SAVR 
+usually outweigh the harms. Transcatheter aortic valve implantation (TAVI) is a 
+less invasive procedure that allows an artificial valve to be implanted over the 
+poorly functioning valve.
+METHODS: We identified and analyzed randomized controlled trials that evaluated 
+the effectiveness and safety of TAVI compared with SAVR or balloon aortic 
+valvuloplasty and were published before September 2015. The quality of the body 
+of evidence for each outcome was examined according to the Grading of 
+Recommendations Assessment, Development, and Evaluation (GRADE) Working Group 
+criteria. The overall quality was determined to be high, moderate, low, or very 
+low using a step-wise, structural methodology. We also developed a Markov 
+decision-analytic model to assess the cost-effectiveness of TAVI compared with 
+SAVR over a 5-year time horizon, and we conducted a 5-year budget impact 
+analysis.
+RESULTS: Rates of cardiovascular and all-cause mortality were similar for the 
+TAVI and SAVR groups in all studies except one, which reported significantly 
+lower all-cause mortality in the TAVI group and a higher rate of stroke in the 
+SAVR group. Trials of high-risk patients who were not suitable candidates for 
+SAVR showed significantly better survival with TAVI than with balloon aortic 
+valvuloplasty. Median survival in the TAVI group was 31 months, compared with 
+11.7 months in the balloon aortic valvuloplasty group. Compared with SAVR, TAVI 
+was associated with a significantly higher risk of stroke, major vascular 
+complications, paravalvular aortic regurgitation, and the need for a permanent 
+pacemaker. SAVR was associated with a higher risk of bleeding. Transapical TAVI 
+was associated with higher rates of mortality and stroke than transfemoral TAVI 
+in high-risk patients. TAVI and SAVR both improved patients' quality of life 
+during the first year. However, because of a large amount of missing data and 
+the lack of published data beyond 1 year, it was difficult to evaluate the 
+impact of critical adverse outcomes on patients' longer-term health status. In 
+the base-case analysis, when TAVI was compared with SAVR, the incremental 
+cost-effectiveness ratio was $51,988 per quality-adjusted life-year. The 5-year 
+budget impact of funding TAVI ranged from $7.6 to $8.3 million per year.
+CONCLUSIONS: Moderate quality evidence showed that TAVI and SAVR had similar 
+mortality rates in patients who were eligible for surgery. Information about 
+quality of life showed similar results for TAVI and SAVR in the first year, but 
+was based on low quality evidence. Moderate quality evidence also showed that 
+TAVI was associated with higher rates of adverse events than SAVR. In patients 
+who were not suitable candidates for surgery, moderate quality evidence showed 
+that TAVI improved survival compared with balloon aortic valvuloplasty. When 
+TAVI was compared with SAVR, the incremental cost-effectiveness ratio was 
+$51,988 per quality-adjusted life-year.
+
+PMCID: PMC5156845
+PMID: 27990197 [Indexed for MEDLINE]
+
+
+435. Cas Lek Cesk. 2016 Winter;155(7):340-348.
+
+[Osteoporosis in men].
+
+[Article in Czech]
+
+Štěpán J.
+
+The health burden of osteoporosis in men is expected to increase with an aging 
+population and increasing life expectancy. Both hip and vertebral fractures are 
+associated with increased morbidity and mortality in men. The clinical 
+evaluation, measurement of bone mineral density using dual-energy X-ray 
+absorptiometry, laboratory tests and fracture risk assessment is now recognized 
+as the standard for diagnosis of osteoporosis in males, and a preferred approach 
+to guide treatment decisions. Clinical trials have demonstrated efficacy of 
+several treatment options available for men with osteoporosis. Moreover, 
+clinical interventions to improve physical performance could also reduce the 
+risk of future fractures.
+
+PMID: 27990828 [Indexed for MEDLINE]
+
+
+436. Am J Hematol. 2017 Jan;92(1):94-108. doi: 10.1002/ajh.24607.
+
+Polycythemia vera and essential thrombocythemia: 2017 update on diagnosis, 
+risk-stratification, and management.
+
+Tefferi A(1), Barbui T(2).
+
+Author information:
+(1)Division of Hematology, Department of Medicine, Mayo Clinic, Rochester, 
+Minnesota, USA.
+(2)Research Foundation, Papa Giovanni XXIII Hospital, Bergamo, Italy.
+
+DISEASE OVERVIEW: Polycythemia Vera (PV) and essential thrombocythemia (ET) are 
+myeloproliferative neoplasms respectively characterized by erythrocytosis and 
+thrombocytosis; other disease features include leukocytosis, splenomegaly, 
+thrombosis, bleeding, microcirculatory symptoms, pruritus, and risk of leukemic 
+or fibrotic transformation.
+DIAGNOSIS: PV is defined by a JAK2 mutation, whose absence, combined with normal 
+or increased serum erythropoietin level, makes the diagnosis unlikely. JAK2, 
+CALR, and MPL mutations are the mutually exclusive "driver" mutations in ET with 
+respective incidences of 55%, 25%, and 3%; approximately 17% are 
+triple-negative. However, the same molecular markers might also be present in 
+prefibrotic myelofibrosis, whose morphological distinction from ET is 
+prognostically relevant.
+SURVIVAL AND LEUKEMIC/FIBROTIC TRANSFORMATION: Median survivals are 
+approximately 14 years for PV and 20 years for ET; the corresponding values for 
+younger patients (age <60 years) are 24 and 33 years. Life-expectancy in ET is 
+inferior to the control population. Driver mutational status has not been shown 
+to affect survival in ET whereas the presence of JAK2/MPL mutations has been 
+associated with higher risk of arterial thrombosis and that of MPL with higher 
+risk of fibrotic progression. Risk factors for overall survival in both ET and 
+PV include advanced age, leukocytosis and thrombosis. Leukemic transformation 
+rates at 20 years are estimated at <10% for PV and 5% for ET; fibrotic 
+transformation rates are slightly higher. Most recently, ASXL1, SRSF2, and IDH2 
+mutations have been associated with inferior overall, leukemia-free or 
+fibrosis-free survival in PV; similarly adverse mutations in ET included SH2B3, 
+SF3B1, U2AF1, TP53, IDH2, and EZH2.
+THROMBOSIS RISK STRATIFICATION: Current risk stratification in PV and ET is 
+designed to estimate the likelihood of recurrent thrombosis. Accordingly, PV 
+includes two risk categories: high-risk (age >60 years or thrombosis history) 
+and low-risk (absence of both risk factors). In ET, risk stratification includes 
+four categories: very low risk (age ≤60 years, no thrombosis history, JAK2/MPL 
+un-mutated), low risk (age ≤60 years, no thrombosis history, JAK2/MPL mutated), 
+intermediate risk (age >60 years, no thrombosis history, JAK2/MPL un-mutated), 
+and high risk (thrombosis history or age >60 years with JAK2/MPL mutation). In 

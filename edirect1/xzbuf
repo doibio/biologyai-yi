@@ -1,0 +1,1000 @@
+not been widely implemented in clinical practice.
+OBJECTIVE: The objective of this study was to investigate decisional and 
+information needs among users with mental illness as a prerequisite for the 
+development of a decision support tool aimed at supporting SDM in 
+community-based mental health services in Sweden.
+METHODS: Three semi-structured focus group interviews were conducted with 22 
+adult users with mental illness. The transcribed interviews were analyzed using 
+a directed content analysis. This method was used to develop an in-depth 
+understanding of the decisional process as well as to validate and conceptually 
+extend Elwyn et al.'s model of SDM.
+RESULTS: The model Elwyn et al. have created for SDM in somatic care fits well 
+for mental health services, both in terms of process and content. However, the 
+results also suggest an extension of the model because decisions related to 
+mental illness are often complex and involve a number of life domains. Issues 
+related to social context and individual recovery point to the need for a 
+preparation phase focused on establishing cooperation and mutual understanding 
+as well as a clear follow-up phase that allows for feedback and adjustments to 
+the decision-making process.
+CONCLUSIONS AND IMPLICATIONS FOR PRACTICE: The current study contributes to a 
+deeper understanding of decisional and information needs among users of 
+community-based mental health services that may reduce barriers to participation 
+in decision-making. The results also shed light on attitudinal, 
+relationship-based, and cognitive factors that are important to consider in 
+adapting SDM in the mental health system.
+
+DOI: 10.3402/qhw.v11.30563
+PMCID: PMC4862955
+PMID: 27167556 [Indexed for MEDLINE]
+
+
+262. PLoS One. 2016 May 11;11(5):e0155072. doi: 10.1371/journal.pone.0155072. 
+eCollection 2016.
+
+APOE Genotype in the Ethnic Majority and Minority Groups of Laos and the 
+Implications for Non-Communicable Diseases.
+
+Midorikawa K(1), Soukaloun D(2), Akkhavong K(3), Southivong B(4), Rattanavong 
+O(2), Sengkhygnavong V(2), Pyaluanglath A(2), Sayasithsena S(2), Nakamura S(5), 
+Midorikawa Y(6), Murata M(1).
+
+Author information:
+(1)Department of Environmental and Molecular Medicine, Mie University Graduate 
+School of Medicine, Tsu, Mie, Japan.
+(2)Mahosot Hospital, Ministry of Health, Vientiane, Lao PDR.
+(3)National Institute of Public Health, Ministry of Health, Vientiane, Lao PDR.
+(4)Department of Health Care, Ministry of Health, Vientiane, Lao PDR.
+(5)Laboratory of Epidemiology and Public Health, Graduate School of Nursing 
+Science and Faculty of Nursing, Hiroshima Bunka Gakuen University, Kure, 
+Hiroshima, Japan.
+(6)Department of Medical Nutrition, Faculty of Health, Suzuka University of 
+Medical Science, Suzuka, Mie, Japan.
+
+BACKGROUND: Increasing age is associated with elevated risk of non-communicable 
+diseases, including dementia and Alzheimer's disease (AD). The apolipoprotein E 
+(APOE) ε4 allele is a risk factor not only for AD, but also for cognitive 
+decline, depressive symptoms, stroke, hypertension, coronary heart disease, 
+cardiovascular disease, and diabetes. The Lao People's Democratic Republic 
+(Laos) is undergoing development; consequently, life expectancy has risen. To 
+evaluate the future risk of non-communicable diseases, we investigated APOE 
+genotypes and anthropometric characteristics in the Laotian population.
+METHODOLOGY/PRINCIPAL FINDINGS: Subjects were 455 members of the Lao Loum 
+majority and 354 members of ethnic minorities. APOE genotypes, anthropometric 
+characteristics, blood pressure, and blood glucose were recorded. To compare 
+individual changes, health examination data collected 5 years apart were 
+obtained from a subset of Lao Loum subjects. APOE ε4 allele frequencies were 
+higher among minorities (31.3%) than among Lao Loum (12.6%). In Lao Loum, but 
+not in minorities, mean waist circumference and blood pressure increased 
+significantly across age groups. Comparisons of health conditions between the 
+beginning and end of the 5-year period revealed significant increases in obesity 
+and blood glucose levels in Lao Loum. APOE ε4 carriers exhibited significant 
+increases in resting heart rate in both ethnic groups.
+CONCLUSIONS/SIGNIFICANCE: A higher ε4 allele frequency was observed in Laotian 
+minorities than in the Laotian majority. Furthermore, higher obesity, blood 
+pressure and blood glucose were observed in the middle-aged ethnic majority. 
+Therefore, given these genetic and non-communicable disease risk factors, it 
+seems likely that as the Laotian population ages, elevated rates of 
+non-communicable aging-related diseases, such as dementia, will also become more 
+prevalent.
+
+DOI: 10.1371/journal.pone.0155072
+PMCID: PMC4863969
+PMID: 27168072 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+263. J Neurosci Methods. 2016 Aug 1;268:87-97. doi:
+10.1016/j.jneumeth.2016.05.008.  Epub 2016 May 7.
+
+Non-parametric directionality analysis - Extension for removal of a single 
+common predictor and application to time series.
+
+Halliday DM(1), Senik MH(2), Stevenson CW(3), Mason R(2).
+
+Author information:
+(1)Department of Electronics, University of York, York YO10 5DD, UK. Electronic 
+address: david.halliday@york.ac.uk.
+(2)School of Life Sciences, University of Nottingham, Nottingham NG7 2UH, UK.
+(3)School of Biosciences, University of Nottingham, Loughborough LE12 5RD, UK.
+
+BACKGROUND: The ability to infer network structure from multivariate neuronal 
+signals is central to computational neuroscience. Directed network analyses 
+typically use parametric approaches based on auto-regressive (AR) models, where 
+networks are constructed from estimates of AR model parameters. However, the 
+validity of using low order AR models for neurophysiological signals has been 
+questioned. A recent article introduced a non-parametric approach to estimate 
+directionality in bivariate data, non-parametric approaches are free from 
+concerns over model validity.
+NEW METHOD: We extend the non-parametric framework to include measures of 
+directed conditional independence, using scalar measures that decompose the 
+overall partial correlation coefficient summatively by direction, and a set of 
+functions that decompose the partial coherence summatively by direction. A time 
+domain partial correlation function allows both time and frequency views of the 
+data to be constructed. The conditional independence estimates are conditioned 
+on a single predictor.
+RESULTS: The framework is applied to simulated cortical neuron networks and 
+mixtures of Gaussian time series data with known interactions. It is applied to 
+experimental data consisting of local field potential recordings from bilateral 
+hippocampus in anaesthetised rats.
+COMPARISON WITH EXISTING METHOD(S): The framework offers a non-parametric 
+approach to estimation of directed interactions in multivariate neuronal 
+recordings, and increased flexibility in dealing with both spike train and time 
+series data.
+CONCLUSIONS: The framework offers a novel alternative non-parametric approach to 
+estimate directed interactions in multivariate neuronal recordings, and is 
+applicable to spike train and time series data.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jneumeth.2016.05.008
+PMID: 27168497 [Indexed for MEDLINE]
+
+
+264. Yao Xue Xue Bao. 2015 Dec;50(12):1596-602.
+
+[Enhanced radiosensitivity of H22 ascitic tumor to 12C6+ ions radiation in 
+ultra-filtration extract mixture from Astragalus mongholicus-treated mice].
+
+[Article in Chinese]
+
+Wang BB, Wang XH, Liu K, Sun SB, Song P, Li YD.
+
+This study was designed to investigate the impact of ultra-filtration extract 
+mixture from Astragals mongholicus (UEMAM) o radiosensitivity of H22 ascitic 
+tumor in mice to 12C6+ ions radiation. The H22 ascitic tumor model was 
+established in mice by intraperitoneal injection of 0.2 mL H22 ascitic cells. 
+The animals were subsequently divided into 4 groups randomly, treated with 
+normal saline, UEMAM, heavy ion beam radiotherapy and UEMAM plus heavy ion beam 
+radiotherapy, respectively. The body weights, abdomen circumference of the mice 
+were measured and the mouse behavior was monitored every day; survival time was 
+recorded to evaluate life extension effect; flow cytometry technique was used to 
+detect H22 cell apoptosis and cell cycle; protein levels of p53, Bax, Bcl-2 and 
+cleaved Caspase-3 were analyzed by Western blot; the single cell gel 
+electrophoresis was used to detect the level of deoxyribonucleic acid damage 
+(DNA damage). The results suggest that UEMAM significantly increased survival 
+time, and decreased body weights and abdomen circumference over the saline 
+control group. The treatment increased cell apoptosis, cycle arrest and DNA 
+damage compared to the saline control group. UEMAM significantly enhanced the 
+therapeutic effect of heavy ion beam radiation in survival time, and decreased 
+body weights and abdomen circumference in the tumor-baring mice. The combination 
+increased cell apoptosis, cycle arrest and DNA damage compared to the 
+radiotherapy group. The results of Western blot suggest that the treatment 
+significantly enhanced p53-induced apoptotic signals. The experiment discovered 
+that UEMAM could improve radiosensitivity of H22 ascitic tumor through 
+activation of p53-mediated apoptotic signal pathway.
+
+PMID: 27169282 [Indexed for MEDLINE]
+
+
+265. Rural Remote Health. 2016 Apr-Jun;16(2):3813. Epub 2016 May 12.
+
+Career expectancy of physicians active in patient care: evidence from 
+Mississippi.
+
+Boydstun J(1), Cossman JS(2).
+
+Author information:
+(1)National Strategic Planning and Analysis Research Center, Mississippi State 
+University, Mississippi, USA. jboydstun@nsparc.msstate.edu.
+(2)Department of Sociology and Anthropology, West Virginia University, 
+Morgantown, West Virginia, USA. lynne.cossman@mail.wvu.edu.
+
+INTRODUCTION: Physician shortages in the USA, an issue that has been 
+particularly challenging in Mississippi, have been a concern among health 
+scholars and policy makers for several decades. Physician shortages hinder 
+residents from easily obtaining routine care, potentially magnifying health 
+disparities. This study examines physician career life expectancy, or how long 
+physicians typically practice, in Mississippi.
+METHODS: Data on Mississippi's physician population actively involved between 
+2007 and 2011 were obtained from the Mississippi State Board of Medical 
+Licensure. Abridged career life tables were constructed for all Mississippi 
+physicians and population subgroups based on practice specialty, gender, race, 
+urban-rural practice, and health professional shortage area status.
+RESULTS: Upon entry into practice in Mississippi, physicians practiced for about 
+14.4 years. Rural physicians, primary care physicians, minority physicians, 
+physicians practicing in health professional shortage areas, and men had the 
+longest career expectancies. Physicians who are women or who practice in urban 
+counties were substantially more likely to exit practice compared to all other 
+subgroups examined. The odds of remaining in practice were significantly 
+different based on gender, race, urban-rural practice county, and health 
+professional shortage area status.
+CONCLUSIONS: The first 5 years of practice are the most critical regarding 
+retention for all physicians, regardless of practice specialty, gender, race, 
+urban-rural status, or health professional shortage area status.
+
+PMID: 27169830 [Indexed for MEDLINE]
+
+
+266. Health Qual Life Outcomes. 2016 May 11;14:77. doi:
+10.1186/s12955-016-0478-7.
+
+Individuals with knee impairments identify items in need of clarification in the 
+Patient Reported Outcomes Measurement Information System (PROMIS®) pain 
+interference and physical function item banks - a qualitative study.
+
+Lynch AD(1)(2), Dodds NE(3), Yu L(3)(4), Pilkonis PA(3)(5), Irrgang JJ(6)(7)(8).
+
+Author information:
+(1)Department of Physical Therapy, University of Pittsburgh, 229 Bridgeside 
+Point 1, 100 Technology Drive, Pittsburgh, PA, 15219, USA. adl45@pitt.edu.
+(2)UPMC Center for Sports Medicine, Pittsburgh, PA, USA. adl45@pitt.edu.
+(3)Department of Psychiatry, University of Pittsburgh, Pittsburgh, PA, USA.
+(4)Department of Medicine, University of Pittsburgh, Pittsburgh, PA, USA.
+(5)Department of Psychology, University of Pittsburgh, Pittsburgh, PA, USA.
+(6)Department of Physical Therapy, University of Pittsburgh, 229 Bridgeside 
+Point 1, 100 Technology Drive, Pittsburgh, PA, 15219, USA.
+(7)Department of Orthopaedic Surgery, University of Pittsburgh, Pittsburgh, PA, 
+USA.
+(8)UPMC Center for Sports Medicine, Pittsburgh, PA, USA.
+
+BACKGROUND: The content and wording of the Patient Reported Outcome Measurement 
+Information System (PROMIS) Physical Function and Pain Interference item banks 
+have not been qualitatively assessed by individuals with knee joint impairments. 
+The purpose of this investigation was to identify items in the PROMIS Physical 
+Function and Pain Interference Item Banks that are irrelevant, unclear, or 
+otherwise difficult to respond to for individuals with impairment of the knee 
+and to suggest modifications based on cognitive interviews.
+METHODS: Twenty-nine individuals with knee joint impairments qualitatively 
+assessed items in the Pain Interference and Physical Function Item Banks in a 
+mixed-methods cognitive interview. Field notes were analyzed to identify themes 
+and frequency counts were calculated to identify items not relevant to 
+individuals with knee joint impairments.
+RESULTS: Issues with clarity were identified in 23 items in the Physical 
+Function Item Bank, resulting in the creation of 43 new or modified items, 
+typically changing words within the item to be clearer. Interpretation issues 
+included whether or not the knee joint played a significant role in overall 
+health and age/gender differences in items. One quarter of the original items 
+(31 of 124) in the Physical Function Item Bank were identified as irrelevant to 
+the knee joint. All 41 items in the Pain Interference Item Bank were identified 
+as clear, although individuals without significant pain substituted other 
+symptoms which interfered with their life.
+CONCLUSIONS: The Physical Function Item Bank would benefit from additional items 
+that are relevant to individuals with knee joint impairments and, by extension, 
+to other lower extremity impairments. Several issues in clarity were identified 
+that are likely to be present in other patient cohorts as well.
+
+DOI: 10.1186/s12955-016-0478-7
+PMCID: PMC4864902
+PMID: 27169858 [Indexed for MEDLINE]
+
+
+267. AAPS J. 2016 Jul;18(4):801-3. doi: 10.1208/s12248-016-9910-5. Epub 2016 May
+11.
+
+Critical Importance and Quality Evaluation of Drug Delivery Autoinjectors in the 
+FDA-DOD Shelf Life Extension Program (SLEP).
+
+Khan SR(1), Mohammad A(2), Khan MA(3), Faustino PJ(2).
+
+Author information:
+(1)Division of Product Quality Research, Office of Testing and Research, Office 
+of Pharmaceutical Quality, Center for Drug Evaluation and Research, Food and 
+Drug Administration, Silver Spring, Maryland, USA. saeed.khan2@fda.hhs.gov.
+(2)Division of Product Quality Research, Office of Testing and Research, Office 
+of Pharmaceutical Quality, Center for Drug Evaluation and Research, Food and 
+Drug Administration, Silver Spring, Maryland, USA.
+(3)Texas A&M Health Science Center, Reynolds Medical Building, Suite 159, 
+College Station, Texas, 77843-1114, USA.
+
+Comment on
+    J Pharm Sci. 2006 Jul;95(7):1549-60.
+
+DOI: 10.1208/s12248-016-9910-5
+PMID: 27170033 [Indexed for MEDLINE]
+
+
+268. IEEE J Transl Eng Health Med. 2015 Mar 5;3:2800110. doi: 
+10.1109/JTEHM.2015.2400919. eCollection 2015.
+
+Current and Future Challenges in Point-of-Care Technologies: A Paradigm-Shift in 
+Affordable Global Healthcare With Personalized and Preventive Medicine.
+
+Dhawan AP, Heetderks WJ, Pavel M, Acharya S, Akay M, Mairal A, Wheeler B, Dacso 
+CC, Sunder T, Lovell N, Gerber M, Shah M, Senthilvel SG, Wang MD, Bhargava B.
+
+This paper summarizes the panel discussion at the IEEE Engineering in Medicine 
+and Biology Point-of-Care Healthcare Technology Conference (POCHT 2013) held in 
+Bangalore India from Jan 16-18, 2013. Modern medicine has witnessed 
+interdisciplinary technology innovations in healthcare with a continuous growth 
+in life expectancy across the globe. However, there is also a growing global 
+concern on the affordability of rapidly rising healthcare costs. To provide 
+quality healthcare at reasonable costs, there has to be a convergence of 
+preventive, personalized, and precision medicine with the help of technology 
+innovations across the entire spectrum of point-of-care (POC) to critical care 
+at hospitals. The first IEEE EMBS Special Topic POCHT conference held in 
+Bangalore, India provided an international forum with clinicians, healthcare 
+providers, industry experts, innovators, researchers, and students to define 
+clinical needs and technology solutions toward commercialization and translation 
+to clinical applications across different environments and infrastructures. This 
+paper presents a summary of discussions that took place during the keynote 
+presentations, panel discussions, and breakout sessions on needs, challenges, 
+and technology innovations in POC technologies toward improving global 
+healthcare. Also presented is an overview of challenges and trends in developing 
+and developed economies with respect to priority clinical needs, technology 
+innovations in medical devices, translational engineering, information and 
+communication technologies, infrastructure support, and patient and clinician 
+acceptance of POC healthcare technologies.
+
+DOI: 10.1109/JTEHM.2015.2400919
+PMCID: PMC4848045
+PMID: 27170902
+
+
+269. PLoS One. 2016 May 12;11(5):e0155524. doi: 10.1371/journal.pone.0155524. 
+eCollection 2016.
+
+Knee Joint Distraction Compared to Total Knee Arthroplasty for Treatment of End 
+Stage Osteoarthritis: Simulating Long-Term Outcomes and Cost-Effectiveness.
+
+van der Woude JA(1)(2), Nair SC(2), Custers RJ(3), van Laar JM(2), Kuchuck 
+NO(2), Lafeber FP(2), Welsing PM(2).
+
+Author information:
+(1)Department of Orthopedics, Maartenskliniek Woerden, Woerden, The Netherlands.
+(2)Department of Rheumatology & Clinical Immunology, UMC Utrecht, Utrecht, The 
+Netherlands.
+(3)Department of Orthopedics, UMC Utrecht, Utrecht, The Netherlands.
+
+OBJECTIVE: In end-stage knee osteoarthritis the treatment of choice is total 
+knee arthroplasty (TKA). An alternative treatment is knee joint distraction 
+(KJD), suggested to postpone TKA. Several studies reported significant and 
+prolonged clinical improvement of KJD. To make an appropriate decision regarding 
+the position of this treatment, a cost-effectiveness and cost-utility analysis 
+from healthcare perspective for different age and gender categories was 
+performed.
+METHODS: A treatment strategy starting with TKA and a strategy starting with KJD 
+for patients of different age and gender was simulated. To extrapolate outcomes 
+to long-term health and economic outcomes a Markov (Health state) model was 
+used. The number of surgeries, QALYs, and treatment costs per strategy were 
+calculated. Costs-effectiveness is expressed using the cost-effectiveness plane 
+and cost-effectiveness acceptability curves.
+RESULTS: Starting with KJD the number of knee replacing procedures could be 
+reduced, most clearly in the younger age categories; especially revision 
+surgery. This resulted in the KJD strategy being dominant (more effective with 
+cost-savings) in about 80% of simulations (with only inferiority in about 1%) in 
+these age categories when compared to TKA. At a willingness to pay of 20.000 
+Euro per QALY gained, the probability of starting with KJD to be cost-effective 
+compared to starting with a TKA was already found to be over 75% for all age 
+categories and over 90-95% for the younger age categories.
+CONCLUSION: A treatment strategy starting with knee joint distraction for knee 
+osteoarthritis has a large potential for being a cost-effective intervention, 
+especially for the relatively young patient.
+
+DOI: 10.1371/journal.pone.0155524
+PMCID: PMC4865158
+PMID: 27171268 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+270. PLoS One. 2016 May 12;11(5):e0153963. doi: 10.1371/journal.pone.0153963. 
+eCollection 2016.
+
+Non-Medical Risk Factors as Avoidable Determinants of Excess Mortality in 
+Children with Chronic Kidney Disease. A Prospective Cohort Study in Nicaragua, a 
+Model Low Income Country.
+
+Montini G(1)(2), Edefonti A(1), Galán YS(3), Sandoval Díaz M(3), Medina 
+Manzanarez M(3), Marra G(1), Robusto F(4), Tognoni G(4), Sereni F(2).
+
+Author information:
+(1)Pediatric Nephrology and Dialysis Unit, Fondazione IRCCS Ca' Granda Ospedale 
+Maggiore Policlinico, Milano, Italy.
+(2)Department of Clinical Sciences and Community Health, University of Milan, 
+Milan, Italy.
+(3)Pediatric Nephrology and Dialysis Unit, Hospital Infantil Manuel de Jesus 
+Rivera "La Mascota", Managua, Nicaragua.
+(4)Fondazione Mario Negri Sud, Santa Maria Imbaro, Italy.
+
+BACKGROUND: The widely recognized clinical and epidemiological relevance of the 
+socioeconomic determinants of health-disease conditions is expected to be 
+specifically critical in terms of chronic diseases in fragile populations in 
+low-income countries. However, in the literature, there is a substantial gap 
+between the attention directed towards the medical components of these problems 
+and the actual adoption of strategies aimed at providing solutions for the 
+associated socioeconomic determinants, especially in pediatric populations. We 
+report a prospective outcome study on the independent contribution and 
+reciprocal interaction of the medical and socioeconomic factors to the hard 
+end-point of mortality in a cohort of children with chronic kidney disease in 
+Nicaragua.
+METHODS AND FINDINGS: Every child (n = 309) diagnosed with chronic kidney 
+disease (CKD) and referred to the tertiary unit of Pediatric Nephrology in 
+Managua (Nicaragua) from a network of nine hospitals serving 80% of the 
+country's pediatric population was registered between January 2005 and December 
+2013. The three main socioeconomic determinants evaluated were family income, 
+living conditions and the family's level of education. Further potential 
+determinants of the outcomes included duration of exposure to disease, CKD stage 
+at the first visit as suggested by the KDOQI guidelines in children, the time it 
+took the patients to reach the reference centre and rural or urban context of 
+life. Well-defined and systematically collected medical and socioeconomic data 
+were available for 257 children over a mean follow-up period of 2.5±2.5 years. 
+Mortality and lost to follow-up were considered as outcome end-points both 
+independently and in combination, because of the inevitably progressive nature 
+of the disease. A high proportion (55%) of children presented in the advanced 
+stages of CKD (CKD stage IV and V) at the first visit. At the end of follow-up, 
+145 (57%) of the 257 cohort children were alive, 47 (18%) were lost to follow-up 
+and 65 (25%) had died. Cox regression analysis showed an independent 
+contribution to mortality of CKD stage at diagnosis and of level of education, 
+with overlapping HR values (HR and 95%CI: 2.66; 1.93-3.66 and 2.72; 1.71-4.33, 
+respectively).
+CONCLUSIONS: The unfavourable socioeconomic and cultural background of the 
+pediatric study cohort and the severity of kidney damage at diagnosis were the 
+key determinants of the clinical risk conditions at baseline and of the 
+mortality outcome. Long-term structural interventions on such backgrounds must 
+be adopted to assure effectiveness of medical care and to assure an earlier 
+diagnosis of CKD in these patients. The translation-extension of our results is 
+currently underway with an agenda which includes: 1) better integration of 
+chronic pediatric conditions into primary care strategies to promote prevention 
+and early timely referral; 2) the consideration of socioeconomic conditions as a 
+mandatory component of the packages of best-care; 3) the formulation and 
+flexible adaptation of guidelines and educational programs, based on the 
+information generated by a context-specific, epidemiological monitoring of needs 
+and outcomes, guaranteed by an effective database.
+
+DOI: 10.1371/journal.pone.0153963
+PMCID: PMC4865233
+PMID: 27171479 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+271. Clin Spine Surg. 2016 Oct;29(8):E384-8. doi: 10.1097/BSD.0b013e318292468f.
+
+Retrospective Study of Anterior Interbody Fusion Rates and Patient Outcomes of 
+Using Mineralized Collagen and Bone Marrow Aspirate in Multilevel Adult Spinal 
+Deformity Surgery.
+
+Hostin R(1), O'Brien M, McCarthy I, Bess S, Gupta M, Klineberg E; International 
+Spine Study Group, Denver, CO.
+
+Author information:
+(1)*Baylor Scoliosis Center, Plano†Institute for Health Care Research and 
+Improvement, Baylor Health Care System‡Southern Methodist University, Dallas, 
+TX§Rocky Mountain Scoliosis and Spine, Denver, CO∥Department of Orthopaedic 
+Surgery, University of California Davis Health System, Sacramento, CA.
+
+DESIGN: Retrospective, single-center analysis of multilevel anterior fusion 
+rates and health-related quality-of-life outcomes of mineralized collagen and 
+bone marrow aspirate (BMA) in anterior interbody fusion cages for spine fusion 
+surgery.
+OBJECTIVE: To determine the ability and effectiveness of mineralized collagen 
+and BMA to achieve multilevel anterior spinal fusion in adult spinal deformity 
+patients when placed in carbon fiber reinforced polymer cages.
+SUMMARY OF BACKGROUND DATA: High rates of postoperative pain and nonunion can 
+result from spine fusion procedures. Factors that affect the success of fusion 
+include patient comorbidities, position of implant, and mechanical and 
+biological deficiencies, as well as the choice of bone graft replacement.
+METHODS: Analysis of radiographic images and health-related quality-of-life 
+outcomes was performed for a consecutive series of 22 prospectively enrolled 
+adult spinal deformity patients with 104 total anterior fusion levels. Fusions 
+were graded by 3 blinded surgeons not involved in the operative procedure; each 
+fusion was graded on a 1-4 scale based on fusion mass appearance. Levels with an 
+average fusion grade of 1-2.4 were classified as fused; levels with an average 
+grade >2.5 were classified as not fused.
+RESULTS: The mean patient age was 51.5 years (range, 38-61) with 21 females. A 
+total of 95% of anterior operative levels were graded as fused based on 
+flexion/extension and full-length biplane radiographs at 1 year. Computed 
+tomography grading showed a reduced fusion rate at 87% overall. There was a 
+statistically significant improvement in the Oswestry Disability Index and 
+Scoliosis Research Society 22-item questionnaire scores at 1 and 2 years after 
+index surgery.
+CONCLUSIONS: Fusion rates in multilevel anterior spinal fusion using mineralized 
+collagen and BMA are relatively low compared with fusion rates of 95% or more 
+reported in the existing literature on long fusions with bone morphogenetic 
+protein.
+
+DOI: 10.1097/BSD.0b013e318292468f
+PMID: 27171663 [Indexed for MEDLINE]
+
+
+272. J Med Econ. 2016 Oct;19(10):995-1002. doi: 10.1080/13696998.2016.1189921.
+Epub  2016 Jun 1.
+
+A cost-utility analysis of prolonged-release tacrolimus relative to 
+immediate-release tacrolimus and ciclosporin in liver transplant recipients in 
+the UK.
+
+Muduma G(1), Odeyemi I(1), Pollock RF(2).
+
+Author information:
+(1)a Astellas Pharma Europe Limited , Chertsey , UK ;
+(2)b Ossian Health Economics and Communications , Basel , Switzerland.
+
+BACKGROUND: Calcineurin inhibitors (CNIs) represent the cornerstone of 
+immunosuppressive therapy after liver transplantation. A recent network 
+meta-analysis (NMA) evaluated the relative efficacy of CNIs ciclosporin, 
+prolonged-release (PR) tacrolimus, and immediate-release (IR) tacrolimus in 
+adult liver transplant recipients based on randomized and large observational 
+trials published since 2000. Based on the NMA findings, the present study 
+evaluated the cost-utility of PR tacrolimus relative to ciclosporin or IR 
+tacrolimus in liver transplant recipients in the UK.
+METHODS: A Markov model was developed to evaluate the cost-utility of 
+immunosuppressive regimens in liver transplant recipients, capturing costs 
+associated with immunosuppression, retransplantation, acute rejection (AR), and 
+cytomegalovirus infection. Mortality, graft loss, and AR odds ratios were 
+derived from the NMA. Costs were taken from the British National Formulary and 
+the NHS National Tariff and expressed in 2016 pounds sterling. Future costs and 
+effects were discounted at 3.5% annually.
+RESULTS: Over 25 years, PR tacrolimus resulted in increased life expectancy and 
+quality-adjusted life expectancy (QALE) relative to IR tacrolimus and 
+ciclosporin. Relative to ciclosporin, QALE increased by 1.17 quality-adjusted 
+life years (QALYs) with PR tacrolimus while costs increased by GBP £4645, 
+yielding an incremental cost-effectiveness ratio (ICER) of £3962 per QALY 
+gained. Relative to IR tacrolimus, QALE increased by 0.78 QALYs and costs by 
+£1474, resulting in an ICER of £1889 per QALY gained. Sensitivity analysis 
+showed the analysis to be most sensitive to dosing assumptions.
+CONCLUSIONS: Based on a UK-specific analysis of the projected cost-utility of PR 
+tacrolimus relative to IR tacrolimus and ciclosporin, PR tacrolimus was 
+cost-effective, improving life expectancy and QALE relative to both IR 
+tacrolimus and ciclosporin, yielding ICERs below £20 000 per QALY gained. The 
+main limitations of the study were data source heterogeneity and omitting the 
+economic and clinical effects of treating aspects of recurrent liver disease.
+
+DOI: 10.1080/13696998.2016.1189921
+PMID: 27172118 [Indexed for MEDLINE]
+
+
+273. J Am Vet Med Assoc. 2016 Jun 1;248(11):1267-73. doi:
+10.2460/javma.248.11.1267.
+
+Incidence of malignancy and outcomes for dogs undergoing splenectomy for 
+incidentally detected nonruptured splenic nodules or masses: 105 cases 
+(2009-2013).
+
+Cleveland MJ, Casale S.
+
+OBJECTIVE To determine the frequency of malignancy and survival rates of dogs 
+that underwent splenectomy for incidentally detected nonruptured splenic masses 
+or nodules. DESIGN Retrospective case series. ANIMALS 105 client-owned dogs. 
+PROCEDURES Medical records of dogs that underwent splenectomy at a veterinary 
+teaching hospital between 2009 and 2013 were examined to identify patients with 
+incidentally detected nonruptured splenic masses or nodules without associated 
+hemoperitoneum. Only dogs with histologically confirmed diagnoses were included. 
+Information regarding signalment, preoperative diagnostic tests, perioperative 
+blood product transfusions, splenic mass diameter, histologic findings, 
+adjunctive treatments, and survival time was collected and analyzed. RESULTS 74 
+of 105 (70.5%) patients had benign splenic lesions and 31 (29.5%) had malignant 
+neoplasia, most commonly hemangiosarcoma (18/31 [58%]). The hazard of death 
+decreased as preoperative PCV increased; histopathologic diagnosis of malignant 
+neoplasia was significantly associated with an increased hazard of death. Median 
+life expectancy of dogs with benign and malignant lesions was 436 and 110 days, 
+respectively; 41 of 74 patients with benign lesions and 3 of 31 patients with 
+malignant neoplasia were still alive at study conclusion. Median life expectancy 
+of dogs with hemangiosarcoma was 132 days; only 7 of these 18 dogs received any 
+adjunctive chemotherapeutic treatments. CONCLUSIONS AND CLINICAL RELEVANCE 
+Incidentally found, nonruptured splenic masses or nodules without associated 
+hemoperitoneum were most commonly benign. Results suggested that life expectancy 
+for these dogs with incidentally detected benign or malignant splenic lesions 
+that received prompt intervention was better than has previously been reported 
+for other studied populations.
+
+DOI: 10.2460/javma.248.11.1267
+PMID: 27172343 [Indexed for MEDLINE]
+
+
+274. Osteoporos Int. 2016 Oct;27(10):2945-53. doi: 10.1007/s00198-016-3616-5.
+Epub  2016 May 12.
+
+Hip fracture, mortality risk, and cause of death over two decades.
+
+von Friesendorff M(1)(2), McGuigan FE(1)(2), Wizert A(3), Rogmark C(1)(2), 
+Holmberg AH(1)(2), Woolf AD(4), Akesson K(5)(6).
+
+Author information:
+(1)Department of Clinical Sciences Malmö, Clinical and Molecular Osteoporosis 
+Research Unit, Lund University, Malmö, Sweden.
+(2)Department of Orthopedics Malmö, Skåne University Hospital, 205 02, Malmö, 
+Sweden.
+(3)ERC Syd - Epidemiology and Register Centre South, Skåne University Hospital, 
+Lund, Sweden.
+(4)Department of Rheumatology Royal Cornwall Hospital, Truro, UK.
+(5)Department of Clinical Sciences Malmö, Clinical and Molecular Osteoporosis 
+Research Unit, Lund University, Malmö, Sweden. kristina.akesson@med.lu.se.
+(6)Department of Orthopedics Malmö, Skåne University Hospital, 205 02, Malmö, 
+Sweden. kristina.akesson@med.lu.se.
+
+Men and women with hip fracture have higher short-term mortality. This study 
+investigated mortality risk over two decades post-fracture; excess mortality 
+remained high in women up to 10 years and in men up to 20 years. Cardiovascular 
+disease (CVD) and pneumonia were leading causes of death with a long-term 
+doubling of risk.
+INTRODUCTION: Hip fractures are associated with increased mortality, 
+particularly short term. In this study with a two-decade follow-up, we examined 
+mortality and cause of death compared to the background population.
+METHODS: We followed 1013 hip fracture patients and 2026 matched community 
+controls for 22 years. Mortality, excess mortality, and cause of death were 
+analyzed and stratified for age and sex. Hazard ratio (HR) was estimated by Cox 
+regression. A competing risk model was fitted to estimate HR for common causes 
+of death (CVD, cancer, pneumonia) in the short and long term (>1 year).
+RESULTS: For both sexes and at all ages, mortality was higher in hip fracture 
+patients across the observation period with men losing most life years 
+(p < 0.001). Mortality risk was higher for up to 15 years (women (risk ratio 
+(RR) 1.9 [95 % confidence interval (CI) 1.7-2.1]); men (RR 2.8 [2.2-3.5])) and 
+until end of follow-up ((RR 1.8 [1.6-2.0]); (RR 2.7 [2.1-3.3])). Excess 
+mortality by time intervals, censored for the first year, was evident in women 
+(<80 years, up to 10 years; >80 years, for 5 years) and in men <80 years 
+throughout. CVD and pneumonia were predominant causes of death in men and women 
+with an associated higher risk in all age groups. Pneumonia caused excess 
+mortality in men over the entire observation period.
+CONCLUSION: In a remaining lifetime perspective, all-cause and excess mortality 
+after hip fracture was higher even over two decades of follow-up. CVD and 
+pneumonia reduce life expectancy for the remaining lifetime and highlights the 
+need to further improve post-fracture management.
+
+DOI: 10.1007/s00198-016-3616-5
+PMID: 27172936 [Indexed for MEDLINE]
+
+
+275. BMJ. 2016 May 12;353:i2707. doi: 10.1136/bmj.i2707.
+
+Improved health outcomes are linked to higher social spending.
+
+Hawkes N(1).
+
+Author information:
+(1)London.
+
+DOI: 10.1136/bmj.i2707
+PMID: 27172979 [Indexed for MEDLINE]
+
+
+276. Lancet. 2016 Jun 11;387(10036):2383-401. doi: 10.1016/S0140-6736(16)00648-6.
+ Epub 2016 May 9.
+
+Global burden of diseases, injuries, and risk factors for young people's health 
+during 1990-2013: a systematic analysis for the Global Burden of Disease Study 
+2013.
+
+Mokdad AH(1), Forouzanfar MH(2), Daoud F(2), Mokdad AA(2), El Bcheraoui C(2), 
+Moradi-Lakeh M(3), Kyu HH(2), Barber RM(2), Wagner J(2), Cercy K(2), Kravitz 
+H(2), Coggeshall M(2), Chew A(2), O'Rourke KF(2), Steiner C(2), Tuffaha M(2), 
+Charara R(2), Al-Ghamdi EA(4), Adi Y(4), Afifi RA(5), Alahmadi H(6), AlBuhairan 
+F(7), Allen N(8), AlMazroa M(4), Al-Nehmi AA(9), AlRayess Z(4), Arora M(10), 
+Azzopardi P(11), Barroso C(12), Basulaiman M(4), Bhutta ZA(13), Bonell C(14), 
+Breinbauer C(15), Degenhardt L(16), Denno D(17), Fang J(18), Fatusi A(19), Feigl 
+AB(20), Kakuma R(21), Karam N(22), Kennedy E(23), Khoja TA(24), Maalouf F(25), 
+Obermeyer CM(26), Mattoo A(27), McGovern T(28), Memish ZA(29), Mensah GA(30), 
+Patel V(31), Petroni S(32), Reavley N(33), Zertuche DR(34), Saeedi M(4), 
+Santelli J(28), Sawyer SM(35), Ssewamala F(36), Taiwo K(37), Tantawy M(4), Viner 
+RM(38), Waldfogel J(39), Zuñiga MP(34), Naghavi M(2), Wang H(2), Vos T(2), Lopez 
+AD(40), Al Rabeeah AA(4), Patton GC(35), Murray CJ(2).
+
+Author information:
+(1)Institute for Health Metrics and Evaluation, University of Washington, 
+Seattle, WA, USA. Electronic address: mokdaa@uw.edu.
+(2)Institute for Health Metrics and Evaluation, University of Washington, 
+Seattle, WA, USA.
+(3)Institute for Health Metrics and Evaluation, University of Washington, 
+Seattle, WA, USA; Department of Community Medicine, Gastrointestinal and Liver 
+Disease Research Center, Iran University of Medical Sciences, Tehran, Iran.
+(4)Saudi Ministry of Health, Riyadh, Saudi Arabia.
+(5)Department of Health Promotion and Community Health, American University of 
+Beirut, Beirut, Lebanon.
+(6)Institute of Public Administration, Riyadh, Saudi Arabia.
+(7)King Abdullah Specialized Children's Hospital, King Saud bin Abdulaziz 
+University for Health Sciences, Riyadh, Saudi Arabia; King Abdullah 
+International Medical Research Center, Riyadh, Saudi Arabia.
+(8)Department of Psychology, University of Oregon, Eugene, OR, USA.
+(9)Ministry of Health, Sana'a, Yemen.
+(10)Public Health Foundation of India, Delhi, India.
+(11)Centre for Adolescent Health, Royal Children's Hospital, Parkville, VIC, 
+Australia; Murdoch Childrens Research Institute, Royal Children's Hospital, 
+Parkville, VIC, Australia; South Australian Health and Medical Research 
+Institute, Adelaide, SA, Australia; South Australian Health and Medical Research 
+Institute, Adelaide, SA, Australia; Department of Paediatrics, University of 
+Melbourne, Melbourne, VIC, Australia.
+(12)International Planned Parenthood Federation, New York, NY, USA.
+(13)Center of Excellence in Women and Child Health, The Aga Khan University, 
+Karachi, Pakistan; Centre for Global Child Health, The Hospital for Sick 
+Children, Toronto, ON, Canada.
+(14)Department of Social Science, UCL Institute of Education, University College 
+London, London, UK.
+(15)Department of Psychiatry and Behavioral Sciences, University of Washington, 
+Seattle, WA, USA.
+(16)National Drug and Alcohol Research Centre, University of New South Wales, 
+Sydney, NSW, Australia.
+(17)Department of Pediatrics, University of Washington, Seattle, WA, USA.
+(18)Institute for Health Sciences, Kunming Medical University, Kunming City, 
+China.
+(19)Department of Community Health, College of Health Sciences, Obafemi Awolowo 
+University, Ile Ife, Nigeria.
+(20)Department of Global Health and Population, TH Chan School of Public Health, 
+Harvard University, Boston, MA, USA.
+(21)Global and Cultural Mental Health Unit, University of Melbourne, Melbourne, 
+VIC, Australia.
+(22)University of Balamand, Beirut, Lebanon.
+(23)Centre for International Health, Burnet Institute and School of Public 
+Health and Preventive Medicine, Monash University, Melbourne, VIC, Australia.
+(24)Executive Board, Health Ministers' Council for Cooperation Council States, 
+Riyadh, Saudi Arabia.
+(25)Faculty of Health Sciences, Department of Psychiatry; Faculty of Medicine 
+and Medical Center, American University of Beirut, Beirut, Lebanon.
+(26)Center for Research on Population and Health; Faculty of Medicine and 
+Medical Center, American University of Beirut, Beirut, Lebanon.
+(27)Melbourne School of Government, University of Melbourne, Melbourne, VIC, 
+Australia; Australia India Institute, Carlton, VIC, Australia; School of 
+International Studies, Jawaharlal Nehru University, New Delhi, Delhi, India.
+(28)Mailman School of Public Health, Columbia University, New York, NY, USA.
+(29)Saudi Ministry of Health, Riyadh, Saudi Arabia; College of Medicine, 
+Alfaisal University, Riyadh, Saudi Arabia.
+(30)Center for Translation Research and Implementation Science, National Heart, 
+Lung, and Blood Institute, National Institutes of Health, Bethesda, MD, USA.
+(31)Public Health Foundation of India, Delhi, India; Department of Population 
+Health, London School of Hygiene and Tropical Medicine, London, UK.
+(32)International Center for Research on Women, Washington, DC, USA.
+(33)Centre for Mental Health, Melbourne School of Population and Global Health, 
+University of Melbourne, Melbourne, VIC, Australia.
+(34)Salud Mesoamérica 2015 Initiative, Panama City, Panama.
+(35)Centre for Adolescent Health, Royal Children's Hospital, Parkville, VIC, 
+Australia; Murdoch Childrens Research Institute, Royal Children's Hospital, 
+Parkville, VIC, Australia; Department of Paediatrics, University of Melbourne, 
+Melbourne, VIC, Australia.
+(36)International Center for Child Health and Asset Development, Columbia 
+University, New York, NY, USA.
+(37)The Lancet Youth, Lancet Commission on Adolescent Health and Wellbeing, 
+London, UK.
+(38)Institute of Child Health, University College London, London, UK.
+(39)School of Social Work, Columbia University, New York, NY, USA.
+(40)Institute for Health Metrics and Evaluation, University of Washington, 
+Seattle, WA, USA; Melbourne School of Population and Global Health, University 
+of Melbourne, Melbourne, VIC, Australia.
+
+Comment in
+    Lancet. 2016 Jun 11;387(10036):2353-4.
+
+BACKGROUND: Young people's health has emerged as a neglected yet pressing issue 
+in global development. Changing patterns of young people's health have the 
+potential to undermine future population health as well as global economic 
+development unless timely and effective strategies are put into place. We report 
+the past, present, and anticipated burden of disease in young people aged 10-24 
+years from 1990 to 2013 using data on mortality, disability, injuries, and 
+health risk factors.
+METHODS: The Global Burden of Disease Study 2013 (GBD 2013) includes annual 
+assessments for 188 countries from 1990 to 2013, covering 306 diseases and 
+injuries, 1233 sequelae, and 79 risk factors. We used the comparative risk 
+assessment approach to assess how much of the burden of disease reported in a 
+given year can be attributed to past exposure to a risk. We estimated 
+attributable burden by comparing observed health outcomes with those that would 
+have been observed if an alternative or counterfactual level of exposure had 
+occurred in the past. We applied the same method to previous years to allow 
+comparisons from 1990 to 2013. We cross-tabulated the quantiles of 
+disability-adjusted life-years (DALYs) by quintiles of DALYs annual increase 
+from 1990 to 2013 to show rates of DALYs increase by burden. We used the GBD 
+2013 hierarchy of causes that organises 306 diseases and injuries into four 
+levels of classification. Level one distinguishes three broad categories: first, 
+communicable, maternal, neonatal, and nutritional disorders; second, 
+non-communicable diseases; and third, injuries. Level two has 21 mutually 
+exclusive and collectively exhaustive categories, level three has 163 
+categories, and level four has 254 categories.
+FINDINGS: The leading causes of death in 2013 for young people aged 10-14 years 
+were HIV/AIDS, road injuries, and drowning (25·2%), whereas transport injuries 
+were the leading cause of death for ages 15-19 years (14·2%) and 20-24 years 
+(15·6%). Maternal disorders were the highest cause of death for young women aged 
+20-24 years (17·1%) and the fourth highest for girls aged 15-19 years (11·5%) in 
+2013. Unsafe sex as a risk factor for DALYs increased from the 13th rank to the 
+second for both sexes aged 15-19 years from 1990 to 2013. Alcohol misuse was the 
+highest risk factor for DALYs (7·0% overall, 10·5% for males, and 2·7% for 
+females) for young people aged 20-24 years, whereas drug use accounted for 2·7% 
+(3·3% for males and 2·0% for females). The contribution of risk factors varied 
+between and within countries. For example, for ages 20-24 years, drug use was 
+highest in Qatar and accounted for 4·9% of DALYs, followed by 4·8% in the United 
+Arab Emirates, whereas alcohol use was highest in Russia and accounted for 
+21·4%, followed by 21·0% in Belarus. Alcohol accounted for 9·0% (ranging from 
+4·2% in Hong Kong to 11·3% in Shandong) in China and 11·6% (ranging from 10·1% 
+in Aguascalientes to 14·9% in Chihuahua) of DALYs in Mexico for young people 
+aged 20-24 years. Alcohol and drug use in those aged 10-24 years had an annual 
+rate of change of >1·0% from 1990 to 2013 and accounted for more than 3·1% of 
+DALYs.
+INTERPRETATION: Our findings call for increased efforts to improve health and 
+reduce the burden of disease and risks for diseases in later life in young 
+people. Moreover, because of the large variations between countries in risks and 
+burden, a global approach to improve health during this important period of life 
+will fail unless the particularities of each country are taken into account. 
+Finally, our results call for a strategy to overcome the financial and technical 
+barriers to adequately capture young people's health risk factors and their 
+determinants in health information systems.
+FUNDING: Bill & Melinda Gates Foundation.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(16)00648-6
+PMID: 27174305 [Indexed for MEDLINE]
+
+
+277. Actas Urol Esp. 2016 Oct;40(8):499-506. doi: 10.1016/j.acuro.2016.03.008.
+Epub  2016 May 9.
+
+Advanced prostate cancer survival in Spain according to the Gleason score, age 
+and stage.
+
+[Article in English, Spanish]
+
+Campá J(1), Mar-Barrutia G(2), Extramiana J(3), Arróspide A(4), Mar J(5).
+
+Author information:
+(1)Servicio de Urología, Hospital Universitario de Álava, Vitoria-Gasteiz, 
+España. Electronic address: josepmaria.campabortolo@osakidetza.eus.
+(2)Unidad de Investigación AP-OSI, Hospital Alto Deba, Arrasate-Mondragón, 
+Bilbao, España.
+(3)Servicio de Urología, Hospital Universitario de Álava, Vitoria-Gasteiz, 
+España.
+(4)Unidad de Investigación AP-OSI, Hospital Alto Deba, Arrasate-Mondragón, 
+Bilbao, España; Red de Investigación en Servicios de Salud y Enfermedades 
+Crónicas (REDISSEC), Bilbao, España; Instituto Biodonostia, Donostia-San 
+Sebastián, España.
+(5)Unidad de Investigación AP-OSI, Hospital Alto Deba, Arrasate-Mondragón, 
+Bilbao, España; Red de Investigación en Servicios de Salud y Enfermedades 
+Crónicas (REDISSEC), Bilbao, España; Instituto Biodonostia, Donostia-San 
+Sebastián, España; Unidad de Gestión Sanitaria, Hospital Alto Deba, 
+Arrasate-Mondragón, España.
+
+OBJECTIVES: The aim of this study was to determine the overall and disaggregated 
+survival based on the Gleason score, age and extent of a patient cohort 
+diagnosed with advanced prostate cancer according to standard clinical practice.
+MATERIAL AND METHOD: We used an observational and retrospective design for the 
+study. For each patient, we recorded clinical variables such as the extent 
+(metastatic or locally advanced), Gleason score, age, date of diagnosis, date of 
+last contact with the health system and the vital status during the last 
+contact. We used univariate and multivariate statistical techniques of survival. 
+The parametric survival methods enabled us to calculate the mean survival using 
+extrapolation. We analysed 219 patients treated in the public health system 
+between 2008 and 2011. The analysis showed statistically significant differences 
+in survival depending on Gleason score, age and stage. The longest survival was 
+in the subgroup younger than 75 years, with a local extent and a low-risk 
+category on the Gleason scale (19.41 years), and the shortest survival (0.97 
+years) was in the 75 years or older group. The survival of the other subgroups 
+ranged between these outliers.
+CONCLUSION: The main contribution of this study is that it is the first to 
+calculate the mean survival of advanced prostate cancer in Spain in terms of the 
+variables of our study population. This information helps clinicians predict the 
+life expectancy of each patient according to their prognostic factors.
+
+Copyright © 2016 AEU. Publicado por Elsevier España, S.L.U. All rights reserved.
+
+DOI: 10.1016/j.acuro.2016.03.008
+PMID: 27174571 [Indexed for MEDLINE]
+
+
+278. Int J Epidemiol. 2016 Apr;45(2):586-7. doi: 10.1093/ije/dyw063.
+
+Health is not just the absence of disease ….
+
+Cieza A(1), Oberhauser C(2), Bickenbach J(3), Jones RN(4), Üstün TB(5), 
+Kostanjsek N(5), Morris JN(6), Chatterji S(7).
+
+Author information:
+(1)Faculty of Social and Human Sciences, University of Southampton, Southampton, 
+UK, Department of Medical Informatics, Biometry and Epidemiology, LMU Munich, 
+Munich, Germany, Swiss Paraplegic Research, Nottwil, Switzerland.
+(2)Department of Medical Informatics, Biometry and Epidemiology, LMU Munich, 
+Munich, Germany.
+(3)Swiss Paraplegic Research, Nottwil, Switzerland, Department of Health 
+Sciences and Health Policy, University of Lucerne, Lucerne, Switzerland.
+(4)Departments of Psychiatry and Human Behavior and Neurology, Warren Alpert 
+Medical School, Brown University, Providence, RI, USA.
+(5)Classification, Terminology and Standards, Department of Health Statistics 
+and Informatics, World Health Organization, Geneva, Switzerland.
+(6)Hebrew Senior Life's Institute for Aging Research, Social and Health Policy 
+Research, Boston, MA, USA and.
+(7)Multi-Country Studies, Department of Measurement and Health Information 
+Systems, World Health Organization, Geneva, Switzerland.
+
+Comment on
+    Int J Epidemiol. 2015 Feb;44(1):229-38.
+    Int J Epidemiol. 2015 Feb;44(1):238-9.
+
+DOI: 10.1093/ije/dyw063
+PMCID: PMC4864884
+PMID: 27174840 [Indexed for MEDLINE]
+
+
+279. J Med Imaging Radiat Oncol. 2016 Oct;60(5):650-660. doi: 
+10.1111/1754-9485.12467. Epub 2016 May 13.
+
+Economic evaluation of single-fraction versus multiple-fraction palliative 
+radiotherapy for painful bone metastases in breast, lung and prostate cancer.
+
+Collinson L(1), Kvizhinadze G(1), Nair N(2), McLeod M(1), Blakely T(1).
+
+Author information:
+(1)Burden of Disease, Epidemiology, Equity and Cost Effectiveness Programme 
+(BODE3), Department of Public Health, University of Otago, Wellington, New 
+Zealand.
+(2)Burden of Disease, Epidemiology, Equity and Cost Effectiveness Programme 
+(BODE3), Department of Public Health, University of Otago, Wellington, New 
+Zealand. nisha.nair@otago.ac.nz.
+
+INTRODUCTION: Single- and multiple-fraction external beam radiotherapy (SFX-EBRT 
+and MFX-EBRT) are palliative treatment options for localized metastatic bone 
+pain. MFX is the preferred choice in many developed countries. Evidence shows 
+little difference in how effectively SFX and MFX reduce pain. However, SFX is 
+associated with higher retreatment and (in one meta-analysis) pathological 
+fracture rates. MFX is, however, more time-consuming and expensive. We estimated 
+the cost-effectiveness of SFX versus MFX for metastatic bone pain in breast, 
+prostate and lung cancer in New Zealand.
+METHODS: We constructed a Markov microsimulation model to estimate health gain 
+(in quality-adjusted life-years or QALYs), health system costs (in real 2011 NZ 
+dollars) and cost-effectiveness. The model was populated using effect estimates 
+from randomized controlled trials and other studies, and New Zealand cancer and 
+cost data. Disability weights from the 2010 Global Burden of Disease study were 
+used in estimating QALYs.
+RESULTS: Across all three cancers, QALY gains were similar for SFX compared to 
+MFX, and per patient costs were less for SFX than MFX, with a difference of 
+NZ$1469 (95% uncertainty interval $1112 to $1886) for lung cancer, $1316 ($810 
+to $1854) for prostate cancer and $1344 ($855 to $1846) for breast cancer. 
+Accordingly, from a cost-effectiveness perspective, SFX was the preferable 
+treatment option. Various sensitivity analyses did not overturn the clear 
+preference for SFX.
+CONCLUSION: For all three cancers, SFX was clearly more cost-effective than MFX. 
+This adds to the case for desisting from offering MFX to patients with 
+metastatic bone pain, from a cost-effectiveness angle.
+
+© 2016 The Royal Australian and New Zealand College of Radiologists.
+
+DOI: 10.1111/1754-9485.12467
+PMID: 27174870 [Indexed for MEDLINE]
+
+
+280. Eur J Public Health. 2016 Dec;26(6):1069-1074. doi: 10.1093/eurpub/ckw066.
+Epub  2016 May 11.
+
+Trends in health expectancies among the oldest old in Sweden, 1992-2011.
+
+Sundberg L(1), Agahi N(2), Fritzell J(2), Fors S(2).
+
+Author information:
+(1)Aging Research Center, Karolinska Institutet and Stockholm University, 
+Stockholm, Sweden louise.sundberg@ki.se.
+(2)Aging Research Center, Karolinska Institutet and Stockholm University, 
+Stockholm, Sweden.
+
+Erratum in
+    Eur J Public Health. 2021 Dec 1;31(6):1296-1297.
+
+BACKGROUND: Information on the extent to which older people's increasing life 
+expectancy is characterized by good or poor health is important for policy and 
+fiscal planning. This study explores trends in health expectancies among the 
+oldest old in Sweden from 1992 to 2011.
+METHODS: Cross-sectional health expectancy estimates at age 77 were obtained for 
+1992, 2002, 2004 and 2011 by Sullivan's method. Health expectancy was assessed 
+by severe disability, mild disability and mobility problems. Changes in health 
+expectancies were decomposed into the contributions attributed to changes of 
+mortality rates, and changes in disability and mobility prevalence. Mortality 
+data were obtained from Statistics Sweden and prevalence data from two 
+nationally representative surveys, the Swedish Panel Study of Living Conditions 
+of the Oldest Old and the Survey of Health, Ageing and Retirement in Europe.
+RESULTS: Years free from severe disability, mild disability and mobility 
+problems increased in both men and women. Decomposition analysis indicates that 
+the increase was mainly driven by the change in health status rather than change 
+in mortality. In relation to total life expectancy, the general patterns suggest 
+that women had a compression of health problems and men an expansion.
+CONCLUSION: Men's life expectancy increased more than women's; however, the 
+increased life expectancy among men was mainly characterized by disability and 
+mobility problems. The results suggest that the gender gap in health expectancy 
+is decreasing.
+
+© The Author 2016. Published by Oxford University Press on behalf of the 
+European Public Health Association. All rights reserved.
+
+DOI: 10.1093/eurpub/ckw066
+PMCID: PMC6080840
+PMID: 27175003 [Indexed for MEDLINE]
+
+
+281. BMC Health Serv Res. 2016 May 13;16:178. doi: 10.1186/s12913-016-1428-0.
+
+Investigating the feasibility, acceptability and appropriateness of outreach 
+case management in an urban Aboriginal and Torres Strait Islander primary health 
+care service: a mixed methods exploratory study.
+
+Askew DA(1)(2), Togni SJ(3)(4), Schluter PJ(5)(6), Rogers L(7), Egert S(7), 
+Potter N(7), Hayman NE(7), Cass A(4), Brown ADH(8).
+
+Author information:
+(1)Southern Queensland Centre of Excellence in Aboriginal and Torres Strait 
+Islander Primary Health Care, Queensland Health, Wirraway Pde, Inala Queensland, 
+4077, Australia. d.askew@uq.edu.au.

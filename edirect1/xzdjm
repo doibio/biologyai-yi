@@ -1,0 +1,1000 @@
+relatives can share certain endophenotypes with subjects with SZ. We aim to 
+characterize accelerated aging as a possible endophenotype of schizophrenia by 
+using a machine learning (ML) model of peripheral biomarkers to accurately 
+differentiate subjects with SZ (n = 35), their unaffected siblings (SB, n = 36) 
+and healthy controls (HC, n = 47). We used a random forest algorithm that 
+included biomarkers related to aging: eotaxins CCL-11 and CCL-24; the oxidative 
+stress markers thiobarbituric acid-reactive substances (TBARS), protein carbonyl 
+content (PCC), glutathione peroxidase (GPx); and telomere length (TL). The ML 
+algorithm of biomarkers was able to distinguish individuals with SZ from HC with 
+prediction accuracy of 79.7%, SZ from SB with 62.5% accuracy and SB from HC with 
+75.5% accuracy. These results support the hypothesis that a pathological 
+accelerated aging might occur in SZ, and this pathological aging could be an 
+endophenotype of the disease, once this profile was also observed in SB, 
+suggesting that SB might suffer from an accelerated aging in some level.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jpsychires.2021.04.029
+PMID: 34022473 [Indexed for MEDLINE]
+
+
+344. Epilepsy Res. 2021 Aug;174:106649. doi: 10.1016/j.eplepsyres.2021.106649.
+Epub  2021 May 12.
+
+A multivariable prediction model of a major treatment response for focal-onset 
+seizures: A post-hoc analysis of Phase III trials of perampanel.
+
+Krauss GL(1), Ben-Menachem E(2), Wechsler RT(3), Patten A(4), Williams B(5), 
+Laurenza A(6), Malhotra M(7).
+
+Author information:
+(1)Johns Hopkins Hospital, 1800 Orleans Street, Baltimore, MD, 21287, USA. 
+Electronic address: gkrauss@jhmi.edu.
+(2)Sahlgrenska Academy, University of Gothenburg, Medicinaregatan 3, 413 90, 
+Gothenburg, Sweden. Electronic address: elinor.ben-menachem@neuro.gu.se.
+(3)Idaho Comprehensive Epilepsy Center, 1499 West Hays Street, Boise, ID, 83702, 
+USA. Electronic address: rtw@idahoepilepsy.com.
+(4)Eisai Ltd., Mosquito Way, Hatfield, Hertfordshire, AL10 9SN, UK. Electronic 
+address: Anna_Patten@eisai.net.
+(5)Formerly: Eisai Inc., 100 Tice Boulevard, Woodcliff Lake, NJ, 07677, USA. 
+Electronic address: betsy.williams@iqvia.com.
+(6)Formerly: Eisai Inc., 100 Tice Boulevard, Woodcliff Lake, NJ, 07677, USA. 
+Electronic address: antonio.laurenza@hotmail.com.
+(7)Eisai Inc., 100 Tice Boulevard, Woodcliff Lake, NJ, 07677, USA. Electronic 
+address: manoj_malhotra@eisai.com.
+
+OBJECTIVE: Although 50 % reduction in seizure frequency is a common efficacy 
+endpoint in clinical trials of antiepileptic drugs (AEDs), 75 % or greater 
+reductions may be required to improve patients' health-related quality of life. 
+Identification of clinical factors that are associated with high responder rates 
+may help to inform clinicians on which patients may optimally benefit from 
+treatment. We evaluated potential predictive factors for achieving major 
+treatment responses (≥75 % reduction in seizure frequency per 28 days from study 
+baseline) in patients with drug-resistant focal-onset seizures, with/without 
+focal to bilateral tonic-clonic (FBTC) seizures in perampanel trials designed 
+for regulatory approval.
+METHODS: Univariate analyses using logistic regression were performed using data 
+from three double-blind, placebo-controlled Phase III studies of adjunctive 
+perampanel (Studies 304 [NCT00699972], 305 [NCT00699582], 306 [NCT00700310]), 
+and their open-label extension study (OLEx; Study 307 [NCT00735397]). For the 
+double-blind studies, baseline seizure frequency, number of baseline AEDs, 
+baseline seizure type, baseline concomitant enzyme-inducing AEDs (EIAEDs), 
+baseline carbamazepine, lamotrigine, or valproic acid, age at diagnosis, time 
+since diagnosis, etiology, and perampanel plasma concentration were included 
+individually with study treatment. The same factors were included for the OLEx 
+analysis except for plasma concentration and treatment. Variables found to be 
+significant predictors for a major treatment response in univariate analyses 
+were subsequently included in multivariable analyses using backwards and 
+forwards selection.
+RESULTS: In the double-blind studies, 175/1374 patients had a major response to 
+placebo (n = 25) or perampanel (n = 150). The best predictors of a major 
+treatment response in multivariable models with forwards and backwards selection 
+were: the presence of FBTC seizures during baseline (P = 0.0002), higher 
+perampanel plasma concentration (P < 0.0001), older age at diagnosis (P = 0.0024 
+and 0.0045, respectively), and lower baseline seizure frequency (P = 0.0364 and 
+0.0127, respectively). In the OLEx, 217/1090 patients had a major treatment 
+response. The best predictors of a major treatment response in the final 
+multivariable model, regardless of backwards or forwards selection, were a lower 
+baseline seizure frequency (P = 0.0022), the absence of focal impaired awareness 
+seizures during baseline (P = 0.0011), the presence of FBTC seizures during 
+baseline (P = 0.0164), lower number(s) of baseline AEDs (P = 0.0002), the 
+absence of EIAEDs during baseline (P = 0.0059), an older age at diagnosis (P = 
+0.0054), and absence of structural etiologies (P = 0.0138).
+SIGNIFICANCE: These analyses of placebo-controlled and long-term extension trial 
+data identified a number of potential predictive factors for patients with 
+focal-onset seizures achieving a major treatment response. These factors may 
+help guide clinicians when predicting a patient's response to treatment and 
+optimizing individual treatment regimens.
+
+Copyright © 2021 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.eplepsyres.2021.106649
+PMID: 34022524 [Indexed for MEDLINE]
+
+
+345. BMC Geriatr. 2021 May 22;21(1):327. doi: 10.1186/s12877-021-02287-7.
+
+Cost-utility analysis of a consensus and evidence-based medication review to 
+optimize and potentially reduce psychotropic drug prescription in 
+institutionalized dementia patients.
+
+Massot Mesquida M(1)(2), Folkvord F(3)(4), Seda G(5)(6), Lupiáñez-Villanueva 
+F(4)(7), Torán Monserrat P(5)(6).
+
+Author information:
+(1)Servei d'Atenció Primària Vallès Occidental, Direcció d'Atenció Primària 
+Metropolitana Nord. Institut Català de la Salut. Sabadell, Barcelona, Spain. 
+mmassot.mn.ics@gencat.cat.
+(2)Grup de Recerca Multidisciplinar en Salut i Societat (GREMSAS), accredited by 
+AGAUR (2017 SGR 917), Barcelona, Spain. mmassot.mn.ics@gencat.cat.
+(3)Tilburg School of Humanities and Digital Sciences, Tilburg University, 
+Tilburg, The Netherlands.
+(4)Open Evidence Research, Universitat Oberta de Catalunya, Barcelona, Spain.
+(5)Grup de Recerca Multidisciplinar en Salut i Societat (GREMSAS), accredited by 
+AGAUR (2017 SGR 917), Barcelona, Spain.
+(6)Unitat de Suport a la Recerca Metropolitana Nord, Institut Universitari 
+d'Investigació en Atenció Primària Jordi Gol (IDIAP Jordi Gol), Mataró, 
+Barcelona, Spain.
+(7)Department of Information and Communication Sciences, Universitat Oberta de 
+Catalunya, Barcelona, Spain.
+
+BACKGROUND: Growing evidence shows the effects of psychotropic drugs on the 
+evolution of dementia. Until now, only a few studies have evaluated the 
+cost-effectiveness of psychotropic drugs in institutionalized dementia patients. 
+This study aims to assess the cost-utility of intervention performed in the 
+metropolitan area of Barcelona (Spain) (MN) based on consensus between 
+specialized caregivers involved in the management of dementia patients for 
+optimizing and potentially reducing the prescription of inappropriate 
+psychotropic drugs in this population. This analysis was conducted using the 
+Monitoring and Assessment Framework for the European Innovation Partnership on 
+Active and Healthy Ageing (MAFEIP) tool.
+METHODS: The MAFEIP tool builds up from a variety of surrogate endpoints 
+commonly used across different studies in order to estimate health and economic 
+outcomes in terms of incremental changes in quality adjusted life years (QALYs), 
+as well as health and social care utilization. Cost estimates are based on 
+scientific literature and expert opinion; they are direct costs and include 
+medical visits, hospital care, medical tests and exams and drugs administered, 
+among other concepts. The healthcare costs of patients using the intervention 
+were calculated by means of a medication review that compared patients' 
+drug-related costs before, during and after the use of the intervention 
+conducted in MN between 2012 and 2014. The cost-utility analysis was performed 
+from the perspective of a health care system with a time horizon of 12 months.
+RESULTS: The tool calculated the incremental cost-effectiveness ratio (ICER) of 
+the intervention, revealing it to be dominant, or rather, better (more 
+effective) and cheaper than the current (standard) care. The ICER of the 
+intervention was in the lower right quadrant, making it an intervention that is 
+always accepted even with the lowest given Willingness to Pay (WTP) threshold 
+value (€15,000).
+CONCLUSIONS: The results of this study show that the intervention was dominant, 
+or rather, better (more effective) and cheaper than the current (standard) care. 
+This dominant intervention is therefore recommended to interested investors for 
+systematic application.
+
+DOI: 10.1186/s12877-021-02287-7
+PMCID: PMC8141120
+PMID: 34022809 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors declare that they have no conflicts 
+of interest related to this study.
+
+
+346. Gastrointest Endosc. 2021 Aug;94(2):222-234.e22. doi:
+10.1016/j.gie.2020.12.035.  Epub 2021 May 20.
+
+ASGE guideline on the role of endoscopy in the management of malignant hilar 
+obstruction.
+
+Qumseya BJ(1), Jamil LH(2), Elmunzer BJ(3), Riaz A(4), Ceppa EP(5), Thosani 
+NC(6), Buxbaum JL(7), Storm AC(8), Sawhney MS(9), Pawa S(10), Naveed M(11), Lee 
+JK(12), Law JK(13), Kwon RS(14), Jue TL(15), Fujii-Lau LL(16), Fishman DS(17), 
+Calderwood AH(18), Amateau SK(19), Al-Haddad M(20), Wani S(21).
+
+Author information:
+(1)Department of Gastroenterology, University of Florida, Gainesville, Florida, 
+USA. Electronic address: Bashar.Qumseya@medicine.ufl.edu.
+(2)Section of Gastroenterology and Hepatology, Beaumont Health, Royal Oak, 
+Michigan, USA, Oakland University William Beaumont School of Medicine, 
+Rochester, Michigan, USA.
+(3)Department of Gastroenterology and Hepatology, Medical University of South 
+Carolina, Charleston, South Carolina, USA.
+(4)Department of Vascular and Interventional Radiology, Northwestern Medicine, 
+Chicago, Illinois, USA.
+(5)Department of Surgery, Indiana University School of Medicine, Indianapolis, 
+Indiana, USA.
+(6)Division of Gastroenterology, Hepatology and Nutrition, McGovern Medical 
+School, UTHealth, Houston, Texas, USA.
+(7)Division of Gastrointestinal and Liver Diseases, Keck School of Medicine of 
+the University of Southern California, Los Angeles, California, USA.
+(8)Department of Gastroenterology and Hepatology, Mayo Clinic, Rochester, 
+Minnesota, USA.
+(9)Division of Gastroenterology, Beth Israel Deaconess Medical Center, Harvard 
+Medical School, Boston, Massachusetts, USA.
+(10)Department of Gastroenterology, Wake Forest School of Medicine, Winston 
+Salem, North Carolina, USA.
+(11)Advent Health Medical Group, Department of Gastroenterology/Hepatology, 
+Advent Health Hospital Altamonte Springs, Altamonte Springs, Florida, USA.
+(12)Department of Gastroenterology, Kaiser Permanente San Francisco Medical 
+Center, San Francisco, California, USA.
+(13)Department of Gastroenterology and Hepatology, Digestive Disease Institute, 
+Virginia Mason Medical Center, Seattle, Washington, USA.
+(14)Department of Gastroenterology, Michigan Medicine, University of Michigan, 
+Ann Arbor, Michigan, USA.
+(15)Department of Gastroenterology, The Permanente Medical Group, San Francisco, 
+California, USA.
+(16)Department of Gastroenterology, The Queen's Medical Center, Honolulu, 
+Hawaii, USA.
+(17)Section of Pediatric Gastroenterology, Hepatology and Nutrition, Baylor 
+College of Medicine, Texas Children's Hospital, Houston, Texas, USA.
+(18)Department of Gastroenterology and Hepatology, Geisel School of Medicine, 
+Dartmouth-Hitchcock Medical Center, Lebanon, New Hampshire, USA.
+(19)Division of Gastroenterology Hepatology and Nutrition, University of 
+Minnesota Medical Center, Minneapolis, Minnesota, USA.
+(20)Division of Gastroenterology and Hepatology, Indiana University School of 
+Medicine, Indianapolis, Indiana, USA.
+(21)Division of Gastroenterology and Hepatology, University of Colorado Anschutz 
+Medical Campus, Aurora, Colorado, USA.
+
+This clinical guideline from the American Society for Gastrointestinal Endoscopy 
+(ASGE) provides an evidence-based approach for the management of patients with 
+malignant hilar obstruction (MHO). This document was developed using the Grading 
+of Recommendations Assessment, Development and Evaluation framework and 
+addresses primary drainage modality (percutaneous transhepatic biliary drainage 
+[PTBD] vs endoscopic biliary drainage [EBD]), drainage strategy (unilateral vs 
+bilateral), and stent selection (plastic stent [PS] vs self-expandable metal 
+stent [SEMS]). Regarding drainage modality, in patients with MHO undergoing 
+drainage before potential resection or transplantation, the panel suggests 
+against routine use of PTBD as first-line therapy compared with EBD. In patients 
+with unresectable MHO undergoing palliative drainage, the panel suggests PTBD or 
+EBD. The final decision should be based on patient preferences, disease 
+characteristics, and local expertise. Regarding drainage strategy, in patients 
+with unresectable MHO undergoing palliative stent placement, the panel suggests 
+placement of bilateral stents compared with a unilateral stent in the absence of 
+liver atrophy. Finally, regarding type of stent, in patients with unresectable 
+MHO undergoing palliative stent placement, the panel suggests placing SEMSs or 
+PSs. However, in patients who have a short life expectancy and who place high 
+value on avoiding repeated interventions, the panel suggests using SEMSs 
+compared with PSs. If optimal drainage strategy has not been established, the 
+panel suggests placing PSs. This document clearly outlines the process, 
+analyses, and decision processes used to reach the final recommendations and 
+represents the official ASGE recommendations on the above topics.
+
+Copyright © 2021 American Society for Gastrointestinal Endoscopy. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.gie.2020.12.035
+PMID: 34023067 [Indexed for MEDLINE]
+
+
+347. J Allergy Clin Immunol Pract. 2021 Oct;9(10):3744-3751. doi: 
+10.1016/j.jaip.2021.04.072. Epub 2021 May 20.
+
+Lanadelumab Efficacy, Safety, and Injection Interval Extension in HAE: A 
+Real-Life Study.
+
+Buttgereit T(1), Vera C(1), Weller K(1), Gutsche A(1), Grekowitz EM(1), Aykanat 
+S(1), Wahn V(2), Krüger R(1), Maurer M(1), Magerl M(3).
+
+Author information:
+(1)Dermatological Allergology, Allergie-Centrum-Charité, Department of 
+Dermatology and Allergy, Charité - Universitätsmedizin Berlin, corporate member 
+of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin 
+Institute of Health, Berlin, Germany.
+(2)Department of Pediatric Pulmonology, Immunology and Critical Care Medicine, 
+Charité - Universitätsmedizin Berlin, Berlin, Germany.
+(3)Dermatological Allergology, Allergie-Centrum-Charité, Department of 
+Dermatology and Allergy, Charité - Universitätsmedizin Berlin, corporate member 
+of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin 
+Institute of Health, Berlin, Germany. Electronic address: 
+markus.magerl@charite.de.
+
+BACKGROUND: Lanadelumab has been available in Germany for the prophylactic 
+treatment of hereditary angioedema since February 2019.
+OBJECTIVE: To investigate real-life treatment outcome of lanadelumab and gain 
+practical experience in adapting the therapy to individual patients.
+METHODS: The study included 34 patients. In 24 patients with hereditary 
+angioedema and 4 patients with angioedema due to acquired C1-inhibitor 
+deficiency, the previous treatment was switched to lanadelumab. In 6 patients 
+with hereditary angioedema, lanadelumab from the open-label Hereditary 
+Angioedema Long-term Prophylaxis study was continued in regular care. During the 
+transition, patients were monitored using the angioedema control test and the 
+angioedema quality of life questionnaire. At the time at which patients became 
+symptom-free, the dosage interval was increased gradually (+3 days).
+RESULTS: On average, the angioedema control test values improved from 7.5 
+(poorly controlled disease) to 14.9 (well-controlled disease), and all patients 
+showed adequate disease control. All treated patients, except 1 outlier, scored 
+angioedema quality of life questionnaire values representing only a slight 
+reduction in quality of life (mean, 14 points). At the time point of data 
+collection, 9 patients used an average fixed injection interval of 30 days. 
+Twenty-two patients were symptom-free from the beginning of the treatment phase 
+and intended to extend their injection interval from 30 to 32.5 days (median). 
+We recommended reducing the initial dosing interval from 24 to 21 days (median) 
+to 3 patients because of intermediately occurring symptoms.
+CONCLUSIONS: Gradual extension of injection intervals of lanadelumab presented 
+in this study can minimize the burden of therapy without losing efficacy.
+
+Copyright © 2021 American Academy of Allergy, Asthma & Immunology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jaip.2021.04.072
+PMID: 34023564 [Indexed for MEDLINE]
+
+
+348. Am J Epidemiol. 2021 Oct 1;190(10):2064-2074. doi: 10.1093/aje/kwab155.
+
+Clarifying the Trade-Offs of Risk-Stratified Screening for Prostate Cancer: A 
+Cost-Effectiveness Study.
+
+Hendrix N, Gulati R, Jiao B, Kader AK, Ryan ST, Etzioni R.
+
+Cancer risk prediction is necessary for precision early detection, which matches 
+screening intensity to risk. However, practical steps for translating risk 
+predictions to risk-stratified screening policies are not well established. We 
+used a validated population prostate-cancer model to simulate the outcomes of 
+strategies that increase intensity for men at high risk and reduce intensity for 
+men at low risk. We defined risk by the Prompt Prostate Genetic Score (PGS) 
+(Stratify Genomics, San Diego, California), a germline genetic test. We first 
+recalibrated the model to reflect the disease incidence observed within risk 
+strata using data from a large prevention trial where some participants were 
+tested with Prompt PGS. We then simulated risk-stratified strategies in a 
+population with the same risk distribution as the trial and evaluated the 
+cost-effectiveness of risk-stratified screening versus universal (risk-agnostic) 
+screening. Prompt PGS risk-adapted screening was more cost-effective when 
+universal screening was conservative. Risk-stratified strategies improved 
+outcomes at a cost of less than $100,000 per quality-adjusted life year compared 
+with biennial screening starting at age 55 years, but risk stratification was 
+not cost-effective compared with biennial screening starting at age 45. 
+Heterogeneity of risk and fraction of the population within each stratum were 
+also important determinants of cost-effectiveness.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of the 
+Johns Hopkins Bloomberg School of Public Health. All rights reserved. For 
+permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/aje/kwab155
+PMCID: PMC8576386
+PMID: 34023874 [Indexed for MEDLINE]
+
+
+349. Mol Biol Rep. 2021 May;48(5):4721-4731. doi: 10.1007/s11033-021-06408-8.
+Epub  2021 May 22.
+
+Mitochondrial remodelling-a vicious cycle in diabetic complications.
+
+Sherkhane B(1), Chayanika G(1), Sood A(1), Khatri DK(2), Singh SB(3).
+
+Author information:
+(1)Department of Pharmacology and Toxicology, National Institute of 
+Pharmaceutical Education and Research (NIPER)-Hyderabad, Balanagar, Hyderabad, 
+Telangana, 500037, India.
+(2)Department of Pharmacology and Toxicology, National Institute of 
+Pharmaceutical Education and Research (NIPER)-Hyderabad, Balanagar, Hyderabad, 
+Telangana, 500037, India. dkkhatri10@gmail.com.
+(3)Department of Pharmacology and Toxicology, National Institute of 
+Pharmaceutical Education and Research (NIPER)-Hyderabad, Balanagar, Hyderabad, 
+Telangana, 500037, India. director.niperhyd@gov.in.
+
+Diabetes mellitus (DM) is a chronic, metabolic condition characterized by 
+excessive blood glucose that causes perturbations in physiological functioning 
+of almost all the organs of human body. This devastating metabolic disease has 
+its implications in cognitive decline, heart damage, renal, retinal and neuronal 
+complications that severely affects quality of life and associated with 
+decreased life expectancy. Mitochondria possess adaptive mechanisms to meet the 
+cellular energy demand and combat cellular stress. In recent years mitochondrial 
+homeostasis has been point of focus where several mechanisms regulating 
+mitochondrial health and function are evaluated. Mitochondrial dynamics plays 
+crucial role in maintaining healthy mitochondria in cell under physiological as 
+well as stress condition. Mitochondrial dynamics and corresponding regulating 
+mechanisms have been implicated in progression of metabolic disorders including 
+diabetes and its complications. In current review we have discussed about role 
+of mitochondrial dynamics under physiological and pathological conditions. Also, 
+modulation of mitochondrial fission and fusion in diabetic complications are 
+described. The available literature supports mitochondrial remodelling as 
+reliable target for diabetic complications.
+
+DOI: 10.1007/s11033-021-06408-8
+PMID: 34023988 [Indexed for MEDLINE]
+
+
+350. Am J Hosp Palliat Care. 2022 Jan;39(1):108-122. doi:
+10.1177/10499091211011138.  Epub 2021 May 24.
+
+Economic Evaluation of Palliative Care Interventions: A Review of the Evolution 
+of Methods From 2011 to 2019.
+
+Parackal A(1), Ramamoorthi K(1), Tarride JE(1)(2)(3)(4).
+
+Author information:
+(1)Department of Health Research Methods, Evidence & Impact (HEI), McMaster 
+University, Hamilton, Ontario, Canada.
+(2)McMaster Chair, Health Technology Management, McMaster University, Hamilton, 
+Ontario, Canada.
+(3)Center for Health Economics and Policy Analysis (CHEPA), McMaster University, 
+Hamilton, Ontario, Canada.
+(4)Programs for Assessment to Technology in Health (PATH), The Research 
+Institute of St. Joe's Hamilton, St. Joseph's Healthcare Hamilton, Hamilton, 
+Ontario, Canada.
+
+BACKGROUND: End-of-life care is a driver of increasing healthcare costs; 
+however, palliative care interventions may significantly reduce these costs. 
+Economic evaluations that measure the incremental cost per quality adjusted life 
+years (QALY) are warranted to inform cost-effectiveness of the intervention 
+relative to a comparator and permit evaluation of investment against other 
+therapeutic interventions. Evidence from the literature up to 2011 indicates a 
+scarcity of cost-utility studies in palliative care research.
+AIM: This literature review evaluates economic studies published between 2011 
+and 2019 to determine whether the methods of economic evaluations have evolved 
+since 2011.
+DESIGN AND DATA SOURCES: A literature search was completed using CENTRAL, OVID 
+MEDLINE, EMBASE and other sources for publications between 2011 and 2019. Study 
+characteristics, methodology and key findings of publications that met the 
+inclusion criteria were reviewed. Quality of studies were assessed using 
+indicators developed by authors of the previous literature review.
+RESULTS: 46 papers were included for qualitative synthesis. Among them only 6 
+studies conducted formal cost-effectiveness evaluations-of these 5 measured 
+QALYs and 1 employed probabilistic analyses. In addition, with the exception of 
+1 costing analysis, all other economic evaluations undertook a healthcare payer 
+perspective. Quality of evidence were comparable to the previous literature 
+review published in 2011.
+CONCLUSION: Despite the small increase in the number of cost-utility studies, 
+the methods of palliative care economic evaluations have not evolved 
+significantly since 2011. More probabilistic cost-utility analyses of palliative 
+care interventions from a societal perspective are necessary to truly evaluate 
+the value for money.
+
+DOI: 10.1177/10499091211011138
+PMID: 34024147 [Indexed for MEDLINE]
+
+
+351. Encephale. 2022 Apr;48(2):125-131. doi: 10.1016/j.encep.2021.02.008. Epub
+2021  May 20.
+
+Prevalence of severe cardiovascular disease in patients with schizophrenia.
+
+Marche JC(1), Bannay A(2), Baillot S(2), Dauriac-Le Masson V(3), Leveque P(4), 
+Schmitt C(5), Laprévote V(6), Schwan R(7), Dobre D(8).
+
+Author information:
+(1)Psychiatry and Clinical Psychology Service (G06), Psychotherapeutic Center of 
+Nancy, 1, rue Dr-Archambault, BP 11010, 54521 Laxou cedex, France; University of 
+Lorraine, Lorraine, France. Electronic address: 
+jean.christophe.marche@gmail.com.
+(2)Department of Evaluation and Medical Informatics, CHRU-Nancy, 29, avenue du 
+Maréchal-de-Lattre-de-Tassigny, 54035 Nancy, France.
+(3)Department of Medical Informatics, GHU Paris "Psychiatrie & Neurosciences", 
+1, rue Cabanis, 75014 Paris, France.
+(4)Department of Medical Informatics, Ravenel Hospital Center, 1115, avenue 
+René-Porterat, 88500 Mirecourt, France.
+(5)Department of Medical Informatics, Jury Hospital Center, centre hospitalier 
+de Jury, BP 75088, 57073 Metz cedex 3, France.
+(6)Grand Nancy Hospital-university Center for Adult Psychiatry and Addictology, 
+Psychotherapeutic Center of Nancy, 1, rue Dr-Archambault, BP 11010, 54521 Laxou 
+cedex, France; University of Lorraine, Lorraine, France; Inserm U1114, France.
+(7)Grand Nancy Hospital-university Center for Adult Psychiatry and Addictology, 
+Psychotherapeutic Center of Nancy, 1, rue Dr-Archambault, BP 11010, 54521 Laxou 
+cedex, France; University of Lorraine, Lorraine, France; Inserm U1254, France.
+(8)Department of Medical Informatics and Clinical Research and Investigation 
+Unit, Psychotherapeutic Center of Nancy, 1, rue Dr-Archambault, 54520 Laxou, 
+France.
+
+OBJECTIVES: We assessed the prevalence of severe cardiovascular (CV) disease 
+requiring hospitalization among patients with schizophrenia in France.
+METHOD: We included patients hospitalized with schizophrenia or psychotic 
+disorder during 2015, in five French psychiatric hospitals. Patients with CV 
+disease were defined as those with a correspondent ICD-10 code during a hospital 
+stay in any general hospital, five years before or three years after the 
+psychiatric hospitalization. CV disease included myocardial infarction (MI), 
+stroke, heart failure (HF), coronary artery disease (CAD) or peripheral artery 
+disease. Risk factors such as hypertension, obesity and diabetes were recorded.
+RESULTS: In total, 4424 patients with schizophrenia were included. Overall, 203 
+(4,6%) patients were diagnosed with CV disease, 93 (2.1%) with CAD, 86 (1.9%) 
+with HF and 49 (1.1%) with stroke. The prevalence of hypertension, obesity and 
+diabetes was 11.3%, 9.7% and 7.8%. The median (interquartile range) age of 
+patients with MI and diabetes was 57 (49-70) and 56 (48-66) years.
+CONCLUSION: Patients with schizophrenia develop severe CV disease requiring 
+hospitalization at an early age. These severe events are associated with a high 
+prevalence of risk factors. Early screening and treatment of CV disease and risk 
+factors is important to improve life expectancy and quality of life of these 
+patients.
+
+Copyright © 2021 L’Encéphale, Paris. Published by Elsevier Masson SAS. All 
+rights reserved.
+
+DOI: 10.1016/j.encep.2021.02.008
+PMID: 34024498 [Indexed for MEDLINE]
+
+
+352. J Dairy Sci. 2021 Aug;104(8):8568-8581. doi: 10.3168/jds.2020-19956. Epub
+2021  May 21.
+
+Shelf-life of Domiati cheese under modified atmosphere packaging.
+
+Atallah AA(1), El-Deeb AM(2), Mohamed EN(3).
+
+Author information:
+(1)Department of Dairy Science, Faculty of Agriculture, Benha University, 
+Moshtohor 13736, Egypt. Electronic address: atallah.mabrouk@fagr.bu.edu.eg.
+(2)Dairy Research Department, Food Technology Research Institute, Agricultural 
+Research Center, Giza 12619, Egypt.
+(3)Food Engineering and Packaging Department, Food Technology Research 
+Institute, Agricultural Research Center, Giza 12619, Egypt.
+
+The present study describes the effects of modified atmosphere packaging (MAP) 
+on shelf-life extension, chemical, microbiological, and sensory properties of 
+Domiati cheese. Five different MAP were studied [10% CO2/90% N2 (G1), 15% 
+CO2/85% N2 (G2), 25% CO2/75% N2 (G3), 100% CO2 (G4), and 100% N2 (G5)]. Control 
+samples were packaged in air (CA) and under vacuum. In both groups of cheeses, 
+chemical analysis was significantly affected by MAP during cold storage. 
+Ripening indexes were significantly affected by MAP during cold storage. 
+Microbiological data showed that G4, followed by G5, were the most effective 
+groups inhibiting the growth of total aerobic mesophilic and psychrotrophic 
+bacteria, and yeasts and molds until the end of storage. Sensory evaluation was 
+significantly affected by MAP and storage period, at 45 d CA cheese samples were 
+judged as unacceptable. The best sensory properties were obtained in G5, G4, and 
+G3 treatments, and recorded a relatively higher sensory evaluation scores. The 
+best shelf-life extension was obtained in G5, G4, and G3 treatments.
+
+Copyright © 2021 American Dairy Science Association. Published by Elsevier Inc. 
+All rights reserved.
+
+DOI: 10.3168/jds.2020-19956
+PMID: 34024598 [Indexed for MEDLINE]
+
+
+353. World J Gastroenterol. 2021 May 14;27(18):2219-2237. doi: 
+10.3748/wjg.v27.i18.2219.
+
+Responses to faecal microbiota transplantation in female and male patients with 
+irritable bowel syndrome.
+
+El-Salhy M(1), Casen C(2), Valeur J(3), Hausken T(4), Hatlebakk JG(4).
+
+Author information:
+(1)Department of Medicine, Stord Helse-Fonna Hospital, Stord 5416, Norway.
+(2)Genetic Analysis AS, Oslo 0485, Norway.
+(3)Unger-Vetlesen Institute, Lovisenberg Diaconal Hospital, Oslo 0440, Norway.
+(4)Department of Clinical Medicine, University of Bergen, Bergen 5020, Norway.
+
+BACKGROUND: Faecal microbiota transplantation (FMT) seems to be a promising 
+treatment for irritable bowel syndrome (IBS) patients. In Western countries 
+(United States and Europe), there is a female predominance in IBS. A sex 
+difference in the response to FMT has been reported recently in IBS patients.
+AIM: To investigate whether there was a sex difference in the response to FMT in 
+the IBS patients who were included in our previous randomized controlled trial 
+of the efficacy of FMT.
+METHODS: The study included 164 IBS patients who participated in our previous 
+randomized controlled trial. These patients had moderate-to-severe IBS symptoms 
+belonging to the IBS-D (diarrhoea-predominant), IBS-C (constipation-predominant) 
+and IBS-M (mixed) subtypes, and had not responded to the National Institute for 
+Health and Care Excellence (NICE)-modified diet. They belonged in three groups: 
+placebo (own faeces), and active treated group (30-g or 60-g superdonor faeces). 
+The patients completed the IBS severity scoring system (IBS-SSS), Fatigue 
+Assessment Scale (FAS) and the IBS quality of life scale (IBS-QoL) 
+questionnaires at the baseline and 2 wk, 1 mo and 3 mo after FMT. They also 
+provided faecal samples at the baseline and 1 mo after FMT. The faecal bacteria 
+profile and dysbiosis were determined using the 16S rRNA gene polymerase chain 
+reaction DNA amplification covering V3-V9; probe labelling by single nucleotide 
+extension and signal detection. The levels of short-chain fatty acids (SCFAs) 
+were determined by gas chromatography and flame ionization.
+RESULTS: There was no sex difference in the response to FMT either in the 
+placebo group or active treated group. There was no difference between females 
+and males in either the placebo group or actively treated groups in the total 
+score on the IBS-SSS, FAS or IBS-QoL, in dysbiosis, or in the faecal bacteria or 
+SCFA level. However, the response rate was significantly higher in females with 
+diarrhoea-predominant (IBS-D) than that of males at 1 mo, and 3 mo after FMT. 
+Moreover, IBS-SSS total score was significantly lower in female patients with 
+IBS-D than that of male patients both 1 mo and 3 mo after FMT.
+CONCLUSION: There was no sex difference in the response to FMT among IBS 
+patients with moderate-to-severe symptoms who had previously not responded to 
+NICE-modified diet. However, female patients with IBS-D respond better and have 
+higher reduction of symptoms than males after FMT.
+
+©The Author(s) 2021. Published by Baishideng Publishing Group Inc. All rights 
+reserved.
+
+DOI: 10.3748/wjg.v27.i18.2219
+PMCID: PMC8117742
+PMID: 34025075 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict-of-interest statement: The authors 
+declare that they have no conflict of interest.
+
+
+354. Arch Med Sci. 2020 Mar 3;17(3):805-811. doi: 10.5114/aoms.2019.85252. 
+eCollection 2021.
+
+Active surveillance in prostate cancer management: where do we stand now?
+
+Dragan J(1), Kania J(1), Salagierski M(1).
+
+Author information:
+(1)Urology Department, Faculty of Medicine and Health Sciences, University of 
+Zielona Gora, Zielona Gora, Poland.
+
+Prostate cancer (PCa) is the most common cancer in men, with a steadily rising 
+incidence, affecting on average one in six men during their lifetime. The 
+increase in morbidity is related to the increasing overall life expectancy, 
+prostate-specific antigen testing, implementation of new molecular markers for 
+cancer detection and the more frequent application of multiparametric magnetic 
+resonance imaging. There is growing evidence demonstrating that active 
+surveillance (AS) is an alternative to immediate intervention in patients with 
+very low- and low-risk prostate cancer. Ongoing reports from multiple studies 
+have consistently demonstrated a very low rate of metastases and prostate cancer 
+specific mortality in selected cohorts of patients. As a matter of fact, AS has 
+been adopted by many institutions as a safe and effective management strategy. 
+The aim of our review is to summarize the contemporary data on AS in patients 
+affected with PCa with the intention to present the most clinically useful and 
+pertinent AS protocols.
+
+Copyright: © 2020 Termedia & Banach.
+
+DOI: 10.5114/aoms.2019.85252
+PMCID: PMC8130493
+PMID: 34025851
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+355. Food Sci Nutr. 2021 Mar 18;9(5):2585-2596. doi: 10.1002/fsn3.2213.
+eCollection  2021 May.
+
+Effects of cinnamon essential oil and Persian gum on preservation of pomegranate 
+arils.
+
+Jokar A(1), Barzegar H(2), Maftoon Azad N(1), Shahamirian M(1).
+
+Author information:
+(1)Agricultural Engineering Research Department, Fars Agricultural and Natural 
+Resources Research and Education Center Agricultural Research, Education and 
+Extension Organization (AREEO) Shiraz Iran.
+(2)Agricultural Sciences and Natural Resources University of Khuzestan Mollasani 
+Iran.
+
+Given the high perishability of pomegranate arils, edible antimicrobial coating 
+will enhance their shelf life and maintain their marketability. An antimicrobial 
+coating was prepared using 1% (w/v) soluble part of Persian gum (PG) and 
+different concentrations (0.25%, 0.50%, and 0.75% (v/v)) of cinnamon essential 
+oil (CEO) to extend the shelf life of pomegranate arils. Microbiological, 
+chemical, physical, and sensorial characteristics of coated and uncoated samples 
+were evaluated at 7-day intervals. Total anthocyanin (TAN), titrable acidity 
+(TA), and ascorbic acid showed a decreasing trend, during the whole period of 
+the storage. TAN, TA, and ascorbic acid decreased from 119.8 to 44.5 mg/L, 1.6% 
+to 1.37%, and 682 to 140 mg/L, respectively. Firmness increased during the 
+storage time, while total soluble solids (TSS, around 17.4 °Brix) and total 
+phenolic compounds (TP, around 14.21 mg/100 ml) showed no significant changes 
+with CEO concentrations. Coatings containing 0.5% and 0.75% CEO significantly 
+prevented fungal growth on the samples at least for 3 weeks and 3 months, 
+respectively. Optimization proved that 1-week cold storage and 0.43% CEO could 
+dramatically meet 80% of the research targets including maximum nutritional 
+quality and freshness, as well preventing microbial spoilage. It was concluded 
+that coating the pomegranate arils by PG and selecting an appropriate 
+concentration of the CEO could considerably increase shelf life, marketability, 
+and nutritional quality of pomegranate arils at a suitable and acceptable level.
+
+© 2021 The Authors. Food Science & Nutrition published by Wiley Periodicals LLC.
+
+DOI: 10.1002/fsn3.2213
+PMCID: PMC8116839
+PMID: 34026074
+
+Conflict of interest statement: The authors declare that they do not have any 
+conflict of interest.
+
+
+356. Front Public Health. 2021 May 7;9:663259. doi: 10.3389/fpubh.2021.663259. 
+eCollection 2021.
+
+COVID-19: Heterogeneous Excess Mortality and "Burden of Disease" in Germany and 
+Italy and Their States and Regions, January-June 2020.
+
+Morfeld P(1), Timmermann B(1), Groß JV(1), Lewis P(1), Cocco P(2), Erren TC(1).
+
+Author information:
+(1)Institute and Policlinic for Occupational Medicine, Environmental Medicine 
+and Prevention Research, University of Cologne, Cologne, Germany.
+(2)Department of Medical Sciences and Public Health, Occupational Medicine Unit, 
+University of Cagliari, Cagliari, Italy.
+
+Total mortality and "burden of disease" in Germany and Italy and their states 
+and regions were explored during the first COVID-19 wave by using publicly 
+available data for 16 German states and 20 Italian regions from January 2016 to 
+June 2020. Based on expectations from 2016 to 2019, simplified Standardized 
+Mortality Ratios (SMRs) for deaths occurring in the first half of 2020 and the 
+effect of changed excess mortality in terms of "burden of disease" were 
+assessed. Moreover, whether two German states and 19 Italian cities 
+appropriately represent the countries within the European monitoring of excess 
+mortality for public health action (EuroMOMO) network was explored. 
+Significantly elevated SMRs were observed (Germany: week 14-18, Italy: week 
+11-18) with SMR peaks in week 15 in Germany (1.15, 95%-CI: 1.09-1.21) and in 
+week 13 in Italy (1.79, 95%-CI: 1.75-1.83). Overall, SMRs were 1.00 (95%-CI: 
+0.97-1.04) in Germany and 1.06 (95%-CI: 1.03-1.10) in Italy. Significant SMR 
+heterogeneity was found within both countries. Age and sex were strong 
+modifiers. Loss of life expectancy was 0.34 days (1.66 days in men) for Germany 
+and 5.3 days (6.3 days in men) for Italy [with upper limits of 3 and 6 weeks 
+among elderly populations (≥65 years) after maximum potential bias adjustments]. 
+Restricted data used within EuroMOMO neither represents mortality in the 
+countries as a whole nor in their states and regions adequately. Mortality 
+analyses with high spatial and temporal resolution are needed to monitor the 
+COVID-19 pandemic's course.
+
+Copyright © 2021 Morfeld, Timmermann, Groß, Lewis, Cocco and Erren.
+
+DOI: 10.3389/fpubh.2021.663259
+PMCID: PMC8137836
+PMID: 34026717 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+357. SSM Popul Health. 2021 May 8;14:100815. doi: 10.1016/j.ssmph.2021.100815. 
+eCollection 2021 Jun.
+
+Describing socio-economic variation in life expectancy according to an 
+individual's education, occupation and wage in England and Wales: An analysis of 
+the ONS Longitudinal Study.
+
+Ingleby FC(1), Woods LM(1), Atherton IM(2), Baker M(3), Elliss-Brookes L(4), 
+Belot A(1).
+
+Author information:
+(1)Department of Non-Communicable Disease Epidemiology, Faculty of Epidemiology 
+and Population Health, London School of Hygiene and Tropical Medicine, London, 
+UK.
+(2)School of Health & Social Care, Edinburgh Napier University, Edinburgh, UK.
+(3)National Cancer Research Institute Consumer Forum, London, UK.
+(4)National Cancer Registration and Analysis Service, Public Health England, 
+London, UK.
+
+People who live in more deprived areas have poorer health outcomes, and this 
+inequality is a major driver of health and social policy. Many interventions 
+targeting these disparities implicitly assume that poorer health is 
+predominantly associated with area-level factors, and that these inequalities 
+are the same for men and women. However, health differentials due to individual 
+socio-economic status (SES) of men and women are less well documented. We used 
+census data linked to the ONS Longitudinal Study to derive individual-level SES 
+in terms of occupation, education and estimated wage, and examined differences 
+in adult mortality and life expectancy. We modelled age-, sex- and SES-specific 
+mortality using Poisson regression, and summarised mortality differences using 
+life expectancy at age 20. We compared the results to those calculated using 
+area-level deprivation metrics. Wide inequalities in life expectancy between SES 
+groups were observed, although differences across SES groups were smaller for 
+women than for men. The widest inequalities were found across men's education 
+(7.2-year (95% CI: 3.0-10.1) difference in life expectancy between groups) and 
+wage (7.0-year (95% CI: 3.5-9.8) difference), and women's education (5.4-year 
+(95% CI: 2.2-8.1) difference). Men with no qualifications had the lowest life 
+expectancy of all groups. In terms of the number of years' difference in life 
+expectancy, the inequalities measured here with individual-level data were of a 
+similar magnitude to inequalities identified previously using area-level 
+deprivation metrics. These data show that health inequalities are as strongly 
+related to individual SES as to area-level deprivation, highlighting the 
+complementary usefulness of these different metrics. Indeed, poor outcomes are 
+likely to be a product of both community and individual influences. Current 
+policy which bases health spending decisions on evidence of inequalities between 
+geographical areas may overlook individual-level SES inequalities for those 
+living in affluent areas, as well as missing important sex differences.
+
+© 2021 The Author(s).
+
+DOI: 10.1016/j.ssmph.2021.100815
+PMCID: PMC8131985
+PMID: 34027013
+
+Conflict of interest statement: None to declare.
+
+
+358. Alzheimers Dement (N Y). 2021 May 13;7(1):e12167. doi: 10.1002/trc2.12167. 
+eCollection 2021.
+
+Pre-loss group therapy for dementia family care partners at risk for complicated 
+grief.
+
+Supiano KP(1), Andersen T(2), Luptak M(2), Beynon C(1), Iacob E(1), Levitt 
+SE(1).
+
+Author information:
+(1)University of Utah College of Nursing Salt Lake City USA.
+(2)University of Utah College of Social Work Salt Lake City USA.
+
+INTRODUCTION: Dementia family caregiving may span more than a decade and places 
+many family care partners (CPs) at risk for poor bereavement outcomes; estimates 
+of complicated grief in bereaved dementia family CPs range from 10% to 20%. We 
+adapted our efficacious complicated grief group therapy intervention for 
+bereaved dementia caregivers for soon-to-be bereaved dementia CPs at risk for 
+complicated grief to facilitate healthy death preparedness and eventual 
+bereavement-pre-loss group therapy (PLGT).
+METHODS: In this Stage IB pilot intervention study, we implemented and evaluated 
+PLGT in three psychotherapy group cohorts with family CPs at-risk for 
+complicated grief whose person living with dementia (PLWD) had a life expectancy 
+of 6 months or less and resided in a nursing home. PLGT is a 10-session 
+multi-modal psychotherapy administered by social workers.
+RESULTS: Participants in PLGT realized significant improvement in their pre-loss 
+grief and in reported preparedness for the death of their family member, and 
+participants evidenced lowered pre-loss grief severity and improvement, as 
+measured by facilitators. Participants also realized significant improvement in 
+meaning making, particularly as a sense of peace and a reduction of loneliness.
+DISCUSSION: The process and treatment elements of the PLGT intervention affirm 
+the value of specialized care for those dementia family CPs at risk for 
+complicated grief, as the PLGT groups demonstrated a steady progression toward 
+improvement collectively and individually. PLGT participants realized 
+statistical and clinical improvement across pre-loss grief measures suggesting 
+that their risk for complicated grief risk was mitigated, and they were better 
+prepared for the death of their PLWD.
+
+© 2021 The Authors. Alzheimer's & Dementia: Translational Research & Clinical 
+Interventions published by Wiley Periodicals, Inc. on behalf of Alzheimer's 
+Association.
+
+DOI: 10.1002/trc2.12167
+PMCID: PMC8116857
+PMID: 34027022
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+report.
+
+
+359. Res Pract Thromb Haemost. 2021 Mar 6;5(4):e12488. doi: 10.1002/rth2.12488. 
+eCollection 2021 May.
+
+Patient-relevant health outcomes for hemophilia care: Development of an 
+international standard outcomes set.
+
+van Balen EC(1), O'Mahony B(2), Cnossen MH(3), Dolan G(4), Blanchette VS(5), 
+Fischer K(6), Gue D(7), O'Hara J(8), Iorio A(9)(10), Jackson S(7), Konkle 
+BA(11)(12), Nugent DJ(13)(14), Coffin D(15), Skinner MW(16)(17), Smit C(1), 
+Srivastava A(18), van Eenennaam F(19)(20), van der Bom JG(1)(21), Gouw 
+SC(1)(22).
+
+Author information:
+(1)Department of Clinical Epidemiology Leiden University Medical Center Leiden 
+The Netherlands.
+(2)Irish Haemophilia Society Trinity College Dublin Ireland.
+(3)Department of Pediatric Hematology Erasmus University Medical Center - Sophia 
+Children's Hospital Rotterdam The Netherlands.
+(4)Centre for Haemostasis and Thrombosis St Thomas' Hospital London UK.
+(5)Division of Hematology/Oncology Department of Pediatrics Hospital for Sick 
+Children University of Toronto Toronto ON Canada.
+(6)Van Creveldkliniek Department of Hematology University Medical Centre Utrecht 
+Utrecht The Netherlands.
+(7)British Columbia Provincial Bleeding Disorders Program - Adult Division St. 
+Paul's Hospital Vancouver BC Canada.
+(8)Faculty of Health and Social Care University of Chester Chester UK.
+(9)Department of Medicine McMaster-Bayer Endowed Research Chair in Clinical 
+Epidemiology of Congenital Bleeding Disorders McMaster University Hamilton ON 
+Canada.
+(10)Department of Health Research Methods, Evidence and Impact McMaster-Bayer 
+Endowed Research Chair in Clinical Epidemiology of Congenital Bleeding Disorders 
+McMaster University Hamilton ON Canada.
+(11)Bloodworks Northwest Seattle WA USA.
+(12)Department of Medicine University of Washington Seattle WA USA.
+(13)Children's Hospital University of California Irvine.
+(14)Center for Inherited Blood Disorders Orange CA USA.
+(15)World Federation of Haemophilia Montreal QC Canada.
+(16)National Hemophilia Foundation New York NY USA.
+(17)Institute for Policy Advancement Ltd Washington DC USA.
+(18)Department of Haematology Christian Medical College Vellore India.
+(19)The Decision Group Amsterdam The Netherlands.
+(20)Erasmus School of Accounting & Assurance Erasmus University Rotterdam The 
+Netherlands.
+(21)Center for Clinical Transfusion Research Sanquin/LUMC Leiden The 
+Netherlands.
+(22)Department of Pediatric Hematology Amsterdam University Medical Center Emma 
+Children's Hospital University of Amsterdam Amsterdam The Netherlands.
+
+BACKGROUND: Patient-relevant health outcomes for persons with hemophilia should 
+be identified and prioritized to optimize and individualize care for persons 
+with hemophilia. Therefore, an international group of persons with hemophilia 
+and multidisciplinary health care providers set out to identify a globally 
+applicable standard set of health outcomes relevant to all individuals with 
+hemophilia.
+METHODS: A systematic literature search was performed to identify possible 
+health outcomes and risk adjustment variables. Persons with hemophilia and 
+multidisciplinary health care providers were involved in an iterative nominal 
+consensus process to select the most important health outcomes and risk 
+adjustment variables for persons with hemophilia. Recommendations were made for 
+outcome measurement instruments.
+RESULTS: Persons with hemophilia were defined as all men and women with an 
+X-linked inherited bleeding disorder caused by a deficiency of coagulation 
+factor VIII or IX with plasma activity levels <40 IU/dL. We recommend collecting 
+the following 10 health outcomes at least annually, if applicable: (i) cure, 
+(ii) impact of disease on life expectancy, (iii) ability to engage in normal 
+daily activities, (iv) severe bleeding episodes, (v) number of days lost from 
+school or work, (vi) chronic pain, (vii) disease and treatment complications, 
+(viii) sustainability of physical functioning, (ix) social functioning, and (x) 
+mental health. Validated clinical as well as patient-reported outcome 
+measurement instruments were endorsed. Demographic factors, baseline clinical 
+factors, and treatment factors were identified as risk-adjustment variables.
+CONCLUSION: A consensus-based international set of health outcomes relevant to 
+all persons with hemophilia, and corresponding measurement instruments, was 
+identified for use in clinical care to facilitate harmonized longitudinal 
+monitoring and comparison of outcomes.
+
+© 2021 The Authors. Research and Practice in Thrombosis and Haemostasis 
+published by Wiley Periodicals LLC on behalf of International Society on 
+Thrombosis and Haemostasis (ISTH).
+
+DOI: 10.1002/rth2.12488
+PMCID: PMC8117824
+PMID: 34027286
+
+
+360. Med Decis Making. 2022 Jan;42(1):8-16. doi: 10.1177/0272989X211013773. Epub
+2021  May 22.
+
+Partial Personalization of Medical Treatment Decisions: Adverse Effects and 
+Possible Solutions.
+
+Weyant C(1), Brandeau ML(1).
+
+Author information:
+(1)Department of Management Science and Engineering, Stanford University, 
+Stanford, CA, USA.
+
+BACKGROUND: Personalizing medical treatment decisions based on patient-specific 
+risks and/or preferences can improve health outcomes. Decision makers frequently 
+select treatments based on partial personalization (e.g., personalization based 
+on risks but not preferences or vice versa) due to a lack of data about 
+patient-specific risks and preferences. However, partially personalizing 
+treatment decisions based on a subset of patient risks and/or preferences can 
+result in worse population-level health outcomes than no personalization and can 
+increase the variance of population-level health outcomes.
+METHODS: We develop a new method for partially personalizing treatment decisions 
+that avoids these problems. Using a case study of antipsychotic treatment for 
+schizophrenia, as well as 4 additional illustrative examples, we demonstrate the 
+adverse effects and our method for avoiding them.
+RESULTS: For the schizophrenia treatment case study, using a previously proposed 
+modeling approach for personalizing treatment decisions and using only a subset 
+of patient preferences regarding treatment efficacy and side effects, mean 
+population-level health outcomes decreased by 0.04 quality-adjusted life-years 
+(QALYs; 95% credible interval [crI]: 0.02-0.06) per patient compared with no 
+personalization. Using our new method and considering the same subset of patient 
+preferences, mean population-level health outcomes increased by 0.01 QALYs (95% 
+crI: 0.00-0.03) per patient as compared with no personalization, and the 
+variance decreased.
+LIMITATIONS: We assumed a linear and additive utility function.
+CONCLUSIONS: Selecting personalized treatments for patients should be done in a 
+way that does not decrease expected population-level health outcomes and does 
+not increase their variance, thereby resulting in worse risk-adjusted, 
+population-level health outcomes compared with treatment selection with no 
+personalization. Our method can be used to ensure this, thereby helping patients 
+realize the benefits of treatment personalization without the potential harms.
+
+DOI: 10.1177/0272989X211013773
+PMCID: PMC8606611
+PMID: 34027738 [Indexed for MEDLINE]361. Harefuah. 2021 May;160(5):323-327.
+
+[PREDICTING PARAMETERS WITH FOCUS ON PRESSURE ULCERS IN IDENTIFYING ADVANCED 
+DEMENTIA MORTALITY].
+
+[Article in Hebrew]
+
+Jaul E(1).
+
+Author information:
+(1)Department of Geriatric Skilled Nursing, Herzog Medical Center, Jerusalem 
+affiliated to the Hebrew University of Jerusalem.
+
+Longer life expectancy exposes the older person to vulnerability, morbidity and 
+disability and increases the risk of developing dementia. The number of elderly 
+patients with dementia reaching the advanced stage is increasing in entire 
+settings. This condition of poor quality of life existing over months and years, 
+when the time of death cannot be predicted, raises dilemmas in medical and 
+ethical decisions. Dementia is an incurable disease at the last stage of life, 
+highlighting a therapeutic approach in the provision of palliative care with 
+emphasis on the quality of life as a primary goal. In older age, any advanced 
+chronic disease is incurable and palliative care includes life-long therapies 
+with hospice-type supportive care. Advanced dementia stresses an aggravated 
+approach, and the recommendation is to provide only hospice type palliative 
+care. The purpose of this survey is to review the existing evidence in base 
+evidence literature containing prognostic parameters indicating mortality at six 
+months including cognitive, functional, nutrition and morbidity factors, and 
+focusing on pressure ulcers. Thus, the goal is to allow the attending team and 
+the families to make appropriate evidence based medical-ethical decisions. A 
+systematic review of the medical literature found seven articles with indices 
+predicting mortality within six months in patients with advanced dementia (5 
+studies originated in the USA, 2 from Israel). The most common predictor 
+variable in 100% of studies is eating and swallowing problems associated with 
+the consequences of malnutrition and indigestion, weight loss and loss of 
+appetite. The variable in 80% of the studies is background diseases including: 
+cancer, heart failure, second-degree pressure ulcers, and lack of control of the 
+sphincters. In 75% of cases, functional decline in personal care, level of 
+consciousness and alertness are identified as variables, and in 60% of cases, 
+mobility impairment unstable medical conditions and demographic conditions are 
+diagnosed.
+
+PMID: 34028226 [Indexed for MEDLINE]
+
+
+362. J Med Internet Res. 2021 May 24;23(5):e25609. doi: 10.2196/25609.
+
+Guided Internet-Based Cognitive Behavioral Therapy for Insomnia: Health-Economic 
+Evaluation From the Societal and Public Health Care Perspective Alongside a 
+Randomized Controlled Trial.
+
+Buntrock C(1), Lehr D(2), Smit F(3)(4)(5), Horvath H(6), Berking M(1), 
+Spiegelhalder K(7), Riper H(5)(8), Ebert DD(9).
+
+Author information:
+(1)Chair of Clinical Psychology and Psychotherapy, Friedrich-Alexander 
+University Erlangen-Nuremberg, Erlangen, Germany.

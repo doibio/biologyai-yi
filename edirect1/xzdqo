@@ -1,0 +1,1000 @@
+Mendenhall NP(3), Vapiwala N(1), Mailhot Vega RB(5).
+
+Author information:
+(1)Department of Radiation Oncology, Perelman School of Medicine at the 
+University of Pennsylvania, Philadelphia, PA, USA.
+(2)Department of Radiation Oncology, Indiana University School of Medicine, 
+Indianapolis, IN, USA.
+(3)Department of Radiation Oncology, University of Florida College of Medicine, 
+Gainesville, FL, USA.
+(4)Department of Radiation Oncology, Mayo Clinic, Jacksonville, FL, USA.
+(5)Department of Radiation Oncology, University of Florida College of Medicine, 
+Gainesville, FL, USA. Electronic address: rbmailhot@floridaproton.org.
+
+OBJECTIVES: Cost-effectiveness analyses (CEAs) may provide useful data to inform 
+management decisions depending on the robustness of a model's input parameters. 
+We sought to determine the level of heterogeneity in health state utility 
+values, transition probabilities, and cost estimates across published CEAs 
+assessing primarily radiotherapeutic management strategies in prostate cancer.
+METHODS: We conducted a systematic review of prostate cancer CEAs indexed in 
+MEDLINE between 2000 and 2018 comparing accepted treatment modalities across all 
+cancer stages. Search terms included "cost effectiveness prostate," "prostate 
+cancer cost model," "cost utility prostate," and "Markov AND prostate AND 
+(cancer OR adenocarcinoma)." Included studies were agreed upon. A Markov model 
+was designed using the parameter estimates from the systematic review to 
+evaluate the effect of estimate heterogeneity on strategy cost acceptability.
+RESULTS: Of 199 abstracts identified, 47 publications were reviewed and 37 were 
+included; 508 model estimates were compared. Estimates varied widely across 
+variables, including gastrointestinal toxicity risk (0%-49.5%), utility of 
+metastatic disease (0.25-0.855), intensity-modulated radiotherapy cost ($21 
+193-$61 996), and recurrence after external-beam radiotherapy (1.5%-59%). 
+Multiple studies assumed that different radiotherapy modalities delivering the 
+same dose yielded varying cancer control rates. When using base estimates for 
+similar parameters from included studies, the designed model resulted in 3 
+separate acceptability determinations.
+CONCLUSIONS: Significant heterogeneity exists across parameter estimates used to 
+perform CEAs evaluating treatment for prostate cancer. Heterogeneity across 
+model inputs yields variable conclusions with respect to the favorability and 
+cost-effectiveness of treatment options. Decision makers are cautioned to review 
+estimates in CEAs to ensure they are up to date and relevant to setting and 
+population.
+
+Copyright © 2021 ISPOR–The International Society for Pharmacoeconomics and 
+Outcomes Research, Inc. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2021.08.010
+PMID: 35094789 [Indexed for MEDLINE]
+
+
+711. Value Health. 2022 Feb;25(2):178-184. doi: 10.1016/j.jval.2021.08.001. Epub
+2021  Oct 1.
+
+Impact of Adding Oseltamivir to Usual Care on Quality-Adjusted Life-Years During 
+Influenza-Like Illness.
+
+Bruyndonckx R(1), Bilcke J(2), van der Velden AW(3), Li X(4), Hens N(5), Coenen 
+S(6), Butler CC(7), Beutels P(4).
+
+Author information:
+(1)Interuniversity Institute for Biostatistics and Statistical Bioinformatics, 
+Data Science Institute, Hasselt University, Hasselt, Belgium; Laboratory of 
+Medical Microbiology, Vaccine and Infectious Disease Institute, University of 
+Antwerp, Antwerp, Belgium.
+(2)Centre for Health Economic Research and Modelling Infectious Diseases, 
+Vaccine and Infectious Disease Institute, University of Antwerp, Antwerp, 
+Belgium. Electronic address: joke.bilcke@uantwerpen.be.
+(3)Julius Centre for Health, Sciences and Primary Care, University Medical 
+Centre Utrecht, Utrecht, The Netherlands.
+(4)Centre for Health Economic Research and Modelling Infectious Diseases, 
+Vaccine and Infectious Disease Institute, University of Antwerp, Antwerp, 
+Belgium.
+(5)Interuniversity Institute for Biostatistics and Statistical Bioinformatics, 
+Data Science Institute, Hasselt University, Hasselt, Belgium; Centre for Health 
+Economic Research and Modelling Infectious Diseases, Vaccine and Infectious 
+Disease Institute, University of Antwerp, Antwerp, Belgium.
+(6)Laboratory of Medical Microbiology, Vaccine and Infectious Disease Institute, 
+University of Antwerp, Antwerp, Belgium; Department of Family Medicine and 
+Population Health, Centre for General Practice, University of Antwerp, Antwerp, 
+Belgium.
+(7)Institute for Primary Care and Public Health, Cardiff University, Cardiff, 
+England, UK.
+
+OBJECTIVES: The ALIC4E trial has shown that oseltamivir reduces recovery time 
+while increasing the risk of nausea. This secondary analysis of the ALIC4E trial 
+aimed to determine the gain in quality-adjusted life-years (QALYs) associated 
+with adding oseltamivir to usual primary care in patients presenting with 
+influenza-like illness (ILI).
+METHODS: Patients with ILI were recruited during the influenza season 
+(2015-2018) in 15 European countries. Patients were assigned to usual care with 
+or without oseltamivir through stratified randomization (age, severity, 
+comorbidities, and symptom onset). Patients' health status was valued with the 
+EQ-5D and visual analog scale (VAS) for up to 28 days. Average EQ-5D and VAS 
+scores over time were estimated for both treatment groups using one-inflated 
+beta regression in children (<13 years old) and adults (≥13 years old). QALY 
+gain was calculated as the difference between the groups. Sensitivity analysis 
+considered the value set to convert EQ-5D answers to summary scores and the 
+follow-up period.
+RESULTS: In adults, oseltamivir gained 0.0006 (95% confidence interval 
+0.0002-0.0010) QALYs, whereas no statistically significant gain was found in 
+children (14-day follow-up, EQ-5D). QALY gains were statistically significant in 
+patients aged ≥65 years, patients without relevant comorbidities, or patients 
+experiencing symptoms for ≤48 hours. Using VAS and accounting for 28-day 
+follow-up resulted in higher QALY gain.
+CONCLUSIONS: QALY gain owing to oseltamivir is limited compared with other 
+diseases, and its clinical meaningfulness remains to be determined. Further 
+analysis is needed to evaluate whether QALY gain and its impact on ILI treatment 
+cost render oseltamivir cost-effective.
+
+Copyright © 2021 ISPOR–The International Society for Pharmacoeconomics and 
+Outcomes Research, Inc. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2021.08.001
+PMID: 35094790 [Indexed for MEDLINE]
+
+
+712. Value Health. 2022 Feb;25(2):203-214. doi: 10.1016/j.jval.2021.08.009. Epub
+2021  Oct 16.
+
+Cost-Effectiveness of Cemiplimab Versus Standard of Care in the United States 
+for First-Line Treatment of Advanced Non-small Cell Lung Cancer With Programmed 
+Death-Ligand 1 Expression ≥50.
+
+Kuznik A(1), Smare C(2), Chen CI(3), Venkatachalam M(2), Keeping S(4), Atsou 
+K(5), Xu Y(3), Wilson F(4), Guyot P(5), Chan K(4), Glowienka E(6), Konidaris 
+G(7).
+
+Author information:
+(1)Regeneron Pharmaceuticals, Inc., Tarrytown, NY, USA. Electronic address: 
+andreas.kuznik@regeneron.com.
+(2)Precision HEOR, London, England, UK.
+(3)Regeneron Pharmaceuticals, Inc., Tarrytown, NY, USA.
+(4)Precision HEOR, Vancouver, BC, Canada.
+(5)Sanofi, Chilly-Mazarin, France.
+(6)Precision HEOR, Boston, MA, USA.
+(7)Sanofi, Reading, England, UK.
+
+OBJECTIVES: This study aimed to evaluate the cost-effectiveness, from a US 
+commercial payer perspective, of cemiplimab versus other first-line treatments 
+for advanced non-small cell lung cancer with programmed death-ligand 1 
+expression ≥50%.
+METHODS: A 30-year "partitioned survival" model was constructed. Overall 
+survival and progression-free survival were estimated by applying time-varying 
+hazard ratios from a network meta-analysis of randomized clinical trials. 
+Overall survival and progression-free survival were estimated from EMPOWER-Lung 
+1 (cemiplimab monotherapy vs chemotherapy) and KEYNOTE-024 and KEYNOTE-042 
+(pembrolizumab monotherapy vs chemotherapy). Drug acquisition costs were based 
+on published 2020 US list prices. A 3% discount rate was applied to life-years, 
+quality-adjusted life-years (QALYs), and costs. A deterministic analysis was 
+performed on the base case; 1-way sensitivity and probabilistic sensitivity 
+analyses assessed model and parameter uncertainties.
+RESULTS: Cemiplimab was associated with increased time in the "preprogression" 
+(13.08 vs 7.90 and 6.08 months) and "postprogression" (47.30 vs 29.49 and 14.78 
+months) health states versus pembrolizumab and chemotherapy, respectively. 
+Compared with pembrolizumab and chemotherapy, cemiplimab generated 1.00 (95% 
+CI -0.266 to 2.440) and 1.78 (95% CI 0.607-3.20) incremental QALYs, 
+respectively, with incremental cost-effectiveness ratios of $68 254 and $89 219 
+per QALY for cemiplimab versus pembrolizumab and cemiplimab versus chemotherapy, 
+respectively. The probability of cemiplimab being cost-effective at a 
+willingness-to-pay threshold of $100 000 to $150 000 per QALY was 62% to 76% 
+versus pembrolizumab and 56% to 84% versus chemotherapy.
+CONCLUSIONS: Findings suggest that cemiplimab, versus pembrolizumab or versus 
+chemotherapy, is a cost-effective first-line treatment option for advanced 
+non-small cell lung cancer with programmed death-ligand 1 expression ≥50%.
+
+Copyright © 2021 ISPOR–The International Society for Pharmacoeconomics and 
+Outcomes Research, Inc. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2021.08.009
+PMID: 35094793 [Indexed for MEDLINE]
+
+
+713. Value Health. 2022 Feb;25(2):222-229. doi: 10.1016/j.jval.2021.08.007. Epub
+2021  Sep 9.
+
+Do Profit Margins of Pharmaceuticals Influence Reimbursement Decisions? A 
+Discrete Choice Experiment Among Dutch Healthcare Decision Makers.
+
+Enzing JJ(1), Himmler S(2), Knies S(3), Brouwer WBF(4).
+
+Author information:
+(1)Erasmus School of Health Policy & Management, Erasmus University Rotterdam, 
+Rotterdam, The Netherlands; Zorginstituut Nederland, Diemen, The Netherlands. 
+Electronic address: enzing@eshpm.eur.nl.
+(2)Erasmus School of Health Policy & Management, Erasmus University Rotterdam, 
+Rotterdam, The Netherlands; Erasmus Choice Modelling Centre, Erasmus University 
+Rotterdam, Rotterdam, The Netherlands.
+(3)Erasmus School of Health Policy & Management, Erasmus University Rotterdam, 
+Rotterdam, The Netherlands; Zorginstituut Nederland, Diemen, The Netherlands.
+(4)Erasmus School of Health Policy & Management, Erasmus University Rotterdam, 
+Rotterdam, The Netherlands.
+
+OBJECTIVES: This study aimed to investigate whether the profit margins of 
+pharmaceuticals would influence the outcome of reimbursement decisions within 
+the Dutch policy context.
+METHODS: We conducted a discrete choice experiment among 58 Dutch decision 
+makers. In 20 choice sets, we asked respondents to indicate which of 2 
+pharmaceutical treatment options they would select for reimbursement. Options 
+were described using 5 attributes (disease severity, incremental costs per 
+quality-adjusted life-year, health gain, budget impact, and profit margin) with 
+3 levels each. Additionally, cognitive debriefing questions were presented, and 
+for validation debriefing, interviews were conducted. Choice data were analyzed 
+using mixed logit models, also to calculate marginal effects and choice 
+probabilities.
+RESULTS: Results indicated that the specified levels of profit margins 
+significantly influenced choices made. Decision makers were less likely to 
+reimburse a product with a higher profit margin. The relative importance of 
+profit margins was lower than that of the included traditional health technology 
+assessment criteria, but not negligible. When asked directly, 61% of respondents 
+indicated that profit margin should play a role in reimbursement decision 
+making, although concerns about feasibility and the connection to price 
+negotiations were voiced.
+CONCLUSIONS: Our results suggest that if available to decision makers the profit 
+margin of pharmaceutical products would influence reimbursement decisions within 
+the Dutch policy context. Higher profit margins would reduce the likelihood of 
+reimbursement. Whether adding profit margin as an additional, explicit criterion 
+to the health technology assessment decision framework would be feasible and 
+desirable is open to further exploration.
+
+Copyright © 2021 ISPOR–The International Society for Pharmacoeconomics and 
+Outcomes Research, Inc. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2021.08.007
+PMID: 35094795 [Indexed for MEDLINE]
+
+
+714. Value Health. 2022 Feb;25(2):268-275. doi: 10.1016/j.jval.2021.08.008. Epub
+2021  Sep 23.
+
+Prioritizing Healthcare Interventions: A Comparison of Multicriteria Decision 
+Analysis and Cost-Effectiveness Analysis.
+
+Wilson R(1), Chua J(2), Pryymachenko Y(2), Pathak A(2), Sharma S(3), Abbott 
+JH(2).
+
+Author information:
+(1)Centre for Musculoskeletal Outcomes Research, Department of Surgical 
+Sciences, University of Otago, Dunedin, New Zealand. Electronic address: 
+ross.wilson@otago.ac.nz.
+(2)Centre for Musculoskeletal Outcomes Research, Department of Surgical 
+Sciences, University of Otago, Dunedin, New Zealand.
+(3)Centre for Musculoskeletal Outcomes Research, Department of Surgical 
+Sciences, University of Otago, Dunedin, New Zealand; Department of 
+Physiotherapy, Kathmandu University School of Medical Sciences, Dhulikhel, 
+Nepal; School of Medical Sciences, University of New South Wales, Sydney, 
+Australia; Centre for Pain IMPACT, Neuroscience Research Australia, Sydney, 
+Australia.
+
+OBJECTIVES: To investigate the extent to which stated preferences for treatment 
+criteria elicited using multicriteria decision analysis (MCDA) methods are 
+consistent with the trade-offs (implicitly) applied in cost-effectiveness 
+analysis (CEA), and the impact of any differences on the prioritization of 
+treatments.
+METHODS: We used existing MCDA and CEA models developed to evaluate 
+interventions for knee osteoarthritis in the New Zealand population. We 
+established equivalent input parameters for each model, for the criteria 
+"treatment effectiveness," "cost," "risk of serious harms," and "risk of 
+mild-to-moderate harms" across a comprehensive range of (hypothetical) 
+interventions to produce a complete ranking of interventions from each model. We 
+evaluated the consistency of these rankings between the 2 models and 
+investigated any systematic differences between the (implied) weight placed on 
+each criterion in determining rankings.
+RESULTS: There was an overall moderate-to-strong correlation in intervention 
+rankings between the MCDA and CEA models (Spearman correlation coefficient = 
+0.51). Nevertheless, there were systematic differences in the evaluation of 
+trade-offs between intervention attributes and the resulting weights placed on 
+each criterion. The CEA model placed lower weights on risks of harm and much 
+greater weight on cost (at all accepted levels of willingness-to-pay per 
+quality-adjusted life-year than did respondents to the MCDA survey.
+CONCLUSIONS: MCDA and CEA approaches to inform intervention prioritization may 
+give systematically different results, even when considering the same criteria 
+and input data. These differences should be considered when designing and 
+interpreting such studies to inform treatment prioritization decisions.
+
+Copyright © 2021. Published by Elsevier Inc.
+
+DOI: 10.1016/j.jval.2021.08.008
+PMID: 35094800 [Indexed for MEDLINE]
+
+
+715. Value Health. 2022 Feb;25(2):276-287. doi: 10.1016/j.jval.2021.08.002. Epub
+2021  Sep 4.
+
+Health State Utilities for Sickle Cell Disease: A Catalog Prepared From 
+a Systematic Review.
+
+Jiao B(1), Basu A(2), Ramsey S(3), Roth J(4), Bender MA(5), Quach D(6), Devine 
+B(7).
+
+Author information:
+(1)The Comparative Health Outcomes, Policy, and Economics Institute, University 
+of Washington, Seattle, WA, USA.
+(2)The Comparative Health Outcomes, Policy, and Economics Institute, University 
+of Washington, Seattle, WA, USA; Department of Health Services, University of 
+Washington, Seattle, WA, USA.
+(3)The Comparative Health Outcomes, Policy, and Economics Institute, University 
+of Washington, Seattle, WA, USA; Hutchinson Institute for Cancer Outcomes 
+Research and Division of Public Health Sciences, Fred Hutchinson Cancer Research 
+Center, Seattle, WA, USA.
+(4)Hutchinson Institute for Cancer Outcomes Research and Division of Public 
+Health Sciences, Fred Hutchinson Cancer Research Center, Seattle, WA, USA.
+(5)Department of Pediatrics, University of Washington and Clinical Research 
+Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA.
+(6)Department of Pharmacy, University of Washington, Seattle, WA, USA.
+(7)The Comparative Health Outcomes, Policy, and Economics Institute, University 
+of Washington, Seattle, WA, USA; Department of Health Services, University of 
+Washington, Seattle, WA, USA; Department of Biomedical Informatics, University 
+of Washington, Seattle, WA, USA. Electronic address: bdevine@uw.edu.
+
+OBJECTIVES: Sickle cell disease (SCD) is a complex, chronic condition that 
+impairs health-related quality of life of affected individuals and their 
+caregivers. As curative therapies emerge, comprehensive cost-effectiveness 
+models will inform their value. These models will require descriptions of health 
+states and their corresponding utility values that accurately reflect 
+health-related quality of life over the disease trajectory. The objectives of 
+this systematic review were to develop a catalog of health state utility (HSU) 
+values for SCD, identify research gaps, and provide future directions for 
+preference elicitation.
+METHODS: Records were identified through searches of PubMed and Embase, Tufts 
+Medical Center Cost-Effectiveness Analysis Registry, reference lists of relevant 
+articles, and consultation with SCD experts (2008-2020). We removed duplicate 
+records and excluded ineligible studies. For included studies, we summarized the 
+study characteristics, methods used for eliciting HSUs, and HSU values.
+RESULTS: Five studies empirically elicited utilities using indirect methods 
+(EQ-5D) (n = 3) and Short Form-6 Dimension (n = 2); these represent health 
+states associated with general SCD (n = 1), SCD complications (n = 2), and SCD 
+treatments (n = 3). Additionally, we extracted HSUs from 7 quality-adjusted 
+life-years-based outcome research studies. The HSU among patients with general 
+SCD without specifying complications ranged from 0.64 to 0.887. Only 36% of the 
+HSUs used in the quality-adjusted life-year-based outcomes research studies were 
+derived from individuals with SCD. No study estimated HSUs in caregivers.
+CONCLUSIONS: There is a dearth of literature of HSUs for use in SCD models. 
+Future empirical studies should elicit a comprehensive set of HSUs from 
+individuals with SCD and their caregivers.
+
+Copyright © 2021 ISPOR–The International Society for Pharmacoeconomics and 
+Outcomes Research, Inc. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2021.08.002
+PMCID: PMC8804335
+PMID: 35094801 [Indexed for MEDLINE]
+
+
+716. Value Health. 2022 Feb;25(2):302-317. doi: 10.1016/j.jval.2021.07.005. Epub
+2021  Sep 17.
+
+What Is Value in Health and Healthcare? A Systematic Literature Review of Value 
+Assessment Frameworks.
+
+Zhang M(1), Bao Y(2), Lang Y(3), Fu S(4), Kimber M(5), Levine M(6), Xie F(7).
+
+Author information:
+(1)Department of Health Research Methods, Evidence, and Impact, McMaster 
+University, Hamilton, ON, Canada.
+(2)Institute of Clinical Research and Evidence Based Medicine, Gansu Provincial 
+Hospital, Lanzhou, China.
+(3)Department of Pharmacy, Huangpu Branch, Shanghai Ninth People's Hospital, 
+Shanghai Jiao Tong University School of Medicine, Shanghai, China.
+(4)School of International Pharmaceutical Business, China Pharmaceutical 
+University, Nanjing, China.
+(5)Department of Health Research Methods, Evidence, and Impact, McMaster 
+University, Hamilton, ON, Canada; Department of Psychiatry and Behavioural 
+Neurosciences, Offord Centre for Child Studies, McMaster University, Hamilton, 
+ON, Canada.
+(6)Department of Health Research Methods, Evidence, and Impact, McMaster 
+University, Hamilton, ON, Canada; Division of Clinical Pharmacology and 
+Toxicology, Department of Medicine, McMaster University, Hamilton, ON, Canada.
+(7)Department of Health Research Methods, Evidence, and Impact, McMaster 
+University, Hamilton, ON, Canada; Centre for Health Economics and Policy 
+Analysis, McMaster University, Hamilton, ON, Canada. Electronic address: 
+fengxie@mcmaster.ca.
+
+OBJECTIVES: This study aimed to investigate how value is defined and measured in 
+existing value assessment frameworks (VAFs) in healthcare.
+METHODS: We searched PubMed, Embase, the Cochrane Library, and Centre for 
+Reviews and Dissemination from 2008 to 2019. We also performed backward citation 
+chaining of included studies and previously published systematic reviews. 
+Studies reporting the development of a VAF in healthcare were included. For each 
+included framework, we extracted and compared the context, target users, 
+intended use, methods used to identify value attributes, description of the 
+attributes, and attribute scoring approaches.
+RESULTS: Of the 8151 articles screened, 57 VAFs were included. The value 
+attributes included in 55 VAFs were grouped into 9 categories: health benefits 
+(n = 53, 96%), affordability (n = 45, 82%), societal impact (n = 42, 76%), 
+burden of disease (n = 36, 65%), quality of evidence (n = 32, 58%), 
+cost-effectiveness (n = 31, 56%), ethics and equity (n = 27, 49%), unmet needs 
+(n = 21, 38%), and innovation (n = 15, 27%). The remaining 2 VAFs used broad 
+attributes or user-defined attributes. Literature review was the main approach 
+to identify value attributes in 36 VAFs. Patient or public was engaged through 
+the development of only 11 VAFs. Weighting has been used to score 29 VAFs, of 
+which 19 used the methods of multicriteria decision analysis.
+CONCLUSIONS: There are substantial variations in defining and measuring value. A 
+noticeable weakness of existing VAFs is that patient or public engagement was 
+generally very limited or missing in framework development process. Existing 
+VAFs tend to aggregate multiple value attributes into a single index for 
+decision making.
+
+Copyright © 2021 ISPOR–The International Society for Pharmacoeconomics and 
+Outcomes Research, Inc. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2021.07.005
+PMID: 35094803 [Indexed for MEDLINE]
+
+
+717. Vaccine. 2022 Feb 23;40(9):1282-1288. doi: 10.1016/j.vaccine.2022.01.033.
+Epub  2022 Jan 31.
+
+The cost-effectiveness of starting 23-valent pneumococcal polysaccharide vaccine 
+and influenza vaccination at 50 vs. 65 years: A comparative modelling study.
+
+Ding H(1), Huang J(1), Ngai CH(1), Sun Q(1), Kwok KO(1), Wang HH(2), Chong M(1), 
+Wong MC(3).
+
+Author information:
+(1)JC School of Public Health and Primary Care, Faculty of Medicine, The Chinese 
+University of Hong Kong, Hong Kong, China.
+(2)School of Public Health, Sun Yat-Sen University, Guangzhou, China.
+(3)JC School of Public Health and Primary Care, Faculty of Medicine, The Chinese 
+University of Hong Kong, Hong Kong, China. Electronic address: 
+wong_martin@cuhk.edu.hk.
+
+OBJECTIVES: Pneumococcal infection is a leading cause of morbidity and 
+mortality. We aimed to evaluate the cost-effectiveness of 23-valent 
+polysaccharide vaccine (PPV23) together with influenza vaccination or 
+pneumococcal vaccination alone in adults starting from 50 years vs. 65 years in 
+Hong Kong.
+METHODS: A hypothetical population of 100,000 older adults was included in a 
+Markov model with age ranging from 50 to 85 years to calculate the cost and 
+quality-adjusted life-years (QALYs) gained for vaccination strategies, 
+including: (1) annual influenza vaccine and PPV23 at 50 and 65 years; (2) annual 
+influenza vaccine and PPV23 at 65 years (similar with the current vaccination 
+programme); (3) PPV23 at 50 and 65 years; (4) PPV23 at 65 years; and (5) no 
+vaccination. We evaluated the incremental cost-effectiveness ratio (ICER) and 
+used Monte Carlo simulation for probabilistic sensitivity analysis. The 
+cost-effectiveness threshold was extracted from previous literature.
+RESULTS: In comparison with no vaccination, all strategies were cost-effective 
+with ICERs less than the threshold (US$24,302 per QALY gained). When compared 
+with no vaccination, strategies 1-4 saved US$ 49.5, US$ 94.9, US$ 584.3, and US$ 
+1114.2 to gain one QALY respectively. In comparison with strategy 2, strategy 1 
+spent US$ 195.3 to gain one QALY, whilst strategies 3 and 4 showed less 
+effectiveness with increased costs.
+CONCLUSIONS: All vaccination strategies were cost-effective, among which the 
+strategy of PPV23 at 50/65 years with annual influenza vaccine was 
+cost-effective even in comparison with current vaccination programme. These 
+findings could help inform the design and implementation of vaccination 
+strategies.
+
+Copyright © 2022 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.vaccine.2022.01.033
+PMID: 35094867 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+718. J Alzheimers Dis. 2022;86(2):601-612. doi: 10.3233/JAD-215368.
+
+Economic Burden of Dementia Caused by Cardiovascular Disease in Australia.
+
+Gao L(1), Nguyen D(1), Moodie M(1).
+
+Author information:
+(1)Deakin Health Economics, Institute for Health Transformation, Faculty of 
+Health, Deakin University, Geelong, VIC, Australia.
+
+BACKGROUND: The established link between cardiovascular disease (CVD) and 
+dementia may provide new insights into dementia prevention.
+OBJECTIVE: It aims to quantify the burden of dementia attributable to people 
+with CVD.
+METHODS: A Markov microsimulation model was developed to simulate the lifetime 
+cost and quality-adjusted life-years (QALYs) related to people with and without 
+CVD in Australia. A de-novo systematic review was undertaken to identify all 
+evidence around the association between CVD [i.e., stroke, myocardial infarction 
+(MI), atrial fibrillation (AF), and heart failure (HF)] and the risk of 
+developing dementia. Incremental costs and QALY losses were estimated for people 
+by type of CVD compared to the general Australian population without CVD.
+RESULTS: Of the comprehensive literature search, 19 observational studies were 
+included in the qualitative synthesis. Patients who had CVD incurred both higher 
+healthcare costs over their lifetime (ranging from $73,131 for patients with AF 
+to $127,396 for patients with HF) and fewer QALYs gains (from -1.099 for 
+patients with MI to -5.163 for patients with stroke), compared to people who did 
+not have CVD. The total incremental economic burden of dementia from patients 
+aged 65 years and over with CVD was $6.45 billion (stroke), $11.89 billion (AF), 
+$17.57 billion (MI), or $7.95 billion (HF) over their remaining life expectancy.
+CONCLUSION: The results highlighted the importance of CVD prevention to reduce 
+the CVD burden and decrease the prevalence of dementia. Interventions that 
+target patients with dementia risk factors like CVD may prove to be effective 
+and cost-effective strategies.
+
+DOI: 10.3233/JAD-215368
+PMID: 35094992 [Indexed for MEDLINE]
+
+
+719. Int J Nanomedicine. 2022 Jan 22;17:299-331. doi: 10.2147/IJN.S347187. 
+eCollection 2022.
+
+Nanoparticles in Combating Neuronal Dysregulated Signaling Pathways: Recent 
+Approaches to the Nanoformulations of Phytochemicals and Synthetic Drugs Against 
+Neurodegenerative Diseases.
+
+Fakhri S(1), Abdian S(#)(2), Zarneshan SN(#)(2), Moradi SZ(1)(3), Farzaei MH(1), 
+Abdollahi M(4)(5).
+
+Author information:
+(1)Pharmaceutical Sciences Research Center, Health Institute, Kermanshah 
+University of Medical Sciences, Kermanshah, Iran.
+(2)Student Research Committee, Kermanshah University of Medical Sciences, 
+Kermanshah, Iran.
+(3)Medical Biology Research Center, Kermanshah University of Medical Sciences, 
+Kermanshah, Iran.
+(4)Toxicology and Diseases Group, Pharmaceutical Sciences Research Center 
+(PSRC), The Institute of Pharmaceutical Sciences (TIPS), Tehran University of 
+Medical Sciences, Tehran, Iran.
+(5)Department of Toxicology and Pharmacology, School of Pharmacy, Tehran 
+University of Medical Sciences, Tehran, Iran.
+(#)Contributed equally
+
+As the worldwide average life expectancy has grown, the prevalence of 
+age-related neurodegenerative diseases (NDDs) has risen dramatically. A 
+progressive loss of neuronal function characterizes NDDs, usually followed by 
+neuronal death. Inflammation, apoptosis, oxidative stress, and protein 
+misfolding are critical dysregulated signaling pathways that mainly orchestrate 
+neuronal damage from a mechanistic point. Furthermore, in afflicted families 
+with genetic anomalies, mutations and multiplications of α-synuclein and 
+amyloid-related genes produce some kinds of NDDs. Overproduction of such 
+proteins, and their excessive aggregation, have been proven in various models of 
+neuronal malfunction and death. In this line, providing multi-target therapies 
+carried by novel delivery systems would pave the road to control NDDs through 
+simultaneous modulation of such dysregulated pathways. Phytochemicals are 
+multi-target therapeutic agents, which employ several mechanisms towards 
+neuroprotection. Besides, the blood-brain barrier (BBB) is a critical issue in 
+managing NDDs since it inhibits the accessibility of drugs to the brain in 
+sufficient concentration. Besides, discovering novel delivery systems is vital 
+to improving the efficacy, bioavailability, and pharmacokinetic of therapeutic 
+agents. Such novel formulations are also employed to improve the drug's 
+biodistribution, allow for the co-delivery of several medicines, and offer 
+targeted intracellular delivery against NDDs. The present review proposes 
+nanoformulations of phytochemicals and synthetic agents to combat NDDs by 
+modulating neuroinflammation, neuroapoptosis, neuronal oxidative stress pathways 
+and protein misfolding.
+
+© 2022 Fakhri et al.
+
+DOI: 10.2147/IJN.S347187
+PMCID: PMC8791303
+PMID: 35095273 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflicts of interest in 
+this work.
+
+
+720. Evid Based Complement Alternat Med. 2022 Jan 19;2022:7226674. doi: 
+10.1155/2022/7226674. eCollection 2022.
+
+Strengthening of Traditional Chinese Medicine in the Health System Reform: 
+Effect on Health Outcomes and Financial Protection.
+
+He P(1), Zhu D(1), Man X(2), Bai Q(2)(3), Huang L(2)(4), Shi X(2), Meng Q(1).
+
+Author information:
+(1)China Center for Health Development Studies, Peking University, Beijing 
+100191, China.
+(2)School of Management, Beijing University of Chinese Medicine, Beijing 100029, 
+China.
+(3)State Key Laboratory of Quality Research in Chinese Medicine, Institute of 
+Chinese Medical Sciences, University of Macau, Macau, Taipa 999078, China.
+(4)Office of Policy and Planning Research, Chinese Center for Disease Control 
+and Prevention, Beijing 102206, China.
+
+BACKGROUND: The challenges of modern medicine in addressing chronic diseases 
+necessitate a shift of attention towards traditional medicine (TM) and other 
+supplementary care systems. China has prioritized the strengthening of 
+traditional Chinese medicine (TCM) in the health system reform since 2009. This 
+study sought to assess the effects of the reform on TCM and the resultant effect 
+of a strengthened TCM on health outcomes and financial protection.
+METHODS: Longitudinal data were obtained from the China Statistical Yearbook, 
+China Health Statistical Yearbook, China Population Statistical Yearbook, and 
+Statistical Extract of Traditional Chinese Medicine in 31 provinces of mainland 
+China between 2002 and 2016. Dependent variables included health outcomes 
+measured by age-standardized excess mortality and life expectancy at birth and 
+financial protection measured by the proportion of health expenses in total 
+consumption expenses. The independent variables consisted of the number and 
+proportion of TCM physicians. The fixed effects (FEs) models were established to 
+identify the effect of the independent variables on outcomes.
+RESULTS: From 2009 to 2016, the number and proportion of TCM physicians 
+increased from 22 to 36 physicians per 100,000 population and from <12% to >15%, 
+respectively. The changes were more rapid and higher than that in the period 
+before the reform. An increase of 1 TCM physician per 100,000 population was 
+associated with a decrease of 1.944 excess deaths, a 5.84-day increase in male 
+life expectancy, and a decrease of 0.051% of health expenses among both urban 
+and rural residents. An increase in proportion of 1% of TCM physicians was 
+associated with a decrease of 5.097 excess deaths, a 17.52-day increase of life 
+expectancy (both genders), an increase of 21.535-day in life expectancy (males) 
+per 100,000 population, and a decrease of 0.082% of health expenses among rural 
+residents.
+CONCLUSION: During China's health system reform, the increased physician number 
+has strengthened TCM. Higher TCM physician supply was associated with improved 
+health outcomes and financial protection, which implies that the reform may have 
+important implications on health system performance in China.
+
+Copyright © 2022 Ping He et al.
+
+DOI: 10.1155/2022/7226674
+PMCID: PMC8791714
+PMID: 35096115
+
+Conflict of interest statement: All authors declare no conflicts of interest.721. Biochip J. 2022;16(1):41-48. doi: 10.1007/s13206-021-00044-x. Epub 2022 Jan
+26.
+
+SF-qPCR: Strand Displacement-Based Fast Quantitative Polymerase Chain Reaction.
+
+Kim J(1)(2), Jung C(1).
+
+Author information:
+(1)Department of Biotechnology, College of Life Sciences and Biotechnology, 
+Korea University, Seoul, 02841 Republic of Korea.
+(2)Department of Laboratory Medicine, Kangdong Sacred Heart Hospital, Seoul, 
+05355 Republic of Korea.
+
+Nucleic acid testing (NAT) is important for the identification and 
+quantification of specific nucleic acid targets, both DNA and RNA, in life 
+sciences and clinical diagnostics. Nucleic acid amplification can be a 
+time-consuming step in NAT using the polymerase chain reaction (PCR) assay. 
+Therefore, this study aimed to develop a simple method to reduce the 
+amplification time while maintaining the PCR system. The three-step process of a 
+general qPCR was reduced to a two-step process. The annealing/extension 
+temperatures were increased to minimize the differences between the denaturation 
+temperature and the annealing/extension temperatures. Subsequently, the time for 
+each of these steps was reduced and, finally, the denaturation temperature was 
+lowered. Taq polymerase was replaced with SD polymerase because it has strand 
+displacement activity and is efficient in amplifying partial dsDNA at lower 
+denaturation temperatures. In the two-step qPCR of genomic DNA using SD 
+polymerase, the final conditions included an initial denaturation at 92 °C for 
+2 min, and 1 s at each cycling step with a denaturation temperature of 87 °C and 
+an annealing/extension temperature of 72 °C. Amplification of the nucleocapsid 
+(N) gene of SARS-CoV-2 RNA virus was evaluated at a template concentration as 
+low as 10 copies. This method, named SF-qPCR (strand displacement-based fast 
+quantitative polymerase chain reaction), can stably detect less than 10 copies 
+of DNA and RNA within 25-40 min. This new protocol allows for sensitive and 
+rapid detection of important DNA and RNA targets in clinical diagnosis.
+SUPPLEMENTARY INFORMATION: The online version contains supplementary material 
+available at 10.1007/s13206-021-00044-x.
+
+© The Korean BioChip Society 2022.
+
+DOI: 10.1007/s13206-021-00044-x
+PMCID: PMC8790009
+PMID: 35096279
+
+Conflict of interest statement: Conflict of InterestThe authors declare no 
+conflict of interest.
+
+
+722. Front Oncol. 2022 Jan 13;11:798008. doi: 10.3389/fonc.2021.798008.
+eCollection  2021.
+
+Progress in the Treatment of HIV-Associated Lymphoma When Combined With the 
+Antiretroviral Therapies.
+
+Wang C(1), Liu J(1), Liu Y(1).
+
+Author information:
+(1)Department of Hematology-Oncology, Chongqing Key Laboratory of Translational 
+Research for Cancer Metastasis and Individualized Treatment, Chongqing 
+University Cancer Hospital, Chongqing, China.
+
+With the wide use of combination antiretroviral therapy (cART), the life 
+expectancy of HIV-infected individuals drastically improved. However, HIV 
+infection and HIV-associated cancers were the most common causes of death in the 
+HIV-infected populations. The HIV-associated cancers are divided into acquired 
+immune deficiency syndrome (AIDS)-defining and non-AIDS-defining cancers based 
+on the incidence among the HIV-infected patients. Among HIV-associated cancers, 
+acquired immune deficiency syndrome-related lymphoma (ARL) is still the most 
+common condition and the leading cause of HIV/AIDS-related deaths. Diffuse large 
+B-cell lymphoma (DLBCL) and Burkitt's lymphoma (BL) are the most common subtypes 
+of the ARL. Although Hodgkin's lymphoma (HL) is not considered as an 
+AIDS-defining cancer, incidence of HL in HIV-infected individuals is higher than 
+the general population. The review summarizes the new progress in the treatment 
+of HIV-associated lymphoma.
+
+Copyright © 2022 Wang, Liu and Liu.
+
+DOI: 10.3389/fonc.2021.798008
+PMCID: PMC8792758
+PMID: 35096597
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+723. Front Public Health. 2022 Jan 12;9:802465. doi: 10.3389/fpubh.2021.802465. 
+eCollection 2021.
+
+Assessing the Effect of Bilateral Trade on Health in the Asian Region: Does 
+Digitization Matter?
+
+Zhang X(1)(2), Zhang X(1), Yue XG(3), Mustafa F(4).
+
+Author information:
+(1)School of Economics and Management, Huanghuai University, Zhumadian, China.
+(2)Zhumadian Academy of Industry Innovation and Development, Huanghuai 
+University, Zhumadian, China.
+(3)School of Sciences, European University Cyprus, Nicosia, Cyprus.
+(4)UCP Business School, Faculty of Management Studies, University of Central 
+Punjab, Lahore, Pakistan.
+
+A recurrent theme of the literature and wider public discourse is that trade and 
+digitization are good for health as it promotes economic prosperity. The present 
+study investigates the impact of trade and digitization on health in 12 selected 
+Asian economies for the period 1991-2019. The study applied FMOLS and DOLS 
+approaches for confirming the panel and economy-wise findings. The core findings 
+of the panel FMOLS confirm the significant negative impact of trade and 
+digitization on mortality rate, and trade and digitization have significantly 
+positively contributed to life expectancy in selected Asian countries in the 
+long run. The study deduces some imperative policy implications related to 
+trade, digitization, and health, specifically for Asian economies.
+
+Copyright © 2022 Zhang, Zhang, Yue and Mustafa.
+
+DOI: 10.3389/fpubh.2021.802465
+PMCID: PMC8790091
+PMID: 35096750 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+724. Front Public Health. 2022 Jan 12;9:811872. doi: 10.3389/fpubh.2021.811872. 
+eCollection 2021.
+
+Transmission Channels and Impacts of Energy Use on Health Outcomes in Asia.
+
+Zhang X(1), Chen M(2), Li J(1).
+
+Author information:
+(1)Business School, Shandong Normal University, Jinan, China.
+(2)School of Economics, Guangxi University for Nationalities, Nanning, China.
+
+Today, the developing economies continue to tackle the penalties of the energy 
+use and its influence on their environmental and socio-economic prosperity, and 
+the developed economies are concentrating on promoting programs and policies to 
+improve and sustain the endowment of adequate energy consumption that pledges 
+less carbon emissions and threats to human health. Currently, millions of people 
+face a dearth of access to reliable, affordable, and clean energy to fulfill 
+their daily requirements. Thus, the mounting need for energy use portends 
+hazardous consequences on human health. This paper investigates the transmission 
+channels and impact of energy consumption on health outcomes in Asia by adopting 
+a panel of selected Asian economies for the period from 1991 and 2019. The 
+findings of the study show that energy causes a rise in infant mortality rate 
+and a reduction in life expectancy. Furthermore, the study found that a high 
+degree of pollution emissions causes a rise in infant mortality and a decline in 
+life expectancy.
+
+Copyright © 2022 Zhang, Chen and Li.
+
+DOI: 10.3389/fpubh.2021.811872
+PMCID: PMC8790086
+PMID: 35096754 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+725. Front Public Health. 2022 Jan 14;9:827915. doi: 10.3389/fpubh.2021.827915. 
+eCollection 2021.
+
+Digital Economy and Health: Does Green Technology Matter in BRICS Economies?
+
+Jiang C(1), Chang H(2), Shahzad I(3).
+
+Author information:
+(1)School of Economics, Qingdao University, Qingdao, China.
+(2)Department of Accounting, Ling Tung University, Taichung City, Taiwan.
+(3)UCP Business School, Faculty of Management Studies, University of Central 
+Punjab, Lahore, Pakistan.
+
+The present study attempts to examine the impact of digitization and green 
+technology on the health outcomes of BRICS countries over the period of 
+1993-2019. Internet users measure digitalization, and health outcome is 
+determined by life expectancy. The study employed the ARDL estimation approach 
+for empirical investigation of country-specific analysis. GDP per capita and 
+current health expenditures have been incorporated as control variables. The 
+study findings reveal that digitalization results in increasing life expectancy 
+in the long-run in BRICS except for Brazil. While green technology tends to 
+enhance life expectancy in the long-run in Russia and China, it produces an 
+insignificant impact on health outcomes in the short-run. While GDP and health 
+expenditures also improve life expectancy in mostly BRICS economies in the 
+long-run and short-run. Our study provides some policy implications for BRICS 
+nations.
+
+Copyright © 2022 Jiang, Chang and Shahzad.
+
+DOI: 10.3389/fpubh.2021.827915
+PMCID: PMC8795675
+PMID: 35096764 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+726. Front Bioeng Biotechnol. 2022 Jan 13;9:751193. doi:
+10.3389/fbioe.2021.751193.  eCollection 2021.
+
+Alteration of the Sitting and Standing Movement in Adult Spinal Deformity.
+
+Saad E(1), Semaan K(1), Kawkabani G(1), Massaad A(1), Salibv RM(1), Mekhael 
+M(1), Fakhoury M(1), Karam KA(1), Jaber E(1), Ghanem I(1), Lafage V(2), Skalli 
+W(3), Rachkidi R(1), Assi A(1)(3).
+
+Author information:
+(1)Faculty of Medicine, University of Saint-Joseph, Beirut, Lebanon.
+(2)Orthopaedics Surgery, Lenox Hill Hospital, New York, NY, United States.
+(3)Institut de Biomécanique Humaine Georges Charpak, Arts et Métiers, Paris, 
+France.
+
+Adults with spinal deformity (ASD) are known to have spinal malalignment 
+affecting their quality of life and daily life activities. While walking 
+kinematics were shown to be altered in ASD, other functional activities are yet 
+to be evaluated such as sitting and standing, which are essential for patients' 
+autonomy and quality of life perception. In this cross-sectional study, 93 ASD 
+subjects (50 ± 20 years; 71 F) age and sex matched to 31 controls (45 ± 
+15 years; 18 F) underwent biplanar radiographic imaging with subsequent 
+calculation of standing radiographic spinopelvic parameters. All subjects filled 
+HRQOL questionnaires such as SF36 and ODI. ASD were further divided into 34 
+ASD-sag (with PT > 25° and/or SVA >5 cm and/or PI-LL >10°), 32 ASD-hyperTK (with 
+only TK >60°), and 27 ASD-front (with only frontal malalignment: Cobb >20°). All 
+subjects underwent 3D motion analysis during the sit-to-stand and stand-to-sit 
+movements. The range of motion (ROM) and mean values of pelvis, lower limbs, 
+thorax, head, and spinal segments were calculated on the kinematic waveforms. 
+Kinematics were compared between groups and correlations to radiographic and 
+HRQOL scores were computed. During sit-to-stand and stand-to-sit movements, 
+ASD-sag had decreased pelvic anteversion (12.2 vs 15.2°), hip flexion (53.0 vs 
+62.2°), sagittal mobility in knees (87.1 vs 93.9°), and lumbar mobility 
+(L1L3-L3L5: -9.1 vs -6.8°, all p < 0.05) compared with controls. ASD-hyperTK 
+showed increased dynamic lordosis (L1L3-L3L5: -9.1 vs -6.8°), segmental thoracic 
+kyphosis (T2T10-T10L1: 32.0 vs 17.2°, C7T2-T2T10: 30.4 vs 17.7°), and 
+thoracolumbar extension (T10L1-L1L3: -12.4 vs -5.5°, all p < 0.05) compared with 
+controls. They also had increased mobility at the thoracolumbar and 
+upper-thoracic spine. Both ASD-sag and ASD-hyperTK maintained a flexed trunk, an 
+extended head along with an increased trunk and head sagittal ROM. Kinematic 
+alterations were correlated to radiographic parameters and HRQOL scores. Even 
+after controlling for demographic factors, dynamic trunk flexion was determined 
+by TK and PI-LL mismatch (adj. R 2 = 0.44). Lumbar sagittal ROM was determined 
+by PI-LL mismatch (adj. R 2 = 0.13). In conclusion, the type of spinal deformity 
+in ASD seems to determine the strategy used for sitting and standing. Future 
+studies should evaluate whether surgical correction of the deformity could 
+restore sitting and standing kinematics and ultimately improve quality of life.
+
+Copyright © 2022 Saad, Semaan, Kawkabani, Massaad, Salibv, Mekhael, Fakhoury, 
+Karam, Jaber, Ghanem, Lafage, Skalli, Rachkidi and Assi.
+
+DOI: 10.3389/fbioe.2021.751193
+PMCID: PMC8792509
+PMID: 35096787
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+727. Front Nutr. 2022 Jan 12;8:815947. doi: 10.3389/fnut.2021.815947. eCollection
+ 2021.
+
+Lycium barbarum Extracts Extend Lifespan and Alleviate Proteotoxicity in 
+Caenorhabditis elegans.
+
+Zhou H(1)(2), Ding S(2), Sun C(1), Fu J(3), Yang D(3), Wang X(1), Wang CC(1)(4), 
+Wang L(1)(4).
+
+Author information:
+(1)National Laboratory of Biomacromolecules, CAS Center for Excellence in 
+Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences (CAS), 
+Beijing, China.
+(2)Central Laboratory, Luoyang Central Hospital Affiliated to Zhengzhou 
+University, Luoyang, China.
+(3)Beijing Key Laboratory of Functional Food From Plant Resources, College of 
+Food Science and Nutritional Engineering, China Agricultural University, 
+Beijing, China.
+(4)College of Life Sciences, University of Chinese Academy of Sciences, Beijing, 
+China.
+
+Lycium barbarum berry (Ningxia Gouqi, Fructus lycii, goji berry, or wolfberry), 
+as a traditional Chinese herb, was recorded beneficial for longevity in 
+traditional Chinese medical scriptures and currently is a natural dietary 
+supplement worldwide. However, under modern experimental conditions, the 
+longevity effect of L. barbarum berry and the underlying mechanisms have been 
+less studied. Here, we reported that total water extracts of L. barbarum berry 
+(LBE), which contains 22% polysaccharides and other components, such as 
+anthocyanins, extended the lifespan of Caenorhabditis elegans without side 
+effects on worm fertility and pharyngeal pumping. Interestingly, we found that 
+the lifespan extension effect was more prominent in worms with shorter mean 
+lifespan as compared to those with longer mean lifespan. Furthermore, we showed 
+that the lifespan extension effect of LBE depended on deacetylase sir-2.1. 
+Remarkably, LBE rescued heat shock transcription factor-1 (hsf-1) deficiency in 
+wild-type worms with different mean lifespans, and this effect also depended on 
+sir-2.1. In addition, we found that LBE extended lifespan and alleviated toxic 
+protein aggregation in neurodegenerative worms with hsf-1 deficiency. Our study 
+suggested that LBE may be a potential antiaging natural dietary supplement 
+especially to individuals with malnutrition or chronic diseases and a potential 
+therapeutic agent for neurodegenerative diseases characterized by hsf-1 
+deficiency.
+
+Copyright © 2022 Zhou, Ding, Sun, Fu, Yang, Wang, Wang and Wang.
+
+DOI: 10.3389/fnut.2021.815947
+PMCID: PMC8790518
+PMID: 35096951
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+728. Curr Res Ecol Soc Psychol. 2021;2:100017. doi: 10.1016/j.cresp.2021.100017.
+Epub  2021 Aug 12.
+
+Shifts in ecology, behavior, values, and relationships during the coronavirus 
+pandemic: Survival threat, subsistence activities, conservation of resources, 
+and interdependent families.
+
+Greenfield PM(1), Brown G(2), Du H(1).
+
+Author information:
+(1)Department of Psychology, University of California, Los Angeles, CA 90095, 
+USA.
+(2)Department of Psychology, Northumbria University, Newcastle upon Tyne, UK.
+
+What are the psychological effects of the coronavirus pandemic? Greenfield's 
+Theory of Social Change, Cultural Evolution, and Human Development predicts that 
+when survival concerns augment, and one's social world narrows toward the family 
+household. life shifts towards activities, values, relationships, and parenting 
+expectations typical of small-scale rural subsistence environments with low life 
+expectancy. Specific predictions were that, during the pandemic, respondents 
+would report intensified survival concerns (e.g., thinking about one's own 
+mortality); increased subsistence activities (e.g., growing food); augmented 
+subsistence values (e.g., conserving resources); more interdependent family 
+relationships (e.g., members helping each other obtain food); and parents 
+expecting children to contribute more to family maintenance (e.g., by cooking 
+for the family). All hypotheses were confirmed with a large-scale survey in 
+California (N = 1,137) administered after about a month of stay-at-home orders 
+during the coronavirus pandemic; results replicated in Rhode Island (N = 955). 
+We posited that an experience of increased survival concerns and number of days 
+spent observing stay-at-home orders would predict these shifts. A structural 
+equation model confirmed this hypothesis.
+
+© 2021 The Authors. Published by Elsevier B.V.
+
+DOI: 10.1016/j.cresp.2021.100017
+PMCID: PMC8479537
+PMID: 35098185
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+729. Calcif Tissue Int. 2022 May;110(5):624-640. doi: 10.1007/s00223-022-00946-4.
+ Epub 2022 Jan 30.
+
+Osteoporosis and HIV Infection.
+
+Biver E(1).
+
+Author information:
+(1)Division of Bone Diseases, Geneva University Hospitals and Faculty of 
+Medicine, University of Geneva, 4 Rue Gabrielle Perret-Gentil, 1205, Geneva, 
+Switzerland. Emmanuel.Biver@hcuge.ch.
+
+Life expectancy of people living with HIV (PLWH) is now close to that of the 
+HIV-uninfected population. As a result, age-related comorbidities, including 
+osteoporosis, are increasing in PLWH. This narrative review describes the 
+epidemiology of bone fragility in PLWH, changes of bone features over the course 
+of HIV infection and their determinants, as well as the available evidence 
+regarding the management of osteoporosis in PLWH. The risk of fracture is higher 
+and increases about 10 years earlier compared to the general population. The 
+classical risk factors of bone fragility are very widespread and are major 
+determinants of bone health in this population. The majority of bone loss occurs 
+during virus replication and during immune reconstitution at antiretroviral 
+therapies (ART) initiation, which both increase osteoclast activity. 
+Abnormalities in bone formation and mineralization have also been shown in 
+histomorphometric studies in untreated PLWH. Measurement of bone mineral density 
+(BMD) is the first line tool for assessing fracture risk in postmenopausal 
+women, men above 50 years, and other HIV-infected patients with clinical risk 
+factors for osteoporosis. FRAX underestimates fracture probability in PLWH. In 
+case of indication for anti-osteoporotic drug, bisphosphonates remain the 
+reference option. Calcium and vitamin D supplementation should be considered as 
+ART initiation, since it may attenuate bone loss at this stage. Bone-protective 
+ART regimens improve BMD compared to other regimens, but to a lesser extent than 
+bisphosphonate, and without available data on their influence on the incidence 
+of fracture.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s00223-022-00946-4
+PMCID: PMC9013331

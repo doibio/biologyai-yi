@@ -1,0 +1,1000 @@
+descriptive analysis and clinical effectiveness and cost-effectiveness modelling 
+of IVIG in severe sepsis. Additional primary data analysis. Expected value of 
+information (EVI) analysis.
+RESULTS: Our meta-analysis, the first to simultaneously allow for type of IVIG 
+(IVIG or immunoglobulin M-enriched polyclonal IVIG), choice of control (no 
+treatment or albumin), study quality/publication bias and other potential 
+covariates, indicated that the treatment effect of IVIG on mortality for 
+patients with severe sepsis is borderline significant with a large degree of 
+heterogeneity in treatment effect between individual studies. Modelling 
+indicated that there were issues with bias associated with trial methodology, 
+publication and small-study effects with the current evidence. The large degree 
+of heterogeneity in treatment effects between studies, however, could be 
+explained (best-fitting model) by a measure of study quality (i.e. use of 
+albumin as control - as an indicator of proper blinding to treatment as a proxy 
+for study quality - associated with decreased effect) and duration of IVIG 
+therapy (longer duration associated with increased effect). In-depth discussion 
+within the Expert Group on duration of IVIG therapy, with daily dose and total 
+dose also clearly inter-related, indicated no clear clinical rationale for this 
+association and exposed a lack of evidence on the understanding of the mechanism 
+of action of IVIG in severe sepsis. Although the EVI analyses suggested 
+substantial expected net benefit from a large, multicentre randomised controlled 
+trial (RCT) evaluating the clinical effectiveness of IVIG, the remaining 
+uncertainties around the design of such a study mean that we are unable to 
+recommend it at this time.
+LIMITATIONS: As has been identified in previous meta-analyses, there are issues 
+with the methodological quality of the available evidence.
+CONCLUSIONS: Although the results highlight the value for money obtained in 
+conducting further primary research in this area, the biggest limitation for 
+such research regards the uncertainties over the mechanism of action of IVIG and 
+the heterogeneous nature of severe sepsis. Resolving these would allow for 
+better definition of the plausibility of the effectiveness scenarios presented 
+and, consequently, a better understanding of the cost-effectiveness of this 
+treatment. This information would also inform the design of future, primary 
+evaluative research. Our recommendations for future research focus on filling 
+the knowledge gaps to inform a future multicentre RCT prior to recommending its 
+immediate design and conduct.
+FUNDING: The National Institute for Health Research Health Technology Assessment 
+programme.
+
+DOI: 10.3310/hta16070
+PMCID: PMC4781633
+PMID: 22361003 [Indexed for MEDLINE]
+
+
+695. Lung Cancer. 2012 Jul;77(1):116-20. doi: 10.1016/j.lungcan.2012.01.013. Epub
+ 2012 Feb 21.
+
+Prognostic score for second-line chemotherapy of advanced non-small-cell lung 
+cancer: external validation in a phase III trial comparing vinflunine with 
+docetaxel.
+
+Di Maio M(1), Krzakowski M, Fougeray R, Kowalski DM, Gridelli C.
+
+Author information:
+(1)Clinical Trials Unit, National Cancer Institute, Napoli, Italy.
+
+A prognostic index for second-line chemotherapy of NSCLC was previously 
+developed, based on individual patient data (IPD) of nine randomized trials. In 
+order to validate the prognostic score in an external dataset, we analysed IPD 
+of a non-inferiority phase III trial comparing vinflunine vs. docetaxel in 
+second-line treatment of advanced NSCLC. Primary endpoint of this analysis was 
+overall survival (OS). The following variables were considered for survival 
+analysis and score calculation: gender, performance status, stage of disease, 
+tumour histology, type of first-line treatment, response to first-line 
+treatment. Cox model, stratified by treatment arm, was used for multivariate 
+analysis. Individual prognostic scores were derived, and patients were divided 
+into 3 categories: <5 (best), 5-9 (intermediate), >9 (worst). All 551 patients 
+enrolled in the trial had complete information for the calculation of prognostic 
+score. Median OS in the whole group was 6.9 months, with similar efficacy in the 
+two treatment arms. Median OS was 12.9, 6.9 and 3.8 months in the best, 
+intermediate and worst category, respectively. Cox model showed a significant 
+effect comparing intermediate vs. best category (Hazard Ratio 1.79, 95%CI 
+1.31-2.47, p=0.0003) and comparing worst vs. best category (Hazard Ratio 3.25, 
+95%CI 2.18-4.83, p<0.0001). The C-index of the model was high (0.926), 
+indicating a good discrimination according to the proposed three risk 
+categories. Prognostic ability of our score for candidates to second-line 
+treatment in advanced NSCLC was successfully validated, allowing the 
+identification of subgroups of patients with more vs. less favourable outcome. 
+Prognostic score could be useful in daily decision-making in clinical practise, 
+because a better understanding of factors conditioning life expectancy of 
+patients could greatly help a careful evaluation of risks and benefits 
+associated with therapeutic decisions.
+
+Copyright © 2012 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.lungcan.2012.01.013
+PMID: 22361218 [Indexed for MEDLINE]
+
+
+696. IEEE Trans Inf Technol Biomed. 2012 May;16(3):488-500. doi: 
+10.1109/TITB.2012.2188536. Epub 2012 Feb 22.
+
+Artifact removal in physiological signals--practices and possibilities.
+
+Sweeney KT(1), Ward TE, McLoone SF.
+
+Author information:
+(1)Department of Electronic Engineering, National University of Ireland, 
+Maynooth, Ireland. ksweeney@eeng.nuim.ie
+
+The combination of reducing birth rate and increasing life expectancy continues 
+to drive the demographic shift toward an aging population. This, in turn, places 
+an ever-increasing burden on healthcare due to the increasing prevalence of 
+patients with chronic illnesses and the reducing income-generating population 
+base needed to sustain them. The need to urgently address this healthcare "time 
+bomb" has accelerated the growth in ubiquitous, pervasive, distributed 
+healthcare technologies. The current move from hospital-centric healthcare 
+toward in-home health assessment is aimed at alleviating the burden on 
+healthcare professionals, the health care system and caregivers. This shift will 
+also further increase the comfort for the patient. Advances in signal 
+acquisition, data storage and communication provide for the collection of 
+reliable and useful in-home physiological data. Artifacts, arising from 
+environmental, experimental and physiological factors, degrade signal quality 
+and render the affected part of the signal useless. The magnitude and frequency 
+of these artifacts significantly increases when data collection is moved from 
+the clinic into the home. Signal processing advances have brought about 
+significant improvement in artifact removal over the past few years. This paper 
+reviews the physiological signals most likely to be recorded in the home, 
+documenting the artifacts which occur most frequently and which have the largest 
+degrading effect. A detailed analysis of current artifact removal techniques 
+will then be presented. An evaluation of the advantages and disadvantages of 
+each of the proposed artifact detection and removal techniques, with particular 
+application to the personal healthcare domain, is provided.
+
+DOI: 10.1109/TITB.2012.2188536
+PMID: 22361665 [Indexed for MEDLINE]
+
+
+697. Breast Cancer Res Treat. 2012 Jun;133(3):1115-23. doi: 
+10.1007/s10549-012-1989-5. Epub 2012 Feb 24.
+
+Cost-utility of the 21-gene recurrence score assay in node-negative and 
+node-positive breast cancer.
+
+Lamond NW(1), Skedgel C, Rayson D, Lethbridge L, Younis T.
+
+Author information:
+(1)Department of Medicine, Dalhousie University, 454 Bethune Building. 1276 
+South Park Street, Halifax NS, B3H 2Y9, Canada.
+
+The 21-gene recurrence score (Oncotype DX: RS) appears to augment 
+clinico-pathologic prognostication and is predictive of adjuvant chemotherapy 
+benefit in node-negative (N-) and node-positive (N+), endocrine-sensitive breast 
+cancer. RS is a costly assay that is associated with good 'value for money' in 
+N- disease, while economic evaluations in N+ disease based on most recent data 
+have not been conducted. We examined the cost-utility (CU) of a RS-guided 
+adjuvant strategy, compared to current practice without RS in N- and N+, 
+endocrine-sensitive, breast cancer from a Canadian health care system 
+perspective. A generic state-transition model was developed to compute 
+cumulative costs and quality-adjusted life years (QALYs) over a 25-year horizon. 
+Patient outcomes with and without chemotherapy in RS-untested cohorts and in 
+those with low, intermediate and high RS were examined based on the reported 
+prognostic and predictive impact of RS in N- and N+ disease. Chemotherapy 
+utilization (current vs. RS-guided), unit costs and utilities were derived from 
+a Nova Scotia Canadian population-based cohort, local unit costs and the 
+literature. Costs and outcomes were discounted at 3% annually, and costs were 
+reported in 2011 Canadian dollars ($). Probabilistic and one-way sensitivity 
+analyses were conducted for key model parameters. Compared to a non-RS-guided 
+strategy, RS-guided adjuvant therapy was associated with $2,585 and $864 
+incremental costs, 0.27 and 0.06 QALY gains, and resultant CUs of $9,591 and 
+$14,844 per QALY gained for N- and N+ disease, respectively. CU estimates were 
+robust to key model parameters, and were most sensitive to chemo utilization 
+proportions. RS-guided adjuvant therapy appears to be a cost-effective strategy 
+in both N- and N+, endocrine-sensitive breast cancer with resultant CU ratios 
+well below commonly quoted thresholds.
+
+DOI: 10.1007/s10549-012-1989-5
+PMID: 22361999 [Indexed for MEDLINE]
+
+
+698. Eur Respir J. 2012 Jul;40(1):133-42. doi: 10.1183/09031936.00169411. Epub
+2012  Feb 23.
+
+Cost and cost-effectiveness of multidrug-resistant tuberculosis treatment in 
+Estonia and Russia.
+
+Floyd K(1), Hutubessy R, Kliiman K, Centis R, Khurieva N, Jakobowiak W, 
+Danilovits M, Peremitin G, Keshavjee S, Migliori GB.
+
+Author information:
+(1)Stop TB Dept, World Health Organization, 20 Avenue Appia, 1211 Geneva, 
+Switzerland. floydk@who.int
+
+Comment in
+    Eur Respir J. 2012 Jul;40(1):9-11.
+
+Evidence on the cost and cost-effectiveness of treatment of multidrug-resistant 
+tuberculosis (MDR-TB) is limited, and no published data are available from 
+former Soviet Union countries, where rates of MDR-TB are highest globally. We 
+evaluated the cost and cost-effectiveness of MDR-TB treatment in Estonia and 
+Russia (Tomsk Oblast), comparing cohorts enrolled on treatment according to 
+World Health Organization (WHO) guidelines in 2001 and 2002 with cohorts treated 
+in previous years. Costs were assessed from a health system perspective in 2003 
+US$; effects were measured as cures, deaths averted and disability-adjusted 
+life-years (DALYs) averted. Cure rates when WHO guidelines were followed were 
+61% (90 out of 149) in Estonia and 76% (76 out of 100) in Tomsk Oblast, with a 
+cost per patient treated of US$8,974 and US$10,088, respectively. Before WHO 
+guidelines were followed, cure rates were 52% in Estonia and 15% in Tomsk 
+Oblast; the cost per patient treated was US$4,729 and US$2,282, respectively. 
+Drugs and hospitalisation accounted for 69-90% of total costs. The cost per DALY 
+averted by treatment following WHO guidelines was US$579 (range US$297-US$902) 
+in Estonia and US$429 (range US$302-US$546) in Tomsk Oblast. Treatment of 
+patients with MDR-TB can be cost-effective, but requires substantial additional 
+investment in tuberculosis control in priority countries.
+
+DOI: 10.1183/09031936.00169411
+PMID: 22362862 [Indexed for MEDLINE]
+
+
+699. J Med Genet. 2012 Apr;49(4):264-9. doi: 10.1136/jmedgenet-2011-100562. Epub
+2012  Feb 23.
+
+Life expectancy in hereditary cancer predisposing diseases: an observational 
+study.
+
+Wilding A(1), Ingham SL, Lalloo F, Clancy T, Huson SM, Moran A, Evans DG.
+
+Author information:
+(1)Genetic Medicine, The University of Manchester, Manchester Academic Health 
+Science Centre, St Mary’s Hospital, Central Manchester Hospitals Foundation 
+Trust, Manchester, UK.
+
+BACKGROUND: Neurofibromatosis 1 (NF1), neurofibromatosis 2 (NF2), familial 
+adenomatous polyposis (FAP), von Hippel-Lindau syndrome (VHL), and Gorlin 
+syndrome (GS) are single gene diseases that predispose to early onset tumours. 
+Few studies have assessed the effect of these diseases on life expectancy. This 
+study's aim was to assess this effect, and to test the hypothesis that genetic 
+registers increase survival.
+METHOD: NF1, NF2, VHL, FAP, and GS patients were identified through the North 
+West Regional Genetic Register Service and the North West Cancer Intelligence 
+Service. Information on benign and malignant tumours, and deaths were obtained. 
+Kaplan-Meier curves were used to show actuarial survival rates for each disease, 
+compared to the local population, and in patients diagnosed pre/post the 
+regional genetic register. Log rank (Mantel-Cox) tests were used to compare 
+survival between groups.
+RESULTS: Life expectancies were significantly reduced for all diseases 
+investigated compared with the local population (80.0 years) (p=0.05). GS had 
+the longest life expectancy at 73.4 years, followed by NF1 at 71.5 years, NF2 at 
+69.0 years, FAP at 63.6 years, and VHL at 52.5 years. Patients diagnosed after 
+establishment of the genetic register had an increase in survival compared to 
+those diagnosed pre-1990: NF2 (14.7 years), FAP (13.9 years), VHL (16.3 years), 
+and GS (11.2 years).
+CONCLUSION: Life expectancy for all five diseases was less than normal, although 
+in recent years this reached the level of the local population in GS. Although 
+there have been improvements in all conditions which may in part be attributable 
+to better targeted care through the genetic register service, more needs to be 
+done to address the very poor life expectancy in VHL.
+
+DOI: 10.1136/jmedgenet-2011-100562
+PMID: 22362873 [Indexed for MEDLINE]
+
+
+700. Am J Hosp Palliat Care. 2012 Nov;29(7):515-21. doi:
+10.1177/1049909111434044.  Epub 2012 Feb 23.
+
+Palliative chemotherapy for malignant ascites secondary to ovarian cancer.
+
+Malayev Y(1), Levene R, Gonzalez F.
+
+Author information:
+(1)College of Osteopathic Medicine, Nova Southeastern University, Fort 
+Lauderdale, FL 33328, USA. ymalayev@gmail.com
+
+Although research has shown that palliative chemotherapy is beneficial compared 
+to lack of treatment (Schorge JO, Schaffer JI, Halvorson LM, et al. ed. Williams 
+Gynecology. New York, NY: McGraw Hill Medical; 2008.), other studies show 
+aggressive end-of-life treatment adversely affects quality of life and shortens 
+life span (Arriba L, Fader A, Frasure H, von Gruenigen V. A review of issues 
+surrounding quality of life among women with ovarian cancer. Gynecol Oncol. 
+2010;119(2):390-396.). Without a consensus on palliative chemotherapy, 
+underutilization during end of life prevails, and likely will continue without 
+additional research (Barbera L, Elit L, Krzyzanowska M, et al. End of life care 
+for women with gynecologic cancers. Gynecol Oncol. 2010;118(2):196-201.). This 
+article aims to evaluate and examine existing chemotherapy for palliation of 
+malignant ascites secondary to ovarian cancer and compare commonly used 
+regimens. Agents will be evaluated by their modes of administration. Oral agents 
+include cyclophosphamide and thalidomide, and intraperitoneal vehicles include 
+taxane-based agents, platinum-based agents, antibiotics, and biologic agents. In 
+addition, cost, ethics, and quality of life discussions factor into this review. 
+Palliative care's goal is to find a balance between life expectancy and symptom 
+relief with minimal adverse effects.
+
+DOI: 10.1177/1049909111434044
+PMID: 22363037 [Indexed for MEDLINE]
+
+
+701. Am J Hosp Palliat Care. 2012 Dec;29(8):622-6. doi: 10.1177/1049909111435811.
+ Epub 2012 Feb 23.
+
+Most advance directives written by patients with advanced cancer or their 
+proxies request only minimally invasive treatments during end-of-life care.
+
+Kwon SH(1), Im SH, Cho KW, Cho E, Yoon SJ, Oh SY.
+
+Author information:
+(1)Department of Internal Medicine, Seoul Medical Center, Seoul, Republic of 
+Korea.
+
+Although it is assumed that most patients with terminal cancer are reluctant to 
+receive life-sustaining treatment, there is a paucity of evidence supporting 
+this assumption. We retrospectively analyzed the advance directives of terminal 
+cancer patients to determine the preferences of patients. Patients with cancer 
+who had life expectancy of less than 6 months were admitted to a palliative care 
+unit in Seoul Medical Center from March 2008 to February 2010. Among a total of 
+247 patients, advance directives were present in the medical records of 168 
+patients (68.0%). Most of the advance directives were written by the patients' 
+families (95.2%) and they stated that they did not want most of the invasive 
+procedures. Patients with advanced cancer mostly requested that only minimally 
+invasive treatments that eased suffering be performed.
+
+DOI: 10.1177/1049909111435811
+PMID: 22363040 [Indexed for MEDLINE]
+
+
+702. Stroke. 2012 May;43(5):1370-5. doi: 10.1161/STROKEAHA.111.634949. Epub 2012
+Feb  23.
+
+Organized blood pressure control programs to prevent stroke in Australia: would 
+they be cost-effective?
+
+Cadilhac DA(1), Carter R, Thrift AG, Dewey HM.
+
+Author information:
+(1)Monash University, Victoria, Australia. dominique.cadilhac@monash.edu
+
+BACKGROUND AND PURPOSE: High blood pressure (BP) is the most important 
+modifiable stroke risk factor. Worldwide high BP in many people is uncontrolled 
+or people are unaware of their BP status. We aimed to assess whether a program 
+of organized multidisciplinary care and medication would be cost-effective for 
+improving BP control for the prevention of stroke.
+METHODS: A novel aspect was to simulate the intervention to match recent primary 
+care initiatives (eg, new Medicare reimbursement items) to ensure policy 
+relevance. Current practice and additional costs of each intervention were 
+included using the best available evidence. The differences in the cost per 
+quality-adjusted life year (QALY) gained for the interventions were compared 
+against current practice. Cost-effectiveness was defined as cost per QALY gained 
+was less than Australian dollars (AUD) 50 000 (societal perspective; reference 
+year 2004). The robustness of estimates was assessed with probabilistic 
+multivariable uncertainty analysis.
+RESULTS: For primary prevention, the median cost per QALY gained was AUD11 068 
+(95% uncertainty interval AUD5201 to AUD18 696) in those aged 75 years or older 
+and was AUD17 359 (95% uncertainty interval AUD10 516 to AUD26 036) in those 
+aged 55 to 84 years with ≥15% absolute risk of stroke. Primary prevention 
+interventions were not cost-effective if aged younger than 50 years. The median 
+cost per QALY gained for secondary prevention was AUD1811 and AUD4704, depending 
+on which medications were modeled.
+CONCLUSIONS: Organized care for BP control targeted at specific populations 
+offers excellent value over current practice. Organized care for secondary 
+prevention provided the greatest benefits and strongest cost-effectiveness. 
+Translation into clinical practice requires improved use of relevant Medicare 
+policy in Australia.
+
+DOI: 10.1161/STROKEAHA.111.634949
+PMID: 22363058 [Indexed for MEDLINE]
+
+
+703. Front Physiol. 2012 Feb 20;3:30. doi: 10.3389/fphys.2012.00030. eCollection 
+2012.
+
+Endothelial progenitor cells enter the aging arena.
+
+Williamson K(1), Stringer SE, Alexander MY.
+
+Author information:
+(1)Cardiovascular Research Group, School of Biomedicine, University of 
+Manchester Manchester, UK.
+
+Age is a significant risk factor for the development of vascular diseases, such 
+as atherosclerosis. Although pharmacological treatments, including statins and 
+anti-hypertensive drugs, have improved the prognosis for patients with 
+cardiovascular disease, it remains a leading cause of mortality in those aged 
+65 years and over. Furthermore, given the increased life expectancy of the 
+population in developed countries, there is a clear need for alternative 
+treatment strategies. Consequently, the relationship between aging and 
+progenitor cell-mediated repair is of great interest. Endothelial progenitor 
+cells (EPCs) play an integral role in the cellular repair mechanisms for 
+endothelial regeneration and maintenance. However, EPCs are subject to 
+age-associated changes that diminish their number in circulation and function, 
+thereby enhancing vascular disease risk. A great deal of research is aimed at 
+developing strategies to harness the regenerative capacity of these cells. In 
+this review, we discuss the current understanding of the cells termed "EPCs," 
+examine the impact of age on EPC-mediated repair and identify therapeutic 
+targets with potential for attenuating the age-related decline in vascular 
+health via beneficial actions on EPCs.
+
+DOI: 10.3389/fphys.2012.00030
+PMCID: PMC3282536
+PMID: 22363299
+
+
+704. PLoS One. 2012;7(2):e30735. doi: 10.1371/journal.pone.0030735. Epub 2012 Feb
+17.
+
+Potential cost-effectiveness of universal access to modern contraceptives in 
+Uganda.
+
+Babigumira JB(1), Stergachis A, Veenstra DL, Gardner JS, Ngonzi J, 
+Mukasa-Kivunike P, Garrison LP.
+
+Author information:
+(1)Global Medicines Program, Department of Global Health, School of Public 
+Health, University of Washington, Seattle, Washington, United States of America. 
+babijo@uw.edu
+
+BACKGROUND: Over two thirds of women who need contraception in Uganda lack 
+access to modern effective methods. This study was conducted to estimate the 
+potential cost-effectiveness of achieving universal access to modern 
+contraceptives in Uganda by implementing a hypothetical new contraceptive 
+program (NCP) from both societal and governmental (Ministry of Health (MoH)) 
+perspectives.
+METHODOLOGY/PRINCIPAL FINDINGS: A Markov model was developed to compare the NCP 
+to the status quo or current contraceptive program (CCP). The model followed a 
+hypothetical cohort of 15-year old girls over a lifetime horizon. Data were 
+obtained from the Uganda National Demographic and Health Survey and from 
+published and unpublished sources. Costs, life expectancy, disability-adjusted 
+life expectancy, pregnancies, fertility and incremental cost-effectiveness 
+measured as cost per life-year (LY) gained, cost per disability-adjusted 
+life-year (DALY) averted, cost per pregnancy averted and cost per unit of 
+fertility reduction were calculated. Univariate and probabilistic sensitivity 
+analyses were performed to examine the robustness of results. Mean discounted 
+life expectancy and disability-adjusted life expectancy (DALE) were higher under 
+the NCP vs. CCP (28.74 vs. 28.65 years and 27.38 vs. 27.01 respectively). Mean 
+pregnancies and live births per woman were lower under the NCP (9.51 vs. 7.90 
+and 6.92 vs. 5.79 respectively). Mean lifetime societal costs per woman were 
+lower for the NCP from the societal perspective ($1,949 vs. $1,987) and the MoH 
+perspective ($636 vs. $685). In the incremental analysis, the NCP dominated the 
+CCP, i.e. it was both less costly and more effective. The results were robust to 
+univariate and probabilistic sensitivity analysis.
+CONCLUSION/SIGNIFICANCE: Universal access to modern contraceptives in Uganda 
+appears to be highly cost-effective. Increasing contraceptive coverage should be 
+considered among Uganda's public health priorities.
+
+DOI: 10.1371/journal.pone.0030735
+PMCID: PMC3281877
+PMID: 22363480 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+705. J Med Econ. 2012;15(4):724-36. doi: 10.3111/13696998.2012.670174. Epub 2012
+Mar  28.
+
+Cost-effectiveness of tapentadol prolonged release compared with oxycodone 
+controlled release in the UK in patients with severe non-malignant chronic pain 
+who failed 1st line treatment with morphine.
+
+Ikenberg R(1), Hertel N, Moore RA, Obradovic M, Baxter G, Conway P, Liedgens H.
+
+Author information:
+(1)IMS Health, Munich, Germany.
+
+Erratum in
+    J Med Econ. 2012;15(6):1216.
+
+OBJECTIVES: The aim of this analysis was to assess the cost-effectiveness of 
+tapentadol PR (prolonged release) compared with oxycodone CR (controlled 
+release) in severe non-malignant chronic pain patients in whom controlled 
+release morphine was ineffective or not tolerated.
+METHODS: A Markov model was developed to assess costs and benefits over a 1-year 
+time horizon from the National Health Service perspective in the UK. Patients 
+could either continue on 2nd line therapy or switch to 3rd line opioid due to 
+lack of efficacy or poor tolerability. Patients failing also 3rd line therapy 
+entered the final absorbing health state (4th line). Data on tolerability, 
+efficacy, and utilities for tapentadol and oxycodone were obtained from the 
+three comparative phase III clinical trials. Costs of resource consumption 
+associated with opioid treatment were derived from a retrospective database 
+analysis of anonymized patient records.
+RESULTS: The model results predicted that initiating 2nd line therapy with 
+tapentadol leads to higher effectiveness and lower costs vs oxycodone. For the 
+overall population included in the clinical trials, mean annual costs per 
+patient when treated with tapentadol and oxycodone were £3543 and £3656, 
+respectively. Treatment with tapentadol, while cheaper than oxycodone, was more 
+effective (0.6371 vs 0.6237 quality-adjusted life years (QALYs) for tapentadol 
+and oxycodone, respectively), meaning that tapentadol dominated oxycodone. For 
+the sub-group of opioid-experienced patients with severe pain at baseline the 
+ranking in terms of costs and QALYs remained unchanged. Extensive sensitivity 
+analyses showed that conclusions about the cost-effectiveness are consistent.
+CONCLUSIONS: The cost-effectiveness study suggested that initiating 2nd line 
+treatment in patients with severe non-malignant chronic pain in the UK with 
+tapentadol instead of oxycodone improves patients' quality-of-life and is less 
+costly. Key limitations when interpreting the results are the use of different 
+sources to populate the model and restricted generalizability due to data 
+extrapolation.
+
+DOI: 10.3111/13696998.2012.670174
+PMID: 22364286 [Indexed for MEDLINE]
+
+
+706. Health Technol Assess. 2012;16(8):iii-iv, 1-76. doi: 10.3310/hta16080.
+
+Group art therapy as an adjunctive treatment for people with schizophrenia: a 
+randomised controlled trial (MATISSE).
+
+Crawford MJ(1), Killaspy H, Barnes TR, Barrett B, Byford S, Clayton K, Dinsmore 
+J, Floyd S, Hoadley A, Johnson T, Kalaitzaki E, King M, Leurent B, Maratos A, 
+O'Neill FA, Osborn D, Patterson S, Soteriou T, Tyrer P, Waller D; MATISSE 
+project team.
+
+Author information:
+(1)Centre for Mental Health, Imperial College London, London, UK. 
+m.crawford@imperial.ac.uk
+
+OBJECTIVE: To examine the clinical effectiveness and cost-effectiveness of 
+referral to group art therapy plus standard care, compared with referral to an 
+activity group plus standard care and standard care alone, among people with 
+schizophrenia.
+DESIGN: A three-arm, parallel group, single-blind, pragmatic, randomised 
+controlled trial. Participants were randomised via an independent and remote 
+telephone randomisation service using permuted blocks, stratified by study 
+centre.
+SETTING: Study participants were recruited from secondary care mental health and 
+social services in four UK centres.
+PARTICIPANTS: Potential participants were aged 18 years or over, had a clinical 
+diagnosis of schizophrenia, confirmed by an examination of case notes, and 
+provided written informed consent. We excluded those who were unable to speak 
+sufficient English to complete the baseline assessment, those with severe 
+cognitive impairment and those already receiving arts therapy.
+INTERVENTIONS: Group art therapy was delivered by registered art therapists 
+according to nationally agreed standards. Groups had up to eight members, lasted 
+for 90 minutes and ran for 12 months. Members were given access to a range of 
+art materials and encouraged to use these to express themselves freely. Activity 
+groups were designed to control for the non-specific effects of group art 
+therapy. Group facilitators offered various activities and encouraged 
+participants to collectively select those they wanted to pursue. Standard care 
+involved follow-up from secondary care mental health services and the option of 
+referral to other services, except arts therapies, as required.
+MAIN OUTCOME MEASURES: Our co-primary outcomes were global functioning (measured 
+using the Global Assessment of Functioning Scale - GAF) and mental health 
+symptoms (measured using the Positive and Negative Syndrome Scale - PANSS) at 24 
+months. The main secondary outcomes were level of group attendance, social 
+functioning, well-being, health-related quality of life, service utilisation and 
+other costs measured 12 and 24 months after randomisation.
+RESULTS: Four hundred and seventeen people were recruited, of whom 355 (85%) 
+were followed up at 2 years. Eighty-six (61%) of those randomised to art therapy 
+and 73 (52%) of those randomised to activity groups attended at least one group. 
+No differences in primary outcomes were found between the three study arms. The 
+adjusted mean difference between art therapy and standard care at 24 months was 
+-0.9 [95% confidence interval (CI) -3.8 to 2.1] on the GAF Scale and 0.7 (95% CI 
+-3.1 to 4.6) on the PANSS Scale. Differences in secondary outcomes were not 
+found, except that those referred to an activity group had fewer positive 
+symptoms of schizophrenia at 24 months than those randomised to art therapy. 
+Secondary analysis indicated that attendance at art therapy groups was not 
+associated with improvements in global functioning or mental health. Although 
+the total cost of the art therapy group was lower than the cost of the two 
+comparison groups, referral to group art therapy did not appear to provide a 
+cost-effective use of resources.
+CONCLUSIONS: Referring people with established schizophrenia to group art 
+therapy as delivered in this randomised trial does not appear to improve global 
+functioning or mental health of patients or provide a more cost-effective use of 
+resources than standard care alone.
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN 46150447.
+FUNDING: This project was funded by the NIHR Health Technology Assessment 
+programme and will be published in full in Health Technology Assessment; Vol. 
+16, No. 8. See the HTA programme website for further project information.
+
+© Queen’s Printer and Controller of HMSO 2012.
+
+DOI: 10.3310/hta16080
+PMID: 22364962 [Indexed for MEDLINE]
+
+
+707. Ann Thorac Surg. 2012 Mar;93(3):761-9. doi:
+10.1016/j.athoracsur.2011.11.062.
+
+Quality of life after early mitral valve repair using conventional and robotic 
+approaches.
+
+Suri RM(1), Antiel RM, Burkhart HM, Huebner M, Li Z, Eton DT, Topilsky T, Sarano 
+ME, Schaff HV.
+
+Author information:
+(1)Division of Cardiovascular Surgery, Mayo Medical School, Department of Health 
+Sciences Research, Mayo Clinic, Rochester, Minnesota 55905, USA. 
+suri.rakesh@mayo.edu
+
+Comment in
+    Ann Thorac Surg. 2012 Mar;93(3):769.
+
+BACKGROUND: Early mitral valve (MV) repair of degenerative mitral regurgitation 
+is associated with superior clinical outcomes compared with prosthetic 
+replacement and restores normal life expectancy, even in those without symptoms. 
+Although current guidelines recommend prompt referral for effective MV repair in 
+those with severe mitral regurgitation, some are reluctant to pursue early 
+correction due to the perception that short-term quality of life (QOL) may be 
+adversely affected by the operation.
+METHODS: Between January 2008 and November 2009, 202 patients underwent 
+conventional transsternotomy or minimally invasive port-access robot-assisted MV 
+repair, with or without patent foramen ovale closure or left Maze, and were 
+mailed a postsurgical QOL survey.
+RESULTS: Unadjusted QOL scores for patients undergoing MV repair were excellent 
+early after the operation using both approaches. Robotic repair was associated 
+with slightly improved scores on the Duke Activity Status Index, the Short 
+Form-12 Item Health Survey Physical domain, and the Linear Analogue 
+Self-Assessment frequency of chest pain and fatigue indices during the first 
+postoperative year; however, differences between treatment groups became 
+indistinguishable after 1 year. Robotic repair patients returned to work 
+slightly quicker (median, 33 vs 54 days, p<0.001).
+CONCLUSIONS: Functional QOL outcomes within the first 2 years after early MV 
+repair are excellent using open and robotic platforms. A robotic approach may be 
+associated with slightly improved early QOL and return to employment-based 
+activities. These results may have implications regarding future evolution of 
+clinical guidelines and economic health care policy.
+
+Copyright © 2012 The Society of Thoracic Surgeons. Published by Elsevier Inc. 
+All rights reserved.
+
+DOI: 10.1016/j.athoracsur.2011.11.062
+PMID: 22364970 [Indexed for MEDLINE]
+
+
+708. Ann Thorac Surg. 2012 Mar;93(3):e61-2. doi:
+10.1016/j.athoracsur.2011.10.028.
+
+Total arch replacement for acute aortic dissection (Stanford A) in a patient 
+with hemophilia A.
+
+Furutachi A(1), Furukawa K, Oda Y, Morita S.
+
+Author information:
+(1)Department of Thoracic and Cardiovascular Surgery, Faculty of Medicine, Saga 
+University, Saga, Japan. a.furutachi@hotmail.co.jp
+
+As a result of improvements in medical management, patients suffering from 
+hemophilia have a life expectancy approaching that of the normal population. An 
+increased life expectancy, however, brings an increased risk of developing 
+age-related disorders. Several article have reported elective cardiac operations 
+successfully performed on hemophiliacs. To our knowledge, there are no articles 
+describing such patients undergoing emergent aortic surgery. Our report 
+describes the successful management of an individual with hemophilia A 
+undergoing emergent total arch replacement for acute aortic dissection (Stanford 
+A). We used a continuous infusion of factor VIII concentrate during the 
+perioperative period. The patient was discharged without bleeding complications.
+
+Copyright © 2012 The Society of Thoracic Surgeons. Published by Elsevier Inc. 
+All rights reserved.
+
+DOI: 10.1016/j.athoracsur.2011.10.028
+PMID: 22365017 [Indexed for MEDLINE]
+
+
+709. Transfus Apher Sci. 2012 Apr;46(2):221-9. doi:
+10.1016/j.transci.2012.01.008.  Epub 2012 Feb 24.
+
+Characteristics of the THERAFLEX UV-Platelets pathogen inactivation system - an 
+update.
+
+Seghatchian J(1), Tolksdorf F.
+
+Author information:
+(1)Blood Components Technology & Haemostasis/Thrombosis Consultancy, 50 Primrose 
+Hill Road, London, UK. jseghatchian@btopenworld.com
+
+Considerable progress has been made in the last decade in producing purer, 
+safer, leucocyte and plasma reduced platelet concentrates (PC) with an extended 
+shelf life. The development of different pathogen inactivation technologies 
+(PIT) has made a substantial contribution to this trend. Preceding platelet PIT 
+(INTERCEPT Blood System/Cerus Corporation, Concord, CA, USA; MIRASOL/Caridian 
+BCT, Lakewood, CO, USA) are based on adding a photosensitive compound to PC. The 
+mixture is then activated by UV light in the UVB and/or UVA spectral regions. A 
+novel procedure, THERAFLEX UV-Platelets (MacoPharma, Mouvaux, France), was 
+recently developed that uses short-wave ultraviolet light (UVC), without 
+addition of any photoactive agent. This technology has proven to be highly 
+effective in sterilising bacteria (the major cause of morbidity/mortality after 
+platelet transfusion) as well as inactivating other transfusion transmitted 
+DNA/RNA containing pathogens and residual leucocytes. Any PIT reflects a balance 
+between the efficacy of pathogen inactivation and preservation of platelet 
+quality and function. A broad spectrum of in vitro tests have become available 
+for the assessment of platelet storage lesion (PSL), aiming to better predict 
+clinical outcome and untoward effects of platelet therapy. Recent paired studies 
+on the release of platelet-derived cytokines, as new platelet performance 
+indicators, revealed a parallel increase in both THERAFLEX UV-treated and 
+control PC throughout storage, supporting the notion that the bioavailability of 
+platelet function is not grossly affected by UVC treatment. This is corroborated 
+by some newer technologies for proteomic analysis, showing that the THERAFLEX 
+UV-Platelets system results in limited disruption of integrin-regulating 
+extracellular disulfide bonds and minimal protein alterations when compared to 
+UVB and gamma irradiation. Moreover, standard in vitro parameters reflecting 
+activation, metabolic activity and function of platelets are useful indicators 
+of the overall performance of processing and storage and may be used as 
+surrogate markers of platelet quality in vivo. However, there is some doubt as 
+to what degree each marker alone or in combination reflects the true clinical 
+outcome of transfused platelets. Therefore, an appropriate clinical programme 
+has been initiated. The preclinical evaluation demonstrated tolerability and 
+immunological safety of THERAFLEX UV-Platelets using an animal model. 
+Additionally, the system has successfully completed two autologous Phase I 
+trials on recovery and survival. Preliminary results suggest that the recovery 
+and survival rates are consistent with other pathogen reduced platelet products 
+that are licensed and in use. The method is currently under evaluation for 
+safety and tolerability of UVC-treated platelets in healthy volunteers. 
+Presently the THERAFLEX UV-Platelets system is the simplest and purest PIT 
+easily adaptable to the existing blood bank setting. In the future, extension of 
+the application range of the THERAFLEX UV-Platelets system is expected, in order 
+to make this new technology compatible with a broad spectrum of collection and 
+processing platforms, and with other blood products.
+
+Copyright Â© 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.transci.2012.01.008
+PMID: 22365926 [Indexed for MEDLINE]
+
+
+710. Brain. 2012 Mar;135(Pt 3):900-11. doi: 10.1093/brain/awr336.
+
+A representative cohort of patients with non-progressive multiple sclerosis at 
+the age of normal life expectancy.
+
+Skoog B(1), Runmarker B, Winblad S, Ekholm S, Andersen O.
+
+Author information:
+(1)Department of Neuroscience and Physiology, University of Gothenburg, 413 45 
+Gothenburg, Sweden.
+
+Multiple sclerosis may have a non-progressive symptomatology for decades; 
+however, it is not clear whether the disease activity may abate completely. We 
+identified a cohort of patients, resident in Gothenburg at the time of disease 
+onset, between the years 1950-64 (n = 307). These geographical and temporal 
+restrictions, along with favourable conditions for a 'spider' epidemiological 
+study, were optimal for an unbiased selection; this 15-year incidence cohort was 
+essentially followed prospectively for 37-59 years after onset. The shortest 
+follow-up time for patients without primary or secondary progression was 45 
+years. For patients with an initial relapsing-remitting course and multiple 
+sclerosis diagnosis according to the Poser criteria (n = 202), the probability 
+of non-progressive disease after 40 years was 22% (standard error 3.0%), and 
+after 50 years it was 14% (standard error 3.2%). For attack onset including 
+patients with possible multiple sclerosis, the corresponding probabilities after 
+40 and 50 years were 35% (standard error 3.3%) and 28% (standard error 3.5%), 
+respectively. At the last follow-up in 2009-10, when patients reached the 
+average age of the Swedish population life expectancy, only 13 patients from the 
+multiple sclerosis diagnosis cohort, according to the Poser criteria, remained 
+alive and non-progressive. Their annualized attack frequency diminished with 
+time from 0.29 to 0.015. These patients had been functioning well socially. Nine 
+patients had an Expanded Disability Status Scale score of 0-2.5, and four 
+patients had a score of 3 or 3.5, with deficits dating back to attacks decades 
+ago. Eight patients participated in a complete neuropsychological examination, 
+which showed a slight difference (P < 0.01) concerning verbal memory and 
+executive function compared to an age and socially matched reference group, 
+whereas results for five other cognitive domains were within the normal range. 
+Magnetic resonance images fulfilled the Barkhof-Tintoré criteria for multiple 
+sclerosis in 10 of 11 patients, with conspicuously few subcortical lesions 
+relative to extensive periventricular lesions and lesions extending from the 
+inferior midline aspect of the corpus callosum. Prediction of the 
+non-progressive stage was possible with moderate hazard ratios and low 
+sensitivity. Early features that predicted a non-progressive course were 
+complete remission of the onset attack, low or moderate initial relapse 
+frequency and-when the patients with possible multiple sclerosis were 
+included-dominating afferent symptoms. The clinical disease activity had abated 
+in these 13 patients, with the caveat that transition to secondary progression 
+continued to occur after four decades, albeit with decreasing risk.
+
+DOI: 10.1093/brain/awr336
+PMID: 22366800 [Indexed for MEDLINE]
+
+
+711. Pediatr Cardiol. 2012 Jun;33(5):820-3. doi: 10.1007/s00246-012-0207-x. Epub
+2012  Feb 25.
+
+A novel technique for zero-fluoroscopy catheter ablation used to manage 
+Wolff-Parkinson-White syndrome with a left-sided accessory pathway.
+
+Kerst G(1), Parade U, Weig HJ, Hofbeck M, Gawaz M, Schreieck J.
+
+Author information:
+(1)Department of Pediatric Cardiology, University Hospital Tübingen, 
+Hoppe-Seyler-Str 1, 72076 Tübingen, Germany. gunter.kerst@med.uni-tuebingen.de
+
+Conventional catheter ablation of cardiac arrhythmias is associated with the 
+potential adverse effects of low-dose ionizing radiation on both patients and 
+laboratory personnel. Due to the greater radiation sensitivity and the longer 
+life expectancy of children, reduction of radiation exposure for them is of 
+particular importance. A novel technique for zero-fluoroscopy catheter ablation 
+is described using real-time tissue-tip contact force measurements for a 
+10-year-old boy who had Wolff-Parkinson-White syndrome with a left-sided 
+accessory pathway.
+
+DOI: 10.1007/s00246-012-0207-x
+PMID: 22367551 [Indexed for MEDLINE]
+
+
+712. Neurologist. 2012 Mar;18(2):64-7. doi: 10.1097/NRL.0b013e318247bc7a.
+
+HIV-associated neurocognitive disorders: a historical review.
+
+Rosca EC(1), Rosca O, Simu M, Chirileanu RD.
+
+Author information:
+(1)Department of Neurology, University of Medicine and Pharmacy Victor Babes, 
+Timisoara, Romania. roscacecilia@yahoo.com
+
+BACKGROUND: The central nervous system represents a major target of the human 
+immunodeficiency virus (HIV), and the neurocognitive impairments associated with 
+the disease represent a major cause of disability.
+REVIEW SUMMARY: The HIV-associated neurocognitive disorders are presented from a 
+historical point of view. The evolution of our knowledge and understanding of 
+these primary complications of HIV infection is reviewed, starting with 
+nomenclature and clinical staging and continuing with therapeutic options.
+CONCLUSIONS: Although considerable progress has been made in the research of 
+HIV-associated neurocognitive disorders, they continue to represent a clinical 
+challenge for neurologists. Because the evolution and the clinical 
+manifestations of HIV infection have changed with the introduction of 
+antiretroviral therapy and the life expectancy has increased, the problems in 
+these patients are complex and need neurologists with a thorough knowledge in 
+HIV infection.
+
+DOI: 10.1097/NRL.0b013e318247bc7a
+PMID: 22367830 [Indexed for MEDLINE]
+
+
+713. Health Econ. 2013 Mar;22(3):353-65. doi: 10.1002/hec.2803. Epub 2012 Feb 27.
+
+On the choice of health inequality measure for the longitudinal analysis of 
+income-related health inequalities.
+
+Allanson P(1), Petrie D.
+
+Author information:
+(1)Economics Studies, University of Dundee, Dundee, UK. 
+p.f.allanson@dundee.ac.uk
+
+Changes in rank-dependent income-related health inequality measures over time 
+may usefully be decomposed into contributions due to changes in health outcomes 
+and changes in individuals' positions in the income distribution. This paper 
+establishes the normative implications of this type of decomposition by 
+embedding it within a broader analysis of changes in the 'health achievement' 
+index. We further show that the choice of health inequality measure implies a 
+particular vertical equity judgement, which may be expressed on a common scale 
+in terms of the concentration index of health changes that would be inequality 
+preserving. We illustrate the empirical implications of this choice by reporting 
+results from a longitudinal analysis of changes in income-related health 
+inequality in Great Britain using the concentration, the Erreygers and Wagstaff 
+indices of health attainments and the concentration index of health shortfalls. 
+.
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/hec.2803
+PMCID: PMC3599481
+PMID: 22368075 [Indexed for MEDLINE]
+
+
+714. J Popul Econ. 2008 Jun 1;w14093:1149339. doi: 10.1007/s00148-012-0405-0.
+
+The Cost of Uncertain Life Span.
+
+Edwards RD.
+
+A considerable amount of uncertainty surrounds the length of human life. The 
+standard deviation in adult life span is about 15 years in the U.S., and theory 
+and evidence suggest it is costly. I calibrate a utility-theoretic model of 
+preferences over length of life and show that one fewer year in standard 
+deviation is worth about half a mean life year. Differences in the standard 
+deviation exacerbate cross-sectional differences in life expectancy between the 
+U.S. and other industrialized countries, between rich and poor countries, and 
+among poor countries. Accounting for the cost of life-span variance also appears 
+to amplify recently discovered patterns of convergence in world average human 
+well-being. This is partly for methodological reasons and partly because 
+unconditional variance in human length of life, primarily the component due to 
+infant mortality, has exhibited even more convergence than life expectancy.
+
+DOI: 10.1007/s00148-012-0405-0
+PMCID: PMC3285408
+PMID: 22368324
+
+
+715. Bioinformation. 2012;8(3):158-62. doi: 10.6026/97320630008158. Epub 2012 Feb
+3.
+
+Codon usage bias as a function of generation time and life expectancy.
+
+Mahdi RN, Rouchka EC.
+
+It has recently been demonstrated that human natural codon usage bias is 
+optimized towards a higher buffering capacity to mutations (measured as the 
+tendency of single point mutations in a DNA sequence to yield the same or 
+similar amino acids) compared to random sequences. In this work, we investigate 
+this phenomenon further by analyzing the natural DNA of four different species 
+(human, mouse, zebrafish and fruit fly) to determine whether such a tolerance to 
+mutations is correlated with the life span and age of sexual maturation for the 
+corresponding organisms. We also propose a new measure to quantify the buffering 
+capacity of a DNA sequence to mutations that takes into account the observed 
+mutation rates within every genome and the effect of the corresponding 
+mutation.Our results suggest there is a propensity for tolerance to mutations 
+that is positively correlated with the life expectancy of the considered 
+organisms. Moreover, random sequences that are constrained to produce the same 
+protein as the naturally occurring sequences are found to be more buffered than 
+completely random sequences while being less buffered than the natural 
+sequences. These results suggest that optimization toward protective mechanisms 
+tolerant to mutations is correlated with both life expectancy and age to sexual 
+maturity at both the levels of codon usage bias and the bias of the natural 
+sequence of codons itself.
+
+DOI: 10.6026/97320630008158
+PMCID: PMC3283889
+PMID: 22368389
+
+
+716. Images Paediatr Cardiol. 2004 Apr;6(2):1-11.
+
+Interventional treatment methods in patients with Marfan Syndrome.
+
+Fleck T(1), Czerny M, Wolner E, Grabenwoger M.
+
+Author information:
+(1)Dept Cardiothoracic Surgery, University of Vienna Medical School, 1090 
+Vienna, Austria.
+
+Marfan syndrome is an autosomal dominant heritable connective tissue disorder 
+which involves primarily the skeletal, ocular and cardiovascular system. The 
+incidence of MS is on average 1: 10000 with 25-30% of cases caused by sporadic 
+mutations.The leading cause of premature death in these patients is progressive 
+dilatation and subsequent dissection of the ascending thoracic aorta resulting 
+in cardiac tamponade, and left ventricular failure due to aortic regurgitation. 
+Life expectancy is primarily determined by the severity of cardiovascular 
+involvement, and has improved substantially over the last 20 years due to the 
+advances in surgical and medical management.The optimum management of Marfan 
+patients includes a lifelong surveillance with particular emphasis placed on 
+aortic behaviour. Preventive replacement of various portions of the aorta has 
+been a major contribution for improved life expectancy in these patients. The 
+different surgical and interventional treatment options currently available will 
+be further outlined in this review.
+
+PMCID: PMC3232525
+PMID: 22368637
+
+
+717. J Geriatr Oncol. 2012 Jan 1;3(1):8-16. doi: 10.1016/j.jgo.2011.10.002.
+
+Does Life Expectancy Affect Treatment of Women Aged 80 and Older with Early 
+Stage Breast Cancers?
+
+Schonberg MA(1), Marcantonio ER, Ngo L, Silliman RA, McCarthy EP.
+
+Author information:
+(1)Division of General Medicine and Primary Care, Department of Medicine, 
+Harvard Medical School, Beth Israel Deaconess Medical Center, Boston, MA.
+
+BACKGROUND: Data are needed on how life expectancy affects treatment decisions 
+among women ≥80 years with early stage breast cancer. METHODS: We used the 
+linked Surveillance Epidemiology and End Results-Medicare claims dataset from 
+1992-2005 to identify women aged ≥80 newly diagnosed with lymph node negative, 
+estrogen receptor positive tumors, ≤5 centimeters. To estimate life expectancy, 
+we matched these women to women of similar age, region, and insurance, not 
+diagnosed with breast cancer. We examined 5-year mortality of matched controls 
+by illness burden (measured with the Charlson Comorbidity Index [CCI]) using 
+Kaplan-Meier statistics. We examined treatments received by estimated life 
+expectancy within CCI levels. We further examined factors associated with 
+receipt of radiotherapy after breast conserving surgery (BCS). RESULTS: Of 9,932 
+women, 39.6% underwent mastectomy, 30.4% received BCS plus radiotherapy, and 
+30.0% received BCS alone. Estimated 5-year mortality was 72% for women with CCIs 
+of 3+, yet 38.0% of these women underwent mastectomy and 22.9% received 
+radiotherapy after BCS. Conversely, estimated 5-year mortality was 36% for women 
+with CCIs of 0 and 26.6% received BCS alone. Age 80-84, urban residence, higher 
+grade, recent diagnosis, mammography use, and low comorbidity, were factors 
+associated with receiving radiotherapy after BCS. Among women with CCIs of 3+ 
+treated with BCS, 36.9% underwent radiotherapy. CONCLUSIONS: Many women aged ≥80 
+with limited life expectancies receive radiotherapy after BCS for treatment of 
+early stage breast cancers while many in excellent health do not. More 
+consideration needs to be given to patient life expectancy when considering 
+breast cancer treatments. KEY WORDS: Breast cancer, older women, treatment, life 
+expectancy, radiation.
+
+DOI: 10.1016/j.jgo.2011.10.002
+PMCID: PMC3285108
+PMID: 22368726
+
+Conflict of interest statement: Disclosures: The authors have no conflicts of 
+interest to report.
+
+
+718. Ned Tijdschr Tandheelkd. 2012 Jan;119(1):13-6. doi:
+10.5177/ntvt.2012.01.11137.
+
+[Long-term goals for oral health].
+
+[Article in Dutch]
+
+Bots CP(1), van Dalen A, Cools HJ.
+
+Author information:
+(1)Uit de Stichting Bijzondere Tandheelkunde Amsterdam, afdeling Orale 
+Biochemie, Academisch Centrum Tandheelkunde Amsterdam. casperbots@gmail.com
+
+The current, optimistic prognosis is that newborns will reach an average age of 
+100 years. This increased life-expectancy requires a renewed vision of long-term 
+goals for oral health. The starting-point could be a prospective end-point with 
+minimal oral function which should be reached, for example, in the last years of 
+one's life. The consequence is that adequate oral healthcare for the elderly 
+starts in childhood. Choices such as the extraction of premolars for orthodontic 
+reasons and the dental re-restoration cycle have a great negative impact on 
+reaching this goal. The average sustainability of dental restorations or 
+prosthetic constructions is commonly much shorter than the life-expectancy of a 
+patient. If oral treatment is necessary, it is recommended to give priority to 
+maintaining a minimally functional dentition up to an advanced age, instead 
+offocusing on short- or medium-term goals.
+
+DOI: 10.5177/ntvt.2012.01.11137
+PMID: 22368835 [Indexed for MEDLINE]
+
+
+719. BMC Genomics. 2012;13 Suppl 1(Suppl 1):S9. doi: 10.1186/1471-2164-13-S1-S9.

@@ -1,0 +1,1000 @@
+enhance the immune response following SBRT targeting oligometastatic lesions. 
+Our purpose is to demonstrate, via a randomized 2:1 phase II trial, that SBRT (3 
+fractions) with durvalumab in oligometastatic hormone-sensitive prostate cancer 
+patients would improve progression-free survival in patients with prostate 
+cancer with up to 5 metastases compared to patients who exclusively received 
+SBRT.
+METHODS: This is a multicentric randomized phase II study in French academic 
+hospitals. Patients with prostate cancer and up to 5 metastases (lymph node 
+and/or bone) were randomized into a 2:1 ratio between Arm A (experimental 
+group), corresponding to durvalumab and SBRT to the metastases, and Arm B 
+(control group), corresponding to SBRT alone to the metastases. The study aims 
+to accrue a total of 96 patients within 3 years. The primary endpoint is 
+two-year progression-free survival and secondary endpoints include androgen 
+deprivation therapy-free survival, quality of life, toxicity, prostate cancer 
+specific survival, overall survival, and immune response.
+DISCUSSION: The expected benefit for the patients in the experimental arm is 
+longer life expectancy with acceptable toxicity. We also expect our study to 
+provide data for better understanding the synergy between immunotherapy and 
+radiotherapy in oligometastatic prostate cancer.
+
+© 2023 The Authors.
+
+DOI: 10.1016/j.ctro.2023.100613
+PMCID: PMC10034400
+PMID: 36968576
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+510. Proc Mach Learn Res. 2022 Jul;172:1075-1084.
+
+Learning Strategies for Contrast-agnostic Segmentation via SynthSeg for Infant 
+MRI data.
+
+Shang Z(1), Turja MA(1), Feczko E(2), Houghton A(2), Rueter A(2), Moore LA(2), 
+Snider K(2), Hendrickson T(2), Reiners P(2), Stoyell S(2), Kardan O(3), 
+Rosenberg M(3), Elison JT(2), Fair DA(2), Styner MA(1).
+
+Author information:
+(1)University of North Carolina, Chapel Hill, USA.
+(2)University of Minnesota, Minneapolis, USA.
+(3)University of Chicago, Chicago, USA.
+
+Longitudinal studies of infants' brains are essential for research and clinical 
+detection of neurodevelopmental disorders. However, for infant brain MRI scans, 
+effective deep learning-based segmentation frameworks exist only within small 
+age intervals due to the large image intensity and contrast changes that take 
+place in the early postnatal stages of development. However, using different 
+segmentation frameworks or models at different age intervals within the same 
+longitudinal data set would cause segmentation inconsistencies and age-specific 
+biases. Thus, an age-agnostic segmentation model for infants' brains is needed. 
+In this paper, we present "Infant-SynthSeg", an extension of the 
+contrast-agnostic SynthSeg segmentation framework applicable to MRI data of 
+infants at ages within the first year of life. Our work mainly focuses on 
+extending learning strategies related to synthetic data generation and 
+augmentation, with the aim of creating a method that employs training data 
+capturing features unique to infants' brains during this early-stage 
+development. Comparison across different learning strategy settings, as well as 
+a more-traditional contrast-aware deep learning model (nnU-net) are presented. 
+Our experiments show that our trained Infant-SynthSeg models show consistently 
+high segmentation performance on MRI scans of infant brains throughout the first 
+year of life. Furthermore, as the model is trained on ground truth labels at 
+different ages, even labels that are not present at certain ages (such as 
+cerebellar white matter at 1 month) can be appropriately segmented via 
+Infant-SynthSeg across the whole age range. Finally, while Infant-SynthSeg shows 
+consistent segmentation performance across the first year of life, it is 
+outperformed by age-specific deep learning models trained for a specific narrow 
+age range.
+
+PMCID: PMC10037234
+PMID: 36968615
+
+
+511. Cureus. 2023 Feb 19;15(2):e35199. doi: 10.7759/cureus.35199. eCollection
+2023  Feb.
+
+Presumptive Rhino-Orbital Mucormycosis Secondary to Corticosteroid Therapy in a 
+Diabetic Patient With COVID-19 Infection.
+
+Sidhu JK(1)(2), Wan Hitam WH(1)(2), Ahmad Tajudin LS(1)(2).
+
+Author information:
+(1)Department of Ophthalmology and Visual Science, School of Medical Sciences, 
+Health Campus, Universiti Sains Malaysia, Kota Bharu, MYS.
+(2)Eye Clinic, Hospital Universiti Sains Malaysia, Kota Bharu, MYS.
+
+The coronavirus disease 2019 (COVID-19) pandemic has led to the widespread use 
+of steroids as a life-saving measure. In patients with preexisting diabetes, the 
+therapeutic use of steroids coupled with poorly controlled sugar has led to a 
+surge of mucormycosis. We report a rare case of orbital apex syndrome secondary 
+to mucormycosis post-COVID-19. A 43-year-old female with poorly controlled 
+diabetes mellitus presented with right eye complete ptosis one week 
+post-recovery from COVID-19 infection. During COVID-19 hospitalization, she 
+received a course of dexamethasone. The visual acuity of the right eye was 6/60. 
+She had complete ophthalmoplegia and diplopia in all gazes. There was a positive 
+relative afferent pupillary defect (RAPD) and reduced optic nerve function test 
+in the right eye. MRI showed right ethmoid sinusitis with possible extension to 
+the right orbit and the presence of right perineural optic nerve enhancement. 
+The nasal scope revealed fungal-like thick mucopurulent discharge at the middle 
+meatus. She was clinically diagnosed with rhino-orbital mucormycosis and was 
+started on antifungal for six weeks. Her overall condition improved with 6/6 
+visual acuity and minimum residual ophthalmoplegia. In conclusion, 
+corticosteroid treatment for COVID-19 infection in diabetic patients causes poor 
+glycemic control and immunosuppression that can lead to secondary infections 
+such as rhino-orbital mucormycosis.
+
+Copyright © 2023, Sidhu et al.
+
+DOI: 10.7759/cureus.35199
+PMCID: PMC10032174
+PMID: 36968851
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+512. Open Forum Infect Dis. 2023 Feb 24;10(3):ofad103. doi: 10.1093/ofid/ofad103.
+ eCollection 2023 Mar.
+
+Excess Mortality Associated With Loiasis: Confirmation by a New Retrospective 
+Cohort Study Conducted in the Republic of Congo.
+
+Hemilembolo MC(1)(2), Niama AC(3), Campillo JT(1), Pion SD(1), Missamou F(2), 
+Whittaker C(3), Kankou JM(2), Ndziessi G(4), Bileckot RR(4), Boussinesq M(1), 
+Chesnais CB(1).
+
+Author information:
+(1)UMI 233 TransVIHMI, Université de Montpellier, Institut de Recherche pour le 
+Développement (IRD), INSERM Unité, Montpellier, France.
+(2)Programme National de Lutte contre l'Onchocercose, Direction de 
+l'Épidémiologie et de la Lutte contre les Maladies, Ministère de la Santé et de 
+la Population, Brazzaville, République du Congo.
+(3)MRC Centre for Global Infectious Disease Analysis, Jameel Institute for 
+Disease and Emergency Analytics, Imperial College London, London, United 
+Kingdom.
+(4)Faculté des Sciences de la Santé, Université Marien-Ngouabi, Brazzaville, 
+République du Congo.
+
+BACKGROUND: Loiasis (Loa loa filariasis) is considered a benign disease and is 
+currently not included in the World Health Organization's (WHO's) list of 
+Neglected Tropical Diseases, despite mounting evidence suggesting significant 
+disease burden in endemic areas. We conducted a retrospective cohort study to 
+assess the mortality associated with L. loa microfilaremia in the Southwestern 
+Republic of Congo.
+METHODS: The cohort included 3329 individuals from 53 villages screened for 
+loiasis in 2004. We compared mortality rates in 2021 for individuals initially 
+diagnosed as with or without L. loa microfilariae 17 years earlier. Data were 
+analyzed at the community level to calculate crude mortality rates. Survival 
+models were used to estimate the effect of L. loa microfilaremia on mortality in 
+the population.
+RESULTS: At baseline, prevalence of microfilaremia was 16.2%. During 17.62 years 
+of cohort follow-up, 751 deaths were recorded, representing a crude mortality 
+rate of 15.36 (95% CI, 14.28-16.50) per 1000 person-years. Median survival time 
+was 58.5 (95% CI, 49.7-67.3) years and 39.2 (95% CI, 32.6-45.8) years for 
+amicrofilaremic and microfilaremic indiviudals, respectively.
+CONCLUSIONS: A significant reduction in life expectancy was associated with L. 
+loa microfilaremia, confirming previous observations from Cameroon. This adds to 
+the evidence that loiasis is not a benign disease and deserves to be included in 
+the WHO's list of Neglected Tropical Diseases.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of 
+Infectious Diseases Society of America.
+
+DOI: 10.1093/ofid/ofad103
+PMCID: PMC10034755
+PMID: 36968967
+
+Conflict of interest statement: Potential conflicts of interest. All authors: no 
+reported conflicts.
+
+
+513. Front Cardiovasc Med. 2023 Mar 10;9:1060096. doi: 10.3389/fcvm.2022.1060096.
+ eCollection 2022.
+
+Atrial fibrillation: Primary prevention, secondary prevention, and prevention of 
+thromboembolic complications: Part 2.
+
+Trohman RG(1), Huang HD(1), Sharma PS(1).
+
+Author information:
+(1)Section of Electrophysiology, Division of Cardiology, Department of Internal 
+Medicine, Rush University Medical Center, Chicago, IL, United States.
+
+Atrial fibrillation (AF), the most common sustained cardiac arrhythmia, once 
+thought to be benign as long as the ventricular rate was controlled, is 
+associated with significant cardiac morbidity and mortality. Increasing life 
+expectancy driven by improved health care and decreased fertility rates has, in 
+most of the world, resulted in the population aged ≥65 years growing more 
+rapidly than the overall population. As the population ages, projections suggest 
+that the burden of AF may increase more than 60% by 2050. Although considerable 
+progress has been made in the treatment and management of AF, primary 
+prevention, secondary prevention, and prevention of thromboembolic complications 
+remain a work in progress. This narrative review was facilitated by a search of 
+MEDLINE to identify peer-reviewed clinical trials, randomized controlled trials, 
+meta-analyses, and other clinically relevant studies. The search was limited to 
+English-language reports published between 1950 and 2021. Atrial fibrillation 
+was searched using the terms primary prevention, hyperthyroidism, 
+Wolff-Parkinson-White syndrome, catheter ablation, surgical ablation, hybrid 
+ablation, stroke prevention, anticoagulation, left atrial occlusion and atrial 
+excision. Google and Google scholar as well as bibliographies of identified 
+articles were reviewed for additional references. In these two manuscripts, we 
+discuss the current strategies available to prevent AF, then compare 
+non-invasive and invasive treatment strategies to diminish AF recurrence. In 
+addition, we examine the pharmacological, percutaneous device and surgical 
+approaches to prevent stroke as well as other types of thromboembolic events.
+
+Copyright © 2023 Trohman, Huang and Sharma.
+
+DOI: 10.3389/fcvm.2022.1060096
+PMCID: PMC10036779
+PMID: 36969508
+
+Conflict of interest statement: RT reports serving as an advisor to Boston 
+Scientific/Guidant; receiving research grants from Boston Scientific/Guidant, 
+Medtronic Inc., St. Jude Medical (Abbott), Vitatron, and Wyeth-Ayerst/Wyeth 
+Pharmaceuticals; serving as a consultant for Biosense Webster, Alta Thera 
+Pharmaceuticals, and Newron Pharmaceuticals P.s.A.; and receiving speakers fees 
+or honoraria from Boston Scientific/Guidant CRM, Medtronic Inc., Alta Thera 
+Pharmaceuticals, Daichii Sankyo and St. Jude Medical (Abbott). The remaining 
+authors declare that the research was conducted in the absence of any commercial 
+or financial relationships that could be construed as a potential conflict of 
+interest.
+
+
+514. J Dev Life Course Criminol. 2020 Dec;6(4):381-397. doi: 
+10.1007/s40865-020-00150-8. Epub 2020 Sep 2.
+
+Intergenerational Patterns in Offending: Lessons from the Rochester 
+Intergenerational Study-ASC Division of Developmental and Life Course 
+Criminology David P. Farrington Lecture, 2019.
+
+Thornberry TP(1).
+
+Author information:
+(1)Department of Criminology and Criminal Justice, University of Maryland, 
+LeFrak Hall, College Park MD 20742, USA.
+
+PURPOSE: In recent years, criminology has seen an increase in the number of 
+3-generation, prospective studies of offending. The most fundamental question 
+posed by these studies is whether, and to what extent, parental involvement in 
+adolescent delinquency increases the risk of offending by their offspring. There 
+are several important substantive and methodological challenges that need to be 
+confronted in assessing the intergenerational effect including the examination 
+of moderating influences that can change the level of intergenerational 
+continuity and methodological issues as definitional elasticity-the impact on 
+the level of intergenerational continuity that is likely to be observed based on 
+a) how offending is defined and b) how the inherent heterogeneity in offending 
+is taken into accounted.
+METHODS: To examine these issues I use data from the Rochester Intergenerational 
+Study (RIGS), an extension of the original Rochester Youth Development Study 
+(RYDS). RYDS began data collection in 1988 with a sample of 1000 adolescents and 
+one of their parents. The intergenerational study began in 1999 by adding a 
+third generation member - the oldest biological child of the initial adolescent 
+participants - and following them over time with 19 annual assessments.
+RESULTS: Overall, there is a significant positive association between a parent's 
+involvement in adolescent delinquency and the likelihood that their offspring 
+will also be involved in delinquency. That overall relationship, however, masks 
+substantial internal variability. The significance and size of the 
+intergenerational effect varies by such factors as the level of ongoing contact 
+between fathers and their children and the child's gender. It is also influenced 
+by methodological considerations such as definitional elasticity. Under some 
+definitions of delinquent behavior, a robust relationship between the parent's 
+delinquency and the child's is observed while under other definitions there is 
+no significant relationship.
+CONCLUSION: There is, as of now, no clear and consistent answer to the question 
+of whether or not children follow in the footsteps of their parents with respect 
+to delinquency. The field of intergenerational study, which is still relatively 
+new, needs to confront more directly and systematically how both substantive and 
+methodological issues that can influence estimates of the intergenerational 
+effect.
+
+DOI: 10.1007/s40865-020-00150-8
+PMCID: PMC10038314
+PMID: 36970047
+
+
+515. Popul Res Policy Rev. 2023;42(2):27. doi: 10.1007/s11113-023-09762-6. Epub
+2023  Mar 22.
+
+Excess Deaths in the United States Compared to 18 Other High-Income Countries.
+
+Dehry SE(1), Krueger PM(1)(2).
+
+Author information:
+(1)Department of Health & Behavioral Sciences, University of Colorado Denver, 
+Campus Box 188, P.O. Box 173364, Denver, CO 80217-3364 USA.
+(2)University of Colorado Population Center, University of Colorado Boulder, 
+Boulder, USA.
+
+The U.S. is exceptional among high-income countries for poor survival outcomes. 
+Understanding the distribution of excess deaths by age, sex, and cause of death, 
+is essential for bringing U.S. mortality in line with international peers. We 
+use 2016 data from the World Health Organization Mortality Database and the 
+Human Mortality Database to calculate excess deaths in the U.S. relative to each 
+of 18 high-income comparison countries. The U.S. experiences excess mortality in 
+every age and sex group, and for 16 leading causes of death. For example, the 
+U.S. could potentially prevent 884,912 deaths by achieving the lower mortality 
+rates of Japan, the comparison country yielding the largest number of excess 
+deaths, which would be comparable to eliminating all deaths from heart disease, 
+unintentional injuries, and diabetes mellitus. In contrast, the U.S. could 
+potentially prevent just 176,825 deaths by achieving the lower mortality rates 
+of Germany, the comparison country yielding the smallest number of excess 
+deaths, which would be comparable to eliminating all deaths from chronic lower 
+respiratory diseases and assault (homicide). Existing research suggests that 
+policies that improve social conditions and health behaviors are more likely to 
+bring U.S. mortality in line with peer countries than policies that support 
+health care access or new biomedical technologies. Achieving the death rates of 
+peer countries could result in mortality reductions comparable to eliminating 
+leading causes of death.
+SUPPLEMENTARY INFORMATION: The online version contains supplementary material 
+available at 10.1007/s11113-023-09762-6.
+
+© The Author(s), under exclusive licence to Springer Nature B.V. 2023, Springer 
+Nature or its licensor (e.g. a society or other partner) holds exclusive rights 
+to this article under a publishing agreement with the author(s) or other 
+rightsholder(s); author self-archiving of the accepted manuscript version of 
+this article is solely governed by the terms of such publishing agreement and 
+applicable law.
+
+DOI: 10.1007/s11113-023-09762-6
+PMCID: PMC10030346
+PMID: 36970708
+
+Conflict of interest statement: Conflicts of interestThe authors have no 
+financial or non-financial conflicts of interest to declare.
+
+
+516. J Popul Res (Canberra). 2023;40(2):9. doi: 10.1007/s12546-023-09296-w. Epub
+2023  Mar 17.
+
+Trends in mortality patterns in two countries with different welfare models: 
+comparisons between CUBA and Denmark 1955-2020.
+
+Brønnum-Hansen H(1), Espiñeira JCA(2), Perera C(3), Andersen I(1).
+
+Author information:
+(1)Faculty of Health and Medical Sciences, Department of Public Health, 
+University of Copenhagen, Øster Farimagsgade 5, 1014 Copenhagen, Denmark.
+(2)Center of Studies of Cuban Economy, University of Havana, Havana, Cuba.
+(3)Trinity Centre for Global Health, School of Psychology, Trinity College, 
+Dublin, Ireland.
+
+Cuba and Denmark represent states with different welfare models that have 
+reached the same level of life expectancy. The purpose was to investigate and 
+compare mortality changes in the two countries. Systematically collected 
+information on population numbers and deaths for the entire Cuban and Danish 
+populations was the basis of life table data used to quantify differences in the 
+change in age-at-death distributions since 1955, age-specific contributions to 
+differences in life expectancy, lifespan variation, and other changes in 
+mortality patterns in Cuba and Denmark. Life expectancy in Cuba and Denmark 
+converged until 2000, when the increase in life expectancy for Cuba slowed down. 
+Since 1955, infant mortality has fallen in both countries but mostly in Cuba. 
+Both populations experienced compression of mortality as lifespan variation 
+decreased markedly, primarily due to postponement of early deaths. Given the 
+different starting point in the mid-1900s and living conditions for Cubans and 
+Danes, health status achieved among Cubans is striking. A rapidly ageing 
+population is challenging both countries, but Cuban health and welfare are 
+further burdened by a deteriorating economy in recent decades.
+
+© The Author(s), under exclusive licence to Springer Nature B.V. 2023, Springer 
+Nature or its licensor (e.g. a society or other partner) holds exclusive rights 
+to this article under a publishing agreement with the author(s) or other 
+rightsholder(s); author self-archiving of the accepted manuscript version of 
+this article is solely governed by the terms of such publishing agreement and 
+applicable law.
+
+DOI: 10.1007/s12546-023-09296-w
+PMCID: PMC10023218
+PMID: 36970714
+
+Conflict of interest statement: Conflict of interest:None.
+
+
+517. JAMA Netw Open. 2023 Mar 1;6(3):e234723. doi:
+10.1001/jamanetworkopen.2023.4723.
+
+Family Conferences to Facilitate Deprescribing in Older Outpatients With Frailty 
+and With Polypharmacy: The COFRAIL Cluster Randomized Trial.
+
+Mortsiefer A(1)(2), Löscher S(2), Pashutina Y(2), Santos S(2), Altiner A(3), 
+Drewelow E(3), Ritzke M(3), Wollny A(3), Thürmann P(4), Bencheva V(4), Gogolin 
+M(4), Meyer G(5), Abraham J(5), Fleischer S(5), Icks A(6), Montalbo J(6), Wiese 
+B(7), Wilm S(2), Feldmeier G(3).
+
+Author information:
+(1)Institute of General Practice and Primary Care, Chair of General Practice II 
+and Patient-Centredness in Primary Care, Faculty of Health, Witten/Herdecke 
+University, Witten, Germany.
+(2)Institute of General Practice, Medical Faculty, Heinrich-Heine-University 
+Düsseldorf, Düsseldorf, Germany.
+(3)Institute of General Practice, University Medical Center Rostock, Rostock, 
+Germany.
+(4)Department of Clinical Pharmacology, School of Medicine, Faculty of Health, 
+Witten/Herdecke University, Witten, Germany.
+(5)Institute for Health and Nursing Science, Medical Faculty, Martin Luther 
+University Halle-Wittenberg, Halle (Saale), Germany.
+(6)Institute for Health Services and Economics, Centre for Health and Society, 
+Faculty of Medicine, Heinrich-Heine-University Düsseldorf, Düsseldorf, Germany.
+(7)WG Medical Statistics and IT-Infrastructure, Institute of General Practice, 
+Hannover Medical School, Hannover, Germany.
+
+IMPORTANCE: For older adults with frailty syndrome, reducing polypharmacy may 
+have utility as a safety-promoting treatment option.
+OBJECTIVE: To investigate the effects of family conferences on medication and 
+clinical outcomes in community-dwelling older adults with frailty receiving 
+polypharmacy.
+DESIGN, SETTING, AND PARTICIPANTS: This cluster randomized clinical trial was 
+conducted from April 30, 2019, to June 30, 221, at 110 primary care practices in 
+Germany. The study included community-dwelling adults aged 70 years or older 
+with frailty syndrome, daily use of at least 5 different medications, a life 
+expectancy of at least 6 months, and no moderate or severe dementia.
+INTERVENTIONS: General practitioners (GPs) in the intervention group received 3 
+training sessions on family conferences, a deprescribing guideline, and a 
+toolkit with relevant nonpharmacologic interventions. Three GP-led family 
+conferences for shared decision-making involving the participants and family 
+caregivers and/or nursing services were subsequently held per patient at home 
+over a period of 9 months. Patients in the control group received care as usual.
+MAIN OUTCOMES AND MEASURES: The primary outcome was the number of 
+hospitalizations within 12 months, as assessed by nurses during home visits or 
+telephone interviews. Secondary outcomes included the number of medications, the 
+number of European Union list of the number of potentially inappropriate 
+medication (EU[7]-PIM) for older people, and geriatric assessment parameters. 
+Both per-protocol and intention-to-treat analyses were conducted.
+RESULTS: The baseline assessment included 521 individuals (356 women [68.3%]; 
+mean [SD] age, 83.5 [6.17] years). The intention-to-treat analysis with 510 
+patients showed no significant difference in the adjusted mean (SD) number of 
+hospitalizations between the intervention group (0.98 [1.72]) and the control 
+group (0.99 [1.53]). In the per-protocol analysis including 385 individuals, the 
+mean (SD) number of medications decreased from 8.98 (3.56) to 8.11 (3.21) at 6 
+months and to 8.49 (3.63) at 12 months in the intervention group and from 9.24 
+(3.44) to 9.32 (3.59) at 6 months and to 9.16 (3.42) at 12 months in the control 
+group, with a statistically significant difference at 6 months in the 
+mixed-effect Poisson regression model (P = .001). After 6 months, the mean (SD) 
+number of EU(7)-PIMs was significantly lower in the intervention group (1.30 
+[1.05]) than in the control group (1.71 [1.25]; P = .04). There was no 
+significant difference in the mean number of EU(7)-PIMs after 12 months.
+CONCLUSIONS AND RELEVANCE: In this cluster randomized clinical trial with older 
+adults taking 5 or more medications, the intervention consisting of GP-led 
+family conferences did not achieve sustainable effects in reducing the number of 
+hospitalizations or the number of medications and EU(7)-PIMs after 12 months.
+TRIAL REGISTRATION: German Clinical Trials Register: DRKS00015055.
+
+DOI: 10.1001/jamanetworkopen.2023.4723
+PMCID: PMC10043750
+PMID: 36972052 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: No disclosures 
+were reported.
+
+
+518. Spine (Phila Pa 1976). 2023 Aug 1;48(15):1082-1088. doi: 
+10.1097/BRS.0000000000004646. Epub 2023 Mar 23.
+
+Quantifying the Contribution of Lower Limb Compensation to Upright Posture: What 
+Happens If Adult Spinal Deformity Patients Do Not Compensate?
+
+Lafage R(1), Duvvuri P(2), Elysee J(3), Diebo B(4), Bess S(5), Burton D(6), 
+Daniels A(4), Gupta M(7), Hostin R(8), Kebaish K(9), Kelly M(10), Kim HJ(3), 
+Klineberg E(11), Lenke L(12), Lewis S(13), Ames C(14), Passias P(15), 
+Protopsaltis T(15), Shaffrey C(16), Smith JS(17), Schwab F(1), Lafage V(1); 
+International Spine Study Group.
+
+Author information:
+(1)Department of Orthopaedic Surgery, Northwell Health, Lenox Hill Hospital, New 
+York, NY.
+(2)Donald and Barbara Zucker School of Medicine at Hofstra/Northwell, Hempstead, 
+NY.
+(3)Department of Orthopaedic Surgery, Hospital for Special Surgery, New York, 
+NY.
+(4)Departments of Orthopaedic Surgery, Brown University, Providence, RI.
+(5)Denver International Spine Center, Presbyterian St. Luke's/Rocky Mountain 
+Hospital for Children, Denver, CO.
+(6)Department of Orthopaedic Surgery, University of Kansas Medical Center, 
+Kansas City, KS.
+(7)Department of Orthopaedic Surgery, Washington University, St Louis, MO.
+(8)Southwest Scoliosis and Spine Institute, Dallas, TX.
+(9)Department of Orthopaedic Surgery, Johns Hopkins, Baltimore, MD.
+(10)Rady Children's Hospital-San Diego, San Diego, CA.
+(11)Department of Orthopaedic Surgery, University of California, Davis, 
+Sacramento, CA.
+(12)Department of Orthopaedic Surgery, Columbia University, New York, NY.
+(13)Department of Orthopaedic Surgery, University of Toronto, Toronto, ON, 
+Canada.
+(14)Department of Neurosurgery, University of California School of Medicine, San 
+Francisco, CA.
+(15)Departments of Orthopaedic Surgery, NYU Langone, New York, NY.
+(16)Department of Neurosurgery, Duke University Medical Center, Durham, NC.
+(17)Department of Neurosurgery, University of Virginia Medical Center, 
+Charlottesville, VA.
+
+STUDY DESIGN: This is a multicenter, prospective cohort study.
+OBJECTIVE: This study tests the hypothesis that the elimination of lower limb 
+compensation in patients with adult spinal deformity (ASD) will significantly 
+increase the magnitude of sagittal malalignment.
+SUMMARY OF BACKGROUND DATA: ASD affects a significant proportion of the elderly 
+population, impairing functional sagittal alignment and inhibiting the overall 
+quality of life. To counteract these effects, patients with ASD use their spine, 
+pelvis, and lower limbs to create a compensatory posture that allows for 
+standing and mobility. However, the degree to which each of the hips, knees, and 
+ankles contributes to these compensatory mechanisms has yet to be determined.
+METHODS: Patients undergoing corrective surgery for ASD were included if they 
+met at least one of the following criteria: complex surgical procedure, 
+geriatric deformity surgery, or severe radiographic deformity. Preoperative 
+full-body x-rays were evaluated, and age and pelvic incidence -adjusted 
+normative values were used to model spine alignment based upon three positions: 
+compensated (all lower extremity compensatory mechanisms maintained), partially 
+compensated (removal of ankle dorsiflexion and knee flexion, with maintained hip 
+extension), and uncompensated (ankle, knee, and hip compensation set to the age 
+and pelvic incidence norms).
+RESULTS: A total of 288 patients were included (mean age 60 yr, 70.5% females). 
+As the model transitioned from the compensated to uncompensated position, the 
+initial posterior translation of the pelvis decreased significantly to an 
+anterior translation versus the ankle (P.Shift: 30 to -7.6 mm). This was 
+associated with a decrease in pelvic retroversion (pelvic tilt: 24.1-16.1), hip 
+extension (SFA: 203-200), knee flexion (knee angle: 5.5-0.4), and ankle 
+dorsiflexion (ankle angle: 5.3-3.7). As a result, the anterior malalignment of 
+the trunk significantly increased: sagittal vertical axis (65-120 mm) and G-SVA 
+(C7-ankle from 36 to 127 mm).
+CONCLUSIONS: Removal of lower limbs compensation revealed an unsustainable 
+truncal malalignment with two-fold greater SVA.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/BRS.0000000000004646
+PMID: 36972137 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflicts of interest.
+
+
+519. PLoS One. 2023 Mar 27;18(3):e0282327. doi: 10.1371/journal.pone.0282327. 
+eCollection 2023.
+
+Systematic review of economic evaluations of varicella vaccination programmes.
+
+Anderson R(1), Kim S(2), Roberts N(3), Petrou S(2).
+
+Author information:
+(1)Centre for Health Service Economics and Organisation, Nuffield Department of 
+Primary Care Health Sciences, University of Oxford, Oxford, United Kingdom.
+(2)Nuffield Department of Primary Care Health Sciences, University of Oxford, 
+Oxford, United Kingdom.
+(3)Health Care Libraries, Bodleian Libraries, University of Oxford, Oxford, 
+United Kingdom.
+
+OBJECTIVES: This study carried out a systematic literature review of economic 
+evaluations of varicella vaccination programmes from the earliest publication to 
+the present day, including programmes in the workplace and in special risk 
+groups as well as universal childhood vaccination and catch up programmes.
+METHODS: Articles published from 1985 until 2022 were sourced from 
+PubMed/Medline, Embase, Web of Science, NHSEED and Econlit. Eligible economic 
+evaluations, which included posters and conference abstracts, were identified by 
+two reviewers who scrutinised each other's selections at both title and abstract 
+and full report stages. The studies are described in terms of their 
+methodological characteristics. Their results are aggregated by type of 
+vaccination programme and the nature of the economic outcome.
+RESULTS: A total of 2575 articles were identified of which 79 qualified as 
+economic evaluations. A total of 55 studies focused on universal childhood 
+vaccination, 10 on the workplace and 14 on high risk groups. Twenty-seven 
+studies reported estimates of incremental cost per quality-adjusted life year 
+(QALY) gained, 16 reported benefit-cost ratios, 20 reported cost-effectiveness 
+outcomes in terms of incremental cost per event or life saved and 16 reported 
+cost-cost offset results. Most studies of universal childhood vaccination 
+reported an increase in overall costs to health services, but often a reduction 
+in cost from a societal perspective.
+CONCLUSIONS: The evidence surrounding the cost-effectiveness of varicella 
+vaccination programmes remains sparse with contrasting conclusions in some 
+areas. Future research should particularly aim to encompass the impact of 
+universal childhood vaccination programmes on herpes zoster among adults.
+
+Copyright: © 2023 Anderson et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0282327
+PMCID: PMC10042376
+PMID: 36972249 [Indexed for MEDLINE]
+
+Conflict of interest statement: No authors have competing interests.
+
+
+520. Int J Qual Health Care. 2023 Apr 15;35(2):mzad016. doi:
+10.1093/intqhc/mzad016.
+
+Adjuvant zoledronic acid therapy for postmenopausal women with early breast 
+cancer in China: a cost-effectiveness analysis.
+
+Huang X(1)(2), Liu Y(1)(2), Lin S(1)(2), Wang H(1)(2), Deng Y(3), Rao X(1)(2), 
+Guo X(1)(2), Jiang X(4), Weng X(1)(2), Huang P(1)(2).
+
+Author information:
+(1)Department of Pharmacy, The First Affiliated Hospital of Fujian Medical 
+University, No. 20 Cha Zhong Road, Taijiang, Fuzhou, Fujian Province 350004, 
+China.
+(2)Department of Pharmacy, National Regional Medical Center, Binhai Campus of 
+the First Affiliated Hospital, Fujian Medical University, Fuzhou 350212, China.
+(3)Department of Medical Oncology, The First Affiliated Hospital of Fujian 
+Medical University, 20 Cha Zhong Rd, Taijiang, Fuzhou 350004, People's Republic 
+of China.
+(4)School of Pharmacy, The Chinese University of Hong Kong, Horse Material 
+Water, Shatin, New Territories, Hong Kong 999077, China.
+
+Combination therapy of zoledronic acid (ZOL) plus aromatase inhibitor (AI) was 
+found to reduce bone metastasis risk and improve overall survival for 
+treatment-naïve postmenopausal women (PMW) with hormone receptor-positive (HR+) 
+early breast cancer (EBC), when compared with AI alone. The objective of this 
+study was to evaluate the cost-effectiveness of adding ZOL to AI in treating PMW 
+with HR+ EBC in China. A 5-state Markov model was constructed to evaluate the 
+cost-effectiveness of adding ZOL to AI for PMW-EBC (HR+) over a lifetime horizon 
+from the perspective of Chinese healthcare provider. Data used were obtained 
+from previous reports and public data. The primary outcomes of this study were 
+direct medical cost, life years (LYs), quality-adjusted LYs (QALYs), and 
+incremental cost-effectiveness ratios (ICERs). One-way and probabilistic 
+sensitivity analyses were performed to examine the robustness of the presented 
+model. Over a lifetime horizon, adding ZOL to AI was projected to yield a gain 
+of 1.286 LYs and 1.099 QALYs compared with AI monotherapy, which yielded ICER 
+$11 140.75 per QALY with an incremental cost of $12 247.36. The one-way 
+sensitivity analysis indicated that the cost of ZOL was the most influential 
+factor in our study. The probability that adding ZOL to AI was cost-effective at 
+a threshold of $30 425 per QALY in China was 91.1%. ZOL is likely to be 
+cost-effective in reducing bone metastasis risk and improving overall survival 
+for PMW-EBC (HR+) in China.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of 
+International Society for Quality in Health Care. All rights reserved. For 
+permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/intqhc/mzad016
+PMID: 36972277 [Indexed for MEDLINE]
+
+
+521. Int J Aging Hum Dev. 2023 Dec;97(4):479-495. doi: 10.1177/00914150231157057.
+ Epub 2023 Mar 27.
+
+Self and Perceived Others' Views of Aging and Their Association with Mental 
+Health in the Second Half of Life.
+
+Palgi Y(1).
+
+Author information:
+(1)Department of Gerontology, University of Haifa, Haifa, Israel.
+
+This study focuses on the concepts of subjective age and subjective 
+nearness-to-death (views-of-aging) and examines the association between 
+individuals' chronological age, self, and others' perceptions of these variables 
+and mental health. A total of 267 participants aged 40-95 M = 64.33 provided 
+sociodemographic information and filled out scales assessing self and others' 
+views-of-aging, depressive symptoms, and their well-being. After controlling for 
+covariates, age was not related to the dependent variables, whereas young/far 
+from death self, and perceived others' views-of-aging was related to better 
+mental health. The interaction between young age and young/far from death 
+perceived others', but not self, views-of-aging was associated with lower 
+depressive symptoms and higher well-being. Finally, the interaction between 
+young/far from death self and perceived others' views-of-aging was associated 
+with lower depressive symptoms but not with well-being. These findings provide 
+an initial glance at the complex relations between two types of personal 
+views-of-aging and emphasize the importance of how individuals appraise others' 
+perceptions of their own aging process and life expectancy.
+
+DOI: 10.1177/00914150231157057
+PMID: 36972464 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Conflicting InterestsThe 
+author(s) declared no potential conflicts of interest with respect to the 
+research, authorship, and/or publication of this article.
+
+
+522. Issues Ment Health Nurs. 2023 Mar 27:1-4. doi:
+10.1080/01612840.2023.2186113.  Online ahead of print.
+
+Declining Life Expectancy in the U.S.
+
+Flaskerud JH(1).
+
+Author information:
+(1)School of Nursing, University of California, Los Angeles, California, USA.
+
+DOI: 10.1080/01612840.2023.2186113
+PMID: 36972546
+
+
+523. J Acad Consult Liaison Psychiatry. 2023 Sep-Oct;64(5):436-443. doi: 
+10.1016/j.jaclp.2023.03.003. Epub 2023 Mar 25.
+
+Septic Shock Short-Term Outcomes in Patients With Psychiatric Disorders: 
+Analysis From the National Inpatient Sample Database.
+
+Soubani AO(1), Sharma A(2), Soubani O(3), Mishra T(2).
+
+Author information:
+(1)Division of Pulmonary, Critical Care and Sleep Medicine, Wayne State 
+University School of Medicine, Detroit, MI. Electronic address: 
+asoubani@med.wayne.edu.
+(2)Department of Internal Medicine, Wayne State University School of Medicine, 
+Detroit, MI.
+(3)Department of Psychiatry and Behavioral Neurosciences, Wayne State University 
+School of Medicine, Detroit, MI.
+
+BACKGROUND: Major psychiatric disorders are associated with lower life 
+expectancy primarily due to comorbid illnesses and suboptimal access to health 
+care. Large-scale contemporary data in the United States on in-hospital 
+mortality of patients with major psychiatric disorder and sepsis are lacking.
+OBJECTIVE: To describe the short-term outcomes of hospitalized patients with 
+major psychiatric disorders and septic shock.
+METHODS: We performed a retrospective cohort study using the National Inpatient 
+Sample database from 2016 to 2019 to identify septic shock hospitalizations in 
+patients with versus without major psychiatric disorder (defined as 
+schizophrenia and affective disorders). Baseline variables and in-hospital 
+mortality trends were compared between the 2 groups.
+RESULTS: Out of 1,653,255 hospitalizations with septic shock identified between 
+2016 and 2019, 16.2% had a diagnosis of major psychiatric disorder as defined 
+above. After adjusting for various patient-level and hospital-level demographics 
+and coexisting clinical conditions in a multivariable logistic regression, the 
+odds of in-hospital mortality in patients with any major psychiatric disorder 
+were 0.71 times that of those without a diagnosis of psychiatric illness (95% 
+confidence interval [CI], 0.69-0.73; P < 0.001). Similarly, when the disorders 
+were divided into 2 categories for subanalysis, those with schizophrenia had 38% 
+lower odds of dying compared to those without schizophrenia (adjusted odds 
+ratio, 0.62; 95% CI, 0.58-0.66; P < 0.001). Those with affective disorders had 
+25% lower odds of in-hospital mortality than those without a diagnosis of an 
+affective disorder (adjusted odds ratio, 0.75; 95% CI, 0.73-0.77; P < 0.001). 
+The adjusted mean length of stay for those diagnosed with major psychiatric 
+disorder was 0.38 days longer than those without significant psychiatric illness 
+(95% CI, 0.28-0.49; P < 0.001). On the other hand, the mean hospitalization 
+charges were $10,516 less for patients with a major psychiatric disorder 
+compared to those without (95% CI, -$11,830 to -$9,201; P < 0.001).
+CONCLUSIONS: Hospitalized patients with major psychiatric disorder and septic 
+shock had lower risk of short-term mortality. Further studies are needed to 
+examine the reasons behind this lower in-hospital mortality risk.
+
+Copyright © 2023 Academy of Consultation-Liaison Psychiatry. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jaclp.2023.03.003
+PMID: 36972754 [Indexed for MEDLINE]
+
+
+524. Environ Res. 2023 Jun 15;227:115745. doi: 10.1016/j.envres.2023.115745. Epub
+ 2023 Mar 25.
+
+An innovative index to incorporate transcriptomic data into weight of evidence 
+approaches for environmental risk assessment.
+
+Cecchetto M(1), Peruzza L(2), Giubilato E(1), Bernardini I(2), Rovere GD(2), 
+Marcomini A(1), Regoli F(3), Bargelloni L(2), Patarnello T(2), Semenzin E(4), 
+Milan M(5).
+
+Author information:
+(1)Department of Environmental Sciences, Informatics and Statistics, Ca' Foscari 
+University of Venice, via Torino 155, 30172, Mestre-Venezia, Italy.
+(2)Department of Comparative Biomedicine and Food Science, University of Padova, 
+Viale dell'Università 16, 35020, Legnaro, Padova, Italy.
+(3)Department of Life and Environmental Sciences, Marche Polytechnic University, 
+Via Brecce Bianche, 60131, Ancona, Italy; NFBC, National Future Biodiversity 
+Center, Palermo, Italy.
+(4)Department of Environmental Sciences, Informatics and Statistics, Ca' Foscari 
+University of Venice, via Torino 155, 30172, Mestre-Venezia, Italy. Electronic 
+address: semenzin@unive.it.
+(5)Department of Comparative Biomedicine and Food Science, University of Padova, 
+Viale dell'Università 16, 35020, Legnaro, Padova, Italy; NFBC, National Future 
+Biodiversity Center, Palermo, Italy.
+
+The sharp decrease in the cost of RNA-sequencing and the rapid improvement in 
+computational analysis of eco-toxicogenomic data have brought new insights into 
+the adverse effects of chemicals on aquatic organisms. Yet, transcriptomics is 
+generally applied qualitatively in environmental risk assessments, hampering 
+more effective exploitation of this evidence through multidisciplinary studies. 
+In view of this limitation, a methodology is here presented to quantitatively 
+elaborate transcriptional data in support to environmental risk assessment. The 
+proposed methodology makes use of results from the application of Gene Set 
+Enrichment Analysis to recent studies investigating the response of Mytilus 
+galloprovincialis and Ruditapes philippinarum exposed to contaminants of 
+emerging concern. The degree of changes in gene sets and the relevance of 
+physiological reactions are integrated in the calculation of a hazard index. The 
+outcome is then classified according to five hazard classes (from absent to 
+severe), providing an evaluation of whole-transcriptome effects of chemical 
+exposure. The application to experimental and simulated datasets proved that the 
+method can effectively discriminate different levels of altered transcriptomic 
+responses when compared to expert judgement (Spearman correlation coefficient of 
+0.96). A further application to data collected in two independent studies of 
+Salmo trutta and Xenopus tropicalis exposed to contaminants confirmed the 
+potential extension of the methodology to other aquatic species. This 
+methodology can serve as a proof of concept for the integration of "genomic 
+tools" in environmental risk assessment based on multidisciplinary 
+investigations. To this end, the proposed transcriptomic hazard index can now be 
+incorporated into quantitative Weight of Evidence approaches and weighed, with 
+results from other types of analysis, to elucidate the role of chemicals in 
+adverse ecological effects.
+
+Copyright © 2023. Published by Elsevier Inc.
+
+DOI: 10.1016/j.envres.2023.115745
+PMID: 36972774 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+525. BMJ Open. 2023 Mar 27;13(3):e068943. doi: 10.1136/bmjopen-2022-068943.
+
+Prophylaxis for Pneumocystis carinii pneumonia in non-Hodgkin's lymphoma 
+undergoing R-CHOP21 in China: a meta-analysis and cost-effectiveness analysis.
+
+Huang X(1)(2), Huang X(1)(2), Lin S(1)(2), Luo S(1)(2), Dong L(3), Lin D(1)(2), 
+Huang Y(1)(2), Xie C(1)(2), Nian D(1)(2), Xu X(1)(2), Weng X(4)(2).
+
+Author information:
+(1)Department of Pharmacy, The First Affiliated Hospital of Fujian Medical 
+University, Fuzhou, China.
+(2)Department of Pharmacy, National Regional Medical Center, Binhai Campus of 
+the First Affiliated Hospital, Fujian Medical University, Fuzhou, China.
+(3)Department of Pharmacy, Clinical Oncology School of Fujian Medical 
+University, Fujian Cancer Hospital, Fuzhou, China.
+(4)Department of Pharmacy, The First Affiliated Hospital of Fujian Medical 
+University, Fuzhou, China wxh001@fjmu.edu.cn.
+
+OBJECTIVE: Rituximab plus cyclophosphamide, doxorubicin, vincristine and 
+prednisone, once every 3 weeks (R-CHOP21) is commonly used in non-Hodgkin's 
+lymphoma (NHL), but accompanied by Pneumocystis carinii pneumonia (PCP) as a 
+fatal treatment complication. This study aims to estimate the specific 
+effectiveness and cost-effectiveness of PCP prophylaxis in NHL undergoing 
+R-CHOP21.
+DESIGN: A two-part decision analytical model was developed. Prevention effects 
+were determined by systemic review of PubMed, Embase, Cochrane Library and Web 
+of Science from inception to December 2022. Studies reporting results of PCP 
+prophylaxis were included. Enrolled studies were quality assessed with 
+Newcastle-Ottawa Scale. Costs were derived from the Chinese official websites, 
+and clinical outcomes and utilities were obtained from published literature. 
+Uncertainty was evaluated through deterministic and probabilistic sensitivity 
+analyses (DSA and PSA). Willingness-to-pay (WTP) threshold was set as US$31 
+315.23/quality-adjusted life year (QALY) (threefold the 2021 per capita Chinese 
+gross domestic product).
+SETTING: Chinese healthcare system perspective.
+PARTICIPANTS: NHL receiving R-CHOP21.
+INTERVENTIONS: PCP prophylaxis versus no prophylaxis.
+MAIN OUTCOME MEASURES: Prevention effects were pooled as relative risk (RR) with 
+95% CI. QALYs and incremental cost-effectiveness ratio (ICER) were calculated.
+RESULTS: A total of four retrospective cohort studies with 1796 participants 
+were included. PCP risk was inversely associated with prophylaxis in NHL 
+receiving R-CHOP21 (RR 0.17; 95% CI 0.04 to 0.67; p=0.01). Compared with no 
+prophylaxis, PCP prophylaxis would incur an additional cost of US$527.61, and 
+0.57 QALYs gained, which yielded an ICER of US$929.25/QALY. DSA indicated that 
+model results were most sensitive to the risk of PCP and preventive 
+effectiveness. In PSA, the probability that prophylaxis was cost-effective at 
+the WTP threshold was 100%.
+CONCLUSION: Prophylaxis for PCP in NHL receiving R-CHOP21 is highly effective 
+from retrospective studies, and routine chemoprophylaxis against PCP is 
+overwhelmingly cost-effective from Chinese healthcare system perspective. Large 
+sample size and prospective controlled studies are warranted.
+
+© Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2022-068943
+PMCID: PMC10069585
+PMID: 36972963 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+526. BMJ Open. 2023 Mar 27;13(3):e067994. doi: 10.1136/bmjopen-2022-067994.
+
+Sex differences in non-communicable disease multimorbidity among adults aged 45 
+years or older in India.
+
+Sharma SK(1), Nambiar D(2)(3)(4), Ghosh A(2).
+
+Author information:
+(1)The George Institute for Global Health India, New Delhi, India 
+santoshiips88@gmail.com.
+(2)The George Institute for Global Health India, New Delhi, India.
+(3)Faculty of Medicine, University of New South Wales, Sydney, New South Wales, 
+Australia.
+(4)Prasanna School of Public Health, Manipal Academy of Higher Education, 
+Manipal, India.
+
+OBJECTIVE: Older male and female adults differ in key characteristics such as 
+disease-specific life expectancy, health behaviours and clinical presentations 
+and non-communicable disease multimorbidity (NCD-MM). Therefore, examining the 
+sex differences in NCD-MM among older adults is vital, as this issue is 
+understudied in low-income and middle-income country (LMIC) contexts such as 
+India, and has been growing in the past few decades.
+DESIGN: Large scale nationally representative cross-sectional study.
+SETTINGS AND PARTICIPANTS: Longitudinal Ageing Study in India (LASI 2017-2018) 
+had data on 27 343 men and 31 730 women aged 45+, drawn from a sample of 59 073 
+individuals across India.
+PRIMARY AND SECONDARY OUTCOMES MEASURES: We operationalised NCD-MM based on 
+prevalence of the presence of two or more long-term chronic NCD morbidities. 
+Descriptive statistics and bivariate analysis along with multivariate statistics 
+were used.
+RESULTS: Women aged 75+ had a higher prevalence of multimorbidity as compared 
+with men (52.1% vs 45.17%). NCD-MM was more common among widows (48.5%) than 
+widowers (44.8%). The female-to-male ratios of ORs (RORs) for NCD-MM associated 
+with overweight/obesity and prior history of chewing tobacco were 1.10 (95% CI: 
+1.01 to 1.20) and 1.42 (95% CI: 1.12 to 1.80), respectively. The female-to-male 
+RORs show that the odds of NCD-MM were greater in formerly working women (1.24 
+(95% CI: 1.06 to 1.44)) relative to formerly working men. The effect of 
+increasing NCD-MM on limitations in activities of daily living and instrumental 
+ADL was greater in men than women but reversed for the hospitalisation.
+CONCLUSIONS: We found significant sex differences in NCD-MM prevalence among 
+older Indian adults, with various associated risk factors. The patterns 
+underlying these differences warrant greater study, given existing evidence on 
+differential longevity, health burdens and health-seeking patterns all of which 
+operate in a larger structural context of patriarchy. Health systems in turn 
+must respond to NCD-MM mindful of these patterns and aim to redress some of the 
+larger inequities they reflect.
+
+© Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2022-067994
+PMCID: PMC10069553
+PMID: 36972971 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+527. J Med Econ. 2023 Jan-Dec;26(1):584-593. doi: 10.1080/13696998.2023.2195753.
+
+A systematic review of SF-6D health state valuation studies.
+
+Wang L(1)(2), Poder TG(1)(2).
+
+Author information:
+(1)School of Public Health, Department of Management, Evaluation and Health 
+Policy, University of Montreal, Montreal, QC, Canada.
+(2)Research center of the IUSMM, Montreal, QC, Canada.
+
+BACKGROUND: The short-form 6-dimension (SF-6D) is a preference-based measure 
+designed to calculate quality-adjusted life-year (QALY). Preference-based 
+measures are standardized multidimensional health state classifications with 
+preference or utility weights elicited from a sample of the population. There is 
+a concern that valuations may differ between countries because of differences in 
+culture, thus invalidating the use of values obtained from one country to 
+another.
+OBJECTIVE: To conduct a systematic review of elicitation methods and modeling 
+strategies in SF-6D studies and to present a general comparison of dimensions' 
+ordering among different countries.
+METHODS: We performed a systematic review of studies that developed value sets 
+for the SF-6D. The data search was conducted in PubMed, ScienceDirect, Embase, 
+and Scopus up to 8 September 2022. Quality of studies was assessed with the 
+CREATE checklist. Methodological differences were identified, and the 
+dimensions' ordering of the selected studies was analyzed by cultural and 
+economic factors.
+RESULTS: From a total of 1369 entries, 31 articles were selected. This 
+corresponded to 12 different countries and regions and 17 different surveys. 
+Most studies used the standard gamble method to elicit health state preferences. 
+Anglo-Saxon countries gave more importance to pain, while other countries have 
+physical functioning as the highest dimension. As the economic level increases, 
+people care less about physical functioning but more about pain and mental 
+health.
+CONCLUSIONS: Value sets for the SF-6D are different from one country to another 
+and there is a need to develop value sets for more countries to consider 
+cultural and economic differences.
+
+DOI: 10.1080/13696998.2023.2195753
+PMID: 36973235 [Indexed for MEDLINE]
+
+
+528. J Racial Ethn Health Disparities. 2023 Mar 27:1-7. doi: 
+10.1007/s40615-023-01566-w. Online ahead of print.
+
+Cause-Specific Mortality and Racial Differentials in Life Expectancy, Chicago 
+2018-2019.
+
+Bishop-Royse J(1), Saiyed NS(2), Schober DJ(3), Laflamme E(4), Lange-Maia BS(5), 
+Ferrera M(6), Benjamins MR(2).
+
+Author information:
+(1)College of Nursing, Rush University, Chicago, IL, USA. 
+jessica_c_bishop-royse@rush.edu.
+(2)Sinai Urban Health Institute, Chicago, IL, USA.
+(3)Master of Public Health Program, Center for Community Health Equity, DePaul 
+University, Chicago, IL, USA.
+(4)American Medical Association, Center for Health Equity, Center Community 
+Health Equity, Chicago, IL, USA.
+(5)Department of Family and Preventive Medicine, Center for Community Health 
+Equity, Rush Alzheimer's Disease Center, Rush University, Chicago, IL, USA.
+(6)Department of Social Work, Center for Community Health Equity, DePaul 
+University, Chicago, IL, USA.
+
+BACKGROUND: In Chicago in 2018, the average life expectancy (ALE) for NH Blacks 
+was 71.5 years, 9.1 fewer years than for NH Whites (80.6 years). Inasmuch as 
+some causes of death are increasingly recognized products of structural racism, 
+in urban areas, such causes may have potential for reducing racial inequities 
+through public health intervention. Our purpose is to allocate racial inequities 
+in ALE in Chicago to differentials in cause-specific mortality.
+METHODS: Using multiple decrement processes and decomposition analysis, we 
+examine cause-specific mortality in Chicago to determine the causes of death 
+that contribute to the gap in life expectancy between NH Blacks and NH Whites.
+RESULTS: Among females, the racial difference in ALE was 8.21 years; for males, 
+it was 10.53 years. We find that cancer and heart disease mortality account for 
+3.03 years or 36% of the racial gap in average life expectancy among females. 
+Differences in homicide and heart disease mortality rates comprised over 45% of 
+the disparity among males.
+CONCLUSIONS: Strategies for improving inequities in life expectancy should 

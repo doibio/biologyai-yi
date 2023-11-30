@@ -1,0 +1,1000 @@
+RESULTS: To show the capabilities of APRICOT, we have processed a real magnetic 
+resonance image to accurately characterize a prostate cancer using a Message 
+Passing Interface cluster deployed automatically with APRICOT. In addition, the 
+second example shows how APRICOT scales the deployed infrastructure, according 
+to the workload, using a batch cluster. This example consists of a 
+multiparametric study of a positron emission tomography image reconstruction.
+CONCLUSION: APRICOT's benefits are the integration of specific infrastructure 
+deployment, the management and usage for Open Science, making experiments that 
+involve specific computational infrastructures reproducible. All the experiment 
+steps and details can be documented at the same Jupyter notebook which includes 
+infrastructure specifications, data storage, experimentation execution, results 
+gathering, and infrastructure termination. Thus, distributing the 
+experimentation notebook and needed data should be enough to reproduce the 
+experiment.
+
+The Author(s). This is an open access article published by Thieme under the 
+terms of the Creative Commons Attribution-NonDerivative-NonCommercial-License, 
+permitting copying and reproduction so long as the original work is given 
+appropriate credit. Contents may not be used for commercial purposes, or 
+adapted, remixed, transformed or built upon. 
+(https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+DOI: 10.1055/s-0040-1712460
+PMCID: PMC7746519
+PMID: 32777825 [Indexed for MEDLINE]
+
+Conflict of interest statement: None declared.
+
+
+383. J Bacteriol. 2020 Sep 8;202(19):e00335-20. doi: 10.1128/JB.00335-20. Print
+2020  Sep 8.
+
+Characterization of the Exopolysaccharide Biosynthesis Pathway in Myxococcus 
+xanthus.
+
+Pérez-Burgos M(1), García-Romero I(2), Jung J(1), Schander E(1), Valvano MA(2), 
+Søgaard-Andersen L(3).
+
+Author information:
+(1)Max Planck Institute for Terrestrial Microbiology, Department of 
+Ecophysiology, Marburg, Germany.
+(2)Wellcome-Wolfson Institute for Experimental Medicine, Queen's University 
+Belfast, Belfast, United Kingdom.
+(3)Max Planck Institute for Terrestrial Microbiology, Department of 
+Ecophysiology, Marburg, Germany sogaard@mpi-marburg.mpg.de.
+
+Myxococcus xanthus arranges into two morphologically distinct biofilms depending 
+on its nutritional status, i.e., coordinately spreading colonies in the presence 
+of nutrients and spore-filled fruiting bodies in the absence of nutrients. A 
+secreted polysaccharide, referred to as exopolysaccharide (EPS), is a structural 
+component of both biofilms and is also important for type IV pilus-dependent 
+motility and fruiting body formation. Here, we characterize the biosynthetic 
+machinery responsible for EPS biosynthesis using bioinformatics, genetics, 
+heterologous expression, and biochemical experiments. We show that this 
+machinery constitutes a Wzx/Wzy-dependent pathway dedicated to EPS biosynthesis. 
+Our data support that EpsZ (MXAN_7415) is the polyisoprenyl-phosphate 
+hexose-1-phosphate transferase responsible for the initiation of the repeat unit 
+synthesis. Heterologous expression experiments support that EpsZ has 
+galactose-1-P transferase activity. Moreover, MXAN_7416, renamed WzxEPS, and 
+MXAN_7442, renamed WzyEPS, are the Wzx flippase and Wzy polymerase responsible 
+for translocation and polymerization of the EPS repeat unit, respectively. In 
+this pathway, EpsV (MXAN_7421) also is the polysaccharide copolymerase and EpsY 
+(MXAN_7417) the outer membrane polysaccharide export (OPX) protein. Mutants with 
+single in-frame deletions in the five corresponding genes had defects in type IV 
+pilus-dependent motility and a conditional defect in fruiting body formation. 
+Furthermore, all five mutants were deficient in type IV pilus formation, and 
+genetic analyses suggest that EPS and/or the EPS biosynthetic machinery 
+stimulates type IV pilus extension. Additionally, we identify a polysaccharide 
+biosynthesis gene cluster, which together with an orphan gene encoding an OPX 
+protein make up a complete Wzx/Wzy-dependent pathway for synthesis of an unknown 
+polysaccharide.IMPORTANCE The secreted polysaccharide referred to as 
+exopolysaccharide (EPS) has important functions in the social life cycle of M. 
+xanthus; however, little is known about how EPS is synthesized. Here, we 
+characterized the EPS biosynthetic machinery and showed that it makes up a 
+Wzx/Wzy-dependent pathway for polysaccharide biosynthesis. Mutants lacking a 
+component of this pathway had reduced type IV pilus-dependent motility and a 
+conditional defect in development. These analyses also suggest that EPS and/or 
+the EPS biosynthetic machinery is important for type IV pilus formation.
+
+Copyright © 2020 Pérez-Burgos et al.
+
+DOI: 10.1128/JB.00335-20
+PMCID: PMC7484181
+PMID: 32778557 [Indexed for MEDLINE]
+
+
+384. Osteoporos Int. 2020 Dec;31(12):2321-2335. doi: 10.1007/s00198-020-05588-6.
+Epub  2020 Aug 11.
+
+Vertebral fracture assessment (VFA) for osteoporosis screening in US 
+postmenopausal women: is it cost-effective?
+
+Yang J(1), Cosman F(2), Stone PW(3), Li M(4), Nieves JW(5)(6)(7).
+
+Author information:
+(1)Institute for Social and Economic Research and Policy (ISERP), Columbia 
+University, New York, NY, 10027, USA.
+(2)Department of Medicine, Columbia University, New York, NY, 10032, USA.
+(3)School of Nursing, Columbia University, New York, NY, USA.
+(4)Leonard D. Schaeffer Center for Health Policy & Economics, University of 
+Southern California, Los Angeles, CA, USA.
+(5)Department of Epidemiology, Mailman School of Public Health, Columbia 
+University, New York, NY, 10032, USA. jwn5@cumc.columbia.edu.
+(6)Hospital for Special Surgery, New York, NY, 10021, USA. 
+jwn5@cumc.columbia.edu.
+(7)Department of Epidemiology and Institute of Human Nutrition, Columbia 
+University, 630 West 168th Street, IHN PH 1512, New York, NY, 10032, USA. 
+jwn5@cumc.columbia.edu.
+
+Vertebral fracture assessment (VFA) is cost-effective when it was incorporated 
+in the routine screening for osteoporosis in community-dwelling women aged 
+≥ 65 years, which support guidelines, such as the National Osteoporosis 
+Foundation (NOF) for the diagnostic use of VFA as an important addition to 
+fracture risk assessment.
+INTRODUCTION: To evaluate the cost-effectiveness of VFA as a screening tool to 
+reduce future fracture risk in US community-dwelling women aged ≥ 65 years.
+METHODS: An individual-level state-transition cost-effectiveness model from a 
+healthcare perspective was constructed using derived data from published 
+literature. The time horizon was lifetime. Five screening strategies were 
+compared, including no screening at all, central dual-energy X-ray 
+absorptiometry (DXA) only, VFA only, central DXA followed by VFA if the femoral 
+neck T-score (FN-T) ≤ - 1.5, or if the FN-T ≤ - 1.0. Various initiation ages and 
+rescreening intervals were evaluated. Oral bisphosphonate treatment for 5-year 
+periods was assumed. Incremental cost-effectiveness ratios (2017 US dollars per 
+quality-adjusted life-year (QALY) gained) were used as the outcome measure.
+RESULTS: The incorporation of VFA slightly increased life expectancy by 
+0.1 years and reduced the number of subsequent osteoporotic fractures by 3.7% 
+and 7.7% compared with using DXA alone and no screening, respectively, leading 
+to approximately 30 billion dollars saved. Regardless of initiation ages and 
+rescreening intervals, central DXA followed by VFA if the FN-T ≤ - 1.0 was most 
+cost-effective ($40,792 per QALY when the screening is initiated at age 65 years 
+and with rescreening every 5 years). Results were robust to change in VF 
+incidence and medication costs.
+CONCLUSION: In women aged ≥ 65 years, VFA is cost-effective when it was 
+incorporated in routine screening for osteoporosis. Our findings support the 
+National Osteoporosis Foundation (NOF) guidelines for the diagnostic use of VFA 
+as an important addition to fracture risk assessment.
+
+DOI: 10.1007/s00198-020-05588-6
+PMID: 32778935 [Indexed for MEDLINE]
+
+
+385. J Atheroscler Thromb. 2021 May 1;28(5):467-468. doi: 10.5551/jat.ED138. Epub
+ 2020 Aug 9.
+
+Two-year Mortality in CLTI Patients Provide Crucial Factors We Should Fight.
+
+Soga Y(1).
+
+Author information:
+(1)Department of Cardiology, Kokura Memorial Hospital.
+
+DOI: 10.5551/jat.ED138
+PMCID: PMC8193775
+PMID: 32779623 [Indexed for MEDLINE]
+
+
+386. J Med Econ. 2020 Nov;23(11):1321-1329. doi: 10.1080/13696998.2020.1808981.
+Epub  2020 Aug 25.
+
+Cost utility analysis of tisagenlecleucel vs salvage chemotherapy in the 
+treatment of relapsed/refractory diffuse large B-cell lymphoma from Singapore's 
+healthcare system perspective.
+
+Cher BP(1), Gan KY(1), Aziz MIA(1), Lin L(1), Hwang WYK(2)(3)(4), Poon LM(5), Ng 
+K(1).
+
+Author information:
+(1)Agency for Care Effectiveness, Ministry of Health, Singapore, Singapore.
+(2)National Cancer Centre Singapore, Singapore, Singapore.
+(3)Department of Haematology, Singapore General Hospital, Singapore, Singapore.
+(4)Duke-NUS Medical School, Singapore, Singapore.
+(5)Department of Haematology-Oncology, National University Hospital Singapore, 
+Singapore, Singapore.
+
+BACKGROUND: Patients with relapsed or refractory diffuse large B-cell lymphoma 
+(r/r DLBCL) have limited treatment options and poor prognoses. Tisagenlecleucel, 
+a chimeric antigen receptor (CAR) T-cell therapy has shown early promise in 
+improving survival outcomes, but at a high upfront cost. This study evaluated 
+the cost-effectiveness of tisagenlecleucel versus salvage chemotherapy for 
+treating patients with r/r DLBCL who have failed at least 2 lines of systemic 
+therapies.
+METHODS: A hybrid decision tree and three-state partitioned survival model 
+(progression-free (PF), progressive disease and death) was developed from the 
+Singapore healthcare payer perspective. Survival curves from JULIET trial and 
+CORAL-1 extension study were extrapolated beyond trial period over a 15-year 
+time horizon to estimate the underlying progression-free survival and overall 
+survival parametric distributions for both arms. Health state utilities were 
+retrieved from the literature, and direct costs were sourced from public 
+healthcare institutions in Singapore. One-way probabilistic sensitivity analyses 
+and scenario analyses were conducted to explore the impact of uncertainties and 
+assumptions on cost-effectiveness results.
+RESULTS: Compared with salvage chemotherapy, tisagenlecleucel was associated 
+with a base-case incremental cost-effectiveness ratio (ICER) US$508,530 
+(S$686,516) per quality adjusted life year (QALY) gained and US$320,200 
+(S$432,269) per life year (LY) gained. One-way sensitivity analysis showed the 
+ICER was most sensitive to time horizon, PF utility and cost of 
+tisagenlecleucel. Scenario analyses confirmed that the ICERs remained high under 
+favorable assumptions and substantial price reduction was required to reduce the 
+ICER.
+CONCLUSIONS: Our analysis showed tisagenlecleucel use in r/r DLBCL patients who 
+failed at least 2 prior lines of systemic therapies was associated with 
+exceedingly high ICER, which is unlikely to represent good use of healthcare 
+resources. Comparative clinical evidence from the ongoing trials might provide 
+more insight into future evaluations.
+
+DOI: 10.1080/13696998.2020.1808981
+PMID: 32780608 [Indexed for MEDLINE]
+
+
+387. J Hum Evol. 2020 Sep;146:102852. doi: 10.1016/j.jhevol.2020.102852. Epub
+2020  Aug 8.
+
+Mitogenomics of macaques (Macaca) across Wallace's Line in the context of modern 
+human dispersals.
+
+Evans BJ(1), Gansauge MT(2), Tocheri MW(3), Schillaci MA(4), Sutikna T(5), 
+Jatmiko(6), Saptomo EW(6), Klegarth A(7), Tosi AJ(8), Melnick DJ(9), Meyer M(2).
+
+Author information:
+(1)Department of Biology, McMaster University, Life Sciences Building Room 328, 
+1280 Main Street West, Hamilton, ON, L8S 4K1, Canada. Electronic address: 
+evansb@mcmaster.ca.
+(2)Max Planck Institute for Evolutionary Anthropology, Deutscher Platz 6, 
+D-04103, Leipzig, Germany.
+(3)Department of Anthropology, Lakehead University, 955 Oliver Road, Thunder 
+Bay, ON, P7B 5E1, Canada; Human Origins Program, National Museum of Natural 
+History, Smithsonian Institution, Washington, DC, 20013, USA; Australian 
+Research Council Centre of Excellence for Australian Biodiversity and Heritage, 
+University of Wollongong, Wollongong, New South Wales, 2522, Australia.
+(4)Department of Anthropology, University of Toronto Scarborough, 1265 Military 
+Trail, Toronto, ON, M1C 1A4, Canada.
+(5)Australian Research Council Centre of Excellence for Australian Biodiversity 
+and Heritage, University of Wollongong, Wollongong, New South Wales, 2522, 
+Australia; Centre for Archaeological Science, School of Earth and Environmental 
+Sciences, University of Wollongong, Wollongong, New South Wales, 2522, 
+Australia; Pusat Penelitian Arkeologi Nasional, Jalan Raya Condet Pejatan No. 4, 
+Jakarta, 12510, Indonesia.
+(6)Australian Research Council Centre of Excellence for Australian Biodiversity 
+and Heritage, University of Wollongong, Wollongong, New South Wales, 2522, 
+Australia; Pusat Penelitian Arkeologi Nasional, Jalan Raya Condet Pejatan No. 4, 
+Jakarta, 12510, Indonesia.
+(7)Department of Anthropology, University of Washington, 14 Denny Hall, Box 
+353100, Seattle, WA, 98195-3100, USA.
+(8)Department of Anthropology, Kent State University, 750 Hilltop Drive, 226 
+Lowry Hall, Kent, OH, USA.
+(9)Department of Ecology, Evolution, and Environmental Biology, Columbia 
+University, 10th Floor Schermerhorn Extension, 116th Street and Broadway, New 
+York, NY, USA.
+
+Wallace's Line demarcates a biogeographical boundary between the Indomalaya and 
+Australasian ecoregions. Most placental mammalian genera, for example, occur to 
+the west of this line, whereas most marsupial genera occur to the east. However, 
+macaque monkeys are unusual because they naturally occur on both western and 
+eastern sides. To further explore this anomalous distribution, we analyzed 222 
+mitochondrial genomes from ∼20 macaque species, including new genomes from 60 
+specimens. These comprise a population sampling of most Sulawesi macaques, 
+Macaca fascicularis (long-tailed macaques) specimens that were collected by 
+Alfred R. Wallace and specimens that were recovered during archaeological 
+excavations at Liang Bua, a cave on the Indonesian island of Flores. In 
+M. fascicularis, three mitochondrial lineages span the southernmost portion of 
+Wallace's Line between Bali and Lombok, and divergences within these lineages 
+are contemporaneous with, and possibly mediated by, past dispersals of modern 
+human populations. Near the central portion of Wallace's Line between Borneo and 
+Sulawesi, a more ancient dispersal of macaques from mainland Asia to Sulawesi 
+preceded modern human colonization, which was followed by rapid dispersal of 
+matrilines and was subsequently influenced by recent interspecies hybridization. 
+In contrast to previous studies, we find no strong signal of recombination in 
+most macaque mitochondrial genomes. These findings further characterize macaque 
+evolution before and after modern human dispersal throughout Southeast Asia and 
+point to possible effects on biodiversity of ancient human cultural diasporas.
+
+Copyright © 2020 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.jhevol.2020.102852
+PMID: 32781349 [Indexed for MEDLINE]
+
+
+388. BMC Neurol. 2020 Aug 11;20(1):295. doi: 10.1186/s12883-020-01852-8.
+
+Cost-effectiveness of the PDSAFE personalised physiotherapy intervention for 
+fall prevention in Parkinson's: an economic evaluation alongside a randomised 
+controlled trial.
+
+Xin Y(1), Ashburn A(2), Pickering RM(3), Seymour KC(2), Hulbert S(2), Fitton 
+C(2), Kunkel D(2), Marian I(3), Roberts HC(3), Lamb SE(4), Goodwin VA(5), 
+Rochester L(6), McIntosh E(7); PDSAFE Collaborative group.
+
+Collaborators: Ashburn A, Seymour K, Roberts HC, Pickering RM, Lamb S, Ballinger 
+C, Goodwin VA, Rochester L, Nieuwboer A, McIntosh E, Kunkel D, Hulbert S, Fitton 
+C, Marian I, Xin Y, Rowsell A, Summer R.
+
+Author information:
+(1)Health Economics and Health Technology Assessment (HEHTA), Institute of 
+Health & Wellbeing, University of Glasgow, 1 Lilybank gardens, Glasgow, G12 8RZ, 
+UK.
+(2)School of Health Science, University of Southampton, Southampton, UK.
+(3)Faculty of Medicine, University of Southampton, Southampton, UK.
+(4)Centre for Statistics in Medicine, Oxford Clinical Trials Research Unit 
+(OCTRU), University of Oxford, Oxford, UK.
+(5)College of Medicine and Health, University of Exeter, Exeter, UK.
+(6)Clinical Ageing Research Unit, Institute of Neuroscience, Newcastle 
+University, Newcastle Upon Tyne, UK.
+(7)Health Economics and Health Technology Assessment (HEHTA), Institute of 
+Health & Wellbeing, University of Glasgow, 1 Lilybank gardens, Glasgow, G12 8RZ, 
+UK. Emma.McIntosh@glasgow.ac.uk.
+
+BACKGROUND: PDSAFE is an individually-tailored, physiotherapist-delivered, 
+balance, strength and strategy training programme aimed at preventing falls 
+among people with Parkinson's. We evaluated the cost-effectiveness of PDSAFE 
+compared with usual care for people with Parkinson's at higher risk of falling, 
+from a UK National Health Service and Personal Social Service perspective.
+METHODS: Resource use and quality of life data (EQ-5D-3L) were collected from 
+238 participants randomised to the PDSAFE intervention and 236 participants 
+randomised to control, at baseline, 3 months, 6 months (primary outcome), and 
+12 months. Adjusted cost and quality-adjusted life-years (QALYs) were estimated 
+using generalised linear models and uncertainty estimated using a non-parametric 
+bootstrap.
+RESULTS: Over 6 months, the PDSAFE intervention was associated with an 
+incremental cost of £925 (95% CI £428 to £1422) and a very small and 
+statistically insignificant QALY gain of 0.008 (95% CI - 0.006 to 0.021). The 
+resulting incremental cost-effectiveness ratio (ICER) was £120,659 per QALY and 
+the probability of the intervention being cost-effective at a UK threshold of 
+£30,000/QALY was less than 1%. The ICER varied substantially across subgroups 
+although no subgroup had an ICER lower than the £30,000 threshold. The result 
+was sensitive to the time horizon with the ICER reducing to £55,176 per QALY 
+when adopting a 12-month time horizon and assuming a sustained treatment effect 
+on QoL, nevertheless, the intervention was still not cost-effective according to 
+the current UK threshold.
+CONCLUSIONS: Evidence from this trial suggests that the PDSAFE intervention is 
+unlikely to be cost-effective at 6 months. The 12-month analysis suggested that 
+the intervention became closer to being cost-effective if quality of life 
+effects were sustained beyond the intervention period, however this would 
+require confirmation. Further research, including qualitative studies, should be 
+conducted to better understand the treatment effect of physiotherapy and its 
+impact on quality of life in people with Parkinson's given existing mixed 
+evidence on this topic.
+TRIAL REGISTRATION: ISRCTN48152791. Registered 17 April 2014. 
+http://www.isrctn.com/ISRCTN48152791.
+
+DOI: 10.1186/s12883-020-01852-8
+PMCID: PMC7418432
+PMID: 32781987 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr. Goodwin reports grants from National 
+Institute for Health Research, during the conduct of the study. Prof. Lamb 
+reports grants from NIHR Health technology Assessment Programme during the 
+conduct of this study. Prof. Lamb was a member of the HTA Additional Capacity 
+Funding Board, HTA End of Life Care and Add-on Studies, HTA Prioritisation 
+Group, HTA Trauma Board during this study. Prof. McIntosh is a member of the 
+NIHR Public Health Research Funding board. All other authors have nothing to 
+disclose.
+
+
+389. Cent European J Urol. 2020;73(2):213-219. doi: 10.5173/ceju.2020.0008. Epub
+2020  Jun 19.
+
+Long-term results of the treatment of complex ureteral stenosis with 
+extra-anatomic ureteral bypasses.
+
+Laso-García IM(1), Lorca-Álvaro J(1), Arias-Fúnez F(1), Díaz-Pérez D(1), 
+Santiago-González M(1), Duque-Ruiz G(1), Burgos-Revilla FJ(1).
+
+Author information:
+(1)Ramón y Cajal University Hospital, Department of Urology, Alcalá University, 
+IRYCIS, Madrid, Spain.
+
+INTRODUCTION: Complex ureteral obstruction is a pathology that has always been a 
+challenge for the urologist, especially in patients with high surgical risk or 
+with a short life expectancy.
+MATERIAL AND METHODS: Between 2002 and 2017, 13 extra-anatomical bypasses were 
+placed. A descriptive retrospective study was carried out. An analysis of the 
+permeability time of the prosthesis was performed using Kaplan-Meyer curves. 
+Demographic and etiological characteristics as well as early and late 
+complications were analysed.
+RESULTS: Etiologies were benign in 39% (including 3 transplant recipients) and 
+malignant in 69%. Permeability rates were 90.9% at each of 12, 24 and 48 months, 
+respectively, and 75.8% at 60 months. There were no deaths in the early 
+postoperative period, nor intraoperative complications. The most frequent 
+complications were infections. Three of them were associated with bypass 
+extrusion, which needed to be removed. A total of 5 prosthesis had to be 
+removed. 40% of the patients did not present complications.
+CONCLUSIONS: The extra-anatomical ureteral bypass is an alternative to permanent 
+nephrostomy in the treatment of complex ureteral strictures. Their patency rates 
+after long-term follow-up vary from 90% to 75% at 48 and 60 months, 
+respectively. Their complication rates can be considered acceptable in the 
+patients' clinical contexts.
+
+Copyright by Polish Urological Association.
+
+DOI: 10.5173/ceju.2020.0008
+PMCID: PMC7407785
+PMID: 32782842
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest. No funding was received for the development of the study.
+
+
+390. J Am Geriatr Soc. 2020 Nov;68(11):2638-2642. doi: 10.1111/jgs.16754. Epub
+2020  Aug 11.
+
+Anxious, Depressed, and Planning for the Future: Advance Care Planning in 
+Diverse Older Adults.
+
+McMahan RD(1), Barnes DE(2)(3)(4), Ritchie CS(5), Jin C(4), Shi Y(2)(4), David 
+D(6), Walker EJ(7), Tang VL(2)(3), Sudore RL(2)(3).
+
+Author information:
+(1)School of Medicine, University of California, San Francisco, San Francisco, 
+California, USA.
+(2)San Francisco Veterans Affairs Health Care System, San Francisco, California, 
+USA.
+(3)Department of Psychiatry, University of California, San Francisco, San 
+Francisco, California, USA.
+(4)Department of Epidemiology and Biostatistics, University of California, San 
+Francisco, San Francisco, California, USA.
+(5)Division of Palliative Care and Geriatric Medicine, Department of Medicine, 
+Massachusetts General Hospital, Boston, Massachusetts, USA.
+(6)Department of Medicine, University of California, San Francisco, San 
+Francisco, California, USA.
+(7)Rory Meyers College of Nursing, New York University, New York, New York, USA.
+
+OBJECTIVES: To determine whether depression and anxiety are associated with 
+advance care planning (ACP) engagement or values concerning future medical care.
+DESIGN: Cross-sectional.
+PARTICIPANTS: English- and Spanish-speaking patients, aged 55 years and older, 
+from a San Francisco, CA, county hospital.
+MEASURES: Depression was measured by the Patient Health Questionnaire 8-item 
+scale, and anxiety was measured by the Generalized Anxiety Disorder 7-item 
+scale, using standardized cutoffs of 10 or more for moderate-to-severe symptoms. 
+ACP engagement was measured using validated surveys of ACP behavior change 
+(e.g., self-efficacy and readiness; mean five-point Likert score) and ACP 
+actions (e.g., ask, discuss, and document wishes; 0- to 25-point scale), with 
+higher scores representing higher engagement. In addition, we asked a question 
+about valuing life extension ("some health situations would make life not worth 
+living"). We used adjusted linear and logistic regression.
+RESULTS: Mean age of 986 participants was 63 years, 81% were non-White, 39% had 
+limited health literacy, 45% were Spanish speaking, 13% had depression, and 10% 
+had anxiety. After adjustment for demographic and health status variables, 
+participants who were depressed versus not depressed had higher ACP behavior 
+change scores (0.2 points; 95% confidence interval (CI) = 0.06-0.38; P = .007), 
+higher ACP action scores (1.5 points; 95% CI = 0.51-2.57; P = .003), and higher 
+odds of not valuing life extension (odds ratio (OR) = 2.5; 95% CI = 1.5-4.3; 
+P < .001). Results were similar in participants with versus without anxiety (ACP 
+behavior change: 0.2 points; 95% CI = 0.05-0.40; P = .01; ACP action scores: 1.2 
+points; 95% CI = 0.14-2.32; P = .028; odds of not valuing life extension: OR = 
+2.3; 95% CI = 1.3-3.9; P = .004).
+CONCLUSION: Depression and anxiety were associated with greater ACP engagement 
+and not valuing life extension. Although the direction of association between 
+ACP engagement and values with anxiety and depression cannot be determined in 
+this cross-sectional study, these conditions may influence ACP preferences. 
+Future studies should assess whether changes in anxiety or depression affect ACP 
+preferences over time.
+
+© 2020 The American Geriatrics Society.
+
+DOI: 10.1111/jgs.16754
+PMCID: PMC7719568
+PMID: 32783199 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: All authors report no 
+personal or financial conflicts of interest.
+
+
+391. Health Soc Care Community. 2021 Jul;29(4):967-981. doi: 10.1111/hsc.13131.
+Epub  2020 Aug 11.
+
+Exploring the cost-effectiveness of advance care planning (by taking a family 
+carer perspective): Findings of an economic modelling study.
+
+Bauer A(1), Dixon J(1), Knapp M(1), Wittenberg R(1).
+
+Author information:
+(1)Care Policy and Evaluation Centre (CPEC), London School of Economics and 
+Political Science, London, UK.
+
+Advance care planning is considered an important part of high-quality 
+end-of-life care. Its cost-effectiveness is currently unknown. In this study, we 
+explore the cost-effectiveness of a strategy, in which advance care planning is 
+offered systematically to older people at the end-of-life compared with standard 
+care. We conducted decision-analytic modelling. The perspective was health and 
+social care and the time horizon was 1 year. Outcomes included were 
+quality-adjusted life years as they referred to the surviving carers. Data 
+sources included published studies, national statistics and expert views. 
+Average total cost in the advance care planning versus standard care group was 
+£3,739 versus £3,069. The quality-adjusted life year gain to carers was 0.03 for 
+the intervention in comparison with the standard care group. Based on carer's 
+health-related quality-of-life, the average cost per quality-adjusted life year 
+was £18,965. The probability that the intervention was cost-effective was 55% 
+(70%) at a cost per quality-adjusted life year threshold of £20,000 (£30,000). 
+Conducting cost-effectiveness analysis for advance care planning is challenging 
+due to uncertainties in practice and research, such as a lack of agreement on 
+how advance care planning should be provided and by whom (which influences its 
+costs), and about relevant beneficiary groups (which influences its outcomes). 
+However, even when assuming relatively high costs for the delivery of advance 
+care planning and only one beneficiary group, namely, family carers, our 
+analysis showed that advance care planning was probably cost-effective.
+
+© 2020 The Authors. Health and Social Care in the Community published by John 
+Wiley & Sons Ltd.
+
+DOI: 10.1111/hsc.13131
+PMID: 32783319 [Indexed for MEDLINE]
+
+
+392. Br J Radiol. 2020 Oct 1;93(1114):20200028. doi: 10.1259/bjr.20200028. Epub
+2020  Aug 12.
+
+Toxicity reduction required for MRI-guided radiotherapy to be cost-effective in 
+the treatment of localized prostate cancer.
+
+Schumacher LD(1), Dal Pra A(1), Hoffe SE(2), Mellon EA(3).
+
+Author information:
+(1)Radiation Oncology, Sylvester Comprehensive Cancer Center, Miller School of 
+Medicine, University of Miami, Miami, FL, United States.
+(2)Radiation Oncology, H. Lee Moffitt Cancer Center and Research Institute, 
+Tampa, FL, United States.
+(3)Radiation Oncology and Bioengineering, Sylvester Comprehensive Cancer Center, 
+Miller School of Medicine, University of Miami, Miami, FL, United States.
+
+OBJECTIVE: To determine the toxicity reduction required to justify the added 
+costs of MRI-guided radiotherapy (MR-IGRT) over CT-based image guided 
+radiotherapy (CT-IGRT) for the treatment of localized prostate cancer.
+METHODS: The costs of delivering prostate cancer radiotherapy with MR-IGRT and 
+CT-IGRT in conventional 39 fractions and stereotactic body radiotherapy (SBRT) 5 
+fractions schedules were determined using literature values and cost accounting 
+from two institutions. Gastrointestinal and genitourinary toxicity rates 
+associated with CT-IGRT were summarized from 20 studies. Toxicity-related costs 
+and utilities were obtained from literature values and cost databases. Markov 
+modeling was used to determine the savings per patient for every 1% relative 
+reduction in acute and chronic toxicities by MR-IGRT over 15 years. The costs 
+and quality adjusted life years (QALYs) saved with toxicity reduction were 
+juxtaposed with the cost increase of MR-IGRT to determine toxicity reduction 
+thresholds for cost-effectiveness. One way sensitivity analyses were performed. 
+Standard $100,000 and $50,000 per QALY ratios were used.
+RESULTS: The added cost of MR-IGRT was $1,459 per course of SBRT and $10,129 per 
+course of conventionally fractionated radiotherapy. Relative toxicity reductions 
+of 7 and 14% are required for SBRT to be cost-effective using $100,000 and 
+$50,000 per QALY, respectively. Conventional radiotherapy requires relative 
+toxicity reductions of 50 and 94% to be cost-effective.
+CONCLUSION: From a healthcare perspective, MR-IGRT can reasonably be expected to 
+be cost-effective. Hypofractionated schedules, such a five fraction SBRT, are 
+most likely to be cost-effective as they require only slight reductions in 
+toxicity (7-14%).
+ADVANCES IN KNOWLEDGE: This is the first detailed economic assessment of 
+MR-IGRT, and it suggests that MR-IGRT can be cost-effective for prostate cancer 
+treatment through toxicity reduction alone.
+
+DOI: 10.1259/bjr.20200028
+PMCID: PMC7548359
+PMID: 32783629 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest : Dr. Mellon received 
+travel funding from ViewRay in 2018. Authors are otherwise without conflicts of 
+interest, including relevant financial interests, activities, relationships, and 
+affiliations.
+
+
+393. Sci Total Environ. 2020 Oct 1;737:140296. doi:
+10.1016/j.scitotenv.2020.140296.  Epub 2020 Jun 20.
+
+Predicting risk and loss of disability-adjusted life years (DALY) from selected 
+disinfection byproducts in multiple water supply sources in Saudi Arabia.
+
+Chowdhury S(1), Chowdhury IR(2), Mazumder MAJ(3), Al-Suwaiyan MS(2).
+
+Author information:
+(1)Department of Civil and Environmental Engineering, King Fahd University of 
+Petroleum & Minerals, Dhahran 31261, Saudi Arabia. Electronic address: 
+Schowdhury@kfupm.edu.sa.
+(2)Department of Civil and Environmental Engineering, King Fahd University of 
+Petroleum & Minerals, Dhahran 31261, Saudi Arabia.
+(3)Department of Chemistry, King Fahd University of Petroleum & Minerals, 
+Dhahran 31261, Saudi Arabia.
+
+Disinfection byproducts (DBPs) in drinking water is an issue in many countries. 
+Many DBPs are possible or probable human carcinogens while few DBPs pose cyto- 
+and genotoxic effects to the mammalian cells. The populations are likely to 
+consume DBPs with drinking water throughout their lifetimes. A number of DBPs 
+are regulated in many countries to protect humans. In this study, human 
+exposure, risk and disability-adjusted life years (DALY) were predicted from 
+DBPs in multiple water supply systems, including groundwater (GW), desalinated 
+water (DW) and blend water (BW). The averages of lifetime excess cancer risks 
+from GW, DW and BW were 4.15 × 10-6, 1.75 × 10-5 and 2.59 × 10-5 respectively. 
+The populations in age groups of 0 - <2, 2-16 and >16 years contributed 
+25.4-25.7%, 28.6-29.6% and 45.0-45.7% to the total risks respectively. The DALY 
+from GW, DW and BW were estimated to be 5.8, 27.0 and 39.9 years, respectively 
+while the corresponding financial burdens were US$ 0.63, 2.93 and 4.34 million 
+respectively. The findings are likely to assist in selecting the supply water 
+sources to better control human exposure and risk from DBPs.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2020.140296
+PMID: 32783866 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known Conflict of Interests or personal relationships 
+that could have appeared to influence the work reported in this paper.
+
+
+394. BMJ Open. 2020 Aug 11;10(8):e035879. doi: 10.1136/bmjopen-2019-035879.
+
+Mapping evidence of food safety at transport stations in Africa: a scoping 
+review protocol.
+
+Ncama BP(1), Kuupiel D(2)(3), Duma SE(1), Mchunu G(1), Guga P(1), Slotow R(4).
+
+Author information:
+(1)School of Nursing and Public Health, College of Health Sciences, University 
+of KwaZulu-Natal, Durban, South Africa.
+(2)School of Nursing and Public Health, College of Health Sciences, University 
+of KwaZulu-Natal, Durban, South Africa desmondkuupiel98@hotmail.com.
+(3)Research for Sustainable Development Consult, Sunyani, Ghana.
+(4)School of Life Sciences, College of Agriculture, Engineering and Science, 
+University of Kwazulu-Natal, Pietermaritzburg, South Africa.
+
+INTRODUCTION: In Africa, travels, urbanisation and changing consumer habits are 
+increasing the number of people buying and eating food prepared/sold at public 
+spaces including transport stations, particularly in the urban and periurban 
+areas. Although food trading in such public spaces serves as a source of 
+livelihood for many people, unsafe food can have a negative impact on health. 
+We, therefore, aim to systematically explore and examine the literature, and 
+describe the evidence on food safety (food handling, storage, preparation and 
+sale, packaging of food when sold, hygiene of sale venue and quality (nutrition) 
+of food sold/purchased/eaten) at transport stations to inform policy, as well as 
+identify research gaps for future studies in Africa.
+METHODS AND ANALYSIS: We will employ the Arksey & O'Malley framework, Levac et 
+al recommendations and the Joanna Briggs Institute guidelines to guide this 
+study. We will conduct a comprehensive search in PubMed, SCOPUS, Web of Science, 
+Google Scholar and EBSCOhost (Academic search complete, CINAHL with Full-text 
+and Health Source) from inception to December 2019 for relevant peer-review 
+articles using a combination of keywords/search terms with no limitations. We 
+will also search for relevant literature from the reference list of all included 
+articles. Two investigators will independently screen the articles in parallel 
+at the abstract and full-text phases using the eligibility criteria as a guide. 
+Data extraction will be done using a piloted data extraction form designed in a 
+Microsoft Word tabular format. Afterward, the extracted data will be collated 
+into themes and subthemes, summarised, and the results reported using a 
+narrative approach. We will the Preferred Reporting Items for Systematic Reviews 
+and Meta-analyses: Extension for scoping reviews checklist to report this study 
+results.
+ETHICS AND DISSEMINATION: Ethics approval is not required. All sources of data 
+will be adequately cited and added to the reference list. We will present the 
+final scoping review results at the appropriate workshops, meetings, 
+conferences, as well as submit for peer-review and publication in a scientific 
+journal.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY. Published 
+by BMJ.
+
+DOI: 10.1136/bmjopen-2019-035879
+PMCID: PMC7418661
+PMID: 32784254 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+395. BMJ Open. 2020 Aug 11;10(8):e036647. doi: 10.1136/bmjopen-2019-036647.
+
+Long-term economic outcomes for interventions in early childhood: protocol for a 
+systematic review.
+
+Geelhoed E(1), Mandzufas J(2), George P(2), Strahan K(2), Duffield A(2), Li 
+I(3), Cross D(2)(3).
+
+Author information:
+(1)Collaboration for Kids (CoLab), Telethon Kids Institute, Nedlands, Western 
+Australia, Australia liz.geelhoed@telethonkids.org.au.
+(2)Collaboration for Kids (CoLab), Telethon Kids Institute, Nedlands, Western 
+Australia, Australia.
+(3)School of Population and Global Health, University of Western Australia, 
+Crawley, Western Australia, Australia.
+
+INTRODUCTION: Investment in early childhood produces positive returns: for the 
+child, the family and the community. Benefits have been shown to be significant 
+within certain parameters, but a systematic review of the economic evidence 
+across multiple sectors including health, education and social welfare will have 
+the capacity to inform policy relative to the full range of social determinants. 
+This review will take a broad approach, encompassing a range of costs and 
+benefits to enable the identification of the most beneficial investments in 
+early childhood and to highlight gaps in current research.
+METHODS AND ANALYSIS: Economic evaluations incorporating both costs and 
+long-term outcomes of early childhood interventions and programmes will be 
+included. Outcomes may be valued in monetary units or quantified non-monetary 
+units (eg, quality-adjusted life years (QALY), disability-adjusted life years 
+(DALY)). Results will be expressed as a ratio according to the outcome; with 
+monetary outcomes expressed as cost-benefit ratios or return on investment, and 
+non-monetary outcomes expressed as cost per QALY or DALY. The target population 
+is children aged 0-5 years.Extensive database searches across sectors will be 
+undertaken. The review will involve five phases: defining the research question, 
+identifying relevant studies, selecting studies, extracting and collating data, 
+and summarising and reporting results. The search commenced in 2019 and the 
+expected end date is December 2020.
+ETHICS AND DISSEMINATION: The findings of this review will inform policymakers 
+and practitioners in public health, education, social welfare and primary care 
+settings. The publication plan includes a series of academic publications, and 
+policy papers prepared and disseminated through Telethon Kids Institute 
+networks. Exemption from ethics approval was granted by the University of 
+Western Australia Human Ethics Office (RA/4/20/5677).
+PROSPERO REGISTRATION NUMBER: CRD42020145901.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2019-036647
+PMCID: PMC7418662
+PMID: 32784256 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+396. Foods. 2020 Aug 8;9(8):1080. doi: 10.3390/foods9081080.
+
+In Vitro Antibacterial Activity of Hibiscus sabdariffa L. Phenolic Extract and 
+Its In Situ Application on Shelf-Life of Beef Meat.
+
+Márquez-Rodríguez AS(1), Nevárez-Baca S(1), Lerma-Hernández JC(1), 
+Hernández-Ochoa LR(1), Nevárez-Moorillon GV(1), Gutiérrez-Méndez N(1), 
+Muñoz-Castellanos LN(1), Salas E(1).
+
+Author information:
+(1)Facultad de Ciencias Químicas, Universidad Autónoma de Chihuahua, Chihuahua 
+31125, Mexico.
+
+Compounds from spices and herbs extracts are being explored as natural 
+antibacterial additives. A plant extract used in traditional folk medicine is 
+Hibiscus sabdariffa L., also known as Roselle. Therefore, the potential use of a 
+phenolic hibiscus extract as antibacterial or natural food preservative was 
+analyzed in vitro and in situ. A phenolic extract was obtained from hibiscus 
+calyces and fractionated, and then the fractions were tested against foodborne 
+pathogen bacteria. Liquid-liquid extraction and solid-phase extraction were used 
+to fractionate the hibiscus extract, and HPLC was employed to analyze the 
+fractions' phenolic composition. Minimum bactericidal concentration (MBC) and 
+minimal inhibitory concentration (MIC) were calculated for brute hibiscus 
+phenolic extract, each of the fractions and pure commercial phenolic compounds. 
+Bacteria tested were Escherichia coli, Salmonella enterica serovar Typhimurium, 
+Staphylococcus aureus, Listeria monocytogenes and Bacillus cereus. The fraction 
+obtained after liquid-liquid extraction presented the best performance of MBC 
+and MIC against the bacteria tested. Furthermore, a hibiscus ethanolic extract 
+was employed as a natural preservative to extend the shelf-life of beef. 
+Microbiological, color and sensory analyses were performed to the meat during 
+the shelf-life test. The application of the phenolic hibiscus extract also 
+showed an increase of the duration of the meat`s shelf life.
+
+DOI: 10.3390/foods9081080
+PMCID: PMC7464790
+PMID: 32784385
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+397. Int J Environ Res Public Health. 2020 Aug 8;17(16):5742. doi: 
+10.3390/ijerph17165742.
+
+Gender Differences in Kinematic Parameters of Topspin Forehand and Backhand in 
+Table Tennis.
+
+Bańkosz Z(1), Winiarski S(1), Malagoli Lanzoni I(2).
+
+Author information:
+(1)Department of Biomechanics, Faculty of Physical Education and Sports, 
+University School of Physical, Education in Wrocław, 51-612 Wrocław, Poland.
+(2)Department for Life Quality Studies, University of Bologna, 47921 Rimini, 
+Italy.
+
+Background: The identification of gender differences in kinematics and 
+coordination of movement in different body segments in sports may improve the 
+training process by emphasizing the necessity of its differentiation, and 
+consequently individualization, developing, and improving the technique in women 
+and men. Indicating differences can also help in determining the risk of injury 
+in order to prevent from them by diversifying training programs. However, there 
+is no information regarding this problem in the existing literature pertaining 
+to table tennis. Therefore, the aim of the study was to evaluate the differences 
+in the values of selected angular and kinematic parameters during topspin 
+forehand and topspin backhand shots between male and female table tennis 
+players. Methods: Six male and six female advanced table tennis players 
+performed topspin forehand and topspin backhand shots, both receiving a backspin 
+ball. The angular parameters in four events (ready position, backswing, maximum 
+acceleration, and forward) at chosen joints as well as the maximal acceleration 
+of the playing hand were measured, using the myoMotion system, and were compared 
+between male and female players. Results: Significant differences (p ≤ 0.05) 
+were found in the magnitude of angular parameters and maximum hand acceleration 
+between men and women. The movement pattern of topspin strokes performed by men 
+takes into account, more than that in the case of women, movements that use 
+large muscle groups and large joints (hip joints, trunk joints, shoulder joints 
+in extension, and flexion). The difference in the values of maximal acceleration 
+reached almost 50 m/s2 in topspin forehand (p < 0.01) and 20 m/s2 in backhand (p 
+< 0.01). Conclusions: Differentiation of movement patterns can be a 
+manifestation of movement optimization due to anthropological differences and 
+limitations. The differences in the values of maximal acceleration suggest that 
+women could use both sides to perform a topspin attack against the backspin 
+ball, while men should seek opportunities to make a stronger shot with a 
+forehand topspin.
+
+DOI: 10.3390/ijerph17165742
+PMCID: PMC7459798
+PMID: 32784440 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+398. Materials (Basel). 2020 Aug 7;13(16):3489. doi: 10.3390/ma13163489.
+
+Practice of Simulation and Life Cycle Assessment in Tribology-A Review.
+
+Kurdi A(1)(2), Alhazmi N(2)(3), Alhazmi H(4), Tabbakh T(2).
+
+Author information:
+(1)National Center for Building and Construction Technology, King Abdulaziz City 
+for Science and Technology, P.O. Box 6086, Riyadh 11442, Saudi Arabia.
+(2)Material Science Institute, King Abdulaziz City for Science and Technology, 
+P.O. Box 6086, Riyadh 11442, Saudi Arabia.
+(3)National Center for Composite and High-Performance Materials, Center of 
+Excellence for Aeronautics, King Abdulaziz City for Science and Technology, P.O. 
+Box 6086, Riyadh 11442, Saudi Arabia.
+(4)National Center for Environmental Technology, King Abdulaziz City for Science 
+and Technology, P.O. Box 6086, Riyadh 11442, Saudi Arabia.
+
+To simulate today's complex tribo-contact scenarios, a methodological breakdown 
+of a complex design problem into simpler sub-problems is essential to achieve 
+acceptable simulation outcomes. This also helps to manage iterative, 
+hierarchical systems within given computational power. In this paper, the 
+authors reviewed recent trends of simulation practices in tribology to model 
+tribo-contact scenario and life cycle assessment (LCA) with the help of 
+simulation. With the advancement of modern computers and computing power, 
+increasing effort has been given towards simulation, which not only saves time 
+and resources but also provides meaningful results. Having said that, like every 
+other technique, simulation has some inherent limitations which need to be 
+considered during practice. Keeping this in mind, the pros and cons of both 
+physical experiments and simulation approaches are reviewed together with their 
+interdependency and how one approach can benefit the other. Various simulation 
+techniques are outlined with a focus on machine learning which will dominate 
+simulation approaches in the future. In addition, simulation of tribo-contacts 
+across different length scales and lubrication conditions is discussed in 
+detail. An extension of the simulation approach, together with experimental 
+data, can lead towards LCA of components which will provide us with a better 
+understanding of the efficient usage of limited resources and conservation of 
+both energy and resources.
+
+DOI: 10.3390/ma13163489
+PMCID: PMC7476053
+PMID: 32784652
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+399. Medicina (Kaunas). 2020 Aug 7;56(8):397. doi: 10.3390/medicina56080397.
+
+Hip Fracture Prevention in Osteoporotic Elderly and Cancer Patients: An On-Line 
+French Survey Evaluating Current Needs.
+
+Rodrigues L(1), Cornelis FH(2), Chevret S(1).
+
+Author information:
+(1)INSERM UMR 1153, Equipe ECSTRRA, Service de Biostatistique et Information 
+Médicale, AP-HP Hôpital Saint Louis/Université Paris Diderot, 75010 Paris, 
+France.
+(2)Department of Radiology, Tenon Hospital, Sorbonne Université, 4 rue de la 
+Chine, 75020 Paris, France.
+
+Background and objectives: Hip fracture is a major public health issue. Those 
+fractures lead to high costs and a decrease in quality of life. A national 
+French survey was conducted, with the objectives to firstly assess the current 
+management of hip fracture and its prevention, both in the osteoporotic and 
+cancer settings, and secondly to evaluate the opinions of physicians on the 
+potential use of minimally invasive implantable devices to prevent hip fracture 
+in alternative of surgery. Materials and methods: This national survey was 
+conducted in France between April and July 2017. Questionnaires were sent to 
+orthopedic surgeons, interventional radiologists, oncologists, and 
+rheumatologists. Completed questionnaires were analyzed and compared according 
+to two indications: orthopedics-traumatology and oncology. Factors associated 
+with these responses were assessed using univariable analyses, based on 
+chi-square tests or an exact Fisher test, as appropriate. Results: A total of 
+182 questionnaires were completed and further analyzed. Physicians have 
+highlighted the need for a low re-fracture rate and to improve life expectancy 
+for more than 1 year (50% for responders of the orthopedics-traumatology 
+questionnaire and 80% for the responders interested in both indications), as 
+well as quality of life (12.5% and 31%, respectively), but with no significant 
+differences in the oncologic indication. Most of the experts were willing to use 
+or prescribe implantable devices for prevention (63% in orthopedics-traumatology 
+and 93% in oncology), although limited clinical experience (54 and 58%) and 
+surgical risk (around 30% in each indication) were considered as limits. 
+Conclusions: Prevention of hip fracture remains a concern for physicians. More 
+clinical experience with implantable devices, in particular in cancer patients, 
+is needed, but implemented in a strategy to maximize patient recovery while 
+reducing costs.
+
+DOI: 10.3390/medicina56080397
+PMCID: PMC7466279
+PMID: 32784811 [Indexed for MEDLINE]
+
+Conflict of interest statement: Laëtitia Rodrigues and Sylvie Chevret have no 
+conflict of interest. François Cornelis is a member of the scientific board of 
+Hyprevention (Pessac, France).
+
+
+400. Antioxidants (Basel). 2020 Aug 10;9(8):727. doi: 10.3390/antiox9080727.
+
+Pursuing the Elixir of Life: In Vivo Antioxidative Effects of Manganosalen 
+Complexes.
+
+Rouco L(1), González-Noya AM(2), Pedrido R(2), Maneiro M(1).
+
+Author information:
+(1)Departamento de Química Inorgánica, Facultade de Ciencias, Universidade de 
+Santiago de Compostela, 27002 Lugo, Spain.
+(2)Departamento de Química Inorgánica, Facultade de Química, Universidade de 
+Santiago de Compostela, 15782 Santiago de Compostela, Spain.
+
+Manganosalen complexes are coordination compounds that possess a chelating 
+salen-type ligand, a class of bis-Schiff bases obtained by condensation of 
+salicylaldehyde and a diamine. They may act as catalytic antioxidants mimicking 
+both the structure and the reactivity of the native antioxidant enzymes active 
+site. Thus, manganosalen complexes have been shown to exhibit superoxide 
+dismutase, catalase, and glutathione peroxidase activities, and they could 
+potentially facilitate the scavenging of excess reactive oxygen species (ROS), 
+thereby restoring the redox balance in damaged cells and organs. Initial 
+catalytic studies compared the potency of these compounds as antioxidants in 
+terms of rate constants of the chemical reactivity against ROS, giving catalytic 
+values approaching and even exceeding that of the native antioxidative enzymes. 
+Although most of these catalytic studies lack of biological relevance, 
+subsequent in vitro studies have confirmed the efficiency of many manganosalen 
+complexes in oxidative stress models. These synthetic catalytic scavengers, 
+cheaper than natural antioxidants, have accordingly attracted intensive 
+attention for the therapy of ROS-mediated injuries. The aim of this review is to 
+focus on in vivo studies performed on manganosalen complexes and their activity 
+on the treatment of several pathological disorders associated with oxidative 
+damage. These disorders, ranging from the prevention of fetal malformations to 
+the extension of lifespan, include neurodegenerative, inflammatory, and 
+cardiovascular diseases; tissue injury; and other damages related to the liver, 
+kidney, or lungs.
+
+DOI: 10.3390/antiox9080727
+PMCID: PMC7465912
+PMID: 32785017
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+401. Int J Environ Res Public Health. 2020 Aug 10;17(16):5788. doi: 
+10.3390/ijerph17165788.
+
+Subnational Burden of Disease According to the Sociodemographic Index in South 
+Korea.
+
+Go DS(1), Kim YE(2), Yoon SJ(3).
+
+Author information:
+(1)Department of Health Care Policy Research, Korea Institute for Health and 
+Social Affairs, Sejong 30147, Korea.
+(2)Big Data Department, National Health Insurance Service, Wonju 26464, Korea.
+(3)Department of Preventive Medicine, Korea University College of Medicine, 
+Seoul 02841, Korea.
+
+The sociodemographic index (SDI), a composite index per capita income, 
+educational attainment, and total fertility rate in a country, can indicate 
+whether the country's burden of disease varies depending upon its level of 
+socioeconomic development. This study identified the subnational SDI and disease 
+burden of South Korea based on the country's overall SDI, using national 
+representative data. The burden of disease was measured using 
+disability-adjusted life years (DALY) with an incidence-based approach. We used 
+National Health Insurance Services claims data to estimate the years lived with 
+disability (YLD) and cause-of-death statistics to estimate the years of life 
+lost (YLL). Indicators of subnational SDI were also extracted. The Korean 
+subnational SDIs for 250 regions were correlated with YLL, YLD, and DALY for the 
+year 2016. The correlation between SDI and YLL was stronger in big cities than 
+in medium areas and small areas. Moreover, the higher the SDI, the higher the 
+coefficient. The SDI should be used as a standard for interpreting and comparing 
+regions' disease burden at the subnational level.
+
+DOI: 10.3390/ijerph17165788
+PMCID: PMC7460231
+PMID: 32785128 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+402. J Econ Entomol. 2020 Oct 16;113(5):2343-2353. doi: 10.1093/jee/toaa149.
+
+Demography of Cacopsylla chinensis (Hemiptera: Psyllidae) Reared on Four 
+Cultivars of Pyrus bretschneideri (Rosales: Rosaceae) and P. communis Pears With 
+Estimations of Confidence Intervals of Specific Life Table Statistics.
+
+Wei M(1)(2), Chi H(3), Guo Y(1), Li X(1), Zhao L(4), Ma R(1).
+
+Author information:
+(1)College of Plant Protection, Shanxi Agricultural University, Taigu, Shanxi, 
+China.
+(2)Cotton Research Institute, Shanxi Academy of Agricultural Sciences, Yuncheng, 
+Shanxi, China.
+(3)Department of Entomology, National Chung Hsing University, Taichung, Taiwan.
+(4)Institute of Pomology, Shanxi Academy of Agricultural Sciences, Taiyuan, 
+Shanxi, China.
+
+The psyllid Cacopsylla chinensis (Yang & Li) (Hemiptera: Psyllidae) is a serious 
+pest of pears in China. To determine and contrast the fitness of the psyllid on 
+two endemic cultivars of Pyrus bretschneideri (i.e., BHXS and BSL) and two 
+introduced cultivars of Pyrus communis (i.e., CB and CRB), we analyzed data on 

@@ -1,0 +1,1000 @@
+(1)Radboud University Medical Center, Donders Institute for Brain, Cognition and 
+Behaviour, Department of Neurology, Centre of Expertise for Parkinson & Movement 
+Disorders, Nijmegen, the Netherlands.
+(2)Radboud University Medical Center, Radboud Institute for Health Sciences, 
+Scientific Centre for Quality of Healthcare, Centre of Expertise for Parkinson & 
+Movement Disorders, Nijmegen, the Netherlands.
+(3)Medical Decision Making, Department of Biomedical Data Sciences, Leiden 
+University Medical Centre, Leiden, the Netherlands.
+(4)University of Twente, Department of Health Technology and Services Research, 
+Technical Medical Center, Enschede, the Netherlands.
+
+BACKGROUND: In Parkinson's disease (PD), several disease-modifying treatments 
+are being tested in (pre-)clinical trials. To successfully implement such 
+treatments, it is important to have insight into factors influencing the 
+professionals' decision to start disease-modifying treatments in persons who are 
+in the prodromal stage of PD.
+OBJECTIVE: We aim to identify factors that professionals deem important in 
+deciding to a start disease-modifying treatment in the prodromal stage of PD.
+METHODS: We used a discrete choice experiment (DCE) to elicit preferences of 
+neurologists and last-year neurology residents regarding treatment in the 
+prodromal phase of PD. The DCE contained 16 hypothetical choice sets in which 
+participants were asked to choose between two treatment options. The presented 
+attributes included treatment effect, risk of severe side-effects, risk of mild 
+side-effects, route of administration, and annual costs.
+RESULTS: We included 64 neurologists and 18 last year neurology residents. 
+Participants attached most importance to treatment effect and to the risk of 
+severe side-effects. Participants indicated that they would discuss one of the 
+presented treatments in daily practice more often in persons with a high risk of 
+being in the prodromal phase compared to those with a moderate risk. Other 
+important factors for deciding to start treatment included the amount of 
+evidence supporting the putative treatment effect, the preferences of the person 
+in the prodromal phase, and the life expectancy.
+CONCLUSION: This study provides important insights in factors that influence 
+decision making by professionals about starting treatment in the prodromal phase 
+of PD.
+
+DOI: 10.3233/JPD-223208
+PMCID: PMC9398060
+PMID: 35527565 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflict of interest to 
+report.
+
+
+187. Work. 2022;72(2):421-429. doi: 10.3233/WOR-210846.
+
+Predictive variables for feelings of sadness and depression while working 
+remotely in Brazil during the COVID-19 pandemic.
+
+Dibbern T(1), Serafim MP(2), Rampasso IS(3)(4), Silva D(5), Atvars TDZ(6), Leal 
+Filho W(7), Anholon R(8).
+
+Author information:
+(1)Institute of Geosciences, University of Campinas, Campinas, Brazil.
+(2)Laboratory of Public Sector Studies, School of Applied Sciences, University 
+of Campinas, Limeira, Brazil.
+(3)Departamento de Ingeniería Industrial, Universidad Católica del Norte, 
+Antofagasta, Chile.
+(4)PNPD/CAPES Program, Doctoral Program in Sustainable Management Systems, 
+Federal Fluminense University, Niterói, Brazil.
+(5)Faculty of Education, University of Campinas, Campinas, Brazil.
+(6)Chemistry Institute, University of Campinas, Campinas, Brazil.
+(7)Faculty of Life Sciences, Hamburg University of Applied Sciences, Hamburg, 
+Germany.
+(8)School of Mechanical Engineering, University of Campinas, Campinas, Brazil.
+
+BACKGROUND: Remote work was evidenced in the pandemic and studies in this area 
+increased. Most studies focus on professionals of companies or 
+professors/students in the academic environment. At the same time, non-academic 
+staff, that provide all the support required for the core activities of the 
+institutions (research/teaching/extension activities) have been neglected.
+OBJECTIVE: This article aims to exploratory analyse which variables 
+(interruptions when working remotely (1), health concerns (2) and fear of 
+contracting coronavirus (3), anxiety and concern about professional career (4), 
+frustration to have cancelled plans and missed opportunities (5) and gender (6)) 
+can impact feelings of sadness and depression experienced by non-academic staff 
+of a university working remotely.
+METHODS: Using a database on behaviour and feelings of non-academic staff from a 
+Brazilian university working remotely during the COVID-19 pandemic, a binary 
+logistic regression model was structured. In an exploratory manner, six 
+independent variables (presented in the previous item) were analysed in terms of 
+their ability to predict the dependent variable (feelings of sadness and 
+depression).
+RESULTS: The results presented the prediction power of the independent variables 
+for the dependent variable. The variables regarding concern with their health, 
+increased anxiety and concern about their career presented Odds Ratios of 3.6 
+(1.4-8.5 -95% C.I.) and 3.3 (2.2-5.0 -95% C.I.), respectively, standing out from 
+the other variables.
+CONCLUSIONS: These results focus on staff at one institution, but they can 
+contribute to better understand feelings and behaviours experienced by 
+professionals working remotely and provide information for debates on the field 
+of COVID-19-related changes of work.
+
+DOI: 10.3233/WOR-210846
+PMID: 35527610 [Indexed for MEDLINE]
+
+
+188. Comput Intell Neurosci. 2022 Apr 28;2022:3491732. doi: 10.1155/2022/3491732.
+ eCollection 2022.
+
+Parameter Estimation in Step Stress Partially Accelerated Life Testing under 
+Different Types of Censored Data.
+
+Kamal M(1), Siddiqui SA(2), Rahman A(3), Alsuhabi H(4), Alkhairy I(4), Barry 
+TS(5).
+
+Author information:
+(1)Department of Basic Sciences, College of Science and Theoretical Studies, 
+Saudi Electronic University, Dammam 32256, Saudi Arabia.
+(2)Department of Mathematics and Sciences, College of Arts & Applied Sciences, 
+Dhofar University, Salalah, Oman.
+(3)Department of Statistics and Operations Research, Aligarh Muslim University, 
+Aligarh, India.
+(4)Department of Mathematics, Al-Qunfudah University College, Umm Al-Qura 
+University, Mecca, Saudi Arabia.
+(5)Mathematics (Statistics Option) Program, Pan African University Institute for 
+Basic Sciences, Technology and Innovation (PAUSTI), 62000-00200 Nairobi, Kenya.
+
+A long testing period is usually required for the life testing of 
+high-reliability products or materials. It is possible to shorten the testing 
+process by using ALTs (accelerated life tests). Due to the fact that ALTs test 
+products in harsher settings than are typical use conditions, the life 
+expectancy of the objects they evaluate is reduced. Censored data in which the 
+specific failure timings of all units assigned to test are not known, or all 
+units assigned to test have not failed, may arise in ALTs for a variety of 
+reasons, including operational failure, device malfunction, expense, and time 
+restrictions. In this paper, we have considered the step stress partially 
+accelerated life test (SSPALT) under two different censoring schemes, namely the 
+type-I progressive hybrid censoring scheme (type-I PHCS) and the type-II 
+progressive censorship scheme (type-II PCS). The failure times of the items are 
+assumed to follow NH distribution, while the tampered random variable (TRV) 
+model is used to explain the effect of stress change. In order to obtain the 
+estimates of the unknown parameters, the maximum likelihood estimation (MLE) 
+approach is adopted. Furthermore, based on the asymptotic theory of MLEs, the 
+approximate confidence intervals (ACIs) are also constructed. The point 
+estimates under two censoring schemes are compared in terms of root mean squared 
+errors (RMSEs) and relative absolute biases (RABs), while ACIs are compared in 
+terms of their lengths and coverage probabilities (CPs). The performance of the 
+estimators has been evaluated and compared under two censoring schemes with 
+various sample sizes through a simulation study. Simulation results show that 
+estimates with type-I PHCS outperform estimates with type-II PCS in terms of 
+RMSEs, RABs, lengths, and CPs. Finally, a real-world numerical example of 
+insulating fluid failure times is presented to show how the approaches will work 
+in reality.
+
+Copyright © 2022 Mustafa Kamal et al.
+
+DOI: 10.1155/2022/3491732
+PMCID: PMC9071990
+PMID: 35528329 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there are no conflicts 
+of interest.
+
+
+189. Asia Pac J Oncol Nurs. 2021 Dec 25;9(1):21-31. doi:
+10.1016/j.apjon.2021.12.006.  eCollection 2022 Jan.
+
+Effects of continuous care on health outcomes in patients with stoma: A 
+systematic review and meta-analysis.
+
+Jin Y(1)(2), Tian X(2), Li Y(3), Jiménez-Herrera M(2), Wang H(1).
+
+Author information:
+(1)Xiangya School of Nursing, Central South University, Changsha, China.
+(2)Nursing Faculty, Universitat Rovira I Virgili, Tarragona, Spain.
+(3)Qingdao Municipal Hospital, Qingdao, China.
+
+OBJECTIVE: Continuing care, which is an extension of post-discharge care, is 
+recognized as a crucial element of high-quality health services and is essential 
+to patients. This systematic review aims to identify the effectiveness of 
+continuing care for patients with stomas.
+METHODS: PubMed, EMBASE, Cochrane Trial Register and Web of Science databases 
+were searched. Study selection and quality appraisal were performed 
+independently by two reviewers. We calculated the mean differences (MD) or the 
+relative risk (RR) with 95% confidence intervals and assessed heterogeneity.
+RESULTS: Nine studies (1134 participants) met the inclusion criteria. This 
+meta-analysis revealed that, in the continuous care group, the stoma 
+self-efficacy (MD ​= ​6.46; 95% CI ​= ​3.81-9.11; P ​< ​0.001; I 2 ​= ​0%), and 
+the quality of life (MD ​= ​7.48; 95% CI ​= ​5.13-9.82; P ​< ​0.001; I 2 ​= ​0%) 
+increased significantly 1 month after discharge; stoma adjustment and care 
+satisfaction also showed a trend toward improvement while stoma complications 
+(RR ​= ​0.71; 95% CI ​= ​0.58-0.87; P ​= ​0.001; I 2 ​= ​25%) decreased 
+significantly. Continuing care did not decrease hospital readmission rates or 
+medical costs.
+CONCLUSIONS: Continuing care showed beneficial effects in improving health 
+outcomes and care satisfaction for patients with stomas compared with routine 
+care. We proposed an integrated continuing care program with different elements 
+and recommendations for its implementation.
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.apjon.2021.12.006
+PMCID: PMC9072188
+PMID: 35528792
+
+
+190. J Food Sci Technol. 2022 May;59(5):1878-1888. doi:
+10.1007/s13197-021-05202-5.  Epub 2021 Jul 15.
+
+Shelf life extension of muffins coated with cinnamon and clove oil 
+nanoemulsions.
+
+Prastuty(1), Kaur G(2), Singh A(3).
+
+Author information:
+(1)Department of Food Science and Technology, PAU, Ludhiana, Punjab India.
+(2)EMN Lab, PAU, Ludhiana, India.
+(3)Department. of Food Science and Technology, PAU, Ludhiana, Punjab India.
+
+Clove and cinnamon based nanoemulsions (NE) were prepared with different levels 
+of soy lecithin as a surfactant employing ultrasonication treatment. Increase in 
+surfactant levels decreased the particle size (PS), polydispersity index (PDI) 
+and zeta potential in both the NE. Cinnamon and clove based nanoemulsions were 
+optimized at 1.5 and 2.0% SL, respectively based on their PS and PDI value. 
+Nanoemulsions having the highest thermo stability were further selected to coat 
+the muffin samples. NE Coated and uncoated muffins were evaluated for changes in 
+density, moisture content, water activity, weight loss, texture, antioxidant 
+activity, microbial activity and sensory scores during storage. NE coating 
+significantly increased antioxidant activity of muffins by 26.89% (Cinnamon oil 
+NE) and 37.31% (Clove oil NE). Furthermore during storage, coating of NE 
+maintains the texture of the muffins, reduce the weight loss, density and 
+moisture content to a greater extent in comparison to uncoated muffins. 
+Antioxidant activity and total plate count of clove oil NE coated muffins were 
+significantly higher than cinnamon oil NE coated muffins and while both the NE 
+coating also effectively facilitated in extending the shelf life up to 6 days 
+without any quality deterioration, which facilitated their use as a functional 
+ingredient.
+
+© Association of Food Scientists & Technologists (India) 2021.
+
+DOI: 10.1007/s13197-021-05202-5
+PMCID: PMC9046491
+PMID: 35531392
+
+Conflict of interest statement: Conflicts of interestThe author declared that 
+there is no conflict of interest.
+
+
+191. FEBS Lett. 2022 Jun;596(11):1367-1387. doi: 10.1002/1873-3468.14370. Epub
+2022  May 26.
+
+Long noncoding RNAs in cardiometabolic disorders.
+
+Juni RP(1)(2), 't Hart KC(1)(2)(3)(4)(5), Houtkooper RH(3)(4)(5), Boon 
+RA(1)(2)(6)(7).
+
+Author information:
+(1)Department of Physiology, Amsterdam UMC location Vrije Universiteit 
+Amsterdam, The Netherlands.
+(2)Department of Microcirculation, Amsterdam Cardiovascular Sciences, The 
+Netherlands.
+(3)Laboratory Genetic Metabolic Diseases, Amsterdam UMC location University of 
+Amsterdam, The Netherlands.
+(4)Amsterdam Gastroenterology, Endocrinology, and Metabolism Institute, 
+Amsterdam UMC location University of Amsterdam, The Netherlands.
+(5)Department of Diabetes & Metabolism, Amsterdam Cardiovascular Sciences, The 
+Netherlands.
+(6)German Centre for Cardiovascular Research DZHK, Partner site Frankfurt 
+Rhein/Main, Germany.
+(7)Institute for Cardiovascular Regeneration, Centre for Molecular Medicine, 
+Goethe University, Frankfurt am Main, Germany.
+
+The advancement of medical technology has led not only to an increase in life 
+expectancy but also to a rise in aging-related diseases. Aging promotes 
+metabolic disorders, in turn affecting cardiovascular health. Derailment of 
+biological processes in the pancreas, liver, adipose tissue, and skeletal muscle 
+impairs glucose and lipid metabolism, and mitochondrial function, triggering the 
+development of diabetes and lipid-related disorders that inflict damage on 
+cardiac and vascular tissues. Long noncoding RNAs (lncRNAs) regulate a wide 
+range of biological process and are one of the key factors controlling 
+metabolism and mitochondria. Here, we discuss the versatile function of lncRNAs 
+involved in the metabolic regulation of glucose and lipid, and mitochondrial 
+function, and how the dysregulation of lncRNAs induces the development of 
+various metabolic disorders and their cardiovascular consequences.
+
+© 2022 The Authors. FEBS Letters published by John Wiley & Sons Ltd on behalf of 
+Federation of European Biochemical Societies.
+
+DOI: 10.1002/1873-3468.14370
+PMID: 35531641 [Indexed for MEDLINE]
+
+
+192. Med Decis Making. 2022 Oct;42(7):885-892. doi: 10.1177/0272989X221097106.
+Epub  2022 May 7.
+
+Trends in Author-Reported Cost-Effectiveness Thresholds in the United States 
+from 1995 to 2018: Implications for Discount Rates.
+
+Pandya A(1)(2), Paulden M(3), Zhu J(2), Lavelle TA(4), Hammitt J(1)(2)(5).
+
+Author information:
+(1)Department of Health Policy and Management, Harvard T.H. Chan School of 
+Public Health, Boston, MA, USA.
+(2)Center for Health Decision Science, Harvard T.H. Chan School of Public 
+Health, Boston, MA, USA.
+(3)School of Public Health, University of Alberta, Edmonton, Canada.
+(4)Center for the Evaluation of Value and Risk in Health, Institute for Clinical 
+Research and Health Policy Studies, Tufts University School of Medicine, Boston, 
+MA, USA.
+(5)Toulouse School of Economics, University of Toulouse-Capitole, Toulouse, 
+France.
+
+BACKGROUND: Decisions based on cost-effectiveness analyses (CEAs) using equal 
+discount rates for health and cost outcomes are consistent with using a constant 
+cost-effectiveness threshold over time. We sought to analyze trends in 
+author-reported cost per quality-adjusted life-year (QALY) thresholds from CEAs 
+published for the US setting over 24 y to retrospectively assess whether the 
+recommended equal discount rates for costs and health were consistent with 
+trends in the CEA literature.
+METHODS: We used the Tufts CEA Registry to assess whether author-reported 
+cost-effectiveness thresholds changed in CEAs published for the US setting 
+between 1995 and 2018 and back-calculated the implied discount rate for health 
+based on these trends for inflation-adjusted cost-effectiveness thresholds and 
+an annual discount rate for costs of 3%.
+RESULTS: We found 1995 CEAs published for the US setting and found that average 
+nominal and inflation-adjusted cost-effectiveness thresholds increased over that 
+time period. The discount rate for health would need to equal 2.43% to 2.48% 
+(depending on the subset of CEAs analyzed) to be consistent with the observed 
+trends in inflation-adjusted author-reported cost-effectiveness thresholds. We 
+also found that restricting our analysis to currency years between 1995 and 2014 
+would result in a back-calculated discount rate for health of 2.99% to 3.28%.
+CONCLUSIONS: We found that CEA researchers have implicitly assumed that 
+inflation-adjusted cost-effectiveness thresholds in the United States have been 
+increasing over time (1995-2018), which is inconsistent with the recommended and 
+prevailing choice of equal discount rates for health and cost outcomes. Our 
+results are sensitive to the cutoff year used in the analysis.
+HIGHLIGHTS: We show visually and through equations that the recommended and 
+prevailing practice of using equal discount rates for cost and health outcomes 
+in cost-effectiveness analyses (CEAs) logically implies a constant 
+inflation-adjusted cost-effectiveness threshold over time.Using data from the 
+Tufts CEA Registry, we found that author-reported cost-effectiveness thresholds 
+used in CEAs published for the US setting with currency years between 1995 and 
+2018 increased over time (both with and without adjustment for 
+inflation).Assuming an annual discount rate for costs equal to 3%, the discount 
+rate for health would need to equal approximately 2.5% to preserve consistency 
+across decisions taken at different dates given the observed trends in 
+inflation-adjusted author-reported cost-effectiveness thresholds.This finding 
+depends on the cutoff year used in the analysis (data from currency years 
+1995-2014 would support use of equal discount rates, whereas data after 2014 
+would suggest a sharper trend toward increasing cost-effectiveness thresholds).
+
+DOI: 10.1177/0272989X221097106
+PMID: 35531945 [Indexed for MEDLINE]
+
+
+193. Endocr Metab Immune Disord Drug Targets. 2022;22(10):1018-1028. doi: 
+10.2174/1871530322666220509040844.
+
+Cellular and Molecular Aspects of Managing Familial Hypercholesterolemia: Recent 
+and Emerging Therapeutic Approaches.
+
+Taheri F(1), Taghizadeh E(2)(3), Baniamerian F(3), Rostami D(4), Rozeian A(3), 
+Mohammad Gheibi Hayat S(5), Jamialahmadi T(6), Reiner Ž(7), Sahebkar 
+A(8)(9)(10)(11).
+
+Author information:
+(1)Department of Genetics, Sharekord Branch, Islamic Azad University, Sharekord, 
+Iran.
+(2)Department of Medical Genetics, Faculty of Medicine, Ahvaz Jundishapur 
+University of Medical Sciences, Ahvaz, Iran.
+(3)Department of Genetics, Cellular and Molecular Research Center, Yasuj 
+University of Medical Sciences, Yasuj, Iran.
+(4)Department of Anesthesia, School of Paramedical Sciences, Zabol University of 
+Medical Sciences, Zabol, Iran.
+(5)Department of Medical Genetics, School of Medicine, Shahid Sadoughi 
+University of Medical Sciences, Yazd, Iran.
+(6)Surgical Oncology Research Center, Mashhad University of Medical Sciences, 
+Mashhad, Iran.
+(7)Department of Internal Medicine, University Hospital Center Zagreb, School of 
+Medicine University of Zagreb, Croatia.
+(8)Biotechnology Research Center, Pharmaceutical Technology Institute, Mashhad 
+University of Medical Sciences, Mashhad, Iran.
+(9)Applied Biomedical Research Center, Mashhad University of Medical Sciences, 
+Mashhad, Iran.
+(10)School of Medicine, The University of Western Australia, Perth, Australia.
+(11)Department of Biotechnology, School of Pharmacy, Mashhad University of 
+Medical Sciences, Mashhad, Iran.
+
+Familial hypercholesterolemia (FH) as a high-frequency genetic disorder is 
+diagnosed based on family and/or patient's history of coronary heart disease 
+(CHD) or some other atherosclerotic diseases, LDL-C levels, and/or clinical 
+signs such as tendinous xanthoma, arcus cornealis before age 45 years as well as 
+a functional mutation in the LDLR, apoB or PCSK9 gene. Its clinical features are 
+detectable since early childhood. Early diagnosis and timely treatment increase 
+life expectancy in most patients with FH. Current FH therapies decrease the 
+level of lowdensity lipoprotein up to ≥50% from baseline with diet, 
+pharmacotherapeutic treatment, lipid apheresis, and liver transplantation. The 
+cornerstone of medical therapy is the use of more potent statins in higher 
+doses, to which often ezetimibe has to be added, but some FH patients do not 
+achieve the target LDL-C with this therapy Therefore, besides these and the most 
+recent but already established therapeutic approaches including PCSK9 
+inhibitors, inclisiran, and bempedoic acid, new therapies are on the horizon 
+such as gene therapy, CRISPR/Cas9 strategy, etc. This paper focuses on cellular 
+and molecular potential strategies for the treatment of FH.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/1871530322666220509040844
+PMID: 35532248 [Indexed for MEDLINE]
+
+
+194. JAMA Intern Med. 2022 Jun 1;182(6):660-667. doi: 
+10.1001/jamainternmed.2022.1657.
+
+Time to Clinical Benefit of Intensive Blood Pressure Lowering in Patients 60 
+Years and Older With Hypertension: A Secondary Analysis of Randomized Clinical 
+Trials.
+
+Chen T(1)(2), Shao F(3), Chen K(4)(5), Wang Y(6), Wu Z(7), Wang Y(8), Gao Y(8), 
+Cornelius V(9), Li C(8), Jiang Z(10).
+
+Author information:
+(1)Department of Public Health, Policy and Systems, Institute of Population 
+Health, The University of Liverpool, Liverpool, United Kingdom.
+(2)Department of Clinical Sciences, Liverpool School of Tropical Medicine, 
+Liverpool, United Kingdom.
+(3)Department of Biostatistics, School of Public Health, Nanjing Medical 
+University, Jiangsu, Nanjing, China.
+(4)Department of Cardiology, The First Affiliated Hospital of USTC, Hefei, 
+China.
+(5)Division of Life Sciences and Medicine, University of Science and Technology 
+of China, Hefei, China.
+(6)Medical Research and Biometrics Center, Fuwai Hospital, National Center for 
+Cardiovascular Disease, Peking Union Medical College and Chinese Academy of 
+Medical Sciences, Mentougou District, Beijing, China.
+(7)Department of Geriatric Medicine, The University of Auckland, Auckland, New 
+Zealand.
+(8)Department of Epidemiology and Health Statistics, School of Public Health, 
+Xi'an Jiaotong University Health Science Center, Xi'an, China.
+(9)Imperial Clinical Trials Unit, School of Public Health, Imperial College 
+London, London, United Kingdom.
+(10)Department of Cardiology, The First Affiliated Hospital of Nanjing Medical 
+University, Jiangsu Province Hospital, China.
+
+Erratum in
+    JAMA Intern Med. 2022 Jul 5;:null.
+
+IMPORTANCE: Recent guidelines recommend a systolic blood pressure (BP) goal of 
+less than 150 mm Hg or even 130 mm Hg for adults aged 60 years or older. 
+However, harms from intensive BP treatments occur immediately (eg, syncope, 
+fall), and benefits for cardiovascular event reduction emerge over time. 
+Therefore, harms with low chance of benefit need to be clearer, particularly for 
+those with limited life expectancy.
+OBJECTIVE: To estimate the time needed to potentially derive clinical benefit 
+from intensive BP treatment in patients 60 years and older.
+DESIGN, SETTING, AND PARTICIPANTS: This secondary analysis included individual 
+patient data from published randomized clinical trials with 27 414 patients 60 
+years or older with hypertension. Patient-level survival data were reconstructed 
+when the original data were not available. Published trials were identified by 
+searching PubMed until October 15, 2021.
+EXPOSURES: Intensive BP lowering vs standard BP lowering with the 
+treat-to-target design.
+MAIN OUTCOMES AND MEASURES: Major adverse cardiovascular event (MACE) defined by 
+each trial, which was broadly similar with all trials including myocardial 
+infarction, stroke, and cardiovascular mortality.
+RESULTS: Six trials (original data from 2 trials and reconstructed data from 4 
+trials) with 27 414 participants (mean age, 70 years; 56.3% were women) were 
+included in the analysis. Intensive BP treatment with a systolic BP target below 
+140 mm Hg was significantly associated with a 21% reduction in MACE (hazard 
+ratio, 0.79; 95% CI, 0.71-0.88; P < .001). On average, 9.1 (95% CI, 4.0-20.6) 
+months were needed to prevent 1 MACE per 500 patients with the intensive BP 
+treatment (absolute risk reduction [ARR], 0.002). Likewise, 19.1 (95% CI, 
+10.9-34.2) and 34.4 (95% CI, 22.7-59.8) months were estimated to avoid 1 MACE 
+per 200 (ARR, 0.005) and 100 (ARR, 0.01) patients, respectively.
+CONCLUSIONS AND RELEVANCE: In this analysis, findings suggest that for patients 
+60 years and older with hypertension, intensive BP treatment may be appropriate 
+for some adults with a life expectancy of greater than 3 years but may not be 
+suitable for those with less than 1 year.
+
+DOI: 10.1001/jamainternmed.2022.1657
+PMCID: PMC9086939
+PMID: 35532917 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: None reported.
+
+
+195. ESMO Open. 2022 Jun;7(3):100476. doi: 10.1016/j.esmoop.2022.100476. Epub
+2022  May 6.
+
+A qualitative study on the challenges health care professionals face when caring 
+for adolescents and young adults with an uncertain and/or poor cancer prognosis.
+
+Burgers VWG(1), van den Bent MJ(2), Darlington AE(3), Gualthérie van Weezel 
+AE(4), Compter A(5), Tromp JM(6), Lalisang RI(7), Kouwenhoven MCM(8), Dirven 
+L(9), Harthoorn NCGL(10), Troost-Heijboer CA(10), Husson O(11), van der Graaf 
+WTA(12).
+
+Author information:
+(1)Netherlands Cancer Institute, Psychosocial Research and Epidemiology 
+Department, Amsterdam, the Netherlands; Netherlands Cancer Institute-Antoni van 
+Leeuwenhoek, Department of Medical Oncology, Amsterdam, the Netherlands. 
+Electronic address: https://twitter.com/BurgersVivian.
+(2)Erasmus University Medical Center, Department of Neurology, Rotterdam, the 
+Netherlands.
+(3)University of Southampton, School of Health Sciences, Southampton, UK.
+(4)Netherlands Cancer Institute-Antoni van Leeuwenhoek, Center for Quality of 
+Life, Amsterdam, the Netherlands.
+(5)Netherlands Cancer Institute-Antoni van Leeuwenhoek, Department of Medical 
+Oncology, Amsterdam, the Netherlands.
+(6)Amsterdam University Medical Centers, Department of Medical Oncology, 
+Amsterdam, the Netherlands.
+(7)Maastricht University Medical Centers, Internal Medicine, Division Medical 
+Oncology, Maastricht, the Netherlands; Maastricht University Medical Centers, 
+GROW-School of Oncology and Developmental Biology, Maastricht, the Netherlands.
+(8)Amsterdam University Medical Centers, Vrije Universiteit Amsterdam, 
+Department of Neurology, Amsterdam, the Netherlands; Brain Tumor Center 
+Amsterdam, Cancer Center Amsterdam, Amsterdam UMC, Vrije Universiteit Amsterdam, 
+Amsterdam, the Netherlands.
+(9)Leiden University Medical Centre, Department of Neurology, Leiden, the 
+Netherlands; Haaglanden Medical Center, Department of Neurology, The Hague, the 
+Netherlands.
+(10)AYA Research Partner, Amsterdam, the Netherlands.
+(11)Netherlands Cancer Institute, Psychosocial Research and Epidemiology 
+Department, Amsterdam, the Netherlands; Netherlands Cancer Institute-Antoni van 
+Leeuwenhoek, Department of Medical Oncology, Amsterdam, the Netherlands; Erasmus 
+University Medical Center, Department of Surgical Oncology, Rotterdam, the 
+Netherlands; Institute of Cancer Research, Division of Clinical Studies, London, 
+UK. Electronic address: olga.husson@icr.ac.uk.
+(12)Netherlands Cancer Institute-Antoni van Leeuwenhoek, Department of Medical 
+Oncology, Amsterdam, the Netherlands; Erasmus University Medical Center, 
+Department of Medical oncology, the Netherlands. Electronic address: 
+https://twitter.com/Winette_vdGraaf.
+
+BACKGROUND: Adolescents and young adults (AYAs, aged 18-39 years) with advanced 
+cancer have an increased life expectancy due to improvements and refinements in 
+cancer therapies, resulting in a growing group of AYAs living with an uncertain 
+and/or poor cancer prognosis (UPCP). To date, no studies have examined the 
+difficulties of health care professionals (HCPs) providing care to AYAs with a 
+UPCP. This study aimed to understand the challenges in daily clinical practice 
+experienced by HCPs from different disciplines who provide palliative as well as 
+general care to AYAs with a UPCP.
+METHODS: HCPs from a variety of backgrounds (e.g. clinical nurse specialists, 
+medical oncologists, neurologists psychologists) were invited for a 
+semi-structured interview. The interviews were transcribed verbatim and analysed 
+using reflexive thematic analysis. Two AYA patients were actively involved as 
+research partners to increase the relevance of the study design and to optimise 
+interpretation of results.
+RESULTS: Forty-nine HCPs were interviewed. Overall, we found that the threat of 
+premature death within this young patient group increased emotional impact on 
+HCPs and evoked a feeling of unfairness, which was an extra motivation for HCPs 
+to provide the most optimal care possible. We generated four key themes: (i) 
+emotional confrontation (e.g. feeling helplessness and experiencing a greater 
+sense of empathy), (ii) questioning own professional attitude and skills, (iii) 
+navigating uncertainty (e.g. discussing prognosis and end of life) and (iv) 
+obstacles in the health care organisation (e.g. lack of knowledge and clarity 
+about responsibilities).
+CONCLUSIONS: HCPs experienced unique emotional and practical challenges when 
+providing care to AYAs with a UPCP. The results from this study highlight the 
+need to develop an education module for HCPs treating AYAs with UPCP to increase 
+their own well-being and optimise the delivery of person- and age-adjusted care.
+
+Copyright © 2022 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.esmoop.2022.100476
+PMCID: PMC9271469
+PMID: 35533426 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors have declared no 
+conflicts of interest.
+
+
+196. Value Health Reg Issues. 2022 Sep;31:67-73. doi: 10.1016/j.vhri.2022.03.004.
+ Epub 2022 May 6.
+
+Guidelines for Utility Measurement for Economic Analysis: The Brazilian Policy.
+
+Santos M(1), Monteiro AL(2), Biz AN(3), Guerra A(4), Cramer H(5), Canuto V(6), 
+Cruz L(7), Pinto M(8), Viegas M(9), Fernandes R(10), Zimmermann I(11).
+
+Author information:
+(1)National Institute of Cardiology, Rio de Janeiro, Brazil. Electronic address: 
+marisaccih@gmail.com.
+(2)Department of Pharmacy Systems, Outcomes and Policy, University of Illinois 
+Chicago, Chicago, IL, USA.
+(3)Health Economics and Decision Science, School of Health and Related Research, 
+The University of Sheffield, Sheffield, England, UK.
+(4)Department of Social Pharmacy, Universidade Federal de Minas Gerais, Belo 
+Horizonte, Brazil.
+(5)National Institute of Cardiology, Rio de Janeiro, Brazil.
+(6)Department of Management and Incorporation of Health Technologies, Ministry 
+of Health, Brazil.
+(7)Research Project Office, Moinhos de Vento Hospital, Porto Alegre, Brazil.
+(8)National Institute of Women's, Children's and Adolescents' Health Fernandes 
+Figueira, Fundação Oswaldo Cruz, Rio de Janeiro, Brazil.
+(9)Cedeplar - UFMG, Belo Horizonte, Brazil.
+(10)National Cancer Institute, Rio de Janeiro, Brazil.
+(11)Faculty of Medicine, University of Brasilia, Brasilia, Brazil.
+
+INTRODUCTION: Health-related quality of life is expressed in utilities, also 
+referred to as utility estimates or parameters. Considerations about the source 
+and type of utility values are especially important in a modeling context, where 
+the lack of transparency, including the lack of a hierarchy for utility data 
+sources, is a major issue to any estimation and can potentially compromise model 
+reliability.
+OBJECTIVES: This document aims to present the first version of the Brazilian 
+guidelines for utility measurement to support economic analysis.
+METHODS: A virtual workshop and a modified Delphi panel with 10 health 
+technology specialists followed a rapid evaluation of 110 technical documents 
+and indexed publications. The recommendations are based on the proposition that 
+has received the most votes, although contentious issues are addressed in the 
+suggestion or discussion. The rationale for the final decision is included in 
+the text.
+RESULTS: The consensus includes 50 recommendations with the following topics: 
+Transparency and Reliability, Model Design, Conditions Under Which Generic 
+Questionnaires Are Not Sensible or Valid, Utility Evidence Hierarchy, Utility 
+Data Searching, Modeling Utility Values, Extrapolating Quality Adjusted 
+Life-Years for Models With Lifetime Horizons, Caregiver Utility, Utility Data 
+Synthesis, Quality/Certainty of the Evidence, and Utility Estimates in 
+End-of-Life Conditions.
+CONCLUSIONS: The goal of this project is to create unified national standards 
+for using utility metrics in economic analysis in Brazil. This set of 
+recommendations is not obligatory, but it is meant to serve as a guide and lead 
+to the development of better and more transparent economic models in the 
+country.
+
+Copyright © 2022 International Society for Health Economics and Outcomes 
+Research. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.vhri.2022.03.004
+PMID: 35533599 [Indexed for MEDLINE]
+
+
+197. Sci Total Environ. 2022 Sep 1;837:155752. doi:
+10.1016/j.scitotenv.2022.155752.  Epub 2022 May 6.
+
+Well water sources simultaneous contamination with Cryptosporidium and 
+Acanthamoeba in East-Southeast Asia and Acanthamoeba spp. in biofilms in the 
+Philippines.
+
+Masangkay FR(1), Milanez GD(2), Dionisio JD(3), Ormita LAG(4), Alvarez AV(5), 
+Karanis P(6).
+
+Author information:
+(1)Department of Medical Technology, Faculty of Pharmacy, University of Santo 
+Tomas, Manila 1008, Philippines. Electronic address: frmasangkay@ust.edu.ph.
+(2)Department of Medical Technology, Faculty of Pharmacy, University of Santo 
+Tomas, Manila 1008, Philippines.
+(3)Department of Medical Technology, Far Eastern University-Manila, Manila 1015, 
+Philippines.
+(4)Department of Psychology, Far Eastern University-Manila, Manila 1015, 
+Philippines; Community Extension Services, Far Eastern University-Manila, Manila 
+1015, Philippines.
+(5)Community Extension Services, Far Eastern University-Manila, Manila 1015, 
+Philippines.
+(6)University of Cologne, Faculty of Medical and University Hospital Cologne, 
+Cologne 50923, Germany; Medical School, Department of Basic and Clinical 
+Science, University of Nicosia, Nicosia, 2417, Cyprus. Electronic address: 
+karanis.p@unic.ac.cy.
+
+Cryptosporidium is the leading agent of waterborne parasitic protozoan outbreaks 
+and is the second leading cause of infant mortality due to diarrhoea worldwide. 
+Acanthamoeba spp. causes Acanthamoeba keratitis (AK) and a life-threatening 
+condition known as granulomatous amoebic encephalitis (GAE). The present study 
+aimed to assess the water quality of an indigenous and a rural community for 
+waterborne parasitic protozoan contamination. Aquatic samples (n = 22) were 
+processed by filtration of 500 mL portion through a 1.2 μm pore size glass 
+microfiber filter and eluted for light microscopy, culture in non-nutrient agar, 
+and PCR analysis. Overall, 36% (8/22) of the investigated aquatic samples were 
+positive for either Cryptosporidium spp. oocysts (13%; 3/22) or Acanthamoeba 
+spp., (36%; 8/22) or both (13%; 3/22). Cryptosporidium spp. oocysts were 
+detected in 27% (3/11) of wet season samples only while Acanthamoeba spp. were 
+detected in 18% (2/11) and 55% (6/11) of wet and dry season samples, 
+respectively. Subsequently, molecular detection for Acanthamoeba species 
+identified A. lenticulata and A. hatchetti with 98-99% BLAST similarity. This is 
+the first report on the simultaneous contamination of Cryptosporidium and 
+Acanthamoeba in well water sources in East-Southeast Asia, the first detection 
+of Acanthamoeba spp. in biofilms in the Philippines, and the longest viability 
+demonstrated for A. lenticulata in two-year-old water samples stored at room 
+temperature.
+
+Copyright © 2022 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2022.155752
+PMID: 35533862 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+198. J Acad Nutr Diet. 2022 Sep;122(9):1629-1643. doi:
+10.1016/j.jand.2022.05.005.  Epub 2022 May 6.
+
+Harvest for Health, a Randomized Controlled Trial Testing a Home-Based, 
+Vegetable Gardening Intervention Among Older Cancer Survivors Across Alabama: An 
+Analysis of Accrual and Modifications Made in Intervention Delivery and 
+Assessment During COVID-19.
+
+Bail JR(1), Blair CK(2), Smith KP(3), Oster RA(4), Kaur H(5), Locher JL(6), 
+Frugé AD(7), Rocque G(8), Pisu M(4), Cohen HJ(9), Demark-Wahnefried W(10).
+
+Author information:
+(1)College of Nursing, University of Alabama in Huntsville, Huntsville, AL; 
+Department of Nutrition Sciences, University of Alabama, Birmingham, AL.
+(2)Department of Internal Medicine, University of New Mexico, Albuquerque, NM.
+(3)Alabama Cooperative Extension System, Auburn University, Auburn, AL.
+(4)Division of Preventive Medicine, Department of Medicine, University of 
+Alabama, Birmingham, AL.
+(5)Department of Nutrition Sciences, University of Alabama, Birmingham, AL.
+(6)Division of Geriatrics, Department of Medicine, University of Alabama, 
+Birmingham, AL.
+(7)Department of Nutrition Sciences, University of Alabama, Birmingham, AL; 
+Department of Nutrition, Dietetics & Hospitality Management, Auburn University, 
+Auburn, AL.
+(8)Department of Medicine, University of Alabama, Birmingham, AL.
+(9)Department of Medicine, Duke University Medical Center, Durham, NC.
+(10)Department of Nutrition Sciences, University of Alabama, Birmingham, AL. 
+Electronic address: demark@uab.edu.
+
+BACKGROUND: Accelerated functional decline is a concern among older cancer 
+survivors that threatens independence and quality of life. Pilot studies suggest 
+that vegetable gardening interventions ameliorate functional decline through 
+improved diet and physical activity.
+OBJECTIVE: The aim of this article was to describe the rationale, recruitment 
+challenges, and enrollment for the Harvest for Health randomized controlled 
+trial (RCT), which will test the impact of a home-based, vegetable gardening 
+intervention on vegetable and fruit consumption, physical activity, and physical 
+functioning among older cancer survivors. Modifications made to the intervention 
+and assessments to assure safety and continuity of the RCT throughout the 
+COVID-19 pandemic also are reported.
+DESIGN: Harvest for Health is a 2-year, 2-arm, single-blinded, wait-list 
+controlled RCT with cross-over.
+PARTICIPANTS/SETTING: Medicare-eligible survivors of cancers with ≥60% 5-year 
+survival were recruited across Alabama from October 1, 2016 to February 8, 2021.
+INTERVENTION: Participants were randomly assigned to a wait-list control or a 
+1-year home-based gardening intervention and individually mentored by 
+extension-certified master gardeners to cultivate spring, summer, and fall 
+vegetable gardens.
+MAIN OUTCOME MEASURES: Although the RCT's primary end point was a composite 
+measure of vegetable and fruit consumption, physical activity, and physical 
+functioning, this article focuses on recruitment and modifications made to the 
+intervention and assessments during COVID-19.
+STATISTICAL ANALYSES PERFORMED: χ2 and t tests (α < .05) were used to compare 
+enrolled vs unenrolled populations.
+RESULTS: Older cancer survivors (n = 9,708) were contacted via mail and 
+telephone; 1,460 indicated interest (15% response rate), 473 were screened 
+eligible and consented, and 381 completed baseline assessments and were 
+randomized. Enrollees did not differ from nonrespondents/refusals by race and 
+ethnicity, or rural-urban status, but comprised significantly higher numbers of 
+comparatively younger survivors, those who were female, and survivors of breast 
+cancer (P < .001). Although COVID-19 delayed trial completion, protocol 
+modifications overcame this barrier and study completion is anticipated by 
+June 2022.
+CONCLUSIONS: This RCT will provide evidence on the effects of a mentored 
+vegetable gardening program among older cancer survivors. If efficacious, 
+Harvest for Health represents a novel, multifaceted approach to improve 
+lifestyle behaviors and health outcomes among cancer survivors-one with capacity 
+for sustainability and widespread dissemination.
+
+Copyright © 2022 Academy of Nutrition and Dietetics. Published by Elsevier Inc. 
+All rights reserved.
+
+DOI: 10.1016/j.jand.2022.05.005
+PMCID: PMC10656755
+PMID: 35533876 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Conflicting Interests: The 
+authors declare that there is no conflict of interest.
+
+
+199. Prev Med. 2022 Dec;165(Pt B):107079. doi: 10.1016/j.ypmed.2022.107079. Epub
+2022  May 6.
+
+Economic analysis of financial incentives for smoking cessation during pregnancy 
+and postpartum.
+
+Shepard DS(1), Slade EP(2), Nighbor TD(3), DeSarno MJ(4), Roemhildt ML(5), 
+Williams RK(5), Higgins ST(3).
+
+Author information:
+(1)Vermont Center on Behavior and Health, Department of Psychiatry, University 
+of Vermont, USA; Heller School for Social Poilcy and Management, MS 035, 
+Brandeis University, Waltham, MA 02454-9110 USA. Electronic address: 
+shepard@brandeis.edu.
+(2)Vermont Center on Behavior and Health, Department of Psychiatry, University 
+of Vermont, USA; Johns Hopkins University School of Nursing, USA.
+(3)Vermont Center on Behavior and Health, Department of Psychiatry, University 
+of Vermont, USA.
+(4)Vermont Center on Behavior and Health, Department of Psychiatry, University 
+of Vermont, USA; Department of Medical Biostatistics, University of Vermont, 
+USA.
+(5)Vermont Department of Health, USA.
+
+Higgins and colleagues' recently-completed randomized controlled trial and 
+pooled data with 4 related trials of smoking cessation in pregnant women in 
+Vermont (USA) showed that abstinence-contingent financial incentives (FI) 
+increased abstinence over control conditions from early pregnancy through 
+24-weeks postpartum. Control conditions were best practices (BP) alone in the 
+recent trial and payments provided independent of smoking status 
+(noncontingently) in the others. This paper reports economic analyses of 
+abstinence-contingent FI. Merging trial results with maternal and infant 
+healthcare costs from all Vermont Medicaid deliveries in 2019, we computed 
+incremental cost-effectiveness ratios (ICERs) for quality-adjusted life years 
+(QALYs) and compared them to established thresholds. The healthcare sector cost 
+(±standard error) of adding FI to BP averaged $634.76 ± $531.61 per participant. 
+Based on this trial, the increased probability per BP + FI participant of 
+smoking abstinence at 24-weeks postpartum was 3.17%, the cost per additional 
+abstinent woman was $20,043, the incremental health gain was 0.0270 ± 0.0412 
+QALYs, the ICER was $23,511/QALY gained, and the probabilities that BP + FI was 
+very cost-effective (ICER≤$65,910) and cost-effective (ICER≤$100,000) were 67.9% 
+and 71.0%, respectively. Based on the pooled trials, the corresponding values 
+were even more favorable-8.89%, $7138, 0.0758 ± 0.0178 QALYs, $8371/QALY, 98.6% 
+and 99.3%, respectively. Each dollar invested in abstinence-contingent FI over 
+control smoking-cessation programs yielded $4.20 in economic benefits in the 
+recent trial and $11.90 in the pooled trials (very favorable benefit-cost 
+ratios). Medicaid and commercial insurers may wish to consider covering 
+financial incentives for smoking abstinence as a cost-effective service for 
+pregnant beneficiaries who smoke. Trial Registration: ClinicalTrials.gov 
+identifier: NCT02210832.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ypmed.2022.107079
+PMID: 35533885 [Indexed for MEDLINE]
+
+
+200. J Clin Pathol. 2022 Jul;75(7):435-442. doi: 10.1136/jclinpath-2021-207895.
+Epub  2022 May 9.
+
+Adrenal insufficiency.
+
+Kumar R(1), Wassif WS(2).
+
+Author information:
+(1)Diabetes and Endocrinology, Bedfordshire Hospitals NHS Foundation Trust, 
+Bedford, UK Rajeev.Kumar@bedfordhospital.nhs.uk.
+(2)Clinical Biochemistry, Bedfordshire Hospitals NHS Foundation Trust, Bedford, 
+UK.
+
+Adrenal insufficiency (AI), first described by Thomas Addison in 1855, is 
+characterised by inadequate hormonal production by the adrenal gland, which 
+could either be primary, due to destruction of the adrenal cortex, or 
+secondary/tertiary, due to lack of adrenocorticotropic hormone or its 
+stimulation by corticotropin-releasing hormone. This was an invariably fatal 
+condition in Addison's days with most patients dying within a few years of 
+diagnosis. However, discovery of cortisone in the 1940s not only improved the 
+life expectancy of these patients but also had a dramatic effect on their 
+overall quality of life. The diagnosis, easily confirmed by demonstrating 
+inappropriately low cortisol secretion, is often delayed by months, and many 
+patients present with acute adrenal crisis. Sudden withdrawal from chronic 
+glucocorticoid therapy is the most common cause of AI. Currently, there remains 
+a wide variation in the management of this condition across Europe. As primary 
+AI is a relatively rare condition, most medical specialists will only manage a 
+handful of these patients in their career. Despite many advances in recent 
+years, there is currently no curative option, and modern cortisol replacement 
+regimens fail to adequately mimic physiological cortisol rhythm. A number of new 
+approaches including allograft of adrenocortical tissue and stem cell therapy 
+are being tried but remain largely experimental.
+
+© Author(s) (or their employer(s)) 2022. No commercial re-use. See rights and 
+permissions. Published by BMJ.
+
+DOI: 10.1136/jclinpath-2021-207895
+PMID: 35534201 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+201. Nat Prod Bioprospect. 2022 May 9;12(1):18. doi: 10.1007/s13659-022-00339-y.
+
+Antiaging agents: safe interventions to slow aging and healthy life span 
+extension.
+
+Liu JK(1).
+
+Author information:
+(1)School of Pharmaceutical Sciences, South-Central University for 
+Nationalities, Wuhan, 430074, People's Republic of China. 
+liujikai@mail.scuec.edu.cn.
+
+Human longevity has increased dramatically during the past century. More than 
+20% of the 9 billion population of the world will exceed the age of 60 in 2050. 
+Since the last three decades, some interventions and many preclinical studies 
+have been found to show slowing aging and increasing the healthy lifespan of 
+organisms from yeast, flies, rodents to nonhuman primates. The interventions are 
+classified into two groups: lifestyle modifications and pharmacological/genetic 
+manipulations. Some genetic pathways have been characterized to have a specific 
+role in controlling aging and lifespan. Thus, all genes in the pathways are 
+potential antiaging targets. Currently, many antiaging compounds target the 
+calorie-restriction mimetic, autophagy induction, and putative enhancement of 
+cell regeneration, epigenetic modulation of gene activity such as inhibition of 
+histone deacetylases and DNA methyltransferases, are under development. It 
+appears evident that the exploration of new targets for these antiaging agents 
+based on biogerontological research provides an incredible opportunity for the 
+healthcare and pharmaceutical industries. The present review focus on the 
+properties of slow aging and healthy life span extension of natural products 
+from various biological resources, endogenous substances, drugs, and synthetic 
+compounds, as well as the mechanisms of targets for antiaging evaluation. These 
+bioactive compounds that could benefit healthy aging and the potential role of 
+life span extension are discussed.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s13659-022-00339-y
+PMCID: PMC9086005
+PMID: 35534591
+
+Conflict of interest statement: The author declares no conflict of interest.
+
+
+202. J Gastrointest Cancer. 2023 Jun;54(2):536-544. doi:
+10.1007/s12029-022-00833-z.  Epub 2022 May 9.
+
+Hepatocellular Carcinoma in HIV-Infected Patients: Clinical Presentation and 
+Outcomes in a Racially Diverse Urban Population.
+
+D'Aiello A(#)(1), Rahman N(#)(1), Patrik Brodin N(2), Dave M(3), Jasra S(4), 
+Kaubisch A(3), Kabarriti R(2), Chuy J(5).
+
+Author information:
+(1)Department of Oncology, Montefiore Medical Center, Albert Einstein College of 
+Medicine, Bronx, NY, 10461, USA.
+(2)Department of Radiation Oncology, Montefiore Medical Center, Albert Einstein 
+College of Medicine, Bronx, NY, 10461, USA.
+(3)Department of Medicine (Hematology & Oncology), Saint Barnabas Medical 
+Center, Livingston, NY, 07039, USA.
+(4)Division of Hematology & Medical Oncology, University of Vermont, Larner 
+College of Medicine, Burlington, VT, 05405, USA.
+(5)Division of Hematology & Medical Oncology, NYU Langone Health, New York, NY, 
+10016, USA. jennifer.chuy@nyulangone.org.
+(#)Contributed equally
+
+PURPOSE: As life expectancy for HIV patients improve, hepatocellular carcinoma 
+(HCC) has become a non-AIDS defining illness with a high impact on morbidity and 
+mortality of HIV-infected individuals. We sought to compare outcomes in HIV- 
+versus non-HIV-infected patients treated for HCC at a multiethnic academic 
+medical health system.
+METHODS: A retrospective chart review of patients diagnosed with HCC from 
+1/1/2005 to 12/31/2016 was performed. Differences in characteristics among HIV 
+and non-HIV subjects were assessed. Associations between HIV status, viral load, 
+CD4 count, and overall survival (OS) were also assessed.
+RESULTS: We identified 915 subjects (842 non-HIV and 73 with HIV). HIV-infected 
+subjects were younger, predominantly male non-Hispanic Blacks, and more likely 
+to have HBV and HCV co-infection, and alcohol use at diagnosis compared to 
+non-HIV counterparts. Stage, MELD score, Child-Pugh, and ECOG performance status 
+were similar. HIV-positive patients received systemic therapy at significantly 
+higher rates and liver transplantation for HCC at significantly lower rates than 
+those without HIV. The actuarial 3- and 5-year overall survival (OS) for all 
+patients was 48.3% and 39.4%. For HIV-infected subjects, 3- and 5-year OS was 
+significantly worse at 36.8% and 28.3% compared to 49.3% and 40.4%, 
+respectively, for non-HIV subjects (log rank p = 0.033).
+CONCLUSIONS: HIV-infected HCC patients have lower survival rates compared to 
+those without HIV. Despite younger age and similar stage, MELD, and ECOG at 
+diagnosis, HIV portends worse outcomes in patients with HCC.
+
+© 2022. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s12029-022-00833-z
+PMID: 35534673 [Indexed for MEDLINE]
+
+
+203. Cardiovasc Diabetol. 2022 May 9;21(1):71. doi: 10.1186/s12933-022-01487-8.
+
+Differential prognostic burden of cardiovascular disease and lower-limb 
+amputation on the risk of all-cause death in people with long-standing type 1 
+diabetes.
+
+Camoin M(1)(2), Velho G(3), Saulnier PJ(4)(5)(6), Potier L(2)(3), Abouleka Y(2), 
+Carpentier C(7), Dubois S(7), Larroumet A(1), Rigalleau V(1)(8)(9), Gand E(5), 
+Bourron O(10)(11), Bordier L(12), Scheen A(13), Hadjadj S(14), Roussel R(2)(3), 
+Marre M(3)(15), Mohammedi K(16)(17)(18).
+
+Author information:
+(1)Department of Endocrinology, Diabetes and Nutrition, CEDEX, Bordeaux 
+University Hospital, Hôpital Haut-Lévêque, Avenue de Magellan, 33604, Pessac, 
+France.
+(2)Service d'Endocrinologie Diabétologie Nutrition, Hôpital Bichat, Fédération 
+de Diabétologie de Paris, AP-HP, Université de Paris, Paris, France.
+(3)INEM, INSERM, Université de Paris, Paris, France.
+(4)UFR de Médecine et Pharmacie, Université de Poitiers, Poitiers, France.
+(5)Centre d'Investigation Clinique, CHU de Poitiers, Poitiers, France.
+(6)Inserm, CIC 1402, Poitiers, France.
+(7)Service d'Endocrinologie Diabétologie Nutrition, CHU d'Angers, Angers, 
+France.
+(8)Faculty of Medicine, University of Bordeaux, Bordeaux, France.
+(9)INSERM U1219, Bordeaux Population Health Research Center, Bordeaux, France.
+(10)Service de Diabétologie et Métabolisme, APHP, Groupe Hospitalier La 
+Pitié-Salpêtrière, Sorbonne Université, Paris, France.
+(11)INSERM, UMRS 1138, Centre de Recherche des Cordeliers, Sorbonne Université, 
+Paris, France.
+(12)Service d'Endocrinologie, Hôpital Bégin, Saint Mandé, France.
+(13)CHU Liège, Liège Université, Liège, Belgique.
+(14)Institut du Thorax, INSERM, CNRS, UNIV Nantes, CHU Nantes, Nantes, France.
+(15)Clinique Ambroise Paré, Neuilly-sur-Seine, France.
+(16)Department of Endocrinology, Diabetes and Nutrition, CEDEX, Bordeaux 
+University Hospital, Hôpital Haut-Lévêque, Avenue de Magellan, 33604, Pessac, 
+France. km.mmohammedi@gmail.com.
+(17)Faculty of Medicine, University of Bordeaux, Bordeaux, France. 
+km.mmohammedi@gmail.com.
+(18)Biology of Cardiovascular Diseases, INSERM Unit 1034, Pessac, France. 
+km.mmohammedi@gmail.com.
+
+BACKGROUND: Cardiovascular disease (CVD) and nontraumatic lower-limb amputation 
+(LLA) each results in reduced life expectancy in patients with type 1 diabetes, 
+but the differential burden between these conditions is unknown. We compared the 
+effects of CVD and LLA on the risk of mortality in people with type 1 diabetes.

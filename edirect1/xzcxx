@@ -1,0 +1,1000 @@
+for HEV infection in SOT recipients in the UK.
+METHODS: A Markov cohort model was developed to evaluate the cost-utility of 4 
+HEV screening options over the lifetime of 1000 SOT recipients. The current 
+baseline of nonsystematic testing was compared with annual screening of all 
+patients by polymerase chain reaction (PCR; strategy A) or HEV-antigen (HEV-Ag) 
+detection (strategy B) and selective screening of patients who have a raised 
+alanine aminotransferase (ALT) value by PCR (strategy C) or HEV-Ag (strategy D). 
+The primary outcome was the incremental cost per quality-adjusted life-year 
+(QALY). We adopted the National Health Service (NHS) perspective and discounted 
+future costs and benefits at 3.5%.
+RESULTS: At a willingness-to-pay of £20 000/QALY gained, systematic screening of 
+SOT patients by any method (strategy A-D) had a high probability (77.9%) of 
+being cost-effective. Among screening strategies, strategy D is optimal and 
+expected to be cost-saving to the NHS; if only PCR testing strategies are 
+considered, then strategy C becomes cost-effective (£660/QALY). These findings 
+were robust against a wide range of sensitivity and scenario analyses.
+CONCLUSIONS: Our model showed that routine screening for HEV in SOT patients is 
+very likely to be cost-effective in the UK, particularly in patients presenting 
+with an abnormal alanine aminotransferase.
+
+Copyright © 2019 ISPOR–The Professional Society for Health Economics and 
+Outcomes Research. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2019.09.2751
+PMID: 32197726 [Indexed for MEDLINE]
+
+
+615. Value Health. 2020 Mar;23(3):343-350. doi: 10.1016/j.jval.2019.09.2753. Epub
+ 2019 Nov 11.
+
+Measuring Quality-Adjusted Life-Years When Health Fluctuates.
+
+Sanghera S(1), Coast J(2).
+
+Author information:
+(1)Health Economics Bristol, Population Health Sciences, Bristol Medical School, 
+University of Bristol, Bristol, England, UK. Electronic address: 
+sabina.sanghera@bristol.ac.uk.
+(2)Health Economics Bristol, Population Health Sciences, Bristol Medical School, 
+University of Bristol, Bristol, England, UK.
+
+Erratum in
+    Value Health. 2020 Dec;23(12):1672.
+
+Recurrent fluctuations in health states can occur as a result of long-term 
+conditions with episodic symptoms or through side effects of cycles of 
+treatment. Fluctuations and associated duration of symptoms can be predictable 
+(eg, side effects of chemotherapy treatment) or unpredictable (eg, relapse in 
+multiple sclerosis). Such recurrent fluctuations in health states can have an 
+important impact on a person's health-related quality of life. When symptoms 
+vary by time of day, day of the week, or during the month, it is challenging to 
+obtain reliable health-related quality of life estimates for use in assessing 
+cost-effectiveness of interventions. The adequacy of the quality of life 
+estimate will be affected by (1) the standard recall period associated with the 
+chosen measure (eg, "health today" EQ-5D, "past 4 weeks" for SF-36/SF-6D) and 
+the way that respondents understand and make judgments about these recall 
+periods, (2) the chosen time points for assessing health-related quality of life 
+in relation to the fluctuations in health, and (3) the assumptions used to 
+interpolate between measurement time points and thus calculate the 
+quality-adjusted life-years. These issues have not received sufficient 
+methodological attention and instead remain poorly accounted for in economic 
+analyses. There is potential for these issues to considerably distort treatment 
+decisions away from the optimal allocation. This article brings together 
+evidence from health economics, psychology, and behavioral economics to explore 
+these challenges in depth; presents the solutions that have been applied to 
+date; and details a methodological research agenda for measuring 
+quality-adjusted life-years in recurrent fluctuating health states.
+
+Copyright © 2019 ISPOR–The Professional Society for Health Economics and 
+Outcomes Research. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2019.09.2753
+PMID: 32197730 [Indexed for MEDLINE]
+
+
+616. Value Health. 2020 Mar;23(3):379-387. doi: 10.1016/j.jval.2019.09.2755. Epub
+ 2019 Nov 8.
+
+Mapping WOMAC Onto the EQ-5D-5L Utility Index in Patients With Hip or Knee 
+Osteoarthritis.
+
+Bilbao A(1), Martín-Fernández J(2), García-Pérez L(3), Arenaza JC(4), 
+Ariza-Cardiel G(5), Ramallo-Fariña Y(3), Ansola L(6).
+
+Author information:
+(1)Osakidetza Basque Health Service, Basurto University Hospital, Research Unit, 
+Bilbao, Spain; Health Service Research Network on Chronic Diseases, Bilbao, 
+Spain; Kronikgune Institute for Health Services Research, Barakaldo, Spain. 
+Electronic address: amaia.bilbaogonzalez@osakidetza.eus.
+(2)Health Service Research Network on Chronic Diseases, Bilbao, Spain; Oeste 
+Multiprofessional Teaching Unit of Primary and Community Care, Primary 
+Healthcare Management, Madrid Health Service, Madrid, Spain; Health Sciences 
+Faculty, Rey Juan Carlos University, Madrid, Spain.
+(3)Health Service Research Network on Chronic Diseases, Bilbao, Spain; Fundación 
+Canaria de Investigación Sanitaria, Santa Cruz de Tenerife, Tenerife, Spain.
+(4)Health Service Research Network on Chronic Diseases, Bilbao, Spain; 
+Osakidetza Basque Health Service, Basurto University Hospital, Traumatology and 
+Orthopedic Surgery Service, Bilbao, Spain.
+(5)Health Service Research Network on Chronic Diseases, Bilbao, Spain; Oeste 
+Multiprofessional Teaching Unit of Primary and Community Care, Primary 
+Healthcare Management, Madrid Health Service, Madrid, Spain.
+(6)Osakidetza Basque Health Service, Basurto University Hospital, Research Unit, 
+Bilbao, Spain.
+
+OBJECTIVES: To map the Western Ontario and McMaster Universities Osteoarthritis 
+Index (WOMAC) onto the EQ-5D-5L in patients with hip or knee osteoarthritis 
+(OA).
+METHODS: A prospective observational study was conducted on 758 patients with 
+hip or knee OA who completed the EQ-5D-5L and WOMAC questionnaires, of whom 644 
+completed them both again 6 months later. Baseline data were used to derive 
+mapping functions. Generalized additive models were used to identify to which 
+powers the WOMAC subscales should be raised to achieve a linear relationship 
+with the response. For the modeling, general linear models (GLM), Tobit models, 
+and beta regression models were used. Age, sex, and affected joints were also 
+considered. Preferred models were selected based on Akaike and Bayesian 
+information criteria, adjusted R2, mean absolute error (MAE), and root mean 
+squared error (RMSE). The functions were validated with the follow-up data using 
+MAE, RMSE, and the intraclass correlation coefficient.
+RESULTS: The preferred models were a GLM with Pain2+Pain3+Function+Pain·Function 
+as covariates and a beta model with Pain3+Function+Function2+Function3 as 
+covariates. The adjusted R2 were similar (0.6190 and 0.6136, respectively). The 
+predictive performance of these models in the validation sample was similar and 
+both models showed an overprediction for health states worse than death.
+CONCLUSION: To our knowledge, these are the first functions mapping the WOMAC 
+onto the EQ-5D-5L in patients with hip or knee OA. They showed an acceptable fit 
+and precision and could be very useful for clinicians and researchers when 
+cost-effectiveness studies are needed and generic preference-based 
+health-related quality of life instruments to derive utilities are not 
+available.
+
+Copyright © 2019 ISPOR–The Professional Society for Health Economics and 
+Outcomes Research. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2019.09.2755
+PMID: 32197734 [Indexed for MEDLINE]
+
+
+617. Value Health. 2020 Mar;23(3):397-405. doi: 10.1016/j.jval.2019.12.004. Epub
+2020  Feb 15.
+
+Are Current Reporting Standards Used to Describe Health State Utilities in 
+Cost-Effectiveness Models Satisfactory?
+
+Ara R(1), Hill H(1), Lloyd A(2), Woods HB(1), Brazier J(3).
+
+Author information:
+(1)Health Economics and Decision Science, University of Sheffield, Sheffield, 
+England, UK.
+(2)Acaster Lloyd Consulting Ltd, London, England, UK.
+(3)Health Economics and Decision Science, University of Sheffield, Sheffield, 
+England, UK. Electronic address: j.e.brazier@sheffield.ac.uk.
+
+OBJECTIVE: The aims of this study were to examine current reporting standards of 
+health state utilities (HSU) using a review of published cost-effectiveness 
+analyses in cardiovascular disease and to explore the impact of variation in 
+model inputs used in these on estimated quality-adjusted life-years (QALYs) and 
+cost-effectiveness.
+METHODS: Key health/economics bibliographic databases were searched to identify 
+relevant articles published after 2014. Any narrative or values relating to the 
+HSU used in the model were extracted and reviewed. The HSUs were systematically 
+applied to an existing model to explore the influence of different values on 
+QALYs and the incremental cost-effectiveness ratio.
+RESULTS: Twenty-four peer-reviewed articles were identified. Only 2 studies 
+referred to a literature review for the HSUs. Most (18 of 24) referenced 
+previously published economic studies (as opposed to the original source) for at 
+least 1 of the HSUs. Only 4 studies referenced the original sources and reported 
+all of the HSUs accurately, and several did not provide all the HSUs. Little 
+information was provided on the methods used to calculate QALYs, for example, 
+the duration of time for acute HSUs, what the baseline HSU was, the method that 
+was used to assign HSUs for subsequent different events, or how constant HSUs 
+for clinical events were combined with age-adjusted baseline values. The huge 
+differences in HSUs used in the studies produced substantial variations in the 
+QALYs and incremental cost-effectiveness ratios generated from the 
+cost-effectiveness model.
+CONCLUSION: Current standards are poor, and there is a need for greater 
+transparency in reporting the HSUs used in cost-effectiveness models.
+
+Copyright © 2020 ISPOR–The Professional Society for Health Economics and 
+Outcomes Research. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2019.12.004
+PMID: 32197736 [Indexed for MEDLINE]
+
+
+618. Pediatr Cardiol. 2020 Mar;41(3):546-552. doi: 10.1007/s00246-020-02298-y.
+Epub  2020 Mar 20.
+
+Predicting the Future: Tetralogy of Fallot Will Be Primarily Treated with 
+Catheter Based Intervention Within Two Decades. Surgeon's Perspective.
+
+Barron DJ(1)(2), Vanderlaan RD(3).
+
+Author information:
+(1)Division of Cardiovascular Surgery, Hospital for Sick Children, Rm 1525 Hill 
+Wing, 555 University Ave, Toronto, ON, M5G 1X8, Canada. 
+david.barron@sickkids.ca.
+(2)Department of Surgery, University of Toronto, Toronto, Canada. 
+david.barron@sickkids.ca.
+(3)Division of Cardiovascular Surgery, Hospital for Sick Children, Rm 1525 Hill 
+Wing, 555 University Ave, Toronto, ON, M5G 1X8, Canada.
+
+Interventional cardiology has made extraordinary advances over recent years, but 
+most are still limited to addressing single intracardiac or valvular lesions. 
+This debate considers whether complete interventional repair of more complex 
+congenital defects might become achievable. Tetralogy of Fallot (ToF) is 
+probably the first candidate where complete interventional repair might be 
+achieved-given that various components of the defect have already been 
+successfully addressed-albeit as either a palliative intervention (RVOT 
+stenting) or to address the sequelae of standard surgery (percutaneous PVR). 
+This article considers the challenges that would need to be overcome in terms of 
+the morphology of the condition, the age limitations, and the necessary 
+technological advancements that would be required-while setting these against 
+the benchmark of current surgical outcomes and the parallel progress that is 
+being developed in surgical correction. While complete interventional repair of 
+ToF may still be beyond current techniques, a hybrid approach between surgeons 
+and intentional cardiologists can strive to create a life-long paradigm of care 
+that minimizes the need for surgery and focuses on the maintenance of a healthy 
+right ventricle, such that patients born with ToF can achieve normal life 
+expectancy.
+
+DOI: 10.1007/s00246-020-02298-y
+PMID: 32198582 [Indexed for MEDLINE]
+
+
+619. Curr Cardiol Rep. 2020 Mar 20;22(5):28. doi: 10.1007/s11886-020-01278-1.
+
+Autoimmunity in Acute Myocarditis: How Immunopathogenesis Steers New Directions 
+for Diagnosis and Treatment.
+
+Bruestle K(1), Hackner K(2)(3), Kreye G(4), Heidecker B(5).
+
+Author information:
+(1)Columbia Center for Translational Immunology, Columbia University College of 
+Physicians and Surgeons, New York, NY, USA.
+(2)Department of Pneumology, University Hospital Krems, Karl Landsteiner 
+University of Health Sciences, Krems, Austria.
+(3)Department of Internal Medicine II, Vienna General Hospital, Division of 
+Cardiology, Medical University of Vienna, Vienna, Austria.
+(4)Division of Palliative Care, Department of Internal Medicine 2, Karl 
+Landsteiner University of Health Sciences, University Hospital Krems, Krems, 
+Austria.
+(5)Division of Cardiology, University Hospital Berlin, Charite, Campus Benjamin 
+Franklin, Berlin, Germany. bettina.heidecker@charite.de.
+
+PURPOSE OF REVIEW: Over the last decade, myocarditis has been increasingly 
+recognized as common cause of sudden cardiac death in young adults and heart 
+failure overall. The purpose of this review is to discuss hypothesis of 
+development of non-infectious myocarditis, to provide a description of the 
+immunopathogenesis and the most common mechanisms of autoimmunity in 
+myocarditis, and to provide an update on therapeutic options.
+RECENT FINDINGS: A new entity of myocarditis is immune checkpoint inhibitor 
+(ICI) induced myocarditis. ICIs are used in advanced cancer to "disinhibit" the 
+immune system and make it more aggressive in fighting cancer. This novel drug 
+class has doubled life expectancy in metastatic melanoma and significantly 
+increased progression free survival in advanced non-small-cell lung cancer, but 
+comes with a risk of autoimmune diseases such as myocarditis resulting from an 
+overly aggressive immune system. Myocarditis is an inflammatory disease of the 
+heart with major public health impact. Thorough understanding of its 
+immunopathogenesis is crucial for accurate diagnosis and effective treatment.
+
+DOI: 10.1007/s11886-020-01278-1
+PMCID: PMC7083821
+PMID: 32198622 [Indexed for MEDLINE]
+
+Conflict of interest statement: Karina Bruestle, Klaus Hackner, Gudrun Kreye, 
+and Bettina Heidecker declare that they have no conflict of interest.
+
+
+620. Lancet Neurol. 2020 Apr;19(4):279. doi: 10.1016/S1474-4422(20)30061-2. Epub
+2020  Mar 18.
+
+A radical proposal for the EU budget: brain health.
+
+The Lancet Neurology.
+
+DOI: 10.1016/S1474-4422(20)30061-2
+PMID: 32199084 [Indexed for MEDLINE]
+
+
+621. Clin Ther. 2020 May;42(5):860-872.e8. doi: 10.1016/j.clinthera.2020.02.020.
+Epub  2020 Mar 18.
+
+The Cost-effectiveness of Eltrombopag for the Treatment of Immune 
+Thrombocytopenia in the United States.
+
+Tremblay G(1), Dolph M(2), Roy AN(3), Said Q(3), Forsythe A(2).
+
+Author information:
+(1)Purple Squirrel Economics, New York, NY, USA. Electronic address: 
+gabrieltremblay@pshta.com.
+(2)Purple Squirrel Economics, New York, NY, USA.
+(3)Novartis Pharmaceuticals Corporation, East Hanover, NY, USA.
+
+PURPOSE: Eltrombopag was evaluated as a second-line treatment for adult chronic 
+immune thrombocytopenia (ITP) in the 2006 Phase III RAISE (Eltrombopag for 
+Management of Chronic Immune Thrombocytopenia) randomized, placebo-controlled 
+trial. More than 80% of patients reached satisfactory platelet counts within 2 
+weeks. However, the economic value of eltrombopag as a second-line treatment for 
+ITP remains to be formally assessed. This study aimed to estimate the 
+cost-effectiveness of treating ITP with a comparable thrombopoietin receptor 
+agonist (eltrombopag vs romiplostim).
+METHODS: A Markov model was implemented over a lifetime time horizon to estimate 
+the benefits and costs of each treatment. The model featured 3 health states 
+based on current guidelines: (1) on treatment; (2) treatment 
+failure/discontinuation; and (3) mortality. In line with therapeutic goals in 
+ITP, model patients could experience 3 events: no bleeding, mild/moderate 
+bleeding, or severe bleeding. Data on eltrombopag use were obtained from an 
+open-label extension of previous Phase II/III trials, including RAISE. 
+Romiplostim data were obtained from Phase III trials and an extension study. 
+Lifetime overall survival was extrapolated by using treatment-specific mortality 
+rates derived from severe bleeding and natural mortality rates. The costs of 
+drugs, routine care, bleeding episodes, adverse events, and mortality were 
+represented in the model.
+FINDINGS: Eltrombopag-treated patients gained 17.58 life years and 14.68 
+quality-adjusted life years, whereas romiplostim-treated patients gained 17.52 
+life years and 14.67 quality-adjusted life years. The total lifetime cost of 
+eltrombopag treatment was estimated at $1.58 million versus $2.13 million for 
+romiplostim. Sensitivity analyses supported base case findings. Deterministic 
+sensitivity analysis predicted the greatest sensitivity to the rates of severe 
+bleeding, discontinuation, and natural mortality. Probabilistic sensitivity 
+analysis showed that eltrombopag would be an efficient use of resources at a 
+$50,000 threshold in 52.8% of cases. In all probabilistic iterations, the total 
+cost of eltrombopag treatment was lower than with romiplostim, primarily because 
+of lower drug costs.
+IMPLICATIONS: Clinical data were applied in an economic analysis, and 
+eltrombopag exhibited economic dominance compared with romiplostim, driven 
+largely by the reduced costs of primary therapy. This model was limited by a 
+lack of specific patient-level data and robust data on the duration of secondary 
+therapy, as well as by the fact that utilization values are likely conservative 
+estimates for routine care use.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.clinthera.2020.02.020
+PMID: 32199608 [Indexed for MEDLINE]
+
+
+622. Prev Med. 2020 May;134:106066. doi: 10.1016/j.ypmed.2020.106066. Epub 2020
+Mar  19.
+
+Tetanus, diphtheria and acellular pertussis (Tdap) vaccine for prevention of 
+pertussis among adults aged 19 years and older in the United States: A 
+cost-effectiveness analysis.
+
+Cho BH(1), Acosta AM(2), Leidner AJ(3), Faulkner AE(2), Zhou F(4).
+
+Author information:
+(1)National Center for Immunization and Respiratory Diseases, Centers for 
+Disease Control and Prevention, 1600 Clifton Rd. NE Mailstop H24-4, Atlanta, GA 
+30329, United States of America. Electronic address: bcho@cdc.gov.
+(2)National Center for Immunization and Respiratory Diseases, Centers for 
+Disease Control and Prevention, 1600 Clifton Rd. NE Mailstop H24-6, Atlanta, GA 
+30329, United States of America.
+(3)Berry Technology Solutions, 525 Westpark Dr Suite 310, Peachtree City, GA 
+30269, United States of America.
+(4)National Center for Immunization and Respiratory Diseases, Centers for 
+Disease Control and Prevention, 1600 Clifton Rd. NE Mailstop H24-4, Atlanta, GA 
+30329, United States of America.
+
+Currently, the Advisory Committee on Immunization Practices recommends one-time 
+tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis (Tdap) 
+vaccination for all adults 19 years and older. This study is designed to 
+evaluate the cost-effectiveness of Tdap vaccination for Tdap-eligible adults 
+aged 19 through 85 in the United States. A cost-effectiveness model was 
+developed to compute costs and health outcomes associated with pertussis among 
+100,000 Tdap-eligible persons of each age cohort. From the societal perspective, 
+the cost per quality-adjusted life-year (QALY) saved was evaluated under the 
+vaccination scenarios. Sensitivity analyses were also conducted to evaluate the 
+impacts of changes in key variables. All costs were adjusted to 2018 US$ with an 
+annual discount rate of 3% applied to costs and outcomes. The incremental 
+cost-effectiveness ratios (ICERs) for vaccinating US adults aged 19 to 85 with 
+Tdap ranged from $248,000/QALY to $900,000/QALY. The lowest cost per QALY was 
+found to be $248,000 for the age 65 cohort, followed by $332,000 for the cohort 
+of age 19, and followed by $477,000 for the age 50 cohort. Sensitivity analysis 
+showed the most dramatic changes in ICER occurred when changing the 
+underreporting factor, vaccine effectiveness and vaccination costs. While Tdap 
+vaccination may not be as cost effective as predicted earlier, it remains the 
+best available preventive measure against pertussis. Further investigation of 
+the true burden of pertussis disease among adults and the effectiveness of Tdap 
+vaccination in this population is needed to better estimate the impact of Tdap 
+vaccination.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.ypmed.2020.106066
+PMCID: PMC7378888
+PMID: 32199910 [Indexed for MEDLINE]
+
+Conflict of interest statement: Financial disclosure/Declaration of competing 
+interest No funding source for disclosure. The authors have no financial 
+relationships relevant to this article to disclose. The authors have no 
+conflicts of interest relevant to this article to disclose.
+
+
+623. Dermatol Ther (Heidelb). 2020 Jun;10(3):431-447. doi: 
+10.1007/s13555-020-00367-x. Epub 2020 Mar 21.
+
+Efficacy and Safety of Ixekizumab Through 5 Years in Moderate-to-Severe 
+Psoriasis: Long-Term Results from the UNCOVER-1 and UNCOVER-2 Phase-3 Randomized 
+Controlled Trials.
+
+Leonardi C(1), Reich K(2)(3), Foley P(4), Torii H(5), Gerdes S(6), Guenther 
+L(7), Gooderham M(8), Ferris LK(9), Griffiths CEM(10), ElMaraghy H(11), Crane 
+H(11), Patel H(11), Burge R(11), Gallo G(11), Shrom D(12), Leung A(13), Lin 
+CY(11), Papp K(14).
+
+Author information:
+(1)Central Dermatology, St. Louis, MO, USA.
+(2)Center for Translational Research in Inflammatory Skin Diseases, Institute 
+for Health Services Research in Dermatology and Nursing, University Medical 
+Center Hamburg-Eppendorf, Hamburg, Germany.
+(3)Skinflammation® Center, Hamburg, Germany.
+(4)St. Vincent's Hospital Melbourne and Probity Medical Research, Skin Health 
+Institute, The University of Melbourne, Melbourne, VIC, Australia.
+(5)Division of Dermatology, Tokyo Yamate Medical Center, Tokyo, Japan.
+(6)Psoriasis-Center at the Department of Dermatology, University Medical Center 
+Schleswig-Holstein, Campus Kiel, Kiel, Germany.
+(7)Guenther Dermatology Research Centre, London, ON, Canada.
+(8)SkiN Centre for Dermatology and Probity Medical Research, Peterborough, ON, 
+Canada.
+(9)University of Pittsburgh Medical Center, Pittsburgh, PA, USA.
+(10)Dermatology Centre, Salford Royal Hospital, University of Manchester, 
+Manchester, UK.
+(11)Eli Lilly and Company, Lilly Corporate Center, Indianapolis, IN, USA.
+(12)Eli Lilly and Company, Lilly Corporate Center, Indianapolis, IN, USA. 
+shrom_david_stanley@lilly.com.
+(13)Syneos Health, Morrisville, NC, USA.
+(14)K. Papp Clinical Research and Probity Medical Research Inc., Waterloo, ON, 
+Canada.
+
+INTRODUCTION: Ixekizumab, a high-affinity monoclonal antibody that selectively 
+targets interleukin-17A, is approved for treatment of moderate-to-severe plaque 
+psoriasis. Our objective was to evaluate the long-term efficacy and safety of 
+ixekizumab in moderate-to-severe plaque psoriasis through 5 years.
+METHODS: Data were integrated from the UNCOVER-1 and UNCOVER-2, randomized, 
+double-blinded, phase-3 trials. Patients who continuously received the labeled 
+ixekizumab dose, were static Physician's Global Assessment (sPGA) (0,1) 
+responders at Week 12 and completed 60 weeks of treatment could enter the 
+long-term extension (LTE) period. Patients could escalate to every-2-week dosing 
+per investigator opinion. Efficacy and health outcomes included proportion of 
+patients achieving Psoriasis Area and Severity Index (PASI) 75/90/100, sPGA 
+(0,1) and (0), absolute PASI ≤ 5/ ≤ 3/ ≤ 2/ ≤ 1 and Dermatology Life Quality 
+Index (DLQI) (0,1). Results exclude patients who escalated to every-2-week 
+dosing. A modified non-responder imputation method was used to account for 
+missing data. Supplemental analyses include patients who escalated to 
+every-2-week dosing and observed and multiple imputation results. 
+Exposure-adjusted safety outcomes are also reported.
+RESULTS: Of 206 patients who entered the LTE periods, 172 completed treatment. 
+At Week 60, PASI 75/90/100 responses were 94.7%, 85.0% and 62.1%, respectively, 
+and at year 5 were 90.3%, 71.3% and 46.3%, respectively. Similarly, meaningful 
+responses were achieved for the other efficacy and health measures. Among 
+patients with PASI 100 through 5 years, 92% achieved DLQI (0,1), indicating no 
+impact of skin disease on quality of life. During the LTE period, 
+exposure-adjusted incidence rates were 31.4 per 100 patient-years for 
+treatment-emergent adverse events and 6.8 per 100 patient-years for serious 
+adverse events. No deaths were reported. No new or unexpected safety findings 
+were noted.
+CONCLUSIONS: The results demonstrate 80 mg ixekizumab maintains long-term 
+efficacy and a safety profile consistent with previous data in patients with 
+moderate-to-severe plaque psoriasis through 5 years of treatment.
+TRIAL REGISTRATION: ClinicalTrials.gov identifier, UNCOVER-1: NCT01474512, 
+UNCOVER-2: NCT01597245.
+
+DOI: 10.1007/s13555-020-00367-x
+PMCID: PMC7211779
+PMID: 32200512
+
+
+624. Injury. 2020 Jun;51(6):1346-1351. doi: 10.1016/j.injury.2020.03.002. Epub
+2020  Mar 2.
+
+Internal fixation versus hemiarthroplasty for displaced femoral neck fractures 
+in the elderly: A cost-effectiveness analysis.
+
+Liu H(1), Li N(2), Zhang X(1), He L(3), Li D(4), Li Y(2), Zhao G(2), Wu X(2).
+
+Author information:
+(1)Department of Orthopedics, Beijing Children's Hospital, Capital Medical 
+University, National Center for Children's Health, China, 100045.
+(2)Department of Orthopedics and Traumatology, Beijing Jishuitan Hospital, 
+China, 100035.
+(3)Department of Orthopedics and Traumatology, Beijing Jishuitan Hospital, 
+China, 100035. Electronic address: lianghedoctor@163.com.
+(4)Department of Anesthesiology, Beijing Children's Hospital, Capital Medical 
+University, National Center for Children's Health, China, 100045.
+
+BACKGROUND: There is little information on the cost and outcome of different 
+treatments for femoral neck fractures. This study aimed to evaluate the 
+cost-effectiveness of internal fixation compared with hemiarthroplasty (HA) for 
+elderly patients with displaced femoral neck fractures.
+MATERIALS AND METHODS: A total of 121 patients ≥ 65 years old were divided into 
+internal fixation (n = 58) or HA group (n = 63). Clinical outcome was evaluated 
+by the EuroQol 5 dimensions (EQ-5D) score at 3, 12, and 24 months. The total 
+costs including medical and non-medical expense were collected through 
+hospitalisation information, cost diaries, and telephone interviews. A 
+cost-utility analysis of the total costs in combination with quality-adjusted 
+life years (QALYs) calculated by EQ-5D and survival time was conducted. Results 
+were expressed in incremental cost-effectiveness ratio (ICER).
+RESULTS: The mean EQ-5D index score in the HA group were higher at the early 
+follow-up (p<0.05). At 24 months there were no differences in EQ-5D between the 
+2 treatment groups (p>0.05). Over the 2-year period, patients treated with HA 
+gained 0.09-0.10 more QALYs than those treated with internal fixation, while the 
+mean total costs for internal fixation (CNY 55,676) were significantly lower 
+than for HA (CNY 80,297) (P<0.001). ICER indicated that internal fixation may be 
+more cost-effective than HA.
+CONCLUSION: HA is associated with better outcome than internal fixation in the 
+treatment of displaced femoral neck fractures in elderly patients. However, 
+internal fixation may be more cost-effective because of less total cost.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.injury.2020.03.002
+PMID: 32201118 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest This authors 
+declare that they have no actual or potential conflicts of interest.
+
+
+625. Sex Med. 2020 Jun;8(2):307-314. doi: 10.1016/j.esxm.2020.02.001. Epub 2020
+Mar  20.
+
+The Effect of Different Surgical Methods on Female and Male Sexual Activity and 
+Marital Quality in Patients With Early-Stage Cervical Cancer.
+
+Zhang Y(1), Sun S(1), Ding J(1), Hua K(2).
+
+Author information:
+(1)Department of Gynecology, The Obstetrics and Gynecology Hospital, Shanghai, 
+P.R. China; Shanghai Key Laboratory of Female Reproductive Endocrine-Related 
+Diseases, The Obstetrics and Gynecology Hospital, Fudan University, Shanghai, 
+P.R. China.
+(2)Department of Gynecology, The Obstetrics and Gynecology Hospital, Shanghai, 
+P.R. China; Shanghai Key Laboratory of Female Reproductive Endocrine-Related 
+Diseases, The Obstetrics and Gynecology Hospital, Fudan University, Shanghai, 
+P.R. China. Electronic address: huakeqin@fudan.edu.cn.
+
+INTRODUCTION: Sexual activity is important for marital quality, especially in 
+cervical cancer survivors. Vagina extension following laparoscopic radical 
+hysterectomy with bilateral ovarian preservation (VEOP), vagina extension 
+following laparoscopic radical hysterectomy with bilateral oophorectomy (VEBO), 
+radical hysterectomy with bilateral ovarian preservation (RHOP), and radical 
+hysterectomy with bilateral oophorectomy (RHBO) are the common surgeries for 
+young cervical cancer patients.
+AIM: To investigate the effect of the 4 surgical methods on female/male sexual 
+activity and marital quality in early-stage cervical cancer survivors.
+METHODS: Multiple linear regression analysis was conducted in 205 patients with 
+stage Ia1-IIa2 cervical cancer to evaluate the factors that affected male/female 
+sexual function and marital quality.
+MAIN OUTCOME MEASURE: Female Sexual Function Index (FSFI), modified Kupperman 
+Index (KI), modified Sexual Life Quality Questionnaire (mSLQQ-QoL), and ENRICH 
+marital inventory were used to reflect changes in female/male sexual function 
+and marital quality in the 4 groups.
+RESULTS: Female/male sexual function and marital quality were both highest in 
+the VEOP group and lowest in the RHBO group. The regression results showed that 
+ovarian preservation and vaginal extension were associated with female/male 
+sexual function and marital quality. Furthermore, when vaginal extension and 
+ovarian preservation were replaced by vaginal length, sexual psychological 
+change, and hormone level index (KI), respectively; male sexual function was 
+associated with vaginal length and sexual psychological change, whereas female 
+sexual function and marital quality were only associated with hormone level and 
+sexual psychological change. Clinical statistics found that four-fifths of the 
+recurrent patients had vaginal extension (P = .042), and 3-quarters of these 
+patients had large tumors.
+CONCLUSION: Ovarian preservation and vaginal extension are both important for 
+male/female sexual activity and marital quality. Vaginal extension may play a 
+positive role in female sexual life via psychology and in male sexual life via 
+vaginal length. Vaginal extension may not be suitable for patients with large 
+masses. Zhang Y, Sun S, Ding J, et al. The Effect of Different Surgical Methods 
+on Female and Male Sexual Activity and Marital Quality in Patients With 
+Early-Stage Cervical Cancer. Sex Med 2020;8:307-314.
+
+Copyright © 2020 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.esxm.2020.02.001
+PMCID: PMC7261673
+PMID: 32201215
+
+
+626. J Pain Symptom Manage. 2020 Aug;60(2):336-345. doi: 
+10.1016/j.jpainsymman.2020.03.009. Epub 2020 Mar 20.
+
+Dialysis Decision Making and Preferences for End-of-Life Care: Perspectives of 
+Pakistani Patients Receiving Maintenance Dialysis.
+
+Saeed F(1), Sardar M(2), Rasheed K(3), Naseer R(4), Epstein RM(5), Davison 
+SN(6), Mujtaba M(7), Fiscella KA(8).
+
+Author information:
+(1)Division of Nephrology, Department of Medicine, University of Rochester 
+School of Medicine and Dentistry, Rochester, New York, USA; Division of 
+Palliative Care, University of Rochester School of Medicine and Dentistry, 
+Rochester, New York, USA. Electronic address: fahad_saeed@urmc.rochester.edu.
+(2)Department of Medicine, University of Arizona, Tuscan, Arizona, USA.
+(3)Department of Medicine, Shifa medical Center, Islamabad, Pakistan.
+(4)The Wright Center for Community Health, Scranton, Pennsylvania, USA.
+(5)Division of Palliative Care, University of Rochester School of Medicine and 
+Dentistry, Rochester, New York, USA; Department of Psychiatry, University of 
+Rochester School of Medicine and Dentistry, Rochester, New York, USA; Department 
+of Family Medicine and Center for Communication and Disparities Research, 
+University of Rochester School of Medicine and Dentistry, Rochester, New York, 
+USA.
+(6)Division of Nephrology & Immunology, University of Alberta, Edmonton, 
+Alberta, Canada.
+(7)Division of Nephrology, Department of Medicine, University of Texas Medical 
+Branch, Galveston, Texas, USA.
+(8)Department of Family Medicine and Center for Communication and Disparities 
+Research, University of Rochester School of Medicine and Dentistry, Rochester, 
+New York, USA.
+
+CONTEXT: Previous studies from the U.S. and Canada report deficiencies in 
+informed decision making and a need to improve end-of-life (EoL) care in 
+patients undergoing dialysis. However, there is a paucity of literature on these 
+issues in Pakistani dialysis patients, who differ from Western patients in 
+culture, religion, and available health care services.
+OBJECTIVES: To study informed dialysis decision-making and EoL attitudes and 
+beliefs in Pakistani patients receiving dialysis.
+METHODS: We used convenience sampling to collect 522 surveys (90% response rate) 
+from patients in seven different dialysis units in Pakistan. We used an existing 
+dialysis survey tool, translated into Urdu, and backtranslated to English. A 
+facilitator distributed the survey, explained questions, and orally administered 
+it to patients unable to read.
+RESULTS: Less than one-fourth of the respondents (23%) felt informed about their 
+medical condition, and 45% were hopeful that their condition would improve in 
+the future. More than half (54%) wished to know their prognosis, and 80% 
+reported having no prognostic discussion. Almost 63% deemed EoL planning 
+important, but only 5% recalled discussing EoL decisions with a doctor during 
+the last 12 months. Nearly 62% of the patients regretted their decision to start 
+dialysis. Patients' self-reported knowledge of hospice (5%) and palliative care 
+(7.9%) services was very limited, yet 46% preferred a treatment plan focused on 
+comfort and symptom management rather than life extension.
+CONCLUSION: Pakistani patients reported a need for better informed dialysis 
+decision making and EoL care and better access to palliative care services. 
+These findings underscore the need for palliative care training of Pakistani 
+physicians and in other developing countries to help address communication and 
+EoL needs of their dialysis patients.
+
+Copyright © 2020 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jpainsymman.2020.03.009
+PMCID: PMC7375006
+PMID: 32201311 [Indexed for MEDLINE]
+
+
+627. Heart. 2020 Jul;106(13):970-976. doi: 10.1136/heartjnl-2019-315407. Epub
+2020  Mar 22.
+
+Aortic stenosis in women.
+
+Shan Y(1)(2), Pellikka PA(3).
+
+Author information:
+(1)Department of Cardiovascular Medicine, Mayo Clinic, Rochester, Minnesota, 
+USA.
+(2)Department of Cardiology, Huashan Hospital Fudan University, Shanghai, China.
+(3)Department of Cardiovascular Medicine, Mayo Clinic, Rochester, Minnesota, USA 
+pellikka.patricia@mayo.edu.
+
+Aortic stenosis (AS) is a common valve disorder in an ageing population in 
+western countries, and women, with longer life expectancy, comprise a 
+substantial percentage of elderly patients with AS. Compared with men, women 
+exhibit distinctive characteristics at the level of stenotic valve leaflets and 
+subsequent compensatory responses of the left ventricle to chronic pressure 
+overload, and in clinical presentation, consequences and response to 
+intervention. Randomised controlled trials of transcatheter aortic valve 
+implantation have yielded new evidence of sex differences in both short-term and 
+long-term outcomes after intervention. A comprehensive knowledge of the existing 
+evidence may inform our understanding of gender differences during assessment 
+and treatment of patients with AS. In this paper, we review the available 
+evidence regarding sex differences in AS in terms of symptoms, clinical 
+presentation, anatomical differences and pathophysiological progression, 
+management and outcomes after aortic valve replacement. Implications for further 
+research are suggested.
+
+© Author(s) (or their employer(s)) 2020. No commercial re-use. See rights and 
+permissions. Published by BMJ.
+
+DOI: 10.1136/heartjnl-2019-315407
+PMID: 32201373 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+628. J Family Reprod Health. 2019 Sep;13(3):132-140.
+
+Being Married Increases Life Expectancy of White but Not Black Americans.
+
+Assari S(1), Bazargan M(1)(2).
+
+Author information:
+(1)Departments of Family Medicine, College of Medicine, Charles R Drew 
+University of Medicine and Science, CA, United States.
+(2)Departments of Family Medicine, University of California, Los Angeles (UCLA), 
+Los Angeles, CA, United States.
+
+Objective: The positive effect of high socioeconomic position (SEP) on health is 
+well established. According Minorities' Diminished Returns (MDRs) theory, 
+however, the SEP-health link is smaller for Blacks compared to Whites. Using a 
+25-year follow up data of a national sample, this study tested racial 
+differences in the effects of marital status on life expectancy among American 
+adults. Materials and methods: The data of Americans' Changing Lives (ACL, 1986 
+- 2011) were used. The ACL is a nationally representative longitudinal cohort 
+study followed 3,361 White or Blacks adults from 1986 to 2011. The predictor of 
+interest was marital status in 1986. Confounders included demographic factors 
+(age and gender), SEP (education and employment), health behaviors (drinking, 
+smoking, and physical activity), and health status (depressive symptoms, chronic 
+disease, and self-rated health) all measured at baseline. Race was the moderator 
+variable. All-cause mortality was the main dependent variable (outcome). Cox 
+proportional hazard modeling was applied for data analysis. Results: In the 
+overall sample, individuals who were married at baseline had a lower risk of 
+mortality during the 25 years of follow up. Race altered the effect of marital 
+status on life expectancy, indicating smaller protective effect for Blacks 
+relative to Whites. Race -specific Cox regression models showed an association 
+between marital status and life expectancy for White but not Black Americans. 
+Conclusion: In line with the MDRs theory, the health gain that follows marital 
+status is diminished for Black Americans compared to White Americans. Only 
+equalizing SEP across racial groups may not be adequate for eliminating 
+racial/ethnic health inequalities. Policies should go beyond SEP and reduce 
+societal and structural barriers that disproportionately hinder Blacks from 
+translating their SEP indicators to desirable health outcomes.
+
+Copyright © Vali-e-Asr Reproductive Health Research Center, Tehran University of 
+Medical Sciences.
+
+PMCID: PMC7072027
+PMID: 32201487
+
+
+629. J Cancer. 2020 Feb 10;11(9):2453-2464. doi: 10.7150/jca.38747. eCollection
+2020.
+
+Integrative Analysis of Siglec-15 mRNA in Human Cancers Based on Data Mining.
+
+Li QT(1), Huang ZZ(2), Chen YB(3), Yao HY(4), Ke ZH(5), He XX(1), Qiu MJ(1), 
+Wang MM(1), Xiong ZF(1), Yang SL(6).
+
+Author information:
+(1)Division of Gastroenterology, Liyuan Hospital, Tongji Medical College, 
+Huazhong University of Science and Technology, Wuhan 430077, China.
+(2)Yangchunhu community Hospital, Liyuan Hospital, Tongji Medical College, 
+Huazhong University of Science and Technology, Wuhan 430077, China.
+(3)Institute of Pathology, Tongji Hospital, Tongji Medical College, Huazhong 
+University of Science and Technology, Wuhan 430030, China.
+(4)Department of Rehabilitation, Liyuan Hospital, Tongji Medical College, 
+Huazhong University of Science and Technology, Wuhan 430077, China.
+(5)Wuhan Children's Hospital (Wuhan Maternal and Child Healthcare Hospital), 
+Tongji Medical College, Huazhong University of Science & Technology, Wuhan 
+430015, China.
+(6)Cancer Center, Union Hospital, Tongji Medical College, Huazhong University of 
+Science and Technology, 1277 JieFang Avenue, Wuhan 430022, China.
+
+Objective: Cancer is expected to be the leading cause of death worldwide within 
+the 21st century and is the single most important obstacle to extending life 
+expectancy. Unfortunately, the most effective approach to combating cancers 
+remains a complex and unsolved problem. Siglec-15 is a member of the Siglec 
+family and plays a conserved regulatory role in the immune system of 
+vertebrates. Previous studies on Siglec-15 have focused on its function in 
+osteoclast regulation. The purpose of this study was to explore the significance 
+of Siglec-15 mRNA in human cancer mainly based on information obtained from 
+online databases. Method: Data were collected from several online databases. 
+Serial analysis of gene expression (SAGE) and Virtual Northern, UALCAN Database 
+Analysis, Catalog of Somatic Mutations in Cancer (COSMIC) analysis, the cBio 
+cancer genomics portal, Cancer Regulome tools and data, Kaplan-Meier Plotter 
+Analysis and the UCSC Xena website were used to analyze the data. Results: 
+Compared with normal tissues, Siglec-15 up-regulation was widely observed in 
+tuomrs. Differences in Siglec-15 expression were associated with different 
+prognoses. Siglec-15 mutations are widely observed in tumors and interact with 
+different genes in different cancer types. Conclusion: Siglec-15 is a potential 
+target for the expansion of cancer immunotherapy.
+
+© The author(s).
+
+DOI: 10.7150/jca.38747
+PMCID: PMC7066007
+PMID: 32201516
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interest exists.
+
+
+630. Hematol Oncol Stem Cell Ther. 2020 Jun;13(2):98-105. doi: 
+10.1016/j.hemonc.2019.12.006. Epub 2020 Mar 12.
+
+Alternative donor: αß/CD19 T-cell-depleted haploidentical hematopoietic stem 
+cell transplantation for sickle cell disease.
+
+Foell J(1), Kleinschmidt K(1), Jakob M(1), Troeger A(1), Corbacioglu S(2).
+
+Author information:
+(1)Department of Pediatric Hematology, Oncology and Stem Cell Transplantation, 
+University Hospital of Regensburg, Regensburg, Germany.
+(2)Department of Pediatric Hematology, Oncology and Stem Cell Transplantation, 
+University Hospital of Regensburg, Regensburg, Germany. Electronic address: 
+selim.corbacioglu@ukr.de.
+
+Sickle cell disease (SCD) is an inherited disorder; despite significant 
+improvements in supportive care, SCD continues to cause substantial morbidity, 
+mortality, and reduced life expectancy. Allogeneic hematopoietic stem cell 
+transplantation (HSCT) is currently the only widely available curative therapy 
+for SCD, which is offered as a standard of care for patients with a matched 
+sibling donor (MSD). Donor availability is limited to a minority of patients. 
+Thus, αβ/CD3-depleted haploidentical HSCT, as an efficient means for depletion 
+of graft-versus-host disease (GvHD)-mediating T cells, can be offered as an 
+alternative curative therapy, particularly for nonmalignant diseases such as 
+SCD. Out of 38 patients with advanced stage SCD, 25 were transplanted with 
+CD3/CD19- or T-cell receptor αβ/CD19 T-cell-depleted peripheral stem cell grafts 
+(T-haplo-HSCT group), whereas 13 transplanted from MSD (MSD group); both groups 
+received an almost identical conditioning regimen. Engraftment was achieved in 
+all. However, in the T-haplo-HSCT group, three patients succumbed to an 
+uncontrolled cytomegalovirus pneumonitis, a macrophage activation syndrome, and 
+a major blood group incompatibility with a late graft failure and multiorgan 
+failure. The overall survival was 88% and 100% in T-haplo-HSCT and MSD groups, 
+respectively. None of our patients developed a Glucksberg Grade III-IV acute 
+GvHD. Four patients (16%) in the T-haplo-HSCT group and two patients (15%) in 
+the MSD group developed a steroid-sensitive, mild-to-moderate chronic GvHD that 
+resolved within 18 months posttransplant. These results are encouraging and 
+demonstrate the feasibility, safety, and efficacy of T-haplo-HSCT in advanced 
+stage SCD in children and adults, thus offering a curative alternative to 
+majority of patients.
+
+Copyright © 2020 King Faisal Specialist Hospital & Research Centre. Published by 
+Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.hemonc.2019.12.006
+PMID: 32202248 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+631. PLoS One. 2020 Mar 23;15(3):e0230359. doi: 10.1371/journal.pone.0230359. 
+eCollection 2020.
+
+Cervical cancer prevention in Indonesia: An updated clinical impact, 
+cost-effectiveness and budget impact analysis.
+
+Setiawan D(1)(2), Andrijono(3)(4), Hadinegoro SR(5)(6), Meyta H(7), Sitohang 
+RV(7), Tandy G(7), Perwitasari DA(8), Postma MJ(9).
+
+Author information:
+(1)Faculty of Pharmacy, Universitas Muhammadiyah Purwokerto, Banyumas, 
+Indonesia.
+(2)Center for Health Economic Studies, Universitas Muhammadiyah Purwokerto, 
+Banyumas, Indonesia.
+(3)Division of Oncology, Department Obstetric and Gynecologic, Cipto Mangunkumo 
+Hospital, Jakarta, Indonesia.
+(4)Faculty of Medicine, University of Indonesia, Jakarta, Indonesia.
+(5)Department of Child Health, Faculty of Medicine, University of Indonesia, 
+Indonesia.
+(6)Indonesian Immunization Technical Advisory Group (Indonesia-NTAG), Indonesia.
+(7)Directorate General of Diseases Prevention and Control (P2P) Ministry of 
+Health, Indonesia.
+(8)Faculty of Pharmacy, Universitas Ahmad Dahlan, Yogyakarta, Indonesia.
+(9)Unit of Pharmacoepidemilogy & Pharmacoeconomics (PE2), Department of 
+Pharmacy, University of Groningen, Groningen, The Netherlands.
+
+INTRODUCTION: The clinical and economic impact of cervical cancer consistently 
+become a serious burden for all countries, including Indonesia. The 
+implementation of HPV vaccination policy for a big country such as Indonesia 
+requires a strong commitment from several decision-makers. The aim of this study 
+was to provide a comprehensive description on cost-effectiveness and the 
+budget-impact of HPV vaccination policy in Indonesia.
+METHOD: A cohort Markov model was used to evaluate the cost and the clinical 
+impact of HPV vaccination for 10 years old girls in Indonesia. The researchers 
+consider two doses of all three available HPV vaccines adjusted with the HPV 
+infection profilewith 95% vaccination coverage to estimate the national cervical 
+cancer incidence and mortality. The Budget impact analysis explores three 
+different scenarios covering (1) Two districts per year expansion, (2) 
+oneprovince per year expansion and (3) achieving the National Immunization 
+Program in 2024.
+RESULTS: Upon fully vaccinating almost 2.3 million 10-year-old girls, 34,723; 
+43,414; and 51,522 cervical cancer cases were prevented by Quadrivalent, 
+Bivalent and Nonavalent vaccines, consecutively. Furthermore, the highest (591 
+cases) and lowest (399 cases) mortality were prevented by Nonavalent and 
+Quadrivalent vaccines, respectively. Most of the vaccines were considerably 
+cost-effective and only the Bivalent vaccine with the GAVI/UNICEF price which 
+will be considered a cost-saving strategy.To provide national coverage of HPV 
+vaccination in Indonesia, the government has to provide an annual budget of 
+about US$49 million and US$22 million using the government contract price and 
+GAVI/UNICEF price, respectively.
+CONCLUSION: HPV vaccination shows a cost-effective strategy and the budget 
+required to provide this policy is considerably affordable for Indonesia.
+
+DOI: 10.1371/journal.pone.0230359
+PMCID: PMC7089525
+PMID: 32203527 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+632. Nutrition. 2020 Jun;74:110729. doi: 10.1016/j.nut.2020.110729. Epub 2020 Jan
+18.
+
+Nutraceutical regulations: An opportunity in ASEAN countries.
+
+Tripathi C(1), Girme A(2), Champaneri S(1), Patel RJ(3), Hingorani L(4).
+
+Author information:
+(1)Pharmanza Herbal Pvt. Ltd., Anand, Gujarat, India; Ramanbhai Patel College of 
+Pharmacy, Charotar University of Science and Technology, Changa, Gujarat, India.
+(2)Pharmanza Herbal Pvt. Ltd., Anand, Gujarat, India. Electronic address: 
+aboligirme@gmail.com.
+(3)Ramanbhai Patel College of Pharmacy, Charotar University of Science and 
+Technology, Changa, Gujarat, India.
+(4)Pharmanza Herbal Pvt. Ltd., Anand, Gujarat, India.
+
+In today's era of increased standards of lifestyle and life expectancy, there 
+has been a constant demand for supplements by consumers. Nutraceuticals are 
+among the supplements in demand. Although there is a big opportunity for the 
+nutraceutical business, there are no uniform regulatory requirements in 
+different regions. Nations are looking to the nutraceutical sector to help keep 
+their populations healthy and safe by introducing certain rules and regulations. 
+Generally, developed countries have regulations in place, but there are some 
+countries, such as those in the Asia Pacific regions or in Association of 
+Southeast Asian Nations (ASEAN) countries, that have not yet fine-tuned their 
+regulations for nutraceutical products. The ASEAN countries involve highly 
+commercialized markets such as Singapore, Thailand, Malaysia, and the 
+Philippines. The overall nutraceutical market of ASEAN countries is growing at a 
+compound annual growth rate of ∼8.4%. About 40% of the ASEAN population consumes 
+nutraceuticals on a daily basis. ASEAN countries are forming harmonized 
+regulations for dietary supplements. This could be a big opportunity for 
+manufacturers to introduce their products into the ASEAN market. A special unit 
+of the Traditional Medicine and Health Supplements Product Working Group (TMHA 
+PWG) helps manufacturers understand the regulatory procedures of these 
+countries. Despite countries' own special requirements, manufacturers can follow 
+the standards and harmonized guidelines put forth by TMHA PWG. The aim of this 
+review is to introduce the regulatory procedure and requirements for 
+international business developers to launch any new nutraceutical products into 
+the ASEAN market.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.nut.2020.110729
+PMID: 32203878 [Indexed for MEDLINE]
+
+
+633. Ear Nose Throat J. 2021 Sep;100(5_suppl):842S-847S. doi: 
+10.1177/0145561320910662. Epub 2020 Mar 23.
+
+The Outcomes of Cochlear Implantation in Elderly Patients: A Single United 
+Kingdom Center Experience.
+
+Amin N(1), Wong G(1), Nunn T(1), Jiang D(1), Pai I(1).
+
+Author information:
+(1)Hearing Implant Team, 8945Guy's and St Thomas' NHS Foundation Trust, London, 
+United Kingdom.
+
+OBJECTIVES: The average life expectancy in the United Kingdom is currently 
+nearly 80 years for a newborn baby with nearly 15% of the population, by 2040, 
+being >75 years old. Hearing impairment is a common disability in the elderly 
+individual, and there have been significant drives to support this population to 
+lead longer and healthier working lives. We aimed to assess the long-term 
+audiological and health-related quality-of-life benefits of cochlear implants 
+(CI) in elderly individuals.
+METHODS: A retrospective and cross-sectional study of patients who received a CI 
+at ≥70 years. Data extracted included speech perception scores, adverse events, 
+telephone use, and patient-reported outcome measures using the Glasgow Benefit 
+Inventory questionnaire with a minimum of 12 months follow-up.
+RESULTS: Sixty-four patients aged ≥70 years received a unilateral CI. A 
+significant improvement in speech perception scores in all conditions was noted 
+with no significant difference between differing age groups. Glasgow Benefit 
+Inventory scores showed a significant positive impact on patients' lives and 
+their health status, with no significant difference between the differing age 
+groups.
+CONCLUSIONS: Cochlear implantation is a safe and well-tolerated procedure in the 
+elderly patients with significant improvements observed in audiological 
+performance, health status, and social interactions.
+
+DOI: 10.1177/0145561320910662
+PMID: 32204619 [Indexed for MEDLINE]
+
+
+634. Best Pract Res Clin Obstet Gynaecol. 2020 May;65:79-97. doi: 
+10.1016/j.bpobgyn.2019.12.006. Epub 2020 Jan 2.
+
+Current and future approaches to screening for endometrial cancer.
+
+Gentry-Maharaj A(1), Karpinskyj C(2).
+
+Author information:
+(1)MRC Clinical Trials Unit at UCL, Institute of Clinical Trials and 
+Methodology, University College London, United Kingdom. Electronic address: 
+a.gentry-maharaj@ucl.ac.uk.
+(2)MRC Clinical Trials Unit at UCL, Institute of Clinical Trials and 
+Methodology, University College London, United Kingdom.
+
+Due largely to the rise in obesity and prolonged life expectancy, endometrial 
+cancer (EC) rates have increased by 56% since the early 90s. Women at high risk 
+(Lynch Syndrome) have a 12-47% lifetime risk of developing EC and professional 
+societies recommend annual surveillance using transvaginal ultrasound (TVS) and 
+endometrial biopsy (outpatients hysteroscopy) from the age of 30-35 years with 
+hysterectomy from the age of 40 years. In women at low risk, screening is not 
+currently advocated. The emerging data from Genome Wide Association studies 
+(GWAS) in combination with epidemiological data may refine risk stratification 
+in the future. In addition to screening, preventative approaches such as 
+intrauterine progesterone may help reduce disease burden in those identified at 
+'higher risk'.

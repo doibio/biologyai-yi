@@ -1,0 +1,1000 @@
+(8)Morgridge Institute for Research, Madison, WI, USA.
+
+Open-source software tools are often used for analysis of scientific image data 
+due to their flexibility and transparency in dealing with rapidly evolving 
+imaging technologies. The complex nature of image analysis problems frequently 
+requires many tools to be used in conjunction, including image processing and 
+analysis, data processing, machine learning and deep learning, statistical 
+analysis of the results, visualization, correlation to heterogeneous but related 
+data, and more. However, the development, and therefore application, of these 
+computational tools is impeded by a lack of integration across platforms. 
+Integration of tools goes beyond convenience, as it is impractical for one tool 
+to anticipate and accommodate the current and future needs of every user. This 
+problem is emphasized in the field of bioimage analysis, where various rapidly 
+emerging methods are quickly being adopted by researchers. ImageJ is a popular 
+open-source image analysis platform, with contributions from a global community 
+resulting in hundreds of specialized routines for a wide array of scientific 
+tasks. ImageJ's strength lies in its accessibility and extensibility, allowing 
+researchers to easily improve the software to solve their image analysis tasks. 
+However, ImageJ is not designed for development of complex end-to-end image 
+analysis workflows. Scientists are often forced to create highly specialized and 
+hard-to-reproduce scripts to orchestrate individual software fragments and cover 
+the entire life-cycle of an analysis of an image dataset. KNIME Analytics 
+Platform, a user-friendly data integration, analysis, and exploration workflow 
+system, was designed to handle huge amounts of heterogeneous data in a 
+platform-agnostic, computing environment and has been successful in meeting 
+complex end-to-end demands in several communities, such as cheminformatics and 
+mass spectrometry. Similar needs within the bioimage analysis community led to 
+the creation of the KNIME Image Processing extension which integrates ImageJ 
+into KNIME Analytics Platform, enabling researchers to develop reproducible and 
+scalable workflows, integrating a diverse range of analysis tools. Here we 
+present how users and developers alike can leverage the ImageJ ecosystem via the 
+KNIME Image Processing extension to provide robust and extensible image analysis 
+within KNIME workflows. We illustrate the benefits of this integration with 
+examples, as well as representative scientific use cases.
+
+DOI: 10.3389/fcomp.2020.00008
+PMCID: PMC7469687
+PMID: 32905440
+
+Conflict of interest statement: 5Conflict of Interest CD, SH and MRB have a 
+financial interest in KNIME GmbH, the company developing and supporting KNIME 
+Analytics Platform. All other authors declare that the research was conducted in 
+the absence of any commercial or financial relationships that could be construed 
+as a potential conflict of interest.
+
+
+780. Cell Rep. 2020 Sep 8;32(10):108118. doi: 10.1016/j.celrep.2020.108118.
+
+A WW Tandem-Mediated Dimerization Mode of SAV1 Essential for Hippo Signaling.
+
+Lin Z(1), Xie R(2), Guan K(3), Zhang M(4).
+
+Author information:
+(1)Division of Life Science, State Key Laboratory of Molecular Neuroscience, 
+Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong 
+Kong, China.
+(2)Department of Pharmacology and Moores Cancer Center, University of 
+California, San Diego, La Jolla, CA 92093, USA; Department of Otolaryngology, 
+Head & Neck Surgery, Peking University First Hospital, Beijing 100034, China.
+(3)Department of Pharmacology and Moores Cancer Center, University of 
+California, San Diego, La Jolla, CA 92093, USA.
+(4)Division of Life Science, State Key Laboratory of Molecular Neuroscience, 
+Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong 
+Kong, China; Center of Systems Biology and Human Health, Hong Kong University of 
+Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. Electronic 
+address: mzhang@ust.hk.
+
+The canonical mammalian Hippo pathway contains a core kinase signaling cascade 
+requiring upstream MST to form a stable complex with SAV1 in order to 
+phosphorylate the downstream LATS/MOB complex. Though SAV1 dimerization is 
+essential for the trans-activation of MST, the molecular mechanism underlying 
+SAV1 dimerization is unclear. Here, we discover that the SAV1 WW tandem 
+containing a short Pro-rich extension immediately following the WW tandem 
+(termed as "WW12ex") forms a highly stable homodimer. The crystal structure of 
+SAV1 WW12ex reveals that the Pro-rich extension of one subunit binds to both WW 
+domains from the other subunit. Thus, SAV1 WW12ex forms a domain-swapped dimer 
+instead of a WW2 homodimerization-mediated dimer. The WW12ex-mediated 
+dimerization of SAV1 is required for the MST/SAV1 complex assembly and MST 
+kinase activation. Finally, we show that several cancer-related SAV1 variants 
+disrupt SAV1 dimer formation, and thus, these mutations may impair the 
+tumor-suppression activity of SAV1.
+
+Copyright © 2020 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2020.108118
+PMCID: PMC7494017
+PMID: 32905778 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interests K.G. is a co-founder 
+and has an equity interest in Vivace Therapeutics. The terms of this arrangement 
+have been reviewed and approved by the University of California, San Diego in 
+accordance with its conflict-of-interest policies.781. Respir Med. 2020 Oct;172:106132. doi: 10.1016/j.rmed.2020.106132. Epub 2020
+Aug  29.
+
+Life expectancy (LE) and loss-of-LE for patients with chronic obstructive 
+pulmonary disease.
+
+Chen CZ(1), Shih CY(2), Hsiue TR(1), Tsai SH(3), Liao XM(1), Yu CH(1), Yang 
+SC(4), Wang JD(5).
+
+Author information:
+(1)Division of Pulmonary Medicine, Department of Internal Medicine, National 
+Cheng Kung University Hospital, College of Medicine, National Cheng Kung 
+University, Tainan, Taiwan.
+(2)Department of Public Health, College of Medicine, National Cheng Kung 
+University, Tainan, Taiwan.
+(3)Division of General Internal Medicine, Department of Internal Medicine, 
+National Cheng Kung University Hospital, College of Medicine, National Cheng 
+Kung University, Tainan, Taiwan.
+(4)Division of Pulmonary Medicine, Department of Internal Medicine, National 
+Cheng Kung University Hospital, College of Medicine, National Cheng Kung 
+University, Tainan, Taiwan; Department of Public Health, College of Medicine, 
+National Cheng Kung University, Tainan, Taiwan.
+(5)Department of Public Health, College of Medicine, National Cheng Kung 
+University, Tainan, Taiwan; Division of General Internal Medicine, Department of 
+Internal Medicine, National Cheng Kung University Hospital, College of Medicine, 
+National Cheng Kung University, Tainan, Taiwan; Department of Occupational 
+Medicine, National Cheng Kung University Hospital, College of Medicine, National 
+Cheng Kung University, Tainan, Taiwan. Electronic address: jdwang121@gmail.com.
+
+BACKGROUND AND OBJECTIVES: Prognosis of COPD is usually expressed as a 3-year 
+survival rate, which might not be easily understood by lay people. This study 
+estimates the life expectancy (LE) and loss-of-LE for COPD patients with 
+different GOLD stages and patients with a history of acute exacerbation (AE) 
+requiring hospitalization (severe AE) in the preceding year.
+METHODS: 532 patients who were diagnosed with COPD according to the GOLD 
+criteria at NCKU hospital between 2006 and 2016 were recruited. Survival was 
+estimated by Kaplan-Meier method, and extrapolated to lifetime to obtain the LE. 
+The loss-of-LE was quantified by subtracting the LE of the COPD cohort from 
+national life tables. The survival of patients with severe AE history was 
+validated by a nation-wide cohort from the National Health Insurance dataset.
+RESULTS: The survival of patients with severe stage COPD (GOLD grades 3 and 4) 
+was almost the same as those patients with a history of severe AE and the 
+loss-of-LE for the former and the latter were 9.3 (1.1) and 9.4 (1.3) years, 
+respectively. The nation-wide cohort with severe AE history (n = 44,764) showed 
+a loss-of-LE of 8.3 (0.1) years. The loss-of-LE of patients with moderate stage 
+COPD (GOLD grade 2) was 6.2 years, but no reduction in LE was noted for mild 
+stage COPD (GOLD grade 1).
+CONCLUSIONS: We successfully estimated LE and loss of LE in COPD patients under 
+the GOLD criteria. The survival of severe stage COPD patients is almost the same 
+as those with severe AE history, or about 8-9 years of life lost.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.rmed.2020.106132
+PMID: 32905891 [Indexed for MEDLINE]
+
+
+782. J Psychiatr Res. 2020 Nov;130:435-440. doi:
+10.1016/j.jpsychires.2020.08.013.  Epub 2020 Aug 23.
+
+Life expectancy of people who are dependent on opioids: A cohort study in New 
+South Wales, Australia.
+
+Lewer D(1), Jones NR(2), Hickman M(3), Nielsen S(4), Degenhardt L(2).
+
+Author information:
+(1)National Drug and Alcohol Research Centre, 22-32 King St, Randwick, NSW, 
+2031, Australia; Institute of Epidemiology and Healthcare, University College 
+London, 1-19 Torrington Place, London, WC1E 7HB, UK. Electronic address: 
+d.lewer@ucl.ac.uk.
+(2)National Drug and Alcohol Research Centre, 22-32 King St, Randwick, NSW, 
+2031, Australia.
+(3)Population Health Sciences, Bristol Medical School, University of Bristol, 
+Bristol, BS2 8DZ, UK.
+(4)Monash Addiction Research Centre and Eastern Health Clinical School, Monash 
+University, Melbourne, Australia.
+
+BACKGROUND: People who are dependent on opioids have increased risk of premature 
+death, but there are few estimates of life expectancy.
+METHODS: We calculated age-specific mortality rates in a cohort of people who 
+had at least one prescription of an opioid agonist (methadone or buprenorphine) 
+between 2001 and 2018 in New South Wales, Australia. We used life tables to 
+estimate life expectancy at age 18. We also estimated the potential years of 
+life lost before age 75, decomposed by cause of death.
+RESULTS: The cohort included 47,197 people, with a median of 9.8 years of 
+follow-up. 5097 participants died, and the standardised mortality ratio 
+(compared to the general population of New South Wales) was 6.06 (95% CI 
+5.90-6.23). Life expectancy at age 18 was an additional 47.5 years (95% CI 
+42.9-50.5) for men and 50.7 years (95% CI 45.4-54.8) for women; deficits of 14.7 
+and 15.8 years respectively when compared to the general population. The largest 
+cause of death was non-communicable physical diseases, which accounted for 47% 
+of deaths in life tables for men and 42% for women. Drug-related deaths 
+accounted for 16% of deaths for men and 19% for women, but due to the young age 
+at which these deaths occur, they contributed approximately one third of 
+potential years of life lost.
+CONCLUSION: In common with people with serious mental illnesses, people who are 
+dependent on opioids have substantially reduced life expectancy. In both 
+populations most excess deaths relate to non-communicable physical diseases.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jpsychires.2020.08.013
+PMID: 32905957 [Indexed for MEDLINE]
+
+
+783. J Environ Manage. 2020 Dec 15;276:111074. doi:
+10.1016/j.jenvman.2020.111074.  Epub 2020 Sep 6.
+
+Pesticide taxes or voluntary action? An analysis of responses among Norwegian 
+grain farmers.
+
+Vatn A(1), Kvakkestad V(2), Steiro ÅL(3), Hodge I(4).
+
+Author information:
+(1)Department of International Environment and Development Studies, Faculty of 
+Landscape and Society, Norwegian University of Life Sciences, Norway. Electronic 
+address: arild.vatn@nmbu.no.
+(2)Norwegian Institute of Bioeconomy Research, Norway.
+(3)Department of International Environment and Development Studies, Faculty of 
+Landscape and Society, Norwegian University of Life Sciences, Norway.
+(4)Department of Land Economy, University of Cambridge, United Kingdom.
+
+This paper analyses two strategies to reduce the use of pesticides in grain 
+production. We study Norwegian farmers' willingness to voluntarily forego income 
+by reducing pesticide use as well as their responses to a doubling of the 
+pesticide price (through increased pesticide taxes). We use mixed methods 
+including an experiment, a survey and focus group discussions. The experiment 
+shows that most farmers are willing to sacrifice some income to reduce 
+environmental risks by using less pesticide. According to the survey, they are, 
+at the same time, relatively insensitive to a 100% price increase on herbicides 
+and fungicides. While the response to the price increase probably would have 
+been stronger if differentiated between chemicals, our research indicates 
+potential benefits from supporting voluntary action. Value orientations and 
+agronomic conditions influence the stated responses in both circumstances. 
+Respondents emphasizing environmental values are more willing to voluntarily 
+reduce pesticide use and show a greater response to the economic incentive than 
+farmers emphasizing economic outcome and issues such as clean fields. A 
+hypothesized willingness to reduce pesticide use voluntarily to strengthen the 
+reputation of the sector was, however, rejected. Farmers appear to have few 
+alternatives to pesticides, but increased knowledge about the alternatives that 
+do exist, seems able to promote some change. Our findings suggest that the 
+extension service should put greater emphasis on these options, even if they may 
+have negative effects on income.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.jenvman.2020.111074
+PMID: 32906068 [Indexed for MEDLINE]
+
+
+784. Int J Environ Res Public Health. 2020 Sep 7;17(18):6499. doi: 
+10.3390/ijerph17186499.
+
+The Contribution of Avoidable Mortality to the Life Expectancy Gains in Korea 
+between 1998 and 2017.
+
+Bahk J(1), Jung-Choi K(2).
+
+Author information:
+(1)Department of Public Health, Keimyung University, 1095, Dalgubeol-daero, 
+Dalseo-gu, Daegu 42601, Korea.
+(2)Department of Occupational and Environmental Medicine, College of Medicine, 
+Ewha Womans University, 25, Magokdong-ro 2-gil, Gangseo-gu, Seoul 07804, Korea.
+
+This study evaluated the contribution of avoidable causes of death to gains in 
+life expectancy between 1998 and 2017 in Korea. This is a multi-year, 
+cross-sectional study using national data. Death certificate data from 1998 to 
+2017 were obtained from Statistics Korea. The difference in life expectancy 
+between 1998 and 2017 by age and cause of death were decomposed using Arriaga's 
+method. Life expectancy rose 7.73 years over 20 years in Korea, which was 
+largely (more than 50%) due to changes in avoidable causes of death. As age 
+increased, the contribution to changes in life expectancy increased, and the 
+gain in life expectancy due to avoidable causes also tended to increase. The 
+major factors that drove that gain in life expectancy were avoidable causes such 
+as cerebrovascular diseases and traffic accidents. The gain in life expectancy 
+from preventable diseases was greater in men than in women. The results of this 
+study indicate that active public health programs have been effective in 
+improving life expectancy in Korea. Moreover, avoidable mortality could be 
+further improved with good public health policy. Health policy aimed at reducing 
+amenable and preventable deaths should be further implemented to promote 
+population health.
+
+DOI: 10.3390/ijerph17186499
+PMCID: PMC7558962
+PMID: 32906627 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author declares no conflict of interest.
+
+
+785. J Dev Biol. 2020 Sep 7;8(3):17. doi: 10.3390/jdb8030017.
+
+A Series of Tubes: The C. elegans Excretory Canal Cell as a Model for Tubule 
+Development.
+
+Buechner M(1), Yang Z(1), Al-Hashimi H(2).
+
+Author information:
+(1)Department of Molecular Biosciences, University of Kansas, Lawrence, KS 
+66045, USA.
+(2)Deciphera, Pharmaceuticals, Inc., Lawrence, KS 66044, USA.
+
+Formation and regulation of properly sized epithelial tubes is essential for 
+multicellular life. The excretory canal cell of C. elegans provides a powerful 
+model for investigating the integration of the cytoskeleton, intracellular 
+transport, and organismal physiology to regulate the developmental processes of 
+tube extension, lumen formation, and lumen diameter regulation in a narrow 
+single cell. Multiple studies have provided new understanding of actin and 
+intermediate filament cytoskeletal elements, vesicle transport, and the role of 
+vacuolar ATPase in determining tube size. Most of the genes discovered have 
+clear homologues in humans, with implications for understanding these processes 
+in mammalian tissues such as Schwann cells, renal tubules, and brain 
+vasculature. The results of several new genetic screens are described that 
+provide a host of new targets for future studies in this informative structure.
+
+DOI: 10.3390/jdb8030017
+PMCID: PMC7557474
+PMID: 32906663
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+786. Nutrients. 2020 Sep 7;12(9):2730. doi: 10.3390/nu12092730.
+
+Association of Cardiometabolic Multimorbidity Pattern with Dietary Factors among 
+Adults in South Korea.
+
+Jeong D(1), Kim J(2), Lee H(2), Kim DY(2), Lim H(1)(2).
+
+Author information:
+(1)Department of Medical Nutrition, Graduate School of East-West Medical 
+Science, Kyung Hee University, Yongin 17104, Korea.
+(2)Research Institute of Medical Nutrition, Kyung Hee University, Seoul 02447, 
+Korea.
+
+Globally, cardiometabolic multimorbidity pattern (CMP) is a complex chronic 
+health status that negatively effects the life expectancy of adults globally, 
+even more than single diseases. We aimed to identify multimorbidity patterns in 
+Korean adults to clarify the associations between dietary factors and CMP. 
+Nationally representative data of 9011 Korean adults aged 19-64 years were 
+obtained from the Korean National Health and Nutrition Examination Survey 
+(KNHANES) from the period 2013 to 2015. Multimorbidity patterns for CMP, 
+inflammatory disease, cancer and other disease patterns were identified by 
+exploratory factor analysis. Dietary factors including food and nutrient intake 
+and dietary habits were evaluated. Multivariable-adjusted logistic regression 
+models examined the associations between dietary factors and CMP. More than half 
+of the multimorbidity patterns were CMP (n = 4907, 54.5%); CMP subjects were 
+more likely to be older, male, less educated, lower income, laborers, smokers, 
+and high-risk consumers of alcohol than those of non-CMP subjects. A higher 
+intake of calcium (OR = 0.809, 95% CI = 0.691-0.945), potassium (OR = 0.838, 95% 
+CI = 0.704-0.998), and fruits (OR = 0.841, 95% CI = 0.736-0.960) were inversely 
+associated with the prevalence of CMP, while the consumption of irregular meals 
+(OR = 1.164, 95% CI = 1.034-1.312) and skipping breakfast (OR = 1.279, 95% CI = 
+1.078-1.518) was positively related to a 16% and 28% higher likelihood of CMP, 
+respectively. CMP accounts for more than half of the multimorbidity patterns in 
+the Korean population, and lower intake of calcium, potassium, fruits, and 
+skipping meals have strong associations with CMP.
+
+DOI: 10.3390/nu12092730
+PMCID: PMC7551044
+PMID: 32906713 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declared no conflict of interest.
+
+
+787. Hip Int. 2020 Sep;30(1_suppl):54-58. doi: 10.1177/1120700020938029.
+
+Survival analysis after hip fracture: higher mortality than the general 
+population and delayed surgery increases the risk at any time.
+
+Barahona M(1), Barrientos C(1), Cavada G(2), Brañes J(1), Martinez Á(3), Catalan 
+J(1).
+
+Author information:
+(1)Orthopaedic Department, University of Chile Clinical Hospital, Santiago, 
+Chile.
+(2)Epidemiology Department, University of Chile, Santiago, Chile.
+(3)Orthopaedic Department, San José Hospital, Santiago, Chile.
+
+PURPOSE: To estimate survival curves in patients with hip fracture according to 
+gender, age, type of fracture, and waiting time for surgery and to compare them 
+with the life expectancy of the general population. The study hypothesis is that 
+survival after hip fractures is significantly lower than in the general 
+population, especially in cases that underwent delayed surgery, regardless of 
+age and gender.
+METHODS: A survival analysis study was designed and approved by our 
+institutional ethics review board. All patients who were coded with a diagnosis 
+of hip fracture from 2002 to 2018 were included in the study. A total of 1176 
+patients were included, and the median age was 81 years (18-105 years). 
+Kaplan-Meier curves and log-rank tests were performed to compare survival curves 
+between those who underwent surgery on time and those with surgical delays. An 
+exponential multivariate regression model was estimated, and a hazard ratio (HR) 
+was reported for age, gender, and wait time for surgery. A significance of 5% 
+was used, and a confidence interval level of 95% was reported.
+RESULTS: The Kaplan-Meier curves for delayed surgery (log-rank, p = 0.00) and 
+the age group (log-rank, p = 0.00) were significantly different. Exponential 
+regression estimated an HR 1.05 (1.05-1.07) for age, HR 1.80 (1.51-2.13) for 
+men, and HR 1.93 (1.61-2.31) for each day of wait for surgery.
+CONCLUSIONS: The 2 significant findings of this study are that hip fracture 
+patients over 40 years old have a higher risk of dying at any time compared to 
+the general population and that the waiting time for surgery (a modifiable 
+factor) decreases survival rates at any time.
+
+DOI: 10.1177/1120700020938029
+PMID: 32907421 [Indexed for MEDLINE]
+
+
+788. OMICS. 2020 Oct;24(10):592-601. doi: 10.1089/omi.2020.0116. Epub 2020 Sep 9.
+
+Microbiome and Longevity: High Abundance of Longevity-Linked Muribaculaceae in 
+the Gut of the Long-Living Rodent Spalax leucodon.
+
+Sibai M(1), Altuntaş E(1), Yıldırım B(2), Öztürk G(2)(3), Yıldırım S(2)(4), 
+Demircan T(2)(5).
+
+Author information:
+(1)Graduate School of Natural and Applied Sciences, Mugla Sitki Kocman 
+University, Mugla, Turkey.
+(2)Regenerative and Restorative Medicine Research Center, REMER, Istanbul 
+Medipol University, Istanbul, Turkey.
+(3)Department of Physiology, International School of Medicine, Istanbul Medipol 
+University, Istanbul, Turkey.
+(4)Department of Medical Microbiology, International School of Medicine, 
+Istanbul Medipol University, Istanbul, Turkey.
+(5)Department of Medical Biology, School of Medicine, Mugla Sitki Kocman 
+University, Mugla, Turkey.
+
+With a world population living longer as well as marked disparities in life 
+expectancy, understanding the determinants of longevity is one of the priority 
+research agendas in 21st century life sciences. To this end, the blind mole-rat 
+(Spalax leucodon), a subterranean mammalian, has emerged as an exceptional model 
+organism due to its astonishing features such as remarkable longevity, hypoxia 
+and hypercapnia tolerance, and cancer resistance. The microbiome has been found 
+to be a vital parameter for cellular physiology and it is safe to assume that it 
+has an impact on life expectancy. Although the unique characteristics of Spalax 
+make it an ideal experimental model for longevity research, there is limited 
+knowledge of the bacterial composition of Spalax microbiome, which limits its 
+in-depth utilization. In this study, using 16S rRNA amplicon sequencing, we 
+report the gut and skin bacterial structure of Spalax for the first time. The 
+diversity between fecal and skin samples was manifested in the distant 
+clustering, as revealed by beta diversity analysis. Importantly, the 
+longevity-linked Muribaculaceae bacterial family was found to be the dominating 
+bacterial taxa in Spalax fecal samples. These new findings contribute toward 
+further development of Spalax as a model for longevity research and potential 
+linkages between microbiome composition and longevity.
+
+DOI: 10.1089/omi.2020.0116
+PMID: 32907488 [Indexed for MEDLINE]
+
+
+789. BMC Public Health. 2020 Sep 9;20(1):1374. doi: 10.1186/s12889-020-09409-7.
+
+Impact of quadrivalent influenza vaccines in Brazil: a cost-effectiveness 
+analysis using an influenza transmission model.
+
+Crépey P(1), Boiron L(2), Araujo RR(3), Lopez JG(4), Petitjean A(5), de 
+Albuquerque Luna EJ(6).
+
+Author information:
+(1)Department of Quantitative Methods in Public Health, UPRES-EA-7449 Reperes, 
+EHESP, University of Rennes, 15 Av. Professeur Léon Bernard, 35043, Rennes, 
+France.
+(2)Sanofi Pasteur, Av. das Nações Unidas, 14410 - Condomínio Parque da Cidade 
+Torre Sucupira, Jardim Morumbi - CEP, São Paulo, SP, 04794-000, Brazil. 
+louis.boiron@sanofi.com.
+(3)Sanofi Pasteur, Av. das Nações Unidas, 14410 - Condomínio Parque da Cidade 
+Torre Sucupira, Jardim Morumbi - CEP, São Paulo, SP, 04794-000, Brazil.
+(4)Sanofi Pasteur, Av. Universidad 1738, Santa Catarina, Coyoacán, 04000 Ciudad 
+de México, CDMX, Mexico.
+(5)Sanofi Pasteur, 14 Espace Henry Vallée, 69007, Lyon, France.
+(6)Institute of Tropical Medicine (IMT) - University of São Paulo (USP), Av. Dr. 
+Enéas Carvalho de Aguiar, 470 - Jardim America - CEP, São Paulo, SP, 05403-000, 
+Brazil.
+
+BACKGROUND: Influenza epidemics significantly weight on the Brazilian healthcare 
+system and its society. Public health authorities have progressively expanded 
+recommendations for vaccination against influenza, particularly to the pediatric 
+population. However, the potential mismatch between the trivalent influenza 
+vaccine (TIV) strains and those circulating during the season remains an issue. 
+Quadrivalent vaccines improves vaccines effectiveness by preventing any 
+potential mismatch on influenza B lineages.
+METHODS: We evaluate the public health and economic benefits of the switch from 
+TIV to QIV for the pediatric influenza recommendation (6mo-5yo) by using a 
+dynamic epidemiological model able to consider the indirect impact of 
+vaccination. Results of the epidemiological model are then imputed in a 
+health-economic model adapted to the Brazilian context. We perform deterministic 
+and probabilistic sensitivity analysis to account for both epidemiological and 
+economical sources of uncertainty.
+RESULTS: Our results show that switching from TIV to QIV in the Brazilian 
+pediatric population would prevent 406,600 symptomatic cases, 11,300 
+hospitalizations and almost 400 deaths by influenza season. This strategy would 
+save 3400 life-years yearly for an incremental direct cost of R$169 million per 
+year, down to R$86 million from a societal perspective. Incremental 
+cost-effectiveness ratios for the switch would be R$49,700 per life-year saved 
+and R$26,800 per quality-adjusted life-year gained from a public payer 
+perspective, and even more cost-effective from a societal perspective. Our 
+results are qualitatively similar in our sensitivity analysis.
+CONCLUSIONS: Our analysis shows that switching from TIV to QIV to protect 
+children aged 6mo to 5yo in the Brazilian influenza epidemiological context 
+could have a strong public health impact and represent a cost-effective strategy 
+from a public payer perspective, and a highly cost-effective one from a societal 
+perspective.
+
+DOI: 10.1186/s12889-020-09409-7
+PMCID: PMC7487874
+PMID: 32907562 [Indexed for MEDLINE]
+
+Conflict of interest statement: PC and EJAL received consulting fees from Sanofi 
+Pasteur. LB, RRA, JGL and AP are employed by Sanofi Pasteur.
+
+
+790. Int J Technol Assess Health Care. 2020 Dec;36(6):560-568. doi: 
+10.1017/S0266462320000641. Epub 2020 Sep 10.
+
+Quality of health economic evaluations submitted to the Italian Medicines 
+Agency: current state and future actions.
+
+Carletto A(1), Zanuzzi M(1), Sammarco A(1), Russo P(1).
+
+Author information:
+(1)Italian Medicines Agency (AIFA), Rome, Italy.
+
+OBJECTIVES: The purpose of this study was to evaluate the current state of 
+health economic evaluations (HEEs) submitted by pharmaceutical companies to the 
+Italian Medicines Agency (AIFA) as part of their pricing and reimbursement (P&R) 
+dossiers, and to explore potential future actions in order to enhance their 
+quality.
+METHODS: All company dossiers submitted from October 2016 to December 2018 were 
+reviewed to select those containing pharmacoeconomic studies. The general 
+characteristics of HEEs were described and their quality assessed based on a 
+checklist adapted from Philips et al. (Review of guidelines for good practice in 
+decision-analytic modelling in health technology assessment. Health Technol 
+Assess. 2004;8: 1-158).
+RESULTS: Of the 299 dossiers submitted to AIFA, 105 included one or more 
+pharmacoeconomic studies, of which fifty-three were cost-effectiveness analyses. 
+Overall, the compliance of the HEEs with the quality checklist was highly 
+variable: some studies reached high methodological standards whereas others had 
+serious flaws (mean 59.22 percent, range 19.35-90.32 percent). The main 
+weaknesses were the unjustified exclusion of relevant alternatives, poor 
+description and justification of model data and assumptions, and insufficient 
+exploration of uncertainty and study validity. Non-homogeneity across studies 
+was found in study perspectives, discount rates, methods for costing, estimating 
+quality-adjusted life-years and conducting sensitivity analyses.
+CONCLUSIONS: Based on the results of this study, the recommended actions for 
+increasing the quality of HEEs within reimbursement submissions in Italy are 
+twofold: first, to set methodological standards for conducting and reporting 
+HEEs; second, to strengthen the internal assessment process, also through the 
+acquisition of companies' models and re-evaluation of results. These actions 
+will hopefully provide greater contribution to the evidence-based P&R decision 
+making.
+
+DOI: 10.1017/S0266462320000641
+PMID: 32907656 [Indexed for MEDLINE]
+
+
+791. Injury. 2020 Nov;51(11):2407-2413. doi: 10.1016/j.injury.2020.08.027. Epub
+2020  Aug 23.
+
+Prognosis of nonoperative treatment in elderly patients with a hip fracture: A 
+systematic review and meta-analysis.
+
+Loggers SAI(1), Van Lieshout EMM(2), Joosse P(3), Verhofstad MHJ(4), Willems 
+HC(5).
+
+Author information:
+(1)Department of Surgery, Northwest Clinics, P.O Box 501, 1800 AM Alkmaar, 
+Netherlands; Trauma Research Unit Department of Surgery, Erasmus MC, University 
+Medical Center Rotterdam, P.O. Box 2040, 3000 CA Rotterdam, Netherlands.
+(2)Trauma Research Unit Department of Surgery, Erasmus MC, University Medical 
+Center Rotterdam, P.O. Box 2040, 3000 CA Rotterdam, Netherlands. Electronic 
+address: e.vanlieshout@erasmusmc.nl.
+(3)Department of Surgery, Northwest Clinics, P.O Box 501, 1800 AM Alkmaar, 
+Netherlands.
+(4)Trauma Research Unit Department of Surgery, Erasmus MC, University Medical 
+Center Rotterdam, P.O. Box 2040, 3000 CA Rotterdam, Netherlands.
+(5)Geriatrics Section, Department of Internal Medicine, Amsterdam UMC location 
+AMC, P.O. Box 22660, 1100 DD Amsterdam, Netherlands.
+
+OBJECTIVE: Hip fractures in frail elderly patients are associated with 
+significant mortality and morbidity. Surgery remains the predominant treatment 
+of choice, despite the poor prognosis. Limited research has been done with 
+regards to nonoperative management of frail elderly patients with a hip fracture 
+and therefore the natural course is relatively unknown. This systematic review 
+aimed to provide an overview of the prognosis of nonoperative management in 
+frail elderly patients with a hip fracture in terms of mortality, complications, 
+mobility, and quality of life (QoL).
+DESIGN: A systematic review of the literature was conducted in PubMed, EMBASE, 
+and Cochrane Central. In addition, a meta-analysis was performed. The primary 
+outcome measurement was 30-days mortality.
+RESULTS: A total of 4,318 studies were screened. In total eighteen studies 
+matched the eligibility criteria; with low to moderate quality. Approximately 
+two-thirds of the patients were managed nonoperatively due to medical reasons 
+and one-third due to non-medical reasons. Pooled mortality rates after 30 days, 
+six months and one year were 36%, 46%, and 60%, respectively. 33% of the 
+patients developed in-hospital complications. At six months post trauma, 9.6% of 
+the patients were able to mobilize. Data on quality of life (QoL), functional 
+outcome, pain, comfort during nursing care, and costs were not reported.
+CONCLUSION: Nonoperative management of frail elderly patients with a hip 
+fracture is associated with a poor prognosis. Heterogenous study cohorts and 
+limited outcomes were reported. Current literature shows a lack of evidence of 
+the true prognosis of nonoperative management of frail elderly patient with a 
+hip fracture and a limited life expectancy. Results of this review can be used 
+to aid decision making and improve expectation management.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.injury.2020.08.027
+PMID: 32907702 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no competing financial interest or personal relationship 
+that could have appeared to influence the work reported in this paper. Each 
+author certifies that he or she has no commercial associations, that might pose 
+a conflict of interest in connection with the submitted article.
+
+
+792. Eur Urol. 2021 Jan;79(1):150-158. doi: 10.1016/j.eururo.2020.08.011. Epub
+2020  Sep 6.
+
+Apalutamide and Overall Survival in Prostate Cancer.
+
+Smith MR(1), Saad F(2), Chowdhury S(3), Oudard S(4), Hadaschik BA(5), Graff 
+JN(6), Olmos D(7), Mainwaring PN(8), Lee JY(9), Uemura H(10), De Porre P(11), 
+Smith AA(12), Brookman-May SD(13), Li S(12), Zhang K(14), Rooney B(15), 
+Lopez-Gitlitz A(16), Small EJ(17).
+
+Author information:
+(1)Massachusetts General Hospital Cancer Center and Harvard Medical School, 
+Boston, MA, USA. Electronic address: MRSMITH@mgh.harvard.edu.
+(2)Centre Hospitalier de l'Université de Montréal, Université de Montréal, 
+Montréal, Québec, Canada.
+(3)Guy's, King's, and St. Thomas' Hospitals, and Sarah Cannon Research 
+Institute, London, UK.
+(4)Georges Pompidou Hospital, University de Paris, Paris, France.
+(5)University of Duisburg-Essen, Essen, and Ruprecht-Karls University 
+Heidelberg, Heidelberg, Germany.
+(6)VA Portland Health Care System, Portland and Knight Cancer Institute, Oregon 
+Health & Science University, Portland, OR, USA.
+(7)Spanish National Cancer Research Centre (CNIO), Madrid and Biomedical 
+Research Institute of Málaga (IBIMA), Spain.
+(8)Canossa Hospital, Oxley, Queensland, Australia.
+(9)St. Mary's Hospital of Catholic University, Seoul, South Korea.
+(10)Yokohama City University Medical Center, Yokohama, Japan.
+(11)Janssen Research & Development, Beerse, Belgium.
+(12)Janssen Research & Development, Spring House, PA, USA.
+(13)Janssen Research & Development, Los Angeles, CA, USA; Ludwig Maximilians 
+University, Munich, Germany.
+(14)Janssen Research & Development, San Diego, CA, USA.
+(15)Janssen Research & Development, High Wycombe, UK.
+(16)Janssen Research & Development, Los Angeles, CA, USA.
+(17)Helen Diller Family Comprehensive Cancer Center, University of California 
+San Francisco, San Francisco, CA, USA.
+
+Comment in
+    Nat Rev Urol. 2020 Nov;17(11):602.
+
+BACKGROUND: The phase 3 SPARTAN study evaluated apalutamide versus placebo in 
+patients with nonmetastatic castration-resistant prostate cancer (nmCRPC) and 
+prostate-specific antigen doubling time of ≤10 mo. At primary analysis, 
+apalutamide improved median metastasis-free survival (MFS) by 2 yr and overall 
+survival (OS) data were immature.
+OBJECTIVE: We report the prespecified event-driven final analysis for OS.
+DESIGN, SETTING, AND PARTICIPANTS: A total of 1207 patients with nmCRPC 
+(diagnosed by conventional imaging) were randomised 2:1 to apalutamide (240mg/d) 
+or placebo, plus on-going androgen deprivation therapy. After MFS was met and 
+the study was unblinded, 76 (19%) patients still receiving placebo crossed over 
+to apalutamide.
+OUTCOME MEASUREMENTS AND STATISTICAL ANALYSIS: OS and time to cytotoxic 
+chemotherapy (TTChemo) were analysed by group-sequential testing with 
+O'Brien-Fleming-type alpha spending function.
+RESULTS AND LIMITATIONS: At median 52-mo follow-up, 428 deaths had occurred. The 
+median treatment duration was 32.9 mo for apalutamide group and 11.5 mo for 
+placebo group. Median OS was markedly longer with apalutamide versus placebo, 
+reaching prespecified statistical significance (73.9 vs 59.9 mo, hazard ratio 
+[HR]: 0.78 [95% confidence interval {CI}, 0.64-0.96]; p=0.016). Apalutamide also 
+lengthened TTChemo versus placebo (HR: 0.63 [95% CI, 0.49-0.81]; p=0.0002). 
+Discontinuation rates in apalutamide and placebo groups due to progressive 
+disease were 43% and 74%, and due to adverse events 15% and 8.4%, respectively. 
+Subsequent life-prolonging therapy was received by 371 (46%) patients in the 
+apalutamide arm and by 338 (84%) patients in the placebo arm including 59 
+patients who received apalutamide after crossover. Safety was consistent with 
+previous reports; when adverse events were adjusted for treatment exposure, rash 
+had the greatest difference of incidence between the apalutamide and placebo 
+groups.
+CONCLUSIONS: Extension of OS with apalutamide compared with placebo conferred 
+impactful benefit in patients with nmCRPC. There was a 22% reduction in the 
+hazard of death in the apalutamide group despite 19% crossover (placebo to 
+apalutamide) and higher rates of subsequent therapy in the placebo group.
+PATIENT SUMMARY: With data presented herein, all primary and secondary study end 
+points of SPARTAN were met; findings demonstrate the value of apalutamide as a 
+treatment option for nonmetastatic castration-resistant prostate cancer.
+
+Copyright © 2020 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.eururo.2020.08.011
+PMID: 32907777 [Indexed for MEDLINE]
+
+
+793. Ann Rheum Dis. 2020 Dec;79(12):1550-1556. doi:
+10.1136/annrheumdis-2020-217528.  Epub 2020 Sep 9.
+
+Two-year cost effectiveness between two gradual tapering strategies in 
+rheumatoid arthritis: cost-utility analysis of the TARA trial.
+
+van Mulligen E(1), Weel AE(2)(3)(4), Kuijper TM(3), Denissen NHAM(5), Gerards 
+AH(6), de Jager MH(7), Lam-Tse WK(6), Hazes JM(2), van der Helm-van Mil A(2)(8), 
+de Jong PHP(#)(2), Luime JJ(#)(2).
+
+Author information:
+(1)Rheumatology, Erasmus MC, Rotterdam, The Netherlands 
+elise.vanmulligen@erasmusmc.nl.
+(2)Rheumatology, Erasmus MC, Rotterdam, The Netherlands.
+(3)Rheumatology, Maasstad Hospital, Rotterdam, Zuid-Holland, The Netherlands.
+(4)Erasmus School of Health Policy & Management, Erasmus University Rotterdam, 
+Rotterdam, Zuid-Holland, The Netherlands.
+(5)Rheumatology, Amphia Hospital, Breda, North Brabant, The Netherlands.
+(6)Rheumatology, Franciscus Gasthuis en Vlietland, Rotterdam, Zuid-Holland, The 
+Netherlands.
+(7)Rheumatology, Albert Schweitzer Hospital, Dordrecht, Zuid-Holland, The 
+Netherlands.
+(8)Rheumatology, Leiden University Medical Center, Leiden, The Netherlands.
+(#)Contributed equally
+
+OBJECTIVE: The aim of the current study was to evaluate the 2-year cost-utility 
+ratio between tapering conventional synthetic disease-modifying antirheumatic 
+drugs (csDMARD) first followed by the tumour necrosis factor (TNF)-inhibitor, or 
+vice versa, in patients with rheumatoid arthritis (RA).
+METHODS: Two-year data of the Tapering strategies in Rheumatoid Arthritis trial 
+were used. Patients with RA, who used both a csDMARD and a TNF-inhibitor and had 
+a well-controlled disease (disease activity score ≤2.4 and swollen joint 
+count≤1) for at least 3 months, were randomised into gradual tapering the 
+csDMARD first followed by the TNF-inhibitor, or vice versa. Quality-adjusted 
+life years (QALYs) were derived from the European Quality of life questionnaire 
+with 5 dimensions. Healthcare and productivity costs were calculated with data 
+from patient records and questionnaires. The incremental cost-effectiveness 
+ratio and the incremental net monetary benefit were used to assess cost 
+effectiveness between both tapering strategies.
+RESULTS: 94 patients started tapering their TNF-inhibitor first, while the other 
+95 tapered their csDMARD first. QALYs (SD) were, respectively, 1.64 (0.22) and 
+1.65 (0.22). Medication costs were significantly lower in the patients who 
+tapered the TNF-inhibitor first, while indirect cost were higher due to more 
+productivity loss (p=0.10). Therefore, total costs (SD) were €38 833 (€39 616) 
+for tapering csDMARDs first, and €39 442 (€47 271) for tapering the 
+TNF-inhibitor (p=0.88). For willingness-to-pay (WTP) levels <€83 800 tapering, 
+the csDMARD first has the highest probability of being cost effective, while for 
+WTP levels >€83 800 tapering the TNF-inhibitor first has the highest 
+probability.
+CONCLUSION: Our economic evaluation shows that costs are similar for both 
+tapering strategies. Regardless of the WTP, tapering either the TNF-inhibitor or 
+the csDMARD first is equally cost effective.
+TRIAL REGISTRATION NUMBER: NTR2754.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/annrheumdis-2020-217528
+PMCID: PMC7677489
+PMID: 32907801 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+794. Pharmacoeconomics. 2020 Dec;38(12):1283-1288. doi:
+10.1007/s40273-020-00957-9.
+
+The SF-6Dv2: How Does the New Classification System Impact the Distribution of 
+Responses Compared with the Original SF-6D?
+
+Whitehurst DGT(1)(2)(3), Brazier JE(4), Viney R(5), Mulhern BJ(5)(4).
+
+Author information:
+(1)Faculty of Health Sciences, Simon Fraser University, Burnaby, BC, Canada. 
+david_whitehurst@sfu.ca.
+(2)Centre for Clinical Epidemiology and Evaluation, Vancouver Coastal Health 
+Research Institute, Vancouver, BC, Canada. david_whitehurst@sfu.ca.
+(3)Centre for Health Economics Research and Evaluation, University of Technology 
+Sydney, Sydney, NSW, Australia. david_whitehurst@sfu.ca.
+(4)Health Economics and Decision Science, School of Health and Related Research, 
+University of Sheffield, Sheffield, UK.
+(5)Centre for Health Economics Research and Evaluation, University of Technology 
+Sydney, Sydney, NSW, Australia.
+
+DOI: 10.1007/s40273-020-00957-9
+PMID: 32909144 [Indexed for MEDLINE]
+
+
+795. Rev Med Liege. 2020 Sep;75(9):573-577.
+
+[Hurdles to HIV cure. Part 1 : the latent reservoirs].
+
+[Article in French; Abstract available in French from the publisher]
+
+Fombellida-Lopez C(1), Chaslain A(1), Susin F(2), Vaira D(2), Moutschen M(3), 
+Darcis G(3).
+
+Author information:
+(1)Faculté de Médecine, ULiège, Belgique.
+(2)Laboratoire de référence SIDA, CHU Liège, Belgique.
+(3)Service des Maladies infectieuses et Médecine interne générale, CHU Liège, 
+Belgique.
+
+The human immunodeficiency virus (HIV), responsible for acquired 
+immunodeficiency syndrome or AIDS, is a major public health problem. In Belgium, 
+2 to 3 new cases are diagnosed every day. Since the advent of combined 
+antiretroviral treatments in 1996, the life expectancy and quality of life of 
+infected patients have greatly improved. However, to date there is no cure for 
+HIV. Individuals infected with HIV must remain on antiretroviral treatment for 
+life. One of the reasons for the difficulty in finding a cure for HIV is that 
+the virus can remain in a latent form, i.e. dormant, in some of the cells it 
+infects. These latent reservoirs are not recognized by the immune system and can 
+reactivate and thus restart the infection if the patient stops the treatment. 
+These latent reservoirs are therefore a major obstacle to cure HIV and a great 
+deal of research is being conducted by the scientific community to find an 
+eradication strategy. In this article, we will present the different 
+characteristics of these latent reservoirs and the different strategies put in 
+place to identify and eliminate them.
+
+Publisher: Le virus de l’immunodéficience humaine (VIH), responsable du syndrome 
+d’immunodéficience acquise ou SIDA, est un problème de santé publique majeur. En 
+Belgique, 2 à 3 nouveaux cas sont diagnostiqués par jour. Depuis l’arrivée des 
+traitements antirétroviraux combinés en 1996, l’espérance et la qualité de vie 
+des patients infectés se sont grandement améliorées. Cependant, il n’existe, à 
+ce jour, aucun traitement curatif de cette infection. Les individus atteints 
+doivent rester sous traitement antirétroviral toute leur vie. Cette difficulté à 
+trouver un traitement curatif du VIH provient, notamment, du fait que le virus 
+peut rester sous une forme latente, c’est-à-dire endormie, dans certaines 
+cellules qu’il infecte. Ces réservoirs latents ne sont pas reconnus par le 
+système immunitaire et peuvent se réactiver lorsque le patient arrête son 
+traitement et ainsi redémarrer l’infection. Ces réservoirs latents sont, donc, 
+un obstacle majeur à la guérison et de nombreuses recherches sont menées par la 
+communauté scientifique afin de trouver une stratégie d’éradication. Dans cet 
+article, nous présentons les différentes caractéristiques de ces réservoirs 
+latents et les différentes stratégies mises en place pour les identifier et 
+tenter de les éliminer.
+
+PMID: 32909407 [Indexed for MEDLINE]
+
+
+796. Rev Med Liege. 2020 Sep;75(9):582-587.
+
+[Hurdles to HIV cure. Part 2 : ongoing HIV replication despite therapy].
+
+[Article in French; Abstract available in French from the publisher]
+
+Chaslain A(1), Fombellida-Lopez C(1), Susin F(2), Vaira D(2), Moutschen M(3), 
+Darcis G(3).
+
+Author information:
+(1)Faculté de Médecine, ULiège, Belgique.
+(2)Laboratoire de référence SIDA, CHU Liège, Belgique.
+(3)Service des maladies infectieuses et Médecine interne générale, CHU Liège, 
+Belgique.
+
+The antiretroviral therapy (ART) has proven its effectiveness in improving the 
+life expectancy of people infected with human immunodeficiency virus (HIV). 
+Based on the inhibition of HIV replication, ART ensures the reduction of plasma 
+viral load to undetectable levels on long-term. Unfortunately, once ART is 
+interrupted, the viral load rises up. Consequently, the therapy remains not 
+curative. The reasons for this failure lie in the presence of latent reservoirs 
+of the virus and/or the presence of ongoing replication, responsible for the 
+persistence of the virus. This ongoing replication despite ongoing therapy has 
+been demonstrated in sanctuary sites where the penetration of antiretroviral 
+drugs is suboptimal. Moreover, some treatment intensification studies, mostly 
+through addition of an integrase inhibitor, transiently resulted in increases in 
+HIV replication by-products, highlighting that such strategies could reduce 
+ongoing replication. Although the debate is still open, confirming the presence 
+of this ongoing replication and finding strategies to eliminate it would be part 
+of the key to a cure for HIV.
+
+Publisher: Le traitement antirétroviral (ART) a prouvé son efficacité ces 
+vingt-cinq dernières années en améliorant l’espérance de vie des personnes 
+infectées par le virus de l’immunodéficience humaine (VIH), et en empêchant la 
+transmission du virus. Basé sur l’inhibition de la réplication du VIH, ce 
+traitement permet de diminuer la charge virale plasmatique du virus, à des 
+niveaux indétectables, de façon durable. Malheureusement, le traitement n’est 
+pas curatif et un arrêt de celui-ci résulte inévitablement en un rapide rebond 
+de la virémie. Les raisons de cet échec sont, d’une part, la présence de 
+réservoirs latents du virus et, d’autre part, la persistance d’une réplication 
+du virus à bas bruit, malgré le traitement. Cette réplication se produirait dans 
+les sites sanctuaires où la concentration des antirétroviraux serait 
+sous-optimale. Des études d’intensification du traitement antirétroviral, par 
+ajout d’une drogue supplémentaire (généralement, un inhibiteur de l’intégrase), 
+ont produit des résultats en faveur de la persistance d’une réplication continue 
+du virus, malgré le traitement préalable, chez certains patients. Comprendre ce 
+phénomène et développer des stratégies visant à l’éliminer constituent des 
+éléments clés dans la quête d’une guérison des patients infectés par le VIH.
+
+PMID: 32909408 [Indexed for MEDLINE]
+
+
+797. Integr Cancer Ther. 2020 Jan-Dec;19:1534735420954912. doi: 
+10.1177/1534735420954912.
+
+Effects of Resistance Exercise on Symptoms, Physical Function, and Quality of 
+Life in Gastrointestinal Cancer Patients Undergoing Chemotherapy.
+
+Hong Y(1), Wu C(1), Wu B(1).
+
+Author information:
+(1)Quanzhou First Hospital Affiliated to Fujian Medical University, Quanzhou, 
+Fujian, China.
+
+This research aimed to investigate the effects of resistance exercise on 
+symptoms, physical function, and quality of life (QoL) in gastrointestinal 
+cancer patients undergoing chemotherapy. Patients were quasi-randomly divided 
+into the resistance exercise group and the relaxation control group, and 
+machine-based resistance exercise was performed twice a week for 12 weeks under 
+the guidance of experienced therapists. The QoL of patients was analyzed by 
+EORTC-QLQ-C30. Resistance exercise training significantly reduced the incidences 
+of lack of energy (inter-group P = .011), nausea (inter-group P = .007), acid 
+reflux (inter-group P = .042), and back pain (inter-group P = .0009). Twelve 
+weeks of resistance exercise training significantly elevated the muscular 
+strength of leg press (inter-group P = .021) and leg extension (inter-group 
+P = .041), and the muscular endurance of leg press (inter-group P = .005). The 
+participants' performance in 6-m fast walk (inter-group P = .008), 6-m backwards 
+walk (inter-group P = .016), and chair rise (inter-group P = .031) were 
+dramatically improved. Fatigue (inter-group P = .024) and appetite loss 
+(inter-group P = .012) in the resistance exercise group were significantly lower 
+than the relaxation control group. In conclusion, the beneficial effects of 
+resistance exercise on symptoms, physical function and QoL in gastrointestinal 
+cancer patients undergoing chemotherapy were demonstrated. Resistance exercise 
+training reduced the incidences of nausea and acid reflux, improved physical 
+function, and alleviated fatigue and appetite loss in gastrointestinal cancer 
+patients undergoing chemotherapy.
+
+DOI: 10.1177/1534735420954912
+PMCID: PMC7493268
+PMID: 32909468 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Conflicting Interests: The 
+author(s) declared no potential conflicts of interest with respect to the 
+research, authorship, and/or publication of this article.
+
+
+798. Ann N Y Acad Sci. 2021 Jan;1484(1):90-101. doi: 10.1111/nyas.14468. Epub
+2020  Sep 10.
+
+Global, regional, and national endometriosis trends from 1990 to 2017.
+
+Zhang S(1)(2), Gong TT(3), Wang HY(1)(2), Zhao YH(1)(2), Wu QJ(1)(2).
+
+Author information:
+(1)Department of Clinical Epidemiology, Shengjing Hospital of China Medical 
+University, Shenyang, China.
+(2)Clinical Research Center, Shengjing Hospital of China Medical University, 
+Shenyang, China.
+(3)Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical 
+University, Shenyang, China.
+
+Endometriosis is a chronic inflammatory disease defined as the presence of 
+endometrial tissue outside the uterus that causes pelvic pain and infertility. 
+We used the Global Burden of Disease Study (GBD) 2017 to comprehensively analyze 
+the burden of endometriosis between 1990 and 2017. DisMod-MR 2.1 was used to 
+estimate the incidence and prevalence in some countries/territories with sparse 
+or absent data. Annual percent changes were calculated to quantify endometriosis 
+burden estimate trends. Furthermore, the sociodemographic index (SDI) was used 
+to assess the relationship between endometriosis burden estimates and 
+development level. Between 1990 and 2017, endometriosis age-standardized 
+incidence and prevalence and years of life lived with disability (YLDs) 
+decreased globally by 0.21% (95% confidence interval (CI): -0.23% to -0.20%), 
+0.29% (95% CI: -0.31% to -0.28%), and 0.28% (95% CI: -0.30% to -0.27%) per year, 
+respectively. Apart from the high SDI quintiles with increasing trends of 
+endometriosis incidence rate, prevalence rate, and YLDs, decreasing trends were 
+observed in all SDI quintiles for all burden estimates. In conclusion, it 
+appears that all endometriosis burden estimates have decreased globally between 
+1990 and 2017. However, these results are based on limited data and highlight 
+the need for increased data collection on the incidence and prevalence of 
+endometriosis.
+
+© 2020 New York Academy of Sciences.
+
+DOI: 10.1111/nyas.14468
+PMID: 32909625 [Indexed for MEDLINE]
+
+
+799. ESC Heart Fail. 2020 Dec;7(6):3910-3918. doi: 10.1002/ehf2.12985. Epub 2020
+Sep  10.
+
+Cost-effectiveness of empagliflozin in the UK in an EMPA-REG OUTCOME subgroup 
+with type 2 diabetes and heart failure.
+
+Reifsnider OS(1), Kansal AR(1), Franke J(2), Lee J(3), George JT(4), Brueckmann 
+M(2)(5), Kaspers S(2), Brand SB(1), Ustyugova A(2), Linden S(2), Stargardter 
+M(1), Hau N(4).
+
+Author information:
+(1)Evidera, 7101 Wisconsin Avenue, Suite 1400, Bethesda, MD, 20814, USA.
+(2)Boehringer Ingelheim International GmbH, Ingelheim am Rhein, Germany.
+(3)Evidera, San Francisco, CA, USA.
+(4)Boehringer Ingelheim Ltd., Bracknell, Berkshire, UK.
+(5)Faculty of Medicine Mannheim at the University of Heidelberg, Mannheim, 
+Germany.
+
+AIMS: Heart failure (HF) and type 2 diabetes (T2D), common co-morbidities, 
+translate into worse patient prognoses and higher direct costs than for either 
+condition alone. Empagliflozin has been shown to markedly reduce cardiovascular 
+(CV) deaths and HF hospitalizations (HHF) in HF patients with T2D. This study 
+evaluated the lifetime cost-effectiveness of supplementing standard of care 
+(SoC) with empagliflozin, relative to SoC alone, in HF patients with T2D from 
+the UK payer perspective.
+METHODS AND RESULTS: An existing discrete-event simulation model was adapted for 
+the economic evaluation. Risk equations developed from time-dependent parametric 
+survival analyses using patient-level HF subpopulation data from the EMPA-REG 
+OUTCOME trial were employed to predict CV and renal events. Non-CV death, 
+utility weights, and costs were drawn from UK sources. Quality-adjusted life 
+years (QALYs) and costs were discounted at 3.5% per annum. Relative to SoC, 
+empagliflozin with SoC yielded fewer first HHF, recurrent HHF, CV death, and 
+non-fatal myocardial infarction but more non-fatal stroke events. Empagliflozin 
+with SoC vs. SoC alone was associated with increased average life expectancy 
+(10.80 vs. 9.59 LYs) and quality of life (6.27 vs. 5.62 QALYs), though at higher 

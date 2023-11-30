@@ -1,0 +1,1000 @@
+Inuit in Greenland. The Greenland population health survey 2018.
+
+Bjerregaard P(1), Ottendahl CB(1), Jensen T(1)(2), Nørtoft K(1), Jørgensen 
+ME(1)(2)(3)(4), Larsen CVL(1)(2).
+
+Author information:
+(1)Centre for Public Health in Greenland, National Institute of Public Health, 
+University of Southern Denmark, Denmark.
+(2)Institute of Nursing and Health Science, University of Greenland, Greenland.
+(3)Steno Diabetes Center Greenland, Nuuk, Greenland.
+(4)Steno Diabetes Center Copenhagen, Denmark.
+
+The purpose was to analyse the association of muscular strength, muscle pain and 
+reduced mobility in daily life with mental wellbeing among older Inuit men and 
+women in Greenland. Data (N = 846) was collected as part of a countrywide 
+cross-sectional health survey in 2018. Hand grip strength and 30-seconds chair 
+stand test were measured according to established protocols. Mobility in daily 
+life was assessed by five questions about the ability to perform specific 
+activities of daily living. Mental wellbeing was assessed by questions about 
+self-rated health, life satisfaction and Goldberg's General Health 
+Questionnaire. In binary multivariate logistic regression models adjusted for 
+age and social position, muscular strength (OR 0.87-0.94) and muscle pain (OR 
+1.53-1.79) were associated with reduced mobility. In fully adjusted models, 
+muscle pain (OR 0.68-0.83) and reduced mobility (OR 0.51-0.55) but were 
+associated with mental wellbeing. Chair stand score was associated with life 
+satisfaction (OR 1.05). With an increasingly sedentary lifestyle, increasing 
+prevalence of obesity and increasing life expectancy the health consequences of 
+musculoskeletal dysfunction are expected to grow. Prevention and clinical 
+handling of poor mental health among older adults need to consider reduced 
+muscle strength, muscle pain and reduced mobility as important determinants.
+
+DOI: 10.1080/22423982.2023.2184751
+PMCID: PMC10013347
+PMID: 36880125 [Indexed for MEDLINE]
+
+Conflict of interest statement: No potential conflict of interest was reported 
+by the author(s).
+
+
+269. Popul Stud (Camb). 2023 Mar 7:1-15. doi: 10.1080/00324728.2023.2176535.
+Online  ahead of print.
+
+Flexible transition timing in discrete-time multistate life tables using Markov 
+chains with rewards.
+
+Schneider DC(1), Myrskylä M(1)(2), van Raalte A(1).
+
+Author information:
+(1)Max Planck Institute for Demographic Research.
+(2)University of Helsinki.
+
+Discrete-time multistate life tables are attractive because they are easier to 
+understand and apply in comparison with their continuous-time counterparts. 
+While such models are based on a discrete time grid, it is often useful to 
+calculate derived magnitudes (e.g. state occupation times), under assumptions 
+which posit that transitions take place at other times, such as mid-period. 
+Unfortunately, currently available models allow very few choices about 
+transition timing. We propose the use of Markov chains with rewards as a general 
+way of incorporating information on the timing of transitions into the model. We 
+illustrate the usefulness of rewards-based multistate life tables by estimating 
+working life expectancies using different retirement transition timings. We also 
+demonstrate that for the single-state case, the rewards approach matches 
+traditional life-table methods exactly. Finally, we provide code to replicate 
+all results from the paper plus R and Stata packages for general use of the 
+method proposed.
+
+DOI: 10.1080/00324728.2023.2176535
+PMID: 36880359
+
+
+270. J Inherit Metab Dis. 2023 Jul;46(4):573-585. doi: 10.1002/jimd.12603. Epub
+2023  Apr 7.
+
+Competitive, multi-objective, and compartmented Flux Balance Analysis for 
+addressing tissue-specific inborn errors of metabolism.
+
+Liu Y(1), Westerhoff HV(1)(2)(3).
+
+Author information:
+(1)Swammerdam Institute for Life Sciences, University of Amsterdam, Amsterdam, 
+The Netherlands.
+(2)Molecular Cell Biology, Amsterdam Institute for Molecules, Medicines and 
+Systems, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands.
+(3)School of Biological Sciences, Faculty of Biology, Medicine and Health, 
+University of Manchester, Manchester, UK.
+
+The inborn error of metabolism phenylketonuria (PKU, OMIM 261600) is most often 
+due to inactivation of phenylalanine hydroxylase (PAH), which converts 
+phenylalanine (Phe) into tyrosine (Tyr). The reduced PAH activity increases 
+blood concentration of phenylalanine and urine levels of phenylpyruvate. Flux 
+balance analysis (FBA) of a single-compartment model of PKU predicts that 
+maximum growth rate should be reduced unless Tyr is supplemented. However, the 
+PKU phenotype is lack of development of brain function specifically, and Phe 
+reduction rather than Tyr supplementation cures the disease. Phe and Tyr cross 
+the blood-brain barrier (BBB) through the aromatic amino acid transporter 
+implying that the two transport reactions interact. However, FBA does not 
+accommodate such competitive interactions. We here report on an extension to FBA 
+that enables it to deal with such interactions. We built a three-compartment 
+model, made the common transport across the BBB explicit, and included dopamine 
+and serotonin synthesis as parts of the brain function to be delivered by FBA. 
+With these ramifications, FBA of the genome-scale metabolic model extended to 
+three compartments does explain that (i) the disease is brain specific, (ii) 
+phenylpyruvate in urine is a biomarker, (iii) excess of blood-phenylalanine 
+rather than shortage of blood-tyrosine causes brain pathology, and (iv) Phe 
+deprivation is the better therapy. The new approach also suggests (v) 
+explanations for differences in pathology between individuals with the same PAH 
+inactivation, and (vi) interference of disease and therapy with the functioning 
+of other neurotransmitters.
+
+© 2023 The Authors. Journal of Inherited Metabolic Disease published by John 
+Wiley & Sons Ltd on behalf of SSIEM.
+
+DOI: 10.1002/jimd.12603
+PMID: 36880400 [Indexed for MEDLINE]
+
+
+271. BioDrugs. 2023 May;37(3):433-440. doi: 10.1007/s40259-023-00582-w. Epub 2023
+Mar  7.
+
+Six-Year Survival Outcomes for Patients with HER2-Positive Early Breast Cancer 
+Treated with CT-P6 or Reference Trastuzumab: Observational Follow-Up Study of a 
+Phase 3 Randomised Controlled Trial.
+
+Stebbing J(1)(2)(3), Baranau Y(4), Baryash V(4), Moiseyenko V(5), Boliukh D(6), 
+Antone N(7), Manikhas A(8), Chornobai A(9), Park T(10), Baek EH(10), Lee J(11), 
+Choi J(11), Kim N(11), Ahn K(10), Lee SJ(12), Kim S(13).
+
+Author information:
+(1)Department of Surgery and Cancer, Imperial College London, London, UK.
+(2)School of Life Sciences, Anglia Ruskin University, Cambridge, UK.
+(3)Oncogene, London, UK.
+(4)Chemotherapy Department 1, Minsk City Clinical Cancer Center, Minsk, Belarus.
+(5)Oncology Department, St. Petersburg Clinical Scientific and Practical Centre 
+of Specialized Kinds of Medical Care, St. Petersburg, Russian Federation.
+(6)Chemotherapy Department, Vinnytsya Regional Clinical Oncology Dispensary, 
+Vinnytsya, Ukraine.
+(7)Radiotherapy I Department, IOCN-The Oncology Institute "Prof. Dr. Ion 
+Chiricuta", Cluj-Napoca, Romania.
+(8)Oncology Department, City Clinical Oncological Dispensary, St. Petersburg, 
+Russian Federation.
+(9)Chemotherapy Department, Poltava Regional Clinical Oncology Center, Poltava, 
+Ukraine.
+(10)Clinical Planning, Celltrion, Inc., Incheon, Republic of Korea.
+(11)Biometrics, Celltrion, Inc., Incheon, Republic of Korea.
+(12)Data Science Institute, Celltrion, Inc., Incheon, Republic of Korea.
+(13)Medical Science Division, Celltrion, Inc., 23, Academy-ro, Yeonsu-gu, 
+Incheon, 22014, Republic of Korea. sunghyun.kim@celltrion.com.
+
+BACKGROUND: The Phase 3 CT-P6 3.2 study demonstrated equivalent efficacy and 
+comparable safety between CT-P6 and reference trastuzumab in patients with human 
+epidermal growth factor receptor-2 (HER2)-positive early breast cancer after up 
+to 3 years' follow-up.
+OBJECTIVE: To investigate long-term survival with CT-P6 and reference 
+trastuzumab.
+METHODS: In the CT-P6 3.2 study, patients with HER2-positive early breast cancer 
+were randomised to neoadjuvant chemotherapy with CT-P6 or reference trastuzumab, 
+surgery, and adjuvant CT-P6 or reference trastuzumab before a 3-year 
+post-treatment follow-up. Patients who completed the study could enter a 3-year 
+extension (CT-P6 4.2 study). Data were collected every 6 months to assess 
+overall survival (OS), disease-free survival (DFS), and progression-free 
+survival (PFS).
+RESULTS: Of 549 patients enrolled in the CT-P6 3.2 study, 216 (39.3%) patients 
+continued in the CT-P6 4.2 study (CT-P6, 107; reference trastuzumab, 109) 
+(intention-to-treat extension set). Median follow-up was 76.4 months for both 
+groups. Medians were not reached for time-to-event parameters; estimated hazard 
+ratios (95% confidence intervals) for CT-P6 versus reference trastuzumab were 
+0.59 (0.17-2.02) for OS, 1.07 (0.50-2.32) for DFS, and 1.08 (0.50-2.34) for PFS. 
+Corresponding 6-year survival rates in the CT-P6 and reference trastuzumab 
+groups, respectively, were 0.96 (0.90-0.99) and 0.94 (0.87-0.97), 0.87 
+(0.78-0.92) and 0.89 (0.81-0.94), and 0.87 (0.78-0.92) and 0.89 (0.82-0.94).
+CONCLUSIONS: Data from this extended follow-up of the CT-P6 3.2 study 
+demonstrate the comparable long-term efficacy of CT-P6 and reference trastuzumab 
+up to 6 years.
+EUDRACT NUMBER: 2019-003518-15 (retrospectively registered 10 March 2020).
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s40259-023-00582-w
+PMCID: PMC10195725
+PMID: 36881323 [Indexed for MEDLINE]
+
+Conflict of interest statement: Justin Stebbing has received consulting fees or 
+honoraria (2020–present) from Agenus, Alveo Technologies, APIM Therapeutics, 
+Benevolent AI, Bryologyx, Celltrion, Certis, Eli Lilly, Equilibre 
+Biopharmaceuticals, Graviton Bioscience Corporation, Greenmantle, Heat 
+Biologics, IO Labs, Onconox, Pear Bio, Vaccitech, Volvox, vTv Therapeutics, and 
+Zephyr AI; he has consulted with Lansdowne Partners and Vitruvian; he chairs the 
+Board of Directors for Xerion and previously BB Biotech Healthcare Trust PLC; 
+and is Editor-in-Chief of Oncogene. Taehong Park, Jaeyong Lee, Jiin Choi, Nahyun 
+Kim, Keumyoung Ahn, Sang Joon Lee and Sunghyun Kim are employees of Celltrion, 
+Inc. and hold stock in Celltrion, Inc. Eric Hyungseok Baek is an employee of 
+Celltrion, Inc. Yauheni Baranau, Valery Baryash, Vladimir Moiseyenko, Dmytro 
+Boliukh, Nicoleta Antone, Alexey Manikhas and Anatolii Chornobai have no 
+conflicts of interest to disclose.
+
+
+272. ANZ J Surg. 2023 Sep;93(9):2143-2147. doi: 10.1111/ans.18374. Epub 2023 Mar
+7.
+
+Colonoscopy in the nonagenarian population.
+
+Chen MZ(1), Tan M(1), Walter T(2)(3), Rich G(2)(3)(4), Barto W(1)(5).
+
+Author information:
+(1)Department of Colorectal Surgery, Nepean Hospital, Sydney, New South Wales, 
+Australia.
+(2)Department of Gastroenterology, Sydney Adventist Hospital, Sydney, New South 
+Wales, Australia.
+(3)Australian National University, Sydney, New South Wales, Australia.
+(4)University of Queensland, Brisbane, Queensland, Australia.
+(5)Department of Surgery, Sydney Adventist Hospital, Sydney, New South Wales, 
+Australia.
+
+Comment in
+    ANZ J Surg. 2023 Sep;93(9):2269.
+
+BACKGROUND: With increasing life expectancy, there is an increasing proportion 
+of nonagenarians undergoing both elective and emergency surgical procedures. The 
+decision as to whom will benefit from surgical procedures is however difficult 
+to ascertain and still remains a challenge to clinicians. This study is aimed to 
+evaluate the clinical outcomes of colonoscopy in the nonagenarian population, 
+and to determine if the outcomes are acceptable for us to continue to offer such 
+interventions.
+METHODS: Retrospective study of patients of Dr. G.R (Gastroenterologist) and Dr. 
+W.B (Colorectal Surgeon) between 1 January 2018 and 31 November 2022. All 
+patients who were ≥90 years old and had a colonoscopy was included in the study. 
+Exclusion criteria were patients who were less than 90 years old, had a flexible 
+sigmoidoscopy or colonoscopy as part of their surgical procedure.
+PRIMARY OUTCOME MEASURES: post-colonoscopy complications and length of stay.
+SECONDARY OUTCOME MEASURES: reasons for colonoscopy, significant colonoscopy 
+findings, 30-day morbidity and mortality.
+RESULTS: Sixty patients were included in the study. Median age was 91 (90-100) 
+years old. 33.3% of the patients were males. Seventy percent of the patients 
+were ASA 3. Median length of hospital stay was 1 day. 11.7% of patients were 
+found to have colorectal malignancy. There were no complications after the 
+colonoscopy. There were no 30-day re-admission, morbidity or mortality.
+CONCLUSION: Colonoscopy can be performed safely in carefully selected 
+nonagenarian patients with acceptable low complication rates.
+
+© 2023 Royal Australasian College of Surgeons.
+
+DOI: 10.1111/ans.18374
+PMID: 36881524 [Indexed for MEDLINE]
+
+
+273. J Neurol Neurosurg Psychiatry. 2023 Jul;94(7):511-517. doi: 
+10.1136/jnnp-2022-330582. Epub 2023 Mar 7.
+
+Multiple sclerosis mortality in New Zealand: a nationwide prospective study.
+
+Leadbetter R(1)(2), MacAskill M(2)(3), Myall DJ(2), Taylor BV(4), Joshi P(5); 
+NZMSPS group; Mason DF(2)(3)(6).
+
+Collaborators: Pearson JF, Clarke G, Abernethy DA, Willoughby E, Sabel CE.
+
+Author information:
+(1)Department of Neurology, Wellington Regional Hospital, Wellington, New 
+Zealand rleadbetter20@gmail.com.
+(2)New Zealand Brain Research Institute, Christchurch, New Zealand.
+(3)Department of Medicine, University of Otago, Christchurch, New Zealand.
+(4)Menzies Research Institute, University of Tasmania, Hobart, Tasmania, 
+Australia.
+(5)Department of Neurology, Wellington Regional Hospital, Wellington, New 
+Zealand.
+(6)Department of Neurology, Christchurch Hospital, Christchurch, New Zealand.
+
+BACKGROUND: Mortality data from Europe and North America show a shorter life 
+expectancy for people with multiple sclerosis (MS). It is not known if a similar 
+mortality risk exists in the southern hemisphere. We analysed the mortality 
+outcomes of a comprehensive New Zealand (NZ) MS cohort, 15 years 
+postrecruitment.
+METHODS: All participants of the nationwide 2006 NZ MS prevalence study were 
+included and mortality outcomes were compared with life table data from the NZ 
+population using classic survival analyses, standardised mortality ratios (SMRs) 
+and excess death rates (EDRs).
+RESULTS: Of 2909 MS participants, 844 (29%) were deceased at the end of the 
+15-year study period. Median survival age for the MS cohort was 79.4 years 
+(78.5, 80.3), compared with 86.6 years (85.5, 87.7) for the age-matched and 
+sex-matched NZ population. The overall SMR was 1.9 (1.8, 2.1)). Symptom onset 
+between 21 and 30 years corresponded to an SMR of 2.8 and a median survival age 
+9.8 years lower than the NZ population. Progressive-onset disease was associated 
+with a survival gap of 9 years compared with 5.7 years for relapsing onset. The 
+EDR for those diagnosed in 1997-2006 was 3.2 (2.6, 3.9) compared with 7.8 (5.8, 
+10.3) for those diagnosed between 1967 and 1976.
+CONCLUSIONS: New Zealanders with MS have a median survival age 7.2 years lower 
+than the general population and twice the mortality risk. The survival gap was 
+greater for progressive-onset disease and for those with an early age of onset.
+
+© Author(s) (or their employer(s)) 2023. No commercial re-use. See rights and 
+permissions. Published by BMJ.
+
+DOI: 10.1136/jnnp-2022-330582
+PMID: 36882223 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+274. Drug Ther Bull. 2023 May;61(5):69. doi: 10.1136/dtb.2023.000012. Epub 2023
+Mar  7.
+
+Impact of deprescribing for people with limited life expectancy.
+
+[No authors listed]
+
+Overview of: Shrestha S, Poudel A, Cardona M, et al Impact of deprescribing 
+dual-purpose medications on patient-related outcomes for older adults near 
+end-of-life: a systematic review and meta-analysis. Ther Adv Drug Saf 
+2021;12:1-16.
+
+© BMJ Publishing Group Limited 2023. No commercial re-use. See rights and 
+permissions. Published by BMJ.
+
+DOI: 10.1136/dtb.2023.000012
+PMID: 36882298 [Indexed for MEDLINE]
+
+
+275. ChemMedChem. 2023 Jun 1;18(11):e202200653. doi: 10.1002/cmdc.202200653. Epub
+ 2023 Apr 12.
+
+Incorporation of Trifluoromethyltriazoline in the Side Chain of 
+4-Aminoquinolines: Synthesis and Evaluation as Antiplasmodial Agents.
+
+Yadav K(1), Sharma A(1), Shaham SH(1), Chandrasekharan SP(2), Kumar S(2), Dhami 
+A(2), Nasreen H(2), Mohanan K(2)(3), Tripathi R(1)(3).
+
+Author information:
+(1)Molecular Microbiology and Immunology Division, CSIR-Central Drug Research 
+Institute, Jankipuram Extension, Sitapur Road, P.O. Box 173, Lucknow, 226031, 
+India.
+(2)Medicinal & Process Chemistry Division, CSIR-Central Drug Research Institute, 
+Jankipuram Extension, Sitapur Road, P.O. Box 173, Lucknow, 226031, India.
+(3)Academy of Scientific and Innovative Research, Ghaziabad, 201002, India.
+
+Reported herein is the identification of a novel class of 
+4-aminoquinoline-trifluormethyltriazoline compounds as possible antiplasmodial 
+agents. The compounds were accessed through a silver-catalyzed three-component 
+reaction of trifluorodiazoethane with in situ generated Schiff base from 
+corresponding quinolinylamine and aldehydes. While attempting to incorporate a 
+sulfonyl moiety, the triazoline formed underwent spontaneous oxidative 
+aromatization to afford triazole derivatives. All synthesized compounds were 
+tested for their antimalarial potential in vitro and in vivo. Out of 32 
+compounds, four showed the most promising antimalarial activity with IC50 values 
+ranging from 4 to 20 nM against Pf3D7 (chloroquine-sensitive) and from 120 to 
+450 nM against PfK1 (chloroquine-resistant) strains. One of these compounds was 
+also found to be effective in animal studies; it showed a 99.9 % decrease in 
+parasitic load on day 7 post-infection along with a 40 % cure rate and longest 
+host life span.
+
+© 2023 Wiley-VCH GmbH.
+
+DOI: 10.1002/cmdc.202200653
+PMID: 36882935 [Indexed for MEDLINE]
+
+
+276. J Med Econ. 2023 Jan-Dec;26(1):445-453. doi: 10.1080/13696998.2023.2188844.
+
+Cost-effectiveness of adjuvant atezolizumab versus best supportive care in the 
+treatment of patients with resectable early-stage non-small cell lung cancer and 
+overexpression of PD-L1.
+
+Escudero-Vilaplana V(1), Collado-Borrell R(1), De Castro J(2), Insa A(3), 
+Martínez A(4), Fernández E(5), Sullivan I(6), Flores A(7), Arrabal N(7), Carcedo 
+D(8), Manzaneque A(9).
+
+Author information:
+(1)Hospital Gregorio Marañón, Madrid, Spain.
+(2)Hospital Universitario La Paz, Madrid, Spain.
+(3)Hospital Clínico Universitario de Valencia, Valencia, Spain.
+(4)Hospital Universitari Vall d'Hebron, Barcelona, Spain.
+(5)OSI Bilbao-Basurto, Bilbao, Spain.
+(6)Hospital de la Santa Creu i Sant Pau, Barcelona, Spain.
+(7)Roche Farma S.A, Madrid, Spain.
+(8)Hygeia Consulting, Madrid, Spain.
+(9)Hospital Universitari Mútua Terrassa, Terrassa, Spain.
+
+AIMS: To assess the cost-effectiveness of adjuvant atezolizumab in the treatment 
+of early-stage NSCLC patients (stage II-IIIA) with expression PD-L1 ≥ 50% 
+without mutations in EGFR or ALK rearrangements in Spain.
+MATERIALS AND METHODS: A 5-states Markov model (DFS, locoregional recurrence, 
+1 L-metastatic recurrence, 2 L-metastatic recurrence, and death states) was 
+adapted to the Spanish setting. Demographic characteristics of the hypothetical 
+cohort, transition probabilities from the DFS state, and safety parameters were 
+obtained from IMpower010 study (GO29527). Transition probabilities from 
+locoregional and metastatic health states were obtained from the literature. The 
+usual clinical practice in Spain (use of health resources, management of the 
+disease, etc.) was obtained from a previous analysis carried out by the authors 
+of this study. A societal perspective was considered so both direct and indirect 
+costs were included (expressed in € of 2021). A lifetime horizon was used, so 
+costs and health outcomes were discounted at 3% per year. Sensitivity analyses 
+were performed to evaluate uncertainty.
+RESULTS: Over a lifetime horizon, treatment with adjuvant atezolizumab provided 
+greater effectiveness (+2.61 life years [LY] and +1.95 quality-adjusted life 
+years [QALY]) and higher cost (€+22,538) than BSC. The incremental 
+cost-effectiveness ratio (ICER) and incremental cost-utility ratios (ICUR) of 
+the analysis were €8,625/LY gained and €11,583/QALY gained, respectively. 
+Robustness of these base-case results was confirmed by the sensitivity analyses 
+performed. In the probabilistic sensitivity analysis, 90% of the simulations 
+performed showed that adjuvant atezolizumab is cost-effective versus BSC, 
+considering a threshold of €30,000/QALY.
+CONCLUSIONS: Our results showed that adjuvant treatment with atezolizumab in 
+patients with early-stage resected NSCLC with overexpression of PD-L1 and 
+without EGFR and ALK mutations is cost-effective versus BSC as the ICERs and 
+ICURs obtained are below the cost-effectiveness thresholds commonly considered 
+in Spain, thus offering a new treatment alternative for these patients.
+
+DOI: 10.1080/13696998.2023.2188844
+PMID: 36883193 [Indexed for MEDLINE]
+
+
+277. Drug Chem Toxicol. 2023 Mar 8:1-11. doi: 10.1080/01480545.2023.2186314.
+Online  ahead of print.
+
+Isometamidium chloride alters redox status, down-regulates p53 and PARP1 genes 
+while modulating at proteomic level in Drosophila melanogaster.
+
+Dangabar Shadrack A(1)(2)(3), Garba A(2)(3), Samuel Ndidi U(2)(3), Aminu 
+S(2)(3), Muhammad A(2)(3)(4).
+
+Author information:
+(1)Department of Food Technology and Home Economics, National Agricultural 
+Extension Research and Liaison Services, Ahmadu Bello University, Zaria, 
+Nigeria.
+(2)Department of Biochemistry, Faculty of Life Sciences, Ahmadu Bello 
+University, Zaria, Nigeria.
+(3)Africa Center of Excellence on Neglected Tropical Diseases and Forensic 
+Biotechnology (ACENTDFB), Zaria, Nigeria.
+(4)Center for Biomedical Research, Tuskegee University, Tuskegee, AL, USA.
+
+As trypanocide, several side effects have been reported in the use of 
+Isometamidium chloride. This study was therefore, designed to evaluate its 
+ability to induce oxidative stress and DNA damage using D. melanogaster as a 
+model organism. The LC50 of the drug was determined by exposing the flies 
+(1-3 days old of both genders) to six different concentrations (1 mg, 10 mg, 
+20 mg, 40 mg, 50 mg and 100 mg per 10 g of diet) of the drug for a period of 
+seven days. The effect of the drug on survival (28 days), climbing behavior, 
+redox status, oxidative DNA lesion, expression of p53 and PARP1 (Poly-ADP-Ribose 
+Polymerase-1) genes after five days exposure of flies to 4.49 mg, 8.97 mg, 
+17.94 mg and 35.88 mg per 10 g diet was evaluated. The interaction of the drug 
+in silico with p53 and PARP1 proteins was also evaluated. The result showed the 
+LC50 of isometamidium chloride to be 35.88 mg per 10 g diet for seven days. 
+Twenty-eight (28) days of exposure to isometamidium chloride showed a decreased 
+percentage survival in a time and concentration-dependent manner. Isometamidium 
+chloride significantly (p < 0.05) reduced climbing ability, total thiol level, 
+Glutathione-S-transferase, and Catalase activity. The level of H2O2 was 
+significantly (p < 0.05) increased. The result also showed significant 
+(p < 0.05) reduction in the relative mRNA levels of p53 and PARP1 genes. The in 
+silico molecular docking of isometamidium with p53 and PARP1 proteins showed 
+high binding energy of -9.4 Kcal/mol and -9.2 Kcal/mol respectively. The results 
+suggest that isometamidium chloride could be cytotoxic and a potential inhibitor 
+of p53 and PARP1 proteins.
+
+DOI: 10.1080/01480545.2023.2186314
+PMID: 36883353
+
+
+278. Pharmacoeconomics. 2023 May;41(5):589-604. doi: 10.1007/s40273-023-01254-x.
+Epub  2023 Mar 8.
+
+Cost-Effectiveness Analysis of Tofacitinib Compared with Biologics in 
+Biologic-Naïve Patients with Moderate-to-Severe Ulcerative Colitis in Japan.
+
+Kobayashi T(1), Hoshi M(2), Yuasa A(3), Arai S(2), Ikeda M(2), Matsuda H(4), Kim 
+SW(4), Hibi T(5).
+
+Author information:
+(1)Center for Advanced IBD Research and Treatment, Kitasato University Kitasato 
+Institute Hospital, Tokyo, Japan.
+(2)Inflammation and Immunology Medical Affairs, Pfizer Japan Inc., Tokyo, Japan.
+(3)Health and Value, Pfizer Japan Inc., Tokyo, Japan.
+(4)HEOR, Real World Evidence Solutions, IQVIA Solutions Japan K.K., Tokyo, 
+Japan.
+(5)Center for Advanced IBD Research and Treatment, Kitasato University Kitasato 
+Institute Hospital, Tokyo, Japan. thibi@insti.kitasato-u.ac.jp.
+
+OBJECTIVE: Tofacitinib is an oral Janus kinase inhibitor approved for the 
+treatment of ulcerative colitis (UC). The objective of this study was to 
+evaluate the long-term cost-effectiveness of tofacitinib versus current 
+biologics, considering combinations of first-line (1L) and second-line (2L) 
+therapies, from a Japanese payer's perspective in patients with 
+moderate-to-severe active UC following an inadequate response to conventional 
+therapy and in those who were naïve to biologics.
+METHODS: A cost-effectiveness analysis was conducted during the time horizon 
+specified in the Markov model, which considers a patient's lifetime as 60 years 
+and an annual discount rate of 2% on costs and effects. The model compared 
+tofacitinib with vedolizumab, infliximab, adalimumab, golimumab, and 
+ustekinumab. The time of active treatment was divided into induction and 
+maintenance phases. Patients not responding to their biologic treatment after 
+induction or during the maintenance phase were switched to a subsequent line of 
+therapy. Treatment response and remission probabilities (for induction and 
+maintenance phases) were obtained through a systematic literature review and a 
+network meta-analysis that employed a multinomial analysis with fixed effects. 
+Patient characteristics were sourced from the OCTAVE Induction trials. Mean 
+utilities associated with UC health states and adverse events (AEs) were 
+obtained from published sources. Direct medical costs related to drug 
+acquisition, administration, surgery, patient management, and AEs were derived 
+from the JMDC database analysis, which corresponded with the medical procedure 
+fees from 2021. The drug prices were adjusted to April 2021. Further validation 
+through all processes by clinical experts in Japan was conducted to fit the 
+costs to real-world practices. Scenario and sensitivity analyses were also 
+performed to confirm the accuracy and robustness of the base-case results.
+RESULTS: In the base-case, the treatment pattern including 1L tofacitinib was 
+more cost-effective than vedolizumab, infliximab, golimumab, and ustekinumab for 
+1L therapies in terms of cost per quality-adjusted life year (QALY) gained 
+(based on the Japanese threshold of 5,000,000 yen/QALY [38,023 United States 
+dollars {USD}/QALY]). The base-case results demonstrated that the incremental 
+costs would be reduced for all biologics, and decreases in incremental QALYs 
+were observed for all biologics other than adalimumab. The incremental 
+cost-effectiveness ratio (ICER) was found to be dominant for adalimumab; for the 
+other biologics, it was found to be less costly and less efficacious. The 
+efficiency frontier on the cost-effectiveness plane indicated that 
+tofacitinib-infliximab and infliximab-tofacitinib were more cost-effective than 
+the other treatment patterns. When infliximab-tofacitinib was compared with 
+tofacitinib-infliximab, the ICER was 282,609,856 yen/QALY (2,149,157 USD/QALY) 
+and the net monetary benefit (NMB) was -12,741,342 yen (-96,894 USD) with a 
+threshold of 5,000,000 yen (38,023 USD) in Japan. Therefore, 
+infliximab-tofacitinib was not acceptable by this threshold, and 
+tofacitinib-infliximab was the cost-effective treatment pattern.
+CONCLUSION: The current analysis suggests that the treatment pattern including 
+1L tofacitinib is a cost-effective alternative to the biologics for patients 
+with moderate-to-severe UC from a Japanese payer's perspective.
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s40273-023-01254-x
+PMCID: PMC10085930
+PMID: 36884164 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare the following potential 
+conflicts of interest with respect to the research, authorship, and/or 
+publication of this article: TK received lecture fees from AbbVie GK, Activaid, 
+Alfresa Pharma Corporation, Gilead Sciences, Nippon Kayaku Co., Ltd., Eli Lilly 
+Japan K.K., Mochida Pharmaceutical Co., Ltd., Janssen Pharmaceutical K.K., 
+Pfizer Japan Inc., Takeda Pharmaceutical Co., Ltd., Mitsubishi Tanabe Pharma 
+Corporation, and EA Pharma. TK received consulting fees from Takeda 
+Pharmaceutical Co., Ltd., Activaid, Alfresa Pharma Corporation, Zeria 
+Pharmaceutical Co., Ltd., Kyorin Pharmaceutical Co., Ltd., Nippon Kayaku Co., 
+Ltd., Mitsubishi Tanabe Pharma Corporation, AbbVie GK, Pfizer Japan Inc., 
+Janssen Pharmaceutical K.K., Thermo Fisher Diagnostics K.K., JIMRO Co., Ltd., 
+Bristol-Myers Squibb, Gilead Sciences, Galapagos, and Eli Lilly Japan K.K. TK 
+received grants from Zeria Pharmaceutical Co., Ltd., Nippon Kayaku Co., Ltd., 
+Otsuka Holdings, EA Pharma Co., Ltd., JIMRO Co., Ltd., Kyorin Pharmaceutical 
+Co., Ltd., Google Asia Pacific Pte. Ltd., Alfresa Pharma Corporation, and JMDC 
+Inc. MH is a full-time employee of Pfizer Japan Inc. AY and SA are full-time 
+employees of Pfizer Japan Inc., and hold stocks and stock options from Pfizer 
+Inc. MI was a full-time employee of Pfizer Japan Inc. at the time this study was 
+conducted. HM and SWK are full-time employees of IQVIA Solutions Japan K.K. TH 
+received honorarium from Aspen Japan K.K., AbbVie GK., Ferring, Gilead Sciences, 
+Janssen Pharmaceutical K.K., JIMRO Co., Ltd., Mitsubishi Tanabe Pharma 
+Corporation, Mochida Pharmaceutical Co, Ltd., Pfizer Japan Inc., and Takeda 
+Pharmaceutical Co., Ltd. TH received consulting fees from Apo Plus Station, 
+AbbVie GK., Bristol-Myers Squibb, Celltrion, EA Pharma, Eli Lilly Japan K.K., 
+Gilead Sciences, Janssen Pharmaceutical K.K., Kyorin Pharmaceutical Co., Ltd., 
+Mitsubishi Tanabe Pharma Corporation, Nichi-Iko Pharmaceutical, Pfizer Japan 
+Inc., Takeda Pharmaceutical Co., Ltd., and Zeria Pharmaceutical Co., Ltd.
+
+
+279. Health Promot Int. 2023 Apr 1;38(2):daad013. doi: 10.1093/heapro/daad013.
+
+Social network and health behaviors among Japanese older adults: a three-wave 
+longitudinal study.
+
+Harada K(1), Masumoto K(1), Okada S(1).
+
+Author information:
+(1)Active Aging Research Hub, Graduate School of Human Development and 
+Environment, Kobe University, 3-11 Tsurukabuto, Nada, Kobe, 657-8501Japan.
+
+Identifying modifiable determinants of behavior is essential for developing 
+effective strategies to promote health behaviors among older adults. Although 
+social networks are potentially modifiable determinants of health behaviors, 
+their longitudinal associations have not been established in previous studies. 
+The present study examined whether a larger social network is associated with 
+higher dietary variety, longer time spent exercising and shorter time spent 
+viewing TV among older adults. This is a longitudinal study. The data of 908 
+Japanese older adults were obtained through a three-wave questionnaire survey 
+(Wave 1, December 2017 to January 2018; Wave 2, after 1 year; Wave 3, after 3 
+years) and analyzed. In each wave of the survey, dietary variety (dietary 
+variety score), exercise time (hours per day), TV viewing time (hours per day) 
+and social network (family and friend subscales of the Japanese version of the 
+abbreviated Lubben Social Network Scale) were measured. The present study used 
+latent growth, cross-lagged and simultaneous effect models to investigate the 
+longitudinal associations of family and friend social networks with dietary 
+variety, exercise time and TV viewing time. However, these models did not show 
+clear and robust associations. Whether social networks are determinants of 
+health behaviors among older adults remains inconclusive.
+
+Plain Language Summary: The importance of promoting health behaviors among older 
+adults is obvious. Identifying the modifiable determinants of health behaviors 
+is essential for developing effective strategies to promote health behaviors. 
+Although social networks are potentially modifiable determinants of health 
+behaviors, their longitudinal associations have not been established in previous 
+studies. This study examined the longitudinal associations between social 
+networks and health behaviors among older adults. To address this issue, we 
+conducted a three-wave questionnaire. However, we failed to find clear and 
+robust associations between social networks and health behaviors. Whether social 
+networks are determinants of health behaviors among older adults remains 
+inconclusive.
+
+© The Author(s) 2023. Published by Oxford University Press. All rights reserved. 
+For permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/heapro/daad013
+PMID: 36884319 [Indexed for MEDLINE]
+
+
+280. PLoS Genet. 2023 Mar 8;19(3):e1010450. doi: 10.1371/journal.pgen.1010450. 
+eCollection 2023 Mar.
+
+The N-terminal extension of Arabidopsis ARGONAUTE 1 is essential for microRNA 
+activities.
+
+Xu Y(1)(2), Zhang Y(2)(3), Li Z(4), Soloria AK(3), Potter S(3), Chen X(2)(3).
+
+Author information:
+(1)Department of Microbiology and Plant Pathology, University of California, 
+Riverside, California, United States of America.
+(2)Institute for Integrative Genome Biology, University of California, 
+Riverside, California, United States of America.
+(3)Department of Botany and Plant Sciences, University of California, Riverside, 
+California, United States of America.
+(4)College of Life Sciences, Shanxi Agricultural University, Taigu, China.
+
+microRNAs (miRNAs) regulate target gene expression through their ARGONAUTE (AGO) 
+effector protein, mainly AGO1 in Arabidopsis thaliana. In addition to the highly 
+conserved N, PAZ, MID and PIWI domains with known roles in RNA silencing, AGO1 
+contains a long, unstructured N-terminal extension (NTE) of little-known 
+function. Here, we show that the NTE is indispensable for the functions of 
+Arabidopsis AGO1, as a lack of the NTE leads to seedling lethality. Within the 
+NTE, the region containing amino acids (a.a.) 91 to 189 is essential for 
+rescuing an ago1 null mutant. Through global analyses of small RNAs, 
+AGO1-associated small RNAs, and miRNA target gene expression, we show that the 
+region containing a.a. 91-189 is required for the loading of miRNAs into AGO1. 
+Moreover, we show that reduced nuclear partitioning of AGO1 did not affect its 
+profiles of miRNA and ta-siRNA association. Furthermore, we show that the 
+1-to-90a.a. and 91-to-189a.a. regions of the NTE redundantly promote the 
+activities of AGO1 in the biogenesis of trans-acting siRNAs. Together, we report 
+novel roles of the NTE of Arabidopsis AGO1.
+
+Copyright: © 2023 Xu et al. This is an open access article distributed under the 
+terms of the Creative Commons Attribution License, which permits unrestricted 
+use, distribution, and reproduction in any medium, provided the original author 
+and source are credited.
+
+DOI: 10.1371/journal.pgen.1010450
+PMCID: PMC9994745
+PMID: 36888599 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+281. Value Health Reg Issues. 2023 May;35:69-77. doi: 10.1016/j.vhri.2022.12.007.
+ Epub 2023 Mar 6.
+
+Cost-Effectiveness of Mepolizumab Add-On in the Treatment of Severe Eosinophilic 
+Asthma in Chile.
+
+Abbott T(1), Balmaceda C(2), Zamorano P(1), Giglio A(3), Espinoza M(4).
+
+Author information:
+(1)Unidad de Evaluación de Tecnologías Sanitarias, Centro de Investigación 
+Clínica, Pontificia Universidad Católica de Chile, Santiago, Chile.
+(2)Unidad de Evaluación de Tecnologías Sanitarias, Centro de Investigación 
+Clínica and Departamento de Salud Pública, Pontificia Universidad Católica de 
+Chile, Santiago, Chile.
+(3)Servicio de Medicina Interna, Complejo asistencial Sotero del Rio, Santiago, 
+Chile.
+(4)Unidad de Evaluación de Tecnologías Sanitarias, Centro de Investigación 
+Clínica and Departamento de Salud Pública, Pontificia Universidad Católica de 
+Chile, Santiago, Chile. Electronic address: manuel.espinoza@uc.cl.
+
+OBJECTIVE: Asthma is one of the 4 leading causes of death worldwide. Severe 
+asthma is associated with poor quality of life, decreased life expectancy, and 
+higher health resources consumption such as the use of oral corticosteroids 
+(OCSs). This study aimed to assess the cost-effectiveness of mepolizumab as an 
+add-on compared with the standard care of the Chilean public health system 
+(combined inhaled corticosteroid therapy and a long-acting beta-agonist, 
+short-acting beta-agonist, and OCS).
+MATERIALS AND METHODS: A Markov model was adapted to represent the day-to-day of 
+patients with severe asthma over a lifetime horizon. Deterministic and 
+probabilistic sensitivity analyses were performed to account for the 
+second-order uncertainty of the model. In addition, a risk subgroup analysis was 
+conducted to evaluate the cost-effectiveness of mepolizumab across different 
+risk populations.
+RESULTS: Mepolizumab produces more benefits than standard of care alone (1 
+additional quality-adjusted life-year, a decrease of OCS usage, an approximated 
+11 avoided exacerbations) but it cannot be considered cost-effective in the 
+light of the Chilean threshold (incremental cost-effectiveness ratio: US dollars 
+[USD] 105 967/quality-adjusted life-year vs USD 14 896). Despite this, 
+cost-effectiveness increases in specific subgroups, with an incremental 
+cost-effectiveness ratio of USD 44 819 in patients with eosinophil count ≥ 300 
+cell/mcL and exacerbation history of at least 4 exacerbations in the past year.
+CONCLUSION: Mepolizumab cannot be considered a cost-effective strategy for the 
+Chilean health system. Nevertheless, price discount in specific subgroups 
+improves its cost-effectiveness profile significantly and may offer 
+opportunities for access to specific subgroups.
+
+Copyright © 2023 International Society for Health Economics and Outcomes 
+Research. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.vhri.2022.12.007
+PMID: 36889021 [Indexed for MEDLINE]
+
+
+282. Cell Metab. 2023 Mar 7;35(3):414-428.e3. doi: 10.1016/j.cmet.2023.02.003.
+
+The global burden of metabolic disease: Data from 2000 to 2019.
+
+Chew NWS(1), Ng CH(2), Tan DJH(3), Kong G(3), Lin C(3), Chin YH(3), Lim WH(3), 
+Huang DQ(4), Quek J(3), Fu CE(3), Xiao J(3), Syn N(5), Foo R(6), Khoo CM(7), 
+Wang JW(8), Dimitriadis GK(9), Young DY(4), Siddiqui MS(10), Lam CSP(11), Wang 
+Y(12), Figtree GA(13), Chan MY(6), Cummings DE(14), Noureddin M(15), Wong 
+VW(16), Ma RCW(17), Mantzoros CS(18), Sanyal A(10), Muthiah MD(4).
+
+Author information:
+(1)Department of Cardiology, National University Heart Centre, National 
+University Health System, Singapore, Singapore. Electronic address: 
+nicholas_ws_chew@nuhs.edu.sg.
+(2)Yong Loo Lin School of Medicine, National University of Singapore, Singapore, 
+Singapore. Electronic address: chenhanng@gmail.com.
+(3)Yong Loo Lin School of Medicine, National University of Singapore, Singapore, 
+Singapore.
+(4)Yong Loo Lin School of Medicine, National University of Singapore, Singapore, 
+Singapore; Division of Gastroenterology and Hepatology, Department of Medicine, 
+National University Hospital, Singapore, Singapore; National University Centre 
+for Organ Transplantation, National University Health System, Singapore, 
+Singapore.
+(5)Yong Loo Lin School of Medicine, National University of Singapore, Singapore, 
+Singapore; Division of General Surgery, University Surgical Cluster, National 
+University Hospital, Singapore, Singapore.
+(6)Department of Cardiology, National University Heart Centre, National 
+University Health System, Singapore, Singapore; Yong Loo Lin School of Medicine, 
+National University of Singapore, Singapore, Singapore.
+(7)Yong Loo Lin School of Medicine, National University of Singapore, Singapore, 
+Singapore; Division of Endocrinology, Department of Medicine, National 
+University Hospital, Singapore, Singapore.
+(8)Department of Surgery, Yong Loo Lin School of Medicine, National University 
+of Singapore, Singapore, Singapore; Cardiovascular Research Institute, National 
+University Heart Centre, National University Health System, Singapore, 
+Singapore; Nanomedicine Translational Research Programme, Centre for 
+NanoMedicine, Yong Loo Lin School of Medicine, National University of Singapore, 
+Singapore, Singapore.
+(9)Department of Endocrinology ASO/Easo COM, King's College Hospital NHS 
+Foundation Trust, Denmark Hill, London, UK; Obesity, Type 2 Diabetes and 
+Immunometabolism Research Group, Department of Diabetes, Faculty of 
+Cardiovascular Medicine & Sciences, School of Life Course Sciences, King's 
+College London, London, UK.
+(10)Division of Gastroenterology, Hepatology and Nutrition, Department of 
+Internal Medicine, Virginia Commonwealth University, Richmond, VA, USA.
+(11)National Heart Centre Singapore, Singapore, Singapore; Duke-NUS Medical 
+School, Singapore, Singapore.
+(12)Duke-NUS Medical School, Singapore, Singapore.
+(13)Northern Clinical School, Kolling Institute of Medical Research, University 
+of Sydney, Sydney, NSW, Australia; Department of Cardiology, Royal North Shore 
+Hospital, Sydney, NSW, Australia.
+(14)UW Medicine Diabetes Institute, VA Puget Sound Health Care System, 
+University of Washington, Seattle, WA, USA.
+(15)Houston Research Institute, Houston, TX, USA.
+(16)Department of Medicine and Therapeutics, Chinese University of Hong Kong, 
+Hong Kong, China.
+(17)Department of Medicine and Therapeutics, Chinese University of Hong Kong, 
+Hong Kong, China; Li Ka Shing Institute of Health Sciences, Chinese University 
+of Hong Kong, Hong Kong, China; Hong Kong Institute of Diabetes and Obesity, 
+Chinese University of Hong Kong, Hong Kong, China.
+(18)Section of Endocrinology, Boston VA Healthcare System, Boston, MA, USA; 
+Faculty of Medicine, Harvard University, Boston, MA, USA.
+
+Comment in
+    Cell Metab. 2023 Jul 11;35(7):1087-1088.
+    Cell Metab. 2023 Jul 11;35(7):1089-1090.
+
+Global estimates of prevalence, deaths, and disability-adjusted life years 
+(DALYs) from the Global Burden of Diseases, Injuries, and Risk Factors Study 
+2019 were examined for metabolic diseases (type 2 diabetes mellitus [T2DM], 
+hypertension, and non-alcoholic fatty liver disease [NAFLD]). For metabolic risk 
+factors (hyperlipidemia and obesity), estimates were limited to mortality and 
+DALYs. From 2000 to 2019, prevalence rates increased for all metabolic diseases, 
+with the greatest increase in high socio-demographic index (SDI) countries. 
+Mortality rates decreased over time in hyperlipidemia, hypertension, and NAFLD, 
+but not in T2DM and obesity. The highest mortality was found in the World Health 
+Organization Eastern Mediterranean region, and low to low-middle SDI countries. 
+The global prevalence of metabolic diseases has risen over the past two decades 
+regardless of SDI. Urgent attention is needed to address the unchanging 
+mortality rates attributed to metabolic disease and the entrenched 
+sex-regional-socioeconomic disparities in mortality.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cmet.2023.02.003
+PMID: 36889281 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests G.A.F. receives funding 
+from the National Health and Medical Research Council (Australia), New South 
+Wales Office of Health and Medical Research, and Heart Research Australia. She 
+reports personal consulting fees from CSL, Janssen, Amgen, and Boehringer 
+Ingelheim and grants from Abbott Diagnostic outside the submitted work. In 
+addition, G.A.F. has a patent, Biomarkers and Oxidative Stress, awarded USA May 
+2017 (US9638699B2) issued to Northern Sydney Local Health District. M.Y.C. 
+receives speaker’s fees and research grants from Astra Zeneca, Abbott 
+Technologies, and Boston Scientific. A.S. is the President of Sanyal 
+Biotechnology and has stock options in Genfit, Akarna, Tiziana, Indalo, Durect, 
+and Galmed. He has served as a consultant to Astra Zeneca, Nitto Denko, Enyo, 
+Ardelyx, Conatus, Nimbus, Amarin, Salix, Tobira, Takeda, Jannsen, Gilead, Terns, 
+Birdrock, Merck, Valeant, Boehringer Ingelheim, Lilly, Hemoshear, Zafgen, 
+Novartis, Novo Nordisk, Pfizer, Exhalenz, and Genfit. He has been an unpaid 
+consultant to Intercept, Echosens, Immuron, galectin, Fractyl, Syntlogic, 
+Affimune, Chemomab, Zydus, Nordic Bioscience, Albireo, Prosciento, Surrozen, and 
+Bristol Myers Squibb. His institution has received grant support from Gilead, 
+Salix, Tobira, Bristol Myers Squibb, Shire, Intercept, Merck, Astra Zeneca, 
+Malinckrodt, Cumberland, and Norvatis. He receives royalties from Elsevier and 
+UptoDate. M.N. has been on the advisory board for 89BIO, Gilead, Intercept, 
+Pfizer, Novo Nordisk, Blade, EchoSens, Fractyl, Terns, Siemens, Roche 
+Diagnostic, Altimmune, cohBar, Cytodyn, Madrigial, NorthSea, and Prespecturm. He 
+has received research support from Allergan, BMS, Gilead, Galmed, galectin, 
+Genfit, Conatus, Enanta, Madrigal, Novartis, Pfizer, Shire, Viking, and Zydus. 
+He is a shareholder or has stocks in Anaetos, Chrownwell, Ciema, Rivus Pharma, 
+and Viking. V.W.-S.W served as a consultant or advisory board member for 3V-BIO, 
+AbbVie, Allergan, Boehringer Ingelheim, Echosens, Gilead Sciences, Inventiva, 
+Merck, Novartis, Novo Nordisk, Pfizer, ProSciento, Sagimet Biosciences, TARGET 
+PharmaSolutions, and Terns and a speaker for Abbott, AbbVie, Echosens, Gilead 
+Sciences, and Novo Nordisk. He has received a research grant from Gilead 
+Sciences and is a co-founder of Illuminatio Medical Technology Limited. R.C.W.M. 
+has received research support through his institution for clinical trials from 
+AstraZeneca, Bayer, MSD, Novo Nordisk, Sanofi, and Tricida Inc. and honoraria 
+for consultancy or lectures from AstraZeneca, Bayer, and Boehringer Ingelheim. 
+He is a co-founder of GemVCare, a biotech company set up with partial support 
+from the Hong Kong Government Technology Start-up Support Scheme for 
+Universities (TSSSU). D.E.C. is on the Scientific Advisory Boards of GI 
+Dynamics, Endogenex, and Gila Therapeutics. C.S.M. has been a shareholder of and 
+reports grants through his institution from Merck; grants through his 
+institution and personal consulting fees from Coherus Inc., AltrixBio, and Novo 
+Nordisk; reports personal consulting fees and support with research reagents 
+from Ansh Inc.; reports personal consulting fees from Genfit, Lumos, Amgen, 
+Corcept, Intercept, 89Bio, AstraZeneca, and Regeneron; reports support 
+(educational activity meals at and through his institution) from Amarin and Novo 
+Nordisk; and travel support and fees from TMIOA, Elsevier, the California Walnut 
+Commission, College Internationale Research Servier, and the Cardio Metabolic 
+Health Conference. C.S.P.L. is supported by a Clinician Scientist Award from the 
+National Medical Research Council of Singapore; has received research support 
+from Bayer and Roche Diagnostics; has served as consultant or on the Advisory 
+Board/Steering Committee/Executive Committee for Abbott, Actelion, Alleviant 
+Medical, Allysta Pharma, Amgen, AnaCardio AB, Applied Therapeutics, AstraZeneca, 
+Bayer, Boehringer Ingelheim, Boston Scientific, Cytokinetics, Darma Inc., 
+EchoNous Inc., Impulse Dynamics, Ionis Pharmaceutical, Janssen, Medscape/WebMD 
+Global LLC, Merck, Novartis, Novo Nordisk, Prosciento Inc., Radcliffe Group 
+Ltd., Roche Diagnostics, Sanofi, Siemens Healthcare Diagnostics, and Us2.ai; and 
+serves as co-founder and non-executive director of Us2.ai.
+
+
+283. Genomics. 2023 May;115(3):110604. doi: 10.1016/j.ygeno.2023.110604. Epub
+2023  Mar 6.
+
+Dynamics of RNA m(5)C modification during brain development.
+
+Johnson Z(1), Xu X(2), Lin Y(3), Xie H(4).
+
+Author information:
+(1)Epigenomics and Computational Biology Lab, Fralin Life Sciences Institute, 
+Virginia Tech, Blacksburg, VA 24061, USA; Genetics, Bioinformatics and 
+Computational Biology Program, Virginia Tech, Blacksburg, VA 24061, USA.
+(2)Epigenomics and Computational Biology Lab, Fralin Life Sciences Institute, 
+Virginia Tech, Blacksburg, VA 24061, USA; Department of Biological Sciences, 
+College of Science, Virginia Tech, Blacksburg, VA 24061, USA; Department of 
+Biomedical Sciences and Pathobiology, Virginia-Maryland College of Veterinary 
+Medicine, Virginia Tech, Blacksburg, VA 24061, USA.
+(3)Epigenomics and Computational Biology Lab, Fralin Life Sciences Institute, 
+Virginia Tech, Blacksburg, VA 24061, USA; Department of Biomedical Sciences and 
+Pathobiology, Virginia-Maryland College of Veterinary Medicine, Virginia Tech, 
+Blacksburg, VA 24061, USA.
+(4)Epigenomics and Computational Biology Lab, Fralin Life Sciences Institute, 
+Virginia Tech, Blacksburg, VA 24061, USA; Genetics, Bioinformatics and 
+Computational Biology Program, Virginia Tech, Blacksburg, VA 24061, USA; 
+Department of Biological Sciences, College of Science, Virginia Tech, 
+Blacksburg, VA 24061, USA; Department of Biomedical Sciences and Pathobiology, 
+Virginia-Maryland College of Veterinary Medicine, Virginia Tech, Blacksburg, VA 
+24061, USA; Translational Biology, Medicine, and Health Program, Virginia Tech, 
+Blacksburg, VA 24061, USA; School of Neuroscience, Virginia Tech, Blacksburg, VA 
+24061, USA. Electronic address: davidxie@vt.edu.
+
+Post-transcriptional RNA modifications have been recognized as key regulators of 
+neuronal differentiation and synapse development in the mammalian brain. While 
+distinct sets of 5-methylcytosine (m5C) modified mRNAs have been detected in 
+neuronal cells and brain tissues, no study has been performed to characterize 
+methylated mRNA profiles in the developing brain. Here, together with regular 
+RNA-seq, we performed transcriptome-wide bisulfite sequencing to compare RNA 
+cytosine methylation patterns in neural stem cells (NSCs), cortical neuronal 
+cultures, and brain tissues at three postnatal stages. Among 501 m5C sites 
+identified, approximately 6% are consistently methylated across all five 
+conditions. Compared to m5C sites identified in NSCs, 96% of them were 
+hypermethylated in neurons and enriched for genes involved in positive 
+transcriptional regulation and axon extension. In addition, brains at the early 
+postnatal stage demonstrated substantial changes in both RNA cytosine 
+methylation and gene expression of RNA cytosine methylation readers, writers, 
+and erasers. Furthermore, differentially methylated transcripts were 
+significantly enriched for genes regulating synaptic plasticity. Altogether, 
+this study provides a brain epitranscriptomic dataset as a new resource and lays 
+the foundation for further investigations into the role of RNA cytosine 
+methylation during brain development.
+
+Copyright © 2023 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ygeno.2023.110604
+PMCID: PMC10232014
+PMID: 36889368 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare no conflict of interest.
+
+
+284. BMC Pediatr. 2023 Mar 8;23(1):113. doi: 10.1186/s12887-023-03931-4.
+
+The burden of childhood and adolescent cancers in North Africa and the Middle 
+East (NAME) region: findings from the Global Burden of Disease study 2019.
+
+Karimi A(#)(1), Saeedi Moghaddam S(#)(1)(2), Azadnajafabad S(1), Esfahani 
+Z(1)(3), Sharifnejad Tehrani Y(1), Abbasi-Kangevari M(1), Shobeiri P(1), Ghamari 
+SH(1), Masinaei M(1)(4), Rezaei N(1), Shahin S(1), Rayzan E(5), Rezaei N(1)(6), 
+Larijani B(6), Kompani F(7).
+
+Author information:
+(1)Non-Communicable Diseases Research Center, Endocrinology and Metabolism 
+Population Sciences Institute, Tehran University of Medical Sciences, Tehran, 
+Iran.
+(2)Kiel Institute for the World Economy, Kiel, Germany.
+(3)Department of Biostatistics, University of Social Welfare and Rehabilitation 
+Sciences, Tehran, Iran.
+(4)Department of Epidemiology and Biostatistics, Tehran University of Medical 
+Sciences, Tehran, Iran.
+(5)Department of Pediatric Hematology and Oncology, Boston Children's Hospital, 
+Harvard Medical School, Boston, MA, USA.
+(6)Endocrinology and Metabolism Research Center, Endocrinology and Metabolism 
+Clinical Sciences Institute, Tehran University of Medical Sciences, Tehran, 
+Iran.
+(7)Division of Hematology and Oncology, Children's Medical Center, Pediatrics 
+Center of Excellence, Tehran University of Medical Sciences, Children's Medical 
+Center, 62 Qarib St, Keshavarz Blvd, Tehran, 1419733151, Iran. 
+f-kompani@tums.ac.ir.
+(#)Contributed equally
+
+INTRODUCTION: Despite the significant burden of childhood and adolescent 
+cancers, no specific studies recently discussed the burden of cancer in this 
+group in the North Africa and the Middle East (NAME) region. Therefore, we aimed 
+to study the burden of cancers in this group in this region.
+MATERIALS AND METHODS: We retrieved the Global Burden of Disease (GBD) data for 
+children and adolescent cancers (0-19 years old) in the NAME region from 1990 to 
+2019. 21 types of neoplasms were grouped as "neoplasms", comprising 19 specific 
+cancer groups as well as "other malignant neoplasms" and "other neoplasms". 
+Three significant parameters of incidence, deaths, and Disability-Adjusted Life 
+Years (DALYs) were studied. The data are presented with 95% uncertainty 
+intervals (UI), and reported rates per 100,000.
+RESULTS: In 2019, almost 6 million (95% UI: 4.166 M-8.405 M) new cases and 
+11,560(9770-13,578) deaths due to neoplasms occurred in the NAME region. 
+Incidence was higher in females (3.4 M), while deaths (6226 of overall 11,560) 
+and DALYs (501,118 of overall 933,885) were estimated as higher in males. 
+Incidence rates did not significantly change since 1990, while deaths and DALYs 
+rates declined significantly. After excluding "other malignant neoplasms" and 
+"other neoplasms", leukemia was responsible for the highest number of incidence 
+and deaths (incidence: 10,629(8237-13,081), deaths: 4053(3135-5013), followed by 
+brain and central nervous system cancers (incidence: 5897(4192-7134), deaths: 
+2446(1761-2960)), and non-Hodgkin lymphoma (incidence: 2741 (2237-3392), deaths: 
+790(645-962)). Incidence rates of neoplasms were similar for most countries, but 
+countries varied more in terms of death rates. Afghanistan 8.9(6.5-11.9), Sudan 
+6.4(4.5-8.6), and the Syrian Arab Republic 5.6(4.3-8.3) had the highest overall 
+death rates.
+CONCLUSION: The NAME region is observing relatively constant incidence rates and 
+a decreasing pattern in the deaths and DALYs. Despite this success, several 
+countries are lagging behind in development. Different issues such as economic 
+problems, armed conflicts and political instabilities, lack of equipment or 
+experienced staff or poor distribution, stigmatization and disbelief in the 
+healthcare systems account for unfavorable numbers in some countries. Such 
+problems require urgent solutions as new sophisticated and personalized cares 
+raise the alarm for even more inequalities between high and low-income 
+countries.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12887-023-03931-4
+PMCID: PMC9992906
+PMID: 36890483 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+285. BMC Health Serv Res. 2023 Mar 8;23(1):226. doi: 10.1186/s12913-023-09233-w.
+
+Infliximab versus ciclosporin in steroid resistant acute severe ulcerative 
+colitis: a model-based cost-utility analysis of data from CONSTRUCT pragmatic 
+trial.
+
+Alam MF(1), Longo M(2), Cohen D(3), Groves S(4), Alrubaiy L(5), Hutchings HA(5), 
+Watkins A(5), Sebastain S(6), Williams JG(5).
+
+Author information:
+(1)Department of Public Health, College of Health Sciences, QU-Health, Qatar 
+University, PO Box 2713, Doha, Qatar. malam@qu.edu.qa.
+(2)Marie Curie Palliative Care Research Centre, Cardiff University, 8th Floor 
+Neuadd Meirionnydd, Heath Park Way, Cardiff, CF14 4YS, UK.
+(3)Faculty of Health, Sport and Professional Practice, University of South 
+Wales, Lower Glyntaff, Pontypridd, CF37 1DL, UK.
+(4)Swansea Centre for Health Economics, College of Health and Human Sciences, 

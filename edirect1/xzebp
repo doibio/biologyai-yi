@@ -1,0 +1,1000 @@
+Access article under the CC BY 4.0 license. Published by Elsevier Ltd.. All 
+rights reserved.
+
+DOI: 10.1016/S1470-2045(22)00793-8
+PMID: 36796394 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests JEB reports having 
+served as a consultant or adviser for Novartis, Ipsen, Amgen, Merck Sharp & 
+Dohme, Bristol-Myers Squibb, and Bayer; honoraria from Novartis, Ipsen, Amgen, 
+Merck Sharp & Dohme, Bristol-Myers Squibb, and Bayer; research funding paid to 
+their institution from the National Institute for Health and Care Research; and 
+travel expenses from Ipsen. WG reports consulting fees from Janssen and AbbVie. 
+CR reports honoraria from Bristol-Myers Squibb and Wisai. TE reports trusteeship 
+of Kidney Cancer UK and MacMillan Cancer Support. PN reports consulting fees 
+from Novartis, Agensis, Ionctura, Bristol-Myers Squibb, 4SC, Pfizer, Merck Sharp 
+& Dohme, and Merck; honoraria from Novartis and Immunocore; travel, 
+accommodation, and expenses from Immunocore; membership of REFINE Data Safety 
+Monitoring Board; and trusteeship of Melanoma Focus. TP reports consulting fees 
+from Astellas Pharma, AstraZeneca, Bristol-Myers Squibb, Eisai, Exelixis, 
+Incyte, Ipsen, Johnson & Johnson, Merck, Merck Serono, Merck Sharp & Dohme, 
+Novartis, Pfizer, Roche, and Seattle Genetics, and Mashup; honoraria from 
+Astellas Pharma, AstraZeneca, Bristol-Myers Squibb, Eisai, Exelixis, Incyte, 
+Ipsen, Johnson & Johnson, Merck, Merck Serono, Merck Sharp & Dohme, Novartis, 
+Pfizer, Roche, and Seattle Genetics; research funding paid to their institution 
+from Astellas Pharma, AstraZeneca, Bristol-Myers Squibb, Eisai, Exelixis, Ipsen, 
+Johnson & Johnson, Merck Serono, Merck Sharp & Dohme, Novartis, Pfizer, Roche, 
+Seattle Genetics; and travel expenses from AstraZeneca, Ipsen, Merck Sharp & 
+Dohme, Pfizer, and Roche. RJ reports consulting fees from Astellas Pharma, 
+Bayer, Bristol-Myers Squibb, Ipsen, Janssen, Merck Serono, Merck Sharp & Dohme, 
+Novartis, Pfizer, Roche; honoraria from Astellas Pharma, Bayer, Bristol- Myers 
+Squibb, Ipsen, Janssen, Merck Serono, Merck Sharp & Dohme, Pfizer, Roche; 
+research funding paid to their institution from Astellas Pharma, Clovis, 
+Exelixis, and Bayer; and participation in a data safety monitoring board for 
+Roche. NV reports consultancy fees from Bristol-Myers Squibb, 4D Pharma, and 
+Merck Serono; honoraria from Bristol-Myers Squibb, EUSA Pharma, Eisai, and 
+Ipsen; and travel expenses from Ipsen. MW reports consultancy fees from 
+Bristol-Myers Squibb and Sciensus; honoraria from Eisai and Ipsen; and travel 
+expenses from Bristol-Myers Squibb. TW reports honoraria from Bristol-Myers 
+Squibb, Pfizer, Eisai, and Ipsen; travel expenses from Bristol-Myers Squibb, 
+EUSA Pharma, and Ipsen; and participation on data safety monitoring boards for 
+Bristol-Myers Squibb, Pfizer, Eisai, Ipsen, and Merck Sharp & Dohme. RM reports 
+travel expenses from Janssen. PP reports research funding paid to their 
+institution from Pfizer. JL reports consultancy fees from iOnctura, Apple Tree, 
+Merck, Bristol-Myers Squibb, Eisai, Debipharm, and Incyte; honoraria from Eisai, 
+Novartis, Incyte, Merck, TouchIME, TouchEXPERTS, Pfizer, Royal College of 
+Physicians, Cambridge Healthcare, Royal College of General Practioners, VJ 
+Oncology, and Agence Unik; research funding paid to their institution from 
+Achilles, Bristol-Myers Squibb, Merck Sharp & Dohme, Nektar, Novartis, Pfizer, 
+Immunocore, Roche, Aveo, and Pharmacyclics; and travel expenses from Pierre 
+Fabre, Roche, and GlaxoSmithKline. GF reports consultancy fees from 
+Bristol-Myers Squibb and Pfizer; honoraria from Bristol-Myers Squibb, Merck, and 
+Pfizer; and travel expenses from Novartis and Bayer. DM reports funding from 
+Otsuka and AbbVie to their institution; being a sub-panel member for the 
+National Institute for Health and Care Research (NIHR) Programme Grants for 
+Applied Research; and being a member of a National Institute for Health and Care 
+Excellence Technology Appraisal Committee. VG reports funding from Siemens 
+Healthineers to their institution. TMW reports research funding paid to their 
+institution from Boston Scientific and Angidynamics. JBr reports being Chair of 
+the NIHR Health Technology Assessment General Funding Committee and NIHR Health 
+Technology Assessment funding paid to their institution. JH reports funding to 
+their institution from the NIHR Health Technology Assessment. PS reports funding 
+from an NIHR Senior Fellowship, European Research Council Advanced Awards; 
+travel expenses from the European School of Oncology Training; and several 
+patents on the development of DNA library cancer vaccines. FC reports honoraria 
+from Bayer. All other authors declare no competing interests.
+
+
+7. Value Health. 2023 Jul;26(7):1003-1010. doi: 10.1016/j.jval.2023.02.001. Epub 
+2023 Feb 14.
+
+Methods to Adjust Willingness-to-Pay Measures for Severity of Illness.
+
+Phelps CE(1), Lakdawalla DN(2).
+
+Author information:
+(1)Departments of Economics and Public Health Sciences, University of Rochester, 
+Rochester, NY, USA. Electronic address: chuckphelps2@gmail.com.
+(2)Leonard D. Schaeffer for Health Policy and Economics at the University of 
+Southern California, Los Angeles, CA, USA.
+
+OBJECTIVES: Both private sector organizations and governmental health agencies 
+increasingly use illness severity measures to adjust willingness-to-pay 
+thresholds. Three widely discussed methods-absolute shortfall (AS), proportional 
+shortfall (PS), and fair innings (FI)-all use ad hoc adjustments to 
+cost-effectiveness analysis methods and "stair-step" brackets to link illness 
+severity with willingness-to-pay adjustments. We assess how these methods 
+compare with microeconomic expected utility theory-based methods to value health 
+gains.
+METHODS: We describe standard cost-effectiveness analysis methods, the basis 
+from which AS, PS, and FI make severity adjustments. We then develop how the 
+Generalized Risk Adjusted Cost Effectiveness (GRACE) model assesses value for 
+differing illness and disability severity. We compare AS, PS, and FI against 
+value as defined by GRACE.
+RESULTS: AS, PS, and FI have major and unresolved differences between them in 
+how they value various medical interventions. Compared with GRACE, they fail to 
+properly incorporate illness severity or disability. They conflate gains in 
+health-related quality of life and life expectancy incorrectly and confuse the 
+magnitude of treatment gains with value per quality-adjusted life-year. 
+Stair-step methods also introduce important ethical concerns.
+CONCLUSIONS: AS, PS, and FI disagree with each other in major ways, 
+demonstrating that at most, one correctly describes patients' preferences. GRACE 
+offers a coherent alternative, based on neoclassical expected utility 
+microeconomic theory, and can be readily implemented in future analyses. Other 
+approaches that depend on ad hoc ethical statements have yet to be justified 
+using sound axiomatic approaches.
+
+Copyright © 2023. Published by Elsevier Inc.
+
+DOI: 10.1016/j.jval.2023.02.001
+PMID: 36796478 [Indexed for MEDLINE]
+
+
+8. Lancet Glob Health. 2023 Mar;11(3):e445-e455. doi: 
+10.1016/S2214-109X(22)00552-6.
+
+Evaluating efficiency and equity of prevention and control strategies for 
+rheumatic fever and rheumatic heart disease in India: an extended 
+cost-effectiveness analysis.
+
+Dixit J(1), Prinja S(2), Jyani G(1), Bahuguna P(3), Gupta A(4), Vijayvergiya 
+R(4), Kumar R(5).
+
+Author information:
+(1)Department of Community Medicine and School of Public Health, Post Graduate 
+Institute of Medical Education and Research, Chandigarh, India.
+(2)Department of Community Medicine and School of Public Health, Post Graduate 
+Institute of Medical Education and Research, Chandigarh, India. Electronic 
+address: shankarprinja@gmail.com.
+(3)Department of Community Medicine and School of Public Health, Post Graduate 
+Institute of Medical Education and Research, Chandigarh, India; Health Economics 
+and Health Technology Assessment Institute of Health and Wellbeing, University 
+of Glasgow, Glasgow, UK.
+(4)Department of Cardiology, Post Graduate Institute of Medical Education and 
+Research, Chandigarh, India.
+(5)Health Systems Transformation Platform, New Delhi, India; London School of 
+Hygiene & Tropical Medicine, London, UK; School of Public Health & Community 
+Medicine, University of New South Wales, Sydney, NSW, Australia.
+
+Comment in
+    Lancet Glob Health. 2023 Mar;11(3):e316-e317.
+
+BACKGROUND: There is a dearth of evidence on the cost-effectiveness of a 
+combination of population-based primary, secondary, and tertiary prevention and 
+control strategies for rheumatic fever and rheumatic heart disease. The present 
+analysis evaluated the cost-effectiveness and distributional effect of primary, 
+secondary, and tertiary interventions and their combinations for the prevention 
+and control of rheumatic fever and rheumatic heart disease in India.
+METHODS: A Markov model was constructed to estimate the lifetime costs and 
+consequences among a hypothetical cohort of 5-year-old healthy children. Both 
+health system costs and out-of-pocket expenditure (OOPE) were included. OOPE and 
+health-related quality-of-life were assessed by interviewing 702 patients 
+enrolled in a population-based rheumatic fever and rheumatic heart disease 
+registry in India. Health consequences were measured in terms of life-years and 
+quality-adjusted life-years (QALY) gained. Furthermore, an extended 
+cost-effectiveness analysis was undertaken to assess the costs and outcomes 
+across different wealth quartiles. All future costs and consequences were 
+discounted at an annual rate of 3%.
+FINDINGS: A combination of secondary and tertiary prevention strategies, which 
+had an incremental cost of ₹23 051 (US$30) per QALY gained, was the most 
+cost-effective strategy for the prevention and control of rheumatic fever and 
+rheumatic heart disease in India. The number of rheumatic heart disease cases 
+prevented among the population belonging to the poorest quartile (four cases per 
+1000) was four times higher than the richest quartile (one per 1000). Similarly, 
+the reduction in OOPE after the intervention was higher among the poorest income 
+group (29·8%) than among the richest income group (27·0%).
+INTERPRETATION: The combined secondary and tertiary prevention and control 
+strategy is the most cost-effective option for the management of rheumatic fever 
+and rheumatic heart disease in India, and the benefits of public spending are 
+likely to be accrued much more by those in the lowest income groups. The 
+quantification of non-health gains provides strong evidence for informing policy 
+decisions by efficient resource allocation on rheumatic fever and rheumatic 
+heart disease prevention and control in India.
+FUNDING: Department of Health Research, Ministry of Health and Family Welfare, 
+New Delhi.
+
+Copyright © 2023 The Author(s). Published by Elsevier Ltd. This is an Open 
+Access article under the CC BY-NC-ND 4.0 license. Published by Elsevier Ltd.. 
+All rights reserved.
+
+DOI: 10.1016/S2214-109X(22)00552-6
+PMID: 36796988 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests We declare no competing 
+interests.
+
+
+9. BMJ Open. 2023 Feb 16;13(2):e065591. doi: 10.1136/bmjopen-2022-065591.
+
+Protocol for estimating the willingness-to-pay-based value for a 
+quality-adjusted life year to aid health technology assessment in India: a 
+cross-sectional study.
+
+Chugh Y(1), Jyani G(1), Trivedi M(2), Albert S(3), Kar SS(4), Patro B(5), Raman 
+S(6), Rajsekar K(7), Baker RM(8), Donaldson C(8), Prinja S(9).
+
+Author information:
+(1)Department of Community Medicine and School of Public Health, Post Graduate 
+Institute of Medical Education and Research, Chandigarh, Chandigarh, India.
+(2)Indian Institute of Public health, Gandhinagar, Gujarat, India.
+(3)Indian Institutes of Public Health, Shillong, Meghalaya, India.
+(4)Department of Preventive and Social Medicine, JIPMER, Pondicherry, 
+Pondicherry, India.
+(5)Department of Community Medicine & Family Medicine, AIIMS Bhubaneswar, 
+Bhubaneswar, Orissa, India.
+(6)Academy of Management Sciences, Lucknow, Uttar Pradesh, India.
+(7)Department of Health Research, India Ministry of Health and Family Welfare, 
+New Delhi, Delhi, India.
+(8)Yunus Centre for Social Business & Health, Glasgow Caledonian University, 
+Glasgow, Scotland, UK.
+(9)Department of Community Medicine and School of Public Health, Post Graduate 
+Institute of Medical Education and Research, Chandigarh, Chandigarh, India 
+shankarprinja@gmail.com.
+
+INTRODUCTION: To ensure that the evidence generated by health technology 
+assessment (HTA) is translated to policy, it is important to generate a 
+threshold value against which the outcomes of HTA studies can be compared. In 
+this context, the present study delineates the methods that will be deployed to 
+estimate such a value for India.
+METHODS AND ANALYSIS: The proposed study will deploy a multistage sampling 
+approach considering economic and health status for selection of states, 
+followed by selection of districts based on Multidimensional Poverty Index (MPI) 
+and identification of primary sampling units (PSUs) using the 30-cluster 
+approach. Further, households within PSU will be identified using systematic 
+random sampling and block randomisation based on gender will be done to select 
+respondent from the household. A total of 5410 respondents will be interviewed 
+for the study. The interview schedule will comprise of three sections including 
+background questionnaire to elicit socioeconomic and demographic 
+characteristics, followed by assessment of health gains, and willingness to pay 
+(WTP). To assess the health gains and corresponding WTP, the respondent will be 
+presented with hypothetical health states. Using time trade off method, the 
+respondent will indicate the amount of time he/she is willing to give up at the 
+end of life to avoid morbidities in the hypothetical health condition. Further, 
+respondents will be interviewed about their WTP for treatment of respective 
+hypothetical conditions using contingent valuation technique. These estimates of 
+health gains and corresponding WTP will then be combined to ascertain the value 
+of WTP per quality-adjusted life year.
+ETHICS AND DISSEMINATION: The ethical approval has been obtained from the 
+Institutional Ethics Committee (IEC) of Postgraduate Institute of Medical 
+Education and Research, Chandigarh, India. The study outcomes will be made 
+available for general use and interpretation of HTA studies commissioned by 
+India's central HTA Agency.
+
+© Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2022-065591
+PMCID: PMC9936284
+PMID: 36797026 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+10. Vaccine. 2023 Mar 17;41(12):1934-1942. doi: 10.1016/j.vaccine.2023.02.025.
+Epub  2023 Feb 14.
+
+Impact of including boys in the national school-based human papillomavirus 
+vaccination programme in Singapore: A modelling-based cost-effectiveness 
+analysis.
+
+Wahab MT(1), Tan RKJ(2), Cook AR(3), Prem K(4).
+
+Author information:
+(1)National University Health System, 1E Kent Ridge Road, Singapore 119228; 
+London School of Hygiene and Tropical Medicine, Keppel St, London WC1E 7HT, 
+United Kingdom. Electronic address: taufeeqwahab@gmail.com.
+(2)Saw Swee Hock School of Public Health, National University of Singapore and 
+National University Health System, 12 Science Drive 2, #10-01, Singapore 117549, 
+Singapore; University of North Carolina Project-China, 2 Lujing Road, Guangzhou 
+510095, Guangdong, China.
+(3)Saw Swee Hock School of Public Health, National University of Singapore and 
+National University Health System, 12 Science Drive 2, #10-01, Singapore 117549, 
+Singapore.
+(4)London School of Hygiene and Tropical Medicine, Keppel St, London WC1E 7HT, 
+United Kingdom; Saw Swee Hock School of Public Health, National University of 
+Singapore and National University Health System, 12 Science Drive 2, #10-01, 
+Singapore 117549, Singapore.
+
+Globally, gender-neutral Human Papillomavirus (HPV) vaccination programmes are 
+gaining traction. Although cervical cancer remains the most prevalent, other 
+HPV-related cancers are increasingly recognised as important, especially among 
+men who have sex with men. We assessed if including adolescent boys in 
+Singapore's school-based HPV vaccination programme is cost-effective from the 
+healthcare perspective. We adapted a World Health Organization-supported model, 
+Papillomavirus Rapid Interface for Modelling and Economics, and modelled the 
+cost and quality-adjusted life years (QALY) associated with vaccinating 
+13-year-olds with the HPV vaccine. Cancer incidence and mortality rates were 
+obtained from local sources and adjusted based on the expected direct and 
+indirect vaccine protection for various population subgroups at an 80 % vaccine 
+coverage. Moving to a gender-neutral vaccination programme with a bivalent or 
+nonavalent vaccine could avert 30 (95 % uncertainty interval [UI]: 20-44) and 34 
+(95 % UI: 24-49) HPV-related cancers per birth cohort, respectively. At a 3 % 
+discount rate, a gender-neutral vaccination programme is not cost-effective. 
+However, with a 1.5 % discount rate, which puts more value on long-term health 
+gains from vaccination, moving to a gender-neutral vaccination programme with 
+the bivalent vaccine is likely cost-effective, with an incremental 
+cost-effectiveness ratio of SGD$19 007 (95 % UI: 10 164-30 633) per QALY gained. 
+The findings suggest the need to engage experts to examine, in detail, the 
+cost-effectiveness of gender-neutral vaccination programmes in Singapore. Issues 
+of drug licensing, feasibility, gender equity, global vaccine supplies, and the 
+global trend towards disease elimination/eradication should also be considered. 
+This model provides a simplified method for resource-strapped countries to gain 
+a preliminary estimate of the cost-effectiveness of a gender-neutral HPV 
+vaccination programme before investing resources for further research.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.vaccine.2023.02.025
+PMID: 36797100 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+11. Nat Rev Dis Primers. 2023 Feb 16;9(1):8. doi: 10.1038/s41572-023-00417-6.
+
+Pre-eclampsia.
+
+Dimitriadis E(1)(2), Rolnik DL(3)(4), Zhou W(1)(2), Estrada-Gutierrez G(5), Koga 
+K(6)(7), Francisco RPV(8), Whitehead C(1)(9), Hyett J(10), da Silva Costa F(11), 
+Nicolaides K(12)(13), Menkhorst E(14)(15).
+
+Author information:
+(1)Department of Obstetrics and Gynaecology, University of Melbourne, Melbourne, 
+Victoria, Australia.
+(2)Gynaecology Research Centre, Royal Women's Hospital, Melbourne, Victoria, 
+Australia.
+(3)Women's and Newborn, Monash Health, Melbourne, Victoria, Australia.
+(4)Department of Obstetrics and Gynaecology, Monash University, Melbourne, 
+Victoria, Australia.
+(5)Research Division, Instituto Nacional de Perinatologia, Mexico City, Mexico.
+(6)Department of Obstetrics and Gynecology, University of Tokyo, Tokyo, Japan.
+(7)Department of Reproductive Medicine, Chiba University, Chiba, Japan.
+(8)Departamento de Obstetrícia e Giencologia, Faculdade de Medicina FMUSP, 
+Universidade de Sao Paulo, Sao Paulo, Brazil.
+(9)Fetal Medicine Unit, Royal Women's Hospital, Melbourne, Victoria, Australia.
+(10)Obstetric Research Group Ingham Institute, South Western Sydney Local Health 
+District and Western Sydney University, Sydney, New South Wales, Australia.
+(11)Maternal Fetal Medicine Unit, Gold Coast University Hospital and School of 
+Medicine and Dentistry, Griffith University, Gold Coast, Queensland, Australia.
+(12)Fetal Medicine Foundation, London, UK.
+(13)Harris Birthright Research Centre for Fetal Medicine, King's College 
+Hospital, London, UK.
+(14)Department of Obstetrics and Gynaecology, University of Melbourne, 
+Melbourne, Victoria, Australia. ellen.menkhorst@unimelb.edu.au.
+(15)Gynaecology Research Centre, Royal Women's Hospital, Melbourne, Victoria, 
+Australia. ellen.menkhorst@unimelb.edu.au.
+
+Erratum in
+    Nat Rev Dis Primers. 2023 Jul 3;9(1):35.
+
+Pre-eclampsia is a life-threatening disease of pregnancy unique to humans and a 
+leading cause of maternal and neonatal morbidity and mortality. Women who 
+survive pre-eclampsia have reduced life expectancy, with increased risks of 
+stroke, cardiovascular disease and diabetes, while babies from a pre-eclamptic 
+pregnancy have increased risks of preterm birth, perinatal death and 
+neurodevelopmental disability and cardiovascular and metabolic disease later in 
+life. Pre-eclampsia is a complex multisystem disease, diagnosed by sudden-onset 
+hypertension (>20 weeks of gestation) and at least one other associated 
+complication, including proteinuria, maternal organ dysfunction or 
+uteroplacental dysfunction. Pre-eclampsia is found only when a placenta is or 
+was recently present and is classified as preterm (delivery <37 weeks of 
+gestation), term (delivery ≥37 weeks of gestation) and postpartum pre-eclampsia. 
+The maternal syndrome of pre-eclampsia is driven by a dysfunctional placenta, 
+which releases factors into maternal blood causing systemic inflammation and 
+widespread maternal endothelial dysfunction. Available treatments target 
+maternal hypertension and seizures, but the only 'cure' for pre-eclampsia is 
+delivery of the dysfunctional placenta and baby, often prematurely. Despite 
+decades of research, the aetiology of pre-eclampsia, particularly of term and 
+postpartum pre-eclampsia, remains poorly defined. Significant advances have been 
+made in the prediction and prevention of preterm pre-eclampsia, which is 
+predicted in early pregnancy through combined screening and is prevented with 
+daily low-dose aspirin, starting before 16 weeks of gestation. By contrast, the 
+prediction of term and postpartum pre-eclampsia is limited and there are no 
+preventive treatments. Future research must investigate the pathogenesis of 
+pre-eclampsia, in particular of term and postpartum pre-eclampsia, and evaluate 
+new prognostic tests and treatments in adequately powered clinical trials.
+
+© 2023. Springer Nature Limited.
+
+DOI: 10.1038/s41572-023-00417-6
+PMID: 36797292 [Indexed for MEDLINE]
+
+
+12. BMC Geriatr. 2023 Feb 16;23(1):98. doi: 10.1186/s12877-023-03798-1.
+
+Nurse practitioner/physician collaborative models of care: a scoping review 
+protocol.
+
+McGilton KS(1)(2), Haslam-Larmer L(3)(4), Wills A(3)(4), Krassikova A(3), 
+Babineau J(5)(6), Robert B(7)(8), Heer C(9)(10), McAiney C(11)(12), Dobell 
+G(13), Bethell J(3)(14), Kay K(15)(16), Keatings M(17), Kaasalainen S(18), 
+Feldman S(19)(20), Sidani S(21), Martin-Misener R(22).
+
+Author information:
+(1)KITE Research Institute, Toronto Rehabilitation Institute - University Health 
+Network, 550 University Avenue, Toronto, ON, M5G 2A2, Canada. 
+kathy.mcgilton@uhn.ca.
+(2)Lawrence S. Bloomberg, Faculty of Nursing, University of Toronto, 155 College 
+Street, Toronto, ON, M5T 1P8, Canada. kathy.mcgilton@uhn.ca.
+(3)KITE Research Institute, Toronto Rehabilitation Institute - University Health 
+Network, 550 University Avenue, Toronto, ON, M5G 2A2, Canada.
+(4)Lawrence S. Bloomberg, Faculty of Nursing, University of Toronto, 155 College 
+Street, Toronto, ON, M5T 1P8, Canada.
+(5)Library & Information Services, University Health Network, 550 University 
+Avenue, Toronto, ON, M5G 2A2, Canada.
+(6)The Institute for Education Research, University Health Network, Toronto, 
+Canada.
+(7)Perley Health, 1750 Russell Road, Ottawa, ON, K1G 5Z6, Canada.
+(8)Faculty of Medicine, University of Ottawa, 451 Smyth Road #2044, Ottawa, ON, 
+K1H 8M5, Canada.
+(9)Brant Community Healthcare System, 200 Terrace Hill Street, Brantford, ON, 
+N3R 1G9, Canada.
+(10)Bruyère Research Institute, 85 Primrose Ave, Ottawa, ON, K1R 6M1, Canada.
+(11)Schlegel-UW Research Institute for Aging, Waterloo, ON, N2J 0E2, Canada.
+(12)School of Public Health Sciences, University of Waterloo, 200 University 
+Avenue West, Waterloo, ON, N2L 3G1, Canada.
+(13)Ontario Health, 130 Bloor Street West, Toronto, ON, M5S 1N5, Canada.
+(14)Institute of Health Policy, Management and Evaluation, University of 
+Toronto, 155 College Street, Toronto, ON, M5T 3M7, Canada.
+(15)Provincial Geriatrics Leadership Ontario, Toronto, Canada.
+(16)Ontario Institute for Studies in Education and the Institute for Life Course 
+and Aging, University of Toronto, 246 Bloor Street West, Toronto, ON, M5S 1V4, 
+Canada.
+(17)The Hospital for Sick Children, 555 University Ave, Toronto, ON, M5G 1X8, 
+Canada.
+(18)School of Nursing, McMaster University, 1280 Main Street West, Hamilton, ON, 
+L8S 4K1, Canada.
+(19)Baycrest Health Sciences, 3560 Bathurst Street, Toronto, ON, M6A2E1, Canada.
+(20)Department of Family and Community Medicine, Temerty Medicine, University of 
+Toronto, 1 King's College Circle, Toronto, ON, M5S 1A8, Canada.
+(21)Daphne Cockwell School of Nursing, Toronto Metropolitan University, 250 
+Victoria Street, Toronto, ON, M5B 2K9, Canada.
+(22)School of Nursing, Dalhousie University, Room G26, Forrest Bldg., 5869 
+University Avenue, Halifax, NS, B3H 4R2, Canada.
+
+BACKGROUND: Before the COVID-19 pandemic, many long-term care (LTC) homes 
+experienced difficulties in providing residents with access to primary care, 
+typically delivered by community-based family physicians or nurse practitioners 
+(NPs). During the pandemic, legislative changes in Ontario, Canada enabled NPs 
+to act in the role of Medical Directors thereby empowering NPs to work to their 
+full scope of practice. Emerging from this new context, it remains unclear how 
+NPs and physicians will best work together as primary care providers. 
+NP/physician collaborative models appear key to achieving optimal resident 
+outcomes. This scoping review aims to map available evidence on existing 
+collaborative models of care between NPs and physicians within LTC homes.
+METHODS: The review will be guided by the research question, "What are the 
+structures, processes and outcomes of collaborative models of care involving NPs 
+and Physicians in LTC homes?" This scoping review will be conducted according to 
+the methods framework for scoping reviews outlined by Arksey and O'Malley and 
+refined by Levac et al., Colquhoun et al., and Daudt et al., as well as the 
+Preferred Reporting Items for Systematic reviews and Meta-Analyses extension for 
+Scoping Reviews (PRISMA-ScR) Statement. Electronic databases (MEDLINE, 
+Embase + Embase Classic, APA PsycInfo, Cochrane Central Register of Controlled 
+Trials, AMED, CINAHL, Ageline, and Scopus), grey literature, and reference lists 
+of included articles will be searched. English language studies that describe NP 
+and physician collaborative models within the LTC setting will be included.
+DISCUSSION: This scoping review will consolidate what is known about existing 
+NP/physician collaborative models of care in LTC homes. Results will be used to 
+inform the development of a collaborative practice framework for long-term care 
+clinical leadership.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12877-023-03798-1
+PMCID: PMC9934505
+PMID: 36797669 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+13. BMC Gastroenterol. 2023 Feb 16;23(1):41. doi: 10.1186/s12876-023-02668-9.
+
+Comparison of therapeutic efficacy and treatment costs of self-expandable metal 
+stents and plastic stents for management of malignant biliary obstruction.
+
+Bor R(1), Fábián A(2), Szűcs M(3), Bálint A(2), Rutka M(2), Tóth T(2), Czakó 
+L(2), Farkas K(2), Buzás N(4), Milassin Á(2), Molnár T(2), Szepes Z(2).
+
+Author information:
+(1)First Department of Medicine, University of Szeged, Kálvária Sgt 57, Szeged, 
+6725, Hungary. bor.renata@med.u-szeged.hu.
+(2)First Department of Medicine, University of Szeged, Kálvária Sgt 57, Szeged, 
+6725, Hungary.
+(3)Department of Medical Physics and Informatics, University of Szeged, Szeged, 
+Hungary.
+(4)Department of Health Economics, Faculty of Medicine, University of Szeged, 
+Szeged, Hungary.
+
+BACKGROUND: According to the European Society of Gastrointestinal Endoscopy 
+guidelines, self-expandable metal stents (SEMSs) are preferable to plastic 
+stents (PSs) in the management of pancreatic cancer, regardless of cancer stage. 
+The aim of this study was to compare the therapeutic efficacy and treatment 
+costs of SEMS and PS in the management of malignant biliary obstruction.
+METHODS: One hundred and thirty-five patients who underwent endoscopic stent 
+placement were retrospectively enrolled and divided into PS (41 patients), 
+primary SEMS (39 patients) and secondary SEMS (55 patients) groups. We 
+determined the technical and functional success rate, stent patency, and 
+cumulative treatment cost.
+RESULTS: A total of 111 SEMSs and 153 PSs were placed with similar technical 
+(100% vs. 98.69%) and functional success rate (90.10% vs. 86.27%) but with 
+different stent patency (10.28 vs. 22.16 weeks; p < 0.001). Multiple PS 
+implantations and larger stent diameter increased the length of stent patency 
+compared to 7-Fr PSs (10.88 vs. 10.55 vs. 7.63 weeks, respectively). The 
+cumulative treatment cost of patients with different survival times did not 
+differ significantly between groups, however, among patients surviving 
+2-4 months it was higher in PS group than primary SEMS and secondary SEMS groups 
+(2888€ vs. 2258€ vs. 2144€, respectively, p = 0.3369) due to increased number of 
+biliary reintervention (2.08 ± 1.04 vs. 1.20 ± 0.42 vs. 1.50 ± 0.53; p < 0.0274) 
+and longer hospital stay (15.77 ± 10.14 vs. 8.70 ± 7.70 vs. 8.50 ± 6.17 days, 
+p = 0.0527).
+CONCLUSIONS: In view of treatment costs, the consequences of illness, and the 
+processes of the health care system, SEMS implantation is recommended regardless 
+of patients' life expectancy.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12876-023-02668-9
+PMCID: PMC9933253
+PMID: 36797676 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+14. bioRxiv. 2023 Feb 7:2023.02.06.527311. doi: 10.1101/2023.02.06.527311.
+Preprint.
+
+Restricting dietary protein or dietary isoleucine improves metabolic health in 
+aged mice.
+
+Yeh CY(1)(2), Chini LCS(1)(2), Gallagher MS(1)(2), Davidson JW(3), Freichels 
+IT(1)(2), Calubag MF(1)(2)(4), Rodgers AC(1)(5), Green CL(1)(2), Babygirija 
+R(1)(2)(6), Sonsalla MM(1)(2)(7), Pak HH(1)(2)(6), Trautman M(1)(2)(6), Hacker 
+TA(1)(5), Simcox J(3), Lamming DW(1)(2)(4)(6)(7).
+
+Author information:
+(1)Department of Medicine, University of Wisconsin-Madison, Madison, WI 53705.
+(2)William S. Middleton Memorial Veterans Hospital, Madison, WI 53705.
+(3)Department of Biochemistry, University of Wisconsin-Madison, Madison, WI 
+53706.
+(4)Graduate Program in Cellular and Molecular Biology, University of 
+Wisconsin-Madison, Madison, WI 53706.
+(5)Cardiovascular Physiology Core Facility, University of Wisconsin-Madison, 
+Madison, WI 53706.
+(6)Interdepartmental Graduate Program in Nutritional Sciences, University of 
+Wisconsin-Madison, Madison, WI 53706.
+(7)Comparative Biomedical Sciences Graduate Training Program, University of 
+Wisconsin-Madison, Madison, WI 53706.
+
+A growing number of geroprotectors have demonstrated healthspan extension in 
+young animals, but the effectiveness of these therapies when commenced in 
+midlife or later has been under-studied. We and others have shown that much like 
+calorie restriction (CR), restriction of specific nutrients, including total 
+protein, the three branched-chain amino acids leucine, isoleucine, and valine, 
+or isoleucine alone, can promote lifespan and metabolic health. While CR is less 
+efficacious when starting in late life, the effects of interventions restricting 
+amino acids in late life on healthy aging is unknown. Here, we investigate the 
+metabolic, molecular, and physiological effects of consuming diets with a 67% 
+reduction of either all amino acids (Low AA) or of isoleucine alone (Low Ile) in 
+male and female C57BL/6J.Nia mice starting at 20 months of age. We find that 
+both diets reduce adiposity in aged mice; however, these diets decreased lean 
+mass, and did not show significant improvements in frailty or fitness. The 
+glucose tolerance of both male and female mice consuming Low Ile and Low AA 
+diets were improved. We also observed a moderate increase in energy expenditure 
+and respiratory exchange ratio induced by the two dietary interventions. In the 
+hearts of aged female mice, Low Ile reversed age-associated changes in heart 
+rate and stroke volume, returning cardiac function to similar levels as observed 
+in young mice. We found that both Low AA and Low Ile diets promoted a more 
+youthful molecular cardiac profile, preventing age-dependent increases in 
+phosphatidylglycerols. These results demonstrate that Low AA and Low Ile diets 
+can improve aspects of metabolic health in aged mice of both sexes, and has 
+positive effects on cardiac health in aged females, suggesting that these 
+dietary interventions are translationally promising for promoting healthy aging 
+even in older people.
+
+DOI: 10.1101/2023.02.06.527311
+PMCID: PMC9934591
+PMID: 36798157
+
+Conflict of interest statement: COMPETING INTERESTS D.W.L has received funding 
+from, and is a scientific advisory board member of, Aeovian Pharmaceuticals, 
+which seeks to develop novel, selective mTOR inhibitors for the treatment of 
+various diseases. The remaining authors declare no competing interests.
+
+
+15. Front Bioeng Biotechnol. 2023 Jan 30;11:1013100. doi: 
+10.3389/fbioe.2023.1013100. eCollection 2023.
+
+The effects of ankle dorsiflexor fatigue on lower limb biomechanics during 
+badminton forward forehand and backhand lunge.
+
+Tong J(1), Lu Z(1), Cen X(1)(2), Chen C(1), Ugbolue UC(3), Gu Y(1)(2)(4).
+
+Author information:
+(1)Faculty of Sports Science, Ningbo University, Ningbo, China.
+(2)Doctoral School on Safety and Security Sciences, Obuda University, Budapest, 
+Hungary.
+(3)School of Health and Life Science, University of the West of Scotland, 
+Scotland, United Kingdom.
+(4)Research Academy of Medicine Combining Sports, Hwa Mei Hospital, University 
+of Chinese Academy of Sciences, Ningbo, China.
+
+Background: Local muscle fatigue may have an adverse effect on the biomechanics 
+of the lunge movement and athletic performance. This study analyzed the 
+biomechanical indicators of the forward lunge in badminton players before and 
+after fatigue of the ankle dorsiflexors. Methods: Using the isometric muscular 
+strength testing system, 15 badminton players underwent an ankle dorsiflexor 
+fatigue test. Before and after the fatigue experiment, five lunges were done in 
+both the forehand forward (FH) and backhand forward (BH) directions, five in 
+each direction. A Vicon motion capture system and an AMTI force measuring 
+station were used to record lower limb kinematic and ground reaction force 
+(GRF). Pre-fatigue and post-fatigue variability were determined using 
+paired-samples t-tests, Wilcoxon signed rank test, and Statistical 
+Non-parametric Mapping (SNPM). Result: The results showed that after fatigue, 
+the peak angle of ankle dorsiflexion was significantly reduced (p = 0.034), the 
+range of motion (ROM) of the ankle sagittal plane (p = 0.000) and peak angle of 
+ankle plantarflexion (p = 0.001) was significantly increased after forehand 
+landing. After fatigue, ankle inversion was significantly increased after 
+forehand and backhand landings (FH: p = 0.033; BH: p = 0.015). After fatigue, 
+peak knee flexion angles increased significantly (FH: Max: p = 0.000, Min: p = 
+0.000; BH: Max: p = 0.017, Min: p = 0.037) during forehand and backhand landings 
+and ROM in knee flexion and extension increased (p = 0.009) during forehand 
+landings. Knee inversion range of motion was significantly increased after 
+fatigue (p = 0.024) during forehand landings. Peak hip flexion angle (p = 0.000) 
+and range of motion (p = 0.000) were significantly reduced in forehand landings 
+after fatigue. The mean loading rate (p = 0.005) and the maximum loading rate (p 
+= 0.001) increased significantly during backhand landings after fatigue. 
+Post-fatigue, the center of pressure (COP) frontal offset increased 
+significantly (FH: p = 0.000; BH: p = 0.000) in the forehand and backhand 
+landings. Conclusion: These results indicate that when the ankle dorsiflexors 
+are fatigued, the performance of the forehand is significantly negatively 
+affected, and the impact force of the backhand is greater.
+
+Copyright © 2023 Tong, Lu, Cen, Chen, Ugbolue and Gu.
+
+DOI: 10.3389/fbioe.2023.1013100
+PMCID: PMC9927012
+PMID: 36798592
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+16. Turk J Haematol. 2023 May 29;40(2):92-100. doi: 
+10.4274/tjh.galenos.2023.2022.0437. Epub 2023 Feb 17.
+
+Long-Term Efficacy of Erythropoiesis-Stimulating Agents in Patients with 
+Low-Risk or Intermediate-1-Risk Myelodysplastic Syndrome: Multicenter Real-Life 
+Data.
+
+Aslaner Ak M(1), Gedük A(2), Acar İH(3), Polat MG(2), Sunu C(4), Bolaman AZ(5), 
+Hacıbekiroğlu T(4), Güvenç B(3), Ertop Ş(1).
+
+Author information:
+(1)Zonguldak Bülent Ecevit University Faculty of Medicine, Department of 
+Hematology, Zonguldak, Türkiye
+(2)Kocaeli University Faculty of Medicine, Department of Hematology, Kocaeli, 
+Türkiye
+(3)Çukurova University Faculty of Medicine, Department of Hematology, Adana, 
+Türkiye
+(4)Sakarya Training and Research Hospital, Clinic of Hematology, Sakarya, 
+Türkiye
+(5)Adnan Menderes University Faculty of Medicine, Department of Hematology, 
+Aydın, Türkiye
+
+OBJECTIVE: This study was undertaken to evaluate the long-term clinical efficacy 
+of epoetin alfa and darbepoetin alfa in patients with myelodysplastic syndrome 
+(MDS) in a real-life setting.
+MATERIALS AND METHODS: A total of 204 patients with low-risk or 
+intermediate-1-risk MDS who received epoetin alfa or darbepoetin alfa were 
+included. Hemoglobin levels and transfusion needs were recorded before treatment 
+and at 12 months, 24 months, 36 months, and 48 months of treatment.
+RESULTS: At the 36-month (p=0.025) and 48-month (p=0.022) visits, epoetin alfa 
+yielded significantly higher hemoglobin levels compared to darbepoetin alfa. 
+Transfusion needs were also significantly lower with epoetin alfa compared to 
+darbepoetin alfa at 24 months (p=0.012) and in the low-risk group compared to 
+the intermediate-risk group at 24 months (p=0.018), 36 months (p=0.025), and 48 
+months (p<0.001). Treatment response rates at the 24-month, 36-month, and 
+48-month visits in the epoetin alfa (43.0%, 33.6%, and 27.1%), darbepoetin alfa 
+(29.9%, 22.7%, and 16.5%), low-risk (39.3%, 30.0%, and 26.0%), and 
+intermediate-risk (29.6%, 24.1%, and 11.1%) groups were lower than those 
+obtained at 12 months, and the values differed significantly for the 36-month 
+and 48-month visits with values ranging from p<0.05 to p<0.001.
+CONCLUSION: This real-life long-term ESA extension study investigated the 
+clinical efficacy of epoetin alfa and darbepoetin alfa for up to 48 months, 
+revealing that treatment efficacy reached a plateau starting from the 24th month 
+of therapy with a continuing decrease in treatment response rates regardless of 
+treatment type, risk status, or gender. Nonetheless, significantly higher 
+hemoglobin levels and marked improvement in transfusion needs were evident in 
+epoetin-treated patients compared to darbepoetin-treated patients and in the 
+low-risk group compared to the intermediate-risk group.
+
+Publisher: AMAÇ: Myelodisplastik sendromlu (MDS) hastalarda epoetin alfa ve 
+darbepoetin alfa tedavisinin gerçek yaşam ortamında uzun-dönem klinik 
+etkinliğini değerlendirmek.
+GEREÇ VE YÖNTEMLER: Bu çalışmaya düşük veya orta-1 risk grubu MDS tanısı ile 
+epoetin alfa veya darbepoetin alfa tedavisi almış 204 hasta dahil edildi. 
+Hemoglobin düzeyleri ve transfüzyon gereksinimi, tedaviden önce ve tedavinin 
+12., 24., 36. ve 48. aylarında değerlendirildi.
+BULGULAR: Epoetin alfa, darbepoetin alfa ile kıyaslandığında, 36. ay (p=0,025) 
+ve 48. aylarda (p=0,022) anlamlı şekilde daha yüksek hemoglobin düzeylerini 
+sağladı. Transfüzyon gereksinimi 24. ayda (p=0,012) epoetin alfa grubunda 
+darbepoetin alfa grubuna göre, 24. ay (p=0,018), 36. ay (p=0,025) ve 48. aylarda 
+(p<0,001) ise düşük risk grubunda orta risk grubuna göre anlamlı şekilde daha 
+düşük olarak bulundu. Tedavi yanıt oranları 24. ay, 36. ay ve 48. aylarda 
+epoetin alfa (%43,0, %33,6 ve %27,1), darbepoetin alfa (%29,9, %22,7 ve %16,5), 
+düşük risk (%39,3, %30,0 ve %26,0) ve orta risk (%29,6, %24,1 ve %11,1) 
+gruplarında 12. ay yanıt oranlarına göre daha düşük olup, 36. ve 48. aylarda bu 
+değişim istatistiksel olarak anlamlı idi (p<0,05 ile <0,001 arası).
+SONUÇ: Epoetin alfa ve darbepoetin alfanın 48 aylık klinik etkililiğinin 
+değerlendirildiği bu gerçek-yaşam uzun-dönem ESA çalışmasında, tedavi 
+etkililiğinin tedavinin 24. ayından başlayarak plato evresine eriştiği ve 
+devamında tedavi yanıt oranlarında, tedavi tipi, risk durumu veya cinsiyetten 
+bağımsız olarak süregiden bir düşüşün gerçekleştiği saptandı. Bununla birlikte, 
+epoetin tedavisi alan grupta darbepoetin ile tedavi edilen gruba göre ve düşük 
+risk grubu hastalarda orta risk grubu hastalara göre, hemoglobin düzeyleri 
+anlamlı şekilde daha yüksek olup, transfüzyon gereksiniminde de belirgin azalma 
+olduğu tespit edildi.
+
+©Copyright 2023 by Turkish Society of Hematology | Turkish Journal of 
+Hematology, Published by Galenos Publishing House
+
+DOI: 10.4274/tjh.galenos.2023.2022.0437
+PMCID: PMC10240155
+PMID: 36799095 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: No conflict of interest 
+was declared by the authors.
+
+
+17. Genome Biol Evol. 2023 Mar 3;15(3):evad025. doi: 10.1093/gbe/evad025.
+
+Population Structure, Demographic History, and Adaptation of Giant Honeybees in 
+China Revealed by Population Genomic Data.
+
+Cao L(1), Dai Z(2), Tan H(2)(3), Zheng H(4), Wang Y(2), Chen J(2), Kuang H(5), 
+Chong RA(6), Han M(7), Hu F(4), Sun W(2), Sun C(8), Zhang Z(2).
+
+Author information:
+(1)Institute of Animal Husbandry and Veterinary Science, Zhejiang Academy of 
+Agricultural Sciences, Hangzhou, China.
+(2)School of Life Sciences, Chongqing University, Chongqing, China.
+(3)Chongqing General Station of Animal Husbandry Technology Extension, 
+Chongqing, China.
+(4)College of Animal Sciences, Zhejiang University, Hangzhou, China.
+(5)Faculty of Animal Science and Technology, Yunnan Agricultural University, 
+Kunming, China.
+(6)School of Life Sciences, University of Hawai'i at Mānoa, Honolulu, Hawai'i, 
+USA.
+(7)State Key Laboratory of Silkworm Genome Biology, Southwest University, 
+Chongqing, China.
+(8)College of Life Sciences, Capital Normal University, Beijing, China.
+
+There have been many population-based genomic studies on human-managed honeybees 
+(Apis mellifera and Apis cerana), but there has been a notable lack of analysis 
+with regard to wild honeybees, particularly in relation to their evolutionary 
+history. Nevertheless, giant honeybees have been found to occupy distinct 
+habitats and display remarkable characteristics, which are attracting an 
+increased amount of attention. In this study, we de novo sequenced and then 
+assembled the draft genome sequence of the Himalayan giant honeybee, Apis 
+laboriosa. Phylogenetic analysis based on genomic information indicated that A. 
+laboriosa and its tropical sister species Apis dorsata diverged ∼2.61 Ma, which 
+supports the speciation hypothesis that links A. laboriosa to geological changes 
+throughout history. Furthermore, we re-sequenced A. laboriosa and A. dorsata 
+samples from five and six regions, respectively, across their population ranges 
+in China. These analyses highlighted major genetic differences for Tibetan A. 
+laboriosa as well as the Hainan Island A. dorsata. The demographic history of 
+most giant honeybee populations has mirrored glacial cycles. More importantly, 
+contrary to what has occurred among human-managed honeybees, the demographic 
+history of these two wild honeybee species indicates a rapid decline in 
+effective population size in the recent past, reflecting their differences in 
+evolutionary histories. Several genes were found to be subject to selection, 
+which may help giant honeybees to adapt to specific local conditions. In 
+summary, our study sheds light on the evolutionary and adaptational 
+characteristics of two wild giant honeybee species, which was useful for giant 
+honeybee conservation.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of Society 
+for Molecular Biology and Evolution.
+
+DOI: 10.1093/gbe/evad025
+PMCID: PMC9991589
+PMID: 36799935 [Indexed for MEDLINE]
+
+
+18. J Gerontol A Biol Sci Med Sci. 2023 Jul 8;78(7):1269-1275. doi: 
+10.1093/gerona/glad059.
+
+Racial-Ethnic Disparities in Dual-Function Life Expectancy.
+
+Bauldry S(1)(2), Thomas PA(1)(2), Sauerteig-Rolston MR(1)(2), Ferraro KF(1)(2).
+
+Author information:
+(1)Center on Aging and the Life Course, Purdue University, West Lafayette, 
+Indiana, USA.
+(2)Department of Sociology, Purdue University, West Lafayette, Indiana, USA.
+
+BACKGROUND: This study develops a new concept, dual functionality, that 
+integrates physical and cognitive function. We use the concept to define a 
+measure of dual-function life expectancy (2FLE) and assess racial-ethnic 
+inequalities in aging.
+METHODS: Drawing on data from the National Health Interview Survey Linked 
+Mortality Files and the Health and Retirement Study, we define dual 
+functionality as having no limitations in activities of daily living and being 
+free of dementia. We use this measure and Sullivan life tables to estimate 
+age-50 total life expectancy and age-50 2FLE for women and men across 4 
+racial-ethnic and nativity groups.
+RESULTS: At ages 50-54, between 79.0% (95% CI: 73.5, 84.5) and 87.6% (95% CI: 
+84.0, 91.2) of (non-Hispanic) Black, foreign-born Hispanic, and U.S.-born 
+Hispanic women and men remain dual functional as compared with 90.4% (95% CI: 
+89.3, 91.4) and 91.4% (95% CI: 90.2, 92.5) of (non-Hispanic) White women and 
+men, respectively. These and corresponding racial-ethnic disparities in dual 
+functionality through ages 85 and older translate into substantial inequalities 
+in 2FLE. For instance, the Black-White gap in age-50 2FLE is 6.9 years (95% CI: 
+-7.5, -6.4) for women and 6.0 years (95% CI: -6.6, -5.4) for men.
+CONCLUSIONS: Black, foreign-born Hispanic, and U.S.-born Hispanic older adults 
+are estimated to live a smaller percentage of their remaining years with dual 
+functionality than White older adults. These results reveal stark racial-ethnic 
+inequalities in aging that have significant implications for quality of life, 
+caregiving, and health needs.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of The 
+Gerontological Society of America. All rights reserved. For permissions, please 
+e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/gerona/glad059
+PMCID: PMC10329220
+PMID: 36800307 [Indexed for MEDLINE]
+
+Conflict of interest statement: None declared.
+
+
+19. PLoS One. 2023 Feb 17;18(2):e0279899. doi: 10.1371/journal.pone.0279899. 
+eCollection 2023.
+
+Counting young birds: A simple tool for the determination of avian population 
+parameters.
+
+Oldekop W(1), Oldekop G(1), Vahldiek K(2), Klawonn F(2), Rinas U(1).
+
+Author information:
+(1)Institute of Technical Chemistry/Life Science, Leibniz University of 
+Hannover, Hannover, Lower Saxony, Germany.
+(2)Institute for Applied Informatics, Ostfalia University of Applied Sciences, 
+Wolfenbüttel, Lower Saxony, Germany.
+
+Population parameters are usually determined from mark-recapture experiments 
+requiring laborious field work. Here, we present a model-based approach that can 
+be applied for the determination of avian population parameters such as average 
+individual life expectancy, average age in the population, and generation length 
+from age-differentiated bird counts. Moreover, the method presented can also 
+create age-specific results from lifetime averages using a deterministic 
+exponential function for the calculation of parameters of interest such as 
+age-dependent mortality and age distribution in the population. The major 
+prerequisites for application of this method are that young and adult birds are 
+easily distinguishable in the field as well as the existence of sufficiently 
+large data sets for error minimization. Large data sets are nowadays often 
+available through the existence of so-called "citizen science" databases. 
+Examples for the determination of population parameters are given for 
+long-living migratory birds which travel as families in large groups such as the 
+Common Crane and the Whooper Swan. Other examples include long-living partially 
+migratory birds staying together in large flocks which do not travel as families 
+such as the Black-headed Gull, and also short-living songbirds where at least 
+from one sex young and adult birds are easily differentiable such as the male 
+Black Redstart.
+
+Copyright: © 2023 Oldekop et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0279899
+PMCID: PMC9937500
+PMID: 36800348 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+20. Proc Natl Acad Sci U S A. 2023 Feb 21;120(8):e2205882120. doi: 
+10.1073/pnas.2205882120. Epub 2023 Feb 17.
+
+Carbon signaling protein SbtB possesses atypical redox-regulated apyrase 
+activity to facilitate regulation of bicarbonate transporter SbtA.
+
+Selim KA(1)(2), Haffner M(1), Mantovani O(3), Albrecht R(2), Zhu H(2), Hagemann 
+M(3), Forchhammer K(1), Hartmann MD(2)(4).
+
+Author information:
+(1)Interfaculty Institute of Microbiology and Infection Medicine, Organismic 
+Interactions Department, Cluster of Excellence 'Controlling Microbes to Fight 
+Infections', Tübingen University, 72076 Tübingen, Germany.
+(2)Department of Protein Evolution, Max Planck Institute for Biology, 72076 
+Tübingen, Germany.
+(3)Plant Physiology Department, Institute of Biological Sciences, Rostock 
+University, 18059 Rostock, Germany.
+(4)Interfaculty Institute of Biochemistry, Tübingen University, 72076 Tübingen, 
+Germany.
+
+The PII superfamily consists of widespread signal transduction proteins found in 
+all domains of life. In addition to canonical PII proteins involved in C/N 
+sensing, structurally similar PII-like proteins evolved to fulfill diverse, yet 
+poorly understood cellular functions. In cyanobacteria, the bicarbonate 
+transporter SbtA is co-transcribed with the conserved PII-like protein, SbtB, to 
+augment intracellular inorganic carbon levels for efficient CO2 fixation. We 
+identified SbtB as a sensor of various adenine nucleotides including the second 
+messenger nucleotides cyclic AMP (cAMP) and c-di-AMP. Moreover, many SbtB 
+proteins possess a C-terminal extension with a disulfide bridge of potential 
+redox-regulatory function, which we call R-loop. Here, we reveal an unusual 
+ATP/ADP apyrase (diphosphohydrolase) activity of SbtB that is controlled by the 
+R-loop. We followed the sequence of hydrolysis reactions from ATP over ADP to 
+AMP in crystallographic snapshots and unravel the structural mechanism by which 
+changes of the R-loop redox state modulate apyrase activity. We further gathered 
+evidence that this redox state is controlled by thioredoxin, suggesting that it 
+is generally linked to cellular metabolism, which is supported by physiological 
+alterations in site-specific mutants of the SbtB protein. Finally, we present a 
+refined model of how SbtB regulates SbtA activity, in which both the apyrase 
+activity and its redox regulation play a central role. This highlights SbtB as a 
+central switch point in cyanobacterial cell physiology, integrating not only 
+signals from the energy state (adenyl-nucleotide binding) and the carbon supply 
+via cAMP binding but also from the day/night status reported by the C-terminal 
+redox switch.
+
+DOI: 10.1073/pnas.2205882120
+PMCID: PMC9974498
+PMID: 36800386 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interest.
+
+
+21. Medicine (Baltimore). 2023 Feb 17;102(7):e32856. doi: 
+10.1097/MD.0000000000032856.
+
+Offer of integrative and complementary health practices for the elderly in 
+health services: A protocol for systematic review and meta analysis.
+
+Diniz NPMC(1), da Silva JFC(2), Sampaio ATL(3), Torres GV(4), Schveitzer MC(5), 
+Nobre TTX(6).
+
+Author information:
+(1)Graduate Program in Collective Health, Federal University of Rio Grande do 
+Norte, Natal/RN, Brazil.
+(2)Graduate Program in Health Sciences, Federal University of Rio Grande do 
+Norte, Natal/RN, Brazil.
+(3)Department of Collective Health, Federal University of Rio Grande do Norte, 
+Natal, RN, Brazil.
+(4)Department of Nursing, Federal University of Rio Grande do Norte, Natal, RN, 
+Brazil.
+(5)Department of Preventive Medicine, Federal University of São Paulo, São 
+Paulo, SP, Brazil.
+(6)Faculty of Health Sciences of Trairi, Federal University of Rio Grande do 
+Norte, Santa Cruz-RN, Brazil.
+
+INTRODUCTION: Integrative and complementary health practices (ICHP) question the 
+hegemony of the biomedical, technical and hospital paradigm, as they are an 
+important axis in the process of redefining the health care model. Understanding 
+how ICHP are offered to the elderly population can help to improve the 
+production of changes in care and in the daily life of health services.
+OBJECTIVE: To identify and summarize the scientific evidence on the provision of 
+ICHP for the elderly in health services.
+METHODS: This is a research protocol for a scoping review following the 
+recommendations of the Extension for Scoping Reviews method proposed by the 
+Joanna Briggs Institute. Studies will be collected in the following databases, 
+Latin American and Caribbean Health Sciences Literature, Web of Science, Scopus, 
+Scielo, Online System for Searching and Analyzing Medical Literature (MEDLINE), 
+Embase, Virtual Library in Health and gray literature. Two independent reviewers 
+will perform screening, data extraction, and risk of bias assessment using the 
+Joanna Briggs Institute Critical Assessment Checklist. For the quality of 
+evidence, the Grading of Recommendations, Assessment, Development and Evaluation 
+analysis will be used.
+RESULTS: This review will provide information on the provision of ICHP for the 
+elderly population in health services.
+CONCLUSIONS: This scoping review will provide evidence to help health 
+professionals, managers and users to recognize more effective therapeutic 
+inventions for promoting, preventing and protecting comprehensive health at 
+different levels of care.
+
+Copyright © 2023 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000032856
+PMCID: PMC9936020
+PMID: 36800612 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.
+
+
+22. Obstet Gynecol. 2023 Mar 1;141(3):535-543. doi: 10.1097/AOG.0000000000005086.
+
+Universal Repeat Screening for Human Immunodeficiency Virus in the Third 
+Trimester of Pregnancy: A Cost-Effectiveness Analysis.
+
+Hawkinson LF(1), Chaiken SR, Doshi U, Wallace J, Caughey AB.
+
+Author information:
+(1)Department of Obstetrics & Gynecology, Oregon Health & Science University, 

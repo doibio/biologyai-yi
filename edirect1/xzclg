@@ -1,0 +1,1000 @@
+simulations created the opportunity for the introduction of dynamic parameters 
+in cardiac surgery. Our aim was to apply 3D models in cardiac surgical practice, 
+predicting fluid dynamic results, ventricular shape, volume and function before 
+the operation.
+METHODS: Using a script developed by us, the raw DICOM files were imported, the 
+dilated left ventricle was modeled and fluid dynamic parameters were simulated, 
+such as flow kinematic and profile analysis, turbulence calculation and 
+myocardial response to shear stress. Then step-by-step simulation of the 
+surgical ventricle restoration procedure was accomplished and the calculated 
+variables were imbedded in silico model. The length of resection lines was 
+modified based on the previous computer simulation and applied during the 
+operation, if feasible.
+RESULTS: The sphericity and conicity indexes were improved significantly in 
+postoperative period (0.42 vs. 0.67 and 0.36 vs. 0.72, p < 0.05). The occurred 
+shear stress at endocardium decreased 83% due to the normalization of flow 
+kinematic pattern of the ventricle in postoperative period (132.21 ± 29.5 
+dyne/cm2 vs. 22.92 ± 10.3 p < 0.05 dyne/‌cm2). The postoperative turbulent flow 
+pattern significantly decreased, according to our computational method (2712 vs. 
+1823, p < 0.0001).
+CONCLUSION: With our method, the standardization of the surgical ventricle 
+reconstruction was achievable and the surgical steps were predictable. 
+Therefore, a new decision making support system was established in cardiac 
+surgery for high risk patients. A personalized surgical technique was offered to 
+our patients, improving their life expectancy and quality of life.
+
+Publisher: Absztrakt: Bevezetés: A sebészi diszciplínákban a műtétetek 
+megtervezése statikus modelleken alapulnak. Azonban a számítástechnikai 
+fejlődése lehetőséget nyitott a dinamikus modellek preoperatív megtervezésére és 
+intraoperatív alkalmazásukra. Célunk volt, olyan döntéstámogató rendszer 
+megalkotása a szívsebészeti gyakorlatban, melynek segítségével az áramlástani, 
+kamramorfológiai, térfogat és posztoperatív kamrafunkció predikcióját 
+végezhetjük kamrarekonstrukciós műtéteknél. Módszerek: Saját fejlesztésű 
+szoftver használatával DICOM fájlok importálását követően a dilatált bal kamrát 
+három dimenzióban modellezzük. Ezt követő áramlástani modellezések segítségével 
+az idővel és a kamratérfogat változásával dinamikusan változó paramétereket: az 
+áramlástani profilt, turbulenciát és a bal kamrában fellépő nyíróerők hatását a 
+myocardium funkciójára kiszámítjuk. In silico modellben – a prediktált adatokat 
+felhasználva – megtervezzük a balkamra-rekonstrukciós műtét egyes lépéseit. A 
+tervezés alapján a kiszámított rezekciós vonalak hosszát alkalmazva történtek a 
+műtétek. Eredmények: Összesen 50 esetben történt 3D tervezés. A bal kamra 
+geometriáját jellemző konicitási és sphericitási indexek szignifikánsan javultak 
+a műtétet követően (0,42 vs. 0,67 és 0,36 vs. 0,72, p < 0,05). A bal kamra 
+izomzatára ható nyíróerő szignifikánsan 83%-kal csökkent, illetve a kamra 
+turbulens áramlásprofilja szignifikánsan javult (2712 vs. 1823, p < 0,05). 
+Következésképpen a szív pumpafunkciója javult a műtétet követően. Konklúzió: 
+Technikánk alkalmazásával a balkamra-rekonstrukciós műtétek egyes lépéseinek 
+standardizálásával és e lépések intraoperatív alkalmazásának kidolgozásával 
+sikerült egy új sebészi döntéstámogató rendszert létrehoznunk. Az így 
+megtervezett és személyre szabott műtétekkel növelhettük ezen magas kockázatú 
+betegcsoport posztoperatív életminőségét és túlélését.
+
+DOI: 10.1556/1046.71.2018.3.2
+PMID: 30231635 [Indexed for MEDLINE]
+
+
+201. Clin Drug Investig. 2018 Dec;38(12):1167-1178. doi:
+10.1007/s40261-018-0706-5.
+
+Economic Evaluations of Tyrosine Kinase Inhibitors for Patients with Chronic 
+Myeloid Leukemia in Middle- and High-Income Countries: A Systematic Review.
+
+Fu J(1)(2), Liu Y(2), Lin H(1), Wu B(3).
+
+Author information:
+(1)Medical Decision and Economic Group, Department of Pharmacy, Shanghai Jiao 
+Tong University School of Medicine, Affiliated Renji Hospital, South Campus, 
+Shanghai, China.
+(2)College of Life Science and Biological Pharmacy, Shenyang Pharmaceutical 
+University, Shenyang, China.
+(3)Medical Decision and Economic Group, Department of Pharmacy, Shanghai Jiao 
+Tong University School of Medicine, Affiliated Renji Hospital, South Campus, 
+Shanghai, China. scilwsjtu-wb@yahoo.com.
+
+OBJECTIVES: The objective of this systematic review was to conduct a 
+comprehensive assessment of economic evaluations of tyrosine kinase inhibitors 
+(TKIs) in patients with chronic myeloid leukemia (CML) in middle- and 
+high-income countries.
+METHODS: A literature search was conducted in Embase, MEDLINE (via PubMed) and 
+the Cochrane library on March 3, 2018 to identify economic evaluations of 
+chronic myeloid leukemia that met the inclusion criteria. Data on such 
+parameters as patient characteristics, cost components, and main outcomes were 
+extracted from eligible studies.
+RESULTS: The literature review retrieved 798 studies, 17 of which fulfilled the 
+eligibility criteria. Eight studies included an economic analysis on newly 
+diagnosed patients with CML. Seven studies investigated people with CML who were 
+resistant or intolerant to standard-dose imatinib. One article focused on 
+chronic phase (CP)-CML patients who experienced failure with first-line 
+treatment for interferon-α. The last study investigated advanced stages of CML 
+patients. Most studies (n = 70.6%) were conducted in high-income countries. Only 
+five studies (n = 29.4%) were performed in middle-income countries. Most studies 
+used a Markov model. The time horizon varied from six months to life-time.
+CONCLUSIONS: Despite high costs, the included studies indicate that imatinib 
+regimens are cost effective in newly diagnosed patients with CP-CML. For people 
+with CML who are resistant or intolerant to standard-dose imatinib, dasatinib is 
+likely to be a more cost-effective strategy in middle-income countries. More 
+studies are necessary to assess the long-term efficacy and cost effectiveness of 
+novel treatment options.
+
+DOI: 10.1007/s40261-018-0706-5
+PMID: 30232698 [Indexed for MEDLINE]
+
+
+202. Front Physiol. 2018 Sep 4;9:1170. doi: 10.3389/fphys.2018.01170. eCollection
+ 2018.
+
+Tendinous Tissue Adaptation to Explosive- vs. Sustained-Contraction Strength 
+Training.
+
+Massey GJ(1)(2), Balshaw TG(1)(2), Maden-Wilkinson TM(2)(3), Tillin NA(4), 
+Folland JP(1)(2).
+
+Author information:
+(1)Arthritis Research UK Centre for Sport, Exercise and Osteoarthritis, 
+Loughborough University, Loughborough, United Kingdom.
+(2)School of Sport, Exercise, and Health Sciences, Loughborough University, 
+Loughborough, United Kingdom.
+(3)Faculty of Health and Wellbeing, Sheffield Hallam University, Sheffield, 
+United Kingdom.
+(4)Department of Life Sciences, University of Roehampton, London, United 
+Kingdom.
+
+The effect of different strength training regimes, and in particular training 
+utilizing brief explosive contractions, on tendinous tissue properties is poorly 
+understood. This study compared the efficacy of 12 weeks of knee extensor 
+explosive-contraction (ECT; n = 14) vs. sustained-contraction (SCT; n = 15) 
+strength training vs. a non-training control (n = 13) to induce changes in 
+patellar tendon and knee extensor tendon-aponeurosis stiffness and size 
+(patellar tendon, vastus-lateralis aponeurosis, quadriceps femoris muscle) in 
+healthy young men. Training involved 40 isometric knee extension contractions 
+(three times/week): gradually increasing to 75% of maximum voluntary torque 
+(MVT) before holding for 3 s (SCT), or briefly contracting as fast as possible 
+to ∼80% MVT (ECT). Changes in patellar tendon stiffness and Young's modulus, 
+tendon-aponeurosis complex stiffness, as well as quadriceps femoris muscle 
+volume, vastus-lateralis aponeurosis area and patellar tendon cross-sectional 
+area were quantified with ultrasonography, dynamometry, and magnetic resonance 
+imaging. ECT and SCT similarly increased patellar tendon stiffness (20% vs. 16%, 
+both p < 0.05 vs. control) and Young's modulus (22% vs. 16%, both p < 0.05 vs. 
+control). Tendon-aponeurosis complex high-force stiffness increased only after 
+SCT (21%; p < 0.02), while ECT resulted in greater overall elongation of the 
+tendon-aponeurosis complex. Quadriceps muscle volume only increased after 
+sustained-contraction training (8%; p = 0.001), with unclear effects of strength 
+training on aponeurosis area. The changes in patellar tendon cross-sectional 
+area after strength training were not appreciably different to control. Our 
+results suggest brief high force muscle contractions can induce increased free 
+tendon stiffness, though SCT is needed to increase tendon-aponeurosis complex 
+stiffness and muscle hypertrophy.
+
+DOI: 10.3389/fphys.2018.01170
+PMCID: PMC6131493
+PMID: 30233387
+
+
+203. Curr Opin Lipidol. 2018 Dec;29(6):436-444. doi:
+10.1097/MOL.0000000000000554.
+
+The prediction of therapy-benefit for individual cardiovascular disease 
+prevention: rationale, implications, and implementation.
+
+Jaspers NEM(1), Ridker PM(2), Dorresteijn JAN(1), Visseren FLJ(1).
+
+Author information:
+(1)Department of Vascular Medicine, University Medical Center Utrecht, Utrecht, 
+The Netherlands.
+(2)Harvard Medical School, Brigham and Women's Hospital, Boston, Massachusetts, 
+USA.
+
+PURPOSE OF REVIEW: We aim to outline the importance and the clinical 
+implications of using predicted individual therapy-benefit in making 
+patient-centered treatment decisions in cardiovascular disease (CVD) prevention. 
+Therapy-benefit concepts will be illustrated with examples of patients 
+undergoing lipid management.
+RECENT FINDINGS: In both primary and secondary CVD prevention, the degree of 
+variation in individual therapy-benefit is large. An individual's 
+therapy-benefit can be estimated by combining prediction algorithms and clinical 
+trial data. Measures of therapy-benefit can be easily integrated into clinical 
+practice via a variety of online calculators. Lifetime estimates (e.g., gain in 
+healthy life expectancy) look at therapy-benefit over the course of an 
+individual's life, and are less influenced by age than short-term estimates 
+(e.g., 10-year absolute risk reduction). Lifetime estimates can thus identify 
+people who could substantially benefit from early initiation of CVD prevention. 
+Compared with current guidelines, treatment based on predicted therapy-benefit 
+would increase eligibility for therapy among young people with a moderate 
+risk-factor burden and individuals with a high residual risk.
+SUMMARY: The estimation of individual therapy-benefit is an important part of 
+individualized medicine. Implementation tools allow for clinicians to readily 
+estimate both short-term and lifetime therapy-benefit.
+
+DOI: 10.1097/MOL.0000000000000554
+PMID: 30234556 [Indexed for MEDLINE]
+
+
+204. AIDS. 2018 Nov 28;32(18):2787-2798. doi: 10.1097/QAD.0000000000002014.
+
+Cost-effectiveness of preexposure prophylaxis for HIV prevention for conception 
+in the United States.
+
+Leech AA(1)(2)(3), Burgess JF(3)(4), Sullivan M(5)(6), Kuohung W(7), Horný 
+M(3)(8)(9), Drainoni ML(3)(4)(6)(10), Christiansen CL(11), Linas BP(5)(6).
+
+Author information:
+(1)Department of Health Policy, Vanderbilt University School of Medicine, 
+Nashville, Tennessee.
+(2)Center for the Evaluation of Value and Risk in Health, Institute for Clinical 
+Research and Health Policy Studies, Tufts Medical Center.
+(3)Department of Health Law, Policy and Management, Boston University School of 
+Public Health.
+(4)U.S. Department of Veterans Affairs, Center for Healthcare Organization and 
+Implementation Research.
+(5)Department of Medicine, Center for Infectious Diseases, Boston Medical 
+Center.
+(6)Department of Medicine, Section of Infectious Diseases.
+(7)Department of Obstetrics and Gynecology, Boston University School of 
+Medicine, Boston, Massachusetts.
+(8)Department of Radiology and Imaging Sciences, Emory University School of 
+Medicine.
+(9)Department of Health Policy and Management, Emory University Rollins School 
+of Public Health, Atlanta, Georgia.
+(10)Evans Center for Implementation and Improvement Sciences, Boston University.
+(11)Boston University Henry M. Goldman School of Dental Medicine, Boston, 
+Massachusetts, USA.
+
+OBJECTIVE: The aim of this study was to investigate the value of coformulated 
+Tenofovir disoproxil fumarate and emtricitabine (TDF/FTC) for preexposure 
+prophylaxis (PrEP) for conception in the U.S. and to identify scenarios in which 
+'Undetectable = Untransmittable' (U = U) may not be adequate, and rather, PrEP 
+or assisted reproduction would improve outcomes.
+DESIGN: We developed a Markov cohort simulation model to estimate the 
+incremental benefits and cost-effectiveness of PrEP compared with alternative 
+safer conception strategies, including combination antiretroviral therapy (cART) 
+alone for the HIV-infected partner and assisted reproductive technologies. We 
+modelled various scenarios in which HIV RNA suppression in the male partner was 
+less than perfect.
+SETTING: U.S. healthcare sector perspective.
+PARTICIPANTS: Serodiscordant couples in the U.S. was composed of an HIV-infected 
+male and HIV-uninfected female seeking conception.
+INTERVENTION: Economic analysis.
+MAIN OUTCOME MEASURE(S): Cumulative risks of HIV transmission to women and 
+babies, maternal life expectancy, discounted quality-adjusted life years (QALY), 
+discounted lifetime medical costs and incremental cost-effectiveness ratios.
+RESULTS: cART with condomless intercourse limited to ovulation was the preferred 
+HIV prevention strategy among women seeking to conceive with an HIV-infected 
+partner who is HIV-suppressed. PrEP was not cost-effective for women who had 
+partners who were virologically suppressed. When the probability of male partner 
+HIV suppression was low and we assumed generic pricing of PrEP, PrEP was 
+cost-effective, and sometimes even cost-saving compared with cART alone.
+CONCLUSION: From a U.S. healthcare sector perspective, when the male partner was 
+not reliably suppressed, PrEP became economically attractive, and in some cases, 
+cost-saving.
+
+DOI: 10.1097/QAD.0000000000002014
+PMCID: PMC6805137
+PMID: 30234602 [Indexed for MEDLINE]
+
+
+205. Pain. 2019 Jan;160(1):237-245. doi: 10.1097/j.pain.0000000000001396.
+
+The prevalence and years lived with disability caused by low back pain in China, 
+1990 to 2016: findings from the global burden of disease study 2016.
+
+Wu A(1), Dong W(2), Liu S(2), Cheung JPY(3), Kwan KYH(3), Zeng X(2), Zhang K(1), 
+Sun Z(1), Wang X(4), Cheung KMC(3), Zhou M(2), Zhao J(1).
+
+Author information:
+(1)Department of Orthopaedics, Ninth People's Hospital, Shanghai Jiaotong 
+University School of Medicine, Shanghai, China.
+(2)National Center for Chronic and Noncommunicable Disease Control and 
+Prevention, Chinese Center for Disease Control and Prevention, Beijing, China.
+(3)Department of Orthopaedics and Traumatology, Li Ka Shing Faculty of Medicine, 
+The University of Hong Kong, Hong Kong SAR, China.
+(4)Department of Spine Surgery, Zhejiang Spine Surgery Centre, Orthopaedic 
+Hospital, The Second Affiliated Hospital and Yuying Children's Hospital of 
+Wenzhou Medical University, Zhejiang Provincial Key Laboratory of Orthopaedics, 
+Wenzhou, Zhejiang, China.
+
+The aim of this work was to quantify the prevalence and years lived with 
+disability (YLDs) caused by low back pain (LBP) in China from 1990 to 2016. Data 
+from the GBD 2016 (Global Burden of Diseases, Injuries, and Risk Factors Study 
+2016) were used. We analyzed the age-sex-province-specific prevalence and YLDs 
+for LBP of 33 provinces/regions in China. Comparisons were made with the data 
+retrieved from the 1990 GBD study. We estimated that 5.45 × 10 individuals had 
+LBP in 1990, which rose to 6.73 × 10 in 2016. The age-standardized prevalence of 
+LBP decreased from 5.6% (95% uncertainty interval [95% UI]: 4.9%-6.3%) in 1990 
+to 4.2% (95% UI: 3.8%-4.8%) in 2016. The YLDs for LBP increased from 6.2 million 
+(95% UI: 4.3-8.3 million) in 1990 to 7.7 million (95% UI: 5.4-10.2) in 2016. 
+Age-standardized YLD rate (per 100,000 person) decreased from 637.5 (95% UI: 
+449.9-848.8) in 1990 to 481.9 (95% UI: 338.6-637.0) in 2016. A female 
+preponderance was observed for prevalence and YLDs. The prevalence and YLDs rate 
+for LBP slightly decreased from 1990 to 2016 in China; however, the total 
+individuals and YLDs increased. Low back pain still ranks as the second leading 
+cause of YLD burden disease in China. Considerable attention should be paid for 
+LBP, especially in the female population.
+
+DOI: 10.1097/j.pain.0000000000001396
+PMCID: PMC6319591
+PMID: 30234697 [Indexed for MEDLINE]
+
+Conflict of interest statement: Sponsorships or competing interests that may be 
+relevant to content are disclosed at the end of this article.
+
+
+206. MMWR Morb Mortal Wkly Rep. 2018 Sep 21;67(37):1036-1039. doi: 
+10.15585/mmwr.mm6737a4.
+
+CDC Grand Rounds: Promoting Well-Being and Independence in Older Adults.
+
+Olivari BS, Baumgart M, Lock SL, Whiting CG, Taylor CA, Iskander J, Thorpe P, 
+McGuire LC.
+
+Healthy aging is not merely the absence of disease or disability, but requires 
+physical and mental health and ongoing social engagement (1). As the average 
+U.S. life expectancy increases, recognition that public health can play a vital 
+role in promoting healthy, successful aging even in the face of increased 
+prevalence of chronic diseases, including types of dementia, among older adults 
+(i.e., aged ≥65 years) has grown. Furthermore, actively engaging adults in 
+prevention and wellness along with involving their caregivers (i.e., the family 
+and friends of older adults who provide them with unpaid and informal support 
+and services) can serve to prevent or delay the onset of physical disabilities 
+and cognitive decline. Adults often are reluctant to discuss their concerns 
+about worsening memory with their health care providers although such 
+discussions can lead to earlier diagnosis and better care, planning, and 
+support. As advances in public health and health care have helped increase life 
+expectancy, public health professionals and health care providers have the 
+opportunity to improve the quality of life for older adults and their caregivers 
+and reduce the burdens associated with aging.
+
+DOI: 10.15585/mmwr.mm6737a4
+PMCID: PMC6147419
+PMID: 30235185 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors have completed and submitted the 
+ICMJE form for disclosure of potential conflicts of interest. No potential 
+conflicts of interest were disclosed.
+
+
+207. N Z Med J. 2018 Sep 21;131(1482):38-45.
+
+Distinctive features of polycythaemia vera in New Zealand Polynesians.
+
+Hanna MZ(1), Kalev-Zylinska ML(2), Jackson SR(3), Royle G(3), Blacklock HA(4).
+
+Author information:
+(1)Haematologist, North Shore Hospital, Auckland.
+(2)Senior Lecturer, Department of Molecular Medicine and Pathology, School of 
+Medical Sciences, University of Auckland, Auckland; Haematologist, LabPlus, 
+Auckland City Hospital, Auckland.
+(3)Haematologist, Haematology Department, Middlemore Hospital, Auckland.
+(4)Haematologist, Haematology Department, Middlemore Hospital, Auckland; 
+Clinical Associate Professor, Department of Molecular Medicine and Pathology, 
+School of Medical Sciences, University of Auckland, Auckland.
+
+AIM: The aim of this study was to examine a potential ethnic disparity in the 
+phenotype of polycythaemia vera (PV) between New Zealand European and Polynesian 
+patients.
+METHOD: A retrospective review of medical records was conducted at Middlemore 
+Hospital to identify adult patients with PV diagnosed between 1987 and 2007. 
+Data extracted included diagnostic criteria, ethnicity, age, complications and 
+survival.
+RESULTS: Eighty-eight adult patients with PV were identified during 1987-2007, 
+49 (55.7%) were Europeans and 36 (40.9%) Polynesians. The most striking finding 
+was that Polynesian patients presented almost 14 years younger than Europeans 
+(mean age of 54 years versus [vs] 68, respectively; P<.001). The white cell and 
+platelet counts were higher in Polynesians compared with Europeans (mean white 
+cell count of 22x109/L vs 13x109/L; mean platelet count of 648x109/L vs 
+512x109/L, respectively; P<.05 for both). The rate of JAK2 V617F mutation in 
+Polynesians was 96%, equivalent to other large cohorts of European patients. The 
+rates of long-term complications were comparable between Polynesians and 
+Europeans, but the predicted impact on life expectancy was more severe for 
+Polynesians.
+CONCLUSION: New Zealand Polynesian patients present with a distinctive PV 
+phenotype. Their younger age at presentation suggests a different risk factor 
+profile or a higher genetic susceptibility. We hope our observations initiate 
+larger epidemiological and genetic studies to help elucidate the cause.
+
+PMID: 30235191 [Indexed for MEDLINE]
+
+Conflict of interest statement: Nil.
+
+
+208. Medicine (Baltimore). 2018 Sep;97(38):e12357. doi:
+10.1097/MD.0000000000012357.
+
+Patterns of care for glaucoma patients in Korea from 2002 to 2013 using the 
+national health insurance service claims data.
+
+Choi S(1), Choi JA, Kwon JW, Park SM, Jee D.
+
+Author information:
+(1)Department of Biomedical Sciences, Seoul National University Graduate School, 
+Seoul Division of Vitreous and Retina, Department of Ophthalmology, St Vincent's 
+Hospital, College of Medicine, Catholic University of Korea, Suwon Department of 
+Family Medicine, Seoul National University Hospital, Seoul, Republic of Korea.
+
+Due to the rapidly increasing life-expectancy, the prevalence of glaucoma has 
+increased steadily in recent years. We aimed to evaluate the patterns of care 
+and primary treatment strategy patterns in Korea according to glaucoma subtypes 
+to assess the quality of care for glaucoma patients.In this serial 
+cross-sectional survey, the claims data from the Korean National Health 
+Insurance Service was used to identify and group glaucoma patients into primary 
+open-angle glaucoma (POAG), primary angle-closure glaucoma (PACG), other types 
+of glaucoma, and ocular hypertension from 2002 to 2013. Records for outpatient 
+visits, hospitalizations, drug prescriptions, admissions, and surgical 
+interventions were used to determine the patterns of care and identify primary 
+treatment strategies.Both the prevalence (0.11% in 2002 to 0.43% in 2013) and 
+incidence rates (0.06% in 2003 to 0.11% in 2013) for glaucoma increased over 
+time. The mean number of outpatient visits increased (4.9-6.0 visits per year), 
+while the proportion of hospitalized patients (2.3-1.0% of patients) and 
+duration of hospital stay (4.5-3.4 days among hospitalized patients) decreased 
+between 2002 and 2013 for patients with POAG. The proportion of patients not 
+being managed by medication or surgery decreased, with POAG and PACG patients 
+receiving medications increasing from 70.9% and 59.2% in 2002 to 88.4% and 63.3% 
+in 2013, respectively. Finally, while the proportion of trabeculectomy decreased 
+(22.2% to 10.0% of surgical procedures in 2002 and 2013, respectively), more 
+patients with PACG have received iridectomy (59.3% to 86.0% of surgical 
+procedures in 2002 and 2013, respectively).Between 2002 and 2013, the pattern of 
+care for both patients with POAG and PACG has shifted toward management by 
+outpatient visits and intervention with anti-glaucoma medications in Korea.
+
+DOI: 10.1097/MD.0000000000012357
+PMCID: PMC6160202
+PMID: 30235694 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.
+
+
+209. Medicine (Baltimore). 2018 Sep;97(38):e12453. doi:
+10.1097/MD.0000000000012453.
+
+Evaluation of willingness to pay per quality-adjusted life year for a cure: A 
+contingent valuation method using a scenario-based survey.
+
+Song HJ(1), Lee EK.
+
+Author information:
+(1)School of Pharmacy, Sungkyunkwan University, Suwon, South Korea College of 
+Pharmacy, University of Florida, Gainesville, FL.
+
+Cost-effectiveness is 1 of the most important factors in medicine reimbursement, 
+and social willingness to pay (WTP) can provide evidence for the threshold of 
+cost-effectiveness analysis. Recently, the concept of curative medicines has 
+been introduced, so it is necessary to study their cost-effectiveness. This 
+study aimed to estimate WTP per quality-adjusted life year (QALY) for a cure in 
+the Korean general population.A total of 507 people from the general population, 
+proportionally assigned by sex, age, and region, participated in face-to-face 
+interviews. The contingent valuation survey was conducted with scenarios 
+involving 4 EuroQol-5 dimensions (EQ-5D) with different health statuses. We 
+assumed a treatment that moved the health status of each scenario to perfect 
+health. WTP for 1 year of treatment was derived using a double-bounded format 
+followed by open-ended answers. In the cure scenario, the post-treatment effect 
+continued for a lifetime; in the non-cure scenario, the effect instantly stopped 
+when treatment was terminated. Additionally, prolonged treatment effects lasting 
+5 and 10 years were added. To identify the factors influencing WTP, a 
+multi-level analysis was performed.WTP per QALY for the non-cure scenario was 
+KRW 15 million/QALY. For the cure scenario, WTP was 2.3 times higher (KRW 
+35 million/QALY) than in the non-cure scenario. The results for the prolonged 
+treatment effect scenarios were KRW 22 million/QALY and KRW 27 million/QALY, 
+which are 1.4 and 1.8 times higher than the non-cure scenario, respectively. In 
+all scenarios, the statistically significant factors affecting WTP per QALY were 
+higher education, higher household income, and healthcare provider.This study 
+revealed that WTP for a cure treatment was higher than that for non-cure; this 
+higher WTP should be considered in future decision-making regarding curative 
+treatments.
+
+DOI: 10.1097/MD.0000000000012453
+PMCID: PMC6160178
+PMID: 30235732 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.
+
+
+210. Int J Environ Res Public Health. 2018 Sep 19;15(9):2054. doi: 
+10.3390/ijerph15092054.
+
+Activity-Friendly Built Environments in a Super-Aged Society, Japan: Current 
+Challenges and toward a Research Agenda.
+
+Koohsari MJ(1)(2)(3), Nakaya T(4), Oka K(5).
+
+Author information:
+(1)Faculty of Sport Sciences, Waseda University, Saitama 359-1192, Japan. 
+Javad.Koohsari@baker.edu.au.
+(2)Behavioural Epidemiology Laboratory, Baker Heart and Diabetes Institute, 
+Melbourne 3004, Australia. Javad.Koohsari@baker.edu.au.
+(3)Mary MacKillop Institute for Health Research, Australian Catholic University, 
+Melbourne 3000, Australia. Javad.Koohsari@baker.edu.au.
+(4)Graduate School of Environmental Studies, Tohoku University, Sendai City 
+980-0845, Japan. tomoki.nakaya.c8@tohoku.ac.jp.
+(5)Faculty of Sport Sciences, Waseda University, Saitama 359-1192, Japan. 
+koka@waseda.jp.
+
+There is a growing recognition of the role of built environment attributes, such 
+as streets, shops, greenways, parks, and public transportation stations, in 
+supporting people's active behaviors. In particular, surrounding built 
+environments may have an important role in supporting healthy active aging. 
+Nevertheless, little is known about how built environments may influence active 
+lifestyles in "super-aged societies". More robust evidence-based research is 
+needed to identify how where people live influences their active behaviors, and 
+how to build beneficial space in the context of super-aged societies. This 
+evidence will also be informative for the broader international context, where 
+having an aging society will be the inevitable future. This commentary sought to 
+move this research agenda forward by identifying key research issues and 
+challenges in examining the role of built environment attributes on active 
+behaviors in Japan, which is experiencing the longest healthy life expectancy, 
+but rapid "super-aging", with the highest proportion of old adults among its 
+population in the world.
+
+DOI: 10.3390/ijerph15092054
+PMCID: PMC6163734
+PMID: 30235862 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+211. JACC Cardiovasc Interv. 2018 Sep 24;11(18):1872-1882. doi: 
+10.1016/j.jcin.2018.06.026.
+
+Temporal Trends and Outcomes of Percutaneous Coronary Interventions 
+in Nonagenarians: A National Perspective.
+
+Goel K(1), Gupta T(2), Gulati R(1), Bell MR(1), Kolte D(3), Khera S(4), Bhatt 
+DL(5), Rihal CS(1), Holmes DR Jr(6).
+
+Author information:
+(1)Mayo Clinic, Rochester, Minnesota.
+(2)Montefiore Medical Center, Bronx, New York.
+(3)Brown University, Providence, Rhode Island.
+(4)Massachusetts General Hospital, Boston, Massachusetts.
+(5)Brigham and Women's Hospital Heart & Vascular Center, Harvard Medical School, 
+Boston, Massachusetts.
+(6)Mayo Clinic, Rochester, Minnesota. Electronic address: holmes.david@mayo.edu.
+
+Comment in
+    JACC Cardiovasc Interv. 2018 Sep 24;11(18):1883-1884.
+
+OBJECTIVES: This study sought to assess temporal trends and outcomes of 
+percutaneous coronary intervention (PCI) in nonagenarians.
+BACKGROUND: With increasing life expectancy, nonagenarians requiring PCI are 
+increasing even though outcomes data are limited.
+METHODS: The National Inpatient Sample was used to identify all hospitalizations 
+for PCI in patients aged ≥90 years from January 1, 2003, to December 31, 2014. 
+The primary outcome was in-hospital mortality.
+RESULTS: Nonagenarians (n = 69,271) constituted 0.9% of all PCI 
+hospitalizations, increasing from 0.6% in 2003 to 2004 to 1.4% in 2013 to 2014 
+(ptrend < 0.001). From 2003-2004 to 2013-2014, the proportion of PCIs performed 
+for ST-segment elevation myocardial infarction (STEMI) (23.1% to 30.9%) and 
+non-ST-segment elevation acute coronary syndromes (49.6% to 52.6%) increased, 
+whereas those for stable ischemic heart disease (SIHD) decreased (27.3% to 
+16.5%), respectively (ptrend < 0.001 for all). Overall in-hospital mortality 
+after PCI for STEMI, non-ST-segment elevation acute coronary syndromes, and SIHD 
+were 16.4%, 4.2%, and 1.8%, respectively. After multivariable risk adjustment 
+for demographics, comorbidities, and hospital-level characteristics, in-hospital 
+mortality remained unchanged in STEMI (odds ratio: 1.04; 95% confidence 
+interval: 0.98 to 1.11; ptrend = 0.20) and non-ST-segment elevation acute 
+coronary syndromes (odds ratio: 0.99; 95% confidence interval: 0.91 to 1.08; 
+ptrend = 0.82), but increased in SIHD (odds ratio: 1.21; 95% confidence 
+interval: 1.01 to 1.44; ptrend = 0.04) from 2003 to 2004 to 2013 to 2014. The 
+rates of bleeding and vascular complications decreased or remained stable in all 
+3 subgroups, whereas risk-adjusted incidence of stroke increased in patients 
+with STEMI or SIHD.
+CONCLUSIONS: The rate of in-hospital mortality, major bleeding, vascular 
+complications, and stroke after PCI in nonagenarians changed significantly from 
+2003 to 2014. This study provides a benchmark for discussion of PCI-related 
+risks among physicians, patients, and families.
+
+Copyright © 2018 American College of Cardiology Foundation. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jcin.2018.06.026
+PMID: 30236360 [Indexed for MEDLINE]
+
+
+212. BMJ. 2018 Sep 20;362:k3597. doi: 10.1136/bmj.k3597.
+
+Lowering hospital walls to achieve health equity.
+
+Matheson A(1), Bourke C(2), Verhoeven A(2), Khan MI(3), Nkunda D(4), Dahar Z(5), 
+Ellison-Loschmann L(6).
+
+Author information:
+(1)Te Pūnaha Matatini, School of Health Sciences, Massey University, Wellington, 
+New Zealand a.g.matheson@massey.ac.nz.
+(2)Australian Healthcare and Hospitals Association, Deakin West, ACT, Australia.
+(3)Maternal Newborn and Child Health, Global Health Directorate, Indus Health 
+Network, Karachi, Pakistan.
+(4)Ministry of Health, Kigali, Rwanda.
+(5)People's Primary Healthcare Initiative, Karachi, Pakistan.
+(6)Centre for Public Health Research, Massey University, Wellington, New 
+Zealand.
+
+Hospitals have a pivotal role in reducing health inequities for indigenous 
+people and other marginalised groups, argue Anna Matheson and colleagues
+
+DOI: 10.1136/bmj.k3597
+PMCID: PMC6146487
+PMID: 30237307 [Indexed for MEDLINE]
+
+Conflict of interest statement: Contributors and sources: This article resulted 
+from a Salzburg Global Seminar on building healthy communities: the role of 
+hospitals. AM, AV, IK, and DN were participants at the seminar, while CB, LEL, 
+and ZD are colleagues. AM wrote the first and subsequent drafts of the article 
+and coordinated the input of the coauthors. CB, AV, LEL, and IK contributed to 
+the arguments made in the article and edited and commented on drafts. DN, IK, 
+ZD, LEL, and CB contributed the country case examples. Thanks also to reviewers 
+of earlier drafts for their suggestions for improvement. Competing interests: We 
+have read and understood BMJ policy on declaration of interests and have no 
+relevant interests to declare.
+
+
+213. Unfallchirurg. 2018 Oct;121(10):774-780. doi: 10.1007/s00113-018-0558-8.
+
+[Future perspective of the TraumaRegister DGU® : Further development, additional 
+modules and potential limits].
+
+[Article in German]
+
+Flohé S(1), Matthes G(2), Maegele M(3), Huber-Wagner S(4), Nienaber U(5), 
+Lefering R(6), Paffrath T(7).
+
+Author information:
+(1)Klinik für Unfallchirurgie, Orthopädie und Handchirurgie, Städt. Klinikum 
+Solingen gGmbH, Gotenstr. 1, 42653, Solingen, Deutschland. 
+Flohe.Sascha@klinikumsolingen.de.
+(2)Klinik für Unfall- und Wiederherstellungschirurgie, Klinikum Ernst von 
+Bergmann gGmbH, Potsdam, Deutschland.
+(3)Orthopädie, Unfallchirurgie und Sport, Kliniken der Stadt Köln, Köln, 
+Deutschland.
+(4)Klinik und Poliklinik für Unfallchirurgie, Klinikum rechts der Isar, München, 
+Deutschland.
+(5)AUC Akademie der Unfallchirurgie GmbH, München, Deutschland.
+(6)Institut für Forschung in der operativen Medizin (IFOM), Universität 
+Witten/Herdecke, Köln, Deutschland.
+(7)Krankenhaus Köln-Merheim, Klinikum der Universität Witten/Herdecke, Witten, 
+Deutschland.
+
+Since its founding in 1993 the TraumaRegister DGU® has become one of the largest 
+registries especially in terms of data diversity. Since the introduction of the 
+TraumaNetzwerk DGU®, the TraumaRegister DGU® has enabled a quasi-nationwide 
+picture of the quality of care of severely injured patients in Germany. The 
+register is subject to constant development, under the guidance of the working 
+groups of the German Society for Trauma Surgery (DGU). The first modular 
+expansion of special injury entities (craniocerebral trauma and complex hand 
+injuries) is currently taking place. The future developments will involve the 
+extension of the register to certain injury patterns. The existing registry will 
+also be supplemented with other recorded qualities (from the supplementary serum 
+database up to the quality of life). This makes the TraumaRegister DGU® a tool 
+for quality assurance and science which is well prepared for the future.
+
+DOI: 10.1007/s00113-018-0558-8
+PMID: 30238270 [Indexed for MEDLINE]
+
+
+214. Semin Dial. 2018 Nov;31(6):607-611. doi: 10.1111/sdi.12744. Epub 2018 Sep
+21.
+
+Conventional dialysis in the elderly: How lenient should our guidelines be?
+
+Corbett RW(1), Brown EA(1).
+
+Author information:
+(1)Imperial College Renal and Transplant Centre, Hammersmith Hospital, Imperial 
+College Healthcare NHS, London, UK.
+
+There has been a dramatic, worldwide expansion in life expectancy across the 
+last century. This has resulted in a progressively more elderly and comorbid 
+population. It is increasingly recognized that healthcare in this group needs to 
+move to the concept of "adding life to years". Recognition and assessment of 
+frailty is vital in changing our approach in elderly patients. Current 
+guidelines in dialysis have a limited evidence base across all age groups, but 
+particularly the elderly and serve them poorly. Moreover, the burden of 
+guidelines for each comorbidity of the multimorbid patient is increasing and can 
+be conflicting. Finally, there is increasing evidence relating to the harm 
+associated with the delivery of conventional dialysis. In dialysis patients, 
+frailty is the overwhelming determinant in relation to patient-specific outcomes 
+rather than modality of treatment; therefore, the focus should be on promoting 
+quality of life. We need to focus on new priorities of care when we design 
+guidelines "for people not diseases". Patient-centered goal-directed therapy, 
+arising from shared decision making between physician and patient, should allow 
+adaption of the dialysis regime to maximize opportunities while minimizing 
+treatment-related morbidity and concentrating on alleviating symptoms.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1111/sdi.12744
+PMID: 30239040 [Indexed for MEDLINE]
+
+
+215. J Aging Health. 2018 Dec;30(10):1499-1515. doi: 10.1177/0898264318796345.
+Epub  2018 Sep 21.
+
+Long-Term Care for Older Adults in ASEAN Plus Three: The Roles of Family, 
+Community, and the State in Addressing Unmet Eldercare Needs.
+
+Yeung WJ(1), Thang LL(1).
+
+Author information:
+(1)1 National University of Singapore, Singapore.
+
+OBJECTIVE: To introduce this Special Issue that focuses on understanding the 
+issues surrounding the long-term care (LTC) in selected societies in Southeast 
+and East Asian countries.
+METHOD: We first provide demographic and socioeconomic context for these 
+countries and then summarize the seven articles in this issue.
+RESULTS: The articles highlight the rapidly rising demand for LTC in this region 
+in the next few decades given the declining fertility, lengthening life 
+expectancy, and increasing migration. They also discuss challenges and 
+strategies in meeting these demands. Most countries are ill prepared to cope 
+with the demand for LTC with older adults heavily rely upon female family 
+members for care. Elderly women in low-income households have the greatest unmet 
+need.
+DISCUSSION: Home-based and community-based services are set to become an 
+integral part of the LTC system. It is important to incorporate older adults' 
+cultural norms and wishes in their care plan and provision.
+
+DOI: 10.1177/0898264318796345
+PMID: 30239253 [Indexed for MEDLINE]
+
+
+216. PLoS One. 2018 Sep 21;13(9):e0204266. doi: 10.1371/journal.pone.0204266. 
+eCollection 2018.
+
+Improved production of polysaccharides in Ganoderma lingzhi mycelia by plasma 
+mutagenesis and rapid screening of mutated strains through infrared 
+spectroscopy.
+
+Ma Y(1)(2)(3), Zhang Q(1)(2), Zhang Q(1)(2), He H(3), Chen Z(1)(2), Zhao Y(3), 
+Wei D(3), Kong M(4), Huang Q(1)(2).
+
+Author information:
+(1)Key Laboratory of High Magnetic Field and Ion Beam Physical Biology, Key 
+Laboratory of Environmental Toxicology and Pollution Control Technology of Anhui 
+Province, Institute of Technical Biology and Agriculture Engineering, Hefei 
+Institutes of Physical Science, Chinese Academy of Sciences, Hefei, China.
+(2)University of Science & Technology of China, Hefei, China.
+(3)College of Life and Health Sciences, Anhui Science and Technology University, 
+Fengyang, China.
+(4)Institute of Solid State Physics, Hefei Institutes of Physical Science, 
+Chinese Academy of Sciences, Hefei, China.
+
+As a traditional Chinese medicine, Ganoderma lingzhi has attracted increasing 
+attention for both scientific research and medical application. In this work, in 
+order to improve the production of polysaccharides from an original wide-type 
+(WT) strain (named "RWY-0") of Ganoderma lingzhi, we applied 
+atmospheric-pressure dielectric barrier discharge (DBD) nonthermal plasma to the 
+protoplasts of RWY-0 for mutagenesis treatment. Through a randomly amplified 
+polymorphic DNA (RAPD) assay, at least 10 mutagenic strains were confirmed. They 
+also showed different mycelium characteristics in terms of shape, color, size 
+and biomass in liquid fermentation. The mutant strains were examined by infrared 
+spectroscopy, and based on the established near-infrared (NIR) quantification 
+model, the polysaccharide contents in these mutants were quantitatively 
+evaluated. As a result, we found that the Ganoderma polysaccharide contents in 
+some of the mutant strains were significantly changed compared with that of the 
+original WT strain. The polysaccharide content of RWY-1 G. lingzhi was 
+considerably higher than that of the WT strain, with an increase of 25.6%. Thus, 
+this preliminary work demonstrates the extension of the plasma mutagenesis 
+application in acquiring polysaccharide-enhanced Ganoderma lingzhi mutants and 
+shows the usefulness of NIR spectroscopy in the rapid screening of mutagenic 
+strains for other important ingredients.
+
+DOI: 10.1371/journal.pone.0204266
+PMCID: PMC6150529
+PMID: 30240407 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+217. PLoS One. 2018 Sep 21;13(9):e0204436. doi: 10.1371/journal.pone.0204436. 
+eCollection 2018.
+
+Survival and years of life lost in various aetiologies of dementia, mild 
+cognitive impairment (MCI) and subjective cognitive decline (SCD) in Norway.
+
+Strand BH(1)(2)(3)(4), Knapskog AB(2), Persson K(1)(2), Edwin TH(1)(2), Amland 
+R(1)(2), Mjørud M(1), Bjertness E(4), Engedal K(1)(2), Selbæk G(1)(2)(5).
+
+Author information:
+(1)Norwegian National Advisory Unit on Aging and Health, Vestfold Hospital 
+Trust, Tønsberg, Norway.
+(2)Department of Geriatric Medicine, Oslo University Hospital, Oslo, Norway.
+(3)Norwegian Institute of Public Health, Oslo, Norway.
+(4)Faculty of Medicine, University of Oslo, Oslo, Norway.
+(5)Centre for Old Age Psychiatric Research, Innlandet Hostpial Trust, Ottestad, 
+Norway.
+
+INTRODUCTION: Alzheimer's disease patients are reported to have higher survival 
+rate compared to patients with vascular dementia or dementia with Lewy bodies. 
+There is a paucity of studies investigating survival including persons with 
+cognitive decline and dementia of various aetiologies.
+OBJECTIVES: We aimed to compare survival for patients with subjective cognitive 
+decline, mild cognitive impairment, Alzheimer's disease, vascular dementia, 
+mixed Alzheimer's/vascular dementia, dementia with Lewy bodies/Parkinson's 
+disease, and other dementias compared to the general Norwegian population, 
+taking into account the role of gender, cognitive function, function in everyday 
+activities, comorbidity and education.
+METHODS: Patients (N = 4682), ≥65 years, in the The Norwegian register of 
+persons assessed for cognitive symptoms (NorCog) during 2009-2017 were followed 
+for mortality in the National Registry until January 2018. Flexible parametric 
+survival models were applied to estimate relative survival, life expectancy and 
+years of life lost for diagnostic groups compared with the general population.
+RESULTS: Patients with vascular dementia or dementia with Lewy 
+bodies/Parkinson's had the shortest survival, followed by mixed dementia, 
+Alzheimer's disease, unspecified dementia, mild cognitive impairment and 
+subjective cognitive decline. At age 70 years, men with vascular dementia or 
+dementia with Lewy bodies/Parkinson's had life expectancy of 4.7 years, which 
+corresponded to 10.3 years of life lost compared to the general population. 
+Years of life lost for other diagnoses were 10.0 years for mixed dementia, 9.2 
+years for Alzheimer's disease, 9.3 years for other dementias, 5.2 years for mild 
+cognitive impairment and 2.2 years for subjective cognitive decline. 
+Corresponding years of life lost in women were: 12.7 years, 10.5 years, 9.8 
+years, 10.6 years, 7.8 years, and 2.6 years. Poor relative survival among 
+dementia patients was associated with male gender, comorbidity, low cognitive 
+function, and low function in activities of daily living.
+CONCLUSIONS: Compared with the general population, patients with subjective 
+cognitive decline had no significant loss in life expectancy, while patients 
+with mild cognitive impairment and all dementia subtypes had large losses, 
+especially those with a diagnosis of vascular dementia or dementia with Lewy 
+bodies/Parkinson's.
+
+DOI: 10.1371/journal.pone.0204436
+PMCID: PMC6150521
+PMID: 30240425 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest. 
+Dr. Edwin reports personal fees and other from Roche BN29553, personal fees and 
+other from Boehringer-Ingelheim 1346.0023, outside the submitted work; Dr. 
+Persson reports other from Roche, outside the submitted work; Dr. Knapskog 
+reports other from Roche, from Boehringer-Ingelheim, outside the submitted work. 
+This does not alter our adherence to PLOS ONE policies on sharing data and 
+materials.
+
+
+218. Prev Chronic Dis. 2018 Sep 20;15:E114. doi: 10.5888/pcd15.180035.
+
+Examining Variation in Life Expectancy Estimates by ZIP Code Tabulation Area 
+(ZCTA) in Hawaii's Four Main Counties, 2008-2012.
+
+Holmes JR(1), Tootoo JL(2), Chosy EJ(3), Bowie AY(4), Starr RR(4).
+
+Author information:
+(1)Surveillance, Evaluation, and Epidemiology Office, Chronic Disease Prevention 
+and Health Promotion Division, Hawai`i State Department of Health, 1250 
+Punchbowl St, No. 214, Honolulu, HI 96813. Email: jrholmes@hawaii.edu.
+(2)Children's Environmental Health Initiative, Rice University, Houston, Texas.
+(3)Hawai`i Health Data Warehouse, Research Corporation of the University of 
+Hawaii, University of Hawai`i, Honolulu, Hawai`i.
+(4)Surveillance, Evaluation, and Epidemiology Office, Chronic Disease Prevention 
+and Health Promotion Division, Hawai`i State Department of Health, Honolulu, 
+Hawai`i.
+
+DOI: 10.5888/pcd15.180035
+PMCID: PMC6157261
+PMID: 30240571 [Indexed for MEDLINE]
+
+
+219. Prog Retin Eye Res. 2019 Jan;68:144-176. doi:
+10.1016/j.preteyeres.2018.09.003.  Epub 2018 Sep 19.
+
+New concepts in the diagnosis and management of choroidal metastases.
+
+Mathis T(1), Jardel P(2), Loria O(3), Delaunay B(3), Nguyen AM(3), Lanza F(4), 
+Mosci C(4), Caujolle JP(5), Kodjikian L(1), Thariat J(6).
+
+Author information:
+(1)Department of Ophthalmology, Croix-Rousse University Hospital, Hospices 
+Civils de Lyon, 69317, Lyon, France; UMR-CNRS 5510 Matéis, 69100, Villeurbane, 
+France.
+(2)Department of Radiation Oncology, Chicoutimi Hospital, Saguenay, QC, Canada.
+(3)Department of Ophthalmology, Croix-Rousse University Hospital, Hospices 
+Civils de Lyon, 69317, Lyon, France.
+(4)Department of Ophthalmology, Ocular Oncology Center, E.O. Ospedali Galliera, 
+Genoa, Italy.
+(5)Department of Ophthalmology, Pasteur II Hospital, 06000, Nice, France.
+(6)Department of Radiation Therapy, Centre François Baclesse - ARCHADE, Unicaen 
+- Normandie University, 14000, Caen, France. Electronic address: 
+jthariat@gmail.com.
+
+The most frequent site of ocular metastasis is the choroid. The occurrence of 
+choroidal metastases has increased steadily due to the longer survival of 
+metastatic patients and the improvement of diagnostic tools. Fundoscopy, 
+ultrasonography, and fluorescein angiography are now complemented by indocyanine 
+green angiography and optical coherence tomography. Choroidal tumor biopsy may 
+also confirm the metastatic nature of the tumor and help to determine the site 
+of the primary malignancy. There is currently no consensus on the treatment 
+strategy. Most patients have a limited life expectancy and for these complex 
+treatments are generally not recommended. However, recent advances in systemic 
+therapy have significantly improved survival of certain patients who may benefit 
+from an aggressive ocular approach that could preserve vision. Although external 
+beam radiation therapy is the most widely used treatment, more advanced forms of 
+radiotherapy that are associated with fewer side effects can be proposed in 
+select cases. In patients with a shorter life expectancy, systemic therapies 
+such as those targeting oncogenic drivers, or immunotherapy can induce a 
+regression of the choroidal metastases, and may be sufficient to temporarily 
+decrease visual symptoms. However, they often acquire resistance to systemic 
+treatment and ocular relapse usually requires radiotherapy for durable control. 
+Less invasive office-based treatments, such as photodynamic therapy and 
+intravitreal injection of anti-VEGF, may also help to preserve vision while 
+reducing time spent in medical settings for patients in palliative care. The aim 
+of this review is to summarize the current knowledge on choroidal metastases, 
+with emphasis on the most recent findings in epidemiology, pathogenesis, 
+diagnosis and treatment.
+
+Copyright © 2018 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.preteyeres.2018.09.003
+PMID: 30240895 [Indexed for MEDLINE]
+
+
+220. J Glob Oncol. 2018 Sep;4:1-9. doi: 10.1200/JGO.17.00160.
+
+Illness Understanding and End-of-Life Care Communication and Preferences for 
+Patients With Advanced Cancer in South Africa.
+
+Shen MJ(1), Prigerson HG(1), Ratshikana-Moloko M(1), Mmoledi K(1), Ruff P(1), 
+Jacobson JS(1), Neugut AI(1), Amanfu J(1), Cubasch H(1), Wong M(1), Joffe M(1), 
+Blanchard C(1).
+
+Author information:
+(1)Megan Johnson Shen and Holly G. Prigerson, Weill Cornell Medical College; 
+Judith S. Jacobson and Alfred I. Neugut, Columbia University, New York; Jamila 
+Amanfu, Cornell University, Ithaca, NY; Mpho Ratshikana-Moloko, Keletso Mmoledi, 
+Paul Ruff, Herbert Cubasch, Michelle Wong, Maureen Joffe, and Charmaine 
+Blanchard, University of Witwatersrand; and Michelle Wong, Chris Hani 
+Baragwanath Academic Hospital; and Mpho Ratshikana-Moloko, Keletso Mmoledi, Paul 
+Ruff, Herbert Cubasch, Maureen Joffe, and Charmaine Blanchard, Wits Health 
+Consortium, Johannesburg, South Africa.
+
+PURPOSE: The understanding of patients with cancer of their condition and their 
+wishes regarding care as they approach end of life (EoL) have been studied more 
+in high-income countries than in low- and middle-income countries (LMICs).
+PATIENTS AND METHODS: Data were analyzed from a cohort study (N = 221) of 
+patients with advanced cancer who were recruited from a palliative care center 
+in Soweto, South Africa (LMIC), between May 2016 and June 2017. Patients were 
+asked about their understanding of their illness, estimated life expectancy, EoL 
+care communication, and EoL care preferences.
+RESULTS: Only 13 patients (5.9%) acknowledged that they were terminally ill; 
+nine patients (4.1%) estimated accurately that they had months, not years, left 
+to live. A total of 216 patients (97.7%) reported that they had not had an EoL 
+care discussion with their physician, and 170 patients (76.9%) did not want to 
+know their prognosis even if the doctor knew it. Most patients preferred comfort 
+care (72.9%; n = 161) to life-extending care (14.0%; n = 31), and did not want 
+to be kept alive using extreme measures (80.5%; n = 178) or have their doctors 
+do everything possible to extend their lives (78.3%; n = 173). Finally, 127 
+patients (57.5%) preferred to die at home, and 51 (23.1%) preferred to die in 
+the hospital. Most patients (81.0%; n = 179) had funeral plans.
+CONCLUSION: South African patients demonstrated less awareness of the fact that 
+they were terminally ill, were less likely to have discussed their prognosis 
+with their doctor, and more strongly preferred comfort care to life-extending 
+EoL care than US and other LMIC patients in prior research. These differences 
+highlight the need for culturally appropriate, patient-centered EoL care for 
+South African patients with advanced cancer as well as to determine individual 
+preferences and needs in all EoL settings.
+
+DOI: 10.1200/JGO.17.00160
+PMCID: PMC6223439
+PMID: 30241251 [Indexed for MEDLINE]
+
+
+221. J Glob Oncol. 2018 Sep;4:1-9. doi: 10.1200/JGO.17.00243.
+
+Evidence From Ghana Indicates That Childhood Cancer Treatment in Sub-Saharan 
+Africa Is Very Cost Effective: A Report From the Childhood Cancer 2030 Network.
+
+Renner L(1), Shah S(1), Bhakta N(1), Denburg A(1), Horton S(1), Gupta S(1).
+
+Author information:
+(1)Lorna Renner, University of Ghana School of Medicine and Dentistry, Accra, 
+Ghana; Shivani Shah, Avram Denburg, Sue Horton, and Sumit Gupta, Hospital for 
+Sick Children, Toronto; Sue Horton, University of Waterloo, Waterloo, Ontario, 
+Canada; and Nickhill Bhakta, St Jude Children's Research Hospital, Memphis, TN.
+
+PURPOSE: No published study to date has examined total cost and 
+cost-effectiveness of maintaining a pediatric oncology treatment center in an 
+African setting, thus limiting childhood cancer advocacy and policy efforts.
+METHODS: Within the Korle Bu Teaching Hospital in Accra, Ghana, costing data 
+were gathered for all inputs related to operating a pediatric cancer unit. Cost 
+and volume data for relevant clinical services (eg, laboratory, pathology, 
+medications) were obtained retrospectively or prospectively. Salaries were 
+determined and multiplied by proportion of time dedicated toward pediatric 
+patients with cancer. Costs associated with inpatient bed use, outpatient clinic 
+use, administrative fees, and overhead were estimated. Costs were summed for a 
+total annual operating cost. Cost-effectiveness was calculated based on annual 
+patients with newly diagnosed disease, survival rates, and life expectancy.
+RESULTS: The Korle Bu Teaching Hospital pediatric cancer unit treats on average 
+170 new diagnoses annually. Total operating cost was $1.7 million/y. Personnel 
+salaries and operating room costs were the most expensive inputs, contributing 
+45% and 21% of total costs. Together, medications, imaging, radiation, and 
+pathology services accounted for 7%. The cost per disability-adjusted life-year 
+averted was $1,034, less than the Ghanaian per capita income, and thus 
+considered very cost effective as per WHO-CHOICE methodology.
+CONCLUSION: To our knowledge, this study is the first to examine 
+institution-level costs and cost-effectiveness of a childhood cancer program in 
+an African setting, demonstrating that operating such a program in this setting 
+is very cost effective. These results will inform national childhood cancer 
+strategies in Africa and other low- and middle-income country settings.
+
+DOI: 10.1200/JGO.17.00243
+PMCID: PMC6223505
+PMID: 30241273 [Indexed for MEDLINE]
+

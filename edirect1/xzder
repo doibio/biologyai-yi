@@ -1,0 +1,1000 @@
+PMID: 33262080 [Indexed for MEDLINE]
+
+
+956. Clin Genitourin Cancer. 2021 Apr;19(2):e84-e91. doi:
+10.1016/j.clgc.2020.10.008.  Epub 2020 Nov 10.
+
+Artificial Neural Networks as a Way to Predict Future Kidney Cancer Incidence in 
+the United States.
+
+Santoni M(1), Piva F(2), Porta C(3), Bracarda S(4), Heng DY(5), Matrana MR(6), 
+Grande E(7), Mollica V(8), Aurilio G(9), Rizzo M(10), Giulietti M(2), Montironi 
+R(11), Massari F(12).
+
+Author information:
+(1)Oncology Unit, Macerata Hospital, Macerata, Italy.
+(2)Department of Specialistic Clinical and Odontostomatological Sciences, 
+Polytechnic University of Marche, Ancona, Italy.
+(3)Department of Biomedical Sciences and Human Oncology, University of Bari "A. 
+Moro," Bari, Italy.
+(4)Struttura Complessa di Oncologia Medica e Traslazionale, Azienda Ospedaliera 
+Santa Maria di Terni, Terni, Italy.
+(5)Division of Medical Oncology, Department of Oncology, Tom Baker Cancer 
+Centre, University of Calgary, Calgary, Canada.
+(6)Department of Internal Medicine, Hematology/Oncology, Ochsner Medical Center, 
+New Orleans, LA.
+(7)Medical Oncology Department, MD Anderson Cancer Center, Madrid, Spain.
+(8)Oncologia Medica, Azienda Ospedaliero-Universitaria di Bologna, Bologna, 
+Italy.
+(9)Medical Oncology Division of Urogenital and Head and Neck Tumours, IEO, 
+European Institute of Oncology IRCCS, Milan, Italy.
+(10)Department of Internal Medicine and Therapeutics, University of Pavia and 
+Division of Translational Oncology, IRCCS Istituti Clinici Scientifici Maugeri, 
+Pavia, Italy.
+(11)Section of Pathological Anatomy, Polytechnic University of the Marche 
+Region, School of Medicine, United Hospitals, Ancona, Italy.
+(12)Oncologia Medica, Azienda Ospedaliero-Universitaria di Bologna, Bologna, 
+Italy. Electronic address: fmassari79@gmail.com.
+
+INTRODUCTION: The incidence of kidney cancer is increasing; it could be 
+counteracted with new ways to predict and detect it. We aimed to implement an 
+artificial neural network in order to predict new cases of renal-cell carcinoma 
+(RCC) in the population using population rate, obesity, smoking incidence, 
+uncontrolled hypertension, and life expectancy data in the United States.
+PATIENTS AND METHODS: Statistics were collected on US population numbers, life 
+expectancy, obesity, smoking, and hypertension. We used MATLAB R2018 (MathWorks) 
+software to implement an artificial neural network. Data were repeatedly and 
+randomly divided into training (70%) and validation (30%) subsets.
+RESULTS: The number of new RCC cases will grow from 44,400 (2020) to 55,400 
+(2050), an increase of +24.7%. Our data show that preventing hypertension would 
+have the greatest impact on reduction of the incidence, estimated at -775 
+and -575 cases per year in 2020 and in 2030, respectively. The prevention of 
+obesity and smoking would have a more limited impact, estimated at -64 and -180 
+cases per year in 2020 and in 2030, respectively, for obesity, and -173 and -21 
+cases per year in 2020 and in 2030, respectively, for smoking.
+CONCLUSIONS: Our predictions underline the need for accurate studies on 
+RCC-related risk factors to reduce the incidence.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.clgc.2020.10.008
+PMID: 33262083 [Indexed for MEDLINE]
+
+
+957. Clin Cancer Res. 2021 Mar 1;27(5):1452-1462. doi:
+10.1158/1078-0432.CCR-20-3392.  Epub 2020 Dec 1.
+
+Preclinical Characterization of HPN536, a Trispecific, T-Cell-Activating Protein 
+Construct for the Treatment of Mesothelin-Expressing Solid Tumors.
+
+Molloy ME(1), Austin RJ(2), Lemon BD(2), Aaron WH(2), Ganti V(2), Jones A(2), 
+Jones SD(2), Strobel KL(2), Patnaik P(2), Sexton K(2), Tatalick L(2), Yu TZ(2), 
+Baeuerle PA(2)(3)(4), Law CL(2), Wesche H(2).
+
+Author information:
+(1)Harpoon Therapeutics, South San Francisco, California. mmolloy@harpoontx.com.
+(2)Harpoon Therapeutics, South San Francisco, California.
+(3)MPM Capital, Cambridge, Massachusetts.
+(4)Institute for Immunology, Ludwig-Maximilians University Munich, Planegg- 
+Martinsried, Munich, Germany.
+
+PURPOSE: Mesothelin (MSLN) is a glycophosphatidylinositol-linked tumor antigen 
+overexpressed in a variety of malignancies, including ovarian, pancreatic, lung, 
+and triple-negative breast cancer. Early signs of clinical efficacy with 
+MSLN-targeting agents have validated MSLN as a promising target for therapeutic 
+intervention, but therapies with improved efficacy are still needed to address 
+the significant unmet medical need posed by MSLN-expressing cancers.
+EXPERIMENTAL DESIGN: We designed HPN536, a 53-kDa, trispecific, 
+T-cell-activating protein-based construct, which binds to MSLN-expressing tumor 
+cells, CD3ε on T cells, and to serum albumin. Experiments were conducted to 
+assess the potency, activity, and half-life of HPN536 in in vitro assays, rodent 
+models, and in nonhuman primates (NHP).
+RESULTS: HPN536 binds to MSLN-expressing tumor cells and to CD3ε on T cells, 
+leading to T-cell activation and potent redirected target cell lysis. A third 
+domain of HPN536 binds to serum albumin for extension of plasma half-life. In 
+cynomolgus monkeys, HPN536 at doses ranging from 0.1 to 10 mg/kg demonstrated 
+MSLN-dependent pharmacologic activity, was well tolerated, and showed 
+pharmacokinetics in support of weekly dosing in humans.
+CONCLUSIONS: HPN536 is potent, is well tolerated, and exhibits extended 
+half-life in NHPs. It is currently in phase I clinical testing in patients with 
+MSLN-expressing malignancies (NCT03872206).
+
+©2020 American Association for Cancer Research.
+
+DOI: 10.1158/1078-0432.CCR-20-3392
+PMID: 33262134 [Indexed for MEDLINE]
+
+
+958. Sci Rep. 2020 Dec 1;10(1):20959. doi: 10.1038/s41598-020-77977-0.
+
+Possibility to extend the shelf life of NFC tomato juice using cold atmospheric 
+pressure plasma.
+
+Starek A(1), Sagan A(1), Andrejko D(1), Chudzik B(2), Kobus Z(3), Kwiatkowski 
+M(4), Terebun P(4), Pawłat J(5).
+
+Author information:
+(1)Department of Biological Bases of Food and Feed Technologies, University of 
+Life Sciences in Lublin, Głęboka 28 st, 20-612, Lublin, Poland.
+(2)Department of Biological and Environmental Education with Zoological Museum, 
+Maria Curie-Skłodowska University, Akademicka 19 st, 20-033, Lublin, Poland.
+(3)Department of Technology Fundamentals, University of Life Sciences in Lublin, 
+Głęboka 28 st, 20-612, Lublin, Poland.
+(4)Institiute of Electrical Engineering, Electrotechnologies, Lublin University 
+of Technology, Nadbystrzycka 38a st, 20-618, Lublin, Poland.
+(5)Institiute of Electrical Engineering, Electrotechnologies, Lublin University 
+of Technology, Nadbystrzycka 38a st, 20-618, Lublin, Poland. askmik@hotmail.com.
+
+Cold Atmospheric pressure Plasma (CAP) is a non-thermal method used in food 
+processing. CAP generated with the use of nitrogen in a Glide-arc device for 300 
+to 600 s exhibited high potential for microbial decontamination and did not 
+induce substantial changes in the physicochemical properties of NFC tomato 
+juice. Samples exposed to cold atmospheric plasma had mostly an intact 
+structure, as revealed by digital microscopy. The investigations indicate that 
+CAP can be applied for biological and chemical waste-free decontamination of 
+food and extension of its shelf life.
+
+DOI: 10.1038/s41598-020-77977-0
+PMCID: PMC7708494
+PMID: 33262535
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+959. Oncol Lett. 2021 Jan;21(1):43. doi: 10.3892/ol.2020.12304. Epub 2020 Nov 17.
+
+Management of aggressive fibromatosis.
+
+Zhang Z(1), Shi J(1), Yang T(1), Liu T(1), Zhang K(1).
+
+Author information:
+(1)Department of Colorectal and Anal Surgery, The Second Hospital of Jilin 
+University, Changchun, Jilin 130012, P.R. China.
+
+Aggressive fibromatosis or desmoid tumor is a rare disease resulting from 
+fibroblasts which do not metastasize. However, desmoid tumors belong to 
+low-grade malignant tumors since they have high potential to infiltrate 
+surrounding tissues, causing high local recurrence rates and may affect 
+surrounding organs, threatening life quality and expectancy. Although surgery, 
+watch and wait, radiotherapy, chemotherapy, high intensity focused ultrasound, 
+ablation techniques or several agents have all been frequently investigated for 
+the treatment of this type of disease, none are deemed as standard therapy for 
+high recurrence rates that have been supported by any data. The present review 
+retrieved literature on treatment options for desmoids to summarize the latest 
+treatment modalities and refine their efficacy, as well as their side effects, 
+in order to provide a more comprehensive treatment reference for clinicians.
+
+Copyright: © Zhang et al.
+
+DOI: 10.3892/ol.2020.12304
+PMCID: PMC7693298
+PMID: 33262835
+
+
+960. Cureus. 2020 Oct 26;12(10):e11173. doi: 10.7759/cureus.11173.
+
+Cardiovascular Involvement in Psoriasis, Diagnosing Subclinical Atherosclerosis, 
+Effects of Biological and Non-Biological Therapy: A Literature Review.
+
+Valaiyaduppu Subas S(1), Mishra V(2)(1), Busa V(1), Antony I(3)(1), Marudhai 
+S(1), Patel M(1), Cancarevic I(1).
+
+Author information:
+(1)Internal Medicine, California Institute of Behavioral Neurosciences & 
+Psychology, Fairfield, USA.
+(2)Internal Medicine, Grant Medical College, Mumbai, IND.
+(3)Internal Medicine, Royal College of Surgeons in Ireland (RCSI) School of 
+Medicine, Dublin, IRL.
+
+Psoriasis is a long-lasting, noncontagious chronic inflammatory disease of skin 
+and joints. Previous epidemiological studies have demonstrated that psoriatic 
+patients have a shorter life expectancy, mainly due to cardiovascular (CV) 
+events with a higher prevalence of cardiovascular risk factors like 
+dyslipidemia, diabetes mellitus, insulin resistance, obesity, and hypertension. 
+Besides these risk factors, psoriasis likely plays an independent role in 
+increasing CV events probably due to the chronic inflammatory state. This 
+literature review aims to summarize the mechanism of atherosclerosis formation, 
+CV risk factors, tools to diagnose subclinical atherosclerosis, and the effects 
+of various therapies in psoriatic patients to prevent cardiovascular-related 
+deaths in psoriasis. This review was performed by searching the relevant 
+articles in PubMed and Google Scholar databases without including any exclusion 
+criteria and time limitations. Our review documented that psoriatic patients are 
+at increased risk of CV events due to chronic inflammatory profile and the 
+associated CV risk factors. Also, anti-inflammatory therapies may prevent early 
+subclinical atherosclerotic vascular changes reducing cardiovascular events. 
+However, the available studies lack to establish the exact targets for CV risk 
+factors, to assess the clinical importance of screening for subclinical vascular 
+changes and the impact of anti-inflammatory therapies on CV risk profile in 
+psoriatic patients. This heightened awareness about the CV involvement in 
+psoriasis should encourage conducting large, well planned comprehensive studies 
+to address these issues that can reduce cardiovascular morbidity and mortality.
+
+Copyright © 2020, Valaiyaduppu Subas et al.
+
+DOI: 10.7759/cureus.11173
+PMCID: PMC7689809
+PMID: 33262910
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.961. ERJ Open Res. 2020 Nov 2;6(4):00284-2020. doi: 10.1183/23120541.00284-2020. 
+eCollection 2020 Oct.
+
+Design and rationale of two phase 3 randomised controlled trials (COUGH-1 and 
+COUGH-2) of gefapixant, a P2X3 receptor antagonist, in refractory or unexplained 
+chronic cough.
+
+Muccino DR(1), Morice AH(2), Birring SS(3), Dicpinigaitis PV(4), Pavord ID(5), 
+Assaid C(1), Kleijn HJ(6), Hussain A(1), La Rosa C(1), McGarvey L(7), Smith 
+JA(8).
+
+Author information:
+(1)Merck & Co., Inc., Kenilworth, NJ, USA.
+(2)Hull York Medical School, Cottingham, UK.
+(3)Centre for Human and Applied Physiological Sciences, School of Basic and 
+Medical Biosciences, King's College London, London, UK.
+(4)Albert Einstein College of Medicine and Montefiore Medical Center, Bronx, NY, 
+USA.
+(5)Oxford NIHR Respiratory BRC, Nuffield Dept of Medicine, University of Oxford, 
+Oxford, UK.
+(6)Certara Strategic Consulting, Oss, The Netherlands.
+(7)Wellcome-Wolfson Institute of Experimental Medicine, Queen's University 
+Belfast, Belfast, UK.
+(8)Division of Infection, Immunity and Respiratory Medicine, University of 
+Manchester and Manchester University NHS Trust, Manchester, UK.
+
+BACKGROUND: We present study designs, dose selection and preliminary patient 
+characteristics from two phase 3 clinical trials of gefapixant, a P2X3 receptor 
+antagonist, in refractory chronic cough (RCC) or unexplained chronic cough 
+(UCC).
+METHODS: COUGH-1 (NCT03449134) and COUGH-2 (NCT03449147) are randomised, 
+placebo-controlled, double-blind, parallel-group trials in subjects with RCC or 
+UCC (age ≥18 years; cough duration ≥1 year; Cough Severity Visual Analogue Scale 
+score ≥40 mm). The primary efficacy study periods are 12 weeks (40-week 
+extension; COUGH-1) and 24 weeks (28-week extension; COUGH-2). Interventions 
+include placebo, gefapixant 15 mg and gefapixant 45 mg (1:1:1 ratio). The 
+primary efficacy endpoints are average 24-h cough frequency at Week 12 (COUGH-1) 
+and Week 24 (COUGH-2). Awake cough frequency, patient-reported outcomes and 
+responder analyses are secondary endpoints.
+RESULTS: The doses of 45 mg (to provide maximal efficacy and acceptable 
+tolerability) and 15 mg (to provide acceptable efficacy and improved 
+tolerability) were selected based on phase 1 and 2 studies. In COUGH-1, 730 
+participants have been randomised and treated; 74% are female with mean age of 
+59 years (39% over 65 years), and mean baseline duration of cough of 11.5 years. 
+In COUGH-2, 1314 participants have been randomised and treated; 75% are female 
+with mean age of 58 years (33% over 65 years), and mean baseline duration of 
+cough of 11.1 years.
+CONCLUSIONS: These global studies include participants with baseline 
+characteristics consistent with previous RCC and UCC studies and will inform the 
+efficacy and safety profile of gefapixant in the treatment of patients with RCC 
+and UCC.
+
+Copyright ©ERS 2020.
+
+DOI: 10.1183/23120541.00284-2020
+PMCID: PMC7682670
+PMID: 33263037
+
+Conflict of interest statement: Conflict of interest: D.R. Muccino is an 
+employee of Merck & Co., Inc., Kenilworth, NJ, USA. Conflict of interest: A.H. 
+Morice reports grants and personal fees from Merck during the conduct of the 
+study. Conflict of interest: S.S. Birring reports clinical trial fees to his 
+institution by Merck during the conduct of the study; a grant for an 
+investigator-led study from Merck, personal fees for scientific advisory work 
+from Merck, Bayer, Sanofi, Pfizer, Patara and Menlo, and speaker fees from 
+Roche, outside the submitted work. Conflict of interest: P.V. Dicpinigaitis 
+reports consulting fees from Merck during the conduct of the study. Conflict of 
+interest: I.D. Pavord reports speaker fees, advisory board honoraria, 
+sponsorship to attend scientific meetings and payments for organising 
+educational events from AstraZeneca; speaker fees, advisory board honoraria and 
+sponsorship to attend scientific meetings from Boehringer Ingelheim; a speaker 
+fee from Aerocrine; speaker fees and advisory board honoraria from Almirall and 
+Novartis; speaker fees, advisory board honoraria and sponsorship to attend 
+scientific meetings from GlaxoSmithKline; advisory board honoraria from 
+Genentech and Regeneron; speaker honoraria, payments for organising educational 
+events and sponsorship to attend scientific meetings from Teva; speaker 
+honoraria and a research grant from Chiesi; advisory board honoraria, speaker 
+fees and grant support from Sanofi; advisory board honoraria from Circassia and 
+Knopp; and funding as a Senior Investigator from NIHR, outside the submitted 
+work. Conflict of interest: C. Assaid is an employee of Merck & Co., Inc., 
+Kenilworth, NJ, USA. Conflict of interest: H.J. Kleijn reports that the 
+contributions to the paper were performed as a paid consultant (employee of 
+Certara) for Merck. Conflict of interest: A. Hussain is an employee of Merck & 
+Co., Inc., Kenilworth, NJ, USA. Conflict of interest: C. La Rosa is an employee 
+of Merck & Co., Inc., Kenilworth, NJ, USA. Conflict of interest: L. McGarvey 
+reports personal fees from Afferent Pharmaceuticals and Merck & Co., Inc., 
+grants, personal fees and nonfinancial support from Chiesi, personal fees and 
+nonfinancial support from Boehringer Ingelheim, grants and nonfinancial support 
+from Glaxo Smith Kline, grants and personal fees from Almirall, personal fees 
+from AstraZeneca, and grants from NC3R, during the conduct of the study; and 
+grants from the European Union Interreg VA Health & Life Science Programme 
+outside the submitted work;. Conflict of interest: J.A. Smith reports funding 
+for a commercial study paid to Manchester University NHS Foundation Trust, and 
+personal fees for advisory boards and consultancy work from Merck Inc., during 
+the conduct of the study; funding for a commercial study paid to Manchester 
+University NHS Foundation Trust, and personal fees for advisory boards and 
+consultancy work from GlaxoSmithKline, a grant to Christie Hospital and 
+commercial funding for a clinical trial, and consultancy fees from NeRRe 
+Pharmaceuticals, commercial funding for clinical trials and consultancy fees 
+from Menlo and Bayer, consultancy fees from Boehringer Ingelheim, Genentech and 
+Neomed, provision of cough monitoring equipment by Vitalograph, consultancy fees 
+from Chiesi, a grant paid to Manchester University NHS Foundation Trust and 
+personal fees from Afferent, consultancy fees from Bellus, and funding for a 
+commercial study paid to Manchester University NHS Foundation Trust by and 
+consultancy work for Axalbion, outside the submitted work. In addition, J.A. 
+Smith has a patent, “A method for generating output data”, licenced.
+
+
+962. South Med J. 2020 Dec;113(12):607-611. doi: 10.14423/SMJ.0000000000001186.
+
+Association of Hypertension and Hyperthyroidism in a Subspecialty Clinic and a 
+National Database.
+
+Rivas AM(1), Dennis J(1), Pena C(1), Kopel J(1), Nugent K(1).
+
+Author information:
+(1)From the Departments of Internal Medicine and Public Health, Texas Tech 
+University Health Sciences Center, Lubbock.
+
+OBJECTIVE: Hypertension can cause significant morbidity and reduced life 
+expectancy. Most patients with hypertension have primary hypertension; however, 
+10% to 15% have secondary hypertension. Endocrine disorders as a secondary cause 
+occur in approximately 10% of patients with secondary hypertension, and thyroid 
+disorders account for approximately 1% of all patients with hypertension. The 
+identification of patients with hyperthyroidism has important benefits for these 
+particular patients. The objective of this study was to examine the occurrence 
+of high blood pressure in patients with hyperthyroidism.
+METHODS: We reviewed the clinical information available from 414 new patients 
+referred to an endocrinology clinic in west Texas for evaluation of 
+hyperthyroidism. The final cohort included 96 patients who had both thyroid 
+laboratory tests and blood pressure measurements at the time of their clinic 
+visit. We also examined this relationship in a nationally representative sample 
+of US adults (National Health and Nutrition Examination Survey 2007-2012), which 
+included thyroid test results and at least one blood pressure measurement (N = 
+8837).
+RESULTS: Sixty-five of these clinic patients had elevated blood pressure based 
+on criteria suggested by the American College of Cardiology/American Heart 
+Association. These patients had similar thyroid hormone levels as patients who 
+did not have hypertension but tended to be older. Ordinary least squares 
+regression analysis of the National Health and Nutrition Examination Survey 
+2007-2012 data demonstrated a significant positive association between free T3 
+levels and systolic blood pressure, adjusting for age, sex, and the use of 
+levothyroxine.
+CONCLUSIONS: These findings from a specialty clinic and a national sample 
+suggest that clinicians should consider the possibility of hyperthyroidism in 
+patients with hypertension, even in older patients.
+
+DOI: 10.14423/SMJ.0000000000001186
+PMID: 33263126 [Indexed for MEDLINE]
+
+
+963. Acta Crystallogr F Struct Biol Commun. 2020 Dec 1;76(Pt 12):597-603. doi: 
+10.1107/S2053230X20014818. Epub 2020 Nov 25.
+
+The crystal structure of benzophenone synthase from Garcinia mangostana L. 
+pericarps reveals the basis for substrate specificity and catalysis.
+
+Songsiriritthigul C(1), Nualkaew N(2), Ketudat-Cairns J(3), Chen CJ(4).
+
+Author information:
+(1)Synchrotron Light Research Institute (Public Organization), 111 University 
+Avenue, Nakhon Ratchasima 30000, Thailand.
+(2)Faculty of Pharmaceutical Sciences, Khon Kaen University, 123 Mittrapap Road, 
+Khon Kaen 40002, Thailand.
+(3)Center for Biomolecular Structure, Function and Application, Suranaree 
+University of Technology, 111 University Avenue, Nakhon Ratchasima 30000, 
+Thailand.
+(4)Life Science Group, Scientific Research Division, National Synchrotron 
+Radiation Research Center, 101 Hsin-Ann Road, Hsinchu 30076, Taiwan.
+
+Benzophenone synthase (BPS) catalyzes the production of 
+2,4,6-trihydroxybenzophenone via the condensation of benzoyl-CoA and three units 
+of malonyl-CoA. The biosynthetic pathway proceeds with the formation of the 
+prenylated xanthone α-mangostin from 2,4,6-trihydroxybenzophenone. Structural 
+elucidation was performed to gain a better understanding of the structural basis 
+of the function of Garcinia mangostana L. (mangosteen) BPS (GmBPS). The 
+structure reveals the common core consisting of a five-layer αβαβα fold as found 
+in other type III polyketide synthase enzymes. The three residues Met264, Tyr266 
+and Gly339 are proposed to have a significant impact on the substrate-binding 
+specificity of the active site. Crystallographic and docking studies indicate 
+why benzoyl-CoA is preferred over 4-coumaroyl-CoA as the substrate for GmBPS. 
+Met264 and Tyr266 in GmBPS are properly oriented for accommodation of the 
+2,4,6-trihydroxybenzophenone product but not of naringenin. Gly339 offers a 
+minimal steric hindrance to accommodate the extended substrate. Moreover, the 
+structural arrangement of Thr133 provides the elongation activity and 
+consequently facilitates extension of the polyketide chain. In addition to its 
+impact on the substrate selectivity, Ala257 expands the horizontal cavity and 
+might serve to facilitate the initiation/cyclization reaction. The detailed 
+structure of GmBPS explains its catalytic function, facilitating further 
+structure-based engineering to alter its substrate specificity and obtain the 
+desired products.
+
+DOI: 10.1107/S2053230X20014818
+PMCID: PMC7716263
+PMID: 33263571 [Indexed for MEDLINE]
+
+
+964. Arq Neuropsiquiatr. 2020 Nov;78(11):687-694. doi: 10.1590/0004-282X20200062.
+
+Predictors of long length of hospital stay among elders admitted with seizures 
+in a tertiary centre: a prospective study.
+
+Bacellar A(1), Assis TR(1), Pedreira BB(1), CÔrtes L(2), Santana S(2), 
+Nascimento OJMD(3).
+
+Author information:
+(1)Hospital São Rafael, Department of Neurology, D'Or Institute for Research and 
+Education, Salvador BA, Brazil.
+(2)Resident of the Department of Neurology, Hospital São Rafael, Monte Tabor 
+Foundation, Italian-Brazilian Centre for Health Promotion, Salvador BA, Brazil.
+(3)Universidade Federal Fluminense, Department of Neurology, Rio de Janeiro RJ, 
+Brazil.
+
+OBJECTIVE: Population ageing is a global phenomenon, and life expectancy in 
+Brazil is growing fast. Epilepsy is the third most important chronic 
+neurological disorder, and its incidence is higher among elderly patients than 
+in any other segment of the population. The prevalence of epilepsy is greater 
+among inpatients than in the general population and it is related to long length 
+of hospital stay (LOS), which is associated with hospital mortality and higher 
+healthcare costs. Despite these facts, reports of elderly inpatients admitted 
+with seizures and associated outcomes are scarce. To identify predictors of long 
+LOS among elderly inpatients admitted with seizures.
+METHODS: We prospectively enrolled elders admitted with epileptic seizures or 
+who experienced seizures throughout hospitalization between November 2015 and 
+August 2019. We analysed demographic data, neurological disorders, clinical 
+comorbidities, and seizure features to identify risk factors.
+RESULTS: The median LOS was 11 days, with an interquartile range (IQR) of 5-21 
+days. The frequency of long LOS (defined as a period of hospitalization ≥12 
+days) was 47%. Multivariate analysis showed there was an exponential increase in 
+long LOS if a patient showed any of the following conditions: intensive care 
+unit (ICU) admission (OR=4.562), urinary tract infection (OR=3.402), movement 
+disorder (OR=5.656), early seizure recurrence (OR=2.090), and sepsis (OR=4.014).
+CONCLUSION: Long LOS was common among elderly patients admitted with seizures, 
+and most predictors of long LOS found in this cohort might be avoidable; these 
+findings should be confirmed with further research.
+
+DOI: 10.1590/0004-282X20200062
+PMID: 33263637 [Indexed for MEDLINE]
+
+
+965. Diabetes Ther. 2021 Jan;12(1):313-328. doi: 10.1007/s13300-020-00968-x. Epub
+ 2020 Dec 2.
+
+Cost-Effectiveness of Canagliflozin Added to Standard of Care for Treating 
+Diabetic Kidney Disease (DKD) in Patients with Type 2 Diabetes Mellitus (T2DM) 
+in England: Estimates Using the CREDEM-DKD Model.
+
+Willis M(1), Nilsson A(2), Kellerborg K(2), Ball P(3), Roe R(4), Traina S(5), 
+Beale R(6), Newell I(6).
+
+Author information:
+(1)The Swedish Institute for Health Economics, Lund, Sweden. mw@ihe.se.
+(2)The Swedish Institute for Health Economics, Lund, Sweden.
+(3)Mundibiopharma Limited, Cambridge, UK.
+(4)Napp Pharmaceuticals Limited, Cambridge, UK.
+(5)Janssen Global Services, LLC, Raritan, NJ, USA.
+(6)Costello Medical Consulting Limited, London, UK.
+
+INTRODUCTION: On the basis of reductions in diabetic kidney disease (DKD) 
+progression and major adverse cardiovascular events observed in the landmark 
+CREDENCE trial, canagliflozin 100 mg received an extension to its EU marketing 
+authorisation in July 2020 to include the treatment of DKD in people with type 2 
+diabetes mellitus (T2DM) making it the first pharmacological therapy to receive 
+regulatory authorisation for treatment of DKD since the RENAAL and IDNT trials 
+in nearly 20 years. Efficient allocation of limited healthcare resources 
+requires evaluation not only of clinical safety and efficacy but also economic 
+consequences. The study aim was to estimate the cost-effectiveness of 
+canagliflozin when added to current standard of care (SoC) versus SoC alone from 
+the perspective of the NHS in England.
+METHODS: A microsimulation model was developed using patient-level data from 
+CREDENCE, including risk equations for the key clinical outcomes of start of 
+dialysis, hospitalisation for heart failure, nonfatal myocardial infarction, 
+nonfatal stroke, and all-cause mortality. DKD progression was modelled using 
+estimated glomerular filtration rate and urinary albumin-to-creatinine ratio 
+evolution equations. Risk for kidney transplant was sourced from UK-specific 
+sources given the near absence of events in CREDENCE. Patient characteristics 
+and treatment effects were sourced from CREDENCE. Unit costs (£2019) and 
+disutility weights were sourced from the literature and discounted at 3.5% 
+annually. The time horizon was 10 years in the base case, and sensitivity 
+analysis was performed.
+RESULTS: Canagliflozin was associated with sizable gains in life-years and 
+quality-adjusted life-year (QALYs) over 10 years, with gains increasing with 
+simulation duration. Cost offsets associated with reductions in cardiovascular 
+and renal complications were sufficient to achieve overall net cost savings. The 
+findings were generally confirmed in the sensitivity analyses.
+CONCLUSION: Model results suggest that adding canagliflozin 100 mg to SoC can 
+improve patient outcomes while reducing overall net costs from the NHS 
+perspective in England.
+TRIAL REGISTRATION: ClinicalTrials.gov identifier, NCT02065791.
+
+DOI: 10.1007/s13300-020-00968-x
+PMCID: PMC7843731
+PMID: 33263893
+
+
+966. Comput Biol Chem. 2021 Feb;90:107416. doi:
+10.1016/j.compbiolchem.2020.107416.  Epub 2020 Nov 17.
+
+Refinement of coding SNPs in the human aryl hydrocarbon receptor gene using 
+ISNPranker: An integrative-SNP ranking web-tool.
+
+Aftabi Y(1), Rafei S(2), Zarredar H(3), Amiri-Sadeghan A(3), Akbari-Shahpar 
+M(4), Khoshkam Z(5), Seyedrezazadeh E(3), Khalili M(3), Mehrnejad F(6), 
+Fereidouni S(7), Lawrence BP(8).
+
+Author information:
+(1)Tuberculosis and Lung Diseases Research Center, Tabriz University of Medical 
+Sciences, P.O. Box: 53714161, Tabriz, Iran. Electronic address: 
+aftabiy@tbzmed.ac.ir.
+(2)Razi Vaccine and Serum Research Institute, Agricultural Research, Education 
+and Extension Organization, Karaj, Iran.
+(3)Tuberculosis and Lung Diseases Research Center, Tabriz University of Medical 
+Sciences, P.O. Box: 53714161, Tabriz, Iran.
+(4)Department of Computer Engineering, Faculty of Electrical and Computer 
+Engineering, University of Tabriz, Tabriz, Iran.
+(5)Tuberculosis and Lung Diseases Research Center, Tabriz University of Medical 
+Sciences, P.O. Box: 53714161, Tabriz, Iran; Department of Molecular and Cell 
+Biology, Faculty of Basic Sciences, University of Tehran, Tehran, Iran.
+(6)Department of Life Science Engineering, Faculty of New Sciences and 
+Technologies, University of Tehran, Tehran, Iran.
+(7)Department of Interdisciplinary Life Sciences, University of Veterinary 
+Medicine Vienna, Vienna, Austria.
+(8)Departments of Environmental Medicine and Microbiology and Immunology, 
+University of Rochester Medical Center, Rochester, NY, USA.
+
+Different bioinformatic methods apply various approaches to predict how much the 
+effect of a SNP could be deleterious and therefore their results may differ 
+significantly. However, variation studies often need to consider an integrated 
+prediction result to analyze the effect of SNPs. To address this problem, we 
+used an algorithm to map ordinal predictions to a numeral space and averaging 
+them, and based on it we developed the ISNPranker web-tool 
+(http://isnpranker.semilab.ir/). It takes heterogonous outputs of different 
+predictors and generates integrated numerical predictions and ranks SNPs based 
+on them. Afterward, we used ISNPranker to identify the most deleterious coding 
+SNPs (cSNPs) of the human aryl hydrocarbon receptor (AHR) gene. AHR is a 
+ligand-activated transcription factor that governs many molecular and cellular 
+mechanisms and cSNPs may affect its structure, interactions, and function. Forty 
+validated cSNPs of AHR were initially analyzed using 16 publicly available SNP 
+analyzers and the results were introduced to the ISNPranker and integrated 
+predictions were obtained. The cSNPs were ranked in 34 levels of danger and 
+rs200257782 in the ARNT dimerization domain (ADD121-289) of AHR was identified 
+as the most deleterious cSNP. The rs148360742, which affect ADD40-79 and Hsp90 
+binding domain (HBD27-79) was in the second rank and the third and fourth ranks 
+were occupied by ADD121-289-located variations rs571123681 and rs141667112 
+respectively. In conclusion, we introduced ISNPranker, which is a web-tool for 
+integrative ranking of SNPs, and we showed that AHR structure and function may 
+be highly sensitive to the cSNPs in the ARNT dimerization domain.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiolchem.2020.107416
+PMCID: PMC8815319
+PMID: 33264727 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest The authors declare that 
+there is no conflict of interest.
+
+
+967. Healthcare (Basel). 2020 Nov 22;8(4):507. doi: 10.3390/healthcare8040507.
+
+Association between Health Indicators and Health-Related Quality of Life 
+according to Physical Activity of Older Women.
+
+Lim HS(1), Yoo JJ(2).
+
+Author information:
+(1)Department of Food and Nutrition, Yeonsung University, Anyang 14011, Korea.
+(2)Division of Gastroenterology and Hepatology, Department of Internal Medicine, 
+Soonchunhyang University Bucheon Hospital, Bucheon 14854, Korea.
+
+The purpose of this study was to compare sociodemographic factors, health 
+factors and nutritional status according to the physical activity of older 
+women, and to analyze the factors affecting their quality of life. The subjects 
+of this study were 5661 older women aged 60 or older who participated in the 
+Korean National Health and Nutrition Survey (KNHANES) from 2008 to 2013. The 
+socioeconomic factors, subjective health status and disease status, lifestyle 
+and dietary quality, and life quality were compared among two groups (active 
+group and inactive group). The inactive group had significantly higher rates of 
+obesity and unemployment, comorbidities, numbers without spouses, experiencing 
+stress, poor subjective health status, depression or suicidal thoughts, and also 
+higher rates of skipping meals. The life quality index and dietary quality was 
+also significantly lower in the inactive group, and subjects experienced 
+significantly higher pain or discomfort and problems in mobility and the usual 
+activities. The results of multivariate analysis after adjusting for age in 
+groups engaging in physical activities showed the life quality index to increase 
+in accordance with the diet quality, economic income, and education level. It 
+was confirmed that life quality was significantly low if the participant showed 
+a poor subjective health evaluation, obese with many diseases, spouseless, and 
+experienced high levels of stress. Considering the rapid aging and high life 
+expectancy of women, regular physical activity is very important for maintaining 
+health and improving the life quality of older women, and it is believed that 
+comprehensive attention and management of lifestyle and diet quality are 
+necessary.
+
+DOI: 10.3390/healthcare8040507
+PMCID: PMC7712132
+PMID: 33266507
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript, or in the decision to 
+publish the results.
+
+
+968. Entropy (Basel). 2018 Nov 16;20(11):883. doi: 10.3390/e20110883.
+
+The Role of Complex Analysis in Modelling Economic Growth.
+
+Sbardella A(1)(2)(3), Pugliese E(4), Zaccaria A(2), Scaramozzino P(1)(3).
+
+Author information:
+(1)Department of Economics and Finance, Università degli Studi di Roma Tor 
+Vergata, 00133 Rome, Italy.
+(2)ISC-CNR-Institute of Complex Systems, 00185 Rome, Italy.
+(3)School of Finance and Management, SOAS University of London, London WC1H 0XG, 
+UK.
+(4)European Commission, Joint Research Centre (JRC), Seville, Spain.
+
+Development and growth are complex and tumultuous processes. Modern economic 
+growth theories identify some key determinants of economic growth. However, the 
+relative importance of the determinants remains unknown, and additional 
+variables may help clarify the directions and dimensions of the interactions. 
+The novel stream of literature on economic complexity goes beyond aggregate 
+measures of productive inputs and considers instead a more granular and 
+structural view of the productive possibilities of countries, i.e., their 
+capabilities. Different endowments of capabilities are crucial ingredients in 
+explaining differences in economic performances. In this paper we employ 
+economic fitness, a measure of productive capabilities obtained through complex 
+network techniques. Focusing on the combined roles of fitness and some more 
+traditional drivers of growth-GDP per capita, capital intensity, employment 
+ratio, life expectancy, human capital and total factor productivity-we build a 
+bridge between economic growth theories and the economic complexity literature. 
+Our findings show that fitness plays a crucial role in fostering economic growth 
+and, when it is included in the analysis, can be either complementary to 
+traditional drivers of growth or can completely overshadow them. Notably, for 
+the most complex countries, which have the most diversified export baskets and 
+the largest endowments of capabilities, fitness is complementary to the chosen 
+growth determinants in enhancing economic growth. The empirical findings are in 
+agreement with neoclassical and endogenous growth theories. By contrast, for 
+countries with intermediate and low capability levels, fitness emerges as the 
+key growth driver. This suggests that economic models should account for 
+capabilities; in fact, describing the technological possibilities of countries 
+solely in terms of their production functions may lead to a misinterpretation of 
+the roles of factors.
+
+DOI: 10.3390/e20110883
+PMCID: PMC7512465
+PMID: 33266607
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+969. Entropy (Basel). 2019 Mar 28;21(4):339. doi: 10.3390/e21040339.
+
+A New Extension of the Generalized Half Logistic Distribution with Applications 
+to Real Data.
+
+Muhammad M(1), Liu L(1).
+
+Author information:
+(1)College of Mathematics and Information Sciences, Hebei Normal University, 
+Shijiazhuang 050024, China.
+
+In this paper, we introduced a new three-parameter probability model called 
+Poisson generalized half logistic (PoiGHL). The new model possesses an 
+increasing, decreasing, unimodal and bathtub failure rates depending on the 
+parameters. The relationship of PoiGHL with the exponentiated Weibull Poisson 
+(EWP), Poisson exponentiated Erlang-truncated exponential (PEETE), and Poisson 
+generalized Gompertz (PGG) model is discussed. We also characterized the PoiGHL 
+sub model, i.e the half logistic Poisson (HLP), based on certain functions of a 
+random variable by truncated moments. Several mathematical and statistical 
+properties of the PoiGHL are investigated such as moments, mean deviations, 
+Bonferroni and Lorenz curves, order statistics, Shannon and Renyi entropy, 
+Kullback-Leibler divergence, moments of residual life, and probability weighted 
+moments. Estimation of the model parameters was achieved by maximum likelihood 
+technique and assessed by simulation studies. The stress-strength analysis was 
+discussed in detail based on maximum likelihood estimation (MLE), we derived the 
+asymptotic confidence interval of R = P ( X 1 < X 2 ) based on the MLEs, and 
+examine by simulation studies. In three applications to real data set PoiGHL 
+provided better fit and outperform some other popular distributions. In the 
+stress-strength parameter estimation PoiGHL model illustrated as a reliable 
+choice in reliability analysis as shown using two real data set.
+
+DOI: 10.3390/e21040339
+PMCID: PMC7514823
+PMID: 33267053
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+970. BMC Oral Health. 2020 Dec 2;20(1):353. doi: 10.1186/s12903-020-01346-6.
+
+Association between presence of 20 or more natural teeth and all-cause, 
+cancer-related, and cardiovascular disease-related mortality: Yamagata 
+(Takahata) prospective observational study.
+
+Ishikawa S(1), Konta T(2), Susa S(3), Ishizawa K(3)(4), Togashi H(5), Ueno Y(4), 
+Yamashita H(4), Kayama T(4), Iino M(6).
+
+Author information:
+(1)Department of Dentistry, Oral and Maxillofacial Plastic and Reconstructive 
+Surgery, Faculty of Medicine, Yamagata University, 2-2-2 Iida-nishi, Yamagata, 
+990-9585, Japan. shigeo_ishikawa2011@yahoo.co.jp.
+(2)Department of Public Health and Hygiene, Yamagata University Graduate School 
+of Medicine, 2-2-2 Iida-nishi, Yamagata, 990-9585, Japan.
+(3)Department of Neurology, Hematology, Metabolism, Endocrinology and 
+Diabetology, Yamagata University Faculty of Medicine, 2-2-2 Iida-nishi, 
+Yamagata, 990-9585, Japan.
+(4)Global Center of Excellence, Yamagata University School of Medicine, 2-2-2 
+Iida-nishi, Yamagata, 990-9585, Japan.
+(5)Yamagata University Health Administration Centre, 1-4-12 kojirakawa-machi, 
+Yamagata, 990-8560, Japan.
+(6)Department of Dentistry, Oral and Maxillofacial Plastic and Reconstructive 
+Surgery, Faculty of Medicine, Yamagata University, 2-2-2 Iida-nishi, Yamagata, 
+990-9585, Japan.
+
+BACKGROUND: Several studies have surveyed the relationship between the presence 
+of ≥ 20 natural teeth and mortality. However, very few have evaluated this 
+association over a long-term follow-up of more than ten years within a large 
+population in Japan. This study aimed to prospectively confirm the associations 
+between mortality and the presence of ≥ 20 natural teeth within a 
+community-based population in Japan.
+METHODS: A prospective observational study including 2208 participants 
+aged ≥ 40 years was conducted in Takahata Town, Japan, between May 2005 and 
+December 2016. All participants answered a self-administered questionnaire to 
+provide their background characteristics, including their number of teeth. The 
+participants were classified into two categories based on their self-reported 
+number of teeth (< 20 and ≥ 20 teeth). Hazard ratios (HR) and 95% confidence 
+intervals (CI) were calculated using Cox proportional-hazards regression model 
+to assess risk factors for all-cause, cancer-, and cardiovascular 
+disease-related mortality.
+RESULTS: The total follow-up period was 131.4 ± 24.1 months (mean ± SD). After 
+adjusting for covariates, the risk of all-cause mortality was significantly 
+higher in the group with < 20 teeth than in those with ≥ 20 teeth (HR = 1.604, 
+95% CI 1.007-2.555, p = 0.047). However, the risk of cancer- and cardiovascular 
+disease-related mortalities was not statistically significant between the two 
+groups.
+CONCLUSION: In this study, participants with < 20 teeth had a significantly 
+higher risk of all-cause mortality, although the difference was borderline 
+significant. These results emphasize the importance of having ≥ 20 natural teeth 
+for a healthy life expectancy.
+
+DOI: 10.1186/s12903-020-01346-6
+PMCID: PMC7709387
+PMID: 33267797 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+971. Int J Technol Assess Health Care. 2020 Dec 3;37:e30. doi: 
+10.1017/S0266462320001907.
+
+Cost-effectiveness analysis of magnetic resonance-guided focused ultrasound 
+ablation for palliation of refractory painful bone metastases.
+
+Bucknor MD(1), Chan FP(2), Matuoka JY(3), Curl PK(4), Kahn JG(1).
+
+Author information:
+(1)Department of Radiology and Biomedical Imaging, University of California, San 
+Francisco, 505 Parnassus Avenue, San Francisco, CA94143, USA.
+(2)Department of Radiology, Stanford University School of Medicine, 300 Pasteur 
+Drive, Stanford, CA94305, USA.
+(3)Departamento de Enfermagem Médico-Circúrgica, University of São Paulo, Rua de 
+Reitoria, 374, São Paoulo05508-010, SP, Brazil.
+(4)Department of Radiology, Maimonides Medical Center, 4802 10th Avenue, 
+Brooklyn, NY11219, USA.
+
+OBJECTIVE: The aim of this study was to determine if magnetic resonance-guided 
+focused ultrasound (MRgFUS) is cost-effective compared with medication, for 
+refractory pain from bone metastases in the United States.
+METHODS: We constructed a Markov state transition model using TreeAge Pro 
+software (TreeAge Software, Inc., Williamstown, MA, USA) to model costs, 
+outcomes, and the cost-effectiveness of a treatment strategy using MRgFUS for 
+palliative treatment of painful bone metastases compared with a Medication Only 
+strategy (Figure 1). Model transition state probabilities, costs (in 2018 US$), 
+and effectiveness data (quality-adjusted life-years [QALYs]) were derived from 
+available literature, local expert opinion, and reimbursement patterns at two 
+U.S. tertiary academic medical centers actively performing MRgFUS. Costs and 
+QALYs, discounted at three percent per year, were accumulated each month over a 
+24-month time horizon. One-way and probabilistic sensitivity analyses were 
+performed.
+RESULTS: In the base-case analysis, the MRgFUS treatment strategy costs an 
+additional $11,863 over the 2-year time horizon to accumulate additional 0.22 
+QALYs, equal to a $54,160/QALY ICER, thus making MRgFUS the preferred strategy. 
+One-way sensitivity analyses demonstrate that for the base-case analysis, the 
+crossover point at which Medication Only would instead become the preferred 
+strategy is $23,341 per treatment. Probabilistic sensitivity analyses 
+demonstrate that 67 percent of model iterations supported the conclusion of the 
+base case.
+CONCLUSIONS: Our model demonstrates that MRgFUS is cost-effective compared with 
+Medication Only for palliation of painful bone metastases for patients with 
+medically refractory metastatic bone pain across a range of sensitivity 
+analyses.
+
+DOI: 10.1017/S0266462320001907
+PMID: 33267915 [Indexed for MEDLINE]
+
+
+972. BMJ Open. 2020 Dec 2;10(12):e039644. doi: 10.1136/bmjopen-2020-039644.
+
+Methods for estimating economic benefits of surgical interventions in low-income 
+and middle-income countries: a scoping review.
+
+Hilla A(1), Reese V(2), Nonvignon J(3), Dolan CB(4).
+
+Author information:
+(1)Economics, William & Mary, Williamsburg, Virginia, USA.
+(2)Applied Math and Economics, William & Mary, Williamsburg, Virginia, USA.
+(3)Health Policy, Planning, and Management, University of Ghana, Legon, Ghana.
+(4)Health Sciences, William & Mary, Williamsburg, Virginia, USA cbdolan@wm.edu.
+
+OBJECTIVES: Studies indicate that many types of surgical care are cost-effective 
+compared with other health interventions in low-income and middle-income 
+countries (LMICs). However, global health investments to support these 
+interventions remain limited. This study undertakes a scoping review of research 
+on the economic impact of surgical interventions in LMICs to determine the 
+methodologies used in measuring economic benefits.
+DESIGN: The Arksey and O'Malley methodological framework for scoping reviews and 
+the Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension 
+for Scoping Reviews checklist were used to review the data systematically. 
+Online databases were used to identify papers published between 2005 and 2020, 
+from which we selected 19 publications that quantitatively examined the economic 
+benefits of surgical interventions in LMICs.
+RESULTS: Majority of publications (79%) reported the use of disability-adjusted 
+life-years (DALYs) to assess economic impact. In comparison, 21% used other 
+measures, such as the value of statistical life or cost-effectiveness ratios, or 
+no measure at all. 31% were systematic or retrospective reviews of the 
+literature on surgical procedures in LMICs, while 69% either directly assessed 
+economic impact in a specific area or evaluated the need for surgical procedures 
+in LMICs. All studies reviewed related to the economic impact of surgical 
+procedures in LMICs, with most about paediatric surgical procedures or a 
+specific surgical specialty.
+CONCLUSION: To make informed policy decisions regarding global health 
+investments, the economic impact must be accurately measured. Researchers employ 
+a range of techniques to quantify the economic benefit of surgeries in LMICs, 
+which limits understanding of overall economic value. We conclude that the 
+literature would benefit from a careful selection of methods, incorporating age 
+and disability weights based on the Global Burden of Disease weights, and 
+converting DALYs to dollars using the value of statistical life approach and the 
+human capital approach, reporting both estimates.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2020-039644
+PMCID: PMC7713224
+PMID: 33268411 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+973. Ann Rheum Dis. 2023 Feb;82(2):e46. doi: 10.1136/annrheumdis-2020-219522.
+Epub  2020 Dec 2.
+
+Correspondence on 'Incidence trend of five common musculoskeletal disorders from 
+1990 to 2017 at the global, regional and national level: results from the global 
+burden of disease study 2017'.
+
+Chiang PH(#)(1), Ju PC(#)(1)(2), Chiang YC(1), Wei JC(3)(4)(5).
+
+Author information:
+(1)School of Medicine, Chung Shan Medical University, Taichung, Taiwan.
+(2)Department of Psychiatry, Chung Shan Medicl University, Taichung, Taiwan.
+(3)Institute of Medicine, Chung Shan Medical University, Taichung, Taiwan 
+jccwei@gmail.com.
+(4)Department of Allergy, Immunology & Rheumatology, Chung Shan Medical 
+University Hospital, Taichung, Taiwan.
+(5)Graduate Institute of Integrated Medicine, China Medical University, 
+Taichung, Taiwan.
+(#)Contributed equally
+
+DOI: 10.1136/annrheumdis-2020-219522
+PMID: 33268440 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+974. J Virol. 2021 Mar 1;95(5):e02029-20. doi: 10.1128/JVI.02029-20. Epub 2020
+Dec 2.
+
+Structure and Biochemical Characteristic of the Methyltransferase (MTase) Domain 
+of RNA Capping Enzyme from African Swine Fever Virus.
+
+Du X(1), Gao ZQ(2), Geng Z(2), Dong YH(3), Zhang H(3).
+
+Author information:
+(1)Institute of Health Sciences and School of Life Science, Anhui University, 
+Hefei, Anhui 230601, China.
+(2)Beijing Synchrotron Radiation Facility, Institute of High Energy Physics, 
+Chinese Academy of Sciences, Beijing 100049, China.
+(3)Beijing Synchrotron Radiation Facility, Institute of High Energy Physics, 
+Chinese Academy of Sciences, Beijing 100049, China zhangheng@ihep.ac.cn 
+dongyh@ihep.ac.cn.
+
+African swine fever virus (ASFV) is a complex nucleocytoplasmic large DNA virus 
+(NCLDV) that causes a devastating swine disease and it is urgently needed to 
+develop effective anti-ASFV vaccines and drugs. The process of mRNA 5'-end 
+capping is a common characteristic in eukaryotes and many viruses, and the cap 
+structure is required for mRNA stability and efficient translation. The ASFV 
+protein pNP868R was found to have guanylyltransferase (GTase) activity involved 
+in mRNA capping. Here we report the crystal structure of pNP868R 
+methyltransferase (MTase) domain (referred as pNP868RMT) in complex with 
+S-adenosyl-L-methionine (AdoMet). The structure shows the characteristic core 
+fold of the class I MTase family and the AdoMet is bound in a negative-deep 
+groove. Remarkably, the N-terminal extension of pNP868RMT is ordered and keeps 
+away from the AdoMet-binding site, distinct from the close conformation over the 
+active site of poxvirus RNA capping D1 subunit or the largely disordered 
+conformation in most cellular RNA capping MTases. Structure-based mutagenesis 
+studies based on the pNP868RMT-cap analog complex model revealed essential 
+residues involved in substrate recognition and binding. Functional studies 
+suggest the N-terminal extension may play an essential role in substrate 
+recognition instead of AdoMet-binding. A positively charged path stretching from 
+the N-terminal extension to the region around the active site was suggested to 
+provide a favorable electrostatic environment for the binding and approaching of 
+substrate RNA into the active site. Our structure and biochemical studies 
+provide novel insights into the methyltransfer process of mRNA cap catalyzed by 
+pNP868R.IMPORTANCE African swine fever (ASF) is a highly contagious hemorrhagic 
+viral disease in pigs that is caused by African swine fever virus (ASFV). There 
+are no effective drugs or vaccines for protection against ASFV infection till 
+now. The protein pNP868R was predicted to be responsible for process of mRNA 
+5'-end capping in ASFV, which is essential for mRNA stability and efficient 
+translation. Here, we solved the high-resolution crystal structure of the 
+methyltransferase (MTase) domain of pNP868R. The MTase domain structure shows a 
+canonical class I MTase family fold and the AdoMet binds into a negative pocket. 
+Structure-based mutagenesis studies revealed critical and conserved residues 
+involved in AdoMet-binding and substrate RNA-binding. Notably, both the 
+conformation and the role in MTase activities of the N-terminal extension are 
+distinct from those of previously characterized poxvirus MTase domain. Our 
+structure-function studies provide the basis for potential anti-ASFV inhibitor 
+design targeting the critical enzyme.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/JVI.02029-20
+PMCID: PMC8092831
+PMID: 33268516
+
+
+975. Aging Dis. 2020 Dec 1;11(6):1513-1526. doi: 10.14336/AD.2020.0310.
+eCollection  2020 Dec.
+
+Influence of BDNF Genetic Polymorphisms in the Pathophysiology of Aging-related 
+Diseases.
+
+Urbina-Varela R(1), Soto-Espinoza MI(2), Vargas R(1), Quiñones L(3), Del Campo 
+A(1).
+
+Author information:
+(1)1Laboratorio de Fisiología y Bioenergética Celular, Departamento de Farmacia, 
+Facultad de Química y de Farmacia, Pontificia Universidad Católica de Chile, 
+Santiago, Chile.
+(2)2Escuela de Tecnología Médica, Facultad de Salud, Universidad Santo Tomás, 
+Chile.
+(3)3Laboratorio de Carcinogenesis Química y Farmacogenética (CQF), Departamento 
+de Oncología Básico-Clínica, Facultad de Medicina, Universidad de Chile.
+
+For the first time in history, most of the population has a life expectancy 
+equal or greater than 60 years. By the year 2050, it is expected that the world 
+population in that age range will reach 2000 million, an increase of 900 million 
+with respect to 2015, which poses new challenges for health systems. In this 
+way, it is relevant to analyze the most common diseases associated with the 
+aging process, namely Alzheimer´s disease, Parkinson Disease and Type II 
+Diabetes, some of which may have a common genetic component that can be detected 
+before manifesting, in order to delay their progress. Genetic inheritance and 
+epigenetics are factors that could be linked in the development of these 
+pathologies. Some researchers indicate that the BDNF gene is a common factor of 
+these diseases, and apparently some of its polymorphisms favor the progression 
+of them. In this regard, alterations in the level of BDNF expression and 
+secretion, due to polymorphisms, could be linked to the development and/or 
+progression of neurodegenerative and metabolic disorders. In this review we will 
+deepen on the different polymorphisms in the BDNF gene and their possible 
+association with age-related pathologies, to open the possibilities of potential 
+therapeutic targets.
+
+copyright: © 2020 Urbina-Varela et al.
+
+DOI: 10.14336/AD.2020.0310
+PMCID: PMC7673859
+PMID: 33269104
+
+Conflict of interest statement: Competing interests: The authors declare that 

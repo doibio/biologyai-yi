@@ -1,0 +1,1000 @@
+CONCLUSIONS: Our results are consistent with the hypothesis that mLVs are 
+involved in the neuro-immune response after TBI. We also defined the resident 
+memory CD8+ T cells as one of the main population activated within the brain 
+after a traumatic injury.
+
+Copyright © 2021 Wojciechowski, Virenque, Vihma, Galbardi, Rooney, Keuters, 
+Antila, Koistinaho and Noe.
+
+DOI: 10.3389/fimmu.2020.559810
+PMCID: PMC7873607
+PMID: 33584640 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+968. Orthop Rev (Pavia). 2021 Jan 28;12(4):8822. doi: 10.4081/or.2020.8822. 
+eCollection 2020 Dec 31.
+
+Comparison of prognostic scales for patients with metastatic spine disease.
+
+Denisov AA(1), Zaborovsky NS(1), Ptashnikov DA(1)(2), Mikhailov DA(1), Masevnin 
+SV(1), Smekalenkov OA(1).
+
+Author information:
+(1)National Medical Research Center of Traumatology and Orthopedics n.a. Vreden 
+R.R., St. Petersburg.
+(2)Mechnikov North-Western State Medical University, St. Petersburg, Russian 
+Federation.
+
+This is one-centre retrospective study with the aim to identify the scale, which 
+provides the most accurate prediction of life expectancy in patients with 
+metastatic lesions in spine. A retrospective analysis of clinical data of 138 
+patients with metastatic spinal tumors. Patients underwent spinal cord 
+decompression and instrumented stabilization of affected area. We evaluated the 
+general condition according to the Karnofsky and ECOG scales, the presence of 
+metastases in the visceral organs, spine and other bones, the neurological 
+status and conduction of the medical therapy before spinal surgery. Observed 
+clinical parameters were converted to Tokuhashi, Tomita, and Katagiri scales. 
+For statistical analysis, software environment R 3.4.1 was used. Assessment of 
+prognostic accuracy was performed using ROC analysis. The Tokuhashi scale showed 
+AUC 0.605 (95% CI 0.586-0.616), Tomita scale showed AUC 0.708 (95% CI 
+0.573-0.842), Katagiri scale showed AUC 0.650 (95% CI 0.508-0.792). The best 
+results for survival rate predicting after surgical treatment for metastatic 
+spinal lesions were shown the Tomita scale.
+
+©Copyright: the Author(s).
+
+DOI: 10.4081/or.2020.8822
+PMCID: PMC7874951
+PMID: 33585023
+
+Conflict of interest statement: Conflict of interest: The authors declare no 
+conflict of interest.
+
+
+969. Biophys Physicobiol. 2020 Dec 26;17:161-176. doi: 
+10.2142/biophysico.BSJ-2020008. eCollection 2020.
+
+GA-guided mD-VcMD: A genetic-algorithm-guided method for multi-dimensional 
+virtual-system coupled molecular dynamics.
+
+Higo J(1), Kusaka A(2), Kasahara K(3), Kamiya N(1), Hayato I(4), Qilin X(5), 
+Takahashi T(3), Fukuda I(1), Mori K(1)(6), Hata Y(1), Fukunishi Y(7).
+
+Author information:
+(1)Graduate School of Simulation Studies, University of Hyogo, Kobe, Hyogo 
+650-0047, Japan.
+(2)Institute for Protein Research, Osaka University, Suita, Osaka 565-0871, 
+Japan.
+(3)College of Life Sciences, Ritsumeikan University, Kusatsu, Shiga 525-8577, 
+Japan.
+(4)Graduate School of Life Sciences, Ritsumeikan University, Kusatsu, Shiga 
+525-8577, Japan.
+(5)College of Pharmaceutical Sciences, Ritsumeikan University, Kusatsu, Shiga 
+525-8577, Japan.
+(6)National Institute of Technology, Maizuru College, Maizuru, Kyoto 625-8511, 
+Japan.
+(7)Cellular and Molecular Biotechnology Research Institute, National Institute 
+of Advanced Industrial Science and Technology (AIST), Koto-ku, Tokyo, 135-0064, 
+Japan.
+
+We introduced a conformational sampling method in an earlier report: The 
+multi-dimensional virtual-system coupled molecular dynamics (mD-VcMD) enhances 
+conformational sampling of a biomolecular system by computer simulations. 
+Herein, new sampling method, a subzone-based mD-VcMD, is presented as an 
+extension of mD-VcMD. Then, the subzone-based method is extended further using a 
+genetic algorithm (GA) named the GA-guided mD-VcMD. In these methods, iterative 
+simulation runs are performed to increase the sampled region gradually. The new 
+methods have the following benefits: (1) They are free from a production run: 
+i.e., all snapshots from all iterations are useful for analyses. (2) They are 
+free from fine tuning of a weight function (probability distribution function or 
+potential of mean force). (3) A canonical ensemble (i.e., a thermally 
+equilibrated ensemble) is generated from a simple procedure. A thermodynamic 
+weight is assigned to each snapshot. (4) Selective sampling can be performed for 
+particularly addressing a poorly sampled region without breaking the proportion 
+of the canonical ensemble if the poorly sampled conformational region emerges in 
+sampling. By applying the methods to a simple system that involves an energy 
+barrier between potential-energy minima, we demonstrated that the new methods 
+have considerably higher sampling efficiency than the original mD-VcMD does.
+
+2020 THE BIOPHYSICAL SOCIETY OF JAPAN.
+
+DOI: 10.2142/biophysico.BSJ-2020008
+PMCID: PMC7840461
+PMID: 33585149
+
+
+970. Childs Nerv Syst. 2021 Jul;37(7):2279-2287. doi: 10.1007/s00381-021-05079-x.
+ Epub 2021 Feb 14.
+
+Surgical pathway proposal for severe paralytic scoliosis in adolescents with 
+myelomeningocele.
+
+Giorgi PD(1), Schirò GR(2), Capitani P(1), D'Aliberti GA(3), Talamonti G(3).
+
+Author information:
+(1)Orthopedics and Traumatology Unit, Emergency and Urgency Department, A.S.S.T. 
+Grande Ospedale Metropolitano Niguarda, Piazza dell'Ospedale Maggiore 3, Milan, 
+Italy.
+(2)Orthopedics and Traumatology Unit, Emergency and Urgency Department, A.S.S.T. 
+Grande Ospedale Metropolitano Niguarda, Piazza dell'Ospedale Maggiore 3, Milan, 
+Italy. giusepper.schiro@gmail.com.
+(3)Neurosurgery Unit, Emergency and Urgency Department, A.S.S.T. Grande Ospedale 
+Metropolitano Niguarda, Milan, Italy.
+
+PURPOSE: The increased life expectancy of patients with myelomeningocele led to 
+the necessity of new management for addressing complex spine deformities with 
+severe pelvic obliquity. Tethered cord release (TCR) and spinal fusion were 
+described as treatment options. However, nowadays, the surgical strategy is not 
+well defined and high rates of mechanical failures and complications are 
+reported. Our aim was to propose a new two-stage surgical pathway to treat a 
+selected group of severe myelomeningocele scoliosis.
+METHODS: This is a retrospective series of myelomeningocele scoliosis in 
+paralytic adolescent patients treated with concurrent TCR and posterior spinal 
+fusion (PSF), followed by delayed anterior fusion (ASF) through minimally 
+invasive lateral approach. Inclusion criteria were as follows: evolutive 
+scoliosis in tethered cord syndrome and paraplegia, main curve >70°, pelvic 
+obliquity >20°, and age between 10 and 18 years. Clinical, surgical, and 
+radiographic parameters were evaluated preoperatively and at a mean follow-up 
+(FU) of 2.8 years.
+RESULTS: Six patients out of 58 met the inclusion criteria and were included in 
+the study (mean age 12.3 years old). The mean curve and pelvic obliquity 
+correction were 68.8% and 82%, respectively. No loss of correction was recorded 
+at FU. One case of cerebrospinal fluid leakage requiring revision surgery was 
+recorded.
+CONCLUSION: To the best of our knowledge, this is the first study proposing a 
+two-stage surgical pathway for severe MMC spinopelvic deformity treatment. 
+Concurrent TCR and PSF with delayed minimally invasive ASF permitted to minimize 
+complications providing good fusion rates without loss of correction and implant 
+failure.
+
+DOI: 10.1007/s00381-021-05079-x
+PMID: 33585957 [Indexed for MEDLINE]
+
+
+971. Bioessays. 2021 Sep;43(9):e2000299. doi: 10.1002/bies.202000299. Epub 2021
+Feb  15.
+
+Evaluation of 92 cardiovascular proteins in dried blood spots collected under 
+field-conditions: Off-the-shelf affinity-based multiplexed assays work well, 
+allowing for simplified sample collection.
+
+Broberg K(1), Svensson J(2), Grahn K(1), Assarsson E(3), Åberg M(2), Selander 
+J(1), Enroth S(4).
+
+Author information:
+(1)Institute of Environmental Medicine, Karolinska Institutet, Stockholm, 
+Sweden.
+(2)Department of Medical Sciences, Clinical Chemistry, Science for Life 
+Laboratory (SciLifeLab) Uppsala, Uppsala University, Uppsala, Sweden.
+(3)Division of Occupational and Environmental Medicine, Lund University, Lund, 
+Sweden.
+(4)Department of Immunology, Genetics, and Pathology, Biomedical Center, Science 
+for Life Laboratory (SciLifeLab) Uppsala, Uppsala University, Uppsala, Sweden.
+
+Workplace-collected blood spots deposited on filter paper were analysed with 
+multiplexed affinity-based protein assays and found to be suitable for 
+proteomics analysis. The protein extension assay (PEA) was used to characterize 
+92 proteins using 1.2 mm punches in repeated samples collected from 20 workers. 
+Overall, 97.8% of the samples and 91.3% of the analysed proteins passed quality 
+control. Both within and between spot correlations using six replicates from the 
+same individual were above 0.99, suggesting that comparable levels are obtained 
+from multiple punches from the same spot and from consecutive spots. Protein 
+levels from dried blood and wet serum from the same individuals were compared 
+and the majority of the analysed proteins were found to be significantly 
+correlated. These results open up for simplified sample collection of blood in 
+field conditions for proteomic analysis, but also highlight that not all 
+proteins can be robustly measured from dried whole blood.
+
+© 2021 The Authors. BioEssays published by Wiley Periodicals LLC.
+
+DOI: 10.1002/bies.202000299
+PMID: 33586222 [Indexed for MEDLINE]
+
+
+972. Cancer Med. 2021 Mar;10(5):1889-1899. doi: 10.1002/cam4.3775. Epub 2021 Feb
+14.
+
+Changing trends in the disease burden of esophageal cancer in China from 1990 to 
+2017 and its predicted level in 25 years.
+
+Li S(1)(2), Chen H(1)(3), Man J(4), Zhang T(4), Yin X(4), He Q(4), Yang 
+X(1)(2)(3), Lu M(1)(3)(4).
+
+Author information:
+(1)Clinical Epidemiology Unit, Qilu Hospital of Shandong University, Jinan, 
+China.
+(2)Department of Gastroenterology, Qilu Hospital, Cheeloo College of Medicine, 
+Shandong University, Jinan, China.
+(3)Clinical Research Center of Shandong University, Qilu Hospital, Cheeloo 
+College of Medicine, Shandong University, Jinan, China.
+(4)Department of Epidemiology and Health Statistics, School of Public Health, 
+Cheeloo College of Medicine, Shandong University, Jinan, China.
+
+BACKGROUND: Nearly half of the cases of esophageal cancer in the world were in 
+China, but the corresponding burden in China has not been estimated for the past 
+decades or for the near future.
+METHODS: Data on the incidence, mortality, and disability-adjusted life years 
+(DALYs) rates owing to esophageal cancer in China from 1990 to 2017 were 
+extracted from the Global Burden of Disease Study 2017. To reflect the trend in 
+the disease burden, we calculated the estimated annual percentage change (EAPC) 
+in the age-standardized rates of these three outcomes in China from 1990 to 
+2017.
+RESULTS: The age-standardized incidence rate (ASIR) for esophageal cancer 
+decreased from 19.38/100,000 in 1990 to 12.23/100,000 in 2017, with an EAPC of 
+-2.53 (95%CI: -2.90, -2.16), but the number of cases of esophageal cancer 
+increased from 164,473 to 234,624. The age-standardized rates of esophageal 
+cancer in females were always lower than they were in males during the study 
+period, and there was a downward trend that was more pronounced among females 
+than males. The most common risk factors for males were smoking and alcohol 
+consumption, while the most common risk factors for females were a diet low in 
+fruits and a high body mass index (BMI). New cases of, and deaths from 
+esophageal cancer are predicted to increase by about 1.5 times in the coming 
+25 years.
+CONCLUSION: Although the age-standardized burden of esophageal cancer has been 
+declining, the number of new cases of, and deaths from esophageal cancer have 
+increased in China over the past 30 years, and they will continue to increase in 
+the near future. Hence, national policies should be adopted to promote the 
+prevention and management of known risk factors for it, especially smoking and 
+excessive caloric intake.
+
+© 2021 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/cam4.3775
+PMCID: PMC7940228
+PMID: 33586344 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors state that the study was conducted 
+without any commercial or financial relationships, which may be interpreted as 
+potential conflicts of interest.
+
+
+973. J Manag Care Spec Pharm. 2021 May;27(5):615-624. doi:
+10.18553/jmcp.2021.20424.  Epub 2021 Feb 15.
+
+Cost-effectiveness of obinutuzumab versus rituximab biosimilars for previously 
+untreated follicular lymphoma.
+
+Spencer SJ(1), Guzauskas GF(2), FeLizzi F(3), Launonen A(3), Dawson K(4), 
+Veenstra DL(2), Masaquel A(4).
+
+Author information:
+(1)University of Washington Institute for Public Health Genetics, Seattle.
+(2)University of Washington Department of Pharmacy, Seattle.
+(3)F. Hoffmann-La Roche, Basel, Switzerland.
+(4)Genentech, South San Francisco, CA.
+
+BACKGROUND: In the randomized phase 3 GALLIUM trial, first-line treatment with 
+obinutuzumab (GA101; G) plus chemotherapy (G + chemo) resulted in superior 
+progression-free survival (PFS) compared with rituximab plus chemotherapy (R + 
+chemo) for patients with follicular lymphoma (FL). G + chemo was found to be 
+cost-effective when compared with R + chemo (incremental cost-effectiveness 
+ratio [ICER] of approximately $2,300 per quality-adjusted life-year [QALY] 
+gained). Two rituximab biosimilars, rituximab-abbs (Ra) and rituximab-pvvr (Rp), 
+have been approved by the FDA for use in this setting. However, the 
+cost-effectiveness of G + chemo versus Ra + chemo and Rp + chemo has not yet 
+been estimated. OBJECTIVE: To evaluate the cost-effectiveness of G + chemo 
+versus Ra + chemo and Rp + chemo in the first-line treatment of FL. METHODS: We 
+adapted an existing Markov model that compared G + chemo with R + chemo, using 
+investigator-assessed PFS and postprogression survival data from the GALLIUM 
+trial to model overall survival. All patients in the study received induction 
+chemoimmunotherapy with either G + chemo or R + chemo, with responders then 
+receiving obinutuzumab or rituximab maintenance therapy for 2 years or until 
+disease progression. We assumed that the efficacy and safety of the rituximab 
+biosimilars plus chemotherapy were the same as the R + chemo arm of the GALLIUM 
+study. Drug utilization and treatment duration were also derived from GALLIUM. 
+Health care costs were based on Medicare reimbursements, and drug costs were 
+average sale prices for intravenous therapies or wholesale acquisition costs for 
+oral therapies used after progression. Utility estimates were based on the 
+GALLIUM trial data and published literature. Sensitivity analyses were conducted 
+to assess the key drivers of the model and uncertainty in the results. Results: 
+Treatment with G + chemo led to an increase of 0.93 QALYs relative to rituximab 
+biosimilars plus chemotherapy (95% credible range [CR] = 0.36-1.46). The total 
+cost of G + chemo was $191,317, whereas the total costs of Ra + chemo and Rp + 
+chemo were $164,340 (Δ14.1%) and $169,755 (Δ11.3%), respectively, with G + chemo 
+resulting in incremental costs of $26,978 (95% CR = $19,781-$33,119) and $21,562 
+(95% CR = $14,473-$28,389), respectively. The incremental total drug and 
+administration costs were $32,678 (Δ25.4%) and $27,263 (Δ21.2%) for G + chemo 
+versus Ra + chemo and G + chemo versus Rp + chemo, respectively. There were cost 
+savings of $7,050 (Δ-12.4%) related to disease progression for G + chemo 
+($56,727) compared with Ra + chemo and Rp + chemo ($63,777). ICERs were $28,879 
+and $23,082 per QALY gained for G + chemo versus Ra + chemo and Rp + chemo, 
+respectively. In probabilistic sensitivity analyses, G + chemo was 
+cost-effective at the $50,000 and $100,000 per QALY thresholds versus both Ra + 
+chemo (88% and 98% probabilities of cost-effectiveness, respectively) and Rp + 
+chemo (93% and 98%, respectively). CONCLUSIONS: G + chemo is projected to be 
+cost-effective versus rituximab biosimilars plus chemotherapy in the United 
+States as first-line treatment for FL, driven by increased QALYs for G + chemo 
+and cost savings from delayed disease progression. DISCLOSURES: This study was 
+funded by Genentech, a member of the Roche Group. The study sponsor was involved 
+in study design, data interpretation, and writing of the report. All authors 
+approved the decision to submit the report for publication. Spencer and 
+Guzauskas report fees from Genentech during the conduct of the study. Felizzi 
+was employed by F. Hoffmann-La Roche at the time this study was conducted; 
+Launonen is an employees of F. Hoffmann-La Roche. Felizzi and Launonen 
+previously had share ownership in Novartis. Dawson and Masaquel are employees of 
+Genentech, and they have stock options in F. Hoffmann-La Roche. Veenstra reports 
+fees from Genentech, during the conduct of this study and outside of the 
+submitted work. This work was presented, in part, at the AACR Virtual Meeting 
+Advances in Malignant Lymphoma meeting (virtual; August 17-19, 2020) and the 
+SOHO annual meeting (virtual; September 9-12, 2020).
+
+DOI: 10.18553/jmcp.2021.20424
+PMCID: PMC10394221
+PMID: 33586513 [Indexed for MEDLINE]
+
+Conflict of interest statement: This study was funded by Genentech, a member of 
+the Roche Group. The study sponsor was involved in study design, data 
+interpretation, and writing of the report. All authors approved the decision to 
+submit the report for publication. Spencer and Guzauskas report fees from 
+Genentech during the conduct of the study. Felizzi was employed by F. 
+Hoffmann-La Roche at the time this study was conducted; Launonen is an employees 
+of F. Hoffmann-La Roche. Felizzi and Launonen previously had share ownership in 
+Novartis. Dawson and Masaquel are employees of Genentech, and they have stock 
+options in F. Hoffmann-La Roche. Veenstra reports fees from Genentech, during 
+the conduct of this study and outside of the submitted work. This work was 
+presented, in part, at the AACR Virtual Meeting Advances in Malignant Lymphoma 
+meeting (virtual; August 17-19, 2020) and the SOHO annual meeting (virtual; 
+September 9-12, 2020).
+
+
+974. Soc Stud Sci. 2021 Aug;51(4):512-537. doi: 10.1177/0306312721992541. Epub
+2021  Feb 14.
+
+The ecobiopolitics of environmental mitigation: Remaking fish habitat through 
+the Savannah Harbor Expansion Project.
+
+Carse A(1).
+
+Author information:
+(1)Vanderbilt University, Nashville, TN, USA.
+
+Environmental mitigation has become a catch-all term for efforts to avoid, 
+minimize or compensate for the adverse impacts of development. Through an 
+analysis of the expensive and complex plan developed to mitigate the anticipated 
+impacts of deepening Savannah Harbor, I develop an ecobiopolitical approach to 
+mitigation. Environmental mitigation is triage, involving difficult choices 
+about which entities are worthy of concern and, thus, candidates for 
+intervention - and, by extension, which are not. It involves decisions about 
+which among the chosen deserve strict protection and which merit looser forms of 
+care. As these processes move to center stage in twenty-first-century governance 
+and politics, it has become important to understand what kinds of environments 
+mitigation generates. What survives? What dies? What flourishes? This article 
+focuses on initiatives designed to maintain minimally suitable conditions for 
+non-human life. Insomuch as the object of habitat mitigation is the animal 
+milieu, rather than the body or population, it can be understood as a form of 
+ecobiopolitics. By contrasting the projected fates of three fish in the 
+post-mitigation ecology of the Savannah River, I argue that the ecobiopolitics 
+of habitat mitigation can be conceptualized at four registers. The first, 
+comparity, highlights the value-laden processes through which some entities 
+become candidates for mitigation and others do not. The second, hierarchy, 
+underscores how candidates for mitigation are ranked in ways that shape the 
+interventions pursued. The third, nonfungibility, foregrounds how problems of 
+commensuration are negotiated in mitigation practice. The fourth, overflow, 
+emphasizes how mitigation aimed at one entity can lead to other ecological 
+changes.
+
+DOI: 10.1177/0306312721992541
+PMID: 33586522 [Indexed for MEDLINE]
+
+
+975. J Microencapsul. 2021 Jun;38(4):249-261. doi: 10.1080/02652048.2021.1889059.
+ Epub 2021 Mar 14.
+
+Polymeric microparticle systems for modified release of glucagon-like-peptide-1 
+receptor agonists.
+
+Icart LP(1)(2), Souza FG Jr(2), Lima LMTR(1)(2)(3).
+
+Author information:
+(1)Pharmaceutical Biotechnology Laboratory (pbiotech), Faculty of Pharmacy, 
+Federal University of Rio de Janeiro, Rio de Janeiro, Brazil.
+(2)Laboratory of Biopolymers and Sensors (LaBioS), Institute of Macromolecules, 
+Federal University of Rio de Janeiro, Rio de Janeiro, Brazil.
+(3)Laboratory for Macromolecules (LAMAC-DIMAV), Brazilian National Institute of 
+Metrology, Quality and Technology, Duque de Caxias, Brazil.
+
+Type 2 diabetes is a fast-growing worldwide epidemic. Despite the multiple 
+therapies available to treat type 2 diabetes, the disease is not correctly 
+managed in over half of patients, mainly due to non-compliance with prescribed 
+treatment regimes. The development of analogues to the glucagon-like peptide 1 
+(GLP-1) has resulted in the extension of its half-life and associated benefits. 
+Further benefits in the use of peptide-based GLP-1 receptor agonists have been 
+achieved by the use of controlled-release systems based on polymeric 
+microparticles. In this review, we focus on commercially available formulations 
+and others that remain in development, discussing the preparation methods and 
+the relationship between in vitro and in vivo kinetic release behaviours.
+
+DOI: 10.1080/02652048.2021.1889059
+PMID: 33586588 [Indexed for MEDLINE]
+
+
+976. Sports Biomech. 2021 Feb 14:1-14. doi: 10.1080/14763141.2020.1864015. Online
+ ahead of print.
+
+Investigation of normal knees kinematics in walking and running at different 
+speeds using a portable motion analysis system.
+
+Liu R(1)(2)(3), Qian D(1)(2), Chen Y(1)(2), Zou J(1)(2), Zheng S(1)(2), Bai 
+B(1)(2), Lin Z(2)(4), Zhang Y(2)(4), Chen Y(1)(2).
+
+Author information:
+(1)Department of Orthopaedic Surgery, The First Affiliated Hospital of Guangzhou 
+Medical University, Guangzhou, China.
+(2)Guangdong Key Laboratory of Orthopaedic Technology and Implant Materials, 
+Guangzhou, China.
+(3)Institute of Orthopaedic Diseases, Jinan University, Guangzhou, China.
+(4)Department of Orthopaedic Surgery, Guangzhou General Hospital of Guangzhou 
+Military Command, Guangzhou, China.
+
+Walking and running at different speeds are common in daily life. This study 
+investigated 6 degrees of freedom (DOF) kinematics of normal knees of Chinese 
+during walking and running. Forty healthy participants were investigated in 4 
+conditions: comfortable walking, normal walking, slow running and ordinary 
+running. The range of motion (ROM) and peak values in 6 DOF kinematics were 
+analysed. As the speed increased, a general increase in flexion, lateral and 
+proximal translations occurred. Significant increases of ROM in 
+flexion/extension, axial rotation and medial/lateral translations were observed. 
+The ROM of adduction/abduction, anterior/posterior and proximal/distal 
+translations were greatest during normal walking. The maximum and minimum 
+flexion/extension, maximum internal rotation and tibial lateral translations 
+increased with the increase of speed. The maximum and minimum tibial proximal 
+translations in running were found being greater than walking. A phenomenon 
+between walking and running was observed: both tibial proximal/distal and 
+medial/lateral translations increased when changed from walking to running. 
+Non-linear transition exists in 6 DOF kinematics during walking to running. 
+Discoveries in this study may have potential clinical values to serve as 
+references of normal walking and running in the management of knee injury and 
+knee rehabilitation.
+
+DOI: 10.1080/14763141.2020.1864015
+PMID: 33586617
+
+
+977. Environ Monit Assess. 2021 Feb 15;193(3):130. doi:
+10.1007/s10661-021-08890-w.
+
+Capturing urban heat island formation in a subtropical city of China based on 
+Landsat images: implications for sustainable urban development.
+
+Zhang X(1), Estoque RC(2), Murayama Y(3), Ranagalage M(4).
+
+Author information:
+(1)Institute of Ecological Civilization, Jiangxi University of Finance and 
+Economics, Nanchang, 330013, China. zhangxm1217@yahoo.com.
+(2)Center for Climate Change Adaptation, National Institute for Environmental 
+Studies, 16-2 Onogawa, Tsukuba, Ibaraki, 305-8506, Japan.
+(3)Faculty of Life and Environmental Sciences, University of Tsukuba, 1-1-1 
+Tennodai, Tsukuba, Ibaraki, 305-8572, Japan.
+(4)Faculty of Social Sciences and Humanities, Rajarata University of Sri Lanka, 
+Mihintale, 50300, Sri Lanka.
+
+Land use/cover change is the main driving force of urban expansion which 
+influences human-environment interactions. Generally, the formation of urban 
+heat islands (UHIs) can be referred to as a negative "by-product" of 
+urbanization. In the context of rapid urbanization, the present paper aims to 
+capture the landscape changes and three patterns of urban expansion (i.e., 
+infill, extension, and leapfrog), and provide a better understanding of the 
+formation of the surface urban heat island (SUHI) in Dongguan, China, during the 
+past 20+ years. Urban land increased from 28.87 × 103 ha in 1994 to 78.89 × 103 
+ha in 2005 and 101.05 × 103 ha in 2015, with a compound annual urban growth rate 
+of 9.57% (1994-2005) and 2.51% (2005-2015), respectively. Based on the mean land 
+surface temperature difference (Δ mean LST) between urban land (UL) and green 
+space (GS), the SUHI intensity (SUHII) increased from 1.46 °C in 1994 to 2.32 °C 
+in 2005 and 3.83 °C in 2015 in Dongguan. Overall, the Δ mean LST of urban areas 
+increased from 2.61 °C (1994-2005) to 4.78 °C (2005-2015). The Δ mean LST 
+between the city center and its surrounding areas decreased from 1994 to 2015, 
+and the Δ mean LST between the city center and the suburbs gradually increased, 
+primarily in 2015. In particular, both dense urban and the infill pattern of 
+urban expansion had high mean LSTs in Dongguan, thus having negative impacts on 
+sustainable urban development. The limited green space and open land should be 
+strictly controlled or prohibited for transformation in urban areas. 
+Particularly in dense regions, green roofs, green areas, and urban renewal 
+actions could be considered for mitigating the urban heat island effect.
+
+DOI: 10.1007/s10661-021-08890-w
+PMID: 33587190 [Indexed for MEDLINE]
+
+
+978. Am Fam Physician. 2021 Feb 15;103(4):219-226.
+
+Frailty: Evaluation and Management.
+
+Allison R 2nd(1), Assadzandi S(1), Adelman M(1).
+
+Author information:
+(1)West Virginia University, Morgantown, WV, USA.
+
+Frailty, which is a geriatric syndrome that affects 5% to 17% of older adults, 
+is a state of increased vulnerability across multiple health domains that leads 
+to adverse health outcomes. Frail older adults are at increased risk of falls, 
+disability, hospitalizations, and death. Frailty may initially be overlooked or 
+incorrectly identified as part of the normal aging process because of the 
+variable nature of the presentation and diagnosis. Symptoms include generalized 
+weakness, exhaustion, slow gait, poor balance, decreased physical activity, 
+cognitive impairment, and weight loss. There is no current recommendation for 
+routine screening. A comprehensive geriatric assessment can identify risk 
+factors and symptoms that suggest frailty. Several validated frailty assessment 
+tools can evaluate a patient for frailty. Patients are diagnosed as not-frail, 
+prefrail, or frail. Patients with a larger number of frail attributes are at 
+higher risk of poor outcomes. The management of frail patients must be 
+individualized and tailored to each patient's goals of care and life expectancy. 
+Physical activity and balance exercises may be suitable for patients who are 
+less frail. Palliative care and symptom control may be appropriate for those who 
+are more frail.
+
+PMID: 33587574 [Indexed for MEDLINE]
+
+
+979. Health Res Policy Syst. 2021 Feb 15;19(1):21. doi:
+10.1186/s12961-020-00666-x.
+
+Demographic forecasting of population aging in Greece and Cyprus: one big 
+challenge for the Mediterranean health and social system long-term 
+sustainability.
+
+Lamnisos D(1), Giannakou K(2), Jakovljevic MM(3)(4)(5).
+
+Author information:
+(1)Department of Health Sciences, School of Health Sciences, European University 
+Cyprus, Nicosia, Cyprus. D.Lamnisos@euc.ac.cy.
+(2)Department of Health Sciences, School of Health Sciences, European University 
+Cyprus, Nicosia, Cyprus.
+(3)Institute of Comparative Economic Studies, Hosei University, Tokyo, Japan.
+(4)Department of Public Health and Healthcare named after N.A. Semashko, I.M. 
+Sechenov First Moscow State Medical University (Sechenov University), Moscow, 
+Russia.
+(5)Department of Global Health Economics and Policy, Faculty of Medical 
+Sciences, University of Kragujevac, Kragujevac, Serbia.
+
+BACKGROUND: With an increasing aging population and a lower ratio between the 
+active and the dependent population, population aging is considered a global 
+social and health challenge, associated with increased demand in health care 
+needs and social pension. This study projects the Greek and Cypriot population 
+to guide future planning of social and health policies and services.
+METHODS: The total population by sex and age groups, Total Fertility Rate (TFR), 
+life-expectancies at birth and Potential Support Ratio PSR (persons aged 
+20-64 years per person 65+ years) are projected probabilistically by the year 
+2100 using Bayesian hierarchical models and United Nations' population data for 
+Greece and Cyprus from the period of 1950 to 2015.
+RESULTS: The TFR is projected to be around 1.5 children per woman in 2050 and 
+around 1.75 in 2100 for both countries, with all values of prediction intervals 
+being around or below the Replacement level fertility. PSR is expected to 
+decrease remarkably and be 2.5 in 2050 and 1.6 in 2100 for Cyprus while for 
+Greece it will be around 1.5 for both years 2050 and 2100. Life-expectancy is 
+expected to increase to 84 years for men and 87 years for women in 2050 and 
+90 years for men and 94 years for women in 2100 for both countries. The share of 
+the population aged 65 years and over is projected to increase in both countries 
+and be the one third of the population by 2100.
+CONCLUSIONS: Greece and Cyprus will acquire the characteristics of an aging 
+population, putting a significance pressure on the social and health systems of 
+both countries. Both countries should reform their social and health policy 
+agenda to confront population aging and its consequence. They should adopt 
+fertility incentives and family policies to increase fertility and migrants' 
+inclusiveness policies to improve the demographic structure and the economic 
+activity. The national health systems should promote prevention strategies at 
+the primary health sector and promote healthy aging while health research policy 
+should aim to promote research in innovative technologies and digital health to 
+create assistive technology for self-care and greater independence of older 
+people.
+
+DOI: 10.1186/s12961-020-00666-x
+PMCID: PMC7885460
+PMID: 33588876 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declared no potential conflicts of 
+interest with respect to the research, authorship, and/or publication of this 
+article.
+
+
+980. Orphanet J Rare Dis. 2021 Feb 15;16(1):86. doi: 10.1186/s13023-020-01658-4.
+
+Long-term health-related quality of life in patients treated with subcutaneous 
+C1-inhibitor replacement therapy for the prevention of hereditary angioedema 
+attacks: findings from the COMPACT open-label extension study.
+
+Lumry WR(1), Zuraw B(2), Cicardi M(3), Craig T(4), Anderson J(5), Banerji A(6), 
+Bernstein JA(7), Caballero T(8), Farkas H(9), Gower RG(10), Keith PK(11), Levy 
+DS(12), Li HH(13), Magerl M(14), Manning M(15), Riedl MA(16), Lawo JP(17), 
+Prusty S(17), Machnig T(17), Longhurst H(18)(19); on behalf of the COMPACT 
+Investigators.
+
+Author information:
+(1)AARA Research Center, 10100 N. Central Expressway, Suite 100, Dallas, TX, 
+75231, USA. Lumrymd@AARAResearch.com.
+(2)Department of Medicine, UC San Diego, La Jolla, CA, USA.
+(3)University of Milan, Milan, Italy.
+(4)Penn State University College of Medicine, Hershey, PA, USA.
+(5)Clinical Research Center of Alabama, Birmingham, AL, USA.
+(6)Massachusetts General Hospital, Boston, MA, USA.
+(7)University of Cincinnati College of Medicine and Bernstein Clinical Research 
+Center, LLC, Cincinnati, OH, USA.
+(8)Allergy Department, Hospital La Paz Institute for Health Research (IdiPaz), 
+Biomedical Research Network On Rare Diseases (CIBERER U754), Madrid, Spain.
+(9)Hungarian Angioedema Reference Center, 3Rd Department of Internal Medicine, 
+Semmelweis University, Budapest, Hungary.
+(10)Marycliff Clinical Research, Spokane, WA, USA.
+(11)McMaster University, Hamilton, ON, USA.
+(12)UC Irvine, Orange, CA, USA.
+(13)Institute for Asthma and Allergy, Chevy Chase, MD, USA.
+(14)Department of Dermatology and Allergy, Charité, Universitätsmedizin Berlin, 
+Berlin, Germany.
+(15)Medical Research of Arizona, Scottsdale, AZ, USA.
+(16)Division of Rheumatology, Allergy and Immunology, University of California, 
+San Diego, La Jolla, CA, USA.
+(17)CSL Behring GmbH, Emil-von-Behring-Strasse 76, Marburg, Germany.
+(18)University College Hospital, London, UK.
+(19)Auckland District Health Board, Auckland, New Zealand.
+
+Erratum in
+    Orphanet J Rare Dis. 2021 Jul 28;16(1):329.
+
+BACKGROUND: Long-term prophylaxis with subcutaneous C1-inhibitor (C1-INH[SC]; 
+HAEGARDA, CSL Behring) in patients with hereditary angioedema (HAE) due to 
+C1-INH deficiency (C1-INH-HAE) was evaluated in an open-label extension 
+follow-up study to the international, double-blind, placebo-controlled COMPACT 
+study. The current analysis evaluated patient-reported health-related quality of 
+life (HRQoL) data from 126 patients in the open-label extension study randomized 
+to treatment with C1-INH(SC) 40 IU/kg (n = 63) or 60 IU/kg (n = 63) twice weekly 
+for 52 weeks. HRQoL was evaluated at the beginning of the open-label study and 
+at various time points using the European Quality of Life-5 Dimensions 
+Questionnaire (EQ-5D), the Hospital Anxiety and Depression Scale (HADS), the 
+Work Productivity and Activity Impairment Questionnaire (WPAI), and the 
+Treatment Satisfaction Questionnaire for Medication. The disease-specific 
+Angioedema Quality of Life Questionnaire (AE-QoL) and HAE quality of life 
+questionnaire (HAE-QoL) instruments were administered in a subset of patients. 
+Statistical significance was determined by change-from-baseline 95% confidence 
+intervals (CIs) excluding zero. No adjustment for multiplicity was done.
+RESULTS: Mean baseline EQ-5D scores (Health State Value, 0.90; Visual Analog 
+Scale, 81.32) were slightly higher (better) than United States population norms 
+(0.825, 80.0, respectively) and mean HADS anxiety (5.48) and depression (2.88) 
+scores were within "normal" range (0-7). Yet, patients using C1-INH(SC) 60 IU/kg 
+demonstrated significant improvement from baseline to end-of-study on the EQ-5D 
+Health State Value (mean change [95% CI], 0.07 [0.01, 0.12] and Visual Analog 
+Scale (7.45 [3.29, 11.62]). In the C1-INH(SC) 60 IU/kg group, there were 
+significant improvements in the HADS anxiety scale (mean change [95% CI], - 1.23 
+[- 2.08, - 0.38]), HADS depression scale (- 0.95 [- 1.57, - 0.34]), and 
+WPAI-assessed presenteeism (mean change [95% CI], - 23.33% [- 34.86, - 11.81]), 
+work productivity loss (- 26.68% [- 39.92, - 13.44]), and activity impairment 
+(- 16.14% [- 26.36, - 5.91]). Clinically important improvements were achieved 
+in ≥ 25% of patients for all domains except WPAI-assessed absenteeism (which was 
+very low at baseline). Mean AE-QoL total score by visit ranged from 13.39 to 
+17.89 (scale 0-100; lower scores = less impairment). Mean HAE-QoL global scores 
+at each visit (115.7-122.3) were close to the maximum (best) possible score of 
+135.
+CONCLUSIONS: Long-term C1-INH(SC) replacement therapy in patients with 
+C1-INH-HAE leads to significant and sustained improvements in multiple measures 
+of HRQoL. Trial registration A Study to Evaluate the Long-term Clinical Safety 
+and Efficacy of Subcutaneously Administered C1-esterase Inhibitor in the 
+Prevention of Hereditary Angioedema, NCT02316353. Registered December 12, 2014, 
+https://clinicaltrials.gov/ct2/show/NCT02316353 .
+
+DOI: 10.1186/s13023-020-01658-4
+PMCID: PMC7885603
+PMID: 33588897 [Indexed for MEDLINE]
+
+Conflict of interest statement: W Lumry is a consultant for Adverum, Attune, 
+BioCryst, CSL Behring, Kalvista, Pharming, and Takeda; a speaker for CSL 
+Behring, Pharming, and Takeda; and has received research grants from BioCryst, 
+CSL Behring, Pharming, Ionis, and Takeda. B Zuraw has served as a consultant for 
+Adverum, Attune, BioCryst, CSL Behring, and Takeda. M Cicardi was a PI, 
+consultant, and speaker for CSL Behring, Shire/Takeda, and Pharming; a 
+consultant PI for BioCryst, Kalvista, Attune, and Pharvaris; and conducted 
+research with Pharming and Shire/Takeda. T Craig is a consultant and speaker for 
+CSL Behring, Shire/Takeda, Spark, and Pharming; has conducted research for CSL 
+Behring, Shire/Takeda, Ionis, and BioCryst; and is on the Medical Advisory Board 
+for the HAEA, Board of Directors for the AAAAI and the Board of Directors for 
+ALA- Mid Atlantic. J Anderson is a PI, consultant, and speaker for CSL Behring, 
+Shire/Takeda, and Pharming and a PI for BioCryst. A Banerji conducted research 
+with Shire/Takeda, BioCryst and served as a consultant for Shire/Takeda, 
+BioCryst, Pharming, CSL, and Kalvista. JA Bernstein is a PI, consultant, and 
+speaker for CSL Behring, Shire/Takeda, and Pharming; a consultant and PI for 
+BioCryst; and a consultant for Kalvista. T Caballero is a speaker for CSL 
+Behring, Merck, Novartis, and Shire/Takeda; consultant for BioCryst, CSL 
+Behring, Novartis, Octapharma, Pharming, and Shire/Takeda; she has been a PI in 
+clinical trials/registries for BioCryst, CSL Behring, Novartis, Pharming, and 
+Shire/Takeda; she has received educational funding from CSL Behring, Novartis, 
+and Shire/Takeda; and she is a researcher from the IdiPAZ program for promoting 
+research activities. H Farkas has received honoraria, speaker fees, and travel 
+grants from CSL Behring, Shire/Takeda, Swedish Orphan Biovitrum, and Pharming 
+and/or served as a consultant for these companies and has participated in 
+clinical trials/registries for BioCryst, CSL Behring, Pharming, and 
+Shire/Takeda. RG Gower has conducted research with Shire/Takeda and BioCryst; he 
+has served as a consultant with Shire/Takeda and CSL Behring; is on the advisory 
+board for Shire/Takeda, BioCryst, and Fresenius Kabi; and he has received 
+speakers’ fees from Shire/Takeda. PK Keith has conducted research with, served 
+as a consultant for, and has received speakers’ fees from Shire/Takeda and CSL 
+Behring. DS Levy has served as a consultant, speaker, and has received research 
+grants from CSL Behring; he has served as a consultant for BioCryst; he has 
+served as a speaker for Takeda. HH Li has conducted research with and has served 
+as a consultant/received speakers’ fees from Shire/Takeda, BioCryst, and CSL 
+Behring; he has served as a consultant/received speakers’ fees from Pharming. M 
+Magerl is a PI, consultant, and/or speaker for CSL Behring, BioCryst, Kalvista, 
+Shire/Takeda, and Pharming. M Manning is a researcher/PI and speaker/consultant 
+at CSL Behring, Shire/Takeda, BioCryst, and Pharming. M Riedl is a research 
+investigator with CSL Behring, Takeda, BioCryst, and Ionis; he has served as a 
+consultant for CSL Behring, Takeda, BioCryst, Pharming, Adverum, Attune, 
+Kalvista, and Pharvaris; and he has received speakers’ fees from CSL Behring, 
+Takeda, and Pharming. J-P Lawo, S Prusty, and T Machnig are/were employees of 
+and stockholders at CSL Behring during study conduct. H Longhurst served as a 
+consultant for, participated in research with or accepted educational funding 
+support from Adverum, BioCryst, CSL Behring, GSK, Kalvista, Pfizer, Pharming, 
+Pharvaris, and Shire/Takeda.
+
+
+981. Vaccine. 2021 Feb 22;39(8):1183-1186. doi: 10.1016/j.vaccine.2021.01.019.
+
+The recommended lifetime immunization schedule from the board of vaccination 
+calendar for life in Italy: A continuing example of impact on public health 
+policies.
+
+Bonanni P(1), Villani A(2), Scotti S(3), Biasci P(4), Russo R(2), Maio T(3), 
+Vitali Rosati G(4), Moscadelli A(5), Conforti G(4), Azzari C(2), Ferro A(5), 
+Francia F(5), Chiamenti G(4), Barretta M(4), Castiglia P(5), Macrì P(6), 
+Conversano M(5), Bozzola E(2), Angelillo IF(5).
+
+Author information:
+(1)Italian Society of Hygiene, Preventive Medicine and Public Health (SItI), 
+Italy. Electronic address: paolo.bonanni@unifi.it.
+(2)Italian Society of Paediatrics (SIP), Italy.
+(3)Italian Federation of General Practitioners (FIMMG), Italy.
+(4)Italian Federation of Primary Care Paeditaricians (FIMP), Italy.
+(5)Italian Society of Hygiene, Preventive Medicine and Public Health (SItI), 
+Italy.
+(6)MeLCo - Medicina Legale Contemporanea, Italy.
+
+The Vaccination Calendar for Life is an alliance of scientific and professional 
+societies of public health physicians, paediatricians and general practitioners 
+in Italy which provides a periodical update on the ideal, scientifically driven 
+vaccination calendar throughout lifetime. Since 2012, the Lifetime Immunization 
+Schedule has represented a benchmark for Regional and National Authorities to 
+set up the updated list of vaccines provided actively and free of charge to 
+infants, children, adolescents, adults and the elderly by inclusion in the 
+Triennial National Vaccination Plan (TNVP), and in the Essential Levels of Care 
+(LEA). The impact of the different editions of the Lifetime Immunization 
+Schedule on the TNVP was deep, representing the inspiring source for the present 
+vaccination policy. The 2019 edition called for more attention to pregnant women 
+immunization; risk groups vaccination; uniform high coverage with the MMRV 
+vaccine; extension of Meningococcal B vaccination also at adolescent age; use of 
+quadrivalent conjugate meningococcal vaccine also at 1 year of life; progressive 
+decrease of the age of free-of-charge offer of influenza to ≥ 60 and then 
+to ≥ 50 year-old population; implementation of flu immunization ages 
+6 months-6 years; HPV vaccination also offered to 25-year old women at the time 
+of the first screening (gender neutral immunization already offered); sequential 
+PCV13-PPV23 pneumococcal vaccination in 65 year-old subjects; increased coverage 
+with rotavirus vaccine in infants and zoster vaccine in the elderly.
+
+Copyright © 2021. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.vaccine.2021.01.019
+PMID: 33589048 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+982. BMJ Open. 2021 Feb 15;11(2):e042280. doi: 10.1136/bmjopen-2020-042280.
+
+Cost-effectiveness and budget impact analysis of facility-based screening and 
+treatment of hepatitis C in Punjab state of India.
+
+Chugh Y(1), Premkumar M(2), Grover GS(3), Dhiman RK(4), Teerawattananon Y(5)(6), 
+Prinja S(7).
+
+Author information:
+(1)Department of Community Medicine and School of Public Health, Post Graduate 
+Institute of Medical Education and Research School of Public Health, Chandigarh, 
+Punjab, India.
+(2)Department of Hepatology, Post Graduate Institute of Medical Education and 
+Research, Chandigarh, India.
+(3)Department of Health and Family Welfare, National Viral Hepatitis Control 
+Program, Government of Punjab, Chandigarh, India.
+(4)Director, Sanjay Gandhi Post Graduate Institute of Medical Sciences, Lucknow, 
+Uttar Pradesh, India.
+(5)Health Intervention and Technology Assessment Program, Ministry of Public 
+Health, Mueang Nonthaburi, Nonthaburi, Thailand.
+(6)Saw Swee Hock School of Public Health (SSHSPH), National University of 
+Singapore, Singapore.
+(7)Department of Community Medicine and School of Public Health, Post Graduate 
+Institute of Medical Education and Research, Chandigarh, India 
+shankarprinja@gmail.com.
+
+OBJECTIVE: Despite treatment availability, chronic hepatitis C virus (HCV) 
+public health burden is rising in India due to lack of timely diagnosis. 
+Therefore, we aim to assess incremental cost per quality-adjusted life year 
+(QALY) for one-time universal screening followed by treatment of people infected 
+with HCV as compared with a no screening policy in Punjab, India.
+STUDY DESIGN: Decision tree integrated with Markov model was developed to 
+simulate disease progression. A societal perspective and a 3% annual discount 
+rate were considered to assess incremental cost per QALY gained. In addition, 
+budgetary impact was also assessed with a payer's perspective and time horizon 
+of 5 years.
+STUDY SETTING: Screening services were assumed to be delivered as a 
+facility-based intervention where active screening for HCV cases would be 
+performed at 22 district hospitals in the state of Punjab, which will act as 
+integrated testing as well as treatment sites for HCV.
+INTERVENTION: Two intervention scenarios were compared with no universal 
+screening and treatment (routine care). Scenario I-screening with ELISA followed 
+by confirmatory HCV-RNA quantification and treatment. Scenario II-screening with 
+rapid diagnostic test (RDT) kit followed by confirmatory HCV-RNA quantification 
+and treatment.
+PRIMARY AND SECONDARY OUTCOME MEASURES: Lifetime costs; life years and QALY 
+gained; and incremental cost-effectiveness ratio for each of the above-mentioned 
+intervention scenario as compared with the routine care.
+RESULTS: Screening with ELISA and RDT, respectively, results in a gain of 0.028 
+(0.008 to 0.06) and 0.027 (0.008 to 0.061) QALY per person with costs decreased 
+by -1810 Indian rupees (-3376 to -867) and -1812 Indian rupees (-3468 to -850) 
+when compared with no screening. One-time universal screening of all those ≥18 
+years at a base coverage of 30%, with ELISA and RDT, would cost 8.5 and 8.3 
+times more, respectively, when compared with screening the age group of the 
+cohort 40-45 years old.
+CONCLUSION: One-time universal screening followed by HCV treatment is a dominant 
+strategy as compared with no screening. However, budget impact of screening of 
+all ≥18-year-old people seems unsustainable. Thus, in view of findings from both 
+cost-effectiveness and budget impact, we recommend beginning with screening the 
+age cohort with RDT around mean age of disease presentation, that is, 40-45 
+years, instead of all ≥18-year-old people.
+
+© Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY. Published 
+by BMJ.
+
+DOI: 10.1136/bmjopen-2020-042280
+PMCID: PMC7887370
+PMID: 33589457 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+983. BMJ Open. 2021 Feb 15;11(2):e044706. doi: 10.1136/bmjopen-2020-044706.
+
+Uneven state distribution of homicides in Brazil and their effect on life 
+expectancy, 2000-2015: a cross-sectional mortality study.
+
+Aburto JM(1)(2), Calazans J(3), Lanza Queiroz B(3), Luhar S(4), Canudas-Romo 
+V(5).
+
+Author information:
+(1)Leverhulme Centre for Demographic Science, Department of Sociology and 
+Nuffield College, University of Oxford, Oxford, UK 
+jose-manuel.aburto@sociology.ox.ac.uk.
+(2)Interdisciplinary Centre on Population Dynamics, University of Southern 
+Denmark, Odense, Denmark.
+(3)CEDEPLAR, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil.
+(4)Department of Public Health and Primary Care, University of Cambridge, 
+Cambridge, UK.
+(5)School of Demography, Australian National University, Canberra, Australian 
+Capital Territory, Australia.
+
+OBJECTIVE: To determine cause-specific and age-specific contributions to life 
+expectancy changes between 2000 and 2015, separately by state and sex in Brazil, 
+with a focus on homicides.
+DESIGN: Retrospective cross-sectional demographic analysis of mortality.
+SETTING AND POPULATION: Brazilian population by age, sex and state from 2000 to 
+2015.
+MAIN OUTCOME MEASURE: Using mortality data from the Brazilian Mortality 
+Information System and population estimates from the National Statistics Office, 
+we used death distribution methods and the linear integral decomposition model 
+to estimate levels and changes in life expectancy. We also examine how multiple 
+causes of death, including those attributable to homicides and 
+amenable/avoidable mortality, contributed to these changes from 2000 to 2015.
+RESULTS: Between 2000 and 2015, life expectancy in Brazil increased from 71.5 to 
+75.1 years. Despite state-level variation in gains, life expectancy increased in 
+almost all states over this period. However across Brazil, homicide mortality 
+contributed, to varying degrees, to either attenuated or decreased male life 
+expectancy gains. In Alagoas in 2000-2007 and Sergipe in 2007-2015, homicides 
+contributed to a reduction in life expectancy of 1.5 years, offsetting gains 
+achieved through improvements due to medically amenable causes. In the period 
+2007-2015, male life expectancy could have been improved by more than half a 
+year in 12 of Brazil's states if homicide mortality had remained at the levels 
+of 2007.
+CONCLUSIONS: Homicide mortality appears to offset life expectancy gains made 
+through recent improvements to mortality amenable to medical services and public 
+health interventions, with considerable subnational heterogeneity in the extent 
+of this phenomenon. Efforts combating the causes of homicides can increase life 
+expectancy beyond what has been achieved in recent decades.
+
+© Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2020-044706
+PMCID: PMC7887357
+PMID: 33589464 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+984. Sci Rep. 2021 Feb 15;11(1):3786. doi: 10.1038/s41598-021-83383-x.
+
+The relationship of indoxyl sulfate and p-cresyl sulfate with target 
+cardiovascular proteins in hemodialysis patients.
+
+Wu PH(1)(2)(3)(4), Lin YT(1)(2)(5)(4), Chiu YW(2)(6)(3), Baldanzi G(4), Huang 
+JC(1)(2)(3)(7), Liang SS(8), Lee SC(3), Chen SC(1)(2)(3)(7), Hsu YL(9), Kuo 
+MC(10)(11)(12), Hwang SJ(2)(6)(3).
+
+Author information:
+(1)Graduate Institute of Clinical Medicine, College of Medicines, Kaohsiung 
+Medical University, Kaohsiung, Taiwan.
+(2)Faculty of Medicine, College of Medicine, Kaohsiung Medical University, 
+Kaohsiung, Taiwan.
+(3)Division of Nephrology, Department of Internal Medicine, Kaohsiung Medical 
+University Hospital, 100 Shih-Chuan 1st Road, Kaohsiung, 807, Taiwan.
+(4)Department of Medical Sciences, Uppsala University, Uppsala, Sweden.
+(5)Department of Family Medicine, Kaohsiung Medical University Hospital, 
+Kaohsiung, Taiwan.
+(6)Faculty of Renal Care, College of Medicine, Kaohsiung Medical University, 
+Kaohsiung, Taiwan.
+(7)Department of Internal Medicine, Kaohsiung Municipal Siaogang Hospital, 
+Kaohsiung Medical University, Kaohsiung, Taiwan.
+(8)Department of Biotechnology, College of Life Science, Kaohsiung Medical 
+University, Kaohsiung, Taiwan.
+(9)Graduate Institute of Medicine, College of Medicine, Kaohsiung Medical 
+University, Kaohsiung, Taiwan.
+(10)Faculty of Medicine, College of Medicine, Kaohsiung Medical University, 
+Kaohsiung, Taiwan. mechku@kmu.edu.tw.
+(11)Faculty of Renal Care, College of Medicine, Kaohsiung Medical University, 
+Kaohsiung, Taiwan. mechku@kmu.edu.tw.
+(12)Division of Nephrology, Department of Internal Medicine, Kaohsiung Medical 
+University Hospital, 100 Shih-Chuan 1st Road, Kaohsiung, 807, Taiwan. 
+mechku@kmu.edu.tw.
+
+Protein-bound uremic toxins (Indoxyl sulfate [IS] and p-cresyl sulfate [PCS]) 
+are both associated with cardiovascular (CV) and all-cause mortality in subjects 
+with chronic kidney disease (CKD). Possible mechanisms have not been elucidated. 
+In hemodialysis patients, we investigated the relationship between the free form 
+of IS and PCS and 181 CV-related proteins. First, IS or PCS concentrations were 
+checked, and high levels were associated with an increased risk of acute 
+coronary syndrome (ACS) in 333 stable HD patients. CV proteins were further 
+quantified by a proximity extension assay. We examined associations between the 
+free form protein-bound uremic toxins and the quantified proteins with 
+correction for multiple testing in the discovery process. In the second step, 
+the independent association was evaluated by multivariable-adjusted models. We 
+rank the CV proteins related to protein-bound uremic toxins by bootstrapped 
+confidence intervals and ascending p-value. Six proteins (signaling lymphocytic 
+activation molecule family member 5, complement component C1q receptor, C-C 
+motif chemokine 15 [CCL15], bleomycin hydrolase, perlecan, and cluster of 
+differentiation 166 antigen) were negatively associated with IS. Fibroblast 
+growth factor 23 [FGF23] was the only CV protein positively associated with IS. 
+Three proteins (complement component C1q receptor, CCL15, and interleukin-1 
+receptor-like 2) were negatively associated with PCS. Similar findings were 
+obtained after adjusting for classical CV risk factors. However, only higher 
+levels of FGF23 was related to increased risk of ACS. In conclusion, IS and PCS 
+were associated with several CV-related proteins involved in endothelial barrier 
+function, complement system, cell adhesion, phosphate homeostasis, and 
+inflammation. Multiplex proteomics seems to be a promising way to discover novel 
+pathophysiology of the uremic toxin.
+
+DOI: 10.1038/s41598-021-83383-x
+PMCID: PMC7884394
+PMID: 33589722 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+985. Acta Diabetol. 2021 Jun;58(6):797-807. doi: 10.1007/s00592-021-01683-0. Epub
+ 2021 Feb 15.
+
+Risk of cause-specific death, its sex and age differences, and life expectancy 
+in post-pancreatitis diabetes mellitus.
+
+Cho J(1), Pandol SJ(2), Petrov MS(3).
+
+Author information:
+(1)School of Medicine, University of Auckland, Auckland, New Zealand.
+(2)Division of Gastroenterology, Department of Medicine, Cedars-Sinai Medical 
+Center, Los Angeles, CA, USA.
+(3)School of Medicine, University of Auckland, Auckland, New Zealand. 
+max.petrov@gmail.com.
+
+AIMS: The aim was to investigate sex- and age-stratified risks of cause-specific 
+death and life expectancy in individuals with post-pancreatitis diabetes 
+mellitus (PPDM).
+METHODS: Nationwide data on mortality in New Zealand were obtained. For two 
+head-to-head comparisons (PPDM versus type 2 diabetes mellitus [T2DM]; PPDM 
+versus type 1 diabetes mellitus [T1DM]), the groups were matched on age, sex, 
+and calendar year of diabetes diagnosis. Multivariable Cox regression analyses 

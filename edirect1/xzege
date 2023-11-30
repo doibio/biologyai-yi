@@ -1,0 +1,1000 @@
+
+Ferres JL(1), Nasir M(1), Bijral A(2), Subramanian SV(3), Weeks WB(4).
+
+Author information:
+(1)AI for Good Lab, Microsoft Corporation, Redmond, WA, USA.
+(2)Microsoft Corporation, Redmond, WA, USA.
+(3)Department of Social and Behavioral Sciences, Harvard T.H. Chan School of 
+Public Health, Boston, MA, USA.
+(4)AI for Good Lab, Microsoft Corporation, Redmond, WA, USA. 
+william.weeks@microsoft.com.
+
+BACKGROUND: In 1991, Halpern and Coren claimed that left-handed people die nine 
+years younger than right-handed people. Most subsequent studies did not find 
+support for the difference in age of death or its magnitude, primarily because 
+of the realization that there have been historical changes in reported rates of 
+left-handedness.
+METHODS: We created a model that allowed us to determine whether the historical 
+change in left-handedness explains the original finding of a nine-year 
+difference in life expectancy. We calculated all deaths in the United States by 
+birth year, gender, and handedness for 1989 (the Halpern and Coren study was 
+based on data from that year) and contrasted those findings with the modeled age 
+of death by reported and counterfactual estimated handedness for each birth 
+year, 1900-1989.
+RESULTS: In 1989, 2,019,512 individuals died, of which 6.4% were reportedly 
+left-handed based on concurrent annual handedness reporting. However, it is 
+widely believed that cultural pressures may have caused an underestimation of 
+the true rate of left-handedness. Using a simulation that assumed no age of 
+death difference between left-handed and right-handed individuals in this cohort 
+and adjusting for the reported rates of left-handedness, we found that 
+left-handed individuals were expected to die 9.3 years earlier than their 
+right-handed counterparts due to changes in the rate of left-handedness over 
+time. This difference of 9.3 years was not found to be statistically significant 
+compared to the 8.97 years reported by Halpern and Coren. When we assumed no 
+change in the rate of left-handedness over time, the survival advantage for 
+right-handed individuals was reduced to 0.02 years, solely driven by not 
+controlling for gender. When we considered the estimated age of death for each 
+birth cohort, we found a mean difference of 0.43 years between left-handed and 
+right-handed individuals, also driven by handedness difference by gender.
+CONCLUSION: We found that the changing rate of left-handedness reporting over 
+the years entirely explains the originally reported observation of nine-year 
+difference in life expectancy. In epidemiology, new information on past 
+reporting biases could warrant re-exploration of initial findings. The 
+simulation modeling approach that we use here might facilitate such analyses.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s13690-023-01156-6
+PMCID: PMC10369838
+PMID: 37495995
+
+Conflict of interest statement: There is no financial or non-financial competing 
+interest applicable to any of the authors.
+
+
+198. Perspect Public Health. 2023 Jul 26:17579139231180800. doi: 
+10.1177/17579139231180800. Online ahead of print.
+
+Excess mortality in 22 European countries in 2020 and 2021: relationship with 
+socioeconomic indicators.
+
+López-Gigosos R(1), Vegas-Romero M(2), Mariscal A(3), Mariscal-López E(4), Fang 
+J(5), Gutiérrez-Bedmar M(3).
+
+Author information:
+(1)Department of Preventive Medicine and Public Health, University of Málaga, 
+School of Medicine, Málaga 29071, Spain.
+(2)Primary Care District Málaga-Guadalhorce, Málaga, Spain.
+(3)Department of Preventive Medicine and Public Health, University of Málaga, 
+School of Medicine, Málaga, Spain.
+(4)Department of Cardiology, Hospital Costa del Sol, Malaga, Spain.
+(5)Center for Neurology and Sleep Medicine, San Antonio, TX, USA.
+
+AIMS: For better understanding of the impact of COVID-19 pandemic on mortality 
+in different countries, we studied the excess mortality from any cause during 
+2020 and 2021 in 22 European countries, and its relationship with three 
+socioeconomic variables: life expectancy at birth in 2019, per capita income, 
+and low education level.
+METHODS: Using an ecological design, we analyzed excess mortality data between 
+January 2020 and December 2021 in 22 European countries, obtained from the 
+EuroMOMO surveillance system. Using weekly Z-score data for each country, we 
+estimated the annual average deviation in mortality during 2020 and 2021 for 
+each country. We analyzed possible relationships between the excess mortality 
+and three independent variables: gross domestic product per capita (GDPpc) in 
+2020, life expectancy at birth in 2019, and proportion of the population over 
+age 18 years with a lower than secondary education level in 2018.
+RESULTS: In the 22 European countries analyzed, the total number of excess 
+deaths in 2020 and 2021 was 800,011 (11%) more than expected, with deaths among 
+those aged 65 years and over accounting for 87.66% of these. Excess mortality 
+was higher in 2020, especially in Spain, UK, Italy, and France. In 2021, excess 
+mortality was highest in Hungary, the Netherlands, France, and Germany. Excess 
+mortality during 2021 was inversely correlated with life expectancy (r =-.489, p 
+= .021) and income level (r =-.550, p = .008).
+CONCLUSION: Reducing socioeconomic inequalities among countries not only 
+improves conditions of most disadvantages but also will help to reduce excess of 
+mortality from future pandemics.
+
+DOI: 10.1177/17579139231180800
+PMID: 37496392
+
+
+199. Int J Qual Health Care. 2023 Jul 25;35(3):mzad048. doi:
+10.1093/intqhc/mzad048.
+
+Breast cancer care amidst a pandemic: a scoping review to understand the impact 
+of coronavirus disease 2019 on health services and health outcomes.
+
+Myers C(1), Bennett K(2), Cahir C(2).
+
+Author information:
+(1)School of Population Health, RCSI University of Medicine and Health Science, 
+Dublin D02 DH60, Ireland.
+(2)Data Science Centre, School of Population Health, RCSI University of Medicine 
+and Health Science, Dublin D02 DH60, Ireland.
+
+Since the onset of the coronavirus disease 2019 (COVID-19) pandemic, health 
+services for breast cancer (BC) have been disrupted. Our scoping review examines 
+the impact of the COVID-19 pandemic on BC services, health outcomes, and 
+well-being for women. Additionally, this review identifies social inequalities 
+specific to BC during the pandemic. Using the Preferred Reporting Items for 
+Systematic Reviews and Meta-Analyses extension for scoping reviews guidelines, 
+the literature search was conducted using scientific databases starting from 
+March 2020 through November 2021. Studies were identified and selected by two 
+researchers based on inclusion criteria, and the relevant data were extracted 
+and charted to summarize the findings. Ninety-three articles were included in 
+this review. Main themes included are as follows: (i) the impact of COVID-19 on 
+BC services; (ii) the impact of COVID-19 on health outcomes and well-being in 
+women with BC; and (iii) any variation in the impact of COVID-19 on BC by social 
+determinants of health. There were apparent disruptions to BC services across 
+the cancer continuum, especially screening services. Clinical repercussions were 
+a result of such disruptions, and women with BC experienced worsened quality of 
+life and psychosocial well-being. Finally, there were social inequalities 
+dependent on social determinants of health such as age, race, insurance status, 
+and region. Due to the disruption of BC services during the COVID-19 pandemic, 
+women were impacted on their health and overall well-being. The variation in 
+impact demonstrates how health inequities have been exacerbated during the 
+pandemic. This comprehensive review will inform timely health-care changes to 
+minimize long-term impacts of the pandemic and improve evidence-based 
+multidisciplinary needs.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of 
+International Society for Quality in Health Care.
+
+DOI: 10.1093/intqhc/mzad048
+PMCID: PMC10373113
+PMID: 37497806 [Indexed for MEDLINE]
+
+
+200. J Bras Nefrol. 2023 Jul 21:S0101-28002023005024501. doi: 
+10.1590/2175-8239-JBN-2022-0124en. Online ahead of print.
+
+Cardiorespiratory fitness and mortality risk in patients receiving hemodialysis: 
+a prospective cohort.
+
+[Article in English, Portuguese]
+
+Andrade FP(1), Borba CF(2), Ribeiro HS(3), Rovedder PME(1).
+
+Author information:
+(1)Universidade Federal do Rio Grande do Sul, Ciências Pneumológicas 
+Post-Graduation Program, Porto Alegre, RS, Brazil.
+(2)Universidade Federal do Rio Grande do Sul, Escola de Fisioterapia, Porto 
+Alegre, RS, Brazil.
+(3)Universidade de Brasília, Faculdade de Ciências da Saúde, Brasília, DF, 
+Brazil.
+
+BACKGROUND: Kidney failure reduces life expectancy by one-third compared with 
+the general population, and cardiovascular complications and poor 
+cardiorespiratory fitness (CRF) are the main causes. We aimed to evaluate the 
+association between severely low CRF and all-cause mortality risk in HD 
+patients.
+METHODS: This observational prospective cohort study followed-up patients 
+receiving HD from August 2015 until March 2022. Cardiorespiratory fitness was 
+evaluated through the cardiopulmonary exercise test, and the peak oxygen uptake 
+(VO2peak) value was used to determine severely low CRF (< 15 mL∙kg-1∙min-1). Cox 
+regression and univariate Kaplan-Meier analysis were used to evaluate the 
+association of severely low CRF with mortality risk and survival rate.
+RESULTS: Forty-eight patients were followed-up for a median of 33.0 [14.3 - 
+49.3] months. A total of 26 patients had severely low CRF. During the follow-up 
+period, 11 patients (22.92%) died from all causes. From these, eight (30.8%) had 
+severely low CRF. Even so, severely low CRF was not associated with crude death 
+rates for patients stratified by CRF levels (p = 0.189), neither in unadjusted 
+(HR 2.18; CI 95% 0.58-8.23) nor in adjusted (HR 1.32; CI 95% 0.31-5.59) Cox 
+proportional hazard models. As a continuous variable, VO2peak was not associated 
+with mortality risk (HR 1.01; CI 95% 0.84-1.21). Univariate Kaplan-Meier 
+analysis showed that patients with severely low CRF did not have significantly 
+worse survival rates than those with mild-moderate CRF (p = 0.186).
+CONCLUSION: Our findings indicated that severely low CRF was not associated with 
+all-cause mortality in patients on HD. Despite severely low CRF being prevalent, 
+larger cohort studies are needed to establish strong conclusions on its 
+association with all-cause mortality.
+
+DOI: 10.1590/2175-8239-JBN-2022-0124en
+PMID: 37497828
+
+
+201. Acta Haematol. 2023 Jul 27. doi: 10.1159/000533234. Online ahead of print.
+
+Immune dysfunction and infection - interaction between CLL and treatment A 
+reflection on current treatment paradigms and unmet needs.
+
+Gargiulo E, Teglgaard RS, Faitová T, Niemann CU.
+
+Background Chronic lymphocytic leukemia (CLL) is a hematological malignancy 
+characterized by immune dysfunction, which significantly contributes to 
+increased morbidity and mortality due to infections. Summary Advancement in 
+therapeutic strategies based on combination chemoimmunotherapy and targeted 
+treatment have increased life expectancy for patients affected by CLL. However, 
+mortality and morbidity due to infection showed no improvement over the last 
+decades. Although therapy options are highly efficient in targeting leukemic 
+cells, several studies highlighted the interactions of different treatments with 
+the tumor microenvironment immune components, significantly impacting their 
+clinical efficacy and fostering increased risk of infections. Key messages Given 
+the profound immune dysfunction caused by CLL itself, treatment can thus 
+represent a double-edged sword. Thus, it is essential to increase our 
+understanding and awareness on how conventional therapies affect the 
+disease-microenvironment-infection axis to ensure the best personalized strategy 
+for each patient. This requires careful consideration of the advantages and 
+disadvantages of efficient treatments, whether chemoimmunotherapy or targeted 
+combinations, leading to risk of infectious complications. To this regard, our 
+machine learning based algorithm CLL-TIM, currently implemented into the local 
+electronic health record system for Eastern Denmark, aims at early 
+identification of patients at high risk of serious infections (PreVent-ACaLL; 
+NCT03868722). We here review strategies for management of immune dysfunction and 
+infections in CLL.
+
+S. Karger AG, Basel.
+
+DOI: 10.1159/000533234
+PMID: 37497921
+
+
+202. J Nutr Health Aging. 2023;27(7):578-585. doi: 10.1007/s12603-023-1942-9.
+
+Efficacy of Silkworm Pupae Extract on Muscle Strength and Mass in Middle-Aged 
+and Older Individuals: A Randomized, Double-Blind, Placebo-Controlled Trial.
+
+Choi JI(1), Kweon HY, Lee YL, Lee JH, Lee SY.
+
+Author information:
+(1)Sang Yeoup Lee, Family Medicine Clinic, Pusan National University Yangsan 
+Hospital, Yangsan 50612, Republic of Korea, Telephone: +82-55-390-1442, E-mail: 
+saylee@pnu.edu, Fax: +82-51-510-8125.
+
+OBJECTIVES: We investigated the efficacy and safety of silkworm pupae extract 
+(SWP) consumption for 12 weeks on muscle mass and strength in middle-aged and 
+older individuals with relatively low skeletal muscle mass who do regular 
+low-intensity exercise.
+DESIGN: A randomized double-blinded placebo-controlled trial.
+PARTICIPANTS: The study was conducted with 54 participants with relatively low 
+skeletal muscle mass (SMM) (64.4 ± 6.1 years; body mass index, 23.8 ± 2.4 
+kg/m2).
+INTERVENTION AND MEASUREMENTS: Participants were randomly assigned to one of two 
+groups: 1000 mg of SWP/day plus regular exercise (SWP group, n=27) or placebo 
+plus regular exercise (placebo group, n=27). All participants were required to 
+engage in 30-60 minutes/day of walking for ≥3 days/week for 12 weeks. The 
+primary outcome was knee extension/flexion strength (Nm), measured at the 
+velocity of 60°/s. Secondary outcomes included body composition, biomarkers 
+(creatine kinase and creatinine), handgrip strength, and quality of life 
+questionnaire.
+RESULTS: Both the intention-to-treat (ITT) and per-protocol (PP) analyses 
+revealed no significant impact of SWP on knee strength compared to the placebo 
+group over 12 weeks. On the other hand, the SWP group had significantly greater 
+increases in right-handgrip strength by 1.94 kg (95% CI: 0.08-3.79; p = 0.041) 
+and left-handgrip strength by 1.83 kg (0.25-3.41; p = 0.024) compared to the 
+placebo group in the ITT population, after 12 weeks. Moreover, in the PP 
+population, the SWP group revealed an even greater increase in right-handgrip 
+strength by 2.07 kg (0.15-3. 98; p = 0.035) and left-handgrip strength by 2.21 
+kg (0.60-3.83; p = 0.008) for the 12-week period. However, this study resulted 
+in a failure to detect significant differences in the body composition, 
+biomarkers, quality of life questionnaire, physical activity, and caloric intake 
+between the groups. None of the participants in the SWP group experienced any 
+significant adverse events. In the placebo group, two participants experienced 
+urticaria and allergic side effects, leading to their withdrawal from the study 
+and two exhibited elevated levels of liver enzyme and increased diastolic blood 
+pressure, respectively at 12 weeks.
+CONCLUSION: SWP, in addition to low-intensity exercise, may enhance handgrip 
+strengths in middle-aged and older adults with relatively lower SMM. Future 
+studies need to use a large sample size over longer periods to validate our 
+findings. This trial was registered at clinicaltrials.gov as NCT04994054.
+
+DOI: 10.1007/s12603-023-1942-9
+PMID: 37498105 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors have no conflicts of interest.
+
+
+203. Clin Transl Oncol. 2023 Jul 27. doi: 10.1007/s12094-023-03243-0. Online
+ahead of  print.
+
+Update on the management of elderly patients with colorectal cancer.
+
+Soler-González G(1), Sastre-Valera J(2), Viana-Alonso A(3), Aparicio-Urtasun 
+J(4), García-Escobar I(5), Gómez-España MA(6), Guillén-Ponce C(7), 
+Molina-Garrido MJ(8), Gironés-Sarrió R(9).
+
+Author information:
+(1)Departamento de Oncología Médica, Spanish Society of Medical Oncology (SEOM) 
+Oncogeriatrics Section, Institut Català d'Oncologia (ICO) L'Hospitalet, Avinguda 
+de la Granvia de l'Hospitalet 199-203, L'Hospitalet de Llobregat, 08908, 
+Barcelona, Spain. gsoler@iconcologia.net.
+(2)Spanish Cooperative Group for the Treatment of Digestive Tumours (TTD), 
+Clinico San Carlos University Hospital, Madrid, Spain.
+(3)Spanish Society of Medical Oncology (SEOM) Oncogeriatrics Section, Nuestra 
+Señora del Prado General University Hospital, Talavera de la Reina, Spain.
+(4)Multidisciplinary Spanish Group of Digestive Cancer (GEMCAD), Polytechnic la 
+Fe University Hospital, Valencia, Spain.
+(5)Spanish Society of Medical Oncology (SEOM) Oncogeriatrics Section, General 
+University Hospital of Toledo, Toledo, Spain.
+(6)Spanish Society of Medical Oncology (SEOM) Oncogeriatrics Section, Reina 
+Sofía University Hospital. Instituto Maimónides de Investigación Biomédica de 
+Córdoba (IMIBIC), Córdoba, Spain.
+(7)Spanish Society of Medical Oncology (SEOM) Oncogeriatrics Section, Ramón y 
+Cajal University Hospital, Madrid, Spain.
+(8)Spanish Society of Medical Oncology (SEOM) Oncogeriatrics Section, Virgen de 
+la Luz Hospital, Cuenca, Spain.
+(9)Spanish Society of Medical Oncology (SEOM) Oncogeriatrics Section, 
+Polytechnic la Fe University Hospital, Valencia, Spain.
+
+Erratum in
+    Clin Transl Oncol. 2023 Nov 29;:
+
+Colorectal cancer (CRC) is one of the most common tumours worldwide, and 70% of 
+CRC patients are over 65 years of age. However, the scientific evidence 
+available for these patients is poor, as they are underrepresented in clinical 
+trials. Therefore, a group of experts from the Oncogeriatrics Section of the 
+Spanish Society of Medical Oncology (SEOM), the Spanish Cooperative Group for 
+the Treatment of Digestive Tumours, (TTD) and the Multidisciplinary Spanish 
+Group of Digestive Cancer (GEMCAD) have reviewed the scientific evidence 
+available in older patients with CRC. This group of experts recommends a 
+multidisciplinary approach and geriatric assessment (GA) before making a 
+therapeutic decision because GA predicts the risk of toxicity and survival and 
+helps to individualize treatment. In addition, elderly patients with localized 
+CRC should undergo standard cancer resection, preferably laparoscopically. The 
+indication for adjuvant chemotherapy (CT) should be considered based on the 
+potential benefit, the risk of recurrence, the life expectancy and patient 
+comorbidities. When the disease is metastatic, the possibility of radical 
+treatment with surgery, radiofrequency (RF) or stereotactic body radiation 
+therapy (SBRT) should be considered. The efficacy of palliative CT is similar to 
+that seen in younger patients, but elderly patients are at increased risk of 
+toxicity. Clinical trials should be conducted with the elderly population and 
+include GAs and specific treatment plans.
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s12094-023-03243-0
+PMID: 37498507
+
+
+204. Acta Oncol. 2023 Aug;62(8):871-879. doi: 10.1080/0284186X.2023.2238551. Epub
+ 2023 Jul 27.
+
+Prognosis of breast cancer patients with brain metastasis treated with 
+radiotherapy.
+
+Simonsen MK(1), Vrou Offersen B(1)(2)(3)(4), Jensen AB(1)(4).
+
+Author information:
+(1)Department of Oncology, Aarhus University Hospital, Denmark.
+(2)Department of Experimental Clinical Oncology, Aarhus University Hospital, 
+Denmark.
+(3)Danish Center for Particle Therapy, Aarhus University Hospital, Denmark.
+(4)Department of Clinical Medicine, Aarhus University.
+
+BACKGROUND: Life expectancy for patients diagnosed with metastatic breast cancer 
+(BC) has improved in recent years, especially due to better systemic treatment. 
+This has led to an increased incidence of brain metastases (BM), and BC is now 
+the leading cause of BM in women. Treatment of BM primarily consists of surgery 
+and/or radiotherapy. We aimed to investigate survival time and prognostic 
+factors for BC patients treated with radiotherapy for BM.
+MATERIAL & METHODS: During the period 1st of January 2015 to 1st of June 2020, 
+144 consecutive BC patients treated for BM from one centre were retrospectively 
+analyzed. The patients were either diagnosed with BM as the first metastatic 
+lesion, or developed BM during palliative therapy for distant non-brain 
+metastasis. The study was approved by the Central Denmark Region.
+RESULTS: Median age at BM diagnosis was 66 years, and 90% of the patients 
+already had extracranial metastatic disease at BM diagnosis. Median overall 
+survival after diagnosis of BM was 6.1 months. Short survival was observed for 
+patients with poor performance status, leptomeningeal metastasis or more than 
+three solid BM. Several of these factors were overrepresented in patients with 
+estrogen receptor-positive (ER+) tumours who had poorer survival than patients 
+with different receptor status.
+CONCLUSION: The number of metastatic BC patients developing BM is high, and 
+survival following local treatment remains poor. Several prognostic factors 
+appear to influence survival after radiotherapy. Treatment of BC patients with 
+BM should be individualized according to performance status, leptomeningeal 
+disease, number of BM, and receptor status of the disease.
+
+DOI: 10.1080/0284186X.2023.2238551
+PMID: 37498539 [Indexed for MEDLINE]
+
+
+205. Prosthet Orthot Int. 2023 Jul 27. doi: 10.1097/PXR.0000000000000253. Online 
+ahead of print.
+
+Progress in muscle strength of the reconstructed knee and quality of life of the 
+patient after knee rotationplasty: A case report.
+
+Fukushima T(1)(2), Okita Y(1), Watanabe N(1), Yokota S(1), Nakano J(2), Tanaka 
+Y(3), Kawai A(1).
+
+Author information:
+(1)Department of Musculoskeletal Oncology and Rehabilitation, National Cancer 
+Center Hospital, Tokyo, Japan.
+(2)Faculty of Rehabilitation, Kansai Medical University, Osaka, Japan.
+(3)Department of Rehabilitation Medicine, JR Tokyo General Hospital, Tokyo, 
+Japan.
+
+Knee rotationplasty (KRP) is a function-preserving surgery that serves as an 
+alternative to above-knee amputation in patients diagnosed with malignant bone 
+and soft tissue tumors around the knee joint. However, the short-term progress 
+of the reconstructed knee in terms of muscle strength is unclear after KRP. This 
+case report describes the progress of a 37-year-old man diagnosed with synovial 
+sarcoma in the distal femur, 1 year after undergoing KRP. Changes in muscle 
+strength of the reconstructed knee and physical function are reported. Physical 
+therapy was started on postoperative day 1 after the KRP, and mobilization 
+proceeded step-by-step with sitting, wheelchair transfer, and crutch walking. 
+Active and passive range-of-motion exercises of the reconstructed knee were 
+started on postoperative day 5. The isometric reconstructed knee extension 
+strength, 10-m walk test, timed up and go test, Musculoskeletal Tumor Society 
+score, Toronto Extremity Salvage Score, and quality of life (QOL) were 
+evaluated. One month postoperatively, muscle strength had increased, and at 6 
+and 12 months postoperatively, isometric knee extension strength and physical 
+function had improved. Furthermore, activities of daily living and QOL gradually 
+improved over the course of the 12 months. Our case shows the previously unknown 
+course of reconstructed knee muscle strength in the early post-KRP period, with 
+corresponding improvements in physical function, activities of daily living, and 
+QOL.
+
+Copyright © 2023 International Society for Prosthetics and Orthotics.
+
+DOI: 10.1097/PXR.0000000000000253
+PMID: 37498771
+
+
+206. Altern Ther Health Med. 2023 Oct;29(7):316-321.
+
+Spinal Fixed-point Rotating Reduction for Treatment of Facet Joint Disorders.
+
+Zheng J, Duan C, Ma C.
+
+CONTEXT: Facet joint disorder is a series of clinical syndromes that lumbar 
+trauma or degenerative disease can cause, and it can result in lumbar pain and 
+restricted movement. Despite use of conventional Western and traditional Chinese 
+treatments, patients can still experience many clinical symptoms, with no 
+effective improvements in lumbar-spine movement or quality of life.
+OBJECTIVE: The study intended to investigate the effects of spinal, fixed-point, 
+rotating reduction on the pain levels and daily living abilities of patients 
+with facet joint disorders.
+DESIGN: The research team performed a prospective, randomized controlled study.
+SETTING: The study took place at Wuhan Central Hospital, Affiliated to Tongji 
+Medical College, at Huazhong University of Science and Technology in Wuhan, 
+China.
+PARTICIPANTS: Participants were 88 patients with facet joint disorders who had 
+been admitted to the hospital between June 2021 and August 2022.
+INTERVENTION: The research team randomly divided participants into two groups, 
+with 44 participants in each group, using the numerical table method: (1) the 
+intervention group, who received treatment using the spinal, fixed-point, 
+rotating reduction method, and (2) the control group, treated who received 
+treatment using conventional tui-na, acupuncture, and traction.
+OUTCOME MEASURES: The research team measured changes: (1) in pain, (2) in lumbar 
+mobility, (3) in lumbar-spine function, and (4) in daily living abilities.
+RESULTS: In the comparisons between the groups at baseline, no significant 
+differences existed: (1) in pain levels (P = .656); (2) in forward flexion (P = 
+.982), extension (P = .887), lateral flexion (P = .408), or rotation (P = .888); 
+(3) in the scores for clinical symptoms (P = .982), subjective symptoms (P = 
+.887), or limitations in daily activities (P = .408); or (4) in the scores for 
+daily living abilities (P = .427). In the comparisons between the groups at two 
+weeks postintervention, the intervention group's: (1) pain levels were 
+significantly lower than those of the control group (P < .001); (2) forward 
+flexion, extension, lateral flexion, and rotation were significantly higher than 
+those of the control group (all P < .001); (3) scores for clinical symptoms, 
+subjective symptoms, and limitations in daily activities were significantly 
+better than those of the control group (all P < .001); and (4) scores for daily 
+living abilities were subjective higher than those of the control group (P < 
+.001).
+CONCLUSION: Spinal, fixed-point, rotating reduction can significantly relieve 
+the pain of patients with facet joint disorders restore their lumbar spine 
+mobility, improve their lumbar spine function, increase their ADL abilities, and 
+facilitate patients' recovery. Practitioners can promote it in clinical 
+practice.
+
+PMID: 37499146 [Indexed for MEDLINE]
+
+
+207. Soc Sci Med. 2023 Sep;332:116094. doi: 10.1016/j.socscimed.2023.116094. Epub
+ 2023 Jul 19.
+
+Reconsidering the relationship between health and income in the UK.
+
+Chowdhury R(1), Cook S(2), Watson D(3).
+
+Author information:
+(1)School of Social Sciences, Swansea University, United Kingdom. Electronic 
+address: r.a.chowdhury@swan.ac.uk.
+(2)School of Social Sciences, Swansea University, United Kingdom. Electronic 
+address: s.cook@swan.ac.uk.
+(3)School of Economics, University of East Anglia, United Kingdom. Electronic 
+address: duncan.watson@uea.ac.uk.
+
+The present paper revisits and extends the examination of the long-run 
+relationship between UK life expectancy and income provided by Tapia Granados 
+(2012). Adopting a more detailed form of analysis, a clear break corresponding 
+to the 1918-1919 Influenza Pandemic is identified in the long span of data 
+examined. This finding of structural change, along with detected uncertainty 
+regarding the orders of integration of the series examined, results in the 
+application of split-sample analysis employing autoregressive distributed lag 
+(ARDL) modelling. The results obtained reverse the 'no long-run relationship' 
+conclusion of Tapia Granados (2012) with overwhelming evidence presented in 
+support of a negative relationship between life expectancy and income. Our 
+findings add to both health-income research and a burgeoning literature on the 
+reproduction and replication of previously published empirical research.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.socscimed.2023.116094
+PMID: 37499482 [Indexed for MEDLINE]
+
+
+208. J Am Dent Assoc. 2023 Aug;154(8):715-726.e5. doi:
+10.1016/j.adaj.2023.04.017.
+
+Using machine learning to study the association of sociodemographic indicators, 
+biomarkers, and oral condition in older adults in Colombia.
+
+Botero JE, Zuluaga AI, Suárez-Córdoba V, Calzada MT, Gutiérrez-Quiceno B, 
+Gutiérrez AF, Mateus-Londoño N.
+
+BACKGROUND: Chronic health conditions and socioeconomic problems that affect the 
+well-being and life expectancy of older adults are common. The objective of this 
+cross-sectional study was to analyze the association between sociodemographic 
+variables, oral conditions, and general health and the biomarkers of older 
+adults using machine learning (ML).
+METHODS: A total of 15,068 surveys from the national study of Health, Well-Being 
+and Aging (Salud, Bienestar y Envejecimiento) data set were used for this 
+secondary analysis. Of these, 3,128 people provided blood samples for the 
+analysis of blood biomarkers. Sociodemographic, oral health, and general health 
+variables were analyzed using ML and logistic regression.
+RESULTS: The results of clustering analysis showed that dyslipidemia was 
+associated with poor oral condition, lower socioeconomic status, being female, 
+and low education. The self-perception of oral health in older adults was not 
+associated with the presence of teeth, blood biomarkers, or socioeconomic 
+variables. However, the necessity of replacing a dental prosthesis was 
+associated with the lowest self-perception of oral health. Edentulism was 
+associated with being female, increased age, and smoking.
+CONCLUSIONS: Socioeconomic and educational disparities, sex, and smoking are 
+important factors for tooth loss and suboptimal blood biomarkers in older 
+adults. ML is a powerful tool for identifying potential variables that may aid 
+in the prevention of systemic and oral diseases in older adults, which would 
+improve geriatric dentistry.
+PRACTICAL IMPLICATIONS: These findings can help the academic community identify 
+critical sociodemographic and clinical factors that influence the process of 
+healthy aging and serve as a useful guide to enhance health care policies and 
+geriatric oral health care services.
+
+Copyright © 2023 American Dental Association. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1016/j.adaj.2023.04.017
+PMID: 37500234 [Indexed for MEDLINE]
+
+
+209. Nat Commun. 2023 Jul 27;14(1):4518. doi: 10.1038/s41467-023-40245-6.
+
+Increasing number of long-lived ancestors marks a decade of healthspan extension 
+and healthier metabolomics profiles.
+
+van den Berg N(1)(2), Rodríguez-Girondo M(3), van Dijk IK(4), Slagboom 
+PE(#)(5)(6), Beekman M(#)(5).
+
+Author information:
+(1)Department of Biomedical Data Sciences, section of Molecular Epidemiology, 
+Leiden University Medical Center, Albinusdreef 2, 2333 ZA, Leiden, the 
+Netherlands. n.m.a.van_den_berg@lumc.nl.
+(2)Centre for Economic Demography, Department of Economic History, Lund 
+University, Scheelevägen 15B, 223 63, Lund, Sweden. n.m.a.van_den_berg@lumc.nl.
+(3)Department of Biomedical Data Sciences, section of Medical Statistics, Leiden 
+University Medical Center, Albinusdreef 2, 2333 ZA, Leiden, the Netherlands.
+(4)Centre for Economic Demography, Department of Economic History, Lund 
+University, Scheelevägen 15B, 223 63, Lund, Sweden.
+(5)Department of Biomedical Data Sciences, section of Molecular Epidemiology, 
+Leiden University Medical Center, Albinusdreef 2, 2333 ZA, Leiden, the 
+Netherlands.
+(6)Max Planck Institute for Biology of Ageing, Joseph-Stelzmann-Str. 9b, 
+D-50931, Cologne, Germany.
+(#)Contributed equally
+
+Globally, the lifespan of populations increases but the healthspan is lagging 
+behind. Previous research showed that survival into extreme ages (longevity) 
+clusters in families as illustrated by the increasing lifespan of study 
+participants with each additional long-lived family member. Here we investigate 
+whether the healthspan in such families follows a similar quantitative pattern 
+using three-generational data from two databases, LLS (Netherlands), and SEDD 
+(Sweden). We study healthspan in 2143 families containing index persons with 26 
+follow-up years and two ancestral generations, comprising 17,539 persons. Our 
+results provide strong evidence that an increasing number of long-lived 
+ancestors associates with up to a decade of healthspan extension. Further 
+evidence indicates that members of long-lived families have a delayed onset of 
+medication use, multimorbidity and, in mid-life, healthier metabolomic profiles 
+than their partners. We conclude that both lifespan and healthspan are 
+quantitatively linked to ancestral longevity, making family data invaluable to 
+identify protective mechanisms of multimorbidity.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41467-023-40245-6
+PMCID: PMC10374564
+PMID: 37500622 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+210. Mol Psychiatry. 2023 Jul 27. doi: 10.1038/s41380-023-02138-4. Online ahead
+of  print.
+
+Incidence, prevalence, and global burden of schizophrenia - data, with critical 
+appraisal, from the Global Burden of Disease (GBD) 2019.
+
+Solmi M(1)(2)(3)(4)(5)(6), Seitidis G(7), Mavridis D(7)(8), Correll 
+CU(9)(10)(11)(12), Dragioti E(13), Guimond S(14)(15), Tuominen L(16)(15), Dargél 
+A(16)(17)(18)(19), Carvalho AF(20), Fornaro M(21), Maes M(22)(23)(24), Monaco 
+F(25)(26), Song M(27), Il Shin J(28), Cortese S(29)(30)(31)(32).
+
+Author information:
+(1)Department of Psychiatry, University of Ottawa, Ottawa, ON, Canada. 
+msolmi@toh.ca.
+(2)On Track: The Champlain First Episode Psychosis Program, Department of Mental 
+Health, The Ottawa Hospital, Ottawa, ON, Canada. msolmi@toh.ca.
+(3)Ottawa Hospital Research Institute (OHRI) Clinical Epidemiology Program, 
+University of Ottawa, Ottawa, ON, Canada. msolmi@toh.ca.
+(4)School of Epidemiology and Public Health, Faculty of Medicine, University of 
+Ottawa, Ottawa, ON, Canada. msolmi@toh.ca.
+(5)Centre for Innovation in Mental Health (CIMH), School of Psychology, Faculty 
+of Environmental and Life Sciences, University of Southampton, Southampton, UK. 
+msolmi@toh.ca.
+(6)Department of Child and Adolescent Psychiatry, Charité-Universitätsmedizin 
+Berlin, Berlin, Germany. msolmi@toh.ca.
+(7)Department of Primary Education, Evidence Synthesis Methods Team, University 
+of Ioannina, Ioannina, Greece.
+(8)Faculté de Médecine, Paris Descartes University, Sorbonne Paris Cité, Paris, 
+France.
+(9)Department of Child and Adolescent Psychiatry, Charité-Universitätsmedizin 
+Berlin, Berlin, Germany.
+(10)Department of Psychiatry, Zucker Hillside Hospital, Glen Oaks, NY, USA.
+(11)Department of Psychiatry and Molecular Medicine, Donald and Barbara Zucker 
+School of Medicine at Hofstra/Northwell, Hempstead, NY, USA.
+(12)Center for Psychiatric Neuroscience, Feinstein Institute for Medical 
+Research, Manhasset, NY, USA.
+(13)Pain and Rehabilitation Centre, and Department of Health, Medicine and 
+Caring Sciences, Linkoping University, SE-581 85, Linkoping, Sweden.
+(14)Department of psychoeducation and psychology, University of Quebec in 
+Outaouais, Gatineau, Canada.
+(15)Department of psychiatry, University of Ottawa, The Royal's Institute of 
+Mental Health Research, Ottawa, Canada.
+(16)Department of Psychiatry, University of Ottawa, Ottawa, ON, Canada.
+(17)On Track: The Champlain First Episode Psychosis Program, Department of 
+Mental Health, The Ottawa Hospital, Ottawa, ON, Canada.
+(18)Ottawa Hospital Research Institute (OHRI) Clinical Epidemiology Program, 
+University of Ottawa, Ottawa, ON, Canada.
+(19)Ottawa Hospital Research Institute (OHRI) Neuroscience Program, University 
+of Ottawa, Ottawa, ON, Canada.
+(20)IMPACT (Innovation in Mental and Physical Health and Clinical Treatment) 
+Strategic Research Centre, School of Medicine, Barwon Health, Deakin University, 
+Geelong, VIC, Australia.
+(21)Section of Psychiatry, Department of Neuroscience, Reproductive Science, and 
+Dentistry, Federico II University of Naples, Naples, Italy.
+(22)University of Electronic Science and Technology of China, Chengdu, 611731, 
+China.
+(23)Department of Psychiatry, Faculty of Medicine, Chulalongkorn University and 
+King Chulalongkorn Memorial Hospital, the Thai Red Cross Society, Bangkok, 
+Thailand.
+(24)Department of Psychiatry, and Research Institute, Medical University of 
+Plovdiv, Plovdiv, Bulgaria.
+(25)Department of Mental Health, ASL Salerno, Salerno, Italy.
+(26)European Biomedical Research Institute of Salerno (EBRIS), Salerno, Italy.
+(27)Yonsei University College of Medicine, Seoul, Republic of Korea.
+(28)Department of Pediatrics, Yonsei University College of Medicine, Seoul, 
+Republic of Korea. shinji@yuhs.ac.
+(29)Centre for Innovation in Mental Health (CIMH), School of Psychology, Faculty 
+of Environmental and Life Sciences, University of Southampton, Southampton, UK.
+(30)Clinical and Experimental Sciences (CNS and Psychiatry), Faculty of 
+Medicine, University of Southampton, Southampton, UK.
+(31)Hassenfeld Children's Hospital at NYU Langone, New York University Child 
+Study Center, New York City, USA.
+(32)Solent NHS Trust, Southampton, UK.
+
+Schizophrenia substantially contributes to the burden of mental disorders. 
+Schizophrenia's burden and epidemiological estimates in some countries have been 
+published, but updated estimates of prevalence, incidence, and 
+schizophrenia-related disability at the global level are lacking. Here, we 
+present the data from and critically discuss the Global Burden of Diseases, 
+Injuries, and Risk Factors Study data, focusing on temporal changes in 
+schizophrenia's prevalence, incidence, and disability-adjusted life years 
+(DALYs) globally. From 1990 to 2019, schizophrenia raw prevalence (14.2 to 23.6 
+million), incidence (941,000 to 1.3 million), and DALYs (9.1 to 15.1 million) 
+increased by over 65%, 37%, and 65% respectively, while age-standardized 
+estimates remained stable globally. In countries with high socio-demographic 
+index (SDI), both prevalence and DALYs increased, while in those with low SDI, 
+the age-standardized incidence decreased and DALYs remained stable. The 
+male/female ratio of burden of schizophrenia has remained stable in the overall 
+population over the past 30 years (i.e., M/F = 1.1), yet decreasing from younger 
+to older age groups (raw prevalence in females higher than males after age 65, 
+with males having earlier age of onset, and females longer life expectancy). 
+Results of this work suggest that schizophrenia's raw prevalence, incidence, and 
+burden have been increasing since 1990. Age-adjusted estimates did not reduce. 
+Schizophrenia detection in low SDI countries is suboptimal, and its 
+prevention/treatment in high SDI countries should be improved, considering its 
+increasing prevalence. Schizophrenia sex ratio inverts throughout the lifespan, 
+suggesting different age of onset and survival by sex. However, prevalence and 
+burden estimates for schizophrenia are probably underestimated. GBD does not 
+account for mortality from schizophrenia (and other mental disorders, apart from 
+anorexia nervosa).
+
+© 2023. The Author(s), under exclusive licence to Springer Nature Limited.
+
+DOI: 10.1038/s41380-023-02138-4
+PMID: 37500825
+
+
+211. Nat Aging. 2023 Aug;3(8):948-964. doi: 10.1038/s43587-023-00451-9. Epub 2023
+Jul  27.
+
+Multi-omic rejuvenation and life span extension on exposure to youthful 
+circulation.
+
+Zhang B(#)(1), Lee DE(#)(2)(3), Trapp A(#)(1)(4), Tyshkovskiy A(1)(5), Lu 
+AT(6)(7), Bareja A(2)(3), Kerepesi C(1)(8), McKay LK(3)(9), Shindyapina 
+AV(1)(4), Dmitriev SE(5), Baht GS(3)(10)(11), Horvath S(6)(12)(7), Gladyshev 
+VN(13), White JP(14)(15)(16).
+
+Author information:
+(1)Division of Genetics, Department of Medicine, Brigham and Women's Hospital, 
+Harvard Medical School, Boston, MA, USA.
+(2)Department of Medicine, Duke University School of Medicine, Durham, NC, USA.
+(3)Duke Molecular Physiology Institute, Duke University, Durham, NC, USA.
+(4)Retro Biosciences, Redwood City, CA, USA.
+(5)Belozersky Institute of Physico-Chemical Biology, Moscow State University, 
+Moscow, Russia.
+(6)Department of Human Genetics, David Geffen School of Medicine, University of 
+California, Los Angeles, CA, USA.
+(7)Altos Labs, San Diego, CA, USA.
+(8)Institute for Computer Science and Control (SZTAKI), Eötvös Loránd Research 
+Network, Budapest, Hungary.
+(9)Division of Oral and Craniofacial Health Sciences, Adams School of Dentistry, 
+University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
+(10)Department of Orthopaedic Surgery, Duke University School of Medicine, 
+Durham, NC, USA.
+(11)Duke Center for the Study of Aging and Human Development, Duke University 
+School of Medicine, Durham, NC, USA.
+(12)Department of Biostatistics, School of Public Health, University of 
+California, Los Angeles, CA, USA.
+(13)Division of Genetics, Department of Medicine, Brigham and Women's Hospital, 
+Harvard Medical School, Boston, MA, USA. vgladyshev@rics.bwh.harvard.edu.
+(14)Department of Medicine, Duke University School of Medicine, Durham, NC, USA. 
+james.white@duke.edu.
+(15)Duke Molecular Physiology Institute, Duke University, Durham, NC, USA. 
+james.white@duke.edu.
+(16)Duke Center for the Study of Aging and Human Development, Duke University 
+School of Medicine, Durham, NC, USA. james.white@duke.edu.
+(#)Contributed equally
+
+Heterochronic parabiosis (HPB) is known for its functional rejuvenation effects 
+across several mouse tissues. However, its impact on biological age and 
+long-term health is unknown. Here we performed extended (3-month) HPB, followed 
+by a 2-month detachment period of anastomosed pairs. Old detached mice exhibited 
+improved physiological parameters and lived longer than control isochronic mice. 
+HPB drastically reduced the epigenetic age of blood and liver based on several 
+clock models using two independent platforms. Remarkably, this rejuvenation 
+effect persisted even after 2 months of detachment. Transcriptomic and 
+epigenomic profiles of anastomosed mice showed an intermediate phenotype between 
+old and young, suggesting a global multi-omic rejuvenation effect. In addition, 
+old HPB mice showed gene expression changes opposite to aging but akin to 
+several life span-extending interventions. Altogether, we reveal that long-term 
+HPB results in lasting epigenetic and transcriptome remodeling, culminating in 
+the extension of life span and health span.
+
+© 2023. The Author(s), under exclusive licence to Springer Nature America, Inc.
+
+DOI: 10.1038/s43587-023-00451-9
+PMID: 37500973 [Indexed for MEDLINE]
+
+
+212. J Occup Med Toxicol. 2023 Jul 28;18(1):14. doi: 10.1186/s12995-023-00382-6.
+
+Factors associated with poor mental health during mandatory home work: a 
+cross-sectional study in university staff.
+
+Kiss P(1)(2), De Meester M(3)(4), Vingerhoets I(3), Garmyn B(3), Raemdonck A(3).
+
+Author information:
+(1)Securex Occupational Health Service, Gent, Belgium. philippe.kiss@securex.be.
+(2)Department of Public Health and Primary Care, Ghent University, Ghent, 
+Belgium. philippe.kiss@securex.be.
+(3)Securex Occupational Health Service, Gent, Belgium.
+(4)Department of Public Health and Primary Care, Ghent University, Ghent, 
+Belgium.
+
+BACKGROUND: During the first wave of the Covid-19 pandemic in 2020, a total 
+lockdown of universities was implemented by the government in Belgium. 
+University staff was required to work at home. The purpose of the study was to 
+identify factors associated with poor mental health in university staff during 
+mandatory home work.
+METHODS: Mental well-being of 702 university employees was assessed by need for 
+recovery after work and presence of burnout symptoms. Following factors were 
+considered: personal factors (gender, age), professional status, specific home 
+work environment factors (quiet place to work, taking care of ill or old people, 
+number of children < 12yrs. at home, family member at risk for Covid-19), 
+work-private life balance and worries about long- and short-term work situation. 
+Multivariable logistic regression analyses were used to calculate the odds 
+ratios for the presence a high need for recovery and burnout symptoms.
+RESULTS: The presence of a high need for recovery and the presence of burnout 
+symptoms were significantly associated with poor work-private life balance (OR 
+5.14 and 2.80, respectively), no quiet place to work (OR 3.23 and 2.00, 
+respectively) and being worried about long-term work situation (OR's increasing 
+with increasing degree of worries). Being able to discuss the worries with the 
+supervisor was only significant with a decreased risk of burnout symptoms for 
+the lowest level of discussability with the supervisor. Following factors were 
+not associated with both mental health outcomes: professional status, being 
+worried about short-term work situation, taking care of ill or old people, 
+number of children < 12yrs. at home and having a family member at risk for 
+Covid-19.
+CONCLUSIONS: When working at home special attention should be paid to 
+work-private life balance and the presence of a quiet place to work. 
+Additionally, in the case of mandatory home work in university personnel, 
+specific worries about long-term work situation should be tackled. Universities 
+and/or governments should provide measures to ensure an extension of research 
+deadlines and, if applicable, job security.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12995-023-00382-6
+PMCID: PMC10375671
+PMID: 37501195
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+213. Health Promot Int. 2023 Aug 1;38(4):daad067. doi: 10.1093/heapro/daad067.
+
+Health impacts of social determinants and lifestyle behaviours: some evidence 
+from Canadian provinces.
+
+Safaei J(1), Saliminezhad A(2).
+
+Author information:
+(1)School of Economics, University of Northern British Columbia, British 
+Columbia V2N 4Z9, Canada.
+(2)Department of Economics, Near East University, Nicosia, Northern Cyprus, via 
+Mersin 10, Turkey.
+
+This study seeks to identify the impact of social determinants and lifestyle 
+factors on life expectancy and self-perceived health as two measures of 
+objective and subjective health, respectively, using data from Canadian 
+provinces during 2007-21. Through a simple conceptual model, it lays out the 
+direct and indirect pathways through which social and lifestyle determinants 
+affect health. The conceptual model guides the formulation of empirical models, 
+which are used to estimate the effects of social and lifestyle factors on 
+health. The study uses 'panel-corrected standard errors' estimation method to 
+obtain reliable results. The findings confirm that social determinants 
+contribute directly and indirectly (through lifestyle) to life expectancy. For 
+self-perceived health, however, the contributions of both social and lifestyle 
+determinants are only direct. The latter result may be explained by the 
+immediacy of lifestyle and its impact on health in individuals' minds, a notion 
+that is constantly reinforced by the mainstream discourse on health promotion. 
+Our study indicates that lifestyle factors should be addressed within the 
+context of broader social determinants. In other words, an individual agency 
+should be understood within the larger enveloping social structure. The study 
+recognizes redistributive measures aimed at reducing social gradients in health 
+as effective health promotion policies.
+
+© The Author(s) 2023. Published by Oxford University Press. All rights reserved. 
+For permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/heapro/daad067
+PMID: 37501568 [Indexed for MEDLINE]
+
+
+214. Neurobiol Stress. 2023 Jul 21;26:100557. doi: 10.1016/j.ynstr.2023.100557. 
+eCollection 2023 Sep.
+
+Greater stress and trauma mediate race-related differences in epigenetic age 
+between Black and White young adults in a community sample.
+
+Holloway TD(1), Harvanek ZM(1)(2), Xu K(1)(3), Gordon DM(1), Sinha R(1)(2).
+
+Author information:
+(1)Department of Psychiatry, Yale University, New Haven, CT, USA.
+(2)Yale Stress Center, Yale University, New Haven, CT, USA.
+(3)Department of Psychiatry, Connecticut Veteran Healthcare System, West Haven, 
+CT, USA.
+
+Black Americans suffer lower life expectancy and show signs of accelerated aging 
+compared to other Americans. While previous studies observe these differences in 
+children and populations with chronic illness, whether these pathologic 
+processes exist or how these pathologic processes progress has yet to be 
+explored prior to the onset of significant chronic illness, within a young adult 
+population. Therefore, we investigated race-related differences in epigenetic 
+age in a cross-sectional sample of young putatively healthy adults and assessed 
+whether lifetime stress and/or trauma mediate those differences. Biological and 
+psychological data were collected from self-reported healthy adult volunteers 
+within the local New Haven area (399 volunteers, 19.8% Black, mean age: 29.28). 
+Stress and trauma data was collected using the Cumulative Adversity Inventory 
+(CAI) interview, which assessed specific types of stressors, including major 
+life events, traumatic events, work, financial, relationship and chronic 
+stressors cumulatively over time. GrimAge Acceleration (GAA), determined from 
+whole blood collected from participants, measured epigenetic age. In order to 
+understand the impact of stress and trauma on GAA, exploratory mediation 
+analyses were then used. We found cumulative stressors across all types of 
+events (mean difference of 6.9 p = 2.14e-4) and GAA (β = 2.29 years [1.57-3.01, 
+p = 9.70e-10] for race, partial η2 = 0.091, model adjusted R2 = 0.242) were 
+significantly greater in Black compared to White participants. Critically, CAI 
+total score (proportion mediated: 0.185 [0.073-0.34, p = 6e-4]) significantly 
+mediated the relationship between race and GAA. Further analysis attributed this 
+difference to more traumatic events, particularly assaultive traumas and death 
+of loved ones. Our results suggest that, prior to development of significant 
+chronic disease, Black individuals have increased epigenetic age compared to 
+White participants and that increased cumulative stress and traumatic events may 
+contribute significantly to this epigenetic aging difference.
+
+© 2023 The Author(s).
+
+DOI: 10.1016/j.ynstr.2023.100557
+PMCID: PMC10369475
+PMID: 37501940
+
+Conflict of interest statement: Dr Rajita Sinha has research collaborations with 
+Aelis Farma, Aptinyx Inc, CT Pharma and she is on the Scientific Advisory Board 
+of Embera Neurotherapeutics. The current submission is unrelated to these 
+collaborations. Drs. Holloway, Harvanek, Gordon and Xu have no competing 
+interests to declare.
+
+
+215. Front Med (Lausanne). 2023 Jul 12;10:1166196. doi:
+10.3389/fmed.2023.1166196.  eCollection 2023.
+
+Evaluating the design of the Integrated Care for Older People: a theory of 
+change approach.
+
+Gutiérrez-Barreto SE(1), Sosa-Tinoco E(2), Rojas-Calixto O(3), Deniss-Navarro 
+Z(3), Avila-Avila A(2), Gutierrez JP(4).
+
+Author information:
+(1)Master's and Doctorate Programs in Medical, Dental, and Health Sciences, 
+National Autonomous University of Mexico, Mexico City, Mexico.
+(2)National Institute of Geriatrics, Mexico City, Mexico.
+(3)Ministry of Health, Mexico City, Mexico.
+(4)Center for Policy, Population and Health Research, National Autonomous 
+University of Mexico, Mexico City, Mexico.
+
+INTRODUCTION: Given the progressive aging of the population, there is an urgent 
+need at the health system level to implement effective models to care for older 
+people (OP). Healthy aging is imperative to reach the Sustainable Development 
+Goals. The World Health Organization (WHO) developed the Integrated Care for 
+Older People (ICOPE) strategy to address this challenge. Implementing ICOPE 
+requires its adaption to a specific context. We propose a pathway for such 
+adaptation through an evaluation of the design of ICOPE; thus, we aim to 
+describe the Theory of Change (ToC) of ICOPE and evaluate it for its 
+implementation in Mexico City.
+METHODS: Based on the WHO and published literature documentation, we drafted an 
+initial ToC for ICOPE. Then, we validated the ToC with experts in ICOPE, after 
+which we evaluated and refined it by discussing the causal pathway, intervention 
+required to activate it, rationale, and assumptions in consecutive workshops 
+with 91 stakeholders and healthcare workers, using the nominal group technique 
+to reach a consensus.
+RESULTS: The resulting ToC has the potential to contribute to healthy aging by 
+three expected impacts: (1) prevention, reversal, or delaying of the decline of 
+intrinsic capacity (IC) in OP; (2) improvement of the quality of life of OP; and 
+(3) increase of disability-free life expectancy. The ICOPE causal pathway had 
+ten preconditions, including the availability of resources, identifying at-risk 
+individuals, available treatments, and evaluating results.
+DISCUSSION: We adapted ICOPE to a specific implementation context by evaluating 
+its ToC in a participatory process that allows us to identify challenges and 
+address them, at least in terms of the guidelines to operate the strategy. As 
+ICOPE is an approach for a primary healthcare system, its adoption in a 
+community healthcare program is promising and feasible. Evaluation as a tool 
+could contribute to the design of effective interventions. The evaluation of the 
+design of ICOPE for its implementation contributes to the strength of its 
+potential to improve care for OP. This design for implementing ICOPE has the 
+potential to be applied to similar contexts, for example, in other 
+lower-middle-income countries.
+
+Copyright © 2023 Gutiérrez-Barreto, Sosa-Tinoco, Rojas-Calixto, Deniss-Navarro, 
+Avila-Avila and Gutierrez.
+
+DOI: 10.3389/fmed.2023.1166196
+PMCID: PMC10368864
+PMID: 37502365
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+216. Radiol Case Rep. 2023 Jul 22;18(10):3414-3420. doi:
+10.1016/j.radcr.2023.06.053.  eCollection 2023 Oct.
+
+Unusual intracystic papilloma arising from ectopic axillary breast tissue: Case 
+report.
+
+El Malih S(1), Ezzahi M(1), Haloua M(1), Tahiri L(2), Akammar A(1), El Bouardi 
+N(3), Alami B(3), Alaoui Lamrani MY(3), Maaroufi M(3), Boubbou M(1).

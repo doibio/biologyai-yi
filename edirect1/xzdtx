@@ -1,0 +1,1000 @@
+December 2020 were selected (n = 11,633). For each report, the Portable Document 
+Format form containing free-text information filled by the patient, and the 
+corresponding encodings of adverse event symptoms (in Medical Dictionary for 
+Regulatory Activities Preferred Terms) and seriousness were obtained. This 
+encoding by experts was used as the reference to train and evaluate models, 
+which contained input data processing and machine-learning natural language 
+processing to learn and predict encodings. We developed and compared different 
+approaches for data processing and classifiers. Performance was evaluated using 
+receiver operating characteristic area under the curve (AUC), F-measure, 
+sensitivity, specificity and positive predictive value. We used data from 26 
+Pharmacovigilance Centres for training and internal validation. External 
+validation was performed using data from the remaining Pharmacovigilance Centres 
+during the same period.
+RESULTS: Internal validation: for adverse drug reaction identification, Term 
+Frequency-Inverse Document Frequency (TF-IDF) + Light Gradient Boosted Machine 
+(LGBM) achieved an AUC of 0.97 and an F-measure of 0.80. The Cross-lingual 
+Language Model (XLM) [transformer] obtained an AUC of 0.97 and an F-measure of 
+0.78. For seriousness assessment, FastText + LGBM achieved an AUC of 0.85 and an 
+F-measure of 0.63. CamemBERT (transformer) + Light Gradient Boosted Machine 
+obtained an AUC of 0.84 and an F-measure of 0.63. External validation for both 
+adverse drug reaction identification and seriousness assessment tasks yielded 
+consistent and robust results.
+CONCLUSIONS: Our artificial intelligence models showed promising performance to 
+automatically code patient adverse drug reaction reports, with very similar 
+results across approaches. Our system has been deployed by national health 
+authorities in France since January 2021 to facilitate pharmacovigilance of 
+COVID-19 vaccines. Further studies will be needed to validate the performance of 
+the tool in real-life settings.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s40264-022-01153-8
+PMCID: PMC9112264
+PMID: 35579816 [Indexed for MEDLINE]
+
+Conflict of interest statement: Guillaume Louis Martin, Julien Jouganous, Axel 
+Bellec, Romain Savidan, Clément Goehrs and Louis Létinier were employed by 
+Synapse Medicine at the time this research was conducted or hold stock/stock 
+options therein. All other authors declared no competing interests.
+
+
+322. Phytomedicine. 2022 Jul 20;102:154090. doi: 10.1016/j.phymed.2022.154090.
+Epub  2022 Mar 31.
+
+Curcumae rhizoma and its major constituents against hepatobiliary disease: 
+Pharmacotherapeutic properties and potential clinical applications.
+
+Gao TH(1), Liao W(2), Lin LT(3), Zhu ZP(3), Lu MG(4), Fu CM(3), Xie T(5).
+
+Author information:
+(1)State Key Laboratory of Southwestern Chinese Medicine Resources, Pharmacy 
+College, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, 
+China; School of Pharmacy, Hangzhou Normal University, Hangzhou, Zhejiang 
+311121, China; Key Laboratory of Elemene Class Anti-Cancer Chinese Medicines; 
+Engineering Laboratory of Development and Application of Traditional Chinese 
+Medicines; Collaborative Innovation Center of Traditional Chinese Medicines of 
+Zhejiang Province, Hangzhou Normal University, Hangzhou, Zhejiang 311121, China.
+(2)State Key Laboratory of Southwestern Chinese Medicine Resources, Pharmacy 
+College, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, 
+China. Electronic address: liaowan@cdutcm.edu.cn.
+(3)State Key Laboratory of Southwestern Chinese Medicine Resources, Pharmacy 
+College, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, 
+China.
+(4)Huachiew TCM Hospital, Bangkok 10100, Thailand.
+(5)State Key Laboratory of Southwestern Chinese Medicine Resources, Pharmacy 
+College, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, 
+China; School of Pharmacy, Hangzhou Normal University, Hangzhou, Zhejiang 
+311121, China; Key Laboratory of Elemene Class Anti-Cancer Chinese Medicines; 
+Engineering Laboratory of Development and Application of Traditional Chinese 
+Medicines; Collaborative Innovation Center of Traditional Chinese Medicines of 
+Zhejiang Province, Hangzhou Normal University, Hangzhou, Zhejiang 311121, China. 
+Electronic address: xbs@hznu.edu.cn.
+
+BACKGROUND: Hepatobiliary disease currently serves as an urgent health issue in 
+public due to health-modulating factors such as extension of life expectancy, 
+increasingly sedentary lifestyles and over-nutrition. A definite treatment 
+remains lacking owing to different stages of the disease itself and its 
+intricate pathogenesis. Traditional Chinese medicine (TCM) has been gradually 
+popularized in clinic with the satisfactory efficacy and good safety. Curcumae 
+Rhizoma (called E Zhu, EZ in Chinese) is a representative herb, which has been 
+used to treat hepatobiliary disease for thousands of years.
+PURPOSE: To systematically summarize the recent research advances on the 
+pharmacological activities of EZ and its constituents, explain the underlying 
+mechanisms of preventing and treating hepatobiliary diseases, and assess the 
+shortcomings of existing work. Besides, ethnopharmacology, phytochemicals, and 
+toxicology of EZ have been researched.
+METHODS: The information about EZ was collected from various sources including 
+classic books about Chinese herbal medicine, and scientific databases including 
+Web of Science, PubMed, ScienceDirect, Springer, ACS, SCOPUS, CNKI, CSTJ, and 
+WANFANG using keywords given below and terms like pharmacological and 
+phytochemical details of this plant.
+RESULTS: The chemical constituents isolated and identified from EZ, such as 
+terpenoids including β-elemene, furanodiene, germacrone, etc. and curcuminoids 
+including curcumin, demethoxycurcumin, bisdemethoxycurcumin, etc. prove to have 
+hepatoprotective effect, anti-liver fibrotic effect, anti-fatty liver effect, 
+anti-liver neoplastic effect, and cholagogic effect through TGF-β1/Smad, 
+JNK1/2-ROS, NF-κB and other anti-inflammatory and antioxidant signaling 
+pathways. Also, EZ is often combined with other Chinese herbs in the treatment 
+of hepatobiliary diseases with good clinical efficacy and no obvious adverse 
+reactions.
+CONCLUSION: It provides a preclinical basis for the efficacy of EZ as an 
+effective therapeutic agent for the prevention and treatment of hepatobiliary 
+diseases. Even so, the further studies still needed to alleviate hepatotoxicity 
+and expand clinical application.
+
+Copyright © 2022. Published by Elsevier GmbH.
+
+DOI: 10.1016/j.phymed.2022.154090
+PMID: 35580439 [Indexed for MEDLINE]
+
+
+323. Gastroenterology. 2022 Sep;163(3):712-722.e14. doi: 
+10.1053/j.gastro.2022.05.015. Epub 2022 May 14.
+
+Endoscopic Versus Surgical Step-Up Approach for Infected Necrotizing 
+Pancreatitis (ExTENSION): Long-term Follow-up of a Randomized Trial.
+
+Onnekink AM(1), Boxhoorn L(1), Timmerhuis HC(2), Bac ST(3), Besselink MG(4), 
+Boermeester MA(4), Bollen TL(5), Bosscha K(6), Bouwense SAW(7), Bruno MJ(8), van 
+Brunschot S(9), Cappendijk VC(10), Consten ECJ(11), Dejong CH(7), Dijkgraaf 
+MGW(12), van Eijck CHJ(13), Erkelens WG(14), van Goor H(15), van Grinsven J(4), 
+Haveman JW(16), van Hooft JE(17), Jansen JM(18), van Lienden KP(19), Meijssen 
+MAC(20), Nieuwenhuijs VB(21), Poley JW(8), Quispel R(22), de Ridder RJ(23), 
+Römkens TEH(24), van Santvoort HC(25), Scheepers JJ(26), Schwartz MP(11), 
+Seerden T(27), Spanier MBW(28), Straathof JWA(29), Timmer R(30), Venneman 
+NG(31), Verdonk RC(30), Vleggaar FP(32), van Wanrooij RL(33), Witteman BJM(34), 
+Fockens P(35), Voermans RP(36); Dutch Pancreatitis Study Group.
+
+Author information:
+(1)Department of Gastroenterology and Hepatology, Amsterdam UMC, location 
+University of Amsterdam, Amsterdam, the Netherlands; Amsterdam Gastroenterology 
+Endocrinology Metabolism, Amsterdam UMC, Amsterdam, the Netherlands; Department 
+of Research and Development, St. Antonius Hospital, Nieuwegein, the Netherlands.
+(2)Department of Research and Development, St. Antonius Hospital, Nieuwegein, 
+the Netherlands; Department of Surgery, St. Antonius Hospital, Nieuwegein, the 
+Netherlands.
+(3)Amsterdam Gastroenterology Endocrinology Metabolism, Amsterdam UMC, 
+Amsterdam, the Netherlands.
+(4)Amsterdam Gastroenterology Endocrinology Metabolism, Amsterdam UMC, 
+Amsterdam, the Netherlands; Department of Surgery, Amsterdam UMC, location 
+University of Amsterdam, Amsterdam, the Netherlands.
+(5)Department of Radiology, St. Antonius Hospital, Nieuwegein, the Netherlands.
+(6)Department of Surgery, Jeroen Bosch Hospital, 's-Hertogenbosch, the 
+Netherlands.
+(7)Department of Surgery, Maastricht University Medical Center+, Maastricht, the 
+Netherlands.
+(8)Department of Gastroenterology and Hepatology, Erasmus MC University Medical 
+Center, Rotterdam, the Netherlands.
+(9)Department of Research and Development, St. Antonius Hospital, Nieuwegein, 
+the Netherlands.
+(10)Department of Radiology, Jeroen Bosch Hospital, 's-Hertogenbosch, the 
+Netherlands.
+(11)Department of Gastroenterology and Hepatology, Meander Medical Center, 
+Amersfoort, the Netherlands.
+(12)Amsterdam Gastroenterology Endocrinology Metabolism, Amsterdam UMC, 
+Amsterdam, the Netherlands; Epidemiology and Data Science, Amsterdam UMC, 
+location University of Amsterdam, Amsterdam, the Netherlands.
+(13)Department of Surgery, Erasmus MC University Medical Center, Rotterdam, the 
+Netherlands.
+(14)Department of Gastroenterology and Hepatology, Gelre Hospital, Apeldoorn, 
+the Netherlands.
+(15)Department of Surgery, Radboudumc, University Medical Center, Nijmegen, the 
+Netherlands.
+(16)Department of Surgery, University Medical Center Groningen, Groningen, the 
+Netherlands.
+(17)Department of Gastroenterology and Hepatology, Leiden University Medical 
+Center, Leiden, the Netherlands.
+(18)Department of Gastroenterology and Hepatology, Onze Lieve Vrouwe Gasthuis 
+(OLVG), Amsterdam, the Netherlands.
+(19)Department of Radiology, Amsterdam UMC, location University of Amsterdam, 
+Amsterdam, the Netherlands.
+(20)Department of Gastroenterology and Hepatology, Isala Clinics, Zwolle, the 
+Netherlands.
+(21)Department of Surgery, Isala Clinics, Zwolle, the Netherlands.
+(22)Department of Gastroenterology and Hepatology, Reinier de Graaf Group, 
+Delft, the Netherlands.
+(23)Department of Gastroenterology and Hepatology, Maastricht University Medical 
+Center+, Maastricht, the Netherlands.
+(24)Department of Gastroenterology and Hepatology, Jeroen Bosch Hospital, 
+'s-Hertogenbosch, the Netherlands.
+(25)Department of Surgery, St. Antonius Hospital, Nieuwegein, the Netherlands; 
+Department of Surgery, University Medical Center Utrecht, Utrecht, the 
+Netherlands.
+(26)Department of Surgery, Reinier de Graaf Group, Delft, the Netherlands.
+(27)Department of Gastroenterology and Hepatology, Amphia Hospital, Breda, the 
+Netherlands.
+(28)Department of Gastroenterology and Hepatology, Rijnstate Hospital, Arnhem, 
+the Netherlands.
+(29)Department of Gastroenterology and Hepatology, Máxima Medical Center, 
+Veldhoven, the Netherlands.
+(30)Department of Gastroenterology and Hepatology, St. Antonius Hospital, 
+Nieuwegein, the Netherlands.
+(31)Department of Gastroenterology and Hepatology, Medisch Spectrum Twente, 
+Enschede, the Netherlands.
+(32)Department of Gastroenterology and Hepatology, University Medical Center 
+Utrecht, Utrecht, the Netherlands.
+(33)Amsterdam Gastroenterology Endocrinology Metabolism, Amsterdam UMC, 
+Amsterdam, the Netherlands; Department of Gastroenterology and Hepatology, 
+Amsterdam UMC, VU University Amsterdam, Amsterdam Gastroenterology Endocrinology 
+Metabolism, Amsterdam, the Netherlands.
+(34)Department of Gastroenterology and Hepatology, Hospital Gelderse Vallei, 
+Ede, the Netherlands.
+(35)Department of Gastroenterology and Hepatology, Amsterdam UMC, location 
+University of Amsterdam, Amsterdam, the Netherlands; Amsterdam Gastroenterology 
+Endocrinology Metabolism, Amsterdam UMC, Amsterdam, the Netherlands.
+(36)Department of Gastroenterology and Hepatology, Amsterdam UMC, location 
+University of Amsterdam, Amsterdam, the Netherlands; Amsterdam Gastroenterology 
+Endocrinology Metabolism, Amsterdam UMC, Amsterdam, the Netherlands. Electronic 
+address: r.p.voermans@amsterdamUMC.nl.
+
+Comment in
+    Gastroenterology. 2022 Sep;163(3):578-581.
+
+BACKGROUND & AIMS: Previous randomized trials, including the Transluminal 
+Endoscopic Step-Up Approach Versus Minimally Invasive Surgical Step-Up Approach 
+in Patients With Infected Pancreatic Necrosis (TENSION) trial, demonstrated that 
+the endoscopic step-up approach might be preferred over the surgical step-up 
+approach in patients with infected necrotizing pancreatitis based on favorable 
+short-term outcomes. We compared long-term clinical outcomes of both step-up 
+approaches after a period of at least 5 years.
+METHODS: In this long-term follow-up study, we reevaluated all clinical data on 
+83 patients (of the originally 98 included patients) from the TENSION trial who 
+were still alive after the initial 6-month follow-up. The primary end point, 
+similar to the TENSION trial, was a composite of death and major complications. 
+Secondary end points included individual major complications, 
+pancreaticocutaneous fistula, reinterventions, pancreatic insufficiency, and 
+quality of life.
+RESULTS: After a mean follow-up period of 7 years, the primary end point 
+occurred in 27 patients (53%) in the endoscopy group and in 27 patients (57%) in 
+the surgery group (risk ratio [RR], 0.93; 95% confidence interval [CI], 
+0.65-1.32; P = .688). Fewer pancreaticocutaneous fistulas were identified in the 
+endoscopy group (8% vs 34%; RR, 0.23; 95% CI, 0.08-0.83). After the initial 
+6-month follow-up, the endoscopy group needed fewer reinterventions than the 
+surgery group (7% vs 24%; RR, 0.29; 95% CI, 0.09-0.99). Pancreatic insufficiency 
+and quality of life did not differ between groups.
+CONCLUSIONS: At long-term follow-up, the endoscopic step-up approach was not 
+superior to the surgical step-up approach in reducing death or major 
+complications in patients with infected necrotizing pancreatitis. However, 
+patients assigned to the endoscopic approach developed overall fewer 
+pancreaticocutaneous fistulas and needed fewer reinterventions after the initial 
+6-month follow-up. Netherlands Trial Register no: NL8571.
+
+Copyright © 2022 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.gastro.2022.05.015
+PMID: 35580661 [Indexed for MEDLINE]
+
+
+324. Dev Growth Differ. 2022 Jun;64(5):254-260. doi: 10.1111/dgd.12790. Epub 2022
+May  25.
+
+ccr7 affects both morphogenesis and differentiation during early Xenopus 
+embryogenesis.
+
+Goto T(1), Michiue T(2), Shibuya H(1).
+
+Author information:
+(1)Department of Molecular Cell Biology, Medical Research Institute, Tokyo 
+Medical and Dental University, Tokyo, Japan.
+(2)Department of Life Sciences (Biology), Graduate School of Arts and Sciences, 
+The University of Tokyo, Tokyo, Japan.
+
+Chemokines play important roles in early embryogenesis, including morphogenesis 
+and cell differentiation, before the immune system is established. We 
+characterized Xenopus laevis CC-type chemokine receptor 7 S (ccr7.S) to clarify 
+its role during early development. ccr7 transcripts were detected ubiquitously 
+in early embryos. Dorsal overexpression of ccr7.S inhibited gastrulation, and 
+ccr7.S mRNA-injected embryos had short axes and widely opened neural folds. 
+Because the Keller sandwich explants of the injected embryos elongated well, 
+ccr7.S might affect cell migration, but not convergent extension movements. 
+Ventral ccr7.S overexpression induced secondary axes and chrd.1 upregulation in 
+gastrula-stage embryos. Animal cap assays showed increased expression of neural 
+and cement gland marker genes at later stages. Ccr7.S knockdown reduced chrd.1 
+expression and inhibited gastrulation at the dorsal side. Our findings suggest 
+that ccr7.S plays important roles in morphogenetic movement and cell 
+differentiation.
+
+© 2022 Japanese Society of Developmental Biologists.
+
+DOI: 10.1111/dgd.12790
+PMID: 35581152 [Indexed for MEDLINE]
+
+
+325. BMC Med Inform Decis Mak. 2022 May 17;22(1):135. doi: 
+10.1186/s12911-022-01874-x.
+
+An evaluation of an Extension for Community Healthcare Outcomes (ECHO) 
+intervention in cancer prevention and survivorship care.
+
+Milgrom ZZ(1)(2), Severance TS(3)(4), Scanlon CM(3), Carson AT(2), Janota AD(2), 
+Vik TA(3)(4), Duwve JM(2)(5), Dixon BE(1)(2), Mendonca EA(6)(7).
+
+Author information:
+(1)Center for Biomedical Informatics, Regenstrief Institute, 1101 West Tenth 
+Street, Indianapolis, IN, 46202, USA.
+(2)Richard M. Fairbanks School of Public Health, Indiana University, 1050 
+Wishard Boulevard, Indianapolis, IN, 46202, USA.
+(3)Riley Hospital for Children, 705 Riley Hospital Drive, Indianapolis, IN, 
+46202, USA.
+(4)Indiana University School of Medicine, 340 West Tenth Street, Fairbanks Hall, 
+Suite 6200, Indianapolis, IN, 46202, USA.
+(5)Kansas Department of Health and Environment, Curtis State Office Building, 
+1000 SW Jackson St, Topeka, KS, 66612, USA.
+(6)Center for Biomedical Informatics, Regenstrief Institute, 1101 West Tenth 
+Street, Indianapolis, IN, 46202, USA. emendonc@iu.edu.
+(7)Indiana University School of Medicine, 340 West Tenth Street, Fairbanks Hall, 
+Suite 6200, Indianapolis, IN, 46202, USA. emendonc@iu.edu.
+
+To improve cancer care in Indiana, a telementoring program using the Extension 
+for Community Healthcare Outcomes (ECHO) model was introduced in September 2019 
+to promote best-practice cancer prevention, screening, and survivorship care by 
+primary care providers (PCPs). The aim of this study was to evaluate the 
+program's educational outcomes in its pilot year, using Moore's Evaluation 
+Framework for Continuing Medical Education and focusing on the program's impact 
+on participants' knowledge, confidence, and professional practice. We collected 
+data in 22 semi-structured interviews (13 PCPs and 9 non-PCPs) and 30 anonymous 
+one-time surveys (14 PCPs and 16 non-PCPs) from the program participants (hub 
+and spoke site members), as well as from members of the target audience who did 
+not participate. In the first year, average attendance at each session was 2.5 
+PCPs and 12 non-PCP professionals. In spite of a relatively low PCP 
+participation, the program received very positive satisfaction scores, and 
+participants reported improvements in knowledge, confidence, and practice. Both 
+program participants and target audience respondents particularly valued three 
+features of the program: its conversational format, the real-life experiences 
+gained, and the support received from a professional interdisciplinary 
+community. PCPs reported preferring case discussions over didactics. Our results 
+suggest that the Cancer ECHO program has benefits over other PCP-targetted 
+cancer control interventions and could be an effective educational means of 
+improving cancer control capacity among PCPs and others. Further study is 
+warranted to explain the discrepancies among study participants' perceptions of 
+the program's strengths and the relatively low PCP participation before 
+undertaking a full-scale effectiveness study.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12911-022-01874-x
+PMCID: PMC9112252
+PMID: 35581580 [Indexed for MEDLINE]
+
+Conflict of interest statement: I declare that the authors have no competing 
+interests as defined by BMC, or other interests that might be perceived to 
+influence the results and/or discussion reported in this paper.
+
+
+326. Rev Med Suisse. 2022 May 18;18(782):984-989. doi: 
+10.53738/REVMED.2022.18.782.984.
+
+[The rise of the lymphocyte clones: targeted agents strike back].
+
+[Article in French; Abstract available in French from the publisher]
+
+Weiner M(1), Lang N(1).
+
+Author information:
+(1)Service d'oncologie médicale, Département d'oncologie, Hôpitaux 
+universitaires de Genève, 1211 Genève 14.
+
+Chronic lymphocytic leukemia (CLL) is an indolent lymphoproliferative disorder 
+commonly seen in the elderly. Its diagnosis is often incidental. Treatment is 
+not always required, and a clinical and biological follow-up may be sufficient. 
+However, progressive CLL may result in shortened life expectancy and significant 
+complications. It is therefore critical to precisely stratify CLL prognosis to 
+guide therapeutic choices accordingly. Therapeutic options have largely evolved 
+in the past years and current molecular biomarkers allow a better risk 
+stratification, leading to a significant improvement of survival. We summarize 
+herein modern diagnostic and therapeutic management of CLL.
+
+Publisher: La leucémie lymphoïde chronique (LLC) est une maladie 
+lymphoproliférative indolente fréquente, affectant surtout le sujet âgé. Souvent 
+diagnostiquée fortuitement, elle ne nécessite pas toujours de traitement, une 
+surveillance simple pouvant suffire. Néanmoins, les formes évolutives de la 
+maladie sont responsables d’une diminution de l’espérance de vie et de 
+complications significatives. Il est essentiel d’évaluer précisément le risque 
+évolutif pour orienter au mieux la prise en charge. Ces dernières années, la 
+panoplie de thérapies disponibles s’est étoffée et la découverte de biomarqueurs 
+pronostiques a permis de mieux identifier les patients à risque, améliorant 
+ainsi significativement leur survie. Nous souhaitons revoir, ici, les principaux 
+aspects de la prise en charge diagnostique et thérapeutique de la LLC.
+
+DOI: 10.53738/REVMED.2022.18.782.984
+PMID: 35583277 [Indexed for MEDLINE]
+
+Conflict of interest statement: Les auteurs n’ont déclaré aucun conflit 
+d’intérêts en relation avec cet article.
+
+
+327. Microb Genom. 2022 May;8(5):mgen000822. doi: 10.1099/mgen.0.000822.
+
+Investigating plant disease outbreaks with long-read metagenomics: sensitive 
+detection and highly resolved phylogenetic reconstruction applied to Xylella 
+fastidiosa.
+
+Johnson MA(1)(2), Liu H(1), Bush E(1), Sharma P(1)(2), Yang S(1), Mazloom R(3), 
+Heath LS(3), Nita M(1)(4), Li S(1), Vinatzer BA(1).
+
+Author information:
+(1)School of Plant and Environmental Sciences, Virginia Tech, Blacksburg, VA 
+24061, USA.
+(2)Graduate Program in Genetics, Bioinformatics, and Computational Biology, 
+Virginia Tech, Blacksburg, VA 24061, USA.
+(3)Department of Computer Science, Virginia Tech, Blacksburg, VA 24061, USA.
+(4)AHS Jr. Agricultural Research and Extension Center, Virginia Tech, 
+Winchester, VA 22602, USA.
+
+Early disease detection is a prerequisite for enacting effective interventions 
+for disease control. Strains of the bacterial plant pathogen Xylella fastidiosa 
+have recurrently spread to new crops in new countries causing devastating 
+outbreaks. So far, investigation of outbreak strains and highly resolved 
+phylogenetic reconstruction have required whole-genome sequencing of pure 
+bacterial cultures, which are challenging to obtain due to the fastidious nature 
+of X. fastidiosa. Here, we show that culture-independent metagenomic sequencing, 
+using the Oxford Nanopore Technologies MinION long-read sequencer, can 
+sensitively and specifically detect the causative agent of Pierce's disease of 
+grapevine, X. fastidiosa subspecies fastidiosa. Using a DNA sample from a 
+grapevine in Virginia, USA, it was possible to obtain a metagenome-assembled 
+genome (MAG) of sufficient quality for phylogenetic reconstruction with SNP 
+resolution. The analysis placed the MAG in a clade with isolates from Georgia, 
+USA, suggesting introduction of X. fastidiosa subspecies fastidiosa to Virginia 
+from the south-eastern USA. This proof of concept study, thus, revealed that 
+metagenomic sequencing can replace culture-dependent genome sequencing for 
+reconstructing transmission routes of bacterial plant pathogens.
+
+DOI: 10.1099/mgen.0.000822
+PMCID: PMC9465077
+PMID: 35584001 [Indexed for MEDLINE]
+
+Conflict of interest statement: Life Identification Number and LIN are 
+registered trademarks of This Genomic Life, Inc. Lenwood S. Heath and Boris A. 
+Vinatzer report in accordance with Virginia Tech policies and procedures, and 
+their ethical obligation as researchers, that they have a financial interest in 
+the company This Genomic Life, Inc., that may be affected by the research 
+reported in this paper. They have disclosed those interests fully to Virginia 
+Tech, and they have in place an approved plan for managing any potential 
+conflicts arising from this relationship.
+
+
+328. PLoS One. 2022 May 18;17(5):e0267008. doi: 10.1371/journal.pone.0267008. 
+eCollection 2022.
+
+Prevalence of timely complementary feeding initiation and associated factors 
+among mothers having children aged 6-24 months in rural north-central Ethiopia: 
+Community based cross-sectional study.
+
+Abate MW(1), Nigat AB(1), Demelash AT(1), Emiru TD(2), Tibebu NS(2), Tiruneh 
+CM(2), Belete A(3), Abebe TK(4), Yitayew MY(5).
+
+Author information:
+(1)Department of Adult Health Nursing, College of Health Sciences, Debre Tabor 
+University, Debre Tabor, Ethiopia.
+(2)Department of Pediatrics and Child Health Nursing, College of health 
+sciences, Debre Tabor- University, Debre Tabor, Ethiopia.
+(3)Department of Mental Health, School of medicine, Debre Tabor University, 
+Debre Tabor, Ethiopia.
+(4)Department of Public Health, Debre Tabor Comprehensive Specialised Hospital, 
+Debre Tabor, Ethiopia.
+(5)Department of Public Health, Ethiopian Red Cross-Society, Debre Tabor, 
+Ethiopia.
+
+BACKGROUND: Complementary foods are defined as any solid or liquid foods other 
+than breast milk offered to children. Timely initiation of complementary foods 
+during infancy is necessary for growth and development. The first two years of 
+life are important period for rapid physical, cognitive and social development 
+that requires optimal nutrition. Currently, there is no study done in this rural 
+community about timely initiation of complementary feeding.
+OBJECTIVE: The main aim of this study was to assess the prevalence of timely 
+initiation of complementary feeding among mothers having children aged 6-24 
+months in Farta district, rural Ethiopia.
+METHODS: A community-based cross-sectional study was employed from December 2020 
+to February 2021 among 570 mothers by using multi-stage sampling techniques. 
+Data were collected using a structured interviewer-administered questionnaire 
+and entered into Epi Data 4.6 then transferred to Statistical Package for Social 
+Science version 25 for analysis. Bivariate and multivariable logistic regression 
+analysis with a 95% confidence interval carried out to determine the association 
+between explanatory and the outcome variables. A P-value of < 0.05 was 
+considered statistically significant.
+RESULTS: The prevalence of timely initiation of complementary feeding among 
+mothers having children aged 6-24 months was 51.9%. Institutionaldelivery [(AOR 
+= 2.10, 95% CI: (1.31-3.32)],Keeping livestock [(AOR = 2.21, 95% CI: (1.35, 
+3.65)], Postnatal follow up [(AOR = 0.60, 95% CI:(0.36, 0.77)],merchants [(AOR = 
+4.58; 95% CI:1.99, 10.55)], and daily labourer [(AOR = 2.88, 95% CI:(1.50-5.51)] 
+were statistically associated with timely initiation of complementary feeding.
+CONCLUSION: This finding revealed that the prevalence of timely initiation of 
+complementary feeding is still low. Factors affecting timely initiations of 
+complementary feeding were home delivery, unable to attend postnatal care 
+follow-up, being housewife and farmers. All health professionals including 
+health extension workers should give special attention to advising and 
+counseling for mothers and their husbands about timely initiation of 
+complementary feeding.
+
+DOI: 10.1371/journal.pone.0267008
+PMCID: PMC9116650
+PMID: 35584090 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+329. Nature. 2022 Aug;608(7923):528-533. doi: 10.1038/s41586-022-04737-7. Epub
+2022  May 18.
+
+Tropical tree mortality has increased with rising atmospheric water stress.
+
+Bauman D(1)(2)(3), Fortunel C(4), Delhaye G(5)(6), Malhi Y(5), Cernusak LA(7), 
+Bentley LP(8), Rifai SW(9)(10), Aguirre-Gutiérrez J(5)(11), Menor IO(5)(4), 
+Phillips OL(12), McNellis BE(13), Bradford M(14), Laurance SGW(7), Hutchinson 
+MF(15), Dempsey R(7), Santos-Andrade PE(16), Ninantay-Rivera HR(16), Chambi 
+Paucar JR(16), McMahon SM(17).
+
+Author information:
+(1)Smithsonian Environmental Research Center, Edgewater, MD, USA. 
+david.bauman@oxfordecosystems.co.uk.
+(2)Environmental Change Institute, School of Geography and the Environment, 
+University of Oxford, Oxford, UK. david.bauman@oxfordecosystems.co.uk.
+(3)AMAP (Botanique et Modélisation de l'Architecture des Plantes et des 
+Végétations), Université de Montpellier, CIRAD, CNRS, INRAE, IRD, Montpellier, 
+France. david.bauman@oxfordecosystems.co.uk.
+(4)AMAP (Botanique et Modélisation de l'Architecture des Plantes et des 
+Végétations), Université de Montpellier, CIRAD, CNRS, INRAE, IRD, Montpellier, 
+France.
+(5)Environmental Change Institute, School of Geography and the Environment, 
+University of Oxford, Oxford, UK.
+(6)Ecosystem Stewardship, Royal Botanic Gardens Kew, London, UK.
+(7)Centre for Tropical Environmental and Sustainability Science, College of 
+Science and Engineering, James Cook University, Cairns, Queensland, Australia.
+(8)Department of Biology, Sonoma State University, Rohnert Park, CA, USA.
+(9)ARC Centre of Excellence for Climate Extremes, University of New South Wales, 
+Sydney, New South Wales, Australia.
+(10)Department of Environmental Science, Policy, and Management, UC Berkeley, 
+Berkeley, CA, USA.
+(11)Biodiversity Dynamics, Naturalis Biodiversity Center, Leiden, The 
+Netherlands.
+(12)School of Geography, University of Leeds, Leeds, UK.
+(13)Southwest Biological Science Center, U.S. Geological Survey, Moab, UT, USA.
+(14)CSIRO Land and Water, Tropical Forest Research Centre, Atherton, Queensland, 
+Australia.
+(15)Fenner School of Environment and Society, The Australian National 
+University, Canberra, Australian Capital Territory, Australia.
+(16)Universidad Nacional San Antonio Abad del Cusco, Cusco, Perú.
+(17)Smithsonian Environmental Research Center, Edgewater, MD, USA.
+
+Evidence exists that tree mortality is accelerating in some regions of the 
+tropics1,2, with profound consequences for the future of the tropical carbon 
+sink and the global anthropogenic carbon budget left to limit peak global 
+warming below 2 °C. However, the mechanisms that may be driving such mortality 
+changes and whether particular species are especially vulnerable remain 
+unclear3-8. Here we analyse a 49-year record of tree dynamics from 24 old-growth 
+forest plots encompassing a broad climatic gradient across the Australian moist 
+tropics and find that annual tree mortality risk has, on average, doubled across 
+all plots and species over the last 35 years, indicating a potential halving in 
+life expectancy and carbon residence time. Associated losses in biomass were not 
+offset by gains from growth and recruitment. Plots in less moist local climates 
+presented higher average mortality risk, but local mean climate did not predict 
+the pace of temporal increase in mortality risk. Species varied in the 
+trajectories of their mortality risk, with the highest average risk found nearer 
+to the upper end of the atmospheric vapour pressure deficit niches of species. A 
+long-term increase in vapour pressure deficit was evident across the region, 
+suggesting that thresholds involving atmospheric water stress, driven by global 
+warming, may be a primary cause of increasing tree mortality in moist tropical 
+forests.
+
+© 2022. The Author(s), under exclusive licence to Springer Nature Limited.
+
+DOI: 10.1038/s41586-022-04737-7
+PMID: 35585230 [Indexed for MEDLINE]
+
+
+330. Cell Mol Life Sci. 2022 May 18;79(6):297. doi: 10.1007/s00018-022-04342-x.
+
+SIRT7 in the aging process.
+
+Lagunas-Rangel FA(1).
+
+Author information:
+(1)Department of Surgical Sciences, Uppsala University, BMC, Husargatan 3, Box 
+593, 751 24, Uppsala, Sweden. francisco.lagunas@neuro.uu.se.
+
+Aging is the result of the accumulation of a wide variety of molecular and 
+cellular damage over time. This has been associated with a number of features 
+termed hallmarks of aging, including genomic instability, loss of proteostasis, 
+telomere attrition, dysregulated nutrient sensing, mitochondrial dysfunction, 
+cellular senescence, stem cell exhaustion, and impaired intercellular 
+communication. On the other hand, sirtuins are enzymes with an important role in 
+aging and life extension, of which humans have seven paralogs (SIRT1 to SIRT7). 
+SIRT7 is the least studied sirtuin to date, but it has been reported to serve 
+important functions, such as promoting ribosomal RNA expression, aiding in DNA 
+damage repair, and regulating chromatin compaction. Several studies have 
+established a close relationship between SIRT7 and age-related processes, but 
+knowledge in this area is still scarce. Therefore, the purpose of this review 
+was to analyze how SIRT7 is associated with each of the hallmarks of aging, as 
+well as with some of age-associated diseases, such as cardiovascular diseases, 
+obesity, osteoporosis, and cancer.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s00018-022-04342-x
+PMCID: PMC9117384
+PMID: 35585284 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author declares no conflict of interest.
+
+
+331. Hist Philos Life Sci. 2022 May 18;44(2):21. doi: 10.1007/s40656-022-00496-w.
+
+The 'good' of extending fertility: ontology and moral reasoning in a biotemporal 
+regime of reproduction.
+
+Bühler N(1).
+
+Author information:
+(1)Institute of Social Sciences, University of Lausanne, Lausanne, Switzerland. 
+nolwenn.buhler@unil.ch.
+
+Since the emergence of in-vitro fertilization (IVF), a specific set of 
+technologies has been developed to address the problem of the 'biological 
+clock'. The medical extension of fertility time is accompanied by promissory 
+narratives to help women synchronize conflicting biological and social 
+temporalities. This possibility also has a transgressive potential by blurring 
+one of the biological landmarks - the menopause - by which reproductive lives 
+are organized and governed. These new ways of managing, measuring and 
+controlling reproductive time have renewed debates on the age limits of 
+motherhood and the moral legitimacy of medical intervention into age-related 
+fertility decline. Building on Amir's feminist concept of biotemporality, this 
+paper questions what happens when the ontological foundations of age-limited 
+motherhood are disrupted by technologies which allow fertility to be extended. 
+It discusses the reconfigurations of the ontological boundaries of the facts of 
+life in the light of literature on reproductive technologies and temporality. 
+Through the Swiss experience, the paper shows how medical experts are drawn into 
+negotiating the ontological boundaries of age-limited motherhood along the 
+binaries of the normal/pathological and the biological/social. Questioning the 
+purpose of medical interventions in what are seen as facts of life, they produce 
+different configurations of moral reasoning where what is natural undergoes 
+shifts which both reinforce the normative order and subvert it.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s40656-022-00496-w
+PMCID: PMC9117355
+PMID: 35585470 [Indexed for MEDLINE]
+
+Conflict of interest statement: No conflict of interest to declare
+
+
+332. Epidemiology. 2022 Sep 1;33(5):739-746. doi: 10.1097/EDE.0000000000001509.
+Epub  2022 May 19.
+
+The Missing and Murdered Indigenous Relatives Crisis and the Life Expectancy Gap 
+for Native Americans, 2010-2019.
+
+Yellow Horse AJ(1), Acciai F(2), Huyser KR(3).
+
+Author information:
+(1)From the School of Social Transformation, Arizona State University.
+(2)College of Health Solutions, Arizona State University.
+(3)Department of Sociology, The University of British Columbia.
+
+BACKGROUND: We assessed the role of missing and murdered indigenous relatives 
+(MMIR) relevant causes of death in the life expectancy gap between the American 
+Indian and Alaska Native (AIAN) and non-Hispanic White populations.
+METHODS: Using 2010-2019 National Center for Health Statistics Detailed 
+Mortality files, we created multidecrement life tables and used the 
+age-incidence decomposition method to identify (1) the causes of death that 
+contribute to the gap in life expectancy between White and AIAN, and (2) the 
+mechanisms through which these causes operate.
+RESULTS: Causes of death relevant to MMIR constituted 4.0% of all AIAN deaths, 
+but accounted for almost one-tenth (9.6%; 0.74 of 8.21 years) of the overall 
+AIAN-White life expectancy gap. MMIR-relevant causes accounted for 6.6% of the 
+AIAN-White life expectancy gap for women and 11.9% of the for men.
+CONCLUSIONS: This study suggests a critical agenda for research on racial 
+inequities in mortality, with a focus on MMIR.
+
+Copyright © 2022 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/EDE.0000000000001509
+PMID: 35585668 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflicts of interest.
+
+
+333. Aging Ment Health. 2023 Jun;27(6):1190-1197. doi:
+10.1080/13607863.2022.2076205.  Epub 2022 May 18.
+
+The long-term effects of dual caregiving on the caregivers' well-being among 
+middle-aged and older adults in Taiwan.
+
+Hsu WC(1), Huang NC(2), Li DC(3), Hu SC(1)(2).
+
+Author information:
+(1)Department of Public Health, College of Medicine, National Cheng Kung, 
+Tainan, Taiwan.
+(2)Healthy City Research Center, Innovation Headquarters, National Cheng Kung, 
+Tainan, Taiwan.
+(3)Department of Industrial and Information Management, National Cheng Kung, 
+Tainan, Taiwan.
+
+OBJECTIVES: As life expectancy is prolonged, older people may face increased 
+burdens related to supporting multi-generational family members. This study is 
+aimed toward examining the effects of such an emerging type of informal care on 
+the well-being of caregivers.
+METHODS: Participants aged 50 and over from the Taiwan Longitudinal Study on 
+Aging (1996-2007, n = 4,217) were analyzed. We categorized caregiving status 
+according to different care recipients: 1) older adults only, 2) grandchildren 
+only, 3) both older adults and grandchildren (dual caregiving), and 4) 
+non-caregivers. Well-being was measured based on depressive symptoms and degree 
+of life satisfaction. Generalized Estimation Equation models were used to 
+examine the association between types of caregiving and the caregivers' state of 
+well-being.
+RESULTS: After adjusting for all covariates, caregivers of older adults had 
+significantly more depressive symptoms and less life satisfaction than 
+non-caregivers, especially when caregiving for adults with ADL problems. In 
+contrast, caregivers of grandchildren were not significantly affect either 
+depression or life satisfaction as compared with non-caregivers. Interestingly, 
+caregiving for both older adults and grandchildren had no significant effect on 
+depression but positively affected the degree of life satisfaction.
+CONCLUSION: Our findings highlight that simultaneously taking care of both older 
+adults and grandchildren can buffer negative feelings in caregivers or even 
+improve their mental health.
+
+DOI: 10.1080/13607863.2022.2076205
+PMID: 35585725 [Indexed for MEDLINE]
+
+
+334. Oxid Med Cell Longev. 2022 May 9;2022:4748447. doi: 10.1155/2022/4748447. 
+eCollection 2022.
+
+Ginger for Healthy Ageing: A Systematic Review on Current Evidence of Its 
+Antioxidant, Anti-Inflammatory, and Anticancer Properties.
+
+Ozkur M(1), Benlier N(1), Takan I(2)(3), Vasileiou C(4), Georgakilas AG(4), 
+Pavlopoulou A(2)(3), Cetin Z(5)(6), Saygili EI(7)(8).
+
+Author information:
+(1)Department of Medical Pharmacology, Faculty of Medicine, SANKO University, 
+Gaziantep, Turkey.
+(2)Izmir Biomedicine and Genome Center, Balcova, Izmir 35340, Turkey.
+(3)Izmir International Biomedicine and Genome Institute, Dokuz Eylül University, 
+Balcova, Izmir 35220, Turkey.
+(4)DNA Damage Laboratory, Physics Department, School of Applied Mathematical and 
+Physical Sciences, National Technical University of Athens, 157 80 Athens, 
+Greece.
+(5)Department of Medical Biology, School of Medicine, SANKO University, 
+Gaziantep, Turkey.
+(6)Department of Biological and Biomedical Sciences, Graduate Education 
+Institute, SANKO University, Gaziantep, Turkey.
+(7)Department of Medical Biochemistry, School of Medicine, SANKO University, 
+Gaziantep, Turkey.
+(8)Department of Molecular Medicine, Graduate Education Institute, SANKO 
+University, Gaziantep, Turkey.
+
+The world's population is ageing at an accelerated pace. Ageing is a natural, 
+physiological but highly complex and multifactorial process that all species in 
+the Tree of Life experience over time. Physical and mental disabilities, and 
+age-related diseases, would increase along with the increasing life expectancy. 
+Ginger (Zingiber officinale) is a plant that belongs to the Zingiberaceae 
+family, native to Southeast Asia. For hundreds of years, ginger has been 
+consumed in various ways by the natives of Asian countries, both as culinary and 
+medicinal herb for the treatment of many diseases. Mounting evidence suggests 
+that ginger can promote healthy ageing, reduce morbidity, and prolong healthy 
+lifespan. Ginger, a well-known natural product, has been demonstrated to possess 
+antioxidant, anti-inflammatory, anticancer, and antimicrobial properties, as 
+well as an outstanding antiviral activity due to a high concentration of 
+antiviral compounds. In this review, the current evidence on the potential role 
+of ginger and its active compounds in the prevention of ageing is discussed.
+
+Copyright © 2022 Mehtap Ozkur et al.
+
+DOI: 10.1155/2022/4748447
+PMCID: PMC9110206
+PMID: 35585878 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+335. J Health Monit. 2019 Mar 14;4(1):3-14. doi: 10.25646/5872. eCollection 2019
+Mar.
+
+Social differences in mortality and life expectancy in Germany. Current 
+situation and trends.
+
+Lampert T(1), Hoebel J(1), Kroll LE(2).
+
+Author information:
+(1)Robert Koch Institute, Berlin Department of Epidemiology and Health 
+Monitoring.
+(2)Formerly Robert Koch Institute, Berlin Department of Epidemiology and Health 
+Monitoring.
+
+Social differences in mortality and life expectancy are a clear demonstration of 
+the social and health-related inequalities that exist within a particular 
+population. According to data from the Socio-Economic Panel (SOEP) for the 
+period ranging from 1992 to 2016, 13% of women and 27% of men in the lowest 
+income group died before the age of 65; the same can be said for just 8% of 
+women and 14% of men in the highest income group. The difference between mean 
+life expectancy at birth among the lowest and highest income groups is 4.4 years 
+for women and 8.6 years for men. Substantial differences also exist between 
+income groups regarding further life expectancy at the age of 65: women in the 
+lowest income group have a 3.7-year shorter life expectancy than women in the 
+highest income group. Similarly, men in the lowest income group have a 6.6-year 
+shorter life expectancy than men in the highest income group. Finally, results 
+from the trend analyses suggest that social differences in life expectancy have 
+remained relatively stable over the last 25 years.
+
+© Robert Koch Institute. All rights reserved unless explicitly granted.
+
+DOI: 10.25646/5872
+PMCID: PMC8848850
+PMID: 35586309
+
+Conflict of interest statement: Conflicts of interest The authors declared no 
+conflicts of interest.
+
+
+336. J Health Monit. 2019 Nov 1;4(Suppl 2):2-23. doi: 10.25646/6077. eCollection
+2019  Nov.
+
+30 years after the fall of the Berlin Wall: Regional health differences in 
+Germany.
+
+Lampert T(1), Müters S(1), Kuntz B(1), Dahm S(1), Nowossadeck E(1).
+
+Author information:
+(1)Robert Koch Institute, Berlin Department of Epidemiology and Health 
+Monitoring.
+
+Following the fall of the Berlin Wall in November 1989, considerable effort was 
+made to bring the living conditions and levels of social participation in the 
+former East German federal states into line with the former West German federal 
+states. As a result, differences in health between the East and the West 
+diminished significantly, in many cases as early as the 1990s, examples being 
+life expectancy and cardiovascular mortality. In regard to health behaviour, the 
+overall tendency has also clearly been one of convergence. Thus, only very small 
+differences can be observed today, for example in the use of tobacco or in the 
+prevalence of obesity. Yet the results also highlight the insufficiency of 
+regarding the remaining differences as a simple comparison between East and 
+West. Instead, the focus should shift towards smaller-scale approaches that take 
+regional differences in living conditions into account.
+
+© Robert Koch Institute. All rights reserved unless explicitly granted.
+
+DOI: 10.25646/6077
+PMCID: PMC8832371
+PMID: 35586335
+
+Conflict of interest statement: Conflict of interest The authors declared no 
+conflicts of interest.
+
+
+337. Sarcoma. 2022 May 9;2022:6240293. doi: 10.1155/2022/6240293. eCollection
+2022.
+
+Free Vascularized Fibula Salvage of Failed CPH in Pediatric Sarcoma Patients.
+
+Pires G(1), Moss WD(1), Luo J(1), Zhang R(1), Jones KB(2), Kwok AC(1), Agarwal 
+JP(1).
+
+Author information:
+(1)Division of Plastic Surgery, Department of Surgery, University of Utah, Salt 
+Lake City, UT, USA.
+(2)Department of Orthopedics, University of Utah, Salt Lake City, UT, USA.
+
+BACKGROUND: Due to extended life expectancy and recent improvements in surgical 
+techniques, limb salvage has replaced amputation as the gold standard and is now 
+performed in 90-95% of upper extremity malignancies. However, many of these 
+salvage procedures are associated with significant postsurgical complications. 
+In particular, the clavicula pro humero (CPH) procedure is associated with high 
+rates of nonunion. We present our experience with upper extremity salvage using 
+the free vascularized fibular flap (VFF) after failure or nonunion of the 
+original CPH procedure in the pediatric population.
+METHODS: Five patients under the age of 18 diagnosed with upper extremity 
+sarcoma who underwent tumor resection with immediate CPH reconstruction 
+complicated with nonunion, and subsequent revision with free VFF were included. 
+Data on patient demographics, oncologic characteristics, surgical procedures, 
+intraoperative details, postoperative complications, and time to graft union 
+were recorded.
+RESULTS: Five patients (average age = 8.4 years; range = 5-10 years at surgery 
+date) underwent secondary limb salvage procedure with free VFF reconstruction 
+following failed CPH reconstruction for proximal humeral osteosarcoma (n = 4) or 
+Ewing sarcoma (n = 1). The mean follow-up was 3.7 years. Complications occurred 
+in five patients (100%), with three patients requiring reoperation (60%). Four 
+patients achieved graft union (average union time = 3.7 months) and successful 
+limb reconstruction. Four patients were alive with no local recurrence of the 
+disease. One patient did not achieve union and was lost to follow-up.
+CONCLUSION: Primary bone tumors in the pediatric population require wide 
+surgical resection, and reconstruction often has high complication rates that 
+can warrant further procedures. A free VFF is a viable option for upper 
+extremity salvage after previously failed reconstructions because it provides 
+vascularized tissue to a scarred tissue bed and allows for the replacement or 
+augmentation of large bony defects.
+
+Copyright © 2022 Giovanna Pires et al.
+
+DOI: 10.1155/2022/6240293
+PMCID: PMC9110248
+PMID: 35586727
+
+Conflict of interest statement: Dr. Agarwal is a consultant for an unrelated 
+project with Don Joy Orthopedics. Dr. Jones has contracts with the National 
+Cancer Institute and National Institute of Health and is a Connective Tissue 
+Oncology Society Board member. The other authors certify that they have no 
+commercial associations (e.g., consultancies, stock ownership, equity interest, 
+patent/licensing arrangements, etc.) that might pose a conflict of interest in 
+connection with the submitted article.
+
+
+338. Front Nutr. 2022 May 2;9:852984. doi: 10.3389/fnut.2022.852984. eCollection 
+2022.
+
+Enhancing Nutrition Care Through Real-Time, Sensor-Based Capture of Eating 
+Occasions: A Scoping Review.
+
+Wang L(1), Allman-Farinelli M(1), Yang JA(2), Taylor JC(3)(4), Gemming L(1), 
+Hekler E(3)(4), Rangan A(1).
+
+Author information:
+(1)Charles Perkins Centre, Faculty of Medicine and Health, University of Sydney, 
+Sydney, NSW, Australia.
+(2)Department of Population Sciences, Beckman Research Institute, City of Hope, 
+Duarte, CA, United States.
+(3)The Design Lab, University of California, San Diego, San Diego, CA, United 
+States.
+(4)Herbert Wertheim School of Public Health and Human Longevity Science, 
+University of California, San Diego, San Diego, CA, United States.
+
+As food intake patterns become less structured, different methods of dietary 
+assessment may be required to capture frequently omitted snacks, smaller meals, 
+and the time of day when they are consumed. Incorporating sensors that passively 
+and objectively detect eating behavior may assist in capturing these eating 
+occasions into dietary assessment methods. The aim of this study was to identify 
+and collate sensor-based technologies that are feasible for dietitians to use to 
+assist with performing dietary assessments in real-world practice settings. A 
+scoping review was conducted using the PRISMA extension for scoping reviews 
+(PRISMA-ScR) framework. Studies were included if they were published between 
+January 2016 and December 2021 and evaluated the performance of sensor-based 
+devices for identifying and recording the time of food intake. Devices from 
+included studies were further evaluated against a set of feasibility criteria to 
+determine whether they could potentially be used to assist dietitians in 
+conducting dietary assessments. The feasibility criteria were, in brief, 
+consisting of an accuracy ≥80%; tested in settings where subjects were free to 
+choose their own foods and activities; social acceptability and comfort; a long 
+battery life; and a relatively rapid detection of an eating episode. Fifty-four 
+studies describing 53 unique devices and 4 device combinations worn on the wrist 
+(n = 18), head (n = 16), neck (n = 9), and other locations (n = 14) were 
+included. Whilst none of the devices strictly met all feasibility criteria 
+currently, continuous refinement and testing of device software and hardware are 
+likely given the rapidly changing nature of this emerging field. The main 
+reasons devices failed to meet the feasibility criteria were: an insufficient or 
+lack of reporting on battery life (91%), the use of a limited number of foods 
+and behaviors to evaluate device performance (63%), and the device being 
+socially unacceptable or uncomfortable to wear for long durations (46%). Until 
+sensor-based dietary assessment tools have been designed into more inconspicuous 
+prototypes and are able to detect most food and beverage consumption throughout 
+the day, their use will not be feasible for dietitians in practice settings.
+
+Copyright © 2022 Wang, Allman-Farinelli, Yang, Taylor, Gemming, Hekler and 
+Rangan.
+
+DOI: 10.3389/fnut.2022.852984
+PMCID: PMC9108538
+PMID: 35586732
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+339. Evol Bioinform Online. 2022 May 13;18:11769343221095858. doi: 
+10.1177/11769343221095858. eCollection 2022.
+
+Host-Population Microbial Diversity Scaling of Chinese Gut Microbiomes in Gout 
+Patients.
+
+Zhou J(1), Yuan Y(1)(2), Xu P(3), Yi B(4), Chen H(4), Su W(5).
+
+Author information:
+(1)People's Hospital of Dingxi City, The Second Affiliated Hospital of Lanzhou 
+University Medical School, Dingxi, China.
+(2)College of Clinical Medicine, Lanzhou University Medical School, Lanzhou, 
+China.
+(3)College of Graduate Studies, Kunming Medical University, Kunming, China.
+(4)College of Mathematics, Honghe University, Mengzi, Yunnan, China.
+(5)Department of Radiology, Affiliated Hospital of Yunnan University, Kunming, 
+China.
+
+Gout is a prevalent chronic inflammatory disease that affects the life of tens 
+of millions of people worldwide, and it typically presents as gout arthritis, 
+gout stone, or even kidney damage. Research has revealed its connection with the 
+gut microbiome, although exact mechanism is still unclear. Studies have shown 
+the decline of microbiome diversity in gout patients and change of microbiome 
+compositions between the gout patients and healthy controls. Nevertheless, how 
+diversity changes across host individuals at a cohort (population) level has not 
+been investigated to the best of our knowledge. Here we apply the diversity-area 
+relationship (DAR), which is an extension to the classic SAR (species-area 
+relationship) and establishes the power-function model between microbiome 
+diversity and the number of individuals within cohort, to comparatively 
+investigate diversity scaling (changes) of gut microbiome in gout patients and 
+healthy controls. The DAR modeling with a study involving 83 subjects (41 gout 
+patients) revealed that the potential number of microbial species in gout 
+patients is only 70% of that in the healthy control (2790 vs 3900) although the 
+difference may not be statistically significant. The other DAR parameters 
+including diversity scaling and similarity parameters did not show statistically 
+significant differences. We postulate that the high resilience of gut microbiome 

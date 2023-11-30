@@ -1,0 +1,1000 @@
+a fully centralized BMS structure. Another research contribution made in this 
+work is the development of a methodical modeling procedure based on Petri Nets, 
+which establishes, in a visible, organized, and precise way, the set of 
+conditions that will determine the operation of the BMS. If this modeling is not 
+carried out, the threshold values and their conditions remain scattered, not 
+very transparent, and difficult to deal with in an aggregate way.
+
+DOI: 10.3390/s23073417
+PMCID: PMC10098843
+PMID: 37050477
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+779. Sensors (Basel). 2023 Mar 30;23(7):3618. doi: 10.3390/s23073618.
+
+Towards Home-Based Diabetic Foot Ulcer Monitoring: A Systematic Review.
+
+Kairys A(1), Pauliukiene R(2), Raudonis V(1), Ceponis J(3).
+
+Author information:
+(1)Automation Department, Electrical and Electronics Faculty, Kaunas University 
+of Technology, 51368 Kaunas, Lithuania.
+(2)Department of Endocrinology, Lithuanian University of Health Sciences, 50161 
+Kaunas, Lithuania.
+(3)Institute of Endocrinology, Lithuanian University of Health Sciences, 44307 
+Kaunas, Lithuania.
+
+It is considered that 1 in 10 adults worldwide have diabetes. Diabetic foot 
+ulcers are some of the most common complications of diabetes, and they are 
+associated with a high risk of lower-limb amputation and, as a result, reduced 
+life expectancy. Timely detection and periodic ulcer monitoring can considerably 
+decrease amputation rates. Recent research has demonstrated that computer vision 
+can be used to identify foot ulcers and perform non-contact telemetry by using 
+ulcer and tissue area segmentation. However, the applications are limited to 
+controlled lighting conditions, and expert knowledge is required for dataset 
+annotation. This paper reviews the latest publications on the use of artificial 
+intelligence for ulcer area detection and segmentation. The PRISMA methodology 
+was used to search for and select articles, and the selected articles were 
+reviewed to collect quantitative and qualitative data. Qualitative data were 
+used to describe the methodologies used in individual studies, while 
+quantitative data were used for generalization in terms of dataset preparation 
+and feature extraction. Publicly available datasets were accounted for, and 
+methods for preprocessing, augmentation, and feature extraction were evaluated. 
+It was concluded that public datasets can be used to form a bigger, more diverse 
+datasets, and the prospects of wider image preprocessing and the adoption of 
+augmentation require further research.
+
+DOI: 10.3390/s23073618
+PMCID: PMC10099334
+PMID: 37050678 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+780. J Blood Med. 2023 Apr 6;14:261-277. doi: 10.2147/JBM.S382090. eCollection
+2023.
+
+Chronic Myeloid Leukemia, from Pathophysiology to Treatment-Free Remission: A 
+Narrative Literature Review.
+
+Rinaldi I(1), Winston K(2)(3).
+
+Author information:
+(1)Division of Hematology and Medical Oncology, Department of Internal Medicine, 
+Cipto Mangunkusumo National General Hospital, Faculty of Medicine, Universitas 
+Indonesia, Jakarta, Indonesia.
+(2)Faculty of Medicine, Universitas Indonesia, Jakarta, Indonesia.
+(3)Hospital Medicine, Bhakti Medicare Hospital, Sukabumi, Indonesia.
+
+Chronic myeloid leukemia (CML) is one of the most common leukemias occurring in 
+the adult population. The course of CML is divided into three phases: the 
+chronic phase, the acceleration phase, and the blast phase. Pathophysiology of 
+CML revolves around Philadelphia chromosome that constitutively activate 
+tyrosine kinase through BCR-ABL1 oncoprotein. In the era of tyrosine kinase 
+inhibitors (TKIs), CML patients now have a similar life expectancy to people 
+without CML, and it is now very rare for CML patients to progress to the blast 
+phase. Only a small proportion of CML patients have resistance to TKI, caused by 
+BCR-ABL1 point mutations. CML patients with TKI resistance should be treated 
+with second or third generation TKI, depending on the BCR-ABL1 mutation. 
+Recently, many studies have shown that it is possible for CML patients who 
+achieve a long-term deep molecular response to stop TKIs treatment and maintain 
+remission. This review aimed to provide an overview of CML, including its 
+pathophysiology, clinical manifestations, the role of stem cells, CML 
+treatments, and treatment-free remission.
+
+© 2023 Rinaldi and Winston.
+
+DOI: 10.2147/JBM.S382090
+PMCID: PMC10084831
+PMID: 37051025
+
+Conflict of interest statement: The authors report no conflicts of interest in 
+this work.781. Front Nutr. 2023 Mar 27;10:1146442. doi: 10.3389/fnut.2023.1146442.
+eCollection  2023.
+
+Multimorbidity patterns and mortality in older adults: Results from the KORA-Age 
+study.
+
+Arshadipour A(1)(2), Thorand B(1)(3), Linkohr B(1), Ladwig KH(4), Heier M(1)(5), 
+Peters A(1)(2)(3)(6).
+
+Author information:
+(1)Institute of Epidemiology, Helmholtz Zentrum München, German Research Center 
+for Environmental Health, Munich, Germany.
+(2)Institute for Medical Information Processing Biometry and Epidemiology (IBE), 
+Ludwig-Maximilians-Universität München, Munich, Germany.
+(3)German Center for Diabetes Research (DZD), Neuherberg, Germany.
+(4)Department for Psychosomatic Medicine and Psychotherapy, Klinikum Rechts Der 
+Isar, Technical University of München, Munich, Germany.
+(5)KORA Study Centre, University Hospital of Augsburg, Augsburg, Germany.
+(6)German Center for Cardiovascular Disease Research (DZHK), Munich, Germany.
+
+The coexistence of several chronic diseases is very common in older adults, 
+making it crucial to understand multimorbidity (MM) patterns and associated 
+mortality. We aimed to determine the prevalence of MM and common chronic disease 
+combinations, as well as their impact on mortality in men and women aged 
+65 years and older using the population-based KORA-Age study, based in South of 
+Germany. The chronic disease status of the participants was determined in 
+2008/9, and mortality status was followed up until 2016. MM was defined as 
+having at least two chronic diseases. We used Cox proportional hazard models to 
+calculate the hazard ratios (HRs) and the 95% confidence intervals (CIs) for 
+associations between MM and all-cause mortality. During the study period 495 men 
+(24.6%) and 368 women (17.4%) died. Although the MM prevalence was almost the 
+same in men (57.7%) and women (60.0%), the overall effect of MM on mortality was 
+higher in men (HR: 1.81, 95% CI: 1.47-2.24) than in women (HR: 1.28, 95% CI: 
+1.01-1.64; p-value for interaction <0.001). The type of disease included in the 
+MM patterns had a significant impact on mortality risk. For example, when both 
+heart disease and diabetes were included in the combinations of two and three 
+diseases, the mortality risk was highest. The risk of premature death does not 
+only depend on the number of diseases but also on the specific disease 
+combinations. In this study, life expectancy depended strongly on a few 
+diseases, such as diabetes, hypertension, and heart disease.
+
+Copyright © 2023 Arshadipour, Thorand, Linkohr, Ladwig, Heier and Peters.
+
+DOI: 10.3389/fnut.2023.1146442
+PMCID: PMC10083328
+PMID: 37051131
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+782. Front Med (Lausanne). 2023 Mar 27;10:1165865. doi:
+10.3389/fmed.2023.1165865.  eCollection 2023.
+
+Deep-learning-based survival prediction of patients with cutaneous malignant 
+melanoma.
+
+Yu H(1), Yang W(2), Wu S(1), Xi S(3), Xia X(4), Zhao Q(5), Ming WK(6), Wu L(7), 
+Hu Y(1), Deng L(1)(7), Lyu J(8)(9).
+
+Author information:
+(1)Department of Dermatology, The First Affiliated Hospital of Jinan University 
+and Jinan University Institute of Dermatology, Guangzhou, China.
+(2)Office of Drug Clinical Trial Institution, The First Affiliated Hospital of 
+Jinan University, Guangzhou, China.
+(3)School of Mechatronical Engineering, Guangdong Polytechnic Normal University, 
+Guangzhou, China.
+(4)Institute of Biomedical Transformation, Jinan University, Guangzhou, China.
+(5)Cancer Centre, Faculty of Health Sciences, University of Macau, Macau, China.
+(6)Department of Infectious Diseases and Public Health, Jockey Club College of 
+Veterinary Medicine and Life Sciences, City University of Hong Kong, Hong Kong, 
+China.
+(7)Department of Dermatology, The Fifth Affiliated Hospital of Jinan University, 
+Heyuan, China.
+(8)Department of Clinical Research, The First Affiliated Hospital of Jinan 
+University, Guangzhou, China.
+(9)Guangdong Provincial Key Laboratory of Traditional Chinese Medicine 
+Informatization, Guangzhou, China.
+
+BACKGROUND: This study obtained data on patients with cutaneous malignant 
+melanoma (CMM) from the Surveillance, Epidemiology, and End Results (SEER) 
+database, and used a deep learning and neural network (DeepSurv) model to 
+predict the survival rate of patients with CMM and evaluate its effectiveness.
+METHODS: We collected information on patients with CMM between 2004 and 2015 
+from the SEER database. We then randomly divided the patients into training and 
+testing cohorts at a 7:3 ratio. The likelihood that patients with CMM will 
+survive was forecasted using the DeepSurv model, and its results were compared 
+with those of the Cox proportional-hazards (CoxPH) model. The calibration 
+curves, time-dependent area under the receiver operating characteristic curve 
+(AUC), and concordance index (C-index) were used to assess the prediction 
+abilities of the model.
+RESULTS: This study comprised 37,758 patients with CMM: 26,430 in the training 
+cohort and 11,329 in the testing cohort. The CoxPH model demonstrated that the 
+survival of patients with CMM was significantly influenced by age, sex, marital 
+status, summary stage, surgery, radiotherapy, chemotherapy, postoperative lymph 
+node dissection, tumor size, and tumor extension. The C-index of the CoxPH model 
+was 0.875. We also constructed the DeepSurv model using the data from the 
+training cohort, and its C-index was 0.910. We examined how well the 
+aforementioned two models predicted outcomes. The 1-, 3-, and 5-year AUCs were 
+0.928, 0.837, and 0.855, respectively, for the CoxPH model, and 0.971, 0.947, 
+and 0.942 for the DeepSurv model. The DeepSurv model presented a greater 
+predictive effect on patients with CMM, and its reliability was better than that 
+of the CoxPH model according to both the AUC value and the calibration curve.
+CONCLUSION: The DeepSurv model, which we developed based on the data of patients 
+with CMM in the SEER database, was found to be more effective than the CoxPH 
+model in predicting the survival time of patients with CMM.
+
+Copyright © 2023 Yu, Yang, Wu, Shaohui, Xia, Zhao, Ming, Wu, Hu, Deng and Lyu.
+
+DOI: 10.3389/fmed.2023.1165865
+PMCID: PMC10084770
+PMID: 37051218
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+783. J Korean Soc Radiol. 2023 Mar;84(2):477-482. doi: 10.3348/jksr.2022.0096.
+Epub  2023 Feb 14.
+
+Placement of a Subclavian Tunneled Hemodialysis Catheter with the Patient's Arm 
+Raised May Reduce the Risk of Complications: Two Cases Report.
+
+Yoo J, Shim DJ, Kim D, Baek SH, Park CS, Lee JW.
+
+The subclavian vein is an uncommon route for tunneled hemodialysis catheter 
+(tHDC) placement because of its potency for future dialysis access. However, 
+when favored access routes have been exhausted because of repeated 
+catheterization or limited life expectancy, the subclavian vein can be used for 
+urgent hemodialysis. A subclavian catheterization has a technical problem. The 
+subclavian vein often forms a right angle with the vena cava, and advancing 
+stiff peel-away sheath can cause a vascular injury. However, raising the 
+patient's arm can alter the position of the guidewire and, therefore, change the 
+angle of the vein favorable for tHDC placement. Herein, we report two patients 
+who underwent subclavian catheterization; one experienced an injury to the 
+superior vena cava after undergoing the conventional procedure, whereas the 
+other patient with raised arm during the catheterization procedure had safe 
+catheter placement.
+
+Publisher: 매립혈액투석카테터 삽입을 위한 접근로 선택에서 쇄골하정맥은 이후에 동정맥루 접근로 형성을 위해 가능한 사용을 피하는 
+경로이다. 그러나 반복적 삽관으로 접근 가능한 정맥이 소진되거나 기대여명이 길지 않고 응급 투석이 필요한 경우 쇄골하정맥을 선택할 수 있다. 
+그러나 쇄골하정맥을 통한 혈액투석카테터 삽입에는 기술적인 어려움이 있다. 쇄골하정맥은 종종 상대정맥과 직각을 형성하여 굵은 혈관초삽입시 혈관 
+손상을 초래할 수 있다. 상지거상 상태에서 혈관초를 삽입하는 방법은 각도를 완만하게 유도하여 이러한 문제를 극복하는데 도움을 줄 수 있다. 
+고식적앙와위 자세로 시술 중 상대정맥 손상이 있었던 환자와 연달아 내원하여 상지 거상 후 안전하게 혈액투석카테터를 삽입한 환자의 각각의 증례를 
+통해 상지 거상법이 도움이 될 수 있음을 보고하고자 한다.
+
+Copyrights © 2023 The Korean Society of Radiology.
+
+DOI: 10.3348/jksr.2022.0096
+PMCID: PMC10083629
+PMID: 37051385
+
+Conflict of interest statement: Conflicts of Interest: The authors have no 
+potential conflicts of interest to disclose.
+
+
+784. J Pak Med Assoc. 2023 Apr;73(1(B)):942-943. doi: 10.47391/JPMA.23-30.
+
+Renal tumoural calcinosis: Extensive and multifocal form.
+
+Hye KA(1), Younis MN(1).
+
+Author information:
+(1)Department of Nuclear Medicine, Institute of Nuclear Medicine and Oncology, 
+INMOL, New Campus Road, Lahore. Pakistan.
+
+Renal tumoural calcinosis is rare, but the incidence is rising with increasing 
+life expectancy due to dialysis. Whole body skeletal scintigraphy with 99mTc- 
+MDP is a sensitive method to detect sites of osseous involvement. We share an 
+interesting image of the bone scan, in a patient with extensive renal tumoural 
+calcinosis.
+
+DOI: 10.47391/JPMA.23-30
+PMID: 37052024 [Indexed for MEDLINE]
+
+
+785. Sociol Health Illn. 2023 Sep;45(7):1523-1540. doi: 10.1111/1467-9566.13645.
+Epub  2023 Apr 13.
+
+Distribution of the compression and expansion of morbidity in 194 countries and 
+territories, 1990-2016: The role of income inequality.
+
+Chen H(1), Ning J(2), Hu H(1), He H(1).
+
+Author information:
+(1)School of Public Administration and Policy, Renmin University of China, 
+Beijing, China.
+(2)School of Government, University of International Business and Economics, 
+Beijing, China.
+
+Studies on detailed types of health changes and the associations between the 
+types and income inequality are inadequate. This study analyses the global 
+distribution of the compression and expansion of morbidity in 194 countries and 
+territories between 1990 and 2016, and investigates the role of income 
+inequality in the distribution. This study shows that all seven types of health 
+changes coexist, despite being distributed unevenly. The relative expansion of 
+morbidity with increased or constant life expectancy (Type 6, 54.48%) is the 
+most popular type, followed by the relative compression of morbidity with 
+increased or constant life expectancy (Type 3, 30.71%). Income distribution 
+within a society matters for health changes. Societies with greater income 
+inequality tend to have Type 6, a worse scenario of health changes. Measures to 
+reduce income inequality or mitigate its adverse effects will contribute to the 
+relative compression of morbidity with increased or constant life expectancy.
+
+© 2023 Foundation for the Sociology of Health & Illness.
+
+DOI: 10.1111/1467-9566.13645
+PMID: 37052335 [Indexed for MEDLINE]
+
+
+786. Pacing Clin Electrophysiol. 2023 May;46(5):358-364. doi: 10.1111/pace.14699.
+ Epub 2023 Apr 13.
+
+The VR leadless pacemaker: Results of an expert panel using the RAND/UCLA 
+method.
+
+Molina-Linde JM(1), Díaz-Infante E(2), Tercedor-Sánchez L(3), Baños-Álvarez 
+E(4), Piedad-Rosario M(1), Blasco-Amaro JA(1).
+
+Author information:
+(1)Health Technology Assessment Area-AETSA, Andalusian Public Foundation 
+Progress and Health-FPS, Seville, Spain.
+(2)Cardiology Department, Virgen Macarena University Hospital, Seville, Spain.
+(3)Cardiology Department, Virgen de las Nieves University Hospital, Granada, 
+Spain.
+(4)Epidemiologist at Seville Primary Care Health District, Seville, Spain.
+
+BACKGROUND: Leadless pacemakers were developed to reduce complications 
+associated with transvenous pacemaker implantation and long-term follow-up. 
+Existing international guidelines lack detailed instructions on patients 
+suitable for leadless pacemaker implantation. Our aim was to develop a consensus 
+document that provides medical guidance for all health professionals involved in 
+the indication and implantation of Transcatheter Pacing System single-chamber 
+device (VR leadless) pacemakers for patients with atrial fibrillation or in 
+sinus rhythm.
+METHODS: A panel of experts, including interventional and non-interventional 
+cardiologists, used the Research ANd Development/University of California at Los 
+Angeles (RAND/UCLA) method to rate the appropriateness of leadless pacemaker 
+implantation for 64 scenarios in patients with atrial fibrillation and 192 
+scenarios in sinus rhythm. The scenarios were rated individually and again 
+during a moderated group session. Median ratings and level of agreement were 
+calculated to classify each scenario as appropriate, inappropriate, or 
+questionable.
+RESULTS: This consensus statement, based on available literature and the 
+experts' opinions, summarizes recommendations for standardizing and optimizing 
+leadless pacemaker implantation. The limitation for vascular access via the 
+superior vena cava was the most influential variable when indicating leadless 
+pacemaker implantation in both patients with atrial fibrillation and patients in 
+sinus rhythm.
+CONCLUSIONS: Life expectancy, risk of infection, prosthetic valve, left 
+ventricular ejection fraction (LVEF), limitation for vascular access via the 
+superior vena cava, and mobility and exercise capacity determine who is advised 
+to undergo VR leadless pacemaker implantation. More prospective studies are 
+needed to optimize existing recommendations.
+
+© 2023 The Authors. Pacing and Clinical Electrophysiology published by Wiley 
+Periodicals LLC.
+
+DOI: 10.1111/pace.14699
+PMID: 37053015 [Indexed for MEDLINE]
+
+
+787. Circ Res. 2023 Apr 14;132(8):1013-1033. doi: 10.1161/CIRCRESAHA.122.321761.
+Epub  2023 Apr 13.
+
+Fibrosis in Pathology of Heart and Kidney: From Deep RNA-Sequencing to Novel 
+Molecular Targets.
+
+Schreibing F(#)(1)(2), Anslinger TM(#)(1)(2), Kramann R(1)(2)(3).
+
+Author information:
+(1)Institute of Experimental Medicine and Systems Biology (F.S., T.M.A., R.K.), 
+RWTH Aachen University, Medical Faculty, Aachen, Germany.
+(2)Division of Nephrology and Clinical Immunology (F.S., T.M.A., R.K.), RWTH 
+Aachen University, Medical Faculty, Aachen, Germany.
+(3)Department of Internal Medicine, Nephrology and Transplantation, Erasmus 
+Medical Center, Rotterdam, The Netherlands (R.K.).
+(#)Contributed equally
+
+Diseases of the heart and the kidney, including heart failure and chronic kidney 
+disease, can dramatically impair life expectancy and the quality of life of 
+patients. The heart and kidney form a functional axis; therefore, functional 
+impairment of 1 organ will inevitably affect the function of the other. Fibrosis 
+represents the common final pathway of diseases of both organs, regardless of 
+the disease entity. Thus, inhibition of fibrosis represents a promising 
+therapeutic approach to treat diseases of both organs and to resolve functional 
+impairment. However, despite the growing knowledge in this field, the exact 
+pathomechanisms that drive fibrosis remain elusive. RNA-sequencing approaches, 
+particularly single-cell RNA-sequencing, have revolutionized the investigation 
+of pathomechanisms at a molecular level and facilitated the discovery of 
+disease-associated cell types and mechanisms. In this review, we give a brief 
+overview over the evolution of RNA-sequencing techniques, summarize most recent 
+insights into the pathogenesis of heart and kidney fibrosis, and discuss how 
+transcriptomic data can be used, to identify new drug targets and to develop 
+novel therapeutic strategies.
+
+DOI: 10.1161/CIRCRESAHA.122.321761
+PMID: 37053278 [Indexed for MEDLINE]
+
+
+788. PLoS One. 2023 Apr 13;18(4):e0279786. doi: 10.1371/journal.pone.0279786. 
+eCollection 2023.
+
+First-line systemic treatment strategies for unresectable hepatocellular 
+carcinoma: A cost-effectiveness analysis.
+
+Wang L(1), Peng Y(1), Qin S(1), Wan X(1), Zeng X(2), Li S(3), Liu Q(1), Tan 
+C(1).
+
+Author information:
+(1)Department of Pharmacy, the Second Xiangya Hospital of Central South 
+University, Changsha, Hunan, China.
+(2)PET-CT Center, the Second Xiangya Hospital of Central South University, 
+Changsha, Hunan, China.
+(3)Faculty of Medicine, School of Health and Related Research, Dentistry and 
+Health, University of Sheffield, Sheffield, United Kingdom.
+
+BACKGROUND: Oral multikinase inhibitors and immune checkpoint inhibitors (ICIs) 
+are effective for treating advanced hepatocellular carcinoma (aHCC) but may 
+increase cost. This study compared the cost-effectiveness of oral multikinase 
+inhibitors and ICIs in the first-line treatment of patients with aHCC.
+METHODS: A three-state Markov model was established to study the 
+cost-effectiveness of drug treatment from the perspective of Chinese payers. The 
+key outcomes in this study were total cost, quality-adjusted life years (QALYs), 
+and the incremental cost-effectiveness ratio (ICER).
+RESULTS: The total costs and QALYs of sorafenib, sunitinib, donafenib, 
+lenvatinib, sorafenib plus erlotinib, linifanib, brivanib, sintilimab plus 
+IBI305, and atezolizumab plus bevacizumab were $9070 and 0.25, $9362 and 0.78, 
+$33,814 and 0.45, $49,120 and 0.83, $63,064 and 0.81, $74,814 and 0.82, $81,995 
+and 0.82, $74083 and 0.85, and $104,188 and 0.84, respectively. The drug regimen 
+with the lowest ICER was sunitinib ($551 per QALY), followed by lenvatinib 
+($68,869 per QALY). For oral multikinase inhibitors, the ICER of lenvatinib, 
+sorafenib plus erlotinib, linifanib and brivanib compared with sunitinib was 
+$779576, $1534,347, $1768,971, and $1963,064, respectively. For ICIs, sintilimab 
+plus IBI305 is more cost effective than atezolizumab plus bevacizumab. The model 
+was most sensitive to the price of sorafenib, the utility of PD, and the price 
+of second-line drugs.
+CONCLUSION: For oral multikinase inhibitors, the order of possible treatment 
+options is sunitinib > lenvatinib > sorafenib plus erlotinib > linifanib > 
+brivanib > donafenib. For ICIs, the order of possible treatment options is 
+sintilimab plus IBI305 > atezolizumab plus bevacizumab.
+
+Copyright: © 2023 wang et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0279786
+PMCID: PMC10101629
+PMID: 37053300 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+789. Comparing the Predicted Benefits and Harms of Using Adult versus Child 
+Guidelines for Lipid Testing and Treatment in 17- to 21-Year-Olds [Internet].
+
+Rodday AM(1), Gallagher JS(2), Wong JB(3), Sheldrick RS(4), Gooding HC(5), 
+Mackie TI(6), Saunders TS(7), Leslie LK(8), de Ferranti SD(9).
+
+Washington (DC): Patient-Centered Outcomes Research Institute (PCORI); 2018 Jun.
+PCORI Final Research Reports.
+
+Author information:
+(1)Institute for Clinical Research and Health Policy Studies, Tufts Medical 
+Center, Boston, Massachusetts
+(2)Boston Children's Hospital, Boston, Massachusetts
+(3)Tufts University School of Medicine, and Chief, Division of Clinical Decision 
+Making, Tufts Medical Center, Boston, Massachusetts
+(4)Department of Health Law, Policy, and Management, Boston University School of 
+Public Health, Boston, Massachusetts
+(5)Harvard Medical School, Adolescent and Young Adult Medicine, Department of 
+Medicine, Boston Children's Hospital, Boston, Massachusetts
+(6)Department of Health Systems and Policy, Rutgers School of Public Health, 
+Institute for Health, Health Care Policy and Aging Research, Rutgers University, 
+New Brunswick, New Jersey
+(7)Clinical Research and Health Policy Studies, Tufts Medical Center, Boston, 
+Massachusetts
+(8)Tufts Medical Center, Boston, Massachusetts; and Vice-President, Research, 
+American Board of Pediatrics, Chapel Hill, North Carolina
+(9)Harvard Medical School, and Director, Preventive Cardiology, Boston 
+Children's Hospital, Boston, Massachusetts
+
+BACKGROUND: Early cholesterol screening and treatment in adolescents and young 
+adults (AYAs) may improve cardiovascular disease (CVD) outcomes from lifelong 
+high cholesterol; however, it remains controversial, and pediatric and adult 
+lipid guidelines conflict.
+OBJECTIVES: (Aim 1) To assess variation in patient-centered preferences about 
+cholesterol screening and treatment from 17- to 21-year-old AYAs with familial 
+hypercholesterolemia (FH), with obesity (OB), and also healthy (HA) and parents. 
+(Aim 2) To compare cholesterol guideline strategies for AYAs.
+METHODS: A diverse 20-member stakeholder panel informed our approach. For aim 1, 
+we conducted an observational study of preferences using semistructured 
+interviews incorporating vignettes, visual analogue scales (VAS), and open-ended 
+questions about cholesterol screening and treatment scenarios. For aim 2, we 
+performed a literature review and evidence synthesis and analyzed national data 
+to estimate FH prevalence as key inputs for simulation and statistical models 
+comparing the effectiveness of pediatric versus adult cholesterol guidelines for 
+(1) 1-year screening and treatment outcomes in AYAs (including patient-centered 
+quality of life estimates [VAS] from aim 1); (2) 30-year cardiovascular disease 
+incidence; and (3) life expectancy for AYAs, including FH patients.
+RESULTS: In aim 1, AYAs (n = 41) and parents (n = 35) from all groups (FH, OB, 
+HA) perceived that all cholesterol screening scenarios would result in 
+comparatively less than perfect health, with the high-risk result being furthest 
+from perfect health (median = 0.50; IQR = 0.31-0.60). Notably, responses varied 
+substantially, with minimum and maximum VAS ranging from 0.25 to 1.0 for 
+lifestyle changes and 0.20 to 0.99 for statin. In aim 2, over 1 year the 
+pediatric versus adult guidelines in the US population resulted in 240 000 
+additional AYAs receiving new statin prescriptions, 2 million AYAs being 
+referred for intensive lifestyle interventions, and 600 000 fewer AYAs receiving 
+standard-of-care lifestyle advice. Both guidelines yielded similar 1-year 
+cholesterol levels for AYAs with high low-density lipoprotein cholesterol 
+(LDL-C) levels, but pediatric guidelines yielded larger declines for those with 
+moderately high LDL-C. When applying VAS scores, adult guidelines resulted in 
+higher 1-year VAS-adjusted outcomes for diagnosis, treatment, and diagnosis plus 
+treatment because the pediatric guidelines led to more diagnoses of high 
+cholesterol and more statin and lifestyle interventions, which negatively 
+affected perceived health. For the 20.4 million 20-year-olds in the United 
+States, the Pencina model predicted the pediatric guidelines would produce lower 
+average individual 30-year CVD event likelihood compared with adult guidelines 
+(3.13% [95% CI, 2.97%-3.30%] versus 3.18% [95% CI, 3.00%-3.35%]), resulting in 
+10 200 fewer CVD events over 30 years. The primary benefit of screening from 
+either approach accrued to AYA with FH, who experienced a 2.1-year increased 
+survival. The pediatric guidelines provided additional benefit over the adult 
+guidelines to the 530 000 AYA with LDL of 130 mg/dL to 189 mg/dL, increasing 
+average life expectancy by 63 days.
+CONCLUSIONS: We found cholesterol screening and treatment impacts AYAs’ 
+perceptions of their current health, with broad variability in responses. The 
+pediatric versus adult lipid guidelines would lead to more diagnoses and 
+treatment, thereby lowering LDL and increasing survival. Long-term follow-up of 
+AYAs undergoing cholesterol screening and treatment is needed to understand the 
+real-world impact of cholesterol guidelines on patient-centered experiences and 
+CVD events.
+
+Copyright © 2018 Tufts Medical Center, Inc. All Rights Reserved.
+
+DOI: 10.25302/6.2018.CER.1443
+PMID: 37053363
+
+
+790. Prev Chronic Dis. 2023 Apr 13;20:E26. doi: 10.5888/pcd20.220315.
+
+"Make Stories That Will Always Be There": Eagle Books' Appeal, Sustainability, 
+and Contributions to Public Health, 2006-2022.
+
+Satterfield D(1), DeBruyn L(2), Lofton T(3), Francis CD(4), Zoumenou V(5), 
+DeCora L(6), Wesner C(7).
+
+Author information:
+(1)Native Diabetes Wellness Program, Division of Diabetes Translation, Centers 
+for Disease Control and Prevention, Atlanta, GA 30341 (dxs9@cdc.gov).
+(2)Native Diabetes Wellness Program, Division of Diabetes Translation, Centers 
+for Disease Control and Prevention, Atlanta, Georgia.
+(3)Westat, Inc, Atlanta, Georgia.
+(4)School of Human Ecology, University of Wisconsin-Madison.
+(5)University of Maryland Eastern Shore Extension, Princess Anne, Maryland.
+(6)Winnebago Tribe of Nebraska, Winnebago, Nebraska.
+(7)Center for American Indian and Alaska Native Health, University of Colorado 
+Anschutz Medical Campus, Aurora, Colorado.
+
+PURPOSE AND OBJECTIVES: We aimed to determine why the Eagle Books, an 
+illustrated series for American Indian and Alaska Native (AIAN) children to 
+address type 2 diabetes, remain viable long after their release. We sought to 
+answer 2 questions: Why did the books maintain popularity? What factors have 
+sustained them?
+INTERVENTION APPROACH: Type 2 diabetes burgeoned in the US after World War II, 
+compounding a long legacy of injustices for AIAN peoples. By the 1980s, their 
+rates soared above those of White people. Concerned for future generations, 
+Tribal Leaders suggested that the Centers for Disease Control and Prevention and 
+Indian Health Service use traditional storytelling to teach children about 
+staying healthy. Public health interventions are most effective when culture and 
+history are integrated into health education, particularly stories to address a 
+relatively new disease for AIAN peoples.
+EVALUATION METHODS: From 2008 through 2013, we conducted a case study among 8 
+tribal communities to evaluate the uptake of the Eagle Books across Indian 
+Country. To understand the Eagle Books' sustained appeal, in 2022 we reanalyzed 
+the original case study themes and analyzed for the first time themes that 
+emerged from evaluation results in the Eagle Books' program literature. These 
+were programs that had independently evaluated their use of the Eagle Books and 
+published their findings.
+RESULTS: Outcomes demonstrated continuous application of the Eagle Books in 
+diverse community interventions, influencing children's healthy choices. 
+Community implementers described sustainability components, such as the books' 
+versatility, flexibility of use, and availability online and in print.
+IMPLICATIONS FOR PUBLIC HEALTH: Historical, social, economic, and environmental 
+health determinants intersect with biological and behavioral factors to weave a 
+complex web of causation for type 2 diabetes, beginning early in life. 
+Compelling, colorful stories reflecting traditional wisdom and respect for 
+Western and Indigenous science - through the eyes of a wise eagle, a clever 
+rabbit, a tricky coyote, and kids in T-shirts and sneakers - can positively 
+influence community health.
+
+DOI: 10.5888/pcd20.220315
+PMCID: PMC10109502
+PMID: 37055154 [Indexed for MEDLINE]
+
+
+791. Bull Cancer. 2023 Jun;110(6):616-622. doi: 10.1016/j.bulcan.2023.03.014.
+Epub  2023 Apr 11.
+
+[COSA 80: Oncologic surgery in the elderly patients].
+
+[Article in French]
+
+Latrille A(1), Rault A(2), Ghebriou D(3), Magallon C(4), Vallée A(5), Facy O(6).
+
+Author information:
+(1)CHU Dijon, département de chirurgie digestive et cancérologique, Dijon, 
+France. Electronic address: antoine.latrille@chu-dijon.fr.
+(2)Hôpital Foch, département de chirurgie digestive, Suresnes, France.
+(3)AP-HP, hôpital Tenon, département d'oncologie médical, Paris, France.
+(4)Institut Paoli-Calmettes, département d'oncologie chirurgicale, Marseille, 
+France.
+(5)Hôpital Foch, DRCI, département d'épidémiologie-data-biostatistique, 
+Suresnes, France.
+(6)CHU Dijon, département de chirurgie digestive et cancérologique, Dijon, 
+France.
+
+INTRODUCTION: Due to longer life expectancy, an increasing number of older 
+people are at risk of developing cancer. Surgical resection of a non-metastatic 
+and resectable digestive tumor remains the main therapeutic weapon. The 
+objective of our study is to assess the possibility of curative oncological 
+surgery in patients over 80years of age, to study its impact in terms of 
+morbidity and mortality, and to look for risk factors for the occurrence of 
+complications.
+PATIENTS AND METHODS: The study-included patients aged 80 and over operated on 
+for digestive cancer in a curative situation. This was a multicenter prospective 
+cohort study. A total of 230 patients were included in the study. In addition to 
+demographic and medical data, the patients all benefited from an onco-geriatric 
+assessment with the performance of various tests: WHO score, G8 score, IADL 
+score, ADL score, mobility score, nutritional assessment, clock, thymic 
+evaluation (Mini-GDS). Data collection of geriatric scores was repeated 3months 
+postoperatively.
+RESULTS: Of a total of 230 patients, 51% were male and 49% female. The average 
+age was 84.7years. Tumor localization was mainly colorectal (65.81%). Age had no 
+influence on the mortality rate, with a mean age with no significant difference 
+in the event of an unfavorable outcome or not (84.6 vs. 85years). The results at 
+the different scores were then analyzed in search of a significant difference 
+between preoperative and at 3months. The only significant difference found was 
+in the number of patients with a WHO status of 0 (P=0.021).
+CONCLUSION: Our study shows that curative oncological surgery is possible in 
+elderly patients without any adverse effect on their quality of life and level 
+of postoperative autonomy. The multidisciplinary geriatric approach to the 
+patient must make it possible to distinguish the patients who will benefit from 
+a curative treatment and those in whom the benefit-risk balance is unfavorable.
+
+Copyright © 2023 Société Française du Cancer. Published by Elsevier Masson SAS. 
+All rights reserved.
+
+DOI: 10.1016/j.bulcan.2023.03.014
+PMID: 37055308 [Indexed for MEDLINE]
+
+
+792. J Cachexia Sarcopenia Muscle. 2023 Jun;14(3):1299-1311. doi:
+10.1002/jcsm.13218.  Epub 2023 Apr 13.
+
+Effects of exercise habits in adolescence and older age on sarcopenia risk in 
+older adults: the Bunkyo Health Study.
+
+Tabata H(1), Otsuka H(2), Shi H(2), Sugimoto M(2), Kaga H(3), Someya Y(4), Naito 
+H(3), Ito N(3), Abudurezake A(1), Umemura F(2), Kiya M(3), Tajima T(3), Kakehi 
+S(1), Yoshizawa Y(5), Kawamori R(1)(2)(3), Watada H(1)(3), Tamura 
+Y(1)(2)(3)(5)(6).
+
+Author information:
+(1)Sportology Center, Juntendo University Graduate School of Medicine, Tokyo, 
+Japan.
+(2)Department of Sports Medicine & Sportology, Juntendo University Graduate 
+School of Medicine, Tokyo, Japan.
+(3)Department of Metabolism & Endocrinology, Juntendo University Graduate School 
+of Medicine, Tokyo, Japan.
+(4)Juntendo University Graduate School of Health and Sports Science, Chiba, 
+Japan.
+(5)Center for Healthy Life Expectancy, Juntendo University Graduate School of 
+Medicine, Tokyo, Japan.
+(6)Faculty of International Liberal Arts, Juntendo University, Tokyo, Japan.
+
+BACKGROUND: Sarcopenia, defined as an age-associated loss of skeletal muscle 
+mass and function, is a major risk factor for requiring long-term care. Because 
+physical activity in adolescence and older age enhances peak muscle function in 
+youth and prevents muscle function decline in older age, older adults with 
+exercise habits during both periods may be at a lower risk for sarcopenia. We 
+investigated the relationship between exercise habits in adolescence and older 
+age and sarcopenia and its components in community-dwelling older Japanese 
+adults.
+METHODS: This study included 1607 community-dwelling individuals (aged 65-84, 
+medians 73 years, 679 men and 928 women) with complete health examinations, 
+including measurements of skeletal muscle index, handgrip strength and gait 
+speed, who were enrolled in the Bunkyo Health Study. We divided the participants 
+into four groups according to exercise habits in adolescence and older age: no 
+exercise in either period (none-none; NN), exercise only in adolescence 
+(active-none; AN), exercise only in older age (none-active; NA) and exercise in 
+both periods (active-active; AA). Multivariate-adjusted logistic regression 
+models were used to estimate the odds ratios (ORs) and associated 95% confidence 
+intervals (CIs) in each group for the prevalence of sarcopenia, defined as low 
+muscle mass and low muscle performance, as compared with the NN group. Low 
+muscle performance was defined as low muscle strength and/or low gait speed.
+RESULTS: The total prevalence of sarcopenia was 6.6% (45/679) in men and 1.7% 
+(16/928) in women, the total prevalence of low muscle mass was 14.3% (97/679) in 
+men and 5.2% (48/928) in women, and the total prevalence of low muscle 
+performance was 25.6% (174/679) in men and 19.6% (182/928) in women. In men, the 
+ORs (95% CIs) for sarcopenia, low muscle mass and low muscle performance were 
+significantly lower in the AA group (sarcopenia: 0.29 [0.09-0.95], P = 0.041; 
+low muscle mass: 0.21 [0.09-0.52], P = 0.001; and low muscle performance: 0.52 
+[0.28-0.97], P = 0.038). In women, the OR (95% CI) for low muscle performance 
+was significantly lower in the AA group than in the other groups (0.48 
+[0.27-0.84], P = 0.010), whereas none of the ORs for sarcopenia and low muscle 
+mass were significant.
+CONCLUSIONS: Older men with exercise habits in both adolescence and older age 
+were at a lower risk of sarcopenia, low muscle mass and low muscle performance, 
+whereas older women with exercise habits at both time periods were at a lower 
+risk of low muscle performance.
+
+© 2023 The Authors. Journal of Cachexia, Sarcopenia and Muscle published by John 
+Wiley & Sons Ltd on behalf of Society on Sarcopenia, Cachexia and Wasting 
+Disorders.
+
+DOI: 10.1002/jcsm.13218
+PMCID: PMC10235900
+PMID: 37055913 [Indexed for MEDLINE]
+
+Conflict of interest statement: Y.T. and R.K. received research support from 
+Curves Japan Co., Ltd. Y.T. received research support from LOTTE Co., Ltd. and 
+Imasen Electric Industrial Co., Ltd. These funders had no role in the current 
+research. The other authors have no actual or potential conflicts of interest to 
+declare.
+
+
+793. Indian J Med Res. 2022 Jun;156(6):705-714. doi: 10.4103/ijmr.IJMR_806_20.
+
+Cost-effectiveness analysis of 'test and treat' policy for antiretroviral 
+therapy among heterosexual HIV population in India.
+
+Singh M(1), Sharma A(2), Bahuguna P(1), Jyani G(1), Prinja S(1).
+
+Author information:
+(1)Department of Community Medicine & School of Public Health, Postgraduate 
+Institute of Medical Education & Research, Chandigarh, India.
+(2)Department of Internal Medicine, Postgraduate Institute of Medical Education 
+& Research, Chandigarh, India.
+
+Comment on
+    J Int AIDS Soc. 2015 Oct 01;18:20217.
+
+BACKGROUND & OBJECTIVES: The World Health Organisation recommended immediate 
+initiation of antiretroviral therapy (ART) in all adult human immunodeficiency 
+virus (HIV) patients regardless of their CD4 cell count. This study was 
+undertaken to ascertain the cost-effectiveness of implementation of these 
+guidelines in India.
+METHODS: A Markov model was developed to assess the lifetime costs and health 
+outcomes of three scenarios for initiation of ART treatment at varying CD4 cell 
+count <350/mm[3], <500/mm[3] and test and treat using health system perspective 
+using life-time horizon. A few input parameters for this model namely, 
+transition probabilities from one stage to another stage of HIV and incidence 
+rates of TB were calculated from the data of Centre of Excellence for HIV 
+treatment and care, Chandigarh; whereas, other parameters were obtained from the 
+published literature. Total HIV-related deaths averted, HIV infections averted 
+and incremental cost-effectiveness ratio per quality adjusted life years (QALYs) 
+gained were calculated.
+RESULT: Test and treat intervention slowed down the progression of disease and 
+averted 18,386 HIV-related deaths, over lifetime horizon. It also averted 16,105 
+new HIV infections and saved 343,172 QALYs as compared to the strategy of 
+starting ART at CD4 cell count of 500/mm[3]. Incremental cost per QALY gained 
+for the immediate initiation of ART as compared to ART at CD4 cell count of 
+500/mm[3] and 350/mm[3] was ₹ 46,599 and 80,050, respectively at reported rates 
+of adherence to the therapy.
+INTERPRETATION & CONCLUSIONS: Immediate ART (test and treat) is highly 
+cost-effective strategy over the past criteria of delayed therapy in India. 
+Cost-effectiveness of this policy is largely because of reduction in the 
+transmission of HIV.
+
+DOI: 10.4103/ijmr.IJMR_806_20
+PMCID: PMC10278921
+PMID: 37056069 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: None.
+
+
+794. Sociol Health Illn. 2023 Sep;45(7):1502-1522. doi: 10.1111/1467-9566.13644.
+Epub  2023 Apr 13.
+
+Extending the sociology of candidacy: Bourdieu's relational social class and 
+mid-life women's perceptions of alcohol-related breast cancer risk.
+
+Batchelor S(1), Lunnay B(1), Macdonald S(2), Ward PR(1).
+
+Author information:
+(1)Research Centre for Public Health, Equity and Human Flourishing, Adelaide 
+Campus, Torrens University, Adelaide, Australia.
+(2)General Practice and Primary Care, Institute of Health and Wellbeing, 
+University of Glasgow, Glasgow, UK.
+
+Alcohol is a modifiable breast cancer risk, increasing risk in a dose-dependent 
+manner. Mid-life women (aged 45-64 years) consume alcohol at higher rates than 
+younger women and this, combined with age, make them a high-risk group for 
+breast cancer. This critical public health problem has a seemingly obvious 
+solution (reduce drinking); however, women do not necessarily know alcohol 
+causes breast cancer, and if they do, reducing consumption is not always 
+possible, or desirable. To innovate public health responses, we employ an 
+interpretative sociological framework 'candidacy' to understand women's 
+perspectives on breast cancer risk relative to alcohol consumption and their 
+social class. Drawing on 50 interviews with Australian mid-life women, our 
+findings reveal the socio-structural determinants of 'candidacy', that mean 
+modifying alcohol consumption for breast cancer prevention is impacted by social 
+class. Utilising Bourdieu's relational capitals, our interpretations show how 
+social class shapes women's ascriptions and enactments of breast cancer 
+candidacy. We offer an important theoretical extension to 'candidacy' by 
+demonstrating more or less fluidity in women's assessment of breast cancer risk 
+according to their agency to adopt breast cancer prevention messages. 
+Understanding the social class possibilities and limitations in women's 
+perceptions of breast cancer risk provides a new opportunity to reduce 
+inequities in breast cancer incidence.
+
+© 2023 Foundation for the Sociology of Health & Illness.
+
+DOI: 10.1111/1467-9566.13644
+PMID: 37056162 [Indexed for MEDLINE]
+
+
+795. Hosp Pract (1995). 2023 Aug;51(3):124-134. doi:
+10.1080/21548331.2023.2203622.  Epub 2023 Apr 17.
+
+Effects of glycemic control on frailty: a multidimensional perspective.
+
+Abdelhafiz AH(1).
+
+Author information:
+(1)Department of Geriatric Medicine, Rotherham General Hospital, Rotherham, UK.
+
+Diabetes prevalence increases with increasing age due to increased life 
+expectancy. In older people with diabetes, frailty is an emerging 
+diabetes-related complication. Although the literature is focused on the 
+physical decline as the main manifestation of frailty, other domains such as 
+cognitive and emotional dysfunction are commonly associated with physical 
+frailty constituting a triad of impairment (TOI). The TOI is a better predictor 
+of adverse outcomes than physical frailty alone. Previous diabetes studies 
+focused on cardiovascular events as the main outcome with little data exploring 
+the effect of glycemic control on frailty as a multidimensional perspective. 
+Current evidence suggests that poor glycemic control may be associated with an 
+increased risk of the three components of the TOI, however, the association of 
+tighter glycemic control and the risk of TOI is inconsistent. In general HbA1c 
+range of 6.5-7.9% appears to be less associated with TOI, while HbA1c > 8.0% is 
+associated with a higher risk although most of the studies have limitations such 
+as retrospective or cross-sectional design. So far, there is very little 
+evidence from clinical trials to suggest that tight glycemic control would 
+prevent or delay the development of frailty as a wide spectrum of physical, 
+cognitive or emotional dysfunction. Therefore, future clinical trials are 
+required to explore the effect of tight glycemic control on the multidimensional 
+aspect of frailty as the main outcome. However, tight glycemic control in older 
+people is associated with increased risk of hypoglycemia, which increases the 
+risk of frailty. Therefore, novel hypoglycemic agents with intrinsic properties 
+to reduce the risk of frailty, independent of glycemic control, are also 
+required.
+
+DOI: 10.1080/21548331.2023.2203622
+PMID: 37056204 [Indexed for MEDLINE]
+
+
+796. Frontline Gastroenterol. 2022 Nov 10;14(3):228-235. doi: 
+10.1136/flgastro-2022-102221. eCollection 2023.
+
+Real-world evidence of long-term survival and healthcare resource use in 
+patients with hepatic encephalopathy receiving rifaximin-α treatment: a 
+retrospective observational extension study with long-term follow-up (IMPRESS 
+II).
+
+Aspinall RJ(1), Hudson M(2), Ryder SD(3), Richardson P(4), Farrington E(5), 
+Wright M(6), Przemioslo RT(7), Perez F(8), Kent M(8), Henrar R(9), Hickey J(10), 
+Shawcross DL(11).
+
+Author information:
+(1)Department of Gastroenterology & Hepatology, Portsmouth Hospitals University 
+NHS Trust, Portsmouth, UK.
+(2)Formerly Liver Unit, Freeman Hospital, Newcastle upon Tyne, UK.
+(3)NIHR Biomedical Research Unit in Gastrointestinal and Liver Diseases at 
+Nottingham University Hospitals NHS Trust and the University of Nottingham, 
+Nottingham, UK.
+(4)Department of Gastroenterology and Hepatology, Royal Liverpool & Broadgreen 
+University Hospitals NHS Trust, Liverpool, UK.
+(5)Department of Gastroenterology & Hepatology, Royal Cornwall Hospital, 
+Cornwall, UK.
+(6)Department of Hepatology, University Hospital Southampton, Southampton, UK.
+(7)Department of Gastroenterology, Southmead Hospital, Bristol, UK.
+(8)Department of Gastroenterology, University Hospital of North Durham, Durham, 
+UK.
+(9)Global Medical Affairs, Norgine, Harefield, UK.
+(10)OPEN Health, Marlow, UK.
+(11)Institute of Liver Studies, Inflammation Biology, School of Immunology and 
+Microbial Sciences, Faculty of Life Sciences and Medicine, King's College 
+London, London, UK.
+
+OBJECTIVE: To describe survival of patients with hepatic encephalopathy (HE), up 
+to 5 years after initiation of rifaximin-α (RFX) treatment.
+DESIGN/METHOD: A retrospective, observational extension study within 9 National 
+Health Service secondary/tertiary UK care centres. All patients had a clinical 
+diagnosis of HE, were being treated with RFX and were included in the previous 
+IMPRESS study which reported the 1-year experience. Demographics, clinical 
+outcomes, selected cirrhosis-related complications, hospital admissions and 
+attendances up to 5 years from RFX initiation were extracted from patient 
+medical records and hospital electronic databases. The primary outcome measure 
+was survival at 5 years post-initiation of RFX treatment.
+RESULTS: The study included 138 patients. The survival rate at 5 years 
+post-initiation of RFX was 35% (95% CI 28.2% to 44.4%) overall and 36% (95% CI 
+26.1% to 45.4%) for patients with alcohol-related liver disease. Median survival 
+from RFX initiation was 2.8 years (95% CI 2.0 to 3.8; n=136). Among 48 patients 
+alive at 5 years, 69% remained on RFX treatment at the end of the observation 
+period, 74% reported no cirrhosis-related complications and 24% (9/37) had 
+received a liver transplant. Between 1 and 5 years post-initiation, total 
+numbers of liver-related emergency department visits, inpatient admissions, 
+intensive care unit admissions and outpatient visits were 84, 194, 3 and 709, 
+respectively; the liver-related 30-day readmission rate was 37%.
+CONCLUSION: Within UK clinical practice, RFX use in HE was associated with a 35% 
+survival rate with high treatment adherence, 76% transplant-free survival rate, 
+minimal healthcare resource and low rates of complications at 5 years 
+post-initiation.
+
+© Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/flgastro-2022-102221
+PMCID: PMC10086718
+PMID: 37056320
+
+Conflict of interest statement: Competing interests: RJA has previously 
+consulted for, received speaker fees, and participated on advisory boards for 
+Norgine. MH has previously received speaker fees from Norgine. RH is an employee 
+of Norgine. JH is an employee of OPEN Health, which was commissioned by Norgine 
+to provide support with the design and conduct of the study, data analysis and 
+medical writing. DLS has participated in advisory boards/consulted for Norgine, 
+EnteroBiotix, Kaleido Biosciences, Mallinckrodt, Shionogi and ONO Pharma UK; 
+received honoraria from Norgine, Falk Pharma, Alfa Sigma and Aska 
+Pharmaceuticals. SDR, PR, EF, MW, RP, FP and MK have no competing interests.
+
+
+797. Brain Commun. 2023 Mar 17;5(2):fcad074. doi: 10.1093/braincomms/fcad074. 
+eCollection 2023.
+
+Association of biological sex with clinical outcomes and biomarkers of 
+Alzheimer's disease in adults with Down syndrome.
+
+Iulita MF(1)(2)(3), Bejanin A(1)(2), Vilaplana E(1)(2), Carmona-Iragui 
+M(1)(2)(4), Benejam B(2)(4), Videla L(1)(2)(4), Barroeta I(1)(2), Fernández 
+S(4), Altuna M(1)(2), Pegueroles J(1)(2), Montal V(1)(2), Valldeneu S(1)(2), 
+Giménez S(5), González-Ortiz S(6), Torres S(1)(2), El Bounasri El Bennadi 
+S(1)(2), Padilla C(1)(2), Rozalem Aranha M(1)(2), Estellés T(1)(2), Illán-Gala 
+I(1)(2), Belbin O(1)(2), Valle-Tamayo N(1)(2), Camacho V(7), Blessing E(8), 
+Osorio RS(8), Videla S(9), Lehmann S(10), Holland AJ(11)(12), Zetterberg 
+H(13)(14)(15)(16)(17), Blennow K(13)(14), Alcolea D(1)(2), Clarimón J(1)(2), 
+Zaman SH(11)(12), Blesa R(1)(2), Lleó A(1)(2), Fortea J(1)(2)(4).
+
+Author information:
+(1)Sant Pau Memory Unit, Department of Neurology, Hospital de la Santa Creu i 
+Sant Pau, Biomedical Research Institute Sant Pau, Universitat Autònoma de 
+Barcelona, Barcelona 08025, Spain.
+(2)Center of Biomedical Investigation Network for Neurodegenerative Diseases 
+(CIBERNED), Madrid 28031, Spain.
+(3)Women's Brain Project, Guntershausen 8357, Switzerland.
+(4)Barcelona Down Medical Center, Fundació Catalana Síndrome de Down, Barcelona 
+08029, Spain.
+(5)Multidisciplinary Sleep Unit, Hospital de la Santa Creu i Sant Pau, Barcelona 
+08041, Spain.
+(6)Hospital del Mar, Barcelona 08003, Spain.
+(7)Nuclear Medicine Department, Hospital de la Santa Creu i Sant Pau, Barcelona 
+08041, Spain.
+(8)Department of Psychiatry, NYU Grossman School of Medicine, New York, NY 
+10016, USA.
+(9)Clinical Research Support Unit, Bellvitge Biomedical Research Institute 
+(IDIBELL), Department of Clinical Pharmacology, University of Barcelona, 
+Barcelona 08908, Spain.
+(10)Institute for Neurosciences of Montpellier, Institute for Regenerative 
+Medicine and Biotherapy, Université de Montpellier, CHU de Montpellier, INSERM, 
+Montpellier 34295, France.
+(11)Department of Psychiatry, Cambridge Intellectual and Developmental 
+Disabilities Research Group, University of Cambridge, Douglas House, Cambridge 
+CB2 8AH, United Kingdom.
+(12)Cambridgeshire & Peterborough NHS Foundation Trust, Fulbourn Hospital, 
+Cambridge CB21 5EF, United Kingdom.
+(13)Department of Psychiatry and Neurochemistry, University of Gothenburg, 
+Möndal 40530, Sweden.
+(14)Clinical Neurochemistry Laboratory, Sahlgrenska University Hospital, Mölndal 
+40530, Sweden.
+(15)UK Dementia Research Institute, University College London, London WC1E 6BT, 
+United Kingdom.
+(16)Department of Neurodegenerative Disease, University College London Institute 
+of Neurology, London WC1E 6BT, United Kingdom.
+(17)Hong Kong Center for Neurodegenerative Diseases, Clear Water Bay, Hong Kong 
+1512-1518, China.
+
+The study of sex differences in Alzheimer's disease is increasingly recognized 
+as a key priority in research and clinical development. People with Down 
+syndrome represent the largest population with a genetic link to Alzheimer's 
+disease (>90% in the 7th decade). Yet, sex differences in Alzheimer's disease 
+manifestations have not been fully investigated in these individuals, who are 
+key candidates for preventive clinical trials. In this double-centre, 
+cross-sectional study of 628 adults with Down syndrome [46% female, 44.4 (34.6; 
+50.7) years], we compared Alzheimer's disease prevalence, as well as cognitive 
+outcomes and AT(N) biomarkers across age and sex. Participants were recruited 
+from a population-based health plan in Barcelona, Spain, and from a convenience 
+sample recruited via services for people with intellectual disabilities in 
+England and Scotland. They underwent assessment with the Cambridge Cognitive 
+Examination for Older Adults with Down Syndrome, modified cued recall test and 
+determinations of brain amyloidosis (CSF amyloid-β 42 / 40 and amyloid-PET), tau 
+pathology (CSF and plasma phosphorylated-tau181) and neurodegeneration 
+biomarkers (CSF and plasma neurofilament light, total-tau, 

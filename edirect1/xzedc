@@ -1,0 +1,1000 @@
+proportions of national healthcare budgets. The relatively young field of 
+longevity research, after accumulating insights into the mechanisms of aging and 
+producing dramatic laboratory demonstrations of life extension in some 
+organisms, is entering the translational phase. This phase, through clinical 
+trials, will confirm or refute the "geroscience hypothesis" that drugs can 
+change the trajectory of the processes of aging within cells, and ultimately in 
+living humans. At the same time, traditional funding patterns do not favor such 
+visionary "moonshot" research, which, despite the potential for ultimately 
+providing benefits for everyone, offers little prospect for rapid return on 
+investment and high probabilities for early phase failure. New radical funding 
+strategies incentivizing innovation will have to be called into play.
+
+Copyright © 2023 Cold Spring Harbor Laboratory Press; all rights reserved.
+
+DOI: 10.1101/cshperspect.a041208
+PMID: 37037599
+
+
+740. Stat Med. 2023 Jun 30;42(14):2521-2556. doi: 10.1002/sim.9735. Epub 2023 Apr
+10.
+
+Partially linear Bayesian modeling of longitudinal rank and time-to-event data 
+using accelerated failure time model with application to brain tumor data.
+
+Aghayerashti M(1), Samani EB(1), Pour-Rashidi A(2).
+
+Author information:
+(1)Department of Statistics, Faculty of Mathematical Science, Shahid Beheshti 
+University, Evin, Iran.
+(2)Neurosurgery Department, Sina Hospital, Tehran University of Medical 
+Sciences, Tehran, Iran.
+
+Joint modeling of longitudinal rank and time-to-event data with random effects 
+model using a Bayesian approach is presented. Accelerated failure time (AFT) 
+models can be used for the analysis of time-to-event data to estimate the 
+effects of covariates on acceleration/deceleration of the survival time. The 
+parametric AFT models require determining the event time distribution. So, we 
+suppose that the time variable is modeled with Weibull AFT distribution. In many 
+real-life applications, it is difficult to determine the appropriate 
+distribution. To avoid this restriction, several semiparametric AFT models were 
+proposed, containing spline-based model. So, we propose a flexible extension of 
+the accelerated failure time model. Furthermore, the usual joint linear model, a 
+joint partially linear model, is also considered containing the nonlinear effect 
+of time on the longitudinal rank responses and nonlinear and time-dependent 
+effects of covariates on the hazard. Also, a Bayesian approach that yields 
+Bayesian estimates of the model's parameters is used. Some simulation studies 
+are conducted to estimate parameters of the considered models. The model is 
+applied to a real brain tumor patient's data set that underwent surgery. The 
+results of analyzing data are presented to represent the method.
+
+© 2023 John Wiley & Sons Ltd.
+
+DOI: 10.1002/sim.9735
+PMID: 37037662 [Indexed for MEDLINE]
+
+
+741. Expert Rev Hematol. 2023 May;16(5):325-332. doi:
+10.1080/17474086.2023.2201429.  Epub 2023 Apr 20.
+
+Managing women of childbearing age with chronic myeloid leukemia: safety and 
+treatment considerations.
+
+Robertson HF(1)(2), Buckton MJ(1)(2), Apperley JF(1)(2).
+
+Author information:
+(1)Centre for Haematology, Imperial College London, London, UK.
+(2)Department of Clinical Haematology, Hammersmith Hospital, Imperial College 
+Healthcare NHS Trust, London, UK.
+
+INTRODUCTION: TKIs are paradigmatic in CML management and offer patients the 
+prospect of a normal life expectancy. As a consequence, the focus of both the 
+clinician and patient has shifted to considerations of quality of life, 
+including the ability to parent children. Unfortunately, TKIs are teratogenic so 
+that alternative treatment options may be required during pregnancy to 
+adequately control disease and minimize risk.
+AREAS COVERED: In this review, we summarize and provide an overview of the 
+literature on the management of CML in women of childbearing age. We discuss the 
+various treatment options as well as their advantages, disadvantages, and safety 
+considerations. We discuss CML in the context of: 1) planned pregnancies with 
+CML; 2) unplanned pregnancies with CML; 3) CML diagnosed during pregnancy.
+EXPERT OPINION: Confidence in managing pregnancy and CML continues to grow. In 
+the majority of cases, with careful planning and counseling, no treatment is 
+required and disease control can be safely regained after pregnancy ends. For 
+those who require treatment, various options are available and there is growing 
+evidence to suggest that some TKIs may be safe in the later stages of pregnancy.
+
+DOI: 10.1080/17474086.2023.2201429
+PMID: 37038615 [Indexed for MEDLINE]
+
+
+742. J Antimicrob Chemother. 2023 Jun 1;78(6):1444-1453. doi:
+10.1093/jac/dkad104.
+
+Evaluation of HIV-1 antiretroviral drug resistance profiles in the peripheral 
+blood reservoir of successfully treated persons using massive sequencing and 
+viral full genome characterization.
+
+Botelho OM(1), Basso RP(2), Da Mota LD(2), Da Hora VP(3), Garrido MM(4), Machado 
+ES(5), Alves BM(1), Soares MA(1)(6).
+
+Author information:
+(1)Programa de Genética e Virologia Tumoral, Instituto Nacional do Câncer, Rua 
+André Cavalcanti, 37 - 4° andar, 20.231-050, Rio de Janeiro, Brazil.
+(2)Hospital Universitário Dr. Miguel Riet Corrêa Jr., Universidade Federal do 
+Rio Grande, Rio Grande, Brazil.
+(3)Faculdade de Medicina, Universidade Federal do Rio Grande, Rio Grande, 
+Brazil.
+(4)Serviço de Infectologia, Hospital Federal de Ipanema, Rio de Janeiro, Brazil.
+(5)Hospital Universitário Clementino Fraga Filho, Universidade Federal do Rio de 
+Janeiro, Rio de Janeiro, Brazil.
+(6)Departamento de Genética, Universidade Federal do Rio de Janeiro, Rio de 
+Janeiro, Brazil.
+
+BACKGROUND: Antiretroviral therapy has revolutionized HIV treatment, increasing 
+quality and life expectancy of people living with HIV (PLWH). However, the 
+expansion of treatment has resulted in an increase in antiretroviral-resistant 
+viruses, which can be an obstacle to maintenance of successful ART.
+OBJECTIVES: This study analysed the genetic composition of the HIV near 
+full-length genome (NFLG) from archived proviruses of PLWH under successful ART, 
+and determined the presence/frequency of drug resistance mutations (DRMs) and 
+viral subtype.
+PATIENTS AND METHODS: Forty-six PLWH from Rio de Janeiro (RJ) and 40 from Rio 
+Grande (RS) had proviral HIV NFLG PCR-amplified and ultradeep sequenced. The 
+presence/frequency of DRMs were analysed in Geneious. Phylogenetic analyses were 
+performed using PhyML and SimPlot.
+RESULTS: All samples included in the study were sequenced and 69 (80.2%) had the 
+HIV NFLG determined. RJ and RS showed a predominance of HIV subtypes B (78.3%) 
+and C (67.5%), respectively. Overall, 168 DRMs were found in 63 (73.3%) samples, 
+and 105 (62.5%) of them were minority variants. Among DRMs, 41 (39.0%) minority 
+variants and 33 (52.4%) variants with frequency above 20.0% in the viral 
+population were able to confer some degree of resistance to at least one drug in 
+use by respective patients, yet no one showed signs of therapeutic failure.
+CONCLUSIONS: Our study contributes to the understanding of the impact of DRMs on 
+successful therapy and supports the sustainability of combinatorial ART, because 
+all patients maintained their successful treatment despite the high prevalence 
+of DRMs at low (62.5%) or high (37.5%) frequency.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of British 
+Society for Antimicrobial Chemotherapy. All rights reserved. For permissions, 
+please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/jac/dkad104
+PMID: 37039023 [Indexed for MEDLINE]
+
+
+743. Indian J Public Health. 2023 Jan-Mar;67(1):141-147. doi: 
+10.4103/ijph.ijph_962_22.
+
+Exploring frailty and its domains - Systematic mapping of the literature.
+
+Pritish Baskaran TB(1), Gupta MK(2), Raghav P(3), Naveen KH(2), Goel AD(2).
+
+Author information:
+(1)Senior Resident, Department of Community Medicine and Family Medicine, All 
+India Institute of Medical Sciences, Jodhpur, Rajasthan, India.
+(2)Associate Professor, Department of Community Medicine and Family Medicine, 
+All India Institute of Medical Sciences, Jodhpur, Rajasthan, India.
+(3)Head of the Department, Department of Community Medicine and Family Medicine, 
+All India Institute of Medical Sciences, Jodhpur, Rajasthan, India.
+
+BACKGROUND: 'Frailty' has no consensual definition till date, although the term 
+occupies a pivotal role in geriatric medicine. A bibliometric analysis of the 
+literature serves to capture the keyword cooccurrences and linkages, 
+co-citations, author collaborations, research trends and to present the extant 
+research in a nutshell.
+OBJECTIVE: To explore the usage of frailty, its domains in medical research and 
+the evolution of the term to other disciplines through systematic mapping by 
+bibliometric analysis.
+METHODS: Literature search was done in the Scopus database using a pre-formed 
+search strategy. 2629 documents were retrieved. Co-occurrence citation analysis 
+using keywords and link strength was obtained using the VOSviewer ver.1.6.16. A 
+three-field plot was constructed using 'biblioshiny' package of the R-studio to 
+identify the various domains of frailty. Descriptive statistics were applied to 
+identify the trends in frailty research, number of contributions from countries, 
+fields of research involving frailty.
+RESULTS: Total of 3739 publications were observed, with the USA having most 
+number of contributions (740, 20%) as single country, while India has only 19 
+contributions (0.5%) in the past 20 years. As a region, Europe and Central Asia 
+contributed to the maximum (1714, 46.4%), most of them being from the 
+high-income countries. Research on frailty has steadily increased over the past 
+two decades, with most of the researches being conducted in the fields of 
+Medicine, Biochemistry and Genetics. Cooccurrence citations and three-field 
+plots indicate the evolving usage of frailty in other domains, such as 
+cognition, mental health, indicators of survival, risk assessment, mortality, 
+and quality of life.
+CONCLUSION: Upon exploring frailty, it also makes one wonder if frailty could be 
+the cause for what is known as death due to 'natural causes' or 'old age'. The 
+implementation of extension codes in the ICD-11 related to 'Ageing' (XT9T) and 
+'Old Age' (MG2A), paves way for researchers to further explore 'frailty' as a 
+cause of mortality.
+
+DOI: 10.4103/ijph.ijph_962_22
+PMID: 37039219 [Indexed for MEDLINE]
+
+Conflict of interest statement: None
+
+
+744. Continuum (Minneap Minn). 2023 Apr 1;29(2):584-604. doi: 
+10.1212/CON.0000000000001247.
+
+Management of Unruptured Intracranial Aneurysms and Brain Arteriovenous 
+Malformations.
+
+Nguyen TN.
+
+OBJECTIVE: Managing a patient with an unruptured brain aneurysm or brain 
+arteriovenous malformation (AVM) can lead to uncertainty about preventive 
+treatment. While the bleeding risks are low, the morbidity or mortality 
+associated with a hemorrhagic event is not insignificant. The objective of this 
+article is to review the natural history of these vascular entities, the risk 
+factors for hemorrhage, preventive treatment options, and the risks of 
+treatment.
+LATEST DEVELOPMENTS: Randomized trials to inform preventive treatment strategies 
+for unruptured intracranial aneurysms and brain AVMs are ongoing. Higher 
+angiographic obliteration rates of unruptured intracranial aneurysms have been 
+reported with the flow-diversion technique compared with alternative standard 
+techniques. One randomized trial for unruptured brain AVMs showed a higher rate 
+of morbidity and mortality in patients who underwent interventional treatment 
+compared with observation.
+ESSENTIAL POINTS: The decision to treat a patient with a brain aneurysm should 
+consider patient factors, the patient's life expectancy, aneurysm anatomical 
+factors, and treatment risks. Patients with unruptured brain AVMs should be 
+observed in light of recent clinical trial data or enrolled in an ongoing 
+clinical trial.
+
+Copyright © 2023 American Academy of Neurology.
+
+DOI: 10.1212/CON.0000000000001247
+PMID: 37039411 [Indexed for MEDLINE]
+
+
+745. Elife. 2023 Apr 11;12:e79862. doi: 10.7554/eLife.79862.
+
+Generating active T1 transitions through mechanochemical feedback.
+
+Sknepnek R(1)(2), Djafer-Cherif I(3), Chuai M(2), Weijer C(2), Henkes S(3)(4).
+
+Author information:
+(1)School of Science and Engineering, University of Dundee, Dundee, United 
+Kingdom.
+(2)School of Life Sciences, University of Dundee, Dundee, United Kingdom.
+(3)School of Mathematics, University of Bristol, Bristol, United Kingdom.
+(4)Leiden Institute of Physics, Leiden University, Leiden, Netherlands.
+
+Update of
+    doi: 10.48550/arXiv.2106.12394.
+
+Convergence-extension in embryos is controlled by chemical and mechanical 
+signalling. A key cellular process is the exchange of neighbours via T1 
+transitions. We propose and analyse a model with positive feedback between 
+recruitment of myosin motors and mechanical tension in cell junctions. The model 
+produces active T1 events, which act to elongate the tissue perpendicular to the 
+main direction of tissue stress. Using an idealised tissue patch comprising 
+several active cells embedded in a matrix of passive hexagonal cells, we 
+identified an optimal range of mechanical stresses to trigger an active T1 
+event. We show that directed stresses also generate tension chains in a 
+realistic patch made entirely of active cells of random shapes and leads to 
+convergence-extension over a range of parameters. Our findings show that active 
+intercalations can generate stress that activates T1 events in neighbouring 
+cells, resulting in tension-dependent tissue reorganisation, in qualitative 
+agreement with experiments on gastrulation in chick embryos.
+
+© 2023, Sknepnek et al.
+
+DOI: 10.7554/eLife.79862
+PMCID: PMC10156166
+PMID: 37039463 [Indexed for MEDLINE]
+
+Conflict of interest statement: RS, ID, MC, CW, SH No competing interests 
+declared
+
+
+746. Appl Health Econ Health Policy. 2023 Jul;21(4):547-558. doi: 
+10.1007/s40258-023-00802-y. Epub 2023 Apr 11.
+
+How Much Should be Invested in Lung Care Across the WHO European Region? 
+Applying a Monetary Value to Disability-Adjusted Life-Years Within the 
+International Respiratory Coalition's Lung Facts.
+
+Franklin M(1), Angus C(2), Welte T(3), Joos G(4).
+
+Author information:
+(1)Health Economics and Decision Science (HEDS), School of Health and Related 
+Research ScHARR, University of Sheffield, Regent Court, 30 Regent Street, 
+Sheffield, S1 4DA, UK. matt.franklin@sheffield.ac.uk.
+(2)Health Economics and Decision Science (HEDS), School of Health and Related 
+Research ScHARR, University of Sheffield, Regent Court, 30 Regent Street, 
+Sheffield, S1 4DA, UK.
+(3)Department of Respiratory Medicine and German Centre of Lung Research (DZL), 
+Hannover Medical School, Hannover, Germany.
+(4)Department of Respiratory Medicine, Ghent University Hospital, Ghent, 
+Belgium.
+
+OBJECTIVES: The International Respiratory Coalition's Lung Facts web resource 
+provides the latest data on a range of lung conditions covering the World Health 
+Organization's European Region, informed by the Global Burden of Disease 
+studies: https://international-respiratory-coalition.org/lung-facts/ . Within 
+Lung Facts, disability-adjusted life-years (DALYs) are monetised based on gross 
+domestic product (GDP) per capita. We describe the conceptual and empirical 
+basis for using monetised DALYs to inform negotiations with policymakers to 
+invest in lung care across the World Health Organization European region.
+METHODS: We reflect on the existing debate and research evidence regarding the X 
+value in an X*GDP per capita framework to monetise DALYs, with a focus on if 
+1*GDP per capita is conceptually and practically appropriate. Using an asthma 
+case study, Global Burden of Disease study 2019 DALY estimates per country are 
+presented. Gross domestic product per capita are converted to international 
+dollars using purchasing power parity (Int$2019).
+RESULTS: Using 1*GDP per capita, the estimated monetised asthma DALY burden, for 
+example, in Kyrgyzstan or Germany is: across the whole population, $44,860,483 
+or $9,264,767,882, respectively; per 100,000 people, $731,600 or $10,208,317, 
+respectively.
+CONCLUSIONS: Our indicative monetised DALY estimates can enable informed 
+discussions with policy and decision makers, to guide financial investment in 
+alleviating the burden of lung conditions. We suggest 1*GDP per capita as a 
+benchmarked value forms a starting point for negotiation with policymakers for 
+investing in lung care, by scaling the estimated lung condition DALY burden to 
+the resource available in each country to tackle the burden.
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s40258-023-00802-y
+PMCID: PMC10232602
+PMID: 37039953 [Indexed for MEDLINE]
+
+Conflict of interest statement: Matthew Franklin and Colin Angus report 
+receiving funding from the International Respiratory Coalition for the writing 
+of the manuscript including the associated analysis. Tobias Welte and Guy Joos 
+have no conflicts of interest that are directly relevant to the content of this 
+article. No other disclosures were reported.
+
+
+747. Appl Health Econ Health Policy. 2023 Jul;21(4):627-635. doi: 
+10.1007/s40258-023-00803-x. Epub 2023 Apr 11.
+
+A Model-Based Estimate of the Cost-Effectiveness Threshold in Germany.
+
+Gandjour A(1).
+
+Author information:
+(1)Frankfurt School of Finance and Management, Adickesallee 32-34, 60322, 
+Frankfurt am Main, Germany. a.gandjour@fs.de.
+
+PURPOSE: Value-based pricing of new, innovative health technologies defined as 
+pricing through economic evaluation requires the use of a basic 
+cost-effectiveness threshold. This study presents a cost-effectiveness model 
+that determines the cost-effectiveness threshold for life-extending new, 
+innovative technologies based on health system opportunity costs.
+METHODS: To estimate health system opportunity costs, the study used German data 
+and examined the period between 1896 and 2014. To this end, it determined 
+intertemporal differences in the remaining lifetime spending and life expectancy 
+by age and gender. To account for the age composition of the population, it 
+weighted age-specific intertemporal changes in the remaining lifetime spending 
+and life expectancy by the age-specific population size. To estimate life 
+expectancy gains solely attributable to the health care system, it used 
+aggregated data on amenable mortality. It calculated the cost-effectiveness 
+ratio of health care spending in the German health care system on average and at 
+the margin.
+RESULTS: Based on the cost-effectiveness ratio of health care spending at the 
+margin, the threshold value for life-prolonging new, innovative technologies was 
+at least €42,634 per life-year gained, with a point estimate of €88,107 per 
+life-year gained. Based on the average ratio, the threshold value dropped below 
+€34,000 per life-year gained.
+CONCLUSION: This study provides new evidence on the cost-effectiveness threshold 
+for value-based pricing of new, innovative technologies. Data from Germany 
+suggest that a threshold value based on health care spending at the margin is 
+considerably higher than that based on the average ratio.
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s40258-023-00803-x
+PMCID: PMC10088581
+PMID: 37039954 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author declares that he has no competing 
+interests.
+
+
+748. PLoS One. 2023 Apr 11;18(4):e0283394. doi: 10.1371/journal.pone.0283394. 
+eCollection 2023.
+
+Testosterone treatment combined with exercise to improve muscle strength, 
+physical function and quality of life in men affected by inclusion body 
+myositis: A randomised, double-blind, placebo-controlled, crossover trial.
+
+Connor SG(1), Fairchild TJ(2)(3), Learmonth YC(2)(3)(4), Beer K(2)(4), Cooper 
+I(2)(4), Boardman G(5), Teo SYM(2)(3), Shatahmasseb B(2)(3), Zhang R(6), Hiscock 
+K(7), Coudert JD(2)(4)(8), Yeap BB(9)(10), Needham M(2)(4)(8)(11).
+
+Author information:
+(1)Royal Perth Hospital, Perth, Western Australia, Australia.
+(2)Centre for Molecular Medicine & Innovative Therapeutics, Murdoch University, 
+Murdoch, Western Australia, Australia.
+(3)Discipline of Exercise Science, Murdoch University, Murdoch, Western 
+Australia, Australia.
+(4)Perron Institute of Neurological and Translational Sciences, Nedlands, 
+Western Australia, Australia.
+(5)Research Development Unit, Fiona Stanley Hospital, Murdoch, Western 
+Australia, Australia.
+(6)Department of Clinical Biochemistry, Pharmacology and Toxicology, PathWest 
+Laboratory Medicine, QEII Medical Centre, Nedlands, WA, Australia.
+(7)Affinity Clinical Research, Nedlands, Western Australia, Australia.
+(8)Division of Medicine, The University of Notre Dame Australia, Fremantle, 
+Western Australia, Australia.
+(9)Department of Endocrinology and Diabetes, Fiona Stanley Hospital, Murdoch, 
+Western Australia, Australia.
+(10)Medical School, University of Western Australia, Crawley, Western Australia, 
+Australia.
+(11)Department of Neurology, Fiona Stanley Hospital, Murdoch, Western Australia, 
+Australia.
+
+INTRODUCTION: Inclusion body myositis (IBM) is the most commonly acquired 
+skeletal muscle disease of older adults involving both autoimmune attack and 
+muscle degeneration. As exercise training can improve outcomes in IBM, this 
+study assessed whether a combination of testosterone supplementation and 
+exercise training would improve muscle strength, physical function and quality 
+of life in men affected by IBM, more than exercise alone.
+METHODS: This pilot study was a single site randomised, double-blind, 
+placebo-controlled, crossover study. Testosterone (exercise and testosterone 
+cream) and placebo (exercise and placebo cream) were each delivered for 12 
+weeks, with a two-week wash-out between the two periods. The primary outcome 
+measure was improvement in quadriceps isokinetic muscle strength. Secondary 
+outcomes included assessment of isokinetic peak flexion force, walk capacity and 
+patient reported outcomes, and other tests, comparing results between the 
+placebo and testosterone arms. A 12-month Open Label Extension (OLE) was offered 
+using the same outcome measures collected at 6 and 12-months.
+RESULTS: 14 men completed the trial. There were no significant improvements in 
+quadriceps extension strength or lean body mass, nor any of the secondary 
+outcomes. Improvement in the RAND Short Form 36 patient reported outcome 
+questionnaire 'emotional wellbeing' sub-category was reported during the 
+testosterone arm compared to the placebo arm (mean difference [95% CI]: 6.0 
+points, [95% CI 1.7,10.3]). The OLE demonstrated relative disease stability over 
+the 12-month period but with a higher number of testosterone-related adverse 
+events.
+CONCLUSIONS: Adding testosterone supplementation to exercise training did not 
+significantly improve muscle strength or physical function over a 12-week 
+intervention period, compared to exercise alone. However, the combination 
+improved emotional well-being over this period, and relative stabilisation of 
+disease was found during the 12-month OLE. A longer duration trial involving a 
+larger group of participants is warranted.
+
+Copyright: © 2023 Connor et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0283394
+PMCID: PMC10089314
+PMID: 37040372 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have read the journal’s policy and 
+have the following competing interests: BBY has received speaker honoraria and 
+conference support from Bayer, Lilly and Besins, research support from Bayer, 
+Lilly and Lawley Pharmaceuticals, and held advisory roles for Lilly, Besins, 
+Ferring and Lawley Pharmaceuticals. MN has received honoraria from 
+Sanofi-Aventis, Biogen and Abcuro.
+
+
+749. Curr Probl Cardiol. 2023 Aug;48(8):101738. doi:
+10.1016/j.cpcardiol.2023.101738.  Epub 2023 Apr 10.
+
+Poststroke Cardiovascular Management: Current Concepts, Integrated Care, and 
+Future Developments.
+
+Lip GYH(1), Lenarczyk R(2), Pastori D(3), Ntaios G(4), Doehner W(5), Schnabel 
+RB(6).
+
+Author information:
+(1)Liverpool Centre for Cardiovascular Science at University of Liverpool, 
+Liverpool John Moores University and Liverpool Heart & Chest Hospital, 
+Liverpool, UK; Danish Center for Clinical Health Services Research, Department 
+of Clinical Medicine, Aalborg University, Aalborg, Denmark. Electronic address: 
+gregory.lip@liverpool.ac.uk.
+(2)Division of Medical Sciences in Zabrze, Department of Cardiology, Congenital 
+Heart Diseases and Electrotherapy, Silesian Center of Heart Diseases, The 
+Medical University of Silesia, Zabrze, Poland.
+(3)Department of Clinical, Internal, Anesthesiological and Cardiovascular 
+Sciences, Sapienza University of Rome, Rome, Italy.
+(4)Department of Internal Medicine, School of Health Sciences, Faculty of 
+Medicine, University of Thessaly, Larissa, Greece.
+(5)BIH Center for Regenerative Therapies (BCRT) and Department of Internal 
+Medicine and Cardiology (Virchow Klinikum), German Centre for Cardiovascular 
+Research (DZHK) partner site Berlin and Center for Stroke Research Berlin, 
+Charité Universitätsmedizin Berlin, Berlin, Germany.
+(6)Department of Cardiology, University Heart and Vascular Center Hamburg, 
+University Medical Center Hamburg-Eppendorf, Hamburg, Germany; German Centre for 
+Cardiovascular Research (DZHK), Hamburg, Germany.
+
+After an ischemic stroke patients often have cardiovascular complications known 
+as stroke-heart syndrome. The cardiovascular management after stroke has a 
+significant impact on life expectancy as well as the quality of life. The 
+development and implementation of management pathways to improve outcomes for 
+patients with stroke-heart syndrome requires a multidisciplinary involvement 
+from health care professionals from primary, secondary and tertiary prevention 
+levels. A holistic, integrated care approach could follow the ABC pathway: A) 
+Appropriate antithrombotic therapy in all stroke/TIA patients in the acute phase 
+as well as recommendations for the longer term treatment regimen are required to 
+avoid recurrent stroke. B) For better functional and psychological status the 
+assessment of poststroke cognitive and physical impairment, depression, and 
+anxiety as part of routine poststroke work-up in every patient is necessary. C) 
+Cardiovascular risk factors and comorbidities management further includes 
+cardiovascular work-up, adapted drug therapy, but often also lifestyle changes 
+that are central to the success of integrated care for stroke-heart syndrome. 
+Greater patient and family/caregiver involvement in planning actions and the 
+input and feedback on optimizing stroke care pathways is needed. Achieving 
+integrated care is challenging and highly context dependent on different 
+healthcare levels. A tailored approach will utilize a variety of enabling 
+factors. In this narrative review, we summarize the current evidence and outline 
+potential factors that will contribute to the successful implementation of 
+integrated cardiovascular care for stroke-heart syndrome management.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cpcardiol.2023.101738
+PMID: 37040854 [Indexed for MEDLINE]
+
+
+750. BMC Public Health. 2023 Apr 11;23(1):664. doi: 10.1186/s12889-023-15611-0.
+
+Perspectives of older women in the Netherlands: identifying motivators and 
+barriers for healthy lifestyles and determinants of healthy aging.
+
+Sialino LD(1), Wijnhoven HAH(2), van Oostrom SH(3), Picavet HSJ(3), Verschuren 
+WMM(3)(4), Visser M(2), Vader S(3), Schaap LA(2).
+
+Author information:
+(1)Department of Health Sciences, Faculty of Science, Amsterdam Public Health 
+research institute, Vrije Universiteit Amsterdam, De Boelelaan 1105, 
+North-Holland, 1081HV, Amsterdam, the Netherlands. l.d.sialino@vu.nl.
+(2)Department of Health Sciences, Faculty of Science, Amsterdam Public Health 
+research institute, Vrije Universiteit Amsterdam, De Boelelaan 1105, 
+North-Holland, 1081HV, Amsterdam, the Netherlands.
+(3)Centre for Nutrition, Prevention and Health Services, National Institute for 
+Public Health and the Environment, Bilthoven, the Netherlands.
+(4)Julius Centre for Health Sciences and Primary Care, University Medical 
+Centre, Utrecht, the Netherlands.
+
+BACKGROUND: Women have a higher life expectancy than men but experience more 
+years with physical disabilities in daily life at older ages, especially women 
+with a migration background. This pinpoints older women as an important target 
+group for strategies that stimulate healthy lifestyle, which benefits healthy 
+aging. Our study investigates motivators and barriers for healthy lifestyles and 
+perspectives on determinants of healthy aging of older women. This provides 
+essential information for developing targeted strategies.
+METHODS: Data was collected by semi-structured digital interviews from February 
+till June 2021. Women aged 55 years and older living in the Netherlands (n = 34) 
+with a native Dutch (n = 24), Turkish (n = 6) or Moroccan (n = 4) migration 
+background were included. Two main subjects were investigated: (1) motivators 
+and barriers on their current lifestyles regarding smoking, alcohol consumption, 
+physical activity, diet and sleep and (2) perspectives on determinants of 
+healthy aging. Interviews were analyzed using Krueger's framework.
+RESULTS: Personal health was the most common motivator for a healthy lifestyle. 
+In addition, peer pressure and being outdoors were specific motivators for 
+physical activity. Bad weather conditions and personal dislike to be active were 
+specific barriers. The social environment, personal preferences and personal 
+belief to compensate with other healthy lifestyle behaviors were barriers for 
+low alcohol consumption. Personal preferences (liking unhealthy food and not 
+making time) were the main barriers for a healthy diet. Sleep was not perceived 
+as a form of lifestyle behavior, but rather as a personal trait. Since there 
+were no smokers, specific barriers were not mentioned. For Turkish-Dutch and 
+Moroccan-Dutch women, additional barriers and motivators were culture and 
+religion. These were strong motivators to abstain from alcohol consumption and 
+smoking, but a barrier for a healthy diet. With regard to perspectives on 
+determinants of healthy aging, positive views on aging and being physically 
+active were perceived as most important. Women often wanted to increase their 
+physical activity or healthy diet to stimulate healthy aging. Among 
+Turkish-Dutch and Moroccan-Dutch women, healthy aging was also perceived as 
+something in the hands of God.
+CONCLUSIONS: Although motivators and barriers for a healthy lifestyle and 
+perspectives on healthy aging vary for distinct lifestyles, personal health is a 
+common motivator across all lifestyles. Having a migration background added 
+culture and religion as distinct barriers and motivations. Strategies to improve 
+lifestyle among older women should therefore have a tailored, culture sensitive 
+approach (if applicable) for distinct lifestyle factors.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12889-023-15611-0
+PMCID: PMC10088167
+PMID: 37041507 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+751. J Neuroeng Rehabil. 2023 Apr 11;20(1):41. doi: 10.1186/s12984-023-01163-2.
+
+Patients' physiological reactions to competitive rehabilitation therapies 
+assisted by robotic devices.
+
+Catalán JM(1), Blanco-Ivorra A(2), García-Pérez JV(2), Vales Y(2), 
+Martínez-Pascual D(2), Ezquerro S(2), Garrote A(3), Costa T(3), Lledó LD(2), 
+García-Aracil N(2).
+
+Author information:
+(1)Robotics and Artificial Intelligence Group of the Bioengineering Institute, 
+Miguel Hernández University, Avda. de la Universidad, 03202, Elche, Spain. 
+jcatalan@umh.es.
+(2)Robotics and Artificial Intelligence Group of the Bioengineering Institute, 
+Miguel Hernández University, Avda. de la Universidad, 03202, Elche, Spain.
+(3)Hospital la Pedrera, Dénia, Spain.
+
+BACKGROUND: The aging of the population and the progressive increase in life 
+expectancy in developed countries is leading to a high incidence of 
+cerebrovascular diseases. Several studies have demonstrated that robot-assisted 
+rehabilitation therapies combined with serious games can improve rehabilitation 
+outcomes. Social interaction in the form of multiplayer games has been 
+highlighted as a potential element to increase patient's motivation and exercise 
+intensity, which professionals have described as one of the determining factors 
+in maximizing rehabilitation outcomes. Despite this, it has not been widely 
+studied. Physiological measures have been proven as an objective tool to 
+evaluate patients' experience in robot-assisted rehabilitation environments. 
+However, they have not been used to evaluate patients' experience in multiplayer 
+robot-assisted rehabilitation therapies. The main objective of this study is to 
+analyze whether the interpersonal interaction inherent in a competitive game 
+mode affects the patients' physiological responses in robot-assisted 
+rehabilitation environments.
+METHODS: A total of 14 patients participated in this study. The results of a 
+competitive game mode were compared with a single-player game mode with 
+different difficulty levels. Exercise intensity and performance were measured 
+through parameters extracted from the game and the information provided by the 
+robotic rehabilitation platforms. The physiological response of patients in each 
+game mode was measured by the heart rate (HR) and the galvanic skin response 
+(GSR). Patients were asked to fill out the IMI and the overall experience 
+questionnaire.
+RESULTS: The exercise intensity results show that high-difficulty single-player 
+game mode is similar in terms of intensity level to a competitive game mode, 
+based on velocity values, reaction time and questionnaire results. However, the 
+results of the physiological responses of the patients measured by GSR and HR 
+are lower in the case of the competitive mode compared to the high-difficulty 
+single-player game mode, obtaining results similar to those obtained in the 
+low-difficulty single-player game mode.
+CONCLUSIONS: Patients find the competitive game mode the most fun, which is also 
+the mode they report experiencing the most effort and stress level. However, 
+this subjective evaluation is not in line with the results of physiological 
+responses. This study concludes that interpersonal interaction inherent to a 
+competitive game mode influences patients' physiological responses. This could 
+mean that social interaction is an important factor to consider when 
+interpreting the results obtained from physiological measurements.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12984-023-01163-2
+PMCID: PMC10088171
+PMID: 37041622 [Indexed for MEDLINE]
+
+Conflict of interest statement: N.G.A. is founder of Innovative Devices for 
+Rehabilitation and Assistance (iDRhA) while J.M.C. is CEO of iDRhA. The IP 
+protecting the Rubidium technology is licensed to iDRhA.
+
+
+752. J Am Heart Assoc. 2023 Apr 18;12(8):e029264. doi: 10.1161/JAHA.122.029264.
+Epub  2023 Apr 12.
+
+Frailty and Recurrent Hospitalization After Transcatheter Aortic Valve 
+Replacement.
+
+Strange JE(1)(2), Christensen DM(3), Sindet-Pedersen C(2), Schou M(2), 
+Falkentoft AC(4), Østergaard L(1), Butt JH(1), Graversen PL(1), Køber L(1), 
+Gislason G(2)(3)(5)(6), Olesen JB(2), Fosbøl EL(1).
+
+Author information:
+(1)Department of Cardiology, The Heart Center Copenhagen University Hospital 
+Rigshospitalet Copenhagen Denmark.
+(2)Department of Cardiology Copenhagen University Hospital Herlev and Gentofte 
+Hellerup Denmark.
+(3)The Danish Heart Foundation Copenhagen Denmark.
+(4)Department of Cardiology Zealand University Hospital, University of 
+Copenhagen Roskilde Denmark.
+(5)Department of Clinical Medicine, Faculty of Health and Sciences University of 
+Copenhagen Copenhagen Denmark.
+(6)The National Institute of Public Health University of Southern Denmark 
+Copenhagen Denmark.
+
+Background For frail patients with limited life expectancy, time in hospital 
+following transcatheter aortic valve replacement is an important measure of 
+quality of life; however, data remain scarce. Thus, we aimed to investigate 
+frailty and its relation to time in hospital during the first year after 
+transcatheter aortic valve replacement. Methods and Results From 2008 to 2020, 
+all Danish patients who underwent transcatheter aortic valve replacement and 
+were alive at discharge were included. Using the validated Hospital Frailty Risk 
+Score, patients were categorized in the low, intermediate, and high frailty 
+groups. Time in hospital and mortality up to 1 year are reported according to 
+frailty groups. In total, 3437 (57.6%), 2277 (38.1%), and 257 (4.3%) were 
+categorized in the low, intermediate, and high frailty groups, respectively. 
+Median age was ≈81 years. Female sex and comorbidity burden were incrementally 
+higher across frailty groups (low frailty: heart failure, 24.1%; stroke, 7.2%; 
+and chronic kidney disease, 4.5%; versus high frailty: heart failure, 42.8%; 
+stroke, 34.2%; and chronic kidney disease, 29.2%). In the low frailty group, 
+50.5% survived 1 year without a hospital admission, 10.8% were hospitalized 
+>15 days, and 5.8% of patients died. By contrast, 26.1% of patients in the high 
+frailty group survived 1 year without a hospital admission, 26.4% were 
+hospitalized >15 days, and 15.6% died within 1 year. Differences persisted in 
+models adjusted for sex, age, frailty, and comorbidity burden (excluding 
+overlapping comorbidities). Conclusions Among patients undergoing transcatheter 
+aortic valve replacement, frailty is strongly associated with time in hospital 
+and mortality. Prevention strategies for frail patients to reduce 
+hospitalization burden could be beneficial.
+
+DOI: 10.1161/JAHA.122.029264
+PMCID: PMC10227237
+PMID: 37042264 [Indexed for MEDLINE]
+
+
+753. Phytother Res. 2023 Aug;37(8):3438-3452. doi: 10.1002/ptr.7815. Epub 2023
+Apr  12.
+
+The effect of Andrographis paniculata water extract on palliative management of 
+metastatic esophageal squamous cell carcinoma-A phase II clinical trial.
+
+Chiu PW(1)(2), Yue GG(3), Cheung MK(1), Yip HC(1)(2), Chu SK(4), Yung MY(1)(2), 
+Wu JC(2)(5), Chan SM(1)(2), Teoh AY(1)(2), Ng EK(1)(2), Norimoto H(4), Lau 
+CB(3).
+
+Author information:
+(1)Division of Upper GI and Metabolic Surgery, Department of Surgery, Faculty of 
+Medicine, The Chinese University of Hong Kong, Shatin, Hong Kong.
+(2)Institute of Digestive Disease and State Key Laboratory of Digestive 
+Diseases, The Chinese University of Hong Kong, Shatin, Hong Kong.
+(3)Institute of Chinese Medicine and State Key Laboratory of Research on 
+Bioactivities and Clinical Applications of Medicinal Plants, The Chinese 
+University of Hong Kong, Shatin, New Territories, Hong Kong.
+(4)Nong's, PuraPharm Corporation Limited, Tai Po, Hong Kong.
+(5)Division of Gastroenterology and Hepatology, Department of Medicine & 
+Therapeutics, Faculty of Medicine, The Chinese University of Hong Kong, Shatin, 
+Hong Kong.
+
+Patients with metastatic esophageal squamous cell carcinoma (ESCC) have a grave 
+prognosis with limited life expectancy. Here, a phase II clinical trial was 
+conducted to investigate the effect of Andrographis paniculata (AP) on the 
+palliative care of patients with metastatic ESCC. Patients with metastatic or 
+locally advanced ESCC deemed unfit for surgery, and who have already completed 
+palliative chemotherapy or chemoradiotherapy or are not fit for these 
+treatments, were recruited. These patients were prescribed AP concentrated 
+granules for 4 months. They also received clinical and quality of life 
+assessments for clinical response, as well as positron emission 
+tomography-computed tomography at 3 and 6 months after AP treatment for the 
+assessment of tumor volume. Furthermore, the change in gut microbiota 
+composition after AP treatment was studied. From the results, among the 30 
+recruited patients, 10 completed the entire course of AP treatment, while 20 
+received partial AP treatment. Patients who completed the AP treatment achieved 
+significantly longer overall survival periods with the maintenance of the 
+quality of life during the survival period when compared to those who could not 
+complete AP treatment. The treatment effect of AP also contributed to the shift 
+of the overall structure of gut microbiota for ESCC patients towards those of 
+healthy individuals. The significance of this study is the establishment of AP 
+as a safe and effective palliative treatment for patients with squamous cell 
+carcinoma of the esophagus. To the best of our knowledge, this is the first 
+clinical trial of AP water extract in esophageal cancer patients demonstrating 
+its new medicinal use.
+
+© 2023 The Authors. Phytotherapy Research published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/ptr.7815
+PMID: 37042309 [Indexed for MEDLINE]
+
+
+754. J Med Econ. 2023 Jan-Dec;26(1):603-613. doi: 10.1080/13696998.2023.2201063.
+
+Cost-effectiveness of a novel, non-active implantable device as a treatment for 
+refractory gastro-esophageal reflux disease.
+
+Harper S(1), Grodzicki L(1), Mealing S(1), Gemmill L(2), Goldsmith PJ(3), Ahmed 
+AR(4).
+
+Author information:
+(1)York Health Economics Consortium, York, UK.
+(2)Sherwood Forest Hospitals NHS Foundation Trust, Nottingham, UK.
+(3)Manchester Foundation Trust, Manchester, UK.
+(4)Department of Surgery and Cancer, Imperial College London, UK.
+
+AIMS: Gastro-esophageal reflux disease (GERD) is a common, chronic 
+gastrointestinal condition characterized by heartburn, chest pain, 
+regurgitation, and bloating. The current standard of care includes chronic 
+treatment with proton pump inhibitors (PPIs) or, in selected patients, 
+laparoscopic anti-reflux surgery. RefluxStop is a novel implantable device 
+indicated for GERD patients eligible for laparoscopic surgical treatment. The 
+aim of this analysis was to assess the cost-effectiveness of RefluxStop against 
+available treatment options for GERD.
+MATERIAL AND METHODS: A Markov model was developed to assess the 
+cost-effectiveness of RefluxStop compared with PPI-based medical management (MM) 
+and two surgical management options, LNF and magnetic sphincter augmentation 
+(MSA, LINX system), in people with GERD. Clinical outcomes and costs were 
+estimated over a lifetime horizon from the UK National Health Service 
+perspective and an annual discount rate of 3.5% was applied.
+RESULTS: RefluxStop showed favorable surgical outcomes compared with both LNF 
+and MSA. The base case incremental cost-effectiveness ratios compared with MM, 
+LNF, and MSA were £4,156, £6,517, and £249 per QALY gained, respectively. At the 
+UK cost-effectiveness threshold of £20,000 per QALY gained, the probability that 
+RefluxStop was cost-effective against MM, LNF, and MSA was 100%, 93%, and 100%, 
+respectively.
+LIMITATIONS: The model presented the results of a comparison, with evidence for 
+RefluxStop derived from its single-arm CE mark trial and that for comparators 
+from the literature. The varied clinical care pathway of individual GERD 
+patients was necessarily simplified for modeling purposes, and necessary 
+assumptions were made; however, the model results proved robust to sensitivity 
+analyses.
+CONCLUSIONS: Introduction of RefluxStop was estimated to extend life expectancy 
+and improve quality-of-life of GERD patients when compared with MM, LNF, and 
+MSA. The results of the cost-effectiveness analysis demonstrated that RefluxStop 
+is highly likely to be a cost-effective treatment option within NHS England.
+
+DOI: 10.1080/13696998.2023.2201063
+PMID: 37042668 [Indexed for MEDLINE]
+
+
+755. JAMA Netw Open. 2023 Apr 3;6(4):e237888. doi:
+10.1001/jamanetworkopen.2023.7888.
+
+Estimated Clinical Outcomes and Cost-effectiveness Associated With Provision of 
+Addiction Treatment in US Primary Care Clinics.
+
+Jawa R(1), Tin Y(2), Nall S(3), Calcaterra SL(4), Savinkina A(5), Marks LR(6), 
+Kimmel SD(2)(7)(8), Linas BP(2)(8), Barocas JA(9).
+
+Author information:
+(1)Section of General Internal Medicine, Center for Research on Healthcare, 
+University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania.
+(2)Section of Infectious Diseases, Boston Medical Center, Boston, Massachusetts.
+(3)Division of General Internal Medicine, University of Colorado Anschutz 
+Medical Campus, Aurora.
+(4)Division of Hospital Medicine, University of Colorado Anschutz Medical 
+Campus, Aurora.
+(5)Department of Epidemiology of Microbial Diseases, Yale School of Public 
+Health, New Haven, Connecticut.
+(6)Division of Infectious Diseases, School of Medicine, Washington University in 
+St Louis, Missouri.
+(7)Section of General Internal Medicine, Boston Medical Center, Boston, 
+Massachusetts.
+(8)Boston University Chobanian and Avedisian School of Medicine, Boston, 
+Massachusetts.
+(9)Divisions of General Internal Medicine and Infectious Diseases, University of 
+Colorado Anschutz Medical Campus, Aurora.
+
+Erratum in
+    JAMA Netw Open. 2023 May 1;6(5):e2315795.
+
+IMPORTANCE: US primary care practitioners (PCPs) are the largest clinical 
+workforce, but few provide addiction care. Primary care is a practical place to 
+expand addiction services, including buprenorphine and harm reduction kits, yet 
+the clinical outcomes and health care sector costs are unknown.
+OBJECTIVE: To estimate the long-term clinical outcomes, costs, and 
+cost-effectiveness of integrated buprenorphine and harm reduction kits in 
+primary care for people who inject opioids.
+DESIGN, SETTING, AND PARTICIPANTS: In this modeling study, the Reducing 
+Infections Related to Drug Use Cost-Effectiveness (REDUCE) microsimulation 
+model, which tracks serious injection-related infections, overdose, 
+hospitalization, and death, was used to examine the following treatment 
+strategies: (1) PCP services with external referral to addiction care (status 
+quo), (2) PCP services plus onsite buprenorphine prescribing with referral to 
+offsite harm reduction kits (BUP), and (3) PCP services plus onsite 
+buprenorphine prescribing and harm reduction kits (BUP plus HR). Model inputs 
+were derived from clinical trials and observational cohorts, and costs were 
+discounted annually at 3%. The cost-effectiveness was evaluated over a lifetime 
+from the modified health care sector perspective, and sensitivity analyses were 
+performed to address uncertainty. Model simulation began January 1, 2021, and 
+ran for the entire lifetime of the cohort.
+MAIN OUTCOMES AND MEASURES: Life-years (LYs), hospitalizations, mortality from 
+sequelae (overdose, severe skin and soft tissue infections, and endocarditis), 
+costs, and incremental cost-effectiveness ratios (ICERs).
+RESULTS: The simulated cohort included 2.25 million people and reflected the age 
+and gender of US persons who inject opioids. Status quo resulted in 6.56 
+discounted LYs at a discounted cost of $203 500 per person (95% credible 
+interval, $203 000-$222 000). Each strategy extended discounted life expectancy: 
+BUP by 0.16 years and BUP plus HR by 0.17 years. Compared with status quo, BUP 
+plus HR reduced sequelae-related mortality by 33%. The mean discounted lifetime 
+cost per person of BUP and BUP plus HR were more than that of the status quo 
+strategy. The dominating strategy was BUP plus HR. Compared with status quo, BUP 
+plus HR was cost-effective (ICER, $34 400 per LY). During a 5-year time horizon, 
+BUP plus HR cost an individual PCP practice approximately $13 000.
+CONCLUSIONS AND RELEVANCE: This modeling study of integrated addiction service 
+in primary care found improved clinical outcomes and modestly increased costs. 
+The integration of addiction service into primary care practices should be a 
+health care system priority.
+
+DOI: 10.1001/jamanetworkopen.2023.7888
+PMCID: PMC10098970
+PMID: 37043198 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Kimmel 
+reported receiving personal fees from Massachusetts Department of Public Health, 
+Bureau of Substance Addiction Services Overdose Education and Prevention 
+Program, and American Academy of Addiction Psychiatry, Opioid Response Network 
+for harm reduction education outside the submitted work and previous consulting 
+with Abt Associates on a Massachusetts Department of Public Health–funded 
+project to improve access to medications for opioid use disorder treatment. No 
+other disclosures were reported.
+
+
+756. Proc Natl Acad Sci U S A. 2023 Apr 18;120(16):e2211755120. doi: 
+10.1073/pnas.2211755120. Epub 2023 Apr 12.
+
+Contextual modifiers of healthspan, lifespan, and epigenome in mice under 
+chronic social stress.
+
+Razzoli M(1), Nyuyki-Dufe K(1), Chen BH(2)(3), Bartolomucci A(1).
+
+Author information:
+(1)Department of Integrative Biology and Physiology, University of Minnesota, 
+Minneapolis, MN 55455.
+(2)FOXO Technologies Inc., Minneapolis, MN 55401.
+(3)Division of Epidemiology, The Herbert Wertheim School of Public Health and 
+Human Longevity Science, University of California, San Diego, La Jolla, CA 
+92093.
+
+Sustained life stress and low socioeconomic status are among the major causes of 
+aging-related diseases and decreased life expectancy. Experimental rodent models 
+can help to identify the underlying mechanisms, yet very few studies address the 
+long-term consequences of social stress on aging. We conducted a randomized 
+study involving more than 300 male mice of commonly used laboratory strains 
+(C57BL/6J, CD1, and Sv129Ev) chosen for the spontaneous aggression gradient and 
+stress-vulnerability. Mice were exposed to a lifelong chronic psychosocial 
+stress protocol to model social gradients in aging and disease vulnerability. 
+Low social rank, inferred based on a discretized aggression index, was found to 
+negatively impact lifespan in our study population. However, social rank 
+interacted with genetic background in that low-ranking C57BL/6J, high-ranking 
+Sv129Ev, and middle-ranking CD1 mice had lower survival, respectively, implying 
+a cost of maintaining a given social rank that varies across strains. Machine 
+learning linear discriminant analysis identified baseline fat-free mass as the 
+most important predictor of mouse genetic background and social rank in the 
+present dataset. Finally, strain and social rank differences were significantly 
+associated with epigenetic changes, most significantly in Sv129Ev mice and in 
+high-ranking compared to lower ranking subjects. Overall, we identified genetic 
+background and social rank as critical contextual modifiers of aging and 
+lifespan in an ethologically relevant rodent model of social stress, thereby 
+providing a preclinical experimental paradigm to study the impact of social 
+determinants of health disparities and accelerated aging.
+
+DOI: 10.1073/pnas.2211755120
+PMCID: PMC10120026
+PMID: 37043532 [Indexed for MEDLINE]
+
+Conflict of interest statement: B.H.C. is a full-time employee of FOXO 
+Technologies Inc., which seeks to commercialize epigenetic technologies in the 
+life insurance industry. B.H.C. owns stock in Illumina Inc., the manufacturer of 
+the DNA methylation arrays used in this study. B.H.C. is listed as a co-inventor 
+in filed patents on commercial applications of epigenetic prediction models. The 
+other authors declare no competing interest.
+
+
+757. JCO Glob Oncol. 2023 Apr;9:e2300003. doi: 10.1200/GO.23.00003.
+
+Cancer Survivors' Experiences With and Preferences for Medical Information 
+Disclosure and Advance Care Planning: An Online Survey Among Indonesian Cancer 
+Support Groups.
+
+Martina D(1)(2)(3)(4), Angka RN(5), Putranto R(3)(4), Shatri H(3)(4), Sudoyo 
+AW(4)(6)(7), van der Heide A(2), van der Rijt CCD(1), Rietjens JAC(2).
+
+Author information:
+(1)Department of Medical Oncology, Erasmus MC Cancer Institute, University 
+Medical Centre Rotterdam, the Netherlands.
+(2)Department of Public Health, Erasmus MC, University Medical Centre Rotterdam, 
+the Netherlands.
+(3)Division of Psychosomatic and Palliative Medicine, Department of Internal 
+Medicine, Faculty of Medicine Universitas Indonesia, Jakarta, Indonesia.
+(4)Cipto Mangunkusumo National General Hospital, Jakarta, Indonesia.
+(5)Indonesian Cancer Foundation Jakarta Chapter, Jakarta, Indonesia.
+(6)Division of Hematology and Medical Oncology, Department of Internal Medicine, 
+Faculty of Medicine Universitas Indonesia, Indonesia.
+(7)Indonesian Cancer Foundation, Jakarta, Indonesia.
+
+PURPOSE: To understand the experiences and preferences of Indonesian cancer 
+survivors regarding medical information disclosure and advance care planning.
+METHODS: On the basis of systematic reviews of the scientific literature, 
+qualitative studies, and expert-panel input, we developed an online survey that 
+was distributed to nine cancer survivor support groups in Indonesia.
+RESULTS: A total of 1,030 valid responses were received. Most participants were 
+younger than 60 years (92%), female (91%), married (78%), Muslim (75%), 
+diagnosed with breast cancer (68%), highly educated (64%), and more than one 
+year beyond diagnosis of their cancer. If diagnosed with a life-limiting 
+illness, participants wished to be informed about their diagnosis (74%), disease 
+severity (61%), estimated curability (81%), expected disease trajectory (66%), 
+and estimated life expectancy (37%). Between 46%-69% of the participants wished 
+to discuss four topics of advance care planning (end-of-life treatments, 
+resuscitation, health care proxies, and what matters at the end of life); 
+21%-42% had done so. Of those who wished to discuss these topics, 36%-79% 
+preferred to do so with their family members. The most important reasons for not 
+being willing to engage in advance care planning were the desire to surrender to 
+God's will and to focus on here and now.
+CONCLUSION: In a group of cancer survivors, most of them were highly educated, 
+young, female, and diagnosed with breast cancer. Their preferences for medical 
+information and advance care planning varied, with the majority wishing for 
+information and involvement in advance care planning. Culturally sensitive 
+advance care planning involves health care professionals eliciting individuals' 
+preferences for medical information disclosure and discussing different topics 
+in advance care planning conversations.
+
+DOI: 10.1200/GO.23.00003
+PMCID: PMC10281438
+PMID: 37043710 [Indexed for MEDLINE]
+
+Conflict of interest statement: The following represents disclosure information 
+provided by authors of this manuscript. All relationships are considered 
+compensated unless otherwise noted. Relationships are self-held unless noted. I 
+= Immediate Family Member, Inst = My Institution. Relationships may not relate 
+to the subject matter of this manuscript. For more information about ASCO's 
+conflict of interest policy, please refer to www.asco.org/rwc or 
+ascopubs.org/go/authors/author-center. Open Payments is a public database 
+containing information reported by companies about payments made to US-licensed 
+physicians (Open Payments).
+

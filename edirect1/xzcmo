@@ -1,0 +1,1000 @@
+RESULTS: Here we propose a novel method for clustering a set of proteins based 
+on their 3D structure focusing on 3D structures of BcR IG from a large series of 
+patients with CLL. The method combines techniques from the areas of 
+bioinformatics, 3D object recognition and machine learning. The clustering 
+procedure is based on the extraction of 3D descriptors, encoding various 
+properties of the local and global geometrical structure of the proteins. The 
+descriptors are extracted from aligned pairs of proteins. A combination of 
+individual 3D descriptors is also used as an additional method. The comparison 
+of the automatically generated clusters to manual annotation by experts shows an 
+increased accuracy when using the 3D descriptors compared to plain 
+bioinformatics-based comparison. The accuracy is increased even more when using 
+the combination of 3D descriptors.
+CONCLUSIONS: The experimental results verify that the use of 3D descriptors 
+commonly used for 3D object recognition can be effectively applied to 
+distinguishing structural differences of proteins. The proposed approach can be 
+applied to provide hints for the existence of structural groups in a large set 
+of unannotated BcR IG protein files in both CLL and, by logical extension, other 
+contexts where it is relevant to characterize BcR IG structural similarity. The 
+method does not present any limitations in application and can be extended to 
+other types of proteins.
+
+DOI: 10.1186/s12859-018-2381-1
+PMCID: PMC6245605
+PMID: 30453883 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Not 
+applicable. CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: The 
+author(s) declare(s) that they have no competing interests. PUBLISHER’S NOTE: 
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.
+
+
+894. Handb Clin Neurol. 2018;156:367-375. doi:
+10.1016/B978-0-444-63912-7.00022-9.
+
+Thermoregulation and the ultradian basic rest-activity cycle.
+
+Blessing WW(1).
+
+Author information:
+(1)Department of Human Physiology, Flinders University, Adelaide, SA, Australia. 
+Electronic address: w.w.blessing@flinders.edu.au.
+
+Daily life involves interactions with the external environment. In rats these 
+apparently spontaneous interactions, often associated with the search for food, 
+alternate with periods of rest in both the dark and light periods of the 24-hour 
+day. Kleitman, in whose laboratory rapid eye movement sleep was discovered, 
+referred to the temporal pattern as "the basic rest-activity cycle." The active 
+periods of the basic rest-activity cycle occur approximately every 1-2 hours in 
+an irregular stochastic pattern that has been described (perhaps unhelpfully) as 
+ultradian rhythmicity. Both the spontaneous interactions and those evoked by 
+salient, potentially threatening environmental events are accompanied by 
+increases in brown adipose tissue (BAT) temperature of approximately 1°C. The 
+heat produced in BAT contributes to associated increases in the temperature of 
+the brain (approximately 0.8°C) and the body (approximately 0.6°C). These 
+temperature changes require extension of the conventional "homeostasis" 
+framework of temperature regulation. They may function to facilitate the 
+cognitive processing that underlies the vital decision making necessary for safe 
+and effective interaction with the external environment.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/B978-0-444-63912-7.00022-9
+PMID: 30454601 [Indexed for MEDLINE]
+
+
+895. Biochem Biophys Res Commun. 2018 Dec 9;507(1-4):304-310. doi: 
+10.1016/j.bbrc.2018.11.029. Epub 2018 Nov 17.
+
+Chemoattractant receptors activate, recruit and capture G proteins for wide 
+range chemotaxis.
+
+Miyanaga Y(1), Kamimura Y(2), Kuwayama H(3), Devreotes PN(4), Ueda M(5).
+
+Author information:
+(1)Laboratory for Single Molecular Biology, Graduate School of Frontier 
+Biosciences, Osaka University, Suita, Osaka, 565-0871, Japan.
+(2)Laboratory for Cell Signaling Dynamics, Center for Biosystems Dynamics 
+Research, RIKEN, Suita, Osaka, 565-0874, Japan.
+(3)Graduate School of Life and Environmental Sciences, University of Tsukuba, 
+Japan.
+(4)Department of Cell Biology, Johns Hopkins University School of Medicine, 725 
+N. Wolfe St., 114 WBSB, Baltimore, MD, 21205, USA.
+(5)Laboratory for Single Molecular Biology, Graduate School of Frontier 
+Biosciences, Osaka University, Suita, Osaka, 565-0871, Japan; Laboratory for 
+Cell Signaling Dynamics, Center for Biosystems Dynamics Research, RIKEN, Suita, 
+Osaka, 565-0874, Japan. Electronic address: masahiroueda@fbs.osaka-u.ac.jp.
+
+The wide range sensing of extracellular signals is a common feature of various 
+sensory cells. Eukaryotic chemotactic cells driven by GPCRs and their cognate G 
+proteins are one example. This system endows the cells directional motility 
+towards their destination over long distances. There are several mechanisms to 
+achieve the long dynamic range, including negative regulation of the receptors 
+upon ligand interaction and spatial regulation of G proteins, as we found 
+recently. However, these mechanisms are insufficient to explain the 105-fold 
+range of chemotaxis seen in Dictyostelium. Here, we reveal that the 
+receptor-mediated activation, recruitment, and capturing of G proteins mediate 
+chemotactic signaling at the lower, middle and higher concentration ranges, 
+respectively. These multiple mechanisms of G protein dynamics can successfully 
+cover distinct ranges of ligand concentrations, resulting in seamless and broad 
+chemotaxis. Furthermore, single-molecule imaging analysis showed that the 
+activated Gα subunit forms an unconventional complex with the agonist-bound 
+receptor. This complex formation of GPCR-Gα increased the membrane-binding time 
+of individual Gα molecules and therefore resulted in the local accumulation of 
+Gα. Our findings provide an additional chemotactic dynamic range mechanism in 
+which multiple G protein dynamics positively contribute to the production of 
+gradient information.
+
+Copyright © 2018 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2018.11.029
+PMID: 30454895 [Indexed for MEDLINE]
+
+
+896. Am J Prev Med. 2019 Jan;56(1):27-37. doi: 10.1016/j.amepre.2018.06.025. Epub
+ 2018 Oct 24.
+
+Non-Daily Cigarette Smokers: Mortality Risks in the U.S.
+
+Inoue-Choi M(1), McNeel TS(2), Hartge P(3), Caporaso NE(3), Graubard BI(3), 
+Freedman ND(3).
+
+Author information:
+(1)Division of Cancer Epidemiology and Genetics, National Cancer Institute, NIH, 
+Bethesda, Maryland. Electronic address: maki.inoue-choi@nih.gov.
+(2)Information Management Services, Inc., Calverton, Maryland.
+(3)Division of Cancer Epidemiology and Genetics, National Cancer Institute, NIH, 
+Bethesda, Maryland.
+
+INTRODUCTION: Worldwide, an estimated 189 million adults smoke tobacco 
+"occasionally" but not every day. Yet few studies have examined the health risks 
+of non-daily smoking.
+METHODS: Data from the 1991, 1992, and 1995 U.S. National Health Interview 
+Surveys, a nationally representative sample of 70,913 U.S. adults (aged 18-95 
+years) were pooled. Hazard ratios and 95% CIs for death through 2011 were 
+estimated from Cox proportional hazards regression using age as the underlying 
+time metric and stratified by 5-year birth cohorts in 2017.
+RESULTS: Non-daily smokers reported smoking a median of 15 days and 50 
+cigarettes per month in contrast to daily smokers who smoked a median of 600 
+cigarettes per month. Compared with never smokers, lifelong nondaily smokers who 
+had never smoked daily had a 72% higher mortality risk (95% CI=1.36, 2.18): 
+higher risks were observed for cancer, heart disease, and respiratory disease 
+mortalities. Higher mortality risks were observed among lifelong non-daily 
+smokers who reported 11-30 (hazard ratio=1.34, 95% CI=0.81, 2.20); 31-60 (hazard 
+ratio=2.02, 95% CI=1.17, 3.29); and >60 cigarettes per month (hazard ratio=1.74, 
+95% CI=1.12, 2.72) than never smokers. Median life-expectancy was about 5 years 
+shorter for lifelong non-daily smokers than never smokers. As expected, daily 
+smokers had even higher mortality risks (hazard ratio=2.50, 95% CI=2.35, 2.66) 
+and shorter survival (10 years less).
+CONCLUSIONS: Although the mortality risks of non-daily smokers are lower than 
+daily smokers, they are still substantial. Policies should be specifically 
+directed at this growing group of smokers.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.amepre.2018.06.025
+PMCID: PMC7477821
+PMID: 30454906 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: None of the authors have 
+conflicts of interest to declare.
+
+
+897. J Am Med Dir Assoc. 2019 Mar;20(3):377-381. doi:
+10.1016/j.jamda.2018.09.015.  Epub 2018 Nov 16.
+
+Impact of Environmental Modifications to Enhance Day-Night Orientation on 
+Behavior of Nursing Home Residents With Dementia.
+
+Bautrant T(1), Grino M(2), Peloso C(1), Schiettecatte F(1), Planelles M(1), 
+Oliver C(3), Franqui C(4).
+
+Author information:
+(1)Domaine de la Source, Roquefort la Bédoule, France.
+(2)Department of Clinical Research, State Gerontological Center, Marseille, 
+France; Silvermed Institute, State Geriatric Center, Marseille, France; Aix 
+Marseille Univ, INSERM, INRA, C2VN, Marseille, France.
+(3)Silvermed Institute, State Geriatric Center, Marseille, France.
+(4)Silvermed Institute, State Geriatric Center, Marseille, France; Alzheimer 
+Short-Stay and Cognitivo-behavioral Units, State Gerontological Center, 
+Marseille, France. Electronic address: Caroline.Franqui@cgd13.fr.
+
+OBJECTIVES: To determine whether environmental rearrangements of the long-term 
+care nursing home can affect disruptive behavioral and psychological symptoms of 
+dementia (BPSD) in residents with dementia.
+DESIGN: Prospective 6-month study.
+SETTING: The study was conducted before (phase 1) and after (phase 2) 
+environmental rearrangements [skylike ceiling tiles in part of the shared 
+premises, progressive decrease of the illuminance at night together with 
+soothing streaming music, reinforcement of the illuminance during the day, walls 
+painted in light beige, oversized clocks in corridors, and night team clothes 
+color (dark blue) different from that of the day team (sky blue)].
+PARTICIPANTS: All of the patients (n = 19) of the protected unit were included 
+in the study. They were aged 65 years or older and had an estimated life 
+expectancy above 3 months.
+MEASURES: Number and duration of disruptive BPSD were systematically collected 
+and analyzed over 24 hours or during late hours (6:00-12:00 pm) during each 
+3-month period.
+RESULTS: There was no significant change in the patients' dependency, risk of 
+fall, cognitive or depression indexes, or treatment between phase 1 and 2. 
+Agitation/aggression and screaming were observed mainly outside the late hours 
+as opposed to wandering episodes that were noticed essentially within the late 
+hours. The number of patients showing wandering was significantly lower over 
+24 hours during phase 2. The number of agitation/physical aggression, wandering, 
+and screaming and the mean duration of wandering episodes were significantly 
+(P = .039, .002, .025, and .026 respectively) decreased over 24 hours following 
+environmental rearrangements. Similarly, a significant reduction in the number 
+and mean duration of wandering was noticed during the late hours (P = .031 and 
+.007, respectively).
+CONCLUSIONS: Our study demonstrates that BPSD prevalence can be reduced 
+following plain environmental rearrangements aimed at improving spatial and 
+temporal orientation.
+
+Copyright © 2018 AMDA – The Society for Post-Acute and Long-Term Care Medicine. 
+Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jamda.2018.09.015
+PMID: 30455049 [Indexed for MEDLINE]
+
+
+898. Clin Case Rep. 2018 Oct 9;6(11):2289-2290. doi: 10.1002/ccr3.1856.
+eCollection  2018 Nov.
+
+33-year-old HIV-positive patient presenting with primary effusion lymphoma.
+
+Qureshi IA(1), Zul-Farah S(2), Carbajal L(2), Chang A(2).
+
+Author information:
+(1)Neurology Department Texas Tech University Health Sciences Center El Paso 
+Texas.
+(2)Department of Internal Medicine Texas Tech University Health Sciences Center 
+El Paso Texas.
+
+Our patient presenting with symptoms of shortness of breath and fever, 
+noncompliant with antiretroviral therapy was found to have a rare HIV-associated 
+non-Hodgkin's lymphoma that carries a dismal prognosis. Early recognition of 
+this condition with prompt treatment may provide a marginal benefit to the 
+patient's overall life expectancy.
+
+DOI: 10.1002/ccr3.1856
+PMCID: PMC6230670
+PMID: 30455942
+
+
+899. J Neurol Surg B Skull Base. 2018 Dec;79(6):515-521. doi:
+10.1055/s-0038-1635077.  Epub 2018 Mar 9.
+
+Outcomes of Craniofacial Open Surgery in Octogenarians.
+
+Ringel B(1), Carmel-Neiderman NN(1), Ben-Ner D(1), Pery A(1), Safadi A(1), 
+Abergel A(1), Margalit N(2), Fliss DM(1).
+
+Author information:
+(1)Departments of Otolaryngology Head and Neck Surgery and Maxillofacial 
+Surgery, Tel Aviv Sourasky Medical Center, Tel Aviv, Israel, Sackler School of 
+Medicine, Tel Aviv University, Tel Aviv, Israel.
+(2)Departments of Neurosurgery, Tel Aviv Sourasky Medical Center, Tel Aviv, 
+Israel, Sackler School of Medicine, Tel Aviv University, Tel Aviv, Israel.
+
+Introduction  The steady increase in average life expectancy has led to a rise 
+in the number of referrals of elderly patients for major operations. It is not 
+clear whether age itself is a risk factor for morbidity and mortality after 
+skull base operations. We investigated a possible link among a cohort of 
+patients older than 80 years of age who underwent those surgeries in our 
+department. Methods  We conducted a retrospective analysis of all patients who 
+underwent skull base surgery at the TASMC (Tel Aviv Sourasky Medical Center) 
+between 2000 and 2016. Results  A total of 369 patients underwent open skull 
+base surgeries in our institution, and 13 were patients older than 80 years. The 
+median age of the octogenarians was 83.4 (range 80-89), and the male-to-female 
+ratio was 7:6. Twelve patients had major systemic comorbidities. Four patients 
+had major complications associated with surgery: three had early wound 
+complications, and one each had early central nervous system complications, 
+early and late systemic complications, and late orbital complications. This 
+complication rate is comparable to that of our younger group of 356 patients. 
+The overall survival rate was measured for 30 days, 1 year, and 3 years, and it 
+was not significantly different between the octogenarians and that of the 
+younger patients. Further comparison of the elderly group with 13 matched 
+younger patients revealed no difference of morbidity and mortality between the 
+two groups. Conclusions  Despite their systemic comorbidities, the morbidity and 
+mortality rates associated with skull base surgery in octogenarians appear to be 
+comparable to that of younger patients undergoing the same procedures.
+
+DOI: 10.1055/s-0038-1635077
+PMCID: PMC6239884
+PMID: 30456018
+
+
+900. J Neurol Surg B Skull Base. 2018 Dec;79(6):586-592. doi:
+10.1055/s-0038-1651503.  Epub 2018 May 10.
+
+Natural History, Multimodal Management, and Quality of Life Outcomes of 
+Trigeminal Schwannomas.
+
+Makarenko S(1), Ye V(1), Akagami R(1).
+
+Author information:
+(1)Department of Surgery, Vancouver General Hospital, University of British 
+Columbia, Vancouver, British Columbia, Canada.
+
+Background  Trigeminal schwannomas are the second most common among intracranial 
+schwannomas. These can arise from anywhere between the root and the distal 
+extracranial branches of the trigeminal nerve. Clinical presentation depends on 
+location and size, including but not limited to facial hypesthesia or pain, 
+headaches, dizziness, ataxia, and diplopia. Literature is strikingly scant 
+discussing the natural history of these lesions, while the treatment goals are 
+heavily dependent on tumor presentation. Management decisions must be 
+individualized to each tumor and each patient, while attempting to maximize the 
+quality of life. We present the natural history of these lesions as well as 
+their management by surgical resection or radiation therapy, and report 
+long-term quality of life outcomes. Methods  Between 2001 and 2015, 24 patients 
+(66.7% female) with trigeminal schwannomas were diagnosed and managed at 
+Vancouver General Hospital. We analyzed the clinical presentation, surgical 
+results, resection rates, patient quality of life, and complications. To 
+complete the evaluation, we prospectively collected 36-Item Short Form Health 
+Survey (SF-36) quality of life assessments for comparison. Results  We 
+identified 12 patients treated with a craniotomy and surgical resection, 4 were 
+treated with radiation therapy, while 8 patients were followed by observation. 
+Mean age of study cohort was 49.2 years (range, 23-79 years), and most patients 
+presented with facial hypesthesia (54.2%) and headaches (37.5%), while 37.5% 
+were incidental findings. There were no major differences in patient 
+demographics between the three groups. Patients offered surgery had larger 
+lesions (mean diameter, 3.4 ± 1.1 cm) when compared with those that were 
+irradiated or observed, and were more likely to have extracranial extension. 
+Overall patient quality of life improved following treatment (ΔSF-36 + 12.9) at 
+3.9 years. Conclusions  The treatment goals of trigeminal schwannomas focus on 
+improvement in neurologic symptoms, relief of mass effect, and preservation of 
+cranial nerve function. We demonstrate that smaller lesions found incidentally 
+with minimal symptoms can be followed safely with serial imaging, with 1 of 9 
+(11.1%) progressing to require treatment over the course of 7.1 years. 
+Management of trigeminal schwannomas should be individualized with an 
+involvement of a multidisciplinary skull base team.
+
+DOI: 10.1055/s-0038-1651503
+PMCID: PMC6239870
+PMID: 30456029901. Tijdschr Gerontol Geriatr. 2018 Dec;49(6):232-243. doi: 
+10.1007/s12439-018-0267-3. Epub 2018 Nov 19.
+
+[Healthy life expectancy of older migrants and non-migrants in three European 
+countries over time].
+
+[Article in Dutch]
+
+Janssen F(1)(2), Kibele E(3), Reus Pons M(1), Vandenheede H(4), de Valk HAG(5).
+
+Author information:
+(1)Population Research Centre, Faculteit Ruimtelijke Wetenschappen, 
+Rijksuniversiteit Groningen, Groningen, Nederland.
+(2)Interdisciplinair Demografisch Instituut/KNAW/Rijksuniversiteit Groningen, 
+Den Haag, Nederland.
+(3)Statistisches Landesamt Bremen, Bremen, Duitsland.
+(4)Vrije Universiteit Brussel, Brussel, België.
+(5)Interdisciplinair Demografisch Instituut/KNAW/Rijksuniversiteit Groningen, 
+Den Haag, Nederland. valk@nidi.nl.
+
+We analysed differences in healthy life expectancy at age 50 (HLE50) between 
+migrants and non-migrants in Belgium, the Netherlands, and England and Wales, 
+and their trends over time between 2001 and 2011 in the latter two countries. 
+Population, mortality and health data were derived from registers, census or 
+surveys. HLE50 was calculated for non-migrants, western and non-western migrants 
+by sex. We applied decomposition techniques to determine whether differences in 
+HLE50 between origin groups and changes in HLE50 over time were attributable to 
+either differences in mortality or health. The results show that in all three 
+countries and among both sexes, older migrants, in particular those from 
+non-western origin, could expect to live fewer years in good health than older 
+non-migrants, mainly because of differences in self-rated health. Differences in 
+HLE50 between migrants and non-migrants diminished over time in the Netherlands, 
+but they increased in England and Wales. Improvements in HLE50 over time were 
+mainly attributable to mortality decline. Interventions aimed at reducing the 
+health and mortality inequalities between older migrants and non-migrants should 
+focus on prevention, and target especially non-western migrants.
+
+DOI: 10.1007/s12439-018-0267-3
+PMID: 30456699 [Indexed for MEDLINE]
+
+
+902. ACS Appl Mater Interfaces. 2018 Dec 12;10(49):42268-42278. doi: 
+10.1021/acsami.8b14918. Epub 2018 Nov 29.
+
+Biocompatible Symmetric Na-Ion Microbatteries with Sphere-in-Network 
+Heteronanomat Electrodes Realizing High Reliability and High Energy Density for 
+Implantable Bioelectronics.
+
+Zhang G(1), Geng F(1), Zhao T(1), Zhou F(1)(2), Zhang N(3), Zhang S(2), Deng 
+C(1).
+
+Author information:
+(1)Key Laboratory for Photonic and Electronic Bandgap Materials, Ministry of 
+Education, College of Chemistry and Chemical Engineering , Harbin Normal 
+University , Harbin 150025 , Heilongjiang , China.
+(2)College of Material Science and Chemical Engineering , Harbin Engineering 
+University , Harbin 150001 , Heilongjiang , China.
+(3)College of Jiamusi , Heilongjiang University of Chinese Medicine , Jiamusi 
+154007 , Heilongjiang , China.
+
+The prolonged life expectancy accelerates the development of implantable 
+bioelectronic devices. However, conventional batteries with limited lifetime, 
+rigid architecture, and inferior energy density greatly restrict their 
+applications in patient's body. Herein, a novel flexible symmetric Na-ion 
+microbattery based on the heteronanomat electrode and the biocompatible 
+electrolyte has been developed. The film electrodes with sphere-in-network 
+architecture are synthesized by simultaneously electrospinning and 
+electrospraying followed by carbonization. The combined technologies allow a 
+uniform incorporation of active materials/C spheres into the carbon nanofiber 
+matrix, which results in the heteronanomat electrodes with robust structure, 
+fast electron/ion transport, and compact mass loading. The flexible 
+microbatteries are fabricated based on the interdigitated microelectrodes and 
+the biocompatible electrolytes, which provides a new implantable power source 
+for bioelectronics. As a proof-of-concept study, the symmetric sodium-ion 
+microbatteries are constructed from the heteronanomat bifunctional electrodes 
+(based on Na2VTi(PO4)3) and the biocompatible electrolyte. The high 
+reversibility, fast kinetics, and high energy density of the symmetric system in 
+the biocompatible electrolytes reveal their superior performance in 
+bioenvironments. Moreover, the high capacity retention (over 98%) and the high 
+stability of microbattery implanted in a living SD rat for a month further 
+demonstrate its high reliability for long-term in vivo diagnosis. Therefore, 
+this work not only presents a new sphere-in-net heteronanomat structure for 
+fabricating high-performance electrode but also gives significant contributions 
+to develop high-energy-density and high safety biocompatible power sources of 
+implantable bioelectronics.
+
+DOI: 10.1021/acsami.8b14918
+PMID: 30457330 [Indexed for MEDLINE]
+
+
+903. Scand Cardiovasc J. 2018 Dec;52(6):348-355. doi:
+10.1080/14017431.2018.1546894.  Epub 2019 Jan 2.
+
+Cost effectiveness of implementing ESC guidelines for treatment of iron 
+deficiency in heart failure in the Nordic countries.
+
+Hofmarcher T(1)(2), Cabrales Alin D(3), Linde C(4)(5).
+
+Author information:
+(1)a Department of Economics , Lund University , Lund , Sweden.
+(2)b IHE - The Swedish Institute for Health Economics , Lund , Sweden.
+(3)c Vifor Pharma Nordiska AB , Stockholm , Sweden.
+(4)d Heart and Vascular Theme , Karolinska University Hospital , Stockholm , 
+Sweden.
+(5)e Karolinska Institutet , Stockholm , Sweden.
+
+OBJECTIVES: Guidelines of the European Society of Cardiology (ESC) recommend 
+that ferritin and transferrin saturation should be tested in chronic heart 
+failure (HF) and state that iron treatment with ferric carboxymaltose should be 
+considered in HF patients with iron deficiency to alleviate symptoms and improve 
+exercise tolerance and quality of life. This study evaluates the cost 
+effectiveness of the implementation of this recommendation in four Nordic 
+countries (Denmark, Finland, Norway, and Sweden).
+DESIGN: We performed a cost-utility analysis comparing ferric carboxymaltose 
+treatment with placebo over a one-year time period in each country. Data on 
+healthcare resource use and health outcomes were taken from the CONFIRM-HF study 
+and combined with country-specific unit costs. Differences in per-patient costs 
+and quality-adjusted life years (QALYs) were calculated.
+RESULTS: QALYs were higher (increase of 0.050 QALYs per patient) in the 
+iron-treated group compared with placebo. Per-patient costs were lower in all 
+countries (with reductions ranging from €36 to €484). Fewer hospitalizations 
+were one key driver of these results. Another important driver was how well the 
+new routines for iron treatment can be integrated into the current healthcare 
+management of HF. A sensitivity analysis confirmed the results to be robust.
+CONCLUSIONS: Iron deficiency therapy in HF with ferric carboxymaltose compared 
+with placebo is estimated to both improve health-related quality of life and 
+save healthcare costs in all Nordic countries. A well-organized healthcare 
+management of HF patients can enable the implementation of ESC-recommended 
+treatment of iron deficiency without need for additional resources.
+
+DOI: 10.1080/14017431.2018.1546894
+PMID: 30457358 [Indexed for MEDLINE]
+
+
+904. J Food Prot. 2018 Dec;81(12):1982-1987. doi: 10.4315/0362-028X.JFP-18-236.
+
+Effects of Chitosan and Natamycin on Vacuum-Packaged Phyllo: A Pastry Product.
+
+Tsiraki MI(1), El-Obeid T(2), Yehia HM(3)(4), Karam L(5), Savvaidis IN(1).
+
+Author information:
+(1)1 Laboratory of Food Chemistry and Food Microbiology, Department of 
+Chemistry, University of Ioannina, GR-45110 Ioannina, Greece.
+(2)2 Department of Human Nutrition, College of Health Sciences, Qatar 
+University, P.O. Box 2713, Doha, Qatar (ORCID: 
+http://orcid.org/0000-0002-0208-6819 [I.N.S.]).
+(3)3 Department of Food Science and Nutrition, Faculty of Home Economics, Helwan 
+University, Helwan, Egypt.
+(4)4 Department of Food Science and Nutrition, College of Food and Agriculture 
+Sciences, King Saud University, Riyadh 11451, Saudi Arabia.
+(5)5 Department of Nursing & Health Sciences, Faculty of Nursing & Health 
+Sciences, Notre Dame University-Louaize, P.O. Box 72, Zouk Mikael, Lebanon.
+
+The effects of vacuum packaging, chitosan (1.5%, w/v), and natamycin (10 mg/L, 
+w/v) on phyllo pastry quality were studied by monitoring microbiological, 
+chemical, and sensory changes. Five lots were prepared with or without vacuum 
+packaging, chitosan, and natamycin: A, air packaged (control); V, vacuum 
+packaged; VC, vacuum packaged with chitosan; VN, vacuum packaged with natamycin; 
+and VCN, vacuum packaged with both chitosan and natamycin. Based on the sensory 
+acceptability data, a shelf life of 6 (A), 12 (V), 14 (VN), 16 (VC), and 17 
+(VCN) days was obtained at 4°C. VCN treatment resulted in a shelf life extension 
+of 11 days compared with the shelf life of the control. Microbiological data 
+revealed that the combination of chitosan and natamycin resulted in significant 
+reductions of microbial species (mesophilic total viable counts, yeasts and 
+molds, psychrotrophic bacteria, lactic acid bacteria, Enterobacteriaceae, and 
+enterococci) of 1 to 3 log CFU/g on the final day (day 18) of storage. Results 
+suggest that the combination of chitosan and natamycin, which is an effective 
+antifungal agent, can delay the spoilage of phyllo pastry while maintaining 
+acceptable sensorial characteristics and the original freshness and appearance 
+of the product.
+
+DOI: 10.4315/0362-028X.JFP-18-236
+PMID: 30457390 [Indexed for MEDLINE]
+
+
+905. J Comput Biol. 2019 Aug;26(8):794-805. doi: 10.1089/cmb.2018.0189. Epub 2018
+Nov  20.
+
+Extending the Evolvability Model to the Prokaryotic World: Simulations and 
+Results on Real Data.
+
+Yohay B(1), Snir S(2).
+
+Author information:
+(1)1Department of Computer Science, University of Haifa, Haifa, Israel.
+(2)2Department of Evolutionary and Environmental Biology, University of Haifa, 
+Haifa, Israel.
+
+In 2006, Valiant introduced a variation to his celebratedPAC (Probably 
+Approximately Correct) model to biology, by which he wished to explain how, with 
+two simple mechanisms-random variation and natural selection-complex life 
+mechanisms evolved in such a short time. Subsequently, several works extended 
+and specialized the evolvability framework to more specific processes. In this 
+study, we extend the evolvability framework to accommodate horizontal gene 
+transfer, the transfer of genetic material between unrelated organisms. While in 
+a separate work, we focused on the theoretical aspects of this extension and its 
+learnability power; here, the focus is on more practical and biological facets 
+of this new model. Specifically, we focus on the evolutionary process of 
+developing a trait and model it as theconjunctionfunction. We demonstrate the 
+speedup in learning time for a variant of conjunction to which learning 
+algorithms are known. We also confront the new model with the recombination 
+model on real data ofEscherichia colistrains under the task of developing 
+pathogenicity and obtain results adhering to current existing knowledge. Apart 
+from the sheer extension to the understudied prokaryotic world, our work offers 
+comparisons of three different models of evolution under the same conditions, 
+which we believe is unique and of a separate interest.
+
+DOI: 10.1089/cmb.2018.0189
+PMID: 30457889 [Indexed for MEDLINE]
+
+
+906. Metabolism. 2019 Mar;92:51-60. doi: 10.1016/j.metabol.2018.11.009. Epub 2018
+Nov  17.
+
+Metabolically healthy versus metabolically unhealthy obesity.
+
+Iacobini C(1), Pugliese G(1), Blasetti Fantauzzi C(1), Federici M(2), Menini 
+S(3).
+
+Author information:
+(1)Department of Clinical and Molecular Medicine, "La Sapienza" University, 
+Rome, Italy.
+(2)Department of Systems Medicine, University of Rome Tor Vergata, Rome, Italy.
+(3)Department of Clinical and Molecular Medicine, "La Sapienza" University, 
+Rome, Italy. Electronic address: stefano.menini@uniroma1.it.
+
+Obesity-related disease complications reduce life quality and expectancy and 
+increase health-care costs. Some studies have suggested that obesity not always 
+entails metabolic abnormalities and increased risk of cardiometabolic 
+complications. Because of the lack of universally accepted criteria to identify 
+metabolically healthy obesity (MHO), its prevalence varies widely among studies. 
+Moreover, the prognostic value of MHO is hotly debated, mainly because it likely 
+shifts gradually towards metabolically unhealthy obesity (MUO). In this review, 
+we outline the differential factors contributing to the metabolic heterogeneity 
+of obesity by discussing the behavioral, genetic, phenotypical, and biological 
+aspects associated with each of the two metabolic phenotypes (MHO and MUO) of 
+obesity and their clinical implications. Particular emphasis will be laid on the 
+role of adipose tissue biology and function, including genetic determinants of 
+body fat distribution, depot-specific fat metabolism, adipose tissue plasticity 
+and, particularly, adipogenesis. Finally, the emerging role of gut microbiota in 
+obesity and adipose tissue dysfunction as well as the search for novel 
+biomarkers for the obesity-related metabolic traits and associated diseases will 
+be briefly presented. A better understanding of the main determinants of a 
+healthy metabolic status in obesity would allow promotion of this favorable 
+condition by targeting the relevant pathways.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.metabol.2018.11.009
+PMID: 30458177 [Indexed for MEDLINE]
+
+
+907. Pharmacol Res. 2019 Jan;139:261-272. doi: 10.1016/j.phrs.2018.11.022. Epub
+2018  Nov 17.
+
+Prenatal therapeutics and programming of cardiovascular function.
+
+Brennan LJ(1), Goulopoulou S(2), Bourque SL(3).
+
+Author information:
+(1)Department of Anesthesiology & Pain Medicine, Pharmacology, and Pediatrics, 
+Women and Children's Health Research Institute, University of Alberta, Canada. 
+Electronic address: lbrennan@ualberta.ca.
+(2)Department of Physiology and Anatomy, University of North Texas Health 
+Science Center, United States. Electronic address: 
+Styliani.Goulopoulou@unthsc.edu.
+(3)Department of Anesthesiology & Pain Medicine, Pharmacology, and Pediatrics, 
+Women and Children's Health Research Institute, University of Alberta, Canada. 
+Electronic address: sbourque@ualberta.ca.
+
+Cardiovascular diseases (CVD) are a leading cause of mortality worldwide. 
+Despite recognizing the importance of risk factors in dictating CVD 
+susceptibility and onset, patient treatment remains a challenging endeavor. 
+Increasingly, the benefits of prevention and mitigation of risk factors earlier 
+in life are being acknowledged. The developmental origins of health and disease 
+posits that insults during specific periods of development can influence 
+long-term health outcomes; this occurs because the developing organism is highly 
+plastic, and hence vulnerable to environmental perturbations. By extension, 
+targeted therapeutics instituted during critical periods of development may 
+confer long-term protection, and thus reduce the risk of CVD in later life. This 
+review provides a brief overview of models of developmental programming, and 
+then discusses the impact of perinatal therapeutic interventions on long-term 
+cardiovascular function in the offspring. The discussion focuses on bioactive 
+food components, as well as pharmacological agents currently approved for use in 
+pregnancy; in short, those agents most likely to be used in pregnancy and early 
+childhood.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.phrs.2018.11.022
+PMID: 30458216 [Indexed for MEDLINE]
+
+
+908. BMC Health Serv Res. 2018 Nov 20;18(1):871. doi: 10.1186/s12913-018-3698-1.
+
+Assessing the effects of the percentage of chronic disease in households on 
+health payment-induced poverty in Shaanxi Province, China.
+
+Lan X(1), Zhou Z(2), Si Y(3), Shen C(3), Fan X(1), Chen G(4), Zhao D(1), Chen 
+X(5).
+
+Author information:
+(1)School of Public Health, Xi'an Jiaotong University Health Science Center, No. 
+76 Yanta West Road, Xi'an, 710061, Shaanxi, China.
+(2)School of Public Policy and Administration, Xi'an Jiaotong University, No. 28 
+Xianning West Road, Xi'an, 710049, Shaanxi, China. zzliang1981@mail.xjtu.edu.cn.
+(3)School of Public Policy and Administration, Xi'an Jiaotong University, No. 28 
+Xianning West Road, Xi'an, 710049, Shaanxi, China.
+(4)Center for Health Economics (CHE), Monash University, Melbourne, Australia.
+(5)Department of Health Policy and Management and Department of Economics, Yale 
+University, 60 College Street Suite 301, New Haven, CT, 06510, USA.
+
+BACKGROUND: Chronic disease has become one of the leading causes of poverty in 
+China, which posed heavy economic burden on individuals, households and society, 
+and accounts for an estimated 80% of deaths and 70% of disability-adjusted 
+life-years lost now in China. This study aims to assess the effect of chronic 
+diseases on health payment-induced poverty in Shaanxi Province, China.
+METHODS: The data was from the 5th National Health Survey of Shaanxi Province, 
+which was part of China's National Health Service Survey (NHSS) conducted in 
+2013. Totally, 20,700 households were selected for analysis. We used poverty 
+headcount, poverty gap and mean positive poverty gap to assess the incidence, 
+depth and intensity of poverty before and after health payment, respectively. 
+Logistic regression models were further undertaken to evaluate the influence of 
+percentage of chronic patients in households on the health payment-induced 
+poverty with the control of other covariates.
+RESULTS: In rural areas, the incidence of poverty increased 31.90% before and 
+after health payment in the household group when the percentage of chronic 
+patients in the households was 0, and the poverty gap rose from 932.77 CNY to 
+1253.85 CNY (50.56% increased). In the group when the percentage of chronic 
+patients in the households was 1-40% and 41-50%, the poverty gap increased 76.78 
+and 89.29%, respectively. In the group when the percentage of chronic patients 
+in the households was 51~ 100%, the increase of poverty headcount and poverty 
+gap was 49.89 and 46.24%. In the logistic model, we found that the proportion of 
+chronic patients in the households was closely related with the health 
+payment-induced poverty. The percentage of chronic disease in the households 
+increased by 1 %, the incidence of poverty increased by 1.01 times. On the other 
+hand, the male household head and the household's head with higher educational 
+lever were seen as protective factors for impoverishment.
+CONCLUSIONS: With the percentage of chronic patients in the households growing, 
+the health payment-induced poverty increases sharply. Furthermore, the 
+households members with more chronic diseases in rural areas were more likely to 
+suffer poverty than those in urban areas. Our analysis emphasizes the need to 
+protect households from the impoverishment of chronic diseases, and our findings 
+will provide suggestions for further healthcare reforms in China and guidance 
+for vulnerable groups.
+
+DOI: 10.1186/s12913-018-3698-1
+PMCID: PMC6245518
+PMID: 30458772 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: We 
+obtained verbal informed consent from each participate and signed the informed 
+consent before investigation. In order to get the cooperation from the sample 
+counties, the Shaanxi Health and Family Planning Commission delivered a 
+document, and guiders from the sample counties would contact each participant 
+who agreed to accept the interview, and make an appointment with them. The 
+investigators then went to the participants’ house and collected information in 
+our questionnaire, which means if we have participant’s questionnaire, we have 
+got the participants’ consent. This method of consent in our study was approved 
+by the Ethics Committee of Xi’an Jiaotong University Health Science Center (5th 
+NHSS Approval No.2015–644), and it conformed to the ethics guidelines of the 
+Declaration of Helsinki. CONSENT FOR PUBLICATION: Not applicable. COMPETING 
+INTERESTS: The authors declare that they have no competing interests. 
+PUBLISHER’S NOTE: Springer Nature remains neutral with regard to jurisdictional 
+claims in published maps and institutional affiliations.
+
+
+909. Biomed Eng Online. 2018 Nov 20;17(Suppl 1):135. doi:
+10.1186/s12938-018-0569-2.
+
+Machine learning in critical care: state-of-the-art and a sepsis case study.
+
+Vellido A(1)(2), Ribas V(3), Morales C(4), Ruiz Sanmartín A(5), Ruiz Rodríguez 
+JC(5).
+
+Author information:
+(1)Intelligent Data Science and Artificial Intelligence (IDEAI) Research Center, 
+Universitat Politècnica de Catalunya, C. Jordi Girona, 1-3, 08034, Barcelona, 
+Spain. avellido@cs.upc.edu.
+(2)Centro de Investigación Biomédica en Red en Bioingeniería, Biomateriales y 
+Nanomedicina (CIBER-BBN), Barcelona, Spain. avellido@cs.upc.edu.
+(3)Data Analytics in Medicine, EureCat, Avinguda Diagonal, 177, 08018, 
+Barcelona, Spain.
+(4)Intelligent Data Science and Artificial Intelligence (IDEAI) Research Center, 
+Universitat Politècnica de Catalunya, C. Jordi Girona, 1-3, 08034, Barcelona, 
+Spain.
+(5)Critical Care Deparment, Vall d'Hebron University Hospital. Shock, Organ 
+Dysfunction and Resuscitation (SODIR) Research Group, Vall d' Hebron Research 
+Institute (VHIR), Universitat Autònoma de Barcelona, 08035, Barcelona, Spain.
+
+BACKGROUND: Like other scientific fields, such as cosmology, high-energy 
+physics, or even the life sciences, medicine and healthcare face the challenge 
+of an extremely quick transformation into data-driven sciences. This challenge 
+entails the daunting task of extracting usable knowledge from these data using 
+algorithmic methods. In the medical context this may for instance realized 
+through the design of medical decision support systems for diagnosis, prognosis 
+and patient management. The intensive care unit (ICU), and by extension the 
+whole area of critical care, is becoming one of the most data-driven clinical 
+environments.
+RESULTS: The increasing availability of complex and heterogeneous data at the 
+point of patient attention in critical care environments makes the development 
+of fresh approaches to data analysis almost compulsory. Computational 
+Intelligence (CI) and Machine Learning (ML) methods can provide such approaches 
+and have already shown their usefulness in addressing problems in this context. 
+The current study has a dual goal: it is first a review of the state-of-the-art 
+on the use and application of such methods in the field of critical care. Such 
+review is presented from the viewpoint of the different subfields of critical 
+care, but also from the viewpoint of the different available ML and CI 
+techniques. The second goal is presenting a collection of results that 
+illustrate the breath of possibilities opened by ML and CI methods using a 
+single problem, the investigation of septic shock at the ICU.
+CONCLUSION: We have presented a structured state-of-the-art that illustrates the 
+broad-ranging ways in which ML and CI methods can make a difference in problems 
+affecting the manifold areas of critical care. The potential of ML and CI has 
+been illustrated in detail through an example concerning the sepsis pathology. 
+The new definitions of sepsis and the relevance of using the systemic 
+inflammatory response syndrome (SIRS) in its diagnosis have been considered. 
+Conditional independence models have been used to address this problem, showing 
+that SIRS depends on both organ dysfunction measured through the Sequential 
+Organ Failure (SOFA) score and the ICU outcome, thus concluding that SIRS should 
+still be considered in the study of the pathophysiology of Sepsis. Current 
+assessment of the risk of dead at the ICU lacks specificity. ML and CI 
+techniques are shown to improve the assessment using both indicators already in 
+place and other clinical variables that are routinely measured. Kernel methods 
+in particular are shown to provide the best performance balance while being 
+amenable to representation through graphical models, which increases their 
+interpretability and, with it, their likelihood to be accepted in medical 
+practice.
+
+DOI: 10.1186/s12938-018-0569-2
+PMCID: PMC6245501
+PMID: 30458795 [Indexed for MEDLINE]
+
+
+910. Am J Prev Med. 2018 Dec;55(6):915-925. doi: 10.1016/j.amepre.2018.08.006.
+Epub  2018 Oct 25.
+
+NIH Primary and Secondary Prevention Research in Humans During 2012-2017.
+
+Murray DM(1), Villani J(2), Vargas AJ(2), Lee JA(2), Myles RL(2), Wu JY(3), 
+Mabry PL(4), Schully SD(2).
+
+Author information:
+(1)Office of Disease Prevention, NIH, Rockville, Maryland. Electronic address: 
+david.murray2@nih.gov.
+(2)Office of Disease Prevention, NIH, Rockville, Maryland.
+(3)University of California Research Initiatives, University of California, 
+Office of the President, Oakland, California.
+(4)Indiana University Network Science Institute and School of Public 
+Health-Bloomington, Indiana University, Bloomington, Indiana.
+
+Comment in
+    Am J Prev Med. 2018 Dec;55(6):913-914.
+
+INTRODUCTION: This paper provides the first detailed analysis of the NIH 
+prevention research portfolio for primary and secondary prevention research in 
+humans and related methods research.
+METHODS: The Office of Disease Prevention developed a taxonomy of 128 topics and 
+applied it to 11,082 projects representing 91.7% of all new projects and 84.1% 
+of all dollars used for new projects awarded using grant and cooperative 
+agreement activity codes that supported research in fiscal years 2012-2017. 
+Projects were coded in 2016-2018 and analyzed in 2018.
+RESULTS: Only 16.7% of projects and 22.6% of dollars were used for primary and 
+secondary prevention research in humans or related methods research. Most of the 
+leading risk factors for death and disability in the U.S. were selected as an 
+outcome in <5% of the projects. Many more projects included an observational 
+study, or an analysis of existing data, than a randomized intervention. These 
+patterns were consistent over time.
+CONCLUSIONS: The appropriate level of support for primary and secondary 
+prevention research in humans from NIH will differ by field and stage of 
+research. The estimates reported here may be overestimates, as credit was given 
+for a project even if only a portion of that project addressed prevention 
+research. Given that 74% of the variability in county-level life expectancy 
+across the U.S. is explained by established risk factors, it seems appropriate 
+to devote additional resources to developing and testing interventions to 
+address those risk factors.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.amepre.2018.08.006
+PMCID: PMC6251492
+PMID: 30458950 [Indexed for MEDLINE]
+
+
+911. Asian J Neurosurg. 2018 Oct-Dec;13(4):1108-1111. doi:
+10.4103/ajns.AJNS_151_17.
+
+Does Age Affects the Surgical Outcome in Patients with Unruptured Cerebral 
+Aneurysms? A 2-Year Retrospective Study from a Single Center in Japan.
+
+Duvuru S(1), Sae-Ngow T(1), Kato Y(1), Kawase T(1), Yamada Y(1), Tanaka R(1).
+
+Author information:
+(1)Department of Neurosurgery, Banbuntane Hotokukai Hospital, Fujita Health 
+University, Nagoya, Japan.
+
+BACKGROUND: The management of unruptured cerebral aneurysms (UCA) in elderly 
+population is a challenge. With a very high life expectancy and high risk of 
+rupture in Japan, the need for identifying the best treatment modality is 
+essential to help the patients in decision-making.
+METHODS: This was a 2-year single-center retrospective comparative analysis of 
+the outcomes of surgical clipping (SC) in patients aged above 75 and <75 years. 
+The modified Rankin score was used to stratify the patients and to analyze the 
+functional outcome. Functional status at discharge was the primary end point.
+RESULTS: There were 224 patients with 239 aneurysms. About 12.5% of the patients 
+were more than 75 years with a mean age of 77.85. The mean age of patients <75 
+years was 60.96, and it was statistically significant. The overall 
+male-to-female ratio was 1:3.3. The most common location was the middle cerebral 
+artery followed by internal carotid artery at the posterior communicating and 
+ophthalmic segments, and 22 patients had aneurysms of the posterior circulation. 
+Nearly 77% of the aneurysms were <6 mm. There was no significant difference in 
+size of the aneurysm as the age increased to more than 75 years. There were 
+complications in 6 patients, and there was no mortality in the study population. 
+There was no statistically significant difference in the outcome between the 
+groups.
+CONCLUSIONS: SC can be considered a safe option for UCA in the aging population.
+
+DOI: 10.4103/ajns.AJNS_151_17
+PMCID: PMC6208210
+PMID: 30459877
+
+Conflict of interest statement: There are no conflicts of interest.
+
+
+912. Neurotherapeutics. 2019 Apr;16(2):416-431. doi: 10.1007/s13311-018-00681-5.
+
+Behavioral and Cognitive Improvement Induced by Novel Imidazoline I(2) Receptor 
+Ligands in Female SAMP8 Mice.
+
+Griñán-Ferré C(1), Vasilopoulou F(1), Abás S(2), Rodríguez-Arévalo S(2), Bagán 
+A(2), Sureda FX(3), Pérez B(4), Callado LF(5)(6), García-Sevilla JA(7), 
+García-Fuster MJ(7), Escolano C(2), Pallàs M(8).
+
+Author information:
+(1)Pharmacology Section, Department of Pharmacology, Toxicology and Medicinal 
+Chemistry, Faculty of Pharmacy and Food Sciences, and Institut de Neurociències, 
+University of Barcelona, Av. Joan XXIII, 27-31, 08028, Barcelona, Spain.
+(2)Laboratory of Medicinal Chemistry (Associated Unit to CSIC), Department of 
+Pharmacology, Toxicology and Medicinal Chemistry, Faculty of Pharmacy and Food 
+Sciences, and Institute of Biomedicine (IBUB), University of Barcelona, Av. Joan 
+XXIII, 27-31, 08028, Barcelona, Spain.
+(3)Pharmacology Unit, Faculty of Medicine and Health Sciences, University of 
+Rovira and Virgili, C./St. Llorenç 21, 43201, Reus, Tarragona, Spain.
+(4)Departament of Pharmacology, Therapeutic and Toxicology, Autonomous 
+University of Barcelona, 08193, Barcelona, Spain.
+(5)Department of Pharmacology, University of the Basque Country, UPV/EHU, 48940, 
+Leioa, Bizkaia, Spain.
+(6)Centro de Investigación Biomédica en Red de Salud Mental, CIBERSAM, Leioa, 
+Spain.
+(7)Laboratory of Neuropharmacology, IUNICS and IdISBa, University of the 
+Balearic Islands (UIB), Cra. Valldemossa km 7.5, 07122, Palma de Mallorca, 
+Spain.
+(8)Pharmacology Section, Department of Pharmacology, Toxicology and Medicinal 
+Chemistry, Faculty of Pharmacy and Food Sciences, and Institut de Neurociències, 
+University of Barcelona, Av. Joan XXIII, 27-31, 08028, Barcelona, Spain. 
+pallas@ub.edu.
+
+As populations increase their life expectancy, age-related neurodegenerative 
+disorders such as Alzheimer's disease have become more common. I2-Imidazoline 
+receptors (I2-IR) are widely distributed in the central nervous system, and 
+dysregulation of I2-IR in patients with neurodegenerative diseases has been 
+reported, suggesting their implication in cognitive impairment. This evidence 
+indicates that high-affinity selective I2-IR ligands potentially contribute to 
+the delay of neurodegeneration. In vivo studies in the female senescence 
+accelerated mouse-prone 8 mice have shown that treatment with I2-IR ligands, 
+MCR5 and MCR9, produce beneficial effects in behavior and cognition. Changes in 
+molecular pathways implicated in oxidative stress, inflammation, synaptic 
+plasticity, and apoptotic cell death were also studied. Furthermore, treatments 
+with these I2-IR ligands diminished the amyloid precursor protein processing 
+pathway and increased Aβ degrading enzymes in the hippocampus of SAMP8 mice. 
+These results collectively demonstrate the neuroprotective role of these new 
+I2-IR ligands in a mouse model of brain aging through specific pathways and 
+suggest their potential as therapeutic agents in brain disorders and age-related 
+neurodegenerative diseases.
+
+DOI: 10.1007/s13311-018-00681-5
+PMCID: PMC6554384
+PMID: 30460457 [Indexed for MEDLINE]
+
+
+913. J Nucl Cardiol. 2019 Jun;26(3):975-985. doi: 10.1007/s12350-018-01526-6.
+Epub  2018 Nov 20.
+
+A need to reduce premature CV mortality in the developing world: How could 
+appropriate use of non-invasive imaging help?
+
+Vitola JV(1)(2)(3).
+
+Author information:
+(1)QUANTA Diagnostico & Terapia, Rua Almirante Tamandaré 1000, Curitiba, PR, CEP 
+80045-170, Brazil. joaovitola@quantamn.com.br.
+(2)International Atomic Energy Agency (IAEA), Vienna, Austria. 
+joaovitola@quantamn.com.br.
+(3)International Advisory Panel, American Society of Nuclear Cardiology (ASNC), 
+Bethesda, USA. joaovitola@quantamn.com.br.
+
+We discuss premature deaths due to coronary heart disease (CHD) in developing 
+countries and the importance of a comprehensive approach, involving clinical 
+judgement, prevention, appropriate use of technology to diagnose and guide CHD 
+treatment. Healthcare policies and levels of knowledge vary tremendously 
+resulting heterogeneous utilization of diagnostic strategies and treatments 
+worldwide. Many countries with high mortality have low utilization of 
+non-invasive cardiac imaging. Appropriate use coupled with guideline-based 
+management could help to improve care in the developing world and potentially 
+result in better life expectancy already experienced by most high-income 
+countries. In a scenario of increasing costs, a rational utilization of 
+resources is imperative for all nations. A stepwise approach to suspected CHD is 
+necessary, starting from good judgement, adding tests only as needed, preferably 
+filtering patients who might benefit from advanced imaging. In stable patients, 
+non-invasive tests should be used as filters to invasive procedure, preventing 
+stable patients from undergoing revascularizations of questionable benefit. In 
+this article, we review the relative role of exercise testing, myocardial 
+perfusion imaging, and coronary computed tomography angiography to evaluate CHD 
+and how these can be utilized as ways to help guide management that could impact 
+premature mortality in developing nations.
+
+DOI: 10.1007/s12350-018-01526-6
+PMID: 30460635 [Indexed for MEDLINE]
+
+
+914. Medicine (Baltimore). 2018 Nov;97(47):e13323. doi:
+10.1097/MD.0000000000013323.
+
+Effect of community-based extension clinics of methadone maintenance therapy for 
+opiate-dependent clients: A prospective cohort study in Dehong Prefecture, 
+Yunnan Province of China.
+
+Zhang G(1), Yang Y(2), Ye R(2), Zhang D(1), Shan D(1), Hu Y(3), Dai B(4), Liu 
+Z(1).
+
+Author information:
+(1)National Center for AIDS/STD Control and Prevention, Chinese Center for 
+Disease Control and Prevention, Beijing.
+(2)Dehong Prefectural Center for Disease Control and Prevention, Mangshi, Yunnan 
+Province.
+(3)Department of Child, Adolescent and Maternal Health, School of Public Health, 
+Capital Medical University, Beijing.
+(4)Pingdu County Center for Disease Control and Prevention, Pingdu, Shandong 
+Province, China.
+
+Methadone maintenance therapy (MMT) is effective in treatment of opiate 
+dependents. However, there is a gap between the coverage of standard MMT clinics 
+and the need of opiate dependents. Establishment of extension clinics of 
+methadone maintenance therapy (EMMT) will increase the coverage and improve MMT 
+accessibility. We implemented a prospective cohort study to understand the 
+effects of establishment of community-based EMMT clinics comparing with MMT 
+clinics in Yunnan Province.A total of 462 opiate-dependent clients were 
+interviewed from the community-based EMMT clinics and standard MMT clinics 
+located in 5 counties of Mangshi, Ruili, Longchuan, Yingjiang, and Lianghe in 
+Yunnan Province. The information on the demographic characteristics, drug risk 
+behaviors, quality of life (QOL), and urine testing results for morphine of the 
+clients was collected and compared between the EMMT and MMT clinics. A survival 
+analysis method was utilized to know the retention situation of the newly 
+enrolled clients with Kaplan-Meier method during 9 months treatment.Among the 
+EMMT clients, 96.9% were male; 31.4% were Han; 61.4% were married; 39.0% had 
+primary school education; 95.5% lived with their family or relatives; 96.9% who 
+arrived the clinic less than 15 min; 52.9% had used drugs for more than 10 
+years; and 16.7% injected drug. After 9 months therapy, there was no difference 
+in the changes of life quality such as physical and psychological features, 
+social relationships, environmental function, and total QOL and well-being 
+between those of EMMT and MMT clinics. The positive detection rate of 
+urine-morphine testing among newly enrolled clients of EMMT clinics decreased as 
+the period of treatment lengthened. The average time of retention for newly 
+enrolled EMMT clients who are still receiving the treatment was 175 days. And 
+the average time from initiations to drop-out of treatment for newly enrolled 
+EMMT clients was 122 days. The 9-month retention rates of the clients were 52.1% 

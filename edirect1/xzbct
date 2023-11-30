@@ -1,0 +1,1000 @@
+
+DOI: 10.1007/s10198-013-0478-z
+PMID: 23615954 [Indexed for MEDLINE]
+
+
+882. Urologe A. 2013 Jun;52(6):777-84. doi: 10.1007/s00120-013-3177-6.
+
+[Ageing, medical progress and the growth of healthcare expenditure].
+
+[Article in German]
+
+Breyer F(1).
+
+Author information:
+(1)Fachbereich Wirtschaftswissenschaften, Universität Konstanz, Postfach 143, 
+78457 Konstanz, Deutschland. Friedrich.Breyer@uni-konstanz.de
+
+As healthcare expenditure typically rises during a person's lifetime, there are 
+widespread fears that the ageing of the German population together with 
+technical progress in medicine will be a serious threat to future healthcare 
+financing. The relationship between ageing and growth of healthcare expenditure 
+has been intensively studied over the past 15 years both theoretically and 
+empirically. In this article it will be demonstrated that the highest 
+expenditure is not due to age per se but rather to proximity to death. However, 
+even taking this effect into account simulations show that the increase in life 
+expectancy as well as medical progress will contribute to the growth of per 
+capita expenditure in the German healthcare insurance system.
+
+DOI: 10.1007/s00120-013-3177-6
+PMID: 23616171 [Indexed for MEDLINE]
+
+
+883. BMJ Case Rep. 2013 Apr 23;2013:bcr2013009532. doi: 10.1136/bcr-2013-009532.
+
+Tumour lysis syndrome in a patient with intravascular spread from a recurrent 
+epithelial ovarian cancer.
+
+Camarata M(1), Davies R, Copley S, Blagden S.
+
+Author information:
+(1)Imperial College Healthcare NHS Trust, London, UK.
+
+Tumour lysis syndrome is a potentially life-threatening oncological emergency 
+most commonly encountered in patients with rapidly proliferating, 
+treatment-responsive haematological malignancies. It is rarely observed in solid 
+tumours and, to our knowledge, this is the first time that it has been reported 
+in a cancer with an intravascular tumour extension. In this report, we describe 
+a case of a woman who presented with recurrent ovarian cancer and was found to 
+have tumour invading into her vasculature. The patient subsequently developed 
+tumour lysis syndrome after receiving chemotherapy. The case highlights the 
+importance of considering tumour lysis syndrome prophylaxis when treating 
+patients with intravascular involvement from a solid malignancy even if, as in 
+this case, it is a recurrent tumour. Included is a brief review of the 
+literature. We propose that 'intravascular tumour invasion is recognised as an 
+important risk factor for the development of tumour lysis syndrome.
+
+DOI: 10.1136/bcr-2013-009532
+PMCID: PMC3645192
+PMID: 23616333 [Indexed for MEDLINE]
+
+
+884. J Neurosci. 2013 Apr 24;33(17):7368-83. doi: 10.1523/JNEUROSCI.5746-12.2013.
+
+Modeling transformations of neurodevelopmental sequences across mammalian 
+species.
+
+Workman AD(1), Charvet CJ, Clancy B, Darlington RB, Finlay BL.
+
+Author information:
+(1)Behavioral and Evolutionary Neuroscience Group, Cornell University, Ithaca, 
+New York 14853, USA.
+
+A general model of neural development is derived to fit 18 mammalian species, 
+including humans, macaques, several rodent species, and six metatherian 
+(marsupial) mammals. The goal of this work is to describe heterochronic changes 
+in brain evolution within its basic developmental allometry, and provide an 
+empirical basis to recognize equivalent maturational states across animals. The 
+empirical data generating the model comprises 271 developmental events, 
+including measures of initial neurogenesis, axon extension, establishment, and 
+refinement of connectivity, as well as later events such as myelin formation, 
+growth of brain volume, and early behavioral milestones, to the third year of 
+human postnatal life. The progress of neural events across species is 
+sufficiently predictable that a single model can be used to predict the timing 
+of all events in all species, with a correlation of modeled values to empirical 
+data of 0.9929. Each species' rate of progress through the event scale, 
+described by a regression equation predicting duration of development in days, 
+is highly correlated with adult brain size. Neural heterochrony can be seen in 
+selective delay of retinogenesis in the cat, associated with greater numbers of 
+rods in its retina, and delay of corticogenesis in all species but rodents and 
+the rabbit, associated with relatively larger cortices in species with delay. 
+Unexpectedly, precocial mammals (those unusually mature at birth) delay the 
+onset of first neurogenesis but then progress rapidly through remaining 
+developmental events.
+
+DOI: 10.1523/JNEUROSCI.5746-12.2013
+PMCID: PMC3928428
+PMID: 23616543 [Indexed for MEDLINE]
+
+
+885. Appl Clin Inform. 2011 Aug 17;2(3):331-44. doi: 10.4338/ACI-2011-02-RA-0014.
+ Print 2011.
+
+TRIAD: The Translational Research Informatics and Data Management Grid.
+
+Payne P(1), Ervin D, Dhaval R, Borlawsky T, Lai A.
+
+Author information:
+(1)The Ohio State University, Department of Biomedical Informatics, Center for 
+IT Innovations in Healthcare, and Center for Clinical and Translational Science 
+, Columbus, OH.
+
+OBJECTIVE: Multi-disciplinary and multi-site biomedical research programs 
+frequently require infrastructures capable of enabling the collection, 
+management, analysis, and dissemination of heterogeneous, multi-dimensional, and 
+distributed data and knowledge collections spanning organizational boundaries. 
+We report on the design and initial deployment of an extensible biomedical 
+informatics platform that is intended to address such requirements.
+METHODS: A common approach to distributed data, information, and knowledge 
+management needs in the healthcare and life science settings is the deployment 
+and use of a service-oriented architecture (SOA). Such SOA technologies provide 
+for strongly-typed, semantically annotated, and stateful data and analytical 
+services that can be combined into data and knowledge integration and analysis 
+"pipelines." Using this overall design pattern, we have implemented and 
+evaluated an extensible SOA platform for clinical and translational science 
+applications known as the Translational Research Informatics and Data-management 
+grid (TRIAD). TRIAD is a derivative and extension of the caGrid middleware and 
+has an emphasis on supporting agile "working interoperability" between data, 
+information, and knowledge resources.
+RESULTS: Based upon initial verification and validation studies conducted in the 
+context of a collection of driving clinical and translational research problems, 
+we have been able to demonstrate that TRIAD achieves agile "working 
+interoperability" between distributed data and knowledge sources.
+CONCLUSION: Informed by our initial verification and validation studies, we 
+believe TRIAD provides an example instance of a lightweight and readily 
+adoptable approach to the use of SOA technologies in the clinical and 
+translational research setting. Furthermore, our initial use cases illustrate 
+the importance and efficacy of enabling "working interoperability" in 
+heterogeneous biomedical environments.
+
+DOI: 10.4338/ACI-2011-02-RA-0014
+PMCID: PMC3631927
+PMID: 23616879
+
+
+886. J Genet Syndr Gene Ther. 2013 Feb 9;4(123):1000123. doi: 
+10.4172/2157-7412.1000123.
+
+Low and Normal IGF-1 Levels in Patients with Chronic Medical Disorders (CMD) is 
+Independent of Anterior Pituitary Hormone Deficiencies: Implications for 
+Treating IGF-1 Abnormal Deficiencies with CMD.
+
+Braverman E(1), Oscar-Berman M, Lohmann R, Kennedy R, Kerner M, Dushaj K, Blum 
+K.
+
+Author information:
+(1)Department of Psychiatry and McKnight Brain Institute, University of Florida 
+College of Medicine, Gainesville, Florida, 32610, USA ; Department of Clinical 
+Neurology, Path Foundation NY, 10010, USA.
+
+Over time, based on evidence-based medicine, a number of hormonal test levels 
+including IGF-1 had been raised or lowered to meet new criteria standards. In 
+particular, IGF-1 plasma levels have been shown in several studies to be an 
+independent diagnostic tool in Adult Growth Hormone Deficiency (AGHD). Many 
+endocrinology studies link low IGF-1 plasma levels with low levels of other 
+anterior pituitary hormones (i.e., LH, FSH, and TSH). Low IGF-1 is considered by 
+most to be between 84-100 µ/l and numerous studies recommend that raising IGF-1 
+to high normal range reverses Chronic Medical Diseases (CMD), improves bone 
+mineral density (BMD), and fibromyalgia. Moreover, some studies suggest that low 
+levels of IGF-1 by itself independent of anterior pituitary deficiencies is 
+sufficient to determine AGHD in humans. In order to determine the relationship 
+of low IGF-1 with that of LH, FSH, and TSH levels in subjects with CMD, we 
+evaluated these levels (± SD) in 944 patients. Patients with IGF-1 below 84 µ/l, 
+100 µ/l, and 150 µ/l were accessed. 9.22% had less than 84 µ/l (SD ± 12.52); 
+19.9% had less than 100 µ/l (SD ± 9.54); and 51.6 had less than 150 µ/l (SD ± 
+26.0). Specifically, the percentages found for low LH, FSH, and TSH were only 
+4.2%, 4.8%, and 6.5%. We conclude that IGF-1 deficiencies occur independent of 
+comorbid deficiencies of LH, FSH, and TSH. Finally, we propose that based on the 
+present investigation, IGF-1 low levels between the range of 84-100 µ/l may be 
+too low to be considered as an independent diagnostic marker to treat AGHD with 
+CMD.
+
+DOI: 10.4172/2157-7412.1000123
+PMCID: PMC3632344
+PMID: 23616929
+
+Conflict of interest statement: Conflict of Interest The authors report no 
+conflict of interest and approved this manuscript with equal contribution. The 
+authors are appreciative for the funding support of Life-Extension Foundation.
+
+
+887. Nihon Geka Gakkai Zasshi. 2013 Mar;114(2):112-3.
+
+[What we can learn from a case of medical malpractice--patient partially, 
+compensated for potentially diminished life expectancy caused by the physician's 
+violation of fiduciary duty to warn and explain the results of the hepatitis C 
+virus test to the patient].
+
+[Article in Japanese]
+
+Kajitani A(1), Asada M, Kuwabara H, Kawasaki S, Kobayashi H.
+
+Author information:
+(1)Department of Hospital Managemant, Juntendo University School of Medicine, 
+Tokyo, Japan.
+
+PMID: 23617194 [Indexed for MEDLINE]
+
+
+888. AJR Am J Roentgenol. 2013 May;200(5):1020-7. doi: 10.2214/AJR.12.8968.
+
+Microsimulation model predicts survival benefit of radiofrequency ablation and 
+stereotactic body radiotherapy versus radiotherapy for treating inoperable stage 
+I non-small cell lung cancer.
+
+Tramontano AC(1), Cipriano LE, Kong CY, Shepard JA, Lanuti M, Gazelle GS, 
+McMahon PM.
+
+Author information:
+(1)Institute for Technology Assessment, Massachusetts General Hospital, Boston, 
+MA, USA.
+
+OBJECTIVE: A subset of patients with stage IA and IB non-small cell lung cancer 
+(NSCLC) is ineligible for surgical resection and undergoes radiation therapy. 
+Radiofrequency ablation (RFA) and stereotactic body radiotherapy are newer 
+potentially attractive alternative therapies.
+MATERIALS AND METHODS: We added RFA and stereotactic body radiotherapy treatment 
+modules to a microsimulation model that simulates lung cancer's natural history, 
+detection, and treatment. Natural history parameters were previously estimated 
+via calibration against tumor registry data and cohort studies; the model was 
+validated with screening study and cohort data. RFA model parameters were 
+calibrated against 2-year survival from the Radiofrequency Ablation of Pulmonary 
+Tumor Response Evaluation (RAPTURE) study, and stereotactic body radiotherapy 
+model parameters were calibrated against 3-year survival from a phase 2 
+prospective trial. We simulated lifetime histories of identical patients with 
+early-stage NSCLC who were ineligible for resection, who were treated with 
+radiation therapy, RFA, or stereotactic body radiotherapy under a range of 
+scenarios. From 5,000,000 simulated individuals, we selected a cohort of 
+patients with stage I medically inoperable cancer for analysis (n = 2056 per 
+treatment scenario). Main outcomes were life expectancy gains.
+RESULTS: RFA or stereotactic body radiotherapy treatment in patients with 
+peripheral stage IA or IB NSCLC who were nonoperative candidates resulted in 
+life expectancy gains of 1.71 and 1.46 life-years, respectively, compared with 
+universal radiation therapy. A strategy where patients with central tumors 
+underwent stereotactic body radiotherapy and those with peripheral tumors 
+underwent RFA resulted in a gain of 2.02 life-years compared with universal 
+radiation therapy. Findings were robust with respect to changes in model 
+parameters.
+CONCLUSION: Microsimulation modeling results suggest that RFA and stereotactic 
+body radiotherapy could provide life expectancy gains to patients with stage IA 
+or IB NSCLC who are ineligible for resection.
+
+DOI: 10.2214/AJR.12.8968
+PMCID: PMC3722903
+PMID: 23617484 [Indexed for MEDLINE]
+
+Conflict of interest statement: None of the other authors has any conflicts of 
+interest.
+
+
+889. Aging Male. 2013 Dec;16(4):159-63. doi: 10.3109/13685538.2013.789014. Epub
+2013  Apr 25.
+
+Oral diagnostics: an integral component to geriatric health care.
+
+Kishore M(1), Panat SR, Choudhary A, Aggarwal A, Upadhyay N, Agarwal N, Alok A.
+
+Author information:
+(1)Department of Oral Medicine and Radiology, Institute of Dental Sciences , 
+Bareilly, UP , India.
+
+Aging is inevitable, every day we live we age. The mouth is referred to as a 
+mirror of overall health, reinforcing that oral health is an integral part of 
+general health. Oral health reflects overall well being for the elderly 
+population. Compromised oral health may be a risk factor for systemic diseases 
+commonly occurring in age. Diagnosis and proper treatment is essential for 
+healthy aging. Timely diagnosis, appropriate treatment and regular follow-up of 
+both oral and systemic diseases are a prerequisite for active aging. Oral 
+diagnostics is a revolutionary development with high potential to replace other 
+investigative modalities. Changing demographics, including the increase in life 
+expectancy and the growing numbers of elderly, has focused attention on the need 
+for dental research activities to be expanded for geriatric dentistry. This 
+paper is aimed to shed light on the growing elderly population and their 
+ailments. It also aims to create awareness among health care providers about 
+oral diagnostics and their application in geriatrics.
+
+DOI: 10.3109/13685538.2013.789014
+PMID: 23617577 [Indexed for MEDLINE]
+
+
+890. Can J Public Health. 2012 Jul 18;103(5):e342-7. doi: 10.1007/BF03404438.
+
+The Canadian Index of Wellbeing: key findings from the healthy populations 
+domain.
+
+Muhajarine N(1), Labonte R, Winquist BD.
+
+Author information:
+(1)Department of Community Health and Epidemiology, College of Medicine, 
+University of Saskatchewan, Saskatoon, SK. nazeem.muhajarine@usask.ca
+
+OBJECTIVES: The Canadian Index of Wellbeing (CIW) is an ambitious undertaking 
+that aims to measure and track Canadians' overall "wellbeing". The Healthy 
+Populations, one of eight CIW domains, brings together both population health 
+outcomes and important influences on health.
+METHODS: Indicators from eight subdomains (personal wellbeing, life 
+expectancy/mortality, physical health conditions, functional health, mental 
+health, lifestyle and behaviour, health care, and public health) make up the 
+Healthy Populations domain. Following a review of worldwide literature on health 
+and wellbeing indicators, application of a prespecified set of selection 
+criteria, and expert external validation, ten core indicators and six secondary 
+indicators were selected. The data sources include several national population 
+data systems (CCHS, NPHS) and databases kept at the Canadian Institute for 
+Health Information. Indicators were examined for trends over time, and were 
+stratified by age, sex, income and education. A single summary measure, health 
+domain index, was calculated and reported annually from 1994 to 2008.
+RESULTS: Analysis of data over a 15-year time period found that Canadians are 
+living longer, but with fewer years in optimal health. Diabetes rates have 
+risen, along with obesity rates, while smoking rates are on the decline and 
+regular physical activity is becoming more common. There were notable income and 
+education gradients for virtually all indicators measured, and gender 
+disparities evident for life expectancy, health-adjusted life expectancy, 
+diabetes, and depression. A worrisome downward trend in health outcomes for 
+Canada's youth (12-19 years) was observed. The overall health index score showed 
+a modest rise of 6.6% from 1994 to 2008.
+CONCLUSION: The Healthy Populations domain, and its ongoing use and refinement, 
+can be an important resource for understanding and monitoring the health of 
+Canadians. Knowledge about the status of Canadians' wellbeing will benefit from 
+the contextualization of these findings through evidence generated from the 
+other CIW domains.
+
+OBJECTIFS: L’Indice canadien du mieux-être (ICMÊ) est un ambitieux projet qui 
+vise à mesurer et à suivre le « mieux-être » général de la population 
+canadienne. Le domaine des Populations en santé, l’un des huit domaines de 
+l’ICMÊ, établit des liens entre les résultats de santé de la population et les 
+grands facteurs qui influencent la santé.
+MÉTHODE: Le domaine des Populations en santé comprend des indicateurs pour huit 
+sous-domaines (mieux-être personnel, espérance de vie/mortalité, troubles 
+physiques, santé fonctionnelle, santé mentale, mode de vie et comportement, 
+soins de santé, santé publique). Après un examen de la documentation mondiale 
+sur les indicateurs de la santé et du mieux-être, nous avons appliqué un 
+ensemble prédéterminé de critères de sélection, que nous avons fait valider par 
+des spécialistes indépendants, et sélectionné 10 indicateurs de base et 6 
+indicateurs secondaires. Nos données provenaient de plusieurs bases et systèmes 
+nationaux de données démographiques (ESCC, ENSP) hébergés à l’Institut canadien 
+d’information sur la santé. Nous avons cherché à déceler les tendances des 
+indicateurs au fil du temps, et nous avons stratifiés les indicateurs selon 
+l’âge, le sexe, le revenu et l’instruction. Une mesure sommaire unique, l’indice 
+du domaine de la santé, a été calculée et publiée annuellement entre 1994 et 
+2008.
+RÉSULTATS: L’analyse des données sur 15 ans a permis de constater que les 
+Canadiens vivent plus longtemps, mais moins d’années dans un état de santé 
+optimal. Les taux de diabète ont augmenté, tout comme les taux d’obésité, tandis 
+que les taux de tabagisme ont baissé et que l’activité physique régulière a 
+gagné du terrain. Presque tous les indicateurs mesurés font état de gradients 
+notables pour le revenu et l’instruction, et de disparités manifestes entre les 
+sexes sur le plan de l’espérance de vie, de l’espérance de vie corrigée en 
+fonction de la santé, du diabète et de la dépression. Une tendance baissière 
+inquiétante observée au Canada est celle des résultats sanitaires des jeunes 
+(12-19 ans). L’indice de santé global a présenté une légère hausse (6,6 %) entre 
+1994 et 2008.
+CONCLUSION: Le domaine des Populations en santé (et son utilisation et son 
+perfectionnement continus) peut être une importante ressource pour comprendre et 
+surveiller la santé des Canadiens. Les connaissances sur le mieux-être de la 
+population canadienne profiteront de la mise en contexte de nos constatations à 
+la faveur des données probantes produites dans les autres domaines de l’ICMÊ.
+
+DOI: 10.1007/BF03404438
+PMCID: PMC6973733
+PMID: 23617985 [Indexed for MEDLINE]
+
+
+891. Can J Public Health. 2012 Jul 4;103(8 Suppl 2):S23-7. doi:
+10.1007/BF03403825.
+
+Learning from the census: the Socio-economic Factor Index (SEFI) and health 
+outcomes in Manitoba.
+
+[Article in English]
+
+Chateau D(1), Metge C, Prior H, Soodeen RA.
+
+Author information:
+(1)Manitoba Centre for Health Policy, University of Manitoba, Winnipeg, Canada. 
+dan_chateau@cpe.umanitoba.ca
+
+OBJECTIVES: Using data from the Canadian census, researchers at the Manitoba 
+Centre for Health Policy sought to create an area-based socio-economic measure 
+(ABSM). The degree of association between the ABSM and health was evaluated.
+METHODS: Values on several census variables (including income, education, 
+employment and family structure) were captured at the enumeration-area or 
+dissemination-area level and submitted to a principal components factor analysis 
+to create three ABSMs: an updated version of the Socio-economic Factor Index 
+(SEFI-2) and modified versions of Pampalon's material deprivation and social 
+deprivation indices. Factor scores from these analyses were then compared with 
+several population health measures: Premature Mortality Rate (PMR), Potential 
+Years of Life Lost (PYLL), life expectancy, and self-rated health.
+RESULTS: SEFI-2 scores were strongly related not only to the other ABSMs but 
+also to every measure of health status. The strongest correlations between an 
+ABSM and health measure were for SEFI-2 and PYLL(r=0.85), and SEFI-2 and PMR 
+(r=0.80). The weakest correlations were found with the social deprivation ABSM 
+measure and the self-rated health measure.
+CONCLUSIONS: ABSMs based on measures from the Canadian census are a valuable 
+resource to population health researchers. Importantly, depending on the 
+research question and reason for the inclusion of an ABSM, these composite 
+measures may perform better than a simple measure of income alone. The ability 
+to adjust for socio-economic status when assessing population health status or 
+population health interventions contributes to the validity of conclusions drawn 
+when conducting this type of research, and ABSMs may be able to substitute for 
+area health status where it may not be easily determined.
+
+DOI: 10.1007/BF03403825
+PMCID: PMC6973861
+PMID: 23618067 [Indexed for MEDLINE]
+
+
+892. Immun Ageing. 2013 Apr 25;10(1):15. doi: 10.1186/1742-4933-10-15.
+
+Stress responses, vitagenes and hormesis as critical determinants in aging and 
+longevity: Mitochondria as a "chi".
+
+Cornelius C(1), Perrotta R, Graziano A, Calabrese EJ, Calabrese V.
+
+Author information:
+(1)Department of Chemistry University of Catania, Viale Andrea Doria, 95100 
+Catania, Italy. calabres@unict.it.
+
+Understanding mechanisms of aging and determinants of life span will help to 
+reduce age-related morbidity and facilitate healthy aging. Average lifespan has 
+increased over the last centuries, as a consequence of medical and environmental 
+factors, but maximal life span remains unchanged. Extension of maximal life span 
+is currently possible in animal models with measures such as genetic 
+manipulations and caloric restriction (CR). CR appears to prolong life by 
+reducing reactive oxygen species (ROS)-mediated oxidative damage. But ROS 
+formation, which is positively implicated in cellular stress response 
+mechanisms, is a highly regulated process controlled by a complex network of 
+intracellular signaling pathways. By sensing the intracellular nutrient and 
+energy status, the functional state of mitochondria, and the concentration of 
+ROS produced in mitochondria, the longevity network regulates life span across 
+species by coordinating information flow along its convergent, divergent and 
+multiply branched signaling pathways, including vitagenes which are genes 
+involved in preserving cellular homeostasis during stressful conditions. 
+Vitagenes encode for heat shock proteins (Hsp) Hsp32, Hsp70, the thioredoxin and 
+the sirtuin protein systems. Dietary antioxidants, have recently been 
+demonstrated to be neuroprotective through the activation of hormetic pathways, 
+including vitagenes. The hormetic dose-response, challenges long-standing 
+beliefs about the nature of the dose-response in a lowdose zone, having the 
+potential to affect significantly the design of pre-clinical studies and 
+clinical trials as well as strategies for optimal patient dosing in the 
+treatment of numerous diseases. Given the broad cytoprotective properties of the 
+heat shock response there is now strong interest in discovering and developing 
+pharmacological agents capable of inducing stress responses. Here we focus on 
+possible signaling mechanisms involved in the activation of vitagenes resulting 
+in enhanced defense against energy and stress resistance homeostasis dysiruption 
+with consequent impact on longevity processes.
+
+DOI: 10.1186/1742-4933-10-15
+PMCID: PMC3644272
+PMID: 23618527
+
+
+893. Prev Chronic Dis. 2013 Apr 25;10:E66. doi: 10.5888/pcd10.120239.
+
+Defining and measuring chronic conditions: imperatives for research, policy, 
+program, and practice.
+
+Goodman RA(1), Posner SF, Huang ES, Parekh AK, Koh HK.
+
+Author information:
+(1)Centers for Disease Control and Prevention, Mailstop K-40, 4770 Buford Hwy 
+NE, Atlanta, GA 30341, USA. rag4@cdc.gov
+
+Current trends in US population growth, age distribution, and disease dynamics 
+foretell rises in the prevalence of chronic diseases and other chronic 
+conditions. These trends include the rapidly growing population of older adults, 
+the increasing life expectancy associated with advances in public health and 
+clinical medicine, the persistently high prevalence of some risk factors, and 
+the emerging high prevalence of multiple chronic conditions. Although preventing 
+and mitigating the effect of chronic conditions requires sufficient measurement 
+capacities, such measurement has been constrained by lack of consistency in 
+definitions and diagnostic classification schemes and by heterogeneity in data 
+systems and methods of data collection. We outline a conceptual model for 
+improving understanding of and standardizing approaches to defining, 
+identifying, and using information about chronic conditions in the United 
+States. We illustrate this model's operation by applying a standard 
+classification scheme for chronic conditions to 5 national-level data systems. 
+Although the literature does not support a single uniform definition for chronic 
+disease, recurrent themes include the non-self-limited nature, the association 
+with persistent and recurring health problems, and a duration measured in months 
+and years, not days and weeks--Thrall. So far, many different approaches have 
+been used to measure the prevalence and consequences of chronic diseases and 
+health conditions in children, resulting in a wide variability of prevalence 
+estimates that cannot be readily compared--van der Lee et al.
+
+DOI: 10.5888/pcd10.120239
+PMCID: PMC3652713
+PMID: 23618546 [Indexed for MEDLINE]
+
+
+894. Health Technol Assess. 2013 Apr;17(17):1-117, v-vi. doi: 10.3310/hta17170.
+
+A systematic review and cost-effectiveness analysis of specialist services and 
+adrenaline auto-injectors in anaphylaxis.
+
+Armstrong N(1), Wolff R, van Mastrigt G, Martinez N, Hernandez AV, Misso K, 
+Kleijnen J.
+
+Author information:
+(1)Kleijnen Systematic Reviews Ltd, York, UK.
+
+BACKGROUND: Anaphylaxis is a severe, life-threatening generalised or systemic 
+hypersensitivity reaction with high mortality. Specialist services (SSs) are 
+believed to reduce anaphylaxis recurrence and improve use of adrenaline 
+injectors (AIs), which can reduce mortality if used correctly and in time.
+OBJECTIVES: To review the evidence on which persons are at high risk of 
+anaphylactic episodes, the effects of history-taking (including signs, symptoms 
+and physical examination) for anaphylaxis, and when (suspected) patients should 
+be referred. To assess the cost-effectiveness of SS compared with standard care 
+(SC) with or without prescription of AIs.
+DATA SOURCES: In order to assess the clinical effectiveness, 10 databases 
+[Cochrane Database of Systematic Reviews (CDSR), Cochrane Central Register of 
+Controlled Trials (CENTRAL), Database of Abstracts of Reviews of Effects (DARE), 
+Health Technology Assessment (HTA), NHS Economic Evaluation Database (NHS EED), 
+Science Citation Index (SCI), Cumulative Index to Nursing and Allied Health 
+Literature (CINAHL), EMBASE, MEDLINE, MEDLINE In-Process & Other Non-Indexed 
+Citations, from inception up to March 2011] were searched without data 
+restriction in order to identify relevant studies [randomised controlled trials 
+(RCTs), controlled clinical trials, observational studies, prognostic studies 
+using a multivariate model] written in English.
+REVIEW METHODS: Standard review methods were applied for the assessment of 
+clinical effectiveness. A Markov model, validated by clinical experts, was 
+constructed, which modelled anaphylaxis according to trigger: either food, drug, 
+insect or idiopathic. Anaphylaxis mortality was modelled as a function of time 
+to die and time for emergency response. Probabilistic sensitivity analysis on 
+key parameters was performed.
+RESULTS: From the systematic review, 11,058 references were identified by the 
+searches for studies assessing the clinical effectiveness. In total, 107 papers 
+were obtained, and five prospective observational studies, including 1725 
+patients, were included. These studies estimated the risk of recurrence to be 
+between 30% and 42.8%. In children (< 12 years), an overall recurrence of 27% 
+was reported, with food being the most frequent allergen (71%). From the 
+cost-effectiveness analysis (CEA), SC with injectors was dominated by SS with or 
+without injectors. SS with no injectors would be cost-effective if the threshold 
+for a quality-adjusted life-year (QALY) was greater than about £ 740 and with 
+injectors would be cost-effective if the threshold was > £ 1800. These results 
+were robust to all sensitivity analyses except at relatively extreme values of a 
+small number of parameters.
+LIMITATIONS: Limitations of the study include the low yield from the systematic 
+review; in particular there were no good-quality studies of either SSs or AI 
+effectiveness. This implied a great reliance on expert opinion in the CEA. 
+However, this was appropriately addressed using sensitivity analysis.
+CONCLUSIONS: Only five observational studies assessing clinical effectiveness 
+were identified. Owing to the lack of good data to inform the effectiveness of 
+anaphylaxis intervention, we recommend considerations of RCTs or at least 
+well-designed observational studies of the components of care in SSs. The 
+results of the CEA showed that SS with AIs was cost-effective at a threshold of 
+£ 20,000 per QALY. More well-designed prospective studies on the effectiveness 
+of SSs are needed to confirm these findings.
+
+DOI: 10.3310/hta17170
+PMCID: PMC4780888
+PMID: 23618619 [Indexed for MEDLINE]
+
+
+895. Comp Biochem Physiol A Mol Integr Physiol. 2013 Jul;165(3):358-64. doi: 
+10.1016/j.cbpa.2013.04.019. Epub 2013 Apr 23.
+
+Relationship between brain and liver oxidative state and maximum lifespan 
+potential of different fish species.
+
+Sanz A(1), Trenzado CE, Botello Castro H, López-Rodríguez MJ, Tierno de Figueroa 
+JM.
+
+Author information:
+(1)Departamento de Zoología, Facultad de Ciencias, Universidad de Granada, 
+Granada, Spain. anasanz@ugr.es
+
+The aim of the present study is to determine whether a relationship exists 
+between the maximum lifespan potential (MLSP) of different fish species 
+(Squalius pyrenaicus, Cyprinus carpio, Carassius auratus, Luciobarbus sclateri 
+and Oncorhynchus mykiss) and the oxidative state of brain and liver. For this 
+purpose, the activity of the antioxidant enzymes superoxide dismutase (SOD), 
+catalase, glutathione peroxidase (GPX), glutathione reductase (GR), glutathione 
+S-transferase (GST) and DT-diaphorase (NAD(P)H:quinone oxidoreductase1) were 
+measured together with the lipid peroxidation degree (malondialdehyde, MDA) in 
+liver and brain tissues of the collected species. Only the brain tissue 
+manifested a higher activity of the antioxidant enzymes superoxide dismutase, 
+glutathione peroxidase, and glutathione S-transferase in addition to a negative 
+correlation between the values of MDA and MLSP among the different fish species. 
+Hypotheses are proposed from the analysis of the obtained results that open new 
+areas of research and converge on the importance of the theory of free radicals 
+in the processes that condition the maximum life expectancy of an animal 
+species.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cbpa.2013.04.019
+PMID: 23618756 [Indexed for MEDLINE]
+
+
+896. Clin Pharmacol Ther. 2013 Aug;94(2):269-76. doi: 10.1038/clpt.2013.83. Epub
+2013  Apr 25.
+
+Comparative effectiveness of dabigatran, rivaroxaban, apixaban, and warfarin in 
+the management of patients with nonvalvular atrial fibrillation.
+
+Pink J(1), Pirmohamed M, Hughes DA.
+
+Author information:
+(1)Centre for Health Economics and Medicines Evaluation, Institute of Medical 
+and Social Care Research, Bangor University, Bangor, UK.
+
+Alternative anticoagulants to warfarin (dabigatran, rivaroxaban, and apixaban) 
+are becoming available for the prevention of thromboembolic stroke in atrial 
+fibrillation (AF), but there is a lack of information on their comparative 
+effectiveness. Using a discrete event simulation method adopting a lifetime 
+horizon of analysis, we made an indirect comparison of the RE-LY, ROCKET-AF, and 
+ARISTOTLE trial results for AF patients in the US population. Over a lifetime, 
+apixaban, dabigatran, and rivaroxaban accrued 0.130 (95% central range (CR) 
+-0.030 to 0.264), 0.106 (95% CR -0.048 to 0.248), and 0.095 (95% CR -0.052 to 
+0.242) more quality-adjusted life-years (QALYs), respectively, than warfarin, 
+with apixaban having a 55% probability of accruing the highest total QALYs. In 
+the absence of a definitive trial, and acknowledging the limitations of an 
+indirect comparison, the available evidence suggests apixaban to be the most 
+effective anticoagulant.
+
+DOI: 10.1038/clpt.2013.83
+PMCID: PMC3827745
+PMID: 23619028 [Indexed for MEDLINE]
+
+
+897. Curr Opin Urol. 2013 Jul;23(4):360-5. doi: 10.1097/MOU.0b013e328361d3ed.
+
+Adjuvant radiotherapy or early salvage radiotherapy in pT3R0 or pT3R1 prostate 
+cancer.
+
+Bartkowiak D(1), Bottke D, Wiegel T.
+
+Author information:
+(1)Radiation Oncology Department, University Hospital Ulm, Ulm, Germany.
+
+PURPOSE OF REVIEW: As the appropriate management of patients after prostatectomy 
+is still controversial, the two major approaches, adjuvant radiotherapy (ART) 
+vs. prostate-specific antigen-based surveillance and - upon biochemical 
+recurrence - salvage radiotherapy (SRT) are discussed.
+RECENT FINDINGS: Three prospectively randomized clinical trials into ART with 
+5-12 years median follow-up and overall 1800 patients show a significant gain in 
+freedom from biochemical recurrence after prostatectomy and adjuvant irradiation 
+(hazard ratio ∼0.5). Only one study reported an improved overall survival 
+(hazard ratio 0.72). Patients with pT3 and positive surgical margins are the 
+most likely to profit from ART. Retrospective analyses of adjuvant vs. SRT 
+suggest a similar oncological outcome if SRT is given early after recurrence, 
+that is at a prostate-specific antigen of 0.5 ng/ml or less. Also, toxicity is 
+similar with the two strategies. With positive lymph nodes, hormone therapy and 
+optionally extended field radiotherapy can be recommended.
+SUMMARY: The alternative ART or surveillance along with SRT after prostatectomy 
+cannot yet be decided on conclusively. Compliance, physical side-effects, 
+psychological aspects and life expectancy should be taken into account when 
+discussing treatment options. Ongoing and planned trials will hopefully identify 
+subgroups that profit most from one or the other strategy.
+
+DOI: 10.1097/MOU.0b013e328361d3ed
+PMID: 23619579 [Indexed for MEDLINE]
+
+
+898. J Clin Gastroenterol. 2013 Aug;47(7):630-6. doi:
+10.1097/MCG.0b013e31828345c8.
+
+Age-based and sex-based disparities in screening colonoscopy use among medicare 
+beneficiaries.
+
+Gancayco J(1), Soulos PR, Khiani V, Cramer LD, Ross JS, Genao I, Tinetti M, 
+Gross CP.
+
+Author information:
+(1)Digestive Diseases, Yale School of Medicine, Yale Comprehensive Cancer 
+Center, New Haven, CT, USA. johngancayco@gmail.com
+
+BACKGROUND: The use of screening colonoscopy among older persons is 
+controversial due to variability in life expectancy and sex-based differences in 
+colorectal cancer incidence. We assessed the relation between sex, age, and 
+receipt of screening colonoscopy overall and within strata of life expectancy.
+METHODS: We used Medicare data to identify beneficiaries during the years 2001 
+to 2005 who had not undergone a colonoscopy in the prior 3 years. Medicare 
+claims were used to identify screening colonoscopy use; life expectancy was 
+estimated using a life table approach. We used Poisson regression to examine sex 
+and age differences in screening colonoscopy, adjusted for patient demographic 
+characteristics.
+RESULTS: Our sample consisted of 161,229 patients (61.9% female; mean age 76.9 
+y). The screening colonoscopy rates for females and males were 16.9 and 24.4 
+screening colonoscopies per 1000 person-years, respectively (P<0.001). The 
+screening colonoscopy rate was highest for patients with the longest life 
+expectancy (10 to 15 y: 27.2 screening colonoscopies per 1000 person-years) 
+compared with 3.4 per 1000 person-years in the life expectancy <5-year group. 
+Within specific life expectancy categories, older patients had significantly 
+lower screening rates; in the 10- to 15-year life expectancy category, patients 
+75 to 79 years old had a lower rate (21.9 screening colonoscopies per 1000 
+person-years) than patients 68 to 69 years old (34.1 screening colonoscopies per 
+1000 person-years; P<0.001).
+CONCLUSIONS: In a large cohort of Medicare beneficiaries, there was evidence of 
+screening colonoscopy use even among patients with a short life expectancy. 
+After accounting for life expectancy, females and older persons were less likely 
+to undergo screening colonoscopy.
+
+DOI: 10.1097/MCG.0b013e31828345c8
+PMID: 23619827 [Indexed for MEDLINE]
+
+
+899. Pharmacoeconomics. 2013 May;31(5):427-44. doi: 10.1007/s40273-013-0048-3.
+
+Lopinavir/ritonavir versus darunavir plus ritonavir for HIV infection: a 
+cost-effectiveness analysis for the United States.
+
+Simpson KN(1), Pei PP, Möller J, Baran RW, Dietz B, Woodward W, Migliaccio-Walle 
+K, Caro JJ.
+
+Author information:
+(1)Department of Health Leadership and Management, College of Health 
+Professions, Medical University of South Carolina, 151B Rutledge Ave., Room 412, 
+Charleston, SC 29425, USA. simpsonk@musc.edu
+
+BACKGROUND: The ARTEMIS trial compared first-line antiretroviral therapy (ART) 
+with lopinavir/ritonavir (LPV/r) to darunavir plus ritonavir (DRV + RTV) for 
+HIV-1-infected subjects. In order to fully assess the implications of this 
+study, economic modelling extrapolating over a longer term is required.
+OBJECTIVE: The aim of this study was to simulate the course of HIV and its 
+management, including the multiple factors known to be of importance in ART.
+METHODS: A comprehensive discrete event simulation was created to represent, as 
+realistically as possible, ART management and HIV outcomes. The model was 
+focused on patients for whom clinicians believed that LPV/r or DRV + RTV were 
+good options as a first regimen. Prognosis was determined by the impact of 
+initial treatment on baseline CD4+ T-cell count and viral load, adherence, 
+virological suppression/failure/rebound, acquired resistance mutations, and 
+ensuing treatment changes. Inputs were taken from trial data (ARTEMIS), 
+literature and, where necessary, stated assumptions. Clinical measures included 
+AIDS events, side effects, time on sequential therapies, cardiovascular events, 
+and expected life-years lost as a result of HIV infection. The model underwent 
+face, technical and partial predictive validation. Treatment-naive individuals 
+similar to those in the ARTEMIS trial were modelled over a lifetime, and 
+outcomes with first-line DRV + RTV were compared with those with LPV/r, both 
+paired with tenofovir and emtricitabine. Up to three regimen changes were 
+permitted. Drug prices were based on wholesale acquisition cost. Outcomes were 
+lifetime healthcare costs (in 2011 US dollars) from the US healthcare system 
+perspective and quality-adjusted life-years (QALYs) (discounted at 3 % per 
+annum).
+RESULTS: Choice of LPV/r over DRV + RTV as initial ART resulted in nearly 
+identical clinical outcomes, but distinctly different economic consequences. 
+Starting with an LPV/r regimen potentially results in approximately US$25,000 
+discounted lifetime savings. Accumulated QALYs for LPV/r and DRV + RTV were 
+12.130 and 12.083, respectively (a 19-day difference). In sensitivity analyses, 
+net monetary benefit ranged from US$12,000 to US$31,000, favouring LPV/r (base 
+case US$27,762).
+CONCLUSIONS: A comprehensive simulation of lifetime course of HIV in the USA 
+indicated that using LPV/r as first-line therapy compared with DRV + RTV may 
+result in cost savings, with similar clinical outcomes.
+
+DOI: 10.1007/s40273-013-0048-3
+PMID: 23620210 [Indexed for MEDLINE]
+
+
+900. Pharmacoeconomics. 2013 Jul;31(7):551-62. doi: 10.1007/s40273-013-0051-8.
+
+Dabigatran for the prevention of stroke and systemic embolism in atrial 
+fibrillation: A NICE single technology appraisal.
+
+Faria R(1), Spackman E, Burch J, Corbacho B, Todd D, Pepper C, Woolacott N, 
+Palmer S.
+
+Author information:
+(1)Centre for Health Economics, Alcuin 'A' Block, University of York, 
+Heslington, York, YO10 5DD, UK. rita.nevesdefaria@york.ac.uk
+
+The National Institute for Health and Clinical Excellence (NICE) invited the 
+manufacturer of dabigatran etexilate (Boehringer Ingelheim Ltd, UK) to submit 
+evidence for the clinical and cost-effectiveness of this drug for the prevention 
+of stroke and systemic embolism in patients with non-valvular atrial 
+fibrillation (AF) as part of the NICE single technology appraisal process. The 
+Centre for Reviews and Dissemination and the Centre for Health Economics at the 
+University of York were commissioned to act as the evidence review group (ERG). 
+This article presents a summary of the manufacturer's submission, the ERG report 
+and the subsequent development of NICE guidance for the use of dabigatran within 
+the UK National Health Service. Dabigatran was granted marketing authorisation 
+by the European Medicines Agency for a sequential dosing regimen (DBG 
+sequential), in which patients under 80 years are treated with dabigatran 150 mg 
+twice daily (DBG150) and patients 80 years and over are given dabigatran 110 mg 
+twice daily (DBG110). NICE decisions are bound by the marketing authorisation; 
+therefore, the decision problem faced by the committee was whether the DBG 
+sequential regimen was effective and cost-effective compared with warfarin or 
+aspirin for patients with non-valvular AF and one or more risk factors. The 
+RE-LY trial, a large multi-centre non-inferiority randomised clinical trial, was 
+the primary source of clinical evidence. DBG150 was shown to be non-inferior, 
+and subsequently superior to warfarin, for the primary outcome of all 
+stroke/systemic embolism. DBG110 was found to be non-inferior to warfarin. 
+Results were presented for a post hoc subgroup analysis for patients under and 
+over 80 years of age, where DBG110 showed a statistically significant reduction 
+of haemorrhagic stroke and intracranial haemorrhage in comparison to warfarin in 
+patients over 80 years of age. This post hoc subgroup analysis by age was the 
+basis for the licensed DBG sequential regimen. The economic evaluation compared 
+the costs and outcomes of DBG110, DBG150 and DBG sequential against warfarin, 
+aspirin, and aspirin plus clopidogrel. Across the three dosing regimens, 
+dabigatran was associated with greater costs and better health outcomes than 
+warfarin; however, DBG150 offered the most benefits and dominated DBG110 and DBG 
+sequential (i.e. less costly and more effective). The cost-effectiveness of 
+DBG150 was less favourable for patients well controlled on warfarin. In the 
+first appraisal meeting, the committee issued a 'minded no' decision until 
+additional analyses on the licensed DBG sequential regimen were presented by the 
+manufacturer. These additional analyses indicated that the incremental 
+cost-effectiveness ratio (ICER) of the DBG sequential regimen compared with 
+warfarin ranged from £8,388 to £18,987 per quality-adjusted life year (QALY) 
+gained depending on the level of monitoring costs assumed for warfarin. Patients 
+on warfarin would need to be within therapeutic range 83-85 % of the time for 
+the ICER to exceed £30,000 per additional QALY. Following consideration of the 
+additional evidence and the responses from a large number of consultees and 
+commentators, the committee recommended dabigatran as DBG sequential as an 
+option for the prevention of stroke and systemic embolism in people with 
+non-valvular AF with one or more risk factors for ischaemic stroke.
+
+DOI: 10.1007/s40273-013-0051-8
+PMID: 23620211 [Indexed for MEDLINE]901. J Biomed Nanotechnol. 2013 Apr;9(4):615-20. doi: 10.1166/jbn.2013.1576.
+
+A strategy for sequencing based on rolling-circle amplification on a microarray.
+
+Gao L(1), Cui J, Zhou Y, Chen L, Zhang C, Chen K, Lian C, Li L, Li H, Liang J.
+
+Author information:
+(1)College of Life Information Science and Instrument Engineering, Hangzhou 
+Dianzi University, Hangzhou 310018, Zhejiang Province, P R. China. 
+oga2001@163.com
+
+The sequencing of DNA fragments has become an important facet of the study of 
+genomes. Parallel genomic DNA fragments displayed on a microarray play a key 
+role in producing a template in next generation DNA sequencing. Here, we 
+developed a technique to display parallel genomic DNA fragments based on the 
+reaction with Bst DNA polymerase on a microarray. One of the hyperbranched 
+rolling circle amplification (HRCA) primers was modified with acrylamide. HRCA 
+products could be localized near the respective templates in polyacrylamide gel. 
+DNA colonies produced by HRCA were displayed massively and in parallel on a 
+microarray. Then the probe labeled with Cy 5 was hybridized to DNA colonies and 
+extension reactions with Cy 5-labeled deoxyribonucleoside triphosphates (dNTPs) 
+were carried out. The results show the signals of hybridization and extension 
+reactions could be obtained. This provided a strategy for high-throughput 
+sequencing.
+
+DOI: 10.1166/jbn.2013.1576
+PMID: 23621020 [Indexed for MEDLINE]
+
+
+902. Asian Pac J Cancer Prev. 2013;14(2):1031-5. doi:
+10.7314/apjcp.2013.14.2.1031.
+
+Knowledge of Turkish mothers with children in the 0-13 age group about cancer 
+symptoms.
+
+Demirbag BC(1), Kurtuncu M, Guven H.
+
+Author information:
+(1)Department of Public Health, School of Nursing, Faculty of Health Sciences, 
+Karadeniz Technical University, Trabzon, Turkey. cdemirbag@gmail.com
+
+BACKGROUND: There have been few studies in Turkey on the incidence of childhood 
+cancers. A mother's knowledge about signs and symptoms of cancer is important 
+for early diagnosis, effective treatment, and improvement of life expectancy. 
+This study was conducted with a group of mothers of children, aged 0-13, at a 
+Family Health Center (FHC) in Turkey's Eastern Black Sea Region, to analyze 
+their knowledge about cancer symptoms in childhood.
+MATERIALS AND METHODS: The study group of this descriptive/cross-sectional 
+research comprised 2,061 mothers, ages 19-49, at an FHC in the Eastern Black Sea 
+Region in February 1, 2011 - June 1, 2011. Before the study, permission was 
+obtained from the local ethics board and the institutions concerned. A value of 
+p<0.05 was accepted as statistically significant.
+RESULTS: Of the mothers, 34.9% were between the ages of 40-47, 40.5% had three 
+children, 73.8% had no experience with children with cancer, 45.9% said they 
+learned about cancer on television, 39.7% stated that the primary reason for 
+childhood cancer was the mother's smoking during pregnancy, 68.8% said that 
+early diagnosis would save a child, and 98% wanted to learn about childhood 
+cancer.
+CONCLUSION: It was determined that the mothers' knowledge of cancer was 
+deficient.
+
+DOI: 10.7314/apjcp.2013.14.2.1031
+PMID: 23621181 [Indexed for MEDLINE]
+
+
+903. J Med Econ. 2013;16(6):777-83. doi: 10.3111/13696998.2013.800822. Epub 2013
+May  10.
+
+Utilities for advanced basal cell carcinoma.
+
+Shingler SL(1), Garside J, Samanta K, Lear JT, Keohane S, Lloyd AJ.
+
+Author information:
+(1)Oxford Outcomes, An ICON plc Company, Oxford, Oxfordshire, UK. 
+sarah.shingler@oxfordoutcomes.com
+
+OBJECTIVE: Most incidences of basal cell carcinoma are cured by a number of 
+surgical or non-surgical treatments. However, a few patients have lesions which 
+have metastasized or progressed to an extent that surgery or other treatment 
+options are not possible. The lesions associated with advanced basal cell 
+carcinoma (aBCC) can be disfiguring, affecting patients' psychological state, 
+general quality-of-life (QoL), and potentially life expectancy. The objective of 
+this study was to capture societal utility values for health states related to 
+aBCC, using the time trade-off (TTO) methodology.
+METHODS: Nine health states were developed with input from expert clinicians and 
+literature. States included: complete response (CR), post-surgical, partial 
+response (PR) (with differing sized lesions [2 or 6 cm]), stable disease (SD) 
+(with differing size and number of lesions [2 or 6 cm, or multiple 2 cm]) and 
+progressive disease (PD) (with differing sized lesions [2 or 6 cm]). A 
+representative sample of 100 members of the UK general public participated in 
+the valuation exercise. The TTO method was used to derive utility values based 
+upon subjects' responses to decision scenarios; between living in the health 
+state for 10 years or living in a state of full health for 10-x years.
+RESULTS: Mean utility scores were calculated for each state. The least 
+burdensome state as valued by subjects was CR (mean = 0.94; SD = 0.08), 
+suggesting only a minimal impact on QoL. The state valued as having a greatest 
+impact on QoL was PD, with a 6 cm lesion (mean = 0.67, SD = 0.25).
+LIMITATIONS AND CONCLUSIONS: Not all possible presentations of aBCC were 
+included; the disease is a challenging condition to characterise given its 
+rarity, the nature of the patients affected, and its variable progression. 
+Findings suggest that aBCC is associated with significant burden for 
+individuals, even when their disease is stable or where surgical treatment has 
+been successful.
+
+DOI: 10.3111/13696998.2013.800822
+PMID: 23621505 [Indexed for MEDLINE]
+
+
+904. J Med Econ. 2013 Jul;16(7):845-58. doi: 10.3111/13696998.2013.800523. Epub
+2013  May 15.
+
+Is dabigatran considered a cost-effective alternative to warfarin treatment: a 
+review of current economic evaluations worldwide.
+
+Hesselbjerg LJ(1), Pedersen HS, Asmussen MB, Petersen KD.
+
+Author information:
+(1)Danish Center for Healthcare Improvements, Faculty of Social Sciences and 
+Faculty of Health Sciences, Aalborg University, Denmark. 
+louisejhesselbjerg@gmail.com
+
+OBJECTIVE: Dabigatran was the first of a new generation of anticoagulation drugs 
+for the indication of non-valvular atrial fibrillation (AF) to be approved. 
+Evidence show that dabigatran 150 mg twice daily significantly reduces the risk 
+of stroke and systemic embolism (RR = 0.65; p < 0.001) and shows a comparable 
+rate of major bleedings (RR = 0.93; p = 0.32), whereas dabigatran 110 mg twice 
+daily was associated with a comparable rate of stroke and systemic embolism 
+(RR = 0.90; p = 0.30) and a significantly lower rate of major bleedings compared 
+to warfarin treatment (RR = 0.80; p = 0.003). The purpose is to review current 
+economic evaluations of these alternatives for healthcare professionals to 
+include these findings in their decision-making.
+METHODS: A systematic literature search identified 43 economic evaluations, of 
+which 10 were included and evaluated according to the Consensus Health Economic 
+Criteria list (CHEC-list) and the Oxford model.
+RESULTS: Six economic evaluations concluded that dabigatran was a cost-effective 
+alternative to warfarin. One evaluation concluded the same except when quality 
+in warfarin treatment was excellent, with a mean time in therapeutic range 
+(TTR) > 73%. Three evaluations concluded that dabigatran was a cost-effective 
+alternative to warfarin in patient sub-groups; TTR ≤ 64%, congestive heart 
+failure, hypertension, age ≥ 75, diabetes mellitus, prior stroke or transient 
+ischemic attack (CHADS2 score) ≥3, or a CHADS2 score = 2 unless international 
+normalized ratio (INR) control was excellent, and with high risk of stroke or in 
+a low-quality warfarin treatment. Dabigatran 110 mg twice daily was in general 
+dominated by dabigatran 150 mg twice daily.
+LIMITATIONS: The evaluations were not fully homogeneous, as some did not include 
+loss of productivity, costs of dyspepsia, and annual costs of dabigatran patient 
+management.
+CONCLUSIONS: In the majority of the economic evaluations, dabigatran is a 
+cost-effective alternative to warfarin treatment. In some evaluations dabigatran 
+is only cost-effective in sub-groups, such as patients with a low TTR-value in 
+warfarin treatment and a CHADS2 score ≥2.
+
+DOI: 10.3111/13696998.2013.800523
+PMCID: PMC4627374
+PMID: 23621506 [Indexed for MEDLINE]
+
+
+905. BMC Infect Dis. 2013 Apr 27;13:190. doi: 10.1186/1471-2334-13-190.
+
+Boceprevir for previously untreated patients with chronic hepatitis C Genotype 1 
+infection: a US-based cost-effectiveness modeling study.
+
+Ferrante SA, Chhatwal J, Brass CA, El Khoury AC, Poordad F, Bronowicki JP, 
+Elbasha EH.
+
+BACKGROUND: SPRINT-2 demonstrated that boceprevir (BOC), an oral hepatitis C 
+virus (HCV) nonstructural 3 (NS3) protease inhibitor, added to peginterferon 
+alfa-2b (P) and ribavirin (R) significantly increased sustained virologic 
+response rates over PR alone in previously untreated adult patients with chronic 
+HCV genotype 1. We estimated the long-term impact of triple therapy vs. dual 
+therapy on the clinical burden of HCV and performed a cost-effectiveness 
+evaluation.
+METHODS: A Markov model was used to estimate the incidence of liver 
+complications, discounted costs (2010 US$), quality-adjusted life years (QALYs), 
+and incremental cost-effectiveness ratios (ICERs) of three treatment strategies 
+for treatment-naïve patients with chronic HCV genotype 1. The model simulates 
+the treatment regimens studied in SPRINT-2 in which PR was administered for 
+4 weeks followed by: 1) placebo plus PR for 44 weeks (PR48); 2) BOC plus PR 
+using response guided therapy (BOC/RGT); and 3) BOC plus PR for 44 weeks 
+(BOC/PR48) and makes projections within and beyond the trial. HCV-related 
+state-transition probabilities, costs, and utilities were obtained from 
+previously published studies. All costs and QALYs were discounted at 3%.
+RESULTS: The model projected approximately 38% and 43% relative reductions in 

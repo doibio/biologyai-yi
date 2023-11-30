@@ -1,0 +1,1000 @@
+
+5. Int J Radiat Oncol Biol Phys. 2011 Dec 1;81(5):e767-74. doi: 
+10.1016/j.ijrobp.2010.10.074. Epub 2011 Feb 6.
+
+Cost-effectiveness analysis of stereotactic body radiotherapy and radiofrequency 
+ablation for medically inoperable, early-stage non-small cell lung cancer.
+
+Sher DJ(1), Wee JO, Punglia RS.
+
+Author information:
+(1)Department of Radiation Oncology, Dana-Farber Cancer Institute/Brigham and 
+Women's Hospital, Boston, MA 02115, USA. dsher@lroc.harvard.edu
+
+PURPOSE: The standard management of medically inoperable Stage I non-small-cell 
+lung cancer (NSCLC) conventionally has been fractionated three-dimensional 
+conformal radiation therapy (3D-CRT). The relatively poor local control rate and 
+inconvenience associated with this therapy have prompted the development of 
+stereotactic body radiotherapy (SBRT), a technique that delivers very high doses 
+of irradiation typically over 3 to 5 sessions. Radiofrequency ablation (RFA) has 
+also been investigated as a less costly, single-day therapy that thermally 
+ablates small, peripheral tumors. The cost-effectiveness of these three 
+techniques has never been compared.
+METHODS AND MATERIALS: We developed a Markov model to describe health states of 
+65-year-old men with medically inoperable NSCLC after treatment with 3D-CRT, 
+SBRT, and RFA. Given their frail state, patients were assumed to receive 
+supportive care after recurrence. Utility values, recurrence risks, and costs 
+were adapted from the literature. Sensitivity analyses were performed to model 
+uncertainty in these parameters.
+RESULTS: The incremental cost-effectiveness ratio for SBRT over 3D-CRT was 
+$6,000/quality-adjusted life-year, and the incremental cost-effectiveness ratio 
+for SBRT over RFA was $14,100/quality-adjusted life-year. One-way sensitivity 
+analysis showed that the results were robust across a range of tumor sizes, 
+patient utility values, and costs. This result was confirmed with probabilistic 
+sensitivity analyses that varied local control rates and utilities.
+CONCLUSION: In comparison to 3D-CRT and RFA, SBRT was the most cost-effective 
+treatment for medically inoperable NSCLC over a wide range of treatment and 
+disease assumptions. On the basis of efficacy and cost, SBRT should be the 
+primary treatment approach for this disease.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ijrobp.2010.10.074
+PMID: 21300476 [Indexed for MEDLINE]
+
+
+6. Nucleic Acids Res. 2011 Apr;39(7):2995-3004. doi: 10.1093/nar/gkq914. Epub
+2011  Feb 7.
+
+Biochemical behavior of N-oxidized cytosine and adenine bases in DNA 
+polymerase-mediated primer extension reactions.
+
+Tsunoda H(1), Kudo T, Masaki Y, Ohkubo A, Seio K, Sekine M.
+
+Author information:
+(1)Department of Life Science, Tokyo Institute of Technology and CREST, JST, 
+4259 Nagatsuta, Midoriku, Yokohama 226-8501, Japan.
+
+To clarify the biochemical behavior of 2'-deoxyribonucleoside 5'-triphosphates 
+and oligodeoxyribonucleotides (ODNs) containing cytosine N-oxide (C(o)) and 
+adenine N-oxide (A(o)), we examined their base recognition ability in DNA duplex 
+formation using melting temperature (T(m)) experiments and their substrate 
+specificity in DNA polymerase-mediated replication. As the result, it was found 
+that the T(m) values of modified DNA-DNA duplexes incorporating 
+2'-deoxyribonucleoside N-oxide derivatives significantly decreased compared with 
+those of the unmodified duplexes. However, single insertion reactions by DNA 
+polymerases of Klenow fragment (KF) (exo(-)) and Vent (exo(-)) suggested that 
+C(o) and A(o) selectively recognized G and T, respectively. Meanwhile, the 
+kinetic study showed that the incorporation efficiencies of the modified bases 
+were lower than those of natural bases. Ab initio calculations suggest that 
+these modified bases can form the stable base pairs with the original 
+complementary bases. These results indicate that the modified bases usually 
+recognize the original bases as partners for base pairing, except for 
+misrecognition of dATP by the action of KF (exo(-)) toward A(o) on the template, 
+and the primers could be extended on the template DNA. When they misrecognized 
+wrong bases, the chain could not be elongated so that the modified base served 
+as the chain terminator.
+
+DOI: 10.1093/nar/gkq914
+PMCID: PMC3074161
+PMID: 21300642 [Indexed for MEDLINE]
+
+
+7. Phys Biol. 2011 Feb;8(1):015002. doi: 10.1088/1478-3975/8/1/015002. Epub 2011 
+Feb 7.
+
+Stochastic dynamics of cancer initiation.
+
+Foo J(1), Leder K, Michor F.
+
+Author information:
+(1)Department of Biostatistics and Computational Biology, Dana-Farber Cancer 
+Institute, Boston, MA 02115, USA.
+
+Most human cancer types result from the accumulation of multiple genetic and 
+epigenetic alterations in a single cell. Once the first change (or changes) have 
+arisen, tumorigenesis is initiated and the subsequent emergence of additional 
+alterations drives progression to more aggressive and ultimately invasive 
+phenotypes. Elucidation of the dynamics of cancer initiation is of importance 
+for an understanding of tumor evolution and cancer incidence data. In this 
+paper, we develop a novel mathematical framework to study the processes of 
+cancer initiation. Cells at risk of accumulating oncogenic mutations are 
+organized into small compartments of cells and proliferate according to a 
+stochastic process. During each cell division, an (epi)genetic alteration may 
+arise which leads to a random fitness change, drawn from a probability 
+distribution. Cancer is initiated when a cell gains a fitness sufficiently high 
+to escape from the homeostatic mechanisms of the cell compartment. To 
+investigate cancer initiation during a human lifetime, a 'race' between this 
+fitness process and the aging process of the patient is considered; the latter 
+is modeled as a second stochastic Markov process in an aging dimension. This 
+model allows us to investigate the dynamics of cancer initiation and its 
+dependence on the mutational fitness distribution. Our framework also provides a 
+methodology to assess the effects of different life expectancy distributions on 
+lifetime cancer incidence. We apply this methodology to colorectal tumorigenesis 
+while considering life expectancy data of the US population to inform the 
+dynamics of the aging process. We study how the probability of cancer initiation 
+prior to death, the time until cancer initiation, and the mutational profile of 
+the cancer-initiating cell depends on the shape of the mutational fitness 
+distribution and life expectancy of the population.
+
+DOI: 10.1088/1478-3975/8/1/015002
+PMCID: PMC3569097
+PMID: 21301064 [Indexed for MEDLINE]
+
+
+8. Nihon Ronen Igakkai Zasshi. 2010;47(6):611-6. doi: 10.3143/geriatrics.47.611.
+
+[Effects of a motor function improvement program on alleviation of knee 
+osteoarthritis].
+
+[Article in Japanese]
+
+Obuchi S(1), Kojima M, Arai T, Kojima N, Shiba Y, Kawai H.
+
+Author information:
+(1)Tokyo Metropolitan Institute of Gerontology.
+
+AIM: The purposes of this study were to develop a new exercise program for the 
+elderly with knee pain, and to evaluate the effects of the program.
+METHODS: The participants in the present study were 37 community-dwelling 
+elderly people (75 ± 7 years) with knee pain who were living in Tokyo. The 
+participants were instructed to do a walking exercise with weights attached to 
+each ankle together with an exercise to develop their ability to recognize pain 
+objectively, at a weekly meeting, with training on alternate days at home. The 
+measurements of this study were: one-leg standing time, functional reach (FR), 
+timed up and go, 5 m walking time, knee extension strength, health-related 
+quality of life (QOL) questionnaire (SF-36) and the Japanese Knee Osteoarthritis 
+Measure (JKOM).
+RESULTS: The total JKOM scores decreased significantly (p<0.01). Each subscale 
+of the JKOM decreased significantly (p<0.05). Furthermore, knee extension 
+strength and FR increased significantly (p<0.01). Among the SF-36 subscale 
+scores, physical functioning, role physical, role emotional and mental health 
+improved significantly (p<0.05).
+CONCLUSION: The current results suggest that the new program introduced in the 
+present study reduces knee pain and improves the activity of participants.
+
+DOI: 10.3143/geriatrics.47.611
+PMID: 21301161 [Indexed for MEDLINE]
+
+
+9. Aust Fam Physician. 2010 Dec;39(12):938-41.
+
+Hereditary haemochromatosis - diagnosis and management.
+
+Allen K(1).
+
+Author information:
+(1)Department of Gastroenterology, Gut and Liver Research group leader, Murdoch 
+Childrens Research Institute, and University of Melbourne Department of 
+Paediatrics, Melbourne, Victoria. katie.allen@rch.org.au
+
+Comment in
+    Aust Fam Physician. 2011 Jun;40(6):362.
+
+BACKGROUND: Hereditary haemochromatosis is a common inherited disorder in which 
+excessive iron is absorbed and which, over time, may cause organ damage. Genetic 
+predisposition leads to disease in some but not all cases.
+OBJECTIVE: This article discusses the presentation, testing, treatment and 
+management of hereditary haemochromatosis.
+DISCUSSION: Hereditary haemochromatosis is autosomal recessive and is more 
+common in people of Celtic or northern European descent. Although more than 90% 
+of cases of hereditary haemochromatosis are due to C282Y homozygosity (carrying 
+two copies of the C282Y gene) not all C282Y homozygous individuals will progress 
+through all stages of disease development. Clinical disease is less common in 
+females due to physiological blood loss from menstruation and pregnancy. Most 
+importantly, early diagnosis and treatment of hereditary haemochromatosis 
+prevents complications and results in a normal life expectancy. Venesection is a 
+simple and effective way to both prevent and manage the potential sequelae of 
+iron overload, which include severe fatigue, arthritis, impotence, raised 
+alanine aminotransferase/aspartate aminotransferase, fibrosis or cirrhosis, 
+diabetes, and cardiomyopathy.
+
+PMID: 21301675 [Indexed for MEDLINE]
+
+
+10. Aust Fam Physician. 2011 Jan-Feb;40(1-2):16-9.
+
+Indigenous health - a role for private general practice.
+
+Johanson RP(1), Hill P.
+
+Author information:
+(1)Majellan Medical Centre, Scarborough, Queensland, Australia. 
+p-johans@bigpond.net.au
+
+BACKGROUND: The Aboriginal and Torres Strait Islander life expectancy gap is 
+associated with lower primary care usage by Indigenous Australians. Many 
+Indigenous Australians regard private general practitioners as their usual 
+source of healthcare. However, a range of barriers results in relatively low 
+access to primary care, with subsequent inadequate prevention and management of 
+chronic disease. Indigenous primary care requires development of a set of 
+attributes by the GP. Clinician autonomy may need to be tempered to be 
+responsive to the needs of local indigenous communities.
+OBJECTIVE: A partnership between an urban indigenous community and a private 
+general practice is described.
+DISCUSSION: Over a period of 1 year, registered indigenous patients at the 
+private general practice clinic increased from 10 to 147; monthly attendance 
+increased from five to 40 (p<0.001). Local engagement between private practices 
+and indigenous communities may be implemented widely to reduce the primary care 
+gap.
+
+PMID: 21301687 [Indexed for MEDLINE]
+
+
+11. J Neural Transm (Vienna). 2011 Apr;118(4):637-40. doi: 
+10.1007/s00702-011-0590-0. Epub 2011 Feb 8.
+
+Asymptomatic carotid stenosis: intervention or just stick to medical 
+therapy--the case for medical therapy.
+
+Streifler JY(1).
+
+Author information:
+(1)Neurology Unit, Rabin Medical Center, Golda Campus, Petach Tikva and Tel Aviv 
+University, Tel Aviv, Israel. streifll@post.tau.ac.il
+
+Comment in
+    J Neural Transm (Vienna). 2011 Apr;118(4):629.
+
+Comment on
+    J Neural Transm (Vienna). 2011 Apr;118(4):631-6.
+
+Asymptomatic significant (≥50%) carotid stenosis (ASCS) is a frequent finding in 
+the aging population. The prevalence of moderate stenosis (50-70%) increases 
+from 3.6% for those <70 years to 9.3% in those ≥70 years. The (additional) 
+prevalence of severe (70-99%) stenosis is 1.7%. The natural history of ASCS is 
+quite benign. The overall risk of stroke is around 2% per year and within the 
+group higher degrees of stenosis are associated with higher risks. Yet this 
+stroke risk also includes "unrelated" strokes (i.e., lacunar and cardioembolic), 
+and similarly, it is more of a marker for identifying high-risk group of 
+patients at risk of cardiovascular morbidity and mortality (as revealed by many 
+studies)! Carotid endarterectomy (CEA) has been evaluated in several studies; 
+mainly ACAS and ACST. An overall modest benefit of about 1% risk reduction (per 
+year) was found for CEA (with a peri-operative risk of <3%) versus medical 
+treatment, over a 5-year period. Basically these two studies recruited similar 
+patients with ≥60% stenosis based on carotid duplex. However, the similar 
+favorable results differ: while ACAS (published in 1995) found the risk for 
+ipsilateral stroke in the medical group to be 11% over a 5-year period, the 
+11.8% risk observed in ACST (published in 2004) was for any strokes--showing a 
+better "natural history" for patients with ASCS in the recent study. This 
+observation adds to other reports suggesting a better outcome for patients with 
+ASCS in the recent years, probably because of better medical treatment, mainly 
+due to the significant increase in the use of statins. The suggested guideline 
+that results from the above-mentioned studies is that CEA should be considered 
+in every patient with significant (≥60%?, ≥70%?) stenosis who has a life 
+expectancy of more than 5 years (and is <75 years?). Taking this advice as such, 
+would mean that we should screen for ASCS and operate on all appropriate 
+candidates. This will result in a surge of CEA's! Such a recommendation is not 
+in place, because the observed benefit of CEA by numbers needed to treat (NNT) 
+per year to prevent any stroke is more than one hundred! (for symptomatic 
+patients NNT is <10). This high-figure (i.e., low yield) results from failure of 
+these studies to identify specific risk-factors (including the degree of 
+stenosis within the wide range [60-99%] allowed in the studies) in patients with 
+ASCS. Some studies are underway. Therefore, at present, it seems that for most 
+patients, best (intensive) medical treatment is the best option. Alternately, 
+they should join studies that will help to identify patients with the highest 
+risk--those who will clearly benefit from carotid intervention.
+
+DOI: 10.1007/s00702-011-0590-0
+PMID: 21301896 [Indexed for MEDLINE]
+
+
+12. Demography. 2010;47 Suppl(Suppl 1):S131-49. doi: 10.1353/dem.2010.0000.
+
+Facilitating longer working lives: international evidence on why and how.
+
+Wise DA(1).
+
+Author information:
+(1)Kennedy School of Government, Harvard University, Cambridge, MA, USA. 
+dwise72037@aol.com
+
+The article advances the view that social and economic choices in societies can 
+reasonably adjust as the age structure of the population changes; in particular, 
+some of the bounty of longer lives can reasonably be allocated to prolonging the 
+labor force participation of older workers. Data on reductions in mortality and, 
+in some countries, declines in disability are presented in ways that help to 
+clarify that prolonged working lives may be a natural concomitant of living 
+longer. The article reviews the problems inherent in the combination of living 
+longer and reducing labor force participation at older ages. It discusses two 
+ways to facilitate longer working lives: (1) eliminating penalties on work at 
+older ages--inherent in the provisions of the social security programs in many 
+countries--that induce older persons to leave the labor force at younger ages; 
+and (2) correcting a false rationale--the "boxed economy" view of the labor 
+market--that is often used to support retention of the provisions that induce 
+older persons to leave the labor force.
+
+DOI: 10.1353/dem.2010.0000
+PMCID: PMC5870615
+PMID: 21302423 [Indexed for MEDLINE]
+
+
+13. Demography. 2010;47 Suppl(Suppl 1):S211-31. doi: 10.1353/dem.2010.0008.
+
+Disease prevalence, disease incidence, and mortality in the United States and in 
+England.
+
+Banks J(1), Muriel A, Smith JP.
+
+Author information:
+(1)Department of Economics, University Manchester, USA.
+
+We find that both disease incidence and disease prevalence are higher among 
+Americans in age groups 55-64 and 70-80, indicating that Americans suffer from 
+higher past cumulative disease risk and experience higher immediate risk of new 
+disease onset compared with the English. In contrast, age-specific mortality 
+rates are similar in the two countries, with an even higher risk among the 
+English after age 65. We also examine reasons for the large financial gradients 
+in mortality in the two countries. Among 55- to 64-year-olds, we estimate 
+similar health gradients in income and wealth in both countries, but for 70- to 
+80-year-olds, we find no income gradient in the United Kingdom. Standard 
+behavioral risk factors (work, marriage, obesity, exercise, and smoking) almost 
+fully explain income gradients among those aged 55-64 in both countries and a 
+significant part among Americans 70-80 years old. The most likely explanation of 
+the absence of an English income gradient relates to the English income benefit 
+system: below the median, retirement benefits are largely flat and independent 
+of past income, and hence past health, during the working years. Finally, we 
+report evidence using a long panel of American respondents that their subsequent 
+mortality is not related to large changes in wealth experienced during the prior 
+10-year period.
+
+DOI: 10.1353/dem.2010.0008
+PMCID: PMC5870617
+PMID: 21302425 [Indexed for MEDLINE]
+
+
+14. Tumori. 2010 Sep-Oct;96(5):704-8. doi: 10.1177/030089161009600511.
+
+Laparoscopic resection of colorectal cancer in elderly patients.
+
+Fiscon V(1), Portale G, Migliorini G, Frigo F.
+
+Author information:
+(1)Department of General Surgery Azienda ULSS 15 Alta Padovana, Cittadella, 
+Padova, Italy. valentino.fiscon@virgilio.it
+
+AIMS AND BACKGROUND: Aging of the population and a longer life expectancy have 
+led to an increased number of elderly patients presenting with colorectal cancer 
+and searching for treatment. The aim of the study was to assess the effects of 
+age on the outcome of laparoscopic colorectal surgery for cancer at a single 
+department.
+METHODS: Perioperative outcome of patients > or =75 years old undergoing 
+laparoscopic colorectal surgery between June 2005 and January 2009 for 
+colorectal cancer were compared with findings in younger patients.
+RESULTS: The analysis considered 134 patients <75 years and 82 patients > or =75 
+years of age. There was a significant difference in perioperative risk factors, 
+as reflected by different ASA scores and a significantly higher postoperative 
+'medical' morbidity, but 'surgical' morbidity was similar in the two groups and 
+remained low.
+DISCUSSION: Surgical morbidity rate was not affected by age. Cardiovascular and 
+pulmonary comorbid conditions were mainly responsible for the higher morbidity 
+rate reported in the elderly patients, although advanced age, per se, should not 
+be considered a contraindication to laparoscopic colorectal surgery for cancer.
+
+DOI: 10.1177/030089161009600511
+PMID: 21302616 [Indexed for MEDLINE]
+
+
+15. Adolesc Med State Art Rev. 2010 Dec;21(3):480-90, viii-ix.
+
+The obesity epidemic and disordered sleep during childhood and adolescence.
+
+Gozal D(1), Kheirandish-Gozal L.
+
+Author information:
+(1)Section of Pediatric Sleep Medicine, Department of Pediatrics, Pritzker 
+School of Medicine, University of Chicago, 5721 S. Maryland Avenue, MC 8000, 
+Suite K-160, Chicago, IL 60637, USA. dgozal@uchicago.edu
+
+The obesity pandemic is claiming its presence even among youngest of children 
+and is clearly on the rise. Although the extent and implications of this massive 
+increase in the prevalence of overweight and obese children are unclear, they 
+are anticipated to be deleterious to global health outcomes and life expectancy. 
+The potential interrelationships between sleep and obesity have gained recent 
+attention. In this chapter, we initially examine the critical evidence 
+supporting or refuting such proposed associations. In addition, the potential 
+reciprocal roles of obesity and obstructive sleep apnea in the facilitation of 
+their pathophysiology are also reviewed, along with their amplificatory effects 
+on their respective morbidities.
+
+PMID: 21302856 [Indexed for MEDLINE]
+
+
+16. J Agric Food Chem. 2011 Mar 9;59(5):1939-53. doi: 10.1021/jf104392y. Epub
+2011  Feb 8.
+
+Comprehensive sensomics analysis of hop-derived bitter compounds during storage 
+of beer.
+
+Intelmann D(1), Haseleu G, Dunkel A, Lagemann A, Stephan A, Hofmann T.
+
+Author information:
+(1)Chair of Food Chemistry and Molecular Sensory Science, Technische Universität 
+München, Lise-Meitner Strasse 34, D-85354 Freising, Germany.
+
+For the first time, quantitative LC-MS/MS profiling of 56 hop-derived 
+sensometabolites contributing to the bitter taste of beer revealed a 
+comprehensive insight into the transformation of individual bitter compounds 
+during storage of beer. The proton-catalyzed cyclization of trans-iso-α-acids 
+was identified to be the quantitatively predominant reaction leading to 
+lingering, harsh bitter tasting tri- and tetracyclic compounds such as, e.g. the 
+cocongeners tricyclocohumol, tricyclocohumene, isotricyclocohumene, 
+tetracyclocohumol, and epitetracyclocohumol, accumulating in beer during storage 
+with increasing time and temperature. The key role of these transformation 
+products in storage-induced trans-iso-α-acid degradation was verified for the 
+first time by multivariate statistics and hierarchical cluster analysis of the 
+sensomics data obtained for a series of commercial beer samples stored under 
+controlled conditions. The present study offers the scientific basis for a 
+knowledge-based extension of the shelf life of the desirable beer's bitter taste 
+and the delay of the onset of the less preferred harsh bitter aftertaste by 
+controlling the initial pH value of the beer and by keeping the temperature as 
+low as possible during storage of the final beverage.
+
+DOI: 10.1021/jf104392y
+PMID: 21302939 [Indexed for MEDLINE]
+
+
+17. Anal Biochem. 2011 May 15;412(2):229-36. doi: 10.1016/j.ab.2011.02.003. Epub 
+2011 Feb 26.
+
+Fluorogenic polymerase, endonuclease, and ligase assays based on DNA substrates 
+labeled with a single fluorophore.
+
+Nikiforov TT(1).
+
+Author information:
+(1)Life Technologies Corp., Carlsbad, CA 92008, USA. theo.nikiforov@lifetech.com
+
+This paper describes the development of homogeneous, fluorogenic polymerase, 
+restriction endonuclease, and ligase assays based on the use of DNA substrate 
+molecules labeled with a single fluorophore. All three enzymatic assays are 
+based on the same observed phenomenon whereby the fluorescence intensity of 
+hairpin-type oligonucleotides with a 5'single-stranded extension, labeled with a 
+single fluorophore, changes when the distance of the dye from the 3' end of the 
+molecule is altered as a result of the enzymatic transformation (i.e., 
+polymerase extension, endonuclease hydrolysis, or ligation). The magnitudes of 
+the observed fluorescence intensity changes range from 1.2-fold to 3.9-fold, and 
+they are dependent on the type of dye used, its position within the substrate 
+and product molecules, and the base composition surrounding the labeling site.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ab.2011.02.003
+PMID: 21303650 [Indexed for MEDLINE]
+
+
+18. Demography. 2009 May;46(2):371-86. doi: 10.1353/dem.0.0057.
+
+Modeling transition rates using panel current-status data: how serious is the 
+bias?
+
+Wolf DA(1), Gill TM.
+
+Author information:
+(1)Center for Policy Research, Syracuse University, Syracuse, NY 13244, USA. 
+dawolf@maxwell.syr.edu
+
+Studies of disability dynamics and active life expectancy often rely on 
+transition rates or probabilities that are estimated using panel survey data in 
+which respondents report on current health or functional status. If respondents 
+are contacted at intervals of one or two years, then relatively short periods of 
+disability or recovery between surveys may be missed. Much published research 
+that uses such data assumes that there are no unrecorded transitions, applying 
+event-history techniques to estimate transition rates. In recent years, a 
+different approach based on embedded Markov chains has received growing use. We 
+assessed the performance of both approaches, using as a criterion their ability 
+to reproduce the parameters of a "true" model based on panel data collected at 
+one-month intervals. Neither of the widely used approaches performs particularly 
+well, and neither is uniformly superior to the other.
+
+DOI: 10.1353/dem.0.0057
+PMCID: PMC2831273
+PMID: 21305398 [Indexed for MEDLINE]
+
+
+19. Demography. 1974 Aug;11(3):407-21. doi: 10.2307/2060435.
+
+Economic development and fertility change in Mexico, 1950-1970.
+
+Hicks WW(1).
+
+Author information:
+(1)Department of Economics, University of Missouri-Columbia, 65201, Columbia, 
+Missouri.
+
+This paper is an attempt to isolate the determinants of fertility in Mexico. Of 
+the variables included, two are significant in accounting for differences in the 
+level of completed fertility in the 32 "states" in 1970. They are the share of 
+the labor force in agriculture, which is directly related to fertility, and the 
+percentage of the population speaking an indigenous language, which shows an 
+inverse relationship.The most important factors acting to reduce total fertility 
+rates over time are increases in life expectancy and declines in the share of 
+the labor force in agriculture. However, based on the estimated linear 
+relationship, these two variables by themselves are not adequate to achieve a 
+rapid decline in fertility in the future.
+
+DOI: 10.2307/2060435
+PMID: 21305412
+
+
+20. Acta Ortop Mex. 2010 Jul-Aug;24(4):230-4.
+
+[Functional outcomes in patients subjected to acetabular revision with 
+reinforcement rings].
+
+[Article in Spanish]
+
+González Ugalde H(1), Ilizaliturri Sánchez VM, Camacho Galindo J, Rojas Ponce C, 
+Izaguirre A.
+
+Author information:
+(1)Servicio de Reconstrucción Articular Cadera y rodilla del Instituto Nacional 
+de Rehabilitación. drhumber@yahoo.com.mx
+
+BACKGROUND: Total hip arthroplasty is the most successful orthopedic procedure 
+and the frequency of use of revision components has grown exponentially. The 
+increased number of revisions results from the longer life expectancy of the 
+population and the greater frequency of the hip arthroplasty indication among 
+young patients. The purpose of this study is to evaluate the functional results 
+of patients subjected to revision of the acetabular component using 
+reinforcement rings.
+MATERIAL AND METHODS: The study included patients with a diagnosis of septic or 
+aseptic prosthetic loosening and sequelae of acetabular fractures between 
+January 2007 and November 2009 in whom a reinforcement ring was used. The WOMAC 
+scale was used for the functional evaluation.
+RESULTS: According to the WOMAC scale, the patient functionality results showed 
+a mean preoperative score of 41.89 and a mean postoperative score of 74.26, 
+which represented an improvement of 33.11 points in the median of patients 
+subjected to the surgical intervention, with a statistically significant 
+difference (p = 0.036).
+DISCUSSION: This study shows an improvement in the functionality of the patients 
+subjected to surgery with a reinforcement ring, as, first and foremost, a 
+statistically significant difference was seen between the preoperative and 
+postoperative values and, secondly, there are papers published in the literature 
+showing that a difference of more than 12 points between the preoperative and 
+postoperative scores in the WOMAC scale indicates a significant clinical 
+improvement of patients.
+CONCLUSION: Patients subjected to acetabular revision with a reinforcement ring 
+together with cemented polyethylene have an improved quality of life after the 
+surgical intervention.
+
+PMID: 21305758 [Indexed for MEDLINE]
+
+
+21. Chem Res Toxicol. 2011 Mar 21;24(3):402-11. doi: 10.1021/tx100351c. Epub 2011
+ Feb 9.
+
+DNA alkylation with N-methylquinolinium quinone methide to N2-dG adducts 
+resulting in extensive stops in primer extension with DNA polymerases and 
+subsequent suppression of GFP expression in A549 cells.
+
+Zhou Q(1), Qu Y, Mangrum JB, Wang X.
+
+Author information:
+(1)Institute of Materia Medica, College of Life Science and Technology, Huazhong 
+University of Science and Technology, Wuhan, PR China. qibingzhou@hust.edu.cn
+
+Quinone methides (QMs) are involved in the metabolism of many drugs and 
+carcinogens as reactive intermediates to form covalent nucleobase adducts in DNA 
+that associate with high mutagenicity. Recently, a plethora of synthetic QM DNA 
+alkylating agents have been developed to form various nucleobase adducts as 
+potential antitumor agents. However, the mutagenic potential of these synthetic 
+QM alkylating agents has not been fully investigated. In this report, 
+N-methylquinolinium QM was developed as a synthetic model to study biological 
+consequences of the formation of nucleobase adducts in a DNA target. 
+N-Methylquinolinium QM was generated in situ via an elimination process from a 
+bis-quaternary ammonium precursor that was synthesized from a quinoline 
+derivative. Alkylation with N-methylquinolinium QM on a DNA target produced 
+mostly a stable N(2)-dG adduct as revealed by gel electrophoresis and DNA 
+digestion assays and confirmed by mass and NMR analyses. The formation of 
+N(2)-dG adducts of a DNA target was found to cause extensive stops in the primer 
+extension with high fidelity DNA polymerase T7 and even low fidelity error prone 
+Dpo4. The direct biological impact of a prealkylated green fluorescence protein 
+plasmid with N-methylquinolinium QM was demonstrated as significant suppression 
+of protein expression in A549 cells. Overall, our results suggested that 
+nucleobase-QM adducts could potentially block nucleobase mismatch/translesion in 
+the error-prone process to reduce the mutagenic potential if designed carefully.
+
+DOI: 10.1021/tx100351c
+PMID: 21306116 [Indexed for MEDLINE]
+
+
+22. J Clin Nurs. 2011 Apr;20(7-8):925-39. doi: 10.1111/j.1365-2702.2010.03322.x. 
+Epub 2011 Feb 9.
+
+Complementary and alternative therapy (CAT) use and highly active antiretroviral 
+therapy (HAART): current evidence in the literature, 2000-2009.
+
+Hoogbruin A(1).
+
+Author information:
+(1)Faculty of Community & Health Studies, Kwantlen Polytechnic University, 
+Surrey, BC, Canada. amandah.hoogbruin@kwantlen.ca
+
+AIM AND OBJECTIVE: To determine current evidence about the use of complementary 
+and alternative medicine in the context of highly active antiretroviral therapy. 
+The following objectives included identifying the risks and benefits of using 
+complementary and alternative medicine when living with the human 
+immunodeficiency virus (HIV) and taking such medications.
+BACKGROUND: In Canada and the USA, HIV/AIDS service organisations recognise that 
+people affected or infected by HIV are increasingly choosing to use 
+complementary and alternative medicine to cope with this disease. These same 
+organisations advocate for increased access to complementary and alternative 
+medicine and more information about the safe use of complementary and 
+alternative medicine to make informed decisions. Based on the increased integral 
+use of complementary and alternative medicine and conventional medicine in 
+Canada and the USA, the literature review was limited to these two countries.
+DESIGN: Systematic review.
+METHOD: Available full-text abstracts published in English from 2000-2009 were 
+retrieved by electronic searches of selected databases, including the websites 
+of Health Canada and American National Center for Complementary and Alternate 
+Medicine (NCCAM). Forty studies were examined and were categorised by referring 
+to the NCCAM (2007) four types of complementary and alternative medicine.
+RESULTS: Insufficient evidence exists to support the use of a particular 
+complementary and alternate therapy to enhance the management of HIV disease.
+CONCLUSION: Decisions about using complementary and alternative medicine in 
+conjunction with highly active antiretroviral therapy are often poorly informed. 
+Safety risks and potential drug interactions are frequently ignored as people 
+who use highly active antiretroviral therapy prefer to focus on the physical and 
+mental benefits of using selected complementary and alternate therapies to 
+promote their quality of life.
+RELEVANCE TO CLINICAL PRACTICE: As life expectancy increases, from the use of 
+highly active antiretroviral therapy, it is important for health professionals 
+like nurses to be knowledgeable about the prevention, assessment and treatment 
+of HIV symptoms and treatment side effects. Given the increased trend of using 
+complementary and alternative medicine by the general population, it is also 
+important to understand the appropriate use of complementary and alternative 
+medicine for symptom management in HIV/AIDS care.
+
+© 2011 Blackwell Publishing Ltd.
+
+DOI: 10.1111/j.1365-2702.2010.03322.x
+PMID: 21306453 [Indexed for MEDLINE]
+
+
+23. J Biosoc Sci. 2011 Jul;43(4):475-80. doi: 10.1017/S0021932011000034. Epub
+2011  Feb 10.
+
+Association between healthy life expectancy at birth and consanguineous 
+marriages in 63 countries.
+
+Saadat M(1).
+
+Author information:
+(1)Department of Biology, College of Sciences, Shiraz University, Shiraz, Iran.
+
+In order to investigate the association between mean inbreeding coefficient (α) 
+and healthy life expectancy at birth (HALE; years) the present ecological study 
+on 63 countries was done. Statistical analysis showed that HALE negatively and 
+positively correlated with log(10)α and log(10)GNI per capita, respectively 
+(p<0.001). It should be noted that log(10)α and log(10)GNI per capita were 
+significantly correlated with each other (p<0.001). After controlling for 
+log(10)GNI per capita, significant negative correlations between log(10)α and 
+HALE were observed. The countries were stratified according to their GNI per 
+capita into low- and high-income countries. In countries with high income, after 
+controlling for log(10)GNI per capita, the correlation between HALE at birth and 
+log(10)α was significant (for males r=-0.399, df=32, p=0.001; for females 
+r=-0.683, df=32, p<0.001). In high-income Asian and African countries, where 
+consanguineous marriage is common, after controlling for log(10)GNI per capita, 
+the correlation between HALE at birth and log(10)α was significant (for males 
+r=-0.819, df=8, p=0.004; for females r=-0.936, df=8, p<0.001). It seems that 
+consanguinity influences HALE independent of country income.
+
+© Cambridge University Press, 2011
+
+DOI: 10.1017/S0021932011000034
+PMID: 21306664 [Indexed for MEDLINE]
+
+
+24. Hum Mol Genet. 2011 Apr 15;20(8):1633-42. doi: 10.1093/hmg/ddr040. Epub 2011
+Feb  9.
+
+Premature death and neurologic abnormalities in transgenic mice expressing a 
+mutant huntingtin exon-2 fragment.
+
+Tebbenkamp AT(1), Swing D, Tessarollo L, Borchelt DR.
+
+Author information:
+(1)Department of Neuroscience, SantaFe HealthCare Alzheimer's Disease Research 
+Center, McKnight Brain Institute, University of Florida, 100 Newell Dr, Rm. 
+L1-100, Gainesville, FL 32610, USA.
+
+Huntington's disease (HD) is a fatal neurodegenerative disease characterized 
+pathologically by aggregates composed of N-terminal fragments of the mutant form 
+of the protein huntingtin (htt). The role of these N-terminal fragments in 
+disease pathogenesis has been questioned based in part on studies in transgenic 
+mice. In one important example, mice that express an N-terminal fragment of 
+mutant htt terminating at the C-terminus of exon 2 (termed the Shortstop mouse) 
+were reported to develop robust inclusion pathology without developing 
+phenotypic abnormalities seen in the R6/2 or N171-82Q models of HD, which are 
+also based on expression of mutant N-terminal htt fragments. To further explore 
+the capacity of mutant exon-2 htt fragments to produce neurologic abnormalities 
+(N-terminal 118 amino acids; N118), we generated transgenic mice expressing cDNA 
+that encodes htt N118-82Q with the mouse prion promoter vector. In mice 
+generated in this manner, we demonstrate robust inclusion pathology accompanied 
+by early death and failure to gain weight. These phenotypes are the most robust 
+abnormalities identified in the R6/2 and N171-82Q models. We conclude that the 
+lack of an overt phenotype in the initial Shortstop mice cannot be completely 
+explained by the properties of mutant htt N118 fragments.
+
+DOI: 10.1093/hmg/ddr040
+PMCID: PMC3063989
+PMID: 21307087 [Indexed for MEDLINE]
+
+
+25. Rev Panam Salud Publica. 2010 Nov;28(5):326-36.
+
+Economic impact of fatal and nonfatal road traffic injuries in Belize in 2007.
+
+Pérez-Núñez R(1), Híjar-Medina M, Heredia-Pi I, Jones S, Silveira-Rodrigues EM.
+
+Author information:
+(1)Health Systems Research Center, National Institute of Public Health, 
+Cuernavaca, Mexico. ricardo.perez@insp.mx
+
+OBJECTIVE: To estimate the economic cost of road traffic injuries in Belize in 
+2007.
+METHODS: A cross-sectional study was conducted using secondary cost data, 
+assuming the health system and social perspectives. Epidemiologic information 
+was obtained from the mortality database, the national hospital discharge 
+database, and administrative records from police and the Ministry of Health. A 
+health provider survey was carried out in order to estimate the postdischarge 
+ambulatory utilization figures. Direct cost was estimated with the World Health 
+Organization WHO-CHOICE (CHOosing Interventions that are Cost Effective) 
+database. Prehospital costs were obtained from the Belize emergency response 
+team. After estimating years of potential life lost using the Belize life 
+expectancy for 2008 and methodology proposed by the Pan American Health 
+Organization, the indirect cost associated with premature death was estimated 
+with the human capital approach. Total estimation of road traffic injuries' 
+economic costs used a decision tree model approach. Multiway sensitivity 
+analysis was used to incorporate uncertainty in the estimations.
+RESULTS: Sixty-one people died due to road traffic injuries during 2007, 338 
+were hospitalized, and 565 people were estimated to be slightly injured. A total 
+of 2,501 years of potential life were lost in Belize due to premature death, 
+with a total economic cost of US$11,062,544. This figure represents 0.9% of the 
+Belize gross domestic product. Direct cost was estimated at US$163,503, of which 
+2.4% was spent on fatalities, 46.7% on the severely injured, and 50.9% on the 
+slightly injured.
+CONCLUSIONS: The economic cost estimations make clear the need to prevent road 
+traffic injuries with a strategic and multisectoral approach that focuses on 
+addressing the main problems identified.
+
+PMID: 21308177 [Indexed for MEDLINE]
+
+
+26. Curr Infect Dis Rep. 2011 Feb;13(1):83-93. doi: 10.1007/s11908-010-0144-x.
+
+The Rapidly Evolving Research on Vitamin D Among HIV-Infected Populations.
+
+Overton ET(1), Yin MT.
+
+Author information:
+(1)Division of Infectious Diseases, Washington University School of Medicine, 
+Campus Box 8011, 660 South Euclid Avenue, St. Louis, MO, 63110, USA, 
+toverton@dom.wustl.edu.
+
+With ongoing improvement in antiretroviral therapy, mortality among HIV-infected 
+persons has dramatically decreased. For HIV-infected persons who remain engaged 
+in care on suppressive therapy, life expectancy approaches that of the general 
+population. Additionally, we have seen increases in comorbidities traditionally 
+associated with aging: diabetes, hypertension, dyslipidemia, ischemic heart 
+disease, and osteoporosis. Vitamin D deficiency has also been identified as a 
+highly prevalent entity among HIV-infected populations. The association of 
+vitamin D deficiency with several of these comorbidities and its impact on 
+immune function provide the impetus for well-designed studies to evaluate the 
+impact of vitamin D supplementation on HIV disease and antiretroviral therapy. 
+This review summarizes the role of vitamin D in several disease states that are 
+prevalent among HIV populations, with a specific focus on bone health and the 
+interactions with antiretroviral medications.
+
+DOI: 10.1007/s11908-010-0144-x
+PMID: 21308459
+
+
+27. Demography. 2010 Nov;47(4):1035-51. doi: 10.1007/BF03213738.
+
+Unhealthy and uninsured: exploring racial differences in health and health 
+insurance coverage using a life table approach.
+
+Kirby JB(1), Kaneda T.
+
+Author information:
+(1)The Agency for Healthcare Research and Quality, Center for Financing, Access, 
+and Cost Trends, Rockville, MD, USA. jkirby@ahrq.gov
+
+Millions of people in the United States do not have health insurance, and wide 
+racial and ethnic disparities exist in coverage. Current research provides a 
+limited description of this problem, focusing on the number or proportion of 
+individuals without insurance at a single time point or for a short period. 
+Moreover, the literature provides no sense of the joint risk of being uninsured 
+and in need of medical care. In this article, we use a life table approach to 
+calculate health- and insurance-specific life expectancies for whites and 
+blacks, thereby providing estimates of the duration of exposure to different 
+insurance and health states over a typical lifetime. We find that, on average, 
+Americans can expect to spend well over a decade without health insurance during 
+a typical lifetime and that 40% of these years are spent in less-healthy 
+categories. Findings also reveal a significant racial gap: despite their shorter 
+overall life expectancy, blacks have a longer uninsured life expectancy than 
+whites, and this racial gap consists entirely of less-healthy years. Racial 
+disparities in insurance coverage are thus likely more severe than indicated by 
+previous research.
+
+DOI: 10.1007/BF03213738
+PMCID: PMC3000037
+PMID: 21308569 [Indexed for MEDLINE]
+
+
+28. Demography. 2010 Nov;47(4):1053-77. doi: 10.1007/BF03213739.
+
+Obtaining multistate life table distributions for highly refined subpopulations 
+from cross-sectional data: A Bayesian extension of Sullivan's method.
+
+Lynch SM(1), Brown JS.
+
+Author information:
+(1)Department of Sociology, Princeton University, Princeton, NJ, USA. 
+slynch@princeton.edu
+
+Multistate life table methods are often used to estimate the proportion of 
+remaining life that individuals can expect to spend in various states, such as 
+healthy and unhealthy states. Sullivan's method is commonly used when panels 
+containing data on transitions are unavailable and true multistate tables cannot 
+be generated. Sullivan's method requires only cross-sectional mortality data and 
+cross-sectional data indicating prevalence in states of interest. Such data 
+often come from sample surveys, which are widely available. Although the data 
+requirements for Sullivan's method are minimal, the method is limited in its 
+ability to produce estimates for subpopulations because of limited 
+disaggregation of data in cross-sectional mortality files and small cell sizes 
+in aggregated survey data. In this article, we develop, test, and demonstrate a 
+method that adapts Sullivan's approach to allow the inclusion of covariates in 
+producing interval estimates of state expectancies for any desired subpopulation 
+that can be specified in the cross-sectional prevalence data. The method 
+involves a three-step process: (1) using Gibbs sampling to sample parameters 
+from a bivariate regression model; (2) using ecological inference for producing 
+transition probability matrices from the Gibbs samples; (3) using standard 
+multistate calculations to convert the transition probability matrices into 
+multistate life tables.
+
+DOI: 10.1007/BF03213739
+PMCID: PMC3000035
+PMID: 21308570 [Indexed for MEDLINE]
+
+
+29. Urologia. 2010 Oct-Dec;77 Suppl 17:32-7.
+
+[Diagnosis and treatment of octogenarian neoplastic patients: bladder cancers].
+
+[Article in Italian]
+
+Destefanis P(1), Bisconti A, Lasaponara F, Fontana D.
+
+Author information:
+(1)Divisione Universitaria di Urologia 2, Ospedale San Giovanni Battista 
+Molinette, Torino, Italy. pdestefanis2@molinette.piemonte.it
+
+Age is a risk factor for the occurrence of bladder cancer and bladder cancer is 
+a disease of the elderly. The choice of treatment relays on the staging into 
+non-invasive and muscle-invasive bladder cancer. Non-invasive bladder cancer is 
+usually treated with transurethral resection of the bladder (TURB) followed by 
+intravesical therapy with BCG or chemotherapeutic agents. The gold standard in 
+the treatment of muscle-invasive bladder cancer is radical cystectomy. The 
+elderly and, in particular, the octogenarian have a worse tolerance for 
+aggressive therapies, due to the higher incidence of side effects and 
+complications. This problem could significantly occur for intravesical BCG 
+therapy and for radical cystectomy. When the urologist faces the treatment of an 
+octogenarian affected by bladder cancer, he should answer many questions: 1. In 
+case of a non-invasive bladder cancer, is it possible to use the same drugs that 
+we use for younger patients (BCG vs chemotherapeutic agents)? Should the timing 
+and the kind of follow-up be the same? 2. Should the octogenarian affected by 
+muscle-invasive bladder cancer undergo radical cystectomy or a less invasive 
+treatment? What kind of diversion should be preferred? Is it possible to propose 
+an orthotopic neobladder to an octogenarian patient? The choice of the treatment 
+should be made on the basis of a careful evaluation of the patient, considering 
+not only the patient's age but also comorbidities and life expectancy.
+
+PMID: 21308672 [Indexed for MEDLINE]
+
+
+30. Health Econ. 2011 Mar;20(3):348-61. doi: 10.1002/hec.1596.
+
+A uniform time trade off method for states better and worse than dead: 
+feasibility study of the 'lead time' approach.
+
+Devlin NJ(1), Tsuchiya A, Buckingham K, Tilling C.
+
+Author information:
+(1)Office of Health Economics, London, UK. ndevlin@ohe.org
+
+The way time trade off (TTO) values are elicited for states of health considered 
+'worse than being dead' has important implications for the mean values used in 
+economic evaluation. Conventional approaches to TTO, as used in the UK's 'MVH' 
+value set, are problematic because they require fundamentally different 
+trade-offs tasks for the valuation of states better and worse than dead. This 
+study aims to refine and test the feasibility of a new approach described by 
+Robinson and Spencer (2006. Health Economics 15: 393-402), and to explore the 
+characteristics of the valuation data it generates. The approach introduces a 
+'lead time' into the TTO, producing a uniform procedure for generating values 
+either >0 or<0. We used this lead time TTO to value 10 moderate to severe EQ-5D 
+states using a sample of the general public (n=109). We conclude that the 
+approach is feasible for use in valuation studies and appears to overcome the 
+discontinuity in values around 0 evident in conventional methods. However, 
+further research is required to resolve the issue of how to handle participants 
+who 'use up' all lead time; to develop ways of controlling for individual time 
+preferences; and to better understand the implications for valuations of states 
+better than dead.
+
+Copyright © 2010 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/hec.1596
+PMID: 21308856 [Indexed for MEDLINE]
+
+
+31. J Econ Entomol. 2010 Dec;103(6):2009-18. doi: 10.1603/ec09258.
+
+Development and population growth of Lygus hesperus on selected weed hosts, 
+artificial diet and cotton in the laboratory.
+
+Chen C(1), Parajulee MN.
+
+Author information:
+(1)Texas A&M System AgriLife Research and Extension Center, 1102 E FM 1294, 
+Lubbock, TX 79403, USA.
+
+Laboratory studies were conducted to obtain basic biological information of 
+Lygus hesperus Knight (Hemiptera: Miridae) on alfalfa (Medicago sativa L.), 
+pigweed (Amaranthus palmeri S. Wats.), Russian thistle (Salsola iberica Sennen 
+and Pau), green bean (Phaseolus vulgaris L.), artificial diet, and cotton 
+(Gossypium hirsutum L.) square and cotton boll at 27 degrees C. The nymphal 
+developmental duration was 28.8 d on cotton bolls, nearly twice longer, compared 
+with approximately 15 d in other hosts. The nymphal survivorship was 
+significantly lowest on the cotton boll (18%), whereas the survivorship in other 
+hosts ranged from 33% (cotton square) to 93% (green bean). The average total 
+nymphal survivorship was approximately 60% and the most nymphal mortalities 
+occurred on the first three instars. The life-table parameters were obtained 
+only in cotton square, artificial diet, green bean, and alfalfa. The average 
+adult longevity in artificial diet was the shortest (18.7 d),with the longest 
+longevity observed (36.1 d) on green beans. The intrinsic rates of population 
+increase (r(m)) were much higher in artificial diet (0.0771) and green beans 
+(0.0671) than in alfalfa (0.0327) and cotton square (0.0317). Although 
+statistically significant, the difference in r(m) values between alfalfa and 
+cotton square was very small, indicating the similarity in reproductive 
+suitability of cotton square and alfalfain a no-choice test. Thus, even though 
+cotton is not a preferred host, when blooming alfalfa and roadside weeds are 
+mowed in the Texas High Plains during June-July, it is the most likely time that 
+Lygus bugs may move from alfalfa and other host plants into adjacent cotton 
+fields and become effective pest of actively fruiting cotton.
+
+DOI: 10.1603/ec09258
+PMID: 21309220 [Indexed for MEDLINE]
+
+
+32. J Law Med Ethics. 2011 Mar;39 Suppl 1:34-6. doi: 
+10.1111/j.1748-720X.2011.00562.x.
+
+Environmental public health law: three pillars.
+
+Jackson RJ(1), Malloy TF.
+
+Author information:
+(1)Environmental Health Sciences at UCLA School of Public Health, CA, USA.
+
+DOI: 10.1111/j.1748-720X.2011.00562.x
+PMID: 21309893 [Indexed for MEDLINE]
+
+
+33. Am J Ophthalmol. 2011 May;151(5):768-773.e2. doi: 10.1016/j.ajo.2010.10.034. 
+Epub 2011 Feb 18.
+
+The lifetime economic burden of keratoconus: a decision analysis using a markov 
+model.
+
+Rebenitsch RL(1), Kymes SM, Walline JJ, Gordon MO.
+
+Author information:
+(1)Department of Ophthalmology and Visual Sciences, Washington University School 
+of Medicine, St. Louis, MO 63110-1093, USA.
+
+PURPOSE: To estimate the expected incremental lifetime cost of treatment of 
+keratoconus compared to the expected cost of the treatment of myopia.
+DESIGN: Cost estimate from the patient's perspective using a Markov decision 
+model.

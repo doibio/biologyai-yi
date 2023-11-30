@@ -1,0 +1,1000 @@
+DESIGN: Markov decision model employing a societal perspective.
+PATIENTS: Four hypothetical cohorts of American adults 60 years of age at 
+progressively greater risk for sudden cardiac death (SCD): 1) all adults (annual 
+probability of SCD 0.4%); 2) adults with multiple SCD risk factors (probability 
+2%); 3) adults with previous myocardial infarction (probability 4%); and 4) 
+adults with ischemic cardiomyopathy unable to receive an implantable 
+defibrillator (probability 6%).
+INTERVENTION: Strategy 1: individuals suffering an in-home cardiac arrest were 
+treated with emergency medical services equipped with AEDs (EMS-D). Strategy 2: 
+individuals suffering an in-home cardiac arrest received initial treatment with 
+an in-home AED, followed by EMS.
+RESULTS: Assuming cardiac arrest survival rates of 15% with EMS-D and 30% with 
+AEDs, the cost per quality-adjusted life-year gained (QALY) of providing in-home 
+AEDs to all adults 60 years of age is 216,000 dollars. Costs of providing 
+in-home AEDs to adults with multiple risk factors (2% probability of SCD), 
+previous myocardial infarction (4% probability), and ischemic cardiomyopathy (6% 
+probability) are 132,000 dollars, 104,000 dollars, and 88,000 dollars, 
+respectively.
+CONCLUSIONS: The cost-effectiveness of in-home AEDs is intimately linked to 
+individuals' risk of SCD. However, providing in-home AEDs to all adults over age 
+60 appears relatively expensive.
+
+DOI: 10.1111/j.1525-1497.2005.40247.x
+PMCID: PMC1490077
+PMID: 15836529 [Indexed for MEDLINE]
+
+
+660. Ann Intern Med. 2005 Apr 19;142(8):I40. doi: 
+10.7326/0003-4819-142-8-200504190-00002.
+
+Summaries for patients. What is the most cost-effective way to protect people in 
+the event of an anthrax terror attack?
+
+[No authors listed]
+
+Original report in
+    Ann Intern Med. 2005 Apr 19;142(8):601-10.
+
+DOI: 10.7326/0003-4819-142-8-200504190-00002
+PMID: 15838060 [Indexed for MEDLINE]661. Ann Intern Med. 2005 Apr 19;142(8):593-600. doi: 
+10.7326/0003-4819-142-8-200504190-00007.
+
+Clinical and economic implications of the Multicenter Automatic Defibrillator 
+Implantation Trial-II.
+
+Al-Khatib SM(1), Anstrom KJ, Eisenstein EL, Peterson ED, Jollis JG, Mark DB, Li 
+Y, O'Connor CM, Shaw LK, Califf RM.
+
+Author information:
+(1)Duke Clinical Research Institute, Durham, North Carolina 27715, USA.
+
+Comment in
+    Ann Intern Med. 2005 Apr 19;142(8):664-6.
+    Ann Intern Med. 2006 Jan 3;144(1):65; author reply 65-6.
+    Ann Intern Med. 2006 Jan 3;144(1):65; author reply 65-6.
+
+Summary for patients in
+    Ann Intern Med. 2005 Apr 19;142(8):I39.
+
+BACKGROUND: The Multicenter Automatic Defibrillator Implantation Trial 
+(MADIT)-II demonstrated that implantable cardioverter defibrillators (ICDs) save 
+lives when used in patients with a history of myocardial infarction (MI) and an 
+ejection fraction of 0.3 or less.
+OBJECTIVE: To investigate the cost-effectiveness of implanting ICDs in patients 
+who met MADIT-II eligibility criteria and were enrolled in the Duke 
+Cardiovascular Database between 1 January 1986 and 31 December 2001.
+DESIGN: Cost-effectiveness analysis.
+DATA SOURCES: Published literature, databases owned by Duke University Medical 
+Center, and Medicare data.
+TARGET POPULATION: Adults with a history of MI and an ejection fraction of 0.3 
+or less.
+TIME HORIZON: Lifetime.
+PERSPECTIVE: Societal.
+INTERVENTIONS: ICD therapy versus conventional medical therapy.
+OUTCOMES MEASURES: Cost per life-year gained and incremental cost-effectiveness.
+RESULTS: Compared with conventional medical therapy, ICDs are projected to 
+result in an increase of 1.80 discounted years in life expectancy and an 
+incremental cost-effectiveness ratio of 50,500 dollars per life-year gained. 
+Cost-effectiveness varied dramatically with changes in time horizon: The 
+cost-effectiveness ratio increased to 67,800 dollars per life-year gained, 
+79,900 dollars per life-year gained, 100,000 dollars per life-year gained, 
+167,900 dollars per life-year gained, and 367,200 dollars per life-year gained 
+for 15-year, 12-year, 9-year, 6-year, and 3-year time horizons, respectively. 
+Changing the frequency of follow-up visits, complication rates, and battery 
+replacements had less of an effect on the cost-effectiveness ratios than 
+reducing the cost of ICD placement and leads.
+LIMITATIONS: The study was limited by the completeness of the data, referral 
+bias, difference in medical therapy between the Duke cohort and the MADIT-II 
+cohort, and not addressing potential upgrades to biventricular devices.
+CONCLUSIONS: The economic expense of defibrillator implantation in all patients 
+who meet MADIT-II eligibility criteria is substantial. However, in the range of 
+survival benefit observed in MADIT-II, ICD therapy for these patients is 
+economically attractive by conventional standards.
+
+DOI: 10.7326/0003-4819-142-8-200504190-00007
+PMID: 15838065 [Indexed for MEDLINE]
+
+
+662. Ann Intern Med. 2005 Apr 19;142(8):601-10. doi: 
+10.7326/0003-4819-142-8-200504190-00008.
+
+Cost-effectiveness of defending against bioterrorism: a comparison of 
+vaccination and antibiotic prophylaxis against anthrax.
+
+Fowler RA(1), Sanders GD, Bravata DM, Nouri B, Gastwirth JM, Peterson D, Broker 
+AG, Garber AM, Owens DK.
+
+Author information:
+(1)Sunnybrook and Women's College Health Sciences Centre, University of Toronto, 
+Toronto, Ontario, Canada. rob.fowler@sw.ca <rob.fowler@sw.ca>
+
+Comment in
+    Ann Intern Med. 2005 Apr 19;142(8):667-8.
+
+Summary for patients in
+    Ann Intern Med. 2005 Apr 19;142(8):I40.
+
+BACKGROUND: Weaponized Bacillus anthracis is one of the few biological agents 
+that can cause death and disease in sufficient numbers to devastate an urban 
+setting.
+OBJECTIVE: To evaluate the cost-effectiveness of strategies for prophylaxis and 
+treatment of an aerosolized B. anthracis bioterror attack.
+DESIGN: Decision analytic model.
+DATA SOURCES: We derived probabilities of anthrax exposure, vaccine and 
+treatment characteristics, and their costs and associated clinical outcomes from 
+the medical literature and bioterrorism-preparedness experts.
+TARGET POPULATION: Persons living and working in a large metropolitan U.S. city.
+TIME HORIZON: Patient lifetime.
+PERSPECTIVE: Societal.
+INTERVENTION: We evaluated 4 postattack strategies: no prophylaxis, vaccination 
+alone, antibiotic prophylaxis alone, or vaccination and antibiotic prophylaxis, 
+as well as preattack vaccination versus no vaccination.
+OUTCOME MEASURES: Costs, quality-adjusted life-years, life-years, and 
+incremental cost-effectiveness.
+RESULTS OF BASE-CASE ANALYSIS: If an aerosolized B. anthracis bioweapon attack 
+occurs, postexposure prophylactic vaccination and antibiotic therapy for those 
+potentially exposed is the most effective (0.33 life-year gained per person) and 
+least costly (355 dollars saved per person) strategy, as compared with 
+vaccination alone. At low baseline probabilities of attack and exposure, mass 
+previous vaccination of a metropolitan population is more costly (815 million 
+dollars for a city of 5 million people) and not more effective than no 
+vaccination.
+RESULTS OF SENSITIVITY ANALYSIS: If prophylactic antibiotics cannot be promptly 
+distributed after exposure, previous vaccination may become cost-effective.
+LIMITATIONS: The probability of exposure and disease critically depends on the 
+probability and mechanism of bioweapon release.
+CONCLUSIONS: In the event of an aerosolized B. anthracis bioweapon attack over 
+an unvaccinated metropolitan U.S. population, postattack prophylactic 
+vaccination and antibiotic therapy is the most effective and least expensive 
+strategy.
+
+DOI: 10.7326/0003-4819-142-8-200504190-00008
+PMID: 15838066 [Indexed for MEDLINE]
+
+
+663. J Vasc Surg. 2005 Mar;41(3):423-35; discussion 435. doi: 
+10.1016/j.jvs.2004.11.041.
+
+The effectiveness of percutaneous transluminal angioplasty for the treatment of 
+critical limb ischemia: a 10-year experience.
+
+Kudo T(1), Chandra FA, Ahn SS.
+
+Author information:
+(1)Gonda Vascular Center, University of California at Los Angeles, 200 UCLA 
+Medical Plaza, Los Angeles, CA 90095-6958, USA.
+
+OBJECTIVE: To determine the efficacy, safety, and long-term results, including 
+continued clinical improvement and limb salvage, of percutaneous transluminal 
+angioplasty (PTA) in patients with critical limb ischemia (CLI).
+METHODS: From August 1993 to March 2004, 138 limbs in 111 patients with CLI 
+(rest pain in 62 [45%] and ulcer/gangrene in 76 [55%]) were treated by PTA. In 
+iliac lesions, stents were placed selectively for primary PTA failure: residual 
+stenosis (>30%) or pressure gradient (>5 mm Hg). Stent placement was limited in 
+infrainguinal lesions. The most distal affected arteries treated with 
+angioplasty were the iliac artery in 45 limbs (33%; iliac group), the 
+femoropopliteal artery in 41 limbs (30%; FP group), and tibial arteries in 52 
+limbs (37%; BK group). All analysis was performed according to an 
+intent-to-treat basis. Reporting standards of the Society for Vascular Surgery 
+and the International Society for Cardiovascular Surgery were followed to 
+evaluate initial success, and late follow-up status was evaluated with the 
+Kaplan-Meier method. Patency was evaluated by using ultrasound scanning and 
+ankle-brachial pressure index measurement.
+RESULTS: There was one (0.9%) perioperative death. Twenty stents were placed 
+selectively in 14 iliac arteries. Mean follow-up was 14.7 months (range, 1-75 
+months). Overall, initial technical and clinical success rates were 96.4% and 
+92.8%, respectively. The cumulative primary, assisted primary, and secondary 
+patency; continued clinical improvement; and limb salvage rates +/- SE at 5 
+years were 31.4% +/- 10.4%, 75.5% +/- 5.7%, 79.6% +/- 5.5%, 36.1% +/- 10.0%, and 
+89.1% +/- 4.0%, respectively. In each subgroup, the primary, assisted primary, 
+and secondary patency; continued clinical improvement; and limb salvage rates at 
+3 years were 51.6%, 94.7%, 97.8%, 65.1%, and 95.0%, respectively, in the iliac 
+group; 49.4%, 72.2%, 76.4%, 57.4%, and 92.7%, respectively, in the FP group; and 
+23.5%, 41.8%, 46.1%, 51.1%, and 77.3%, respectively, in the BK group. Of the 12 
+predictable variables, hypertension, multiple segment lesions, more distal 
+lesions, and TransAtlantic Inter-Society Consensus classification type D were 
+significant independent risk factors for the outcomes ( P < .05; univariate 
+log-rank test and Cox regression multivariate analysis).
+CONCLUSIONS: PTA is a feasible, safe, and effective procedure for the treatment 
+of CLI. The high limb salvage rate is attributed to the high assisted primary 
+and secondary patency rates despite the low primary patency rate. Angioplasty 
+can be the primary choice for the treatment of CLI due to iliac and 
+infrainguinal arterial occlusive disease.
+
+DOI: 10.1016/j.jvs.2004.11.041
+PMID: 15838475 [Indexed for MEDLINE]
+
+
+664. Dolentium Hominum. 1995;10(1):154-60.
+
+Respect for life and the search for the quality of life in medicine: ethical 
+aspects.
+
+Sgreccia E(1).
+
+Author information:
+(1)Institute of Bioethics, University of Sacred Heart, Rome, Italy.
+
+PMID: 15839018 [Indexed for MEDLINE]
+
+
+665. Dolentium Hominum. 1995;10(1):203-9.
+
+Equity, health, care and values: an economist's perspective.
+
+Zamagni S(1).
+
+Author information:
+(1)Faculty of Economy and Business, University of Studies, Bologna, Italy.
+
+PMID: 15839021 [Indexed for MEDLINE]
+
+
+666. Cancer Treat Res. 2005;124:135-62. doi: 10.1007/0-387-23962-6_7.
+
+Clinical and biochemical evaluation changes over aging.
+
+Abbatecola A(1), Windham BG, Bandinelli S, Lauretani F, Paolisso G, Ferrucci L.
+
+Author information:
+(1)Department of Geriatric Medicine and Metabolic Diseases, II University of 
+Naples, Naples, Italy.
+
+DOI: 10.1007/0-387-23962-6_7
+PMID: 15839194 [Indexed for MEDLINE]
+
+
+667. Cancer Treat Res. 2005;124:165-71. doi: 10.1007/0-387-23962-6_8.
+
+Biological screening and impact in elderly cancer patients.
+
+Braud AC(1), Extermann M.
+
+Author information:
+(1)H. Lee Moffitt Cancer Center and Research Institute, Tampa, Florida, USA.
+
+DOI: 10.1007/0-387-23962-6_8
+PMID: 15839195 [Indexed for MEDLINE]
+
+
+668. Cancer Treat Res. 2005;124:189-221.
+
+Biological basis of cancer in the older person.
+
+Beghe C(1), Balducci L.
+
+Author information:
+(1)University of South Florida College of Medicine, Tampa, Florida, USA.
+
+PMID: 15839197 [Indexed for MEDLINE]
+
+
+669. Cancer Treat Res. 2005;124:223-32. doi: 10.1007/0-387-23962-6_11.
+
+Decision analysis for cancer prevention and cancer treatment in the elderly.
+
+Extermann M(1).
+
+Author information:
+(1)Senior Adult Oncology Program, H. Lee Moffitt Cancer Center and Research 
+Institute, Tampa, Florida, USA.
+
+DOI: 10.1007/0-387-23962-6_11
+PMID: 15839198 [Indexed for MEDLINE]
+
+
+670. PLoS Biol. 2005 Apr;3(4):e99. doi: 10.1371/journal.pmed.0020099. Epub 2005
+Apr  26.
+
+Hearing the voice of medical students worldwide.
+
+Palmer BA(1), Wong A, Singla M.
+
+Author information:
+(1)American Medical Student Association, Reston, Virginia, USA. 
+pres@www.amsa.org <pres@www.amsa.org>
+
+The Student Forum, a new section of PLoS Medicine, is a space where medical 
+students from across the world can exchange ideas about the critical issues 
+affecting health and health care from their unique perspective.
+
+DOI: 10.1371/journal.pmed.0020099
+PMID: 15839741 [Indexed for MEDLINE]
+
+
+671. Rev Esp Enferm Dig. 2005 Mar;97(3):187-95. doi:
+10.4321/s1130-01082005000300007.
+
+Quality of life in morbid obesity.
+
+[Article in English, Spanish]
+
+Poves Prim I(1), Macías GJ, Cabrera Fraga M, Situ L, Ballesta López C.
+
+Author information:
+(1)Laparoscopic Center, Teknon Medical Center, Barcelona, Spain. poves@clb.es
+
+INTRODUCTION: Morbid obesity (MO) is a chronic disease that is reaching epidemic 
+proportions and becoming an increasing health problem in developed countries. 
+Obesity-related comorbidities reduce both the quality and expectancy of life.
+OBJECTIVES: To validate the GIQLI (Gastrointestinal Quality of Life Index) test 
+as a reliable and effective tool for the evaluation of quality of life in 
+morbidly obese patients.
+PATIENTS AND METHODS: The GIQLI test is made up of 36 individually scored items, 
+the addition of which give up a final score. A higher score correlates with a 
+better quality of life. Items can be separated into five groups or dimensions: 
+digestive symptoms, emotional status, effects of treatment, and physical as well 
+as social dysfunction. The GIQLI test was administered to a randomized sample of 
+1990 morbidly obese patients who fulfilled the indication criteria for bariatric 
+surgery, and to a control group of 100 healthy individuals with no known 
+medical, functional or psychiatric disease. Overall test and specific dimension 
+scores were evaluated for each group.
+RESULTS: Overall test and specific dimension scores were significantly lower in 
+patients with MO when compared to the control group. The overall GIQLI score 
+decreased as age increased, as did the number of associated comorbidities.
+CONCLUSIONS: The GIQLI test proved to be a rather useful tool to evaluate 
+quality of life in morbidly obese patients. These patients present a poorer 
+quality of life not only because of the presence of digestive symptoms but also 
+because of their emotional, physical, and social status.
+
+DOI: 10.4321/s1130-01082005000300007
+PMID: 15839813 [Indexed for MEDLINE]
+
+
+672. Nephrol Dial Transplant. 2005 Jun;20(6):1038-41. doi: 10.1093/ndt/gfh824.
+Epub  2005 Apr 19.
+
+Health economics--what the nephrologist should know.
+
+Palmer AJ.
+
+Comment on
+    Nephrol Dial Transplant. 2005 Jun;20(6):1103-9.
+
+DOI: 10.1093/ndt/gfh824
+PMID: 15840678 [Indexed for MEDLINE]
+
+
+673. JAMA. 2005 Apr 20;293(15):1861-7. doi: 10.1001/jama.293.15.1861.
+
+Excess deaths associated with underweight, overweight, and obesity.
+
+Flegal KM(1), Graubard BI, Williamson DF, Gail MH.
+
+Author information:
+(1)National Center for Health Statistics, Centers for Disease Control and 
+Prevention, Hyattsville, Md 20782, USA. kflegal@cdc.gov
+
+Comment in
+    JAMA. 2005 Apr 20;293(15):1918-9.
+    JAMA. 2005 Aug 3;294(5):551-2; author reply 552-3.
+    JAMA. 2005 Aug 3;294(5):551; author reply 552-3.
+    JAMA. 2005 Aug 3;294(5):552; author reply 552-3.
+    JAMA. 2005 Aug 3;294(5):552; author reply 552-3.
+
+CONTEXT: As the prevalence of obesity increases in the United States, concern 
+over the association of body weight with excess mortality has also increased.
+OBJECTIVE: To estimate deaths associated with underweight (body mass index [BMI] 
+<18.5), overweight (BMI 25 to <30), and obesity (BMI > or =30) in the United 
+States in 2000.
+DESIGN, SETTING, AND PARTICIPANTS: We estimated relative risks of mortality 
+associated with different levels of BMI (calculated as weight in kilograms 
+divided by the square of height in meters) from the nationally representative 
+National Health and Nutrition Examination Survey (NHANES) I (1971-1975) and 
+NHANES II (1976-1980), with follow-up through 1992, and from NHANES III 
+(1988-1994), with follow-up through 2000. These relative risks were applied to 
+the distribution of BMI and other covariates from NHANES 1999-2002 to estimate 
+attributable fractions and number of excess deaths, adjusted for confounding 
+factors and for effect modification by age.
+MAIN OUTCOME MEASURES: Number of excess deaths in 2000 associated with given BMI 
+levels.
+RESULTS: Relative to the normal weight category (BMI 18.5 to <25), obesity (BMI 
+> or =30) was associated with 111,909 excess deaths (95% confidence interval 
+[CI], 53,754-170,064) and underweight with 33,746 excess deaths (95% CI, 
+15,726-51,766). Overweight was not associated with excess mortality (-86,094 
+deaths; 95% CI, -161,223 to -10,966). The relative risks of mortality associated 
+with obesity were lower in NHANES II and NHANES III than in NHANES I.
+CONCLUSIONS: Underweight and obesity, particularly higher levels of obesity, 
+were associated with increased mortality relative to the normal weight category. 
+The impact of obesity on mortality may have decreased over time, perhaps because 
+of improvements in public health and medical care. These findings are consistent 
+with the increases in life expectancy in the United States and the declining 
+mortality rates from ischemic heart disease.
+
+DOI: 10.1001/jama.293.15.1861
+PMID: 15840860 [Indexed for MEDLINE]
+
+
+674. Clin Implant Dent Relat Res. 2004;6(4):181-9. doi: 
+10.1111/j.1708-8208.2004.tb00034.x.
+
+Measurements of soft tissue volume in association with single-implant 
+restorations: a 1-year comparative study after abutment connection surgery.
+
+Henriksson K(1), Jemt T.
+
+Author information:
+(1)The Brånemark Clinic, Public Dental Health, Göteborg, Sweden.
+
+BACKGROUND: Patients with buccal defects due to tooth extraction seem to regain 
+some of the contour at the time of abutment surgery and connection of 
+single-implant crown restorations. It can then be assumed that different 
+abutment systems could restore the buccal contour to different degrees.
+PURPOSE: To measure changes in buccal tissue volume after placing restorations 
+with single-implant crowns using two different abutment systems and to measure 
+soft tissue change during the 1 year after single-implant treatment.
+MATERIALS AND METHODS: Eighteen patients were provided with single-implant 
+restorations in the central incisor area. Nine patients in each group were 
+treated with single-implant crowns supported by either CeraOne abutments (Nobel 
+Biocare AB, Göteborg, Sweden) or customized Procera ceramic abutments (Nobel 
+Biocare AB). Study casts were made before abutment connection, at crown 
+placement, and after 1 year. After the casts were scanned, they were analyzed 
+with a computer, using the model before abutment as a reference. In the area of 
+the single implant, sagittal projections provided images of the models that 
+allowed measurements between the contours at the different situations. 
+Radiography and photography for measuring papillary volume were also performed.
+RESULTS: All patients exhibited increased "buccal volume" after abutment 
+connection and crown placement (p < .01). A trend to greater increase was 
+observed for the Procera group. Both groups also showed a reduction of buccal 
+tissue 1 year later (p < .05-.01), leaving on average more volume in the Procera 
+group. The papillae recovered spontaneously, and no relationship was observed 
+between the presence of papilla and underlying bone support (p > .05).
+CONCLUSIONS: The buccal tissue increased significantly after placement of the 
+abutment cylinder and the implant crown. This increase of buccal contour was 
+reduced after 1 year. Furthermore, no relationship was established between the 
+presence of papillae and the distance between the contact point and the 
+underlying bone crest.
+
+DOI: 10.1111/j.1708-8208.2004.tb00034.x
+PMID: 15841578 [Indexed for MEDLINE]
+
+
+675. Clin Implant Dent Relat Res. 2004;6(4):190-8. doi: 
+10.1111/j.1708-8208.2004.tb00035.x.
+
+Fixed implant-supported prostheses in elderly patients: a 5-year retrospective 
+study of 133 edentulous patients older than 79 years.
+
+Engfors I(1), Ortorp A, Jemt T.
+
+Author information:
+(1)The Brånemark Clinic, Public Dental Health Service, Göteborg, Sweden.
+
+BACKGROUND: An increasing number of elderly patients are treated with implants, 
+but results for the elderly patient in terms of implant success and adaptation 
+to implant prostheses are contradictory.
+OBJECTIVE: To retrospectively study the 5-year clinical and radiologic 
+performances of fixed implant-supported prostheses placed in edentulous elderly 
+patients and to compare those results with the results of using similar 
+prostheses in a control group of younger patients.
+MATERIALS AND METHODS: The study group comprised 133 edentulous patients who 
+were 80 or more years of age and who were consecutively treated with fixed 
+implant-supported prostheses between January 1986 and August 1998. Altogether 
+761 Brånemark System implants (Nobel Biocare AB, Göteborg, Sweden) were placed 
+in 139 edentulous jaws. The control group comprised 115 edentulous patients who 
+were younger than 80 years and who were treated consecutively from March 1996 to 
+November 1997 with similar prostheses. In this group 670 implants were placed in 
+118 edentulous jaws. Information was collected from all postinsertion visits, 
+including the fifth annual checkup, and changes of marginal bone levels were 
+analyzed from intraoral radiographs.
+RESULTS: The 5-year cumulative survival rate (CSR) for implants in the maxilla 
+was 93.0% in the study group and 92.6% in the control group; the corresponding 
+CSRs for implants in the mandible were 99.5% and 99.7%. The most common 
+complications for patients in the study group were soft tissue inflammation 
+(mucositis) and cheek and lip biting (p < .05) whereas resin veneer fractures 
+were the most common complications for the control group. Overall 5-year 
+marginal bone loss for the study group was 0.7 mm (standard deviation [SD], 
+0.45) in the upper jaw and 0.6 mm (SD, 0.50) in the lower jaw. Differences in 
+bone levels and bone loss between the two groups did not reach significant 
+levels (p > .05).
+CONCLUSIONS: Implant treatment in the elderly patients showed treatment results 
+comparable to those observed in younger age groups. However, indications of more 
+problems with adaptation could be observed and were reflected in more 
+postinsertion problems. Cleaning problems and associated soft tissue 
+inflammation (mucositis) as well as tongue, lip, and cheek biting were 
+significantly more often observed among the elderly patients (p < .05).
+
+DOI: 10.1111/j.1708-8208.2004.tb00035.x
+PMID: 15841579 [Indexed for MEDLINE]
+
+
+676. Clin Implant Dent Relat Res. 2004;6(4):199-209. doi: 
+10.1111/j.1708-8208.2004.tb00036.x.
+
+Clinical experiences of computer numeric control-milled titanium frameworks 
+supported by implants in the edentulous jaw: a 5-year prospective study.
+
+Ortorp A(1), Jemt T.
+
+Author information:
+(1)The Brånemark Clinic, Public Dental Health, Göteborg, Sweden. 
+anders.ortorp@vgregion.se
+
+BACKGROUND: Few long-term follow-up studies on treatment concepts using computer 
+numeric control-milled titanium frameworks have been conducted.
+OBJECTIVE: To evaluate the clinical and radiographic performance of 
+implant-supported prostheses provided with computer numeric control-milled 
+titanium frameworks in the edentulous jaw and to compare their performance 
+during the first 5 years of function with that of prostheses provided with 
+conventional cast gold alloy frameworks.
+MATERIALS AND METHODS: A consecutive group of 126 edentulous patients were 
+randomly provided with 67 prostheses with titanium frameworks (test group) in 23 
+upper jaws and 44 lower jaws and with 62 conventional prostheses with gold alloy 
+castings (control group) in 31 upper jaws and 31 lower jaws. Clinical and 
+radiographic 5-year data were collected for the test and control groups.
+RESULTS: The frequency of problems was low, and clinical and radiologic 
+performances were similar in both groups. In the test group, the 5-year 
+cumulative survival rates (CSRs) were 94.9% and 98.3% for implants and titanium 
+prostheses, respectively. The respective corresponding CSRs for the control 
+group were 97.9% and 98.2%. More loaded implants were lost in the maxillas in 
+the test group (p < .01), but this difference was not significant on the 
+patient/prosthesis level (p > .05). Smokers lost more implants than nonsmokers 
+lost (p < .01). Similar survival rates were observed for implants in the 
+mandible. One prosthesis was lost in each group because of the loss of implants. 
+Metal fractures were seen only in the control group, and resin veneer fractures 
+were more frequent in the maxilla in the gold alloy group (p < .05). In the test 
+group, the mean marginal bone loss was 0.5 mm (SD, 0.44) in the maxilla and 0.4 
+mm (SD, 0.50) in the mandible. A similar pattern of bone reaction was observed 
+in the control group. Mean marginal bone loss was similar for smokers and 
+nonsmokers (p > .05).
+CONCLUSION: Computer numeric control-milled titanium frameworks are a viable 
+alternative to gold alloy castings in the edentulous jaw and present clinical 
+and radiologic performances similar to those of conventional gold alloy 
+frameworks during the first 5 years of function.
+
+DOI: 10.1111/j.1708-8208.2004.tb00036.x
+PMID: 15841580 [Indexed for MEDLINE]
+
+
+677. Chronic Dis Can. 2004 Summer-Fall;25(3-4):101-7.
+
+Inequalities in health and health services delivery: a multilevel study of 
+primary care and hypertension control.
+
+Veugelers PJ(1), Yip AM, Burge F.
+
+Author information:
+(1)Department of Community Health and Epidemiology, Faculty of Medicine, 
+Dalhousie University, Edmonton, Alberta, Canada. paul.veugelers@ualberta.ca
+
+Delivery of health services is an important determinant of health. Restricted 
+availability and access may result in health inequalities. To determine the 
+extent of geographic variation in the delivery of health services and its effect 
+on the health of community residents in terms of under-diagnosis and 
+under-treatment of hypertension, we carried out a multilevel study of 
+participants in the 1995 Nova Scotia Heart Health Survey (n = 3,094). We used 
+individual level survey data and health status measurements linked to 
+geographical level information to examine the importance of adequate delivery of 
+health services to the diagnosis and treatment of hypertension in the universal 
+health care setting of the province of Nova Scotia. The delivery of primary care 
+services across Nova Scotia varied moderately with physician visit rates ranging 
+from 3.3 to 5.5 visits per resident per year. There were neither substantial nor 
+statistically significant differences in the diagnosis and treatment of 
+hypertension among residents of communities varying in the delivery of health 
+services. We concluded that a geographic variation in the delivery of primary 
+care services is a public health concern that is not consistent with the 
+objectives of universal coverage of health services; however, it was not 
+confirmed to result in health inequalities.
+
+PMID: 15841851 [Indexed for MEDLINE]
+
+
+678. Value Health. 2005 Jan-Feb;8(1):3-9. doi: 10.1111/j.1524-4733.2005.04010.x.
+
+Growth and quality of the cost-utility literature, 1976-2001.
+
+Neumann PJ(1), Greenberg D, Olchanski NV, Stone PW, Rosen AB.
+
+Author information:
+(1)Program on the Economic Evaluation of Medical Technology, Center for Risk 
+Analysis, Harvard School of Public Health, Boston, MA 02115, USA. 
+pneumann@hsph.harvard.edu
+
+PURPOSE: Cost-utility analyses (CUAs) have become increasingly popular, although 
+questions persist about their comparability and credibility. Our objectives were 
+to: 1) describe the growth and characteristics of CUAs published in the 
+peer-reviewed literature through 2001; 2) investigate whether CUA quality has 
+improved over time; 3) examine whether quality varies by the experience of 
+journals in publishing CUAs, or the source of external funding for study 
+investigators; and 4) examine changes in practices in US-based studies following 
+recommendations of the US Panel on Cost-Effectiveness in Health and Medicine 
+(USPCEHM). This study updates and expands our previous work, which examined CUAs 
+through 1997.
+METHODS: We conducted a systematic search of the English-language medical 
+literature for original CUAs published from 1976 through 2001, using Medline and 
+other databases. Each study was audited independently by two trained readers, 
+who recorded the methodological and reporting practices used.
+RESULTS: Our review identified 533 original CUAs. Comparing articles published 
+in 1998 to 2001 (n = 305) with those published in 1976 to 1997 (n = 228), 
+studies improved in almost all categories, including: clearly presenting the 
+study perspective (73% vs. 52%, P < 0.001); discounting both costs and 
+quality-adjusted life-years (82% vs. 73%, P = 0.0115); and reporting incremental 
+cost-utility ratios (69% vs. 46%, P < 0.001). The proportion of studies 
+disclosing funding sources did not change (65% vs. 65%, P = 0.939). Adherence to 
+recommended practices was greater in more experienced journals, and roughly 
+equal in industry versus non-industry-funded analyses. The data suggest an 
+impact in methodological practices used in US-based CUAs in accordance with 
+recommendations of the USPCEHM.
+CONCLUSIONS: Adherence to methodological and reporting practices in published 
+CUAs is improving, although many studies still omit basic elements. Medical 
+journals, particularly those with little experience publishing 
+cost-effectiveness analyses, should adopt and enforce standard protocols for 
+conducting and reporting CUAs.
+
+DOI: 10.1111/j.1524-4733.2005.04010.x
+PMID: 15841889 [Indexed for MEDLINE]
+
+
+679. Value Health. 2005 Jan-Feb;8(1):10-23. doi:
+10.1111/j.1524-4733.2005.03070.x.
+
+Variability of cost-effectiveness estimates for pharmaceuticals in Western 
+Europe: lessons for inferring generalizability.
+
+Barbieri M(1), Drummond M, Willke R, Chancellor J, Jolain B, Towse A.
+
+Author information:
+(1)Innovus Research (UK) Ltd. High Wycombe, UK.
+
+OBJECTIVES: It has long been suggested that, whereas the results of clinical 
+studies of pharmaceuticals are generalizable from one jurisdiction to another, 
+the results of economic evaluations are location dependent. There has been, 
+however, little study of the causes of variation, whether differences in study 
+results among countries are systematic, or whether they are important for 
+decision making.
+METHODS: A literature search was conducted to identify economic evaluations of 
+pharmaceuticals conducted in two or more European countries. The studies 
+identified were then classified by methodological type and analyzed to assess 
+their level of variability and to identify the main causes of variation. 
+Assessments were also made of the extent to which differences in study results 
+among countries were systematic and whether they would lead to a different 
+decision, assuming a range of values of the threshold willingness-to-pay for a 
+life-year or quality-adjusted life-year (QALY).
+RESULTS: In total 46 intercountry drug comparisons were identified, 29 in 
+multicountry studies and 17 in comparable single country studies that were 
+considered to be sufficiently similar in terms of methodology. The type of study 
+(i.e., trial-based or modeling study) had some impact on variability, but the 
+most important factor was the extent of variation across countries in 
+effectiveness, resource use or unit costs, allowed by the researcher's chosen 
+methodology. There were few systematic differences in study results among 
+countries, so a decision maker in country B, on seeing a recent economic 
+evaluation of a new drug in country A, would have little basis on which to 
+predict whether the drug, if evaluated, would be more or less cost-effective in 
+his or her country. Given the extent of variation in cost-effectiveness 
+estimates among countries, the importance of this for decision making depends on 
+decision makers' thresholds in willingness-to-pay for a QALY or life-year. If a 
+cost-effectiveness threshold (i.e., willingness-to-pay) for a life-year or QALY 
+of dollar 50,000 were assumed, the same conclusion regarding cost-effectiveness 
+would be reached in most cases.
+CONCLUSION: This review shows that cost-effectiveness results for 
+pharmaceuticals vary from country to country in Western Europe and that these 
+variations are not systematic. In addition, constraints imposed by analysts may 
+reduce apparent variability in the estimates. The lessons for inferring 
+generalizability are not straightforward, although the implications of variation 
+for decision making depend critically on the cost-effectiveness thresholds 
+applying in Western Europe.
+
+DOI: 10.1111/j.1524-4733.2005.03070.x
+PMID: 15841890 [Indexed for MEDLINE]
+
+
+680. Value Health. 2005 Jan-Feb;8(1):32-46. doi:
+10.1111/j.1524-4733.2005.03086.x.
+
+Probabilistic Markov model to assess the cost-effectiveness of bronchodilator 
+therapy in COPD patients in different countries.
+
+Oostenbrink JB(1), Rutten-van Mölken MP, Monz BU, FitzGerald JM.
+
+Author information:
+(1)Institute for Medical Technology Assessment, Erasmus MC Rotterdam, PO Box 
+1738, 3000 DR Rotterdam, The Netherlands. oostenbrink@bmg.eur.nl
+
+Comment in
+    Value Health. 2005 Jan-Feb;8(1):1-2.
+
+OBJECTIVES: The development of a probabilistic Markov model with a time horizon 
+of 1 year to compare the cost-effectiveness of three bronchodilators: 1) the new 
+long-acting anticholinergic tiotropium; 2) the short-acting anticholinergic 
+ipratropium; and 3) the long-acting beta 2-agonist salmeterol, for the treatment 
+of patients with chronic obstructive pulmonary disease (COPD) in different 
+countries. In this article we compare The Netherlands and Canada.
+METHODS: The Markov model was structured along disease severity states and 
+exacerbations. Transition probabilities between disease states and exacerbation 
+probabilities were derived from patient-level data from six randomized 
+controlled trials assessing the efficacy and safety of tiotropium. Resource 
+utilization during exacerbations and maintenance treatment for The Netherlands 
+were derived from two clinical trials, whereas for Canada these data were 
+obtained from a countrywide observational study that used similar inclusion 
+criteria as the trials. Second-order Monte Carlo simulations were undertaken in 
+which values were randomly drawn from distributions of these parameters. 
+Outcomes of the model are yearly treatment costs, exacerbations, and 
+quality-adjusted life months.
+RESULTS: The mean difference in the number of exacerbations was 0.17 (95% 
+uncertainty interval: -0.02-0.37) in favor of tiotropium when compared with 
+salmeterol and the difference between salmeterol and ipratropium was 0.12 
+(-0.17-0.44) in favor of salmeterol. The number of quality-adjusted life months 
+did not substantially differ between treatment groups and varied from 8.42 (SE 
+0.41) in the tiotropium group to 8.17 (0.46) in the salmeterol group and 8.11 
+(0.50) in the ipratropium group. In The Netherlands, costs in the tiotropium 
+group were 42 Euros (-484-353) lower than in the salmeterol group, whereas costs 
+in the salmeterol group were 128 Euros (-795-457) lower than in the ipratropium 
+group. In Canada, costs were consistently lower than in The Netherlands and 
+nearly the same in all treatment groups. Differences between the two countries 
+were primarily a result of a higher length of hospital stay in case of an 
+exacerbation in The Netherlands. The cost-effectiveness acceptability frontier 
+of exacerbations showed that tiotropium was associated with the maximum expected 
+net benefit for all values of the ceiling ratio above 0 Euros (The Netherlands) 
+and 10 Euros (Canada) in the base case analysis.
+CONCLUSIONS: This probabilistic model-based economic evaluation demonstrates how 
+clinical trial data can be combined and integrated with country-specific 
+information about resource utilization and unit cost to assess the 
+cost-effectiveness of bronchodilators in COPD patients. Quality-adjusted life 
+months did not substantially differ between treatment groups. In terms of 
+exacerbations, tiotropium was associated with maximum expected net benefit for 
+plausible values of the ceiling ratio. In sensitivity analyses, this outcome was 
+most sensitive to changes in exacerbation rates.
+
+DOI: 10.1111/j.1524-4733.2005.03086.x
+PMID: 15841892 [Indexed for MEDLINE]
+
+
+681. Value Health. 2005 Jan-Feb;8(1):53-8. doi: 10.1111/j.1524-4733.2005.03068.x.
+
+An assessment of the impact of informative dropout and nonresponse in measuring 
+health-related quality of life using the EuroQol (EQ-5D) descriptive system.
+
+Ratcliffe J(1), Young T, Longworth L, Buxton M.
+
+Author information:
+(1)Sheffield Health Economics Group, School of Health and Related Research, 
+University of Sheffield, Regent Court 30, Regent Street, Sheffield S1 4DA, UK. 
+j.ratcliffe@sheffield.ac.uk
+
+OBJECTIVES: To investigate the impact of imputing EQ-5D values to allow for 
+informative dropout and nonresponse in a longitudinal assessment of the 
+health-related quality of life (HRQL) of liver transplant recipients.
+METHODS: The EQ-5D was administered at defined time intervals pre- and 
+post-transplantation to all adults who were listed to receive liver transplants 
+as National Health Service (NHS) treatment at each of the six Department of 
+Health designated centers in England and Wales over a time-period of 36 months 
+(12 month recruitment period and 24 month follow-up period). During the course 
+of the study missing data arose for two main reasons, informative dropout and 
+nonresponse. Informative dropout was accounted for by giving those patients who 
+died an EQ-5D score of 0 and those patients who were too ill to respond to an 
+EQ-5D score equivalent to the 5th percentile of respondents for each time point 
+pretransplantation. Nonresponse was accounted for using relatively naive 
+approaches (last value carried forward, and upper/lower 95% confidence interval 
+around the mean) and contrasted with a more sophisticated multiple imputation 
+method.
+RESULTS: Adjusting for informative dropout in isolation resulted in a marked 
+deterioration in mean scores over time pretransplant relative to the base case 
+situation in which no such adjustments were made. Nevertheless, adjusting for 
+informative dropout and/or nonresponders did not alter the base case conclusion 
+of no statistically significant differences in mean EQ-5D scores over time 
+pretransplant. In contrast, post-transplant data indicated highly statistically 
+significant improvements in quality of life over time for the base case (P < 
+0.001) whereas no statistically significant improvements over time were found 
+when informative dropout was allowed for in isolation (P = 0.402) or when 
+informative dropout and nonresponse were allowed for simultaneously (P = 
+0.105-0.185).
+CONCLUSIONS: It is important that future studies which purport to assess the 
+HRQL over time of patients, such as these with end-stage liver disease, include 
+an allowance for informative dropout and nonresponse within the analysis.
+
+DOI: 10.1111/j.1524-4733.2005.03068.x
+PMID: 15841894 [Indexed for MEDLINE]
+
+
+682. Value Health. 2005 Jan-Feb;8(1):80-1. doi: 10.1111/j.1524-4733.2005.08104.x.
+
+Some considerations for the interpretation of health-related quality of life 
+data.
+
+Norquist JM, Girman CJ, Santanello NC.
+
+Comment on
+    Value Health. 2004 Jan-Feb;7(1):93-104.
+
+DOI: 10.1111/j.1524-4733.2005.08104.x
+PMID: 15841897 [Indexed for MEDLINE]
+
+
+683. Value Health. 2005 Jan-Feb;8(1):82-3; author reply 84-5. doi: 
+10.1111/j.1524-4733.2005.08102.x.
+
+Needs-based health-related quality of life measurement: new wine in old bottles?
+
+Kind P.
+
+Comment on
+    Value Health. 2004 Sep-Oct;7 Suppl 1:S1-3.
+
+DOI: 10.1111/j.1524-4733.2005.08102.x
+PMID: 15841898 [Indexed for MEDLINE]
+
+
+684. Value Health. 2005 Jan-Feb;8(1):86-7. doi: 10.1111/j.1524-4733.2005.08103.x.
+
+Thresholds in cost-effectiveness analysis--more of the story.
+
+Laufer F.
+
+Comment on
+    Value Health. 2004 Sep-Oct;7(5):518-28.
+
+DOI: 10.1111/j.1524-4733.2005.08103.x
+PMID: 15841899 [Indexed for MEDLINE]
+
+
+685. Perspect Biol Med. 2005 Winter;48(1 Suppl):S150-65.
+
+Changes in the disparities in chronic diseases during the course of the 20th 
+century.
+
+Fogel RW(1).
+
+Author information:
+(1)Graduate School of Business, University of Chicago, IL 60637, USA. 
+rwf@cpe.uchicago.edu
+
+Longitudinal studies support the proposition that the extent and severity of 
+chronic conditions in middle and late ages are to a large extent the outcome of 
+environmental insults at early ages, including in utero. Data from the Early 
+Indicators Project, undertaken at the Center for Population Economics, suggest 
+that the range of differences in exposure to disease has narrowed greatly over 
+the course of the 20th century, that age-specific prevalence rates of chronic 
+diseases were much lower at the end of the 20th century than they were at the 
+beginning of the last century or during the last half of the 19th century, and 
+that there has been a significant delay in the onset of chronic diseases over 
+the course of the 20th century. These trends appear to be related to changes in 
+levels of environmental hazards and in body size. These findings have led 
+investigators to posit a synergism between technological and physiological 
+improvements. This synergism has contributed to reductions in inequality in real 
+income, body size, and life expectancy during the 20th century.
+
+PMID: 15842093 [Indexed for MEDLINE]
+
+
+686. Perspect Biol Med. 2005 Winter;48(1 Suppl):S176-94.
+
+Black-white differences in the economic value of improving health.
+
+Murphy KM(1), Topel RH.
+
+Author information:
+(1)Graduate School of Business, University of Chicago, IL 60637, USA.
+
+This article examines how differences in longevity over time and across groups 
+add to the typical measures of economic progress and intergroup differentials. 
+We focus on gains for and differences between groups defined both by race (black 
+and white) and by gender, relying on willingness to pay as our measure of the 
+economic value of gains in longevity. Measured at birth, the gains for white 
+males between 1968 and 1998 were about 245,000 dollars per person, while the 
+gains for black males were far larger, about 390,000 dollars per person. The 
+gains for women were somewhat smaller, with white females gaining about 150,000 
+dollars per person and black females gaining about 305,000 dollars per person. 
+Our estimates suggest that differences in income explain about 1/3 to 1/2 of the 
+current black-white gap in longevity.
+
+PMID: 15842095 [Indexed for MEDLINE]
+
+
+687. Eur J Cancer Care (Engl). 2005 May;14(2):108-12. doi: 
+10.1111/j.1365-2354.2005.00571.x.
+
+The impact of weekly dosing of epoetin alfa on the haematological parameters and 
+on the quality of life of anaemic cancer patients.
+
+Heras P(1), Argyriou AA, Papapetropoulos S, Karagiannis S, Argyriou K, 
+Mitsibounas D.
+
+Author information:
+(1)Division of Clinical Oncology, Department of Medicine, General Hospital of 
+Kos Island, Greece.
+
+The aim of this study was to evaluate the effectiveness and the impact of 
+once-weekly administration of epoetin alfa (Ea) on the management of anaemia and 
+on the quality of life (QOL) of cancer patients receiving chemotherapy. Eighty 
+cancer patients with life expectancy > or = 24 weeks and haemoglobin (Hb) levels 
+< 10.5 g/dL were studied. After an initial screening of patients' demographic 
+and clinical characteristics, Ea 40000 U once a week was administered over a 
+period of 4 months. In case of patients with Hb level exceeding > 14 g/dL or in 
+case of non-response, the dosage was reconsidered. Every month, data regarding 
+Hb levels, clinical variations, changes in the chemotherapy regimen and 
+transfusion use since the last study visit, were evaluated. The Linear Analogue 
+Scale Assessment scale was used for the evaluation of the QOL. The readmissions 
+to hospital rates (P < 0.002) and the transfusion use rates (P < 0.003) were 
+significantly decreased comparatively with baseline. A mean increase from 
+baseline to the final Hb level (P < 0.001) was established, as well as a 
+significant improvement in the functional ability, energy and in the overall QOL 
+(P < 0.001). In conclusion, the treatment of cancer patients with Ea once-weekly 
+is effective and safe, improving their haematological parameters and QOL.
+
+DOI: 10.1111/j.1365-2354.2005.00571.x
+PMID: 15842457 [Indexed for MEDLINE]
+
+
+688. Health Technol Assess. 2005 Apr;9(14):1-203, iii-iv. doi: 10.3310/hta9140.
+
+Laparoscopic surgery for inguinal hernia repair: systematic review of 
+effectiveness and economic evaluation.
+
+McCormack K(1), Wake B, Perez J, Fraser C, Cook J, McIntosh E, Vale L, Grant A.
+
+Author information:
+(1)Health Services Research Unit, Institute of Applied Health Sciences, 
+University of Aberdeen, UK.
+
+OBJECTIVES: To determine whether laparoscopic methods are more effective and 
+cost-effective than open mesh methods of inguinal hernia repair, and then 
+whether laparoscopic transabdominal preperitoneal (TAPP) repair is more 
+effective and cost-effective than laparoscopic totally extraperitoneal (TEP).
+DATA SOURCES: Electronic databases. Conference proceedings. Manufacturers' 
+submissions to the National Institute for Clinical Excellence (NICE) were 
+reviewed.
+REVIEW METHODS: Selected studies were rigorously assessed. Dichotomous outcome 
+data were combined using the relative risk method and continuous outcomes were 
+combined using the Mantel-Haenszel weighted mean difference method. Time to 
+return to usual activities was described using hazard ratios derived from 
+individual patient data reanalysis. A review of economic evaluations undertaken 
+by NICE in 2001 was updated and an economic evaluation was performed. The 
+estimation of cost-effectiveness focused on the comparison of laparoscopic 
+repair with open flat mesh. A Markov model incorporating the data from the 
+systematic review was used to estimate cost-effectiveness for a time horizon up 
+to 25 years.
+RESULTS: Thirty-seven randomised control trials (RCTs) and quasi-RCTs met the 
+inclusion criteria on effectiveness. Fourteen studies were included in the 
+review of economic evaluations. Laparoscopic repair was associated with a faster 
+return to usual activities and less persisting pain and numbness. There also 
+appeared to be fewer cases of wound/superficial infection and haematoma. 
+However, operation times are longer and there appears to be a higher rate of 
+serious complications in respect of visceral (especially bladder) injuries. Mesh 
+infection is very uncommon with similar rates noted between the surgical 
+approaches. There is no apparent difference in the rate of hernia recurrence. 
+Laparoscopic repair was more costly to the health service than open repair, with 
+an estimated extra cost from studies conducted in the UK of about 300-350 pounds 
+per patient. The point estimates of cost provided by the economic model also 
+suggest that the laparoscopic techniques are more costly (approximately 100-200 
+pounds more per patient after 5 years). From the review of economic evaluations, 
+the estimates of incremental cost per additional day at usual activities were 
+between 86 pounds and 130 pounds. Where productivity costs were included, they 
+eliminated the cost differential between laparoscopic and open repair. 
+Additional analysis incorporating new trial evidence suggested that TEP was 
+associated with significantly more recurrences than open mesh but these data did 
+not greatly influence cost-effectiveness.
+CONCLUSIONS: For the management of unilateral hernias, the base-case analysis 
+and most of the sensitivity analysis suggest that open flat mesh is the least 
+costly option but provides less quality adjusted life years (QALYs) than TEP or 
+TAPP. TEP is likely to dominate TAPP (on average TEP is estimated to be less 
+costly and more effective). It is likely that, for management of symptomatic 
+bilateral hernias, laparoscopic repair would be more cost-effective as 
+differences in operation time (a key cost driver) may be reduced and differences 
+in convalescence time are more marked (hence QALYs will increase) for 
+laparoscopic compared with open mesh repair. When possible repair of 
+contralateral occult hernias is taken into account, TEP repair is most likely to 
+be considered cost-effective at threshold values for the cost per additional 
+QALY above 20,000 pounds. The increased adoption of laparoscopic techniques may 
+allow patients to return to usual activities faster. This may, for some people, 
+reduce any loss of income. For the NHS, increased use of laparoscopic repair 
+would lead to an increased requirement for training and the risk of serious 
+complications may be higher. Chronic pain should now be addressed prospectively 
+using standard definitions and allowing assessment of the degree of pain. More 
+evidence is required on the loss of utility caused by persisting pain and 
+numbness, as well as serious complications resulting from minor surgery. 
+Prospective population-based registries of new surgical procedures may be the 
+best way to address this, as a complement to randomised trials assessing 
+effectiveness. Further research relating to whether the balance of advantages 
+and disadvantages changes when hernias are recurrent or bilateral is also 
+required as current data are limited. Methodologically sound RCTs are needed to 
+consider the relative merits and risks of TAPP and TEP. Further methodological 
+research is required into the complexity of laparoscopic groin hernia repair and 
+the improvement of performance that accompanies experience.
+
+DOI: 10.3310/hta9140
+PMID: 15842951 [Indexed for MEDLINE]
+
+
+689. Yi Chuan. 2005 Mar;27(2):271-8.
+

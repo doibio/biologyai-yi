@@ -1,0 +1,1000 @@
+drug-gene associations; (b) determine the quality of the studies that contain 
+this evidence; and (c) discuss the quality of this evidence with respect to the 
+level of evidence of the drug-gene associations.
+METHODS: The PharmGKB database was used to identify cancer drugs with clinically 
+relevant drug-gene associations graded high (1A, 1B) or moderate (2A, 2B). A 
+systematic literature review was conducted using these drugs. Ovid MEDLINE and 
+Embase databases were searched to identify cost-effectiveness, cost-utility, or 
+cost-minimization studies comparing pharmacogenetic testing to an alternative. 
+Cost and effect values from every relevant comparison within the studies were 
+extracted, and the incremental cost-effectiveness ratio (ICER) was either 
+extracted or calculated for each comparison. Quality assessment was conducted 
+for each study using the Quality of Health Economic Studies (QHES) instrument. 
+Qualitative synthesis was used to summarize the data.
+RESULTS: The search yielded 2,191 citations, of which 35 studies met the 
+inclusion criteria. Pharmacoeconomic studies were available for the following 
+drugs from the PharmGKB database: fluoropyrimidine, 6-mercaptopurine, 
+irinotecan, carboplatin, cisplatin, erlotinib, gefitinib, cetuximab, 
+panitumumab, and trastuzumab. The studies were conducted in Asia, Europe, 
+Canada, the United States, and Mexico and reported cost-utility, 
+cost-effectiveness, and cost-minimization outcomes. The mean QHES score was 80 
+(SD = 22) for the studies of drug-gene pairs with high (1A, 1B) and moderate 
+(2A, 2B) levels of evidence (1A = 82, 1B = 93, 2A = 71, and 2B = 74). There was 
+variation across studies in terms of reporting. 109 relevant comparisons were 
+identified within the studies. Of those that reported cost per life-year or cost 
+per quality-adjusted life-year (n = 58 comparisons), pharmacogenetic testing was 
+dominant in 21% overall and 42%, 21%, 17%, and 5% of the comparisons in Asia, 
+Europe, Canada, and the United States, respectively. Variability was observed in 
+the ICER values regardless of geographic region or drug. Pharmacogenetic testing 
+was cost saving in 17 of 19 cost-minimization comparisons and was favored most 
+frequently when compared with genetically indiscriminate strategies containing 
+the drug of interest.
+CONCLUSIONS: There was mixed evidence regarding the value of pharmacogenetic 
+testing to guide cancer treatment. For future pharmacogenomic-related economic 
+studies, we recommend prioritizing clinically relevant drug-gene associations 
+and greater adherence to available best practice guidelines for conducting and 
+reporting economic evaluation studies.
+DISCLOSURES: No outside funding supported this review. Part of Hussain's 
+research time was supported by a Merit Review Award (I01 BX000545), Medical 
+Research Service, U.S. Department of Veterans Affairs. Hussain also reports 
+personal fees from Bristol-Myers Squibb, AstraZeneca, Novartis, Bayer HealthCare 
+Pharmaceuticals, and France Foundation, outside the submitted work. Onukwugha 
+reports grants from Pfizer and Bayer HealthCare Pharmaceuticals, along with 
+advisory board fees from Novo Nordisk, outside the submitted work. Faruque, 
+Neuberger, and Noh have nothing to disclose.
+
+DOI: 10.18553/jmcp.2019.25.2.260
+PMCID: PMC7397474
+PMID: 30698084 [Indexed for MEDLINE]
+
+Conflict of interest statement: No outside funding supported this review. Part 
+of Hussain’s research time was supported by a Merit Review Award (I01 BX000545), 
+Medical Research Service, U.S. Department of Veterans Affairs. Hussain also 
+reports personal fees from Bristol-Myers Squibb, AstraZeneca, Novartis, Bayer 
+HealthCare Pharmaceuticals, and France Foundation, outside the submitted work. 
+Onukwugha reports grants from Pfizer and Bayer HealthCare Pharmaceuticals, along 
+with advisory board fees from Novo Nordisk, outside the submitted work. Faruque, 
+Neuberger, and Noh have nothing to disclose.
+
+
+707. J Manag Care Spec Pharm. 2019 Feb;25(2):148-151. doi: 
+10.18553/jmcp.2019.25.2.148.
+
+Cost-Effectiveness of Prophylactic Medications for the Treatment of Hereditary 
+Angioedema Due to C1 Inhibitor Deficiency: A Real-World U.S. Perspective.
+
+Zuraw BL(1).
+
+Author information:
+(1)1 Division of Rheumatology, Allergy and Immunology, Department of Medicine, 
+University of California San Diego School of Medicine and Medicine Service, San 
+Diego VA Healthcare.
+
+No funding supported the writing of this commentary. The author reports personal 
+fees from BioCryst, CSL Behring, Shire, and Pharming and grants from Ionis. He 
+is chair of the US HAEA Medical Advisory Board and scientific advisor for HAE 
+International.
+
+DOI: 10.18553/jmcp.2019.25.2.148
+PMCID: PMC10398223
+PMID: 30698094 [Indexed for MEDLINE]
+
+Conflict of interest statement: No funding supported the writing of this 
+commentary. The author reports personal fees from BioCryst, CSL Behring, Shire, 
+and Pharming and grants from Ionis. He is chair of the US HAEA Medical Advisory 
+Board and scientific advisor for HAE International.
+
+
+708. J Manag Care Spec Pharm. 2019 Feb;25(2):225-234. doi: 
+10.18553/jmcp.2019.25.2.225.
+
+Cost-Effectiveness of Adding Androgen Deprivation Therapy to Radiation Therapy 
+for Men with Advanced Prostate Cancer from a U.S. Payer's Perspective.
+
+Nguyen C(1), Lairson DR(2), Swartz MD(3), Du XL(1).
+
+Author information:
+(1)1 Department of Epidemiology, Human Genetics, and Environmental Science.
+(2)2 Department of Management Policy and Community Health.
+(3)3 Department of Biostatistics and Data Science, School of Public Health, 
+University of Texas Health Science Center at Houston, Texas.
+
+BACKGROUND: No study has investigated the cost and effectiveness of androgen 
+deprivation therapy (ADT) and other curative treatment therapies among the 
+Medicare population, and no study has taken into consideration the long-term 
+side effects associated with ADT.
+OBJECTIVE: To examine if adding ADT was cost-effective when accounting for 
+ADT-related long-term side effects in men with prostate cancer.
+METHODS: For this cost-utility analysis, we used the Surveillance, Epidemiology, 
+and End Results (SEER)-Medicare linked database to estimate and compare patient 
+survival, costs from a health payer's perspective, and cost-effectiveness of 3 
+treatment modalities for advanced prostate cancer patients, including radiation 
+therapy, radiation plus ADT, and active surveillance. We also estimated 
+quality-adjusted life-years (QALYs) by assigning appropriate health state 
+utility values obtained from the literature for each phase of care and for 
+long-term side effects. Propensity score matching was used to control for bias 
+and confounding that were inherent to the observational study design.
+RESULTS: Adding ADT to radiation therapy increased median patient survival by 
+0.71 years. The incremental cost-effectiveness ratio (ICER) for radiation plus 
+ADT versus radiation alone was $63,049 and $295,995 per mean life-year gained 
+for radiation compared with active surveillance, respectively. 
+Treatment-associated adverse side effects substantially reduced QALYs gained. 
+Compared with radiation only, the incremental cost of radiation plus ADT was 
+$127,900 per mean QALY and was nearly 80% cost-effective at a willingness-to-pay 
+threshold of $210,000 per QALY.
+CONCLUSIONS: Despite ADT-associated costs and long-term side effects, compared 
+with radiation alone, radiation plus ADT was cost-effective at $127,900 per 
+QALY.
+DISCLOSURES: This research was supported in part by the Cancer Prevention 
+Research Institute of Texas (grant nos. RP130051 and RP170668). The authors 
+declare that there are no conflicts of interest.
+
+DOI: 10.18553/jmcp.2019.25.2.225
+PMCID: PMC10398036
+PMID: 30698095 [Indexed for MEDLINE]
+
+Conflict of interest statement: This research was supported in part by the 
+Cancer Prevention Research Institute of Texas (grant nos. RP130051 and 
+RP170668). The authors declare that there are no conflicts of interest.
+
+
+709. Hum Vaccin Immunother. 2019;15(7-8):1949-1961. doi: 
+10.1080/21645515.2018.1560770. Epub 2019 Feb 20.
+
+Estimating the epidemiological impact and cost-effectiveness profile of a 
+nonavalent HPV vaccine in Spain.
+
+De La Fuente J(1), Hernandez Aguado JJ(1), San Martín M(2), Ramirez Boix P(3), 
+Cedillo Gómez S(3), López N(2).
+
+Author information:
+(1)a Unit of Lower Genital Tract Pathology, Department of Obstetrics and 
+Gynecology, Hospital Universitario Infanta Leonor , Madrid , Spain.
+(2)b Medical Department, MSD Spain , Madrid , Spain.
+(3)c Outcomes Research, MSD Spain , Madrid , Spain.
+
+Human papillomavirus (HPV) is one of the main causes of infection-related 
+cancer. The bivalent vaccine (2vHPV) (16/18) and quadrivalent (6/11/16/18) HPV 
+vaccine (4vHPV) have been included in the Spanish vaccination calendar since 
+2007. The new nonavalent HPV vaccine (9vHPV), approved in Europe in 2015, 
+includes nine HPV types 6/11/16/18/31/33/45/52/58 and has been available in 
+Spain since May 2017. Our study aims to estimate the epidemiological impact and 
+the cost-effectiveness of a girls-only and a gender-neutral vaccination program 
+with 9vHPV compared to the current vaccination program in Spain. A dynamic 
+transmission model simulating the natural history of HPV infections was 
+calibrated to the Spanish setting and applied to estimate costs and 
+quality-adjusted life years (QALYs) associated with vaccination strategies using 
+a payer perspective and a 100-year time horizon. A girls-only vaccination 
+strategy at age 12 years with 9vHPV was found to be a cost-effective strategy 
+compared with 4vHPV (incremental cost-effectiveness ratio (ICER) of €7,718 per 
+QALY). Compared with girls-only vaccination with 4vHPV, gender-neutral 
+vaccination with 9vHPV was associated with further reductions of up to 28.5% in 
+the incidence of cervical intraepithelial neoplasia (CIN) 2/3 and 17.1% in the 
+incidence of cervical cancer, as well as with a 14.0% reduction in cervical 
+cancer mortality. Furthermore, a gender-neutral vaccination program with 9vHPV 
+could potentially be cost-effective considering some parameters as head and neck 
+protection or discount rates, leading to a reduction in the burden of 
+HPV-related diseases in both sexes in the Spanish population.
+
+DOI: 10.1080/21645515.2018.1560770
+PMCID: PMC6746536
+PMID: 30698488 [Indexed for MEDLINE]
+
+
+710. J Aging Health. 2020 Jun/Jul;32(5-6):401-409. doi: 10.1177/0898264319825767.
+ Epub 2019 Jan 30.
+
+Dependence- and Disability-Free Life Expectancy Across Eight Low- and 
+Middle-Income Countries: A 10/66 Study.
+
+Prina AM(1), Wu YT(1), Kralj C(1), Acosta D(2), Acosta I(3)(4), Guerra M(5), 
+Huang Y(6), Jotheeswaran AT(7), Jimenez-Velazquez IZ(8), Liu Z(6), Llibre 
+Rodriguez JJ(9), Salas A(10), Sosa AL(3)(4), Prince M(1).
+
+Author information:
+(1)King's College London, UK.
+(2)Universidad Nacional Pedro Henriquez Ureña, Santo Domingo, Dominican 
+Republic.
+(3)National Institute of Neurology and Neurosurgery of Mexico, Mexico City, 
+Mexico.
+(4)National Autonomous University of Mexico, Mexico City, Mexico.
+(5)Instituto de la Memoria y Desordenes Relacionados, Lima, Perú.
+(6)Peking University, Beijing, China.
+(7)World Health Organization, Geneva, Switzerland.
+(8)University of Puerto Rico, San Juan, Puerto Rico.
+(9)Medical University of Havana, Cuba.
+(10)Universidad Central de Venezuela, Caracas, Venezuela.
+
+Objective: The objective of this study was to estimate healthy life expectancies 
+in eight low- and middle-income countries (LMICs), using two indicators: 
+disability-free life expectancy (DFLE) and dependence-free life expectancy 
+(DepFLE). Method: Using the Sullivan method, healthy life expectancy was 
+calculated based on the prevalence of dependence and disability from the 10/66 
+cohort study, which included 16,990 people aged 65 or above in China, Cuba, 
+Dominican Republic, India, Mexico, Peru, Puerto Rico, and Venezuela, and 
+country-specific life tables from the World Population Prospects 2017. Results: 
+DFLE and DepFLE declined with older age across all sites and were higher in 
+women than men. Mexico reported the highest DFLE at age 65 for men (15.4, SE = 
+0.5) and women (16.5, SE = 0.4), whereas India had the lowest with (11.5, SE = 
+0.3) in men and women (11.7, SE = 0.4). Discussion: Healthy life expectancy 
+based on disability and dependency can be a critical indicator for aging 
+research and policy planning in LMICs.
+
+DOI: 10.1177/0898264319825767
+PMCID: PMC7322974
+PMID: 30698491 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Conflicting Interests: The 
+authors declared no potential conflicts of interest with respect to the 
+research, authorship, and/or publication of this article.
+
+
+711. PLoS One. 2019 Jan 30;14(1):e0210089. doi: 10.1371/journal.pone.0210089. 
+eCollection 2019.
+
+The cost-effectiveness of oral contraceptives compared to 'no hormonal 
+treatment' for endometriosis-related pain: An economic evaluation.
+
+Grand TS(1), Basarir H(2), Jackson LJ(1).
+
+Author information:
+(1)Health Economics Unit, University of Birmingham, Birmingham, United Kingdom.
+(2)RTI Health Solutions, Greater Manchester, United Kingdom.
+
+OBJECTIVE: To develop a preliminary cost-effectiveness model that compares oral 
+contraceptives and 'no hormonal treatment' for the treatment of 
+endometriosis-related pain.
+METHODS: A de novo preliminary state transition (Markov) model was developed. 
+The model was informed by systematic literature review and expert opinion. The 
+uncertainty around the results was assessed both by deterministic and 
+probabilistic sensitivity analyses. The economic evaluation was conducted from 
+National Health Service (NHS) England perspective. The main outcome measure was 
+incremental cost per quality-adjusted life year (QALY), with cost-effectiveness 
+plane and cost-effectiveness acceptability curves presented for alternative 
+willingness-to-pay thresholds.
+RESULTS: Oral contraceptives dominated 'no hormonal treatment' and provided more 
+QALYs at a lower cost than 'no hormonal treatment', with a cost-effectiveness 
+probability of 98%. A one-way sensitivity analysis excluding general 
+practitioner consultations showed that oral contraceptives were still 
+cost-effective.
+CONCLUSIONS: The analyses showed that oral contraceptives could be an effective 
+option for the treatment of endometriosis, as this treatment was shown to 
+provide a higher level of QALYs at a lower cost, compared to 'no hormonal 
+treatment'. The results are subject to considerable parameter uncertainty as a 
+range of assumptions were required as part of the modelling process.
+
+DOI: 10.1371/journal.pone.0210089
+PMCID: PMC6353094
+PMID: 30699134 [Indexed for MEDLINE]
+
+Conflict of interest statement: HB is employed by RTI Health Solutions (and 
+formerly worked at the University of Birmingham). This commercial affiliation 
+does not alter our adherence to all PLOS ONE policies on sharing data and 
+materials.
+
+
+712. Arthritis Res Ther. 2019 Jan 30;21(1):41. doi: 10.1186/s13075-019-1826-x.
+
+Psychometric validation of the EuroQoL 5-dimension (EQ-5D) questionnaire in 
+patients with spondyloarthritis.
+
+Tsang HHL(1), Cheung JPY(2), Wong CKH(3), Cheung PWH(4), Lau CS(1), Chung HY(1).
+
+Author information:
+(1)Department of Medicine, The University of Hong Kong, Hong Kong SAR, China.
+(2)Department of Orthopaedics & Traumatology, The University of Hong Kong, 
+Professorial Block, 5th Floor, 102 Pokfulam Road, Pokfulam, Hong Kong SAR, 
+China. cheungjp@hku.hk.
+(3)Department of Family Medicine and Primary Care, The University of Hong Kong, 
+Hong Kong SAR, China.
+(4)Department of Orthopaedics & Traumatology, The University of Hong Kong, 
+Professorial Block, 5th Floor, 102 Pokfulam Road, Pokfulam, Hong Kong SAR, 
+China.
+
+BACKGROUND: Spondyloarthritis (SpA) has a significant impact on patients' 
+quality of life due to functional impairments. Generic health instruments like 
+the EuroQoL 5-dimension (EQ-5D) is important for the cost-utility analysis of 
+health care interventions and calculation of quality-adjusted life years. 
+However, the applicability of the EQ-5D health measure in Chinese patients with 
+SpA is currently unknown. Hence, the aim of the study is to test the 
+psychometric properties and to validate the use of the EQ-5D health measure for 
+utility analyses in Chinese patients with SpA.
+METHODS: Prospective and consecutive recruitment of 220 Chinese patients with 
+SpA was conducted. Demographic data including smoking and drinking habits, 
+education level, income, and occupation was collected. Disease-associated data 
+including disease duration, the presence of back pain, peripheral arthritis, 
+dactylitis, enthesitis, uveitis, psoriasis, and inflammatory bowel disease was 
+also recorded. Questionnaires regarding disease activity and functional 
+disability (BASDAI, BASFI, BASGI, BASMI, ASDAS, ODI), mental health (HADS 
+depression and anxiety), and the EQ-5D scores were recorded. SF-36 scores were 
+used to verify the findings. Baseline correlations were performed along with 
+test-retest reliability, validity, and internal consistency tests. Specifically, 
+the relationship between EQ-5D and disease activity and functional scores was 
+studied.
+RESULTS: EQ-5D scores achieved acceptable internal consistency and reliability. 
+A ceiling effect was observed for all domains of the EQ-5D except for 
+pain/discomfort. No floor effect was observed. Significant negative correlations 
+were observed between ODI, HADS, BASFI, BASMI, BASDAI, and ASDAS-CRP and with 
+EQ-5D. A higher disease activity was well-differentiated by EQ-5D, as with the 
+disability and mental health scores.
+CONCLUSIONS: The EQ-5D demonstrates satisfactory psychometric properties for 
+assessment of SpA patients. It has high utility for demonstrating changes in 
+disease activity and disability.
+
+DOI: 10.1186/s13075-019-1826-x
+PMCID: PMC6354427
+PMID: 30700326 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: 
+Ethics was approved by the Institutional Review Board of the University of Hong 
+Kong/Hospital Authority Hong Kong West Cluster (HKU/HA HKW IRB) Reference #: UW 
+17-201. All subjects consented to participate in the study. CONSENT FOR 
+PUBLICATION: Not applicable COMPETING INTERESTS: The authors declare that they 
+have no competing interests. PUBLISHER’S NOTE: Springer Nature remains neutral 
+with regard to jurisdictional claims in published maps and institutional 
+affiliations.
+
+
+713. World J Gastroenterol. 2019 Jan 28;25(4):398-410. doi:
+10.3748/wjg.v25.i4.398.
+
+Human immunodeficiency virus and hepatotropic viruses co-morbidities as the 
+inducers of liver injury progression.
+
+Ganesan M(1), Poluektova LY(2), Kharbanda KK(1), Osna NA(1).
+
+Author information:
+(1)Research Service, Veterans Affairs Nebraska-Western Iowa Health Care System, 
+Omaha, NE 68105, United States.
+(2)Department of Pharmacology and Experimental Neuroscience, University of 
+Nebraska Medical Center, Omaha, NE 68198, United States.
+
+Hepatotropic viruses induced hepatitis progresses much faster and causes more 
+liver- related health problems in people co-infected with human immunodeficiency 
+virus (HIV). Although treatment with antiretroviral therapy has extended the 
+life expectancy of people with HIV, liver disease induced by hepatitis B virus 
+(HBV) and hepatitis C virus (HCV) causes significant numbers of non-acquired 
+immune deficiency syndrome (AIDS)-related deaths in co-infected patients. In 
+recent years, new insights into the mechanisms of accelerated fibrosis and liver 
+disease progression in HIV/HCV and HIV/HBV co-infections have been reported. In 
+this paper, we review recent studies examining the natural history and 
+pathogenesis of liver disease in HIV-HCV/HBV co-infection in the era of direct 
+acting antivirals (DAA) and antiretroviral therapy (ART). We also review the 
+novel therapeutics for management of HIV/HCV and HIV/HBV co-infected 
+individuals.
+
+DOI: 10.3748/wjg.v25.i4.398
+PMCID: PMC6350175
+PMID: 30700937 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict-of-interest statement: No potential 
+conflicts of interest.
+
+
+714. NMC Case Rep J. 2018 Dec 18;6(1):29-34. doi: 10.2176/nmccrj.cr.2018-0147. 
+eCollection 2019 Jan.
+
+A Case of Nonconsecutive Multiple-level Lumbar Spondylolysis Successfully 
+Treated with Single-level Repair of the Pars Interarticularis.
+
+Yabuno S(1), Yunoki M(1), Kanda T(1), Matsumoto A(1), Hirashita K(1), Yoshino 
+K(1).
+
+Author information:
+(1)Department of Neurosurgery, Kagawa Rosai Hospital, Marugame, Kagawa, Japan.
+
+Lumbar spondylolysis is commonly recognized at a single-level of the lumbar 
+spine and frequently affects the L5 pars interarticularis unilaterally or 
+bilaterally. Some reports have described multiple-level spondylolysis, most 
+cases of which occur at consecutive lumbar segments. We herein present a rare 
+case of lumbar spondylolysis involving nonconsecutive multiple-level segments; 
+only eight such cases have been reported previously. A 38-year-old man presented 
+with a 10-month history of chronic severe low back pain. Lumbar 
+flexion-extension radiographs and computed tomography revealed spondylolysis at 
+the level of L3 and L5, whereas no spondylolisthesis was present and the 
+intervertebral disc spaces were maintained at all levels. Because 6 months of 
+conservative management failed and repeated diagnostic blocks confirmed that the 
+fracture of the L3 pars interarticularis was generating pain, repair of the 
+bilateral L3 pars interarticularis with the smiley face rod method was 
+performed. At the last follow-up 1 year after surgery, the patient had resumed 
+normal life as a laborer and reported no back pain.
+
+DOI: 10.2176/nmccrj.cr.2018-0147
+PMCID: PMC6350032
+PMID: 30701153
+
+Conflict of interest statement: Conflicts of Interest Disclosure The authors 
+declare that they have no conflicts of interest.
+
+
+715. Intensive Care Med. 2019 Feb;45(2):223-235. doi: 10.1007/s00134-018-05511-y.
+ Epub 2019 Jan 30.
+
+Tailored multicomponent program for discomfort reduction in critically ill 
+patients may decrease post-traumatic stress disorder in general ICU survivors at 
+1 year.
+
+Kalfon P(1)(2), Alessandrini M(3), Boucekine M(3), Renoult S(4), Geantot MA(5), 
+Deparis-Dusautois S(6), Berric A(7), Collange O(8), Floccard B(9), Mimoz O(10), 
+Julien A(11), Robert R(12), Audibert J(13), Renault A(14), Follin A(15), 
+Thevenin D(16), Revel N(17), Venot M(18), Patrigeon RG(19), Signouret T(20), 
+Fromentin M(21), Sharshar T(22), Vigne C(23), Pottecher J(24), Levrat Q(25), 
+Sossou A(26), Garrouste-Orgeas M(27), Quenot JP(28), Boulle C(29), Azoulay 
+E(18), Baumstarck K(3), Auquier P(3); IPREA-AQVAR Study Group.
+
+Collaborators: Vie K, Lannuzel G, Parthiot JP, Chazal I, Charve P, Prum C, 
+Perrot N, Augier F, Behechti N, Cocusse C, Foulon C, Goncalves L, Hanchi A, 
+Legros E, Mercier AI, Meunier-Beillard N, Nuzillat N, Richard A, Kowalski B, 
+Klusek E, Polito A, Duvallet C, Krim S, Girard N, Jourdain C, Techer S, Chauvel 
+C, Bruchet C, Temime J, Beaussart S, Jarosz F, Crozon-Clauzel J, Olousouzian S, 
+Pereira S, Argentin L, Cerro V, Levy D, Andre S, Estagnasie P, Biet D, Novak S, 
+Orban JC, Diop A, Ichai C, Tesniere A, Goupil JP, Laville F, Rutter N, Brochon 
+S, Tiercelet K, Ait-Hamou N, Leger M, Souppart V, Griffault E, Debarre ML, 
+Deletage C, Guerin AL, Guignon C, Seguin S, Wuiot C, Sanches K, Hecketsweiler S, 
+Sylvestre-Marconville C, Gardan V, Simon G, Chaban Y.
+
+Author information:
+(1)Réanimation Polyvalente, Hôpital Louis Pasteur, Hôpitaux de Chartres, 28018, 
+Le Coudray, France. pkalfon@ch-chartres.fr.
+(2)Unité de recherche CEReSS-EA3279, Aix-Marseille Université, Marseille, 
+France. pkalfon@ch-chartres.fr.
+(3)Unité de recherche CEReSS-EA3279, Aix-Marseille Université, Marseille, 
+France.
+(4)Réanimation, Clinique Ambroise Paré, Neuilly/Seine, France.
+(5)Département d'Anesthésie Réanimation, CHU Dijon Bourgogne, Dijon, France.
+(6)Réanimation, CH Troyes, Troyes, France.
+(7)Réanimation polyvalente, Centre Hospitalier Intercommunal Toulon/La Seyne sur 
+mer, Toulon, France.
+(8)Réanimation chirurgicale polyvalente, Hôpital Civil, CHU Strasbourg, 
+Strasbourg, France.
+(9)Réanimation polyvalente, CHU Edouard Herriot, Hospices Civils de Lyon, Lyon, 
+France.
+(10)Réanimation chirurgicale, CHU La Milétrie, Poitiers, France.
+(11)Réanimation de chirurgie cardiaque, CHU Pitié-Salpêtrière, Assistance 
+Publique-Hôpitaux de Paris (AP-HP), Paris, France.
+(12)Réanimation médicale, CHU La Milétrie, Poitiers, France.
+(13)Réanimation Polyvalente, Hôpital Louis Pasteur, Hôpitaux de Chartres, 28018, 
+Le Coudray, France.
+(14)Réanimation médicale, CHU Brest, Brest, France.
+(15)Réanimation Chirurgicale, Hôpital Européen Georges Pompidou, AP-HP, Paris, 
+France.
+(16)Réanimation, CH Lens, Lens, France.
+(17)Réanimation Médico-Chirurgicale, Hôpital Pasteur, CHU Nice, Nice, France.
+(18)Réanimation Médicale, CHU Saint-Louis, AP-HP, Paris, France.
+(19)Réanimation, CH Auxerre, Auxerre, France.
+(20)Réanimation, Hôpital Européen de Marseille, Marseille, France.
+(21)Réanimation chirurgicale, CHU Cochin, AP-HP, Paris, France.
+(22)Réanimation médicale adulte, CHU Raymond Poincaré, AP-HP, Paris, France.
+(23)Réanimation chirurgicale, CHU Hôpital Nord, Assistance Publique-Hôpitaux de 
+Marseille, Marseille, France.
+(24)Réanimation chirurgicale, Hôpital Hautepierre, CHU Strasbourg, Strasbourg, 
+France.
+(25)Groupe Hospitalier de La Rochelle-Ré-Aunis, La Rochelle, France.
+(26)Réanimation, CH Émile Roux, Le Puy-En-Velay, France.
+(27)Médecine intensive et réanimation, Groupe Hospitalier Paris Saint-Joseph, 
+Paris, France.
+(28)Réanimation médicale, CHU Dijon Bourgogne, Dijon, France.
+(29)Réanimation, CH Douai, Douai, France.
+
+PURPOSE: Reducing discomfort in the intensive care unit (ICU) should have a 
+positive effect on long-term outcomes. This study assessed whether a tailored 
+multicomponent program for discomfort reduction was effective in reducing 
+post-traumatic stress disorder (PTSD) symptoms at 1 year in general ICU 
+survivors.
+METHODS: This study is a prospective observational comparative effectiveness 
+cohort study involving 30 ICUs. It was an extension of the IPREA3 study, a 
+cluster-randomized controlled trial designed to assess the efficacy of a 
+tailored multicomponent program to reduce discomfort in critically ill patients. 
+The program included assessment of ICU-related self-perceived discomforts, 
+immediate and monthly feedback to the healthcare team, and site-specific 
+tailored interventions. The exposure was the implementation of this program. The 
+eligible patients were exposed versus unexposed general adult ICU survivors. The 
+prevalence of substantial PTSD symptoms at 1 year was assessed based on the 
+Impact of Event Scale-Revised (IES-R).
+RESULTS: Of the 1537 ICU survivors included in the study, 475 unexposed patients 
+and 344 exposed patients had follow-up data at 1 year: 57 (12.0%) and 21 (6.1%) 
+presented with PTSD at 1 year, respectively (p = 0.004). Considering the 
+clustering and after adjusting for age, gender, McCabe classification, and 
+ICU-related self-perceived overall discomfort score, exposed patients were 
+significantly less likely than unexposed patients to have substantial PTSD 
+symptoms at 1 year (p = 0.015).
+CONCLUSIONS: Implementation of a tailored multicomponent program in the ICU that 
+has proved to be effective for reducing self-perceived discomfort in general 
+adult ICU survivors also reduced the prevalence of substantial PTSD symptoms at 
+1 year.
+TRIAL REGISTRATION: ClinicalTrials.gov identifier NCT02762409.
+
+DOI: 10.1007/s00134-018-05511-y
+PMID: 30701294 [Indexed for MEDLINE]
+
+
+716. Osteoporos Int. 2019 Mar;30(3):649-658. doi: 10.1007/s00198-018-04821-7.
+Epub  2019 Jan 30.
+
+Cost-effectiveness of gastro-resistant risedronate tablets for the treatment of 
+postmenopausal women with osteoporosis in France.
+
+Hiligsmann M(1), Reginster JY(2)(3).
+
+Author information:
+(1)Department of Health Services Research, CAPHRI Care and Public Health 
+Research Institute, Maastricht University, P.O. Box 616, 6200, MD, Maastricht, 
+The Netherlands. m.hiligsmann@maastrichtuniversity.nl.
+(2)Department of Public Health, Epidemiology and Health Economics, University of 
+Liège, Liège, Belgium.
+(3)Prince Mutaib Chair for Biomarkers of Osteoporosis, Biochemistry Department, 
+College of Science, King Saud University, Riyadh, Kingdom of Saudi Arabia.
+
+The use of gastro-resistant risedronate, a convenient dosing regimen for oral 
+bisphosphonate therapy, seems a cost-effective strategy compared with weekly 
+alendronate, generic risedronate, and no treatment for the treatment of 
+postmenopausal women with osteoporosis in France.
+INTRODUCTION: Gastro-resistant (GR) risedronate tablets are associated with 
+improved persistence compared to common oral bisphosphonates but are slightly 
+more expensive. This study assessed its cost-effectiveness compared to weekly 
+alendronate and generic risedronate for the treatment of postmenopausal women 
+with osteoporosis in France.
+METHODS: A previously validated Markov microsimulation model was used to 
+estimate the lifetime costs (expressed in €2017) per quality-adjusted life-years 
+(QALY) of GR risedronate compared with weekly alendronate, generic risedronate, 
+and no treatment. Pooled efficacy data for bisphosphonates derived from a 
+previous meta-analysis were used for all treatment options, and persistence data 
+(up to 3 years) were obtained from a large Australian longitudinal study. 
+Evaluation was done for high-risk women 60-80 years of age, with a bone mineral 
+density (BMD) T-score ≤ - 2.5 and/or prevalent vertebral fractures.
+RESULTS: In all of the simulated populations, GR risedronate was cost-effective 
+compared to alendronate, generic risedronate, and no treatment at a threshold of 
+€60,000 per QALY gained. In women with a BMD T-score ≤ - 2.5 and prevalent 
+vertebral fractures, the cost per QALY gained of GR risedronate compared to 
+alendronate, generic risedronate, and no treatment falls below €20,000 per QALY 
+gained. In women aged 75 years and older, GR risedronate was even shown to be 
+dominant (more QALYs, less costs) compared to alendronate, generic risedronate, 
+and no treatment.
+CONCLUSION: This study provides the first economic results about GR risedronate, 
+suggesting that it represents a cost-effective strategy compared with weekly 
+alendronate and generic risedronate for the treatment of postmenopausal women 
+with osteoporosis in France.
+
+DOI: 10.1007/s00198-018-04821-7
+PMCID: PMC6423313
+PMID: 30701342 [Indexed for MEDLINE]
+
+Conflict of interest statement: MH has received research grant through 
+institution from Amgen, Radius Health, and Teva and lecture fees from Radius. 
+JYR has received consulting fees or paid advisory boards from IBSA-Genevrier, 
+Mylan, Radius Health, Pierre Fabre, Teva; lecture fees when speaking at the 
+invitation of sponsor: IBSA-Genevrier, Mylan, CNIEL, Dairy Research Council, 
+Teva; and grant support from industry (all through institution) from 
+IBSA-Genevrier, Mylan, CNIEL, Radius Health.
+
+
+717. Breast Cancer Res Treat. 2019 May;175(1):171-179. doi: 
+10.1007/s10549-019-05140-z. Epub 2019 Jan 30.
+
+The effects of psychosexual counseling on sexual quality of life and function in 
+Iranian breast cancer survivors: a randomized controlled trial.
+
+Fatehi S(1)(2), Maasoumi R(3)(4), Atashsokhan G(1), Hamidzadeh A(1), Janbabaei 
+G(5), Mirrezaie SM(6).
+
+Author information:
+(1)School of Nursing and Midwifery, Shahroud University of Medical Sciences, 
+Shahroud, Iran.
+(2)Departments of Midwifery, Health Research Institute, Babol University of 
+Medical Sciences, Babol, Iran.
+(3)Department of Reproductive Health, School of Nursing and Midwifery, Tehran 
+University of Medical Sciences, Tehran, Iran.
+(4)Nursing and Midwifery Care Research Center, Tehran University of Medical 
+Sciences, Tehran, Iran.
+(5)Gastrointestinal Cancer Research Center, Mazandaran University of Medical 
+Sciences, Sari, Iran.
+(6)Center for Health Related Social and Behavioral Sciences Research Shahroud, 
+University of Medical Sciences, Shahroud, Iran. mirrezaie@shmu.ac.ir.
+
+BACKGROUND: Considering different dimensions of life, special sex life for 
+survivors of breast cancer (BC) is important because their life expectancy has 
+increased.
+OBJECTIVE: We designed this study to improve the sexual function, satisfaction 
+and quality of sexual life.
+METHODS: In a randomized controlled clinical trial study, from a total 286 
+breast cancer survivors (BCS), 118 women enrolled to the study. After providing 
+informed consent, the participants were randomly assigned either to the 
+intervention group or to the waitlist control group. The intervention consisted 
+of six weekly psychosexual counseling sessions that lasted from 90 to 120 min. 
+Data were collected by the demographic and clinical forms, Beck Depression 
+Inventory, Female Sexual Function Index (FSFI), Larson Sexual Satisfaction 
+Questionnaire and sexual quality of life-female (SQOL-F) questionnaire.
+RESULTS: Mean age of patients in control and intervention groups were 43.8 ± 6.6 
+and 44.84 ± 6.7, respectively. More than 65% of the patients in the both groups 
+were either normal or showed a low level of depression. Sexual function (FSFI) 
+scores and sexual quality of life (SQOL-F), showed a significant statistic 
+differences after intervention (P < 0.001 in both tools). Sexual satisfaction 
+(Larson) has showed improvement in some subclasses, however, change in total 
+score was not statistically significant (P = 0.073).
+CONCLUSIONS: The psychosexual intervention program was effective in improving 
+sexual function and quality of sexual life among BCS. This intervention has 
+clinical significance as it provided an opportunity for the women to discuss 
+their sexual issues.
+
+DOI: 10.1007/s10549-019-05140-z
+PMID: 30701349 [Indexed for MEDLINE]
+
+
+718. Popul Stud (Camb). 2019 Nov;73(3):387-404. doi:
+10.1080/00324728.2018.1549746.  Epub 2019 Jan 31.
+
+The contribution of urbanization to changes in life expectancy in Scotland, 
+1861-1910.
+
+Torres C(1), Canudas-Romo V(2), Oeppen J(1).
+
+Author information:
+(1)University of Southern Denmark.
+(2)Australian National University.
+
+During the nineteenth and early twentieth centuries, urban populations in Europe 
+and North America continued to be afflicted by very high mortality as rapid 
+urbanization and industrialization processes got underway. Here we measure the 
+effect of population redistribution from (low-mortality) rural to 
+(high-mortality) urban areas on changes in Scottish life expectancy at birth 
+from 1861 to 1910. Using vital registration data for that period, we apply a new 
+decomposition method that decomposes changes in life expectancy into the 
+contributions of two main components: (1) changes in mortality; and (2) 
+compositional changes in the population. We find that, besides an urban penalty 
+(higher mortality in urban areas), an urbanization penalty (negative effect of 
+population redistribution to urban areas on survival) existed in Scotland during 
+the study period. In the absence of the urbanization penalty, Scottish life 
+expectancy at birth could have attained higher values by the beginning of the 
+twentieth century.
+
+DOI: 10.1080/00324728.2018.1549746
+PMID: 30702026 [Indexed for MEDLINE]
+
+
+719. Georgian Med News. 2018 Dec;(285):119-124.
+
+[RADIOPROTECTIVE ACTIVITY OF POLYMETOXY-LATED FLAVONOIDS OF CITRUS EXTRACT].
+
+[Article in Russian]
+
+Gvilava I(1), Ormotsadze G(1), Chkhikvishvili I(1), Giorgobiani M(1), Kipiani 
+NV(1), Sanikidze T(1).
+
+Author information:
+(1)Tbilisi State Medical University; I. Beritashvili Center for Experimental 
+Biomedical Medicine, Georgia.
+
+The aim of the study was to establish the radioprotective activity of citrus 
+polymetoxylated flavonoids extract (CPMFE) on the X-irradiated rats. The 
+experiments were carried out on white Wistar rats. Animals were irradiated with 
+X rays in doses of 5 Gy and 7 Gy. The control group consisted the 
+sham-irradiated rats. Part of animals of each group were treated with 
+intramusculary injections of CPMFE (dose 30 mg/kg) during 7 days; blood was 
+taken from the tail vein (0.5 ml) for detection of lipoperoxides (LOO.) content. 
+On the 3rd day after irradiation 3 animals from each group were sacrificed 
+(under ether anesthesia) and blood samples were taken for the study of 
+antioxidant status. The activity of antioxidant enzymes (catalase (CAT) and 
+superoxidedismutase (SOD)) was determined by the spectrophotometric method; the 
+content of LOO.in the blood was determined by electron paramagnetic resonance 
+(EPR) mrthod. In group of irradiated rats a sharp dose-dependent inactivation of 
+blood antioxidant enzymes (SOD, CAT) and intensification of the lipid 
+peroxidation were detected. The direct and feedback mechanism in the regulation 
+of CAT and SOD activity, ensuring the implementation of antioxidant protection 
+in the body was revealed. Under irradiation with 7Gy rapid death of animals (on 
+3-d day after irradiation the mortality of animals was 70%, and on the 5th day 
+all died) were detected. During irradiation with dose 5 Gy the survival of 
+animals increased (on the 8-th day after irradiation - 50% survival rate). CPMFE 
+in dose-dependent manner supported the reduce the intensity of lipid 
+peroxidation processes - at relatively low doses of radiation (5Gy) during the 
+first 3 days the content of LOO.in the blood decreased insignificantly compared 
+with indices in untreated animals, whereas with an increase in the dose of 
+irradiation (7Gy) a statistically significant antiradical effect of CPMFE (a 
+statistically significant decrease in the LOO. content) was detected. Under the 
+effect of CPMFE in the blood of rats irradiated with a dose of 5 Gy and 7 Gy, 
+the activity of CAT and SOD, not statistically significant tends to increase 
+(more significant with a dose of 7 Gy). CPMFE did not affect the cumulative 
+survival of animals irradiated with a dose of 5 Gy, but reduced the mortality of 
+rats by 20% (on the 3rd day of irradiation), and contributed to an increase in 
+the life expectancy of animals by 2 times (up to 7 days) in the case of dose 7 
+Gr. Based on the analysis of the research results, it can be assumed that under 
+conditions of radiation damage, exogenous antioxidants synergistically with a 
+dose-dependently activated endogenous non-enzymatic antioxidant system of the 
+body (especially at 7Gy) contribute to the effective suppression of chain 
+reactions of peroxidation, reduction of mortality and increase in life 
+expectancy of animals.
+
+PMID: 30702084 [Indexed for MEDLINE]
+
+
+720. Dev Psychol. 2019 May;55(5):1088-1095. doi: 10.1037/dev0000682. Epub 2019
+Jan  31.
+
+Using DNA to predict educational trajectories in early adulthood.
+
+Ayorech Z(1), Plomin R(1), von Stumm S(2).
+
+Author information:
+(1)MRC Social, Genetic and Developmental Psychiatry Centre.
+(2)Department of Education, University of York.
+
+At the end of compulsory schooling, young adults decide on educational and 
+occupational trajectories that impact their subsequent employability, health and 
+even life expectancy. To understand the antecedents to these decisions, we 
+follow a new approach that considers genetic contributions, which have largely 
+been ignored before. Using genomewide polygenic scores (EA3) from the most 
+recent genomewide association study of years of education in 1.1 million 
+individuals, we tested for genetic influence on early adult decisions in a 
+United Kingdom-representative sample of 5,839 at 18 years of age. EA3 
+significantly predicted educational trajectories in early adulthood (Nagelkerke 
+R2 = 10%), χ2(4) = 571.77, p < .001, indicating that young adults partly adapt 
+their aspirations to their genetic propensities-a concept known as 
+gene-environment correlation. Compared to attending university, a 1 standard 
+deviation increase in EA3 was associated on average with a 51% reduction in the 
+odds of pursuing full-time employment (OR = .47; 95% CI [.43, .51]); an 
+apprenticeship (OR = .49; 95% CI [.45, .54]); or not going in education, 
+employment, or training (OR = .50; 95% CI [.41, .60]). EA3 associations were 
+attenuated when controlling for previous academic achievement and family 
+socioeconomic status. Overall this research illustrates how DNA-based 
+predictions offer novel opportunities for studying the sociodevelopmental 
+structures of life outcomes. (PsycINFO Database Record (c) 2019 APA, all rights 
+reserved).
+
+DOI: 10.1037/dev0000682
+PMCID: PMC6522355
+PMID: 30702313 [Indexed for MEDLINE]721. Medicine (Baltimore). 2019 Feb;98(5):e14213. doi:
+10.1097/MD.0000000000014213.
+
+Contrasting performance between physically active and sedentary older people 
+playing exergames.
+
+Zangirolami-Raimundo J(1), Raimundo RD(1), da Silva TD(2), de Andrade PE(1), 
+Benetti FA(3), da Silva Paiva L(4), do Valle JETMR(1), de Abreu LC(1).
+
+Author information:
+(1)Laboratório de Delineamento de Estudos e Escrita Científica, Faculdade de 
+Medicina do ABC, Santo André.
+(2)Escola de Artes, Ciências e Humanidades, Universidade de São Paulo.
+(3)Departamento de Fisioterapia.
+(4)Laboratório de Epidemiologia e Análise de Dados, Faculdade de Medicina do 
+ABC, Santo André, São Paulo, Brazil.
+
+The increase in life expectancy associated with the increase in chronological 
+age and less active people helps in the appearance of chronic and degenerative 
+diseases. The encouragement of physical exercises contributes to older people 
+abandoning sedentarism and preventing such diseases. Exergame is a promising 
+alternative, for making exercise a pleasurable activity.In this study, we 
+compared the performance of physically active older people with sedentary older 
+people in exergames.Participants were 83 older adults over 65 years of age, of 
+both sexes, divided into 2 physically active older people (AG) and sedentary 
+older people (CG) groups. The participants performed a task through an exergame 
+called "MoviLetrando" that uses the score, number of hits, number of omissions, 
+and an average time of hits as an evaluation. A characterization questionnaire 
+was applied, with information about sex, age, marital status, economic class, 
+self-rated health, time of use of electronic games, a questionnaire on the 
+practice of physical activity, and the Brunel Mood Scale.There was a higher 
+exergame score in AG than in CG (P = .003), in the number of correct answers 
+(P = .012). The number of omissions was lower in AG than in CG (P = .023). The 
+mean time of correct answers was lower in AG than in CG (P = .013). The 
+regression analysis revealed a significant finding F (3, 82) = 11.06, P < .001 
+and showed a prediction ability of 26.9% (r = .269). Three variables remained 
+significantly associated with the score: physical activity was marginally 
+significant (β = .19, P = .06), age (β = -.403, P < .001), depression 
+(β = -.212, P = .028).Physically active older people perform better when 
+compared with the sedentary older people. Age, depression, and physical activity 
+influence the performance in exergame.
+
+DOI: 10.1097/MD.0000000000014213
+PMCID: PMC6380728
+PMID: 30702574 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+722. Medicine (Baltimore). 2019 Feb;98(5):e14290. doi:
+10.1097/MD.0000000000014290.
+
+Intraperitoneal infusion of ex vivo-cultured allogeneic NK cells in recurrent 
+ovarian carcinoma patients (a phase I study).
+
+Hoogstad-van Evert J(1), Bekkers R(1), Ottevanger N(2), Schaap N(3), Hobo W(4), 
+Jansen JH(4), Massuger L(1), Dolstra H(4).
+
+Author information:
+(1)Department of Obstetrics and Gynecology.
+(2)Department of Medical Oncology.
+(3)Department of Hematology, Radboud University Medical Center.
+(4)Department of Laboratory Medicine, Laboratory of Hematology, Radboud 
+Institute of Molecular Life Sciences, Nijmegen, The Netherlands.
+
+INTRODUCTION: Recurrent ovarian carcinoma has dismal prognosis, but control of 
+disease and prolonged survival are possible in some patients. The estimated 
+5-year survival is 46% for all stages of ovarian cancer, and only 28% for 
+metastasized disease. Notably, the majority of women with ovarian cancer are 
+diagnosed with stage III or IV disease with a high recurrence rate. As most 
+women with relapsed or metastatic cancer will die of progressive disease, there 
+is an urgent need for novel therapeutic strategies. The primary aim of our study 
+is to evaluate safety and toxicity of intraperitoneal infusion of ex 
+vivo-expanded natural killer cells (NK), generated from CD34+ umbilical cord 
+blood (UCB) progenitor cells, with and without a preceding non-myeloablative 
+immunosuppressive conditioning regimen in patients suffering from recurrent 
+ovarian cancer. The secondary objectives are to compare the in vivo lifespan, 
+expansion, and biological activity of intraperitoneally infused NK cell products 
+with or without preparative chemotherapy, as well as evaluate effects on disease 
+load.
+METHODS: In this phase I safety trial, 12 patients who are suffering from 
+recurrent ovarian cancer, detected by a significant rise in serum level of 
+CA-125 on two successive time points, will be included. Prior to UCB-NK cell 
+infusion, a laparoscopy is performed to place a catheter in the peritoneal 
+cavity. The first cohort of three patients will receive a single intraperitoneal 
+infusion of 1.5-3×10 UCB-NK cells, generated ex vivo from CD34+ hematopoietic 
+progenitor cells obtained from an allogeneic UCB unit, without a preparative 
+chemotherapy regimen. The second group of three patients will be treated with a 
+similar dose of UCB-NK cells following a preparative four days non-myeloablative 
+immunosuppressive conditioning regimen with cyclophosphamide and fludarabine 
+(Cy/Flu). If no severe toxicity is seen in these 6 patients, an extension cohort 
+of 6 patients will be included to answer the secondary objectives.
+DISCUSSION: This study investigates the safety of a promising new cellular 
+therapy in a group of patients with a poor prognosis. Demonstration of safety 
+and in vivo expansion capacity of allogeneic UCB-NK cells in the absence of 
+Cy/Flu pretreatment will provide rationale for UCB-NK cell infusion after 
+regular second-line chemotherapy.
+
+DOI: 10.1097/MD.0000000000014290
+PMCID: PMC6380776
+PMID: 30702598 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations: The authors declare to have no 
+competing interests.
+
+
+723. Br J Surg. 2019 Feb;106(3):206-216. doi: 10.1002/bjs.11047. Epub 2019 Jan
+31.
+
+Cost-effectiveness of targeted screening for abdominal aortic aneurysm in 
+siblings.
+
+Hultgren R(1)(2), Linné A(3), Svensjö S(4)(5)(6).
+
+Author information:
+(1)Department of Molecular Medicine and Surgery, Karolinska Institutet, 
+Stockholm, Sweden.
+(2)Department of Vascular Surgery, Karolinska University Hospital, Stockholm, 
+Sweden.
+(3)Section of Vascular Surgery, Department of Surgery, Department of Clinical 
+Science and Education, Karolinska Institutet at Södersjukhuset, Stockholm, 
+Sweden.
+(4)Department of Vascular Surgery, Falun County Hospital, Falun, Sweden.
+(5)Centre for Clinical Research, Falun, Sweden.
+(6)Department of Surgical Sciences, Section of Vascular Surgery, Uppsala 
+University, Uppsala, Sweden.
+
+BACKGROUND: Population screening for abdominal aortic aneurysm (AAA) in 
+65‐year‐old men has been shown to be cost‐effective. A risk group with higher 
+prevalence is siblings of patients with an AAA. This health economic model‐based 
+study evaluated the potential cost‐effectiveness of targeted AAA screening of 
+siblings.
+METHODS: A Markov model validated against other screening programmes was used. 
+Two methods of identifying siblings were analysed: direct questioning of 
+patients with an AAA (method A), and employing a national multigeneration 
+register (method B). The prevalence was based on observed ultrasound data on 
+AAAs in siblings. Additional parameters were extracted from RCTs, vascular 
+registers, literature and ongoing screening. The outcome was cost‐effectiveness, 
+probability of cost‐effectiveness at different willingness‐to‐pay (WTP) 
+thresholds, reduction in AAA death, quality‐adjusted life‐years (QALYs) gained 
+and total costs on a national scale.
+RESULTS: Methods A and B were estimated to reduce mortality from AAA, at 
+incremental cost‐effectiveness ratios of €7800 (95 per cent c.i. 4627 to 12 982) 
+and €7666 (5000 to 13 373) per QALY respectively. The probability of 
+cost‐effectiveness was 99 per cent at a WTP of €23 000. The absolute risk 
+reduction in AAA deaths was five per 1000 invited. QALYs gained were 27 per 1000 
+invited. In a population of ten million, methods A and B were estimated to 
+prevent 12 and 17 AAA deaths, among 2418 and 3572 siblings identified annually, 
+at total costs of €499 500 and €728 700 respectively.
+CONCLUSION: The analysis indicates that aneurysm‐related mortality could be 
+decreased cost‐effectively by applying a targeted screening method for siblings 
+of patients with an AAA.
+
+DOI: 10.1002/bjs.11047
+PMID: 30702746 [Indexed for MEDLINE]
+
+
+724. PLoS One. 2019 Jan 31;14(1):e0204784. doi: 10.1371/journal.pone.0204784. 
+eCollection 2019.
+
+Individual response to mTOR inhibition in delaying replicative senescence of 
+mesenchymal stromal cells.
+
+Antonioli E(1), Torres N(1), Ferretti M(1), Piccinato CA(1), Sertie AL(1).
+
+Author information:
+(1)Hospital Israelita Albert Einstein, São Paulo, São Paulo, Brazil.
+
+BACKGROUND AIMS: Delaying replicative senescence and extending lifespan of human 
+mesenchymal stromal cells (MSCs) may enhance their potential for tissue 
+engineering and cell based therapies. Accumulating evidence suggests that 
+inhibitors of the mTOR signaling pathway, such as rapamycin, constitute 
+promising pharmacological agents to retard senescence and extend stemness 
+properties of various progenitor cell types. Here, we investigated whether the 
+ability of rapamycin to postpone replicative senescence varies among bone marrow 
+MSC samples (BM-MSCs) derived from different healthy donors, and explored the 
+molecular mechanisms that drive rapamycin-mediated lifespan increment.
+METHODS: BM-MSCs at early passages were serially passaged either in absence or 
+continuous presence of rapamycin and the number of cell population doublings 
+until growth arrest was measured. The inhibition of mTOR signaling was assessed 
+by the phosphorylation status of the downstream target RPS6. The expression 
+levels of several senescence and pluripotency markers at early and 
+late/senescent passages were analyzed by RT-qPCR, flow cytometry and western 
+blot.
+RESULTS: We found that the lifespan extension in response to the continuous 
+rapamycin treatment was highly variable among samples, but effective in most 
+BM-MSCs. Despite all rapamycin-treated cells secreted significantly reduced 
+levels of IL6, a major SASP cytokine, and expressed significantly higher levels 
+of the pluripotency marker NANOG, the expression patterns of these markers were 
+not correlated with the rapamycin-mediated increase in lifespan. Interestingly, 
+rapamycin-mediated life-span extension was significantly associated only with 
+repression of p16INK4A protein accumulation.
+CONCLUSIONS: Taken together, our results suggest that some, but not all, BM-MSC 
+samples would benefit from using rapamycin to postpone replicative arrest and 
+reinforce a critical role of p16INK4A protein downregulation in this process.
+
+DOI: 10.1371/journal.pone.0204784
+PMCID: PMC6354956
+PMID: 30703123 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+725. Curr Eye Res. 2019 Jun;44(6):657-663. doi: 10.1080/02713683.2019.1576907.
+Epub  2019 Feb 18.
+
+Disparities in the Global Burden of Age-Related Macular Degeneration: An 
+Analysis of Trends from 1990 to 2015.
+
+Wang D(1), Jiang Y(1), He M(2), Scheetz J(3), Wang W(1).
+
+Author information:
+(1)a Zhongshan Ophthalmic Center, State Key Laboratory of Ophthalmology , Sun 
+Yat-Sen University , Guangzhou , People's Republic of China.
+(2)b Department of Ophthalmology, Guangdong Eye Institute, Guangdong General 
+Hospital , Guangdong Academy of Medical Sciences , Guangzhou , People's Republic 
+of China.
+(3)c Centre for Eye Research Australia; Ophthalmology, Department of Surgery , 
+The University of Melbourne , Melbourne , Australia.
+
+Purpose: The purpose of this study was to evaluate the disparities in burden of 
+disease of age-related macular degeneration (AMD) in terms of 
+disability-adjusted life years (DALYs). Method: This is an international, 
+database observational study. The DALYs due to AMD were retrieved from the 2015 
+Global Burden of Disease study. The human development index (HDI) and gross 
+domestic product (GDP) per capita across countries were obtained from the 2016 
+Human Development Report and the World Bank. Other related data were obtained 
+from the World Health Organization and United Nations. Results: A total of 195 
+countries were included in this study. From 1990 to 2015, the AMD-related global 
+DALY numbers, crude DALY rate, and age-standardized DALY rate increased by 
+147.66%, 78.13%, and 19.3%, respectively. Global DALY rates increased with age 
+and females had higher DALY numbers and rates than males in each age group (all 
+P < 0.01). The age-standardized DALY rate was positively associated with HDI and 
+GDP per capita (P < 0.001). An analysis by HDI ordering showed substantial 
+socioeconomic inequality, with a concentration index of 0.322 for DALY numbers, 
+0.472 for crude DALY rate, and 0.142 for age-standardized DALY rate, 
+respectively. The country-wide mean body mass index (BMI), serum cholesterol 
+concentration, alcohol consumption, physical inactivity, percent of cell phone 
+subscribers, and urbanization rate were also significantly associated with 
+age-standardized DALY rate. Four variables (GDP per capita, mean BMI, alcohol 
+consumption, and urbanization rate) explained 36.48% of the variation of 
+age-standardized DALY rate across countries. Conclusion: The global health 
+burden of AMD is constantly increasing, implying more demand for AMD services in 
+the coming decades. Older age, female gender, higher socioeconomic development, 
+physical inactivity, and urbanization rate were related to higher AMD burden. 
+These findings may raise the public concern and awareness of the global impact 
+of AMD burden and are valuable for policy planning.
+
+DOI: 10.1080/02713683.2019.1576907
+PMID: 30703332 [Indexed for MEDLINE]
+
+
+726. Neurobiol Dis. 2019 May;125:107-114. doi: 10.1016/j.nbd.2019.01.017. Epub
+2019  Jan 28.
+

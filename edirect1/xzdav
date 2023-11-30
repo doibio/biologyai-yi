@@ -1,0 +1,1000 @@
+
+PURPOSE: Accurate life expectancy estimates are required to inform prostate 
+cancer treatment decisions. However, few models are specific to the population 
+served or easily implemented in a clinical setting. We sought to create life 
+expectancy estimates specific to Veterans diagnosed with prostate cancer.
+MATERIALS AND METHODS: Using national Veterans Health Administration electronic 
+health records, we identified Veterans diagnosed with prostate cancer between 
+2000 and 2015. We abstracted demographics, comorbidities, oncologic staging, and 
+treatment information. We fit Cox Proportional Hazards models to determine the 
+impact of age, comorbidity, cancer risk, and race on survival. We stratified 
+life expectancy estimates by age, comorbidity and cancer stage.
+RESULTS: Our analytic cohort included 145,678 patients. Survival modeling 
+demonstrated the importance of age and comorbidity across all cancer risk 
+categories. Life expectancy estimates generated from age and comorbidity data 
+were predictive of overall survival (C-index 0.676, 95% CI 0.674-0.679) and 
+visualized using Kaplan-Meier plots and heatmaps stratified by age and 
+comorbidity. Separate life expectancy estimates were generated for patients with 
+localized or advanced disease. These life expectancy estimates calibrate well 
+across prostate cancer risk categories.
+CONCLUSIONS: Life expectancy estimates are essential to providing 
+patient-centered prostate cancer care. We developed accessible life expectancy 
+estimation tools for Veterans diagnosed with prostate cancer that can be used in 
+routine clinical practice to inform medical-decision making.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.urolonc.2020.05.015
+PMCID: PMC7438257
+PMID: 32674954 [Indexed for MEDLINE]
+
+
+68. BMJ Glob Health. 2020 Jul;5(7):e003259. doi: 10.1136/bmjgh-2020-003259.
+
+Population health, economics and ethics in the age of COVID-19.
+
+Reddy SG(1).
+
+Author information:
+(1)Economics, The New School for Social Research, New York, New York, USA 
+reddysanjayg@gmail.com.
+
+Are the steps that have been taken to arrest the spread of COVID-19 justifiable? 
+Specifically, are they likely to have improved public health understood 
+according to widely used aggregate population health measures, such as Quality 
+Adjusted Life Years (QALYs) and Disability Adjusted Life Years (DALYs) as much 
+or more than alternatives? This is a reasonable question, since such measures 
+have been promoted extensively in global and national health policy by 
+influential actors, and they have become almost synonymous with quantification 
+of public health. If the steps taken against COVID-19 did not meet this test, 
+then either the measures or the policies must be re-evaluated. There are 
+indications that policies against COVID-19 may have been unbalanced and 
+therefore not optimal. A balanced approach to protecting population health 
+should be proportionate in its effects across distinct health concerns at a 
+moment, across populations over time and across populations over space. These 
+criteria provide a guide to designing and implementing policies that diminish 
+harm from COVID-19 while also providing due attention to other threats to 
+aggregate population health. They should shape future policies in response to 
+this pandemic and others.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjgh-2020-003259
+PMCID: PMC7368475
+PMID: 32675068 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+69. Ann Surg. 2020 Aug;272(2):253-265. doi: 10.1097/SLA.0000000000003672.
+
+Survival Advantage of Laparoscopic Versus Open Resection For Colorectal Liver 
+Metastases: A Meta-analysis of Individual Patient Data From Randomized Trials 
+and Propensity-score Matched Studies.
+
+Syn NL(1)(2)(3), Kabir T(1), Koh YX(1), Tan HL(1), Wang LZ(3), Chin BZ(4), Wee 
+I(1)(3), Teo JY(1)(5), Tai BC(2)(3)(6)(7), Goh BKP(1)(5).
+
+Author information:
+(1)Department of Hepatopancreatobiliary and Transplant Surgery, Singapore 
+General Hospital, Singapore, Singapore.
+(2)Biostatistics & Modelling Domain, Saw Swee Hock School of Public Health, 
+Singapore, Singapore.
+(3)Yong Loo Lin School of Medicine, National University of Singapore, Singapore.
+(4)Faculty of Medicine, University of New South Wales, Sydney, Australia.
+(5)Duke-NUS Medical School, Singapore, Singapore.
+(6)Biostatistics Core, Investigational Medicine Unit, National University Health 
+System, Singapore, Singapore.
+(7)Saw Swee Hock School of Public Health, National University of Singapore, 
+Singapore, Singapore.
+
+Comment in
+    Ann Surg. 2021 Dec 1;274(6):e729-e730.
+    Ann Surg. 2021 Dec 1;274(6):e730-e731.
+    Hepatobiliary Surg Nutr. 2021 Jan;10(1):107-109.
+    Hepatobiliary Surg Nutr. 2021 Jan;10(1):134-135.
+    Hepatobiliary Surg Nutr. 2021 Apr;10(2):246-248.
+
+OBJECTIVE: To perform an individual participant data meta-analysis using 
+randomized trials and propensity-score matched (PSM) studies which compared 
+laparoscopic versus open hepatectomy for patients with colorectal liver 
+metastases (CLM).
+BACKGROUND: Randomized trials and PSM studies constitute the highest level of 
+evidence in addressing the long-term oncologic efficacy of laparoscopic versus 
+open resection for CLM. However, individual studies are limited by the reporting 
+of overall survival in ways not amenable to traditional methods of 
+meta-analysis, and violation of the proportional hazards assumption.
+METHODS: Survival information of individual patients was reconstructed from the 
+published Kaplan-Meier curves with the aid of a computer vision program. 
+Frequentist and Bayesian survival models (taking into account random-effects and 
+nonproportional hazards) were fitted to compare overall survival of patients who 
+underwent laparoscopic versus open surgery. To handle long plateaus in the tails 
+of survival curves, we also exploited "cure models" to estimate the fraction of 
+patients effectively "cured" of disease.
+RESULTS: Individual patient data from 2 randomized trials and 13 PSM studies 
+involving 3148 participants were reconstructed. Laparoscopic resection was 
+associated with a lower hazard rate of death (stratified hazard ratio = 0.853, 
+95% confidence interval: 0.754-0.965, P = 0.0114), and there was evidence of 
+time-varying effects (P = 0.0324) in which the magnitude of hazard ratios 
+increased over time. The fractions of long-term cancer survivors were estimated 
+to be 47.4% and 18.0% in the laparoscopy and open surgery groups, respectively. 
+At 10-year follow-up, the restricted mean survival time was 8.6 months (or 
+12.1%) longer in the laparoscopy arm (P < 0.0001). In a subgroup analysis, 
+elderly patients (≥65 years old) treated with laparoscopy experienced longer 
+3-year average life expectancy (+6.2%, P = 0.018), and those who live past the 
+5-year milestone (46.1%) seem to be cured of disease.
+CONCLUSIONS: This patient-level meta-analysis of high-quality studies 
+demonstrated an unexpected survival benefit in favor of laparoscopic over open 
+resection for CLM in the long-term. From a conservative viewpoint, these results 
+can be interpreted to indicate that laparoscopy is at least not inferior to the 
+standard open approach.
+
+DOI: 10.1097/SLA.0000000000003672
+PMID: 32675538 [Indexed for MEDLINE]
+
+
+70. Ann Surg. 2020 Aug;272(2):334-341. doi: 10.1097/SLA.0000000000003196.
+
+Cost-effectiveness Evaluation of Laparoscopic Versus Robotic Minimally Invasive 
+Colectomy.
+
+Simianu VV(1), Gaertner WB(2), Kuntz K(3), Kwaan MR(4), Lowry AC(2), Madoff 
+RD(2), Jensen CC(2).
+
+Author information:
+(1)Section of Colon and Rectal Surgery, Virginia Mason Medical Center, Seattle, 
+WA.
+(2)Division of Colon and Rectal Surgery, University of Minnesota, Minneapolis, 
+MN.
+(3)Division of Health Policy and Management, University of Minnesota, 
+Minneapolis, MN.
+(4)Division of General Surgery, David Geffen School of Medicine at UCLA, Los 
+Angeles, CA.
+
+OBJECTIVE: Evaluate the cost-effectiveness of open, laparoscopic, and robotic 
+colectomy.
+BACKGROUND: The use of robotic-assisted colon surgery is increasing. Robotic 
+technology is more expensive and whether a robotically assisted approach is 
+cost-effective remains to be determined.
+METHODS: A decision-analytic model was constructed to evaluate the 1-year costs 
+and quality-adjusted time between robotic, laparoscopic, and open colectomy. 
+Model inputs were derived from available literature for costs, quality of life 
+(QOL), and outcomes. Results are presented as incremental cost-effectiveness 
+ratios (ICERs), defined as incremental costs per quality-adjusted life year 
+(QALY) gained. One-way and probabilistic sensitivity analyses were performed to 
+test the effect of clinically reasonable variations in the inputs on our 
+results.
+RESULTS: Open colectomy cost more and achieved lower QOL than robotic and 
+laparoscopic approaches. From the societal perspective, robotic colectomy costs 
+$745 more per case than laparoscopy, resulting in an ICER of $2,322,715/QALY 
+because of minimal differences in QOL. From the healthcare sector perspective, 
+robotics cost $1339 more per case with an ICER of $4,174,849/QALY. In both 
+models, laparoscopic colectomy was more frequently cost-effective across a wide 
+range of willingness-to-pay thresholds. Sensitivity analyses suggest robotic 
+colectomy becomes cost-effective at $100,000/QALY if robotic disposable 
+instrument costs decrease below $1341 per case, robotic operating room time 
+falls below 172 minutes, or robotic hernia rate is less than 5%.
+CONCLUSIONS: Laparoscopic and robotic colectomy are more cost-effective than 
+open resection. Robotics can surpass laparoscopy in cost-effectiveness by 
+achieving certain thresholds in QOL, instrument costs, and postoperative 
+outcomes. With increased use of robotic technology in colorectal surgery, there 
+is a burden to demonstrate these benefits.
+
+DOI: 10.1097/SLA.0000000000003196
+PMID: 32675547 [Indexed for MEDLINE]
+
+
+71. J Aging Res. 2020 Jun 29;2020:6830495. doi: 10.1155/2020/6830495. eCollection
+ 2020.
+
+Clinical Conditions of Hospitalized Older Adult Patients and Their Outcomes in a 
+Regional Referral Hospital in Southwestern Uganda.
+
+Orikiriza P(1)(2), Rukundo GZ(3), Kayanja A(4), Bazira J(1).
+
+Author information:
+(1)Department of Microbiology, Mbarara University of Science and Technology, 
+Mbarara, Uganda.
+(2)Division of Basic Medical Sciences, University of Global Health Equity, 
+Kigali, Rwanda.
+(3)Department of Psychiatry, Mbarara University of Science and Technology, 
+Mbarara, Uganda.
+(4)Department of Internal Medicine, Mbarara Regional Referral Hospital, Mbarara, 
+Uganda.
+
+BACKGROUND: Recent advances in medicine have caused positive impact on the life 
+expectancy of most countries, resulting in increased older adult population. 
+Aging comes with a number of health challenges. This study investigated health 
+conditions of older adults at admission and clinical outcomes in a regional 
+referral hospital in southwestern Uganda.
+METHODS: A retrospective study reviewed clinical data of older adult patients 
+admitted between January 2016 and December 2017. Demographic data, cause of 
+admission, length, and outcomes of hospitalization are described.
+RESULTS: Up to 813 patient files were reviewed. The patients had been 
+hospitalized to emergency, 371 (45.6%); medical, 355 (43.7%); surgical, 84 
+(10.3%); psychiatry, 2 (0.3%); and obstetrics and gynecology, 1 (0.1%) wards. 
+The majority, 427 (52.5%), of the patients were females. Cancer was the most 
+common reason for hospitalization, 130/889 (14.6%), followed by stroke, 94/889 
+(10.6%); heart failure, 76/889 (8.6%); chronic obstructive pulmonary disease, 
+56/889 (6.3%); pneumonia, 47/889 (5.3%); and head injury, 45/889 (5.1%), whilst 
+560 (68.9%) of the hospitalized patients were discharged, 197 (24.2%) died, 18 
+(2.2%) were referred for advanced care, and 38 (4.7%) escaped from the facility. 
+The emergency ward had the highest deaths, 101 (51.3%), then medical, 56 
+(28.4%), and surgical, 39 (19.8%), wards. Mortality of those who died was 
+admitted with stroke, 30 (15.2%), cancer, 21 (10.7%), head injury, 16 (8.1%), 
+heart failure, 14 (7.1%), sepsis, 14 (7.1%), and renal disease, 12 (6.1%). On 
+average, patients were admitted for 5 days (IQR: 3-8).
+CONCLUSIONS: The high proportion of mortality in this group is worrying and 
+requires further investigations.
+
+Copyright © 2020 Patrick Orikiriza et al.
+
+DOI: 10.1155/2020/6830495
+PMCID: PMC7341388
+PMID: 32676210
+
+Conflict of interest statement: The authors declare that there are no conflicts 
+of interest regarding the publication of this paper.
+
+
+72. Anal Cell Pathol (Amst). 2020 Jun 26;2020:6813492. doi: 10.1155/2020/6813492.
+ eCollection 2020.
+
+Efficacy and Safety of Rivaroxaban versus Warfarin for the Treatment of Acute 
+Pulmonary Embolism: A Real-World Study.
+
+Huang Y(#)(1)(2), Duan L(#)(1)(3), He W(#)(1), Hong C(1), Guo Y(1), Wang X(1), 
+Zhang N(1), Chen Y(1), Wang T(1), Wang J(1), Liu C(1).
+
+Author information:
+(1)State Key Laboratory of Respiratory Disease, National Clinical Research 
+Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The 
+First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong 
+510120, China.
+(2)Xishuangbanna Dai Autonomous Prefecture People's Hospital, Xishuangbanna Dai 
+Autonomous, Yunnan, China.
+(3)The Second Affiliated Hospital of Guangzhou Medical University, Guangzhou, 
+Guangdong, China.
+(#)Contributed equally
+
+BACKGROUND: Pulmonary embolism (PE) is a life-threatening disease. 
+Target-specific anticoagulant rivaroxaban is a direct factor Xa inhibitor that 
+can be safely used without laboratory monitoring.
+OBJECTIVE: To investigate the efficacy and safety of rivaroxaban versus warfarin 
+for the treatment of acute pulmonary thromboembolism in real-world clinical 
+practice.
+METHOD: This was a semiretrospective, semiprospective, and real-world trial 
+involving 128 patients with acute symptomatic pulmonary embolism with or without 
+active tumor or frailty. We compared rivaroxaban to the standard therapy 
+consisting of low-molecular-weight heparin combined with warfarin. The primary 
+efficacy outcome was absorption of thrombus. The principal safety outcome was 
+bleeding episode.
+RESULTS: There was no significant difference in thrombus absorption between 
+rivaroxaban and standard therapy after 3-month treatment (P = 0.798, 95% 
+confidence interval (CI) 0.686 to 1.336) or more than 6-month treatment (P = 
+0.534, 95% confidence interval (CI) 0.795 to 1.556). There was no decline in 
+efficacy (including computed tomographic pulmonary angiography and recurrence) 
+when the rivaroxaban dose was reduced to 10 mg once daily after 3 months of 
+administration. The ratio of patients without bleeding was 48.84% for 
+rivaroxaban and 19.05% for standard therapy (P = 0.001). There was no 
+significant difference in rivaroxaban monotherapy subgroups (including frail 
+patients, tumor patients, and thrombolysis or nonthrombolysis at 
+intermediate-high-risk patients).
+CONCLUSION: In this real-world study, the efficacy and safety of rivaroxaban 
+alone was not different to standard therapy for pulmonary emboli absorption. 
+With an extension in treatment duration, the rivaroxaban regimen had a higher 
+efficacy and safety than standard therapy and there was no decline in treatment 
+efficacy when the rivaroxaban dose was reduced to 10 mg once daily.
+
+Copyright © 2020 Yan Huang et al.
+
+DOI: 10.1155/2020/6813492
+PMCID: PMC7335399
+PMID: 32676276 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests. All other authors have reported that they have no relationships 
+relevant to the contents of this paper to disclose.
+
+
+73. Ann Glob Health. 2020 Jun 29;86(1):67. doi: 10.5334/aogh.2591.
+
+A Global View on Prevalence of Hypertension and Human Develop Index.
+
+Zeng Z(1), Chen J(1), Xiao C(1), Chen W(1).
+
+Author information:
+(1)Chengdu Medical College, CN.
+
+BACKGROUND: The incidence of hypertension has been increasing in the past 
+decade. Little is known regarding the relationship between hypertension and 
+human development index (HDI).
+OBJECTIVES: The objective is to identify the relationship between the prevalence 
+of hypertension and human development index (HDI).
+METHODS: An ecological study was conducted. The data from World Health 
+Organization reports and United Nations Development Programme reports for 182 
+countries, including the HDI values, rates of tobacco use, physical inactivity, 
+alcohol use, and salt intake. The Generalized Additive Models were implemented 
+to assess the association between the prevalence of hypertension and the HDI.
+RESULTS: Among 182 countries, the prevalence of hypertension ranged from 13% to 
+41%. The highest HDI value was 0.949 and the lowest was 0.352. In model 1, 
+statistically significant associations were found in three populations, the 
+largest R2 was 0.245. In model 2, the largest R2 was 0.485. In linear part, 
+there was negative relationship in female population, while HDI was associated 
+with prevalence of hypertension in all three populations, which was explained by 
+spline function. The curve indicated that there were three intervals from low to 
+high HDI. From 0 to 0.6 and 0.8 to 1, an evident decreasing trend of prevalence 
+was found, while the rate increased when HDI was in the interval of 0.6 to 0.8.
+CONCLUSIONS: In this study, we identified the association between the prevalence 
+of hypertension and the HDI and the underlying pattern of the relationship. The 
+findings will aid the planning of hypertension control priorities and provide 
+suggestions for interventions.
+
+Copyright: © 2020 The Author(s).
+
+DOI: 10.5334/aogh.2591
+PMCID: PMC7333558
+PMID: 32676296 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no competing interests to 
+declare.
+
+
+74. Doc Ophthalmol. 2021 Feb;142(1):17-24. doi: 10.1007/s10633-020-09780-1. Epub 
+2020 Jul 16.
+
+ISCEV extended protocol for VEP methods of estimation of visual acuity.
+
+Hamilton R(1)(2), Bach M(3), Heinrich SP(3), Hoffmann MB(4)(5), Odom JV(6), 
+McCulloch DL(7), Thompson DA(8)(9).
+
+Author information:
+(1)Department of Clinical Physics and Bioengineering, Royal Hospital for 
+Children, NHS Greater Glasgow and Clyde, Glasgow, UK. 
+ruth.hamilton@glasgow.ac.uk.
+(2)College of Medical, Veterinary and Life Sciences, University of Glasgow, 
+Glasgow, UK. ruth.hamilton@glasgow.ac.uk.
+(3)Eye Center, Medical Center - University of Freiburg, Faculty of Medicine, 
+University of Freiburg, Freiburg, Germany.
+(4)Department of Ophthalmology, Otto-von-Guericke University, Magdeburg, 
+Germany.
+(5)Center for Behavioral Brain Sciences, Magdeburg, Germany.
+(6)Departments of Ophthalmology and Neuroscience, School of Medicine, West 
+Virginia University, Morgantown, WV, USA.
+(7)School of Optometry and Vision Science, University of Waterloo, Waterloo, ON, 
+Canada.
+(8)The Department of Clinical and Academic Ophthalmology, Great Ormond Street 
+Hospital for Children, London, UK.
+(9)University College London Great Ormond Street Institute of Child Health, 
+London, UK.
+
+The International Society for Clinical Electrophysiology of Vision (ISCEV) 
+standard for visual evoked potentials (VEPs) describes a minimum procedure for 
+clinical VEP testing and encourages more extensive testing. This ISCEV extended 
+protocol is an extension to the VEP standard. It describes procedures for 
+recording multiple VEPs to a range of sizes of pattern stimuli to establish the 
+VEP spatial frequency limit (threshold) and for relating this limit to visual 
+acuity.
+
+DOI: 10.1007/s10633-020-09780-1
+PMCID: PMC7906925
+PMID: 32676804 [Indexed for MEDLINE]
+
+Conflict of interest statement: Michael Bach has consulted for Diagnosys LLC, 
+Lowell, MA, USA.
+
+
+75. Oecologia. 2020 Nov;194(3):311-320. doi: 10.1007/s00442-020-04709-6. Epub
+2020  Jul 16.
+
+Density-dependent lifespan and estimation of life expectancy for a parasitoid 
+with implications for population dynamics.
+
+Miksanek JR(1), Heimpel GE(2).
+
+Author information:
+(1)Department of Entomology, University of Minnesota, 513 Hodson Hall, 1980 
+Folwell Avenue, St. Paul, MN, 55108, USA. miks0007@umn.edu.
+(2)Department of Entomology, University of Minnesota, 513 Hodson Hall, 1980 
+Folwell Avenue, St. Paul, MN, 55108, USA.
+
+Parasitoid lifespan is influenced by nutrient availability, thus the lifespan of 
+parasitoids that rely on their hosts for nutritional resources (either via host 
+feeding or by consuming honeydew) should vary with host density. We assessed the 
+survival and reproduction of one such species, Aphelinus certus-a parasitoid of 
+the soybean aphid, Aphis glycines-over a range of host densities using a 
+laboratory assay. We found a positive, asymptotic relationship between host 
+density and the lifespan and fecundity of A. certus that was supported by a 
+traditional survivorship analysis as well as a logistic model. Parasitoids from 
+this assay were also used to develop a wing wear index relating setae damage to 
+parasitoid age. This index was used to estimate the life expectancy of 
+field-collected parasitoids, which was shorter than the life expectancy of 
+laboratory-reared female parasitoids. Finally, host-density-dependent parasitoid 
+lifespan was incorporated into a coupled-equations matrix population model that 
+revealed that decreasing the degree of host density dependence leads to higher 
+equilibrium host densities and changes in the quality of equilibrium (e.g. 
+stable limit cycles). These results detail the relatively unstudied phenomenon 
+of host-density-dependent parasitoid lifespan and suggest that differences 
+between laboratory- and field-determined parasitoid life expectancy have 
+important implications for population dynamics and the biological control of 
+insects.
+
+DOI: 10.1007/s00442-020-04709-6
+PMID: 32676819 [Indexed for MEDLINE]
+
+
+76. Risk Anal. 2021 May;41(5):761-770. doi: 10.1111/risa.13561. Epub 2020 Jul 16.
+
+Do the Benefits of COVID-19 Policies Exceed the Costs? Exploring Uncertainties 
+in the Age-VSL Relationship.
+
+Robinson LA(1), Sullivan R(2), Shogren JF(3).
+
+Author information:
+(1)Harvard T.H. Chan School of Public Health, Boston, MA, 02115, USA.
+(2)Naval Postgraduate School, Monterey, CA, 93943, USA.
+(3)University of Wyoming, Laramie, WY, 82071, USA.
+
+Numerous analyses of the benefits and costs of COVID-19 policies have been 
+completed quickly as the crisis has unfolded. The results often largely depend 
+on the approach used to value mortality risk reductions, typically expressed as 
+the value per statistical life (VSL). Many analyses rely on a population-average 
+VSL estimate; some adjust VSL for life expectancy at the age of death. We 
+explore the implications of theory and empirical studies, which suggest that the 
+relationship between age and VSL is uncertain. We compare the effects of three 
+approaches: (1) an invariant population-average VSL; (2) a constant value per 
+statistical life-year (VSLY); and (3) a VSL that follows an inverse-U pattern, 
+peaking in middle age. We find that when applied to the U.S. age distribution of 
+COVID-19 deaths, these approaches result in average VSL estimates of $10.63 
+million, $4.47 million, and $8.31 million. We explore the extent to which 
+applying these estimates alters the conclusions of frequently cited analyses of 
+social distancing, finding that they significantly affect the findings. However, 
+these analyses do not address other characteristics of COVID-19 deaths that may 
+increase or decrease the VSL estimates. Examples include the health status and 
+income level of those affected, the size of the risk change, and the extent to 
+which the risk is dreaded, uncertain, involuntarily incurred, and outside of 
+one's control. The effects of these characteristics and their correlation with 
+age are uncertain; it is unclear whether they amplify or diminish the effects of 
+age on VSL.
+
+© 2020 Society for Risk Analysis.
+
+DOI: 10.1111/risa.13561
+PMCID: PMC7405126
+PMID: 32677076 [Indexed for MEDLINE]
+
+
+77. Infancy. 2019 Nov;24(6):857-880. doi: 10.1111/infa.12310. Epub 2019 Sep 17.
+
+Sequences of toddler negative emotion and parent-toddler verbal communication 
+during a waking day.
+
+Fields-Olivieri MA(1), Cole PM(1).
+
+Author information:
+(1)The Pennsylvania State University, State College, Pennsylvania.
+
+Although the second year of life is characterized by dramatic changes in 
+expressive language and by increases in negative emotion expression, verbal 
+communication and emotional communication are often studied separately. With a 
+sample of twenty-five one-year-olds (12-23 months), we used Language Environment 
+Analysis (LENA; Xu, Yapanel, & Gray, 2009, Reliability of the LENA™ language 
+environment analysis system in young children's natural home environment. LENA 
+Foundation) to audio-record and quantify parent-toddler communication, including 
+toddlers' vocal negative emotion expressions, across a full waking day. Using a 
+multilevel extension of lag-sequential analysis, we investigated whether parents 
+are differentially responsive to toddlers' negative emotion expressions compared 
+to their verbal or preverbal vocalizations, and we examined the effects of 
+parents' verbal responses on toddlers' subsequent communicative behavior. 
+Toddlers' negative emotions were less likely than their vocalizations to be 
+followed by parent speech. However, when negative emotions were followed by 
+parent speech, toddlers were most likely to vocalize next. Post hoc analyses 
+suggest that older toddlers and toddlers with higher language abilities were 
+more likely to shift from negative emotion to verbal or preverbal vocalization 
+following parent response. Implications of the results for understanding the 
+parent-toddler communication processes that support both emotional development 
+and verbal development are discussed.
+
+© International Congress of Infant Studies (ICIS).
+
+DOI: 10.1111/infa.12310
+PMID: 32677358
+
+
+78. BMC Health Serv Res. 2020 Jul 16;20(1):659. doi: 10.1186/s12913-020-05521-x.
+
+QALY-time: experts' view on the use of the quality-adjusted LIFE year in 
+COST-effectiveness analysis in palliative care.
+
+Wichmann AB(1), Goltstein LCMJ(2), Obihara NJ(2), Berendsen MR(2), Van 
+Houdenhoven M(3), Morrison RS(4), Johnston BM(5), Engels Y(6); Radboud Honours 
+Academy Think Tank.
+
+Collaborators: Berendsen M, Goltstein L, Knol E, Kool M, Nienhuis W, Nies L, 
+Obihara N, Pieksma J, Rovers J.
+
+Author information:
+(1)Radboud university medical centre, Department of Anaesthesiology, Pain and 
+Palliative Medicine, Nijmegen, The Netherlands. Anne.Wichmann@Radboudumc.nl.
+(2)Radboud University, Honours Academy, Nijmegen, The Netherlands.
+(3)Sint Maartenskliniek, Ubbergen, The Netherlands.
+(4)Icahn School of Medicine at Mount Sinai, New York, USA.
+(5)Trinity College Dublin, Centre for Health Policy and Management, Dublin, 
+Ireland.
+(6)Radboud university medical centre, Department of Anaesthesiology, Pain and 
+Palliative Medicine, Nijmegen, The Netherlands.
+
+BACKGROUND: The Quality-Adjusted Life Year (QALY) is internationally recognized 
+as standard metric of health outcomes in cost-effectiveness analyses (CEAs) in 
+healthcare. The ongoing debate concerning the appropriateness of its use for 
+decision-making in palliative care has been recently mapped in a review. The aim 
+was to report on and draw conclusions from two expert meetings that reflected on 
+earlier mapped issues in order to reach consensus, and to advise on the QALY's 
+future use in palliative care.
+METHODS: A nominal group approach was used. In order to facilitate group 
+decision making, three statements regarding the use of the QALY in palliative 
+care were discussed in a structured way. Two groups of international 
+policymakers, healthcare professionals and researchers participated. Data were 
+analysed qualitatively using inductive coding.
+RESULTS: 1) Most experts agreed that the recommended measurement tool for the 
+QALYs 'Q' component, the EuroQol-5D (EQ-5D), is inappropriate for palliative 
+care. A more sensitive tool, which might be based on the capabilities approach, 
+could be used or developed. 2) Valuation of time should be incorporated in the 
+'Q' part, leaving the linear clock time in the 'LY' component. 3) Most experts 
+agreed that the QALY, in its current shape, is not suitable for palliative care.
+CONCLUSIONS: 1) Although the EQ-5D does not suffice, a generic tool is needed 
+for the QALY. As long as no suitable alternative is available, other tools can 
+be used besides or serve as basis for the EQ-5D because of issues in conceptual 
+overlap. 2) Future research should further investigate the valuation of time 
+issue, and how best to integrate it in the 'Q' component. 3) A generic outcome 
+measure of effectiveness is essential to justly allocate healthcare resources. 
+However, experts emphasized, the QALY is and should be one of multiple criteria 
+for choices in the healthcare insurance package.
+
+DOI: 10.1186/s12913-020-05521-x
+PMCID: PMC7364560
+PMID: 32678021 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+79. Commun Biol. 2020 Jul 16;3(1):387. doi: 10.1038/s42003-020-1098-7.
+
+Genome-wide diversity and global migration patterns in dromedaries follow 
+ancient caravan routes.
+
+Lado S(1), Elbers JP(1), Doskocil A(1), Scaglione D(2), Trucchi E(3), Banabazi 
+MH(4), Almathen F(5)(6), Saitou N(7), Ciani E(8), Burger PA(9).
+
+Author information:
+(1)Research Institute of Wildlife Ecology, Department of Interdisciplinary Life 
+Sciences, University of Veterinary Medicine Vienna, Savoyenstrasse 1, 1160, 
+Vienna, Austria.
+(2)IGA Technology Services, Via Jacopo Linussio, 51, 33100, Udine, Italy.
+(3)Department of Life and Environmental Sciences, Marche Polytechnic University, 
+Via Brecce Bianche, 60131, Ancona, Italy.
+(4)Department of Biotechnology, Animal Science Research Institute of Iran 
+(ASRI), Agricultural Research, Education & Extension Organization (AREEO), 
+Karaj, 3146618361, Iran.
+(5)Department of Veterinary Public Health, College of Veterinary Medicine, King 
+Faisal University, Al-Hasa, Saudi Arabia.
+(6)The Camel Research Center, King Faisal University, Al-Hasa, Saudi Arabia.
+(7)Population Genetics Laboratory, National Institute of Genetics, 1111 Yata, 
+Mishima, 411-8540, Japan.
+(8)Department of Biosciences, Biotechnologies and Biopharmaceutics, University 
+of Bari Aldo Moro, Via Orabona, 4, 70125, Bari, Italy. Elena.Ciani@uniba.it.
+(9)Research Institute of Wildlife Ecology, Department of Interdisciplinary Life 
+Sciences, University of Veterinary Medicine Vienna, Savoyenstrasse 1, 1160, 
+Vienna, Austria. Pamela.Burger@vetmeduni.ac.at.
+
+Dromedaries have been essential for the prosperity of civilizations in arid 
+environments and the dispersal of humans, goods and cultures along ancient, 
+cross-continental trading routes. With increasing desertification their 
+importance as livestock species is rising rapidly, but little is known about 
+their genome-wide diversity and demographic history. As previous studies using 
+few nuclear markers found weak phylogeographic structure, here we detected 
+fine-scale population differentiation in dromedaries across Asia and Africa by 
+adopting a genome-wide approach. Global patterns of effective migration rates 
+revealed pathways of dispersal after domestication, following historic caravan 
+routes like the Silk and Incense Roads. Our results show that a Pleistocene 
+bottleneck and Medieval expansions during the rise of the Ottoman empire have 
+shaped genome-wide diversity in modern dromedaries. By understanding subtle 
+population structure we recognize the value of small, locally adapted 
+populations and appeal for securing genomic diversity for a sustainable 
+utilization of this key desert species.
+
+DOI: 10.1038/s42003-020-1098-7
+PMCID: PMC7366924
+PMID: 32678279 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors declare no competing non-financial 
+interests. Author D.S. is employed by the sequencing company IGA Technologies, 
+Udine, Italy. All other authors declare no competing financial interests.
+
+
+80. Clin J Oncol Nurs. 2020 Aug 1;24(4):451-454. doi: 10.1188/20.CJON.451-454.
+
+Young Adults With Sickle Cell Disease: Challenges With Transition to Adult 
+Health Care.
+
+Varty M(1), Popejoy LL(1).
+
+Author information:
+(1)University of Missouri-Columbia.
+
+Because life expectancy has increased greatly in the past few decades for 
+individuals living with sickle cell disease (SCD), transition to the adult 
+healthcare setting has become a necessity to continue disease management. 
+Transition for young adults with SCD is associated with declining health 
+outcomes, including increased acute care use and mortality. Nurses can assist 
+young adults with SCD who are at risk after transition by assessing the young 
+adult's ability to carry out disease self-management, facilitating the 
+supportive role of the family, and recognizing young adults who may have 
+difficulty accessing healthcare resources and providers.
+
+DOI: 10.1188/20.CJON.451-454
+PMID: 32678361 [Indexed for MEDLINE]
+
+
+81. PLoS One. 2020 Jul 17;15(7):e0235956. doi: 10.1371/journal.pone.0235956. 
+eCollection 2020.
+
+Cardio-metabolic abnormalities among patients with severe mental illness at a 
+Regional Referral Hospital in southwestern Uganda.
+
+Agaba DC(1), Migisha R(1), Katamba G(2), Ashaba S(3)(4).
+
+Author information:
+(1)Department of Physiology, Mbarara University of Science and Technology, 
+Mbarara, Uganda.
+(2)Department of Physiology, King Ceasor University, Kampala, Uganda.
+(3)Department of Psychiatry, Mbarara University of Science and Technology, 
+Mbarara, Uganda.
+(4)Department of Psychiatry, Kamapala International University, Kampala, Uganda.
+
+Patients with severe mental illness (SMI) have a higher burden of premature 
+cardio-metabolic abnormalities, including diabetes mellitus, hypertension, 
+hyperlipidemia, and obesity resulting into a 3-fold increase in mortality, and 
+up to 20% reduction in life expectancy compared to the general population. 
+Although over 30% of Ugandans have some form of mental illness, there are no 
+national or hospital-based screening guidelines for cardio-metabolic 
+abnormalities among these patients a general trend in most low-income countries. 
+The screening rates for cardio-metabolic abnormalities in most low-income 
+countries are at only 0.6%. The objective of this study was to describe the 
+cardio-metabolic abnormalities among patients with SMI at Mbarara Regional 
+Referral Hospital. Through a cross-sectional study, we recruited 304 patients 
+with SMI and evaluated them for cardio-metabolic abnormalities using the 
+National Cholesterol Education Programme Adult Treatment Panel III criteria for 
+dyslipidemias, World Health Organisation criteria for diabetes mellitus, 
+obesity, and the Joint national committee criteria for hypertension. We then 
+determined the proportion of participants who met the criteria for each of the 
+individual cardio-metabolic abnormalities. Of the 304 participants, 44.41% were 
+male and 55.59% female with a mean age of 38.56±13.66 years. Almost half 
+(46.38%) of the participants were either overweight or obese, 33.22% had 
+abdominal obesity, 40.46% were hypertensive, 34.11% had low high-density 
+lipoproteins, 37.42% had hypertriglyceridemia and 34.77% had 
+hypercholesterolemia. Based on fasting blood sugar, 11.18% and 9.87% had 
+pre-diabetes and diabetes respectively. There is a high level of 
+cardio-metabolic abnormalities among patients with psychiatric disorders and 
+thus metabolic screening for these abnormalities should be done routinely during 
+psychiatric reviews. There is a need for national guidelines for screening of 
+metabolic abnormalities among patients with SMI so that these abnormalities can 
+be detected early enough at stages where they can be either reversed or delayed 
+to progress to cardiovascular disease.
+
+DOI: 10.1371/journal.pone.0235956
+PMCID: PMC7367467
+PMID: 32678850 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+82. Molecules. 2020 Jul 15;25(14):3222. doi: 10.3390/molecules25143222.
+
+Combined Effect of Modified Atmosphere Packaging and UV-C Radiation on Pathogens 
+Reduction, Biogenic Amines, and Shelf Life of Refrigerated Tilapia (Oreochromis 
+niloticus) Fillets.
+
+Lázaro CA(1), Monteiro MLG(2)(3)(4), Conte-Junior CA(2)(3)(4)(5).
+
+Author information:
+(1)Departmento de Salud Animaly Salud Pública, Facultad de Medicina Veterinaria, 
+Universidad Nacional Mayor de San Marcos (UNMSM), San Borja, Lima 15021, Peru.
+(2)Departmento de Bioquímica, Instituto de Química, Universidade Federal do Rio 
+de Janeiro (UFRJ), Rio de Janeiro, Rio de Janeiro 21941-909, Brazil.
+(3)Núcleo de Análise de Alimentos (NAL-LADETEC), Universidade Federal do Rio de 
+Janeiro (UFRJ), Rio de Janeiro 21941-598, Brazil.
+(4)Departamento de Tecnologia de Alimentos, Universidade Federal Fluminense 
+(UFF), Niterói, Rio de Janeiro 24220-000, Brazil.
+(5)Programa de Pós-graduação em Vigilância Sanitária, Instituto Nacional de 
+Controle de Qualidade em Saúde, Fundação Oswaldo Cruz (FIOCRUZ), Rio de Janeiro 
+21040-900, Brazil.
+
+This study investigated the isolated effect of modified atmosphere packaging 
+(MAP; 50% CO2 and 50% N2) and ultraviolet radiation (UV; 0.30 J/cm2) as well as 
+their combined (MAP/UV) effect on reduction of Salmonella typhimurium and 
+Escherichia coli O157:H7, biogenic amines (BA), and on shelf life of tilapia 
+fillets stored at 4 ± 1 °C for 10 days. UV samples had the highest reduction of 
+S. typhimurium (1.13 log colony forming units/g; CFU/g) and E. coli O157:H7 
+(0.70 log CFU/g). MAP and MAP/UV reduced the growth of S. typhimurium in 0.50 
+log CFU/g and did not affect the growth of E. coli O157:H7. UV, MAP, and MAP/UV 
+increased lag phase and/or generation time of all evaluated bacterial groups, 
+decreased pH values, ammonia formation, texture changes, and, in general, the BA 
+formation throughout storage period, and, therefore, UV, MAP, and MAP/UV 
+extended the shelf life for two, three, and at least five days, respectively. 
+MAP/UV, MAP, and UV decreased redness, MAP/UV and MAP increased yellowness and 
+lipid oxidation, while UV did not affect it. MAP/UV demonstrated promising 
+results for shelf life extension; however, different gas ratios in combination 
+with other ultraviolet radiation type C (UV-C) doses should be investigated to 
+reach the highest microbiological safety and maintenance of the overall quality 
+of tilapia fillets.
+
+DOI: 10.3390/molecules25143222
+PMCID: PMC7397001
+PMID: 32679681 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+83. BMC Med Genet. 2020 Jul 17;21(1):150. doi: 10.1186/s12881-020-01090-2.
+
+A novel G6PD deleterious variant identified in three families with severe 
+glucose-6-phosphate dehydrogenase deficiency.
+
+Tong Y(1), Liu B(2), Zheng H(1), Bao A(1), Wu Z(1), Gu J(1), Tan BH(3), McGrath 
+M(3), Kane S(4), Song C(5), Li Y(6).
+
+Author information:
+(1)Department of Clinical Laboratory, Renmin Hospital of Wuhan University, 99 
+Ziyang Road of Wuchang District, Wuhan, 430060, People's Republic of China.
+(2)Department of Pathology, Affiliated Tianyou Hospital of Wuhan University of 
+Science and Technology, Wuhan, 430064, People's Republic of China.
+(3)Pennsylvinia State University Hershey Medical Center, 500 University Drive, 
+Hershey, PA, 17033, USA.
+(4)University: Georgetown University School of Medicine, Washington, DC, 20007, 
+USA.
+(5)Pennsylvinia State University Hershey Medical Center, 500 University Drive, 
+Hershey, PA, 17033, USA. chunhuasong11@gmail.com.
+(6)Department of Clinical Laboratory, Renmin Hospital of Wuhan University, 99 
+Ziyang Road of Wuchang District, Wuhan, 430060, People's Republic of China. 
+yanlitf@gmail.com.
+
+BACKGROUND: Glucose-6-phosphate dehydrogenase deficiency (D-G6PD) is an X-linked 
+recessive disorder resulted from deleterious variants in the housekeeping gene 
+Glucose-6-phosphate 1-dehydrogenase (G6PD), causing impaired response to 
+oxidizing agents. Screening for new variations of the gene helps with early 
+diagnosis of D-G6PD resulting in a reduction of disease related complications 
+and ultimately increased life expectancy of the patients.
+METHODS: One thousand five hundred sixty-five infants with pathological jaundice 
+were screened for G6PD variants by Sanger sequencing all of the 13 exons, and 
+the junctions of exons and introns of the G6PD gene.
+RESULTS: We detected G6PD variants in 439 (28.1%) of the 1565 infants with 
+pathological jaundice. In total, 9 types of G6PD variants were identified in our 
+cohort; and a novel G6PD missense variant c.1118 T > C, p.Phe373Ser in exon 9 of 
+the G6PD gene was detected in three families. Infants with this novel variant 
+showed decreased activity of G6PD, severe anemia, and pathological jaundice, 
+consistent with Class I G6PD deleterious variants. Analysis of the resulting 
+protein's structure revealed this novel variant affects G6PD protein stability, 
+which could be responsible for the pathogenesis of D-G6PD in these patients.
+CONCLUSIONS: High rates of G6PD variants were detected in infants with 
+pathological jaundice, and a novel Class I G6PD deleterious variants was 
+identified in our cohort. Our data reveal that variant analysis is helpful for 
+the diagnosis of D-G6PD in patients, and also for the expansion of the spectrum 
+of known G6PD variants used for carrier detection and prenatal diagnosis.
+
+DOI: 10.1186/s12881-020-01090-2
+PMCID: PMC7367331
+PMID: 32680472 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared no conflict of 
+interest.
+
+
+84. J Physiother. 2020 Jul;66(3):180-187. doi: 10.1016/j.jphys.2020.06.005. Epub 
+2020 Jul 14.
+
+Preoperative physiotherapy is cost-effective for preventing pulmonary 
+complications after major abdominal surgery: a health economic analysis of a 
+multicentre randomised trial.
+
+Boden I(1), Robertson IK(2), Neil A(3), Reeve J(4), Palmer AJ(5), Skinner EH(6), 
+Browning L(7), Anderson L(8), Hill C(9), Story D(10), Denehy L(11).
+
+Author information:
+(1)Department of Physiotherapy, Launceston General Hospital, Launceston, 
+Australia; Melbourne School of Health Sciences, The University of Melbourne, 
+Melbourne, Australia. Electronic address: ianthe.boden@ths.tas.gov.au.
+(2)School of Health Sciences, University of Tasmania, Launceston, Australia.
+(3)Health Economics Research Group, Menzies Institute for Medical Research, 
+University of Tasmania, Hobart, Australia.
+(4)School of Clinical Sciences, Faculty of Health and Environmental Sciences, 
+Auckland University of Technology, Auckland, New Zealand; Physiotherapy 
+Department, North Shore Hospital, Waitemata District Health Board, Auckland, New 
+Zealand.
+(5)Menzies Institute for Medical Research, University of Tasmania, Hobart, 
+Australia; Centre for Health Policy, School of Population and Global Health, The 
+University of Melbourne, Melbourne, Australia.
+(6)Department of Physiotherapy, The University of Melbourne, Melbourne, 
+Australia; Allied Health Research Unit, Faculty of Medicine Nursing and Health 
+Science, Monash University, Melbourne, Australia.
+(7)Department of Physiotherapy, The University of Melbourne, Melbourne, 
+Australia; Directorate of Community Integration, Allied Health and Service 
+Planning, Western Health, Melbourne, Australia.
+(8)Physiotherapy Department, North Shore Hospital, Waitemata District Health 
+Board, Auckland, New Zealand.
+(9)Physiotherapy Department, North West Regional Hospital, Burnie, Australia.
+(10)Centre for Integrated Critical Care, Melbourne Medical School, The 
+University of Melbourne, Melbourne, Australia.
+(11)Head Melbourne School of Health Sciences, The University of Melbourne, 
+Melbourne, Australia; Allied Health Research lead, Peter McCallum Cancer Centre, 
+Melbourne, Australia.
+
+QUESTION: Is preoperative physiotherapy cost-effective in reducing postoperative 
+pulmonary complications (PPC) and improving quality-adjusted life years (QALYs) 
+after major abdominal surgery?
+DESIGN: Cost-effectiveness analysis from the hospitals' perspective within a 
+multicentre randomised controlled trial with concealed allocation, blinded 
+assessors and intention-to-treat analysis.
+PARTICIPANTS: Four hundred and forty-one adults awaiting elective upper 
+abdominal surgery attending pre-anaesthetic clinics at three public hospitals in 
+Australia and New Zealand.
+INTERVENTIONS: The experimental group received an information booklet and a 
+30-minute face-to-face session, involving respiratory education and breathing 
+exercise training, with a physiotherapist. The control group received the 
+information booklet only.
+OUTCOME MEASURES: The probability of cost-effectiveness and incremental net 
+benefits was estimated using bootstrapped incremental PPC and QALY 
+cost-effectiveness ratios plotted on cost-effectiveness planes and associated 
+probability curves through a range of willingness-to-pay amounts. 
+Cost-effectiveness modelling utilised 21-day postoperative hospital cost audit 
+data and QALYs estimated from Short Form-Six Domain health utilities and 
+mortality to 12 months.
+RESULTS: Preoperative physiotherapy had 95% probability of being cost-effective 
+with an incremental net benefit to participating hospitals of A$4,958 (95% CI 10 
+to 9,197) for each PPC prevented, given that the hospitals were willing to pay 
+$45,000 to provide the service. Cost-utility for QALY gains was less certain. 
+Sensitivity analyses strengthened cost-effectiveness findings. Improved 
+cost-effectiveness and QALY gains were detected when experienced 
+physiotherapists delivered the intervention.
+CONCLUSIONS: Preoperative physiotherapy aimed at preventing PPCs was highly 
+likely to be cost-effective from the hospitals' perspective. For each PPC 
+prevented, preoperative physiotherapy is likely to cost the hospitals less than 
+the costs estimated to treat a PPC after surgery. Potential QALY gains require 
+confirmation.
+TRIAL REGISTRATION: ACTRN12613000664741.
+
+Copyright © 2020 Australian Physiotherapy Association. Published by Elsevier 
+B.V. All rights reserved.
+
+DOI: 10.1016/j.jphys.2020.06.005
+PMID: 32680742 [Indexed for MEDLINE]
+
+
+85. J Arthroplasty. 2020 Nov;35(11):3364-3374. doi: 10.1016/j.arth.2020.06.046.
+Epub  2020 Jun 26.
+
+How Are We Measuring Cost-Effectiveness in Total Joint Arthroplasty Studies? 
+Systematic Review of the Literature.
+
+Lan RH(1), Yu J(2), Samuel LT(2), Pappas MA(3), Brooks PJ(2), Kamath AF(2).
+
+Author information:
+(1)University of Tennessee Health Science Center, College of Medicine, Memphis, 
+TN.
+(2)Department of Orthopaedic Surgery, Orthopaedic and Rheumatologic Institute, 
+Cleveland Clinic Foundation, Cleveland, OH.
+(3)Department of Hospital Medicine, Cleveland Clinic Foundation, Cleveland, OH; 
+Center for Value-Based Care Research, Cleveland Clinic Foundation, Cleveland, 
+OH.
+
+BACKGROUND: As volumes of total hip arthroplasty (THA) and total knee 
+arthroplasty (TKA) continue to rise, it is important to understand their 
+economic impact. No systematic review on cost-effectiveness of THA/TKA has been 
+performed since 2016 despite recent changes in the healthcare environment. The 
+purpose of the study is to provide a contemporary analysis of the 
+cost-effectiveness of total joint arthroplasty and the use of quality-adjusted 
+life years (QALYs).
+METHODS: A systematic review was performed from 2005 to 2020. Online databases 
+(OVID Medline, PubMed, Cost-Effectiveness Analysis Registry, Google Scholar, 
+Elton B. Stephens Co) were queried to identify economic analyses that evaluated 
+the cost-effectiveness of THA/TKA.
+RESULTS: In total, 38 studies met the screening criteria. Study designs were 
+primarily Markov models (68%), cohort studies (16%), and randomized trials (8%). 
+Most studies adopted either a societal perspective (45%) or a health system 
+perspective (39%). Analysis revealed that THA/TKA was strongly cost-effective 
+compared to nonsurgical treatment. THA/TKA procedures that were not delayed were 
+more cost-effective than delayed intervention. The majority of studies used 
+QALYs as the primary quality metric (82%); in all these studies there was a 
+significant improvement in QALYs gained.
+CONCLUSION: Given the high economic impact of arthroplasty, ongoing assessment 
+of cost-effectiveness is needed. Twenty-four percent of studies included in this 
+systematic review were published in the last 4 years of this 15-year study 
+period, highlighting the need for continuous assessment of aggregate data. 
+Future studies should incorporate the cost-effectiveness of THA and TKA with 
+respect to the work-value provided by surgeon providers to support health policy 
+and reimbursement.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.arth.2020.06.046
+PMID: 32680755 [Indexed for MEDLINE]
+
+
+86. Am J Ophthalmol. 2021 Mar;223:405-429. doi: 10.1016/j.ajo.2020.07.010. Epub
+2020  Jul 16.
+
+A Cost-Benefit Analysis of VEGF-Inhibitor Therapy for Neovascular Age-Related 
+Macular Degeneration in the United States.
+
+Brown GC(1), Brown MM(2), Rapuano SB(3), Boyer D(4).
+
+Author information:
+(1)Center for Value-Based Medicine, Hilton Head, South Carolina, USA; Wills Eye 
+Hospital, Jefferson Medical University, Philadelphia, Pennsylvania, USA; 
+Department of Ophthalmology, Emory University School of Medicine, Atlanta, 
+Georgia, USA. Electronic address: gary0514@gmail.com.
+(2)Center for Value-Based Medicine, Hilton Head, South Carolina, USA; Wills Eye 
+Hospital, Jefferson Medical University, Philadelphia, Pennsylvania, USA; 
+Department of Ophthalmology, Emory University School of Medicine, Atlanta, 
+Georgia, USA.
+(3)Center for Value-Based Medicine, Hilton Head, South Carolina, USA; Wills Eye 
+Hospital, Jefferson Medical University, Philadelphia, Pennsylvania, USA.
+(4)Retina-Vitreous Associates Medical Group, Los Angeles, California, USA.
+
+PURPOSE: To perform a societal cost-benefit analysis comparing intravitreal 
+bevacizumab (Avastin), ranibizumab (Lucentis), and aflibercept (Eylea) 
+monotherapies for treating neovascular age-related macular degeneration (NVAMD).
+DESIGN: Cost-benefit analysis.
+METHODS: Center for Value-Based Medicine using published clinical trial and 
+Medicare data.
+PATIENT POPULATION: 168,400 estimated 2018 U.S. patients with new-onset NVAMD. 
+Procedure(s): cost-benefit analysis using 2018 U.S. real dollars.
+OUTCOME MEASUREMENTS: 11-year direct ophthalmic medical costs expended for 
+bevacizumab, ranibizumab, and aflibercept monotherapies were compared with 
+ophthalmic and nonophthalmic direct medical, direct nonmedical, and indirect 
+medical (productivity) costs saved by the therapies.
+RESULTS: Bevacizumab monotherapy had an individual, 11-year $14,772 treatment 
+cost and net $357,680 societal return (11-year 2,421% return on investment 
+[ROI]). Ranibizumab therapy cost $106,582 and returned $265,870 to society (249% 
+ROI), whereas aflibercept treatment cost $61,811 and returned $310,611 to 
+society (503% ROI). The 2018 NVAMD overall treatment cohort, 11-year net 
+societal gain was $28.5 billion to patients and insurers, with $24.2 billion 
+(84.9%) coming from bevacizumab therapy, $0.7 billion (2.5%) from ranibizumab 
+therapy, and $3.6 billion (12.6%) from aflibercept therapy. Substituting 
+bevacizumab for ranibizumab and aflibercept in the 2018 new-onset NVAMD patients 
+would save an estimated $1.343 billion over 11 years. Vascular endothelial 
+growth factor-inhibitor (VEGF-I) therapy in 2018 should contribute $12.2 billion 
+to the Gross Domestic Product over 11 years. Late treatment would decrease this 
+by 78% to $2.7 billion.
+CONCLUSIONS: Intravitreal NVAMD bevacizumab, ranibizumab and aflibercept 
+monotherapies accrue considerable financial, ROIs to patients and insurers as 
+they increase national wealth.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ajo.2020.07.010
+PMID: 32681907 [Indexed for MEDLINE]
+
+
+87. Clin Neurol Neurosurg. 2020 Oct;197:106083. doi:
+10.1016/j.clineuro.2020.106083.  Epub 2020 Jul 10.
+
+Parkinson's gait kinematics deteriorates across multiple cognitive domains under 
+dual-task paradigms.
+
+Penko AL(1), Streicher MC(1), Dey T(2), Rosenfeldt AB(1), Alberts JL(3).
+
+Author information:
+(1)Department of Biomedical Engineering, Cleveland Clinic, Cleveland, OH, USA.
+(2)Quantitative Health Sciences, Cleveland Clinic, Cleveland, OH, USA.
+(3)Department of Biomedical Engineering, Cleveland Clinic, Cleveland, OH, USA; 
+Center for Neurological Restoration, Cleveland Clinic, Cleveland, OH, USA. 
+Electronic address: albertj@ccf.org.
+
+OBJECTIVE: The symptoms of Parkinson's disease (PD) in many circumstances lead 
+to gait dysfunction which contribute to decreased mobility, reduced quality of 
+life, and increased risk of falling. Dual-task conditions have been shown to 
+amplify gait dysfunction from a spatiotemporal parameter standpoint; however, 

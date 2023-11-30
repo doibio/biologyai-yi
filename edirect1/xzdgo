@@ -1,0 +1,1000 @@
+(1)MRC Centre for Molecular Bacteriology and Infection, Department of Life 
+Sciences, Imperial College London, SW7 2AZ London, United Kingdom.
+(2)Department of Biology, Faculty of Sciences, Universidad Autónoma de Madrid, 
+28049 Madrid, Spain.
+(3)Departamento de Microbiología, Facultad de Biología, Universidad de Sevilla, 
+41012 Seville, Spain.
+(4)MRC Centre for Molecular Bacteriology and Infection, Department of Life 
+Sciences, Imperial College London, SW7 2AZ London, United Kingdom; 
+despoina.mavridou@austin.utexas.edu a.filloux@imperial.ac.uk.
+(5)Department of Molecular Biosciences, University of Texas at Austin, Austin, 
+TX 78712.
+
+The type VI secretion system (T6SS) is a phage-derived contractile nanomachine 
+primarily involved in interbacterial competition. Its pivotal component, TssA, 
+is indispensable for the assembly of the T6SS sheath structure, the contraction 
+of which propels a payload of effector proteins into neighboring cells. Despite 
+their key function, TssA proteins exhibit unexpected diversity and exist in two 
+major forms, a short form (TssAS) and a long form (TssAL). While TssAL proteins 
+interact with a partner, called TagA, to anchor the distal end of the extended 
+sheath, the mechanism for the stabilization of TssAS-containing T6SSs remains 
+unknown. Here we discover a class of structural components that interact with 
+short TssA proteins and contribute to T6SS assembly by stabilizing the 
+polymerizing sheath from the baseplate. We demonstrate that the presence of 
+these components is important for full sheath extension and optimal firing. 
+Moreover, we show that the pairing of each form of TssA with a different class 
+of sheath stabilization proteins results in T6SS apparatuses that either reside 
+in the cell for some time or fire immediately after sheath extension. We propose 
+that this diversity in firing dynamics could contribute to the specialization of 
+the T6SS to suit bacterial lifestyles in diverse environmental niches.
+
+Copyright © 2021 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.2008500118
+PMCID: PMC7896307
+PMID: 33558227 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interest.
+
+
+890. Proc Natl Acad Sci U S A. 2021 Feb 16;118(7):e2020452118. doi: 
+10.1073/pnas.2020452118.
+
+Torsional stress can regulate the unwrapping of two outer half superhelical 
+turns of nucleosomal DNA.
+
+Ishida H(1), Kono H(2).
+
+Author information:
+(1)Molecular Modeling and Simulation Group, Institute for Quantum Life Science, 
+National Institutes for Quantum and Radiological Science and Technology, 
+619-0215 Kizugawa, Kyoto, Japan ishida.hisashi@qst.go.jp.
+(2)Molecular Modeling and Simulation Group, Institute for Quantum Life Science, 
+National Institutes for Quantum and Radiological Science and Technology, 
+619-0215 Kizugawa, Kyoto, Japan.
+
+Torsional stress has a significant impact on the structure and stability of the 
+nucleosome. RNA polymerase imposes torsional stress on the DNA in chromatin and 
+unwraps the DNA from the nucleosome to access the genetic information encoded in 
+the DNA. To understand how the torsional stress affects the stability of the 
+nucleosome, we examined the unwrapping of two half superhelical turns of 
+nucleosomal DNA from either end of the DNA under torsional stress with all-atom 
+molecular dynamics simulations. The free energies for unwrapping the DNA 
+indicate that positive stress that overtwists DNA facilitates a large-scale 
+asymmetric unwrapping of the DNA without a large extension of the DNA. During 
+the unwrapping, one end of the DNA was dissociated from H3 and H2A-H2B, while 
+the other end of the DNA stably remained wrapped. The detailed analysis 
+indicates that this asymmetric dissociation is facilitated by the geometry and 
+bendability of the DNA under positive stress. The geometry stabilized the 
+interaction between the major groove of the twisted DNA and the H3 αN-helix, and 
+the straightened DNA destabilized the interaction with H2A-H2B. Under negative 
+stress, the DNA became more bendable and flexible, which facilitated the binding 
+of the unwrapped DNA to the octamer in a stable state. Consequently, we conclude 
+that the torsional stress has a significant impact on the affinity of the DNA 
+and the octamer through the inherent nature of the DNA and can change the 
+accessibility of regulatory proteins.
+
+DOI: 10.1073/pnas.2020452118
+PMCID: PMC7896312
+PMID: 33558240 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interest.
+
+
+891. BMJ Open. 2021 Feb 8;11(2):e041573. doi: 10.1136/bmjopen-2020-041573.
+
+Study protocol of a randomised controlled trial on SISU, a software agent 
+providing a brief self-help intervention for adults with low psychological 
+well-being.
+
+Bendig E(1), Meißner D(2), Erb B(2), Weger L(3), Küchler AM(3), Bauereiss N(3), 
+Ebert D(4), Baumeister H(3).
+
+Author information:
+(1)Department of Clinical Psychology and Psychotherapy, Institute of Psychology 
+and Education, Ulm University, Ulm, Germany eileen.bendig@uni-ulm.de.
+(2)Department of Computer Science, Institute of Distributed Systems, Ulm 
+University, Ulm, Germany.
+(3)Department of Clinical Psychology and Psychotherapy, Institute of Psychology 
+and Education, Ulm University, Ulm, Germany.
+(4)Faculty of Behavioural and Movement Sciences, Clinical Psychology, Vrije 
+University Amsterdam, Amsterdam, The Netherlands.
+
+INTRODUCTION: Only a minority of people living with mental health problems are 
+getting professional help. As digitalisation moves on, the possibility of 
+providing internet/mobile-based interventions (IMIs) arises. One type of IMIs 
+are fully automated conversational software agents (chatbots). Software agents 
+are computer programs that can hold conversations with a human by mimicking a 
+human conversational style. Software agents could deliver low-threshold and 
+cost-effective interventions aiming at promoting psychological well-being in a 
+large number of individuals. The aim of this trial is to evaluate the clinical 
+effectiveness and acceptance of the brief software agent-based IMI SISU in 
+comparison with a waitlist control group.
+METHODS AND ANALYSIS: Within a two-group randomised controlled trial, a total of 
+120 adult participants living with low well-being (Well-being Scale/WHO-5) will 
+be recruited in Germany, Austria and Switzerland. SISU is based on therapeutic 
+writing and acceptance and commitment therapy-based principles. The brief 
+intervention consists of three modules. Participants work through the 
+intervention on 3 consecutive days. Assessment takes place before (t1), during 
+(t2) and after (t3) the interaction with SISU, as well as 4 weeks after 
+randomisation (t4). Primary outcome is psychological well-being (WHO-5). 
+Secondary outcomes are emotional well-being (Flourishing Scale), psychological 
+flexibility (Acceptance and Action Questionnaire-II), quality of life 
+(Assessment of Quality of Life -8D), satisfaction with the intervention (Client 
+Satisfaction Questionnaire-8) and side effects (Inventory for the assessment of 
+negative effectsof psychotherapy). Examined mediators and moderators are 
+sociodemographic variables, personality (Big Five Inventory-10), emotion 
+regulation (Emotion Regulation Questionnaire), alexithymia (Toronto Alexithymia 
+Scale-20), centrality of events (Centrality of Events Scale), treatment 
+expectancies (Credibility Expectancy Questionnaire) and technology alliance 
+(Inventory of Technology Alliance-Online Therapy). Data analysis will be based 
+on intention-to-treat principles. SISU guides participants through a 3-day 
+intervention.
+ETHICS AND DISSEMINATION: This trial has been approved by the ethics committee 
+of the Ulm University (No. 448/18, 18.02.2019). Results will be submitted for 
+publication in a peer-reviewed journal and presented at conferences.
+TRIAL REGISTRATION: The trial is registered at the WHO International Clinical 
+Trials Registry Platform via the German Clinical Trials Register (DRKS): 
+DRKS00016799 (date of registration: 25 April 2019). In case of important 
+protocol modifications, trial registration will be updated. This is protocol 
+version number 1.
+
+© Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2020-041573
+PMCID: PMC7871683
+PMID: 33558351 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: HB reports to have received 
+consultancy fees and fees for lectures/workshops from chambers of 
+psychotherapists and training institutes for psychotherapists in the e-mental 
+health context. A-MK has received fees for lectures/workshops from chambers of 
+psychotherapists and health insurance companies. DE reports to have received 
+consultancy fees/served in the scientific advisory board from several companies 
+such as Minddistrict, Lantern, Schoen Kliniken and German health insurance 
+companies. He is a stakeholder of the Institute for Health Training online 
+(GET.ON), which aims to implement scientific findings related to digital health 
+interventions into routine care. All other authors declare not to have competing 
+interests.
+
+
+892. Arch Gynecol Obstet. 2021 Apr;303(4):871-876. doi:
+10.1007/s00404-021-05972-5.  Epub 2021 Feb 8.
+
+Point-of-care ultrasound in obstetrics and gynecology.
+
+Recker F(#)(1), Weber E(#)(2), Strizek B(2), Gembruch U(2), Westerway SC(3), 
+Dietrich CF(4).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, University Hospital Bonn, Venusberg 
+Campus 1, 53127, Bonn, Germany. Florian.Recker@ukbonn.de.
+(2)Department of Obstetrics and Gynecology, University Hospital Bonn, Venusberg 
+Campus 1, 53127, Bonn, Germany.
+(3)Charles Sturt University, Bathurst, NSW, Australia.
+(4)Department for Internal Medicine, Clinic Beau-Site, Schänzlihalde 11, 3013, 
+Bern, Switzerland.
+(#)Contributed equally
+
+BACKGROUND: The rapid technical development and portability of ultrasound 
+systems over recent years has had a profound impact on the area of 
+point-of-care-ultrasound (POCUS), both in general medicine and in obstetrics and 
+gynecology. The use of POCUS enables the clinician to perform the ultrasound 
+scan either at the medical office or the patient's bedside and used as an 
+extension of the physical examination. Real-time images can immediately be 
+correlated with the patient's symptoms, and any changes in a (critical) 
+patient's condition can be more rapidly detected.
+POCUS IN OBGYN: POCUS is also suitable for time-critical scenarios, and 
+depending on the situation and its dynamics, the course and results of any 
+therapy may be observed in real time. POCUS should be considered to be a routine 
+extension of practice for most OB/GYN clinicians as it can give immediate 
+answers to what could be life-threatening situations for the mother and/or baby. 
+With its proven usefulness, the applications and use of POCUS should be 
+incorporated in teaching programs for medical students, OBGYN residents and 
+emergency physicians.
+
+DOI: 10.1007/s00404-021-05972-5
+PMCID: PMC7985120
+PMID: 33558990 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+893. Bioethics. 2021 May;35(4):348-355. doi: 10.1111/bioe.12858. Epub 2021 Feb 8.
+
+Queue questions: Ethics of COVID-19 vaccine prioritization.
+
+Giubilini A(1), Savulescu J(1)(2)(3)(4), Wilkinson D(1).
+
+Author information:
+(1)Oxford Uehiro Centre for Practical Ethics, University of Oxford, Oxford, 
+United Kingdom of Great Britain and Northern Ireland.
+(2)Wellcome Centre for Ethics and Humanities, University of Oxford, Oxford, UK.
+(3)Visiting Professorial Fellow in Biomedical Ethics, Murdoch Childrens Research 
+Institute, Melbourne, Australia.
+(4)Distinguished Visiting International Professorship in Law, University of 
+Melbourne, Melbourne, Australia.
+
+The rapid development of vaccines against COVID-19 represents a huge 
+achievement, and offers hope of ending the global pandemic. At least three 
+COVID-19 vaccines have been approved or are about to be approved for 
+distribution in many countries. However, with very limited initial availability, 
+only a minority of the population will be able to receive vaccines this winter. 
+Urgent decisions will have to be made about who should receive priority for 
+access. Current policy in the UK appears to take the view that those who are 
+most vulnerable to COVID-19 should get the vaccine first. While this is 
+intuitively attractive, we argue that there are other possible values and 
+criteria that need to be considered. These include both intrinsic and 
+instrumental values. The former are numbers of lives saved, years of life saved, 
+quality of the lives saved, quality-adjusted life-years (QALYs), and possibly 
+others including age. Instrumental values include protecting healthcare systems 
+and other broader societal interests, which might require prioritizing key 
+worker status and having dependants. The challenge from an ethical point of view 
+is to strike the right balance among these values. It also depends on 
+effectiveness of different vaccines on different population groups and on 
+modelling around cost-effectiveness of different strategies. It is a mistake to 
+simply assume that prioritizing the most vulnerable is the best strategy. 
+Although that could end up being the best approach, whether it is or not 
+requires careful ethical and empirical analysis.
+
+© 2021 The Authors. Bioethics published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/bioe.12858
+PMCID: PMC8013927
+PMID: 33559129 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+894. Nord J Psychiatry. 2021 Jul;75(5):389-396. doi:
+10.1080/08039488.2021.1877348.  Epub 2021 Feb 9.
+
+Cost-effectiveness analysis of a supported employment intervention for people 
+with mood and anxiety disorders in Denmark - the IPS-MA intervention.
+
+Hellström L(1), Kruse M(2), Christensen TN(1), Trap Wolf R(1)(2), Eplov LF(1).
+
+Author information:
+(1)CORE: Copenhagen Research Center for Mental Health, Mental health Centre 
+Copenhagen, Hellerup, Denmark.
+(2)Danish Centre for Health Economics, University of Southern Denmark, Odense, 
+Denmark.
+
+OBJECTIVES: We aimed to investigate the cost-utility and cost-effectiveness of a 
+modified Individual Placement and Support intervention for people with mood and 
+anxiety disorders (IPS-MA).
+METHODS: Costs were assessed from a societal perspective. Health care costs were 
+derived from registers and combined with data on use of IPS-MA services, 
+municipal social care, and labour market services. EQ-5D was used to compute 
+QALY. Missing data were imputed in a sensitivity analysis. We also computed the 
+cost per gain in hours worked. Incremental cost-effectiveness ratios (ICER) were 
+computed and bootstrapped to obtain confidence intervals for QALY and gain in 
+hours worked.
+RESULTS: We found no difference in overall costs between groups. A significant 
+saving was found in use of labour market services in the IPS-MA group. But the 
+IPS-MA group had significantly lower wage earnings compared to the control 
+group. The intervention group had a higher, though statistically in-significant, 
+increase in QALYs than the control group. The ICER did not show statistically 
+significant results, but there was a tendency, that IPS-MA could have a positive 
+effect on health-related quality of life without any additional costs. However, 
+participants in the IPS-MA group had a significantly lower gain in hours worked 
+compared to the control group.
+CONCLUSIONS: Despite a significant saving in use of labour market services, 
+IPS-MA was not cost-effective. Participants in the IPS-MA group worked 
+significantly fewer hours and earned significantly less than participants in the 
+control group at 1-year follow-up.
+
+DOI: 10.1080/08039488.2021.1877348
+PMID: 33559510 [Indexed for MEDLINE]
+
+
+895. Int J Occup Med Environ Health. 2021 Aug 5;34(4):505-512. doi: 
+10.13075/ijomeh.1896.01699. Epub 2021 Jan 19.
+
+The number of nurses and midwives per 1000 inhabitants influences life 
+expectancy: a retrospective analysis based on data from 46 countries.
+
+Czarkowska-Pączek B(1), Dawidowska M(2), Serafin L(1).
+
+Author information:
+(1)Medical University of Warsaw, Warsaw, Poland (Department of Clinical 
+Nursing).
+(2)Medical University of Maria Skłodowska-Curie, Warsaw, Poland (Institute of 
+Medical Science).
+
+OBJECTIVES: Increased life expectancy results in greater challenges posed to 
+healthcare. Concurrently, a shortage of healthcare workforce, including nurses, 
+has been observed. Thus, an urgent need exists to implement improvements in 
+healthcare services based on sufficient evidence. The aim of the study was to 
+evaluate the influence of the relative number of nurses/midwives on life 
+expectancy, and the influence of selected economic variables: gross domestic 
+product (GDP), health expenditure as a percentage of GDP, and health expenditure 
+per capita, on this number. The aim of the study was to evaluate the influence 
+of the relative number of nurses/midwives on life expectancy, and the influence 
+of select economic variables: GDP, health expenditure as a percentage of GDP, 
+and health expenditure per capita on this number.
+MATERIAL AND METHODS: A retrospective analysis based on data from 46 countries 
+was performed. Correlations between the relative number of nurses/midwives and 
+life expectancy as well as economic variables were evaluated. To trace the 
+differences between the countries with different relative numbers of nurses/ 
+midwives, the countries were divided into groups as follows - group 1: <5 nurses 
+and midwives/1000 nurses inhabitants, group 2: 5-10 nurses and midwives/1000 
+inhabitants, and group 3: >10 nurses and midwives/1000 inhabitants.
+RESULTS: Correlations were found between the relative number of nurses/midwives 
+and life expectancy (p < 0.001, r = 0.68), and economic variables (p < 0.001, r 
+= 0.82; p < 0.001, r = 0.62, and p < 0.001, r = 0.8, respectively). Life 
+expectancy was higher in group 3 vs. groups 1 and 2 (p < 0.001 and p = 0.036, 
+respectively), and in group 2 vs. group 1 (p = 0.006). Economic variables were 
+higher in group 3 vs. group 1 (p < 0.001 for all) and group 2 (p = 0.016, p = 
+0.025, p = 0.022, respectively), and in group 2 vs. group 1 (p = 002, p = 0.024, 
+p = 0.002, respectively).
+CONCLUSIONS: The relative number of nurses/midwives correlates with life 
+expectancy and relies on the country's income and level of healthcare system 
+financing. Int J Occup Med Environ Health. 2021;34(4):505-12.
+
+This work is available in Open Access model and licensed under a CC BY-NC 3.0 PL 
+license.
+
+DOI: 10.13075/ijomeh.1896.01699
+PMID: 33559650 [Indexed for MEDLINE]
+
+
+896. Eur J Health Econ. 2021 Apr;22(3):445-454. doi: 10.1007/s10198-021-01265-5.
+Epub  2021 Feb 9.
+
+Cost-effectiveness of the latent tuberculosis screening program for migrants in 
+Stockholm Region.
+
+Shedrawy J(1), Deogan C(2)(3), Öhd JN(2)(4), Hergens MP(2)(4), Bruchfeld 
+J(5)(6), Jonsson J(3), Siroka A(7), Lönnroth K(2).
+
+Author information:
+(1)Department of Global Public Health, Karolinska Institutet, Stockholm, Sweden. 
+jad.shedrawy@ki.se.
+(2)Department of Global Public Health, Karolinska Institutet, Stockholm, Sweden.
+(3)The Public Health Agency of Sweden, Stockholm, Sweden.
+(4)Department of Communicable Disease Control and Prevention, Stockholm County 
+Council, Stockholm, Sweden.
+(5)Department of Infectious Diseases, Karolinska University Hospital, Stockholm, 
+Sweden.
+(6)Division of Infectious Diseases, Department of Medicine Solna, Karolinska 
+Institutet, Stockholm, Sweden.
+(7)World Health Organization, Geneva, Switzerland.
+
+INTRODUCTION: The majority of tuberculosis (TB) cases in Sweden occur among 
+migrants from endemic countries through activation of latent tuberculosis 
+infection (LTBI). Sweden has LTBI-screening policies for migrants that have not 
+been previously evaluated. This study aimed to assess the cost-effectiveness of 
+the current screening strategy in Stockholm.
+METHODS: A Markov model was developed to predict the costs and effects of the 
+current LTBI-screening program compared to a scenario of no LTBI screening over 
+a 50-year time horizon. Epidemiological and cost data were obtained from local 
+sources when available. The primary outcomes were incremental cost-effectiveness 
+ratio (ICER) in terms of societal cost per quality-adjusted life year (QALY).
+RESULTS: Screening migrants in the age group 13-19 years had the lowest ICER, 
+300,082 Swedish Kronor (SEK)/QALY, which is considered cost-effective in Sweden. 
+In the age group 20-34, ICER was 714,527 SEK/QALY (moderately cost-effectives) 
+and in all age groups above 34 ICERs were above 1,000,000 SEK/QALY (not 
+cost-effective). ICER decreased with increasing TB incidence in country of 
+origin.
+CONCLUSION: Screening is cost-effective for young cohorts, mainly between 13 and 
+19, while cost-effectiveness in age group 20-34 years could be enhanced by 
+focusing on migrants from highest incidence countries and/or by increasing the 
+LTBI treatment initiation rate. Screening is not cost-effective in older cohorts 
+regardless of the country of origin.
+
+DOI: 10.1007/s10198-021-01265-5
+PMCID: PMC7954754
+PMID: 33559787 [Indexed for MEDLINE]
+
+
+897. J Trauma Acute Care Surg. 2021 Mar 1;90(3):451-458. doi: 
+10.1097/TA.0000000000003021.
+
+Nationwide cost-effectiveness analysis of surgical stabilization of rib 
+fractures by flail chest status and age groups.
+
+Choi J(1), Mulaney B, Laohavinij W, Trimble R, Tennakoon L, Spain DA, Salomon 
+JA, Goldhaber-Fiebert JD, Forrester JD.
+
+Author information:
+(1)From the Department of Surgery (J.C., L.T., D.A.S., J.D.F.), Division of 
+General Surgery, Department of Epidemiology and Population Health (J.C.), 
+Surgeons Writing About Trauma (J.C., B.M., R.T., L.T., D.A.S., J.D.F.), and 
+School of Medicine (B.M., R.T.), Stanford University, Stanford, California; 
+Department of Surgery, Chulalongkorn University (W.L.), Bangkok, Thailand; and 
+Stanford Health Policy (J.A.S., J.D.G.-F.), Centers for Health Policy and 
+Primary Care and Outcomes Research, Stanford University, Stanford, California.
+
+BACKGROUND: Surgical stabilization of rib fracture (SSRF) is increasingly used 
+to manage patients with rib fractures. Benefits of performing SSRF appear 
+variable, and the procedure is costly, necessitating cost-effectiveness analysis 
+for distinct subgroups. We aimed to assess the cost-effectiveness of SSRF versus 
+nonoperative management among patients with rib fractures younger than 65 years 
+versus 65 years or older, with versus without flail chest. We hypothesized that, 
+compared with nonoperative management, SSRF is cost-effective only for patients 
+with flail chest.
+METHODS: This economic evaluation used a decision-analytic Markov model with a 
+lifetime time horizon incorporating US population-representative inputs to 
+simulate benefits and risks of SSRF compared with nonoperative management. We 
+report quality-adjusted life years (QALYs), costs, and incremental 
+cost-effectiveness ratios. Deterministic and probabilistic sensitivity analyses 
+accounted for most plausible clinical scenarios.
+RESULTS: Compared with nonoperative management, SSRF was cost-effective for 
+patients with flail chest at willingness-to-pay threshold of US $150,000/QALY 
+gained. Surgical stabilization of rib fracture costs US $25,338 and US 
+$123,377/QALY gained for those with flail chest younger than 65 years and 65 
+years or older, respectively. Surgical stabilization of rib fracture was not 
+cost-effective for patients without flail chest, costing US $172,704 and US 
+$243,758/QALY gained for those younger than 65 years and 65 years or older, 
+respectively. One-way sensitivity analyses showed that, under most plausible 
+scenarios, SSRF remained cost-effective for subgroups with flail chest, and 
+nonoperative management remained cost-effective for patients older than 65 years 
+without flail chest. Probability that SSRF is cost-effective ranged from 98% 
+among patients younger than 65 years with flail chest to 35% among patients 65 
+years or older without flail chest.
+CONCLUSIONS: Surgical stabilization of rib fracture is cost-effective for 
+patients with flail chest. Surgical stabilization of rib fracture may be 
+cost-effective in some patients without flail chest, but delineating these 
+patients requires further study.
+LEVEL OF EVIDENCE: Economic/decision, level II.
+
+Copyright © 2020 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/TA.0000000000003021
+PMID: 33559982 [Indexed for MEDLINE]
+
+
+898. Ned Tijdschr Geneeskd. 2021 Jan 21;164:D4666.
+
+[Nerve transfer in patients with tetraplegia: improvement in hand function].
+
+[Article in Dutch]
+
+van Oeijen K(1)(2), Sluis TAR(1), Pondaag W(3), Zuidam JM(4).
+
+Author information:
+(1)Rijndam revalidatie, afd. Revalidatiegeneeskunde, Rotterdam.
+(2)Contact: Karlijn van Oeijen (kvoeijen@rijndam.nl).
+(3)LUMC, afd. Neurochirurgie, Leiden.
+(4)Erasmus MC, afd. Plastische, reconstructieve en handchirurgie, Rotterdam.
+
+Reconstruction of arm and hand function in patients with a cervical spinal cord 
+injury can improve their quality of life. Elbow extension, wrist extension, grip 
+function and opening of the hand can be reconstructed. Traditionally, this has 
+been done through tendon transpositions. Nerve transfer is a new technique. A 
+functioning motor nerve branch is moved and connected to a muscle or muscle 
+group damaged by the spinal cord injury. This technique has several advantages. 
+Multiple functions can be restored by one nerve transfer, no long-term 
+hand-rehabilitation is required and there is no risk of adhesions of the 
+transposition. The most important disadvantage is the recovery time, as a 
+results of the slow ingrowth of the nerve transfer, which takes at least 12 to 
+18 months. For each spinal cord injury patient, an individual action plan must 
+be made, because not every patient has the same options and these are sometimes 
+very limited.
+
+PMID: 33560613 [Indexed for MEDLINE]
+
+
+899. Zh Vopr Neirokhir Im N N Burdenko. 2021;85(1):56-67. doi: 
+10.17116/neiro20218501156.
+
+[Surgical management of brain metastases following female reproductive system 
+cancers: analysis of 37 cases].
+
+[Article in Russian; Abstract available in Russian from the publisher]
+
+Sevyan NV(1)(2), Karakhan VB(1), Prozorenko EV(2), Bekyashev AK(1), Mitrofanov 
+AA(1).
+
+Author information:
+(1)Blokhin National Cancer Medical Research Center, Moscow, Russia.
+(2)Sechenov First Moscow State Medical University, Moscow, Russia.
+
+Background. Previously, treatment of women with brain metastases following 
+reproductive system cancers was palliative and included whole brain 
+radiotherapy. Currently, treatment approaches have changed and life expectancy 
+has increased. Nevertheless, the role of surgical treatment in these patients is 
+still discussed.
+OBJECTIVE: To demonstrate an appropriateness and role of neurosurgical care in 
+the complex management of women with brain metastases following reproductive 
+system cancers.
+MATERIAL AND METHODS: There were 78 women with brain metastases following 
+reproductive system cancer. All patients were treated at the Blokhin National 
+Cancer Medical Research Center for the period 2004-2019. We have also reviewed 
+the literature data for the last 30 years.
+Results and discussion. Resection of brain metastases in complex treatment of 
+endometrial, ovarian and cervical cancer ensured favorable long-term survival in 
+our material. Thus, mean life expectancy after resection of brain metastases was 
+16.3 months in patients with ovarian cancer, uterine cancer - 15.6 months, 
+cervical cancer - 10.25 months. Obviously, surgery is not indicated in all 
+cases. However, this approach improves local control and should be used in 
+combination with other treatment methods for improvement of life expectancy and 
+its quality in certain patients.
+CONCLUSION: Selective surgical approach should be essential in the treatment of 
+patients with brain metastases following reproductive system cancer. A 
+multidisciplinary approach ensures the best treatment outcomes.
+
+Publisher: Лечение пациенток с метастазами опухолей органов репродуктивной 
+системы в центральную нервную систему (ЦНС) раньше носило паллиативный характер 
+и ограничивалось проведением лучевой терапии на весь объем головного мозга. В 
+настоящее время подходы к лечению изменились, увеличилась продолжительность 
+жизни, но продолжаются дискуссии о роли хирургического метода в комплексном 
+лечении таких больных.
+ЦЕЛЬ ИССЛЕДОВАНИЯ: Показать целесообразность и роль нейрохирургического этапа в 
+комплексном лечении пациенток с метастазами опухолей органов женской 
+репродуктивной системы в ЦНС.
+МАТЕРИАЛ И МЕТОДЫ: Материал исследования составили 78 наблюдений пациенток с 
+метастазами опухолей органов женской половой сферы в ЦНС, получивших лечение в 
+ФГБУ «НМИЦ онкологии им Н.Н. Блохина» Минздрава России в период с 2004 по 2019 
+г. Проведен анализ данных литературы по этой тематике за последние 30 лет.
+РЕЗУЛЬТАТЫ: Резекция церебральных метастазов в комплексе лечения рака 
+эндометрия, яичников и шейки матки в нашем материале обеспечила достижение 
+хороших долгосрочных результатов выживаемости. Так, при раке яичников средняя 
+продолжительность жизни после удаления церебральных метастазов составила 16,3 
+мес, при раке тела матки — 15,6 мес, при раке шейки матки — 10,25 мес. Очевидно, 
+что хирургическое вмешательство показано не во всех случаях, но при наличии 
+возможности выполнения повышает показатели локального контроля и должно 
+использоваться в сочетании с другими методами лечения для улучшения качества и 
+продолжительности жизни пациенток.
+ВЫВОДЫ: Избирательная хирургическая тактика должна играть все большую роль в 
+лечении пациенток с церебральными метастазами опухолей органов женской 
+репродуктивной системы. Мультидисциплинарный командный подход обеспечивает 
+наилучшие результаты лечения.
+
+DOI: 10.17116/neiro20218501156
+PMID: 33560621 [Indexed for MEDLINE]
+
+
+900. Zh Vopr Neirokhir Im N N Burdenko. 2021;85(1):113-117. doi: 
+10.17116/neiro202185011113.
+
+[Carotid endarterectomy and carotid artery stenting in advanced age patients].
+
+[Article in Russian; Abstract available in Russian from the publisher]
+
+Pryamikov AD(1)(2), Mironkov AB(1)(2), Loluev RY(1), Khripun AI(1).
+
+Author information:
+(1)Pirogov Russian National Research Medical University, Moscow, Russia.
+(2)Buyanov Clinical Hospital, Moscow, Russia.
+
+The manuscript is devoted to world experience of carotid endarterectomy and 
+carotid artery stenting in advanced age patients. Some authors report the 
+advantages of endovascular surgery in elderly patients while the others prefer 
+carotid endarterectomy. Senile patients (75-80 years old) with asymptomatic 
+internal carotid artery stenosis is one of the most difficult group for the 
+management. This is due to a more complex assessment of perioperative surgical 
+risk, high incidence of complicated atherosclerotic plaques in carotid arteries 
+and dubious benefits of surgery considering short life expectancy and severe 
+comorbidities. Accumulation of experience in the management of advanced age 
+patients should be valuable for either optimizing or individualizing surgical 
+strategy.
+
+Publisher: В обзорной статье представлен мировой опыт хирургического лечения 
+(каротидная эндартерэктомия и стентирование внутренней сонной артерии) у 
+пациентов старших возрастных групп. В одних работах указаны преимущества 
+эндоваскулярных операций у пациентов старческого возраста, в других — каротидной 
+эндартерэктомии. Одними из наиболее сложных в тактическом плане являются 
+пациенты старческого возраста (от 75 до 90 лет) с асимптомными стенозами 
+внутренней сонной артерии. Это обусловлено более сложной оценкой 
+периоперационного хирургического риска, большой частотой встречаемости 
+осложненных атеросклеротических бляшек сонных артерий, сомнительной пользой 
+операции из-за небольшой продолжительности жизни и отягощенного коморбидного 
+фона. Накопление опыта лечения пациентов старших возрастных групп должно помочь 
+либо в оптимизации, либо в индивидуализации хирургической тактики у этой 
+категории больных.
+
+DOI: 10.17116/neiro202185011113
+PMID: 33560627 [Indexed for MEDLINE]901. G3 (Bethesda). 2021 Jan 18;11(1):jkaa006. doi: 10.1093/g3journal/jkaa006.
+
+Reconstructed evolutionary history of the yeast septins Cdc11 and Shs1.
+
+Takagi J(1), Cho C(1), Duvalyan A(1), Yan Y(2), Halloran M(2), Hanson-Smith 
+V(3), Thorner J(1), Finnigan GC(2).
+
+Author information:
+(1)Department of Molecular and Cell Biology, University of California, Berkeley, 
+Berkeley, CA 94720-3202, USA.
+(2)Department of Biochemistry and Molecular Biophysics, Kansas State University, 
+Manhattan, KS 66506, USA.
+(3)Department of Microbiology and Immunology, University of California, San 
+Francisco, CA 94158, USA.
+
+Septins are GTP-binding proteins conserved across metazoans. They can polymerize 
+into extended filaments and, hence, are considered a component of the 
+cytoskeleton. The number of individual septins varies across the tree of 
+life-yeast (Saccharomyces cerevisiae) has seven distinct subunits, a nematode 
+(Caenorhabditis elegans) has two, and humans have 13. However, the overall 
+geometric unit (an apolar hetero-octameric protomer and filaments assembled 
+there from) has been conserved. To understand septin evolutionary variation, we 
+focused on a related pair of yeast subunits (Cdc11 and Shs1) that appear to have 
+arisen from gene duplication within the fungal clade. Either Cdc11 or Shs1 
+occupies the terminal position within a hetero-octamer, yet Cdc11 is essential 
+for septin function and cell viability, whereas Shs1 is not. To discern the 
+molecular basis of this divergence, we utilized ancestral gene reconstruction to 
+predict, synthesize, and experimentally examine the most recent common ancestor 
+("Anc.11-S") of Cdc11 and Shs1. Anc.11-S was able to occupy the terminal 
+position within an octamer, just like the modern subunits. Although Anc.11-S 
+supplied many of the known functions of Cdc11, it was unable to replace the 
+distinct function(s) of Shs1. To further evaluate the history of Shs1, 
+additional intermediates along a proposed trajectory from Anc.11-S to yeast Shs1 
+were generated and tested. We demonstrate that multiple events contributed to 
+the current properties of Shs1: (1) loss of Shs1-Shs1 self-association early 
+after duplication, (2) co-evolution of heterotypic Cdc11-Shs1 interaction 
+between neighboring hetero-octamers, and (3) eventual repurposing and 
+acquisition of novel function(s) for its C-terminal extension domain. Thus, a 
+pair of duplicated proteins, despite constraints imposed by assembly into a 
+highly conserved multi-subunit structure, could evolve new functionality via a 
+complex evolutionary pathway.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of Genetics 
+Society of America.
+
+DOI: 10.1093/g3journal/jkaa006
+PMCID: PMC7849910
+PMID: 33561226 [Indexed for MEDLINE]
+
+
+902. Molecules. 2021 Feb 7;26(4):881. doi: 10.3390/molecules26040881.
+
+Selenium Biofortification: Roles, Mechanisms, Responses and Prospects.
+
+Hossain A(1), Skalicky M(2), Brestic M(2)(3), Maitra S(4), Sarkar S(5), Ahmad 
+Z(6), Vemuri H(7), Garai S(5), Mondal M(5), Bhatt R(8), Kumar P(9), Banerjee 
+P(10), Saha S(11), Islam T(12), Laing AM(13).
+
+Author information:
+(1)Bangladesh Wheat and Maize Research Institute, Dinajpur 5200, Bangladesh.
+(2)Department of Botany and Plant Physiology, Faculty of Agrobiology, Food and 
+Natural Resources, Czech University of Life Sciences Prague, Kamycka 129, 165 00 
+Prague, Czech Republic.
+(3)Department of Plant Physiology, Slovak University of Agriculture, Nitra, Tr. 
+A. Hlinku 2, 949 01 Nitra, Slovakia.
+(4)Department of Agronomy, Centurion University of Technology and Management, 
+Paralakhemundi 761211, India.
+(5)Department of Agronomy, Bidhan Chandra Krishi Viswavidyalaya, Nadia, West 
+Bengal 741252, India.
+(6)Department of Life Sciences, The Islamia University of Bahawalpur, Bahawalpur 
+58421, Pakistan.
+(7)International Maize and Wheat Improvement Center, Patancheru, Hyderabad 
+502324, India.
+(8)Regional Research Station, Kapurthala, Punjab Agricultural University, 
+Ludhiana, Punjab 144601, India.
+(9)Agronomy (Crop Nutrition) DES (Agronomy) FASC (Farm Advisory Service centre) 
+Extension Centre of PAU, Ludhiana Posted as District Incharge at Kapurthala, 
+Punjab 144601, India.
+(10)Department of Biochemistry and Plant Physiology, Centurion University of 
+Technology and Management, Paralakhemundi 761211, India.
+(11)Subject Matter Specialist (Agricultural Extension), Nadia Krishi Vigyan 
+Kendra, Bidhan Chandra Krishi Viswavidyalaya, Gayeshpur, Nadia, West Bengal 
+741234, India.
+(12)Institute of Biotechnology and Genetic Engineering (IBGE), Bangabandhu 
+Sheikh Mujibur Rahman Agricultural University Gazipur, Gazipur 1706, Bangladesh.
+(13)CSIRO Agriculture and Food, 4067 Brisbane, Australia.
+
+The trace element selenium (Se) is a crucial element for many living organisms, 
+including soil microorganisms, plants and animals, including humans. Generally, 
+in Nature Se is taken up in the living cells of microorganisms, plants, animals 
+and humans in several inorganic forms such as selenate, selenite, elemental Se 
+and selenide. These forms are converted to organic forms by biological process, 
+mostly as the two selenoamino acids selenocysteine (SeCys) and selenomethionine 
+(SeMet). The biological systems of plants, animals and humans can fix these 
+amino acids into Se-containing proteins by a modest replacement of methionine 
+with SeMet. While the form SeCys is usually present in the active site of 
+enzymes, which is essential for catalytic activity. Within human cells, organic 
+forms of Se are significant for the accurate functioning of the immune and 
+reproductive systems, the thyroid and the brain, and to enzyme activity within 
+cells. Humans ingest Se through plant and animal foods rich in the element. The 
+concentration of Se in foodstuffs depends on the presence of available forms of 
+Se in soils and its uptake and accumulation by plants and herbivorous animals. 
+Therefore, improving the availability of Se to plants is, therefore, a potential 
+pathway to overcoming human Se deficiencies. Among these prospective pathways, 
+the Se-biofortification of plants has already been established as a pioneering 
+approach for producing Se-enriched agricultural products. To achieve this 
+desirable aim of Se-biofortification, molecular breeding and genetic engineering 
+in combination with novel agronomic and edaphic management approaches should be 
+combined. This current review summarizes the roles, responses, prospects and 
+mechanisms of Se in human nutrition. It also elaborates how biofortification is 
+a plausible approach to resolving Se-deficiency in humans and other animals.
+
+DOI: 10.3390/molecules26040881
+PMCID: PMC7914768
+PMID: 33562416 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors declare no conflict of interest.
+
+
+903. Biomolecules. 2021 Feb 5;11(2):224. doi: 10.3390/biom11020224.
+
+Nettle-Leaf Extract Derived ZnO/CuO Nanoparticle-Biopolymer-Based Antioxidant 
+and Antimicrobial Nanocomposite Packaging Films and Their Impact on Extending 
+the Post-Harvest Shelf Life of Guava Fruit.
+
+Kalia A(1), Kaur M(2), Shami A(3), Jawandha SK(2), Alghuthaymi MA(4), Thakur 
+A(2), Abd-Elsalam KA(5).
+
+Author information:
+(1)Electron Microscopy and Nanoscience Laboratory, Department of Soil Science, 
+Punjab Agricultural University, Ludhiana 141004, Punjab, India.
+(2)Department of Fruit Science, Punjab Agricultural University, Ludhiana 141004, 
+Punjab, India.
+(3)Biology Department, College of Sciences, Princess Nourah bint Abdulrahman 
+University, Riyadh 11617, Saudi Arabia.
+(4)Biology Department, Science and Humanities College, Shaqra University, 
+Alquwayiyah 11971, Saudi Arabia.
+(5)Plant Pathology Research Institute, Agricultural Research Center (ARC), 12619 
+Giza, Egypt.
+
+Green synthesized metal oxide nanoparticles (NPs) have prominent applications in 
+antimicrobial packaging systems. Here we have attempted for the fabrication of 
+chitosan-based nanocomposite film containing Urtica dioica leaf extract derived 
+copper oxide (CuO) and zinc oxide (ZnO) NPs for shelf-life extension of the 
+packaged guava fruits. Electron microscopy and spectroscopy analysis of the CuO 
+and ZnO NPs exhibited nano-scale size, spherical morphologies, and negative 
+ζ-potential values. The NPs possessed appreciable antioxidant and antimicrobial 
+activity (AMA) in order of CuO NPs > ZnO NPs >nettle extract. Therefore, this 
+work establishes for the first time the successful synthesis of CuO NPs and 
+compares its antimicrobial and antioxidant properties with ZnO NPs. On 
+incorporation in chitosan, the polymer nanocomposite films were developed by 
+solvent casting technique. The developed films were transparent, had low 
+antioxidant but substantial AMA. The NP supplementation improved the film 
+characteristics as evident from the decrease in moisture content, water holding 
+capacity, and solubility of the films. The nanocomposite films improved the 
+quality attributes and shelf life of guava fruits by one week on packaging and 
+storage compared to unpackaged control fruits. Therefore, this study 
+demonstrates the higher antimicrobial potential of the nettle leaf extract 
+derived CuO/ZnO NPs for development of antimicrobial nanocomposite films as a 
+promising packaging solution for enhancing the shelf life of various perishable 
+fruits.
+
+DOI: 10.3390/biom11020224
+PMCID: PMC7916056
+PMID: 33562547 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+904. J Clin Med. 2021 Feb 5;10(4):610. doi: 10.3390/jcm10040610.
+
+Coronary Revascularization and Long-Term Survivorship in Chronic Coronary 
+Syndrome.
+
+Gabaldon-Perez A(1), Marcos-Garces V(1), Gavara J(2)(3), Rios-Navarro C(2), 
+Miñana G(1)(2)(4)(5), Bayes-Genis A(4)(6)(7), Husser O(8), Sanchis 
+J(1)(2)(4)(5), Nunez J(1)(2)(4)(5), Chorro FJ(1)(2)(4)(5), Bodi V(1)(2)(4)(5).
+
+Author information:
+(1)Department of Cardiology, Hospital Clínico Universitario de Valencia, 46010 
+Valencia, Spain.
+(2)INCLIVA Health Research Institute, 46010 Valencia, Spain.
+(3)Center for Biomaterials and Tissue Engineering, Universitat Politècnica de 
+València, 46022 Valencia, Spain.
+(4)Centro de Investigación Biomédica en Red-Cardiovascular (CIBER-CV), 28029 
+Madrid, Spain.
+(5)Department of Medicine, Faculty of Medicine and Odontology, Universidad de 
+Valencia, 46010 Valencia, Spain.
+(6)Cardiology Department and Heart Failure Unit, Hospital Universitari Germans 
+Trias i Pujol, 08916 Badalona, Spain.
+(7)Department of Medicine, Universitat Autonoma de Barcelona, 08193 Barcelona, 
+Spain.
+(8)Department of Cardiology, St-Johannes Hospital, 44137 Dortmund, Germany.
+
+Ischemic heart disease (IHD) persists as the leading cause of death in the 
+Western world. In recent decades, great headway has been made in reducing 
+mortality due to IHD, based around secondary prevention. The advent of coronary 
+revascularization techniques, first coronary artery bypass grafting (CABG) 
+surgery in the 1960s and then percutaneous coronary intervention (PCI) in the 
+1970s, has represented one of the major breakthroughs in medicine during the 
+last century. The benefit provided by these techniques, especially PCI, has been 
+crucial in lowering mortality rates in acute coronary syndrome (ACS). However, 
+in the setting where IHD is most prevalent, namely chronic coronary syndrome 
+(CCS), the increase in life expectancy provided by coronary revascularization is 
+controversial. Over more than 40 years, several clinical trials have been 
+carried out comparing optimal medical treatment (OMT) alone with a strategy of 
+routine coronary revascularization on top of OMT. Beyond a certain degree of 
+symptomatic improvement and lower incidence of minor events, routine invasive 
+management has not demonstrated a convincing effect in terms of reducing 
+mortality in CCS. Based on the accumulated evidence more than half a century 
+after the first revascularization procedures were used, invasive management 
+should be considered in those patients with uncontrolled symptoms despite OMT or 
+high-risk features related to left ventricular function, coronary anatomy, or 
+functional assessment, taking into account the patient expectations and 
+preferences.
+
+DOI: 10.3390/jcm10040610
+PMCID: PMC7914537
+PMID: 33562869
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript, or in the decision to 
+publish the results.
+
+
+905. Future Oncol. 2021 May;17(15):1923-1931. doi: 10.2217/fon-2020-1215. Epub
+2021  Feb 10.
+
+Quality-adjusted survival in patients with metastatic colorectal cancer treated 
+with fruquintinib in the FRESCO trial.
+
+Qin S(1), Li J(2), Bai Y(3), Deng Y(4), Yang L(5), Xu RH(6), Zhong H(7), Chen 
+Z(8), Pan H(9), Guo W(10), Shu Y(11), Xu J(12), Peng C(13), Chen Y(13), Li 
+H(13), Wang N(13), Guo X(14), Peng M(14), Fan S(14), Shen L(15).
+
+Author information:
+(1)Department of Medical Oncology, Cancer Center of Jinling Hospital, Nanjing, 
+210029, China.
+(2)Tongji University East Hospital, Department of Medical Oncology, Shanghai, 
+200120, China.
+(3)Harbin Medical University Cancer Hospital, Department of Medical Oncology, 
+Harbin, 120081, China.
+(4)Department of Medical Oncology, The Sixth Hospital Affiliated to Sun Yat-Sen 
+University, Guangzhou, 510655, China.
+(5)Nantong Tumor Hospital, Department of medical oncology, Nantong, 226361, 
+China.
+(6)Department of Medical Oncology, Sun Yat-Sen University, Guangzhou, 510080, 
+China.
+(7)Zhejiang Cancer Hospital, Department of Medical Oncology, Hangzhou, 310022, 
+China.
+(8)Second Hospital of Anhui Medical University, Department of Medical Oncology, 
+Hefei, 230601, China.
+(9)Sir Run Run Shaw Hospital, Department of Medical Oncology, Hangzhou, 310020, 
+China.
+(10)Fudan University Shanghai Cancer Center, Shanghai Medical College, 
+Department of Medical Oncology, Shanghai, 200032, China.
+(11)Jiangsu Provincial Hospital, Department of Medical Oncology, Nanjing, 
+210029, China.
+(12)307th Hospital of Chinese PLA-The Affiliated Hospital of Military Medical 
+Sciences, Department of Medical Oncology, Beijing, 100071, China.
+(13)Eli Lilly & Company China Affiliate, Lilly China Drug Development & Medical 
+Affairs Center, Shanghai, 200041, China.
+(14)Hutchison MediPharma Ltd, Shanghai, 201203, China.
+(15)Department of Gastrointestinal Oncology, Key Laboratory of Carcinogenesis & 
+Translational Research (Ministry of Education), Peking University Cancer 
+Hospital & Institute, Beijing, 100048, China.
+
+Aim: To assess whether the survival benefit of fruquintinib is quality-adjusted. 
+Materials & methods: Data of 416 metastatic colorectal cancer patients from the 
+Phase III FRESCO trial were used. The Quality-adjusted Time Without Symptoms or 
+Toxicity (Q-TWiST) analysis assessed the quality-adjusted survival benefit of 
+fruquintinib versus placebo, accounting for freedom from symptomatic disease and 
+from severe side effects of treatment. Results: Fruquintinib significantly 
+improved patients' Q-TWiST (difference: 2.23 [1.41, 3.04] months) versus 
+placebo. The Q-TWiST gain was 28.3% in the base case and ranged from 16.7 to 
+39.9% in the threshold analysis, favoring fruquintinib. The Q-TWiST benefit was 
+observed in fruquintinib-treated patients regardless of prior targeted therapy. 
+Conclusion: Fruquintinib provides a clinically meaningful quality-adjusted 
+survival benefit versus placebo as a third-line treatment for metastatic 
+colorectal cancer patients.
+
+Plain Language Summary: Lay abstract The objective of the study was to assess 
+the benefit of fruqintinib, a chemotherapy drug for patients with metastatic 
+colorectal cancer (mCRC) who do not respond well to previous chemotherapy. The 
+study considered both the time of survival and the quality of life after 
+patients received fruqintinib. In measuring patients’ quality of life, the study 
+assessed the time that was free from cancer symptoms and any severe side effects 
+from treatment. The study used data obtained from a Phase III clinical trial, 
+FRESCO, which included 416 mCRC patients receiving fruqintinib or placebo. The 
+results showed that fruqintinib significantly extended patients’ symptom-free 
+and side effects-free survival time by approximately 2 months and 5 days. 
+Fruqintinib was 16.7–39.9% more effective than placebo in extending mCRC 
+patients’ high-quality life, regardless of prior targeted therapy.
+
+DOI: 10.2217/fon-2020-1215
+PMID: 33563040 [Indexed for MEDLINE]
+
+
+906. J Matern Fetal Neonatal Med. 2022 Dec;35(25):4897-4904. doi: 
+10.1080/14767058.2021.1872536. Epub 2021 Feb 9.
+
+Sickle cell anemia/sickle cell disease and pregnancy outcomes among ethnic 
+tribes in India: an integrative mini-review.
+
+Ganesh B(1), Rajakumar T(1), Acharya SK(2), Kaur H(3).
+
+Author information:
+(1)Laboratory Division, ICMR-National Institute of Epidemiology (ICMR-NIE), 
+Chennai, India.
+(2)ICMR-Regional Medical Research Centre (ICMR-RMRC), Bhubaneshwar, India.
+(3)Indian Council of Medical Research (ICMR), Ansari Nagar, India.
+
+Objective: To evaluate the studies which have reported the prevalence of 
+maternal complications and outcomes for women with SCA/SCD. Healthy populations 
+make a healthy community and improve the future for mankind. Pregnant women are 
+an essential segment of humanity as they bear the fetus and supply nutrition for 
+their development throughout the gestational period. Their health status and 
+disease conditions also play a vital role in deciding the future of the 
+offspring.Materials and methods: The Mesh terms: "Haemoglobinopathies" + "Sickle 
+cell anemia" + "Sickle cell disease" + "Ethnic tribes" + "Pregnancy outcomes" + 
+"India" were used to search the literature available from public databases such 
+as "PubMed", "PubMed Central" "Google Scholar", "Science Direct" and "Scopus" 
+and the same is checked for removing repetitions. The data was extracted and 
+collected literature was thoroughly analysed. SCD/SCA is a commonly prevalent 
+hereditary hemoglobinopathy disease and is related to augmented risk factors and 
+premature mortality.Results: SCD severely affects pregnancy, which leads to the 
+elevated occurrence of perinatal and maternal outcomes such as pre-eclampsia, 
+eclampsia, abortions, intrauterine growth retardation (IUGR), etc., and 
+sufficient care during the pregnancy guarantees an improved outcome. Due to the 
+best health care conveniences, availability of drugs such as hydroxyurea, 
+antibiotic prophylaxis, and vaccination, the life expectancy of SCD patients has 
+greatly improved in recent times though directly related to the access and 
+services available at the healthcare facilities for the needy and poor. 
+Moreover, the latest innovations in the fields of prenatal screening and 
+preimplantation genetic diagnosis (PGD), facilitate partners suffering from 
+SCA/SCD to have a healthy child. There are no available studies on the 
+prevalence of SCA/SCD in pregnant women among ethnic tribal populations from 
+India.Conclusion: This review article is focused on the effects of SCA/SCD on 
+pregnancy outcomes, the consistent follow-up, routine check-ups and successful 
+management of complications throughout pregnancy, the various diagnostic methods 
+toward preventive methods, curative and management therapeutic strategies and 
+also defines the perinatal and maternal outcomes in the ethnic tribal 
+populations of India.
+
+DOI: 10.1080/14767058.2021.1872536
+PMID: 33563075 [Indexed for MEDLINE]
+
+
+907. BMJ Open. 2021 Feb 9;11(2):e044054. doi: 10.1136/bmjopen-2020-044054.
+
+Cost-effectiveness analysis of percutaneous coronary intervention for 
+single-vessel coronary artery disease: an economic evaluation of the ORBITA 
+trial.
+
+McCreanor V(1)(2), Nowbar A(3)(4), Rajkumar C(3)(4), Barnett AG(1), Francis 
+D(3)(4), Graves N(5), Boden WE(6)(7)(8), Weintraub WS(9)(10), Al-Lamee R(3)(4), 
+Parsonage WA(11)(12).
+
+Author information:
+(1)Australian Centre for Health Services Innovation (AusHSI) and Centre for 
+Healthcare Transformation, Queensland University of Technology (QUT), Brisbane, 
+Queensland, Australia.
+(2)Jamieson Trauma Institute, Royal Brisbane and Women's Hospital, Metro North 
+Hospital and Health Service, Herston, Queensland, Australia.
+(3)National Heart and Lung Institute, Imperial College London, London, UK.
+(4)Imperial College Healthcare NHS Trust, London, UK.
+(5)Health Services and Systems Research, Duke-NUS Medical School, Singapore.
+(6)Boston University School of Medicine, Boston, Massachusetts, USA.
+(7)Harvard Medical School, Boston, Massachusetts, USA.
+(8)VA New England Healthcare System, Boston, Massachusetts, USA.
+(9)Georgetown University, Washington, District of Columbia, USA.
+(10)MedStar Washington Hospital Center, Washington, District of Columbia, USA.
+(11)Australian Centre for Health Services Innovation (AusHSI) and Centre for 
+Healthcare Transformation, Queensland University of Technology (QUT), Brisbane, 
+Queensland, Australia w.parsonage@mac.com.
+(12)Cardiology, Royal Brisbane and Women's Hospital, Herston, Queensland, 
+Australia.
+
+OBJECTIVE: To evaluate the cost-effectiveness of percutaneous coronary 
+intervention (PCI) compared with placebo in patients with single-vessel coronary 
+artery disease and angina despite anti-anginal therapy.
+DESIGN: A cost-effectiveness analysis comparing PCI with placebo. A Markov model 
+was used to measure incremental cost-effectiveness, in cost per quality-adjusted 
+life-years (QALYs) gained, over 12 months. Health utility weights were estimated 
+using responses to the EuroQol 5-level questionnaire, from the Objective 
+Randomised Blinded Investigation with optimal medical Therapy of Angioplasty in 
+stable angina trial and UK preference weights. Costs of procedures and follow-up 
+consultations were derived from Healthcare Resource Group reference costs and 
+drug costs from the National Health Service (NHS) drug tariff. Probabilistic 
+sensitivity analysis was undertaken to test the robustness of results to 
+parameter uncertainty. Scenario analyses were performed to test the effect on 
+results of reduced pharmaceutical costs in patients undergoing PCI, and the 
+effect of patients crossing over from placebo to PCI due to refractory angina 
+within 12 months.
+SETTING: Five UK NHS hospitals.
+PARTICIPANTS: 200 adult patients with stable angina and angiographically severe 
+single-vessel coronary artery disease on anti-anginal therapy.
+INTERVENTIONS: At recruitment, patients received 6 weeks of optimisation of 
+medical therapy for angina after which they were randomised to PCI or a placebo 
+procedure.
+OUTCOME MEASURES: Incremental cost-effectiveness ratio (ICER) expressed as cost 
+(in £) per QALY gained for PCI compared with placebo.
+RESULTS: The estimated ICER is £90 218/QALY gained when using PCI compared with 
+placebo in patients receiving medical treatment for angina due to single-vessel 
+coronary artery disease. Results were robust under sensitivity analyses.
+CONCLUSIONS: The ICER for PCI compared with placebo, in patients with 
+single-vessel coronary artery disease and angina on anti-anginal medication, 
+exceeds the threshold of £30 000 used by the National Institute of Health and 
+Care Excellence when undertaking health technology assessment for the NHS 
+context.Trial registration: The ORBITA study is registered with 

@@ -1,0 +1,1000 @@
+(4)Capital Institute of Pediatrics, Beijing, China.
+(5)Obstetrics & Gynecology Hospital, Institute of Reproduction & Development, 
+Fudan University, Shanghai, China. zhengyf@fudan.edu.cn.
+(6)Institute of Developmental Biology & Molecular Medicine, Fudan University, 
+Shanghai, China. zhengyf@fudan.edu.cn.
+(7)State Key Laboratory of Genetic Engineering, Collaborative Innovation Center 
+of Genetics and Development, School of Life Sciences, Fudan University, 
+Shanghai, China. zhengyf@fudan.edu.cn.
+
+Neural tube defects (NTDs) are debilitating human congenital abnormalities due 
+to failure of neural tube closure. Sonic Hedgehog (SHH) signaling is required 
+for dorsal-ventral patterning of the neural tube. The loss of activation in SHH 
+signaling normally causes holoprosencephaly while the loss of inhibition causes 
+exencephaly due to failure in neural tube closure. WDR34 is a dynein intermedia 
+chain component which is required for SHH activation. However, Wdr34 knockout 
+mouse exhibit exencephaly. Here we screened mutations in WDR34 gene in 100 
+anencephaly patients of Chinese Han population. Compared to 1000 Genome Project 
+data, two potentially disease causing missense mutations of WDR34 gene 
+(c.1177G>A; p.G393S and c.1310A>G; p.Y437C) were identified in anencephaly 
+patients. These two mutations did not affect the protein expression level of 
+WDR34. Luciferase reporter and endogenous target gene expression level showed 
+that both mutations are lose-of-function mutations in SHH signaling. 
+Surprisingly, WDR34 could promote planar cell polarity (PCP) signaling and the 
+G393S lost this promoting effect on PCP signaling. Morpholino knockdown of wdr34 
+in zebrafish caused severe convergent extension defects and pericardial 
+abnormalities. The G393S mutant has less rescuing effects than both WT and Y437C 
+WDR34 in zebrafish. Our results suggested that mutation in WDR34 could 
+contribute to human NTDs by affecting both SHH and PCP signaling.
+
+DOI: 10.1038/s10038-020-0793-z
+PMCID: PMC7527273
+PMID: 32576942 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+780. Heliyon. 2020 Jun 17;6(6):e04189. doi: 10.1016/j.heliyon.2020.e04189. 
+eCollection 2020 Jun.
+
+Integration of microbubbles with biomaterials in tissue engineering for 
+pharmaceutical purposes.
+
+Esmaeili J(1)(2), Rezaei FS(3), Beram FM(4), Barati A(1).
+
+Author information:
+(1)Department of Chemical Engineering, Faculty of Engineering, Arak University, 
+Arak, Iran.
+(2)Histogenotech Co., R&D Department, Tehran, Iran.
+(3)Department of Chemical Engineering, Faculty of Engineering, Amir Kabir 
+University, Tehran, Iran.
+(4)Department of Chemistry, Faculty of Chemistry, Isfahan University, Isfahan, 
+Iran.
+
+Tissue engineering with the aid of biomaterials is a novel and promising 
+knowledge aiming at improving human life expectancy. Besides, microbubbles are 
+increasingly employed in biomedical applications due to their capability as a 
+reservoir of therapeutic agents and oxygen molecules. In the present study, 
+Microbubbles as the backbone of the research are produced as one of the potent 
+devices in tissue engineering approaches, including drug delivery, wound 
+healing, 3D printing, and scaffolding. It was shown that microbubbles are 
+capable of promoting oxygen penetration and boosting the wound healing process 
+by supplying adequate oxygen. Microbubbles also demonstrated their strength and 
+potency in advancing drug delivery systems by reinforcing mass transfer 
+phenomena. Furthermore, microbubbles developed the mechanical and biological 
+characteristics of engineered scaffolds by manipulating the pores. Increasing 
+cell survival, the biological activity of cells, angiogenesis, cell migration, 
+and also nutrient diffusion into the inner layers of the scaffold were other 
+achievements by microbubbles. In conclusion, the interest of biomedical 
+communities in simultaneous usage of microbubbles and biomaterials under tissue 
+engineering approaches experiences remarkable growth in Pharmaceutical studies.
+
+© 2020 The Authors. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.heliyon.2020.e04189
+PMCID: PMC7303999
+PMID: 32577567781. EClinicalMedicine. 2020 Jun 15;23:100415. doi: 10.1016/j.eclinm.2020.100415.
+ eCollection 2020 Jun.
+
+Weights for ordinal analyses of the modified Rankin Scale in stroke trials: A 
+population-based cohort study.
+
+Ganesh A(1), Luengo-Fernandez R(1), Pendlebury ST(1), Rothwell PM(1); Oxford 
+Vascular Study.
+
+Author information:
+(1)Centre for Prevention of Stroke and Dementia, Nuffield Department of Clinical 
+Neurosciences, University of Oxford, Level 6, West Wing, John Radcliffe 
+Hospital, Oxford OX3 9DU, United Kingdom.
+
+BACKGROUND: Ordinal/shift analyses of ordered measures like the modified Rankin 
+Scale(mRS) are underused as primary trial outcomes for neurological disorders - 
+despite statistical advantages - potentially hindered by poor clinical 
+interpretability versus dichotomies, and by valuing state-transitions equally 
+(linear scale). Weighted ordinal analyses incorporating step-changes at key 
+transitions might have greater statistical validity and clinical applicability.
+METHODS: In a prospective population-based cohort of ischaemic stroke (Oxford 
+Vascular Study, recruited 2002-2014), we stratified 5-year outcomes of death, 
+dementia, and/or institutionalization, health/social-care costs, and 
+EuroQol-derived quality-adjusted life-expectancy(QALE) by 3-month mRS. We 
+compared root-mean-square errors(RMSEs) from linear regressions for these 
+outcomes with the mRS coded as a linear scale versus incorporating a spline at 
+transitions 1-2, 2-3, or 3-4. We derived 3-month mRS weights for probability of 
+5-year death/dementia/institutionalization using age/sex-adjusted logistic 
+regressions, and cost and QALE weights from 1000-bootstraps. We applied these 
+weights to analyse recent trials of thrombectomy for acute ischaemic stroke.
+FINDINGS: Among 1,607 patients, a non-linear (S-shaped) relationship was 
+observed between 3-month mRS and each 5-year outcome, with RMSEs 18-73% lower 
+using a spline at mRS 2-3 versus a linear representation. Age/sex-adjusted 
+probability weights for 5-year death/dementia/institutionalization were: mRS 
+0=0.19; 1=0.27; 2=0.41; 3=0.73; 4=0.77; 5=0.94 (mRS 6=1 by definition). Similar 
+trends were seen with costs; estimated 5-year QALEs were: mRS 0=3.88; 1=3.49; 
+2=3.01; 3=1.87; 4=1.30; 5=0.06; 6=0. Results were similar stratifying by 
+age/sex, and excluding pre-morbidly disabled patients. Using a weighted ordinal 
+approach, estimates of thrombectomy impact were more favourable than estimates 
+with dichotomous approaches, 5-year cost reductions being 29% higher than with 
+0-2/3-6, and over three-fold higher than with 0-1/2-6 dichotomy.
+INTERPRETATION: Our findings favour weighting the mRS in ordinal analyses for 
+stroke and other neurological disorders, as state-transitions differ in clinical 
+prognosis, quality-of-life, and costs. These weights could also be used for 
+prognostication and cost-effectiveness analyses.
+FUNDING: Wellcome Trust, Wolfson Foundation, NIHR Oxford Biomedical Research 
+Centre, Rhodes Trust.
+
+© 2020 The Authors.
+
+DOI: 10.1016/j.eclinm.2020.100415
+PMCID: PMC7300241
+PMID: 32577611
+
+Conflict of interest statement: Dr. Ganesh reports membership in the editorial 
+boards of Neurology, Neurology: Clinical Practice, and Stroke; speaker honoraria 
+from NHS Health Education England and The Meritas Seminar Series, Oxford; 
+consulting fees from MD Analytics, MyMedicalPanel, Adkins Research Group, and 
+Genome BC; research support from The Rhodes Trust and Wellcome Trust; and 
+stock/stock options from SnapDx, TheRounds.ca, and Advanced Health Analytics 
+(AHA Health Ltd). Dr. Luengo-Fernandez has nothing to disclose. Dr. Pendlebury 
+has nothing to disclose. Prof. Rothwell has nothing to disclose.
+
+
+782. Dig Dis Sci. 2021 May;66(5):1572-1579. doi: 10.1007/s10620-020-06412-1. Epub
+ 2020 Jun 23.
+
+Wide Area Transepithelial Sampling with Computer-Assisted Analysis (WATS(3D)) Is 
+Cost-Effective in Barrett's Esophagus Screening.
+
+Singer ME(1), Smith MS(2).
+
+Author information:
+(1)Department of Population and Quantitative Health Sciences, School of 
+Medicine, Case Western Reserve University, Cleveland, OH, USA.
+(2)Division of Gastroenterology and Hepatology, Mount Sinai West and Mount Sinai 
+Morningside Hospitals, Icahn School of Medicine at Mount Sinai, Ambulatory Care 
+Center, 13th Floor, 440 W 114th St., New York, NY, 10025, USA. 
+michael.smith1@mountsinai.org.
+
+BACKGROUND: Wide area transepithelial sampling with three-dimensional 
+computer-assisted analysis (WATS3D) is an adjunct to the standard random 
+4-quadrant forceps biopsies (FB, "Seattle protocol") that significantly 
+increases the detection of Barrett's esophagus (BE) and associated neoplasia in 
+patients undergoing screening or surveillance.
+AIMS: To examine the cost-effectiveness of adding WATS3D to the Seattle protocol 
+in screening patients for BE.
+METHODS: A decision analytic model was used to compare the effectiveness and 
+cost-effectiveness of two alternative BE screening strategies in chronic 
+gastroesophageal reflux disease patients: FB with and without WATS3D. The 
+reference case was a 60-year-old white male with gastroesophageal reflux disease 
+(GERD). Effectiveness was measured by the number needed to screen to avert one 
+cancer and one cancer-related death, and quality-adjusted life years (QALYs). 
+Cost was measured in 2019 US$, and the incremental cost-effectiveness ratio 
+(ICER) was measured in $/QALY using thresholds for cost-effectiveness of 
+$100,000/QALY and $150,000/QALY. Cost was measured in 2019 US$. Cost and QALYs 
+were discounted at 3% per year.
+RESULTS: Between 320 and 337 people would need to be screened with WATS3D in 
+addition to FB to avert one additional cancer, and 328-367 people to avert one 
+cancer-related death. Screening with WATS3D costs an additional $1219 and 
+produced an additional 0.017 QALYs, for an ICER of $71,395/QALY. All one-way 
+sensitivity analyses resulted in ICERs under $84,000/QALY.
+CONCLUSIONS: Screening for BE in 60-year-old white male GERD patients is more 
+cost-effective when WATS3D is used adjunctively to the Seattle protocol than 
+with the Seattle protocol alone.
+
+DOI: 10.1007/s10620-020-06412-1
+PMCID: PMC8053177
+PMID: 32578042 [Indexed for MEDLINE]
+
+Conflict of interest statement: Drs. Singer and Smith have served as consultants 
+for the sponsor. Dr. Smith has received research support for other studies.
+
+
+783. Food Funct. 2020 Jul 22;11(7):6170-6185. doi: 10.1039/d0fo00718h.
+
+Combination of apple peel and blueberry extracts synergistically induced 
+lifespan extension via DAF-16 in Caenorhabditis elegans.
+
+Song B(1), Wang H(1), Xia W(1), Zheng B(2), Li T(3), Liu RH(3).
+
+Author information:
+(1)Overseas Expertise Introduction Center for Discipline Innovation of Food 
+Nutrition and Human Health (111 Center), School of Food Sciences and 
+Engineering, South China University of Technology, Guangzhou 510641, China. 
+febzheng@scut.edu.cn.
+(2)Overseas Expertise Introduction Center for Discipline Innovation of Food 
+Nutrition and Human Health (111 Center), School of Food Sciences and 
+Engineering, South China University of Technology, Guangzhou 510641, China. 
+febzheng@scut.edu.cn and Guangdong ERA Food & Life Health Research Institute, 
+Guangzhou, 510670, China.
+(3)Department of Food Science, Cornell University, Ithaca, New York 14853, USA. 
+rl23@cornell.edu.
+
+Increased consumption of fruit and vegetables is associated with a reduced risk 
+of age-related functional decline and chronic diseases, which is primarily 
+attributed to their phytochemicals. Apples and blueberries are rich in 
+phytochemicals with a wide range of biological activities and health benefits. 
+The objective of this study was to determine whether the combination of apple 
+peel extracts (APE) and blueberry extracts (BE) had synergistic effects in 
+promoting lifespan in Caenorhabditis elegans (C. elegans), and to explore the 
+underlying mechanisms of action. The results showed that the lifespan of C. 
+elegans treated with APE plus BE was increased by 31.4%, which is significantly 
+more than with APE or BE alone, and extended the health span of animals, 
+including improving motility and enhancing resistance to heat stress and UV-B 
+radiation in C. elegans. Meanwhile, treatment with APE plus BE could regulate 
+the expression of anti-aging related genes, and promote the migration of DAF-16 
+into the nucleus. In addition, administration with APE plus BE eradicated the 
+extension of the lifespan of mutants, and inhibited the expression of the daf-16 
+downstream gene. In conclusion, the combination of APE and BE could 
+synergistically promote the lifespan via the insulin signaling pathway and 
+DAF-16 in C. elegans.
+
+DOI: 10.1039/d0fo00718h
+PMID: 32578648 [Indexed for MEDLINE]
+
+
+784. J Matern Fetal Neonatal Med. 2022 Jun;35(11):2156-2161. doi: 
+10.1080/14767058.2020.1783230. Epub 2020 Jun 24.
+
+Risk factors for uterine incision extension during cesarean delivery.
+
+Karavani G(1), Chill HH(1), Reuveni-Salzman A(1), Guedalia J(2), Ben 
+Menahem-Zidon O(3), Cohen N(4), Elchalal U(1), Shveiky D(1).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, Hadassah-Hebrew University Medical 
+Center, Jerusalem, Israel.
+(2)The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, 
+Ramat-Gan, Israel.
+(3)The Hadassah Human Embryonic Stem Cell Research Center, Goldyne Savad 
+Institute of Gene Therapy, Hadassah - Hebrew University Hospital, Jerusalem, 
+Israel.
+(4)Faculty of Medicine, Hebrew University - Hadassah Medical Center, Jerusalem, 
+Israel.
+
+BACKGROUND: Unintentional extension of uterine incision is a known complication 
+during cesarean delivery estimated to occur in 4-8% of cesarean deliveries. The 
+aim of this study was to examine risk factors associated with unintentional 
+uterine incision extension and to assess which of them are independent risk 
+factors for this condition.
+STUDY DESIGN: We conducted a retrospective cohort study at a large public 
+university tertiary referral center between 2003 and 2017. Included were women 
+who underwent cesarean delivery during this time period. Demographic, medical, 
+obstetrical and surgical data were collected. The primary outcome was the 
+presence of uterine incision extension during cesarean delivery. Secondary 
+outcomes included detection of risk factors associated with uterine incision 
+extension. A multivariate analysis was additionally performed to identify 
+general and labor related risk factors for unintentional extension of uterine 
+incision among patients that underwent cesarean delivery during second stage of 
+labor.
+RESULTS: During the study period, 25,879 cesarean deliveries performed in our 
+medical center were assessed. Out of them, 731 (2.8%) cases of unintended 
+uterine incision extension were identified. Women in this group had high rates 
+of full cervical dilatation and increased maternal hemorrhage. Assessment of 
+incision extension direction revealed that two-thirds of extensions were 
+lateral, mostly unilateral. Median size of the extension was 
+2.7 ± 1.2 cm.Independent parameters associated with unintended uterine incision 
+extension included nulliparity, vertex presentation, epidural anesthesia and 
+cesarean section indication. Further analysis including cesarean deliveries 
+performed during the second stage of labor revealed 397 (15.3%) cesarean 
+deliveries in which incision extension was noted and 2205 (84.7%) cesarean 
+deliveries without incision extension. Following multivariate analysis performed 
+in women who underwent cesarean delivery during second stage of labor, two 
+independent parameters associated with unintended uterine incision extension 
+remained significant - past cesarean delivery and failed vacuum attempt.
+CONCLUSIONS: Vacuum extraction attempt and previous cesarean delivery are 
+independent risk factors for uterine incision extension in women undergoing 
+cesarean delivery during the second stage of labor. We also showed the majority 
+of these extensions to be lateral.
+
+DOI: 10.1080/14767058.2020.1783230
+PMID: 32580653 [Indexed for MEDLINE]
+
+
+785. BMC Health Serv Res. 2020 Jun 24;20(1):581. doi: 10.1186/s12913-020-05445-6.
+
+Cost-effectiveness analysis of atezolizumab in advanced triple-negative breast 
+cancer.
+
+Phua LC(1), Lee SC(2), Ng K(3), Abdul Aziz MI(4).
+
+Author information:
+(1)Agency for Care Effectiveness, Ministry of Health, Singapore, 14 College 
+Road, Singapore, 169853, Singapore.
+(2)Department of Haematology-Oncology, National University Cancer Institute, 
+Singapore, Singapore.
+(3)Agency for Care Effectiveness, Ministry of Health, Singapore, 14 College 
+Road, Singapore, 169853, Singapore. ng_kwong_hoe@moh.gov.sg.
+(4)Agency for Care Effectiveness, Ministry of Health, Singapore, 14 College 
+Road, Singapore, 169853, Singapore. mohamed_ismail_abdul_aziz@moh.gov.sg.
+
+BACKGROUND: The IMpassion130 trial demonstrated that adding atezolizumab to 
+nanoparticle albumin-bound (nab)-paclitaxel improved the survival of patients 
+with untreated, advanced, programmed death ligand 1 (PDL1)-positive 
+triple-negative breast cancer (TNBC). In view of the high cost of immunotherapy, 
+it is important to examine its value with respect to both benefits and costs. In 
+this study, the cost-effectiveness of atezolizumab/nab-paclitaxel combination 
+therapy relative to nab-paclitaxel monotherapy was evaluated for the first-line 
+treatment of advanced, PDL1-positive TNBC, from a healthcare system perspective.
+METHODS: A three-state partitioned-survival model was developed to compare the 
+clinical and economic outcomes of treatment with atezolizumab/nab-paclitaxel 
+combination therapy with nab-paclitaxel monotherapy in patients with advanced 
+TNBC. Clinical data were obtained from the IMpassion130 trial and extrapolated 
+to 5 years. Health state utilities were retrieved from the literature, while 
+direct costs (in Singapore dollars, S$) were sourced from public healthcare 
+institutions in Singapore. The primary outcomes of the model were life years 
+(LYs), quality-adjusted LYs (QALYs), costs and incremental cost-effectiveness 
+ratios (ICERs). One-way and probabilistic sensitivity analyses and scenario 
+analyses were conducted to explore the impact of specific assumptions and 
+uncertainties.
+RESULTS: Adding atezolizumab to nab-paclitaxel resulted in an additional 0.361 
+QALYs (0.636 LYs) at an ICER of S$324,550 per QALY gained. The ICER remained 
+high at S$67,092 per QALY even when atezolizumab was priced zero. One-way 
+sensitivity analysis showed that the ICER was most sensitive to variations in 
+the cost of atezolizumab and the time horizon. Scenario analyses confirmed that 
+the ICERs remained high even under extremely favourable assumptions.
+CONCLUSIONS: Given the exceedingly high ICER, adding atezolizumab to 
+nab-paclitaxel was unlikely to represent good value for money for the treatment 
+of advanced PDL1-positive TNBC. Our findings will be useful in informing funding 
+policy decisions alongside other considerations such as comparative 
+effectiveness, unmet need and budget impact.
+
+DOI: 10.1186/s12913-020-05445-6
+PMCID: PMC7315527
+PMID: 32580722 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+786. Ann Clin Lab Sci. 2020 May;50(3):404-407.
+
+Outdate Reduction and Cost Savings with Rapid Testing for Seven-Day Platelet 
+Storage.
+
+Mintz PD(1), Sanders JR(2).
+
+Author information:
+(1)Verax Biomedical Inc., Marlborough, MA, USA pmintz@veraxbiomedical.com.
+(2)Verax Biomedical Inc., Marlborough, MA, USA.
+
+Platelets for transfusion in the US are stored at room temperature which is 
+associated with a risk of bacterial transmission and subsequent sepsis. A recent 
+FDA Final Guidance has been issued with options to mitigate this risk while 
+maintaining or enhancing platelet availability.Storage had been limited to five 
+days for many years due to the risk of bacterial growth. The short shelf-life 
+has resulted in a national outdate rate of approximately 16%. FDA has recently 
+cleared two devices as "safety measures" the use of which now allows seven-day 
+platelet storage in bags cleared for this option. The Platelet PGD Test (Verax 
+Biomedical, Marlborough, MA) is one such device and the other is the bioMérieux 
+BacT/Alert Microbial Detection System (Durham, NC). These "safety measure" 
+options are included in the Final Guidance.In 2018 and 2019, we conducted a 
+survey of 16 blood collection centers and 66 hospitals that use the PGD Test to 
+extend platelet dating to seven days to ascertain how this has resulted in 
+reduced outdating and thereby saved costs. The surveyed institutions were 
+collectively responsible for 21-22% of the annual volume of platelet 
+transfusions in the US.The blood collection centers reported that extension of 
+platelet storage to seven days resulted in a mean outdate reduction of 69% 
+(median 67%, range 23%-92%) and mean cost savings of $415,000 (median $300,000, 
+range $150,000-$900,000). The hospitals reported that extension of platelet 
+storage to seven days resulted in a mean outdate reduction of 74% (median 80%, 
+range 17%-100%) and mean cost savings of $176,803 (median $150,000, range 
+$30,000-$1,200,000). Hospitals saved 24,080 platelet doses annually and blood 
+centers saved 18,700 doses annually. From these institutions alone, this 
+represents a savings of more than 2% of platelet transfusions in the 
+US.Extending platelet shelf-life to seven days with the PGD Test significantly 
+reduced outdating of this valuable resource, increased product availability in 
+accord with FDA Final Guidance recommendations, and saved more money than 
+bacterial testing costs in the surveyed institutions.Results have been presented 
+in part at the Association of Clinical Scientists Annual Meeting, Hershey, PA 
+May 2019.
+
+© 2020 by the Association of Clinical Scientists, Inc.
+
+PMID: 32581035 [Indexed for MEDLINE]
+
+
+787. Drug Ther Bull. 2020 Sep;58(9):132. doi: 10.1136/dtb.2020.000041. Epub 2020
+Jun  24.
+
+Does deprescribing in older people improve outcomes?
+
+[No authors listed]
+
+Review of: Shrestha S, Poudel A, Steadman K, et al Outcomes of deprescribing 
+interventions in older patients with life-limiting illness and limited life 
+expectancy: a systematic review. Br J Clin Pharmacol 2019; doi: 
+10.1111/bcp.14113 [Epub ahead of print 4 September 2019].
+
+© BMJ Publishing Group Limited 2020. No commercial re-use. See rights and 
+permissions. Published by BMJ.
+
+DOI: 10.1136/dtb.2020.000041
+PMID: 32581067
+
+
+788. J Virol. 2020 Aug 17;94(17):e01024-20. doi: 10.1128/JVI.01024-20. Print 2020
+Aug  17.
+
+A Conserved Amino Acid in the C Terminus of Human Papillomavirus E7 Mediates 
+Binding to PTPN14 and Repression of Epithelial Differentiation.
+
+Hatterschide J(1), Brantly AC(1), Grace M(2), Munger K(2), White EA(3).
+
+Author information:
+(1)Department of Otorhinolaryngology: Head and Neck Surgery, University of 
+Pennsylvania Perelman School of Medicine, Philadelphia, Pennsylvania, USA.
+(2)Department of Developmental, Molecular and Chemical Biology, Tufts University 
+School of Medicine, Boston, Massachusetts, USA.
+(3)Department of Otorhinolaryngology: Head and Neck Surgery, University of 
+Pennsylvania Perelman School of Medicine, Philadelphia, Pennsylvania, USA 
+eawhite@pennmedicine.upenn.edu.
+
+The human papillomavirus (HPV) E7 oncoprotein is a primary driver of 
+HPV-mediated carcinogenesis. The E7 proteins from diverse HPVs bind to the host 
+cellular nonreceptor protein tyrosine phosphatase type 14 (PTPN14) and direct it 
+for degradation through the activity of the E7-associated host E3 ubiquitin 
+ligase UBR4. Here, we show that a highly conserved arginine residue in the 
+C-terminal domain of diverse HPV E7 mediates the interaction with PTPN14. We 
+found that disruption of PTPN14 binding through mutation of the C-terminal 
+arginine did not impact the ability of several high-risk HPV E7 proteins to bind 
+and degrade the retinoblastoma tumor suppressor or activate E2F target gene 
+expression. HPVs infect human keratinocytes, and we previously reported that 
+both PTPN14 degradation by HPV16 E7 and PTPN14 CRISPR knockout repress 
+keratinocyte differentiation-related genes. Now, we have found that blocking 
+PTPN14 binding through mutation of the conserved C-terminal arginine rendered 
+both HPV16 and HPV18 E7 unable to repress differentiation-related gene 
+expression. We then confirmed that the HPV18 E7 variant that could not bind 
+PTPN14 was also impaired in repressing differentiation when expressed from the 
+complete HPV18 genome. Finally, we found that the ability of HPV18 E7 to extend 
+the life span of primary human keratinocytes required PTPN14 binding. 
+CRISPR/Cas9 knockout of PTPN14 rescued keratinocyte life span extension in the 
+presence of the PTPN14 binding-deficient HPV18 E7 variant. These results support 
+the model that PTPN14 degradation by high-risk HPV E7 leads to repression of 
+differentiation and contributes to its carcinogenic activity.IMPORTANCE The E7 
+oncoprotein is a primary driver of HPV-mediated carcinogenesis. HPV E7 binds the 
+putative tumor suppressor PTPN14 and targets it for degradation using the 
+ubiquitin ligase UBR4. PTPN14 binds to a C-terminal arginine highly conserved in 
+diverse HPV E7. Our previous efforts to understand how PTPN14 degradation 
+contributes to the carcinogenic activity of high-risk HPV E7 used variants of E7 
+unable to bind to UBR4. Now, by directly manipulating E7 binding to PTPN14 and 
+using a PTPN14 knockout rescue experiment, we demonstrate that the degradation 
+of PTPN14 is required for high-risk HPV18 E7 to extend keratinocyte life span. 
+Our data show that PTPN14 binding by HPV16 E7 and HPV18 E7 represses 
+keratinocyte differentiation. HPV-positive cancers are frequently poorly 
+differentiated, and the HPV life cycle depends upon keratinocyte 
+differentiation. The finding that PTPN14 binding by HPV E7 impairs 
+differentiation has significant implications for HPV-mediated carcinogenesis and 
+the HPV life cycle.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/JVI.01024-20
+PMCID: PMC7431784
+PMID: 32581101 [Indexed for MEDLINE]
+
+
+789. J Curr Glaucoma Pract. 2020 Jan-Apr;14(1):37-42. doi: 
+10.5005/jp-journals-10078-1270.
+
+Intrapalpebral Extending Dysesthetic Bleb Revision with Fibrin Glue.
+
+Holmes DP(1), Manning DK(2).
+
+Author information:
+(1)Department of Ophthalmology, The Royal Victorian Eye and Ear Hospital, East 
+Melbourne, Australia.
+(2)Department of Ophthalmology, Hunter Cataract and Eye Centre, Charlestown, 
+Australia.
+
+AIM: This pilot study evaluates the safety and efficacy of a novel surgical 
+technique using fibrin glue to treat bleb dysesthesia post-trabeculectomy due to 
+intrapalpebral extension.
+BACKGROUND: Trabeculectomy remains the gold standard for control of intraocular 
+pressure (IOP) in refractory glaucoma. Bleb dysesthesia following 
+antifibrotic-enhanced trabeculectomy is common, resulting in a significant 
+decrease in quality of life. Symptoms include pain, foreign body sensation, and 
+excessive tearing. Treatments include lubrication, topical nonsteroidal 
+anti-inflammatory drugs (NSAIDs), bandage contact lens, bleb needling, 
+compression sutures, Nd:YAG laser treatments, autologous blood injection, and 
+cryopexy. These procedures can be time-consuming, risk bleb function, and may be 
+ineffective at symptom control; thus, a novel technique is required.
+TECHNIQUE: This is a retrospective case series of eyes undergoing bleb 
+dissection with scleral cutdown and conjunctival closure with ARTISS fibrin 
+tissue glue. Reported cases have been followed up for 6 months. Outcomes 
+assessed include complications, IOP, medication usage, subjective pain score, 
+visual field, and cup-to-disk (C:D) ratio.
+CONCLUSION: This small pilot series demonstrated that patients suffering from 
+bleb dysesthesia due to intrapalpebral bleb extension can be successfully 
+treated with a novel surgical approach combining conjunctival dissection to 
+sclera with fibrin tissue glue closure. There was no significant effect on bleb 
+function and no contribution to glaucoma progression over a 6-month period. A 
+significant reduction in patient discomfort with no new surgical complications 
+was noted.
+CLINICAL SIGNIFICANCE: This demonstrates a safe and effective novel surgical 
+approach to treat patients with this condition. The technique is easily learnt 
+and can be employed in an outpatient setting. The technique is readily accepted 
+by patients in group who are often reticent to undergo further intervention. 
+Most importantly, it does not compromise bleb function or destabilize glaucoma 
+control.
+HOW TO CITE THIS ARTICLE: Holmes DP, Manning DK. Intrapalpebral Extending 
+Dysesthetic Bleb Revision with Fibrin Glue. J Curr Glaucoma Pract 
+2020;14(1):37-42.
+
+Copyright © 2020; Jaypee Brothers Medical Publishers (P) Ltd.
+
+DOI: 10.5005/jp-journals-10078-1270
+PMCID: PMC7302612
+PMID: 32581467
+
+Conflict of interest statement: Source of support: Nil Conflict of interest: 
+None
+
+
+790. Front Hum Neurosci. 2020 Jun 9;14:173. doi: 10.3389/fnhum.2020.00173. 
+eCollection 2020.
+
+Independent Low-Rank Matrix Analysis-Based Automatic Artifact Reduction 
+Technique Applied to Three BCI Paradigms.
+
+Kanoga S(1), Hoshino T(1)(2), Asoh H(1).
+
+Author information:
+(1)Artificial Intelligence Research Center, Department of Information Technology 
+and Human Factors, National Institute of Advanced Industrial Science and 
+Technology (AIST), Tokyo, Japan.
+(2)Graduate School of Media and Governance, Keio University, Kanagawa, Japan.
+
+Electroencephalogram (EEG)-based brain-computer interfaces (BCIs) can 
+potentially enable people to non-invasively and directly communicate with others 
+using brain activities. Artifacts generated from body activities (e.g., 
+eyeblinks and teeth clenches) often contaminate EEGs and make EEG-based 
+classification/identification hard. Although independent component analysis 
+(ICA) is the gold-standard technique for attenuating the effects of such 
+contamination, the estimated independent components are still mixed with 
+artifactual and neuronal information because ICA relies only on the independence 
+assumption. The same problem occurs when using independent vector analysis 
+(IVA), an extended ICA method. To solve this problem, we designed an independent 
+low-rank matrix analysis (ILRMA)-based automatic artifact reduction technique 
+that clearly models sources from observations under the independence assumption 
+and a low-rank nature in the frequency domain. For automatic artifact reduction, 
+we combined the signal separation technique with an independent component 
+classifier for EEGs named ICLabel. To assess the comparative efficiency of the 
+proposed method, the discriminabilities of artifact-reduced EEGs using ICA, IVA, 
+and ILRMA were determined using an open-access EEG dataset named OpenBMI, which 
+contains EEG data obtained through three BCI paradigms [motor-imagery (MI), 
+event-related potential (ERP), and steady-state visual evoked potential 
+(SSVEP)]. BCI performances were obtained using these three paradigms after 
+applying artifact reduction techniques, and the results suggested that our 
+proposed method has the potential to achieve higher discriminability than ICA 
+and IVA for BCIs. In addition, artifact reduction using the ILRMA approach 
+clearly improved (by over 70%) the averaged BCI performances using 
+artifact-reduced data sufficiently for most needs of the BCI community. The 
+extension of ICA families to supervised separation that leaves the 
+discriminative ability would further improve the usability of BCIs for real-life 
+environments in which artifacts frequently contaminate EEGs.
+
+Copyright © 2020 Kanoga, Hoshino and Asoh.
+
+DOI: 10.3389/fnhum.2020.00173
+PMCID: PMC7296171
+PMID: 32581739
+
+
+791. Front Immunol. 2020 Jun 3;11:1048. doi: 10.3389/fimmu.2020.01048.
+eCollection  2020.
+
+Vaccines Against Antimicrobial Resistance.
+
+Rosini R(1), Nicchi S(1)(2), Pizza M(1), Rappuoli R(1)(3)(4).
+
+Author information:
+(1)GSK, Siena, Italy.
+(2)Department of Pharmacy and Biotechnology (FaBiT), University of Bologna, 
+Bologna, Italy.
+(3)vAMRes Lab, Toscana Life Sciences, Siena, Italy.
+(4)Faculty of Medicine, Imperial College London, London, United Kingdom.
+
+Erratum in
+    Front Immunol. 2020 Jul 21;11:1578.
+
+In the last century, life expectancy has increased considerably, thanks to the 
+introduction of antibiotics, hygiene and vaccines that have contributed to the 
+cure and prevention of many infectious diseases. The era of antimicrobial 
+therapy started in the nineteenth century with the identification of chemical 
+compounds with antimicrobial properties. However, immediately after the 
+introduction of these novel drugs, microorganisms started to become resistant 
+through different strategies. Although resistance mechanisms were already 
+present before antibiotic introduction, their large-scale use and mis-use have 
+increased the number of resistant microorganisms. Rapid spreading of mobile 
+elements by horizontal gene transfer such as plasmids and integrative 
+conjugative elements (ICE) carrying multiple resistance genes has dramatically 
+increased the worldwide prevalence of relevant multi drug-resistant human 
+pathogens such as Staphylococcus aureus, Neisseria gonorrhoeae, and 
+Enterobacteriaceae. Today, antimicrobial resistance (AMR) remains one of the 
+major global concerns to be addressed and only global efforts could help in 
+finding a solution. In terms of magnitude the economic impact of AMR is 
+estimated to be comparable to that of climate global change in 2030. Although 
+antibiotics continue to be essential to treat such infections, non-antibiotic 
+therapies will play an important role in limiting the increase of antibiotic 
+resistant microorganisms. Among non-antibiotic strategies, vaccines and 
+therapeutic monoclonal antibodies (mAbs) play a strategic role. In this review, 
+we will summarize the evolution and the mechanisms of antibiotic resistance, and 
+the impact of AMR on life expectancy and economics.
+
+Copyright © 2020 Rosini, Nicchi, Pizza and Rappuoli.
+
+DOI: 10.3389/fimmu.2020.01048
+PMCID: PMC7283535
+PMID: 32582169 [Indexed for MEDLINE]
+
+
+792. Int J Part Ther. 2020 Spring;6(4):1-10. doi: 10.14338/IJPT-19-00076.1. Epub
+2020  Apr 22.
+
+Predicted Secondary Malignancies following Proton versus Photon Radiation for 
+Oropharyngeal Cancers.
+
+Jain V(1), Irmen P(1), O'Reilly S(1), Vogel JH(2), Lin L(3), Lin A(1).
+
+Author information:
+(1)Department of Radiation Oncology, Perelman School of Medicine at the 
+University of Pennsylvania, Philadelphia, PA, USA.
+(2)Department of Radiation Oncology and Molecular Radiation Sciences, John 
+Hopkins University, Baltimore, MD, USA.
+(3)Department of Radiation Oncology, Emory University School of Medicine, 
+Atlanta, GA, USA.
+
+PURPOSE: There has been a recent epidemic of human papillomavirus (HPV)-positive 
+oropharyngeal cancer, accounting for 70% to 80% of diagnosed cases. These 
+patients have an overall favorable prognosis and are typically treated with a 
+combination of surgery, chemotherapy, and radiation. Because these patients live 
+longer, they are at risk of secondary malignant neoplasms (SMNs) associated with 
+radiation therapy. Therefore, we assessed the predicted risk of SMNs after 
+adjuvant radiation therapy with intensity-modulated proton therapy (IMPT) 
+compared with intensity modulated photon radiation therapy (IMRT) in patients 
+with HPV- positive oropharyngeal cancers after complete resection.
+MATERIALS AND METHODS: Thirteen consecutive patients with HPV-positive 
+oropharyngeal cancers treated with postoperative radiation alone were selected. 
+All patients were treated with pencil beam scanning IMPT to a total dose of 60 
+Gy in 2 Gy fractions. The IMRT plans were generated for clinical backup and were 
+used for comparative purposes. The SMN risk was calculated based on an organ 
+equivalent dose model for the linear-exponential dose-response curve.
+RESULTS: Median age of the patient cohort was 63 years (range, 47-73 years). 
+There was no difference in target coverage between IMPT and IMRT plans. We noted 
+significant reductions in mean mandible, contralateral parotid, lung and skin 
+organ equivalent doses with IMPT compared with IMRT plans (P < .001). 
+Additionally, a significant decrease in the risk of SMNs with IMPT was observed 
+for all the evaluated organs. Per our analysis, for patients with oropharyngeal 
+cancers diagnosed at a national median age of 54 years with an average life 
+expectancy of 27 years (per national Social Security data), 4 excess SMNs per 
+100 patients could be avoided by treating them with IMPT versus IMRT.
+CONCLUSIONS: Treatment with IMPT can achieve comparable target dose coverage 
+while significantly reducing the dose to healthy organs, which can lead to fewer 
+predicted SMNs compared with IMRT.
+
+©Copyright 2020 The Author(s).
+
+DOI: 10.14338/IJPT-19-00076.1
+PMCID: PMC7302732
+PMID: 32582814
+
+Conflict of interest statement: Conflicts of Interest: The authors have no 
+conflicts of interest to disclose.
+
+
+793. Cardiovasc Res. 2020 Jul 1;116(8):e102. doi: 10.1093/cvr/cvaa130.
+
+Inappropriate evaluation of methodology and biases by P. Morfeld and T.C. Erren.
+
+Lelieveld J(1)(2), Pozzer A(1), Pöschl U(1), Fnais M(3), Haines A(4), Münzel 
+T(5)(6).
+
+Author information:
+(1)Max Planck Institute for Chemistry, Mainz, Germany.
+(2)The Cyprus Institute, Nicosia, Cyprus.
+(3)King Saud University, Riyadh, Saudi Arabia.
+(4)London School of Hygiene and Tropical Medicine, London, UK.
+(5)University Medical Center of the Johannes Gutenberg University, Mainz, 
+Germany.
+(6)German Center for Cardiovascular Research, Mainz, Germany.
+
+Comment on
+    Cardiovasc Res. 2020 Sep 1;116(11):1910-1917.
+    Cardiovasc Res. 2020 Jul 1;116(8):e101.
+
+DOI: 10.1093/cvr/cvaa130
+PMID: 32582929 [Indexed for MEDLINE]
+
+
+794. Aktuelle Urol. 2020 Aug;51(4):363-370. doi: 10.1055/a-1171-1213. Epub 2020
+Jun  24.
+
+[The impact of radical cystectomy on health-related quality of life and 
+potential for optimisation].
+
+[Article in German; Abstract available in German from the publisher]
+
+Rudolph J(1), Martini T(1), Wezel F(1).
+
+Author information:
+(1)Universitätsklinikum Ulm, Klinik für Urologie und Kinderurologie, Ulm.
+
+Radical cystectomy may have a major impact on the lives of affected patients. 
+Older patients often have a reduced life expectancy after radical cystectomy. 
+Therefore, aspects of health-related quality of life (HRQOL) have to be balanced 
+against a solely tumour-directed therapy. In this narrative review, factors 
+influencing the HRQOL of affected patients were identified and discussed by 
+selective literature search.Besides strategies to minimise perioperative 
+morbidity, these include a patient-oriented and individualised treatment plan 
+taking into account factors such as age, comorbidities, choice of urinary 
+diversion and age-specific conditions, in particular frailty. Patient-reported 
+outcome measures (PROMs) are crucial instruments to assess HRQOL outcomes and 
+should be further implemented into routine clinical use.
+
+Publisher: Die radikale Zystektomie stellt einen wesentlichen Einschnitt in das 
+Leben betroffener Patienten dar. Insbesondere ältere Patienten weisen nach 
+radikaler Zystektomie oft eine begrenzte Lebenserwartung auf. Daher treten neben 
+der reinen Tumortherapie insbesondere Aspekte der Lebensqualität in den 
+Vordergrund.In dieser narrativen Übersichtsarbeit wurden durch selektive 
+Literaturrecherche Faktoren identifiziert, die einen Einfluss auf die 
+Lebensqualität der betroffenen Patienten haben können. Dazu gehören neben 
+Strategien zur Minimierung der perioperativen Morbidität eine optimale, 
+individualisierte Therapieplanung. Diese sollte neben Faktoren wie Alter, 
+Komorbiditäten, Wahl der Harnableitung auch altersspezifische, physiologische 
+Gegebenheiten des Patienten wie die Gebrechlichkeit (Frailty) berücksichtigen. 
+Patient-reported outcome measures (PROMs) sind essenzielle Instrumente, um die 
+Lebensqualität standardisiert zu erfassen und sollten im klinischen Ablauf 
+weiter etabliert werden.
+
+© Georg Thieme Verlag KG Stuttgart · New York.
+
+DOI: 10.1055/a-1171-1213
+PMID: 32583388 [Indexed for MEDLINE]
+
+Conflict of interest statement: Die Autorinnen/Autoren geben an, dass kein 
+Interessenkonflikt besteht.
+
+
+795. Adv Mater. 2020 Aug;32(31):e1907180. doi: 10.1002/adma.201907180. Epub 2020
+Jun  25.
+
+Fiber-Reinforced Viscoelastomers Show Extraordinary Crack Resistance That 
+Exceeds Metals.
+
+Cui W(1), King DR(2)(3), Huang Y(2), Chen L(1), Sun TL(2)(4), Guo Y(1), 
+Saruwatari Y(5), Hui CY(3)(6), Kurokawa T(2)(3), Gong JP(2)(3)(7).
+
+Author information:
+(1)Graduate School of Life Science, Hokkaido University, Sapporo, 001-0021, 
+Japan.
+(2)Faculty of Advanced Life Science, Hokkaido University, Sapporo, 001-0021, 
+Japan.
+(3)Global Station for Soft Matter, Global Institution for Collaborative Research 
+and Education (GI-CoRE), Hokkaido University, Sapporo, 001-0021, Japan.
+(4)South China Advanced Institute for Soft Matter Science and Technology, South 
+China University of Technology, Guangzhou, 510641, China.
+(5)Osaka Organic Chemical Industry Ltd., Osaka, 541-0052, Japan.
+(6)Field of Theoretical & Applied Mechanics, Dept. of Mechanical & Aerospace 
+Engineering, Cornell University, Ithaca, NY, 14853, USA.
+(7)Institute for Chemical Reaction Design and Discovery (WPI-ICReDD), Hokkaido 
+University, Sapporo, 001-0021, Japan.
+
+Soft fiber-reinforced polymers (FRPs), consisting of rubbery matrices and rigid 
+fabrics, are widely utilized in industry because they possess high specific 
+strength in tension while allowing flexural deformation under bending or 
+twisting. Nevertheless, existing soft FRPs are relatively weak against crack 
+propagation due to interfacial delamination, which substantially increases their 
+risk of failure during use. In this work, a class of soft FRPs that possess high 
+specific strength while simultaneously showing extraordinary crack resistance 
+are developed. The strategy is to synthesize tough viscoelastic matrices from 
+acrylate monomers in the presence of woven fabrics, which generates soft 
+composites with a strong interface and interlocking structure. Such composites 
+exhibit fracture energy, Γ, of up to 2500 kJ m-2 , exceeding the toughest 
+existing materials. Experimental elucidation shows that the fracture energy 
+obeys a simple relation, Γ = W · lT , where W is the volume-weighted average of 
+work of extension at fracture of the two components and lT is the force transfer 
+length that scales with the square root of fiber/matrix modulus ratio. Superior 
+Γ is achieved through a combination of extraordinarily large lT (10-100 mm), 
+resulting from the extremely high fiber/matrix modulus ratios (104 -105 ), and 
+the maximized energy dissipation density, W. The elucidated quantitative 
+relationship provides guidance toward the design of extremely tough soft 
+composites.
+
+© 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/adma.201907180
+PMID: 32583491
+
+
+796. Prostate cancer screening with a PSA test: IQWiG Reports – Commission No.
+S19-01  [Internet].
+
+Institute for Quality and Efficiency in Health Care (IQWiG).
+
+Cologne (Germany): Institute for Quality and Efficiency in Health Care (IQWiG); 
+2020 Jun 10.
+Institute for Quality and Efficiency in Health Care: Extracts.
+
+RESEARCH QUESTION: The objective of this investigation is to assess the benefit 
+of prostate cancer screening with the prostate-specific antigen (PSA) test in 
+participants without suspected prostate cancer in respect of patient-relevant 
+outcomes.
+CONCLUSION: With regard to all-cause mortality, there was no hint of any benefit 
+or harm of prostate cancer screening with the PSA test in comparison with no 
+such screening. With regard to prostate cancer-specific mortality, the studies 
+using a PSA cut-off value below 4 ng/mL revealed an indication of a benefit of 
+prostate cancer screening with the PSA test. For the other subgroup, there was 
+no hint of any benefit or harm. Since opportunistic prostate cancer screening 
+with the PSA test was common in the control groups of the 2 largest studies 
+using a PSA cut-off value of 4 ng/mL or higher (i.e. high contamination), it is 
+doubtful whether the PSA cut-off value is the actual characteristic which 
+convincingly explains the difference between subgroups. With regard to the 
+outcome of diagnoses of metastatic prostate cancers, there was an indication of 
+benefit. With regard to the outcomes of health-related quality of life and 
+adverse events as well as the consequences of false-negative screening findings, 
+there was no hint of benefit or harm, albeit based on insufficient available 
+data (no data at all). Proof of harm was found for the consequences of 
+overdiagnoses as well as for false-positive screening findings. Prostate cancer 
+screening by PSA test causes harm to overdiagnosed men (men with prostate cancer 
+which does not require treatment) as well as to men with false-positive 
+screening results (men without prostate cancer). Much of screening-related harm 
+arises at an early time and, in many cases, persists lifelong. Prostate cancer 
+screening with the PSA test benefits some men with prostate cancer by sparing 
+them the distress caused by metastatic cancer or delaying the same. However, 
+this benefit arises only after several years. Even these men might experience 
+early treatment-related complications which persist lifelong. It is unclear 
+whether screening leads to any life extension at all in these men. Considerably 
+more men experience overdiagnosis-related harm rather than benefits from 
+prostate cancer screening by PSA test. All things considered, the benefits of 
+prostate cancer screening with the PSA test therefore do not outweigh the 
+associated harms.
+
+© IQWiG (Institute for Quality and Efficiency in Health Care).
+
+PMID: 32584528
+
+
+797. DNA Cell Biol. 2020 Sep;39(9):1478-1485. doi: 10.1089/dna.2020.5444. Epub
+2020  Jun 23.
+
+Klotho-HIV and Oxidative Stress: The Role of Klotho in Cardiovascular Disease 
+Under HIV Infection-A Review.
+
+Miranda Pérez AA(1), Gutiérrez Pérez ME(1), Urraza Robledo AI(2), Delgadillo 
+Guzmán D(3), Ruíz Flores P(4), López Márquez FC(1).
+
+Author information:
+(1)Department of Molecular Immunobiology, Biomedical Research Center, Faculty of 
+Medicine, Autonomous University of Coahuila, Torreon, Mexico.
+(2)High Specialty Medical Unit #71, Mexican Institute of Social Security 
+Torreón, Coahuila, México.
+(3)Department of Pharmacology, Faculty of Medicine, Autonomous University of 
+Coahuila, Torreon, Mexico.
+(4)Department of Genetics, Center for Biomedical Research Faculty of Medicine, 
+Autonomous University of Coahuila, Torreon, Mexico.
+
+Combined antiretroviral therapy has improved quality and life expectancy of 
+people living with human immunodeficiency virus (HIV). However, this therapy 
+increases oxidative stress (OS), which in turn causes alterations in lipid and 
+carbon metabolism, kidney disease, liver cirrhosis, and increased risk of 
+cardiovascular disease. The Klotho gene has been implicated in cardiovascular 
+risk increase. Klotho protein expression at X level decreases the risk of heart 
+disease. HIV-positive people usually present low plasma levels of Klotho; thus, 
+contributing to some extent to an increase in cardiovascular risk for these 
+types of patients, mostly by favoring atherosclerosis. Therefore, our aim is to 
+provide an overview of the effect of OS on Klotho protein and its consequent 
+cardiometabolic alterations in HIV-positive patients on antiretroviral therapy.
+
+DOI: 10.1089/dna.2020.5444
+PMID: 32584609 [Indexed for MEDLINE]
+
+
+798. J Agric Food Chem. 2020 Jul 22;68(29):7591-7600. doi:
+10.1021/acs.jafc.0c01813.  Epub 2020 Jul 8.
+
+Characterization of a Novel Chitinase from Sweet Potato and Its Fungicidal 
+Effect against Ceratocystis fimbriata.
+
+Liu M(1), Gong Y(1), Sun H(2), Zhang J(1), Zhang L(3), Sun J(1), Han Y(1), Huang 
+J(4), Wu Q(1), Zhang C(2), Li Z(1).
+
+Author information:
+(1)Jiangsu Key Laboratory of Phylogenomics and Comparative Genomics, School of 
+Life Sciences, Jiangsu Normal University, Xuzhou, Jiangsu Province 221116, 
+China.
+(2)Jiangsu Xuzhou Sweet Potato Research Center, Xuzhou, Jiangsu Province 221131, 
+China.
+(3)Crop Research Institute, Shandong Academy of Agricultural Sciences, Jinan, 
+Shandong Province 250100, China.
+(4)The Key Laboratory of Biotechnology for Medicinal Plant of Jiangsu Province, 
+Jiangsu Normal University, Xuzhou, Jiangsu Province 221116, China.
+
+Black rot, caused by Ceratocystis fimbriata, is a destructive disease of sweet 
+potatoes (Ipomoea batatas). In this study, a novel chitinase (IbChiA) was 
+screened from sweet potatoes, which showed a remarkably higher expression level 
+in resistant varieties than in susceptible ones after inoculation with C. 
+fimbriata. Sequence analysis indicated that IbChiA belongs to family 19 class II 
+extracellular chitinase with a MW of 26.3 kDa and pI of 5.96. Recombinant 
+IbChiA, produced by Pichia pastoris, displayed antifungal activity and 
+stability. IbChiA could restrain the mycelium extension of C. fimbriata. FDA/PI 
+double staining combined with transmission electron microscopy observation 
+revealed the remarkable fungicidal effect of IbChiA on the conidia of C. 
+fimbriata. The disease symptoms on the surface of slices and tuberous roots of 
+sweet potatoes were significantly reduced after treatment with IbChiA. These 
+results indicated that IbChiA could be used as a potential biofungicide to 
+replace chemical fungicides.
+
+DOI: 10.1021/acs.jafc.0c01813
+PMID: 32585101 [Indexed for MEDLINE]
+
+
+799. Lancet Infect Dis. 2020 Nov;20(11):1339-1346. doi: 
+10.1016/S1473-3099(20)30256-5. Epub 2020 Jun 22.
+
+Burden of disease in Gabon caused by loiasis: a cross-sectional survey.
+
+Veletzky L(1), Hergeth J(2), Stelzl DR(2), Mischlinger J(3), Manego RZ(4), 
+Mombo-Ngoma G(4), McCall MBB(5), Adegnika AA(6), Agnandji ST(6), Metzger WG(7), 
+Matsiegui PB(8), Lagler H(9), Mordmüller B(7), Budke C(10), Ramharter M(11).
+
+Author information:
+(1)Department of Tropical Medicine, Bernhard Nocht Institute for Tropical 
+Medicine & I Department of Medicine, University Medical Centre 
+Hamburg-Eppendorf, Hamburg, Germany; Lambaréné Medical Research Centre, 
+Lambaréné, Gabon; Department of Medicine I, Division of Infectious Diseases and 
+Tropical Medicine, Medical University of Vienna, Vienna, Austria; Institute of 
+Tropical Medicine, University of Tübingen, Tübingen, Germany; German Centre for 
+Infection Research, Tübingen, Germany.
+(2)Lambaréné Medical Research Centre, Lambaréné, Gabon.
+(3)Department of Tropical Medicine, Bernhard Nocht Institute for Tropical 
+Medicine & I Department of Medicine, University Medical Centre 
+Hamburg-Eppendorf, Hamburg, Germany.
+(4)Department of Tropical Medicine, Bernhard Nocht Institute for Tropical 
+Medicine & I Department of Medicine, University Medical Centre 
+Hamburg-Eppendorf, Hamburg, Germany; Lambaréné Medical Research Centre, 
+Lambaréné, Gabon; Institute of Tropical Medicine, University of Tübingen, 
+Tübingen, Germany; German Centre for Infection Research, Tübingen, Germany.
+(5)Lambaréné Medical Research Centre, Lambaréné, Gabon; Institute of Tropical 
+Medicine, University of Tübingen, Tübingen, Germany; German Centre for Infection 
+Research, Tübingen, Germany; Radboud University Medical Centre, Department of 
+Medical Microbiology, Nijmegen, Netherlands.
+(6)Lambaréné Medical Research Centre, Lambaréné, Gabon; Institute of Tropical 
+Medicine, University of Tübingen, Tübingen, Germany; German Centre for Infection 
+Research, Tübingen, Germany.
+(7)Institute of Tropical Medicine, University of Tübingen, Tübingen, Germany; 
+German Centre for Infection Research, Tübingen, Germany.
+(8)Ngounié Medical Research Centre, Fougamou, Gabon.
+(9)Department of Medicine I, Division of Infectious Diseases and Tropical 
+Medicine, Medical University of Vienna, Vienna, Austria.
+(10)Department of Veterinary Integrative Biosciences, College of Veterinary 
+Medicine and Biomedical Sciences, Texas A&M University, College Station, TX, 
+USA.
+(11)Department of Tropical Medicine, Bernhard Nocht Institute for Tropical 
+Medicine & I Department of Medicine, University Medical Centre 
+Hamburg-Eppendorf, Hamburg, Germany; Lambaréné Medical Research Centre, 
+Lambaréné, Gabon. Electronic address: ramharter@bnitm.de.
+
+Comment in
+    Lancet Infect Dis. 2020 Nov;20(11):1226-1227.
+
+BACKGROUND: Loiasis is a highly prevalent helminth infection found in distinct 
+regions of sub-Saharan Africa. The disease has been considered to be of minor 
+clinical significance, but this belief is being increasingly challenged by 
+recent evidence. We aimed to prospectively quantify the overall burden of 
+disease caused by loiasis in an endemic region of Gabon, using 
+disability-adjusted life years (DALYs).
+METHODS: We did a cross-sectional survey during 2017 and 2018 in rural Gabon. 
+Volunteers underwent diagnostic tests for loiasis and were given a standardised 
+questionnaire on symptoms. Participants reporting eye worm migration or 
+harbouring Loa loa microfilariae were defined as loiasis positive. 
+Morbidity-based DALYs associated with loiasis were estimated for the rural 
+population of Gabon.
+FINDINGS: Between Sept 1, 2017 and May 31, 2018, 1235 participants residing in 
+38 villages in the Gabonese departments of Tsamba-Magotsi and Ogooué et des Lacs 
+were screened. 626 (50·8%) of 1232 eligible participants had loiasis. 520 
+(42·2%) of 1232 participants reported eye worm migration. 478 (93·9%) of 509 
+individuals with eye worm migration also reported associated pain, and 397 
+(78·6%) of 505 reported vision disturbances. After correcting for age and sex, 
+loiasis was significantly associated with a variety of symptoms, including 
+transient painful oedema (adjusted odds ratio 1·76 [95% CI 1·37-2·26]) and 
+arthralgia (1·30 [1·01-1·69]). Application of attributable fractions of 
+correlating symptoms resulted in 412·9 (95% CI 273·9-567·7) morbidity-based 

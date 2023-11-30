@@ -1,0 +1,1000 @@
+(5)Bruce Rappaport Faculty of Medicine, Technion - Israel Institute of 
+Technology, Haifa, Israel; Institute of Endocrinology, Diabetes and Metabolism, 
+Rambam Medical Center, Haifa, Israel.
+
+Patients with chronic multimorbidity are becoming more common as life expectancy 
+increases, making it necessary for physicians to develop complex management 
+plans. We are looking at the patient management process as a goal-attainment 
+problem. Hence, our aim is to develop a goal-oriented methodology for providing 
+decision support for managing patients with multimorbidity continuously, as the 
+patient's health state is progressing and new goals arise (e.g., treat ulcer, 
+prevent osteoporosis). Our methodology allows us to detect and mitigate 
+inconsistencies among guideline recommendations stemming from multiple clinical 
+guidelines, while consulting medical ontologies and terminologies and relying on 
+patient information standards. This methodology and its implementation as a 
+decision-support system, called GoCom, starts with computer-interpretable 
+clinical guidelines (CIGs) for single problems that are formalized using the 
+PROforma CIG language. We previously published the architecture of the system as 
+well as a CIG elicitation guide for enriching PROforma tasks with properties 
+referring to vocabulary codes of goals and physiological effects of management 
+plans. In this paper, we provide a formalization of the conceptual model of 
+GoCom that generates, for each morbidity of the patient, a patient-specific goal 
+tree that results from the PROforma engine's enactment of the CIG with the 
+patient's data. We also present the "Controller" algorithm that drives the GoCom 
+system. Given a new problem that a patient develops, the Controller detects 
+inconsistencies among goals pertaining to different comorbid problems and 
+consults the CIGs to generate alternative non-conflicted and goal-oriented 
+management plans that address the multiple goals simultaneously. In this stage 
+of our research, the inconsistencies that can be detected are of two types - 
+starting vs. stopping medications that belong to the same medication class 
+hierarchy, and detecting opposing physiological effect goals that are specified 
+in concurrent CIGs (e.g., decreased blood pressure vs. increased blood 
+pressure). However, the design of GoCom is modular and generic and allows the 
+future introduction of additional interaction detection and mitigation 
+strategies. Moreover, GoCom generates explanations of the alternative 
+non-conflicted management plans, based on recommendations stemming from the 
+clinical guidelines and reasoning patterns. GoCom's functionality was evaluated 
+using three cases of multimorbidity interactions that were checked by our three 
+clinicians. Usefulness was evaluated with two studies. The first evaluation was 
+a pilot study with ten 6th year medical students and the second evaluation was 
+done with 27 6th medical students and interns. The participants solved complex 
+realistic cases of multimorbidity patients: with and without decision-support, 
+two cases in the first evaluation and 6 cases in the second evaluation. Use of 
+GoCom increased completeness of the patient management plans produced by the 
+medical students from 0.44 to 0.71 (P-value of 0.0005) in the first evaluation, 
+and from 0.31 to 0.78 (P-value < 0.0001) in the second evaluation. Correctness 
+in the first evaluation was very high with (0.98) or without the system (0.91), 
+with non-significant difference (P-value ≥ 0.17). In the second evaluation, use 
+of GoCom increased correctness from 0.68 to 0.83 (P-value of 0.001). In 
+addition, GoCom's explanation and visualization were perceived as useful by the 
+vast majority of participants. While GoCom's detection of goal interactions is 
+currently limited to detection of starting vs. stopping the same medication or 
+medication subclasses and detecting conflicting physiological effects of 
+concurrent medications, the evaluation demonstrated potential of the system for 
+improving clinical decision-making for multimorbidity patients.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2020.103587
+PMID: 33035704 [Indexed for MEDLINE]
+
+
+239. Int J Environ Res Public Health. 2020 Oct 6;17(19):7289. doi: 
+10.3390/ijerph17197289.
+
+Effects of Chemotherapy Treatment on Muscle Strength, Quality of Life, Fatigue, 
+and Anxiety in Women with Breast Cancer.
+
+Marques VA(1), Ferreira-Junior JB(2), Lemos TV(3), Moraes RF(1)(4), Junior 
+JRS(5), Alves RR(1), Silva MS(1), Freitas-Junior R(6), Vieira CA(1)(7).
+
+Author information:
+(1)Postgraduate Program in Health Sciences, Federal University of Goias, Goiania 
+74605-050, GO, Brazil.
+(2)Federal Institute of Sudeste of Minas Gerais- Campus Rio Pomba, Rio Pomba 
+36180-000, MG, Brazil.
+(3)School of Physical Education and Physiotherapy, State University of Goias, 
+Goiania 74643-010, GO, Brazil.
+(4)Teacher and Humanities Training School, Pontifical Catholic University of 
+Goias, Goiania 74605-010, GO, Brazil.
+(5)Postgraduation Program in Sciences and Technologies in Health, University of 
+Brasília, Brasília 72220-275, DF, Brazil.
+(6)Advanced Center for Diagnosis of Breast Cancer (CORA/HC/UFG/EBSERH), Clinical 
+Hospital, Federal University of Goias, Goiania 74605-050, GO, Brazil.
+(7)School of Physical Education and Dance, Federal University of Goias, Goiania 
+74690-900, GO, Brazil.
+
+The study aimed to evaluate the effects of chemotherapy treatment on muscle 
+strength, quality of life, fatigue, and anxiety in women with breast cancer. 
+Nineteen women who were undergoing a chemotherapy treatment (breast cancer 
+treatment [BCT] group, 52.2 ± 13.1 years) and 18 women without cancer (control 
+[CNT] group, 55.8 ± 8.4 years) answered questionnaires for evaluation of fatigue 
+(Fatigue Scale), quality of life (Short-Form Healthy Survey [SF-36] 
+questionnaire), and anxiety (State-Trait Anxiety Inventory [IDATE]) levels. 
+Muscle strength was also assessed by an isometric grip test and an isokinetic 
+knee extension test. Physical limitations, social and emotional domains of 
+quality of life were lower in the BCT group in comparison to the CNT group (p = 
+0.002; p = 0.003; p = 0.0003, respectively). The other domains did not differ 
+between groups (p > 0.05). There were no differences in fatigue and anxiety 
+levels between both the BCT and CNT groups (p > 0.05). Additionally, isometric 
+grip strength was higher in the CNT group when compared to the BCT group (p = 
+0.048). However, there were no differences between the BCT and CNT groups for 
+peak torque and total work at both 60°.s-1 (p = 0.95 and p = 0.61, respectively) 
+and 180°.s-1 (p = 0.94 and p = 0.72, respectively). These results suggest that 
+three cycles of chemotherapy treatment may impair handgrip isometric strength 
+and quality of life in women with breast cancer.
+
+DOI: 10.3390/ijerph17197289
+PMCID: PMC7579368
+PMID: 33036182 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+240. J Cardiol. 2021 Mar;77(3):254-262. doi: 10.1016/j.jjcc.2020.09.004. Epub
+2020  Oct 7.
+
+Impact of age on mid-term clinical outcomes and left ventricular reverse 
+remodeling after cardiac resynchronization therapy.
+
+Yokoyama H(1), Shishido K(2), Tobita K(1), Moriyama N(1), Murakami M(1), Saito 
+S(1).
+
+Author information:
+(1)Department of Cardiology and Catheterization Laboratories, Shonan Kamakura 
+General Hospital, Kamakura City, Japan.
+(2)Department of Cardiology and Catheterization Laboratories, Shonan Kamakura 
+General Hospital, Kamakura City, Japan. Electronic address: 
+koki10192002@yahoo.co.jp.
+
+INTRODUCTION: The number of heart failure (HF) patients has been rapidly 
+increasing in Japan, and considering the most explosive aging occurring in Asia, 
+the management of elderly HF patients and longer life expectancy are critical 
+issues. The aim of the present study was to evaluate whether the mid-term 
+prognosis after cardiac resynchronization therapy (CRT) implantation was 
+influenced by age and to investigate, in detail, the difference in the change 
+ratio of echocardiographic parameters according to the age group of interest.
+METHODS AND RESULTS: This retrospective analysis included 173 patients who 
+underwent CRT implantation in our hospital from February 2008 to March 2019. 
+Eighty patients (46%) were classified into the elderly group (≥75 years) and the 
+rest in the non-elderly group. The study population was also classified with 
+propensity score matching. The mid-term prognosis including all-cause death and 
+hospitalization for HF, and the ratio of CRT responders were compared between 
+the 2 groups. CRT response was defined as left ventricular (LV) end-systolic 
+volume reduction ≥15% at follow-up echocardiography within a year. During a 
+median follow-up of 1057 [interquartile range: 412, 2107] days, adverse events 
+were not significantly different between the 2 groups before and after matching 
+(before matching; all-cause death: log-rank p = 0.323, hospitalization for HF: 
+log-rank p = 0.376, after matching; all-cause death: log-rank p = 0.325, 
+hospitalization for HF: log-rank p = 0.516). Moreover, the rate of CRT 
+responders was not significantly different between the 2 groups before and after 
+matching (before matching, p = 0.718; after matching, p = 0.666).
+CONCLUSIONS: In elderly HF patients, CRT provided the same clinical benefits as 
+in non-elderly HF patients, furthermore, there was a similar trend in LV reverse 
+remodeling between the 2 groups. The present study demonstrated that the 
+indication of CRT implantation should not be determined by age.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.jjcc.2020.09.004
+PMID: 33036817 [Indexed for MEDLINE]241. Nat Commun. 2020 Oct 9;11(1):5111. doi: 10.1038/s41467-020-18878-8.
+
+Structural insights into assembly of the ribosomal nascent polypeptide exit 
+tunnel.
+
+Wilson DM(#)(1), Li Y(#)(2)(3), LaPeruta A(1), Gamalinda M(1)(4), Gao N(5), 
+Woolford JL Jr(6).
+
+Author information:
+(1)Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, 
+PA, 15213, USA.
+(2)State Key Laboratory of Membrane Biology, School of Life Science, Tsinghua 
+University, Beijing, China.
+(3)Peking University-Tsinghua University-National Institute of Biological 
+Sciences Joint Graduate Program, Beijing, China.
+(4)Bayer AG, Strategy and Business Consulting, Building B151, 51368, Leverkusen, 
+Germany.
+(5)State Key Laboratory of Membrane Biology, Peking-Tsinghua Center for Life 
+Sciences, School of Life Sciences, Peking University, Beijing, China. 
+gaon@pku.edu.cn.
+(6)Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, 
+PA, 15213, USA. jw17@andrew.cmu.edu.
+(#)Contributed equally
+
+The nascent polypeptide exit tunnel (NPET) is a major functional center of 60S 
+ribosomal subunits. However, little is known about how the NPET is constructed 
+during ribosome assembly. We utilized molecular genetics, biochemistry, and 
+cryo-electron microscopy (cryo-EM) to investigate the functions of two 
+NPET-associated proteins, ribosomal protein uL4 and assembly factor Nog1, in 
+NPET assembly. Structures of mutant pre-ribosomes lacking the tunnel domain of 
+uL4 reveal a misassembled NPET, including an aberrantly flexible ribosomal RNA 
+helix 74, resulting in at least three different blocks in 60S assembly. 
+Structures of pre-ribosomes lacking the C-terminal extension of Nog1 demonstrate 
+that this extension scaffolds the tunnel domain of uL4 in the NPET to help 
+maintain stability in the core of pre-60S subunits. Our data reveal that uL4 and 
+Nog1 work together in the maturation of ribosomal RNA helix 74, which is 
+required to ensure proper construction of the NPET and 60S ribosomal subunits.
+
+DOI: 10.1038/s41467-020-18878-8
+PMCID: PMC7547690
+PMID: 33037216 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+242. J Bone Joint Surg Am. 2020 Dec 2;102(23):2032-2042. doi:
+10.2106/JBJS.20.00393.
+
+A Cost-Effectiveness Analysis of Smoking-Cessation Interventions Prior to 
+Posterolateral Lumbar Fusion.
+
+Zhuang T(1), Ku S, Shapiro LM, Hu SS, Cabell A, Kamal RN.
+
+Author information:
+(1)VOICES Health Policy Research Center (T.Z., S.K., L.M.S, and R.N.K.), 
+Department of Orthopaedic Surgery (T.Z., S.K., L.M.S., S.S.H., A.C., and 
+R.N.K.), Stanford University, Redwood City, California.
+
+BACKGROUND: Smoking cessation represents an opportunity to reduce both short and 
+long-term effects of smoking on complications after lumbar fusion and 
+smoking-related morbidity and mortality. However, the cost-effectiveness of 
+smoking-cessation interventions prior to lumbar fusion is not fully known.
+METHODS: We created a decision-analytic Markov model to evaluate the 
+cost-effectiveness of 5 smoking-cessation strategies (behavioral counseling, 
+nicotine replacement therapy [NRT], bupropion or varenicline monotherapy, and a 
+combined intervention) prior to single-level, instrumented lumbar posterolateral 
+fusion (PLF) from the health payer perspective. Probabilities, costs, and 
+utilities were obtained from published sources. We calculated the costs and 
+quality-adjusted life years (QALYs) associated with each strategy over multiple 
+time horizons and accounted for uncertainty with probabilistic sensitivity 
+analyses (PSAs) consisting of 10,000 second-order Monte Carlo simulations.
+RESULTS: Every smoking-cessation intervention was more effective and less costly 
+than usual care at the lifetime horizon. In the short term, behavioral 
+counseling, NRT, varenicline monotherapy, and the combined intervention were 
+also cost-saving, while bupropion monotherapy was more effective but more costly 
+than usual care. The mean lifetime cost savings for behavioral counseling, NRT, 
+bupropion monotherapy, varenicline monotherapy, and the combined intervention 
+were $3,291 (standard deviation [SD], $868), $2,571 (SD, $479), $2,851 (SD, 
+$830), $6,767 (SD, $1,604), and $34,923 (SD, $4,248), respectively. The minimum 
+efficacy threshold (relative risk for smoking cessation) for lifetime cost 
+savings varied from 1.01 (behavioral counseling) to 1.15 (varenicline 
+monotherapy). A PSA revealed that the combined smoking-cessation intervention 
+was always more effective and less costly than usual care.
+CONCLUSIONS: Even brief smoking-cessation interventions yield large short-term 
+and long-term cost savings. Smoking-cessation interventions prior to PLF can 
+both reduce costs and improve patient outcomes as health payers/systems shift 
+toward value-based reimbursement (e.g., bundled payments) or population health 
+models.
+LEVEL OF EVIDENCE: Economic Level II. See Instructions for Authors for a 
+complete description of levels of evidence.
+
+DOI: 10.2106/JBJS.20.00393
+PMCID: PMC8136338
+PMID: 33038088 [Indexed for MEDLINE]
+
+
+243. Spine (Phila Pa 1976). 2021 Feb 1;46(3):E161-E166. doi: 
+10.1097/BRS.0000000000003733.
+
+A Novel Clinical Scoring System for Perioperative Morbidity in Metastatic Spinal 
+Tumor Surgery: The Spine Oncology Morbidity Assessment Score.
+
+De la Garza Ramos R(1)(2), Benton JA(1), Gelfand Y(1)(2), Echt M(1)(2), Hamad 
+MK(1)(2), Kinon MD(1)(2), Yanamadala V(1)(2), Yassari R(1)(2).
+
+Author information:
+(1)Spine Research Group, Montefiore Medical Center/Albert Einstein College of 
+Medicine, Bronx, NY.
+(2)Department of Neurological Surgery, Montefiore Medical Center/Albert Einstein 
+College of Medicine, Bronx, NY.
+
+STUDY DESIGN: Retrospective cohort study.
+OBJECTIVE: To evaluate a scoring system to predict morbidity for patients 
+undergoing metastatic spinal tumor surgery (MSTS).
+SUMMARY OF BACKGROUND DATA: Multiple scoring systems exist to predict survival 
+for patients with spinal metastasis. The potential benefits and risks of surgery 
+need to be evaluated for patients with disseminated cancer and limited life 
+expectancy. Few scoring systems exist to predict perioperative morbidity after 
+MSTS.
+METHODS: We reviewed records of patients who underwent MSTS at our institution 
+between 2013 and 2019. All perioperative complications occurring within 30 days 
+were recorded. A clinical scoring system consisting of five variables (age ≥ 70 
+yr, hypoalbuminemia, poor preoperative functional status [Karnofsky ≤ 40], 
+Frankel Grade A-C, and multilevel disease ≥2 continuous vertebral bodies) was 
+evaluated as a predictive tool for morbidity; every parameter was assigned a 
+value of 0 if absent or 1 if present (total possible score = 5). The effect of 
+the scoring system on morbidity was evaluated using stepwise multiple logistic 
+regression. Model accuracy was calculated by receiver operating characteristic 
+analysis.
+RESULTS: One hundred and five patients were identified, with a male prevalence 
+of 58.1% and average age at surgery of 61 years. The overall 30-day complication 
+rate was 36.2%. The perioperative morbidity was 4.6%, 30.0%, 53.9%, and 64.7% 
+for patients with scores of 0, 1, 2, and ≥3 points, respectively (P < 0.001). On 
+multiple logistic regression analysis controlling for covariates not present in 
+the model, the scoring system was significantly associated with 30-day morbidity 
+(OR 3.11; 95% CI, 1.72-5.59; P < 0.001). The model's accuracy was estimated at 
+0.75.
+CONCLUSION: Our proposed model was found to accurately predict perioperative 
+morbidity after MSTS. The Spine Oncology Morbidity Assessment (SOMA) score may 
+prove useful for risk stratification and possibly decision-making, though 
+further validation is needed.Level of Evidence: 4.
+
+Copyright © 2020 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/BRS.0000000000003733
+PMID: 33038202 [Indexed for MEDLINE]
+
+
+244. Environ Res. 2021 Jan;192:110288. doi: 10.1016/j.envres.2020.110288. Epub
+2020  Oct 8.
+
+Avoidable mortality by implementing more restrictive fine particles standards in 
+Brazil: An estimation using satellite surface data.
+
+Andreão WL(1), Toledo de Almeida Albuquerque T(2).
+
+Author information:
+(1)Department of Sanitary and Environmental Engineering, Federal University of 
+Minas Gerais, Belo Horizonte, 31270-010, Brazil. Electronic address: 
+w-andreao@ufmg.br.
+(2)Department of Sanitary and Environmental Engineering, Federal University of 
+Minas Gerais, Belo Horizonte, 31270-010, Brazil.
+
+A growing number of epidemiological studies have been affirming the linking 
+between fine particles (PM2.5) and deaths due to diverse causes as a result of 
+long-term exposure. This work demonstrates the benefits of improving air quality 
+policies by evaluating the impact of PM2.5 in terms of avoidable mortality due 
+to all causes, cardiopulmonary causes, and lung cancer, between 2014 and 2018, 
+for 5570 Brazilian cities. Satellite annual surface PM2.5 concentrations were 
+compared with available monitoring measurements and used as the baseline 
+scenario. Each phase of the Brazilian air quality legislation (CONAMA 491/2018) 
+was used as a control scenario. The satellite PM2.5 annual surface levels were 
+slightly lower than the monitoring concentrations, with an average mean bias of 
+-2.7 μg/m3. No annual mean PM2.5 concentration above 20 μg/m3 was observed in 
+any city in 2014 and 2018. In 2016, 23% of cities exceeded the annual mean 
+concentration of 10 μg/m3. A weak positive correlation was found between 
+city-level PM2.5 and population, vehicle fleet, number of fire outbreaks, urban 
+area size, Growth Domestic Product per capita, Human Development Index, and life 
+expectancy. During the five years, a total of 48,700 ± 7570 deaths due to all 
+causes, 24,100 ± 3260 due to cardiopulmonary causes, and 1780 ± 435 due to lung 
+cancer could be avoided if the maximum PM2.5 annual concentration of 10 μg/m3 
+was not exceeded. Less restrictive standards lead to much lower avoidable 
+deaths. For example, considering the maximum annual concentration of 20 μg/m3, 
+1335 ± 175 deaths due to all causes could be avoided between 2015 and 2017. Our 
+results indicate the importance of adopting more restrictive air quality 
+standards in Brazil. If the current levels do not protect life as they should 
+be, an effort regarding control emissions, monitoring, and modeling is essential 
+to construct an effective air quality management for the country, aiming to 
+comprehend the current PM2.5 concentration and to achieve lower standards.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.envres.2020.110288
+PMID: 33038364 [Indexed for MEDLINE]
+
+
+245. Int J Epidemiol. 2020 Oct 1;49(5):1624-1636. doi: 10.1093/ije/dyaa132.
+
+Proportional multistate lifetable modelling of preventive interventions: 
+concepts, code and worked examples.
+
+Blakely T(1), Moss R(1), Collins J(2), Mizdrak A(3), Singh A(1), Carvalho N(1), 
+Wilson N(3), Geard N(4), Flaxman A(2).
+
+Author information:
+(1)Melbourne School of Population and Global Health, University of Melbourne, 
+Melbourne, VIC, Australia.
+(2)Institute of Health Metrics and Evaluation, University of Washington, 
+Seattle, WA, USA.
+(3)Department of Public Health, University of Otago, Wellington, New Zealand.
+(4)Computing and Information Systems, University of Melbourne, Melbourne, VIC, 
+Australia.
+
+Burden of Disease studies-such as the Global Burden of Disease (GBD) 
+Study-quantify health loss in disability-adjusted life-years. However, these 
+studies stop short of quantifying the future impact of interventions that shift 
+risk factor distributions, allowing for trends and time lags. This methodology 
+paper explains how proportional multistate lifetable (PMSLT) modelling 
+quantifies intervention impacts, using comparisons between three tobacco control 
+case studies [eradication of tobacco, tobacco-free generation i.e. the age at 
+which tobacco can be legally purchased is lifted by 1 year of age for each 
+calendar year) and tobacco tax]. We also illustrate the importance of 
+epidemiological specification of business-as-usual in the comparator arm that 
+the intervention acts on, by demonstrating variations in simulated health gains 
+when incorrectly: (i) assuming no decreasing trend in tobacco prevalence; and 
+(ii) not including time lags from quitting tobacco to changing disease 
+incidence. In conjunction with increasing availability of baseline and forecast 
+demographic and epidemiological data, PMSLT modelling is well suited to future 
+multiple country comparisons to better inform national, regional and global 
+prioritization of preventive interventions. To facilitate use of PMSLT, we 
+introduce a Python-based modelling framework and associated tools that 
+facilitate the construction, calibration and analysis of PMSLT models.
+
+© The Author(s) 2020; all rights reserved. Published by Oxford University Press 
+on behalf of the International Epidemiological Association.
+
+DOI: 10.1093/ije/dyaa132
+PMID: 33038892 [Indexed for MEDLINE]
+
+
+246. Geriatr Nurs. 2021 Jan-Feb;42(1):303-308. doi:
+10.1016/j.gerinurse.2020.09.004.  Epub 2020 Oct 7.
+
+Evaluation of a quality improvement initiative to increase rates of advance 
+directive conversation documentation in primary care.
+
+Marino VR(1), Hyer K(2), Hamilton L(3), Wenders AM(2), Andel R(2).
+
+Author information:
+(1)School of Aging Studies, University of South Florida, United States; Florida 
+Policy Exchange Center on Aging, University of South Florida, United States. 
+Electronic address: vmarino1@mail.usf.edu.
+(2)School of Aging Studies, University of South Florida, United States; Florida 
+Policy Exchange Center on Aging, University of South Florida, United States.
+(3)College of Nursing, University of South Florida, United States.
+
+As life expectancy increases, long periods of comorbidity and low quality of 
+life commonly precede death. Advance care planning within primary care settings 
+is necessary to increase patient agency and prioritize personal wishes. This 
+article disseminates a quality improvement initiative within a federally 
+qualified health center. New procedures were developed to systematically track 
+advance directive conversations using current procedural terminology codes. The 
+systems change resulted in a substantial and sustained increase in advance 
+directive conversation documentation. The increase was presumably due to the 
+implementation of small-scale changes, providers' commitment to geriatric 
+primary care, increases in appointment times, allocation of tasks across 
+disciplines, availability of Spanish speaking staff and translated forms, and 
+the change to record keeping that enabled codes to be easily captured and 
+tracked in the electronic medical record. This work may inform future quality 
+improvement efforts to boost advance care planning among underserved populations 
+in diverse settings.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.gerinurse.2020.09.004
+PMID: 33039201 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations of Competing Interest None,
+
+
+247. Am J Obstet Gynecol. 2021 Apr;224(4):362.e1-362.e11. doi: 
+10.1016/j.ajog.2020.10.009. Epub 2020 Oct 8.
+
+Success and failure are dynamic, recurrent event states after surgical treatment 
+for pelvic organ prolapse.
+
+Jelovsek JE(1), Gantz MG(2), Lukacz E(3), Sridhar A(2), Zyczynski H(4), Harvie 
+HS(5), Dunivan G(6), Schaffer J(7), Sung V(8), Varner RE(9), Mazloomdoost D(10), 
+Barber MD(11); Eunice Kennedy Shriver National Institute of Child Health and 
+Human Development Pelvic Floor Disorders Network.
+
+Author information:
+(1)Department of Obstetrics and Gynecology, Duke University Medical Center, 
+Durham, NC. Electronic address: eric.jelovsek@duke.edu.
+(2)Biostatistics and Epidemiology Division, RTI International, Durnham, NC.
+(3)Department of Obstetrics and Gynecology, and Reproductive Sciences, 
+University of California San Diego, La Jolla, CA.
+(4)Department of Obstetrics and Gynecology, Magee-Womens Research Institute, 
+University of Pittsburgh, Pittsburgh, PA.
+(5)Department of Obstetrics and Gynecology, Perelman School of Medicine, 
+University of Pennsylvania, Philadelphia, PA.
+(6)Department of Obstetrics and Gynecology, University of New Mexico School of 
+Medicine, Albuquerque, NM.
+(7)Department of Obstetrics and Gynecology, University of Texas Southwestern 
+Medical Center, Dallas, TX.
+(8)Department of Obstetrics and Gynecology, Women and Infants Hospital of Rhode 
+Island, Alpert Medical School, Brown University, Providence, RI.
+(9)Department of Obstetrics and Gynecology, University of Alabama at Birmingham, 
+Birmingham, AL.
+(10)Eunice Kennedy Shriver National Institute of Child Health and Human 
+Development, National Institutes of Health, Bethesda, MD.
+(11)Department of Obstetrics and Gynecology, Duke University Medical Center, 
+Durham, NC.
+
+BACKGROUND: The ideal measure of success after surgery for pelvic organ prolapse 
+has long been debated. Historically, strict definitions based on anatomic 
+perfection have dominated the literature. However, the importance of 
+patient-centered perception of outcomes is equally or more important when 
+comparing the success of various prolapse surgeries. Understanding the 
+limitations of existing outcome definitions will guide surgical outcome 
+reporting and comparisons of pelvic organ prolapse surgeries.
+OBJECTIVE: This study aimed to describe the relationships and overlap among the 
+participants who met the anatomic, subjective, and retreatment definitions of 
+success or failure after pelvic organ prolapse surgery; demonstrate rates of 
+transition between success and failure over time; and compare scores from the 
+Pelvic Organ Prolapse Distress Inventory, Short-Form Six-Dimension health index, 
+and quality-adjusted life years among these definitions.
+STUDY DESIGN: Definitions of surgical success were evaluated at 3 or 6, 12, 24, 
+36, 48, and 60 months after surgery for ≥stage II pelvic organ prolapse in a 
+cohort of women (N=1250) from 4 randomized clinical trials conducted by the 
+Eunice Kennedy Shriver National Institute of Child Health and Human Development 
+Pelvic Floor Disorders Network. Surgical failure was defined by a composite 
+measure requiring 1 or more of (1) anatomic failure (Pelvic Organ Prolapse 
+Quantification point Ba, Bp, or C of >0), (2) subjective failure (presence of 
+bothersome vaginal bulge symptoms), or (3) pessary or surgical retreatment for 
+pelvic organ prolapse. Pelvic Organ Prolapse Distress Inventory, Short-Form 
+Six-Dimension health index, and quality-adjusted life years were compared among 
+participants who met a variety of definitions of success and failure including 
+novel "intermittent" success and failure over time.
+RESULTS: Among the 433 of 1250 women (34.6%) who had surgical failure outcomes 
+at ≥1 time point, 85.5% (370 of 433) met only 1 component of the composite 
+outcome at the assessment of initial failure (anatomic failure, 46.7% [202 of 
+433]; subjective failure, 36.7% [159 of 433]; retreatment, 2.1% [9 of 433]). 
+Only 12.9% (56 of 433) met the criteria for both for anatomic and subjective 
+failure. Despite meeting the criteria for failure in primary study reporting, 
+24.2% of these (105 of 433) transitioned between success and failure during 
+follow-up, of whom 83.8% (88 of 105) met the criteria for success at their last 
+follow-up. There were associations between success or failure classification and 
+the 1- and 2-year quality-adjusted life years and a time-varying group effect on 
+Pelvic Organ Prolapse Distress Inventory and Short-Form Six-Dimension health 
+index scores.
+CONCLUSION: True failure rates after prolapse surgery may be overestimated in 
+the current literature. Only 13% of clinical trial subjects initially met both 
+subjective and objective criteria for failure. Approximately one-quarter of 
+failures were intermittent and transitioned between success and failure over 
+time, with most intermittent failures being in a state of "surgical success" at 
+their last follow-up. Current composite definitions of success or failure may 
+result in the overestimation of surgical failure rates, potentially explaining, 
+in part, the discordance with low retreatment rates after pelvic organ prolapse 
+surgery.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ajog.2020.10.009
+PMCID: PMC8009767
+PMID: 33039390 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure statement: E. Lukacz reports 
+potential conflicts of interest: consultant for Axonics, research funding from 
+Boston Scientific and Cogentix/Uroplasty, royalties for UpToDate. G. Dunivan 
+reports potential conficts of interest: research funding from Pelvalon and 
+Viveve. M. Gantz reports potential conflicts of interest: grant support from 
+Boston Scientific. The authors Jelovsek, Barber, Harvie, Mazloomdoost, Schaffer, 
+Sridhar, Sung, Varner and Zyczynski report no conflicts of interest.
+
+
+248. JACC Heart Fail. 2020 Dec;8(12):984-995. doi: 10.1016/j.jchf.2020.08.004.
+Epub  2020 Oct 7.
+
+Estimating the Lifetime Benefits of Treatments for Heart Failure.
+
+Ferreira JP(1), Docherty KF(2), Stienen S(3), Jhund PS(2), Claggett BL(4), 
+Solomon SD(4), Petrie MC(2), Gregson J(5), Pocock SJ(5), Zannad F(6), McMurray 
+JJV(7).
+
+Author information:
+(1)BHF Cardiovascular Research Centre, University of Glasgow, Glasgow, United 
+Kingdom; National Institute of Health and Medical Research (INSERM), Center for 
+Clinical Multidisciplinary Research 1433, INSERM U1116, University of Lorraine, 
+Regional University Hospital of Nancy, French Clinical Research Infrastructure 
+Network (F-CRIN) Investigation Network Initiative-Cardiovascular and Renal 
+Clinical Trialists (INI-CRCT), Nancy, France.
+(2)BHF Cardiovascular Research Centre, University of Glasgow, Glasgow, United 
+Kingdom.
+(3)Heart Center, Department of Clinical and Experimental Cardiology, Amsterdam 
+Cardiovascular Sciences. Amsterdam University Medical Center, University of 
+Amsterdam, Amsterdam the Netherlands.
+(4)Cardiovascular Division, Brigham and Women's Hospital, Boston, Massachusetts, 
+USA.
+(5)Department of Biostatistics, London School of Hygiene and Tropical Medicine, 
+London, United Kingdom.
+(6)National Institute of Health and Medical Research (INSERM), Center for 
+Clinical Multidisciplinary Research 1433, INSERM U1116, University of Lorraine, 
+Regional University Hospital of Nancy, French Clinical Research Infrastructure 
+Network (F-CRIN) Investigation Network Initiative-Cardiovascular and Renal 
+Clinical Trialists (INI-CRCT), Nancy, France.
+(7)BHF Cardiovascular Research Centre, University of Glasgow, Glasgow, United 
+Kingdom. Electronic address: john.mcmurray@glasgow.ac.uk.
+
+Comment in
+    JACC Heart Fail. 2020 Dec;8(12):996-998.
+    JACC Heart Fail. 2021 Jun;9(6):467-468.
+
+OBJECTIVES: This study compared ways of describing treatment effects. The 
+objective was to better explain to clinicians and patients what they might 
+expect from a given treatment, not only in terms of relative and absolute risk 
+reduction, but also in projections of long-term survival.
+BACKGROUND: The restricted mean survival time (RMST) can be used to estimate of 
+long-term survival, providing a complementary approach to more conventional 
+metrics (e.g., absolute and relative risk), which may suggest greater benefits 
+of therapy in high-risk patients compared with low-risk patients.
+METHODS: Relative and absolute risk, as well as the RMST, were calculated in 
+heart failure with reduced ejection fraction (HFrEF) trials.
+RESULTS: As examples, in the RALES trial (more severe HFrEF), the treatment 
+effect metrics for spironolactone versus placebo on heart failure 
+hospitalization and/or cardiovascular death were a hazard ratio (HR) of 0.67 
+(95% confidence interval [CI]: 0.5 to 0.77), number needed to treat = 9 (7 to 
+14), and age extension of event-free survival +1.1 years (-0.1 to + 2.3 years). 
+The corresponding metrics for EMPHASIS-HF (eplerenone vs. placebo in less severe 
+HFrEF) were 0.64 (0.54 to 0.75), 14 (1 to 22), and +2.9 (1.2 to 4.5). In 
+patients in PARADIGM-HF aged younger than 65 years, the metrics for 
+sacubitril/valsartan versus enalapril were 0.77 (95% CI: 0.68 to 0.88), 23 (15 
+to 44), and +1.7 (0.6 to 2.8) years; for those aged 65 years or older, the 
+metrics were 0.83 (95% CI: 0.73 to 0.94), 29 (17 to 83), and +0.9 (0.2 to 1.6) 
+years, which provided evidence of a greater potential life extension in younger 
+patients. Similar observations were found for lower risk patients.
+CONCLUSIONS: RMST event-free (and overall) survival estimates provided a 
+complementary means of evaluating the effect of therapy in relation to age and 
+risk. They also provided a clinically useful metric that should be routinely 
+reported and used to explain the potential long-term benefits of a given 
+treatment, especially to younger and less symptomatic patients.
+
+Copyright © 2020 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jchf.2020.08.004
+PMCID: PMC7720789
+PMID: 33039448 [Indexed for MEDLINE]
+
+Conflict of interest statement: Author Disclosures Drs. Ferreira and Zannad are 
+supported by ANR-15-RHU-0004 and ANR-15-IDEX-04-LUE. Drs. Jhund, Petrie, and 
+McMurray are supported by the British Heart Foundation (grant RE/18/6/34217). 
+All other authors have reported that they have no relationships relevant to the 
+contents of this paper to disclose.
+
+
+249. Bone. 2021 Jan;142:115682. doi: 10.1016/j.bone.2020.115682. Epub 2020 Oct 9.
+
+Cost-effectiveness of treatment of women aged 70 years and older with both 
+osteopenia and microstructural deterioration.
+
+Liew D(1), Chapurlat RD(2), Sornay-Rendu E(2), Lespessailles E(3), Peng Y(4), 
+Seeman E(5).
+
+Author information:
+(1)Dept Social and Preventative Medicine, Alfred Hospital, Monash University, 
+Melbourne, Australia.
+(2)INSERM UMR 1033, Université de Lyon, Lyon 69437, France.
+(3)IPROS, Université d'Orléans, Orléans, France.
+(4)Straxcorp, 410 Collins St, Melbourne, Australia.
+(5)Dept Endocrinology and Medicine, Austin Health, University of Melbourne, 
+Melbourne, Australia. Electronic address: egos@unimelb.edu.au.
+
+OBJECTIVE: Treatment is usually withheld from women with osteopenia even though 
+they are the source of over 70% of all women having fragility fractures. As 
+microstructural deterioration increases fracture risk and zoledronate reduces 
+it, we aimed to determine whether identifying and treating women with osteopenia 
+and severe microstructural deterioration is cost-effective. We also compared the 
+health economic outcomes of 'global' versus 'targeted' treatment using SFS of 
+women aged ≥70 years with osteopenia.
+DESIGN: We assessed the cost-effectiveness from using a Markov model that 
+simulated 10-year follow up of women with osteopenia. Decision analysis compared 
+measurement of distal radial microstructure using high resolution peripheral 
+computed tomography (at a cost of USD $210) to target women with severe 
+microstructural deterioration for zoledronate treatment, compared to standard 
+care defined as measurement of bone mineral density (BMD) with treatment 
+recommended when femoral neck BMD T score is ≤-2.5 SD with or without a 
+prevalent fracture. In the 'global' treatment approach, high resolution 
+peripheral quantitative tomography (HRpQCT) was not undertaken.
+SETTING: US healthcare system.
+PARTICIPANTS: A hypothetical cohort of 1000 women aged ≥70 years with osteopenia 
+and no previous fractures was studied.
+MEASURES: Fractures, deaths, years of life lived, quality-adjusted life years 
+(QALYs) lived and costs. Data inputs were obtained from published sources. A 3% 
+annual discount rate was applied to future health benefits and costs.
+RESULTS: Women in the standard care group incurred 327 fractures during 
+7341.0 years and 4914.2 QALYs lived. Women in the intervention group incurred 
+300 fractures (number needed to treat 37) during 7359.2 years and 4928.8 QALYs 
+lived. Net costs were USD $4,862,669 and $4,952,004, respectively, equating to 
+18.1 years of life saved and 14.6 QALYs saved, and incremental 
+cost-effectiveness ratios of $4992 per year of life saved and $6135 per QALY 
+saved. These ratios are well within the threshold considered to be 
+cost-effective. Sensitivity analyses indicated the results were robust. Relative 
+to standard of care, 'global' and 'targeted' treatment respectively resulted in 
+0.0364 vs. 0.0181 years of life (YoLS) saved per person, and 0.0292 and 0.0146 
+QALYs saved per person. The net costs per person for the respective approaches 
+were $US 359 and $US 89. The incremental cost-effectiveness ratios were $9864 
+per YoLS and $12,290 per QALY saved for the 'global' approach and $4992 per YoLS 
+and $6135 per QALY saved for the 'targeted' approach.
+CONCLUSION: Identifying and treating women ≥70 years of age with osteopenia and 
+microstructural deterioration with zoledronate cost-effectively reduces the 
+morbidity and mortality imposed by fragility fractures. This 'targeted' approach 
+is more cost-effective than a 'global' approach and incurs only 25% of total 
+costs.
+IMPLICATION: Women with osteopenia with bone fragility due to microstructural 
+deterioration should be identified and targeted for treatment.
+SUMMARY: Women with osteopenia have 70% of fractures. Treating those with 
+microstructural deterioration conferred an incremental cost-effectiveness ratio 
+of $4992/year of life saved and $6135 per QALY saved.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bone.2020.115682
+PMID: 33039577 [Indexed for MEDLINE]
+
+
+250. BMJ Open. 2020 Oct 10;10(10):e036341. doi: 10.1136/bmjopen-2019-036341.
+
+Economic burden of cancers in Taiwan: a direct and indirect cost estimate for 
+2007-2017.
+
+Huang SY(1), Chen HM(1), Liao KH(2), Ko BS(3)(4), Hsiao FY(5)(2).
+
+Author information:
+(1)Graduate Institute of Clinical Pharmacy, College of Medicine, National Taiwan 
+University, Taipei, Taiwan.
+(2)Department of Pharmacy, National Taiwan University Hospital, Taipei, Taiwan.
+(3)Division of Hematology, Department of Internal Medicine, National Taiwan 
+University Hospital, Taipei, Taiwan.
+(4)Department of Hematological Oncology, National Taiwan University Cancer 
+Center, Taipei, Taiwan.
+(5)Graduate Institute of Clinical Pharmacy, College of Medicine, National Taiwan 
+University, Taipei, Taiwan fyshsiao@ntu.edu.tw.
+
+OBJECTIVE: Cancers result in significant economic burdens on patients, health 
+sectors and society. Reliable burden estimates will help guide resource 
+allocation. This study aimed to perform a nationwide cost analysis of the direct 
+and indirect costs of the top ten most costly cancers, and acute coronary 
+syndrome (ACS), as a comparison, in Taiwan.
+SETTING: A population-based cohort study.
+PARTICIPANTS: In total, 545 221 patients with newly diagnosed cancer (lung 
+cancer, female breast cancer, colorectal cancer, liver cancer, oral cancer, 
+leukaemia, prostate cancer, non-Hodgkin's lymphoma, gastric cancer and 
+oesophageal cancer) and 170 879 patients with ACS between 2007 and 2014 were 
+identified.
+PRIMARY AND SECONDARY OUTCOME MEASURES: Direct medical costs were calculated 
+from claims recorded in the National Health Insurance Research Database . 
+Indirect costs, comprising morbidity-associated and mortality-associated 
+productivity losses, were estimated from public life expectancy, average wage 
+and employment data. The costs incurred in the 3 years after diagnosis were 
+assessed. As a comparison, the cost of ACS was also estimated using the same 
+study frame. A cost driver analysis was conducted to identify factors impacting 
+cancer costs.
+RESULTS: The cancers with the highest mean direct medical costs and total costs 
+were leukaemia (US$28 464) and oesophageal cancer (US$81 775), respectively. 
+Indirect costs accounted for over 50% of the total economic burden of most 
+cancers, except for prostate cancer and female breast cancer. The costs of ACS 
+were lower than those of most cancers. From the cost driver analysis, older age 
+at diagnosis significantly (p<0.05) decreased the total cost of cancer; in 
+contrast, male, tumour metastasis, comorbidities and treatment in medical 
+centres increased the costs.
+CONCLUSIONS: This study demonstrates the comprehensive economic burden of the 
+top 10 most costly cancers in Taiwan. These results are valuable for optimising 
+healthcare resource allocation.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2019-036341
+PMCID: PMC7549455
+PMID: 33039986 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+251. BMJ Open. 2020 Oct 10;10(10):e036411. doi: 10.1136/bmjopen-2019-036411.
+
+Is an ounce of prevention worth a pound of cure? A cross-sectional study of the 
+impact of English public health grant on mortality and morbidity.
+
+Martin S(1), Lomas J(2), Claxton K(3).
+
+Author information:
+(1)Department of Economics and Related Studies, University of York, York, UK 
+sdm1@york.ac.uk.
+(2)Centre for Health Economics, University of York, York, UK.
+(3)Department of Economics and Related Studies, and Centre for Health Economics, 
+University of York, York, UK.
+
+OBJECTIVES: The UK government is proposing to cease cutting the local authority 
+public health grant by reallocating part of the treatment budget to preventative 
+activity. This study examines whether this proposal is evidenced based and, in 
+particular, whether these resources are best reallocated to prevention, or 
+whether this expenditure would generate more health gains if used for treatment.
+METHODS: Instrumental variable regression methods are applied to English local 
+authority data on mortality, healthcare and public health expenditure to 
+estimate the responsiveness of mortality to variations in healthcare and public 
+health expenditure in 2013/14. Using a well-established method, these mortality 
+results are converted to a quality-adjusted life year (QALY) basis, and this 
+facilitates the estimation of the cost per QALY for both National Health Service 
+(NHS) healthcare and local public health expenditure.
+RESULTS: Saving lives and improving the quality of life requires resources. Our 
+estimates suggest that each additional QALY costs about £3800 from the local 
+public health budget, and that each additional QALY from the NHS budget costs 
+about £13 500. These estimates can be used to calculate the number of QALYs 
+generated by a budget boost. If we err on the side of caution and use the most 
+conservative estimates that we have, then an additional £1 billion spent on 
+public health will generate 206 398 QALYs (95% CI 36 591 to 3 76 205 QALYs), and 
+an additional £1 billion spent on healthcare will generate 67 060 QALYs (95% CI 
+21 487 to 112 633 QALYs).
+CONCLUSIONS: Additional public health expenditure is very productive of health 
+and is more productive than additional NHS expenditure. However, both types of 
+expenditure are more productive of health than the norms used by National 
+Institute for Health and Care Excellence (£20 000-£30 000 per QALY) to judge 
+whether new therapeutic technologies are suitable for adoption by the NHS.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2019-036411
+PMCID: PMC7549458
+PMID: 33039987 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: All authors have completed 
+the Unified Competing Interest form (available on request from the corresponding 
+author) and declare: financial support from the National Institute for Health 
+Research Policy Research Programme for the submitted work; no financial 
+relationships with any organisations that might have an interest in the 
+submitted work in the previous 3 years; and no other relationships or activities 
+that could appear to have influenced the submitted work.
+
+
+252. Vascular. 2021 Aug;29(4):509-515. doi: 10.1177/1708538120962616. Epub 2020
+Oct  12.
+
+Hybrid endografts in 'wide neck' abdominal aortic aneurysm in patients unfit for 
+open surgery: The Funnel Technique - Case report and review of the literature.
+
+Amico A(1), Russo D(1), Franciosi FB(1), Musio D(1), de Prisco R(1), Celoria 
+G(1).
+
+Author information:
+(1)Department of Vascular Surgery, St. Andrea Hospital, La Spezia, Italy.
+
+OBJECTIVES: Abdominal aortic aneurysms with a wide proximal neck (>32 mm) are a 
+contraindication for the use of conventional abdominal endovascular stent grafts 
+because of their limited maximum proximal diameter (36 mm). In these cases, it 
+is customary to resort to sophisticated techniques such as parallel or 
+fenestrated grafts. In very selected cases, such as symptomatic wide neck 
+aneurysm or patient with limited life expectancy, Funnel Technique may find an 
+indication.
+METHODS: It consists in placing a bifurcated endograft in the abdominal aorta 
+embricated with a thoracic endograft as a proximal cuff in an infrarenal 
+position.
+RESULTS: In the literature review, we found 32 cases of this technique, whose 
+characteristics are collected in a table.
+CONCLUSION: The Funnel Technique, taking advantage of the larger diameters of 
+the thoracic prostheses, may easily treat abdominal aortic aneurysm cases with a 
+wide neck.
+
+DOI: 10.1177/1708538120962616
+PMID: 33040696 [Indexed for MEDLINE]
+
+
+253. Aging (Albany NY). 2020 Oct 11;12(19):18957-18969. doi:
+10.18632/aging.103908.  Epub 2020 Oct 11.
+
+Evaluation of beneficial effect of a dual-task exercise based on Japanese 
+transitional games in older adults: a pilot study.
+
+Yoon J(1), Isoda H(1)(2)(3), Okura T(1)(4).
+
+Author information:
+(1)R&amp;D Center for Tailor-Made QOL, University of Tsukuba, Tsukuba, Ibaraki, 
+Japan.
+(2)Alliance for Research on the Mediterranean and North Africa (ARENA), 
+University of Tsukuba, Tsukuba, Ibaraki, Japan.
+(3)Faculty of Life and Environmental Sciences, University of Tsukuba, Tsukuba, 
+Ibaraki, Japan.
+(4)Faculty of Health and Sport Science, University of Tsukuba, Tsukuba, Ibaraki, 
+Japan.
+
+Not only does Japan has the world's longest healthy life expectancy, but also 
+the world's longest average life span. This study investigated the effect of a 
+novel dual-task (DT) exercise called "Synapsology" (SYNAP), developed as a 
+game-like activity to improve older adults' physical and cognitive functions. 
+Participants (n=24) with a mean age of 70.6 years (65-77 years) were randomly 
+assigned to the SYNAP exercise group (SG, n=15) and the control group (CG, n=9). 
+The SG participated in the DT intervention consisting of 60-minute sessions, 
+twice a week, for 8 weeks. Physical function in timed-up-and-go had significant 
+pre- and post- trial differences (P=0.017) in SG. In addition, cognitive 
+function results in the a 25-hole trail-making peg test (P=0.004) and an 
+oxidative stress marker (P=0.039) had a statistically significant difference 
+within the SG. However, there were no significant differences in the physical 
+and cognitive functions between SG and CG. In the study, older adults who 
+participated in cognitive-motor DT intervention improved significantly with 
+regard to motor ability and cognitive function results. Thus, a game-like DT 
+exercise may help maintain the healthy life of older adults compared to no 
+intervention.
+
+DOI: 10.18632/aging.103908
+PMCID: PMC7732331
+PMID: 33041263
+
+Conflict of interest statement: CONFLICTS OF INTEREST: The authors declare that 
+there are no conflicts of interest.
+
+
+254. Genet Med. 2021 Mar;23(3):461-470. doi: 10.1038/s41436-020-00995-w. Epub
+2020  Oct 12.
+
+A model-based cost-effectiveness analysis of pharmacogenomic panel testing in 
+cardiovascular disease management: preemptive, reactive, or none?
+
+Zhu Y(1)(2), Moriarty JP(1), Swanson KM(1), Takahashi PY(3), Bielinski SJ(4), 
+Weinshilboum R(5), Wang L(5), Borah BJ(6)(7).
+
+Author information:
+(1)Robert D. and Patricia E. Kern Center for the Science of Health Care 
+Delivery, Mayo Clinic, Rochester, MN, USA.
+(2)Division of Health Care Policy and Research, Department of Health Sciences 
+Research, Mayo Clinic, Rochester, MN, USA.
+(3)Division of Community Internal Medicine, Department of Internal Medicine, 
+Mayo Clinic, Rochester, MN, USA.
+(4)Division of Epidemiology, Department of Health Sciences Research, Mayo 
+Clinic, Rochester, MN, USA.
+(5)Division of Clinical Pharmacology, Department of Molecular Pharmacology and 
+Experimental Therapeutics, Mayo Clinic, Rochester, MN, USA.
+(6)Robert D. and Patricia E. Kern Center for the Science of Health Care 
+Delivery, Mayo Clinic, Rochester, MN, USA. Borah.Bijan@mayo.edu.
+(7)Division of Health Care Policy and Research, Department of Health Sciences 
+Research, Mayo Clinic, Rochester, MN, USA. Borah.Bijan@mayo.edu.
+
+PURPOSE: Pharmacogenomics (PGx) studies how inherited genetic variations in 
+individuals affect drug absorption, distribution, and metabolism. PGx panel 
+testing can potentially help improve efficiency and accuracy in individualizing 
+therapy. This study compared the cost-effectiveness between preemptive PGx panel 
+testing, reactive PGx panel testing and usual care (no testing) in 
+cardiovascular disease management.
+METHODS: We developed a decision analytic model from the US payer's perspective 
+for a hypothetical cohort of 10,000 patients ≥45 years old, using a short-term 
+decision tree and long-term Markov model. The testing panel included the 
+following gene-drug pairs: CYP2C19-clopidogrel, CYP2C9/VKORC1-warfarin, and 
+SLCO1B1-statins with 30 test-return days. Costs were reported in 2019 US dollars 
+and effectiveness was measured in quality-adjusted life years (QALYs). The 
+primary outcome was incremental cost-effectiveness ratio (ICER = ΔCost/ΔQALY), 
+assuming 3% discount rate for costs and QALYs. Scenario and probabilistic 
+sensitivity analyses were performed to assess the impact of demographics, risk 
+level, and follow-up timeframe.
+RESULTS: Preemptive testing was found to be cost-effective compared with usual 
+care (ICER $86,227/QALY) at the willingness-to-pay threshold of $100,000/QALY 
+while reactive testing was not (ICER $148,726/QALY). Sensitivity analyses 
+suggested that our cost-effectiveness results were sensitive to longer 
+follow-up, and the age group 45-64 years.
+CONCLUSION: Compared with usual care, preemptive PGx panel testing was 
+cost-effective in cardiovascular disease management.
+
+DOI: 10.1038/s41436-020-00995-w
+PMCID: PMC7935716
+PMID: 33041335 [Indexed for MEDLINE]
+
+Conflict of interest statement: R.W. and L.W. are cofounders of and stockholders 
+in OneOme LLC, a pharmacogenomic decision support company. The other authors 
+declare no conflicts of interest.
+
+
+255. Cost Eff Resour Alloc. 2020 Oct 6;18:41. doi: 10.1186/s12962-020-00234-8. 
+eCollection 2020.
+
+Cost effectiveness of nusinersen for patients with infantile-onset spinal 
+muscular atrophy in US.
+
+Thokala P(1), Stevenson M(1), Kumar VM(2), Ren S(1), Ellis AG(2), Chapman RH(3).
+
+Author information:
+(1)School of Health and Related Research, University of Sheffield, Sheffield, 
+UK.
+(2)Previously At Institute for Clinical and Economic Review (ICER), Boston, MA 
+USA.
+(3)Institute for Clinical and Economic Review (ICER), Boston, MA USA.
+
+BACKGROUND: Patients with infantile-onset spinal muscular atrophy (SMA), a rare, 
+genetic neuromuscular disease, do not achieve key motor function milestones 
+(e.g., sitting) and have short life expectancy in the absence of treatment. 
+Nusinersen is a disease-modifying therapy for patients with SMA.
+OBJECTIVE: The aim of this study was to estimate the cost-effectiveness of 
+nusinersen compared to best supportive care (BSC) in patients diagnosed with 
+infantile-onset SMA in the US.
+METHODS: A de novo economic model was developed with the following health 
+states: "permanent ventilation", "not sitting", "sitting", "walking", and 
+"death". Short-term data were sourced from the pivotal clinical trials and 
+studies of nusinersen (ENDEAR and SHINE). Motor function milestones achieved at 
+the end of follow-up in the clinical trials were assumed to be sustained until 
+death. Mortality risks were based on survival modelling of relevant published 
+Kaplan-Meier data. Costs, life years (LYs), and quality-adjusted life years 
+(QALYs) were discounted at 3% per annum, and the analyses were performed from a 
+US health care sector perspective. Scenario analyses and sensitivity analyses 
+were conducted to assess the robustness of the results to key parameters.
+RESULTS: In our base-case analysis, nusinersen treatment achieves greater QALYs 
+and more LYs (3.24 and 7.64, respectively) compared with BSC (0.46 QALYs and 
+2.40 LYs, respectively), resulting in an incremental cost per QALY gained of 
+approximately $1,112,000 and an incremental cost per LY gained of $590,000 for 
+nusinersen compared to BSC. The incremental cost effectiveness ratios did not 
+fall below $990,000 per QALY gained in scenario and sensitivity analyses. 
+Results were most sensitive to the length of survival, background health care 
+costs, and utility in the "not sitting" and "sitting" health states.
+CONCLUSIONS: The estimated incremental cost-effectiveness of nusinersen from a 
+US health care sector perspective exceeded traditional cost-effectiveness 
+thresholds. Cost-effectiveness was dependent on assumptions made regarding 
+survival, costs, utilities, and whether the motor function milestones were 
+sustained over lifetime. Given the relatively short-term effectiveness data 
+available for the treatment, a registry to collect long-term data of 
+infantile-onset SMA patients is recommended.
+
+© The Author(s) 2020.
+
+DOI: 10.1186/s12962-020-00234-8
+PMCID: PMC7539471
+PMID: 33041673
+
+Conflict of interest statement: Competing interestsPT and MS received funding 
+from ICER for this project. VMK, AGE, RHC were employed by ICER during the time 
+this work was conducted.
+
+
+256. Eur J Neurol. 2021 Feb;28(2):717-725. doi: 10.1111/ene.14583. Epub 2020 Nov
+18.
+
+Value of treatment by comprehensive stroke services for the reduction of 
+critical gaps in acute stroke care in Europe.
+
+Webb AJS(1), Fonseca AC(2), Berge E(3), Randall G(4), Fazekas F(5), Norrving 

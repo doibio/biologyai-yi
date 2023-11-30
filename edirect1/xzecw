@@ -1,0 +1,1000 @@
+efgartigimod alfa provided consistent clinically meaningful improvements in 
+patients with gMG. Efgartigimod alfa was generally well tolerated, with most 
+adverse events being mild to moderate in severity.
+
+Plain Language Summary: Generalised myasthenia gravis (gMG) is a chronic, 
+autoimmune neuromuscular disorder that can significantly impair quality of life. 
+Several novel targeted therapeutic approaches have emerged to provide faster 
+onset of action compared with conventional immunosuppressive therapy, favourable 
+tolerability profile and the potential for a sustained disease control for 
+patients with gMG. Intravenous efgartigimod alfa (also known as efgartigimod 
+alfa-fcab in the USA; Vyvgart®) is the first neonatal Fc receptor antagonist 
+approved in several countries worldwide, including the USA and EU for the 
+treatment of gMG in adults who are anti-acetylcholine receptor (AChR) antibody 
+positive, and in Japan for the treatment of gMG regardless of antibody status. 
+In the pivotal clinical trial in patients with gMG, efgartigimod alfa rapidly 
+reduced disease burden and improved muscle strength and quality of life. The 
+beneficial effects of efgartigimod alfa occurred early and were durable and 
+reproducible. Longer term, efgartigimod alfa provided consistent clinically 
+meaningful improvements in patients with gMG. Efgartigimod alfa is generally 
+well tolerated, with most adverse events being mild to moderate in severity. 
+Thus, efgartigimod alfa is a novel, effective and generally well-tolerated 
+treatment option for patients with gMG.
+
+© 2023. Springer Nature.
+
+DOI: 10.1007/s40263-023-01000-z
+PMCID: PMC10212825
+PMID: 37000339 [Indexed for MEDLINE]
+
+Conflict of interest statement: Young-A Heo is a salaried employee of Adis 
+International Ltd/Springer Nature, and declares no relevant conflicts of 
+interest. All authors contributed to the review and are responsible for the 
+article content.
+
+
+629. J Med Internet Res. 2023 Mar 31;25:e44248. doi: 10.2196/44248.
+
+Artificial Intelligence for the Prediction and Early Diagnosis of Pancreatic 
+Cancer: Scoping Review.
+
+Jan Z(1), El Assadi F(1), Abd-Alrazaq A(2), Jithesh PV(1).
+
+Author information:
+(1)College of Health & Life Sciences, Hamad Bin Khalifa University, Doha, Qatar.
+(2)AI Center for Precision Health, Weill Cornell Medicine-Qatar, Doha, Qatar.
+
+BACKGROUND: Pancreatic cancer is the 12th most common cancer worldwide, with an 
+overall survival rate of 4.9%. Early diagnosis of pancreatic cancer is essential 
+for timely treatment and survival. Artificial intelligence (AI) provides 
+advanced models and algorithms for better diagnosis of pancreatic cancer.
+OBJECTIVE: This study aims to explore AI models used for the prediction and 
+early diagnosis of pancreatic cancers as reported in the literature.
+METHODS: A scoping review was conducted and reported in line with the PRISMA-ScR 
+(Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension 
+for Scoping Reviews) guidelines. PubMed, Google Scholar, Science Direct, 
+BioRXiv, and MedRxiv were explored to identify relevant articles. Study 
+selection and data extraction were independently conducted by 2 reviewers. Data 
+extracted from the included studies were synthesized narratively.
+RESULTS: Of the 1185 publications, 30 studies were included in the scoping 
+review. The included articles reported the use of AI for 6 different purposes. 
+Of these included articles, AI techniques were mostly used for the diagnosis of 
+pancreatic cancer (14/30, 47%). Radiological images (14/30, 47%) were the most 
+frequently used data in the included articles. Most of the included articles 
+used data sets with a size of <1000 samples (11/30, 37%). Deep learning models 
+were the most prominent branch of AI used for pancreatic cancer diagnosis in the 
+studies, and the convolutional neural network was the most used algorithm 
+(18/30, 60%). Six validation approaches were used in the included studies, of 
+which the most frequently used approaches were k-fold cross-validation (10/30, 
+33%) and external validation (10/30, 33%). A higher level of accuracy (99%) was 
+found in studies that used support vector machine, decision trees, and k-means 
+clustering algorithms.
+CONCLUSIONS: This review presents an overview of studies based on AI models and 
+algorithms used to predict and diagnose pancreatic cancer patients. AI is 
+expected to play a vital role in advancing pancreatic cancer prediction and 
+diagnosis. Further research is required to provide data that support clinical 
+decisions in health care.
+
+©Zainab Jan, Farah El Assadi, Alaa Abd-alrazaq, Puthen Veettil Jithesh. 
+Originally published in the Journal of Medical Internet Research 
+(https://www.jmir.org), 31.03.2023.
+
+DOI: 10.2196/44248
+PMCID: PMC10131763
+PMID: 37000507 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: None declared.
+
+
+630. PLoS One. 2023 Mar 31;18(3):e0282606. doi: 10.1371/journal.pone.0282606. 
+eCollection 2023.
+
+Comparing the salinity tolerance of twenty different wheat genotypes on the 
+basis of their physiological and biochemical parameters under NaCl stress.
+
+Masarmi AG(1), Solouki M(2), Fakheri B(2), Kalaji HM(3)(4), Mahgdingad N(2), 
+Golkari S(5), Telesiński A(6), Lamlom SF(7), Kociel H(8), Yousef AF(9).
+
+Author information:
+(1)Plant Breeding- Genetic Biometric, University of Zabol, Zabol, Iran.
+(2)Faculty of Agriculture, Department of Plant Breeding and Biotechnology, 
+University of Zabol, Zabol, Iran.
+(3)Department of Plant Physiology, Institute of Biology, Warsaw University of 
+Life Sciences SGGW, Warsaw, Poland.
+(4)Institute of Technology and Life Sciences-National Research Institute, 
+Raszyn, Poland.
+(5)Agriculture Research, Education and Extension Organization (AREEO), Dryland 
+Agriculture Research Institute (DARI), Maragheh, Iran.
+(6)Department of Bioengineering, West Pomeranian University of Technology in 
+Szczecin, Szczecin, Poland.
+(7)Faculty of Agriculture Saba Basha, Plant Production Department, Alexandria 
+University, Alexandria, Egypt.
+(8)Firma Usługowa Ogród, Maria Kociel, Łuków, Poland.
+(9)Department of Horticulture, College of Agriculture, University of Al-Azhar 
+(Branch Assiut), Assiut, Egypt.
+
+The climate has drastically changed over the past two decades. Rising 
+temperatures and climate change may lead to increased evapotranspiration, 
+specifically soil evaporation, causing water to evaporate and salt to accumulate 
+in the soil, resulting in increased soil salinity. As a result, there is a need 
+to evaluate methods for predicting and monitoring the effects of salinity on 
+crop growth and production through rapid screening. Our study was conducted on 
+20 wheat genotypes, 10 sensitive and 10 tolerant, exposed to two salinity levels 
+(90 and 120 mM NaCl) with the control under greenhouse conditions. Our results 
+revealed significant differences in the genotypes' response to salinity. Salt 
+stress decreased chlorophyll index in sensitive genotypes but increased 
+chlorophyll a and carotenoids in tolerant genotypes at 90 mM. Salt stress also 
+increased protein, proline, lipoxygenase, and reactive thiobarbituric acid 
+levels in all wheat genotypes. The study suggests that plant photosynthetic 
+efficiency is a reliable, non-destructive biomarker for determining the salt 
+tolerance of wheat genotypes, while other biochemical traits are destructive and 
+time-consuming and therefore not suitable for rapid screening.
+
+Copyright: © 2023 Masarmi et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0282606
+PMCID: PMC10065278
+PMID: 37000787 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+631. Eur J Radiol. 2023 May;162:110799. doi: 10.1016/j.ejrad.2023.110799. Epub
+2023  Mar 27.
+
+Subclassification of the Koos grade 2 vestibular schwannoma into 2a and 2b for 
+individualized patient care: A validity and reliability study.
+
+Pruijn IMJ(1), Waterval JJ(2), Ter Laan M(3), Temel Y(4), Pegge SAH(5), Postma 
+AA(6), Verheul JB(7), Eekers DBP(8), Kievit W(9), Kunst HPM(10).
+
+Author information:
+(1)Radboud Institute for Health Sciences, Department of Otorhinolaryngology, 
+Radboud University Medical Center, Nijmegen, The Netherlands; Dutch Academic 
+Alliance Skull Base Pathology, Radboud University Medical Center, Maastricht 
+University Medical Center+, Nijmegen/Maastricht, The Netherlands. Electronic 
+address: Ineke.Pruijn@radboudumc.nl.
+(2)Dutch Academic Alliance Skull Base Pathology, Radboud University Medical 
+Center, Maastricht University Medical Center+, Nijmegen/Maastricht, The 
+Netherlands; Department of Otorhinolaryngology, Maastricht University Medical 
+Center, Maastricht, The Netherlands.
+(3)Dutch Academic Alliance Skull Base Pathology, Radboud University Medical 
+Center, Maastricht University Medical Center+, Nijmegen/Maastricht, The 
+Netherlands; Radboud Institute for Health Sciences, Department of Neurosurgery, 
+Radboud University Medical Center, Nijmegen, The Netherlands.
+(4)Dutch Academic Alliance Skull Base Pathology, Radboud University Medical 
+Center, Maastricht University Medical Center+, Nijmegen/Maastricht, The 
+Netherlands; Department of Neurosurgery, Maastricht University Medical Center, 
+Maastricht, The Netherlands.
+(5)Dutch Academic Alliance Skull Base Pathology, Radboud University Medical 
+Center, Maastricht University Medical Center+, Nijmegen/Maastricht, The 
+Netherlands; Radboud Institute for Health Sciences, Department of Medical 
+Imaging, Radboud University Medical Center, Nijmegen, The Netherlands.
+(6)Dutch Academic Alliance Skull Base Pathology, Radboud University Medical 
+Center, Maastricht University Medical Center+, Nijmegen/Maastricht, The 
+Netherlands; Department of Radiology and Nuclear Medicine, Maastricht University 
+Medical Center, Maastricht, the Netherlands; School of Mental Health and 
+Sciences, University Maastricht, Maastricht, The Netherlands.
+(7)Gamma Knife Center, Department of Neurosurgery, ETZ Hospital, Tilburg, The 
+Netherlands.
+(8)Dutch Academic Alliance Skull Base Pathology, Radboud University Medical 
+Center, Maastricht University Medical Center+, Nijmegen/Maastricht, The 
+Netherlands; Department of Radiation Oncology (MAASTRO), GROW - School for 
+Oncology and Developmental Biology, Maastricht University Medical Centre, The 
+Netherlands.
+(9)Radboud Institute for Health Sciences, Department of Health Evidence, Radboud 
+University Medical Center, Nijmegen, The Netherlands.
+(10)Radboud Institute for Health Sciences, Department of Otorhinolaryngology, 
+Radboud University Medical Center, Nijmegen, The Netherlands; Dutch Academic 
+Alliance Skull Base Pathology, Radboud University Medical Center, Maastricht 
+University Medical Center+, Nijmegen/Maastricht, The Netherlands; Department of 
+Otorhinolaryngology, Maastricht University Medical Center, Maastricht, The 
+Netherlands.
+
+OBJECTIVE: Vestibular schwannoma (VS) growth of ≥2 mm during serial MRI 
+observation, irrespective of size, is the benchmark for treatment initiation in 
+almost all centers. Although the probability of less optimal outcomes 
+significantly increases in VS closer to the brainstem, early intervention does 
+not improve long-term quality of life. Moving beyond the recommendation of 
+definitive treatment for all VS after detected growth, we subclassified Koos 2 
+tumors based on extrameatal extension and relation to the brainstem. The aim of 
+the current study was to evaluate the Koos 2 subclassification's validity and 
+the inter-and intra-rater reliability of the entire Koos classification.
+METHODS: Six experts, including neurosurgeons, otorhinolaryngologists and 
+radiologists from two tertiary referral centers, classified 43 VS MRI scans. 
+Validity of the Koos 2 subclassification was evaluated by the percentage 
+agreement against the multidisciplinary skull base tumor board management 
+advice. Inter- and intra-rater reliability were calculated using the intraclass 
+correlation coefficient (ICC).
+RESULTS: Validity was almost perfect in Koos 2a VSs with a 100% agreement and 
+87.5% agreement for Koos 2b. Inter-rater reliability for all Koos grades was 
+significantly excellent (ICC 0.91; 95%CI 0.866 to 0.944, p= <0.001). Five raters 
+had an excellent intra-rater reliability (ICC > 0.90; p= <0.01) and one rater 
+had a good intra-rater reliability (ICC 0.88; 95% CI 0.742 to 0.949).
+CONCLUSIONS: Although multiple factors influence decision-making, the 
+classification of Koos 2a and 2b with excellent inter- and intra-rater 
+reliability, can aid in recommending treatment initiation, moving beyond 
+detected tumor growth, aiming to optimize patient centered care.
+
+Copyright © 2023 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ejrad.2023.110799
+PMID: 37001257 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+632. Adv Healthc Mater. 2023 Aug;12(20):e2203132. doi: 10.1002/adhm.202203132.
+Epub  2023 Apr 19.
+
+Crocetin Regulates Functions of Neural Stem Cells to Generate New Neurons for 
+Cerebral Ischemia Recovery.
+
+Liu Z(1), Wang Z(1), Zhu Z(2)(3), Hong J(2)(3), Cui L(2)(3), Hao Y(2)(3), Cheng 
+G(2)(3), Tan R(1).
+
+Author information:
+(1)College of Life Science and Engineering, Southwest Jiaotong University, 
+Chengdu, 610031, China.
+(2)School of Nano-Tech and Nano-Bionics, University of Science and Technology of 
+China, Hefei, Anhui, 230026, China.
+(3)CAS Key Laboratory of Nano-Bio Interface, Suzhou Institute of Nano-Tech and 
+Nano Bionics, Chinese Academy of Sciences, Suzhou, Jiangsu, 215123, China.
+
+Many neurons undergo apoptosis after ischemic stroke. In the brain, neurogenesis 
+has the potential for neuronal replacement and can be activated by external 
+conditions to repair the injury. Crocetin (CRO), naturally extracted from the 
+plant saffron, acts as a neuroprotective agent for ischemic stroke. However, the 
+underlying mechanism remains unknown. In this work, the effect of CRO on neural 
+stem cell (NSC) behaviors and subventricular zone neurogenesis is investigated. 
+Initially, NSCs are incubated with different concentrations of CRO to detect the 
+cell proliferation and differentiation in vitro. Second, ischemic stroke induced 
+rats are treated with CRO using nimodipine (NMDP) as a comparison. The 
+behavioral functions, infarcted volume, and apoptotic Nissl bodies of rats are 
+noticeably improved after CRO-treatment, comparable to those of NMDP. In 
+addition, the increased regional cerebral blood flow and promoted neuronal 
+differentiation are achieved by CRO-treatment. Brain tissue examination shows 
+significantly increased neuronal regeneration in the focal ischemic injury area. 
+Meanwhile, the length of neurites is prolonged, indicating that CRO could 
+potentially promote neurite extension to enhance cell-cell communication. These 
+findings demonstrate that CRO facilitated the neuronal differentiation of NSCs 
+by activating subventricular zone neurogenesis in damaged cortex and striatum 
+sites to repair ischemic stroke.
+
+© 2023 Wiley-VCH GmbH.
+
+DOI: 10.1002/adhm.202203132
+PMID: 37001492 [Indexed for MEDLINE]
+
+
+633. Curr Microbiol. 2023 Apr 1;80(5):158. doi: 10.1007/s00284-023-03275-3.
+
+Evaluation of Antimicrobial Effect of Silver Nanoparticle Based Whey Emulsions 
+and Edible Films for the Extension of Shelf Life of Fruits and Vegetables.
+
+Rasheed S(1), Amin A(2), Sarwar A(3), Saleem HGM(4), Hassan A(5).
+
+Author information:
+(1)Department of Microbiology, Faculty of Science and Technology, University of 
+Central Punjab, Lahore, 54000, Pakistan.
+(2)Department of Microbiology, Faculty of Science and Technology, University of 
+Central Punjab, Lahore, 54000, Pakistan. aatif.amin@ucp.edu.pk.
+(3)Department of Plant Pathology, North Dakota State University, Fargo, ND, USA.
+(4)Department of Medical Laboratory Technology, College of Rehabilitation and 
+Allied Health Sciences, Riphah International University, 28-M Quaid-e-Azam, 
+Industrial Estate Kot Lakhpat, Lahore, 54000, Pakistan.
+(5)Food and Biotechnology Research Centre, Laboratories Complex, Pakistan 
+Council of Scientific and Industrial Research (PCSIR), Ferozepur Road, Lahore, 
+54600, Pakistan.
+
+The purpose of this study was to develop and assess the antimicrobial properties 
+of silver nanoparticles (AgNPs)-based whey emulsions and edible films for 
+extending the shelf life of fruits and vegetables. The AgNPs were synthesized 
+using a biological method, and their morphological and topographical 
+characteristics were evaluated using scanning electron microscopy (SEM). The 
+AgNPs were incorporated into the emulsions and films to increase their 
+antimicrobial efficacy. Bacterial and fungal strains were identified by DNA 
+regions, including 16S and 18S rRNA, TEF-1α, and RPB2 to evaluate antimicrobial 
+activity. AgNPs-based emulsions and films were used to extend the shelf life of 
+fruits and vegetables for up to 15 days. The results showed that the use of 
+AgNPs in the coated samples significantly increased their effectiveness against 
+bacterial and fungal strains. SEM analysis revealed the presence of AgNPs of 
+varying sizes, ranging from 21 to 62 nm. The zones of inhibition were measured 
+against Staphylococcus aureus, Escherichia coli, Salmonella enterica, 
+Aspergillus flavus, Aspergillus tamari, and Aspergillus niger. The total viable 
+count (log cfu/ml) decreased from 6.423 in the control group to 3.301 in the 
+treated samples. The antioxidant activity of the treated fruits and vegetables 
+was also significantly improved, with values of 56.12, 23.36, 26.10, 7.6, 36.04, 
+and 33.81% for strawberry, taro root, guava, peas, green chili, and carrot, 
+respectively (p < 0.05). The AgNPs-based whey protein emulsions were found to 
+exhibit the highest antimicrobial activity and are therefore a promising 
+approach to extend the shelf life of fruits and vegetables.
+
+© 2023. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s00284-023-03275-3
+PMID: 37002374 [Indexed for MEDLINE]
+
+
+634. Schizophr Bull. 2023 Jul 4;49(4):833-835. doi: 10.1093/schbul/sbad037.
+
+Pharmacological Interventions for the Prevention of Antipsychotic-Induced Weight 
+Gain in People With Schizophrenia: A Cochrane Systematic Review and 
+Meta-Analysis.
+
+Agarwal SM(1)(2)(3)(4), Stogios N(1)(2), Faulkner GEJ(5), Hahn M(1)(2)(3)(4).
+
+Author information:
+(1)Complex Care and Recovery, Centre for Addiction and Mental Health, Toronto, 
+Canada.
+(2)Institute of Medical Science, Temerty Faculty of Medicine, University of 
+Toronto, TorontoCanada.
+(3)Department of Psychiatry, Temerty Faculty of Medicine, University of Toronto, 
+Toronto, Canada.
+(4)Banting and Best Diabetes Institute, University of Toronto, Toronto, Canada.
+(5)School of Kinesiology, University of British Columbia, Vancouver, Canada.
+
+Patients with schizophrenia are burdened by higher rates of obesity, 
+cardiovascular disease and reduced life expectancy than the general population. 
+In addition to illness, genetic and lifestyle factors, the associated weight 
+gain and metabolic adverse effects of antipsychotic (AP) medications are known 
+to exacerbate and accelerate these cardiometabolic problems significantly. Given 
+the detrimental consequences of weight gain and other metabolic disturbances, 
+there is an urgent need for safe and effective strategies to manage these issues 
+as early on as possible. This review summarizes the literature of adjunctive 
+pharmacological interventions aimed at preventing AP-induced weight gain.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of the 
+Maryland Psychiatric Research Center. All rights reserved. For permissions, 
+please email: journals.permissions@oup.com.
+
+DOI: 10.1093/schbul/sbad037
+PMCID: PMC10318865
+PMID: 37002951 [Indexed for MEDLINE]
+
+Conflict of interest statement: MH has consultant fees from Alkermes, Inc. 
+However, she declares that she did not receive any direct payment for completion 
+of this review. All other funding details and conflicts of interest can be found 
+in the main Cochrane report.
+
+
+635. J Nutr. 2023 Jun;153(6):1730-1741. doi: 10.1016/j.tjnut.2023.03.031. Epub
+2023  Mar 30.
+
+Global Burden of Cardiovascular Disease from 1990 to 2019 Attributable to 
+Dietary Factors.
+
+Zhang B(1), Pu L(2), Zhao T(1), Wang L(3), Shu C(4), Xu S(5), Sun J(6), Zhang 
+R(7), Han L(8).
+
+Author information:
+(1)Department of Global Health, Ningbo Institute of Life and Health Industry, 
+University of Chinese Academy of Sciences, Ningbo, Zhejiang, China.
+(2)Hwa Mei Hospital, Key Laboratory of Diagnosis and Treatment of Digestive 
+System Tumors of Zhejiang Province, University of Chinese Academy of Sciences, 
+Ningbo, Zhejiang, China.
+(3)Department of Medical Statistics and Epidemiology, School of Public Health, 
+Sun Yat-sen University, Guangzhou, China.
+(4)Tianjin Cerebral Vascular and Neural Degenerative Disease Key Laboratory, 
+Tianjin Neurosurgery Institute, Tianjin Huanhu Hospital, Tianjin, China.
+(5)Shenzhen Nanshan Center for Chronic Disease Control, Shenzhen, Guangdong, 
+China.
+(6)School of Medicine, Griffith University, Gold Coast Campus, Gold Coast, 
+Queensland Q4222, Australia.
+(7)Department of Global Health, Ningbo Institute of Life and Health Industry, 
+University of Chinese Academy of Sciences, Ningbo, Zhejiang, China; Hwa Mei 
+Hospital, Key Laboratory of Diagnosis and Treatment of Digestive System Tumors 
+of Zhejiang Province, University of Chinese Academy of Sciences, Ningbo, 
+Zhejiang, China.
+(8)Department of Global Health, Ningbo Institute of Life and Health Industry, 
+University of Chinese Academy of Sciences, Ningbo, Zhejiang, China; Hwa Mei 
+Hospital, Key Laboratory of Diagnosis and Treatment of Digestive System Tumors 
+of Zhejiang Province, University of Chinese Academy of Sciences, Ningbo, 
+Zhejiang, China. Electronic address: hanliyuan@ucas.ac.cn.
+
+BACKGROUND: Although dietary factors play a crucial role in the incidence of 
+cardiovascular disease (CVD), the specific dietary risk factors vary across 
+regions and require further investigation.
+OBJECTIVE: We aimed to analyze the burden of CVD due to different dietary 
+factors by sex, age, and sociodemographic index (SDI) for 204 countries and 
+territories between 1990 and 2019.
+METHODS: Data were extracted from the Global Burden of Disease 2019 and analyzed 
+to determine population attributable fractions (PAFs), mortality, 
+disability-adjusted life years (DALYs), and trends thereof, for CVDs 
+attributable to dietary risk factors from 1990 to 2019. We used a generalized 
+linear model with a Gaussian distribution to calculate the estimated annual 
+percentage changes (EAPCs) in CVD mortality and DALY rates attributable to 
+dietary risk factors. We also used a comparative risk-assessment framework to 
+estimate CVD mortality and DALYs attributable to dietary risk factors.
+RESULTS: Approximately 40% of CVD mortality and DALY rates were attributable to 
+dietary risk factors, with high-sodium intake, low whole grain intake, and low 
+legume intake being the greatest dietary risk factors globally. Moreover, high 
+SDI regions had the highest PAFs for CVD mortality and DALYs associated with 
+high red and processed meat intake, middle SDI regions had the highest PAFs with 
+high-sodium intake, and low SDI regions had the highest PAFs with low fruit and 
+vegetable intake. The highest PAFs for CVD mortality and DALYs were associated 
+with low whole grain intake in 13 and 9 regions, respectively.
+CONCLUSION: Reducing sodium intake and increasing whole grain and legume intake 
+should be the top priority worldwide for improving regional diets and thereby 
+decreasing CVD burdens. Other priorities should be set for regions with 
+different SDIs, depending on the predominant dietary risk factors for CVDs in 
+the respective regions.
+
+Copyright © 2023 American Society for Nutrition. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1016/j.tjnut.2023.03.031
+PMID: 37003507 [Indexed for MEDLINE]
+
+
+636. Global Health. 2023 Mar 31;19(1):23. doi: 10.1186/s12992-023-00922-z.
+
+Global burden of hepatitis B attributable to modifiable risk factors from 1990 
+to 2019: a growing contribution and its association with socioeconomic status.
+
+Wang M(1)(2), Yan L(3), Wang J(4), Jin Y(5)(6), Zheng ZJ(1)(2).
+
+Author information:
+(1)Department of Global Health, School of Public Health, Peking University, 38 
+Xue Yuan Road, Haidian District, Beijing, 100191, China.
+(2)Institute for Global Health and Development, Peking University, Beijing, 
+China.
+(3)Key Laboratory of Carcinogenesis and Translational Research (Ministry of 
+Education/Beijing), Department of Hepato-Pancreato-Biliary Surgery, Peking 
+University Cancer Hospital and Institute, Beijing, China.
+(4)Key Laboratory of Carcinogenesis and Translational Research (Ministry of 
+Education/Beijing), Peking University Cancer Hospital & Institute, Beijing, 
+China.
+(5)Department of Global Health, School of Public Health, Peking University, 38 
+Xue Yuan Road, Haidian District, Beijing, 100191, China. yzjin@bjmu.edu.cn.
+(6)Institute for Global Health and Development, Peking University, Beijing, 
+China. yzjin@bjmu.edu.cn.
+
+BACKGROUND: Hepatitis B is a global public health concern, and modifiable risk 
+factors can accelerate progression of this disease. The burden of hepatitis B 
+attributable to modifiable risk factors has not been well evaluated. We aimed to 
+estimate the disease burden of hepatitis B attributable to tobacco, alcohol use, 
+and a high body mass index (BMI) to guide lifestyle interventions in the 
+management of patients with hepatitis B virus (HBV) infection.
+RESULTS: In 2019, 33.73% of hepatitis B age-standardized deaths and 34.52% of 
+disability-adjusted life-years (DALYs) were attributable to tobacco, alcohol 
+use, and a high BMI. The proportion showed an increasing trend that 28.23% of 
+deaths and 27.56% of DALYs were attributable to the three modifiable risk 
+factors in 1990. The hepatitis B burden attributable to modifiable risk factors 
+was disparate across regions and countries. Countries with a low socioeconomic 
+status have a high burden of hepatitis B owing to modifiable risk factors. 
+Countries with a high-level sociodemographic index also had an increasing burden 
+of hepatitis B attributable to a high BMI.
+CONCLUSIONS: Lifestyle interventions are warranted in hepatitis prevention 
+strategies and plans of action. Countries with low and middle socioeconomic 
+development should be prioritized, and countries with high socioeconomic 
+development should be aware of the novel challenge of a high BMI-related disease 
+burden.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12992-023-00922-z
+PMCID: PMC10064596
+PMID: 37004077 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+637. Gac Sanit. 2023 Mar 31;37:102297. doi: 10.1016/j.gaceta.2023.102297.
+eCollection  2023.
+
+[Attributable mortality to tobacco consumption in Brazil, 1996-2019].
+
+[Article in Spanish]
+
+Wanderley-Flores B(1), Pérez-Ríos M(2), Montes A(3), Santiago-Pérez MI(4), 
+Varela-Lema L(3), Candal-Pedreira C(5), Ruano-Ravina A(3), Martín-Gisbert L(1), 
+Rey-Brandariz J(1).
+
+Author information:
+(1)Área de Medicina Preventiva y Salud Pública, Universidad de Santiago de 
+Compostela, Santiago de Compostela, A Coruña, España.
+(2)Área de Medicina Preventiva y Salud Pública, Universidad de Santiago de 
+Compostela, Santiago de Compostela, A Coruña, España; CIBER de Epidemiología y 
+Salud Pública (CIBERESP), España; Instituto de Investigación Sanitaria de 
+Santiago de Compostela, Santiago de Compostela, A Coruña, España. Electronic 
+address: monica.perez.rios@usc.es.
+(3)Área de Medicina Preventiva y Salud Pública, Universidad de Santiago de 
+Compostela, Santiago de Compostela, A Coruña, España; CIBER de Epidemiología y 
+Salud Pública (CIBERESP), España; Instituto de Investigación Sanitaria de 
+Santiago de Compostela, Santiago de Compostela, A Coruña, España.
+(4)Servicio de Epidemiología, Dirección General de Salud Pública, Xunta de 
+Galicia, Santiago de Compostela, A Coruña, España.
+(5)Área de Medicina Preventiva y Salud Pública, Universidad de Santiago de 
+Compostela, Santiago de Compostela, A Coruña, España; Instituto de Investigación 
+Sanitaria de Santiago de Compostela, Santiago de Compostela, A Coruña, España.
+
+OBJECTIVE: To analyze the burden of tobacco consumption on mortality and years 
+of life expectancy lost in population ≥35 years in Brazil in the period 
+1996-2019 and to identify trend changes in smoking-attributable mortality.
+METHOD: An independent prevalence method using the lung cancer mortality rate as 
+a proxy for cumulative smoking risk was used to estimate smoking-attributable 
+mortality. Smoking-attributable mortality is estimated from the lung cancer 
+mortality rate and applying relative risks from 5 US cohorts. 
+Smoking-attributable mortality, crude and standardized attributed mortality 
+rates are presented overall, by sex, age and causes of death. Trend analysis was 
+performed by applying joinpoint regression models. Years of life expectancy lost 
+due to tobacco were calculated.
+RESULTS: Tobacco consumption caused 2,389,831 deaths in Brazil between 
+1996-2019. Cardiometabolic diseases were the leading cause of death in women 
+throughout the period and in men until 2015. Since 2006, smoking-attributable 
+mortality rates in men, regardless of age, show a decreasing trend while in 
+females the evolution is different. The years of life expectancy lost show a 
+slight decrease since the first triennia and are higher in men.
+CONCLUSIONS: In Brazil, the 8.5% of total mortality between 1996-2019 is 
+attributed to tobacco consumption. It is important to monitor the burden of the 
+tobacco consumption on mortality in order to strengthen or implement 
+interventions against smoking in Brazil.
+
+Copyright © 2023 SESPAS. Publicado por Elsevier España, S.L.U. All rights 
+reserved.
+
+DOI: 10.1016/j.gaceta.2023.102297
+PMID: 37004265 [Indexed for MEDLINE]
+
+
+638. Value Health Reg Issues. 2023 Jul;36:18-26. doi: 10.1016/j.vhri.2023.02.006.
+ Epub 2023 Mar 31.
+
+Does a Standard Cost-Effectiveness Threshold Exist? The Case of Greece.
+
+Tzanetakos C(1), Gourzoulidis G(2).
+
+Author information:
+(1)Health Through Evidence, Athens, Greece.
+(2)Health Through Evidence, Athens, Greece. Electronic address: 
+g.gourzoulidis@hte.gr.
+
+OBJECTIVES: This study aimed to systematically review the use of 
+cost-effectiveness (CE) threshold for evaluating pharmacological interventions 
+in Greece.
+METHODS: A systematic search of PubMed and ScienceDirect was conducted between 
+January 2009 and June 2022. The data of selected studies were extracted using a 
+relevant form and consequently were synthesized. Qualitative variables were 
+presented with relative frequencies (%) and quantitative variables with median 
+and interquartile range (IQR).
+RESULTS: From the 302 identified studies, 83 satisfied the inclusion criteria. 
+Studies were categorized to oncology (26.5%) and a nononcology related (73.5%) 
+based on drug treatment. The most frequently reported outcome associated with CE 
+threshold was the "per quality-adjusted life-year gained." A total of 32.5% of 
+the studies with a reported threshold did not specify the origin of the 
+threshold. From the rest of studies, the vast majority (92.8%) adopted 
+thresholds equal to 1 to 3 times the gross domestic product (GDP) per capita, 
+whereas the rest similar to National Institute for Health and Care Excellence 
+guidelines. The median CE threshold was differentiated between oncology (€51 000 
+[IQR €50 000-€60 000]) and nononcology studies (€34 000 [IQR €30 000-€36 000]; P 
+< .001). In both type of studies, the median CE thresholds were not 
+statistically significantly different among GDP, National Institute for Health 
+and Care Excellence, and not specified approaches.
+CONCLUSIONS: Aligned with other countries where there is no standard CE 
+threshold to promote efficient use of healthcare resources, the most prominent 
+practice in Greece was found to be that of 1 to 3 times the GDP per capita 
+irrespective of type of treatment or outcome studied.
+
+Copyright © 2023 International Society for Health Economics and Outcomes 
+Research. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.vhri.2023.02.006
+PMID: 37004314 [Indexed for MEDLINE]
+
+
+639. Health Policy. 2023 Jun;132:104800. doi: 10.1016/j.healthpol.2023.104800.
+Epub  2023 Mar 21.
+
+The impact of different types of NHS expenditure on health: Marginal cost per 
+QALY estimates for England for 2016/17.
+
+Martin S(1), Claxton K(2), Lomas J(3), Longo F(2).
+
+Author information:
+(1)Department of Economics, University of York, York YO10 5DD UK.
+(2)Centre for Health Economics, University of York, York YO10 5DD, UK.
+(3)Department of Economics, University of York, York YO10 5DD UK. Electronic 
+address: james.lomas@york.ac.uk.
+
+English data from 2003 to 2012 suggests that it costs the NHS £10,000 to 
+generate an additional quality-adjusted life year (QALY).  This estimate relates 
+to all NHS expenditure and no attempt was made to explore possible heterogeneity 
+within this total.  Different types of expenditure - such as secondary care, 
+primary care and specialized commissioning - may have different productivities 
+and estimates of these may help policymakers decide where additional investment 
+is most beneficial.  We use the two-stage least squares estimator and data for 
+2016 to explore the mortality response to three types of healthcare 
+expenditure.  Three specifications are estimated for each type of 
+expenditure: backward selection and regularized regression are used to identify 
+parsimonious specifications, and a full specification with all covariates is 
+also estimated.  The regression results are combined with information about 
+survival and morbidity disease burden to calculate the marginal cost per QALY 
+for each type of expenditure: the most conservative results suggest that this is 
+about £8,000 for locally (CCG) commissioned services, while estimates for 
+specialized commissioning and primary care are more uncertain.  When this 
+heterogeneity is taken into account, the estimated marginal cost per QALY for 
+all NHS expenditure increases slightly, from about £6,000 to £7,000.  Our 
+results suggest that additional investment is likely to be most productive in 
+primary care and in locally commissioned services.
+
+Copyright © 2023. Published by Elsevier B.V.
+
+DOI: 10.1016/j.healthpol.2023.104800
+PMID: 37004415 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations of Competing Interest None.
+
+
+640. Chemotherapy. 2023;68(3):170-182. doi: 10.1159/000530447. Epub 2023 Mar 31.
+
+New Targeted Drugs for Acute Myeloid Leukemia and Antifungals: Pharmacokinetic 
+Challenges and Opportunities.
+
+Salvatorelli E(1), Minotti G(1)(2), Menna P(2)(3).
+
+Author information:
+(1)Department of Medicine, University Campus Bio-Medico, Rome, Italy.
+(2)Research Unit of Clinical Pharmacology, Fondazione Policlinico Universitario 
+Campus Bio-Medico, Rome, Italy.
+(3)Department of Science and Technology for Sustainable Development and One 
+Health, Università Campus Bio-Medico di Roma, Rome, Italy.
+
+BACKGROUND: Acute myeloid leukemia (AML) is a life-threatening disease whose 
+treatment is made difficult by a number of mutations or receptor overexpression 
+in the proliferating cellular clones. Life expectancy of patients diagnosed with 
+new, relapsed-refractory, or secondary AML has been improved by drugs targeted 
+at such moieties. Regrettably, however, clinical use of new AML drugs is 
+complicated by pharmacokinetic interactions with other drugs the patient is 
+exposed to.
+SUMMARY: The most relevant drug-drug interactions (DDI) with clinical 
+implications build on competition for or induction/inhibition of CYP3A4, which 
+is a versatile metabolizer of a plethora of pharmacological agents. Here, we 
+review DDI between AML drugs and the agents used to prevent or treat invasive 
+fungal infections (IFI). The pathophysiology of AML, characterized by 
+functionally defective white blood cells and neutropenic/immunosuppressive 
+effects of concomitant induction chemotherapy, can in fact increase the risk of 
+infectious complications, with IFI causing high rates of morbidity and 
+mortality. Triazole antifungals, such as posaconazole, are strong inhibitors of 
+CYP3A4 and may thus cause patient's overexposure to AML drugs that are 
+metabolized by CYP3A4. We describe potential strategies to minimize the 
+consequences of DDI between triazole antifungals and targeted therapies for AML 
+and the role that collaboration between clinical pharmacologists, hematologists, 
+and clinical or laboratory microbiologists may have in these settings.
+KEY MESSAGES: Therapeutic drug monitoring and clinical pharmacology stewardship 
+could represent two strategies that best express multidisciplinary collaboration 
+for improving patient management.
+
+© 2023 S. Karger AG, Basel.
+
+DOI: 10.1159/000530447
+PMID: 37004510 [Indexed for MEDLINE]
+
+
+641. Mol Cell Biochem. 2023 Apr 1. doi: 10.1007/s11010-023-04720-4. Online ahead
+of  print.
+
+Baseline and oxidatively damaged DNA in end-stage renal disease patients on 
+varied hemodialysis regimens: a comet assay assessment.
+
+Tung GK(1), Gandhi G(2).
+
+Author information:
+(1)Department of Human Genetics, Guru Nanak Dev University, Amritsar, 143001, 
+India. gurleenhuman.rsh@gndu.ac.in.
+(2)Department of Human Genetics, Guru Nanak Dev University, Amritsar, 143001, 
+India.
+
+Global estimates exhibit that one million people have end-stage renal disease, a 
+disease-state characterized by irreversible loss of kidney structure and 
+function, thus necessitating renal replacement therapy. The disease-state, 
+oxidative stress, inflammatory responses, as well as the treatment procedure can 
+have damaging effects on the genetic material. Therefore, the present study was 
+carried out to investigate DNA damage (basal and oxidative) using the comet 
+assay in peripheral blood leukocytes of patients (n = 200) with stage V Chronic 
+Kidney Disease (on dialysis and those recommended but yet to initiate dialysis) 
+and compare it to that in controls (n = 210). Basal DNA damage was significantly 
+elevated (1.13x, p ≤ 0.001) in patients (46.23 ± 0.58% DNA in tail) compared to 
+controls (40.85 ± 0.61% DNA in tail). Oxidative DNA damage was also 
+significantly (p ≤ 0.001) higher in patients (9.18 ± 0.49 vs. 2.59 ± 0.19% tail 
+DNA) compared to controls. Twice-a-week dialysis regimen patients had 
+significantly elevated % tail DNA and Damage Index compared to the non-dialyzed 
+and to the once-a-week dialysis group implying dialysis- induced mechanical 
+stress and blood-dialyzer membrane interactions as probable contributors to 
+elevated DNA damage. The present study with a statistically significant power 
+implies higher disease-associated as well as maintenance therapy 
+(hemodialysis)-induced basal and oxidatively damaged DNA, which if not repaired 
+has the potential to initiate carcinogenesis. These findings mark the need for 
+improvement and development of interventional therapies for delaying disease 
+progression and associated co-morbidities so as to improve life expectancy of 
+patients with kidney disease.
+
+© 2023. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s11010-023-04720-4
+PMID: 37004640
+
+
+642. Lancet Public Health. 2023 Dec;8(12):e915-e922. doi: 
+10.1016/S2468-2667(22)00338-3. Epub 2023 Mar 30.
+
+Projections of future life expectancy in China up to 2035: a modelling study.
+
+Bai R(1), Liu Y(2), Zhang L(3), Dong W(4), Bai Z(5), Zhou M(6).
+
+Author information:
+(1)Evidence-Based Research Center of Social Science and Health, School of Public 
+Affairs, Nanjing University of Science and Technology, Nanjing, China.
+(2)National Center for Chronic and Noncommunicable Disease Control and 
+Prevention, Chinese Center for Disease Control and Prevention, Beijing, China.
+(3)China-Australia Joint Research Centre for Infectious Diseases, School of 
+Public Health, Xi'an Jiaotong University Health Science Centre, Xi'an, China; 
+Melbourne Sexual Health Centre, Alfred Health, Melbourne, VIC, Australia; 
+Central Clinical School, Faculty of Medicine, Monash University, Melbourne, VIC, 
+Australia.
+(4)School of Elderly Care Services and Management, Nanjing University of Chinese 
+Medicine, Nanjing, China.
+(5)Evidence-Based Research Center of Social Science and Health, School of Public 
+Affairs, Nanjing University of Science and Technology, Nanjing, China. 
+Electronic address: baizhenggang@126.com.
+(6)National Center for Chronic and Noncommunicable Disease Control and 
+Prevention, Chinese Center for Disease Control and Prevention, Beijing, China. 
+Electronic address: maigengzhou@126.com.
+
+BACKGROUND: To plan social and health services, future life expectancy 
+projections are needed. The aim of this study was to forecast the future life 
+expectancy for mainland China and its provinces.
+METHODS: Following the same approach as the Global Burden of Disease Study, we 
+used the largest compiled epidemiological and demographic datasets to estimate 
+age-specific mortality and evaluate population data from 1990 to 2019. A total 
+of 21 life expectancy forecasting models were combined by a probabilistic 
+Bayesian model to forecast the life expectancy for mainland China and its 
+provinces in 2035.
+FINDINGS: The projected life expectancy at birth in mainland China in 2035 is 
+81·3 years (95% credible interval 79·2-85·0), and there is a high probability 
+that the national goals of improving life expectancy will be achieved (79 years 
+in 2030, and over 80 years in 2035). At the provincial level, women in Beijing 
+have the highest projected life expectancy in 2035 with an 81% probability of 
+reaching 90 years, followed by Guangdong, Zhejiang, and Shanghai, which all have 
+more than a 50% probability of surpassing 90 years. Men in Shanghai are 
+projected to have the highest life expectancy at birth in 2035, with a 77% 
+probability of life expectancy being over 83 years, the highest provincial life 
+expectancy in mainland China in 2019. The projected gains in life expectancy are 
+mainly derived from older individuals (aged ≥65 years), except those in 
+Xinjiang, Tibet, and Qinghai (for men), in which the main contributions come 
+from younger (0-29 years) or middle-aged (30-64 years) individuals.
+INTERPRETATION: Life expectancy in mainland China and its provinces has a high 
+probability of continuing to increase through to 2035. Adequate policy planning 
+of social and health services will be needed.
+FUNDING: China National Natural Science Foundation and Social Science Fund of 
+Jiangsu Province.
+
+Copyright © 2023 The Author(s). Published by Elsevier Ltd. This is an Open 
+Access article under the CC BY 4.0 license. Published by Elsevier Ltd.. All 
+rights reserved.
+
+DOI: 10.1016/S2468-2667(22)00338-3
+PMCID: PMC10188127
+PMID: 37004714 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests We declare no competing 
+interests.
+
+
+643. Lancet Public Health. 2023 Dec;8(12):e906-e907. doi: 
+10.1016/S2468-2667(23)00074-9. Epub 2023 Mar 30.
+
+Life expectancy trends in China in the post-COVID-19 era.
+
+Yao Y(1), Hu B(2), Liu X(3).
+
+Author information:
+(1)China Center for Health Development Studies, Peking University, Beijing, 
+China. Electronic address: yao.yao@bjmu.edu.cn.
+(2)Care Policy and Evaluation Centre (CPEC), London School of Economics and 
+Political Science, London, UK.
+(3)China Center for Health Development Studies, Peking University, Beijing, 
+China.
+
+DOI: 10.1016/S2468-2667(23)00074-9
+PMID: 37004715 [Indexed for MEDLINE]
+
+Conflict of interest statement: We declare no competing interests.
+
+
+644. Biomed Environ Sci. 2023 Mar 20;36(3):222-230. doi: 10.3967/bes2023.025.
+
+Global Burden of Cardiovascular Disease Attributable to High Temperature in 204 
+Countries and Territories from 1990 to 2019.
+
+Hong L(1), Yan MM(1), Zhang YQ(1), Wang K(1), Wang YQ(1), Luo SQ(1), Wang F(2).
+
+Author information:
+(1)Department of Epidemiology and Biostatistics, School of Public Health, Wuhan 
+University of Science and Technology, Wuhan 430065, Hubei, China.
+(2)Department of Biostatistics, School of Public Health, Xuzhou Medical 
+University, Xuzhou 221004, Jiangsu, China.
+
+OBJECTIVE: This study aimed to estimate spatiotemporal variations of global 
+heat-related cardiovascular disease (CVD) burden from 1990 to 2019.
+METHODS: Data on the burden of heat-related CVD were derived from the Global 
+Burden of Disease Study 2019. Deaths and disability-adjusted life years (DALYs) 
+were used to quantify heat-induced CVD burden. We calculated the 
+age-standardized mortality rate (ASMR) and DALY rate (ASDR) per 100,000 
+population to compare this burden across regions. Generalized linear models were 
+applied to evaluate estimated annual percentage changes (EAPC) for temporal 
+trends from 1990 to 2019. The correlation between the socio-demographic index 
+(SDI) and age-standardized rate was measured using the Spearman rank test.
+RESULTS: Heat-induced CVD caused approximately 90 thousand deaths worldwide in 
+2019. Global ASMR and ASDR of heat-related CVD in 2019 were 1.17 [95% confidence 
+interval ( CI): 0.13-1.98] and 25.59 (95% CI: 2.07-44.17) per 100,000 
+population, respectively. The burden was significantly increased in middle and 
+low-SDI regions and slightly decreased in high-SDI regions from 1990 to 2019. 
+ASMR showed an upward trend, with the most considerable increase in low-latitude 
+countries. We observed a negative correlation between SDI and EAPC in ASMR ( r s 
+= -0.57, P < 0.01) and ASDR ( r s = -0.59, P < 0.01) among 204 countries.
+CONCLUSION: Heat-attributable CVD burden substantially increased in most 
+developing countries and tropical regions.
+
+Copyright © 2023 The Editorial Board of Biomedical and Environmental Sciences. 
+Published by China CDC. All rights reserved.
+
+DOI: 10.3967/bes2023.025
+PMID: 37005076 [Indexed for MEDLINE]
+
+
+645. BMC Oral Health. 2023 Apr 1;23(1):192. doi: 10.1186/s12903-023-02888-1.
+
+Speech disorders in patients with Tongue squamous cell carcinoma: A longitudinal 
+observational study based on a questionnaire and acoustic analysis.
+
+Guo K(#)(1)(2), Xiao Y(#)(1)(2), Deng W(1)(2), Zhao G(1)(2), Zhang J(1)(2), 
+Liang Y(1)(2), Yang L(3)(4), Liao G(5)(6).
+
+Author information:
+(1)Department of Oral and Maxillofacial Surgery, Guanghua School of Stomatology, 
+Hospital of Stomatology, Sun Yat-sen University, 56th Lingyuanxi Road, 
+Guangzhou, Guangdong, 510055, China.
+(2)Guangdong Provincial Key Laboratory of Stomatology, No.74, 2nd Zhongshan 
+Road, Guangzhou, Guangdong, 510080, China.
+(3)Department of Oral and Maxillofacial Surgery, Guanghua School of Stomatology, 
+Hospital of Stomatology, Sun Yat-sen University, 56th Lingyuanxi Road, 
+Guangzhou, Guangdong, 510055, China. yangle8@mail.sysu.edu.cn.
+(4)Guangdong Provincial Key Laboratory of Stomatology, No.74, 2nd Zhongshan 
+Road, Guangzhou, Guangdong, 510080, China. yangle8@mail.sysu.edu.cn.
+(5)Department of Oral and Maxillofacial Surgery, Guanghua School of Stomatology, 
+Hospital of Stomatology, Sun Yat-sen University, 56th Lingyuanxi Road, 
+Guangzhou, Guangdong, 510055, China. liaogq@mail.sysu.edu.cn.
+(6)Guangdong Provincial Key Laboratory of Stomatology, No.74, 2nd Zhongshan 
+Road, Guangzhou, Guangdong, 510080, China. liaogq@mail.sysu.edu.cn.
+(#)Contributed equally
+
+BACKGROUND: Speech disorders are common dysfunctions in patients with tongue 
+squamous cell carcinoma (TSCC) that can diminish their quality of life. There 
+are few studies with multidimensional and longitudinal assessments of speech 
+function in TSCC patients.
+METHODS: This longitudinal observational study was conducted at the Hospital of 
+Stomatology, Sun Yat-sen University, China, from January 2018 to March 2021. A 
+cohort of 92 patients (53 males, age range: 24-77 years) diagnosed with TSCC 
+participated in this study. Speech function was assessed from preoperatively to 
+one year postoperatively using the Speech Handicap Index questionnaire and 
+acoustic parameters. The risk factors for postoperative speech disorder were 
+analyzed by a linear mixed-effects model. A t test or Mann‒Whitney U test was 
+applied to analyze the differences in acoustic parameters under the influence of 
+risk factors to determine the pathophysiological mechanisms of speech disorders 
+in patients with TSCC.
+RESULTS: The incidence of preoperative speech disorders was 58.7%, which 
+increased up to 91.4% after surgery. Higher T stage (P＜0.001) and larger range 
+of tongue resection (P = 0.002) were risk factors for postoperative speech 
+disorders. Among the acoustic parameters, F2/i/decreased remarkably with higher 
+T stage (P = 0.021) and larger range of tongue resection (P = 0.009), indicating 
+restricted tongue movement in the anterior-posterior direction. The acoustic 
+parameters analysis during the follow-up period showed that F1 and F2 were not 
+significantly different of the patients with subtotal or total glossectomy over 
+time.
+CONCLUSIONS: Speech disorders in TSCC patients is common and persistent. Less 
+residual tongue volume led to worse speech-related QoL, indicating that 
+surgically restoring the length of the tongue and strengthening tongue extension 
+postoperatively may be important.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12903-023-02888-1
+PMCID: PMC10068158
+PMID: 37005608 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+646. Stem Cell Res Ther. 2023 Apr 1;14(1):60. doi: 10.1186/s13287-023-03292-w.
+
+Label extension, single-arm, phase III study shows efficacy and safety of 
+stempeucel® in patients with critical limb ischemia due to atherosclerotic 
+peripheral arterial disease.
+
+Gupta PK(1), Shivashankar P(2), Rajkumar M(3), Mahapatra SS(4), Desai SC(5), 
+Dhar A(6), Krishna V(7), Raviraja NS(2), Bhat S(2), Viswanathan P(2), Kannan 
+S(2), Abraham J(2), Boggarapu H(2), Manjuprasad MS(2), Udaykumar K(2).
+
+Author information:
+(1)Stempeutics Research Pvt. Ltd., 3rd Floor, Manipal Hospitals Whitefield #143, 
+EPIP Industrial Area, ITPL Main Road, Bangalore, 560 048, India. 
+pawan.gupta@stempeutics.com.
+(2)Stempeutics Research Pvt. Ltd., 3rd Floor, Manipal Hospitals Whitefield #143, 
+EPIP Industrial Area, ITPL Main Road, Bangalore, 560 048, India.
+(3)Vijaya Hospital, Chennai, India.
+(4)Health Point Hospital, Kolkata, India.
+(5)M. S. Ramaiah Medical College & Hospitals, Bangalore, India.
+(6)All India Institute of Medical Sciences, New Delhi, India.
+(7)GSVM Medical College, Kanpur, India.
+
+BACKGROUND: Peripheral arterial disease (PAD) of lower extremities comprises a 
+clinical spectrum that extends from asymptomatic patients to critical limb 
+ischemia (CLI) patients. 10% to 40% of the patients are at the risk of primary 
+amputation. This study was planned in "no-option" patients of CLI due to 
+atherosclerotic PAD to assess the efficacy and safety of pooled, allogeneic, 
+adult human bone marrow-derived mesenchymal stromal cells which is already 
+approved for marketing in India for CLI due to Buerger's disease.
+METHODS: This was a single-arm, multi-centric, phase III study where mesenchymal 
+stromal cells was injected as 2 million cells/kg body weight in the calf muscle 
+and around the ulcer. Twenty-four patients of lower extremity CLI due to PAD 
+with Rutherford III-5 or III-6 and ankle-brachial pressure index ≤ 0.6 and 
+having have at least one ulcer with area between 0.5 and 10 cm2 were included in 
+the study. These patients were evaluated over 12 months from drug 
+administration.
+RESULTS: Over a period of 12 months, statistical significant reduction of rest 
+pain and ulcer size along with improvement in ankle-brachial pressure index and 
+ankle systolic was observed. The quality of life of patients improved together 
+with increase in total walking distance and major amputation-free survival time.
+CONCLUSION: Mesenchymal stromal cells may be a feasible option to treat 
+"no-option" patients with atherosclerotic PAD. Trial registration This study is 
+registered prospectively in National Institutes of Health and Clinical Trials 
+Registry-India (CTRI) website: CTRI/2018/06/014436. Registered 6th June 2018. 
+http://ctri.nic.in/Clinicaltrials/pmaindet2.php?trialid=24050&EncHid=&userName=stempeutics 
+.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s13287-023-03292-w
+PMCID: PMC10068167
+PMID: 37005673 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors Pawan Kumar Gupta, Shivshankar P, 
+Raviraja N S, Samatha Bhat, Pachaiyappan Vishwanathan, Suresh Kannan, Jijy 
+Abraham, Hema Boggarapu, Manjuprasad M S and Udaykumar K are permanent employees 
+of Stempeutics Research Pvt. Ltd., where the commercial study drug stempeucel® 
+is being manufactured. The remaining authors have no competing interest to 
+declare.
+
+
+647. Zhongguo Zhong Yao Za Zhi. 2023 Mar;48(5):1203-1211. doi: 
+10.19540/j.cnki.cjcmm.20221203.101.
+
+[Effects of propiconazole on physiological and biochemical properties of Panax 
+notoginseng and dietary risk assessment].
+
+[Article in Chinese]
+
+Zheng ZX(1), Qiu LS(1), Zheng K(1), Guo LP(2), Cui XM(1), Nian HJ(1), Li YC(3), 
+Huang SJ(1), Yang Y(1).
+
+Author information:
+(1)Faculty of Life Science and Technology, Kunming University of Science and 
+Technology Kunming 650500, China Yunnan Provincial Key Laboratory of Panax 
+notoginseng Kunming 650500, China.
+(2)National Resource Center for Chinese Materia Medica, China Academy of Chinese 
+Medical Sciences Beijing 100700, China.
+(3)Kunming Institute of Food and Drug Control Kunming 650032, China.
+
+To study the residue and dietary risk of propiconazole in Panax notoginseng and 

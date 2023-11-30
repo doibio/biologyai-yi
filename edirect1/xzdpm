@@ -1,0 +1,1000 @@
+
+OBJECTIVES: Population-based epidemiologic data for paraneoplastic neurologic 
+syndromes (PNSs) in the United States are lacking. Our objective was to evaluate 
+the incidence, prevalence, and associated morbidity of PNS.
+METHODS: We performed a population-based epidemiology study in Olmsted County, 
+Minnesota, with patients identified between January 1, 1987, and December 31, 
+2018, using the medical records linkage system of the Rochester Epidemiology 
+Project (REP) who met the definite/probable 2021 PNS criteria and 2004 PNS 
+criteria. Patients with dermatomyositis and myasthenia gravis with underlying 
+tumors were included. Age- and sex-specific population counts were obtained from 
+REP resources for January 1, 2014 (prevalence denominator) and annually for 
+1987-2018 (incidence denominator). Morbidity was estimated using 
+disability-adjusted life years (DALYs; years lived with disability [YLD] plus 
+years of life lost [YLL]).
+RESULTS: There were 28 patients with PNS identified (50% female) residing in 
+Olmsted County, Minnesota, with median age at diagnosis of 54.5 (IQR 46.5-69.0) 
+years. All patients had a cancer diagnosis, and 18 (64%) patients were neural 
+autoantibody positive including antineuronal nuclear autoantibody type 1 
+(ANNA-1/anti-Hu; n = 1), ANNA-2/anti-Ri (n = 1), muscle-type acetylcholine 
+receptor (AChR; n = 6), Purkinje cell cytoplasmic antibody type 1 
+(PCA-1/anti-Yo; n = 1), kelch-like protein 11 (KLH11; n = 3), collapsin response 
+mediator protein 5 (CRMP-5/anti-CV2; n = 2), 
+α-amino-3-hydroxy-5-methyl-4-isoxazole propionic acid receptor (n = 1), 
+neurofilament light chain (n = 1), leucine zipper 4 (LUZP4; n = 1), and 
+unclassified neural antibodies (n = 1). PNS incidence was 0.6/100,000 
+person-years and increased over time from 0.4/100,000 person-years (1987-2002) 
+to 0.8/100,000 person-years (2003-2018) (p = 0.06). Prevalence was 5.4/100,000 
+people. The median follow-up period after PNS diagnosis was 3.1 years (IQR, 
+1.1-9.9 years). Total disability-adjusted life years (DALYs) for 28 patients 
+with PNS were 472.7 years, based on total years of life lost (YLL) for patients 
+dying between 1987 and 2018 (n = 15) of 445.3 years plus years lived with 
+disability (YLD) 27.4 years.
+DISCUSSION: PNSs are rare neurologic disorders but are associated with severe 
+morbidity and mortality. The estimated number of prevalent PNS cases in the 
+United States is 17,099, and predicted DALY for all US PNS cases is 292,393 
+years. Their apparent increasing rate of detection is attributable to increasing 
+physician awareness and availability of serologic testing.
+
+Copyright © 2021 The Author(s). Published by Wolters Kluwer Health, Inc. on 
+behalf of the American Academy of Neurology.
+
+DOI: 10.1212/NXI.0000000000001124
+PMCID: PMC8696552
+PMID: 34937736 [Indexed for MEDLINE]
+
+
+204. Nature. 2022 Jan;601(7892):263-267. doi: 10.1038/s41586-021-04224-5. Epub
+2021  Dec 22.
+
+Cancer risk across mammals.
+
+Vincze O(1)(2)(3)(4), Colchero F(5)(6)(7), Lemaître JF(8), Conde DA(6)(7)(9), 
+Pavard S(10), Bieuville M(10), Urrutia AO(11)(12), Ujvari B(13), Boddy AM(14), 
+Maley CC(15), Thomas F(16), Giraudeau M(16)(17).
+
+Author information:
+(1)CREEC/CANECEV, MIVEGEC (CREES), University of Montpellier, CNRS, IRD, 
+Montpellier, France. vincze.orsolya@ecolres.hu.
+(2)Littoral, Environnement et Sociétés (LIENSs), UMR 7266 CNRS-La Rochelle 
+Université, La Rochelle, France. vincze.orsolya@ecolres.hu.
+(3)Institute of Aquatic Ecology, Centre for Ecological Research, Debrecen, 
+Hungary. vincze.orsolya@ecolres.hu.
+(4)Evolutionary Ecology Group, Hungarian Department of Biology and Ecology, 
+Babeş-Bolyai University, Cluj-Napoca, Romania. vincze.orsolya@ecolres.hu.
+(5)Department of Mathematics and Computer Science, University of Southern 
+Denmark, Odense, Denmark.
+(6)Interdisciplinary Centre on Population Dynamics, University of Southern 
+Denmark, Odense, Denmark.
+(7)Species360 Conservation Science Alliance, Bloomington, MN, USA.
+(8)Laboratoire de Biométrie et Biologie Evolutive, Université de Lyon, 
+Université Lyon 1; CNRS,UMR5558, Villeurbanne, France.
+(9)Department of Biology, University of Southern Denmark, Odense, Denmark.
+(10)Eco-Anthropologie (EA), Muséum National d'Histoire Naturelle, CNRS, 
+Université de Paris, Musée de l'Homme, Paris, France.
+(11)Instituto de Ecologia, UNAM, Mexico City, Mexico.
+(12)Milner Centre for Evolution, Department of Biology and Biochemistry, 
+University of Bath, Bath, UK.
+(13)Centre for Integrative Ecology, School of Life and Environmental Sciences, 
+Deakin University, Geelong, Victoria, Australia.
+(14)Department of Anthropology, University of California Santa Barbara, Santa 
+Barbara, CA, USA.
+(15)Arizona Cancer Evolution Center, Biodesign Institute and School of Life 
+Sciences, Arizona State University, Tempe, AZ, USA.
+(16)CREEC/CANECEV, MIVEGEC (CREES), University of Montpellier, CNRS, IRD, 
+Montpellier, France.
+(17)Littoral, Environnement et Sociétés (LIENSs), UMR 7266 CNRS-La Rochelle 
+Université, La Rochelle, France.
+
+Comment in
+    Nat Rev Cancer. 2022 Mar;22(3):129.
+
+Cancer is a ubiquitous disease of metazoans, predicted to disproportionately 
+affect larger, long-lived organisms owing to their greater number of cell 
+divisions, and thus increased probability of somatic mutations1,2. While 
+elevated cancer risk with larger body size and/or longevity has been documented 
+within species3-5, Peto's paradox indicates the apparent lack of such an 
+association among taxa6. Yet, unequivocal empirical evidence for Peto's paradox 
+is lacking, stemming from the difficulty of estimating cancer risk in non-model 
+species. Here we build and analyse a database on cancer-related mortality using 
+data on adult zoo mammals (110,148 individuals, 191 species) and map 
+age-controlled cancer mortality to the mammalian tree of life. We demonstrate 
+the universality and high frequency of oncogenic phenomena in mammals and reveal 
+substantial differences in cancer mortality across major mammalian orders. We 
+show that the phylogenetic distribution of cancer mortality is associated with 
+diet, with carnivorous mammals (especially mammal-consuming ones) facing the 
+highest cancer-related mortality. Moreover, we provide unequivocal evidence for 
+the body size and longevity components of Peto's paradox by showing that cancer 
+mortality risk is largely independent of both body mass and adult life 
+expectancy across species. These results highlight the key role of life-history 
+evolution in shaping cancer resistance and provide major advancements in the 
+quest for natural anticancer defences.
+
+© 2021. The Author(s), under exclusive licence to Springer Nature Limited.
+
+DOI: 10.1038/s41586-021-04224-5
+PMCID: PMC8755536
+PMID: 34937938 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+205. Ecol Evol. 2021 Nov 23;11(23):16514-16523. doi: 10.1002/ece3.8120.
+eCollection  2021 Dec.
+
+Warm-night temperature alters paternal allocation strategy in a North 
+temperate-zone butterfly.
+
+Rosa E(1), Saastamoinen M(1)(2).
+
+Author information:
+(1)Organismal and Evolutionary Biology Research Programme University of Helsinki 
+Helsinki Finland.
+(2)Helsinki Institute of Life Science University of Helsinki Helsinki Finland.
+
+Warming temperatures are greatly impacting wild organisms across the globe. Some 
+of the negative impacts of climate change can be mitigated behaviorally, for 
+example, by changes in habitat and oviposition site choice. Temperatures are 
+reportedly warming faster at night than during the day, yet studies assessing 
+the impacts of increasing night temperature are rare. We used the Finnish 
+Glanville fritillary butterfly (Melitaea cinxia) as study species and exposed 
+adult butterflies of both sexes to warmer night conditions. Under a seminatural 
+outdoor enclosure, we assessed whether females base their oviposition choices 
+primarily on habitat site characteristics (open, suggestive of dry meadows, 
+versus covered by a coarse canopy, suggestive of pastures) or on plant condition 
+(dry vs. lush), and if their choice is altered by the thermal conditions 
+experienced at night. As exposure to warmer environmental conditions is expected 
+to increase resting metabolic rate and potentially reduce life expectancy, we 
+further assessed the fitness implications of warm-night temperatures. We found 
+that females prefer open sites for oviposition and that females do not switch 
+their oviposition strategy based on the thermal conditions they experienced at 
+night prior to the reproductive event. Exposure to warm nights did not influence 
+female lifespan, but the egg hatching success of their offspring was reduced. In 
+addition, we found that males exposed to warm nights sired larger clutches with 
+higher hatching rate. As warm-night exposure reduced male lifespan, this may 
+imply a switch in male resource allocation strategy toward increased offspring 
+quality. The present work adds on to the complex implications of climate warming 
+and highlights the importance of the often-neglected role of males in shaping 
+offspring performance.
+
+© 2021 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/ece3.8120
+PMCID: PMC8668742
+PMID: 34938453
+
+Conflict of interest statement: None declared.
+
+
+206. Kidney Med. 2021 Jul 29;3(6):992-1002.e1. doi: 10.1016/j.xkme.2021.05.010. 
+eCollection 2021 Nov-Dec.
+
+Impact of Expanded Hemodialysis Using Medium Cut-off Dialyzer on Quality of 
+Life: Application of Dynamic Patient-Reported Outcome Measurement Tool.
+
+Penny JD(1)(2), Jarosz P(1), Salerno FR(1)(2), Lemoine S(1), McIntyre 
+CW(1)(2)(3)(4).
+
+Author information:
+(1)The Lilibeth Caberto Kidney Clinical Research Unit, University of Western 
+Ontario, London, Ontario, Canada.
+(2)Department of Medical Biophysics, University of Western Ontario, London, 
+Ontario, Canada.
+(3)Division of Nephrology, London Health Sciences Centre, London, Ontario, 
+Canada.
+(4)Lawson Health Research Institute, London, Ontario, Canada.
+
+RATIONALE & OBJECTIVE: Current hemodialysis (HD) treatments have limited ability 
+to clear larger-molecular-weight uremic toxins. Retention is associated with 
+increased symptom burden, low health-related quality of life (HRQoL), and high 
+mortality. Improved clearance, using novel medium cut-off dialyzers, termed 
+expanded HD (HDx), may be associated with improved subjective experience. We 
+have previously developed a dynamic patient-reported outcome measure (PROM) 
+instrument to allow iterative recording to better appreciate the overall burden 
+of disease and assess the impact of therapy changes.
+STUDY DESIGN: Single-center interventional pilot study.
+SETTING & PARTICIPANTS: 28 patients established on maintenance HD, London, 
+Ontario, Canada.
+INTERVENTION: Initial study consisting of 2-week observation 
+(baseline-conventional high-flux HD) followed by 12 weeks of HDx. HRQoL was 
+assessed using the dynamic PROM instrument thrice weekly (enabled in a dedicated 
+app as the London Evaluation of Illness [LEVIL]). Extension phase; 2-week 
+baseline with 24 weeks of HDx and 8-week washout.
+OUTCOMES: Principal aim was to establish whether HDx therapy was associated with 
+improved HRQoL, evidence of dose-dependant response, and whether effects were 
+durable over time, using LEVIL.
+RESULTS: Patients with lower LEVIL scores (<70/100) at baseline showed 
+improvement in overall HRQoL after 8 weeks of therapy with similar carryover 
+effect. General well-being, energy, and sleep quality were improved 
+significantly as a consequence of HDx therapy. There were no detrimental effects 
+of HDx detected in patients with higher baseline HRQoL.
+LIMITATIONS: Small nonrandomized sample size. The coronavirus disease 2019 
+pandemic interfered with the extension phase.
+CONCLUSIONS: Dynamic PROM assessment effectively identified patients with lower 
+HRQoL and higher symptom burden, demonstrating durable time/dose-dependent 
+improvements across a range of symptom domains. The use of this instrument may 
+allow targeted selection of patients most likely to benefit from HDx therapy and 
+assist in monitoring response and defining effect size and treatment duration to 
+allow optimal design of further definitive randomized controlled trials of this 
+newly introduced technology.
+FUNDING: Baxter Healthcare Canada.
+TRIAL REGISTRATION: ClinicalTrials.gov ID: NCT03640858.
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.xkme.2021.05.010
+PMCID: PMC8664707
+PMID: 34939008
+
+
+207. Medeni Med J. 2021 Dec 19;36(4):325-332. doi:
+10.4274/MMJ.galenos.2021.66915.
+
+Assessment of the Nutritional Status, Bone Mineralization, and Anthropometrics 
+of Children with Thalassemia Major.
+
+Bulgurcu SC(1), Canbolat Ayhan A(2), Emeksiz HC(3), Ovali F(1).
+
+Author information:
+(1)Istanbul Medeniyet University Faculty of Medicine, Department of Pediatrics, 
+Istanbul, Turkey.
+(2)Istanbul Medeniyet University Faculty of Medicine, Department of Pediatric 
+Hematology-Oncology, Istanbul, Turkey.
+(3)Istanbul Medeniyet University Faculty of Medicine, Department of Pediatric 
+Endocrinology, Istanbul, Turkey.
+
+OBJECTIVE: Children with thalassemia major (TM) are prone to growth failure and 
+micronutrient deficiency. Thus, this study aimed to evaluate nutritional status, 
+anthropometrics, and bone mineralization defects in patients with regular blood 
+transfusion.
+METHODS: Data obtained were analyzed by evaluating laboratory tests, 
+anthropometric measures, and bone mineral density.
+RESULTS: This study included 29 patients (62% male and 38% female) with a mean 
+age of 12.26±4.74 years, mean pre-transfusion hemoglobin of 8.64±1.01 g/dL, and 
+mean serum ferritin of 1158.6±556.8 ng/ mL. Vitamin D (72.4%), selenium (72.4%), 
+and folate (37.9%) deficiencies were most frequent. Hypocalcemia was observed in 
+17.2%, hypomagnesemia in 3.5%, and decreased ceruloplasmin in 10.3% of patients. 
+Folate was higher between 2 and 6 years old (p=0.028). Ceruloplasmin was higher 
+between 6 and 10 years old (p=0.018). Selenium was significantly higher in 
+patients with a ferritin of ≥1,500 (p=0.008). No significant ferritin-related 
+differences were found in other micronutrients (p>0.05). Body mass index (BMI) 
+were <5 percentile (p) in 31% of patient, whereas none was >95 p. Height in 
+24.5% and weight in 20.7% of patients were <3 p, whereas none with >97 p. BMI of 
+patients aged 10-18 years was significantly higher (p=0.001). Anthropometric 
+percentiles did not significantly differ in the mean serum ferritin and 
+micronutrient levels. Hypoparathyroidism was observed in 13.8% and 
+hypothyroidism in 3.5% of patients. Low bone density was detected in 14.8% (2 
+osteopenic and 2 osteoporotic) of patients. Bone mineral density did not 
+significantly differ in the ferritin and micronutrient levels.
+CONCLUSIONS: Nutritional support and deficiency prevention are important to 
+minimize the burden of complications and increase the life expectancy and 
+quality in patients with TM.
+
+Publisher: AMAÇ: Talasemi majör (TM) tanılı çocuklar büyüme geriliğine ve 
+mikrobesin eksikliklerine yatkındırlar. Bu çalışmada, düzenli transfüzyon 
+uygulanan hastalarda mikro besin seviyelerini, antropometrik ölçümleri, kemik 
+mineralizasyon defektlerini değerlendirmeyi amaçladık.
+YÖNTEMLER: Laboratuvar testlerini, antropometrik ölçümleri ve kemik mineral 
+yoğunluğunu değerlendirerek elde edilen verileri analiz ettik.
+BULGULAR: Çalışmaya ortalama yaşı 12,26±4,74 yıl, ortalama transfüzyon öncesi 
+hemoglobin 8,64±1,01 g/dL, ortalama serum ferritin 1158,6±556,8 ng/mL olan 29 
+hasta (%62’si erkek, %38’i kız) alındı. En sık vitamin D (%72,4), selenyum 
+(%72,4) ve folat (%37,9) eksikliği saptandı. Hastaların %17,2’de hipokalsemia, 
+%3,5 hipomagnesemi, %10,3 seruloplazmin düşüklüğü saptandı. Folat 2≤ ile <6 yaş 
+arasında, seruloplazmin 6≤ ile <10 yaş arasında daha yüksek saptandı (sırasıyla 
+p=0,028, p=0,018). Selenyum, ferritin ≥1.500 olan hastalarda anlamlı olarak 
+yüksekti (p=0,008). Diğer mikrobesin düzeylerinde ferritin düzeyi ilişkili 
+anlamlı farklılık saptanmadı (p>0,05). Hastaların %31’inin vücut kitle indeksi 
+(VKİ) 5. Persentilin (p) altındaydı. VKİ 95. p’nin üzerinde olan hasta 
+saptanmadı. Hastaların %24,5’inin boyu, %20,7’sinin vücut ağırlığı 3. p’nin 
+altındaydı. Boy ve vücut ağırlığı açısından 97. p’nin üzerinde olan hasta 
+saptanmadı. Antropometrik ölçümlerin, hastaların kan mikrobesin ve ferritin 
+düzeyleri ile anlamlı bir ilişkisi saptanmadı. On-18 yaş arasındaki hastaların 
+VKİ anlamlı olarak daha yüksek bulundu (p=0,001). Antropometrik ölçümler, 
+ortalama ferritin ve mikrobesin düzeyleri açısından anlamlı farklılık 
+göstermedi. Hastaların %20,8’de endokrinolojik bozukluklar (hipoparatiroidi 
+%13,8, hipotiroidi %3,5) gözlendi. Hastaların %14,8’inde (2 osteopenik, 2 
+osteoporotik) düşük kemik yoğunluğu saptandı. Kemik mineral yoğunluğunun 
+mikrobesin ve ferritin düzeyleriyle anlamlı ilişkisi saptanmadı.
+SONUÇLAR: TM hastalarında nütrisyonel eksikliklerin önlenmesi ve beslenme 
+desteğinin sağlanması kemik mineralizasyon bozuklukları ve büyüme geriliği gibi 
+komplikasyonların gelişiminin en aza indirilmesi açısından önemlidir.
+
+© Copyright Istanbul Medeniyet University Faculty of Medicine.
+
+DOI: 10.4274/MMJ.galenos.2021.66915
+PMCID: PMC8694160
+PMID: 34939399
+
+Conflict of interest statement: Conflict of Interest: The authors have no 
+conflict of interest to declare.
+
+
+208. Anticancer Agents Med Chem. 2022;22(13):2367-2384. doi: 
+10.2174/1871520622666211221144739.
+
+Medicinal Plants for Glioblastoma Treatment.
+
+Datta S(1), Luthra R(1), Bharadvaja N(1).
+
+Author information:
+(1)Department of Biotechnology, Delhi Technological University, Main Bawana 
+Road, Delhi-110042, India.
+
+Glioblastoma, an aggressive brain cancer, demonstrates the least life expectancy 
+among all brain cancers. Because of the regulation of diverse signaling pathways 
+in cancers, the chemotherapeutic approaches used to suppress their 
+multiplication and spread are restricted. Sensitivity towards chemotherapeutic 
+agents has been developed because of the pathological and drug-evading abilities 
+of these diverse mechanisms. As a result, the identification and exploration of 
+strategies or treatments, which can overcome such refractory obstacles to 
+improve glioblastoma response to treatment as well as recovery, is essential. 
+Medicinal herbs contain a wide variety of bioactive compounds, which could 
+trigger aggressive brain cancers, regulate their anti-cancer mechanisms and 
+immune responses to assist in cancer elimination, and cause cell death. Numerous 
+tumor-causing proteins, which facilitate invasion as well as metastasis of 
+cancer, tolerance of chemotherapies, and angiogenesis, are also inhibited by 
+these phytochemicals. Such herbs remain valuable for glioblastoma prevention and 
+its incidence by effectively being used as anti-glioma therapies. This review 
+thus presents the latest findings on medicinal plants using which the extracts 
+or bioactive components are being used against glioblastoma, their mechanism of 
+functioning, pharmacological description, and recent clinical studies conducted 
+on them.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/1871520622666211221144739
+PMID: 34939551 [Indexed for MEDLINE]
+
+
+209. Elife. 2021 Dec 23;10:e71825. doi: 10.7554/eLife.71825.
+
+Crosstalk with keratinocytes causes GNAQ oncogene specificity in melanoma.
+
+Urtatiz O(1), Haage A(2), Tanentzapf G(2), Van Raamsdonk CD(1).
+
+Author information:
+(1)Department of Medical Genetics, Life Sciences Institute, University of 
+British Columbia, Vancouver, Canada.
+(2)Department of Cellular and Physiological Sciences, Life Sciences Institute, 
+University of British Columbia, Vancouver, Canada.
+
+Different melanoma subtypes exhibit specific and non-overlapping sets of 
+oncogene and tumor suppressor mutations, despite a common cell of origin in 
+melanocytes. For example, activation of the Gαq/11 signaling pathway is a 
+characteristic initiating event in primary melanomas that arise in the dermis, 
+uveal tract, or central nervous system. It is rare in melanomas arising in the 
+epidermis. The mechanism for this specificity is unknown. Here, we present 
+evidence that in the mouse, crosstalk with the epidermal microenvironment 
+actively impairs the survival of melanocytes expressing the GNAQQ209L oncogene. 
+We found that GNAQQ209L, in combination with signaling from the interfollicular 
+epidermis (IFE), stimulates dendrite extension, leads to actin cytoskeleton 
+disorganization, inhibits proliferation, and promotes apoptosis in melanocytes. 
+The effect was reversible and paracrine. In contrast, the epidermal environment 
+increased the survival of wildtype and BrafV600E expressing melanocytes. Hence, 
+our studies reveal the flip side of Gαq/11 signaling, which was hitherto 
+unsuspected. In the future, the identification of the epidermal signals that 
+restrain the GNAQQ209L oncogene could suggest novel therapies for GNAQ and GNA11 
+mutant melanomas.
+
+© 2021, Urtatiz et al.
+
+DOI: 10.7554/eLife.71825
+PMCID: PMC8747508
+PMID: 34939927 [Indexed for MEDLINE]
+
+Conflict of interest statement: OU, AH, GT, CV No competing interests declared
+
+
+210. Clin Orthop Relat Res. 2022 Apr 1;480(4):773-787. doi: 
+10.1097/CORR.0000000000002087.
+
+What is the Role of Scoliosis Surgery in Adolescents and Adults with 
+Myelomeningocele? A Systematic Review.
+
+Bradko V(1), Castillo H(1), Fremion E(2)(3), Conklin M(4), Dahl B(5)(6), 
+Castillo J(1).
+
+Author information:
+(1)Developmental Pediatrics, Department of Pediatrics, Baylor College of 
+Medicine, Houston, TX, USA.
+(2)Department of Internal Medicine, Baylor College of Medicine, Houston, TX, 
+USA.
+(3)Department of Pediatrics, Baylor College of Medicine, Houston, TX, USA.
+(4)Department of Orthopedic Surgery, University of Alabama at Birmingham, 
+Birmingham, AL, USA.
+(5)Department of Orthopedic Surgery and Scoliosis Surgery, Texas Children's 
+Hospital, Houston, TX, USA.
+(6)Baylor College of Medicine, Houston, TX, USA.
+
+Comment in
+    Clin Orthop Relat Res. 2022 Apr 1;480(4):788-789.
+
+BACKGROUND: Life expectancy of individuals with spina bifida has continued to 
+improve over the past several decades. However, little is known about the 
+longitudinal course of scoliosis in individuals with myelomeningocele (MMC), a 
+spina bifida subtype, across their lifespan. Specifically, it is not known 
+whether management during or after the transition years from adolescence to 
+adulthood is associated with comorbidities in adulthood nor if these individuals 
+benefit from scoliosis treatment later in life.
+QUESTIONS/PURPOSES: In this systematic review, we asked: (1) Is the risk of 
+secondary impairments (such as bladder or bowel incontinence, decreased 
+ambulation, and skin pressure injuries) higher among adolescents and adults with 
+MMC and scoliosis than among those with MMC without scoliosis? (2) Is there 
+evidence that surgical management of scoliosis is associated with improved 
+functional outcomes in adolescents and adults with MMC? (3) Is surgical 
+management of scoliosis associated with improved quality of life in adolescents 
+and adults with MMC?
+METHODS: We performed a systematic review of articles in Medline and Embase from 
+2000 until February 5, 2021. Search terms such as "spinal dysraphism," "spina 
+bifida," "meningomyelocele," and "scoliosis" were applied in diverse 
+combinations. A total of 1429 publications were identified, and 13 were eligible 
+for inclusion. We included original studies reporting on scoliosis among 
+individuals older than 15 years with MMC. When available, we extracted the 
+prevalence of MMC and scoliosis, studied population age, percentage of patients 
+experiencing complications, functional outcomes, and overall physical function. 
+We excluded non-English articles and those with fewer than 10 individuals with 
+scoliosis and MMC. We used the Preferred Reporting Items for Systematic Reviews 
+and Meta-analyses, and registered the review before data collection (PROSPERO: 
+CRD42021236357). We conducted a quality assessment using the Methodologic Index 
+for Nonrandomized Studies (MINORS) tool. In 13 included studies, there were 556 
+individuals with MMC and scoliosis. Most were retrospective case series, 
+although a minority were retrospective/comparative studies. The mean MINORS 
+score was 12.3 ± 1.65 (a MINORS score over 12 generally is considered good 
+reporting quality, scores below 12 are considered at high risk of bias).
+RESULTS: In general, studies found that individuals with MMC and scoliosis were 
+more likely to have secondary impairments such as bladder/bowel incontinence, 
+decreased ambulation, and pressure injuries than were patients with MMC without 
+scoliosis. These secondary impairments were associated with hydrocephalus and 
+high-level MMC lesions. However, when one study evaluated mortality, the results 
+showed that although most deceased individuals who had spina bifida had 
+scoliosis, no association was found between the age of death and scoliosis. 
+Among the studies evaluating functional outcomes, none supported strong 
+functional improvement in individuals with MMC after surgery for scoliosis. No 
+correlation between the Cobb angle and sitting balance was noted; however, the 
+degree of pelvic obliquity and the level of motor dysfunction showed a strong 
+correlation with scoliosis severity. There was no change in sitting pressure 
+distributions after spinal surgery. The lesion level and scoliosis degree 
+independently contributed to the degree of lung function impairment. Although 
+studies reported success in correcting coronal deformity and stopping curve 
+progression, they found no clear benefit of surgery on health-related quality of 
+life and long-term outcomes. These studies demonstrated that the level of 
+neurologic function, severity of hydrocephalus, and brainstem dysfunction are 
+greater determinants of quality of life than spinal deformity.
+CONCLUSION: This systematic review found that adolescents and adults with MMC 
+and scoliosis are more likely to have secondary impairments than their peers 
+with MMC only. The best-available evidence does not support strong functional 
+improvement or health-related quality of life enhancement after scoliosis 
+surgery in adolescents and adults with MMC. The level of neurologic dysfunction, 
+hydrocephalus, and brainstem dysfunction are greater determinants of quality of 
+life. Future prospective studies should be designed to answer which individuals 
+with MMC and scoliosis would benefit from spinal surgery. Our findings suggest 
+that the very modest apparent benefits of surgery should cause surgeons to 
+approach surgical recommendations in this patient population with great caution, 
+and surgeons should counsel patients and their families that the risk of 
+complications is high and the benefits may be small.
+LEVEL OF EVIDENCE: Level IV, therapeutic study.
+
+Copyright © 2021 by the Association of Bone and Joint Surgeons.
+
+DOI: 10.1097/CORR.0000000000002087
+PMCID: PMC8923593
+PMID: 34939968 [Indexed for MEDLINE]
+
+Conflict of interest statement: All ICMJE Conflict of Interest Forms for authors 
+and Clinical Orthopaedics and Related Research® editors and board members are on 
+file with the publication and can be viewed on request.
+
+
+211. Bioengineering (Basel). 2021 Dec 20;8(12):225. doi: 
+10.3390/bioengineering8120225.
+
+Current Therapeutics and Future Perspectives to Ocular Melanocytic Neoplasms in 
+Dogs and Cats.
+
+Guerra Guimarães T(1)(2)(3)(4)(5), Menezes Cardoso K(1)(2)(3)(4)(5), Tralhão 
+P(6), Marto CM(3)(4)(5)(7)(8), Alexandre N(2)(9), Botelho MF(3)(4)(5)(8), 
+Laranjo M(3)(4)(5)(8).
+
+Author information:
+(1)Institute of Research and Advanced Training (IIFA), University of Évora, 
+7002-554 Évora, Portugal.
+(2)Mediterranean Institute for Agriculture, Environment and Development (MED), 
+University of Évora, 7006-554 Évora, Portugal.
+(3)Institute of Biophysics, Faculty of Medicine, University of Coimbra, 3000-548 
+Coimbra, Portugal.
+(4)Institute for Clinical and Biomedical Research (iCBR), Area of Environment, 
+Genetics and Oncobiology (CIMAGO), Faculty of Medicine, University of Coimbra, 
+3000-548 Coimbra, Portugal.
+(5)Center for Innovative Biomedicine and Biotechnology (CIBB), University of 
+Coimbra, 3000-548 Coimbra, Portugal.
+(6)Center of Veterinary Ophthalmology, Oftalvet, 4050-102 Porto, Portugal.
+(7)Institute of Experimental Pathology, Faculty of Medicine, University of 
+Coimbra, 3000-548 Coimbra, Portugal.
+(8)Clinical Academic Center of Coimbra (CACC), 3004-561 Coimbra, Portugal.
+(9)Department of Veterinary Medicine, University of Évora, 7004-516 Évora, 
+Portugal.
+
+Neoplasms of melanocytic origin are diseases relevant to dogs and cats' 
+ophthalmic oncology due to their incidence, potential visual loss, and 
+consequent decrease in life quality and expectancy. Despite its non-specific 
+clinical presentation, melanocytic neoplasms can be histologically distinguished 
+in melanocytomas, which present benign characteristics, and malignant melanomas. 
+The diagnosis often occurs in advanced cases, limiting the therapeutic options. 
+Surgery, cryotherapy, radiotherapy, photodynamic therapy (PDT), and laser are 
+currently available therapeutic strategies. As no clinical guidelines are 
+available, the treatment choice is primarily based on the clinician's 
+preference, proficiency, and the owner's financial constraints. While surgery is 
+curative in benign lesions, ocular melanomas present a variable response to 
+treatments, besides the potential of tumour recurrences or metastatic disease. 
+This review presents the currently available therapies for ocular melanocytic 
+neoplasms in dogs and cats, describing the therapeutic, indications, and 
+limitations. Additionally, new therapeutics being developed are presented and 
+discussed, as they can improve the current treatment options.
+
+DOI: 10.3390/bioengineering8120225
+PMCID: PMC8698280
+PMID: 34940378
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+212. J Imaging. 2021 Nov 30;7(12):255. doi: 10.3390/jimaging7120255.
+
+Evaluation of 2D-/3D-Feet-Detection Methods for Semi-Autonomous Powered 
+Wheelchair Navigation.
+
+Giménez CV(1), Krug S(1)(2), Qureshi FZ(1)(3), O'Nils M(1).
+
+Author information:
+(1)Department of Electronics Design, Mid Sweden University, Holmgatan 10, 851 70 
+Sundsvall, Sweden.
+(2)System Design Department, IMMS Institut für Mikroelektronik- und 
+Mechatronik-Systeme Gemeinnützige GmbH (IMMS GmbH), Ehrenbergstraße 27, 98693 
+Ilmenau, Germany.
+(3)Faculty of Science, University of Ontario Institute of Technology, 2000 
+Simcoe St. N., Oshawa, ON L1G OC5, Canada.
+
+Powered wheelchairs have enhanced the mobility and quality of life of people 
+with special needs. The next step in the development of powered wheelchairs is 
+to incorporate sensors and electronic systems for new control applications and 
+capabilities to improve their usability and the safety of their operation, such 
+as obstacle avoidance or autonomous driving. However, autonomous powered 
+wheelchairs require safe navigation in different environments and scenarios, 
+making their development complex. In our research, we propose, instead, to 
+develop contactless control for powered wheelchairs where the position of the 
+caregiver is used as a control reference. Hence, we used a depth camera to 
+recognize the caregiver and measure at the same time their relative distance 
+from the powered wheelchair. In this paper, we compared two different approaches 
+for real-time object recognition using a 3DHOG hand-crafted object descriptor 
+based on a 3D extension of the histogram of oriented gradients (HOG) and a 
+convolutional neural network based on YOLOv4-Tiny. To evaluate both approaches, 
+we constructed Miun-Feet-a custom dataset of images of labeled caregiver's feet 
+in different scenarios, with backgrounds, objects, and lighting conditions. The 
+experimental results showed that the YOLOv4-Tiny approach outperformed 3DHOG in 
+all the analyzed cases. In addition, the results showed that the recognition 
+accuracy was not improved using the depth channel, enabling the use of a 
+monocular RGB camera only instead of a depth camera and reducing the 
+computational cost and heat dissipation limitations. Hence, the paper proposes 
+an additional method to compute the caregiver's distance and angle from the 
+Powered Wheelchair (PW) using only the RGB data. This work shows that it is 
+feasible to use the location of the caregiver's feet as a control signal for the 
+control of a powered wheelchair and that it is possible to use a monocular RGB 
+camera to compute their relative positions.
+
+DOI: 10.3390/jimaging7120255
+PMCID: PMC8706737
+PMID: 34940723
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+213. JAMA Netw Open. 2021 Dec 1;4(12):e2133083. doi: 
+10.1001/jamanetworkopen.2021.33083.
+
+Association of Incarceration With Mortality by Race From a National Longitudinal 
+Cohort Study.
+
+Bovell-Ammon BJ(1)(2), Xuan Z(3), Paasche-Orlow MK(1)(4), LaRochelle MR(1)(4).
+
+Author information:
+(1)Section of General Internal Medicine, Boston Medical Center, Boston, 
+Massachusetts.
+(2)The Miriam Hospital, Lifespan, Providence, Rhode Island.
+(3)Department of Community Health Sciences, Boston University School of Public 
+Health, Boston, Massachusetts.
+(4)Boston University School of Medicine, Boston, Massachusetts.
+
+Comment in
+    JAMA Netw Open. 2021 Dec 1;4(12):e2140349.
+
+IMPORTANCE: The association between incarceration and long-term mortality risk 
+is unknown and may contribute to racial disparities in overall life expectancy.
+OBJECTIVE: To determine whether incarceration in the US is associated with an 
+increase in mortality risk and whether this association is different for Black 
+compared with non-Black populations.
+DESIGN, SETTING, AND PARTICIPANTS: This generational retrospective cohort study 
+used data from the National Longitudinal Survey of Youth 1979, a nationally 
+representative cohort of noninstitutionalized youths aged 15 to 22 years, from 
+January 1 to December 31, 1979, with follow-up through December 31, 2018. A 
+total of 7974 non-Hispanic Black and non-Hispanic non-Black participants were 
+included. Statistical analysis was performed from October 26, 2019, to August 
+31, 2021.
+EXPOSURES: Time-varying exposure of having experienced incarceration during 
+follow-up.
+MAIN OUTCOMES AND MEASURES: The main outcome was time to death. Cox proportional 
+hazards regression models were used to estimate hazard ratios (HRs) and 95% CIs, 
+adjusted for baseline sociodemographic, economic, and behavioral risk factors. 
+Models were evaluated for the full cohort and stratified by race.
+RESULTS: Of the 7974 individuals included in our sample, 4023 (50.5%) were male, 
+and 2992 (37.5%) identified as Black (median age, 18 [IQR, 17-20] years). During 
+a median follow-up of 35 years (IQR, 33-37 years), 478 participants were 
+incarcerated and 818 died. Unadjusted exposure to at least 1 incarceration 
+between 22 and 50 years of age was 11.5% (95% CI, 10.4%-12.7%) for Black 
+participants compared with 2.5% (95% CI, 2.1%-2.9%) for non-Black participants. 
+In the multivariable Cox proportional hazards model with the full cohort, 
+time-varying exposure to incarceration was associated with an increased 
+mortality rate (adjusted HR [aHR], 1.35; 95% CI, 0.97-1.88), a result that was 
+not statistically significant. In the models stratified by race, incarceration 
+was significantly associated with increased mortality among Black participants 
+(aHR, 1.65; 95% CI, 1.18-2.31) but not among non-Black participants (aHR, 1.17; 
+95% CI, 0.68-2.03).
+CONCLUSIONS AND RELEVANCE: In this cohort study with 4 decades of follow-up, 
+incarceration was associated with a higher mortality rate among Black 
+participants but not among non-Black participants. These findings suggest that 
+incarceration, which was prevalent and unevenly distributed, may have 
+contributed to the lower life expectancy of the non-Hispanic Black population in 
+the US.
+
+DOI: 10.1001/jamanetworkopen.2021.33083
+PMCID: PMC8703242
+PMID: 34940867 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr LaRochelle 
+reported receiving consulting funds for research paid to his institution by 
+OptumLabs. No other disclosures were reported.
+
+
+214. Medicine (Baltimore). 2021 Dec 23;100(51):e28159. doi: 
+10.1097/MD.0000000000028159.
+
+Early outcomes and long-term survival after kidney transplantation in elderly 
+versus younger recipients from the same donor in a matched-pairs analysis.
+
+Jankowska M(1), Bzoma B(1), Małyszko J(2)(3), Małyszko J(2)(3), Słupski M(4), 
+Kobus G(5), Włodarczyk Z(6), Rutkowski B(1), Dębska-Ślizień A(1).
+
+Author information:
+(1)Department of Nephrology, Transplantology and Internal Diseases, Medical 
+University of Gdańsk, Gdańsk, Poland.
+(2)Department of Nephrology, Dialysis and Internal Medicine, Medical University 
+of Warsaw, Warsaw, Poland.
+(3)Ist Department of Nephrology and Transplantology with Dialysis Unit, Medical 
+University of Bialystok, Bialystok, Poland.
+(4)Department of General, Hepatobiliary and Transplant Surgery, Collegium 
+Medicum Nicolaus Copernicus University Bydgoszcz, Bydgoszcz, Poland.
+(5)Department of Clinical Medicine, Medical University of Bialystok, Bialystok, 
+Poland.
+(6)Department of Transplantology and General Surgery, Collegium Medicum Nicolaus 
+Copernicus University Bydgoszcz, Bydgoszcz, Poland.
+
+The elderly are the fastest-growing population on waiting lists for kidney 
+transplantation (KTx). Recognized barriers to KTx in the elderly is early 
+post-transplant mortality and morbidity. To analyze the outcomes of KTx in 
+recipients older than 60 years and, simultaneously, in their younger paired 
+recipients, receiving a graft from the same donor.We included 328 kidney 
+transplant recipients in the study. The elderly kidney transplant recipients 
+(EKT) group included 164 patients aged 65 standard deviation (SD4) years. They 
+were paired with younger kidney transplant recipients (YKT) aged 45 (SD12) 
+years.The studied groups (EKT vs YKT) did not differ from the graft function 
+estimated 1 year after the transplantation (50.7 mL/min vs 54.0 mL/min), while 
+the estimated glomerular filtration rate decline was significantly faster in the 
+YKT group. One-year patient survival (93.9% vs 97.0%), 1-year graft survival 
+(90.4% vs 82.3%), and incidences of delayed graft function and acute rejection 
+did not differ between the EKT and YKT groups. Significantly more cardiovascular 
+complications and post-transplant diabetes mellitus were noticed in the EKT 
+group. The long-term patient and graft survivals were poorer in the EKT group 
+versus the YKT group, but death-censored graft survivals were the same. After 
+having excluded donor-derived graft factors, there were no differences in the 
+first-year outcome of KTx between recipients younger and older than 60 years. As 
+life expectancy is lower in the EKT group, the probability of patient and graft 
+survival was also significantly lower in this group. However, death-censored 
+graft survival was not different in the EKT and YKT groups.
+
+Copyright © 2021 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000028159
+PMCID: PMC8702131
+PMID: 34941068 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.
+
+
+215. Annu Rev Anim Biosci. 2022 Feb 15;10:177-201. doi: 
+10.1146/annurev-animal-013020-020412. Epub 2021 Dec 23.
+
+Concepts and Consequences of a Core Gut Microbiota for Animal Growth and 
+Development.
+
+Perlman D(1), Martínez-Álvaro M(2), Moraïs S(1), Altshuler I(3), Hagen LH(4), 
+Jami E(5), Roehe R(2), Pope PB(3)(4), Mizrahi I(1).
+
+Author information:
+(1)Department of Life Sciences, Ben-Gurion University of the Negev and the 
+National Institute for Biotechnology in the Negev, Be'er-Sheva, Israel; email: 
+imizrahi@bgu.ac.il.
+(2)Department of Agriculture, Horticulture and Engineering Sciences, SRUC 
+(Scotland's Rural College), Edinburgh, Scotland, United Kingdom.
+(3)Faculty of Biosciences, Norwegian University of Life Sciences, Aas, Norway; 
+email: phil.pope@nmbu.no.
+(4)Faculty of Chemistry, Biotechnology and Food Science, Norwegian University of 
+Life Sciences, Aas, Norway.
+(5)Department of Ruminant Science, Institute of Animal Sciences, Agricultural 
+Research Organization, Volcani Center, Rishon LeZion, Israel.
+
+Animal microbiomes are occasionally considered as an extension of host anatomy, 
+physiology, and even their genomic architecture. Their compositions encompass 
+variable and constant portions when examined across multiple hosts. The latter, 
+termed the core microbiome, is viewed as more accommodated to its host 
+environment and suggested to benefit host fitness. Nevertheless, discrepancies 
+in its definitions, characteristics, and importance to its hosts exist across 
+studies. We survey studies that characterize the core microbiome, detail its 
+current definitions and available methods to identify it, and emphasize the 
+crucial need to upgrade and standardize the methodologies among studies. We 
+highlight ruminants as a case study and discussthe link between the core 
+microbiome and host physiology and genetics, as well as potential factors that 
+shape it. We conclude with main directives of action to better understand the 
+host-core microbiome axis and acquire the necessary insights into its controlled 
+modulation.
+
+DOI: 10.1146/annurev-animal-013020-020412
+PMID: 34941382 [Indexed for MEDLINE]
+
+
+216. PLoS One. 2021 Dec 23;16(12):e0261231. doi: 10.1371/journal.pone.0261231. 
+eCollection 2021.
+
+Economic evaluation of population-based type 2 diabetes mellitus screening at 
+different healthcare settings in Vietnam.
+
+Toi PL(1)(2), Wu O(3), Thavorncharoensap M(1)(4), Srinonprasert V(1)(5), 
+Anothaisintawee T(1)(6), Thakkinstian A(1)(7), Phuong NK(2), Chaikledkaew 
+U(1)(4).
+
+Author information:
+(1)Mahidol University Health Technology Assessment (MUHTA) Graduate Program, 
+Mahidol University, Bangkok, Thailand.
+(2)Health Strategy and Policy Institute, Ministry of Health, Hanoi, Vietnam.
+(3)Health Economics and Health Technology Assessment (HEHTA), Institute of 
+Health and Wellbeing, University of Glasgow, Glasgow, United Kingdom.
+(4)Faculty of Pharmacy, Social and Administrative Pharmacy Division, Department 
+of Pharmacy, Mahidol University, Bangkok, Thailand.
+(5)Faculty of Medicine Siriraj Hospital, Health Policy Unit, Mahidol University, 
+Bangkok, Thailand.
+(6)Faculty of Medicine Ramathibodi Hospital, Department of Family Medicine, 
+Mahidol University, Bangkok, Thailand.
+(7)Faculty of Medicine Ramathibodi Hospital, Department of Clinical Epidemiology 
+and Biostatistics, Mahidol University, Bangkok, Thailand.
+
+INTRODUCTION: Few economic evaluations have assessed the cost-effectiveness of 
+screening type-2 diabetes mellitus (T2DM) in different healthcare settings. This 
+study aims to evaluate the value for money of various T2DM screening strategies 
+in Vietnam.
+METHODS: A decision analytical model was constructed to compare costs and 
+quality-adjusted life years (QALYs) of T2DM screening in different health care 
+settings, including (1) screening at commune health station (CHS) and (2) 
+screening at district health center (DHC), with no screening as the current 
+practice. We further explored the costs and QALYs of different initial screening 
+ages and different screening intervals. Cost and utility data were obtained by 
+primary data collection in Vietnam. Incremental cost-effectiveness ratios were 
+calculated from societal and payer perspectives, while uncertainty analysis was 
+performed to explore parameter uncertainties.
+RESULTS: Annual T2DM screening at either CHS or DHC was cost-effective in 
+Vietnam, from both societal and payer perspectives. Annual screening at CHS was 
+found as the best screening strategy in terms of value for money. From a 
+societal perspective, annual screening at CHS from initial age of 40 years was 
+associated with 0.40 QALYs gained while saving US$ 186.21. Meanwhile, one-off 
+screening was not cost-effective when screening for people younger than 35 years 
+old at both CHS and DHC.
+CONCLUSIONS: T2DM screening should be included in the Vietnamese health benefits 
+package, and annual screening at either CHS or DHC is recommended.
+
+DOI: 10.1371/journal.pone.0261231
+PMCID: PMC8700026
+PMID: 34941883 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+217. Lancet Infect Dis. 2022 Apr;22(4):541-551. doi:
+10.1016/S1473-3099(21)00448-5.  Epub 2021 Dec 20.
+
+Global burden and trends of sexually transmitted infections from 1990 to 2019: 
+an observational trend study.
+
+Zheng Y(1), Yu Q(2), Lin Y(3), Zhou Y(3), Lan L(3), Yang S(3), Wu J(4).
+
+Author information:
+(1)State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, 
+National Clinical Research Centre for Infectious Diseases, Collaborative 
+Innovation Centre for Diagnosis and Treatment of Infectious Diseases, The First 
+Affiliated Hospital, School of Medicine, Zhejiang University, Hangzhou, 
+Zhejiang, China; Department of General Practice, The First Affiliated Hospital, 
+School of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.
+(2)Department of Cardiology and Endodontics, The Stomatology Hospital, School of 
+Medicine, Zhejiang University, Hangzhou, Zhejiang, China.
+(3)State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, 
+National Clinical Research Centre for Infectious Diseases, Collaborative 
+Innovation Centre for Diagnosis and Treatment of Infectious Diseases, The First 
+Affiliated Hospital, School of Medicine, Zhejiang University, Hangzhou, 
+Zhejiang, China.
+(4)State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, 
+National Clinical Research Centre for Infectious Diseases, Collaborative 
+Innovation Centre for Diagnosis and Treatment of Infectious Diseases, The First 
+Affiliated Hospital, School of Medicine, Zhejiang University, Hangzhou, 
+Zhejiang, China. Electronic address: zjwujie@zju.edu.cn.
+
+Comment in
+    Lancet Infect Dis. 2022 Apr;22(4):447-448.
+    Lancet Infect Dis. 2022 Aug;22(8):1112-1113.
+    Lancet Infect Dis. 2022 Aug;22(8):1113-1114.
+
+BACKGROUND: Sexually transmitted infections (STIs) are a major public health 
+issue worldwide, but there is a paucity of literature on their burden and trends 
+globally. We aimed to assess the global disease burden and trends of STIs from 
+1990 to 2019.
+METHODS: In this observational trend study, we collected data on incident cases, 
+age-standardised incidence rate, and disability-adjusted life-years (DALYs), and 
+calculated age-standardised DALY rates, for five STIs (syphilis, chlamydia, 
+gonorrhoea, trichomonas, and genital herpes) between 1990 and 2019, by sex, 
+geographical region, and cause using data exclusively from the Global Burden of 
+Disease study 2019. The estimated annual percentage changes in the 
+age-standardised incidence rate and age-standardised DALY rate were calculated 
+to quantify the changing trend.
+FINDINGS: Globally, the age-standardised incidence rate of STIs showed a 
+decreasing trend with an estimated annual percentage change of -0·04 (95% 
+uncertainty interval [UI] -0·08 to 0·00) from 1990 to 2019, reaching 9535·71 per 
+100 000 person-years (8169·73 to 11 054·76) in 2019. The age-standardised DALY 
+rate showed a decreasing trend with an estimated annual percentage change of 
+-0·92 (-1·01 to -0·84) and reached 22·74 per 100 000 person-years (14·37 to 
+37·11) in 2019. The sub-Saharan African region had the highest age-standardised 
+incidence rate (19 973·12 per 100 000 person-years, 17 382·69 to 23 001·57) and 
+age-standardised DALY rate (389·32 per 100 000 person-years, 154·27 to 769·74). 
+Adolescents had the highest incidence rate (18 377·82 per 100 000 person-years, 
+14 040·38 to 23 443·31) and showed stable total STI trends, except for an upward 
+trend of syphilis between 2010 (347·65 per 100 000 person-years, 203·58 to 
+590·69) and 2019 (423·16 per 100 000 person-years, 235·70 to 659·01). Male 
+individuals had a higher age-standardised incidence rate (10 471·63 per 100 000 
+person-years, 8892·20 to 12 176·10) than female individuals (8602·40 per 100 000 
+person-years, 7358·00 to 10001·18), whereas female individuals had a higher 
+age-standardised DALY rate (33·31 per 100 000 person-years, 21·05 to 55·25) than 
+male individuals (12·11 per 100 000 person-years, 7·63 to 18·93).
+INTERPRETATION: Although most countries showed a decrease in age-standardised 
+rates of incidence and DALYs for STIs, the absolute incident cases and DALYs 
+increased from 1990 to 2019. Therefore, STIs still represent a global public 
+health challenge, especially in sub-Saharan Africa and Latin America, which 
+warrants more attention and health prevention service.
+FUNDING: Mega-Project of National Science and Technology for the 13th Five-Year 
+Plan of China and the National Natural Science Foundation of China.
+
+Copyright © 2022 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1473-3099(21)00448-5
+PMID: 34942091 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests We declare no competing 
+interests.
+
+
+218. J Affect Disord. 2022 Feb 15;299:470-474. doi: 10.1016/j.jad.2021.12.053.
+Epub  2021 Dec 21.
+
+Changes and explanations of suicide rates in China by province and gender over 
+the past three decades.
+
+Zhang J(1), Lyu J(2), Sun W(3), Wang L(4).
+
+Author information:
+(1)Central University of Finance and Economics, School of Sociology and 
+Psychology, Beijing, China; Department of Sociology, State University of New 
+York College at Buffalo, 1300 Elmwood Avenue, New York 14222, USA. Electronic 
+address: zhangj@buffalostate.edu.
+(2)Weifang Medical University, Weifang, Shandong, China.
+(3)Central University of Finance and Economics, School of Sociology and 
+Psychology, Beijing, China.
+(4)National Center for Chronic and Noncommunicable Disease Control and 
+Prevention, Chinese Centers for Disease Control and Prevention, Beijing, China. 
+Electronic address: wangli_19@aliyun.com.
+
+OBJECTIVES: This study is aimed to summarize the declining trends of suicide 
+rates by gender in China and in each of its provinces, and to explain the 
+changes from a public health perspective.
+STUDY DESIGN: This is a study with existing data.
+METHODS: Data of suicide mortality were provided by China CDC (1990 to 2017). 
+Data of suicide in each of the 33 provinces were aggregated every five years, 
+except for the year of 2017. A statistical model was performed with the 
+provincial region as the unit of analysis.
+RESULTS: The overall suicide rate in China decreased from 20.9/100,000 in 1990 
+to 7.2 in 2017, marking a decrease of suicide rate in China by 65%. The gender 
+ratio has increase from 0.88 in 1990 to 1.56 in 2017. Suicide rates have been 
+going down in each of the 33 provinces. The national suicide rates are 
+negatively correlated with GDP per capita, population density, and life 
+expectancy, but positively related to rural population density.
+CONCLUSIONS: The reduction of suicide rates in China is explained by the 
+reduction of psychological strains which is a consequence of the fast-growing 
+economy in the country. Given its large population and rapid decrease of the 
+suicide deaths, China contributed to the global reduction of suicide 
+mortalities.
+
+Copyright © 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jad.2021.12.053
+PMID: 34942219 [Indexed for MEDLINE]
+
+
+219. Semin Thromb Hemost. 2022 Mar;48(2):253-255. doi: 10.1055/s-0041-1740148.
+Epub  2021 Dec 23.
+
+Enhanced Half-Life Recombinant Factor VIII Concentrates for Hemophilia A: Final 
+Results from Extension Studies.
+
+Di Minno MND(1), Minno AD(2), Calcaterra I(3), Cimino E(3), Dell'Aquila F(3), 
+Franchini M(4).
+
+Author information:
+(1)Department of Translational Medical Sciences, Federico II University, Naples, 
+Italy.
+(2)Dipartimento di Farmacia, Università degli Studi di Napoli "Federico II," 
+Napoli, Italy.
+(3)Department of Clinical Medicine and Surgery, Federico II University, Naples, 
+Italy.
+(4)Department of Haematology and Transfusion Medicine, "Carlo Poma" Hospital, 
+Mantua, Italy.
+
+DOI: 10.1055/s-0041-1740148
+PMID: 34942666 [Indexed for MEDLINE]
+
+Conflict of interest statement: M.N.D.D.M. reports personal fees and 
+nonfinancial support from Bayer, grants, personal fees, and nonfinancial support 
+from Pfizer, personal fees and nonfinancial support from SOBI, grants, personal 
+fees, and nonfinancial support from Takeda, personal fees and nonfinancial 
+support from Roche, grants, personal fees, and nonfinancial support from 
+Novo-Nordisk, outside the submitted work. E.C. reports personal fees from Pfizer 
+and personal fees from Bayer, outside the submitted work. All the other authors 
+report no conflict of interest.
+
+
+220. Antioxidants (Basel). 2021 Dec 5;10(12):1950. doi: 10.3390/antiox10121950.
+
+Clinical Diagnosis and Treatment of Leigh Syndrome Based on SURF1: Genotype and 
+Phenotype.
+
+Lee IC(1)(2), Chiang KL(3).
+
+Author information:
+(1)Division of Pediatric Neurology, Department of Pediatrics, Chung Shan Medical 
+University Hospital, Taichung 40201, Taiwan.
+(2)Institute of Medicine, School of Medicine, Chung Shan Medical University, 
+Taichung 40201, Taiwan.
+(3)Department of Pediatric Neurology, Kuang-Tien General Hospital, Taichung 
+43303, Taiwan.
+
+SURF1 encodes the assembly factor for maintaining the antioxidant of cytochrome 
+c oxidase (COX) stability in the human electron respiratory chain. Mutations in 
+SURF1 can cause Leigh syndrome (LS), a subacute neurodegenerative 
+encephalopathy, characterized by early onset (infancy), grave prognosis, and 
+predominant symptoms presenting in the basal ganglia, thalamus, brainstem, 
+cerebellum, and peripheral nerves. To date, more than sixty different SURF1 
+mutations have been found to cause SURF1-associated LS; however, the 
+relationship between genotype and phenotype is still unclear. Most 
+SURF1-associated LS courses present as typical LS and cause early mortality 
+(before the age of ten years). However, 10% of the cases present with atypical 
+courses with milder symptoms and increased life expectancy. One reason for this 
+inconsistency may be due to specific duplications or mutations close to the 
+C-terminus of the SURF1 protein appearing to cause less protein decay. 
+Furthermore, the treatment for SURF1-associated LS is unsatisfactory. A 
+ketogenic diet is most often prescribed and has proven to be effective. 
+Supplementing with coenzyme Q and other cofactors is also a common treatment 

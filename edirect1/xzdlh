@@ -1,0 +1,1000 @@
+Shanghai Institute of Nutrition and Health, University of Chinese Academy of 
+Sciences, Chinese Academy of Sciences, shanghai 200031, China.
+(5)Channing Division of Network Medicine, Brigham and Women's Hospital, Harvard 
+Medical School, Boston, MA, USA.
+(6)Department of Computer Science, Guangdong AIB Polytechnic College, Guangzhou 
+510507, China.
+(7)CAS Key Laboratory of Tissue Microenvironment and Tumor, Shanghai Institute 
+of Nutrition and Health, University of Chinese Academy of Sciences, Chinese 
+Academy of Sciences, Shanghai 200031, China.
+
+COVID-19, a severe respiratory disease caused by a new type of coronavirus 
+SARS-CoV-2, has been spreading all over the world. Patients infected with 
+SARS-CoV-2 may have no pathogenic symptoms, i.e., presymptomatic patients and 
+asymptomatic patients. Both patients could further spread the virus to other 
+susceptible people, thereby making the control of COVID-19 difficult. The two 
+major challenges for COVID-19 diagnosis at present are as follows: (1) patients 
+could share similar symptoms with other respiratory infections, and (2) patients 
+may not have any symptoms but could still spread the virus. Therefore, new 
+biomarkers at different omics levels are required for the large-scale screening 
+and diagnosis of COVID-19. Although some initial analyses could identify a group 
+of candidate gene biomarkers for COVID-19, the previous work still could not 
+identify biomarkers capable for clinical use in COVID-19, which requires 
+disease-specific diagnosis compared with other multiple infectious diseases. As 
+an extension of the previous study, optimized machine learning models were 
+applied in the present study to identify some specific qualitative host 
+biomarkers associated with COVID-19 infection on the basis of a publicly 
+released transcriptomic dataset, which included healthy controls and patients 
+with bacterial infection, influenza, COVID-19, and other kinds of coronavirus. 
+This dataset was first analysed by Boruta, Max-Relevance and Min-Redundancy 
+feature selection methods one by one, resulting in a feature list. This list was 
+fed into the incremental feature selection method, incorporating one of the 
+classification algorithms to extract essential biomarkers and build efficient 
+classifiers and classification rules. The capacity of these findings to 
+distinguish COVID-19 with other similar respiratory infectious diseases at the 
+transcriptomic level was also validated, which may improve the efficacy and 
+accuracy of COVID-19 diagnosis.
+
+Copyright © 2021 Lei Chen et al.
+
+DOI: 10.1155/2021/9939134
+PMCID: PMC8272456
+PMID: 34307679 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there is no conflict of 
+interest regarding the publication of this paper.
+
+
+214. SSM Popul Health. 2021 Jun 27;15:100858. doi: 10.1016/j.ssmph.2021.100858. 
+eCollection 2021 Sep.
+
+A syndemic of psychiatric morbidity, substance misuse, violence, and poor 
+physical health among young Scottish men with reduced life expectancy.
+
+Coid J(1)(2), Zhang Y(1)(3), Bebbington P(4), Ullrich S(2), de Stavola B(4), 
+Bhui K(5), Tsai AC(6)(7).
+
+Author information:
+(1)Mental Health Center and Psychiatric Laboratory, The State Key Laboratory of 
+Biotherapy, West China Hospital of Sichuan University, Chengdu, Sichuan, China.
+(2)Wolfson Institute of Preventive Medicine, Queen Mary University of London, 
+London, UK.
+(3)Harvard T.H. Chan School of Public Health, Boston, MA, USA.
+(4)Department of Mental Health Sciences, University College London, London, UK.
+(5)Department of Psychiatry & Nuffield Department of Primary Care Health 
+Sciences Medical Sciences Division, University of Oxford, London, UK.
+(6)Center for Global Health and Mongan Institute, Massachusetts General 
+Hospital, Boston, MA, USA.
+(7)Harvard Medical School, Boston, MA, USA.
+
+Erratum in
+    SSM Popul Health. 2021 Oct 04;16:100940.
+
+BACKGROUND: Scotland has the shortest life expectancy in Western Europe, driven 
+by high rates of cancer, suicides, alcohol-related causes and drug-related 
+poisonings. These disparities cannot be explained solely by socioeconomic 
+deprivation. Our aim was to investigate whether a syndemic in a 
+socioeconomically deprived area of Glasgow might account for premature mortality 
+among men.
+METHODS: We analysed data from two cross-sectional population surveys: a 
+national sample of 1916 British men and another of 765 men in Glasgow East. The 
+survey included men aged 18-34, and was undertaken in 2011 to study correlates 
+of violence. Questionnaires covered current physical health, psychiatric 
+symptoms, substance misuse, and crime and violence. Syndemic components were 
+identified using confirmatory factor analysis. Associations and synergistic 
+interactions between these variables and health status were estimated using 
+logistic regression.
+RESULTS: An aggregation of multiple health conditions and health-related 
+behaviours was found in Glasgow East. A syndemic model of joint effects, 
+adducing a four-component latent variable (violence, substance dependence, 
+psychiatric morbidity and a diathesis of biological/behavioural risk) showed 
+synergy between components and explained persistent disparities in poor physical 
+health/chronic health conditions. Effect modification was found between the 
+general syndemic factor and contextual variables at individual and social 
+environmental level according to location.
+CONCLUSIONS: Syndemic effects from synergistic interactions were confirmed 
+between psychiatric morbidity, substance misuse, violence, and 
+biological/behavioural risk for physical health. A hypothetical model was 
+developed to explain how the syndemic leads to potentially life-threatening 
+risks to young men, both currently and as precursors of physical health 
+conditions which may shorten their lives in the future.
+
+© 2021 Published by Elsevier Ltd.
+
+DOI: 10.1016/j.ssmph.2021.100858
+PMCID: PMC8258690
+PMID: 34307825
+
+
+215. East Afr Health Res J. 2018;2(2):168-180. doi: 10.24248/EAHRJ-D-18-00034.
+Epub  2018 Nov 23.
+
+Food Safety, Health Management, and Biosecurity Characteristics of Poultry Farms 
+in Arusha City, Northern Tanzania, Along a Gradient of Intensification.
+
+Sindiyo E(1), Maganga R(2), Thomas KM(3), Benschop J(4), Swai E(5), Shirima 
+G(1), Zadoks RN(2).
+
+Author information:
+(1)School of Life Sciences and Bio-Engineering, Nelson Mandela African 
+Institution of Science and Technology, Arusha, Tanzania.
+(2)Institute of Biodiversity, Animal Health & Comparative Medicine, College of 
+Medical, Veterinary and Life Sciences, University of Glasgow, Glasgow, UK.
+(3)Department of Preventive and Social Medicine, Dunedin School of Medicine, 
+University of Otago, Dunedin, New Zealand.
+(4)EpiLab, School of Veterinary Science, Massey University, Palmerston North, 
+New Zealand.
+(5)Ministry of Livestock and Fisheries Development, Dar es Salaam, Tanzania.
+
+BACKGROUND: With the growth, urbanisation, and changing consumption patterns of 
+Tanzania's human population, new livestock production systems are emerging. 
+Intensification of poultry production may result in opportunities and threats 
+for food safety, such as improved awareness of biosecurity or increasing 
+prevalence of foodborne pathogens including nontyphoidal Salmonella or 
+Campylobacter spp. We conducted a semiquantitative analysis of poultry 
+production systems in northern Tanzania, with emphasis on biosecurity, health 
+management practices, and prevalence of foodborne pathogens, to gain insight 
+into potential associations between intensification and food safety.
+METHODS: Interviews were conducted with managers of 40 poultry farms, with equal 
+representation of 4 production systems (extensive, semi-intensive, or intensive 
+production with indigenous chickens, and broiler farming). Per farm, up to 10 
+birds (total, 386) were tested for cloacal shedding of nontyphoidal Salmonella, 
+with a subset of farms tested for Campylobacter. Data were analysed using 
+univariate statistics, and results were discussed during feedback workshops with 
+participating farmers and extension officers.
+RESULTS: Clear differences existed between farm types with regard to 
+implementation of biosecurity and health management practices and use of 
+extension services. By contrast, prevalence of foodborne pathogens (6 of 40 
+farms or 15% for nontyphoidal Salmonella and 13 of 26 farms or 50% for 
+Campylobacter spp.) was not farm-type specific, indicating that it is driven by 
+other factors. Across farming systems, knowledge and awareness of the presence 
+of antimicrobials in poultry feed and the need to abide by post-treatment 
+withdrawal times were limited, as was access to impartial professional advice 
+regarding treatment.
+CONCLUSION: Different control measures may be needed to protect poultry health 
+compared to public health, and improvements in information provision may be 
+needed for both.
+
+© The East African Health Research Commission 2018.
+
+DOI: 10.24248/EAHRJ-D-18-00034
+PMCID: PMC8279270
+PMID: 34308188
+
+Conflict of interest statement: Competing Interests: None declared.
+
+
+216. Oncologist. 2021 Nov;26(11):e1992-e2001. doi: 10.1002/onco.13913. Epub 2021
+Aug  11.
+
+Association Between Caregiver-Oncologist Discordance in Patient's Life 
+Expectancy Estimates and Caregiver Perceived Autonomy Support by the Oncologist.
+
+Tuch G(1), Sanapala C(2), Mohile SG(2), Duberstein PR(3), Soto-Perez-de-Celis 
+E(4), Xu H(5), Culakova E(5), Flannery M(6), Yousefi-Nooraie R(7), Epstein 
+RM(8)(9), McHugh C(2), Aarne V(10), Kim H(2), Geer J(11), O'Rourke MA(12), 
+Vogelzang NJ(13), Loh KP(2).
+
+Author information:
+(1)Department of Aged Care, Alfred Health, Melbourne, Australia.
+(2)Division of Hematology/Oncology, Department of Medicine, James P Wilmot 
+Cancer Institute, University of Rochester Medical Center, Rochester, New York, 
+USA.
+(3)Department of Health Behavior, Society, and Policy, Rutgers School of Public 
+Health, Piscataway, New Jersey, USA.
+(4)Department of Geriatrics, Instituto Nacional de Ciencias Medicas y Nutricion 
+Salvador Zubiran, Mexico City, Mexico.
+(5)Department of Surgery, Cancer Control, University of Rochester Medical 
+Center, Rochester, New York, USA.
+(6)School of Nursing, University of Rochester Medical Center, Rochester, New 
+York, USA.
+(7)Department of Public Health Sciences, University of Rochester Medical Center, 
+Rochester, New York, USA.
+(8)Department of Family Medicine, University of Rochester Medical Center, 
+Rochester, New York, USA.
+(9)Department of Medicine, Palliative Care, University of Rochester Medical 
+Center, Rochester, New York, USA.
+(10)SCOREboard Advisory Group, University of Rochester Medical Center, 
+Rochester, New York, USA.
+(11)Metro Minnesota Community Oncology Research Program, St. Louis Park, 
+Minnesota, USA.
+(12)National Cancer Institute Community Oncology Research Program (NCORP) of the 
+Carolinas (Greenville Health System NCORP), Greenville, South Carolina, USA.
+(13)Nevada Cancer Research Foundation NCORP, Las Vegas, Nevada, USA.
+
+BACKGROUND: Caregiver perceived autonomy support by the oncologist is important 
+for caregiver well-being and may be affected by the patient's survival. We 
+determined the association of caregiver-oncologist discordance in patient's life 
+expectancy estimates with perceived autonomy support over time and whether the 
+association differed by patient survival status.
+MATERIALS AND METHODS: We used data from a geriatric assessment 
+cluster-randomized trial (URCC 13070) that recruited patients aged at least 
+70 years with incurable cancer considering or receiving treatment, their 
+caregivers, and their oncologists. At baseline, caregivers and oncologists were 
+asked to estimate patient's life expectancy (0-6 months, 7-12 months, 1-2 years, 
+2-5 years, and >5 years; any difference in response was considered discordant). 
+At 4-6 weeks, 3 months, and 6 months, caregivers completed the Health Care 
+Climate Questionnaire (HCCQ), which measured perceived autonomy support by the 
+oncologist. Generalized estimating equation modeling was conducted to assess the 
+association of baseline caregiver-oncologist discordance with longitudinal HCCQ 
+scores, stratified by patient 6-month survival status.
+RESULTS: Discordant life expectancy estimates were present in 72.0% of dyads. In 
+multivariate analyses, caregiver-oncologist discordance in patient's life 
+expectancy estimates was associated with higher caregiver HCCQ scores. In 
+stratified analysis, caregiver-oncologist discordance was associated with lower 
+caregiver HCCQ scores (β = -3.46; 95% CI, -4.64 to -2.29) among patients who 
+died within 6 months but with higher caregiver HCCQ scores (β = 1.33; 95% CI, 
+0.63-2.04) among patients who survived beyond 6 months.
+CONCLUSION: Interventions aimed at mitigating discordance need to consider its 
+association with caregiver perceived autonomy support and patient's survival in 
+order to better inform caregiver expectations.
+IMPLICATIONS FOR PRACTICE: Among patients who died within the first 6 months, 
+caregivers who estimated a different length of life for the patient compared 
+with oncologists were more likely to report lower support from the oncologist, 
+whereas the opposite relationship was seen within patients who survived beyond 
+the first 6 months. When designing interventions to improve caregiver 
+understanding of the patient's prognosis, its relationship with 
+caregiver-perceived support and patient's survival needs to be considered.
+
+© 2021 AlphaMed Press.
+
+DOI: 10.1002/onco.13913
+PMCID: PMC8571759
+PMID: 34309111 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosures of potential conflicts of interest 
+may be found at the end of this article.
+
+
+217. Minerva Pediatr (Torino). 2021 Dec;73(6):588-605. doi: 
+10.23736/S2724-5276.21.06544-7. Epub 2021 Jul 26.
+
+Cardiometabolic risk in childhood cancer survivors.
+
+Luongo C(1), Randazzo E(2), Iughetti L(3), DI Iorgi N(4), Loche S(5), Maghnie 
+M(4), Valerio G(6), Delvecchio M(7).
+
+Author information:
+(1)Department of Woman, Child, General and Specialized Surgery, Luigi Vanvitelli 
+University of Campania, Naples, Italy.
+(2)Unit of Pediatric Endocrinology and Diabetes, Department of Clinical and 
+Experimental Medicine, University of Pisa, Pisa, Italy.
+(3)Unit of Pediatrics, Department of Medical and Surgical Sciences for Mothers, 
+Children and Adults, University of Modena and Reggio Emilia, Modena, Italy.
+(4)Department of Pediatrics, IRCCS Istituto Giannina Gaslini, Genoa, Italy.
+(5)Unit of Pediatric Endocrinology, Ospedale Pediatrico Microcitemico &quot;A. 
+Cao, &quot; Cagliari, Italy.
+(6)Department of Movement Sciences and Wellbeing, University of Naples 
+&quot;Parthenope, &quot; Naples, Italy.
+(7)Unit of Metabolic Disorders and Genetics, Giovanni XXIII Children's Hospital, 
+Bari, Italy - mdelvecchio75@gmail.com.
+
+The Italian Cancer Registry Association has estimated that for the five-year 
+period 2016-2020, in line with the previous five years, approximately 7000 
+neoplasms have been diagnosed among children and 4000 among adolescents. 
+Leukemias, brain tumors and lymphomas together account for more than two-thirds 
+of all pediatric cancers. Fortunately, the five-years survival rate has 
+progressively improved reaching 80% thanks to the continuing improvement of 
+therapeutic protocols but most of these cancer survivors will have at least one 
+chronic health condition by 40 years of age. Long-term complications concern 
+various organs and systems and have a multifactorial etiopathogenesis. Obesity, 
+diabetes, and metabolic syndrome represent chronic diseases that affect life 
+expectancy. Cardiovascular risk partly linked to therapies and genetic 
+susceptibility and partly linked to the presence of obesity, diabetes and 
+metabolic syndrome predispose childhood cancer survivors to heart failure, 
+coronary artery disease, valvular disease, arrhythmia. Hence the cardio- 
+metabolic risk of childhood cancer survivors can have a significant impact on 
+their lives, families, and on society at-large. Therefore, it is very important 
+to know the risk factors that predispose to the development of cardio-metabolic 
+pathologies in childhood cancer survivors, the possible primary and secondary 
+prevention strategies, the methods of surveillance and the therapeutic 
+approaches.
+
+DOI: 10.23736/S2724-5276.21.06544-7
+PMID: 34309347 [Indexed for MEDLINE]
+
+
+218. JMIR Form Res. 2021 Jul 26;5(7):e29159. doi: 10.2196/29159.
+
+Use of Telemedicine in Depression Care by Physicians: Scoping Review.
+
+Echelard JF(1).
+
+Author information:
+(1)Faculty of Medicine, Université de Montréal, Montreal, QC, Canada.
+
+BACKGROUND: Depression is a common disorder, and it creates burdens on people's 
+mental and physical health as well as societal costs. Although traditional 
+in-person consultations are the usual mode of caring for patients with 
+depression, telemedicine may be well suited to psychiatric assessment and 
+management. Telepsychiatry can be defined as the use of information and 
+communication technologies such as videoconferencing and telephone calls for the 
+care of psychopathologies.
+OBJECTIVE: This review aims to evaluate the extent and nature of the existing 
+literature on the use of telemedicine for the care of depression by physicians. 
+This review also aims to examine the effects and perceptions regarding this 
+virtual care and determine how it compares to traditional in-person care.
+METHODS: The Arksey and O'Malley framework and the PRISMA-ScR (Preferred 
+Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping 
+Reviews) guidelines were followed. Relevant articles were identified through a 
+search of three databases (MEDLINE, Cochrane Database of Systematic Reviews, and 
+PsycArticles) on October 11, 2020. The search terms were "(virtual OR 
+telemedicine OR teleconsultation* OR telehealth OR phone* OR webcam* OR 
+telepsychiatry) AND (depress*)". Eligibility criteria were applied to select 
+studies about the use of telemedicine for the care of patients with depression 
+specifically by physicians. An Excel file (Microsoft Corporation) was used to 
+chart data from all included articles.
+RESULTS: The search resulted in the identification of 28 articles, and all 13 
+nonreview studies were analyzed in detail. Most nonreview studies were conducted 
+in the United States during the last decade. Most telemedicine programs were led 
+by psychiatrists, and the average study population size was 135. In all 
+applicable studies, telepsychiatry tended to perform at least as well as 
+in-person care regarding improvement in depression severity, patient 
+satisfaction, quality of life, functioning, cost-effectiveness, and most other 
+perceptions and variables. Cultural sensitivity and collaborative care were part 
+of the design of some telemedicine programs.
+CONCLUSIONS: Additional randomized, high-quality studies are recommended to 
+evaluate various outcomes of the use of telemedicine for depression care, 
+including depression variables, perceptions, health care outcomes and other 
+outcomes. Studies should be conducted in various clinical contexts, including 
+primary care. Telepsychiatry is a promising modality of care for patients 
+suffering from depression.
+
+©Jean-François Echelard. Originally published in JMIR Formative Research 
+(https://formative.jmir.org), 26.07.2021.
+
+DOI: 10.2196/29159
+PMCID: PMC8367159
+PMID: 34309571
+
+Conflict of interest statement: Conflicts of Interest: None declared.
+
+
+219. Diabetologia. 2021 Oct;64(10):2228-2236. doi: 10.1007/s00125-021-05503-6.
+Epub  2021 Jul 26.
+
+Development of a life expectancy table for individuals with type 1 diabetes.
+
+Tran-Duy A(1), Knight J(2), Clarke PM(2)(3), Svensson AM(4)(5), Eliasson B(4), 
+Palmer AJ(2)(6).
+
+Author information:
+(1)Centre for Health Policy, Melbourne School of Population and Global Health, 
+The University of Melbourne, Melbourne, VIC, Australia. an.tran@unimelb.edu.au.
+(2)Centre for Health Policy, Melbourne School of Population and Global Health, 
+The University of Melbourne, Melbourne, VIC, Australia.
+(3)Health Economics Research Centre, Nuffield Department of Population Health, 
+University of Oxford, Old Road Campus, Headington, UK.
+(4)Department of Molecular and Clinical Medicine, Institute of Medicine, 
+University of Gothenburg, Gothenburg, Sweden.
+(5)Swedish National Diabetes Register, Centre of Registers, Gothenburg, Sweden.
+(6)Menzies Institute for Medical Research, The University of Tasmania, Hobart, 
+Tasmania, Australia.
+
+AIMS/HYPOTHESIS: Tables reporting life expectancies by common risk factors are 
+available for individuals with type 2 diabetes; however, there is currently no 
+published equivalent for individuals with type 1 diabetes. We aimed to develop a 
+life expectancy table using a recently published simulation model for 
+individuals with type 1 diabetes.
+METHODS: The simulation model was developed using data from a real-world 
+population of patients with type 1 diabetes selected from the Swedish National 
+Diabetes Register. The following six important risk factors were included in the 
+life table: sex; age; current smoking status; BMI; eGFR; and HbA1c. For each of 
+1024 cells in the life expectancy table, a synthetic cohort containing 1000 
+individuals was created, with other risk factors assigned values representative 
+of the real-world population. The simulations were executed for all synthetic 
+cohorts and life expectancy for each cell was calculated as mean survival time 
+of the individuals in the respective cohort.
+RESULTS: There was a substantial variation in life expectancy across patients 
+with different risk factor levels. Life expectancy of 20-year-old men varied 
+from 29.3 years to 50.6 years, constituting a gap of 21.3 years between those 
+with worst and best risk factor levels. In 20-year-old women, this gap was 
+18.9 years (life expectancy range 35.0-53.9 years). The variation in life 
+expectancy was a function of the combination of risk factor values, with HbA1c 
+and eGFR consistently showing a negative and positive correlation, respectively, 
+with life expectancy at any level combination of other risk factors. Individuals 
+with the lowest level (20 kg/m2) and highest level of BMI (35 kg/m2) had a lower 
+life expectancy compared with those with a BMI of 25 kg/m2. Non-smokers and 
+women had a higher life expectancy than smokers and men, respectively, with the 
+difference in life expectancy ranging from 0.4 years to 2.7 years between 
+non-smokers and smokers, and from 1.9 years to 5.9 years between women and men, 
+depending on levels of other risk factors.
+CONCLUSIONS/INTERPRETATION: The life expectancy table generated in this study 
+shows a substantial variation in life expectancy across individuals with 
+different modifiable risk factors. The table allows for rapid communications of 
+risk in an easily understood format between healthcare professionals, health 
+economists, researchers, policy makers and patients. Particularly, it supports 
+clinicians in their discussion with patients about the benefits of improving 
+risk factors.
+
+© 2021. The Author(s).
+
+DOI: 10.1007/s00125-021-05503-6
+PMCID: PMC8310903
+PMID: 34309688 [Indexed for MEDLINE]
+
+
+220. Parasite Immunol. 2021 Oct;43(10-11):e12874. doi: 10.1111/pim.12874. Epub
+2021  Aug 2.
+
+Influence of sex hormones on the immune response to leishmaniasis.
+
+de Araújo Albuquerque LP(1), da Silva AM(2)(3), de Araújo Batista FM(4), de 
+Souza Sene I(3), Costa DL(5), Costa CHN(6).
+
+Author information:
+(1)Nursing Department, Federal University of Piauí, Teresina, Brazil.
+(2)Postgraduate Program in Biotechnology, Northeast Network of Biotechnology, 
+Federal University of Piauí, Teresina, Brazil.
+(3)Leishmaniasis Laboratory, Federal University of Piauí, Teresina, Brazil.
+(4)Federal University of Piauí and Intelligence Center in Emerging and Neglected 
+Tropical Conditions (CIATEN, Teresina, Brazil.
+(5)Maternal and Child Department, Federal University of Piauí and Intelligence 
+Center in Emerging and Neglected Tropical Conditions (CIATEN, Teresina, Brazil.
+(6)Community Medicine Department, Federal University of Piauí and Intelligence 
+Center in Emerging and Neglected Tropical Conditions (CIATEN, Teresina, Brazil.
+
+The differences in morbidity and mortality patterns and life expectancy between 
+the sexes are well established in different infectious and parasitic conditions, 
+such as in leishmaniases, in which biological, genetic, sexual and hormonal 
+variations can modulate the immune response indicating greater infectivity, 
+prevalence and clinical severity in men. In this regard, in seeking the 
+understanding of factors related to protection and susceptibility to infection, 
+this review aimed to discuss the influence of sex hormones on the immune 
+response to leishmaniases. In the literature, sex hormone variations promote 
+differences in the innate, humoral and cell-mediated immune response, leading to 
+greater susceptibility, mortality and complications in males. Epidemiological 
+estimates confirm these results, showing a predominance of the disease, in its 
+different clinical forms, in men and suggesting that sexual variations influence 
+immunomodulatory mechanisms since the prevalence of cases comprises the 
+post-puberty and adulthood period. In this perspective, the action of sex 
+hormones has been investigated in different clinical models, highlighting the 
+potential of testosterone in immunosuppression, given its association with 
+greater susceptibility and poor control of parasite load and the induction of 
+cell apoptosis and attenuation of pro-inflammatory signalling pathways. 
+Therefore, hormonal variations influence the immune response among males and 
+females against leishmaniases, in which androgens may present immunosuppressive 
+potential, while steroids present immunomodulatory characteristics.
+
+© 2021 John Wiley & Sons Ltd.
+
+DOI: 10.1111/pim.12874
+PMID: 34309860 [Indexed for MEDLINE]
+
+
+221. Headache. 2021 Oct;61(9):1351-1363. doi: 10.1111/head.14194. Epub 2021 Jul
+26.
+
+Long-term (48 weeks) effectiveness, safety, and tolerability of erenumab in the 
+prevention of high-frequency episodic and chronic migraine in a real world: 
+Results of the EARLY 2 study.
+
+Barbanti P(1)(2), Aurilia C(1), Cevoli S(3), Egeo G(1), Fofi L(1), Messina R(4), 
+Salerno A(5), Torelli P(6), Albanese M(7), Carnevale A(8), Bono F(9), D'Amico 
+D(10), Filippi M(4), Altamura C(11), Vernieri F(11); EARLY Study Group.
+
+Collaborators: Colombo B, Frediani F, Mercuri B, D'Onofrio F, Grazzi L, Aguggia 
+M, Pierangeli G, Favoni V, Finocchi C, Di Fiore P, Costa CM, Brunelli N, 
+Fallacara A, Bertuzzo D, Zucco M, Di Clemente L, Trimboli M, Pascarella A, Manzo 
+L.
+
+Author information:
+(1)Headache and Pain Unit, IRCCS San Raffaele Pisana, Rome, Italy.
+(2)San Raffaele University, Rome, Italy.
+(3)IRCCS Istituto delle Scienze Neurologiche, Bologna, Italy.
+(4)Neurology Unit, IRCCS San Raffaele Scientific Institute, Vita-Salute San 
+Raffaele University, Milan, Italy.
+(5)San Giovanni Addolorata Hospital, Rome, Italy.
+(6)Unit of Neurology, Department of Medicine and Surgery, Headache Center, 
+University of Parma, Parma, Italy.
+(7)Neurophysiopathology Unit, Headache Center, University Hospital of Rome 
+"TorVergata", Rome, Italy.
+(8)San Filippo Neri Hospital, Rome, Italy.
+(9)Center for Headache and Intracranial Pressure Disorders, Neurology Unit, 
+A.O.U. Mater Domini, Catanzaro, Italy.
+(10)Neuroalgology Unit, Headache Center Fondazione IRCCS Istituto Neurologico 
+"Carlo Besta", Milan, Italy.
+(11)Headache and Neurosonology Unit, Policlinico Universitario Campus 
+Bio-Medico, Rome, Italy.
+
+OBJECTIVE: To evaluate the long-term effectiveness, safety, and tolerability of 
+erenumab in a real-world migraine population, looking for putative predictors of 
+responsiveness.
+BACKGROUND: Erenumab proved to be effective, safe, and well tolerated in the 
+prevention of episodic migraine (EM) and chronic migraine (CM) in long-term 
+extension studies of double-blind, placebo-controlled trials in patients with no 
+more than two (EM) or three (CM) prior preventive treatment failures.
+METHODS: A 48-week, multicenter, longitudinal cohort real-life study was 
+conducted at 15 headache centers across eight Italian regions between December 
+20, 2018 and July 31, 2020. We considered all consecutive patients with 
+high-frequency episodic migraine (HFEM) or CM aged 18-65 years. Each patient was 
+treated with erenumab 70 mg, administered monthly. The dose was switched to 
+140 mg in nonresponders and in responders who had become nonresponders for at 
+least 4 weeks. Change in monthly migraine days (MMDs) or monthly headache days 
+(MHDs) at Weeks 45-48 compared with baseline was the primary efficacy endpoint. 
+Secondary endpoints encompassed variation in monthly analgesic intake, 
+achievement of a ≥50%, ≥75%, or 100% reduction in migraine or headache days, and 
+any change in the Visual Analogue Scale (VAS) and Headache Impact Test-6 scores 
+(HIT-6) during the same time interval.
+RESULTS: A total of 242 patients with migraine received at least one dose of 
+erenumab 70 mg and were considered for safety analysis, whereas 221 received a 
+monthly erenumab dose for ≥48 weeks and were included in the effectiveness and 
+safety analysis set. All patients had previously been treated unsuccessfully 
+with ≥3 migraine-preventive medication classes. From baseline to Weeks 45-48, 
+erenumab treatment reduced MMD by 4.3 ± 5.3 (mean ± SD) in patients with HFEM, 
+and MHD by 12.8 ± 8.9 (mean ± SD) in subjects with CM. VAS and HIT-6 scores were 
+decreased by 1.8 ± 1.9 (mean ± SD) and 12.3 ± 11 (mean ± SD) in HFEM, and by 
+3.0 ± 2.2 (mean ± SD) and 13.1 ± 11.2 (mean ± SD) in CM. Median monthly 
+analgesic intake passed from 11.0 (interquartile range [IQR] 10.0-13.0) to 5 
+(IQR 2.0-8.0) in HFEM and from 20.0 (IQR 15.0-30.0) to 6.0 (IQR 3.8-10.0) in CM. 
+The ≥50% responders were 56.1% (32/57) in HFEM and 75.6% (124/164) in CM; ≥75% 
+responders were 31.6% (18/57) and 44.5% (73/164); and 100% responders were 8.8% 
+(5/57) and 1.2% (2/164), respectively. At Week 48, 83.6% (137/164) of patients 
+with CM had reverted to EM. Erenumab was safe and well tolerated. Responsiveness 
+to erenumab was positively associated with cutaneous allodynia (OR: 5.44, 95% 
+CI: 1.52-19.41; p = 0.009) in HFEM. In patients with CM, ≥50% responsiveness was 
+positively associated with male sex (OR: 2.99, 95% CI: 1.03-8.7; p = 0.044) and 
+baseline migraine frequency (OR: 1.12, 95% CI: 1.05-1.20; p = 0.001) and 
+negatively associated with psychiatric comorbidities (OR: 0.37, 95% CI: 
+0.15-0.87; p = 0.023) and prior treatment failures (OR: 0.77, 95% CI: 0.64-0.92; 
+p = 0.004).
+CONCLUSIONS: Long-term (48-week) erenumab treatment provides sustained 
+effectiveness, safety, and tolerability in real-life patients with HFEM or CM 
+with ≥3 prior preventive treatment failures. The dose of 140 mg was required in 
+most patients along the study and should be taken into consideration as the 
+starting dose. Allodynia (in HFEM), male sex, and baseline migraine frequency 
+(in CM) might represent positive responsiveness predictors. Conversely, 
+psychiatric comorbidities and multiple prior preventive treatment failures could 
+be negative predictors in patients with CM.
+
+© 2021 American Headache Society.
+
+DOI: 10.1111/head.14194
+PMID: 34309862 [Indexed for MEDLINE]
+
+
+222. Biomed Pharmacother. 2021 Jun;138:111544. doi: 10.1016/j.biopha.2021.111544.
+ Epub 2021 Mar 31.
+
+Identification of FDA approved drugs against SARS-CoV-2 RNA dependent RNA 
+polymerase (RdRp) and 3-chymotrypsin-like protease (3CLpro), drug repurposing 
+approach.
+
+Molavi Z(1), Razi S(2), Mirmotalebisohi SA(3), Adibi A(4), Sameni M(3), Karami 
+F(5), Niazi V(5), Niknam Z(1), Aliashrafi M(6), Taheri M(7), Ghafouri-Fard S(8), 
+Jeibouei S(9), Mahdian S(10), Zali H(11), Ranjbar MM(12), Yazdani M(13).
+
+Author information:
+(1)Proteomics Research Center, Shahid Beheshti University of Medical Science, 
+Tehran, Iran.
+(2)Proteomics Research Center, Shahid Beheshti University of Medical Science, 
+Tehran, Iran; Department of Biology, Science and Research Branch, Islamic Azad 
+University, Tehran, Iran.
+(3)Student Research Committee, Department of Biotechnology, School of Advanced 
+Technologies in Medicine, Shahid Beheshti University of Medical Sciences, 
+Tehran, Iran; Cellular and Molecular Biology Research Center, Shahid Beheshti 
+University of Medical Sciences, Tehran, Iran.
+(4)Departments of Orthopedics, Faculty of Medicine, Shahid Beheshti University 
+of Medical Sciences, Tehran, Iran.
+(5)Department of Tissue Engineering and Applied Cell Sciences, School of 
+Advanced Technologies in Medicine, Shahid Beheshti University of Medical 
+Sciences, Tehran, Iran.
+(6)Shahid Beheshti University, Tehran, Iran.
+(7)Urology and Nephrology Research Cenetr, Shahid Beheshti University of Medical 
+Sciences, Tehran, Iran.
+(8)Department of Medical Genetics, School of Medicine, Shahid Beheshti 
+University of Medical Sciences, Tehran, Iran.
+(9)Cellular and Molecular Biology Research Center, Shahid Beheshti University of 
+Medical Sciences, Tehran, Iran; Department of Tissue Engineering and Applied 
+Cell Sciences, School of Advanced Technologies in Medicine, Shahid Beheshti 
+University of Medical Sciences, Tehran, Iran.
+(10)Department of Cellular and Molecular Biology, Faculty of Biological 
+Sciences, North Tehran Branch, Islamic Azad University, Tehran, Iran.
+(11)Proteomics Research Center, Shahid Beheshti University of Medical Science, 
+Tehran, Iran; Department of Tissue Engineering and Applied Cell Sciences, School 
+of Advanced Technologies in Medicine, Shahid Beheshti University of Medical 
+Sciences, Tehran, Iran. Electronic address: h.zali@sbmu.ac.ir.
+(12)Razi Vaccine and Serum Research Institute, Agricultural Research, Education 
+and Extension Organization (AREEO), Karaj, Iran. Electronic address: 
+mm.ranjbar.phd@gmail.com.
+(13)Institute of Biochemistry and Biophysics, Tehran University, Tehran, Iran. 
+Electronic address: yazdani.m@ut.ac.ir.
+
+The RNA-dependent RNA polymerase (RdRp) and 3C-like protease (3CLpro) from 
+SARS-CoV-2 play crucial roles in the viral life cycle and are considered the 
+most promising targets for drug discovery against SARS-CoV-2. In this study, 
+FDA-approved drugs were screened to identify the probable anti-RdRp and 3CLpro 
+inhibitors by molecular docking approach. The number of ligands selected from 
+the PubChem database of NCBI for screening was 1760. Ligands were energy 
+minimized using Open Babel. The RdRp and 3CLpro protein sequences were retrieved 
+from the NCBI database. For Homology Modeling predictions, we used the Swiss 
+model server. Their structure was then energetically minimized using SPDB viewer 
+software and visualized in the CHIMERA UCSF software. Molecular dockings were 
+performed using AutoDock Vina, and candidate drugs were selected based on 
+binding affinity (∆G). Hydrogen bonding and hydrophobic interactions between 
+ligands and proteins were visualized using Ligplot and the Discovery Studio 
+Visualizer v3.0 software. Our results showed 58 drugs against RdRp, which had 
+binding energy of - 8.5 or less, and 69 drugs to inhibit the 3CLpro enzyme with 
+a binding energy of - 8.1 or less. Six drugs based on binding energy and number 
+of hydrogen bonds were chosen for the next step of molecular dynamics (MD) 
+simulations to investigate drug-protein interactions (including Nilotinib, 
+Imatinib and dihydroergotamine for 3clpro and Lapatinib, Dexasone and 
+Relategravir for RdRp). Except for Lapatinib, other drugs-complexes were stable 
+during MD simulation. Raltegravir, an anti-HIV drug, was observed to be the best 
+compound against RdRp based on docking binding energy (-9.5 kcal/mole) and MD 
+results. According to the MD results and binding energy, dihydroergotamine is a 
+suitable candidate for 3clpro inhibition (-9.6 kcal/mol). These drugs were 
+classified into several categories, including antiviral, antibacterial, 
+anti-inflammatory, anti-allergic, cardiovascular, anticoagulant, BPH and 
+impotence, antipsychotic, antimigraine, anticancer, and so on. The common 
+prescription-indications for some of these medication categories appeared 
+somewhat in line with manifestations of COVID-19. We hope that they can be 
+beneficial for patients with certain specific symptoms of SARS-CoV-2 infection, 
+but they can also probably inhibit viral enzymes. We recommend further 
+experimental evaluations in vitro and in vivo on these FDA-approved drugs to 
+assess their potential antiviral effect on SARS-CoV-2.
+
+Copyright © 2021 The Authors. Published by Elsevier Masson SAS.. All rights 
+reserved.
+
+DOI: 10.1016/j.biopha.2021.111544
+PMCID: PMC8011644
+PMID: 34311539 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare they have no conflict of 
+interest.
+
+
+223. BMC Geriatr. 2021 Jul 26;21(1):440. doi: 10.1186/s12877-021-02329-0.
+
+Cost-effectiveness of group-based exercise to prevent falls in elderly 
+community-dwelling people.
+
+Scheckel B(1), Stock S(2), Müller D(2).
+
+Author information:
+(1)Institute of Health Economics and Clinical Epidemiology, Faculty of Medicine 
+and University Hospital Cologne, University of Cologne, Gleueler Str. 176-178, 
+50935, Cologne, Germany. Benjamin.Scheckel@uk-koeln.de.
+(2)Institute of Health Economics and Clinical Epidemiology, Faculty of Medicine 
+and University Hospital Cologne, University of Cologne, Gleueler Str. 176-178, 
+50935, Cologne, Germany.
+
+BACKGROUND: Clinical studies indicate that strength-balance training for active 
+fall prevention can prevent fractures in older people. The present modelling 
+study evaluates the cost-effectiveness of fall prevention exercise (FPE) 
+provided to independently living older people compared to no intervention in 
+Germany.
+METHOD: We designed a Markov model to evaluate the cost-effectiveness of a 
+group-based FPE-program provided to independently living people ≥75 years from 
+the perspective of the German statutory health insurance (SHI). Input data was 
+obtained from public databases, clinical trials and official statistics. The 
+incremental cost-effectiveness ratio (ICER) was presented as costs per avoided 
+hip fracture. Additionally, we performed deterministic and probabilistic 
+sensitivity analyses and, estimated monetary consequences for the SHI in a 
+budget impact analysis (BIA).
+RESULTS: For women, the costs per hip fracture avoided amounted to €52,864 (men: 
+€169,805). Results of deterministic and probabilistic sensitivity analyses 
+confirmed the robustness of the results. According to the BIA, for the 
+reimbursement of FPE additional costs of €3.0 million (women) and €7.8 million 
+(men) are expected for the SHI.
+CONCLUSIONS: Group-based FPE appears to be no cost-effective option to prevent 
+fall-related hip fractures in independently living elderly. To allow a more 
+comprehensive statement on the cost effectiveness of FPE fracture types other 
+than hip should be increasingly evaluated in clinical trials.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12877-021-02329-0
+PMCID: PMC8314607
+PMID: 34311698 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+224. Sr Care Pharm. 2021 Aug 1;36(8):358-360. doi: 10.4140/TCP.n.2021.358.
+
+COViD-19: We're All in This Together - Some More Than Others.
+
+Alderman C(1).
+
+Author information:
+(1)Adelaide, Australia.
+
+It has long been apparent that gross disparities exist in health care in the 
+United States, and, indeed, other nations with fully developed economies. All 
+kinds of markers point to these inequities, with measures such as overall life 
+expectancy, hospitalization rates, premature mortality, adverse outcomes 
+associated with medical and surgical treatment, infant mortality, and the impact 
+of many significant disease types higher and more impactful among minority 
+groups and those of the most modest economic means. This is not new. Are there 
+pointers to what might underpin the disparities in outcomes among the different 
+minority groups?
+
+DOI: 10.4140/TCP.n.2021.358
+PMID: 34311811 [Indexed for MEDLINE]
+
+
+225. Hematol Transfus Cell Ther. 2022 Oct-Dec;44(4):542-548. doi: 
+10.1016/j.htct.2021.02.008. Epub 2021 May 11.
+
+HIV-positive patients presenting with peripheral blood cytopenias: is bone 
+marrow assessment a priority?
+
+Rajme-Lopez S(1), Crabtree-Ramírez B(1), Acosta-Medina AA(1), Olivas-Martínez 
+A(1), Bourlon C(2).
+
+Author information:
+(1)Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico 
+City, Mexico.
+(2)Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico 
+City, Mexico. Electronic address: chrisbourlon@hotmail.com.
+
+INTRODUCTION: Hematologic abnormalities are frequent among persons living with 
+HIV (PLWH). The bone marrow aspirate (BMA) and biopsy (BMB) are commonly 
+performed in the diagnostic approach of patients with unexplained cytopenias. 
+Changes in antiretrovirals, supportive therapy and increased life expectancy 
+have modified the distribution and etiology of cytopenias, questioning their 
+use. Our aim was to analyze the diagnostic yield of BMA, BMB and marrow cultures 
+for the evaluation of cytopenias in PLWH.
+METHODS: This was a retrospective cohort of ≥ 18-year-old PLWH undergoing bone 
+marrow assessment (MA) for the evaluation of cytopenias between January 2002 and 
+December 2015.
+RESULTS: A total of 236 cytopenic events were analyzed, 47.9% being PLWH who had 
+a longstanding diagnosis (≥ 1 year). Adherence to antiretrovirals was 63.5%. 
+Anemia was seen in 91.9% and pancytopenia in 39%. Common presentations included 
+fever (52.1%), weight loss (42.8%) and adenopathies (28.8%). Median days from 
+detection to MA was 5 (0 - 63 days). Most common etiologies were non-HIV 
+infectious diseases (31.4%) and benign/malignant hematologic diseases (26.3%). 
+The diagnostic yield was 16.1% for BMA, 20.3% for BMB, 30.5% for both and 35.6% 
+when cultures were added. Patients most likely to have conclusive MA were those 
+with moderate/severe thrombocytopenia (p = 0.007). Fever, splenomegaly, and low 
+CD4+ counts were associated with infectious etiologies, while hematologic 
+diagnoses were related to the presence of adenopathies.
+CONCLUSION: As a minimally invasive intervention, the MA has a high yield for 
+identifying the etiology of cytopenic events in PLWH, being conclusive in one in 
+three patients. Early performance could lead to prompt diagnosis and timely 
+therapy initiation.
+
+Copyright © 2021 Associação Brasileira de Hematologia, Hemoterapia e Terapia 
+Celular. Published by Elsevier España, S.L.U. All rights reserved.
+
+DOI: 10.1016/j.htct.2021.02.008
+PMCID: PMC9605914
+PMID: 34312113
+
+
+226. Nat Chem. 2021 Aug;13(8):751-757. doi: 10.1038/s41557-021-00749-4. Epub 2021
+Jul  26.
+
+Single nucleotide translation without ribosomes.
+
+Jash B(1), Tremmel P(1), Jovanovic D(1), Richert C(2).
+
+Author information:
+(1)Institute of Organic Chemistry, University of Stuttgart, Stuttgart, Germany.
+(2)Institute of Organic Chemistry, University of Stuttgart, Stuttgart, Germany. 
+lehrstuhl-2@oc.uni-stuttgart.de.
+
+Comment in
+    Nat Chem. 2021 Aug;13(8):725-726.
+
+The translation of messenger RNA sequences into polypeptide sequences according 
+to the genetic code is central to life. How this process, which relies on the 
+ribosomal machinery, arose from much simpler precursors is unclear. Here, we 
+demonstrate that single nucleotides charged with an amino acid couple with amino 
+acids linked to the 5'-terminus of an RNA primer in reactions directed by the 
+nucleotides of an RNA template in dilute aqueous solution at 0 °C. When a 
+mixture of U-Val, A-Gly and G-Leu competed for coupling to Gly-RNA, base pairing 
+dictated which dipeptide sequence formed preferentially. The resulting doubly 
+anchored dipeptides can retain their link to the primer for further extension or 
+can be fully released under mild acidic conditions. These results show that a 
+single-nucleotide-based form of translation exists that requires no more than 
+oligoribonucleotides and anchored amino acids.
+
+© 2021. The Author(s), under exclusive licence to Springer Nature Limited.
+
+DOI: 10.1038/s41557-021-00749-4
+PMID: 34312504 [Indexed for MEDLINE]
+
+
+227. J Biomed Mater Res B Appl Biomater. 2022 Feb;110(2):450-459. doi: 
+10.1002/jbm.b.34922. Epub 2021 Jul 27.
+
+Functionalized polyanhydride nanoparticles for improved treatment of 
+mitochondrial dysfunction.
+
+Schlichtmann BW(1), Kalyanaraman B(2), Schlichtmann RL(1), Panthani MG(1), 
+Anantharam V(3)(4), Kanthasamy AG(3)(4), Mallapragada SK(1)(4)(5), Narasimhan 
+B(1)(4).
+
+Author information:
+(1)Department of Chemical and Biological Engineering, Iowa State University, 
+Ames, Iowa, USA.
+(2)Department of Biophysics, Medical College of Wisconsin, Milwaukee, Wisconsin, 
+USA.
+(3)Department of Biomedical Sciences, Iowa State University, Ames, Iowa, USA.
+(4)Nanovaccine Institute, Iowa State University, Ames, Iowa, USA.
+(5)Department of Materials Science and Engineering, Iowa State University, Ames, 
+Iowa, USA.
+
+Parkinson's disease (PD) is a devastating neurodegenerative disease affecting a 
+large proportion of older adults. Exposure to pesticides like rotenone is a 
+leading cause for PD. To reduce disease progression and prolong life expectancy, 
+it is important to target disease mechanisms that contribute to dopaminergic 
+neuronal atrophy, including mitochondrial dysfunction. Achieving targeted 
+mitochondrial delivery is difficult for many therapeutics by themselves, 
+necessitating higher therapeutic doses that could lead to toxicity. To minimize 
+this adverse effect, targeted nano-carriers such as polyanhydride nanoparticles 
+(NPs) can protect therapeutics from degradation and provide sustained release, 
+enabling fewer administrations and lower therapeutic dose. This work expands 
+upon the use of the polyanhydride NP platform for targeted drug delivery by 
+functionalizing the polymer with a derivative of triphenylphosphonium called 
+(3-carboxypropyl) triphenylphosphonium (CPTP) using a novel method that enables 
+longer CPTP persistence on the NPs. The extent to which neurons internalized 
+both nonfunctionalized and functionalized NPs was tested. Next, the efficacy of 
+these nanoformulations in treating rotenone-induced mitochondrial dysfunction in 
+the same cell line was evaluated using a novel neuroprotective drug, 
+mito-metformin. CPTP functionalization significantly improved NP internalization 
+by neuronal cells. This was correlated with significant protection by 
+CPTP-functionalized, mito-metformin encapsulated NPs against rotenone-induced 
+mitochondrial dysfunction. However, nonfunctionalized, mito-metformin 
+encapsulated NPs and soluble mito-metformin administered at the same dose did 
+not significantly protect cells from rotenone-induced toxicity. These results 
+indicate that the targeted NP platform can provide enhanced dose-sparing and 
+potentially reduce the occurrence of systemic side-effects for PD therapeutics.
+
+© 2021 Wiley Periodicals LLC.
+
+DOI: 10.1002/jbm.b.34922
+PMID: 34312984 [Indexed for MEDLINE]
+
+
+228. Diagn Interv Radiol. 2021 Jul;27(4):570-572. doi: 10.5152/dir.2021.20369.
+
+Proximal iliac limb extension and embolization: a new technique of complete 
+endovascular management of an unfavorably sited type III endoleak.
+
+Bellam Premnath KP(1), Parkinson TJ(1), Pancione L(1), Salih AT(1).
+
+Author information:
+(1)Barking Havering and Redbridge University Hospitals NHS Trust, Queen's 
+Hospital, Rom Valley Way, Romford, London, United Kingdom.
+
+Type III endoleak is an uncommon but life-threatening complication of 
+endovascular aortic repair, and such leaks at certain sites can be challenging 
+to treat through an endovascular route. A 77-year-old man presented with severe 
+abdominal pain and was found to have an abdominal aortic aneurysm with contained 
+rupture due to an unfavorably cited type IIIb endoleak. He was successfully 
+treated with an endovascular approach using bilateral iliac limb proximal 
+extension combined with embolization of endoleak sac, endoleak site and the 
+feeding recess, preserving flow through both the iliac limbs obviating the need 
+for an additional femorofemoral bypass. The patient improved clinically and had 
+a favorable long-term follow-up profile.
+
+DOI: 10.5152/dir.2021.20369
+PMCID: PMC8289435
+PMID: 34313244 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest disclosure The authors 
+declared no conflicts of interest.
+
+
+229. Int Angiol. 2021 Dec;40(6):520-527. doi: 10.23736/S0392-9590.21.04720-9.
+Epub  2021 Jul 27.
+
+Impact of brain natriuretic peptide for predicting long-term life expectancy and 
+cardiovascular or limb events in peripheral arterial disease.
+
+Nakashima K(1), Kumakura H(2), Funada R(3), Matsuo Y(3), Sakata K(1), Ichikawa 
+A(4), Iwasaki T(3), Ichikawa S(3).
+
+Author information:
+(1)Department of Cardiovascular Surgery, Cardiovascular Hospital of Central 
+Japan (Kitakanto Cardiovascular Hospital), Shibukawa, Japan.
+(2)Department of Cardiovascular Medicine, Cardiovascular Hospital of Central 
+Japan (Kitakanto Cardiovascular Hospital), Shibukawa, Japan - 
+kumakura@r.sannet.ne.jp.
+(3)Department of Cardiovascular Medicine, Cardiovascular Hospital of Central 
+Japan (Kitakanto Cardiovascular Hospital), Shibukawa, Japan.
+(4)Department of Nephrology, Cardiovascular Hospital of Central Japan (Kitakanto 
+Cardiovascular Hospital), Shibukawa, Japan.
+
+BACKGROUND: Brain natriuretic peptide (BNP) is introduced as a predictor of the 
+degree of ventricular dysfunction and is associated with mortality. There are 
+limited reports on the relationship of BNP with long-term all-cause death (AD) 
+and cardiovascular or limb events in peripheral artery disease (PAD). We 
+examined the relationship between BNP level and these events in PAD patients.
+METHODS: We performed a prospective cohort study in 938 PAD patients. The 
+patients were divided into four groups based on BNP levels with median 
+(interquartile range): Q1: ≤20.4; Q2: 20.5-42.8; Q3: 42.9-103.4; and Q4: ≥103.5 
+pg/mL. The endpoints were AD, freedom from major adverse cardiovascular events 
+(MACE), and MACE plus limb events (MALE).
+RESULTS: The median follow-up time was 65 months. There were 383 deaths (40.8%) 
+during follow-up period. AD depended on BNP levels (P<0.01), with 5-year freedom 
+from AD rates of Q1: 94%, Q2: 84%, Q3: 69%, and Q4: 55%. The Kaplan-Meier 
+estimates of freedom from AD, MACE, and MALE had significant differences among 
+Q1- Q4 groups (P<0.001). In multiple regression analysis, BNP had significant 
+negative correlations with eGFR, serum albumin, and BMI and positive 
+correlations with diabetes (P<0.05). In Cox multivariate analysis, higher BNP, 
+age, CRP, D-dimer, lower BMI, ABI, serum albumin, and eGFR were related to AD; 
+and higher BNP, age, lower ABI, serum albumin, CAD, and DM were related to MACE 
+and MALE (P<0.05). Statins improved AD, MACE, and MALE (P<0.01).
+CONCLUSIONS: BNP was a promising biomarker for AD, MACE, and MALE in patients 
+with PAD.
+
+DOI: 10.23736/S0392-9590.21.04720-9
+PMID: 34313412 [Indexed for MEDLINE]
+
+
+230. Int Angiol. 2021 Dec;40(6):487-496. doi: 10.23736/S0392-9590.21.04751-9.
+Epub  2021 Jul 27.
+
+Management of patients with asymptomatic carotid stenosis may need to be 
+individualized: a multidisciplinary call for action. Republication of J Stroke 
+2021;23:202-212.
+
+Paraskevas KI(1), Mikhailidis DP(2), Baradaran H(3), Davies AH(4), Eckstein 
+HH(5), Faggioli G(6), Fernandes E Fernandes J(7), Gupta A(8), Jezovnik MK(9), 
+Kakkos SK(10), Katsiki N(11), Kooi ME(12)(13), Lanza G(14), Liapis CD(15), 
+Loftus IM(16), Millon A(17), Nicolaides AN(18), Poredos P(19), Pini R(6), Ricco 
+JB(20), Rundek T(21), Saba L(22), Spinelli F(23), Stilo F(23), Sultan S(24), 
+Zeebregts CJ(25), Chaturvedi S(26).
+
+Author information:
+(1)Department of Vascular Surgery, Central Clinic of Athens, Athens, Greece - 
+paraskevask@hotmail.com.
+(2)University College London Medical School, Department of Clinical 
+Biochemistry, Royal Free Hospital Campus, University College London (UCL), 
+London, UK.
+(3)Department of Radiology, University of Utah, Salt Lake City, UT, USA.
+(4)Section of Vascular Surgery, Imperial College and Imperial Healthcare NHS 
+Trust, London, UK.
+(5)Department of Vascular and Endovascular Surgery, Klinikum Rechts der Isar, 
+Technical University of Munich, Munich, Germany.
+(6)Unit of Vascular Surgery, University of Bologna, S. Orsola Malpighi 
+Polyclinic, Bologna, Italy.
+(7)Department of Vascular Surgery, Lisbon Academic Medical Center, University of 
+Lisbon, Lisbon, Portugal.
+(8)Department of Radiology, Weill Cornell Medicine, New York, NY, USA.
+(9)Department of Advanced Cardiopulmonary Therapies and Transplantation, The 
+University of Texas Health Science Centre at Houston, Houston, TX, USA.
+(10)School of Medicine, Department of Vascular Surgery, University of Patras, 
+Patras, Greece.
+(11)First Department of Internal Medicine, AHEPA University Hospital, 
+Thessaloniki, Greece.
+(12)CARIM School for Cardiovascular Diseases, University of Maastricht, 
+Maastricht, the Netherlands.
+(13)Department of Radiology and Nuclear Medicine, Maastricht University Medical 
+Center (MUMC), Maastricht, the Netherlands.
+(14)Department of Vascular Surgery, IRCSS MultiMedica Hospital, Castellanza, 
+Varese, Italy.
+(15)Athens Vascular Research Center, Athens, Greece.
+(16)St. George's Vascular Institute, St. George's University of London, London, 
+UK.
+(17)Department of Vascular and Endovascular Surgery, Hospices Civils de Lyon, 
+Louis Pradel Hospital, Yon, France.
+(18)Department of Surgery, University of Nicosia Medical School, Nicosia, 
+Cyprus.
+(19)Department of Vascular Disease, University Medical Center, Ljubljana, 
+Slovenia.
+(20)Department of Clinical Research, CHU de Poitiers, University of Poitiers, 
+Poitiers, France.
+(21)Miller School of Medicine, Department of Neurology, University of Miami, 
+Miami, FL, USA.
+(22)Department of Radiology, University Hospital of Cagliari, Cagliari, Italy.
+(23)Division of Vascular Surgery, Campus Bio-Medico Hospital, University of 
+Rome, Rome, Italy.
+(24)Department of Vascular and Endovascular Surgery, University Western Vascular 
+Institute, Hospital Galway, National University of Ireland, Galway, Ireland.
+(25)Division of Vascular Surgery, Department of Surgery, University Medical 
+Center of Groningen, University of Groningen, Groningen, the Netherlands.
+(26)School of Medicine, Department of Neurology and Stroke Program, University 
+of Maryland, Baltimore, MD, USA.
+
+The optimal management of patients with asymptomatic carotid stenosis (ACS) is 
+the subject of extensive debate. According to the 2017 European Society for 
+Vascular Surgery Guidelines, carotid endarterectomy should (Class IIa; Level of 
+Evidence: B) or carotid artery stenting may be considered (Class IIb; Level of 
+Evidence: B) in the presence of one or more clinical/imaging characteristics 

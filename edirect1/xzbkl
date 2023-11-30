@@ -1,0 +1,1000 @@
+Ajustados por Calidad, AVAC) y mayor coste (17.495€) comparado con [PR], 
+resultando una RCUI de [T/PR] versus [PR] de 18.288€/AVAC para toda la cohorte, 
+14.152€/AVAC para fibrosis moderada, 11.364€/AVAC para fibrosis en puentes y 
+15.929€/AVAC para cirrosis. Considerando toda la vida del paciente, [T/PR] 
+podría evitar 12 cirrosis y 4 trasplantes cada 1.000 pacientes. Con una RCUI 
+inferior a 30.000€/AVAC en el 69% de las simulaciones del análisis 
+probabilístico [T/PR] sería eficiente versus [PR] en pacientes naïve, 
+independientemente del grado de fibrosis.
+
+Copyright AULA MEDICA EDICIONES 2014. Published by AULA MEDICA. All rights 
+reserved.
+
+DOI: 10.7399/fh.2014.38.5.7640
+PMID: 25344136 [Indexed for MEDLINE]
+
+
+703. BMC Bioinformatics. 2014 Oct 24;15(1):333. doi: 10.1186/1471-2105-15-333.
+
+Network-based analysis of comorbidities risk during an infection: SARS and HIV 
+case studies.
+
+Moni MA(1), Liò P.
+
+Author information:
+(1)Computer Laboratory, University of Cambridge, William Gates Building, 15 JJ 
+Thomson Avenue, Cambridge CB3 0FD, UK. Mohammad.Moni@cl.cam.ac.uk.
+
+BACKGROUND: Infections are often associated to comorbidity that increases the 
+risk of medical conditions which can lead to further morbidity and mortality. 
+SARS is a threat which is similar to MERS virus, but the comorbidity is the key 
+aspect to underline their different impacts. One UK doctor says "I'd rather have 
+HIV than diabetes" as life expectancy among diabetes patients is lower than that 
+of HIV. However, HIV has a comorbidity impact on the diabetes.
+RESULTS: We present a quantitative framework to compare and explore comorbidity 
+between diseases. By using neighbourhood based benchmark and topological 
+methods, we have built comorbidity relationships network based on the OMIM and 
+our identified significant genes. Then based on the gene expression, PPI and 
+signalling pathways data, we investigate the comorbidity association of these 2 
+infective pathologies with other 7 diseases (heart failure, kidney disorder, 
+breast cancer, neurodegenerative disorders, bone diseases, Type 1 and Type 2 
+diabetes). Phenotypic association is measured by calculating both the Relative 
+Risk as the quantified measures of comorbidity tendency of two disease pairs and 
+the ϕ-correlation to measure the robustness of the comorbidity associations. The 
+differential gene expression profiling strongly suggests that the response of 
+SARS affected patients seems to be mainly an innate inflammatory response and 
+statistically dysregulates a large number of genes, pathways and PPIs 
+subnetworks in different pathologies such as chronic heart failure (21 genes), 
+breast cancer (16 genes) and bone diseases (11 genes). HIV-1 induces 
+comorbidities relationship with many other diseases, particularly strong 
+correlation with the neurological, cancer, metabolic and immunological diseases. 
+Similar comorbidities risk is observed from the clinical information. Moreover, 
+SARS and HIV infections dysregulate 4 genes (ANXA3, GNS, HIST1H1C, RASA3) and 3 
+genes (HBA1, TFRC, GHITM) respectively that affect the ageing process. It is 
+notable that HIV and SARS similarly dysregulated 11 genes and 3 pathways. Only 4 
+significantly dysregulated genes are common between SARS-CoV and MERS-CoV, 
+including NFKBIA that is a key regulator of immune responsiveness implicated in 
+susceptibility to infectious and inflammatory diseases.
+CONCLUSIONS: Our method presents a ripe opportunity to use data-driven 
+approaches for advancing our current knowledge on disease mechanism and 
+predicting disease comorbidities in a quantitative way.
+
+DOI: 10.1186/1471-2105-15-333
+PMCID: PMC4363349
+PMID: 25344230 [Indexed for MEDLINE]
+
+
+704. Arthritis Res Ther. 2014 Oct 25;16(5):473. doi: 10.1186/s13075-014-0473-5.
+
+Safety and possible effects of low-intensity resistance training associated with 
+partial blood flow restriction in polymyositis and dermatomyositis.
+
+Mattar MA, Gualano B, Perandini LA, Shinjo SK, Lima FR, Sá-Pinto AL, Roschel H.
+
+INTRODUCTION: Our aim was to evaluate the safety and efficacy of a low-intensity 
+resistance training program combined with partial blow flow restriction (BFR 
+training) in a cohort of patients with polymyositis (PM) and dermatomyositis 
+(DM).
+METHODS: In total, 13 patients with PM and DM completed a 12-week twice a week 
+low-intensity (that is, 30% one-repetition-maximum (1RM)) resistance exercise 
+training program combined with partial blood flow restriction (BFR). Assessments 
+of muscle strength, physical function, quadriceps cross sectional (CSA) area, 
+health-related quality of life, and clinical and laboratory parameters were 
+assessed at baseline and after the intervention.
+RESULTS: The BFR training program was effective in increasing the maximal 
+dynamic strength in both the leg-press (19.6%, P <0.001) and knee-extension 
+exercises (25.2% P <0.001), as well as in the timed-stands (15.1%, P <0.001) and 
+timed-up-and-go test (-4.5%, P =0.002). Quadriceps CSA was also significantly 
+increased after the intervention (4.57%, P =0.01). Similarly, all of the 
+components of the Short Form-36 Health Survey, the Health Assessment 
+Questionnaire scores, and the patient- and physician reported Visual Analogue 
+Scale were significantly improved after training (P <0.05). Importantly, no 
+clinical evidence or any other self-reported adverse event were found. 
+Laboratory parameters (creatine kinase and aldolase) were also unchanged (P 
+>0.05) after the intervention.
+CONCLUSIONS: We demonstrated that a 12-week supervised low-intensity resistance 
+training program associated with partial blood flow restriction may be safe and 
+effective in improving muscle strength and function as well as muscle mass and 
+health-related quality of life in patients with PM and DM.
+TRIAL REGISTRATION: Clinicaltrials.gov NCT01501019. Registered November 29, 
+2011.
+
+DOI: 10.1186/s13075-014-0473-5
+PMCID: PMC4232679
+PMID: 25344395 [Indexed for MEDLINE]
+
+
+705. Adv Clin Chem. 2014;66:1-23.
+
+PSA in screening for prostate cancer: more good than harm or more harm than 
+good?
+
+Duffy MJ.
+
+The aim of screening for prostate cancer is to detect malignancy at an early and 
+potentially treatable stage, thereby increasing the chance of cure. Although 
+serum PSA has been used as a screening test for prostate cancer for over 20 
+years, the practice is controversial. As a screening test for prostate cancer, 
+PSA lacks sensitivity and specificity for early disease. Furthermore, screening 
+may lead to unnecessary biopsies, overdetection, and overtreatment. It is thus 
+unclear whether the benefits of screening outweigh the harms. Although published 
+guidelines differ in their recommendation for PSA screening, almost all state 
+that prior to PSA testing, men should be informed of the risks and benefits of 
+the process. Most guidelines also state that men with a life expectancy of less 
+than 10 years should not be screened. New markers currently undergoing 
+evaluation such as -2proPSA, Prostate Health Index, and PCA3 may complement PSA 
+in the detection of early prostate cancer.
+
+PMID: 25344984 [Indexed for MEDLINE]
+
+
+706. Pol Merkur Lekarski. 2014 Sep;37(219):186-91.
+
+[Perioperative risk assessment tailored to elderly patients].
+
+[Article in Polish]
+
+Szczepanik AM, Brzuszkiewicz K, Walewska E, Scisło L, Pietruszka S, Szura M, 
+Kulig J.
+
+Proper preparation of the patient for surgery has a crucial impact on the 
+outcome. Due to the continuous increase in life expectancy more and more often 
+the problem of proper perioperative preparation of the patients over 65 years of 
+age burdened with a higher risk of perioperative complications is undertaken. 
+Proper assessment of the health condition and physical capacity allows to 
+optimize treatment and thus minimize the risk of complications. In many 
+countries, the recommended procedure is to perform the Comprehensive Geriatric 
+Assessment (CGA), which, however, due to the need to carry out a number of 
+additional diagnostic tests and consultations is too expensive for the vast 
+majority of hospitals. Therefore the search for more convenient methods of 
+abbreviated assessment is undertaken, the methods that will identify patients at 
+greatest risk of complications. The Comprehensive Geriatric Assessment includes 
+a series of tests and scales assessing, interalia, cognitive functions, motor 
+efficiency, dependency, nutrition and mood. Applied abbreviated methods of 
+perioperative assessment also have limitations in predicting the course of 
+hospitalization. So far, there is no general practice guidelines for patients 
+over 65 years of age. But it seems reasonable to perform the CGA in case of an 
+unfavorable outcome of abbreviated assessment or when the threat of frailty 
+syndrome is suspected. This procedure enables to select the best method of 
+treatment, the implementation of appropriate prevention, thus improving the 
+outcome of treatment and quality of life.
+
+PMID: 25345282 [Indexed for MEDLINE]
+
+
+707. Zh Nevrol Psikhiatr Im S S Korsakova. 2014;114(8):74-7.
+
+[The effectiveness of non-invasive lung ventilation in lateral amyotrophic 
+sclerosis].
+
+[Article in Russian]
+
+Levitskiĭ GN, Babak SL, Levin OS, Zverev VV.
+
+OBJECTIVE: Lateral amyotrophic sclerosis (LAS) is a very severe 
+neurodegenerative disease with progressive course and terminal respiratory 
+insufficiency. Non-invasive lung ventilation (NLV) is a main method of 
+treatment. We studied the effectiveness of NLV in LAS and assessed patient's 
+adaptation to NLV, life expectancy, compliance and an effect of NLV on 
+spirometric parameters.
+MATERIAL AND METHODS: NVL was administered to 28 patients, mean age 56.2 ± 9.4 
+years, including 10 patients with bulbar onset and 16 with spinal onset. The 
+rapid progression of the disease was observed in 15 patients, slow progression 
+in 13 patients.
+RESULTS AND CONCLUSION: NLV used in regime S extended the life of patients, in 
+particular, patients with spinal onset. The adjustment to the NLV device plays a 
+crucial role. Two types of the adjustment were established: gradual (13 
+patients) and accelerated (4 patients). The causes of the latter were not found. 
+It should be emphasized that several questions related to the details of NVL 
+regime should be specified in further research in the field.
+
+PMID: 25345635 [Indexed for MEDLINE]
+
+
+708. Pediatr Blood Cancer. 2015 Feb;62(2):208-213. doi: 10.1002/pbc.25136. Epub
+2014  Oct 24.
+
+Long-term use of the thrombopoietin-mimetic romiplostim in children with severe 
+chronic immune thrombocytopenia (ITP).
+
+Bussel JB(1), Hsieh L(2), Buchanan GR(3), Stine K(4), Kalpatthi R(5), Gnarra 
+DJ(6), Ho RH(7), Nie K(8), Eisen M(8).
+
+Author information:
+(1)Department of Pediatrics, Division of Hematology, Weill Medical College of 
+Cornell University, New York, New York.
+(2)Children's Hospital of Orange County/University of California, Irvine, 
+California.
+(3)Department of Pediatrics, University of Texas Southwestern Medical Center, 
+Dallas, Texas.
+(4)Arkansas Children's Hospital, Little Rock, Arkansas.
+(5)Children's Mercy Hospital, Kansas City, Missouri.
+(6)Children's Hospital and Medical Center, University of Nebraska Medical 
+Center, Omaha, Nebraska.
+(7)Department of Pediatrics, Monroe Carell Jr. Children's Hospital at 
+Vanderbilt, Nashville, Tennessee.
+(8)Amgen Inc., Thousand Oaks, California.
+
+BACKGROUND: Treatment of chronic severe pediatric ITP is not well studied. In a 
+phase 1/2 12-16-week study, 15/17 romiplostim-treated patients achieved platelet 
+counts ≥50 × 109 /L, and romiplostim treatment was well tolerated. In a 
+subsequent open-label extension (≤109 weeks), 20/22 patients received 
+romiplostim; all achieved platelet counts >50 × 109 /L. Twelve patients 
+continued in a second extension (≤127 weeks). Longitudinal data from start of 
+romiplostim treatment through the two extensions were evaluated to investigate 
+the safety and efficacy of long-term romiplostim treatment in chronic severe 
+pediatric ITP.
+PROCEDURE: Patients received weekly subcutaneous romiplostim, adjusted by 
+1 µg/kg/week to maintain platelet counts (50-200 × 109 /L, maximum dose 
+10 µg/kg). Bone marrow examinations were not required.
+RESULTS: At baseline, patients were median age 10.0 years; median ITP duration 
+2.4 years; median platelet count 13 × 109 /L; 73% were male; and 36% had prior 
+splenectomy. Median romiplostim treatment duration was 167 weeks (Q1, Q3: 78,227 
+weeks), and median average weekly dose was 5.4 µg/kg (Q1, Q3: 4.3, 8.0 µg/kg). 
+Seven patients discontinued treatment: four withdrew consent, two were 
+noncompliant, and one received alternative therapy. None withdrew because of 
+adverse events (AEs). After the first 12 weeks, median platelet counts remained 
+>50 × 109 /L. Eight (36.4%) patients received rescue medication, and 14 (63.6%) 
+used concurrent ITP therapy. Seven patients (31.8%) reported serious AEs, and 
+two (9.1%) reported life-threatening AEs (both thrombocytopenia); there were no 
+serious AEs attributed to treatment and no fatalities.
+CONCLUSIONS: Long-term romiplostim treatment in this small cohort increased and 
+maintained platelet counts for over 4 years in children with ITP with good 
+tolerability and without significant toxicity. Pediatr Blood Cancer 
+2015;62:208-213. © 2014. The Authors. Pediatr Blood & Cancer published by Wiley 
+Periodicals, Inc.
+
+© 2014 The Authors. Pediatric Blood & Cancer published by Wiley Periodicals, 
+Inc.
+
+DOI: 10.1002/pbc.25136
+PMCID: PMC4309514
+PMID: 25345874 [Indexed for MEDLINE]
+
+
+709. Antivir Ther. 2015;20(5):457-67. doi: 10.3851/IMP2910. Epub 2014 Oct 27.
+
+The clinical management of HCV in the HIV-infected patient.
+
+Norton B(1), Naggie S.
+
+Author information:
+(1)Department of Medicine, Montefiore Medical Center, Bronx, NY, USA. 
+bnorton@montefiore.org.
+
+Chronic hepatitis C affects an estimated 170 million persons worldwide and due 
+to shared transmission routes many persons are coinfected with HIV. Since the 
+advent of HAART, HIV patients have longer life expectancy and suffer fewer 
+AIDS-related complications. The result has been an increase in morbidity and 
+mortality from HIV-associated non-AIDS conditions, with high rates of 
+liver-related deaths resulting from HCV in the coinfected population. 
+Coinfection with HIV is an independent predictor of liver disease progression, 
+and proper staging of fibrosis is of critical importance in the coinfected 
+patient. In contrast to HIV, it is possible to eradicate HCV infection; and 
+undetectable viral load 12 weeks after cessation of therapy, or sustained viral 
+response (SVR), is considered a clinical cure. As achievement of SVR has been 
+associated with significantly reduced mortality from liver disease and liver 
+disease complications, it is imperative that patients coinfected with HIV-HCV 
+receive therapy for their HCV infection. The length of therapy with previously 
+available interferon-based regimens added a significant burden to 
+HIV-HCV-coinfected patients. Newer, all-oral, interferon-free regimens promise 
+to simplify treatment regimens, reduce side-effect profiles, and demonstrate 
+reduced drug interactions with numerous HAART regimens.
+
+DOI: 10.3851/IMP2910
+PMID: 25346056 [Indexed for MEDLINE]
+
+
+710. Neurogastroenterol Motil. 2014 Dec;26(12):1792-801. doi: 10.1111/nmo.12463.
+Epub  2014 Oct 23.
+
+Long-term evaluation of combined prolonged-release oxycodone and naloxone in 
+patients with moderate-to-severe chronic pain: pooled analysis of extension 
+phases of two Phase III trials.
+
+Blagden M(1), Hafer J, Duerr H, Hopp M, Bosse B.
+
+Author information:
+(1)Avondale Surgery, Chesterfield, UK.
+
+BACKGROUND: While opioids provide effective analgesia, opioid-induced 
+constipation (OIC) can severely impact quality of life and treatment compliance. 
+This pooled analysis evaluated the maintenance of efficacy and safety during 
+long-term treatment with combined oxycodone/naloxone prolonged-release tablets 
+(OXN PR) in adults with moderate-to-severe chronic pain.
+METHODS: Patients (N = 474) received open-label OXN PR during 52-week extension 
+phases of two studies, having completed 12-week, double-blind, randomized 
+treatment with oxycodone prolonged-release tablets (Oxy PR) or OXN PR. Analgesia 
+and bowel function were assessed at each study visit using 'Average pain over 
+last 24 h scale and Bowel Function Index (BFI), respectively. Treatment 
+Satisfaction Questionnaire for Medication was assessed at study end only.
+KEY RESULTS: Improvement in bowel function was particularly marked in patients 
+who switched from Oxy PR in the double-blind phase to OXN PR during the 
+extension phase, resulting in a clinically meaningful reduction (≥12 points) in 
+BFI score: at the start of the extension phases, mean (SD) BFI score was 44.3 
+(28.13), and was 29.8 (26.36) for patients who had received OXN PR in the 
+double-blind phase. One week later, BFI scores were similar for the two groups 
+(26.5 [24.40] and 27.5 [25.60], respectively), as was observed throughout the 
+following months. Fewer than 10% of patients received laxatives regularly. Mean 
+24-h pain scores were low and stable throughout the extension phases. No 
+unexpected adverse events were observed.
+CONCLUSIONS & INFERENCES: Pooled data demonstrate OXN PR is an effective 
+long-term therapy for patients with chronic non-cancer pain, and can address 
+symptoms of OIC. No new safety issues were observed which were attributable to 
+the long-term administration of OXN PR.
+
+© 2014 The Authors. Neurogastroenterology & Motility published by John Wiley & 
+Sons Ltd.
+
+DOI: 10.1111/nmo.12463
+PMCID: PMC4265251
+PMID: 25346155 [Indexed for MEDLINE]
+
+
+711. Diabetes Technol Ther. 2015 Mar;17(3):194-202. doi: 10.1089/dia.2014.0260.
+Epub  2014 Oct 27.
+
+A decision support tool for appropriate glucose-lowering therapy in patients 
+with type 2 diabetes.
+
+Ampudia-Blasco FJ(1), Benhamou PY, Charpentier G, Consoli A, Diamant M, Gallwitz 
+B, Khunti K, Mathieu C, Ridderstråle M, Seufert J, Tack C, Vilsbøll T, Phan TM, 
+Stoevelaar H.
+
+Author information:
+(1)1 Department of Medicine, University of Valencia , Valencia, Spain .
+
+BACKGROUND: Optimal glucose-lowering therapy in type 2 diabetes mellitus 
+requires a patient-specific approach. Although a good framework, current 
+guidelines are insufficiently detailed to address the different phenotypes and 
+individual needs of patients seen in daily practice. We developed a 
+patient-specific decision support tool based on a systematic analysis of expert 
+opinion.
+MATERIALS AND METHODS: Based on the American Diabetes Association (ADA)/European 
+Association for the Study of Diabetes (EASD) 2012 position statement, a panel of 
+12 European experts rated the appropriateness (RAND/UCLA Appropriateness Method) 
+of treatment strategies for 930 clinical scenarios, which were permutations of 
+clinical variables considered relevant to treatment choice. These included 
+current treatment, hemoglobin A1c difference from individualized target, risk of 
+hypoglycemia, body mass index, life expectancy, and comorbidities. Treatment 
+options included addition of a second or third agent, drug switches, and 
+replacement by monotherapies if the patient was metformin-intolerant. Treatment 
+costs were not considered. Appropriateness (appropriate, inappropriate, 
+uncertain) was based on the median score and expert agreement. The panel 
+recommendations were embedded in an online decision support tool (DiaScope(®); 
+Novo Nordisk Health Care AG, Zürich, Switzerland).
+RESULTS: Treatment appropriateness was associated with (combinations of) the 
+patient variables mentioned above. As second-line agents, dipeptidyl peptidase-4 
+inhibitors were considered appropriate in all scenarios, followed by 
+glucagon-like peptide-1 receptor agonists (50%), insulins (33%), and 
+sulfonylureas (25%), but not pioglitazone (0%). Ratings of third-line 
+combinations followed a similar pattern. Disagreement was highest for regimens 
+including pioglitazone, sulfonylureas, or insulins and was partly due to 
+differences in panelists' opinions and in drug availability and reimbursement 
+across European countries (although costs were disregarded in the rating 
+process).
+CONCLUSIONS: A novel decision support tool based on the ADA/EASD 2012 position 
+statement and a systematic analysis of expert opinion has been developed to help 
+healthcare professionals to individualize glucose-lowering therapy in daily 
+clinical situations.
+
+DOI: 10.1089/dia.2014.0260
+PMCID: PMC4346378
+PMID: 25347226 [Indexed for MEDLINE]
+
+
+712. Molecules. 2014 Oct 24;19(11):17141-53. doi: 10.3390/molecules191117141.
+
+Riboflavin accumulation and molecular characterization of cDNAs encoding 
+bifunctional GTP cyclohydrolase II/3,4-dihydroxy-2-butanone 4-phosphate 
+synthase, lumazine synthase, and riboflavin synthase in different organs of 
+Lycium chinense plant.
+
+Tuan PA(1), Zhao S(2), Kim JK(3), Kim YB(4), Yang J(5), Li CH(6), Kim SJ(7), 
+Arasu MV(8), Al-Dhabi NA(8), Park SU(9).
+
+Author information:
+(1)Department of Crop Science, Chungnam National University, 99 Daehak-Ro, 
+Yuseong-gu, Daejeon 305-764, Korea. tuan_pham_6885@yahoo.com.
+(2)Department of Crop Science, Chungnam National University, 99 Daehak-Ro, 
+Yuseong-gu, Daejeon 305-764, Korea. zhaoshicheng@msn.com.
+(3)Division of Life Sciences, College of Life Sciences and Bioengineering, 
+Incheon National University, Incheon 406-772, Korea. kjkpj@incheon.ac.kr.
+(4)Department of Crop Science, Chungnam National University, 99 Daehak-Ro, 
+Yuseong-gu, Daejeon 305-764, Korea. yeonbokkim@hanmail.net.
+(5)State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry 
+University, Harbin 150040, China. yifan85831647@sina.com.
+(6)State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry 
+University, Harbin 150040, China. chli0@163.com.
+(7)Department of Bio-Environmental Chemistry, Chungnam National University, 99 
+Daehak-ro, Yuseong-gu, Daejeon 305-764, Korea. kimsunju@cnu.ac.kr.
+(8)Department of Botany and Microbiology, Addiriyah Chair for Environmental 
+Studies, College of Science, King Saud University, P.O. Box 2455, Riyadh 11451, 
+Saudi Arabia. mvalanarasu@gmail.com.
+(9)Department of Crop Science, Chungnam National University, 99 Daehak-Ro, 
+Yuseong-gu, Daejeon 305-764, Korea. supark@cnu.ac.kr.
+
+Riboflavin (vitamin B2) is the precursor of flavin mononucleotide and flavin 
+adenine dinucleotide-essential cofactors for a wide variety of enzymes involving 
+in numerous metabolic processes. In this study, a partial-length cDNA encoding 
+bifunctional GTP cyclohydrolase II/3,4-dihydroxy-2-butanone-4-phosphate synthase 
+(LcRIBA), 2 full-length cDNAs encoding lumazine synthase (LcLS1 and LcLS2), and 
+a full-length cDNA encoding riboflavin synthase (LcRS) were isolated from Lycium 
+chinense, an important traditional medicinal plant. Sequence analyses showed 
+that these genes exhibited high identities with their orthologous genes as well 
+as having the same common features related to plant riboflavin biosynthetic 
+genes. LcRIBA, like other plant RIBAs, contained a DHBPS region in its N 
+terminus and a GCHII region in its C-terminal part. LcLSs and LcRS carried an 
+N-terminal extension found in plant riboflavin biosynthetic genes unlike the 
+orthologous microbial genes. Quantitative real-time polymerase chain reaction 
+analysis showed that 4 riboflavin biosynthetic genes were constitutively 
+expressed in all organs examined of L. chinense plants with the highest 
+expression levels found in the leaves or red fruits. LcRIBA, which catalyzes 2 
+initial reactions in riboflavin biosynthetic pathway, was the highest transcript 
+in the leaves, and hence, the richest content of riboflavin was detected in this 
+organ. Our study might provide the basis for investigating the contribution of 
+riboflavin in diverse biological activities of L. chinense and may facilitate 
+the metabolic engineering of vitamin B2 in crop plants.
+
+DOI: 10.3390/molecules191117141
+PMCID: PMC6270806
+PMID: 25347458 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+713. Chem Res Toxicol. 2014 Dec 15;27(12):2023-35. doi: 10.1021/tx500231f. Epub
+2014  Nov 12.
+
+Reduced astrocyte viability at physiological temperatures from magnetically 
+activated iron oxide nanoparticles.
+
+Schaub NJ(1), Rende D, Yuan Y, Gilbert RJ, Borca-Tasciuc DA.
+
+Author information:
+(1)Center for Biotechnology and Interdisciplinary Studies, ‡Department of 
+Biomedical Engineering, §Rensselaer Nanotechnology Center, ∥Department of 
+Materials Science and Engineering, ⊥Department of Mechanical, Aerospace and 
+Nuclear Engineering, Rensselaer Polytechnic Institute , 110 8th Street, Troy, 
+New York 12180-3590, United States.
+
+Superparamagnetic iron oxide nanoparticles (SPIONs) can generate heat when 
+subjected to an alternating magnetic field (AMF). In the European Union, SPIONs 
+actuated by AMF are used in hyperthermia treatment of glioblastoma multiforme, 
+an aggressive form of brain cancer. Current data from clinical trials suggest 
+that this therapy improves patient life expectancy, but their effect on healthy 
+brain cells is virtually unknown. Thus, a viability study involving SPIONs 
+subjected to an AMF was carried out on healthy cortical rat astrocytes, the most 
+abundant cell type in the mammalian brain. The cells were cultured with 
+aminosilane- or starch-coated SPIONs with or without application of an AMF. 
+Significant cell death (p < 0.05) was observed only when SPIONs were added to 
+astrocyte cultures and subjected to an AMF. Unexpectedly, the decrease in 
+astrocyte viability was observed at physiological temperatures (34-40 °C) with 
+AMF. A further decrease in astrocyte viability was found only when bulk 
+temperatures exceeded 45 °C. To discern differences in the astrocyte structure 
+when astrocytes were cultured with particles with or without AMF, scanning 
+electron microscopy (SEM) was performed. SEM images revealed a change in the 
+structure of the astrocyte cell membrane only when astrocytes were cultured with 
+SPIONs and actuated with an AMF. This study is the first to report that 
+astrocyte death occurs at physiological temperatures in the presence of magnetic 
+particles and AMF, suggesting that other mechanisms are responsible for inducing 
+astrocyte death in addition to heat.
+
+DOI: 10.1021/tx500231f
+PMID: 25347722 [Indexed for MEDLINE]
+
+
+714. Medicina (B Aires). 2014;74(5):411-4.
+
+[Life expectancy: Gibbon, 1798].
+
+[Article in Spanish]
+
+Barcat JA(1).
+
+Author information:
+(1)E-mail: jabarcat@yahoo.com.ar.
+
+PMID: 25347907 [Indexed for MEDLINE]
+
+
+715. J Med Econ. 2015 Feb;18(2):155-65. doi: 10.3111/13696998.2014.979937. Epub
+2014  Nov 11.
+
+Cost-effectiveness of continuous subcutaneous apomorphine in the treatment of 
+Parkinson's disease in the UK and Germany.
+
+Walter E(1), Odin P.
+
+Author information:
+(1)IPF Institute for Phamaeconomic Research , Vienna , Austria.
+
+Comment in
+    J Med Econ. 2015 Nov;18(11):858-9.
+    J Med Econ. 2015 Nov;18(11):860-2.
+
+BACKGROUND: Parkinson's disease (PD) is the second most common neurodegenerative 
+disease, affecting ∼ 5.2 million people worldwide. Continuous subcutaneous 
+apomorphine (CSAI) represents an alternative treatment option for advanced PD 
+with motor fluctuation. The purpose of this analysis was to estimate the 
+cost-effectiveness of CSAI compared with Levodopa/carbidopa intestinal gel 
+(LCIG), Deep-Brain-Stimulation (DBS) and Standard-of-care (SOC).
+METHODS: A multi-country Markov-Model to simulate the long-term consequences, 
+disease progression (Hoehn & Yahr stages 3-5, percentage of waking-time in the 
+OFF-state), complications, and adverse events was developed. Monte-Carlo 
+simulation accounted for uncertainty. Probabilities were derived from RCT and 
+open-label studies. Costs were estimated from the UK and German healthcare 
+provider's perspective. QALYs, life-years (LYs), and costs were projected over a 
+life-time horizon.
+RESULTS: UK lifetime costs associated with CSAI amounts to £78,251.49 and 
+generates 2.85 QALYs and 6.28 LYs (€104,500.08, 2.92 QALYs and 6.49 LYs for 
+Germany). Costs associated with LCIG are £130,011.34, achieves 3.06 QALYs and 
+6.93 LYs (€175,004.43, 3.18 QALYs and 7.18 LYs for Germany). The 
+incremental-cost per QALY gained (ICER) was £244,684.69 (€272,914.58). Costs for 
+DBS are £87,730.22, associated with 2.75 QALYs and 6.38 LYs (€105,737.08, 2.85 
+QALYs and 6.61 LYs for Germany). CSAI dominates DBS. SOC associated UK costs are 
+£76,793.49; 2.62 QALYs and 5.76 LYs were reached (€90,011.91, 2.73 QALYs and 6 
+LYs for Germany).
+CONCLUSIONS: From a health economic perspective, CSAI is a cost-effective 
+therapy and could be seen as an alternative treatment to LCIG or DBS for 
+patients with advanced PD.
+
+DOI: 10.3111/13696998.2014.979937
+PMID: 25348011 [Indexed for MEDLINE]
+
+
+716. Sleep. 2015 May 1;38(5):735-44. doi: 10.5665/sleep.4666.
+
+Long-Term Cost-Effectiveness of Upper Airway Stimulation for the Treatment of 
+Obstructive Sleep Apnea: A Model-Based Projection Based on the STAR Trial.
+
+Pietzsch JB(1), Liu S(1)(2), Garner AM(1), Kezirian EJ(3), Strollo PJ(4).
+
+Author information:
+(1)Wing Tech Inc., Menlo Park, CA.
+(2)University of Washington, Seattle, WA.
+(3)Keck School of Medicine of the University of Southern California, Los 
+Angeles, CA.
+(4)University of Pittsburgh, PA.
+
+Comment in
+    Sleep. 2015 May;38(5):665-7.
+
+STUDY OBJECTIVES: Upper airway stimulation (UAS) is a new approach to treat 
+moderate-to-severe obstructive sleep apnea. Recently, 12-month data from the 
+Stimulation Treatment for Apnea Reduction (STAR) trial were reported, evaluating 
+the effectiveness of UAS in patients intolerant or non-adherent to continuous 
+positive airway pressure therapy. Our objective was to assess the 
+cost-effectiveness of UAS from a U.S. payer perspective.
+DESIGN: A 5-state Markov model was used to predict cardiovascular endpoints 
+(myocardial infarction [MI], stroke, hypertension), motor vehicle collisions 
+(MVC), mortality, quality-adjusted life years (QALYs), and costs. We computed 
+10-year relative event risks and the lifetime incremental cost-effectiveness 
+ratio (ICER) in $/QALY, comparing UAS therapy to no treatment under the 
+assumption that the STAR trial-observed reduction in mean apnea-hypopnea index 
+from 32.0 to 15.3 events/h was maintained. Costs and effects were discounted at 
+3% per year.
+SETTING: U.S. healthcare system; third-party payer perspective.
+PARTICIPANTS: 83% male cohort with mean age of 54.5 years.
+INTERVENTIONS: UAS vs. no treatment.
+MEASUREMENTS AND RESULTS: UAS substantially reduced event probabilities over 10 
+years (relative risks: MI 0.63; stroke 0.75; MVC 0.34), and was projected to add 
+1.09 QALYs over the patient's lifetime. Costs were estimated to increase by 
+$42,953, resulting in a lifetime ICER of $39,471/QALY.
+CONCLUSIONS: Relative to the acknowledged willingness-to-pay threshold of 
+$50,000-$100,000/QALY, our results indicate upper airway stimulation is a 
+cost-effective therapy in the U.S. healthcare system.
+
+© 2015 Associated Professional Sleep Societies, LLC.
+
+DOI: 10.5665/sleep.4666
+PMCID: PMC4402668
+PMID: 25348126 [Indexed for MEDLINE]
+
+
+717. Sleep. 2015 May 1;38(5):707-15. doi: 10.5665/sleep.4660.
+
+Beneficial impact of sleep extension on fasting insulin sensitivity in adults 
+with habitual sleep restriction.
+
+Leproult R(1), Deliens G(1)(2), Gilson M(1), Peigneux P(1).
+
+Author information:
+(1)Neuropsychology and Functional Neuroimaging Research Unit, Université Libre 
+de Bruxelles (ULB), Brussels, Belgium.
+(2)CO3-Consciousness, Cognition & Computation Group, Center for Research in 
+Cognition and Neurosciences and the ULB Neuroscience Institute, Université Libre 
+de Bruxelles (ULB), Brussels, Belgium.
+
+Comment in
+    Sleep. 2015 May;38(5):663-4.
+
+STUDY OBJECTIVES: A link between sleep loss and increased risk for the 
+development of diabetes is now well recognized. The current study investigates 
+whether sleep extension under real-life conditions is a feasible intervention 
+with a beneficial impact on glucose metabolism in healthy adults who are 
+chronically sleep restricted.
+DESIGN: Intervention study.
+PARTICIPANTS: Sixteen healthy non-obese volunteers (25 [23, 27.8] years old, 3 
+men).
+INTERVENTIONS: Two weeks of habitual time in bed followed by 6 weeks during 
+which participants were instructed to increase their time in bed by one hour per 
+day.
+MEASUREMENTS AND RESULTS: Continuous actigraphy monitoring and daily sleep logs 
+during the entire study. Glucose and insulin were assayed on a single morning 
+blood sample at the end of habitual time in bed and at the end of sleep 
+extension. Home polysomnography was performed during one weekday of habitual 
+time in bed and after 40 days of sleep extension. Sleep time during weekdays 
+increased (mean actigraphic data: +44 ± 34 minutes, P < 0.0001; polysomnographic 
+data: +49 ± 68 minutes, P = 0.014), without any significant change during 
+weekends. Changes from habitual time in bed to the end of the intervention in 
+total sleep time correlated with changes in glucose (r = +0.53, P = 0.041) and 
+insulin levels (r = -0.60, P = 0.025), as well as with indices of insulin 
+sensitivity (r = +0.76, P = 0.002).
+CONCLUSIONS: In healthy adults who are chronically sleep restricted, a simple 
+low cost intervention such as sleep extension is feasible and is associated with 
+improvements in fasting insulin sensitivity.
+
+© 2015 Associated Professional Sleep Societies, LLC.
+
+DOI: 10.5665/sleep.4660
+PMCID: PMC4402666
+PMID: 25348128 [Indexed for MEDLINE]
+
+
+718. Protein Sci. 2015 Jan;24(1):93-104. doi: 10.1002/pro.2591. Epub 2014 Dec 5.
+
+Structural and biochemical characterization of a metagenome-derived esterase 
+with a long N-terminal extension.
+
+Okano H(1), Hong X, Kanaya E, Angkawidjaja C, Kanaya S.
+
+Author information:
+(1)Department of Material and Life Science, Graduate School of Engineering, 
+Osaka University, 565-0871, Japan.
+
+The genes encoding six novel esterolytic/lipolytic enzymes, termed LC-Est1∼6, 
+were isolated from a fosmid library of a leaf-branch compost metagenome by 
+functional screening using tributyrin agar plates. These enzymes greatly vary in 
+size and amino acid sequence. The highest identity between the amino acid 
+sequence of each enzyme and that available from the database varies from 44 to 
+73%. Of these metagenome-derived enzymes, LC-Est1 is characterized by the 
+presence of a long N-terminal extension (LNTE, residues 26-283) between a 
+putative signal peptide (residues 1-25) and a C-terminal esterase domain 
+(residues 284-510). A putative esterase from Candidatus Solibacter usitatus 
+(CSu-Est) is the only protein, which shows the significant amino acid sequence 
+identity (46%) to the entire region of LC-Est1. To examine whether LC-Est1 
+exhibits activity and its LNTE is important for activity and stability of the 
+esterase domain, LC-Est1 (residues 26-510), LC-Est1C (residues 284-510), and 
+LC-Est1C* (residues 304-510) were overproduced in E. coli, purified, and 
+characterized. LC-Est1C* was only used for structural analysis. The crystal 
+structure of LC-Est1C* highly resembles that of the catalytic domain of 
+Thermotoga maritima esterase, suggesting that LNTE is not required for folding 
+of the esterase domain. The enzymatic activity of LC-Est1C was lower than that 
+of LC-Est1 by 60%, although its substrate specificity was similar to that of 
+LC-Est1. LC-Est1C was less stable than LC-Est1 by 3.3°C. These results suggest 
+that LNTE of LC-Est1 rather exists as an independent domain but is required for 
+maximal activity and stability of the esterase domain.
+
+© 2014 The Protein Society.
+
+DOI: 10.1002/pro.2591
+PMCID: PMC4282415
+PMID: 25348365 [Indexed for MEDLINE]
+
+
+719. Aust N Z J Psychiatry. 2015 Apr;49(4):360-76. doi: 10.1177/0004867414553948.
+ Epub 2014 Oct 27.
+
+Is implementation of the 2013 Australian treatment guidelines for posttraumatic 
+stress disorder cost-effective compared to current practice? A cost-utility 
+analysis using QALYs and DALYs.
+
+Mihalopoulos C(1), Magnus A(2), Lal A(2), Dell L(3), Forbes D(3), Phelps A(4).
+
+Author information:
+(1)Deakin Health Economics, Faculty of Health, Deakin University, Burwood, 
+Australia cathy.mihalopoulos@deakin.edu.au.
+(2)Deakin Health Economics, Faculty of Health, Deakin University, Burwood, 
+Australia.
+(3)Australian Centre for Posttraumatic Mental Health, East Melbourne, Australia.
+(4)Policy and Service Development, Australian Centre for Posttraumatic Mental 
+Health, East Melbourne, Australia.
+
+OBJECTIVE: To assess, from a health sector perspective, the incremental 
+cost-effectiveness of three treatment recommendations in the most recent 
+Australian Clinical Practice Guidelines for posttraumatic stress disorder 
+(PTSD). The interventions assessed are trauma-focused cognitive behavioural 
+therapy (TF-CBT) and selective serotonin reuptake inhibitors (SSRIs) for the 
+treatment of PTSD in adults and TF-CBT in children, compared to current practice 
+in Australia.
+METHOD: Economic modelling, using existing databases and published information, 
+was used to assess cost-effectiveness. A cost-utility framework using both 
+quality-adjusted life-years (QALYs) gained and disability-adjusted life-years 
+(DALYs) averted was used. Costs were tracked for the duration of the respective 
+interventions and applied to the estimated 12 months prevalent cases of PTSD in 
+the Australian population of 2012. Simulation modelling was used to provide 95% 
+uncertainty around the incremental cost-effectiveness ratios. Consideration was 
+also given to factors not considered in the quantitative analysis but could 
+determine the likely uptake of the proposed intervention guidelines.
+RESULTS: TF-CBT is highly cost-effective compared to current practice at 
+$19,000/QALY, $16,000/DALY in adults and $8900/QALY, $8000/DALY in children. In 
+adults, 100% of uncertainty iterations fell beneath the $50,000/QALY or DALY 
+value-for-money threshold. Using SSRIs in people already on medications is 
+cost-effective at $200/QALY, but has considerable uncertainty around the costs 
+and benefits. While there is a 13% chance of health loss there is a 27% chance 
+of the intervention dominating current practice by both saving dollars and 
+improving health in adults.
+CONCLUSION: The three Guideline recommended interventions evaluated in this 
+study are likely to have a positive impact on the economic efficiency of the 
+treatment of PTSD if adopted in full. While there are gaps in the evidence base, 
+policy-makers can have considerable confidence that the recommendations assessed 
+in the current study are likely to improve the efficiency of the mental health 
+care sector.
+
+© The Royal Australian and New Zealand College of Psychiatrists 2014.
+
+DOI: 10.1177/0004867414553948
+PMID: 25348698 [Indexed for MEDLINE]
+
+
+720. Cochrane Database Syst Rev. 2014 Oct 28;2014(10):CD007461. doi: 
+10.1002/14651858.CD007461.pub3.
+
+Deferasirox for managing iron overload in people with myelodysplastic syndrome.
+
+Meerpohl JJ(1), Schell LK, Rücker G, Fleeman N, Motschall E, Niemeyer CM, 
+Bassler D.
+
+Author information:
+(1)German Cochrane Centre, Medical Center - University of Freiburg, Berliner 
+Allee 29, Freiburg, Germany, 79110.
+
+Update of
+    Cochrane Database Syst Rev. 2010;(11):CD007461.
+
+BACKGROUND: The myelodysplastic syndrome (MDS) comprises a diverse group of 
+haematopoietic stem cell disorders. Due to symptomatic anaemia, most people with 
+MDS require supportive therapy including repeated red blood cell (RBC) 
+transfusions. In combination with increased iron absorption, this contributes to 
+the accumulation of iron resulting in secondary iron overload and the risk of 
+organ dysfunction and reduced life expectancy. Since the human body has no 
+natural means of removing excess iron, iron chelation therapy, i.e. the 
+pharmacological treatment of iron overload, is usually recommended. However, it 
+is unclear whether or not the newer oral chelator deferasirox leads to relevant 
+benefit.
+OBJECTIVES: To evaluate the effectiveness and safety of oral deferasirox for 
+managing iron overload in people with myelodysplastic syndrome (MDS).
+SEARCH METHODS: We searched the following databases up to 03 April 2014: 
+MEDLINE, EMBASE, The Cochrane Library, Biosis Previews, Web of Science, Derwent 
+Drug File and four trial registries: Current Controlled Trials 
+(www.controlled-trials.com), ClinicalTrials.gov (www.clinicaltrials.gov), ICTRP 
+(www.who.int./ictrp/en/), and German Clinical Trial Register (www.drks.de).
+SELECTION CRITERIA: Randomised controlled trials (RCTs) comparing deferasirox 
+with no therapy, placebo or with another iron-chelating treatment schedule.
+DATA COLLECTION AND ANALYSIS: We did not identify any trials eligible for 
+inclusion in this review.
+MAIN RESULTS: No trials met our inclusion criteria. However, we identified three 
+ongoing and one completed trial (published as an abstract only and in 
+insufficient detail to permit us to decide on inclusion) comparing deferasirox 
+with deferoxamine, placebo or no treatment.
+AUTHORS' CONCLUSIONS: We planned to report evidence from RCTs that evaluated the 
+effectiveness of deferasirox compared to either placebo, no treatment or other 
+chelating regimens, such as deferoxamine, in people with MDS. However, we did 
+not identify any completed RCTs addressing this question.We found three ongoing 
+and one completed RCT (published as an abstract only and in insufficient detail) 
+comparing deferasirox with deferoxamine, placebo or no treatment and data will 
+hopefully be available soon. These results will be important to inform 
+physicians and patients on the advantages and disadvantages of this treatment 
+option.
+
+DOI: 10.1002/14651858.CD007461.pub3
+PMCID: PMC7202239
+PMID: 25348770 [Indexed for MEDLINE]
+
+Conflict of interest statement: Joerg Meerpohl enrolled two adolescents with 
+thalassaemia and one with Diamond‐Blackfan anaemia in a post‐marketing 
+surveillance study on deferasirox and participated once in a Novartis advisory 
+board meeting on paediatric iron overload over five years ago. The other review 
+authors have no known conflicts of interest.721. Tissue Eng Part B Rev. 2015 Apr;21(2):218-30. doi:
+10.1089/ten.TEB.2014.0333.  Epub 2014 Dec 18.
+
+Biological strategies for improved osseointegration and osteoinduction of porous 
+metal orthopedic implants.
+
+Lewallen EA(1), Riester SM, Bonin CA, Kremers HM, Dudakovic A, Kakar S, Cohen 
+RC, Westendorf JJ, Lewallen DG, van Wijnen AJ.
+
+Author information:
+(1)1 Department of Orthopedic Surgery, Mayo Clinic , Rochester, Minnesota.
+
+The biological interface between an orthopedic implant and the surrounding host 
+tissue may have a dramatic effect upon clinical outcome. Desired effects include 
+bony ingrowth (osseointegration), stimulation of osteogenesis (osteoinduction), 
+increased vascularization, and improved mechanical stability. Implant loosening, 
+fibrous encapsulation, corrosion, infection, and inflammation, as well as 
+physical mismatch may have deleterious clinical effects. This is particularly 
+true of implants used in the reconstruction of load-bearing synovial joints such 
+as the knee, hip, and the shoulder. The surfaces of orthopedic implants have 
+evolved from solid-smooth to roughened-coarse and most recently, to porous in an 
+effort to create a three-dimensional architecture for bone apposition and 
+osseointegration. Total joint surgeries are increasingly performed in younger 
+individuals with a longer life expectancy, and therefore, the postimplantation 
+lifespan of devices must increase commensurately. This review discusses 
+advancements in biomaterials science and cell-based therapies that may further 
+improve orthopedic success rates. We focus on material and biological properties 
+of orthopedic implants fabricated from porous metal and highlight some relevant 
+developments in stem-cell research. We posit that the ideal primary and revision 
+orthopedic load-bearing metal implants are highly porous and may be chemically 
+modified to induce stem cell growth and osteogenic differentiation, while 
+minimizing inflammation and infection. We conclude that integration of new 
+biological, chemical, and mechanical methods is likely to yield more effective 
+strategies to control and modify the implant-bone interface and thereby improve 
+long-term clinical outcomes.
+
+DOI: 10.1089/ten.TEB.2014.0333
+PMCID: PMC4390115
+PMID: 25348836 [Indexed for MEDLINE]
+
+
+722. Med Decis Making. 2015 Jul;35(5):596-607. doi: 10.1177/0272989X14556510.
+Epub  2014 Oct 27.
+
+Cost-Effectiveness Uncertainty Analysis Methods: A Comparison of One-Way 
+Sensitivity, Analysis of Covariance, and Expected Value of Partial Perfect 
+Information.
+
+Campbell JD(1), McQueen RB(1), Libby AM(1), Spackman DE(2), Carlson JJ(3), 
+Briggs A(4).
+
+Author information:
+(1)University of Colorado Skaggs School of Pharmacy and Pharmaceutical Sciences, 
+Aurora, CO (JDC, RBM, AML)
+(2)University of York, York, UK (DES)
+(3)University of Washington, Seattle, WA (JJC)
+(4)University of Glasgow, Glasgow, UK (AB)
+
+Comment in
+    Med Decis Making. 2015 Jul;35(5):567-9.
+
+OBJECTIVES: To compare model input influence on incremental net monetary benefit 
+(INMB) across 3 uncertainty methods: 1) 1-way sensitivity analysis; 2) 
+probabilistic analysis of covariance (ANCOVA); and 3) expected value of partial 
+perfect information (EVPPI).
+METHODS: In a preliminary model, we used a published cost-effectiveness model 
+and assumed £20,000 per quality-adjusted life-year (QALY) willingness-to-pay 
+(Case 1: lower decision uncertainty) and £8000/QALY willingness-to-pay (Case 2: 
+higher decision uncertainty). We conducted 1-way sensitivity, ANCOVA (10,000 
+Monte Carlo draws), and EVPPI for each model input (1000 inner and 1000 outer 
+draws). We ranked inputs based on influence of INMB and compared input ranks 
+across methods within case using Spearman's rank correlation. We replicated this 
+approach in 3 follow-up models: an additional linear model, a less linear model 
+with uncorrelated inputs, and a less linear model with correlated inputs.
+RESULTS: In the preliminary model, lower and higher decision uncertainty cases 
+had the same top 3 influential parameters across uncertainty methods. The 2 most 
+influential inputs contributed 78% and 49% of variation in outcome based on 
+ANCOVA for lower decision uncertainty and higher decision uncertainty cases, 
+respectively. In the follow-up models, input rank order correlations were higher 
+across uncertainty methods in the linear model compared with both of the less 
+linear models.
+CONCLUSIONS: Evidence across models suggests influential input rank agreement 
+between 1-way and more advanced uncertainty analyses for relatively linear 
+models with uncorrelated parameters but less agreement for less linear models. 
+Although each method provides unique information, the additional resources 
+needed to generate and communicate advanced analyses should be weighed, 
+especially when outcome decision uncertainty is low. For less linear models or 
+those with correlated inputs, performing and reporting deterministic and 
+probabilistic uncertainty analyses appear prudent and conservative.
+
+© The Author(s) 2014.
+
+DOI: 10.1177/0272989X14556510
+PMID: 25349188 [Indexed for MEDLINE]
+
+
+723. Med Decis Making. 2015 Apr;35(3):341-50. doi: 10.1177/0272989X14554715. Epub
+ 2014 Oct 27.
+
+A framework for estimating health state utility values within a discrete choice 
+experiment: modeling risky choices.
+
+Robinson A(1), Spencer A(2), Moffatt P(1).
+
+Author information:
+(1)University of East Anglia, Norwich, United Kingdom (AR, PM)
+(2)University of Exeter Medical School, Exeter, UK (AS).
+
+BACKGROUND: There has been recent interest in using the discrete choice 
+experiment (DCE) method to derive health state utilities for use in 
+quality-adjusted life year (QALY) calculations, but challenges remain.
+OBJECTIVES: We set out to develop a risk-based DCE approach to derive utility 
+values for health states that allowed 1) utility values to be anchored directly 
+to normal health and death and 2) worse than dead health states to be assessed 
+in the same manner as better than dead states. Furthermore, we set out to 
+estimate alternative models of risky choice within a DCE model.
+METHOD: A survey was designed that incorporated a risk-based DCE and a 
+"modified" standard gamble (SG). Health state utility values were elicited for 3 
+EQ-5D health states assuming "standard" expected utility (EU) preferences. The 
+DCE model was then generalized to allow for rank-dependent expected utility 
+(RDU) preferences, thereby allowing for probability weighting. A convenience 
+sample of 60 students was recruited and data collected in small groups.
+RESULTS: Under the assumption of "standard" EU preferences, the utility values 
+derived within the DCE corresponded fairly closely to the mean results from the 
+modified SG. Under the assumption of RDU preferences, the utility values 
+estimated are somewhat lower than under the assumption of standard EU, 
+suggesting that the latter may be biased upward.
+CONCLUSION: Applying the correct model of risky choice is important whether a 
+modified SG or a risk-based DCE is deployed. It is, however, possible to 
+estimate a probability weighting function within a DCE and estimate "unbiased" 
+utility values directly, which is not possible within a modified SG. We conclude 
+by setting out the relative strengths and weaknesses of the 2 approaches in this 
+context.
+
+© The Author(s) 2014.
+
+DOI: 10.1177/0272989X14554715
+PMID: 25349189 [Indexed for MEDLINE]
+
+
+724. Europace. 2015 Feb;17(2):207-14. doi: 10.1093/europace/euu213. Epub 2014 Oct
+27.
+
+A cost-effectiveness analysis of screening for silent atrial fibrillation after 
+ischaemic stroke.
+
+Levin LÅ(1), Husberg M(2), Sobocinski PD(3), Kull VF(3), Friberg L(3), 
+Rosenqvist M(3), Davidson T(2).
+
+Author information:
+(1)Department of Medical and Health Sciences, Linköping University, Linköping, 
+Sweden lars-ake.levin@liu.se.
+(2)Department of Medical and Health Sciences, Linköping University, Linköping, 
+Sweden.
+(3)Department of Clinical Sciences, Danderyd Hospital, Division of 
+cardiovascular medicine, Karolinska Institutet, Stockholm, Sweden.
+
+AIMS: The purpose of this study was to estimate the cost-effectiveness of two 
+screening methods for detection of silent AF, intermittent electrocardiogram 
+(ECG) recordings using a handheld recording device, at regular time intervals 
+for 30 days, and short-term 24 h continuous Holter ECG, in comparison with a 
+no-screening alternative in 75-year-old patients with a recent ischaemic stroke.
+METHODS AND RESULTS: The long-term (20-year) costs and effects of all 
+alternatives were estimated with a decision analytic model combining the result 
+of a clinical study and epidemiological data from Sweden. The structure of a 
+cost-effectiveness analysis was used in this study. The short-term decision tree 
+model analysed the screening procedure until the onset of anticoagulant 
+treatment. The second part of the decision model followed a Markov design, 
+simulating the patients' health states for 20 years. Continuous 24 h ECG 
+recording was inferior to intermittent ECG in terms of cost-effectiveness, due 
+to both lower sensitivity and higher costs. The base-case analysis compared 
+intermittent ECG screening with no screening of patients with recent stroke. The 
+implementation of the screening programme on 1000 patients resulted over a 
+20-year period in 11 avoided strokes and the gain of 29 life-years, or 23 
+quality-adjusted life years, and cost savings of €55 400.
+CONCLUSION: Screening of silent AF by intermittent ECG recordings in patients 
+with a recent ischaemic stroke is a cost-effective use of health care resources 
+saving costs and lives and improving the quality of life.
+
+Published on behalf of the European Society of Cardiology. All rights reserved. 
+© The Author 2014. For permissions please email: journals.permissions@oup.com.
+
+DOI: 10.1093/europace/euu213
+PMID: 25349228 [Indexed for MEDLINE]
+
+
+725. J Anim Sci. 2014 Nov;92(11):4888-96. doi: 10.2527/jas.2014-7835.
+
+Serotonin's role in piglet mortality and thriftiness.
+
+Dennis RL(1), McMunn KA(2), Cheng HW(2), Marchant-Forde JN(2), Lay DC Jr(2).
+
+Author information:
+(1)USDA-Agricultural Research Service, Livestock Behavior Research Unit, West 
+Lafayette, IN 47907 rldennis@umd.edu.
+(2)USDA-Agricultural Research Service, Livestock Behavior Research Unit, West 
+Lafayette, IN 47907.
+
+Improving piglet survivability rates is of high priority for swine production as 
+well as for piglet well-being. Dysfunction in the serotonin (5-HT) system has 
+been associated with growth deficiencies, infant mortalities, or failure to 
+thrive in human infants. The aim of this research was to determine if a 

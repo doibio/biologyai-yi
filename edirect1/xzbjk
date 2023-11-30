@@ -1,0 +1,1000 @@
+(1)Faculty of Health Sciences, Simon Fraser University, Burnaby, BC, Canada; 
+Centre for Clinical Epidemiology and Evaluation, Vancouver Coastal Health 
+Research Institute, Vancouver, BC, Canada. Electronic address: 
+david_whitehurst@sfu.ca.
+(2)Centre for Health Economics Research and Evaluation, University of Technology 
+Sydney, Sydney, Australia.
+(3)Health Economics and Decision Science, School of Health and Related Research, 
+University of Sheffield, Sheffield, UK.
+
+OBJECTIVES: Poor agreement between preference-based health-related 
+quality-of-life instruments has been widely reported across patient and 
+community-based samples. This study compares index scores generated from 
+contemporaneous EQ-5D (3-level version) and SF-6D (SF-36 version) responses 
+using scoring algorithms derived from independently-conducted Australian 
+population-representative discrete choice experiments (DCEs), providing the 
+first comparative analysis of health state valuations using the same method of 
+valuation across the full value sets.
+METHODS: EQ-5D and SF-6D responses from seven patient data sets were transformed 
+into health state valuations using published DCE-derived scoring algorithms. The 
+empirical comparative evaluation consisted of graphical illustration of the 
+location and spread of index scores, reporting of basic descriptive statistics, 
+exploration of between-measure differences in mean index scores, and analysis of 
+agreement.
+RESULTS: Compared with previously published findings regarding the comparability 
+of "conventional" EQ-5D and SF-6D index scores, health state valuations from the 
+DCE-derived scoring procedures showed that agreement between scores remained 
+"fair" (intraclass correlation coefficient values across the seven data sets 
+ranged from 0.375 to 0.615). Mean SF-6D scores were significantly lower than the 
+respective mean EQ-5D score across all patient groups (mean difference for the 
+whole sample = 0.253).
+CONCLUSIONS: The magnitude of disagreement previously reported between EQ-5D and 
+SF-6D index scores is not ameliorated through the application of DCE-derived 
+value sets; sizeable discrepancies remain. These findings suggest that 
+differences between EQ-5D and SF-6D index scores persist because of their 
+respective descriptive systems. Further research is required to explore the 
+implications of variations in the descriptive systems of preference-based 
+instruments.
+
+Copyright © 2014 International Society for Pharmacoeconomics and Outcomes 
+Research (ISPOR). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2014.03.1720
+PMID: 25128050 [Indexed for MEDLINE]
+
+
+67. Value Health. 2014 Jul;17(5):597-604. doi: 10.1016/j.jval.2014.05.007. Epub
+2014  Jul 23.
+
+Chinese time trade-off values for EQ-5D health states.
+
+Liu GG(1), Wu H(2), Li M(3), Gao C(4), Luo N(5).
+
+Author information:
+(1)National School of Development, Peking University, Beijing, China.
+(2)School of Medicine and Health Management, Guiyang Medical University, 
+Guiyang, China.
+(3)South Carolina College of Pharmacy, University of South Carolina, Columbia, 
+SC.
+(4)Novo Nordisk (China) Pharmaceuticals Co., Ltd., Beijing, China.
+(5)Saw Swee Hock School of Public Health, National University of Singapore, 
+Singapore. Electronic address: nan_luo@nuhs.edu.sg.
+
+OBJECTIVE: To generate a Chinese general population-based three-level EuroQol 
+five-dimensios (EQ-5D-3L) social value set using the time trade-off method.
+METHODS: The study sample was drawn from five cities in China: Beijing, 
+Guangzhou, Shenyang, Chengdu, and Nanjing, using a quota sampling method. 
+Utility values for a subset of 97 health states defined by the EQ-5D-3L 
+descriptive system were directly elicited from the study sample using a modified 
+Measurement and Valuation of Health protocol, with each respondent valuing 13 of 
+the health states. The utility values for all 243 EQ-5D-3L health states were 
+estimated on the basis of econometric models at both individual and aggregate 
+levels. Various linear regression models using different model specifications 
+were examined to determine the best model using predefined model selection 
+criteria.
+RESULTS: The N3 model based on ordinary least square regression at the aggregate 
+level yielded the best model fit, with a mean absolute error of 0.020, 7 and 0 
+states for which prediction errors were greater than 0.05 and 0.10, 
+respectively, in absolute magnitude. This model passed tests for model 
+misspecification (F = 2.7; P = 0.0509, Ramsey Regression Equation Specification 
+Error Test), heteroskedasticity (χ(2) = 0.97; P = 0.3254, 
+Breusch-Pagan/Cook-Weisberg test), and normality of the residuals (χ(2) = 1.285; 
+P = 0.5259, Jarque-Bera test). The range of the predicted values (-0.149 to 
+0.887) was similar to those estimated in other countries.
+CONCLUSIONS: The study successfully developed Chinese utility values for 
+EQ-5D-3L health states using the time trade-off method. It is the first attempt 
+ever to develop a standardized instrument for quantifying quality-adjusted 
+life-years in China.
+
+Copyright © 2014 International Society for Pharmacoeconomics and Outcomes 
+Research (ISPOR). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2014.05.007
+PMID: 25128053 [Indexed for MEDLINE]
+
+
+68. Math Biosci. 2014 Oct;256:18-27. doi: 10.1016/j.mbs.2014.08.005. Epub 2014
+Aug  12.
+
+A Leslie matrix model for Sicyopterus lagocephalus in La Réunion: sensitivity, 
+uncertainty and research prioritization.
+
+Artzrouni M(1), Teichert N(2), Mara T(3).
+
+Author information:
+(1)Department of Mathematics (UMR CNRS 5142), University of Pau, France.
+(2)Association Réunionnaise de Développement de l'Aquaculture, ZI Les Sables - 
+BP 16, 97427 Etang-Salé, La Réunion, France.
+(3)Department of Physics (EA 4518), University of La Réunion, 97715 Saint-Denis, 
+France.
+
+We propose a Leslie matrix model for the population dynamics of Sicyopterus 
+lagocephalus in La Réunion. In order to capture both the amphidromous and the 
+seasonal natures of the species' life history the model has four stages 
+(sea+three river sites) and is cyclical with a 12 month period. Baseline 
+parameters (age-specific fecundity, spatial dispersion patterns and survival 
+rates) were chosen in such a way that the dominant eigenvalue of the 
+year-on-year projection matrix is 1. Large uncertainties on the parameter values 
+preclude the use of the model for management purpose. A sensitivity/uncertainty 
+analysis sheds light on the parameters that cause much of the output to vary and 
+that are poorly known: the life expectancy in rivers and the mortality both at 
+river mouths and during the drift of larvae to sea. The aim is to help 
+policymakers and researchers prioritize data acquisition efforts. The ultimate 
+goal is a sustainable management of Sicyopterus lagocephalus in La Réunion.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mbs.2014.08.005
+PMID: 25128334 [Indexed for MEDLINE]
+
+
+69. Arthroscopy. 2014 Nov;30(11):1392-9. doi: 10.1016/j.arthro.2014.06.011. Epub 
+2014 Aug 14.
+
+The role of arthroscopy in the management of glenohumeral osteoarthritis: a 
+Markov decision model.
+
+Spiegl UJ(1), Faucett SC(1), Horan MP(1), Warth RJ(1), Millett PJ(2).
+
+Author information:
+(1)Steadman Philippon Research Institute, Vail, Colorado, U.S.A.
+(2)Steadman Philippon Research Institute, Vail, Colorado, U.S.A.; The Steadman 
+Clinic, Vail, Colorado, U.S.A.. Electronic address: 
+drmillett@thesteadmanclinic.com.
+
+PURPOSE: The purposes of this study were (1) to construct a theoretical Markov 
+decision model to compare the total remaining quality-adjusted life-years 
+following either arthroscopic management (AM) or total shoulder arthroplasty 
+(TSA) for the treatment of glenohumeral osteoarthritis and (2) to determine the 
+possible effects of age on the preferred treatment strategy.
+METHODS: A Markov decision model was constructed to compare AM and TSA in 
+patients with glenohumeral osteoarthritis. The rates of surgical complications, 
+revision surgery, and death were derived from the literature and analyzed. The 
+principal outcome measure was the mean total remaining quality-adjusted 
+life-years after each treatment strategy. Sensitivity analyses were performed 
+for age at the initial procedure, utilities, and transition probabilities.
+RESULTS: This theoretical decision model showed that AM was the preferred 
+strategy for patients younger than 47 years, TSA was the preferred strategy for 
+patients older than 66 years, and both treatment strategies were reasonable for 
+patients aged between 47 and 66 years. The model was highly sensitive to age at 
+the index surgery, utilities of wellness states, survivorship, and the 
+probability of failure after either AM or TSA.
+CONCLUSIONS: According to this theoretical decision model, AM was the preferred 
+treatment strategy for patients younger than 47 years, primary TSA was the 
+preferred treatment strategy for patients older than 66 years, and both 
+treatment options were reasonable for patients aged between 47 and 66 years.
+LEVEL OF EVIDENCE: Level II, economic and decision analysis.
+
+Copyright © 2014 Arthroscopy Association of North America. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.arthro.2014.06.011
+PMID: 25129865 [Indexed for MEDLINE]
+
+
+70. Biochem Biophys Res Commun. 2014 Sep 12;452(1):36-41. doi: 
+10.1016/j.bbrc.2014.08.037. Epub 2014 Aug 15.
+
+Biophysical and biological meanings of healthspan from C. elegans cohort.
+
+Suda H(1).
+
+Author information:
+(1)Life Sciences, Course of Biosciences, Tokai University, 3-20-1 Orido, 
+Shimizu-ku, Shizuoka 424-8610, Japan; School of Marine Science and Technology, 
+Tokai University, 3-20-1 Orido, Shimizu-ku, Shizuoka 424-8610, Japan. Electronic 
+address: suda@tsc.u-tokai.ac.jp.
+
+Lifespan among individuals ranges widely in organisms from yeast to mammals, 
+even in an isogenic cohort born in a nearly uniform environment. Needless to 
+say, genetic and environmental factors are essential for aging and lifespan, but 
+in addition, a third factor or the existence of a stochastic element must be 
+reflected in aging and lifespan. An essential point is that lifespan or aging is 
+an unpredictable phenomenon. The present study focuses on elucidating the 
+biophysical and biological meanings of healthspan that latently indwells a 
+stochastic nature. To perform this purpose, the nematode Caenorhabditis elegans 
+served as a model animal. C. elegans fed a healthy food had an extended 
+healthspan as compared to those fed a conventional diet. Then, utilizing this 
+phenomenon, we clarified a mechanism of healthspan extension by measuring the 
+single-worm ATP and estimating the ATP noise (or the variability of the ATP 
+content) among individual worms and by quantitatively analyzing biodemographic 
+data with the lifespan equation that was derived from a fluctuation theory.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2014.08.037
+PMID: 25130468 [Indexed for MEDLINE]
+
+
+71. Gen Hosp Psychiatry. 2014 Nov-Dec;36(6):599-606. doi: 
+10.1016/j.genhosppsych.2014.07.004. Epub 2014 Jul 19.
+
+Cost effectiveness of telecare management for pain and depression in patients 
+with cancer: results from a randomized trial.
+
+Choi Yoo SJ(1), Nyman JA(1), Cheville AL(2), Kroenke K(3).
+
+Author information:
+(1)Division of Health Policy and Management, School of Public Health, University 
+of Minnesota, Minneapolis, MN.
+(2)Department of Physical Medicine and Rehabilitation, Mayo Clinic.
+(3)VA HSR&D Center for Health Information and Communication, Regenstrief 
+Institute, Inc., and Indiana University School of Medicine. Electronic address: 
+kkroenke@regenstrief.org.
+
+OBJECTIVE: Pain and depression are prevalent and treatable symptoms among 
+patients with cancer, yet they are often undetected and undertreated. The 
+Indiana Cancer Pain and Depression (INCPAD) trial demonstrated that telecare 
+management can improve pain and depression outcomes. This article investigates 
+the incremental cost effectiveness of the INCPAD intervention.
+METHODS: The INCPAD trial was conducted in 16 community-based urban and rural 
+oncology practices in Indiana. Of the 405 participants, 202 were randomized to 
+the intervention group and 203 to the usual-care group. Intervention costs were 
+determined, and effectiveness outcomes were depression-free days and 
+quality-adjusted life years.
+RESULTS: The intervention group was associated with a yearly increase of 60.3 
+depression-free days (S.E. = 15.4; P < 0.01) and an increase of between 0.033 
+and 0.066 quality-adjusted life years compared to the usual care group. Total 
+cost of the intervention per patient was US$1189, which included physician, 
+nurse care manager and automated monitoring set-up and maintenance costs. 
+Incremental cost per depression-free day was US$19.72, which yields a range of 
+US$18,018 to US$36,035 per quality-adjusted life year when converted to that 
+metric. When measured directly, the incremental cost per quality-adjusted life 
+year ranged from US$10,826 based on the modified EQ-5D to US$73,286.92 based on 
+the SF-12.
+CONCLUSION: Centralized telecare management, coupled with automated symptom 
+monitoring, appears to be a cost effective intervention for managing pain and 
+depression in cancer patients.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.genhosppsych.2014.07.004
+PMCID: PMC4252770
+PMID: 25130518 [Indexed for MEDLINE]
+
+
+72. Alzheimers Dement. 2015 Apr;11(4):385-93. doi: 10.1016/j.jalz.2014.04.512.
+Epub  2014 Aug 15.
+
+Survival and early recourse to care for dementia: A population based study.
+
+Pimouguet C(1), Delva F(2), Le Goff M(2), Stern Y(3), Pasquier F(4), Berr C(5), 
+Tzourio C(6), Dartigues JF(7), Helmer C(8).
+
+Author information:
+(1)INSERM, ISPED, Centre INSERM U897-Epidemiologie-Biostatistique, Bordeaux, 
+France; Univ. Bordeaux, Bordeaux, France. Electronic address: 
+clement.pimouguet@isped.u-bordeaux2.fr.
+(2)INSERM, ISPED, Centre INSERM U897-Epidemiologie-Biostatistique, Bordeaux, 
+France; Univ. Bordeaux, Bordeaux, France.
+(3)Taub Institute for Research on Alzheimer's Disease and the Aging Brain, 
+College of Physicians and Surgeons, Columbia University Medical Center, New 
+York, NY, USA.
+(4)Service de neurologie, Université Lille Nord de France, USLD, CHU Lille, 
+Lille, France.
+(5)INSERM U1061, Neuropsychiatrie: Recherche Epidémiologique et Clinique, 
+Université Montpellier I, Montpellier, France.
+(6)Univ. Bordeaux, Bordeaux, France; INSERM U708, Paris, France.
+(7)INSERM, ISPED, Centre INSERM U897-Epidemiologie-Biostatistique, Bordeaux, 
+France; Univ. Bordeaux, Bordeaux, France; Service de Neurologie, Department of 
+Clinical Neurosciences, CHU Pellegrin, Bordeaux, France.
+(8)INSERM, ISPED, Centre INSERM U897-Epidemiologie-Biostatistique, Bordeaux, 
+France; Univ. Bordeaux, Bordeaux, France; INSERM, Clinical Investigation Center 
+- Clinical Epidemiology 7, Bordeaux, France.
+
+BACKGROUND: A large proportion of dementia cases are still undiagnosed. Although 
+early dementia care has been hypothesized to benefit both patients and families, 
+evidence-based benefits are lacking. Thus, investigating the benefits for newly 
+demented persons according to their recourse to care in the "real life" appears 
+critical.
+METHODS: We examined the relation between initial care recourse care and 
+demented individuals' survival in a large cohort of incident dementia cases 
+screened in a prospective population-based cohort, the Three-City Study. We 
+assessed recourse to care for cognitive complaint at the early beginning of 
+dementia when incident cases were screened. We classified patients in three 
+categories: no care recourse, general practitioner consultation or specialist 
+consultation. We used proportional hazard regression models to test the 
+association between recourse to care and mortality, adjusting on 
+socio-demographical and clinical characteristics.
+RESULTS: Two hundred and fifty-three incident dementia participants were 
+screened at the 2 year or 4 year follow-up. One third of the incident demented 
+individuals had not consulted a physician for cognitive problems. Eighty-six 
+(34.0%) individuals had reported a cognitive problem only to their general 
+practitioner (GP) and 80 (31.6%) had consulted a specialist. Mean duration of 
+follow-up after incident dementia was 5.1 years, during which 146 participants 
+died. After adjustment on potential confounders, participants who had consulted 
+a specialist early in the disease course presented a poorer survival than those 
+who did not consult any physician (hazard ratio = 1.64, 95% confidence interval 
+1.03-2.62). There was a trend but no significant differential survival profile 
+between participants who complained to their GP and those without any care 
+recourse.
+CONCLUSION: Neither recourse to a specialist nor recourse to GP improve survival 
+of new dementia cases. Those who had consulted a specialist early in the disease 
+course even reported a worse life expectancy than those who did not.
+
+Copyright © 2015 The Alzheimer's Association. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1016/j.jalz.2014.04.512
+PMID: 25130659 [Indexed for MEDLINE]
+
+
+73. Transplant Proc. 2014 Jul-Aug;46(6):2168-70. doi: 
+10.1016/j.transproceed.2014.05.058.
+
+Three-year longitudinal clinical trial of arterial function assessed by a 
+oscillometric non-invasive method in comparison with carotid sclerosis and 
+transferrin kidney-transplanted patients.
+
+Kovács D(1), Lőcsey L(2), Laczik R(3), Szabó L(2), Zsom L(2), Kabai K(2), Fedor 
+R(2), Nemes B(2), Asztalos L(2), Soltész P(4).
+
+Author information:
+(1)Institute of Surgery, University of Debrecen Medical and Health Science 
+Center, Debrecen, Hungary. Electronic address: drkovacsdavid@gmail.com.
+(2)Institute of Surgery, University of Debrecen Medical and Health Science 
+Center, Debrecen, Hungary.
+(3)Department of Immunology, University of Debrecen Medical and Health Science 
+Center, Debrecen, Hungary.
+(4)Department of Angiology, Institute of Internal Medicine, University of 
+Debrecen Medical and Health Science Center, Debrecen, Hungary.
+
+Chronic kidney disease remains one of the main risk factors of cardiovascular 
+disease. However, patients with kidney transplantation have better life 
+expectancy and better quality of life compared with patients on dialysis. In 
+patients with a well-functioning graft, the main cause of death is 
+cardiovascular in origin. Metabolic pathways have complex effects on arterial 
+function that can be monitored by conventional ultrasonography and with the 
+assessment of arterial stiffness by oscillometric non-invasive technique. 
+Forty-one primer cadaver kidney-transplanted patient were involved in a 3-year 
+longitudinal clinical trial (21 female, 20 male; average age, 40.16 ± 12.56 
+years). Arterial stiffness parameters referring to rigidity of the arterial wall 
+(pulse wave velocity [PWV], augmentation index, and pulse pressure) were 
+investigated. Correlation between stiffness, and laboratory parameters (serum 
+creatinine, urea, hemoglobin, albumin, cholesterine, triglycerides, transferrin, 
+uric acid, glomerular filtration rate, and C-reactive protein) were analyzed. A 
+non-invasive oscillometric method--Tensiomed Arteriograph--was applied to assess 
+the arterial stiffness parameters. Statistical analysis was performed with the 
+use of Statistica for Windows, version 8.0. A value of P < .05 was considered 
+statistically significant for all statistical tests. We found a positive 
+correlation between PWV and left ventricular wall thickness and a negative 
+correlation between PWV and ejection fraction. We also found a positive 
+significant correlation between serum level of transferrin and PWV. There was 
+simultaneous significant progression concerning PWV and carotid artery sclerosis 
+in a 3-year follow-up. There was no fatal cardiovascular event during the study 
+period among our patients. All of our patients involved in this study are still 
+alive. Our findings suggest that arterial stiffness monitoring is a reliable 
+method to assess global cardiovascular risk among kidney-transplanted patients. 
+The oscillometric method is convenient, fast, painless technique to monitor 
+arterial function, which, in the case of pathological findings, proposes more 
+frequent cardiovascular control.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.transproceed.2014.05.058
+PMID: 25131132 [Indexed for MEDLINE]
+
+
+74. J Thorac Cardiovasc Surg. 2014 Oct;148(4):1238-43; discussion 1243-4. doi: 
+10.1016/j.jtcvs.2014.06.056. Epub 2014 Jul 17.
+
+Total arterial revascularization with internal thoracic and radial artery grafts 
+in triple-vessel coronary artery disease is associated with improved survival.
+
+Buxton BF(1), Shi WY(2), Tatoulis J(3), Fuller JA(4), Rosalion A(5), Hayward 
+PA(5).
+
+Author information:
+(1)Victorian Heart Centre, Epworth Hospital, University of Melbourne, Melbourne, 
+Australia; Department of Cardiac Surgery, Austin Hospital, University of 
+Melbourne, Melbourne, Australia. Electronic address: brianbuxton40@gmail.com.
+(2)Department of Cardiac Surgery, Austin Hospital, University of Melbourne, 
+Melbourne, Australia.
+(3)Victorian Heart Centre, Epworth Hospital, University of Melbourne, Melbourne, 
+Australia; Department of Cardiothoracic Surgery, Royal Melbourne Hospital, 
+Melbourne, Australia.
+(4)Victorian Heart Centre, Epworth Hospital, University of Melbourne, Melbourne, 
+Australia.
+(5)Victorian Heart Centre, Epworth Hospital, University of Melbourne, Melbourne, 
+Australia; Department of Cardiac Surgery, Austin Hospital, University of 
+Melbourne, Melbourne, Australia.
+
+Comment in
+    J Thorac Cardiovasc Surg. 2014 Oct;148(4):1149-51.
+    J Thorac Cardiovasc Surg. 2014 Oct;148(4):1244-5.
+    Semin Thorac Cardiovasc Surg. 2014 Autumn;26(3):176-8.
+    J Thorac Cardiovasc Surg. 2015 Aug;150(2):434.
+    J Thorac Cardiovasc Surg. 2015 Aug;150(2):435.
+
+OBJECTIVES: We sought to evaluate our experience with total arterial 
+revascularization and compare it with the traditional approach of a single 
+internal thoracic artery supplemented by saphenous veins.
+METHODS: From 1995 to 2010, 6059 patients with triple-vessel coronary artery 
+disease underwent primary isolated coronary artery bypass grafting at 8 centers. 
+A study cohort of 3774 patients was formed, with 2988 (79%) undergoing total 
+arterial revascularization and 786 (21%) receiving only saphenous veins to 
+supplement a single in situ internal thoracic artery. In the total arterial 
+revascularization group, bilateral internal thoracic arteries were used in 1079 
+patients (36%) and at least 1 radial artery was used in 2916 patients (97%). 
+Propensity score matching was used for risk adjustment.
+RESULTS: Patients undergoing total arterial revascularization were younger 
+(65.0±10.4 years vs 71.3±7.9 years, P<.001) and less likely to have diabetes, 
+cerebrovascular disease, recent myocardial infarction, and severe left 
+ventricular impairment. At 15 years, patients who underwent total arterial 
+revascularization experienced superior unadjusted survival (62%±1.1% vs 
+35%±1.9%, P<.001). Multivariable Cox regression in the entire study cohort 
+showed the total arterial group had improved survival with a hazard ratio of 
+0.79 (95% confidence interval, 0.70-0.90; P<.001). After propensity score 
+matching yielded 384 patient pairs, patients who underwent total arterial 
+revascularization showed improved survival at 15 years than patients who 
+underwent single arterial revascularization (54%±3.3% vs 41%±3.0%, P=.0004).
+CONCLUSIONS: This large multicenter study suggests that a strategy of total 
+arterial revascularization is associated with improved long-term survival 
+compared with the use of only a single arterial and saphenous vein grafts. Total 
+arterial revascularization should be encouraged in patients with a reasonable 
+life expectancy.
+
+Copyright © 2014 The American Association for Thoracic Surgery. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jtcvs.2014.06.056
+PMID: 25131165 [Indexed for MEDLINE]
+
+
+75. Vaccine. 2014 Sep 22;32(42):5436-46. doi: 10.1016/j.vaccine.2014.07.096. Epub
+ 2014 Aug 12.
+
+Economic evaluation of meningococcal serogroup B childhood vaccination in 
+Ontario, Canada.
+
+Tu HA(1), Deeks SL(2), Morris SK(3), Strifler L(4), Crowcroft N(5), Jamieson 
+FB(6), Kwong JC(7), Coyte PC(8), Krahn M(9), Sander B(10).
+
+Author information:
+(1)Institute of Health Policy, Management and Evaluation, University of Toronto, 
+155 College Street Suite 425, M5T 3M6 Toronto, Ontario, Canada. Electronic 
+address: thihonganh.tu@utoronto.ca.
+(2)Public Health Ontario, 480 University Avenue Suite 300, M5G 1V2 Toronto, 
+Ontario, Canada; Dalla Lana School of Public Health, University of Toronto, 155 
+College Street 6F, M5T 3M7 Toronto, Ontario, Canada. Electronic address: 
+shelley.deeks@oahpp.ca.
+(3)Division of Infectious Diseases, Hospital for Sick Children, 555 University 
+Avenue, M5G 1X8 Toronto, Ontario, Canada; Department of Paediatrics, University 
+of Toronto, 555 University Avenue Room 1436D, M5G 1X8 Toronto, Ontario, Canada. 
+Electronic address: shaun.morris@sickkids.ca.
+(4)Keenan Research Centre of the Li Ka Shing Knowledge Institute of St. 
+Michael's Hospital, 209 Victoria Street, M5B 1T8 Toronto, Ontario, Canada. 
+Electronic address: lisa.strifler@smh.ca.
+(5)Public Health Ontario, 480 University Avenue Suite 300, M5G 1V2 Toronto, 
+Ontario, Canada; Dalla Lana School of Public Health, University of Toronto, 155 
+College Street 6F, M5T 3M7 Toronto, Ontario, Canada. Electronic address: 
+natasha.crowcroft@oahpp.ca.
+(6)Public Health Ontario, 480 University Avenue Suite 300, M5G 1V2 Toronto, 
+Ontario, Canada; Department of Laboratory Medicine and Pathobiology, University 
+of Toronto, 27 King's College Circle, M5S 1A1 Toronto, Ontario, Canada. 
+Electronic address: frances.jamieson@oahpp.ca.
+(7)Public Health Ontario, 480 University Avenue Suite 300, M5G 1V2 Toronto, 
+Ontario, Canada; Dalla Lana School of Public Health, University of Toronto, 155 
+College Street 6F, M5T 3M7 Toronto, Ontario, Canada; Institute for Clinical 
+Evaluative Sciences, 2075 Bayview Avenue Room G1 06, M4N 3M5 Toronto, Ontario, 
+Canada; Department of Family and Community Medicine, University of Toronto, 500 
+University Avenue, M5G 1V7 Toronto, Ontario, Canada; University Health Network, 
+190 Elizabeth Street, M5G 2C4 Toronto, Ontario, Canada. Electronic address: 
+jeff.kwong@utoronto.ca.
+(8)Institute of Health Policy, Management and Evaluation, University of Toronto, 
+155 College Street Suite 425, M5T 3M6 Toronto, Ontario, Canada; Toronto Health 
+Economics and Technology Assessment (THETA) Collaborative, 144 College Street 
+6F, M5S 3M2 Toronto, Ontario, Canada. Electronic address: 
+peter.coyte@utoronto.ca.
+(9)Institute of Health Policy, Management and Evaluation, University of Toronto, 
+155 College Street Suite 425, M5T 3M6 Toronto, Ontario, Canada; University 
+Health Network, 190 Elizabeth Street, M5G 2C4 Toronto, Ontario, Canada; Toronto 
+Health Economics and Technology Assessment (THETA) Collaborative, 144 College 
+Street 6F, M5S 3M2 Toronto, Ontario, Canada; Faculty of Pharmacy, University of 
+Toronto, 144 College Street, M5S 3M2 Toronto, Ontario, Canada. Electronic 
+address: murray.krahn@theta.utoronto.ca.
+(10)Institute of Health Policy, Management and Evaluation, University of 
+Toronto, 155 College Street Suite 425, M5T 3M6 Toronto, Ontario, Canada; Public 
+Health Ontario, 480 University Avenue Suite 300, M5G 1V2 Toronto, Ontario, 
+Canada; Institute for Clinical Evaluative Sciences, 2075 Bayview Avenue Room G1 
+06, M4N 3M5 Toronto, Ontario, Canada; Toronto Health Economics and Technology 
+Assessment (THETA) Collaborative, 144 College Street 6F, M5S 3M2 Toronto, 
+Ontario, Canada. Electronic address: beate.sander@oahpp.ca.
+
+OBJECTIVE: Invasive Neisseria meningitidis serogroup B (MenB) disease is a low 
+incidence but severe infection (mean annual incidence 0.19/100,000/year, case 
+fatality 11%, major long-term sequelae 10%) in Ontario, Canada. This study 
+assesses the cost-effectiveness of a novel MenB vaccine from the Ontario 
+healthcare payer perspective.
+METHODS: A Markov cohort model of invasive MenB disease based on high quality 
+local data and data from the literature was developed. A 4-dose vaccination 
+schedule, 97% coverage, 90% effectiveness, 66% strain coverage, 10-year duration 
+of protection, and vaccine cost of C$75/dose were assumed. A hypothetical 
+Ontario birth cohort (n=150,000) was simulated to estimate expected lifetime 
+health outcomes, quality-adjusted life years (QALYs), and costs, discounted at 
+5%.
+RESULTS: A MenB infant vaccination program is expected to prevent 4.6 invasive 
+MenB disease cases over the lifetime of an Ontario birth cohort, equivalent to 
+10 QALYs gained. The estimated program cost of C$46.6 million per cohort 
+(including C$318,383 for treatment of vaccine-associated adverse events) were 
+not offset by healthcare cost savings of C$150,522 from preventing MenB cases, 
+resulting in an incremental cost of C$4.76 million per QALY gained. Sensitivity 
+analyses showed the findings to be robust.
+CONCLUSIONS: An infant MenB vaccination program significantly exceeds commonly 
+used cost-effectiveness thresholds and thus is unlikely to be considered 
+economically attractive in Ontario and comparable jurisdictions.
+
+Crown Copyright © 2014. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.vaccine.2014.07.096
+PMID: 25131732 [Indexed for MEDLINE]
+
+
+76. Vaccine. 2014 Oct 7;32(44):5845-53. doi: 10.1016/j.vaccine.2014.07.099. Epub 
+2014 Aug 12.
+
+Comparing the cost-effectiveness of two- and three-dose schedules of human 
+papillomavirus vaccination: a transmission-dynamic modelling study.
+
+Laprise JF(1), Drolet M(2), Boily MC(3), Jit M(4), Sauvageau C(1), Franco EL(5), 
+Lemieux-Mellouki P(2), Malagón T(2), Brisson M(6).
+
+Author information:
+(1)Centre de recherche du CHU de Québec, Québec, Canada.
+(2)Centre de recherche du CHU de Québec, Québec, Canada; Département de médecine 
+sociale et préventive, Université Laval, Québec, Canada.
+(3)Department of Infectious Disease Epidemiology, Imperial College, London, 
+United Kingdom.
+(4)Modelling and Economics Unit, Public Health England, United Kingdom; 
+Department of Infectious Disease Epidemiology, London School of Hygiene and 
+Tropical Medicine, London, United Kingdom.
+(5)Division of Cancer Epidemiology, McGill University, Montreal, Canada.
+(6)Centre de recherche du CHU de Québec, Québec, Canada; Département de médecine 
+sociale et préventive, Université Laval, Québec, Canada; Department of 
+Infectious Disease Epidemiology, Imperial College, London, United Kingdom. 
+Electronic address: marc.brisson@uresp.ulaval.ca.
+
+BACKGROUND: Recent evidence suggests that two doses of HPV vaccines may be as 
+protective as three doses in the short-term. We estimated the incremental 
+cost-effectiveness of two- and three-dose schedules of girls-only and girls & 
+boys HPV vaccination programmes in Canada.
+METHODS: We used HPV-ADVISE, an individual-based transmission-dynamic model of 
+multi-type HPV infection and diseases (anogenital warts, and cancers of the 
+cervix, vulva, vagina, anus, penis and oropharynx). We conducted the analysis 
+from the health payer perspective, with a 70-year time horizon and 3% discount 
+rate, and performed extensive sensitivity analyses, including duration of 
+vaccine protection and vaccine cost.
+FINDINGS: Assuming 80% coverage and a vaccine cost per dose of $85, two-dose 
+girls-only vaccination (vs. no vaccination) produced cost/quality-adjusted 
+life-year (QALY)-gained varying between $7900-24,300. The incremental 
+cost-effectiveness ratio of giving the third dose to girls (vs. two doses) was 
+below $40,000/QALY-gained when: (i) three doses provide longer protection than 
+two doses and (ii) two-dose protection was shorter than 30 years. Vaccinating 
+boys (with two or three doses) was not cost-effective (vs. girls-only 
+vaccination) under most scenarios investigated.
+INTERPRETATION: Two-dose HPV vaccination is likely to be cost-effective if its 
+duration of protection is at least 10 years. A third dose of HPV vaccine is 
+unlikely to be cost-effective if two-dose duration of protection is longer than 
+30 years. Finally, two-dose girls & boys HPV vaccination is unlikely to be 
+cost-effective unless the cost per dose for boys is substantially lower than the 
+cost for girls.
+
+Copyright © 2014 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.vaccine.2014.07.099
+PMID: 25131743 [Indexed for MEDLINE]
+
+
+77. Epilepsia. 2014 Oct;55(10):1626-33. doi: 10.1111/epi.12741. Epub 2014 Jul 31.
+
+Burden of epilepsy in rural Kenya measured in disability-adjusted life years.
+
+Ibinda F(1), Wagner RG, Bertram MY, Ngugi AK, Bauni E, Vos T, Sander JW, Newton 
+CR.
+
+Author information:
+(1)KEMRI/Wellcome Trust Research Programme, Centre for Geographic Medicine 
+Research - Coast, Kilifi, Kenya.
+
+OBJECTIVES: The burden of epilepsy, in terms of both morbidity and mortality, is 
+likely to vary depending on the etiology (primary [genetic/unknown] vs. 
+secondary [structural/metabolic]) and with the use of antiepileptic drugs 
+(AEDs). We estimated the disability-adjusted life years (DALYs) and modeled the 
+remission rates of active convulsive epilepsy (ACE) using epidemiologic data 
+collected over the last decade in rural Kilifi, Kenya.
+METHODS: We used measures of prevalence, incidence, and mortality to model the 
+remission of epilepsy using disease-modeling software (DisMod II). DALYs were 
+calculated as the sum of Years Lost to Disability (YLD) and Years of Life Lost 
+(YLL) due to premature death using the prevalence approach, with disability 
+weights (DWs) from the 2010 Global Burden of Disease (GBD) study. DALYs were 
+calculated with R statistical software with the associated uncertainty intervals 
+(UIs) computed by bootstrapping.
+RESULTS: A total of 1,005 (95% UI 797-1,213) DALYs were lost to ACE, which is 
+433 (95% UI 393-469) DALYs lost per 100,000 people. Twenty-six percent 
+(113/100,000/year, 95% UI 106-117) of the DALYs were due to YLD and 74% 
+(320/100,000/year, 95% UI 248-416) to YLL. Primary epilepsy accounted for fewer 
+DALYs than secondary epilepsy (98 vs. 334 DALYs per 100,000 people). Those 
+taking AEDs contributed fewer DALYs than those not taking AEDs (167 vs. 266 
+DALYs per 100,000 people). The proportion of people with ACE in remission per 
+year was estimated at 11.0% in males and 12.0% in females, with highest rates in 
+the 0-5 year age group.
+SIGNIFICANCE: The DALYs for ACE are high in rural Kenya, but less than the 
+estimates of 2010 GBD study. Three-fourths of DALYs resulted from secondary 
+epilepsy. Use of AEDs was associated with 40% reduction of DALYs. Improving 
+adherence to AEDs may reduce the burden of epilepsy in this area.
+
+© 2014 The Authors. Epilepsia published by Wiley Periodicals, Inc. on behalf of 
+International League Against Epilepsy.
+
+DOI: 10.1111/epi.12741
+PMCID: PMC4238788
+PMID: 25131901 [Indexed for MEDLINE]
+
+
+78. Med Oncol. 2014 Sep;31(9):178. doi: 10.1007/s12032-014-0178-2. Epub 2014 Aug
+18.
+
+Multi-modality management for loco-regionally advanced laryngeal and 
+hypopharyngeal cancer: balancing the benefit of efficacy and functional 
+preservation.
+
+Qian W(1), Zhu G, Wang Y, Wang X, Ji Q, Wang Y, Dou S.
+
+Author information:
+(1)Department of Radiation Oncology, Fudan University Shanghai Cancer Center, 
+270 Dong An Road, Shanghai, 200032, China.
+
+The 5-year overall survival (OS) of loco-regionally advanced laryngeal and 
+hypopharyngeal carcinoma (LA-LHC) has declined over the past two decades 
+following the wide application of non-surgical approaches. We aimed to define 
+the new role of open surgery combined with adjuvant chemoradiotherapy in the 
+treatment of LA-LHC for improving survival while maintaining a functional 
+larynx. In the current study, 90 LA-LHC patients treated with open surgery 
+followed by postoperative RT/CRT in our institute from May 2005 to December 2012 
+were retrospectively analyzed. OS, disease-free survival (DFS), loco-regional 
+failure-free survival (LRFFS) and distant metastasis-free survival (DMFS) were 
+calculated, and prognostic factors were analyzed. Functional larynx preservation 
+results were evaluated according to the head and neck quality of life (QoL) 
+Scale. With a median follow-up period of 37 months, the 3- and 5-year OS, DFS, 
+LRFFS and DMFS were 71.3, 63.7, 85.9, 73.7 and 55.9, 53.0, 81.6, 71.9 %, 
+respectively. Vascular embolism and extracapsular extension (ECE) of the lymph 
+nodes were prognostic factors for poorer OS (p = 0.045 and 0.046, respectively). 
+Vascular embolism was the only prognostic factor for poorer DMFS (p = 0.005). 
+Patients who underwent a conservative partial laryngectomy (CPL) experienced a 
+higher QoL in the domains of speech, swallowing and emotion. Functional larynx 
+preservation was achieved in 36/45 patients (80 %) who received CPL. The results 
+of our study demonstrated that CPL followed by adequate adjuvant therapy could 
+achieve superior oncological results compared with non-surgical approaches in 
+LA-LHC patients while also maintaining satisfactory functional larynx in a 
+majority of patients.
+
+DOI: 10.1007/s12032-014-0178-2
+PMID: 25131963 [Indexed for MEDLINE]
+
+
+79. Lancet. 2014 Aug 16;384(9943):558. doi: 10.1016/S0140-6736(14)61351-9.
+
+Priorities for people with disabilities in New Zealand.
+
+The Lancet.
+
+DOI: 10.1016/S0140-6736(14)61351-9
+PMID: 25131966 [Indexed for MEDLINE]
+
+
+80. Encephale. 2014 Oct;40(5):416-22. doi: 10.1016/j.encep.2014.07.007. Epub 2014
+ Aug 15.
+
+[Deaths in a Tunisian psychiatric hospital: an eleven-year retrospective study].
+
+[Article in French]
+
+Zgueb Y(1), Jomli R(2), Ouertani A(2), Hechmi S(2), Ouanes S(2), Nacef F(2), 
+Banaser A(3).
+
+Author information:
+(1)Service de psychiatrie « A », hôpital Razi, cité des orangers, 2010 la 
+Manouba, Tunis, Tunisie. Electronic address: zguebyosra@gmail.com.
+(2)Service de psychiatrie « A », hôpital Razi, cité des orangers, 2010 la 
+Manouba, Tunis, Tunisie.
+(3)Service de médecine légale de l'hôpital Charles-Nicolle, boulevard du 
+9-Avril, Tunis Bab-Souika, Tunisie.
+
+BACKGROUND: Mortality in patients in psychiatric hospitals is reported to be two 
+to three times as high as in the general population. In Tunisia, we do not have 
+any figures on mortality and causes of death in psychiatric inpatients.
+AIM: The aim of our study was to assess the mortality rate in a psychiatric 
+hospital in comparison to the mortality rate in the general population, to 
+determine the patients' profile, and to identify the causes and risk factors for 
+these deaths.
+METHODS: We performed a retrospective, descriptive and comparative study. We 
+examined the records of all patients who died during their stay in the different 
+wards of psychiatry at the Razi Hospital in Tunis. We also scrutinized reports 
+of autopsies in the Forensic Medicine unit at Charles-Nicolle Hospital in Tunis 
+over a period of eleven years from January 1st, 2000 to December 31st, 2010. We 
+conducted a descriptive study to calculate the standardized mortality ratio 
+(SMR) aiming to highlight any existing excess mortality among the psychiatric 
+inpatients compared to the general population. This ratio was obtained by 
+dividing the observed number of deaths by the expected number of deaths. In the 
+analytical study, our sample was compared to a control population made-up of 
+randomly selected living patients among those admitted to the Razi hospital in 
+2010. This study allowed us to investigate the risk factors for premature 
+mortality in psychiatric inpatients.
+RESULTS: The average rate of mortality was two deaths per 1000 inpatients per 
+year. Twenty-four percent (24%) of deaths involved institutionalized patients. 
+Compared to the general population, premature mortality was noted among patients 
+aged less than 40 (SMR=1.9). The older the patients were, the closer to 1 the 
+SMR was. The average age at death was 51.38 years; 65% of patients were male, 
+60% had a low socio-economic level, 54% had a comorbid medical condition. 
+Forty-two percent (42%) of deceased patients were diagnosed with schizophrenia 
+with the paranoid form being the most prevalent (44%), 13% had bipolar disorder, 
+22% had psycho-organic disorders (mental retardation, dementia, delirium). 
+Antipsychotics were the most prescribed psychotropic drugs. High doses were 
+used. Forty percent of cases (40%) consisted of sudden deaths. A cause for death 
+was identified in 80% of cases. In 92% of cases, the death was classified as 
+being "natural". Main causes were respiratory (26%) and cardiovascular (9%). 
+Accidental causes accounted for 8% of deaths. In 20% of cases, the cause 
+remained undetermined. Three factors were identified as independent predictors 
+of mortality among mental patients: age at death (OR=3.9 among patients older 
+than 40), psychiatric diagnosis (OR=2.9 among patients with psychotic or mood 
+disorders compared to other diagnoses) and combination of antipsychotic drugs 
+(OR=6.09 in patients receiving more than two antipsychotics).
+DISCUSSION: Young psychiatric inpatients seem to be at high risk of premature 
+death: the SMR in our study was 1.9. It ranged between 2.15 and 6.55 in other 
+similar studies. This increased risk mainly concerns non-natural deaths. The 
+leading natural cause of death in our population was represented by 
+thromboembolic accidents. Such a high thromboembolic risk may be explained by 
+the mental illness itself, by physical restraint as well as by antipsychotic 
+treatment. Diagnosing medical conditions in psychiatric patients is often a 
+daunting task: history of the patient is sometimes unreliable and clinical 
+features might be modified by psychotropic agents. Patient-related risk factors 
+for premature death include poor socio-economic level, access-to-care 
+difficulties, positive family and personal history of mental and/or medical 
+disorders, smoking, substance abuse, unhealthy diet and lack of physical 
+activity. Moreover, iatrogenic effects of psychotropic drugs (combination of 
+antipsychotics was more common in deceased patients than in controls) and 
+inadequate medical care in psychiatric hospitals (lack of ECG devices, in 
+particular) partly account for such a high mortality.
+CONCLUSION: Identifying risk factors for deaths in psychiatric hospitals 
+highlights needed changes in psychiatric management strategies taking into 
+account the patient's characteristics as well as the drugs' safety profile. 
+Further studies with larger samples are needed to better highlight risk factors 
+for premature death in psychiatric inpatients. Identifying such risk factors is 
+necessary to develop efficient preventive strategies.
+
+Copyright © 2014 L’Encéphale, Paris. Published by Elsevier Masson SAS. All 
+rights reserved.
+
+DOI: 10.1016/j.encep.2014.07.007
+PMID: 25132014 [Indexed for MEDLINE]
+
+
+81. Environ Toxicol Chem. 2014 Nov;33(11):2510-5. doi: 10.1002/etc.2699. Epub
+2014  Aug 28.
+
+Sublethal effects of the beta-blocker sotalol at environmentally relevant 
+concentrations on the New Zealand mudsnail Potamopyrgus antipodarum.
+
+Feiner M(1), Laforsch C, Letzel T, Geist J.
+
+Author information:
+(1)Aquatic Systems Biology Unit, Department of Ecology and Ecosystem Management, 
+Technische Universität München, Freising, Germany.
+
+Monitoring sublethal effects of pharmaceuticals on nontarget species in aquatic 
+environments has become an important topic in ecotoxicology, yet few studies 
+have been conducted concerning the effects of beta-blockers on aquatic 
+organisms. The present study investigated the effects of the beta-blocker 
+sotalol (SOT) at 3 environmentally relevant concentrations on life-history 
+traits of the New Zealand mudsnail Potamopyrgus antipodarum. Based on the 
+pharmacodynamic properties of SOT, the authors hypothesized reduced numbers of 
+embryos in the brood pouches, decelerated growth of adult snails, and smaller 
+size of neonates, but no effect on mortality rates of adults. Contrary to the 
+hypothesis, the total number of embryos was significantly higher after 56 d of 
+exposure at nominal concentrations of 0.05 µg/L and 1.0 µg/L by 107% and 73%, 
+respectively. No differences in embryo numbers were observed at earlier 
+time-points. Therefore, the mode of action seems to be an extension of the 
+reproductive period rather than an increase of the embryo production. 
+Furthermore, our results indicate a hormetic dose-response relationship, because 
+no effects were observed at the highest test-concentration (6.5 µg/L). 
+Mortality, growth of adult snails, and neonate sizes were not affected by the 
+beta-blocker. Given the strong influence on reproduction, the effects of 
+sublethal concentrations of SOT and other beta-blockers deserve better 
+consideration in ecotoxicological risk assessment.
+
+© 2014 SETAC.
+
+DOI: 10.1002/etc.2699
+PMID: 25132045 [Indexed for MEDLINE]
+
+
+82. Rejuvenation Res. 2014 Oct;17(5):458-67. doi: 10.1089/rej.2014.1580.
+
+The scientific quest for lasting youth: prospects for curing aging.
+
+de Magalhães JP(1).
+
+Author information:
+(1)Integrative Genomics of Ageing Group, Institute of Integrative Biology, 
+University of Liverpool , Liverpool, United Kingdom .
+
+People have always sought eternal life and everlasting youth. Recent 
+technological breakthroughs and our growing understanding of aging have given 
+strength to the idea that a cure for human aging can eventually be developed. As 
+such, it is crucial to debate the long-term goals and potential impact of the 
+field. Here, I discuss the scientific prospect of eradicating human aging. I 
+argue that curing aging is scientifically possible and not even the most 
+challenging enterprise in the biosciences. Developing the means to abolish aging 
+is also an ethical endeavor because the goal of biomedical research is to allow 
+people to be as healthy as possible for as long as possible. There is no 
+evidence, however, that we are near to developing the technologies permitting 
+radical life extension. One major difficulty in aging research is the time and 
+costs it takes to do experiments and test interventions. I argue that unraveling 
+the functioning of the genome and developing predictive computer models of human 
+biology and disease are essential to increase the accuracy of medical 
+interventions, including in the context of life extension, and exponential 
+growth in informatics and genomics capacity might lead to rapid progress. 
+Nonetheless, developing the tools for significantly modifying human biology is 
+crucial to intervening in a complex process like aging. Yet in spite of advances 
+in areas like regenerative medicine and gene therapy, the development of 
+clinical applications has been slow and this remains a key hurdle for achieving 
+radical life extension in the foreseeable future.
+
+DOI: 10.1089/rej.2014.1580
+PMCID: PMC4203147
+PMID: 25132068 [Indexed for MEDLINE]
+
+
+83. Oncogene. 2015 Jun;34(25):3336-48. doi: 10.1038/onc.2014.266. Epub 2014 Aug
+18.
+
+The dual-acting chemotherapeutic agent Alchemix induces cell death independently 
+of ATM and p53.
+
+Thomas A(1), Perry T(1), Berhane S(1), Oldreive C(1), Zlatanou A(1), Williams 
+LR(1), Weston VJ(1), Stankovic T(1), Kearns P(1), Pors K(2), Grand RJ(1), 
+Stewart GS(1).
+
+Author information:
+(1)IBR West Extension, School of Cancer Sciences, College of Medicine and 
+Dentistry, University of Birmingham, Birmingham, UK.
+(2)Institute of Cancer Therapeutics, School of Life Sciences, University of 
+Bradford, West Yorkshire, UK.
+
+Topoisomerase inhibitors are in common use as chemotherapeutic agents although 
+they can display reduced efficacy in chemotherapy-resistant tumours, which have 
+inactivated DNA damage response (DDR) genes, such as ATM and TP53. Here, we 
+characterise the cellular response to the dual-acting agent, Alchemix (ALX), 
+which is a modified anthraquinone that functions as a topoisomerase inhibitor as 
+well as an alkylating agent. We show that ALX induces a robust DDR at nano-molar 
+concentrations and this is mediated primarily through ATR- and DNA-PK- but not 
+ATM-dependent pathways, despite DNA double strand breaks being generated after 
+prolonged exposure to the drug. Interestingly, exposure of epithelial tumour 
+cell lines to ALX in vitro resulted in potent activation of the G2/M checkpoint, 
+which after a prolonged arrest, was bypassed allowing cells to progress into 
+mitosis where they ultimately died by mitotic catastrophe. We also observed 
+effective killing of lymphoid tumour cell lines in vitro following exposure to 
+ALX, although, in contrast, this tended to occur via activation of a 
+p53-independent apoptotic pathway. Lastly, we validate the effectiveness of ALX 
+as a chemotherapeutic agent in vivo by demonstrating its ability to cause a 
+significant reduction in tumour cell growth, irrespective of TP53 status, using 
+a mouse leukaemia xenograft model. Taken together, these data demonstrate that 
+ALX, through its dual action as an alkylating agent and topoisomerase inhibitor, 
+represents a novel anti-cancer agent that could be potentially used clinically 
+to treat refractory or relapsed tumours, particularly those harbouring mutations 
+in DDR genes.
+
+DOI: 10.1038/onc.2014.266
+PMID: 25132271 [Indexed for MEDLINE]
+
+
+84. Public Health. 2014 Aug;128(8):725-33. doi: 10.1016/j.puhe.2014.06.008. Epub 
+2014 Aug 15.
+
+Measuring the burden of disease due to climate change and developing a forecast 
+model in South Korea.
+
+Yoon SJ(1), Oh IH(2), Seo HY(3), Kim EJ(4).
+
+Author information:
+(1)Department of Preventive Medicine, Korea University, Seoul, Republic of 
+Korea.
+(2)Department of Preventive Medicine, Kyunghee University, Seoul, Republic of 
+Korea.
+(3)Department of Public Health, Graduate School of Korea University, Seoul, 
+Republic of Korea.
+(4)Community-based Primary Care Project Team, Ministry of Health & Welfare, 
+Seoul, Republic of Korea. Electronic address: 99340004@korea.ac.kr.
+
+OBJECTIVES: Climate change influences human health in various ways, and 
+quantitative assessments of the effect of climate change on health at national 
+level are becoming essential for environmental health management.
+STUDY DESIGN: This study quantified the burden of disease attributable to 
+climate change in Korea using disability-adjusted life years (DALY), and 
+projected how this would change over time.
+METHODS: Diseases related to climate change in Korea were selected, and 
+meteorological data for each risk factor of climate change were collected. 
+Mortality was calculated, and a database of incidence and prevalence was 
+established. After measuring the burden of each disease, the total burden of 
+disease related to climate change was assessed by multiplying 
+population-attributable fractions. Finally, an estimation model for the burden 
+of disease was built based on Korean climate data.
+RESULTS: The total burden of disease related to climate change in Korea was 6.85 
+DALY/1000 population in 2008. Cerebrovascular diseases induced by heat waves 
+accounted for 72.1% of the total burden of disease (hypertensive disease 1.82 
+DALY/1000 population, ischaemic heart disease 1.56 DALY/1000 population, 
+cerebrovascular disease 1.56 DALY/1000 population). According to the estimation 
+model, the total burden of disease will be 11.48 DALY/1000 population in 2100, 
+which is twice the total burden of disease in 2008.
+CONCLUSIONS: This study quantified the burden of disease caused by climate 
+change in Korea, and provides valuable information for determining the 
+priorities of environmental health policy in East Asian countries with similar 
+climates.
+
+Copyright © 2014 The Royal Society for Public Health. Published by Elsevier Ltd. 
+All rights reserved.
+
+DOI: 10.1016/j.puhe.2014.06.008
+PMID: 25132390 [Indexed for MEDLINE]
+
+
+85. Open Microbiol J. 2014 Jul 11;8:71-7. doi: 10.2174/1874285801408010071. 
+eCollection 2014.
+
+Respiratory Syncytial Virus Infection in High-risk Infants - an Update on 
+Palivizumab Prophylaxis.
+
+Resch B(1).
+
+Author information:
+(1)Division of Neonatology, Department of Pediatrics, Medical University of 
+Graz, Austria; Research Unit for Neonatal Infectious Diseases and Epidemiology, 
+Medical University of Graz, Austria.
+
+Morbidity due to respiratory syncytial virus (RSV) disease is still high in 
+infants and children worldwide during the first two to five years of life. 
+Certain categories of high-risk infants with increased morbidity and mortality 
+attributed to RSV disease have been identified and are included in national 
+recommendations for prophylaxis with the monoclonal RSV antibody palivizumab. 
+Most guidelines recommend palivizumab for preterm infants born less than or 
+equal to 32 weeks gestational age with or without bronchopulmonary dysplasia, 
+those born between 33 and 35 weeks gestational age with additional risk factors, 
+and infants and children with hemodynamically significant congenital heart 
+disease. Over the last years several rare diseases have been identified 
+demonstrating high morbidity associated with RSV disease, thus, extension of 
+guidelines for the prophylaxis with palivizumab for these patients with rare 
+diseases including children with malignancy, congenital and acquired immune 
+deficiency, Down syndrome, neuromuscular impairment, cystic fibrosis, congenital 
+diaphragmatic hernia and other severe respiratory disease is increasingly 
+discussed. Efficacy of palivizumab prophylaxis is documented by meta-analysis, 
+and different economic analyses demonstrate cost-effectiveness of palivizumab 
+for the most common indications during the first RSV season.
+
+DOI: 10.2174/1874285801408010071
+PMCID: PMC4133922
+PMID: 25132870
+
+
+86. World J Gastrointest Pharmacol Ther. 2014 Aug 6;5(3):183-90. doi: 
+10.4292/wjgpt.v5.i3.183.
+
+Ischemic heart disease, factor predisposing to Barrett's adenocarcinoma: A case 
+control study.
+
+Tsibouris P(1), Hendrickse MT(1), Mavrogianni P(1), Isaacs PE(1).
+
+Author information:
+(1)Panagiotis Tsibouris, Panagiota Mavrogianni, Gastroenterology Department, 
+NIMTS General Hospital, 11521 Athens, Greece.
+
+AIM: To define the significance of ischemic heart disease (IHD) (stable angina 
+to infarction) co-existance in Barrett esophagus (BE) patients and patients with 
+esophageal adenocarcinoma (AdE).
+METHODS: All BE/AdE patients in Blackpool-Wyre-Fylde area and Trikala prefecture 
+identified from medical records. Patient clinical details were obtained from 
+hospital and General Practitioner records. Additional information was gathered 
+from validated questionnaire.
+RESULTS: Forty (33%) AdE and 83 (19%) BE patients had IHD (P = 0.002). Eighteen 
+(15%) AdE and 34 (8%) BE patients had suffered a myocardial infarction (P = 
+0.03). Three (3%) AdE and 7 (2%) BE patients had severe heart failure (P = 
+0.82). Thirty-nine (47%) BE with IHD and 8 (20%) AdE patients with IHD consumed 

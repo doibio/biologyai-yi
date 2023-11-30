@@ -1,0 +1,1000 @@
+829. Nat Commun. 2019 Jul 22;10(1):3275. doi: 10.1038/s41467-019-11131-x.
+
+Towards a standardized bioinformatics infrastructure for N- and O-glycomics.
+
+Rojas-Macias MA(1), Mariethoz J(2)(3), Andersson P(1), Jin C(1), Venkatakrishnan 
+V(1), Aoki NP(4)(5), Shinmachi D(4)(5), Ashwood C(6)(7), Madunic K(8), Zhang 
+T(8), Miller RL(9), Horlacher O(2), Struwe WB(10), Watanabe Y(11), Okuda S(11), 
+Levander F(12), Kolarich D(13)(14), Rudd PM(15), Wuhrer M(8), Kettner C(16), 
+Packer NH(6)(13)(14), Aoki-Kinoshita KF(4), Lisacek F(2)(3)(17), Karlsson 
+NG(18).
+
+Author information:
+(1)Department of Medical Biochemistry and Cell Biology, Institute of 
+Biomedicine, Sahlgrenska Academy, University of Gothenburg, Gothenburg, 40530, 
+Sweden.
+(2)Proteome Informatics Group, SIB Swiss Institute of Bioinformatics, Geneva, 
+1211, Switzerland.
+(3)Computer Science Department, University of Geneva, Geneva, 1227, Switzerland.
+(4)Soka University, Hachioji, 192-8577, Tokyo, Japan.
+(5)SparqLite LLC., Hachioji, 192-0032, Tokyo, Japan.
+(6)Department of Molecular Sciences, Macquarie University, Sydney, 2109, 
+Australia.
+(7)Department of Biochemistry, Medical College of Wisconsin, Milwaukee, WI, 
+53226, USA.
+(8)Leiden University Medical Center, Leiden, 2333ZA, Netherlands.
+(9)Copenhagen Centre for Glycomics, Department of Cellular and Molecular 
+Medicine, University of Copenhagen, København, DK-2200, Denmark.
+(10)Department of Chemistry, Chemistry Research Laboratory, University of 
+Oxford, Oxford, OX1 3TA, UK.
+(11)Graduate School of Medical and Dental Sciences, Niigata University, 
+950-2181, Niigata, Japan.
+(12)National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, 
+Department of Immunotechnology, Lund University, Lund, 22387, Sweden.
+(13)Institute for Glycomics, Gold Coast Campus, Griffith University, Gold Coast, 
+QLD, QLD 4222, Australia.
+(14)ARC Centre for Nanoscale BioPhotonics, Macquarie University and Griffith 
+University, North Ryde and Gold Coast, NSW and QLD, NSW 2109 and QLD 4222, 
+Australia.
+(15)Bioprocessing Technology Institute, AStar, Singapore, 138668, Singapore.
+(16)Beilstein-Institut, Frankfurt am Main, 60487, Germany.
+(17)Section of Biology, University of Geneva, Geneva, 1211, Switzerland.
+(18)Department of Medical Biochemistry and Cell Biology, Institute of 
+Biomedicine, Sahlgrenska Academy, University of Gothenburg, Gothenburg, 40530, 
+Sweden. niclas.karlsson@medkem.gu.se.
+
+The mass spectrometry (MS)-based analysis of free polysaccharides and glycans 
+released from proteins, lipids and proteoglycans increasingly relies on 
+databases and software. Here, we review progress in the bioinformatics analysis 
+of protein-released N- and O-linked glycans (N- and O-glycomics) and propose an 
+e-infrastructure to overcome current deficits in data and experimental 
+transparency. This workflow enables the standardized submission of MS-based 
+glycomics information into the public repository UniCarb-DR. It implements the 
+MIRAGE (Minimum Requirement for A Glycomics Experiment) reporting guidelines, 
+storage of unprocessed MS data in the GlycoPOST repository and glycan structure 
+registration using the GlyTouCan registry, thereby supporting the development 
+and extension of a glycan structure knowledgebase.
+
+DOI: 10.1038/s41467-019-11131-x
+PMCID: PMC6796180
+PMID: 31332201 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+830. J Cancer Surviv. 2019 Oct;13(5):687-694. doi: 10.1007/s11764-019-00787-5.
+Epub  2019 Jul 22.
+
+Continued smoking after a cancer diagnosis: a longitudinal study of intentions 
+and attempts to quit.
+
+Paul CL(1)(2), Tzelepis F(3)(4)(5), Boyes AW(3)(4), D'Este C(3)(6), Sherwood 
+E(3)(4), Girgis A(7).
+
+Author information:
+(1)School of Medicine and Public Health, The University of Newcastle, Callaghan, 
+NSW, 2308, Australia. Chris.Paul@newcastle.edu.au.
+(2)The Hunter Medical Research Institute, New Lambton Heights, NSW, Australia. 
+Chris.Paul@newcastle.edu.au.
+(3)School of Medicine and Public Health, The University of Newcastle, Callaghan, 
+NSW, 2308, Australia.
+(4)The Hunter Medical Research Institute, New Lambton Heights, NSW, Australia.
+(5)Hunter New England Population Health, Hunter New England Local Health 
+District, Wallsend, Australia.
+(6)National Centre for Epidemiology and Population Health, Research School of 
+Population Health, Australian National University, Canberra, Australia.
+(7)Centre for Oncology Education and Research Translation (CONCERT), Ingham 
+Institute for Applied Medical Research, South Western Sydney Clinical School, 
+University of New South Wales, Sydney, Australia.
+
+PURPOSE: Continued smoking after a cancer diagnosis is associated with poor 
+treatment outcomes and reduced life expectancy. We aimed to identify the 
+stability of smoking status after diagnosis including quit attempts and quit 
+intentions.
+METHODS: Participants with a first primary cancer diagnosis were recruited via 
+two state-based registries in Australia. Questionnaires were mailed at 
+approximately 6 months (T1), 1 year (T2), 2 years (T3), and 3.5 years (T4) 
+post-diagnosis. Smoking status and quitting intentions were assessed at each 
+time point.
+RESULTS: A cohort of 1444 people was recruited. People who indicated that they 
+were more than 9 months post-diagnosis are excluded from analysis, leaving 1407 
+eligible study participants. Sixty-six (37%) of the 178 self-reported smokers at 
+diagnosis had quit in the 6-month post-diagnosis (T1), the remaining 112 (63%) 
+reported being a current smoker. Of the smokers at T1, 40% intended to quit: 
+with 8% having quit smoking by T2; 11% quit by T3; 12% quit by T4. Of those who 
+reported at T1 that they intended to quit in the next 6 months, 10% or fewer 
+reported having quit at any subsequent time point. Quitting attempts decreased 
+in frequency over time post-diagnosis. Less than 15% of respondents who had quit 
+at or shortly before diagnosis reported relapse to smoking at each time point.
+CONCLUSIONS: The majority of smokers diagnosed with cancer continue to smoke 
+beyond diagnosis, even in the context of an intention to quit and attempts to do 
+so. Cancer survivors who smoke remain motivated to quit well beyond the initial 
+diagnosis.
+IMPLICATIONS FOR CANCER SURVIVORS: There are clear positive clinical effects of 
+smoking cessation for those who have undergone treatment for cancer, both for 
+short-term treatment outcomes, and for long-term survivorship. Given the 
+substantial rates of continued smoking among those who report smoking at 
+diagnosis and their continued attempts to quit during survivorship, there is a 
+need for improved cessation support initiatives for people diagnosed with 
+cancer. These initiatives need to continue to be offered to smokers long after 
+the initial diagnosis and treatment.
+
+DOI: 10.1007/s11764-019-00787-5
+PMID: 31332721 [Indexed for MEDLINE]
+
+
+831. Methods Mol Biol. 2019;2033:253-273. doi: 10.1007/978-1-4939-9654-4_17.
+
+Facile Site-Specific Multiconjugation Strategies in Recombinant Proteins 
+Produced in Bacteria.
+
+Merten H(1), Schaefer JV(1), Brandl F(1)(2), Zangemeister-Wittke U(1)(2), 
+Plückthun A(3).
+
+Author information:
+(1)Department of Biochemistry, University of Zurich, Zurich, Switzerland.
+(2)Institute of Pharmacology, University of Bern, Bern, Switzerland.
+(3)Department of Biochemistry, University of Zurich, Zurich, Switzerland. 
+plueckthun@bioc.uzh.ch.
+
+For biomedical applications, proteins may require conjugation to small and large 
+molecules. Typical examples are dyes for imaging, cytotoxic effector molecules 
+for cell killing, or half-life extension modules for optimized pharmacokinetics. 
+Although many conjugation strategies are straightforward to apply, most of them 
+do not enable site-specific and orthogonal conjugation, and do not yield a 
+defined stoichiometry. Moreover, techniques offering these desirable features 
+often rely on complex expression procedures and suffer from low production 
+yields. A more promising manufacturing strategy for flexible, site-specific and 
+stoichiometrically defined payloading of proteins is the combination of click 
+chemistry and thiol-maleimide conjugation, which even enables dual labeling when 
+used consecutively. Here, we describe as an example the production of Designed 
+Ankyrin Repeat Proteins (DARPins), a non-IgG binding scaffold, in a specific E. 
+coli strain to obtain high yields of protein carrying both a thiol and an azide 
+group. We provide straightforward protocols for strain-promoted azide-alkyne 
+cycloaddition (SPAAC) and thiol-maleimide conjugation, and furthermore compare 
+these conjugation chemistries with existing alternatives like copper-catalyzed 
+azide-alkyne cycloaddition (CuAAC). Finally, detailed instructions for 
+reactivity analysis and yield estimations of the reactions are provided.
+
+DOI: 10.1007/978-1-4939-9654-4_17
+PMID: 31332759 [Indexed for MEDLINE]
+
+
+832. Milbank Q. 2019 Sep;97(3):858-880. doi: 10.1111/1468-0009.12402. Epub 2019
+Jul  22.
+
+FDA Sodium Reduction Targets and the Food Industry: Are There Incentives to 
+Reformulate? Microsimulation Cost-Effectiveness Analysis.
+
+Collins B(1), Kypridemos C(1), Pearson-Stuttard J(1)(2), Huang Y(3), Bandosz 
+P(1)(4), Wilde P(3), Kersh R(5), Capewell S(1), Mozaffarian D(3), Whitsel LP(6), 
+Micha R(3), O'Flaherty M(1); Food-PRICE Investigators.
+
+Author information:
+(1)University of Liverpool.
+(2)School of Public Health, Imperial College London.
+(3)Friedman School of Nutrition Science and Policy, Tufts University.
+(4)Medical University of Gdansk.
+(5)Wake Forest University.
+(6)American Heart Association.
+
+Policy Points The World Health Organization has recommended sodium reduction as 
+a "best buy" to prevent cardiovascular disease (CVD). Despite this, Congress has 
+temporarily blocked the US Food and Drug Administration (FDA) from implementing 
+voluntary industry targets for sodium reduction in processed foods, the 
+implementation of which could cost the industry around $16 billion over 10 
+years. We modeled the health and economic impact of meeting the two-year and 
+ten-year FDA targets, from the perspective of people working in the food system 
+itself, over 20 years, from 2017 to 2036. Benefits of implementing the FDA 
+voluntary sodium targets extend to food companies and food system workers, and 
+the value of CVD-related health gains and cost savings are together greater than 
+the government and industry costs of reformulation.
+CONTEXT: The US Food and Drug Administration (FDA) set draft voluntary targets 
+to reduce sodium levels in processed foods. We aimed to determine cost 
+effectiveness of meeting these draft sodium targets, from the perspective of US 
+food system workers.
+METHODS: We employed a microsimulation cost-effectiveness analysis using the US 
+IMPACT Food Policy model with two scenarios: (1) short term, achieving two-year 
+FDA reformulation targets only, and (2) long term, achieving 10-year FDA 
+reformulation targets. We modeled four close-to-reality populations: food system 
+"ever" workers; food system "current" workers in 2017; and subsets of processed 
+food "ever" and "current" workers. Outcomes included cardiovascular disease 
+cases prevented and postponed as well as incremental cost-effectiveness ratio 
+per quality-adjusted life year (QALY) gained from 2017 to 2036.
+FINDINGS: Among food system ever workers, achieving long-term sodium reduction 
+targets could produce 20-year health gains of approximately 180,000 QALYs (95% 
+uncertainty interval [UI]: 150,000 to 209,000) and health cost savings of 
+approximately $5.2 billion (95% UI: $3.5 billion to $8.3 billion), with an 
+incremental cost-effectiveness ratio (ICER) of $62,000 (95% UI: $1,000 to 
+$171,000) per QALY gained. For the subset of processed food industry workers, 
+health gains would be approximately 32,000 QALYs (95% UI: 27,000 to 37,000); 
+cost savings, $1.0 billion (95% UI: $0.7bn to $1.6bn); and ICER, $486,000 (95% 
+UI: $148,000 to $1,094,000) per QALY gained. Because many health benefits may 
+occur in individuals older than 65 or the uninsured, these health savings would 
+be shared among individuals, industry, and government.
+CONCLUSIONS: The benefits of implementing the FDA voluntary sodium targets 
+extend to food companies and food system workers, with the value of health gains 
+and health care cost savings outweighing the costs of reformulation, although 
+not for the processed food industry.
+
+© 2019 The Authors The Milbank Quarterly published by Wiley Periodicals, Inc. on 
+behalf of The Millbank Memorial Fund.
+
+DOI: 10.1111/1468-0009.12402
+PMCID: PMC6739614
+PMID: 31332837 [Indexed for MEDLINE]
+
+
+833. Curr Med Chem. 2020;27(40):6837-6848. doi:
+10.2174/0929867326666190722153305.
+
+Long-Term Accumulation of Metals in the Skeleton as Related to Osteoporotic 
+Derangements.
+
+Bjørklund G(1), Pivina L(2)(3), Dadar M(4), Semenova Y(2)(3), Chirumbolo 
+S(5)(6), Aaseth J(7)(8).
+
+Author information:
+(1)Council for Nutritional and Environmental Medicine (CONEM), Toften 24, 8610 
+Mo i Rana, Norway
+(2)Department of Internal Medicine, Semey Medical University, Semey, Kazakhstan
+(3)CONEM Kazakhstan Environmental Health and Safety Research Group, Semey 
+Medical University, Semey, Kazakhstan
+(4)Razi Vaccine and Serum Research Institute, Agricultural Research, Education 
+and Extension Organization (AREEO), Karaj, Iran
+(5)Department of Neurosciences, Biomedicine and Movement Sciences, University of 
+Verona, Italy
+(6)CONEM Scientific Secretary, Verona, Italy
+(7)Research Department, Innlandet Hospital Trust, Brumunddal, Norway
+(8)Faculty of Health and Social Science, Inland Norway University of Applied 
+Sciences, Elverum, Norway
+
+The concentrations of metals in the environment are still not within the 
+recommended limits as set by the regulatory authorities in various countries 
+because of human activities. They can enter the food chain and bioaccumulate in 
+soft and hard tissues/organs, often with a long half-life of the metal in the 
+body. Metal exposure has a negative impact on bone health and may result in 
+osteoporosis and increased fracture risk depending on concentration and duration 
+of metal exposure and metal species. Bones are a long-term repository for lead 
+and some other metals, and may approximately contain 90% of the total body 
+burden in birds and mammals. The present review focuses on the most common 
+metals found in contaminated areas (mercury, cadmium, lead, nickel, chromium, 
+iron, and aluminum) and their effects on bone tissue, considering the 
+possibility of the long-term bone accumulation, and also some differences that 
+might exist between different age groups in the whole population.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/0929867326666190722153305
+PMID: 31333081 [Indexed for MEDLINE]
+
+
+834. Acta Chir Orthop Traumatol Cech. 2019;86(3):205-211.
+
+[Treatment of Periprosthetic Distal Femoral Fractures].
+
+[Article in Czech]
+
+Malotí T(1), Jansová M, Matějka T, Matějka J.
+
+Author information:
+(1)Klinika ortopedie a traumatologie pohybového ústrojí, Lékařská fakulta UK v 
+Plzni.
+
+PURPOSE OF THE STUDY Periprosthetic distal femoral fractures (PDFF) constitute 
+an unpleasant complication in patients with a total knee replacement (TKR). The 
+incidence reported in literature is 0.3-2.5 %. The number of periprosthetic knee 
+fractures has been increasing due to the ageing of population, a growing number 
+of implants, a longer life expectancy of patients, a more intensive physical 
+activity of patients, and osteoporosis. Most of these fractures are treated 
+surgically, non-surgical treatment is reserved solely for patients unable to 
+undergo a surgery for general health conditions. MATERIAL AND METHODS Our 
+retrospective study evaluated the group of patients with PDFF who were treated 
+at out department in the period 2007- 2016 and 2,975 primary TKR were performed. 
+The total number of patients with PDFF was 56. The mean age of patients with 
+PDFF was 77 years (56-94 years) and at the time of fracture the mean age was 71 
+years in men and 78 years in women. The average time from the TKR to 
+periprosthetic fracture was 8.2 years (0-20 years). The fractures were assessed 
+using the Su classification modified by Krbec. RESULTS A primary TKR was 
+performed in 46 cases for gonarthrosis, in 6 cases for rheumatoid arthritis and 
+in 4 cases for secondary, post-traumatic gonarthrosis. The average incidence of 
+periprosthetic distal femoral fractures was 5-6 cases per year. Women 
+represented 86 %, men 14 %. Su Type I fracture was diagnosed in 25 % of cases, 
+Su Type II fractures in 71 %, and Su Type III fractures 4 %. 52 patients with 
+PDFF were treated surgically, in 4 cases conservative treatment was opted for. 
+The average treatment time of PDFF to healing by callus formation was 6.6 months 
+(3-12 months). Mortality during the first 3 months after osteosynthesis of PDFF 
+was 9 %. A failure of osteosynthesis of PDFF was reported in 4 cases. DISCUSSION 
+Multiple classification systems were developed to assess these fractures. The 
+most appropriate we consider the classification of Su et al. classifying the 
+PDFF into 3 groups, namely based on the height of the fracture line relative to 
+the femoral component. Osteosynthesis by retrograde femoral nail is indicated 
+for periprosthetic fractures, with sufficient bone mass in distal femur, which 
+allows stable distal fixation. The new generation of anatomically shaped angular 
+stable implants gives us yet another option for osteosynthesis of PDFF. Many 
+studies point at the advantages of these implants in osteoporotic bone as 
+against the conventional plates. CONCLUSIONS The number of PDFF has been 
+increasing. The main methods of internal osteosynthesis continue to be the 
+angular stable plates and the retrograde femoral nail. Preoperative planning is 
+important to determine the type and dimensions of the existing femoral component 
+and to distinguish whether or not it has come loose. The choice of the implant 
+may depend on the bone mass available for distal fixation. The retrograde 
+femoral nail is usually the most suitable method of treatment for proximal PDFF 
+(Su Type I). The angular stable plates can be used for PDFF originating at the 
+femoral component (Su Type II and Type III). Very distal fractures classified as 
+Su Type III with a loose femoral component require a revision surgery with a TKR 
+with stems. The surgeon should be prepared for a revision surgery if the 
+intraoperative finding is more complicated than anticipated based on the 
+preoperative radiograph. Key words:total knee arthroplasty, periprosthetic 
+fracture, osteosynthesis.
+
+PMID: 31333185 [Indexed for MEDLINE]
+
+
+835. Front Neurol. 2019 Jul 4;10:681. doi: 10.3389/fneur.2019.00681. eCollection 
+2019.
+
+Two Adult Siblings With Myotonic Dystrophy Type 1 With Different Phenotypes 
+Presenting With Chronic Respiratory Insufficiency and Sleep Apnea Syndrome.
+
+Kohno G(1), Ogawa K(2)(3), Kushimoto M(2), Tanaka S(2)(4), Ikeda J(2), Nishizawa 
+T(5), Mitsuke K(3), Nakayama T(6), Suzuki Y(2)(3), Ishihara H(1), Fujishiro 
+M(1)(2).
+
+Author information:
+(1)Division of Diabetes and Metabolic Diseases, Department of Internal Medicine, 
+Nihon University School of Medicine, Tokyo, Japan.
+(2)Department of Internal Medicine, Nihon University Hospital, Tokyo, Japan.
+(3)Division of Neurology, Department of Internal Medicine, Nihon University 
+School of Medicine, Tokyo, Japan.
+(4)Division of Nephrology, Hypertension and Endocrinology, Department of 
+Internal Medicine, Nihon University School of Medicine, Tokyo, Japan.
+(5)Division of Respiratory Medicine, Department of Internal Medicine, Nihon 
+University School of Medicine, Tokyo, Japan.
+(6)Division of Laboratory Medicine, Department of Pathology and Microbiology, 
+Nihon University School of Medicine, Tokyo, Japan.
+
+Myotonic dystrophy type 1 (DM1) is an autosomal dominant disease characterized 
+by progressive muscle weakness and myotonia along with multiple organ system 
+involvements. Overall, DM1 patients show reduced life expectancy, mainly due to 
+respiratory or cardiac abnormalities. Chronic respiratory impairment is 
+associated with increased morbidity in DM1. The main ventilatory dysfunction 
+etiology in DM1 is complex, consisting of both peripheral respiratory 
+dysfunction and central respiratory drive dysfunction as well as upper airway 
+muscle dysfunction leading to obstructive sleep apnea syndrome (SAS) and 
+aspiration. Advancements in early diagnosis of DM1 and management with 
+non-invasive therapeutic tools have improved life expectancy for DM1 patients. 
+We present herein two siblings with DM1, a thin elder brother and an obese 
+younger sister with visceral fat accumulation. Although neither had voluntary 
+symptoms related to respiratory dysfunction, their apnea-hypopnea indices 
+revealed severe SAS and subsequent arterial blood gases studies showed 
+hypercapnia as well as hypoxia, suggesting central nervous system involvement 
+with peripheral respiratory dysfunction. Non-invasive positive pressure 
+ventilation during sleep was started following pulmonary assessment. Respiratory 
+function should be assessed in DM1 patients, even those free of respiratory 
+symptoms, because respiratory muscle weakness occurs in a high percentage of 
+these patients and will shorten their lives.
+
+DOI: 10.3389/fneur.2019.00681
+PMCID: PMC6620565
+PMID: 31333559
+
+
+836. Front Oncol. 2019 Jul 3;9:603. doi: 10.3389/fonc.2019.00603. eCollection
+2019.
+
+Tyrosine Kinase Inhibitors Available for Chronic Myeloid Leukemia: Efficacy and 
+Safety.
+
+García-Gutiérrez V(1), Hernández-Boluda JC(2).
+
+Author information:
+(1)Servicio de Hematología, Hospital Universitario Ramón y Cajal, Instituto 
+Ramón y Cajal de Investigación Sanitaria (IRYCIS), Madrid, Spain.
+(2)Servicio de Hematología, Hospital Clínico Universitario, Institute of Health 
+Research (INCLIVA), Valencia, Spain.
+
+Chronic myeloid leukemia (CML) is currently a disease in which patients can 
+enjoy a near normal life-expectancy. However, since the majority of patients 
+will need to remain on treatment indefinitely, physicians in care of CML 
+patients need be familiar with the indications and toxicities of all approved 
+tyrosine kinase inhibitors (TKI). In clinical practice, there are five TKI 
+(imatinib, nilotinib, dasatinib, bosutinib, and ponatinib) that are available in 
+different scenarios and have distinct safety profiles. Decisions regarding first 
+line treatment must be based on CML risk, comorbidities, and patients 
+expectations. Despite the excellent outcome, half of the patients will 
+eventually fail (due to intolerance or resistance) to first line treatment, with 
+many of them requiring a third or even further lines of therapy. When selecting 
+for such patients, it is essential to distinguish between failure and 
+intolerance to previous TKIs. In the present review, we will address all these 
+issues from a practical point of view.
+
+DOI: 10.3389/fonc.2019.00603
+PMCID: PMC6617580
+PMID: 31334123
+
+
+837. Open Forum Infect Dis. 2019 Jun 11;6(7):ofz276. doi: 10.1093/ofid/ofz276. 
+eCollection 2019 Jul.
+
+Cost-Effectiveness of Preemptive Switching to Efavirenz-Based Antiretroviral 
+Therapy for Children With Human Immunodeficiency Virus.
+
+Desmonde S(1)(2)(3), Frank SC(3)(4), Coovadia A(5), Dahourou DL(2)(6), Hou 
+T(3)(4), Abrams EJ(7), Amorissani-Folquet M(8), Walensky RP(3)(4)(9)(10), 
+Strehlau R(5), Penazzato M(11), Freedberg KA(3)(4)(10)(12), Kuhn L(13), Leroy 
+V(1), Ciaranello AL(3)(4)(14).
+
+Author information:
+(1)UMR 1027 Inserm, Université Paul Sabatier, Toulouse.
+(2)Bordeaux School of Public Health, France.
+(3)Medical Practice Evaluation Center, Boston.
+(4)Division of General Internal Medicine, Department of Medicine, Boston.
+(5)Empilweni Service and Research Unit, Johannesburg, South Africa.
+(6)Centre Muraz, Bobo-Dioulasso, Burkina Faso.
+(7)ICAP at Columbia University, Mailman School of Public Health, and Vagelos 
+College of Physicians & Surgeons, Columbia University, New York.
+(8)Division of Pediatrics, University Hospital of Cocody, Abidjan, Cote 
+d'Ivoire.
+(9)Division of Infectious Diseases, Department of Medicine, Massachusetts 
+General Hospital, Boston.
+(10)Center for AIDS Research, Harvard University, Boston.
+(11)World Health Organization, Geneva, Switzerland.
+(12)Department of Health Policy and Management, Harvard T. H. Chan School of 
+Public Health, Boston.
+(13)Gertrude H. Sergievsky Center, College of Physicians and Surgeons and 
+Department of Epidemiology, Mailman School of Public Health, Columbia University 
+Medical Center, New York, New York.
+(14)Harvard Medical School, Boston.
+
+BACKGROUND: The NEVEREST-3 (South Africa) and MONOD-ANRS-12206 (Côte d'Ivoire, 
+Burkina Faso) randomized trials found that switching to efavirenz (EFV) in human 
+immunodeficiency virus-infected children >3 years old who were virologically 
+suppressed by ritonavir-boosted lopinavir (LPV/r) was noninferior to continuing 
+o LPV/r. We evaluated the cost-effectiveness of this strategy using the 
+Cost-Effectiveness of Preventing AIDS Complications-Pediatric model.
+METHODS: We examined 3 strategies in South African children aged ≥3 years who 
+were virologically suppressed by LPV/r: (1) continued LPV/r, even in case of 
+virologic failure, without second-line regimens; continued on LPV/r with 
+second-line option after observed virologic failure; and preemptive switch to 
+EFV-based antiretroviral therapy (ART), with return to LPV/r after observed 
+virologic failure. We derived data on 24-week suppression (<1000 copies/mL) 
+after a switch to EFV (98.4%) and the subsequent risk of virologic failure 
+(LPV/r, 0.23%/mo; EFV, 0.15%/mo) from NEVEREST-3 data; we obtained ART costs 
+(LPV/r, $6-$20/mo; EFV, $3-$6/mo) from published sources. We projected 
+discounted life expectancy (LE) and lifetime costs per person. A secondary 
+analysis used data from MONOD-ANRS-12206 in Côte d'Ivoire.
+RESULTS: Continued LPV/r led to the shortest LE (18.2 years) and the highest 
+per-person lifetime cost ($19 470). LPV/r with second-line option increased LE 
+(19.9 years) and decreased per-person lifetime costs($16 070). Switching led to 
+the longest LE (20.4 years) and the lowest per-person lifetime cost ($15 240); 
+this strategy was cost saving under plausible variations in key parameters. 
+Using MONOD-ANRS-12206 data in Côte d'Ivoire, the Switch strategy remained cost 
+saving only compared with continued LPV/r, but the LPV/r with second-line option 
+strategy was cost-effective compared with switching.
+CONCLUSION: For children ≥3 years old and virologically suppressed by 
+LPV/r-based ART, preemptive switching to EFV can improve long-term clinical 
+outcomes and be cost saving.
+CLINICAL TRIALS REGISTRATION: NCT01127204.
+
+DOI: 10.1093/ofid/ofz276
+PMCID: PMC6634435
+PMID: 31334298
+
+
+838. Sci Adv. 2019 Jul 19;5(7):eaax0501. doi: 10.1126/sciadv.aax0501. eCollection
+ 2019 Jul.
+
+Nicotinamide adenine dinucleotide as a photocatalyst.
+
+Kim J(1), Lee SH(1), Tieves F(2), Paul CE(2), Hollmann F(2), Park CB(1).
+
+Author information:
+(1)Department of Materials Science and Engineering, Korea Advanced Institute of 
+Science and Technology (KAIST), 335 Science Road, Daejeon 305-701, Republic of 
+Korea.
+(2)Department of Biotechnology, Delft University of Technology, Van der Maasweg 
+9, 2629 HZ Delft, Netherlands.
+
+Nicotinamide adenine dinucleotide (NAD+) is a key redox compound in all living 
+cells responsible for energy transduction, genomic integrity, life-span 
+extension, and neuromodulation. Here, we report a new function of NAD+ as a 
+molecular photocatalyst in addition to the biological roles. Our spectroscopic 
+and electrochemical analyses reveal light absorption and electronic properties 
+of two π-conjugated systems of NAD+. Furthermore, NAD+ exhibits a robust 
+photostability under UV-Vis-NIR irradiation. We demonstrate photocatalytic redox 
+reactions driven by NAD+, such as O2 reduction, H2O oxidation, and the formation 
+of metallic nanoparticles. Beyond the traditional role of NAD+ as a cofactor in 
+redox biocatalysis, NAD+ executes direct photoactivation of oxidoreductases 
+through the reduction of enzyme prosthetic groups. Consequently, the synergetic 
+integration of biocatalysis and photocatalysis using NAD+ enables 
+solar-to-chemical conversion with the highest-ever-recorded turnover frequency 
+and total turnover number of 1263.4 hour-1 and 1692.3, respectively, for 
+light-driven biocatalytic trans-hydrogenation.
+
+DOI: 10.1126/sciadv.aax0501
+PMCID: PMC6641943
+PMID: 31334353 [Indexed for MEDLINE]
+
+
+839. Solid and Papillary Epithelial Neoplasm.
+
+Paluri RK(1), Babiker HM(2).
+
+In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023 
+Jan–.
+2023 Jun 26.
+
+Author information:
+(1)University of Alabama at Birmingham
+(2)University of Arizona Cancer Center
+
+Solid pseudopapillary epithelial neoplasms (SPEN), also known Frantz tumors, are 
+rare pancreatic exocrine neoplasms with age and gender predisposition. This 
+pathology was first described by Dr. Virginia Kneeland Frantz in 1959 and hence 
+the name. Other names include solid pseudopapillary tumor (SPT) of the pancreas, 
+solid pseudopapillary neoplasm (SPN), papillary cystic neoplasm of the pancreas, 
+Hamoudi tumor, or Gruber-Frantz tumor. These are low grade with low malignant 
+potential neoplasms commonly seen in young and adolescent females and rarely 
+affects men . Accurate diagnosis of SPEN is of utmost importance since it has a 
+low malignant potential, and with prompt diagnosis and surgery, the patients 
+could have a long life expectancy including possible cure.
+
+Copyright © 2023, StatPearls Publishing LLC.
+
+PMID: 31335055
+
+Conflict of interest statement: Disclosure: Ravi Paluri declares no relevant 
+financial relationships with ineligible companies. Disclosure: Hani Babiker 
+declares no relevant financial relationships with ineligible companies.
+
+
+840. J Food Prot. 2019 Aug;82(8):1423-1432. doi: 10.4315/0362-028X.JFP-18-576.
+
+Combined Effect of Storage Condition, Surface Integrity, and Length of Shelf 
+Life on the Growth of Listeria monocytogenes and Spoilage Microbiota on 
+Refrigerated Ready-to-Eat Products.
+
+Cai S(1), Worobo RW(1), Snyder AB(1)(2).
+
+Author information:
+(1)1 Department of Food Science, Cornell University, Ithaca, New York 14853.
+(2)2 Department of Extension, The Ohio State University, Wooster, Ohio 44691, 
+USA (ORCID: https://orcid.org/0000-0003-1141-4746 [A.B.S.]).
+
+Psychrotolerant growth of Listeria monocytogenes in ready-to-eat (RTE) foods 
+increases the risk to food safety, particularly when spoilage does not occur 
+prior to L. monocytogenes growth of >1 log CFU/g. The purpose of this study was 
+to evaluate the relative rates of quality deterioration and L. monocytogenes 
+growth in six product systems (tomatoes, apples, fresh-cut cantaloupe, fresh-cut 
+lettuce, baby spinach, and commercially processed turkey slices) under various 
+conditions of refrigeration temperatures, atmospheres, and quality. Cantaloupe 
+and spinach leaves supported >1 log CFU/g growth of L. monocytogenes before 
+product spoilage at both 4 and 9°C. In some cases, conditions that improved 
+microbial quality by extending shelf life also allowed L. monocytogenes growth 
+of >1 log CFU/g before deterioration due to microbial spoilage. For example, 
+storage with modified atmosphere packaging enhanced L. monocytogenes growth 
+relative to spoilage microbiota in lettuce leaves (1.0-log increase 7 days 
+before spoilage). In contrast, the use of secondary quality produce (i.e., 
+apples, tomatoes, and lettuce with physical damage) reduced shelf life and, 
+consequently, limited the time for L. monocytogenes proliferation. Therefore, 
+spoilage cannot be considered a fail-safe indicator or proxy for limitation of 
+shelf life across refrigerated RTE products.
+
+DOI: 10.4315/0362-028X.JFP-18-576
+PMID: 31335189 [Indexed for MEDLINE]841. J Glob Oncol. 2019 Jul;5:1-8. doi: 10.1200/JGO.19.00128.
+
+Extension for Community Healthcare Outcomes-Palliative Care in Africa Program: 
+Improving Access to Quality Palliative Care.
+
+Yennurajalingam S(1), Amos CE Jr(1), Weru J(2), Addo Opare-Lokko EBVND(3), 
+Arthur JA(1), Nguyen K(1), Soyannwo O(4), Chidebe RCW(5), Williams JL(1), Lu 
+Z(1), Baker E(1), Arora S(5), Bruera E(1), Reddy S(1).
+
+Author information:
+(1)University of Texas MD Anderson Cancer Center, Houston, TX.
+(2)Aga Khan University Hospital, Nairobi, Kenya.
+(3)Korle-Bu Teaching Hospital, Accra, Ghana.
+(4)University College Hospital, Ibadan, Nigeria.
+(5)Project Pink Blue, Abuja, Nigeria.
+
+PURPOSE: There is limited access to quality palliative care (PC) for patients 
+with advanced cancer in sub-Saharan Africa. Our aim was to describe the 
+development of the Project Extension for Community Healthcare 
+Outcomes-Palliative Care in Africa (ECHO-PACA) program and describe a 
+preliminary evaluation of attitudes and knowledge of participants regarding the 
+ability of the program to deliver quality PC.
+METHODS: An interdisciplinary team at the MD Anderson Cancer Center, guided by 
+experts in PC in sub-Saharan Africa, adapted a standardized curriculum based on 
+PC needs in the region. Participants were then recruited, and monthly 
+telementoring sessions were held for 16 months. The monthly telementoring 
+sessions consisted of case presentations, discussions, and didactic lectures. 
+Program participants came from 14 clinics and teaching hospitals in Ghana, 
+Kenya, Nigeria, South Africa, and Zambia. Participants were surveyed at the 
+beginning, midpoint, and end of the 16-month program to evaluate changes in 
+attitudes and knowledge of PC.
+RESULTS: The median number of participants per session was 30. Thirty-three 
+(83%) of 40 initial participants completed the feedback survey. Health care 
+providers' self-reported confidence in providing PC increased with participation 
+in the Project ECHO-PACA clinic. There was significant improvement in the 
+participants' attitudes and knowledge, especially in titrating opioids for pain 
+control (P = .042), appropriate use of non-opioid analgesics (P = .012), and 
+identifying and addressing communication issues related to end-of-life care (P = 
+.014).
+CONCLUSION: Project ECHO-PACA was a successful approach for disseminating 
+knowledge about PC. The participants were adherent to ECHO PACA clinics and the 
+completion of feedback surveys. Future studies should evaluate the impact of 
+Project ECHO-PACA on changes in provider practice as well as patient outcomes.
+
+DOI: 10.1200/JGO.19.00128
+PMCID: PMC6776016
+PMID: 31335237 [Indexed for MEDLINE]
+
+Conflict of interest statement: The following represents disclosure information 
+provided by authors of this manuscript. All relationships are considered 
+compensated. Relationships are self-held unless noted. I = Immediate Family 
+Member, Inst = My Institution. Relationships may not relate to the subject 
+matter of this manuscript. For more information about ASCO's conflict of 
+interest policy, please refer to www.asco.org/rwc or 
+ascopubs.org/jgo/site/misc/authors.html. SRIRAM YENNURAJALINGAM: Research 
+Funding: Bayer Healthcare Pharmaceuticals (Inst), Genentech (Inst), Helsinn 
+Therapeutics (Inst) EDWINA BERYL V.N.D. ADDO OPARE-LOKKO: Stock and Other 
+Ownership Interests: Ayrton Drugs KRISTY NGUYEN: Employment: Walgreens (I) 
+EDUARDO BRUERA: Research Funding: Helsinn Healthcare (Inst) No other potential 
+conflicts of interest were reported.
+
+
+842. PLoS Med. 2019 Jul 23;16(7):e1002856. doi: 10.1371/journal.pmed.1002856. 
+eCollection 2019 Jul.
+
+Particulate matter air pollution and national and county life expectancy loss in 
+the USA: A spatiotemporal analysis.
+
+Bennett JE(1)(2), Tamura-Wicks H(1)(2), Parks RM(1)(2), Burnett RT(3), Pope CA 
+3rd(4), Bechle MJ(5), Marshall JD(5), Danaei G(6), Ezzati M(1)(2)(7).
+
+Author information:
+(1)Department of Epidemiology and Biostatistics, School of Public Health, 
+Imperial College London, London, United Kingdom.
+(2)MRC Centre for Environment and Health, Imperial College London, London, 
+United Kingdom.
+(3)Population Studies Division, Health Canada, Ottawa, Ontario, Canada.
+(4)Department of Economics, Brigham Young University, Provo, Utah, United States 
+of America.
+(5)Department of Civil & Environmental Engineering, University of Washington, 
+Seattle, Washington, United States of America.
+(6)Harvard T. H. Chan School of Public Health, Boston, Massachusetts, United 
+States of America.
+(7)WHO Collaborating Centre on NCD Surveillance and Epidemiology, Imperial 
+College London, London, United Kingdom.
+
+BACKGROUND: Exposure to fine particulate matter pollution (PM2.5) is hazardous 
+to health. Our aim was to directly estimate the health and longevity impacts of 
+current PM2.5 concentrations and the benefits of reductions from 1999 to 2015, 
+nationally and at county level, for the entire contemporary population of the 
+contiguous United States.
+METHODS AND FINDINGS: We used vital registration and population data with 
+information on sex, age, cause of death, and county of residence. We used four 
+Bayesian spatiotemporal models, with different adjustments for other 
+determinants of mortality, to directly estimate mortality and life expectancy 
+loss due to current PM2.5 pollution and the benefits of reductions since 1999, 
+nationally and by county. The covariates included in the adjusted models were 
+per capita income; percentage of population whose family income is below the 
+poverty threshold, who are of Black or African American race, who have graduated 
+from high school, who live in urban areas, and who are unemployed; cumulative 
+smoking; and mean temperature and relative humidity. In the main model, which 
+adjusted for these covariates and for unobserved county characteristics through 
+the use of county-specific random intercepts, PM2.5 pollution in excess of the 
+lowest observed concentration (2.8 μg/m3) was responsible for an estimated 
+15,612 deaths (95% credible interval 13,248-17,945) in females and 14,757 deaths 
+(12,617-16,919) in males. These deaths would lower national life expectancy by 
+an estimated 0.15 years (0.13-0.17) for women and 0.13 years (0.11-0.15) for 
+men. The life expectancy loss due to PM2.5 was largest around Los Angeles and in 
+some southern states such as Arkansas, Oklahoma, and Alabama. At any PM2.5 
+concentration, life expectancy loss was, on average, larger in counties with 
+lower income and higher poverty rate than in wealthier counties. Reductions in 
+PM2.5 since 1999 have lowered mortality in all but 14 counties where PM2.5 
+increased slightly. The main limitation of our study, similar to other 
+observational studies, is that it is not guaranteed for the observed 
+associations to be causal. We did not have annual county-level data on other 
+important determinants of mortality, such as healthcare access and quality and 
+diet, but these factors were adjusted for with use of county-specific random 
+intercepts.
+CONCLUSIONS: According to our estimates, recent reductions in particulate matter 
+pollution in the USA have resulted in public health benefits. Nonetheless, we 
+estimate that current concentrations are associated with mortality impacts and 
+loss of life expectancy, with larger impacts in counties with lower income and 
+higher poverty rate.
+
+DOI: 10.1371/journal.pmed.1002856
+PMCID: PMC6650052
+PMID: 31335874 [Indexed for MEDLINE]
+
+Conflict of interest statement: I have read the journal's policy and the authors 
+of this manuscript have the following competing interests: ME reports a 
+charitable grant from AstraZeneca Young Health Programme, and personal fees from 
+Prudential, Scor, and Third Bridge, all outside the submitted work. All other 
+authors declare no competing interests.
+
+
+843. PLoS One. 2019 Jul 23;14(7):e0219956. doi: 10.1371/journal.pone.0219956. 
+eCollection 2019.
+
+Associated factors related to chronic kidney disease progression in elderly 
+patients.
+
+Tótoli C(1), Carvalho AB(1), Ammirati AL(1), Draibe SA(1), Canziani MEF(1).
+
+Author information:
+(1)Department of Medicine, Division of Nephrology, Federal University of São 
+Paulo, São Paulo, Brazil.
+
+BACKGROUND: Chronic Kidney Disease (CKD) is a worldwide public health problem. 
+The prevalence of CKD is rising especially in elderly, as consequence of 
+population-ageing related to socioeconomic development and better life 
+expectancy. There are scarce studies evaluating CKD progression and its 
+associated factors in elderly patients.
+METHODS: This is a retrospective observational study including 340 patients (≥ 
+65 years old) CKD stages 3a-5 non-dialysis, incidents in an outpatient CKD 
+clinic, followed by 2.1 years. CKD progression was assessed by the slope of eGFR 
+calculated by CKD-EPI and BIS 1 equations. The patients were divided in 
+progressor and non-progressor groups (eGFR slope < or ≥ 0 mL/min/1.73 m2/year, 
+respectively).
+RESULTS: Kidney function declined in 193 (57%) patients. In this group, the 
+progression rate was -2.83 (-5.1 / -1.1) mL /min /1.73 m2 /year. Compared to non 
+progressor, the progressor patients were younger [72 (69-78) vs. 76 (69-80) 
+years; p = 0.02]; had higher proportion of diabetic nephropathy, higher serum 
+phosphorus [3.8 (3.3-4.1) vs. 3.5 (3.9-4.1) mg/dL; p = 0.04] and proteinuria 
+[0.10 (0-0.9 vs. 0 (0-0.3)] g/L; p = 0.007)] at the admission. In the logistic 
+regression analysis adjusted for gender and eGFR, proteinuria was independently 
+associated with CKD progression [OR (Odds Ratio) (1.83; 95% CI, 1.17-2.86; p < 
+0.01)].
+CONCLUSION: CKD progression was observed in the majority of elderly CKD patients 
+and proteinuria was the most important factor associated to the decline of 
+kidney function in this population.
+
+DOI: 10.1371/journal.pone.0219956
+PMCID: PMC6650050
+PMID: 31335919 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+844. Oncology. 2020;98(6):386-395. doi: 10.1159/000501433. Epub 2019 Jul 23.
+
+Feasibility and Usability Aspects of Continuous Remote Monitoring of Health 
+Status in Palliative Cancer Patients Using Wearables.
+
+Pavic M(1), Klaas V(2), Theile G(3), Kraft J(3), Tröster G(2), Guckenberger 
+M(3).
+
+Author information:
+(1)Department of Radiation Oncology/Competence Center Palliative Care, 
+University Hospital Zurich, Zurich, Switzerland, matea.pavic@usz.ch.
+(2)Swiss Federal Institute of Technology, Wearable Computing Laboratory, Zurich, 
+Switzerland.
+(3)Department of Radiation Oncology/Competence Center Palliative Care, 
+University Hospital Zurich, Zurich, Switzerland.
+
+BACKGROUND: Mobile health is a promising strategy aiming to anticipate and 
+prevent the deterioration of health status in palliative cancer patients. A 
+prerequisite for successful implementation of this technology into clinical 
+routine is a high level of usability and acceptance of devices.
+OBJECTIVES: We aimed to evaluate feasibility as well as patients' acceptance of 
+remote monitoring using wearables in palliative cancer patients.
+METHODS: In this prospective single-center observational feasibility study, 30 
+cancer patients treated with palliative intent in an inpatient setting with an 
+estimated life expectancy of >8 weeks and <12 months were provided with a 
+smartphone including a pre-installed "Activity Monitoring" app and a 
+sensor-equipped bracelet and monitored over a period of 12 weeks starting at 
+discharge from hospital. We report detailed feasibility and usability aspects 
+and comment on patients' acceptance of the wearables.
+RESULTS: Between February 2017 and May 2018 a total of 30 patients were included 
+in the study. From these, 25 participants (83%) completed the whole study 
+period. On average, the bracelet was worn on 53% and smartphone used on 85% of 
+the study days. The completion rate of daily digital questionnaires for 
+subjective ratings (pain and distress scale) was 73%, and 28 patients were able 
+to handle the wearables and to operate the app without major problems. Use of 
+the bracelet was low during the night hours, with a wearing time of 1.7% of all 
+night hours (8 p.m. to 8 a.m.).
+CONCLUSIONS: Remote monitoring of health care status in palliative cancer 
+patients with a limited life expectancy is feasible and patients are able to 
+handle the smartphone and the sensor-equipped bracelet. Feedback towards use of 
+this monitoring system was mostly positive.
+
+© 2019 S. Karger AG, Basel.
+
+DOI: 10.1159/000501433
+PMID: 31336377 [Indexed for MEDLINE]
+
+
+845. J Transl Med. 2019 Jul 23;17(1):238. doi: 10.1186/s12967-019-1993-1.
+
+Wolfram syndrome, a rare neurodegenerative disease: from pathogenesis to future 
+treatment perspectives.
+
+Pallotta MT(1), Tascini G(2), Crispoldi R(2), Orabona C(1), Mondanelli G(1), 
+Grohmann U(1), Esposito S(3).
+
+Author information:
+(1)Pharmacology Section, Department of Experimental Medicine, Università degli 
+Studi di Perugia, Perugia, Italy.
+(2)Pediatric Clinic, Department of Surgical and Biomedical Sciences, Università 
+degli Studi di Perugia, Piazza Menghini 1, 06129, Perugia, Italy.
+(3)Pediatric Clinic, Department of Surgical and Biomedical Sciences, Università 
+degli Studi di Perugia, Piazza Menghini 1, 06129, Perugia, Italy. 
+susanna.esposito@unimi.it.
+
+BACKGROUND: Wolfram syndrome (WS), a rare genetic disorder, is considered the 
+best prototype of endoplasmic reticulum (ER) diseases. Classical WS features are 
+childhood-onset diabetes mellitus, optic atrophy, deafness, diabetes insipidus, 
+neurological signs, and other abnormalities. Two causative genes (WFS1 and WFS2) 
+have been identified. The transmission of the disease takes place in an 
+autosomal recessive mode but autosomal dominant mutations responsible for 
+WS-related disorders have been described. Prognosis is poor, death occurs at the 
+median age of 39 years with a major cause represented by respiratory failure as 
+a consequence of brain stem atrophy and neurodegeneration. The aim of this 
+narrative review is to focus on etiology, pathogenesis and natural history of WS 
+for an adequate patient management and for the discussion of future therapeutic 
+interventions.
+MAIN BODY: WS requires a multidisciplinary approach in order to be successfully 
+treated. A prompt diagnosis decreases morbidity and mortality through prevention 
+and treatment of complications. Being a monogenic pathology, WS represents a 
+perfect model to study the mechanisms of ER stress and how this condition leads 
+to cell death, in comparison with other prevalent diseases in which multiple 
+factors interact to produce the disease manifestations. WS is also an important 
+disease prototype to identify drugs and molecules associated with ER 
+homeostasis. Evidence indicates that specific metabolic diseases (type 1 and 
+type 2 diabetes), neurodegenerative diseases, atherosclerosis, inflammatory 
+pathologies and also cancer are closely related to ER dysfunction.
+CONCLUSIONS: Therapeutic strategies in WS are based on drug repurposing (i.e., 
+investigation of approved drugs for novel therapeutic indications) with the aim 
+to stop the progression of the disease by reducing the endoplasmic reticulum 
+stress. An extensive understanding of WS from pathophysiology to therapy is 
+fundamental and more studies are necessary to better manage this devastating 
+disease and guarantee the patients a better quality of life and longer life 
+expectancy.
+
+DOI: 10.1186/s12967-019-1993-1
+PMCID: PMC6651977
+PMID: 31337416 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+846. Int J Technol Assess Health Care. 2019;35(4):291-297. doi: 
+10.1017/S0266462319000576. Epub 2019 Jul 24.
+
+A Non-inferiority Framework for Cost-Effectiveness Analysis.
+
+Xie X(1), Falk L(1), Brophy JM(2)(3), Tu HA(1), Guo J(1), Gajic-Veljanoski O(1), 
+Sikich N(1), Dhalla IA(1), Ng V(1).
+
+Author information:
+(1)Health Quality Ontario, Toronto, Canada.
+(2)Department of Epidemiology, Biostatistics, and Occupational Health, McGill 
+University, Montreal, Canada.
+(3)Department of Medicine, McGill University, Montreal, Canada.
+
+BACKGROUND: Traditional decision rules have limitations when a new technology is 
+less effective and less costly than a comparator. We propose a new probabilistic 
+decision framework to examine non-inferiority in effectiveness and net monetary 
+benefit (NMB) simultaneously. We illustrate this framework using the example of 
+repetitive transcranial magnetic stimulation (rTMS) and electroconvulsive 
+therapy (ECT) for treatment-resistant depression.
+METHODS: We modeled the quality-adjusted life-years (QALYs) associated with the 
+new intervention (rTMS), an active control (ECT), and a placebo control, and we 
+estimated the fraction of effectiveness preserved by the new intervention 
+through probabilistic sensitivity analysis (PSA). We then assessed the 
+probability of cost-effectiveness using a traditional cost-effectiveness 
+acceptability curve (CEAC) and our new decision-making framework. In our new 
+framework, we considered the new intervention cost-effective in each simulation 
+of the PSA if it preserved at least 75 percent of the effectiveness of the 
+active control (thus demonstrating non-inferiority) and had a positive NMB at a 
+given willingness-to-pay threshold (WTP).
+RESULTS: rTMS was less effective (i.e., associated with fewer QALYs) and less 
+costly than ECT. The traditional CEAC approach showed that the probabilities of 
+rTMS being cost-effective were 100 percent, 39 percent, and 14 percent at WTPs 
+of $0, $50,000, and $100,000 per QALY gained, respectively. In the new decision 
+framework, the probabilities of rTMS being cost-effective were reduced to 23 
+percent, 21 percent, and 13 percent at WTPs of $0, $50,000, and $100,000 per 
+QALY, respectively.
+CONCLUSIONS: This new framework provides a different perspective for decision 
+making with considerations of both non-inferiority and WTP thresholds.
+
+DOI: 10.1017/S0266462319000576
+PMID: 31337452 [Indexed for MEDLINE]
+
+
+847. Int J Technol Assess Health Care. 2019;35(4):307-316. doi: 
+10.1017/S0266462319000436. Epub 2019 Jul 24.
+
+Cost-Effectiveness of the Transmural Trauma Care Model (TTCM) for the 
+Rehabilitation of Trauma Patients.
+
+Wiertsema SH(1), van Dongen JM(2), Geleijn E(3), Huijsmans RJ(3), Bloemers 
+FW(4), de Groot V(1), Ostelo RW(5).
+
+Author information:
+(1)Amsterdam UMC, Vrije Universiteit Amsterdam, Department of Rehabilitation 
+Medicine, Amsterdam Public Health research institute.
+(2)Vrije Universiteit Amsterdam, Department of Health Sciences, Amsterdam Public 
+Health research institute.
+(3)Amsterdam UMC, Vrije Universiteit Amsterdam, Department of Rehabilitation 
+Medicine.
+(4)Amsterdam UMC, Vrije Universiteit Amsterdam, Department of Trauma Surgery.
+(5)Amsterdam UMC, Vrije Universiteit Amsterdam, Department of Epidemiology and 
+Biostatistics, Department of Health Science, Amsterdam Public Health research 
+institute.
+
+OBJECTIVES: To assess the societal cost-effectiveness of the Transmural Trauma 
+Care Model (TTCM), a multidisciplinary transmural rehabilitation model for 
+trauma patients, compared with regular care.
+METHODS: The economic evaluation was performed alongside a before-and-after 
+study, with a convenience control group measured only afterward, and a 9-month 
+follow-up. Control group patients received regular care and were measured before 
+implementation of the TTCM. Intervention group patients received the TTCM and 
+were measured after its implementation. The primary outcome was generic 
+health-related quality of life (HR-QOL). Secondary outcomes included 
+disease-specific HR-QOL, pain, functional status, and perceived recovery.
+RESULTS: Eighty-three trauma patients were included in the intervention group 
+and fifty-seven in the control group. Total societal costs were lower in the 
+intervention group than in the control group, but not statistically 
+significantly so (EUR-267; 95 percent confidence interval [CI], EUR-4,175-3011). 
+At 9 months, there was no statistically significant between-group differences in 
+generic HR-QOL (0.05;95 percent CI, -0.02-0.12) and perceived recovery (0.09;95 
+percent CI, -0.09-0.28). However, mean between-group differences were 
+statistically significantly in favor of the intervention group for 
+disease-specific HR-QOL (-8.2;95 percent CI, -15.0--1.4), pain (-0.84;95CI, 
+-1.42--0.26), and functional status (-20.1;95 percent CI, -29.6--10.7). 
+Cost-effectiveness acceptability curves indicated that if decision makers are 
+not willing to pay anything per unit of effect gained, the TTCM has a 0.54-0.58 
+probability of being cost-effective compared with regular care. For all 
+outcomes, this probability increased with increasing values of 
+willingness-to-pay.
+CONCLUSIONS: The TTCM may be cost-effective compared with regular care, 
+depending on the decision-makers willingness to pay and the probability of 
+cost-effectiveness that they perceive as acceptable.
+
+DOI: 10.1017/S0266462319000436
+PMID: 31337454 [Indexed for MEDLINE]
+
+
+848. J Biol Chem. 2019 Sep 6;294(36):13445-13463. doi: 10.1074/jbc.RA119.007695.
+Epub  2019 Jul 23.
+
+Sulfated Lewis A trisaccharide on oviduct membrane glycoproteins binds bovine 
+sperm and lengthens sperm lifespan.
+
+Dutta S(1), Aoki K(2), Doungkamchan K(1), Tiemeyer M(2), Bovin N(3), Miller 
+DJ(4).
+
+Author information:
+(1)Department of Animal Sciences, University of Illinois at Urbana-Champaign, 
+Urbana, Illinois 61801.
+(2)Complex Carbohydrate Research Center, University of Georgia, Athens, Georgia 
+30602.
+(3)Shemyakin Institute of Bioorganic Chemistry, Moscow 117997, Russia.
+(4)Department of Animal Sciences, University of Illinois at Urbana-Champaign, 
+Urbana, Illinois 61801. Electronic address: djmille@illinois.edu.
+
+A fraction of sperm deposited at mating or insemination reaches the oviduct 
+isthmus, where sperm are retained and thereby form a reservoir. This reservoir 
+delays capacitation, prevents polyspermy, selects a fertile population of sperm, 
+and, foremost, increases sperm lifespan. The molecular interactions underlying 
+the formation of a sperm reservoir are becoming clearer in mammals. Sperm 
+lectins bind to oviductal glycans to form the reservoir. Herein, we found that 
+the highest percentage of bovine sperm bound to the 3'-O-sulfated form of Lewis 
+A (suLeA) trisaccharide and sialylated Lewis A and that fluoresceinated versions 
+of each localized to receptors on the anterior head of the sperm. Following 
+capacitation, binding to suLeA decreased significantly, a potential explanation 
+for sperm release from the reservoir. MS and immunohistochemistry analyses 
+indicated that suLeA motifs were present predominantly on O-linked glycans 
+initiated by GalNAc residues, but no sialylated Lewis A was detected. To 
+determine whether sperm binding to isolated suLeAin vitro could mimic in vivo 
+sperm binding to oviduct cells and increase sperm longevity, we immobilized 
+suLeA and incubated it with sperm. Using free-swimming sperm and sperm bound to 
+immobilized laminin as controls, we observed that over 96 h, the viability of 

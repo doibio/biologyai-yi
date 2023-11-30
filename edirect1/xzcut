@@ -1,0 +1,1000 @@
+
+Author information:
+(1)University of California, San Francisco (S.J.S., M.C.F., A.S.G.).
+(2)Massachusetts General Hospital and Harvard Medical School, Boston, MA 
+(D.E.S.).
+(3)Department of Research and Evaluation, Kaiser Permanente Southern California, 
+Pasadena, CA (K.R.).
+(4)Division of Research, Kaiser Permanente Northern California, Oakland, CA 
+(A.S.G.).
+(5)University of Cincinnati College of Medicine, OH (M.H.E.).
+
+BACKGROUND: While guidelines recommend anticoagulation for all atrial 
+fibrillation (AF) patients ≥75 years, evidence for the net clinical benefit 
+(NCB) of anticoagulant in older adults is sparse. We sought to determine the 
+association between age and NCB of anticoagulation in older adults with AF.
+METHODS AND RESULTS: We examined adults ≥75 years with incident AF in the 
+Anticoagulation and Risk Factors in Atrial Fibrillation-Cardiovascular Research 
+Network cohort. Using a Markov state transition model, we estimated the lifetime 
+NCB of warfarin and apixaban relative to no treatment in quality-adjusted life 
+years (QALYs). In the decision model, each month patients face a chance of 
+stroke, hemorrhage, or death from a competing cause; the likelihood of each is a 
+function of individual patients' stroke risk, hemorrhage risk, and life 
+expectancy. We defined minimal clinically relevant lifetime benefit as 0.10 
+QALYs. In a sensitivity analysis, we examined the effect of competing risks of 
+death on NCB using 2 models, one including competing risks and the second 
+without competing risks. We included 14 946 patients, with a median age of 81 
+years and median CHA2DS2-VASc score of 4. In the main analysis, after age 87, 
+NCB associated with warfarin decreased below 0.10 lifetime QALYs while NCB 
+associated with apixaban did not decrease below 0.10 lifetime QALYs until after 
+age 92. In sensitivity analyses, over a 3-year horizon, removing competing risks 
+of death resulted in higher NCB (at 90 years, median difference using warfarin 
+0.010 QALYs [95% CI, 0.009-0.013], median difference using apixaban 0.025 QALYs 
+[95% CI, 0.024-0.026]).
+CONCLUSIONS: The NCB of anticoagulation decreases with advancing age. The 
+competing risk of death diminishes the NCB of anticoagulation for older patients 
+with AF. Physicians should consider competing mortality risks when recommending 
+anticoagulants to older adults with AF.
+
+DOI: 10.1161/CIRCOUTCOMES.119.006212
+PMCID: PMC7117790
+PMID: 31707823 [Indexed for MEDLINE]
+
+
+53. Med Decis Making. 2019 Nov;39(8):998-1009. doi: 10.1177/0272989X19884927.
+Epub  2019 Nov 9.
+
+Personalizing Medical Treatment Decisions: Integrating Meta-analytic Treatment 
+Comparisons with Patient-Specific Risks and Preferences.
+
+Weyant C(1), Brandeau ML(1), Basu S(2)(3)(4).
+
+Author information:
+(1)Department of Management Science and Engineering, Stanford University, 
+Stanford, CA, USA.
+(2)Center for Primary Care, Harvard Medical School, Boston, MA, USA.
+(3)Research and Analytics, Collective Health, San Francisco, CA, USA.
+(4)School of Public Health, Imperial College, London, UK.
+
+Background. Network meta-analyses (NMAs) that compare treatments for a given 
+condition allow physicians to identify which treatments have higher or lower 
+probabilities of reducing the risks of disease complications or increasing the 
+risks of treatment side effects. Translating these data into personalized 
+treatment plans requires integration of NMA data with patient-specific 
+pretreatment risk estimates and preferences regarding treatment objectives and 
+acceptable risks. Methods. We introduce a modeling framework to integrate data 
+probabilistically from NMAs with data on individualized patient risk estimates 
+for disease outcomes, treatment preferences (such as willingness to incur 
+greater side effects for increased life expectancy), and risk preferences. We 
+illustrate the modeling framework by creating personalized plans for 
+antipsychotic drug treatment and evaluating their effectiveness and 
+cost-effectiveness. Results. Compared with treating all patients with the drug 
+that yields the greatest quality-adjusted life-years (QALYs) on average 
+(amisulpride), personalizing the selection of antipsychotic drugs for 
+schizophrenia patients over the next 5 years would be expected to yield 0.33 
+QALYs (95% credible interval [crI]: 0.30-0.37) per patient at an incremental 
+cost of $4849/QALY gained (95% crI: dominant-$12,357), versus 0.29 and 0.04 
+QALYs per patient when accounting for only risks or preferences, respectively, 
+but not both. Limitations. The analysis uses a linear, additive utility function 
+to reflect patient treatment preferences and does not consider potential 
+variations in patient time discounting. Conclusions. Our modeling framework 
+rigorously computes what physicians normally have to do mentally. By integrating 
+3 key components of personalized medicine-evidence on efficacy, patient risks, 
+and patient preferences-the modeling framework can provide personalized 
+treatment decisions to improve patient health outcomes.
+
+DOI: 10.1177/0272989X19884927
+PMCID: PMC6895439
+PMID: 31707910 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICTS OF INTEREST The Authors declare that 
+there is no conflict of interest.
+
+
+54. Value Health. 2019 Nov;22(11):1227-1230. doi: 10.1016/j.jval.2019.07.010.
+Epub  2019 Sep 7.
+
+The Joint Committee on Vaccination and Immunisation's Advice on Extending Human 
+Papillomavirus Vaccination to Boys: Were Cost-Effectiveness Analysis Guidelines 
+Bent to Achieve a Politically Acceptable Decision?
+
+O'Mahony JF(1), Paulden M(2).
+
+Author information:
+(1)Centre for Health Policy & Management, School of Medicine, Trinity College, 
+Dublin, Ireland. Electronic address: jfomahon@tcd.ie.
+(2)School of Public Health, University of Alberta, Edmonton, Alberta, Canada.
+
+In July 2018, the UK Minister of Public Health announced that human 
+papillomavirus vaccination would be extended to 12-year-old boys. This decision 
+was informed by updated evidence from the Joint Committee on Vaccination and 
+Immunisation (JCVI) published earlier that month. Vaccination of boys had been 
+found not to be cost-effective in a series of analyses conducted for the JCVI, 
+including the most recent assessment prior to the minister's announcement. These 
+analyses were conducted under the standard methods for cost-effectiveness 
+analysis recommended by the JCVI, which are primarily based on guidelines from 
+the National Institute of Health and Care Excellence. Although the JCVI 
+concluded they were unable to advise extending vaccination on the basis of 
+standard appraisal methods, their most recent round of assessment 
+also considered analyses using nonstandard appraisal methods. In particular, the 
+JCVI noted that vaccination of boys was likely to be cost-effective when a lower 
+discount rate of 1.5% is applied to costs and health effects, as opposed to the 
+3.5% rate usually employed. The JCVI stated that they were supportive of 
+applying such alternative methods, and on this basis, they would advise 
+extending vaccination to boys. This commentary explains the JCVI's application 
+of nonstandard appraisal methods and considers whether it was justified. We 
+conclude that the JCVI was not justified in applying the lower discount rate. We 
+voice concerns that a willingness to endorse a politically popular intervention 
+may have driven the JCVI to depart from a fair and consistent application of 
+healthcare rationing.
+
+Copyright © 2019 ISPOR–The Professional Society for Health Economics and 
+Outcomes Research. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2019.07.010
+PMID: 31708058 [Indexed for MEDLINE]
+
+
+55. Value Health. 2019 Nov;22(11):1231-1239. doi: 10.1016/j.jval.2019.05.015.
+Epub  2019 Oct 16.
+
+Projected Cost-Effectiveness for 2 Gene-Drug Pairs Using a Multigene Panel for 
+Patients Undergoing Percutaneous Coronary Intervention.
+
+Hart MR(1), Garrison LP Jr(2), Doyle DL(3), Jarvik GP(4), Watkins J(5), Devine 
+B(6).
+
+Author information:
+(1)Department of Biomedical Data Science, Stanford University, Stanford, CA, 
+USA; Institute for Public Health Genetics, University of Washington, Seattle, 
+WA, USA. Electronic address: hartmr@stanford.edu.
+(2)Department of Pharmacy, The Comparative Health Outcomes, Policy, and 
+Economics (CHOICE) Institute, University of Washington, Seattle, WA, USA.
+(3)Institute for Public Health Genetics, University of Washington, Seattle, WA, 
+USA; Washington State Department of Health, Kent, WA, USA.
+(4)University of Washington Department of Medicine (Medical Genetics), Seattle, 
+WA, USA.
+(5)Department of Pharmacy, The Comparative Health Outcomes, Policy, and 
+Economics (CHOICE) Institute, University of Washington, Seattle, WA, USA; 
+Premera Blue Cross, Mountlake Terrace, WA, USA.
+(6)Institute for Public Health Genetics, University of Washington, Seattle, WA, 
+USA; Department of Pharmacy, The Comparative Health Outcomes, Policy, and 
+Economics (CHOICE) Institute, University of Washington, Seattle, WA, USA.
+
+BACKGROUND: For patients undergoing percutaneous coronary intervention, 
+gene-drug associations exist relevant to first-line treatment 
+options-antiplatelet agent, clopidogrel, and pain medication, tramadol. 
+Knowledge of genotype information may allow for avoidance of adverse drug events 
+during critical clinical windows.
+OBJECTIVE: This evaluation estimated cost-effectiveness associated with a 
+multi-gene panel pre-emptively testing two genes providing CYP2C19 
+genotype-guided strategy for antiplatelet therapy, with CYP2D6 genotype-guided 
+pain management, compared to single gene test for CYP2C19 with random assignment 
+for pain treatment, and to no testing (empiric clopidogrel with random 
+assignment for pain treatment).
+METHODS: Decision analysis modeling was used to project costs from a payer 
+perspective and patient quality-adjusted life years (QALYs) from the three 
+strategies. The model captured composite risks of major adverse cardiovascular 
+events and pain therapy-related adverse drug events and associated utility 
+estimates. We conducted sensitivity analyses to assess influential input 
+parameters.
+RESULTS: Over 15 months, multi-gene testing was least costly and yielded more 
+QALYs compared to both single gene and no testing; total incremental costs were 
+$1646 lower with incremental gains of 0.04 QALYs for multi-gene compared with 
+single gene and $11 368 lower with 0.17 QALY gains compared to no test. Base 
+case analyses revealed multi gene was dominant compared to both single gene and 
+no test, as it demonstrated cost savings with increased QALYs.
+CONCLUSIONS: For these patients, a multi-gene-guided strategy yields a favorable 
+incremental cost-effectiveness ratio compared to the other two treatment 
+strategies. Pre-emptively ascertaining additional gene-drug pair information can 
+inform clinical and economic decision-making at the point of care.
+
+Copyright © 2019 ISPOR–The Professional Society for Health Economics and 
+Outcomes Research. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2019.05.015
+PMID: 31708059 [Indexed for MEDLINE]
+
+
+56. Value Health. 2019 Nov;22(11):1240-1247. doi: 10.1016/j.jval.2019.06.003.
+Epub  2019 Jul 27.
+
+Stroke Warning Information and Faster Treatment (SWIFT): Cost-Effectiveness of a 
+Stroke Preparedness Intervention.
+
+Stevens ER(1), Roberts E(2), Kuczynski HC(2), Boden-Albala B(2).
+
+Author information:
+(1)Department of Epidemiology, New York University College of Global Public 
+Health, New York, NY, USA; Department of Population Health, New York University 
+School of Medicine, New York, NY, USA. Electronic address: 
+elizabeth.stevens@nyumc.org.
+(2)Department of Epidemiology, New York University College of Global Public 
+Health, New York, NY, USA.
+
+BACKGROUND: Less than 25% of stroke patients arrive to an emergency department 
+within the 3-hour treatment window.
+OBJECTIVE: We evaluated the cost-effectiveness of a stroke preparedness 
+behavioral intervention study (Stroke Warning Information and Faster Treatment 
+[SWIFT]), a stroke intervention demonstrating capacity to decrease race-ethnic 
+disparities in ED arrival times.
+METHODS: Using the literature and SWIFT outcomes for 2 interventions, enhanced 
+educational (EE) materials, and interactive intervention (II), we assess the 
+cost-effectiveness of SWIFT in 2 ways: (1) Markov model, and (2) cost-to-outcome 
+ratio. The Markov model primary outcome was the cost per quality-adjusted 
+life-year (QALY) gained using the cost-effectiveness threshold of $100 000/QALY. 
+The primary cost-to-outcome endpoint was cost per additional patient with ED 
+arrival <3 hours, stroke knowledge, and preparedness capacity. We assessed the 
+ICER of II and EE versus standard care (SC) from a health sector and societal 
+perspective using 2015 USD, a time horizon of 5 years, and a discount rate of 
+3%.
+RESULTS: The cost-effectiveness of the II and EE programs was, respectively, 
+$227.35 and $74.63 per additional arrival <3 hours, $440.72 and $334.09 per 
+additional person with stroke knowledge proficiency, and $655.70 and $811.77 per 
+additional person with preparedness capacity. Using a societal perspective, the 
+ICER for EE versus SC was $84 643 per QALY gained and the ICER for II versus EE 
+was $59 058 per QALY gained. Incorporating fixed costs, EE and II would need to 
+administered to 507 and 1693 or more patients, respectively, to achieve an ICER 
+of $100 000/QALY.
+CONCLUSION: II was a cost-effective strategy compared with both EE and SC. 
+Nevertheless, high initial fixed costs associated with II may limit its 
+cost-effectiveness in settings with smaller patient populations.
+
+Copyright © 2019 ISPOR–The Professional Society for Health Economics and 
+Outcomes Research. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2019.06.003
+PMCID: PMC6857539
+PMID: 31708060 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Statement The authors have 
+no conflicts of interest to declare.
+
+
+57. Value Health. 2019 Nov;22(11):1248-1256. doi: 10.1016/j.jval.2019.06.006.
+Epub  2019 Aug 19.
+
+Cost-Effectiveness of One-Time Birth Cohort Screening for Hepatitis C as Part of 
+the National Health Service Health Check Program in England.
+
+Williams J(1), Miners A(2), Harris R(3), Mandal S(4), Simmons R(4), Ireland 
+G(4), Hickman M(5), Gore C(6), Vickerman P(7).
+
+Author information:
+(1)Department of Public Health and Policy, London School of Hygiene and Tropical 
+Medicine, London, England, UK; The National Institute for Health Research Health 
+Protection Research Unit in Blood Borne and Sexually Transmitted Infections at 
+University College London, England, UK. Electronic address: 
+jack.williams@lshtm.ac.uk.
+(2)Department of Public Health and Policy, London School of Hygiene and Tropical 
+Medicine, London, England, UK; The National Institute for Health Research Health 
+Protection Research Unit in Blood Borne and Sexually Transmitted Infections at 
+University College London, England, UK.
+(3)National Infection Service, Public Health England, Colindale, England, UK.
+(4)The National Institute for Health Research Health Protection Research Unit in 
+Blood Borne and Sexually Transmitted Infections at University College London, 
+England, UK; National Infection Service, Public Health England, Colindale, 
+England, UK.
+(5)Population Health Sciences, Bristol Medical School, University of Bristol, 
+England, UK; The National Institute for Health Research Health Protection 
+Research Unit in Evaluation of Interventions, England, UK.
+(6)The Hepatitis C Trust, London, England, UK.
+(7)The National Institute for Health Research Health Protection Research Unit in 
+Blood Borne and Sexually Transmitted Infections at University College London, 
+England, UK; Population Health Sciences, Bristol Medical School, University of 
+Bristol, England, UK; The National Institute for Health Research Health 
+Protection Research Unit in Evaluation of Interventions, England, UK.
+
+BACKGROUND AND OBJECTIVES: Birth cohort screening for the hepatitis C virus 
+(HCV) has been implemented in the US, but there is little evidence of its 
+cost-effectiveness in England. We aim to evaluate the cost-effectiveness of 
+one-time HCV screening for individuals born between 1950 and 1979 as part of the 
+National Health Service health check in England, a health check for adults aged 
+40 to 74 years in primary care.
+METHODS: A Markov model was developed to analyze add-on HCV testing to the 
+National Health Service health check for individuals in birth cohorts between 
+1950 and 1979, versus current background HCV testing only, over a lifetime 
+horizon. The model used data from a back-calculation model of the burden of HCV 
+in England, sentinel surveillance of HCV testing, and published literature. 
+Results are presented from a health service perspective in pounds in 2017, as 
+incremental cost-effectiveness ratios per quality-adjusted life years gained.
+RESULTS: The base-case incremental cost-effectiveness ratios ranged from £7648 
+to £24 434, and £18 681 to £46 024, across birth cohorts when considering 2 
+sources of HCV transition probabilities. The intervention is most likely to be 
+cost-effective for those born in the 1970s, and potentially cost-effective for 
+those born from 1955 to 1969. The model results were most sensitive to the 
+source of HCV transition probabilities, the probability of referral and 
+receiving treatment, and the HCV prevalence among testers. The maximum value of 
+future research across all birth cohorts was £11.3 million at £20 000 per 
+quality-adjusted life years gained.
+CONCLUSION: Birth cohort screening is likely to be cost-effective for younger 
+birth cohorts, although considerable uncertainty exists for other birth cohorts. 
+Further studies are warranted to reduce uncertainty in cost-effectiveness and 
+consider the acceptability of the intervention.
+
+Copyright © 2019 ISPOR–The Professional Society for Health Economics and 
+Outcomes Research. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2019.06.006
+PMID: 31708061 [Indexed for MEDLINE]
+
+
+58. Value Health. 2019 Nov;22(11):1257-1265. doi: 10.1016/j.jval.2019.05.011.
+Epub  2019 Aug 1.
+
+Health Utilities and Costs for Motor Neurone Disease.
+
+Moore A(1), Young CA(2), Hughes DA(3).
+
+Author information:
+(1)Centre for Health Economics and Medicines Evaluation, Bangor University, 
+Bangor, England, UK.
+(2)The Walton Centre NHS Trust, Liverpool, England, UK.
+(3)Centre for Health Economics and Medicines Evaluation, Bangor University, 
+Bangor, England, UK. Electronic address: d.a.hughes@bangor.ac.uk.
+
+BACKGROUND: Motor neurone disease (MND) places a significant burden on patients, 
+their carers, and healthcare systems.
+OBJECTIVES: To estimate health utilities and costs of MND within the UK setting.
+METHODS: Patients with MND, recruited via 22 regional clinics, completed a 
+postal questionnaire of a cost and quality-of-life survey. Health outcome 
+assessment included the EuroQoL (EQ)-5D-5L, EQ-5D-visual analogue scale, 
+Amyotrophic Lateral Sclerosis Utility Index, and the Amyotrophic Lateral 
+Sclerosis Functional Rating Scale-Revised. Clinical staging was based on the 
+Kings and Milano-Torino (MiToS) systems. The questionnaire asked about patients' 
+use of primary, secondary, and community care services in the previous 3 months. 
+Variability in total costs was examined using regression models.
+RESULTS: 595 patients were included in the health utility analysis, of whom 584 
+patients also completed a resource use questionnaire. Mean health utility 
+decreased and costs increased between consecutive Kings stages, from 0.76 (95% 
+CI 0.71-0.80) and £1096 (£757-£1240) in Kings stage 1, to 0.50 (0.45-0.54) and 
+£3311 (£2666-£4151) in stage 4, respectively. The changes by MiToS stages were 
+from 0.71 (0.69-0.73) and £1115 (£937-£1130) in MiToS stage 0, to 0.25 
+(0.07-0.42) and £2899 (£2190-£3840) in stage 2. Kings stages 3 and 4 and MiToS 
+stages 1 and 2, respectively, were significant in explaining variability in 
+total costs.
+CONCLUSIONS: The impact of MND on health utilities and costs differs by disease 
+severity. The data provided here can be used in cost-effectiveness analyses and 
+to inform decision-making regarding healthcare provision for people with MND.
+
+Copyright © 2019 ISPOR–The Professional Society for Health Economics and 
+Outcomes Research. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2019.05.011
+PMID: 31708062 [Indexed for MEDLINE]
+
+
+59. Value Health. 2019 Nov;22(11):1283-1288. doi: 10.1016/j.jval.2019.06.014.
+Epub  2019 Oct 16.
+
+Multicriteria Decision Analysis to Support Health Technology Assessment 
+Agencies: Benefits, Limitations, and the Way Forward.
+
+Baltussen R(1), Marsh K(2), Thokala P(3), Diaby V(4), Castro H(5), Cleemput 
+I(6), Garau M(7), Iskrov G(8), Olyaeemanesh A(9), Mirelman A(10), Mobinizadeh 
+M(9), Morton A(11), Tringali M(12), van Til J(13), Valentim J(14), Wagner M(15), 
+Youngkong S(16), Zah V(17), Toll A(18), Jansen M(18), Bijlmakers L(18), Oortwijn 
+W(18), Broekhuizen H(18).
+
+Author information:
+(1)Radboud University Medical Center, Nijmegen, The Netherlands. Electronic 
+address: rob.baltussen@radboudumc.nl.
+(2)Evidera, London, England, UK.
+(3)University of Sheffield, Sheffield, England, UK.
+(4)Florida Agricultural and Mechanical University, Tallahassee, FL, USA.
+(5)Management Sciences for Health, Arlington, VA, USA.
+(6)Belgian Health Care Knowledge Centre, Brussels, Belgium.
+(7)Office of Health Economics, London, England, UK.
+(8)Medical University of Plovdiv, Plovdiv, Bulgaria; Institute for Rare 
+Diseases, Plovdiv, Bulgaria.
+(9)Tehran University of Medical Sciences, Tehran, Iran.
+(10)University of York, York, England, UK.
+(11)University of Strathclyde, Glasgow, Scotland.
+(12)Lombardia Regional Health Directorate, Milan, Italy.
+(13)University of Twente, Enschede, The Netherlands.
+(14)Roche, Basel, Switzerland.
+(15)LASER Analytica, Montreal, Canada.
+(16)Mahidol University, Bangkok, Thailand.
+(17)ZRx Outcomes Research Inc, Mississauga, Canada.
+(18)Radboud University Medical Center, Nijmegen, The Netherlands.
+
+Comment in
+    Value Health. 2020 Oct;23(10):1400-1401.
+
+OBJECTIVE: Recent years have witnessed an increased interest in the use of 
+multicriteria decision analysis (MCDA) to support health technology assessment 
+(HTA) agencies for setting healthcare priorities. However, its implementation to 
+date has been criticized for being "entirely mechanistic," ignoring opportunity 
+costs, and not following best practice guidelines. This article provides 
+guidance on the use of MCDA in this context.
+METHODS: The present study was based on a systematic review and consensus 
+development. We developed a typology of MCDA studies and good implementation 
+practice. We reviewed 36 studies over the period 1990 to 2018 on their 
+compliance with good practice and developed recommendations. We reached 
+consensus among authors over the course of several review rounds.
+RESULTS: We identified 3 MCDA study types: qualitative MCDA, quantitative MCDA, 
+and MCDA with decision rules. The types perform differently in terms of quality, 
+consistency, and transparency of recommendations on healthcare priorities. We 
+advise HTA agencies to always include a deliberative component. Agencies should, 
+at a minimum, undertake qualitative MCDA. The use of quantitative MCDA has 
+additional benefits but also poses design challenges. MCDA with decision rules, 
+used by HTA agencies in The Netherlands and the United Kingdom and typically 
+referred to as structured deliberation, has the potential to further improve the 
+formulation of recommendations but has not yet been subjected to broad 
+experimentation and evaluation.
+CONCLUSION: MCDA holds large potential to support HTA agencies in setting 
+healthcare priorities, but its implementation needs to be improved.
+
+Copyright © 2019 ISPOR–The Professional Society for Health Economics and 
+Outcomes Research. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2019.06.014
+PMID: 31708065 [Indexed for MEDLINE]
+
+
+60. Lancet Glob Health. 2019 Dec;7(12):e1593-e1594. doi: 
+10.1016/S2214-109X(19)30471-1.
+
+Cause-specific mortality and healthy life lost: issues and challenges.
+
+Dubey M(1), Awasthi A(2).
+
+Author information:
+(1)World Food Programme, New Delhi, India. Electronic address: 
+manikvdlw@gmail.com.
+(2)Centre for Chronic Conditions and Injuries, Public Health Foundation of 
+India, Gurugram, India.
+
+Comment on
+    Lancet Glob Health. 2019 Dec;7(12):e1675-e1684.
+
+DOI: 10.1016/S2214-109X(19)30471-1
+PMID: 31708131 [Indexed for MEDLINE]61. Lancet Glob Health. 2019 Dec;7(12):e1664-e1674. doi: 
+10.1016/S2214-109X(19)30439-5.
+
+Re-evaluating the potential impact and cost-effectiveness of rotavirus 
+vaccination in 73 Gavi countries: a modelling study.
+
+Debellut F(1), Clark A(2), Pecenka C(3), Tate J(4), Baral R(3), Sanderson C(2), 
+Parashar U(4), Kallen L(3), Atherly D(3).
+
+Author information:
+(1)PATH, Geneva, Switzerland. Electronic address: fdebellut@path.org.
+(2)London School of Hygiene & Tropical Medicine, London, UK.
+(3)PATH, Seattle, WA, USA.
+(4)Centers for Disease Control and Prevention, Atlanta, GA, USA.
+
+Comment in
+    Lancet Glob Health. 2019 Dec;7(12):e1591-e1592.
+
+BACKGROUND: Previous studies have found rotavirus vaccination to be highly 
+cost-effective in low-income countries. However, updated evidence is now 
+available for several inputs (ie, rotavirus disease mortality rates, rotavirus 
+age distributions, vaccine timeliness, and vaccine efficacy by duration of 
+follow-up), new rotavirus vaccines have entered the market, vaccine prices have 
+decreased, and cost-effectiveness thresholds have been re-examined. We aimed to 
+provide updated cost-effectiveness estimates to inform national decisions about 
+the new introduction and current use of rotavirus vaccines in Gavi countries.
+METHODS: We calculated the potential costs and effects of rotavirus vaccination 
+for ten successive birth cohorts in 73 countries previously and currently 
+eligible for Gavi support, compared with no vaccination. We used a deterministic 
+cohort model to calculate numbers of rotavirus gastroenteritis cases, outpatient 
+visits, hospitalisations, and deaths between birth and 5 years, with and without 
+rotavirus vaccination. We calculated treatment costs from the government and 
+societal perspectives. The primary outcome measure was the incremental 
+cost-effectiveness ratio (discounted US$ per disability-adjusted life-year 
+averted). Country-specific model input parameters were based on the scientific 
+literature, published meta-analyses, and international databases. We ran 
+deterministic and probabilistic uncertainty analyses.
+FINDINGS: Over the period 2018-27, rotavirus vaccination has the potential to 
+prevent nearly 600 000 deaths in Gavi countries. Averted outpatient visits and 
+hospitalisations could lead to treatment savings of approximately $484·1 million 
+from the government perspective and $878·0 million from the societal 
+perspective. The discounted dollars per disability-adjusted life-year averted 
+has a very high probability (>90%) of being less than 0·5 times the gross 
+domestic product per capita in 54 countries, and less than 1·0 times gross 
+domestic product per capita in 63 countries.
+INTERPRETATION: Rotavirus vaccination continues to represent good value for 
+money across most Gavi countries despite lower rotavirus mortality estimates and 
+more stringent willingness-to-pay thresholds.
+FUNDING: Bill & Melinda Gates Foundation.
+
+Copyright © 2019 The Author(s). Published by Elsevier Ltd. This is an Open 
+Access article under the CC BY 4.0 license. Published by Elsevier Ltd.. All 
+rights reserved.
+
+DOI: 10.1016/S2214-109X(19)30439-5
+PMCID: PMC7024955
+PMID: 31708147 [Indexed for MEDLINE]
+
+
+62. Lancet Glob Health. 2019 Dec;7(12):e1675-e1684. doi: 
+10.1016/S2214-109X(19)30451-6.
+
+National Burden Estimates of healthy life lost in India, 2017: an analysis using 
+direct mortality data and indirect disability data.
+
+Menon GR(1), Singh L(2), Sharma P(2), Yadav P(2), Sharma S(2), Kalaskar S(2), 
+Singh H(2), Adinarayanan S(2), Joshua V(2), Kulothungan V(2), Yadav J(2), Watson 
+LK(3), Fadel SA(3), Suraweera W(3), Rao MVV(2), Dhaliwal RS(2), Begum R(3), Sati 
+P(3), Jamison DT(4), Jha P(5).
+
+Author information:
+(1)Indian Council of Medical Research, Ansari Nagar, New Delhi, India. 
+Electronic address: menongr.hq@icmr.gov.in.
+(2)Indian Council of Medical Research, Ansari Nagar, New Delhi, India.
+(3)Centre for Global Health Research, St Michael's Hospital, Dalla Lana School 
+of Public Health, University of Toronto, Toronto, ON, Canada.
+(4)Institute for Global Health Sciences, University of California San Francisco, 
+San Francisco, CA, USA.
+(5)Centre for Global Health Research, St Michael's Hospital, Dalla Lana School 
+of Public Health, University of Toronto, Toronto, ON, Canada. Electronic 
+address: prabhat.jha@utoronto.ca.
+
+Comment in
+    Lancet Glob Health. 2019 Dec;7(12):e1593-e1594.
+
+BACKGROUND: Many countries, including India, seek locally constructed disease 
+burden estimates comprising mortality and loss of health to aid priority setting 
+for the prevention and treatment of diseases. We created the National Burden 
+Estimates (NBE) to provide transparent and understandable disease burdens at the 
+national and subnational levels, and to identify gaps in knowledge.
+METHODS: To calculate the NBE for India, we combined 2017 UN death totals with 
+national and subnational mortality rates for 2010-17 and causes of death from 
+211 166 verbal autopsy interviews in the Indian Million Death Study for 2010-14. 
+We calculated years of life lost (YLLs) and years lived with disability (YLDs) 
+for 2017 using published YLD-YLL ratios from WHO Global Health Estimates. We 
+grouped causes of death into 45 groups, including ill-defined deaths, and summed 
+YLLs and YLDs to calculate disability-adjusted life-years (DALYs) for these 
+causes in eight age groups covering rural and urban areas and 21 major states of 
+India.
+FINDINGS: In 2017, there were about 9·7 million deaths and 486 million DALYs in 
+India. About three quarters of deaths and DALYs occurred in rural areas. More 
+than a third of national DALYs arose from communicable, maternal, perinatal, and 
+nutritional disorders. DALY rates in rural areas were at least twice those of 
+urban areas for perinatal and nutritional conditions, chronic respiratory 
+diseases, diarrhoea, and fever of unknown origin. DALY rates for ischaemic heart 
+disease were greater in urban areas. Injuries caused 11·4% of DALYs nationally. 
+The top 15 conditions that accounted for the most DALYs were mostly those 
+causing mortality (ischaemic heart disease, perinatal conditions, chronic 
+respiratory diseases, diarrhoea, respiratory infections, cancer, stroke, road 
+traffic accidents, tuberculosis, and liver and alcohol-related conditions), with 
+disability mostly due to a few conditions (nutritional deficiencies, 
+neuropsychiatric conditions, vision and other sensory loss, musculoskeletal 
+disorders, and genitourinary diseases). Every condition that was common in one 
+part of India was uncommon elsewhere, suggesting state-specific priorities for 
+disease control.
+INTERPRETATION: The NBE method quantifies disease burden using transparent, 
+intuitive, and reproducible methods. It provides a simple, locally operable tool 
+to aid policy makers in priority setting in India and other low-income and 
+middle-income countries. The NBE underlines the need for many more countries to 
+collect nationally representative cause of death data, paired with focused 
+surveys of disability.
+FUNDING: Ministry of Health and Family Welfare, Government of India.
+
+Copyright © 2019 The Author(s). Published by Elsevier Ltd. This is an Open 
+Access article under the CC BY 4.0 license. Published by Elsevier Ltd.. All 
+rights reserved.
+
+DOI: 10.1016/S2214-109X(19)30451-6
+PMID: 31708148 [Indexed for MEDLINE]
+
+
+63. Eur J Intern Med. 2020 Jan;71:23-31. doi: 10.1016/j.ejim.2019.10.008. Epub
+2019  Nov 8.
+
+Comorbidities in chronic heart failure: An update from Italian Society of 
+Cardiology (SIC) Working Group on Heart Failure.
+
+Correale M(1), Paolillo S(2), Mercurio V(3), Limongelli G(4), Barillà F(5), 
+Ruocco G(6), Palazzuoli A(6), Scrutinio D(7), Lagioia R(8), Lombardi C(9), Lupi 
+L(10), Magrì D(11), Masarone D(12), Pacileo G(12), Scicchitano P(13), Matteo 
+Ciccone M(13), Parati G(9), Tocchetti CG(3), Nodari S(10).
+
+Author information:
+(1)Department of Cardiology, University Hospital Foggia, Italy. Electronic 
+address: opsfco@tin.it.
+(2)Department of Advanced Biomedical Sciences, Federico II University of Naples, 
+Naples, Italy.
+(3)Department of Translational Medical Sciences, Federico II University, Naples, 
+Italy.
+(4)Heart Failure Unit, AORN dei Colli, Monaldi Hospital, Naples, Italy; 
+Department of Translational Medical Sciences, Luigi Vanvitelli University, 
+Naples, Italy; Institute of Cardiovascular Sciences, University College of 
+London, London, United Kingdom.
+(5)Department of Cardiovascular, Respiratory, Nephrologic, Anesthesiologic and 
+Geriatric Sciences, Sapienza" University of Rome, Italy.
+(6)Cardiovascular Diseases Unit Department of Internal Medicine, University of 
+Siena, Siena, Italy.
+(7)Istituti Clinici Scientifici Maugeri, IRCCS, Pavia, Italy.
+(8)Cardiology Department, IRCCS "S. Maugeri" Cassano (BA), Bari, Italy.
+(9)Istituto Auxologico Italiano, IRCCS, Sleep Disorders Center & Department of 
+Cardiovascular, Neural and Metabolic Sciences. San Luca Hospital, Milan, Italy.
+(10)Section of Cardiology, Department of Medical and Surgical Specialties, 
+Radiological Sciences, and Public Health, University of Brescia, Italy.
+(11)Department of Clinical and Molecular Medicine, University "La Sapienza", 
+Rome, Italy.
+(12)Heart Failure Unit, AORN dei Colli, Monaldi Hospital, Naples, Italy.
+(13)Section of Cardiovascular Diseases, Department of Emergency and Organ 
+Transplantation, University of Bari "A. Moro", Bari, Italy.
+
+Comment in
+    Eur J Intern Med. 2020 Jan;71:8-10.
+    Eur J Intern Med. 2020 Apr;74:125-126.
+
+The increasing number of patients with heart failure HF and comorbidities is due 
+to aging population and increase of life expectancy of patients with 
+cardiovascular disease. Encouraging results derived by recent trials may suggest 
+some comorbidities as new targets for new drugs, highlighting the need for a 
+better understanding of the comorbidities' effects in HF patients and the need 
+of a multidisciplinary approach for the management of chronic HF with 
+comorbidities. We report a brief review about main cardiovascular and 
+non-cardiovascular comorbidities in HF patients in order to update physicians 
+and researchers engaged in the HF research or in "fight against heart failure."
+
+Copyright © 2019 European Federation of Internal Medicine. Published by Elsevier 
+B.V. All rights reserved.
+
+DOI: 10.1016/j.ejim.2019.10.008
+PMID: 31708358 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+have no financial or other interest in the product or distributor of the 
+product. Furthermore, they have no other kinds of associations, such as 
+consultancies, stock ownership, or other equity interests or patent-licensing 
+arrangements.
+
+
+64. Curr Oncol. 2019 Oct;26(5):307-318. doi: 10.3747/co.26.4769. Epub 2019 Oct 1.
+
+Cost-utility analysis of 21-gene assay for node-positive early breast cancer.
+
+Masucci L(1), Torres S(2), Eisen A(2)(3), Trudeau M(2)(3), Tyono I(2), Saunders 
+H(1), Chan KW(2)(3)(4), Isaranuwatchai W(1)(4)(5).
+
+Author information:
+(1)Centre for Excellence in Economic Analysis Research, St. Michael's Hospital, 
+University of Toronto, Toronto, ON.
+(2)Sunnybrook Odette Cancer Centre, University of Toronto, Toronto, ON.
+(3)Cancer Care Ontario, University of Toronto, Toronto, ON.
+(4)Canadian Centre for Applied Research in Cancer Control, University of 
+Toronto, Toronto, ON.
+(5)Institute of Health Policy, Management and Evaluation, University of Toronto, 
+Toronto, ON.
+
+BACKGROUND: For women with lymph node (ln)-positive, estrogen receptor-positive, 
+and her2 (human epidermal growth factor receptor 2)-negative breast cancer 
+(bca), current guidelines recommend treatment with both hormonal therapy and 
+chemotherapy. The 21-gene Recurrence Score (rs) assay might be helpful in 
+selecting patients with bca who can be spared chemotherapy when they have 1-3 
+positive lns and a lower risk of recurrence. In the present study, we performed 
+a cost-utility analysis comparing use of the 21-gene rs assay with current 
+practice from the perspective of a Canadian health care payer.
+METHODS: A Markov model was developed to determine costs and quality-adjusted 
+life-years (qalys) over a patient's lifetime. Patient outcomes in both study 
+groups were examined based on published clinical trials. Costs were derived 
+primarily from published Canadian sources. Costs and outcomes were discounted at 
+1.5% annually, and costs are reported in 2016 Canadian dollars. A probabilistic 
+analysis was used, and the model parameters were varied in a sensitivity 
+analysis.
+RESULTS: The results indicate that use of the 21-gene rs assay was less costly 
+($432 less) and more effective (0.22 qalys) than current practice. The 
+probabilistic analysis revealed that 70% of the 10,000 simulated incremental 
+cost-effectiveness ratios were in the southeast quadrant. The results were 
+sensitive to the probability of a low rs and to the probability of receiving 
+chemotherapy in the low-risk rs category and in current practice.
+CONCLUSIONS: Use of the 21-gene rs assay could be a cost-effective strategy for 
+Ontario patients with estrogen receptor-positive, her2-negative early bca and 
+1-3 positive lns.
+
+2019 Multimed Inc.
+
+DOI: 10.3747/co.26.4769
+PMCID: PMC6821112
+PMID: 31708649 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICT OF INTEREST DISCLOSURES We have read 
+and understood Current Oncology’s policy on disclosing conflicts of interest, 
+and we declare the following interests: funding for this study was received by 
+Genomic Health Ltd. However, the research was conducted independently of Genomic 
+Health Ltd. AE received funding from Genomic Health Ltd. for a decision study in 
+which she was the principal investigator. ST received funding from Genomic 
+Health Ltd. for a decision study in which she was a co-investigator and also 
+fellowship support from Genomic Health Ltd. MT received funding from Genomic 
+Health Ltd. for a decision study in which she was a co-investigator. IT received 
+fees as an advisory board member for Teva Pharmaceuticals. LM, KWC, HS, and WI 
+have no conflicts of interest to disclose.
+
+
+65. Front Plant Sci. 2019 Oct 11;10:1146. doi: 10.3389/fpls.2019.01146.
+eCollection  2019.
+
+AtPR5K2, a PR5-Like Receptor Kinase, Modulates Plant Responses to Drought Stress 
+by Phosphorylating Protein Phosphatase 2Cs.
+
+Baek D(1), Kim MC(1)(2), Kumar D(1)(3), Park B(4), Cheong MS(1)(2), Choi W(5), 
+Park HC(5), Chun HJ(2), Park HJ(6)(7), Lee SY(1), Bressan RA(8), Kim JY(1), Yun 
+DJ(6).
+
+Author information:
+(1)Division of Applied Life Science (BK21plus program), Plant Molecular Biology 
+and Biotechnology Research Center, Gyeongsang National University, Jinju, South 
+Korea.
+(2)Institute of Agriculture & Life Science, Gyeongsang National University, 
+Jinju, South Korea.
+(3)Donald Danforth Plant Science Center, St Louis, MO, United States.
+(4)Gyeongsangnam-do Agricultural Research and Extension Services, Jinju, South 
+Korea.
+(5)Division of Ecological Conservation, Bureau of Ecological Research, National 
+Institute of Ecology (NIE), Seocheon, South Korea.
+(6)Department of Biomedical Science and Engineering, Konkuk University, Seoul, 
+South Korea.
+(7)Institute of Glocal Disease Control, Konkuk University, Seoul, South Korea.
+(8)Department of Horticulture and Landscape Architecture, Purdue University, 
+West Lafayette, IN, United States.
+
+Cell surface receptors perceive signals from the environment and transfer them 
+to the interior of the cell. The Arabidopsis thaliana PR5 receptor-like kinase 
+(AtPR5K) subfamily consists of three members with extracellular domains that 
+share sequence similarity with the PR5 proteins. In this study, we characterized 
+the role of AtPR5K2 in plant drought-stress signaling. AtPR5K2 is predominantly 
+expressed in leaves and localized to the plasma membrane. The atpr5k2-1 mutant 
+showed tolerance to dehydration stress, while AtPR5K2-overexpressing plants was 
+hypersensitive to drought. Bimolecular fluorescence complementation assays 
+showed that AtPR5K2 physically interacted with the type 2C protein phosphatases 
+ABA-insensitive 1 (ABI1) and ABI2 and the SNF1-related protein kinase 2 
+(SnRK2.6) proteins, all of which are involved in the initiation of abscisic acid 
+(ABA) signaling; however, these interactions were inhibited by treatments of 
+exogenous ABA. Moreover, AtPR5K2 was found to phosphorylate ABI1 and ABI2, but 
+not SnRK2.6. Taken together, these results suggest that AtPR5K2 participates in 
+ABA-dependent drought-stress signaling through the phosphorylation of ABI1 and 
+ABI2.
+
+Copyright © 2019 Baek, Kim, Kumar, Park, Cheong, Choi, Park, Chun, Park, Lee, 
+Bressan, Kim and Yun.
+
+DOI: 10.3389/fpls.2019.01146
+PMCID: PMC6822995
+PMID: 31708935
+
+
+66. Prev Med Rep. 2019 Oct 21;16:101002. doi: 10.1016/j.pmedr.2019.101002. 
+eCollection 2019 Dec.
+
+Perceived life expectancy and colorectal cancer screening intentions and 
+behaviour: A population-based UK study.
+
+Dodd RH(1)(2), Kobayashi LC(3), von Wagner C(2).
+
+Author information:
+(1)The University of Sydney, Faculty of Medicine and Health, School of Public 
+Health, New South Wales 2006, Australia.
+(2)Department of Behavioural Science and Health, University College London, 
+Gower Street, London WC1E 6BT, United Kingdom.
+(3)Department of Epidemiology, University of Michigan School of Public Health, 
+Ann Arbor, MI 48109, USA.
+
+The relationships between perceived life expectancy (PLE), cancer screening 
+intentions and behaviour are not well understood, despite the importance of 
+remaining life expectancy for the early diagnosis benefits of screening. This 
+study investigates the relationships between PLE and each of: the intention to 
+complete faecal occult blood test (FOBt) screening, 'ever' uptake of FOBt 
+screening, and repeat uptake of FOBt screening for colorectal cancer. Data were 
+from the population-representative Attitudes, Behaviour and Cancer UK Survey II 
+(ABACUS II) in England in 2015. Eligible respondents for the present analysis 
+were aged 60-70 years (FOBt eligible age range), who completed the survey 
+question on perceived life expectancy (N = 824). We used logistic regression 
+models to estimate the associations between PLE and the intention to complete 
+screening, 'ever' uptake of screening, and repeat uptake of screening, with 
+adjustment for age, gender, occupation-based social grade, marital status, 
+ethnicity, and smoking status. PLE was positively associated with repeated 
+uptake of FOBt (adjusted OR = 2.55; 95% CI: 1.04-6.30 for expecting to live to 
+≥90 years versus <80 years). Older adults may base decisions to continually 
+participate in cancer screening on their expectations of remaining life 
+expectancy. Future research should investigate the feasibility and acceptability 
+of individualised cancer screening recommendations that take life expectancy 
+into account.
+
+© 2019 The Authors.
+
+DOI: 10.1016/j.pmedr.2019.101002
+PMCID: PMC6831878
+PMID: 31709135
+
+
+67. J Genet Couns. 2020 Feb;29(1):112-121. doi: 10.1002/jgc4.1188. Epub 2019 Nov
+11.
+
+Implementing non-invasive prenatal testing (NIPT) in the Netherlands: An 
+interview study exploring opinions about and experiences with societal pressure, 
+reimbursement, and an expanding scope.
+
+Bakkeren IM(1), Kater-Kuipers A(2), Bunnik EM(2), Go ATJI(3), Tibben A(4), de 
+Beaufort ID(2), Galjaard RH(1), Riedijk SR(1).
+
+Author information:
+(1)Department of Clinical Genetics, Erasmus MC, University Medical Centre 
+Rotterdam, Rotterdam, The Netherlands.
+(2)Department of Medical Ethics, Philosophy of Medicine and Medical History, 
+Erasmus MC, University Medical Centre Rotterdam, Rotterdam, The Netherlands.
+(3)Department of Obstetrics and Gynecology, Erasmus MC, University Medical 
+Centre Rotterdam, Rotterdam, The Netherlands.
+(4)Department of Clinical Genetics, Leiden University Medical Center, Leiden, 
+The Netherlands.
+
+The noninvasive prenatal test (NIPT) as the first trimester prenatal screening 
+(FTS) for trisomies 21, 18, and 13 is offered to all pregnant women in the 
+Netherlands. NIPT using genome sequencing allows for an expansion of the scope 
+of FTS and the introduction of NIPT gives rise to ethical and societal concerns 
+about deliberated decision-making, pressure to engage in screening, and possible 
+lack of equal access due to the financial contribution (€175) to NIPT. We 
+explored the opinions and experiences of pregnant women, who were offered FTS, 
+about these concerns, and the possibility of a broadened scope. Nineteen 
+pregnant women representing a diversity of backgrounds were interviewed using a 
+semi-structured interview guide. Eight women did not opt for prenatal screening 
+while 11 did (NIPT = 4, combined test = 7). Women experienced a free choice to 
+accept or decline prenatal screening, despite sometimes receiving advice from 
+others. Prior to pretest counseling, some women had already deliberated about 
+what an abnormal test result would mean to them. Others accepted or declined FTS 
+without deliberation. The current Dutch policy of requiring a co-payment was 
+acceptable to some, who believed that it functioned as a threshold to think 
+carefully about FTS. Others were concerned that a financial threshold would lead 
+to unequal access to screening. Finally, pregnant women found it difficult to 
+formulate opinions on the scope of FTS, because of lack of knowledge. Life 
+expectancy, severity, and treatability were considered important criteria for 
+the inclusion of a condition in NIPT.
+
+© 2019 The Authors. Journal of Genetic Counseling published by Wiley 
+Periodicals, Inc. on behalf of National Society of Genetic Counselors.
+
+DOI: 10.1002/jgc4.1188
+PMCID: PMC7041621
+PMID: 31710169 [Indexed for MEDLINE]
+
+Conflict of interest statement: I.M. Bakkeren, A. Kater‐Kuipers, E.M. Bunnik, 
+A.T.J.I. Go, A. Tibben, I.D. de Beaufort, R.J.H. Galjaard, and S.R. Riedijk 
+declare that they have no conflict of interest.
+
+
+68. JAMA Neurol. 2020 Feb 1;77(2):215-224. doi: 10.1001/jamaneurol.2019.3812.
+
+Reactions to Multiple Ascending Doses of the Microtubule Stabilizer TPI-287 in 
+Patients With Alzheimer Disease, Progressive Supranuclear Palsy, and 
+Corticobasal Syndrome: A Randomized Clinical Trial.
+
+Tsai RM(1), Miller Z(1), Koestler M(1), Rojas JC(1), Ljubenkov PA(1), Rosen 
+HJ(1), Rabinovici GD(1)(2), Fagan AM(3), Cobigo Y(1), Brown JA(1), Jung JI(1), 
+Hare E(1), Geldmacher DS(4), Natelson-Love M(4), McKinley EC(4), Luong PN(1), 
+Chuu EL(1), Powers R(1), Mumford P(1), Wolf A(1), Wang P(1), Shamloo M(5), 
+Miller BL(1), Roberson ED(4), Boxer AL(1).
+
+Author information:
+(1)Memory and Aging Center, Department of Neurology, Sandler Neurosciences 
+Center, University of California, San Francisco.
+(2)Department of Radiology and Biomedical Imaging, University of California, San 
+Francisco.
+(3)Department of Neurology, Washington University School of Medicine in St 
+Louis, St Louis, Missouri.
+(4)Alzheimer's Disease Center, Department of Neurology, University of Alabama at 
+Birmingham.
+(5)Wu Tsai Neurosciences Institute, Stanford University, Palo Alto, California.
+
+IMPORTANCE: Basket-design clinical trials that allow investigation of treatment 
+effects on different clinical syndromes that share the same molecular 
+pathophysiology have not previously been attempted in neurodegenerative disease.
+OBJECTIVE: To assess the safety, tolerability, and pharmacodynamics of the 
+microtubule stabilizer TPI-287 (abeotaxane) in Alzheimer disease (AD) or the 
+4-repeat tauopathies (4RT) progressive supranuclear palsy (PSP) and corticobasal 
+syndrome (CBS).
+DESIGN, SETTING, AND PARTICIPANTS: Two parallel-design, double-blind, 
+placebo-controlled phase 1 randomized clinical trials in AD and 4RT were 
+conducted from December 20, 2013, through May 4, 2017, at the University of 
+California, San Francisco, and University of Alabama at Birmingham. A total of 
+94 patients with clinically diagnosed AD (n = 39) and 4RT (n = 55) were 
+screened; of these, 3 refused to participate, and 10 with AD and 11 with 4RT did 
+not meet inclusion criteria. A total of 29 patients with AD, 14 with PSP, and 30 
+with β-amyloid-negative CBS (determined on positron emission tomography 
+findings) were enrolled. Data were analyzed from December 20, 2013, through May 
+4, 2017, based on modified intention to treat.
+INTERVENTIONS: Randomization was 8:3 drug to placebo in 3 sequential dose 
+cohorts receiving 2.0, 6.3, or 20.0 mg/m2 of intravenous TPI-287 once every 3 
+weeks for 9 weeks, with an optional 6-week open-label extension.
+MAIN OUTCOMES AND MEASURES: Primary end points were safety and tolerability 
+(maximal tolerated dose) of TPI-287. Secondary and exploratory end points 
+included TPI-287 levels in cerebrospinal fluid (CSF) and changes on biomarker, 
+clinical, and neuropsychology measures.
+RESULTS: A total of 68 participants (38 men [56%]; median age, 65 [range, 50-85] 
+years) were included in the modified intention-to-treat analysis, of whom 26 had 
+AD (14 women [54%]; median age, 63 [range, 50-76] years), and 42 had 4RT (16 
+women [38%]; median age, 69 [range, 54-83] years). Three severe anaphylactoid 
+reactions occurred in TPI-287-treated patients with AD, whereas none were seen 
+in patients with 4RT, leading to a maximal tolerated dose of 6.3 mg/m2 for AD 
+and 20.0 mg/m2 for 4RT. More falls (3 in the placebo group vs 11 in the TPI-287 
+group) and a dose-related worsening of dementia symptoms (mean [SD] in the CDR 
+plus NACC FTLD-SB [Clinical Dementia Rating scale sum of boxes with 
+frontotemporal dementia measures], 0.5 [1.8] in the placebo group vs 0.7 [1.6] 
+in the TPI-287 group; median difference, 1.5 [95% CI, 0-2.5]; P = .03) were seen 
+in patients with 4RT. Despite undetectable TPI-287 levels in CSF, CSF biomarkers 
+demonstrated decreased chitinase-3-like protein-1 (YKL-40) levels in the 4RT 
+treatment arm (mean [SD], -8.4 [26.0] ng/mL) compared with placebo (mean [SD], 
+10.4 [42.3] ng/mL; median difference, -14.6 [95% CI, -30.0 to 0.2] ng/mL; 
+P = .048, Mann-Whitney test).
+CONCLUSIONS AND RELEVANCE: In this randomized clinical trial, TPI-287 was less 
+tolerated in patients with AD than in those with 4RT owing to the presence of 
+anaphylactoid reactions. The ability to reveal different tau therapeutic effects 
+in various tauopathy syndromes suggests that basket trials are a valuable 
+approach to tau therapeutic early clinical development.
+TRIAL REGISTRATION: ClinicalTrials.gov identifiers: NCT019666666 and 
+NCT02133846.
+
+DOI: 10.1001/jamaneurol.2019.3812
+PMCID: PMC6865783
+PMID: 31710340 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Tsai 
+reported receiving research support from the University of California and grant 
+K23AG055688 from the National Institute of Aging (NIA); consulting for 
+ExpertConnect and Grifols; and current employment at Denali Therapeutics. Dr Z. 
+Miller reported receiving research support from grant K23 AG048291 from the NIA, 
+with additional funds from the Hellman Research Scientist Award, and the Arking 
+Foundation for Frontotemporal Dementia. Dr Rojas reported serving as a site 
+principal investigator for clinical trials sponsored by Eli Lilly and Company 
+and receiving support from the National Institutes of Health (NIH). Dr Ljubenkov 
+reported serving as a site principal investigator for clinical trials sponsored 
+by AbbVie, Inc, and Alector, Inc. Dr Rosen reported receiving research support 
+from Biogen, Inc, and the NIH and consulting agreements with Wave Neuroscience 
+and Ionis Pharmaceuticals. Dr Rabinovici reported receiving research support 
+from Avid Radiopharmaceuticals, Eli Lilly and Company, GE Healthcare, and Life 
+Molecular Imaging; receiving consulting fees from Eisai Co, Ltd, Genentech, Inc, 
+Merck & Co, and Roche Diagnostics; and receiving an honorarium as associate 
+editor for JAMA Neurology. Dr Fagan reported receiving research funding from the 
+NIA of the NIH, Biogen, Inc, Centene Corporation, Fujirebio, Inc, and Roche 
+Diagnostics; serving as a member of the scientific advisory boards for Roche 
+Diagnostics, Genentech, Inc, and AbbVie, Inc; and consulting for 
+Araclon/Grifols, Diadem Pharmacy, and DiamiR. Dr Geldmacher reported receiving 
+grants from UCSF during the conduct of the study and grants from Biogen, grants 
+from Bristol-Myers Squibb, grants from Eisai, grants and personal fees from 
+Genentech, grants from AbbVie, grants from Neurim, grants from Janssen, grants 
+from Lilly, and personal fees from Grifols outside the submitted work. Dr Powers 
+reported receiving grants from Alzheimer's Association, grants from Corticobasal 
+Degeneration Solutions, and grants and nonfinancial support from Cortice 
+Bioscience during the conduct of the study. Dr Shamloo reported receiving grants 
+from the NIH during the conduct of the study. Dr B. L. Miller reported being the 
+medical director for John Douglas French Foundation and scientific director for 
+the Tau Consortium; serving on the Director/Medical Advisory Board of the Larry 
+L. Hillblom Foundation and as a Scientific Advisory Board Member for the 
+National Institute for Health Research Cambridge Biomedical Research Centre and 
+its subunit, the Biomedical Research Unit in Dementia (United Kingdom); and 
+serving as a board member for the American Brain Foundation. Dr Roberson 
+reported receiving research support from grants RF1AG059405, RF1AG059009, and 
+R01NS075487 from the NIH, Bluefield Project to Cure Frontotemporal Dementia, 
+Alzheimer’s Drug Discovery Foundation, BrightFocus Foundation, Weston Brain 
+Institute, the Alzheimer’s Association, AbbVie, Inc, Alector, Inc, Avid 
+Radiopharmaceuticals, Biogen, Inc, Bristol-Myers Squibb, C2N, Eli Lilly and 
+Company, and Roche Diagnostics; consulting for Applied Genetic Technologies 
+Corporation, AVROBIO, Inc, Biogen, Inc, and Novartis International AG; and 
+owning intellectual property related to tau. Dr Boxer reported research support 
+from grants U54NS092089, R01AG038791, U01AG045390, and U24AG057437 from the NIH, 
+Tau Research Consortium, Association for Frontotemporal Degeneration, Bluefield 
+Project to Cure Frontotemporal Dementia, Corticobasal Degeneration Solutions, 
+and the Alzheimer’s Association; serving as a consultant for Aeton, AbbVie, Inc, 
+AGTC, Alector, Inc, Amgen, Inc, Arkuda Therapeutics, Arvinas, Inc, Eisai Co, 
+Ltd, Ionis Pharmaceuticals, iPierian, Inc, Janssen Pharmaceutica, Lundbeck 
+Pharmaceuticals, Merck & Co, Novartis International AG, Pinteon Therapeutics, 
+Inc, Passage Bio, Samumed, LLC, Third Rock Ventures, Toyama Chemical Co, UCB, 
+and Wave Neuroscience; owing stock options in Alector, Inc, and Arvinas, Inc; 
+and receiving research support from Avid Radiopharmaceuticals, Biogen, Inc, 
+Bristol-Myers Squibb, C2N, Cortice Biosciences, Inc, Eli Lilly and Company, 
+Forum Pharmaceuticals, Inc, Genentech, Inc, Janssen Pharmaceutica, Pfizer, Inc, 
+Roche Diagnostics, and TauRx Therapeutics, Ltd. No other disclosures were 
+reported.
+
+
+69. Age Ageing. 2019 Dec 1;49(1):57-66. doi: 10.1093/ageing/afz125.
+
+A modelling-based economic evaluation of primary-care-based fall-risk screening 
+followed by fall-prevention intervention: a cohort-based Markov model stratified 
+by older age groups.
+
+Franklin M(1), Hunter RM(2).
+

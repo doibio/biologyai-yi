@@ -1,0 +1,1000 @@
+(1)Robert N. Butler Columbia Aging Center, Columbia University, New York, New 
+York, USA, vesk@fhi.no.
+(2)Centre for Fertility and Health, Norwegian Institute of Public Health, Oslo, 
+Norway, vesk@fhi.no.
+(3)Robert N. Butler Columbia Aging Center, Columbia University, New York, New 
+York, USA.
+(4)Department of Sociomedical Science, Mailman School of Public Health, Columbia 
+University, New York, New York, USA.
+(5)Rockefeller University, New York, New York, USA.
+(6)Earth Institute and Department of Statistics, Columbia University, New York, 
+New York, USA.
+(7)Department of Statistics, University of Chicago, Chicago, Illinois, USA.
+
+Usually, population aging is measured to inform fiscal and social planning 
+because it is considered to indicate the burden that an elderly population 
+presents to the economic, social security, and health systems of a society. 
+Measures of population aging are expected to indicate shifts in the distribution 
+of individuals' attributes (e.g., chronological age, health) within a population 
+that are relevant to assessing the burden. We claim that chronological age - 
+even though it is the attribute most broadly used - may frequently not be the 
+best measure to satisfy this purpose. A distribution of chronological age per se 
+does not present a burden. Rather, burdens arise from the characteristics that 
+supposedly or actually accompany chronological ages. We posit that in addition 
+to chronological age, meaningful measures of population aging should reflect, 
+for instance, the distribution of economic productivity, health, functional 
+capacities, or biological age, as these attributes may more directly assess the 
+burden on the socioeconomic and health systems. Here, we illustrate some 
+limitations of measures of population aging based on each kind of measure, 
+including chronological age, and review alternative measures that may better 
+inform fiscal, social, and health planning.
+
+© 2018 S. Karger AG, Basel.
+
+DOI: 10.1159/000494025
+PMID: 30544101 [Indexed for MEDLINE]
+
+
+190. Neurosurg Focus. 2018 Dec 1;45(6):E11. doi: 10.3171/2018.9.FOCUS18381.
+
+Cost-effectiveness of adult spinal deformity surgery in a military healthcare 
+system.
+
+Neal CJ(1), Mandell K(2), Tasikas E(1), Delaney JJ(1), Miller CA(1), Schlaff 
+CD(3), Rosner MK(4).
+
+Author information:
+(1)1Section of Neurosurgery, Walter Reed National Military Medical Center, 
+Bethesda, Maryland.
+(2)2CNA Corporation, Arlington, Virginia.
+(3)3George Washington University School of Medicine, Washington, DC; and.
+(4)4Department of Neurosurgery, George Washington University, Washington, DC.
+
+OBJECTIVEAdult spinal deformity surgery is an effective way of treating pain and 
+disability, but little research has been done to evaluate the costs associated 
+with changes in health outcome measures. This study determined the change in 
+quality-adjusted life years (QALYs) and the cost per QALY in patients undergoing 
+spinal deformity surgery in the unique environment of a military healthcare 
+system (MHS).METHODSPatients were enrolled between 2011 and 2017. Patients were 
+eligible to participate if they were undergoing a thoracolumbar spinal fusion 
+spanning more than 6 levels to treat an underlying deformity. Patients completed 
+the 36-Item Short Form Health Survey (SF-36) prior to surgery and 6 and 12 
+months after surgery. The authors used paired t-tests to compare SF-36 Physical 
+Component Summary (PCS) scores between baseline and postsurgery. To estimate the 
+cost per QALY of complex spine surgery in this population, the authors extended 
+the change in health-related quality of life (HRQOL) between baseline and 
+follow-up over 5 years. Data on the cost of surgery were obtained from the MHS 
+and include all facility and physician costs.RESULTSHRQOL and surgical data were 
+available for 49 of 91 eligible patients. Thirty-one patients met additional 
+criteria allowing for cost-effectiveness analysis. Over 12 months, patients 
+demonstrated significant improvement (p < 0.01) in SF-36 PCS scores. A majority 
+of patients met the minimum clinically important difference (MCID; 83.7%) and 
+substantive clinical benefit threshold (SCBT; 83.7%). The average change in QALY 
+was an increase of 0.08. Extended across 5 years, including the 3.5% discounting 
+per year, study participants increased their QALYs by 0.39, resulting in an 
+average cost per QALY of $181,649.20. Nineteen percent of patients met the < 
+$100,000/QALY threshold with half of the patients meeting the < $100,000/QALY 
+mark by 10 years. A sensitivity analysis showed that patients who scored below 
+60 on their preoperative SF-36 PCS had an average increase in QALYs of 0.10 per 
+year or 0.47 over 5 years.CONCLUSIONSWith a 5-year extended analysis, patients 
+who receive spinal deformity surgery in the MHS increased their QALYs by 0.39, 
+with 19% of patients meeting the $100,000/QALY threshold. The majority of 
+patients met the threshold for MCID and SCBT at 1 year postoperatively. 
+Consideration of preoperative functional status (SF-36 PCS score < 60) may be an 
+important factor in determining which patients benefit the most from spinal 
+deformity surgery.
+
+DOI: 10.3171/2018.9.FOCUS18381
+PMID: 30544310 [Indexed for MEDLINE]
+
+
+191. Sensors (Basel). 2018 Dec 12;18(12):4399. doi: 10.3390/s18124399.
+
+Connection of the SUMO Microscopic Traffic Simulator and the Unity 3D Game 
+Engine to Evaluate V2X Communication-Based Systems.
+
+Olaverri-Monreal C(1), Errea-Moreno J(2), Díaz-Álvarez A(3), Biurrun-Quel C(4), 
+Serrano-Arriezu L(5), Kuba M(6).
+
+Author information:
+(1)Chair for Sustainable Transport Logistics 4.0, Johannes Kepler University, 
+4040 Linz, Austria. cristina.olaverri-monreal@jku.at.
+(2)Eurecom, Campus SophiaTech, 06410 Biot, France. errea@eurecom.fr.
+(3)Instituto Universitario de Investigación del Automóvil (INSIA), Universidad 
+Politécnica de Madrid, 28031 Madrid, Spain. alberto.diaz@upm.es.
+(4)Institute of Smart Cities; Electrical, Electronic and Communication 
+Engineering, Universidad Pública de Navarra, 31006 Pamplona, Spain. 
+carlos.biurrun@unavarra.es.
+(5)Institute of Smart Cities; Electrical, Electronic and Communication 
+Engineering, Universidad Pública de Navarra, 31006 Pamplona, Spain. 
+lserrano@unavarra.es.
+(6)Applied Mathematics and Physics, University of Applied Sciences Technikum 
+Wien, 1200 Wien, Austria. kuba@technikum-wien.at.
+
+In-vehicle applications that are based on Vehicle-to-Everything (V2X) 
+communication technologies need to be evaluated under lab-controlled conditions 
+before performing field tests. The need for a tailored platform to perform 
+specific research on the cooperative Advanced Driving Assistance System (ADAS) 
+to assess the effect on driver behavior and driving performance motivated the 
+development of a driver-centric traffic simulator that is built over a 3D 
+graphics engine. The engine creates a driving situation as it communicates with 
+a traffic simulator as a means to simulate real-life traffic scenarios. The 
+TraCI as a Service (TraaS) library was implemented to perform the interaction 
+between the driver-controlled vehicle and the Simulation of Urban MObility 
+(SUMO). An extension of a previous version, this work improves simulation 
+performance and realism by reducing computational demand and integrating a 
+tailored scenario with the ADAS to be tested. The usability of the implemented 
+simulation platform was evaluated by means of an experiment related to the 
+efficiency of a Traffic Light Assistant (TLA), showing the analysis of the 
+answer that 80% of the participants were satisfied with the simulator and the 
+TLA system implemented.
+
+DOI: 10.3390/s18124399
+PMCID: PMC6308840
+PMID: 30545113
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+192. BMB Rep. 2019 Jan;52(1):70-85. doi: 10.5483/BMBRep.2019.52.1.299.
+
+Growth signaling and longevity in mouse models.
+
+Kim SS(1), Lee CK(2).
+
+Author information:
+(1)Institute of Animal Molecular Biotechnology, Korea University, Seoul 02841, 
+Korea.
+(2)Institute of Animal Molecular Biotechnology, Korea University, Seoul 02841; 
+Department of Biotechnology, College of Life Sciences and Biotechnology, Korea 
+University, Seoul 02481, Korea.
+
+Reduction of insulin/insulin-like growth factor 1 (IGF1) signaling (IIS) extends 
+the lifespan of various species. So far, several longevity mouse models have 
+been developed containing mutations related to growth signaling deficiency by 
+targeting growth hormone (GH), IGF1, IGF1 receptor, insulin receptor, and 
+insulin receptor substrate. In addition, p70 ribosomal protein S6 kinase 1 
+(S6K1) knockout leads to lifespan extension. S6K1 encodes an important kinase in 
+the regulation of cell growth. S6K1 is regulated by mechanistic target of 
+rapamycin (mTOR) complex 1. The v-myc myelocytomatosis viral oncogene homolog 
+(MYC)-deficient mice also exhibits a longevity phenotype. The gene expression 
+profiles of these mice models have been measured to identify their longevity 
+mechanisms. Here, we summarize our knowledge of long-lived mouse models related 
+to growth and discuss phenotypic characteristics, including organ-specific gene 
+expression patterns. [BMB Reports 2019; 52(1): 70-85].
+
+DOI: 10.5483/BMBRep.2019.52.1.299
+PMCID: PMC6386229
+PMID: 30545442 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICTS OF INTEREST The authors have no 
+conflicting interests.
+
+
+193. BMJ. 2018 Dec 13;363:k5291. doi: 10.1136/bmj.k5291.
+
+Life expectancy: preventing heart disease will do most to reduce disparities, 
+report finds.
+
+Hawkes N(1).
+
+Author information:
+(1)London.
+
+DOI: 10.1136/bmj.k5291
+PMID: 30545826
+
+
+194. J Natl Compr Canc Netw. 2018 Dec;16(12):1460-1466. doi:
+10.6004/jnccn.2018.7084.
+
+New Cancer Drug Approvals From the Perspective of a Universal Healthcare System: 
+Analyses of the Pan-Canadian Oncology Drug Review Recommendations.
+
+Niraula S, Nugent Z.
+
+Background: FDA approvals do not consider cost, but they set the tone for 
+regulatory approvals worldwide, including in countries with universal healthcare 
+where cost-effectiveness, utility, and adoption feasibility are considered 
+rigorously. Methods: Data from the pan-Canadian Oncology Drug Review (pCODR), a 
+national drug review system that makes evidence-based funding recommendations to 
+Canada's provinces and territories, were collected. Our objectives were to 
+assess (1) temporal trends in cost and efficacy of drugs reviewed, (2) 
+correlations among magnitude of benefits, cost, and pCODR decisions, and (3) 
+predictors of approvals. Results: A total of 60 drugs for 91 indications were 
+reviewed by pCODR from January 2012 to January 2018. Of the 91 reviews (approved 
+previously by FDA), 18 received negative recommendations on the grounds of 
+inadequate clinical benefits; 87% (64/73) of those approved were conditional on 
+improvement in cost. Surrogate outcomes were used to support approvals in 83% of 
+the reviews, which were not correlated with overall survival (rSpearman = +0.16; 
+P=.24). Median cost/quality-adjusted life years (QALY) increased by 36% per 
+annum (quantile regression, P=.0029), although benefits in overall and 
+progression-free survival were stable (P=.21 and .65, respectively). 
+Median-based incremental cost-effectiveness ratio (ICER) of new drugs was 
+$186,403 CAD (range, $7,200 to $2.1 million). Higher ICER was a strong predictor 
+of a negative pCODR recommendation (P<.01). Conclusions: A substantial number of 
+cancer drugs that are FDA approved for public use do not meet Canadian standards 
+for efficacy. Cost of cancer drugs increases by a third annually in Canada, but 
+the benefits-measured mostly with surrogates that did not correlate with 
+survival-are stable. With finite resources to share among multiple societal 
+priorities, such as education and preventive health, cancer drug cost may be 
+unsustainable despite price regulation.
+
+Copyright © 2018 by the National Comprehensive Cancer Network.
+
+DOI: 10.6004/jnccn.2018.7084
+PMID: 30545993 [Indexed for MEDLINE]
+
+
+195. J Cardiol Cases. 2013 Apr 15;8(1):e34-e35. doi:
+10.1016/j.jccase.2013.03.005.  eCollection 2013 Jul.
+
+Anomalous left coronary artery arising from the pulmonary artery.
+
+Pamukcu O(1), Baykan A(1), Akyıldız BN(2).
+
+Author information:
+(1)Division of Pediatric Cardiology, Ercıyes University School of Medicine, 
+Turkey.
+(2)Division of Pediatric Intensive Care Unit, Ercıyes University School of 
+Medicine, Turkey.
+
+A 13-year-old boy was found unconscious. Ventricular fibrillation was seen in 
+his admission to the emergency room. Dilated right coronary artery and increased 
+coronary arterial flow were seen in echocardiography. In the angiography, left 
+coronary artery abnormally arising from pulmonary artery and aneursymatic 
+dilatation in the right coronary artery was seen. <Learning objective: Anomalous 
+left coronary artery arising from pulmonary artery is one of the rare reasons 
+for myocardial ischemia in childhood. Life expectancy can be normal which 
+depends largely on the number of collaterals that are present between right and 
+left coronary arteries. However, sudden death risk always exists.>.
+
+DOI: 10.1016/j.jccase.2013.03.005
+PMCID: PMC6281516
+PMID: 30546735
+
+
+196. Dement Neuropsychol. 2018 Oct-Dec;12(4):421-426. doi: 
+10.1590/1980-57642018dn12-040013.
+
+Effect of cognitive stimulation workshops on the self-esteem and cognition of 
+the elderly A pilot project.
+
+Schultheisz TSV(1), de Aquino RR(1), Alves ABF(2)(3), Radl ALM(4), Serafim 
+AP(5)(6).
+
+Author information:
+(1)Estudante de Doutorado no Programa de Pós-Graduação em Psicologia da Saúde, 
+Universidade Metodista de São Paulo, São Bernardo do Campo, SP, Brazil.
+(2)Estagiária na Unidade de Neuropsicologia do Instituto de Psiquiatria - 
+HCFMUSP, SP, Brazil.
+(3)Estudante na School of Arts and Science, University of Miami - USA.
+(4)Professor do Curso de Fisioterapia da Escola de Ciências Médicas Universidade 
+Metodista de São Paulo, São Bernardo do Campo, SP, Brazil.
+(5)Diretor da Unidade da Unidade de Neuropsicologia do Instituto de Psiquiatria 
+- HCFMUSP, SP, Brazil.
+(6)Professor Titular do Programa de Pós-Graduação em Psicologia da Saúde, 
+Universidade Metodista de São Paulo, São Bernardo do Campo, SP, Brazil.
+
+According to the WHO, by 2025 Brazil will be ranked sixth in the world in terms 
+of proportion of elderly in the population. Within this scope, cognition plays a 
+central role in the aging process, having an important association with quality 
+of life, which suggests the need to develop intervention programs, such as 
+cognitive training.
+OBJECTIVE: To determine the effects of a program of cognitive stimulation 
+workshops on the self-esteem and cognition of elderly people.
+METHODS: Thirty-eight elderly subjects completed the three-step protocol: 1) 
+Survey of demographic data and evaluation of cognition by a neuropsychological 
+battery and of self-esteem using the Rosenberg Self-Esteem Scale (RSS), prior to 
+training; 2) Participation in twelve cognitive stimulation workshops; and 3) 
+Cognitive evaluation and RSS after the training.
+RESULTS: Results showed that the use of training produced positive effects on 
+cognitive test performance of the elderly with and without cognitive impairment. 
+By extension, this demonstrates positive impact on their self-esteem.
+CONCLUSION: These findings encourage investment in cognitive stimulation 
+programs as a resource for improved cognition and quality of life for the 
+elderly. Subjective cognitive complaint may have served as a predictor of 
+decreased self-esteem; therefore, as training improved cognition, it also 
+improved self-esteem.
+
+Publisher: Segundo a OMS, em 2025 o Brasil ficará em sexto lugar no ranking 
+mundial em termos de proporção de idosos na população. Nesse âmbito, a cognição 
+desempenha um papel central no processo de envelhecimento, tendo uma importante 
+associação com a qualidade de vida, o que sugere a necessidade de desenvolver 
+programas de intervenção, como o treinamento cognitivo.
+OBJETIVO: Determinar os efeitos de um programa de oficinas de estimulação 
+cognitiva na autoestima e cognição de idosos.
+MÉTODOS: Trinta e oito idosos completaram o protocolo de três etapas: 1) 
+Levantamento de dados demográficos e avaliação da cognição por uma bateria 
+neuropsicológica e de autoestima utilizando a Escala de Autoestima de Rosenberg 
+(RSS), antes do treinamento; 2) Participação em doze oficinas de estimulação 
+cognitiva; e 3) Avaliação cognitiva e RSS após o treinamento.
+RESULTADOS: Os resultados mostraram que o uso de treinamento produziu efeitos 
+positivos no desempenho do teste cognitivo de idosos com e sem comprometimento 
+cognitivo. Por extensão, isso demonstra um impacto positivo em sua autoestima.
+CONCLUSÃO: Estes resultados encorajam o investimento em programas de estimulação 
+cognitiva como um recurso para melhorar a cognição e a qualidade de vida dos 
+idosos. Queixa cognitiva subjetiva pode ter servido como um preditor de 
+diminuição da autoestima; portanto, como o treinamento melhorou a cognição, 
+também melhorou a autoestima.
+
+DOI: 10.1590/1980-57642018dn12-040013
+PMCID: PMC6289473
+PMID: 30546854
+
+Conflict of interest statement: Disclosure: The authors report no conflicts of 
+interest.
+
+
+197. Mol Clin Oncol. 2018 Dec;9(6):656-660. doi: 10.3892/mco.2018.1725. Epub 2018
+Sep  19.
+
+Evaluation of prostate-specific antigen density in the diagnosis of prostate 
+cancer combined with magnetic resonance imaging before biopsy in men aged 70 
+years and older with elevated PSA.
+
+Yanai Y(1), Kosaka T(1), Hongo H(1), Matsumoto K(1), Shinojima T(1), Kikuchi 
+E(1), Miyajima A(1), Mizuno R(1), Mikami S(2), Jinzaki M(3), Oya M(1).
+
+Author information:
+(1)Department of Urology, Keio University School of Medicine, Tokyo 160-8582, 
+Japan.
+(2)Division of Diagnostic Pathology, Keio University School of Medicine, Tokyo 
+160-8582, Japan.
+(3)Division of Diagnostic Radiology, Keio University School of Medicine, Tokyo 
+160-8582, Japan.
+
+There is an increasing proportion of individuals aged 70 years and older, as 
+well as an increasing life expectancy worldwide. The present study may guide the 
+management of older patients with elevated prostate specific antigen (PSA). The 
+medical records of 241 older men aged >70 years who underwent multiparametric 
+magnetic resonance imaging (mpMRI) before prostate biopsy (PBx) at our 
+institution were reviewed retrospectively. Multiple variables were evaluated as 
+predictors for the diagnosis of prostate cancer (PCa). The variables included 
+serum PSA level, digital rectal examination, size of region of interest on 
+mpMRI, prostate volume and PSA density. PCa was positive in 162 (67.2%). 
+Prostate volume and PSA density were significant PCa predictors (P<0.001). In 
+patients aged 70-75 and >75 years, PSA density was significantly higher in 
+patients with PCa (0.21 ng/ml/cc, P=0.014 and 0.24 ng/ml/cc, P<0.001, 
+respectively). Similarly, PSA density was significant higher in patients with 
+significant PCa (0.24 ng/ml/cc, P=0.004 and 0.29 ng/ml/cc, P<0.001, 
+respectively). The cut-off value of PSA density was calculated using receiver 
+operating characteristic curves. Area under curve of PSA density was 0.698, and 
+the best cut-off value was 0.20 ng/ml/cc. These results indicate that the 
+combination of PSA density with mpMRI before PBx is a helpful method and can be 
+a decision-making model for a selection of PBx.
+
+DOI: 10.3892/mco.2018.1725
+PMCID: PMC6256262
+PMID: 30546897
+
+
+198. Oncoimmunology. 2018 Nov 10;8(1):e1523096. doi:
+10.1080/2162402X.2018.1523096.  eCollection 2019.
+
+Characterization of zolbetuximab in pancreatic cancer models.
+
+Türeci Ӧ(1), Mitnacht-Kraus R(1), Wöll S(1), Yamada T(2), Sahin U(3).
+
+Author information:
+(1)Formerly of Ganymed Pharmaceuticals AG, Mainz, Germany.
+(2)Astellas Pharma, Inc., Tokyo, Japan.
+(3)TRON - Translational Oncology, University Medical Center of the Johannes 
+Gutenberg University Mainz, Mainz, Germany.
+
+In healthy tissue, the tight junction protein Claudin 18.2 (CLDN18.2) is present 
+only in the gastric mucosa. Upon malignant transformation of gastric epithelial 
+tissue, perturbations in cell polarity lead to cell surface exposure of CLDN18.2 
+epitopes. Moreover, CLDN18.2 is aberrantly expressed in malignancies of several 
+other organs, such as pancreatic cancer (PC). A monoclonal antibody, 
+zolbetuximab (formerly known as IMAB362), has been generated against CLDN18.2. 
+In a phase 2 clinical trial (FAST: NCT01630083), zolbetuximab in conjunction 
+with chemotherapy prolonged overall and progression-free survival over 
+chemotherapy alone and improved quality of life. In this study, the mechanism of 
+action and antitumor activity of zolbetuximab were investigated using 
+nonclinical PC models. Zolbetuximab bound specifically and with strong affinity 
+to human PC cells that expressed CLDN18.2 on the cell surface. In ex vivo 
+systems using immune effector cells and serum from healthy donors, zolbetuximab 
+induced antibody-dependent cellular cytotoxicity (ADCC) and complement-dependent 
+cytotoxicity (CDC), resulting in the lysis of cultured human PC cells. The 
+amplitude of ADCC and CDC directly correlated with cell surface CLDN18.2 levels. 
+The chemotherapeutic agent gemcitabine upregulated CLDN18.2 expression in 
+cultured human PC cells and enhanced zolbetuximab-induced ADCC. In mouse 
+xenograft tumors derived from human PC cell lines, including 
+gemcitabine-refractory ones, zolbetuximab slowed tumor growth, benefited 
+survival, and attenuated metastases development. The results presented here 
+validate CLDN18.2 as a targetable biomarker in PC and support extension of the 
+clinical development of zolbetuximab to patients with CLDN18.2-expressing PC.
+
+DOI: 10.1080/2162402X.2018.1523096
+PMCID: PMC6287799
+PMID: 30546962
+
+
+199. J Spine Surg. 2018 Sep;4(3):546-552. doi: 10.21037/jss.2018.07.09.
+
+Chordoma of the mobile spine and sacrum: clinical management and prognosis.
+
+D'Amore T(1), Boyce B(1)(2), Mesfin A(1).
+
+Author information:
+(1)Department of Orthopaedic Surgery, University of Rochester School of Medicine 
+and Dentistry, Rochester, NY, USA.
+(2)Department of Pathology and Laboratory Medicine, University of Rochester 
+School of Medicine and Dentistry, Rochester, NY, USA.
+
+BACKGROUND: Chordomas are rare malignant tumors of the spinal column often 
+afflicting the upper cervical spine and sacrum. There are few large single 
+center series on chordomas due to its rarity. The purpose of this study is to 
+report a single center's experience with the operative and non-operative 
+management of chordomas.
+METHODS: We evaluated our institution's pathology database from 1994 to 2016 to 
+identify patients diagnosed with chordomas. Inclusion criteria were chordomas of 
+the mobile spine and sacrum. Exclusion criteria were chordomas of the clivus and 
+resection performed at another institution. We collected patient demographics as 
+well as the type of resection performed, intra-operative complications, wound 
+complications and recurrence/prognosis.
+RESULTS: We identified 18 patients diagnosed with chordomas at our institution, 
+and 12 met our inclusion criteria. There were four females and eight males with 
+an average age of 64 [32-87] years. All patients were Caucasian and 10 of the 12 
+had surgery. Of the two patients with sacral chordomas that did not have 
+surgery, one received chemotherapy and the other did not elect for any 
+treatment. One is alive 161 months following diagnosis and the second died 96 
+months following diagnosis. Five of the lesions were in the mobile spine (one 
+cervical, two thoracic, two lumbar) and seven were in the sacrum. Six patients 
+underwent an en bloc resection [two via total en bloc spondylectomy (TES)]. 
+Average length of follow up is 60 [3-161] months and eight of 12 patients are 
+alive at latest follow up. Intraoperative complications included cardiac arrest, 
+pleural tear, and excessive blood loss (8 L). Two patients, with sacral 
+chordomas, had wound complications. Recurrence occurred in one patient with 
+piecemeal resection and one patient with incomplete resection had post-operative 
+metastatic lesions to the liver and lung.
+CONCLUSIONS: We found less recurrence in patients managed with an en bloc 
+resection as opposed to piece meal or intralesional resections. Sacral chordoma 
+patients had higher wound complication rates as compared to chordomas of the 
+mobile spine. The long life expectancy of non-surgically managed patients 
+underscores the indolent nature of chordomas.
+
+DOI: 10.21037/jss.2018.07.09
+PMCID: PMC6261773
+PMID: 30547117
+
+Conflict of interest statement: Conflicts of Interest: The authors have no 
+conflicts of interest to declare.
+
+
+200. Geroscience. 2019 Feb;41(1):25-38. doi: 10.1007/s11357-018-0049-4. Epub 2018
+Dec  13.
+
+Extension of longevity and reduction of inflammation is ovarian-dependent, but 
+germ cell-independent in post-reproductive female mice.
+
+Habermehl TL(1), Parkinson KC(1), Hubbard GB(2)(3), Ikeno Y(2)(3)(4), Engelmeyer 
+JI(5), Schumacher B(5), Mason JB(6).
+
+Author information:
+(1)Department of Animal, Dairy and Veterinary Sciences, Center for Integrated 
+BioSystems, School of Veterinary Medicine, Utah State University, 4700 Old Main 
+Hill, Logan, UT, 84322, USA.
+(2)Barshop Institute for Longevity and Aging Studies, The University of Texas 
+Health Science Center at San Antonio, San Antonio, TX, 78229, USA.
+(3)Department of Pathology, The University of Texas Health Science Center at San 
+Antonio, San Antonio, TX, 78229, USA.
+(4)Geriatric Research and Education Clinical Center, Audie L. Murphy VA 
+Hospital, South Texas Veterans Health Care System, San Antonio, TX, 78229, USA.
+(5)The Institute for Genome Stability in Ageing and Disease, Cologne Cluster of 
+Excellence in Cellular Stress Responses in Aging-associated Diseases (CECAD) 
+Research Center, University of Cologne, Joseph-Stelzmann-Straße 26, 50931, Köln, 
+Germany.
+(6)Department of Animal, Dairy and Veterinary Sciences, Center for Integrated 
+BioSystems, School of Veterinary Medicine, Utah State University, 4700 Old Main 
+Hill, Logan, UT, 84322, USA. Jeff.Mason@USU.edu.
+
+Cardiovascular disease, rare in premenopausal women, increases sharply at 
+menopause and is typically accompanied by chronic inflammation. Previous work in 
+our laboratory demonstrated that replacing senescent ovaries in 
+post-reproductive mice with young, actively cycling ovaries restored many health 
+benefits, including decreased cardiomyopathy and restoration of immune function. 
+Our objective here was to determine if depletion of germ cells from young 
+transplanted ovaries would alter the ovarian-dependent extension of life and 
+health span. Sixty-day-old germ cell-depleted and germ cell-containing ovaries 
+were transplanted to post-reproductive, 17-month-old mice. Mean life span for 
+female CBA/J mice is approximately 644 days. Mice that received germ 
+cell-containing ovaries lived 798 days (maximum = 815 days). Mice that received 
+germ cell-depleted ovaries lived 880 days (maximum = 1046 days), 29% further 
+past the time of surgery than mice that received germ cell-containing ovaries. 
+The severity of inflammation was reduced in all mice that received young 
+ovaries, whether germ cell-containing or germ cell-depleted. Aging-associated 
+inflammatory cytokine changes were reversed in post-reproductive mice by 
+4 months of new-ovary exposure. In summary, germ cell depletion enhanced the 
+longevity-extending effects of the young, transplanted ovaries and, as with germ 
+cell-containing ovaries, decreased the severity of inflammation, but did so 
+independent of germ cells. Based on these observations, we propose that gonadal 
+somatic cells are programed to preserve the somatic health of the organism with 
+the intent of facilitating future germline transmission. As reproductive 
+potential decreases or is lost, the incentive to preserve the somatic health of 
+the organism is lost as well.
+
+DOI: 10.1007/s11357-018-0049-4
+PMCID: PMC6423149
+PMID: 30547325 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.
+
+
+201. Pharmacoeconomics. 2019 Aug;37(8):975-984. doi: 10.1007/s40273-018-0740-4.
+
+Obinutuzumab in Combination with Chemotherapy for the First-Line Treatment of 
+Patients with Advanced Follicular Lymphoma : An Evidence Review Group Evaluation 
+of the NICE Single Technology Appraisal.
+
+Thielen FW(1), Büyükkaramikli NC(2), Riemsma R(3), Fayter D(3), Armstrong N(3), 
+Wei CY(3), Huertas Carrera V(3), Misso K(3), Worthy G(3), Kleijnen J(3)(4), 
+Corro Ramos I(2).
+
+Author information:
+(1)Institute of Health Policy and Management/Institute for Medical Technology 
+Assessment, Erasmus University, Rotterdam, The Netherlands. 
+thielen@eshpm.eur.nl.
+(2)Institute of Health Policy and Management/Institute for Medical Technology 
+Assessment, Erasmus University, Rotterdam, The Netherlands.
+(3)Kleijnen Systematic Reviews Ltd., York, UK.
+(4)Care and Public Health Research Institute, Maastricht University, Maastricht, 
+The Netherlands.
+
+The National Institute for Health and Care Excellence (NICE), as part of the 
+institute's single technology appraisal (STA) process, invited the company that 
+makes obinutuzumab (Roche Products Limited) to submit evidence of the clinical 
+and cost effectiveness of the drug in combination with chemotherapy, with or 
+without obinutuzumab as maintenance therapy for adult patients with untreated, 
+advanced follicular lymphoma (FL) in the UK. Kleijnen Systematic Reviews Ltd 
+(KSR), in collaboration with Erasmus University Rotterdam, was commissioned to 
+act as the Evidence Review Group (ERG). This paper describes the company's 
+submission, the ERG review, and NICE's subsequent decisions. The clinical 
+evidence was derived from two phase III, company-sponsored, randomised, 
+open-label studies. Most evidence on obinutuzumab was based on the GALLIUM trial 
+that compared obinutuzumab in combination with chemotherapy as induction 
+followed by obinutuzumab maintenance monotherapy with rituximab in combination 
+with chemotherapy as induction followed by rituximab maintenance monotherapy in 
+previously untreated patients with FL (grades 1-3a). Long-term clinical evidence 
+was based on the PRIMA trial, studying the benefit of two years of rituximab 
+maintenance after first-line treatment in patients with FL. The 
+cost-effectiveness evidence submitted by the company relied on a partitioned 
+survival cost-utility model, implemented in Microsoft® Excel. The base-case 
+incremental cost-effectiveness ratio (ICER) presented in the company submission 
+was <£20,000 per quality-adjusted life-year (QALY) gained. Although the ERG 
+concluded that the economic model met the NICE reference case to a reasonable 
+extent, some errors were identified and several assumptions made by the company 
+were challenged. A new base-case scenario produced by the ERG suggested an ICER 
+that was higher than the company base case, but still below £30,000 per QALY 
+gained. However, some ERG scenario analyses were close to or even above the 
+threshold. This was the case in particular for assuming a treatment effect that 
+did not extend beyond trial follow-up. These results led to an initial negative 
+recommendation by the appraisal committee. Subsequently, the company submitted a 
+revised base case focusing on patients at intermediate or high risk of premature 
+mortality. Simultaneously, a further price discount for obinutuzumab was 
+granted. In addition to the company's revised base case, the ERG suggested a 
+restriction of the treatment effect to 5 years and implemented biosimilar uptake 
+and cheaper prices for rituximab. All of these adjustments did not exceed 
+£30,000 per QALY gained and therefore the use of obinutuzumab for patients with 
+advanced FL and a Follicular Lymphoma International Predictive Index (FLIPI) 
+score of two or more could be recommended.
+
+DOI: 10.1007/s40273-018-0740-4
+PMCID: PMC6598743
+PMID: 30547368 [Indexed for MEDLINE]
+
+Conflict of interest statement: FWT, NCB, RR, DF, NA, C-YW, VHC, KM, GW, JK, and 
+ICR have no conflicts of interest to declare that are relevant to the content of 
+this review.
+
+
+202. Pharmacoeconomics. 2019 Sep;37(9):1073-1080. doi: 10.1007/s40273-018-0750-2.
+
+Pembrolizumab for Locally Advanced or Metastatic Urothelial Cancer Where 
+Cisplatin is Unsuitable: An Evidence Review Group Perspective of a NICE Single 
+Technology Appraisal.
+
+Ren S(1), Squires H(2), Hock E(2), Kaltenthaler E(2), Rawdin A(2), Alifrangis 
+C(3).
+
+Author information:
+(1)School of Health and Related Research (ScHARR), University of Sheffield, 
+Regent Court, 30 Regent Street, Sheffield, S1 4DA, UK. s.ren@sheffield.ac.uk.
+(2)School of Health and Related Research (ScHARR), University of Sheffield, 
+Regent Court, 30 Regent Street, Sheffield, S1 4DA, UK.
+(3)University College London Hospitals NHS Foundation Trust, London, UK.
+
+As part of its Single Technology Appraisal (STA) process, the National Institute 
+for Health and Care Excellence (NICE) invited the manufacturer (Merck Sharp & 
+Dohme) of pembrolizumab (Keytruda®) to submit evidence of its clinical and cost 
+effectiveness for the treatment of locally advanced or metastatic urothelial 
+cancer where cisplatin is unsuitable. The School of Health and Related Research 
+Technology Appraisal Group at the University of Sheffield was commissioned to 
+act as the independent Evidence Review Group (ERG). The ERG produced a detailed 
+review of the evidence for the clinical and cost effectiveness of the 
+technology, based on the company's submission (CS) to NICE. The clinical 
+effectiveness evidence in the CS for pembrolizumab was based on one phase II, 
+single-arm, open-label, non-randomised study (KEYNOTE-052), while the evidence 
+for the comparator (carboplatin plus gemcitabine) was based on four studies, 
+including one randomised controlled trial and three cohort studies. In the 
+absence of head-to-head trials, the company conducted an indirect treatment 
+comparison for both progression-free survival (PFS) and overall survival (OS), 
+by firstly adjusting cross-study differences using a simulated treatment 
+comparison approach and then synthesizing the evidence based on an assumption of 
+constant hazard ratios using a standard meta-analysis model and time-varying 
+hazard ratios using fractional polynomial models. The treatment effect of 
+pembrolizumab was more favourable in the adjusted population compared with the 
+observed effect in the KEYNOTE-052 study. The company submitted a de novo 
+partitioned survival cohort simulation model, which partitions the OS time into 
+PFS and post-progression survival. The probabilistic incremental 
+cost-effectiveness ratio (ICER) for pembrolizumab compared with carboplatin plus 
+gemcitabine was estimated to be £37,081 per quality-adjusted life-year (QALY) 
+gained, based on the results within the company's health economic model. 
+Following a critique of the model, for their preferred base case the ERG 
+corrected some minor model errors, chose a progression approach for estimating 
+utilities, and revised the extrapolation of PFS and OS. The ERG's probabilistic 
+base case ICER was estimated to be £67,068 per QALY gained. The ERG also 
+undertook a range of exploratory sensitivity analyses which suggested that the 
+ICER was highly uncertain. In particular, the choices of extrapolation for the 
+OS of pembrolizumab and the stopping rule for pembrolizumab had the largest 
+impacts on the ICER. The NICE Appraisal Committee recommended pembrolizumab for 
+use within the Cancer Drugs Fund as an option for treating locally advanced or 
+metastatic urothelial carcinoma in adults who have had platinum-containing 
+chemotherapy, provided that pembrolizumab was stopped at 2 years of 
+uninterrupted treatment, or earlier if the disease progresses, and the 
+conditions of the managed access agreement for pembrolizumab are followed.
+
+DOI: 10.1007/s40273-018-0750-2
+PMID: 30547369 [Indexed for MEDLINE]
+
+
+203. J Med Econ. 2019 Apr;22(4):289-296. doi: 10.1080/13696998.2018.1559600. Epub
+ 2019 Feb 11.
+
+Cost-effectiveness analysis of the SAPIEN 3 TAVI valve compared with surgery in 
+intermediate-risk patients.
+
+Goodall G(1), Lamotte M(2), Ramos M(2), Maunoury F(3), Pejchalova B(1), de 
+Pouvourville G(4).
+
+Author information:
+(1)a Edwards Lifesciences S.A. , Nyon , Switzerland.
+(2)b IQVIA, Corporate village , Zaventem , Belgium.
+(3)c Statesia , Le Mans , France.
+(4)d ESSEC Business School , Cergy Pontoise , France.
+
+OBJECTIVE: Transcatheter aortic valve implantation (TAVI) has become the therapy 
+of choice for treating severe aortic stenosis in patients at high-risk for 
+surgery or where it is considered too risky to attempt. This uptake varies 
+across geographies however, and its cost or value has frequently been cited as 
+the reason for this. We sought to evaluate the potential cost and clinical 
+impact of TAVI in intermediate risk patients from a French collective 
+perspective.
+MATERIALS AND METHODS: The analysis was performed using a novel Markov model 
+with data derived from the PARTNER II randomized controlled trial for survival, 
+clinical event rates, and quality-of-life. The simulated time horizon was 
+15 years, costs were from French sources and presented in 2016 Euros. 
+Discounting of all outcomes was at 4% annually and the effect of uncertainty in 
+model parameters was explored by deterministic and probabilistic sensitivity 
+analysis (PSA).
+RESULTS: In comparison to surgery, TAVI resulted in improved clinical outcomes 
+(life expectancy and quality-adjusted life expectancy) and lower costs over a 
+lifetime time horizon. The base case results showed increases of 0.42 years and 
+0.41 QALYs with lifetime cost savings of €439 for TAVI compared to surgery. PSA 
+results showed a >50% likelihood of cost-effectiveness at €0 willingness-to-pay 
+and a 100% likelihood at ∼€15,000.
+LIMITATIONS: Clinically, survival projections are based on limited follow-up 
+data and introduce uncertainty into the outcomes from the model. Economically, 
+procedure costs are derived from a heterogeneous mix of patient risk groups, 
+although this is much more likely to bias against TAVI and under-estimate 
+overall cost savings.
+CONCLUSIONS: In our analyses of intermediate risk patients, TAVI is associated 
+with superior clinical outcomes compared to surgery and is cost saving. It could 
+be expected that cost savings are conservative and likely to increase over time.
+
+DOI: 10.1080/13696998.2018.1559600
+PMID: 30547704 [Indexed for MEDLINE]
+
+
+204. AIDS Rev. 2018;20(4):226-235. doi: 10.24875/AIDSRev.M17000011.
+
+Economic Impact of HIV in the Highly Active Antiretroviral Therapy Era - 
+Reflections Looking Forward.
+
+Oliva-Moreno J(1), Trapero-Bertran M(2).
+
+Author information:
+(1)Department of Economic Analysis and Finance, Universidad Castilla La-Mancha, 
+Toledo, Spain.
+(2)Research Institute for Evaluation and Public Policies (IRAPP); Universitat 
+Internacional de Catalunya, Barcelona, Spain.
+
+The main data on HIV in high-income countries from the standpoint of health 
+economics are updated and discussed. Specifically, issues surrounding the 
+economic impact of HIV are addressed for health care and occupational 
+perspectives. We review the main epidemiological data on the prevalence of 
+disease and foreseeable changes in patterns within the coming years. Recent 
+research on health care costs of HIV/AIDS and the occupational situation of HIV+ 
+people are discussed. In high-income countries, there is an incipient change in 
+trends that indicate that an increasing percentage of the intermediate-age HIV+ 
+population will age prematurely, presenting more frequently comorbidities and 
+becoming more exposed to frailty situations. Accordingly, health-care systems 
+should have to plan their resources to accommodate new determinants of 
+healthcare costs in the HIV+ population. On the occupational side, the decreased 
+life expectancy of HIV+ persons, coupled with more severe health issues, on 
+average may prompt early -retirement of this population from the labor market.
+
+Copyright: © 2018 Permanyer.
+
+DOI: 10.24875/AIDSRev.M17000011
+PMID: 30548019 [Indexed for MEDLINE]
+
+
+205. AIDS Rev. 2018;20(4):236a-237.
+
+Longer Life Expectancy but still Accelerating Aging in HIV Patients under 
+Antiretroviral Therapy.
+
+Soriano V(1), Corral O(1).
+
+Author information:
+(1)UNIR Health Sciences School Madrid, Spain.
+
+PMID: 30548020 [Indexed for MEDLINE]
+
+
+206. Glia. 2019 Mar;67(3):452-466. doi: 10.1002/glia.23555. Epub 2018 Dec 11.
+
+Astrocyte progenitor transplantation promotes regeneration of bulbospinal 
+respiratory axons, recovery of diaphragm function, and a reduced macrophage 
+response following cervical spinal cord injury.
+
+Goulão M(1)(2), Ghosh B(1), Urban MW(1), Sahu M(1), Mercogliano C(1), Charsar 
+BA(1), Komaravolu S(1), Block CG(1), Smith GM(3), Wright MC(4), Lepore AC(1).
+
+Author information:
+(1)Department of Neuroscience, Vickie and Jack Farber Institute for 
+Neuroscience, Sidney Kimmel Medical College at Thomas Jefferson University, 
+Philadelphia, Pennsylvania.
+(2)Life and Health Sciences Research Institute (ICVS), School of Medicine, 
+ICVS/3B's - PT Government Associate Laborator, University of Minho, Braga, 
+Portugal.
+(3)Department of Neuroscience, Shriners Hospitals Pediatric Research Center, 
+Temple University School of Medicine, Philadelphia, Pennsylvania.
+(4)Department of Biology, Arcadia University, Glenside, Pennsylvania.
+
+Stem/progenitor cell transplantation delivery of astrocytes is a potentially 
+powerful strategy for spinal cord injury (SCI). Axon extension into SCI lesions 
+that occur spontaneously or in response to experimental manipulations is often 
+observed along endogenous astrocyte "bridges," suggesting that augmenting this 
+response via astrocyte lineage transplantation can enhance axon regrowth. Given 
+the importance of respiratory dysfunction post-SCI, we transplanted 
+glial-restricted precursors (GRPs)-a class of lineage-restricted astrocyte 
+progenitors-into the C2 hemisection model and evaluated effects on diaphragm 
+function and the growth response of descending rostral ventral respiratory group 
+(rVRG) axons that innervate phrenic motor neurons (PhMNs). GRPs survived long 
+term and efficiently differentiated into astrocytes in injured spinal cord. GRPs 
+promoted significant recovery of diaphragm electromyography amplitudes and 
+stimulated robust regeneration of injured rVRG axons. Although rVRG fibers 
+extended across the lesion, no regrowing axons re-entered caudal spinal cord to 
+reinnervate PhMNs, suggesting that this regeneration response-although 
+impressive-was not responsible for recovery. Within ipsilateral C3-5 ventral 
+horn (PhMN location), GRPs induced substantial sprouting of spared fibers 
+originating in contralateral rVRG and 5-HT axons that are important for 
+regulating PhMN excitability; this sprouting was likely involved in functional 
+effects of GRPs. Finally, GRPs reduced the macrophage response (which plays a 
+key role in inducing axon retraction and limiting regrowth) both within the 
+hemisection and at intact caudal spinal cord surrounding PhMNs. These findings 
+demonstrate that astrocyte progenitor transplantation promotes significant 
+plasticity of rVRG-PhMN circuitry and restoration of diaphragm function and 
+suggest that these effects may be in part through immunomodulation.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1002/glia.23555
+PMCID: PMC6355351
+PMID: 30548313 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICT OF INTEREST The authors declare no 
+competing financial interests.
+
+
+207. Addiction. 2019 Oct;114 Suppl 1(Suppl 1):86-96. doi: 10.1111/add.14530. Epub
+ 2019 Jan 25.
+
+A modeling approach to gauging the effects of nicotine vaping product use on 
+cessation from cigarettes: what do we know, what do we need to know?
+
+Levy DT(1), Yuan Z(1), Li Y(1), Alberg AJ(2), Cummings KM(3)(4).
+
+Author information:
+(1)Department of Oncology, Lombardi Comprehensive Cancer Center, Georgetown 
+University Medical Center, Washington, DC, USA.
+(2)Department of Epidemiology and Biostatistics, University of South Carolina 
+Arnold School of Public Health, Columbia, SC, USA.
+(3)Department of Psychiatry and Behavioral Sciences, Medical University of South 
+Carolina, Charleston, SC, USA.
+(4)Hollings Cancer Center, Medical University of South Carolina, Charleston, SC, 
+USA.
+
+BACKGROUND AND AIMS: The long-term population health impact of nicotine vaping 
+products (NVPs) use among smokers is unknown, and subject to a range of 
+plausible assumptions about the use and health consequences of NVPs. While NVPs 
+use may substitute for cigarette smoking and thereby aid in quitting cigarette 
+use, it is also possible that smokers who would have otherwise quit would 
+instead delay quitting cigarettes. We aimed to develop a cohort-specific 
+simulation model of the impact of NVPs on smoking cessation by adult smokers and 
+resulting premature deaths (PD) and life years lost (LYL).
+DESIGN: A cohort-specific simulation model of the impact of NVPs on smoking 
+cessation by adult smokers and resulting premature deaths (PD) and life years 
+lost (LYL) was developed by gender for two birth cohorts, aged 30 and 50 years 
+in 2012. Extensive sensitivity analyses were conducted.
+SETTING: United States.
+PARTICIPANTS: Smokers in two birth cohorts, aged 30 and 50 years in 2012.
+MEASUREMENTS: Data were from the 1965-2012 National Health Interview Surveys and 
+the 2014/15 Tobacco Use Supplement of the Current Population Survey. The model 
+incorporated a range of plausible assumptions from published literature about 
+transition rates from regular smoking to exclusive NVP and dual use, from dual 
+use to exclusive NVP use and from exclusive NVP use to no use.
+FINDINGS: Compared with the no-NVP scenario, the male (female) model projected 
+17.8% (19.3%) fewer PDs and 22.9% (26.6%) fewer LYL for the 1982 cohort and 5.4% 
+(7.3%) fewer PDs and 7.9% (11.4%) fewer LYL for the 1962 cohort. These gains 
+were sensitive to NVP use over time, age of initial NVP use, transitions from 
+smoking to dual, exclusive NVP and no use and relative NVP mortality risks.
+CONCLUSIONS: Nicotine vaping product (NVP) use in the United States is projected 
+to have a net positive impact on population health over a wide range of 
+plausible levels of NVP use, transitions to dual, exclusive NVP and no use and 
+NVP risks. However, net impact is sensitive to parameter estimates.
+
+© 2018 Society for the Study of Addiction.
+
+DOI: 10.1111/add.14530
+PMCID: PMC7466949
+PMID: 30548714 [Indexed for MEDLINE]
+
+
+208. Nihon Ishigaku Zasshi. 2016 Dec;62(4):395-412.
+
+Change of Self-recognition about the Accuracy of Data on Okinawa in the 
+Mizushima Prefectural Life Table: Influence of His "Pre-publication of the 
+1921-25 Prefectural Life Table".
+
+[Article in English, Japanese]
+
+Ohmi K.
+
+We examined the change in the self-recognition about the accuracy of data on 
+Okinawa in the Mizushima Prefectural Life Table, and discussed:its relationship 
+to the "Okinawa Is a Traditional Longevity Prefecture" theory. In the 
+Prefectural Life Table made before WWII, Mizushima had suspended his judgment as 
+to the reliability of infant mortality data in Okinawa. However, after the 
+production of the "Proto-'1921-25' Life Table" in 1952-1954, Mizushima asserted 
+that infant mortality data in Okinawa was incomplete and unreliable, and 
+excluded Okinawa in his analysis in two times of the life table. On the other 
+hand, the "Pre-publication of the 1921-25 Prefectural Life Table" was, in a way 
+that ignores Mizushima's own interpretation, used as the basis of the "Okinawa 
+Is a Traditional Longevity Prefecture" thesis used by the Ryukyu government in 
+its occupation era, and in recent years by other commentators.
+
+PMID: 30549785 [Indexed for MEDLINE]
+
+
+209. Nihon Ishigaku Zasshi. 2016 Sep;62(3):253-272.
+
+Specifying the Date when Mizushima Haruo Calculated His "Pre-publication of the 
+1921-25 Prefectural Life Table," Based on Circumstances of Publication and 
+Changes of Methods.
+
+[Article in English, Japanese]
+
+Ohmi K.
+
+We examined the first appearing papers of a series of the Mizushima Prefectural 
+Life Table and checked its publication history and the transition of 
+manufacturing methods as a first step in order to examine the theory that life 
+expectancy in Okinawa has been long from a long time ago. However, the 
+Prefectural Life Table of 1921-25 was first published in 1960, and its original 
+form (as the "Pre-publication of the 1921-25 Prefectural Life Table") was 
+estimated to have been started after WWII and completed in 1952-1954, based on 
+the publication history and the transition of the manufacturing methods. In our 
+next publication we will examine the change in the self-recognition about the 
+accuracy of data from Okinawa in the Mizushima Prefectural Life Table, and 
+discuss its relationship to the "Okinawa Is a Traditional Longevity Prefecture" 
+theory.
+
+PMID: 30549790 [Indexed for MEDLINE]
+
+
+210. Curr Med Res Opin. 2019 Mar;35(3):375-381. doi:
+10.1080/03007995.2018.1558849.  Epub 2019 Jan 2.
+
+Bone-targeted agent treatment patterns and the impact of bone metastases on 
+patients with advanced breast cancer in the United States.
+
+Henry D(1), von Moos R(2), Body JJ(3), Rider A(4), De Courcy J(4), Bhowmik D(5), 
+Gatta F(6), Hechmati G(5), Qian Y(5).
+
+Author information:
+(1)a Department of Oncology , Joan Karnell Cancer Center, Pennsylvania Hospital 
+, Philadelphia , PA , USA.
+(2)b Department of Oncology , Kantonsspital Graubünden , Chur , Switzerland.
+(3)c Department of Oncology , CHU Brugmann, ULB , Brussels , Belgium.
+(4)d Adelphi Real World , Bollington , UK.
+(5)e Global Health Economics, Amgen Inc. , Thousand Oaks , CA , USA.
+(6)f Global Health Economics, Amgen (Europe) GmbH , Zug , Switzerland.
+
+OBJECTIVE: Bone metastases are common among patients with advanced breast 
+cancer, putting patients at increased risk of skeletal-related events (SREs). 
+This study described impact of bone metastases, utilization of bone-targeted 
+agents (BTAs) and physicians' decision processes for BTA use in advanced breast 
+cancer.
+METHODS: Data were collected using the Adelphi Breast Cancer Disease-Specific 
+Programme in the United States. Physicians completed a detailed record for 
+eligible patients (women ≥18 years, with stage IIIB-IV breast cancer).
+RESULTS: Data available from 1276 patients with advanced breast cancer included 
+485 (38%) with bone metastases. Most (80%) reported pain at bone metastasis 
+diagnosis; of those reporting pain, 55% reported moderate to severe pain. Among 
+patients with bone metastasis, 69% received a BTA. Reasons for initiating BTAs 
+were bone pain (32%) and an estimated high risk of SREs (25%). Reasons for not 
+treating with BTAs were very recent diagnosis (37%), poor Karnofsky performance 
+status (14%), perceived low risk of SREs (11%) and short life expectancy (11%). 
+Zoledronic acid (48%) and denosumab (42%) were commonly used BTAs; the main 
+reasons for initiating BTA treatment were long-term safety (28% and 32%, 
+respectively) and efficacy in delaying SREs (15% and 31%, respectively). The 
+analysis was not adjusted for age or other possible confounders.
+CONCLUSION: Bone pain is a common and sometimes severe symptom of bone 
+metastases in advanced breast cancer and a common reason for initiating BTA 
+treatment. Safety and efficacy were the main factors considered by physicians 
+when selecting BTAs.
+
+DOI: 10.1080/03007995.2018.1558849
+PMID: 30550358 [Indexed for MEDLINE]
+
+
+211. PLoS Negl Trop Dis. 2018 Dec 14;12(12):e0006938. doi: 
+10.1371/journal.pntd.0006938. eCollection 2018 Dec.
+
+Economic impact of dengue in Mexico considering reported cases for 2012 to 2016.
+
+Zubieta-Zavala A(1), López-Cervantes M(1), Salinas-Escudero G(2), Ramírez-Chávez 
+A(3), Castañeda JR(4), Hernández-Gaytán SI(1), López Yescas JG(5), Durán-Arenas 
+L(1).
+
+Author information:
+(1)Faculty of Medicine, National Autonomous University of Mexico, Mexico City, 
+Mexico.
+(2)Center for Economic Studies and Social Health, Children's Hospital of Mexico 
+Federico Gómez, Ministry of Health, Mexico City, Mexico.
+(3)Private Practice, Mexico City, Mexico.
+(4)Departamento de Arbovirus, National Institute of Public Health, Cuernavaca, 
+Mexico.
+(5)Medical Affairs, Sanofi Pasteur Latin America, Mexico City, Mexico.
+
+BACKGROUND: Given that dengue disease is growing and may progress to dengue 
+hemorrhagic fever (DHF), data on economic cost and disease burden are important. 
+However, data for Mexico are limited.
+METHODOLOGY/PRINCIPAL FINDINGS: Burden of dengue fever (DF) and DHF in Mexico 
+was assessed using official databases for epidemiological information, 
+disabilities weights from Shepard et al, the reported number of cases and 
+deaths, and costs. Overall costs of dengue were summed from direct medical costs 
+to the health system, cost of dengue to the patient (out-of-pocket expenses 
+[medical and non-medical], indirect costs [loss of earnings, patient and/or 
+caregiver]), and other government expenditures on prevention/surveillance. The 
+first three components, calculated as costs per case by a micro-costing approach 
+(PAATI; program, actions, activities, tasks, inputs), were scaled up to overall 
+cost using epidemiology data from official databases. PAATI was used to 
+calculate cost of vector control and prevention, education, and epidemiological 
+surveillance, based on an expert consensus and normative construction of an 
+ideal scenario. Disability-adjusted life years (DALYs) for Mexico in 2016 were 
+calculated to be 2283.46 (1.87 per 100,000 inhabitants). Overall economic impact 
+of dengue in Mexico for 2012 was US$144 million, of which US$44 million 
+corresponded to direct medical costs and US$5 million to the costs from the 
+patient's perspective. The estimated cost of prevention/surveillance was 
+calculated with information provided by federal government to be US$95 million. 
+The overall economic impact of DF and DHF showed an increase in 2013 to US$161 
+million and a decrease to US$133, US$131 and US$130 million in 2014, 2015 and 
+2016, respectively.
+CONCLUSIONS/SIGNIFICANCE: The medical and economic impact of dengue were in 
+agreement with other international studies, and highlight the need to include 

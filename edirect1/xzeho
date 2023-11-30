@@ -1,0 +1,1000 @@
+
+Author information:
+(1)Division of Cancer Epidemiology and Genetics, National Cancer Institute, 
+National Institutes of Health, Department of Health and Human Services, 
+Bethesda, Maryland.
+(2)Biostatistics Department, University of Michigan, Ann Arbor.
+(3)Department of Learning Health Sciences, University of Michigan Medical 
+School, Ann Arbor.
+(4)Department of Biomedical Informatics, University of Utah, Salt Lake City.
+(5)Division of Pulmonary and Critical Care Medicine and Wilmot Cancer Institute, 
+University of Rochester, Rochester, New York.
+(6)Genomic Epidemiology Branch, International Agency for Research on Cancer, 
+Lyon, France.
+(7)Department of Microbiology, Biochemistry and Immunology, Morehouse School of 
+Medicine, Atlanta, Georgia.
+
+Comment in
+    JAMA Netw Open. 2023 Sep 5;6(9):e2331140.
+
+IMPORTANCE: Using race and ethnicity in clinical prediction models can reduce or 
+inadvertently increase racial and ethnic disparities in medical decisions.
+OBJECTIVE: To compare eligibility for lung cancer screening in a contemporary 
+representative US population by refitting the life-years gained from 
+screening-computed tomography (LYFS-CT) model to exclude race and ethnicity vs a 
+counterfactual eligibility approach that recalculates life expectancy for racial 
+and ethnic minority individuals using the same covariates but substitutes White 
+race and uses the higher predicted life expectancy, ensuring that historically 
+underserved groups are not penalized.
+DESIGN, SETTING, AND PARTICIPANTS: The 2 submodels composing LYFS-CT NoRace were 
+refit and externally validated without race and ethnicity: the lung cancer death 
+submodel in participants of a large clinical trial (recruited 1993-2001; 
+followed up until December 31, 2009) who ever smoked (n = 39 180) and the 
+all-cause mortality submodel in the National Health Interview Survey (NHIS) 
+1997-2001 participants aged 40 to 80 years who ever smoked (n = 74 842, followed 
+up until December 31, 2006). Screening eligibility was examined in NHIS 
+2015-2018 participants aged 50 to 80 years who ever smoked. Data were analyzed 
+from June 2021 to September 2022.
+EXPOSURE: Including and removing race and ethnicity (African American, Asian 
+American, Hispanic American, White) in each LYFS-CT submodel.
+MAIN OUTCOMES AND MEASURES: By race and ethnicity: calibration of the LYFS-CT 
+NoRace model and the counterfactual approach (ratio of expected to observed 
+[E/O] outcomes), US individuals eligible for screening, predicted days of life 
+gained from screening by LYFS-CT.
+RESULTS: The NHIS 2015-2018 included 25 601 individuals aged 50 to 80 years who 
+ever smoked (2769 African American, 649 Asian American, 1855 Hispanic American, 
+and 20 328 White individuals). Removing race and ethnicity from the submodels 
+underestimated lung cancer death risk (expected/observed [E/O], 0.72; 95% CI, 
+0.52-1.00) and all-cause mortality (E/O, 0.90; 95% CI, 0.86-0.94) in African 
+American individuals. It also overestimated mortality in Hispanic American (E/O, 
+1.08, 95% CI, 1.00-1.16) and Asian American individuals (E/O, 1.14, 95% CI, 
+1.01-1.30). Consequently, the LYFS-CT NoRace model increased Hispanic American 
+and Asian American eligibility by 108% and 73%, respectively, while reducing 
+African American eligibility by 39%. Using LYFS-CT with the counterfactual 
+all-cause mortality model better maintained calibration across groups and 
+increased African American eligibility by 13% without reducing eligibility for 
+Hispanic American and Asian American individuals.
+CONCLUSIONS AND RELEVANCE: In this study, removing race and ethnicity 
+miscalibrated LYFS-CT submodels and substantially reduced African American 
+eligibility for lung cancer screening. Under counterfactual eligibility, no one 
+became ineligible, and African American eligibility increased, demonstrating the 
+potential for maintaining model accuracy while reducing disparities.
+
+DOI: 10.1001/jamanetworkopen.2023.31155
+PMCID: PMC10507484
+PMID: 37721755 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Caverly 
+reported intellectual property related to Decision Precision decision support 
+tools to aid shared decision-making for lung cancer screening. Dr Kawamoto 
+reported grants from the Agency for Healthcare Research and Quality during the 
+conduct of the study. Dr Rivera reported grants to her institution from National 
+Institutes of Health/National Cancer Institute and StandUp2Cancer and other 
+support to her institution from the American Cancer Society outside the 
+submitted work. No other disclosures were reported.
+
+
+827. Proc Natl Acad Sci U S A. 2023 Sep 26;120(39):e2221553120. doi: 
+10.1073/pnas.2221553120. Epub 2023 Sep 18.
+
+Neuronal MML-1/MXL-2 regulates systemic aging via glutamate transporter and cell 
+nonautonomous autophagic and peroxidase activity.
+
+Shioda T(1), Takahashi I(1), Ikenaka K(2), Fujita N(3)(4), Kanki T(5), Oka T(6), 
+Mochizuki H(2), Antebi A(7)(8), Yoshimori T(1)(9)(10), Nakamura S(1)(9)(11).
+
+Author information:
+(1)Laboratory of Intracellular Membrane Dynamics, Graduate School of Frontier 
+Biosciences, Osaka University, Osaka 565-0871, Japan.
+(2)Department of Neurology, Graduate School of Medicine, Osaka University, Osaka 
+565-0871, Japan.
+(3)Cell Biology Center, Institute of Innovative Research, Tokyo Institute of 
+Technology, Yokohama 226-8503, Japan.
+(4)Graduate School of Life Science and Technology, Tokyo Institute of 
+Technology, Yokohama 226-8503, Japan.
+(5)Department of Cellular Physiology, Graduate School of Medical and Dental 
+Sciences, Niigata University, Niigata 951-8510, Japan.
+(6)Department of Life Science, Rikkyo University, Tokyo 171-8501, Japan.
+(7)Department of Molecular Genetics of Ageing, Max Planck Institute for Biology 
+of Ageing, Cologne 50931, Germany.
+(8)Cologne Excellence Cluster on Cellular Stress Responses in Aging Associated 
+Diseases, University of Cologne, Cologne 50931, Germany.
+(9)Department of Genetics, Graduate School of Medicine, Osaka University, Osaka 
+565-0871, Japan.
+(10)Integrated Frontier Research for Medical Science Division, Institute for 
+Open and Transdisciplinary Research Initiatives, Osaka University, Osaka 
+565-0871, Japan.
+(11)Institute for Advanced Co-Creation Studies, Osaka University, Osaka 
+565-0871, Japan.
+
+Erratum in
+    Proc Natl Acad Sci U S A. 2023 Nov 21;120(47):e2318184120.
+
+Accumulating evidence has demonstrated the presence of intertissue-communication 
+regulating systemic aging, but the underlying molecular network has not been 
+fully explored. We and others previously showed that two basic helix-loop-helix 
+transcription factors, MML-1 and HLH-30, are required for lifespan extension in 
+several longevity paradigms, including germlineless Caenorhabditis elegans. 
+However, it is unknown what tissues these factors target to promote longevity. 
+Here, using tissue-specific knockdown experiments, we found that MML-1 and its 
+heterodimer partners MXL-2 and HLH-30 act primarily in neurons to extend 
+longevity in germlineless animals. Interestingly, however, the downstream 
+cascades of MML-1 in neurons were distinct from those of HLH-30. Neuronal RNA 
+interference (RNAi)-based transcriptome analysis revealed that the glutamate 
+transporter GLT-5 is a downstream target of MML-1 but not HLH-30. Furthermore, 
+the MML-1-GTL-5 axis in neurons is critical to prevent an age-dependent collapse 
+of proteostasis and increased oxidative stress through autophagy and peroxidase 
+MLT-7, respectively, in long-lived animals. Collectively, our study revealed 
+that systemic aging is regulated by a molecular network involving neuronal MML-1 
+function in both neural and peripheral tissues.
+
+DOI: 10.1073/pnas.2221553120
+PMCID: PMC10523562
+PMID: 37722055 [Indexed for MEDLINE]
+
+Conflict of interest statement: T.Y. and S.N. are founders of AutoPhagyGO.
+
+
+828. Am J Trop Med Hyg. 2023 Sep 18;109(5):1022-1027. doi: 10.4269/ajtmh.22-0809.
+ Print 2023 Nov 1.
+
+Long-Term Efficacy of Insecticidal Wall Painting for Controlling Visceral 
+Leishmaniasis Vectors in Bangladesh.
+
+Alim A(1), Huda MM(1)(2)(3), Ghosh D(1), Halleux CM(4), Almahmud M(1), Olliaro 
+PL(5), Matlashewski G(6), Kroeger A(7), Aseffa A(4), Mondal D(1).
+
+Author information:
+(1)Nutrition and Clinical Services Division, International Centre for Diarrhoeal 
+Diseases Research, Bangladesh, Dhaka, Bangladesh.
+(2)Poche Centre for Indigenous Health, The University of Queensland, Brisbane, 
+Australia.
+(3)ARC Centre of Excellence for Children and Families over the Life Course, The 
+University of Queensland, Brisbane, Australia.
+(4)UNICEF/UNDP/World Bank/World Health Organization Special Programme for 
+Research and Training in Tropical Diseases (TDR), World Health Organization, 
+Geneva, Switzerland.
+(5)ISARIC Global Support Centre, International Severe Acute Respiratory and 
+Emerging Infection Consortium, Pandemic Sciences Institute, Nuffield Department 
+of Medicine, University of Oxford, Oxford, United Kingdom.
+(6)Department of Microbiology and Immunology, McGill University, Montreal, 
+Canada.
+(7)Centre for Medicine and Society/Institute for Infection Prevention, 
+University Medical Centre, Freiburg, Germany.
+
+The success of the visceral leishmaniasis (VL) elimination program largely 
+depends on cost-effective vector control measures. Our goal was to investigate 
+the longevity of the efficacy of insecticidal wall painting (IWP), a new vector 
+control tool, compared with a routine indoor residual spraying (IRS) program for 
+reducing the VL vector density in Bangladesh. This study is the extension of our 
+recent IWP study for VL vector management in Bangladesh, which was undertaken in 
+seven highly VL endemic villages of the Mymensingh district with a 12-month 
+follow-up. In this 24-months follow-up study, we collected sand flies 
+additionally at 15, 18, 21, and 24 months since the interventions from the IWP 
+and control (where the program did routine IRS) clusters to examine the 
+longevity of the efficacy of IWP on sand fly density reduction and mortality. 
+The difference-in-differences regression models were used to estimate the effect 
+of IWP on sand fly reduction against Program IRS. The IWP showed excellent 
+performance in reducing sand fly density and increasing sand fly mortality 
+compared with Program IRS. The effect of IWP for controlling sand flies was 
+statistically significant for up to at least 24 months. The mean female 
+Phlebotomus argentipes density reduction ranged from -56% to -83%, and the P. 
+argentipes sand fly mortality ranged from 81% to 99.5% during the 24-month 
+follow-up period. Considering the duration of the efficacy of IWP for 
+controlling VL vectors, Bangladesh National Kala-azar Elimination Program may 
+consider IWP as the best alternative to IRS for the subsequent phases of the 
+program.
+
+DOI: 10.4269/ajtmh.22-0809
+PMCID: PMC10622479
+PMID: 37722667 [Indexed for MEDLINE]
+
+
+829. Appl Nurs Res. 2023 Oct;73:151731. doi: 10.1016/j.apnr.2023.151731. Epub
+2023  Aug 23.
+
+Comparison of early mobilization protocols on postoperative cognitive 
+dysfunction, pain, and length of hospital stay in patients undergoing coronary 
+artery bypass graft surgery: A randomized controlled trial.
+
+Allahbakhshian A(1), Khalili AF(2), Gholizadeh L(3), Esmealy L(4).
+
+Author information:
+(1)Department of Medical-Surgical, Faculty of Nursing and Midwifery, Tabriz 
+University of Medical Sciences, Tabriz, Iran.
+(2)Department of Physical Medicine Research Center, Faculty of Nursing and 
+Midwifery, Tabriz University of Medical Sciences, Tabriz, Iran. Electronic 
+address: farshbafa@tbzmed.ac.
+(3)Faculty of Health, University of Technology Sydney, Sydney, Australia. 
+Electronic address: Leila.gholizadeh@uts.edu.au.
+(4)Faculty of Nursing and Midwifery, Tabriz University of Medical Sciences, 
+Tabriz, Iran. Electronic address: leylaesmealy@gmail.com.
+
+Although coronary artery bypass graft (CABG) surgery improves the life 
+expectancy of patients with coronary artery disease, it is associated with 
+various short and long-term complications. Early mobilization has been shown to 
+reduce the risk of these complications. This study aimed to compare the 
+effectiveness of different early mobilization protocols on postoperative 
+cognitive dysfunction (POCD), pain intensity, and length of hospital stay (LOS) 
+in patients undergoing CABG. This three-arm parallel randomized controlled trial 
+included 120 patients undergoing CABG surgery who were randomly assigned to 
+Intervention A, which received a four-phase early mobilization protocol; 
+Intervention B, which received a three-phase early mobilization protocol; and 
+the Control group, which received routine care. Postoperative cognitive 
+dysfunction and pain were assessed using Mini Mental State Examination (MMSE) 
+and visual analog scale (VAS), respectively. Groups were comparable in 
+demographic and clinical characteristics and postoperative cognitive dysfunction 
+at baseline. After the intervention, Group B had statistically significantly 
+(p < 0.001) less cognitive dysfunction (25.8 ± 1.7) compared to Group A 
+(24.1 ± 2.2) and the Control Group (23.4 ± 2.7). Likewise, hospital stay was 
+statistically (p < 0.01) shorter for Group B (7.7 ± 1.5) than the Control group 
+(8.9 ± 1.9). However, the experience of pain was statistically significantly 
+lower over time in Group A than in the other groups (p < 0.001). This study 
+concludes that an early mobilization protocol based on deep breathing exercises 
+and chest physiotherapy may better improve postoperative cognitive dysfunction 
+and length of hospital stay than an early mobilization protocol based on passive 
+and active range of motion activities or routine care.
+
+Copyright © 2023. Published by Elsevier Inc.
+
+DOI: 10.1016/j.apnr.2023.151731
+PMID: 37722799 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+830. J Cachexia Sarcopenia Muscle. 2023 Sep 18. doi: 10.1002/jcsm.13335. Online
+ahead  of print.
+
+Bisphosphonates attenuate age-related muscle decline in Caenorhabditis elegans.
+
+Slade L(1)(2), Bollen SE(3), Bass JJ(3), Phillips BE(3), Smith K(3), Wilkinson 
+DJ(3), Szewczyk NJ(4), Atherton PJ(3), Etheridge T(2).
+
+Author information:
+(1)University of Exeter Medical School, Exeter, UK.
+(2)Faculty of Health and Life Sciences, University of Exeter, Exeter, UK.
+(3)Centre of Metabolism, Ageing & Physiology (COMAP), MRC-Versus Arthritis 
+Centre for Musculoskeletal Ageing Research (CMAR), Unit of Injury, Recovery and 
+Inflammation Sciences (IRIS), School of Medicine, University of Nottingham, 
+Derby, UK.
+(4)Ohio Musculoskeletal and Neurological Institute, Heritage College of 
+Osteopathic Medicine, Athens, OH, USA.
+
+BACKGROUND: Age-related muscle decline (sarcopenia) associates with numerous 
+health risk factors and poor quality of life. Drugs that counter sarcopenia 
+without harmful side effects are lacking, and repurposing existing 
+pharmaceuticals could expedite realistic clinical options. Recent studies 
+suggest bisphosphonates promote muscle health; however, the efficacy of 
+bisphosphonates as an anti-sarcopenic therapy is currently unclear.
+METHODS: Using Caenorhabditis elegans as a sarcopenia model, we treated animals 
+with 100 nM, 1, 10, 100 and 500 μM zoledronic acid (ZA) and assessed lifespan 
+and healthspan (movement rates) using a microfluidic chip device. The effects of 
+ZA on sarcopenia were examined using GFP-tagged myofibres or mitochondria at 
+days 0, 4 and 6 post-adulthood. Mechanisms of ZA-mediated healthspan extension 
+were determined using combined ZA and targeted RNAi gene knockdown across the 
+life-course.
+RESULTS: We found 100 nM and 1 μM ZA increased lifespan (P < 0.001) and 
+healthspan [954 ± 53 (100 nM) and 963 ± 48 (1 μM) vs. 834 ± 59% (untreated) 
+population activity AUC, P < 0.05]. 10 μM ZA shortened lifespan (P < 0.0001) but 
+not healthspan (758.9 ± 37 vs. 834 ± 59, P > 0.05), whereas 100 and 500 μM ZA 
+were larval lethal. ZA (1 μM) significantly improved myofibrillar structure on 
+days 4 and 6 post-adulthood (83 and 71% well-organized myofibres, respectively, 
+vs. 56 and 34% controls, P < 0.0001) and increased well-networked mitochondria 
+at day 6 (47 vs. 16% in controls, P < 0.01). Genes required for ZA-mediated 
+healthspan extension included fdps-1/FDPS-1 (278 ± 9 vs. 894 ± 17% population 
+activity AUC in knockdown + 1 μM ZA vs. untreated controls, respectively, 
+P < 0.0001), daf-16/FOXO (680 ± 16 vs. 894 ± 17%, P < 0.01) and agxt-2/BAIBA 
+(531 ± 23 vs. 552 ± 8%, P > 0.05). Life/healthspan was extended through 
+knockdown of igdb-1/FNDC5 (635 ± 10 vs. 523 ± 10% population activity AUC in 
+gene knockdown vs. untreated controls, P < 0.01) and sir-2.3/SIRT-4 (586 ± 10 
+vs. 523 ± 10%, P < 0.05), with no synergistic improvements in ZA co-treatment 
+vs. knockdown alone [651 ± 12 vs. 635 ± 10% (igdb-1/FNDC5) and 583 ± 9 vs. 
+586 ± 10% (sir-2.3/SIRT-4), both P > 0.05]. Conversely, let-756/FGF21 and 
+sir-2.2/SIRT-4 were dispensable for ZA-induced healthspan [630 ± 6 vs. 523 ± 10% 
+population activity AUC in knockdown + 1 μM ZA vs. untreated controls, P < 0.01 
+(let-756/FGF21) and 568 ± 9 vs. 523 ± 10%, P < 0.05 (sir-2.2/SIRT-4)].
+CONCLUSIONS: Despite lacking an endoskeleton, ZA delays Caenorhabditis elegans 
+sarcopenia, which translates to improved neuromuscular function across the life 
+course. Bisphosphonates might, therefore, be an immediately exploitable 
+anti-sarcopenia therapy.
+
+© 2023 The Authors. Journal of Cachexia, Sarcopenia and Muscle published by 
+Wiley Periodicals LLC.
+
+DOI: 10.1002/jcsm.13335
+PMID: 37722921
+
+
+831. Med Decis Making. 2023 Oct-Nov;43(7-8):901-913. doi:
+10.1177/0272989X231197149.  Epub 2023 Sep 19.
+
+Valuing the Dental Caries Utility Index in Australia.
+
+Hettiarachchi RM(1), Kularatna S(2), Byrnes J(3)(4), Mulhern B(5), Chen G(6), 
+Scuffham PA(3)(4).
+
+Author information:
+(1)Centre for the Business and Economics of Health, The University of 
+Queensland, Brisbane, QLD, Australia.
+(2)Australian Centre for Health Services Innovacions and Centre for Healthcare 
+Transformation, The Queensland University of Technology, QLD, Australia.
+(3)Centre for Applied Health Economics, School of Medicine, Griffith University, 
+QLD, Australia.
+(4)Menzies Health Institute Queensland, Griffith University, QLD, Australia.
+(5)Centre for Health Economics Research and Evaluation, University of Technology 
+Sydney, Sydney, Australia.
+(6)Centre for Health Economics, Monash University, Clayton, VIC, Australia.
+
+INTRODUCTION: The Dental Caries Utility Index (DCUI) is a new oral 
+health-specific health state classification system for adolescents, consisting 
+of 5 domains: pain/discomfort, difficulty eating food/drinking, worried, ability 
+to participate in activities, and appearance. Each domain has 4 response levels. 
+This study aims to generate an Australian-specific utility algorithm for the 
+DCUI.
+METHODS: An online survey was conducted using a representative sample of the 
+adult Australian general population. The discrete choice experiment (DCE) was 
+used to elicit the preferences on 5 domains. Then, the latent utilities were 
+anchored onto the full health-dead scale using the visual analogue scale (VAS). 
+DCE data were modeled using conditional logit, and 2 anchoring procedures were 
+considered: anchor based on the worst health state and a mapping approach. The 
+optimal anchoring procedure was selected based on the model parsimony and the 
+mean absolute error (MAE).
+RESULTS: A total of 995 adults from the Australian general population completed 
+the survey. The conditional logit estimates on 5 dimensions and levels were 
+monotonic and statistically significant, except for the second level of the 
+"worried" and "appearance" domains. The mapping approach was selected based on a 
+smaller MAE between the 2 anchoring procedures. The Australian-specific tariff 
+of DCUI ranges from 0.1681 to 1.
+CONCLUSION: This study developed a utility algorithm for the DCUI. This value 
+set will facilitate utility value calculations from the participants' responses 
+for DCUI in economic evaluations of dental caries interventions targeted for 
+adolescents.
+HIGHLIGHTS: Preference-based quality-of-life measures (PBMs), which consist of a 
+health state classification system and a set of utility values (a scoring 
+algorithm), are used to generate utility weights for economic evaluations.This 
+study is the first to develop an Australian utility value set for the Dental 
+Caries Utility Index (DCUI), a new oral health-specific classification system 
+for adolescents.The availability of a utility value set will enable using DCUI 
+in economic evaluations of oral health interventions targeted for adolescents 
+and may ultimately lead to more effective and efficient planning of oral health 
+care services.
+
+DOI: 10.1177/0272989X231197149
+PMCID: PMC10625724
+PMID: 37724663 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declared no potential conflicts of 
+interest with respect to the research, authorship, and/or publication of this 
+article. The authors received no financial support for the research, authorship, 
+and/or publication of this article.
+
+
+832. EMBO Mol Med. 2023 Nov 8;15(11):e17683. doi: 10.15252/emmm.202317683. Epub
+2023  Sep 19.
+
+PRMT inhibitor promotes SMN2 exon 7 inclusion and synergizes with nusinersen to 
+rescue SMA mice.
+
+Kordala AJ(1)(2)(3), Stoodley J(2)(3), Ahlskog N(2)(3), Hanifi M(2), Garcia 
+Guerra A(2)(3), Bhomra A(2)(3), Lim WF(2)(3), Murray LM(4)(5), Talbot K(6)(7), 
+Hammond SM(2), Wood MJ(2)(3)(8), Rinaldi C(2)(3)(8).
+
+Author information:
+(1)Department of Physiology Anatomy and Genetics, University of Oxford, Oxford, 
+UK.
+(2)Department of Paediatrics, University of Oxford, Oxford, UK.
+(3)Institute of Developmental and Regenerative Medicine (IDRM), Oxford, UK.
+(4)Centre for Discovery Brain Sciences, College of Medicine and Veterinary 
+Medicine, University of Edinburgh, Edinburgh, UK.
+(5)Euan McDonald Centre for Motor Neuron Disease Research, University of 
+Edinburgh, Edinburgh, UK.
+(6)Nuffield Department of Clinical Neurosciences, John Radcliffe Hospital, 
+University of Oxford, Oxford, UK.
+(7)Kavli Institute for Nanoscience Discovery, University of Oxford, Oxford, UK.
+(8)MDUK Oxford Neuromuscular Centre, Oxford, UK.
+
+Spinal muscular atrophy (SMA) is a leading genetic cause of infant mortality. 
+The advent of approved treatments for this devastating condition has 
+significantly changed SMA patients' life expectancy and quality of life. 
+Nevertheless, these are not without limitations, and research efforts are 
+underway to develop new approaches for improved and long-lasting benefits for 
+patients. Protein arginine methyltransferases (PRMTs) are emerging as druggable 
+epigenetic targets, with several small-molecule PRMT inhibitors already in 
+clinical trials. From a screen of epigenetic molecules, we have identified 
+MS023, a potent and selective type I PRMT inhibitor able to promote SMN2 exon 7 
+inclusion in preclinical SMA models. Treatment of SMA mice with MS023 results in 
+amelioration of the disease phenotype, with strong synergistic amplification of 
+the positive effect when delivered in combination with the antisense 
+oligonucleotide nusinersen. Moreover, transcriptomic analysis revealed that 
+MS023 treatment has minimal off-target effects, and the added benefit is mainly 
+due to targeting neuroinflammation. Our study warrants further clinical 
+investigation of PRMT inhibition both as a stand-alone and add-on therapy for 
+SMA.
+
+© 2023 The Authors. Published under the terms of the CC BY 4.0 license.
+
+DOI: 10.15252/emmm.202317683
+PMCID: PMC10630883
+PMID: 37724723 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+833. Eur Heart J Acute Cardiovasc Care. 2023 Sep 19:zuad113. doi: 
+10.1093/ehjacc/zuad113. Online ahead of print.
+
+Percutaneous Coronary Intervention for ST-elevation Myocardial Infarction 
+Complicated by Cardiogenic Shock in a Super-aging Society.
+
+Nishihira K(1), Honda S(2), Takegami M(3)(4), Kojima S(5), Takahashi J(6), Itoh 
+T(7), Watanabe T(8), Yamashita J(9), Saji M(10), Tsujita K(11), Takayama M(10), 
+Sumiyoshi T(10), Kimura K(12), Yasuda S(6).
+
+Author information:
+(1)Department of Cardiology, Miyazaki Medical Association Hospital, Miyazaki, 
+Japan.
+(2)Department of Cardiovascular Medicine, National Cerebral and Cardiovascular 
+Center, Suita, Japan.
+(3)Department of Preventive Medicine and Epidemiologic Informatics, National 
+Cerebral and Cardiovascular Center, Suita, Japan.
+(4)Department of Public Health and Health Policy, Graduate School of Medicine, 
+The University of Tokyo, Tokyo, Japan.
+(5)Department of Cardiology, Sakura-jyuji Yatsushiro Rehabilitation Hospital, 
+Kumamoto, Japan.
+(6)Department of Cardiovascular Medicine, Tohoku University Graduate School of 
+Medicine, Sendai, Japan.
+(7)Division of Community Medicine, Department of Medical Education/Division of 
+Cardiology, Department of Medicine, Iwate Medical University, Morioka, Japan.
+(8)Department of Cardiology, Pulmonology, and Nephrology, Yamagata University 
+School of Medicine, Yamagata, Japan.
+(9)Department of Cardiology, Tokyo Medical University Hospital, Tokyo, Japan.
+(10)Department of Cardiology, Sakakibara Heart Institute, Fuchu, Japan.
+(11)Department of Cardiovascular Medicine, Graduate School of Medical Sciences, 
+Kumamoto University, Kumamoto, Japan.
+(12)Division of Cardiology, Yokohama City University Medical Center, Yokohama, 
+Japan.
+
+AIMS: ST-segment elevation myocardial infarction complicated by cardiogenic 
+shock (STEMICS) is associated with substantial mortality. As life expectancy 
+increases, percutaneous coronary intervention (PCI) is being performed more 
+frequently, even in elderly patients with acute myocardial infarction (AMI). 
+This study sought to investigate the characteristics and impact of PCI on 
+in-hospital mortality in patients with STEMICS.
+METHODS AND RESULTS: The Japan AMI Registry (JAMIR) is a retrospective, 
+nationwide, real-world database. Among 46,242 patients with AMI hospitalized in 
+2011-2016, 2,760 patients with STEMICS (median age, 72 years) were studied. We 
+compared 2,396 (86.8%) patients who underwent PCI with 364 (13.2%) patients who 
+did not. The percentage of mechanical circulatory support use in patients with 
+STEMICS was 69.3% and in-hospital mortality was 34.6%. Compared with patients 
+who did not undergo PCI, patients undergoing PCI were younger and had a higher 
+rate of intra-aortic balloon pump use. A higher proportion were male or current 
+smokers. In-hospital mortality was significantly lower in the PCI group than in 
+the no-PCI group (31.3% vs. 56.0%, P < 0.001). PCI was independently associated 
+with lower in-hospital mortality (adjusted odds ratio [OR], 0.508; 95% 
+confidence interval [CI], 0.347-0.744). In 789 (28.6%) patients aged ≥80 years, 
+PCI was associated with fewer in-hospital cardiac deaths (adjusted OR, 0.524; 
+95% CI, 0.281-0.975), but was not associated with in-hospital mortality 
+(adjusted OR, 0.564; 95% CI, 0.300-1.050).
+CONCLUSION: In Japan, PCI was effective in reducing in-hospital cardiac death in 
+elderly patients with STEMICS. Age alone should not preclude potentially 
+beneficial invasive therapy.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of the 
+European Society of Cardiology. All rights reserved. For permissions, please 
+e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/ehjacc/zuad113
+PMID: 37724765
+
+
+834. J Gerontol A Biol Sci Med Sci. 2023 Sep 19:glad212. doi:
+10.1093/gerona/glad212.  Online ahead of print.
+
+Living longer but frailer? Temporal trends in life expectancy and frailty in 
+older Swedish adults.
+
+Tazzeo C(1), Rizzuto D(1)(2), Calderón-Larrañaga A(1)(2), Dekhtyar S(1)(2), 
+Zucchelli A(1)(3), Xia X(1), Fratiglioni L(1)(2), Vetrano DL(1)(2).
+
+Author information:
+(1)Aging Research Center, Department of Neurobiology, Care Sciences and Society, 
+Karolinska Institutet, Tomtebodavägen 18 A, floors 9 and 10, Solna, Sweden.
+(2)Stockholm Gerontology Research Center, Sveavägen 155, Stockholm, Sweden.
+(3)Department of Clinical and Experimental Sciences, University of Brescia, 
+Brescia, Italy.
+
+BACKGROUND: This study aims to examine temporal trends in frailty state 
+transitions, and years spent frail, in older Swedish adults.
+METHODS: We followed Swedish National study on Aging and Care in Kungsholmen 
+(SNAC-K) participants from baseline (2001-2004) for 15 (median: 9.6) years. A 
+40-deficit frailty index (FI) was constructed to identify three frailty states: 
+robust (FI ≤ 0.125), mild frailty (0.125 < FI ≤ 0.25), and moderate and severe 
+frailty (FI > 0.25). Multi-state survival analyses were implemented to obtain 
+hazard ratios for frailty state transitions, with birth year and sex as 
+predictors. To examine temporal trends, frailty state-specific life expectancies 
+at age 60 were forecasted for robust persons born in different years (1900, 
+1910, 1920, 1930, 1940), also by sex.
+RESULTS: At baseline, the 2941 participants' mean age was 75 years and 65% were 
+women. Predicted life expectancy and time spent frail from age 60 followed an 
+increasing trend by birth year. Hazards of transitioning from mild frailty to 
+death (hazard ratio [HR]: 0.89; 95% confidence interval [CI]: 0.83-0.97) and 
+moderate and severe frailty to death (HR: 0.98; 95% CI: 0.97-1.00) were lower 
+for those born later. Women were less likely to transition from robust to mild 
+frailty (HR: 0.81; 95% CI: 0.70-0.93), mild frailty to moderate and severe 
+frailty (HR: 0.80; 95% CI: 0.68-0.93), and moderate and severe frailty to death 
+(HR: 0.68; 95% CI: 0.59-0.78), but spent more time frail.
+CONCLUSIONS: Our results point to an expansion of time spent frail among older 
+Swedish adults over time.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of The 
+Gerontological Society of America.
+
+DOI: 10.1093/gerona/glad212
+PMID: 37725986
+
+
+835. Chem Biol Drug Des. 2023 Sep 19:e14352. doi: 10.1111/cbdd.14352. Online
+ahead of  print.
+
+Role of miRNA in pathogenesis, diagnosis, and prognosis in hepatocellular 
+carcinoma.
+
+Lv Y(1), Sun X(2).
+
+Author information:
+(1)Hepatobiliary and Pancreatic Surgery, Liuzhou People's Hospital, Liuzhou, 
+Guangxi, China.
+(2)Department of Pathology, Liuzhou People's Hospital, Liuzhou, Guangxi, China.
+
+Hepatocellular carcinoma (HCC) is one of the most common cancers and is 
+responsible for the second cancer-related death globally. Many treatment 
+regimens have been developed to cure the disease; however, life expectancy is 
+still low. Therefore, there is an urgent need to explore new selective, 
+specific, and robust diagnosis markers for efficient early recognition of the 
+ailment. Along with the diagnosis, the treatment's effectiveness can be 
+determined by prognostic markers, and miRNAs are excellent tools for the 
+diagnosis and prognosis of HCC. In addition, the altered expression profile of a 
+few miRNAs promotes HCC cell migration and invasion, and selective up- or 
+downregulation of these responsible genes may help mitigate the disorder. On one 
+hand, few of the miRNAs have been found to enhance angiogenesis, a crucial step 
+of tumor growth; on the other hand, upregulation of specific miRNAs is reported 
+to suppress angiogenesis and resulting tumor growth of HCC cells. Exosomal 
+miRNAs have significant implications in promoting angiogenesis, increased 
+endothelial cell permeability, tube formation, and metastasis to hepatic and 
+pulmonary tissues. miRNA also attributes to drug resistance toward chemotherapy 
+and the prevention of autophagy also. Identifying novel miRNA and determining 
+their differential expression in HCC tissue may serve as a potential tool for 
+diagnosis, prognosis, and therapy to enhance the life expectancy and quality of 
+life of HCC patients. In the present review, we have summarized the recent 
+advances in HCC-related research.
+
+© 2023 John Wiley & Sons Ltd.
+
+DOI: 10.1111/cbdd.14352
+PMID: 37726253
+
+
+836. Sci Rep. 2023 Sep 19;13(1):15500. doi: 10.1038/s41598-023-42578-0.
+
+Recent natural selection conferred protection against schizophrenia by 
+non-antagonistic pleiotropy.
+
+González-Peñas J(1)(2)(3), de Hoyos L(4)(5)(6), Díaz-Caneja CM(4)(5)(7)(8), 
+Andreu-Bernabeu Á(4)(5)(8), Stella C(4)(5), Gurriarán X(4)(5), Fañanás L(7)(9), 
+Bobes J(7)(10), González-Pinto A(7)(11), Crespo-Facorro B(7)(12), Martorell 
+L(7)(13), Vilella E(7)(13), Muntané G(7)(13), Molto MD(7)(14)(15), 
+Gonzalez-Piqueras JC(7)(15)(16), Parellada M(4)(5)(7)(8), Arango C(4)(5)(7)(8), 
+Costas J(17).
+
+Author information:
+(1)Department of Child and Adolescent Psychiatry, Institute of Psychiatry and 
+Mental Health, Hospital General Universitario Gregorio Marañón, Calle Ibiza, 43, 
+28009, Madrid, Spain. javier.gonzalez@iisgm.com.
+(2)Instituto de Investigación Sanitaria Gregorio Marañón (IiSGM), Madrid, Spain. 
+javier.gonzalez@iisgm.com.
+(3)CIBERSAM, Centro Investigación Biomédica en Red Salud Mental, Madrid, Spain. 
+javier.gonzalez@iisgm.com.
+(4)Department of Child and Adolescent Psychiatry, Institute of Psychiatry and 
+Mental Health, Hospital General Universitario Gregorio Marañón, Calle Ibiza, 43, 
+28009, Madrid, Spain.
+(5)Instituto de Investigación Sanitaria Gregorio Marañón (IiSGM), Madrid, Spain.
+(6)Language and Genetics Department, Max Planck Institute for Psycholinguistics, 
+Nijmegen, The Netherlands.
+(7)CIBERSAM, Centro Investigación Biomédica en Red Salud Mental, Madrid, Spain.
+(8)School of Medicine, Universidad Complutense, Madrid, Spain.
+(9)Department of Evolutionary Biology, Ecology and Environmental Sciences, 
+Faculty of Biology, University of Barcelona, Barcelona, Spain.
+(10)Faculty of Medicine and Health Sciences - Psychiatry, Universidad de Oviedo, 
+ISPA, INEUROPA, Oviedo, Spain.
+(11)BIOARABA Health Research Institute, OSI Araba, University Hospital, 
+University of the Basque Country, Vitoria, Spain.
+(12)Department of Psychiatry, Hospital Universitario Virgen del Rocío, 
+Universidad de Sevilla, Seville, Spain.
+(13)Hospital Universitari Institut Pere Mata, IISPV, Universitat Rovira I 
+Virgili, Reus, Spain.
+(14)Department of Genetics, University of Valencia, Campus of Burjassot, 
+Valencia, Spain.
+(15)Department of Medicine, Universitat de València, Valencia, Spain.
+(16)Fundación Investigación Hospital Clínico de Valencia, INCLIVA, 46010, 
+Valencia, Spain.
+(17)Instituto de Investigación Sanitaria (IDIS) de Santiago de Compostela, 
+Complexo Hospitalario Universitario de Santiago de Compostela (CHUS), Servizo 
+Galego de Saúde (SERGAS), Santiago de Compostela, Galicia, Spain.
+
+Schizophrenia is a debilitating psychiatric disorder associated with a reduced 
+fertility and decreased life expectancy, yet common predisposing variation 
+substantially contributes to the onset of the disorder, which poses an 
+evolutionary paradox. Previous research has suggested balanced selection, a 
+mechanism by which schizophrenia risk alleles could also provide advantages 
+under certain environments, as a reliable explanation. However, recent studies 
+have shown strong evidence against a positive selection of predisposing loci. 
+Furthermore, evolutionary pressures on schizophrenia risk alleles could have 
+changed throughout human history as new environments emerged. Here in this 
+study, we used 1000 Genomes Project data to explore the relationship between 
+schizophrenia predisposing loci and recent natural selection (RNS) signatures 
+after the human diaspora out of Africa around 100,000 years ago on a genome-wide 
+scale. We found evidence for significant enrichment of RNS markers in derived 
+alleles arisen during human evolution conferring protection to schizophrenia. 
+Moreover, both partitioned heritability and gene set enrichment analyses of 
+mapped genes from schizophrenia predisposing loci subject to RNS revealed a 
+lower involvement in brain and neuronal related functions compared to those not 
+subject to RNS. Taken together, our results suggest non-antagonistic pleiotropy 
+as a likely mechanism behind RNS that could explain the persistence of 
+schizophrenia common predisposing variation in human populations due to its 
+association to other non-psychiatric phenotypes.
+
+© 2023. Springer Nature Limited.
+
+DOI: 10.1038/s41598-023-42578-0
+PMCID: PMC10509162
+PMID: 37726359 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr. Arango has been a consultant to or has 
+received honoraria or grants from Acadia, Angelini, Gedeon Richter, Janssen 
+Cilag, Lundbeck, Minerva, Otsuka, Roche, Sage, Servier, Shire, Schering Plough, 
+Sumitomo Dainippon Pharma, Sunovion and Takeda. Dr. Crespo-Facorro has received 
+honoraria (advisory board and educational lectures) and travel expenses from 
+Takeda, Menarini, Angelini, Teva, Otsuka, Lundbeck and Johnson &; Johnson. He 
+has also received unrestricted research grants from Lundbeck. Dr. Díaz-Caneja 
+has received honoraria from AbbVie, Sanofi, and Exeltis. The rest of the authors 
+do not report any conflicts of interest related to this work.
+
+
+837. Br J Cancer. 2023 Nov;129(10):1558-1568. doi: 10.1038/s41416-023-02422-8.
+Epub  2023 Sep 19.
+
+Years of life lost due to cancer in the United Kingdom from 1988 to 2017.
+
+Ahmad AS(#)(1), Offman J(#)(2)(3), Delon C(1), North BV(4), Shelton J(1), 
+Sasieni PD(5)(6).
+
+Author information:
+(1)Cancer Intelligence, Cancer Research UK, London, UK.
+(2)Cancer Prevention Group, School of Cancer and Pharmaceutical Sciences, King's 
+College London, London, UK. j.m.offman@qmul.ac.uk.
+(3)Wolfson Institute of Population Health, Queen Mary University of London, 
+London, UK. j.m.offman@qmul.ac.uk.
+(4)Cancer Research UK and King's College London Cancer Prevention Trials Unit, 
+Cancer Prevention Group, School of Cancer and Pharmaceutical Sciences, King's 
+College London, London, UK.
+(5)Cancer Prevention Group, School of Cancer and Pharmaceutical Sciences, King's 
+College London, London, UK.
+(6)Wolfson Institute of Population Health, Queen Mary University of London, 
+London, UK.
+(#)Contributed equally
+
+BACKGROUND: We investigated the application of years of life lost (YLL) in 
+routine cancer statistics using cancer mortality data from 1988 to 2017.
+METHODS: Cancer mortality data for 17 cancers and all cancers in the UK from 
+1988 to 2017 were provided by the UK Association of Cancer Registries by sex, 
+5-year age group, and year. YLL, age-standardised YLL rate (ASYR) and 
+age-standardised mortality rate (ASMR) were estimated.
+RESULTS: The annual average YLL due to cancer, in the time periods 1988-1992 and 
+2013-2017, were about 2.2 and 2.3 million years, corresponding to 4510 and 3823 
+ASYR per 100,000 years, respectively. During 2013-2017, the largest number of 
+YLL occurred in lung, bowel and breast cancer. YLL by age groups for all cancers 
+showed a peak between 60-64 and 75-79. The relative contributions to incidence, 
+mortality, and YLL differ between cancers. For instance, pancreas (in women and 
+men) made up a smaller proportion of incidence (3%) but bigger proportion of 
+mortality (6 and 5%) and YLL (5 and 6%), whereas prostate cancer (26% of 
+incidence) contributed 13% mortality and 9% YLL.
+CONCLUSION: YLL is a useful measure of the impact different cancers have on 
+society and puts a higher weight on cancer deaths in younger individuals.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41416-023-02422-8
+PMCID: PMC10645733
+PMID: 37726479 [Indexed for MEDLINE]
+
+Conflict of interest statement: PS reports consulting fees paid to his 
+organisation from GRAIL Inc, outside of the submitted. The remaining authors 
+declare no competing interests.
+
+
+838. Am J Prev Cardiol. 2023 Sep 6;15:100580. doi: 10.1016/j.ajpc.2023.100580. 
+eCollection 2023 Sep.
+
+Premature morbidity and mortality associated with potentially undiagnosed 
+familial hypercholesterolemia in the general population.
+
+Ray KK(1), Pillas D(2), Hadjiphilippou S(1), Khunti K(3), Seshasai SRK(4), 
+Vallejo-Vaz AJ(1)(5)(6), Neasham D(2), Addison J(7).
+
+Author information:
+(1)Imperial Centre for Cardiovascular Disease Prevention (ICCP), Dept. of 
+Primary Care and Public Health, School of Public Health, Imperial College 
+London, Charing Cross Campus, The Reynolds Building, St Dunstan's Road, London 
+W6 8RP, United Kingdom.
+(2)Amgen Ltd, Uxbridge, United Kingdom.
+(3)University of Leicester, Leicester, United Kingdom.
+(4)Cardiovascular Clinical Academic Group, Molecular and Clinical Sciences 
+Research Institute, St George's, University of London and St George's University 
+Hospitals NHS Foundation Trust, London, United Kingdom.
+(5)Department of Medicine, Faculty of Medicine, University of Seville, Seville, 
+Spain.
+(6)Clinical Epidemiology and Vascular Risk, Instituto de Biomedicina de Sevilla, 
+IBiS/Hospital Universitario Virgen del Rocío/Universidad de Sevilla/CSIC. 
+Seville, Spain.
+(7)Biogen Idec Ltd, Maidenhead, United Kingdom.
+
+BACKGROUND: Familial hypercholesterolemia (FH) is common, but underdiagnosed, 
+and few systematic early screening programs exist.
+OBJECTIVE: To assess health outcomes among those with a recorded diagnosis of FH 
+and potential cases of FH with no recorded diagnosis.
+METHODS: Retrospective cohort study using the UK Clinical Practice Research 
+Datalink. Records of adults were classified as diagnosed FH (FHCoded), or via 
+accepted algorithms using LDL-C and clinical characteristics as potential FH 
+(FHPotential) or unlikely FH (FHUnlikely) using the DLCN or EUROASPIRE criteria 
+(but no record of FH). Outcomes assessed were premature cardiovascular (CV) 
+events, premature deaths and life expectancy.
+RESULTS: Among 1,729,046 individuals free from CV events, a record of FHCoded 
+before the age of 40 was 0.3/1000 (IQR 0.3-0.4) and increased with age. Where 
+LDL-C levels were available, 1.8/1000 (IQR 1.6-2.0) could be classified as 
+FHPotential. LDL-C was higher for both FHCoded and FHPotential vs FHUnlikely 
+(185.6 and 216.6 vs 116 mg/dL, respectively, p<0.001). Compared to FHUnlikely 
+both FHCoded and FHPotential cohorts had a higher risk of premature 
+cardiovascular events (both p<0.001) with highest rates among FHCoded. Risk of 
+premature deaths did not differ between FHCoded and FHUnlikely, but was 1.88 
+(95% CI 1.27-2.78, p = 0.002) for FHPotential vs FHCoded and 2.40 (95% CI 
+1.57-3.67, p<0.001) for FHPotential vs FHUnlikely. At age 18, the FHPotential 
+cohort had a life expectancy 16 years lower than the FHCoded cohort (p<0.001).
+CONCLUSIONS: Potential cases of FH had a doubling in risk of premature death and 
+a large reduction in life expectancy compared to individuals with a recorded 
+diagnosis of FH. These findings strengthen the critical importance of 
+identifying potential cases of FH early and early treatment.
+
+© 2023 The Authors. Published by Elsevier B.V.
+
+DOI: 10.1016/j.ajpc.2023.100580
+PMCID: PMC10506055
+PMID: 37727649
+
+Conflict of interest statement: Professor Kausik K. Ray reports the following; 
+Unrestricted research grants to Imperial College London from Amgen, Daiichi 
+Sankyo, Regeneron, Sanofi, SC, EC or advisory boards honoraria from Novartis, 
+Esperion, Daiichi Sankyo, Abbott, Bayer, Eli Lilly, Silence Therapeutics, CSL 
+Behring, New Amsterdam Pharma, Sanofi, Amgen, Novo Nordisk, BI, Scribe, 
+Vaxxinity, CRISPR, AZ, Kowa, Cargene, Honoria for CME and non CME from Novartis, 
+Novo Nordisk, BI, AZ, Viatris, Daiichi Sankyo, Amgen, Sanofi and stock options 
+PEMI-31. Dr. Demetris Pillas provided consultancy services to Amgen Ltd. Dr. 
+Savvas Hadjiphilippou has no disclosures. Professor Kamlesh Khunti has received 
+research grants from Lilly, Sanofi-Aventis, Boehringer Ingelheim, Merck, Sharpe 
+& Dohme, and Novo Nordisk, has provided consultancy services to Amgen, Novartis, 
+Novo Nordisk, Sanofi-Aventis, Lilly, Servier, and Merck, Sharpe & Dohme, has 
+served in non-remunerative positions of influence at Lilly, Sanofi-Aventis, 
+Merck, Sharpe & Dohme, and Novo Nordisk and has participated in Speakers Bureau 
+for Lilly, Sanofi-Aventis, Merck, Sharpe & Dohme, and Novo Nordisk. Dr. 
+Sreenivasa Rao Kondapally Seshasai has provided consultancy services to Amgen. 
+Dr. Antonio J. Vallejo-Vaz reports current or past participation in research 
+grants to Imperial College London from Pfizer, Amgen, MSD, Sanofi-Aventis, 
+Daiichi Sankyo, and Regeneron; personal fees for consulting from Bayer and 
+Regeneron; and honoraria for lectures from Amgen, Mylan, Akcea, and Ferrer; all 
+outside the submitted work. Dr David Neasham is employed at Amgen Ltd. Ms. Janet 
+Addison was previously employed at Amgen Ltd.
+
+
+839. Andrology. 2023 Sep 20. doi: 10.1111/andr.13525. Online ahead of print.
+
+Practice and development of male contraception: European Academy of Andrology 
+and American Society of Andrology guidelines.
+
+Wang C(1), Meriggiola MC(2), Amory JK(3), Barratt CLR(4), Behre HM(5), Bremner 
+WJ(3), Ferlin A(6), Honig S(7), Kopa Z(8), Lo K(9), Nieschlag E(10), Page 
+ST(11), Sandlow J(12), Sitruk-Ware R(13), Swerdloff RS(14), Wu FCW(15), Goulis 
+DG(16).
+
+Author information:
+(1)Division of Endocrinology, Department of Medicine and Clinical and 
+Translational Science Institute, The Lundquist Insitute and Harbor-UCLA Medical 
+Center, Torrance, California, USA.
+(2)Division of Gynecology and Human Reproduction Physiopathology, IRCCS Azienda 
+Ospedaliero-Universitaria di Bologna, Bologna, Italy.
+(3)Department of Medicine, University of Washington School of Medicine, Seattle, 
+Washington, USA.
+(4)Division of Systems and Cellular Medicine, Medical School, Ninewells 
+Hospital, University of Dundee, Dundee, Scotland.
+(5)Center for Reproductive Medicine and Andrology, University Medicine Halle, 
+Halle, Germany.
+(6)Unit of Andrology and Reproductive Medicine, Department of Medicine, 
+University of Padova, Padova, Italy.
+(7)Division of Reproductive and Sexual Medicine, Department of Urology, Yale 
+University School of Medicine, New Haven, Connecticut, USA.
+(8)Department of Urology, Andrology Centre, Semmelweis University, Budapest, 
+Hungary.
+(9)Division of Urology, Department of Surgery, University of Toronto, Toronto, 
+Canada.
+(10)Center of Reproductive Medicine and Andrology, University Hospital, Münster, 
+Germany.
+(11)Division of Metabolism, Endocrinology and Nutrition, UW Medicine Diabetes 
+Institute, University of Washington School of Medicine, Seattle, Washington, 
+USA.
+(12)Department of Urology, Medical College of Wisconsin, Milwaukee, Wisconsin, 
+USA.
+(13)Center for Biomedical Research, Population Council, New York, New York, USA.
+(14)Division of Endocrinology, Department of Medicine, The Lundquist Institute 
+and Harbor-UCLA Medical Center, Torrance, California, USA.
+(15)Division of Endocrinology, Diabetes and Gastroenterology, Faculty of 
+Biology, Medicine and Health, School of Medical Sciences, University of 
+Manchester, Manchester, UK.
+(16)First Department of Obstetrics and Gynecology, Unit of Reproductive 
+Endocrinology, Medical School, Aristotle University of Thessaloniki, 
+Thessaloniki, Greece.
+
+BACKGROUNDS: Despite a wide spectrum of contraceptive methods for women, the 
+unintended pregnancy rate remains high (45% in the US), with 50% resulting in 
+abortion. Currently, 20% of global contraceptive use is male-directed, with a 
+wide variation among countries due to limited availability and lack of efficacy. 
+Worldwide studies indicate that >50% of men would opt to use a reversible 
+method, and 90% of women would rely on their partner to use a contraceptive. 
+Additional reasons for novel male contraceptive methods to be available include 
+the increased life expectancy, sharing the reproductive risks among partners, 
+social issues, the lack of pharma industry involvement and the lack of opinion 
+makers advocating for male contraception.
+AIM: The present guidelines aim to review the status regarding male 
+contraception, the current state of the art to support the clinical practice, 
+recommend minimal requirements for new male contraceptive development and 
+provide and grade updated, evidence-based recommendations from the European 
+Society of Andrology (EAA) and the American Society of Andrology (ASA).
+METHODS: An expert panel of academicians appointed by the EAA and the ASA 
+generated a consensus guideline according to the GRADE (Grading of 
+Recommendations, Assessment, Development and Evaluation) system.
+RESULTS: Sixty evidence-based and graded recommendations were produced on 
+couple-centered communication, behaviors, barrier methods, semen analysis and 
+contraceptive efficacy, physical agents, surgical methods, actions before 
+initiating male contraception, hormonal methods, non-hormonal methods, vaccines, 
+and social and ethical considerations.
+CONCLUSION: As gender roles transform and gender equity is established in 
+relationships, the male contribution to family planning must be facilitated. 
+Efficient and safe male-directed methods must be evaluated and introduced into 
+clinical practice, preferably reversible, either hormonal or non-hormonal. From 
+a future perspective, identifying new hormonal combinations, suitable testicular 
+targets, and emerging vas occlusion methods will produce novel molecules and 
+products for male contraception.
+
+© 2023 American Society of Andrology and European Academy of Andrology.
+
+DOI: 10.1111/andr.13525
+PMID: 37727884
+
+
+840. J Neurosurg Spine. 2023 Sep 15:1-6. doi: 10.3171/2023.7.SPINE23195. Online
+ahead  of print.
+
+Economic burden of nonoperative treatment of adult spinal deformity.
+
+Passias PG(1), Ahmad W(1), Dave P(1), Lafage R(2), Lafage V(2), Mir J(1), 
+Klineberg EO(3), Kabeish KM(4), Gum JL(5), Line BG(6), Hart R(7), Burton D(8), 
+Smith JS(9), Ames CP(8), Shaffrey CI(10), Schwab F(2), Hostin R(11), Buell 
+T(12), Hamilton DK(12), Bess S(6).
+
+Author information:
+(1)1Departments of Orthopaedic and Neurologic Surgery, Division of Spine, NYU 
+Langone Medical Center; New York Spine Institute, New York, New York.
+(2)2Department of Orthopedics, Hospital for Special Surgery, New York, New York.
+(3)3Department of Orthopaedics, Lenox Hill Hospital, Northwell Health, New York, 
+New York.
+(4)4Department of Orthopaedic Surgery, Johns Hopkins Medical Center, Baltimore, 
+Maryland.
+(5)5Norton Leatherman Spine Center, Louisville, Kentucky.
+(6)6Department of Spine Surgery, Denver International Spine Clinic, Presbyterian 
+St. Luke's/Rocky Mountain Hospital for Children, Denver, Colorado.
+(7)7Department of Orthopaedic Surgery, Swedish Neuroscience Institute, Seattle, 
+Washington.
+(8)8Department of Orthopaedic Surgery, University of Kansas Medical Center, 
+Kansas City, Kansas.
+(9)9Department of Neurosurgery, University of Virginia, Charlottesville, 
+Virginia.
+(10)10Department of Neurological Surgery, University of California, San 
+Francisco, California.
+(11)11Department of Orthopaedic Surgery, Southwest Scoliosis Center, Dallas, 
+Texas; and.
+(12)12Department of Neurological Surgery, University of Pittsburgh School of 
+Medicine, Pittsburgh, Pennsylvania.
+
+OBJECTIVE: The purpose of this study was to investigate the cost utility of 
+nonoperative treatment for adult spinal deformity (ASD).
+METHODS: Nonoperatively and operatively treated patients who met database 
+criteria for ASD and in whom complete radiographic and health-related quality of 
+life data at baseline and at 2 years were available were included. A cost 
+analysis was completed on the PearlDiver database assessing the average cost of 
+nonoperative treatment prior to surgical intervention based on previously 
+published treatments (NSAIDs, narcotics, muscle relaxants, epidural steroid 
+injections, physical therapy, and chiropractor). Utility data were calculated 
+using the Oswestry Disability Index (ODI) converted to SF-6D with published 
+conversion methods. Quality-adjusted life years (QALYs) used a 3% discount rate 
+to account for residual decline in life expectancy (78.7 years). Minor and major 
+comorbidities and complications were assessed according to the CMS.gov manual's 
+definitions. Successful nonoperative treatment was defined as a gain in the 
+minimum clinically importance difference (MCID) in both ODI and Scoliosis 
+Research Society (SRS)-pain scores, and failure was defined as a loss in MCID or 
+conversion to operative treatment. Patients with baseline ODI ≤ 20 and continued 
+ODI of ≤ 20 at 2 years were considered nonoperative successful maintenance. The 
+average utilization of nonoperative treatment and cost were applied to the ASD 
+cohort.
+RESULTS: A total of 824 patients were included (mean age 58.24 years, 81% 
+female, mean body mass index 27.2 kg/m2). Overall, 75.5% of patients were in the 
+operative and 24.5% were in the nonoperative cohort. At baseline patients in the 
+operative cohort were significantly older, had a greater body mass index, 
+increased pelvic tilt, and increased pelvic incidence-lumbar lordosis mismatch 
+(all p < 0.05). With respect to deformity, patients in the operative group had 
+higher rates of severe (i.e., ++) sagittal deformity according to SRS-Schwab 
+modifiers for pelvic tilt, sagittal vertical axis, and pelvic incidence-lumbar 
+lordosis mismatch (p < 0.05). At 2 years, patients in the operative cohort 
+showed significantly increased rates of a gain in MCID for physical component 
+summary of SF-36, ODI, and SRS-activity, SRS-pain, SRS-appearance, and 
+SRS-mental scores. Cost analysis showed the average cost of nonoperative 
+treatment 2 years prior to surgical intervention to be $2041. Overall, at 2 
+years patients in the nonoperative cohort had again in ODI of 0.36, did not show 
+a gain in QALYs, and nonoperative treatment was determined to be 
+cost-ineffective. However, a subset of patients in this cohort underwent 
+successful maintenance treatment and had a decrease in ODI of 1.1 and a gain in 
+utility of 0.006 at 2 years. If utility gained for this cohort was sustained to 
+full life expectancy, patients' cost per QALY was $18,934 compared to a cost per 
+QALY gained of $70,690.79 for posterior-only and $48,273.49 for combined 
+approach in patients in the operative cohort.
+CONCLUSIONS: Patients with ASD undergoing operative treatment at baseline had 
+greater sagittal deformity and greater improvement in health-related quality of 
+life postoperatively compared to patients treated nonoperatively. Additionally, 
+patients in the nonoperative cohort overall had an increase in ODI and did not 
+show improvement in utility gained. Patients in the nonoperative cohort who had 
+low disability and sagittal deformity underwent successful maintenance and 
+cost-effective treatment.
+
+DOI: 10.3171/2023.7.SPINE23195
+PMID: 37728175841. Health Econ. 2023 Sep 20. doi: 10.1002/hec.4759. Online ahead of print.
+
+Ethnic inequality and public health.
+
+Ponnusamy S(1), Hakeem MA(2).
+
+Author information:
+(1)Centre for Health Economics, Monash University, Melbourne, Victoria, 
+Australia.
+(2)School of Economics and Public Policy, University of Adelaide, Adelaide, 
+South Australia, Australia.
+
+We examine the association between ethnic inequality and various key health 
+outcomes for a global set of developed and developing countries. Our results 
+show that higher ethnic inequality is associated with a poor state of public 
+health, such as higher child and maternal mortality, increased stillbirths and 
+child stunting, and reduced life expectancy at birth. This set of effects is 
+found to be predominant mainly in developing countries, and Sub-Saharan African 
+countries. Results remain robust to the inclusion of various other measures of 
+inequality, ethnic composition indices, geographic endowments, and other 
+relevant controls. We argue that lower contraceptive usage and poor vaccination 
+rates are potential mechanisms through which ethnic inequality affects health 
+outcomes. Policies targeted at improving public health may need to focus more on 
+these key intermediate channels in ethnic minority regions.
+
+© 2023 The Authors. Health Economics published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/hec.4759
+PMID: 37728591
+
+

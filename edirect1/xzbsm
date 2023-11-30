@@ -1,0 +1,1000 @@
+
+
+288. Health Res Policy Syst. 2016 Feb 9;14:10. doi: 10.1186/s12961-016-0081-8.
+
+Setting priorities in health research using the model proposed by the World 
+Health Organization: development of a quantitative methodology using 
+tuberculosis in South Africa as a worked example.
+
+Hacking D(1), Cleary S(2).
+
+Author information:
+(1)Health Economics Unit, Faculty of Health Sciences, University of Cape Town, 
+Observatory, Cape Town, South Africa. damianuct@gmail.com.
+(2)Health Economics Unit, Faculty of Health Sciences, University of Cape Town, 
+Observatory, Cape Town, South Africa. susan.cleary@uct.ac.za.
+
+BACKGROUND: Setting priorities is important in health research given the limited 
+resources available for research. Various guidelines exist to assist in the 
+priority setting process; however, priority setting still faces significant 
+challenges such as the clear ranking of identified priorities. The World Health 
+Organization (WHO) proposed a Disability Adjusted Life Year (DALY)-based model 
+to rank priorities by research area (basic, health systems and biomedical) by 
+dividing the DALYs into 'unavertable with existing interventions', 'avertable 
+with improved efficiency' and 'avertable with existing but non-cost-effective 
+interventions', respectively. However, the model has conceptual flaws and no 
+clear methodology for its construction. Therefore, the aim of this paper was to 
+amend the model to address these flaws, and develop a clear methodology by using 
+tuberculosis in South Africa as a worked example.
+METHODS: An amended model was constructed to represent total DALYs as the 
+product of DALYs per person and absolute burden of disease. These figures were 
+calculated for all countries from WHO datasets. The lowest figures achieved by 
+any country were assumed to represent 'unavertable with existing interventions' 
+if extrapolated to South Africa. The ratio of 'cost per patient treated' 
+(adjusted for purchasing power and outcome weighted) between South Africa and 
+the best country was used to calculate the 'avertable with improved efficiency 
+section'. Finally, 'avertable with existing but non-cost-effective 
+interventions' was calculated using Disease Control Priorities Project efficacy 
+data, and the ratio between the best intervention and South Africa's current 
+intervention, irrespective of cost.
+RESULTS: The amended model shows that South Africa has a tuberculosis burden of 
+1,009,837.3 DALYs; 0.009% of DALYs are unavertable with existing interventions 
+and 96.3% of DALYs could be averted with improvements in efficiency. Of the 
+remaining DALYs, a further 56.9% could be averted with existing but 
+non-cost-effective interventions.
+CONCLUSIONS: The amended model was successfully constructed using limited data 
+sources. The generalizability of the data used is the main limitation of the 
+model. More complex formulas are required to deal with such potential 
+confounding variables; however, the results act as starting point for 
+development of a more robust model.
+
+DOI: 10.1186/s12961-016-0081-8
+PMCID: PMC4746905
+PMID: 26861120 [Indexed for MEDLINE]
+
+
+289. BMC Genomics. 2016 Feb 9;17:102. doi: 10.1186/s12864-016-2420-0.
+
+A toolbox of genes, proteins, metabolites and promoters for improving drought 
+tolerance in soybean includes the metabolite coumestrol and stomatal development 
+genes.
+
+Tripathi P(1)(2), Rabara RC(3)(4), Reese RN(5), Miller MA(6), Rohila JS(7), 
+Subramanian S(8), Shen QJ(9), Morandi D(10), Bücking H(11), Shulaev V(12), 
+Rushton PJ(13)(14).
+
+Author information:
+(1)Department of Biology and Microbiology, South Dakota State University, 
+Brookings, SD57007, USA. tprateek@dornsife.usc.edu.
+(2)Current address, Molecular and Computational Biology, Dana & David Dornsife 
+College of Letters, Arts and Sciences, University of Southern California, Los 
+Angeles, CA, 90089, USA. tprateek@dornsife.usc.edu.
+(3)Department of Biology and Microbiology, South Dakota State University, 
+Brookings, SD57007, USA. roel.rabara@tamu.edu.
+(4)Current address: Texas A&M AgriLife Research and Extension Center, Dallas, 
+TX, 75252, USA. roel.rabara@tamu.edu.
+(5)Department of Biology and Microbiology, South Dakota State University, 
+Brookings, SD57007, USA. Neil.Reese@sdstate.edu.
+(6)Texas A&M AgriLife Research and Extension Center, Dallas, TX, 75252, USA. 
+Marissa.Miller@ag.tamu.edu.
+(7)Department of Biology and Microbiology, South Dakota State University, 
+Brookings, SD57007, USA. jai.rohila@sdstate.edu.
+(8)Department of Biology and Microbiology, South Dakota State University, 
+Brookings, SD57007, USA. senthil.subramanian@sdstate.edu.
+(9)School of Life Sciences, University of Nevada, Las Vegas, 89154, USA. 
+jeffery.shen@unlv.edu.
+(10)INRA, UMR 1347 Agroécologie, 17 rue Sully, BP 86510, 21065, Dijon, CEDEX, 
+France. dmorandi@dijon.inra.fr.
+(11)Department of Biology and Microbiology, South Dakota State University, 
+Brookings, SD57007, USA. Heike.Bucking@sdstate.edu.
+(12)Department of Biological Sciences, University of North Texas, Denton, TX, 
+76203, USA. Vladimir.Shulaev@unt.edu.
+(13)Texas A&M AgriLife Research and Extension Center, Dallas, TX, 75252, USA. 
+wrkypaul1@gmail.com.
+(14)Current address, 22nd Century Group Inc., 9530 Main Street Clarence, New 
+York, 14031, USA. wrkypaul1@gmail.com.
+
+BACKGROUND: The purpose of this project was to identify metabolites, proteins, 
+genes, and promoters associated with water stress responses in soybean. A number 
+of these may serve as new targets for the biotechnological improvement of 
+drought responses in soybean (Glycine max).
+RESULTS: We identified metabolites, proteins, and genes that are strongly up or 
+down regulated during rapid water stress following removal from a hydroponics 
+system. 163 metabolites showed significant changes during water stress in roots 
+and 93 in leaves. The largest change was a root-specific 160-fold increase in 
+the coumestan coumestrol making it a potential biomarker for drought and a 
+promising target for improving drought responses. Previous reports suggest that 
+coumestrol stimulates mycorrhizal colonization and under certain conditions 
+mycorrhizal plants have improved drought tolerance. This suggests that 
+coumestrol may be part of a call for help to the rhizobiome during stress. About 
+3,000 genes were strongly up-regulated by drought and we identified regulators 
+such as ERF, MYB, NAC, bHLH, and WRKY transcription factors, receptor-like 
+kinases, and calcium signaling components as potential targets for soybean 
+improvement as well as the jasmonate and abscisic acid biosynthetic genes JMT, 
+LOX1, and ABA1. Drought stressed soybean leaves show reduced mRNA levels of 
+stomatal development genes including FAMA-like, MUTE-like and SPEECHLESS-like 
+bHLH transcription factors and leaves formed after drought stress had a 
+reduction in stomatal density of 22.34 % and stomatal index of 17.56 %. This 
+suggests that reducing stomatal density may improve drought tolerance. MEME 
+analyses suggest that ABRE (CACGT/CG), CRT/DRE (CCGAC) and a novel GTGCnTGC/G 
+element play roles in transcriptional activation and these could form components 
+of synthetic promoters to drive expression of transgenes. Using transformed 
+hairy roots, we validated the increase in promoter activity of GmWRKY17 and 
+GmWRKY67 during dehydration and after 20 μM ABA treatment.
+CONCLUSIONS: Our toolbox provides new targets and strategies for improving 
+soybean drought tolerance and includes the coumestan coumestrol, transcription 
+factors that regulate stomatal density, water stress-responsive WRKY gene 
+promoters and a novel DNA element that appears to be enriched in water stress 
+responsive promoters.
+
+DOI: 10.1186/s12864-016-2420-0
+PMCID: PMC4746818
+PMID: 26861168 [Indexed for MEDLINE]
+
+
+290. BMC Public Health. 2016 Feb 9;16:128. doi: 10.1186/s12889-016-2806-6.
+
+Absolute cardiovascular risk in a Fiji medical zone.
+
+Gyaneshwar R(1)(2), Naidu S(3)(4), Raban MZ(5)(6), Naidu S(7), Linhart C(8), 
+Morrell S(9), Tukana I(10), Taylor R(11).
+
+Author information:
+(1)Viseisei Sai Health Centre, Viseisei village, Ba Province, Fiji. 
+rajat.gyaneshwar@gmail.com.
+(2)Fiji School of Medicine, College of Medicine, Nursing and Health Sciences, 
+Fiji National University, Suva, Fiji. rajat.gyaneshwar@gmail.com.
+(3)Viseisei Sai Health Centre, Viseisei village, Ba Province, Fiji. 
+swaran.naidu108@gmail.com.
+(4)Fiji School of Medicine, College of Medicine, Nursing and Health Sciences, 
+Fiji National University, Suva, Fiji. swaran.naidu108@gmail.com.
+(5)Centre for Health Systems and Safety Research, Australian Institute of Health 
+Innovation, Macquarie University, Sydney, NSW, 2109, Australia. 
+magda.raban@mq.edu.au.
+(6)School of Public Health and Community Medicine (SPHCM), Faculty of Medicine, 
+University of New South Wales (UNSW), Sydney, NSW, 2052, Australia. 
+magda.raban@mq.edu.au.
+(7)Viseisei Sai Health Centre, Viseisei village, Ba Province, Fiji. 
+n_shehna@hotmail.com.
+(8)School of Public Health and Community Medicine (SPHCM), Faculty of Medicine, 
+University of New South Wales (UNSW), Sydney, NSW, 2052, Australia. 
+c.linhart@unsw.edu.au.
+(9)School of Public Health and Community Medicine (SPHCM), Faculty of Medicine, 
+University of New South Wales (UNSW), Sydney, NSW, 2052, Australia. 
+stephen.morrell@unsw.edu.au.
+(10)Fiji Ministry of Health, Suva, Fiji. isimeli.tukana@govnet.gov.fj.
+(11)School of Public Health and Community Medicine (SPHCM), Faculty of Medicine, 
+University of New South Wales (UNSW), Sydney, NSW, 2052, Australia. 
+r.taylor@unsw.edu.au.
+
+BACKGROUND: The population of Fiji has experienced emergence of non-communicable 
+disease (NCD) and a plateau in life expectancy over the past 20 years.
+METHODS: A mini-STEPS survey (n = 2765) was conducted in Viseisei in Western 
+Fiji to assess NCD risk factors (RFs) in i-Taukei (Melanesians) and those of 
+Indian descent aged 25-64 years (response 73 %). Hypertension (HT) was defined 
+as systolic blood pressure (BP) ≥140 mmHg or diastolic BP ≥90 mmHg or on 
+medication for HT; type 2 diabetes mellitus (T2DM) as fasting plasma glucose 
+≥7.0 mmol/L or on medication for T2DM; and obesity as a body mass index 
+(kilograms/height(metres)(2)) ≥30. Data were age-adjusted to 2007 Fiji Census. 
+Associations between RFs and ethnicity/education were investigated. Comparisons 
+with Fiji STEPS surveys were undertaken, and the absolute risk of a 
+cardiovascular disease (CVD) event/death in 10 years was estimated from multiple 
+RF charts.
+RESULTS: NCD/RFs increased with age except excessive alcohol intake and daily 
+smoking (women) which declined. Daily smoking was higher in men 33 % (95 % 
+confidence interval: 31-36) than women 14 % (12-116); women were more obese 40 % 
+(37-43) than men 23 % (20-26); HT was similar in men 37 % (34-40) and women 34 % 
+(31-36), as was T2DM in men 15 % (13-17) and women 17 % (15-19). i-Taukei men 
+had an odds ratio (OR) of 0.41 (0.28-0.58) for T2DM compared to Indians (1.00); 
+and i-Taukei (both sexes) had a higher OR for obesity and low fruit/vegetable 
+intake, daily smoking, excessive alcohol intake and HT in females. Increasing 
+education correlated with lesser smoking, but with higher obesity and lower 
+fruit/vegetable intake. Compared to the 2011 Fiji STEPS survey, no significant 
+differences were evident in obesity, HT or T2DM prevalences. The proportion 
+(40-64 years) classified at high or very high risk (≥20 %) of a CVD event/death 
+(over 10 years) based on multiple RFs was 8.3 % for men (8.1 % i-Taukei, 8.5 % 
+Indian), and 6.7 % for women (7.9 % i-Taukei, 6.0 % Indian).
+CONCLUSIONS: The results of the survey highlight the need for individual and 
+community interventions to address the high levels of NCD/RFs. Evaluation of 
+interventions is needed in order to inform NCD control policies in Fiji and 
+other Pacific Island nations.
+
+DOI: 10.1186/s12889-016-2806-6
+PMCID: PMC4746813
+PMID: 26861211 [Indexed for MEDLINE]
+
+
+291. Int J Hematol. 2016 May;103(5):537-44. doi: 10.1007/s12185-016-1945-y. Epub
+2016  Feb 9.
+
+Iron chelation therapy of transfusion-dependent β-thalassemia during pregnancy 
+in the era of novel drugs: is deferasirox toxic?
+
+Diamantidis MD(1), Neokleous N(2), Agapidou A(2), Vetsiou E(2), Manafas A(3), 
+Fotiou P(3), Vlachaki E(4).
+
+Author information:
+(1)Thalassemia Unit, General Hospital of Larissa, Tsakalov St. 1, 41221, 
+Larissa, Greece. diamantidis76@gmail.com.
+(2)Thalassemia Unit, Department of Haematology, Second Department of Internal 
+Medicine, Hippokration General Hospital, Aristotle University of Thessaloniki 
+(AUTH), Konstantinoupoleos St. 49, 54 642, Thessaloniki, Greece.
+(3)Thalassemia Unit, General Hospital of Larissa, Tsakalov St. 1, 41221, 
+Larissa, Greece.
+(4)Thalassemia Unit, Department of Haematology, Second Department of Internal 
+Medicine, Hippokration General Hospital, Aristotle University of Thessaloniki 
+(AUTH), Konstantinoupoleos St. 49, 54 642, Thessaloniki, Greece. 
+efivlachaki@yahoo.gr.
+
+The life expectancy of thalassemic patients has increased, and now approaches 
+that of healthy individuals, thanks to improved treatment regimens. However, 
+pregnancy in women with β-Thalassemia Μajor remains a challenging condition. 
+Recent advances in managing this haemoglobinopathy offer the potential for safe 
+pregnancies with favorable outcome. However, clinical data regarding the use of 
+chelation therapy during pregnancy are limited, and it is unclear whether these 
+agents impose any risk to the developing fetus. Successful pregnancies following 
+unintentional treatment with deferoxamine or deferasirox have rarely been 
+reported. Generally, chelators are not recommended during pregnancy. Regarding 
+the new oral chelators, data on fetotoxicity are lacking. In the present study, 
+we describe the evolution and successful outcome of nine pregnancies in six 
+Greek thalassemic women who received deferasirox inadvertently during early 
+pregnancy, and review the literature regarding fetal anomalies due to chelators. 
+Use of chelation before embarking upon a non-programmed pregnancy remains a 
+difficult and unresolved question. In our study, chelation treatment during 
+pregnancy did not prevent the delivery of healthy children. Nonetheless, the use 
+of deferasirox is contraindicated in pregnant women, based on the product label. 
+Deferasirox should only be used during pregnancy if the potential benefit 
+outweighs the potential fetal risk.
+
+DOI: 10.1007/s12185-016-1945-y
+PMID: 26861970 [Indexed for MEDLINE]
+
+
+292. ARYA Atheroscler. 2015 Nov;11(6):323-31.
+
+Dairy consumption, cardiovascular risk factors and inflammation in elderly 
+subjects.
+
+Rashidi Pour Fard N(1), Karimi M(1), Baghaei MH(1), Haghighatdoost F(2), Rouhani 
+MH(2), Esmaillzadeh A(3), Azadbakht L(3).
+
+Author information:
+(1)Shahid Motahari Hospital, Fooladshahr, Isfahan, Iran.
+(2)Food Security Research Center AND Department of Community Nutrition, School 
+of Nutrition and Food Sciences, Isfahan University of Medical Sciences, Isfahan, 
+Iran.
+(3)Food Security Research Center AND Department of Community Nutrition, School 
+of Nutrition and Food Sciences, Isfahan University of Medical Sciences, Isfahan 
+AND Department of Community Nutrition, School of Nutritional Sciences and 
+Dietetics, Tehran University of Medical Sciences, Tehran, Iran.
+
+BACKGROUND: Previous epidemiological studies of dairy product consumption and 
+health outcomes have reported mixed findings. Despite increasing in life 
+expectancy, scarce data are available in this field in elderly individuals. We 
+tested the hypothesis that greater dairy intake is associated with lower high 
+sensitive C-reactive protein (hs-CRP) level and better lipid profile and 
+glycemic control.
+METHODS: This cross-sectional study was undertaken on 107 elderly individuals 
+who aged 60-78 years. Usual dietary intakes were assessed by means of a 
+validated food frequency questionnaire (FFQ). Anthropometric measures and 
+biochemical markers were determined using standard protocols.
+RESULTS: The reported mean ± standard deviation (SD) of daily intake of dairy 
+products and age were 588.02 ± 418.88 g/d and 63.22 ± 6.92 years, respectively. 
+After control for demographic characteristics and dietary intakes, dairy 
+consumption was not significantly related to the increased risk of insulin 
+resistance [Odds ratio (OR): 2.19, 95% confidence interval (CI): 0.54, 8.86; P = 
+0.520] and elevated hs-CRP (OR: 1.54, 95% CI: 0.37, 6.35; P = 0.550). 
+Participants in the top tertile of dairy had greater, but statistically not a 
+significant risk of elevated triglyceride (TG), total cholesterol and 
+low-density lipoprotein cholesterol (LDL-C). No significant relations were seen 
+for hs-CRP, insulin resistance and lipid profile across tertiles of dairy 
+products.
+CONCLUSION: In this elderly population, total dairy consumption was not 
+associated with inflammatory biomarkers levels and other cardiometabolic risk 
+factors.
+
+PMCID: PMC4738042
+PMID: 26862340
+
+
+293. World J Gastrointest Endosc. 2016 Feb 10;8(3):165-72. doi: 
+10.4253/wjge.v8.i3.165.
+
+Treatment of gastric outlet obstruction that results from unresectable gastric 
+cancer: Current evidence.
+
+Miyazaki Y(1), Takiguchi S(1), Takahashi T(1), Kurokawa Y(1), Makino T(1), 
+Yamasaki M(1), Nakajima K(1), Mori M(1), Doki Y(1).
+
+Author information:
+(1)Yasuhiro Miyazaki, Shuji Takiguchi, Tsuyoshi Takahashi, Yukinori Kurokawa, 
+Tomoki Makino, Makoto Yamasaki, Kiyokazu Nakajima, Masaki Mori, Yuichiro Doki, 
+Department of Gastroenterological Surgery, Osaka University Graduate School of 
+Medicine, Suita-shi, Osaka 565-0871, Japan.
+
+Malignant gastric outlet obstruction (GOO) is a common condition that results 
+from locally advanced malignancies in the upper gastrointestinal tract, such as 
+pancreatic, gastric, and other carcinomas. Two types of procedures for malignant 
+GOO, namely, gastrojejunostomy (GJ) with laparotomy or a laparoscopic approach 
+and endoscopic stenting (ES), are currently available. Although numerous 
+previous reports have clarified the benefits and drawbacks of each procedure, 
+whether GJ or ES should be used in patients with GOO that results from gastric 
+cancer who may have a longer life expectancy than patients with other 
+malignancies has not been determined. In this review, which focuses on gastric 
+cancer-induced GOO, we analyzed the two systematic reviews and a meta-analysis 
+that compared GJ and ES and outlined the current status of GOO treatment. We 
+also provide an updated review that includes laparoscopic GJ. Various data from 
+13 studies in one review and 6 studies in another review were analyzed. Although 
+the main results of the present review indicated that both GJ and ES were 
+efficacious treatments in patients with GOO that resulted from gastric cancer, 
+current evidence suggests that GJ may be the preferable procedure given its good 
+performance status and improved prognosis in gastric cancer patients.
+
+DOI: 10.4253/wjge.v8.i3.165
+PMCID: PMC4734975
+PMID: 26862366
+
+
+294. World J Clin Pediatr. 2016 Feb 8;5(1):25-34. doi: 10.5409/wjcp.v5.i1.25. 
+eCollection 2016 Feb 8.
+
+Novel insights in the management of sickle cell disease in childhood.
+
+Iughetti L(1), Bigi E(1), Venturelli D(1).
+
+Author information:
+(1)Lorenzo Iughetti, Elena Bigi, Pediatric Unit, Department of Medical and 
+Surgical Sciences for Mothers, Children and Adults, University of Modena and 
+Reggio Emilia, 41124 Modena, Italy.
+
+Sickle cell disease (SCD) is a life-threatening genetic disorder characterized 
+by chronic hemolytic anemia, vascular injury and multiorgan dysfunctions. Over 
+the last few decades, there have been significant improvements in SCD management 
+in Western countries, especially in pediatric population. An early onset of 
+prophylaxis with Penicillin and a proper treatment of the infections have 
+increased the overall survival in childhood. Nevertheless, management of painful 
+episodes and prevention of organ damage are still challenging and more efforts 
+are needed to better understand the mechanisms behind the development of chronic 
+organ damages. Hydroxyurea (Hydroxycarbamide, HU), the only medication approved 
+as a disease-modifying agent by the United States Food and Drug Administration 
+and the European Medicines Agency, is usually under-used, especially in 
+developing countries. Currently, hematopoietic stem-cell transplantation is 
+considered the only curative option, although its use is limited by lack of 
+donors and transplant-related toxicity. SCD symptoms are similar in children and 
+adults, but complications and systemic organ damages increase with age, leading 
+to early mortality worldwide. Experts in comprehensive care of young patients 
+with SCD, especially those approaching the transition age to adulthood, are 
+missing, leading people to rely on urgent care, increasing health care 
+utilization costs and inappropriate treatments. It would be important to 
+establish programs of comprehensive healthcare for patients with SCD from birth 
+to adulthood, to improve their quality and expectancy of life.
+
+DOI: 10.5409/wjcp.v5.i1.25
+PMCID: PMC4737690
+PMID: 26862499
+
+
+295. PLoS One. 2016 Feb 10;11(2):e0148304. doi: 10.1371/journal.pone.0148304. 
+eCollection 2016.
+
+Global Patterns of QALY and DALY Use in Surgical Cost-Utility Analyses: A 
+Systematic Review.
+
+Rios-Diaz AJ(1), Lam J(1)(2), Ramos MS(3), Moscoso AV(1), Vaughn P(1)(4), Zogg 
+CK(1), Caterson EJ(1)(5).
+
+Author information:
+(1)Center for Surgery and Public Health, Harvard Medical School & Harvard School 
+of Public Health, Department of Surgery, Brigham and Women's Hospital, Boston, 
+Massachusetts, United States of America.
+(2)Boston University, School of Medicine, Boston, Massachusetts, United States 
+of America.
+(3)Department of Surgery, Brigham and Women's Hospital, Boston, Massachusetts, 
+United States of America.
+(4)Harvard School of Dental Medicine, Boston, Massachusetts, United States of 
+America.
+(5)Division of Plastic and Reconstructive Surgery, Department of Surgery, 
+Brigham and Women's Hospital, Boston, Massachusetts, United States of America.
+
+BACKGROUND: Surgical interventions are being increasingly recognized as 
+cost-effective global priorities, the utility of which are frequently measured 
+using either quality-adjusted (QALY) or disability-adjusted (DALY) life years. 
+The objectives of this study were to: (1) identify surgical cost-effectiveness 
+studies that utilized a formulation of the QALY or DALY as a summary measure, 
+(2) report on global patterns of QALY and DALY use in surgery and the income 
+characteristics of the countries and/or regions involved, and (3) assess for 
+possible associations between national/regional-income levels and the relative 
+prominence of either measure.
+STUDY DESIGN: PRISMA-guided systematic review of surgical cost-effectiveness 
+studies indexed in PubMed or EMBASE prior to December 15, 2014, that used the 
+DALY and/or QALY as a summary measure. National locations were used to classify 
+publications based on the 2014 World Bank income stratification scheme into: 
+low-, lower-middle-, upper-middle-, or high-income countries. Differences in 
+QALY/DALY use were considered by income level as well as for differences in 
+geographic location and year using descriptive statistics (two-sided Chi-squared 
+tests, Fischer's exact tests in cell counts <5).
+RESULTS: A total of 540 publications from 128 countries met inclusion criteria, 
+representing 825 "national studies" (regional publications included data from 
+multiple countries). Data for 69.0% (569/825) were reported using QALYs (2.1% 
+low-, 1.2% lower-middle-, 4.4% upper-middle-, and 92.3% high-income countries), 
+compared to 31.0% (256/825) reported using DALYs (46.9% low-, 31.6% 
+lower-middle-, 16.8% upper-middle-, and 4.7% high-income countries) (p<0.001). 
+Studies from the US and the UK dominated the total number of QALY studies 
+(49.9%) and were themselves almost exclusively QALY-based. DALY use, in 
+contrast, was the most common in Africa and Asia. While prominent published use 
+of QALYs (1990s) in surgical cost-effectiveness studies began approximately 10 
+years earlier than DALYs (2000s), the use of both measures continues to 
+increase.
+CONCLUSION: As global prioritization of surgical interventions gains prominence, 
+it will be important to consider the comparative implications of summary measure 
+use. The results of this study demonstrate significant income- and 
+geographic-based differences in the preferential utilization of the QALY and 
+DALY for surgical cost-effectiveness studies. Such regional variation holds 
+important implications for efforts to interpret and utilize global health policy 
+research. PROSPERO registration number: CRD42015015991.
+
+DOI: 10.1371/journal.pone.0148304
+PMCID: PMC4749322
+PMID: 26862894 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+296. PLoS One. 2016 Feb 10;11(2):e0148650. doi: 10.1371/journal.pone.0148650. 
+eCollection 2016.
+
+Water-Transfer Slows Aging in Saccharomyces cerevisiae.
+
+Cohen A(1), Weindling E(1), Rabinovich E(1), Nachman I(1), Fuchs S(2), 
+Chuartzman S(2), Gal L(2), Schuldiner M(2), Bar-Nun S(1).
+
+Author information:
+(1)Department of Biochemistry and Molecular Biology, George S. Wise Faculty of 
+Life Sciences, Tel Aviv University, Tel Aviv, Israel.
+(2)Department of Molecular Genetics, Weizmann Institute of Science, Rehovot, 
+Israel.
+
+Transferring Saccharomyces cerevisiae cells to water is known to extend their 
+lifespan. However, it is unclear whether this lifespan extension is due to 
+slowing the aging process or merely keeping old yeast alive. Here we show that 
+in water-transferred yeast, the toxicity of polyQ proteins is decreased and the 
+aging biomarker 47Q aggregates at a reduced rate and to a lesser extent. These 
+beneficial effects of water-transfer could not be reproduced by diluting the 
+growth medium and depended on de novo protein synthesis and proteasomes levels. 
+Interestingly, we found that upon water-transfer 27 proteins are downregulated, 
+4 proteins are upregulated and 81 proteins change their intracellular 
+localization, hinting at an active genetic program enabling the lifespan 
+extension. Furthermore, the aging-related deterioration of the heat shock 
+response (HSR), the unfolded protein response (UPR) and the endoplasmic 
+reticulum-associated protein degradation (ERAD), was largely prevented in 
+water-transferred yeast, as the activities of these proteostatic network 
+pathways remained nearly as robust as in young yeast. The characteristics of 
+young yeast that are actively maintained upon water-transfer indicate that the 
+extended lifespan is the outcome of slowing the rate of the aging process.
+
+DOI: 10.1371/journal.pone.0148650
+PMCID: PMC4749178
+PMID: 26862897 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+297. N Engl J Med. 2016 Feb 11;374(6):523-32. doi: 10.1056/NEJMoa1504327.
+
+Incidence of Dementia over Three Decades in the Framingham Heart Study.
+
+Satizabal CL(1), Beiser AS, Chouraki V, Chêne G, Dufouil C, Seshadri S.
+
+Author information:
+(1)From the Boston University Schools of Medicine (C.L.S., A.S.B., V.C., S.S.) 
+and Public Health (A.S.B.), Boston, and the Framingham Heart Study, Framingham 
+(C.L.S., A.S.B., V.C., S.S.) - all in Massachusetts; and Inserm Unité 1219 and 
+CIC 1401-EC (Clinical Epidemiology) and University of Bordeaux, ISPED (Bordeaux 
+School of Public Health) - both in Bordeaux, France (G.C., C.D.).
+
+Comment in
+    Dtsch Med Wochenschr. 2016 Apr;141(8):528.
+    BMJ. 2016;352:i912.
+    MMW Fortschr Med. 2016 Apr 14;158(7):35.
+    N Engl J Med. 2016 Jul 7;375(1):93-4.
+    N Engl J Med. 2016 Jul 7;375(1):92-3.
+    N Engl J Med. 2016 Jul 7;375(1):93.
+
+BACKGROUND: The prevalence of dementia is expected to soar as the average life 
+expectancy increases, but recent estimates suggest that the age-specific 
+incidence of dementia is declining in high-income countries. Temporal trends are 
+best derived through continuous monitoring of a population over a long period 
+with the use of consistent diagnostic criteria. We describe temporal trends in 
+the incidence of dementia over three decades among participants in the 
+Framingham Heart Study.
+METHODS: Participants in the Framingham Heart Study have been under surveillance 
+for incident dementia since 1975. In this analysis, which included 5205 persons 
+60 years of age or older, we used Cox proportional-hazards models adjusted for 
+age and sex to determine the 5-year incidence of dementia during each of four 
+epochs. We also explored the interactions between epoch and age, sex, 
+apolipoprotein E ε4 status, and educational level, and we examined the effects 
+of these interactions, as well as the effects of vascular risk factors and 
+cardiovascular disease, on temporal trends.
+RESULTS: The 5-year age- and sex-adjusted cumulative hazard rates for dementia 
+were 3.6 per 100 persons during the first epoch (late 1970s and early 1980s), 
+2.8 per 100 persons during the second epoch (late 1980s and early 1990s), 2.2 
+per 100 persons during the third epoch (late 1990s and early 2000s), and 2.0 per 
+100 persons during the fourth epoch (late 2000s and early 2010s). Relative to 
+the incidence during the first epoch, the incidence declined by 22%, 38%, and 
+44% during the second, third, and fourth epochs, respectively. This risk 
+reduction was observed only among persons who had at least a high school diploma 
+(hazard ratio, 0.77; 95% confidence interval, 0.67 to 0.88). The prevalence of 
+most vascular risk factors (except obesity and diabetes) and the risk of 
+dementia associated with stroke, atrial fibrillation, or heart failure have 
+decreased over time, but none of these trends completely explain the decrease in 
+the incidence of dementia.
+CONCLUSIONS: Among participants in the Framingham Heart Study, the incidence of 
+dementia has declined over the course of three decades. The factors contributing 
+to this decline have not been completely identified. (Funded by the National 
+Institutes of Health.).
+
+DOI: 10.1056/NEJMoa1504327
+PMCID: PMC4943081
+PMID: 26863354 [Indexed for MEDLINE]
+
+
+298. Appl Physiol Nutr Metab. 2016 Apr;41(4):405-10. doi: 10.1139/apnm-2015-0523.
+ Epub 2016 Feb 10.
+
+Expectancy of ergogenicity from sodium bicarbonate ingestion increases 
+high-intensity cycling capacity.
+
+Higgins MF(1), Shabir A(1).
+
+Author information:
+(1)Sport, Outdoor and Exercise Science, Department of Life Sciences, Derby 
+University, Kedleston Road, Derby, DE22 1GB, UK.
+
+Erratum in
+    Appl Physiol Nutr Metab. 2019 Apr;44(4):454.
+
+This study examined whether expectancy of ergogenicity of a commonly used 
+nutritional supplement (sodium bicarbonate; NaHCO3) influenced subsequent 
+high-intensity cycling capacity. Eight recreationally active males (age, 21 ± 1 
+years; body mass, 75 ± 8 kg; height, 178 ± 4 cm; WPEAK = 205 ± 22 W) performed a 
+graded incremental test to assess peak power output (WPEAK), one familiarisation 
+trial and two experimental trials. Experimental trials consisted of cycling at 
+100% WPEAK to volitional exhaustion (TLIM) 60 min after ingesting either a 
+placebo (PLA: 0.1 g·kg(-1) sodium chloride (NaCl), 4 mL·kg(-1) tap water, and 1 
+mL·kg(-1) squash) or a sham placebo (SHAM: 0.1 g·kg(-1) NaCl, 4 mL·kg(-1) 
+carbonated water, and 1 mL·kg(-1) squash). SHAM aimed to replicate the 
+previously reported symptoms of gut fullness (GF) and abdominal discomfort (AD) 
+associated with NaHCO3 ingestion. Treatments were administered double blind and 
+accompanied by written scripts designed to remain neutral (PLA) or induce 
+expectancy of ergogenicity (SHAM). After SHAM mean TLIM increased by 9.5% 
+compared to PLA (461 ± 148 s versus 421 ± 150 s; P = 0.048, d = 0.3). Ratings of 
+GF and AD were mild but ~1 unit higher post-ingestion for SHAM. After 3 min TLIM 
+overall ratings of perceived exertion were 1.4 ± 1.3 units lower for SHAM 
+compared to PLA (P = 0.020, d = 0.6). There were no differences between 
+treatments for blood lactate, blood glucose, or heart rate. In summary, 
+ergogenicity after NaHCO3 ingestion may be influenced by expectancy, which 
+mediates perception of effort during subsequent exercise. The observed 
+ergogenicity with SHAM did not affect our measures of cardiorespiratory 
+physiology or metabolic flux.
+
+DOI: 10.1139/apnm-2015-0523
+PMID: 26863442 [Indexed for MEDLINE]
+
+
+299. Phytopathology. 2016 Jun;106(6):562-71. doi: 10.1094/PHYTO-10-15-0254-R.
+Epub  2016 Apr 13.
+
+Overexpression of the CYP51A1 Gene and Repeated Elements are Associated with 
+Differential Sensitivity to DMI Fungicides in Venturia inaequalis.
+
+Villani SM(1), Hulvey J(1), Hily JM(1), Cox KD(1).
+
+Author information:
+(1)First author: Department of Plant Pathology, Mountain Horticultural Crops 
+Research and Extension Center, North Carolina State University, Mills River 
+28759; second author: Biology Department, University of Massachusetts, Life 
+Sciences Lab N585, Amherst 01003; third author: Institut National de la 
+Recherche Agronomique, Université de Strasbourg, UMR 1131 santé de la Vigne et 
+Qualité du Vin, Colmar Cedex, France; and fourth author: Section of Plant 
+Pathology and Plant-Microbe Biology, School of Integrative Plant Science, 
+Cornell University, Geneva, NY 14456.
+
+The involvement of overexpression of the CYP51A1 gene in Venturia inaequalis was 
+investigated for isolates exhibiting differential sensitivity to the triazole 
+demethylation inhibitor (DMI) fungicides myclobutanil and difenoconazole. 
+Relative expression (RE) of the CYP51A1 gene was significantly greater (P < 
+0.0001) for isolates with resistance to both fungicides (MRDR phenotype) or with 
+resistance to difenoconazole only (MSDR phenotype) compared with isolates that 
+were resistant only to myclobutanil (MRDS phenotype) or sensitive to both 
+fungicides (MSDS phenotype). An average of 9- and 13-fold increases in CYP51A1 
+RE were observed in isolates resistant to difenoconazole compared with isolates 
+with MRDS and MSDS phenotypes, respectively. Linear regression analysis between 
+isolate relative growth on myclobutanil-amended medium and log10 RE revealed 
+that little to no variability in sensitivity to myclobutanil could be explained 
+by CYP51A1 overexpression (R(2) = 0.078). To investigate CYP51A1 upstream 
+anomalies associated with CYP51A1 overexpression or resistance to 
+difenoconazole, Illumina sequencing was conducted for three isolates with 
+resistance to difenoconazole and one baseline isolate. A repeated element, "EL 
+3,1,2", with the properties of a transcriptional enhancer was identified two to 
+four times upstream of CYP51A1 in difenoconazole-resistant isolates but was not 
+found in isolates with the MRDS phenotype. These results suggest that different 
+mechanisms may govern resistance to different DMI fungicides in the triazole 
+group.
+
+DOI: 10.1094/PHYTO-10-15-0254-R
+PMID: 26863444 [Indexed for MEDLINE]
+
+
+300. J Racial Ethn Health Disparities. 2015 Dec;2(4):425-33. doi: 
+10.1007/s40615-015-0089-8. Epub 2015 Mar 24.
+
+Life Expectancy Varies in Local Communities in Chicago: Racial and Spatial 
+Disparities and Correlates.
+
+Hunt BR(1), Tran G(2), Whitman S(3).
+
+Author information:
+(1)Sinai Urban Health Institute, Mount Sinai Hospital, Sinai Health System, 1500 
+S. California Ave., Room K443, Chicago, IL, 60608, USA. bijou.hunt@sinai.org.
+(2)Chicago Medical School, Rosalind Franklin University, North Chicago, IL, USA.
+(3)Sinai Urban Health Institute, Mount Sinai Hospital, Sinai Health System, 1500 
+S. California Ave., Room K443, Chicago, IL, 60608, USA.
+
+OBJECTIVES: Life expectancy in the USA reached a record high of 78.7 years in 
+2010. However, the racial gap in life expectancy persists. National data, which 
+are readily available, provide averages which mask important local-level 
+differences. Local data are needed to identify the worst off groups, key to 
+reducing disparities and pursuing health equity.
+METHODS: Using vital records data, we calculated life expectancy for the USA and 
+Chicago by race/ethnicity and gender and for Chicago's 77 community areas. We 
+also examined the correlation between life expectancy and (1) racial/ethnic 
+composition of a community area and (2) median household income.
+RESULTS: In Chicago, the highest life expectancy was observed among Hispanics at 
+84.6 and the lowest life expectancy was observed among Blacks at 71.7-a 
+difference of about 13 years. Life expectancy varied substantially across the 77 
+community areas of Chicago, from a low of 68.2 to a high of 83.3-a difference of 
+15 years. There were strong correlations between life expectancy and the racial, 
+ethnic, and socioeconomic distributions among the community areas.
+CONCLUSIONS: The examination of data at the local level provides invaluable 
+insight into which communities are facing the greatest burden in terms of health 
+and well-being. It is only through the examination of local-level data that we 
+can understand the unique needs of these communities and begin to address them.
+
+DOI: 10.1007/s40615-015-0089-8
+PMID: 26863550 [Indexed for MEDLINE]301. Vopr Pitan. 2015;84(3):58-63.
+
+[Monitoring the nutritional status of the residents of St. Petersburg].
+
+[Article in Russian]
+
+Dotsenko VA, Kononenko IA, Mosiychuk L, Dolotov SA, Khoritonenko OV.
+
+The purpose of the study was to analyze the diet of the population of St. 
+Petersburg from different social and age groups and justify 
+organizational-methodological ways to improve it. 1200 inhabitants 18 years old 
+and over (674 women, 526 men) were interviewed using questionnaires. One-third 
+of St. Petersburg population did not adhere to the recommended 3-4 meals per 
+day, taking meal 2 times per day or less (21.7%) or 5 times per day or more 
+(11.3%). The young (18-29 years old) and socially active residents 1.5-2fold 
+more likely than pensioners (13.8%) fed 2 times per day. Women 2.2 fold more 
+frequently than men fed 5 times per day. Young people (20%) and socially active 
+persons (24.4%) prefer not to have breakfast or take it 2-3 times per week 
+compared with 9.6% pensioners. Supper as the main mealtimes called 27.8% women, 
+that is 1.4 fold more likely than men. Thus, a great part of the population in 
+the young and socially active adulthood violates proper diet, and women more 
+often as compared to men. This can lead to disruption of the metabolic 
+processes, increasing the risk of nutrition-related diseases, a decrease of 
+efficiency and reduced life expectancy. This raises the feasibility of 
+establishing of healthy eating offices based on health centers or clinics in St. 
+Petersburg.
+
+PMID: 26863807 [Indexed for MEDLINE]
+
+
+302. J Diet Suppl. 2016;13(5):538-50. doi: 10.3109/19390211.2015.1122693. Epub
+2016  Feb 10.
+
+Review of Various Herbal Supplements as Complementary Treatments for Oral 
+Cancer.
+
+Godsey J(1), Grundmann O(1).
+
+Author information:
+(1)a Department of Medicinal Chemistry, College of Pharmacy , University of 
+Florida , Gainesville , Florida , USA.
+
+In the United States, nearly 44,000 people are diagnosed with oral or pharyngeal 
+cancer annually. The life expectancy for those who are diagnosed have a survival 
+rate of 57% after five years. Among them, oral cancer can be classified as 
+benign or malignant tumors and is diagnosed at several stages in the 
+development: premalignant conditions, premalignant lesions, and malignant 
+cancer. The early signs of oral cancer often go unnoticed by the individual and 
+are often discovered during routine dental examinations. Early detection and 
+treatment may help to increase patient survival rates. The most widely used 
+treatments for oral cancer include surgery, radiation, and chemotherapy-alone or 
+in combination. Preclinical and clinical evidence for the use of green tea, 
+raspberry, asparagus, and cannabis extracts is discussed in this review. Diet 
+changes, supplementation with antioxidants, high-dose vitamin C therapy, and 
+cannabinoid use have been suggested to decrease cancer cell replication and 
+increase chance of remission. Early detection and lifestyle changes, including 
+the use of dietary supplements in at-risk populations, are critical steps in 
+preventing and successfully treating oral cancer. The main evidence for 
+supplement use is currently in cancer prevention rather than treatment. Further 
+research, determination, and mechanism of action for bioactive compounds such as 
+epigallocatechin, epicatechin-3-gallate, and Bowman-Birk inhibitor concentrate, 
+through in vitro, in vivo, and clinical trials need to be completed to support 
+the use of natural products and their effectiveness in preventative care and 
+supporting therapeutic approaches.
+
+DOI: 10.3109/19390211.2015.1122693
+PMID: 26863913 [Indexed for MEDLINE]
+
+
+303. Aliment Pharmacol Ther. 2016 Apr;43(7):814-24. doi: 10.1111/apt.13554. Epub
+2016  Feb 11.
+
+Years of life that could be saved from prevention of hepatocellular carcinoma.
+
+Cucchetti A(1), Trevisani F(1), Bucci L(1), Ravaioli M(1), Farinati F(2), 
+Giannini EG(3), Ciccarese F(4), Piscaglia F(1), Rapaccini GL(5), Di Marco M(6), 
+Caturelli E(7), Zoli M(1), Borzio F(8), Sacco R(9), Maida M(10), Felder M(11), 
+Morisco F(12), Gasbarrini A(5), Gemini S(13), Foschi FG(14), Missale G(15), 
+Masotto A(16), Affronti A(10), Bernardi M(1), Pinna AD(1); Italian Liver Cancer 
+Group.
+
+Collaborators: Bolondi L, Biselli M, Caraceni P, Domenicali M, Gramenzi A, 
+Magalotti D, Pecorelli A, Serra C, Venerandi L, Gazzola A, Murer F, Pozzan C, 
+Vanin V, Del Poggio P, Olmi S, Balsamo C, Vavassori E, Benvegnù L, Cappelli A, 
+Golfieri R, Mosconi C, Renzulli M, Bosco G, Roselli P, Dell'Isola S, Lalungo AM, 
+Rastrelli E, Moscatelli A, Pellegatta G, Picciotto A, Savarino V, Barcellona MR, 
+Virdone R, Mega A, Rinninella E, Mismas V, Dall'Aglio AC, Feletti V, Lanzi A, 
+Cappa FM, Neri E, Stefanini GF, Tamberi S, Guarino M, Baroni GS, Schiadà L, 
+Chiaramonte M, Marchetti F, Valerio M.
+
+Author information:
+(1)Bologna, Italy.
+(2)Padova, Italy.
+(3)Genova, Italy.
+(4)Zingonia, Italy.
+(5)Rome, Italy.
+(6)Seriate, Italy.
+(7)Viterbo, Italy.
+(8)Milan, Italy.
+(9)Pisa, Italy.
+(10)Palermo, Italy.
+(11)Bolzano, Italy.
+(12)Napoli, Italy.
+(13)Ancona, Italy.
+(14)Faenza, Italy.
+(15)Parma, Italy.
+(16)Negrar, Italy.
+
+Comment in
+    Aliment Pharmacol Ther. 2017 Jan;45(2):375-376.
+
+BACKGROUND: Hepatocellular carcinoma (HCC) causes premature death and loss of 
+life expectancy worldwide. Its primary and secondary prevention can result in a 
+significant number of years of life saved.
+AIM: To assess how many years of life are lost after HCC diagnosis.
+METHODS: Data from 5346 patients with first HCC diagnosis were used to estimate 
+lifespan and number of years of life lost after tumour onset, using a 
+semi-parametric extrapolation having as reference an age-, sex- and 
+year-of-onset-matched population derived from national life tables.
+RESULTS: Between 1986 and 2014, HCC lead to an average of 11.5 years-of-life 
+lost for each patient. The youngest age-quartile group (18-61 years) had the 
+highest number of years-of-life lost, representing approximately 41% of the 
+overall benefit obtainable from prevention. Advancements in HCC management have 
+progressively reduced the number of years-of-life lost from 12.6 years in 
+1986-1999, to 10.7 in 2000-2006 and 7.4 years in 2007-2014. Currently, an HCC 
+diagnosis when a single tumour <2 cm results in 3.7 years-of-life lost while the 
+diagnosis when a single tumour ≥ 2 cm or 2/3 nodules still within the Milan 
+criteria, results in 5.0 years-of-life lost, representing the loss of only 
+approximately 5.5% and 7.2%, respectively, of the entire lifespan from birth.
+CONCLUSIONS: Hepatocellular carcinoma occurrence results in the loss of a 
+considerable number of years-of-life, especially for younger patients. In recent 
+years, the increased possibility of effectively treating this tumour has 
+improved life expectancy, thus reducing years-of-life lost.
+
+© 2016 John Wiley & Sons Ltd.
+
+DOI: 10.1111/apt.13554
+PMID: 26864152 [Indexed for MEDLINE]
+
+
+304. BMC Geriatr. 2016 Feb 10;16:41. doi: 10.1186/s12877-016-0215-4.
+
+The effects of advanced age on primary total knee arthroplasty: a meta-analysis 
+and systematic review.
+
+Kuperman EF(1), Schweizer M(2)(3)(4), Joy P(5), Gu X(6), Fang MM(7).
+
+Author information:
+(1)Department of Internal Medicine, University of Iowa, Carver College of 
+Medicine, SE 622 GH 200 Hawkins Drive, Iowa City, IA, 52242, USA. 
+ethan-kuperman@uiowa.edu.
+(2)Department of Internal Medicine, University of Iowa, Carver College of 
+Medicine, SE 622 GH 200 Hawkins Drive, Iowa City, IA, 52242, USA.
+(3)Center for Comprehensive Access and Delivery Research and Evaluation, Iowa 
+City VA Health System, Iowa City, IA, USA.
+(4)Department of Epidemiology, College of Public Health, University of Iowa, 
+Iowa City, IA, USA.
+(5)Department of Internal Medicine, University of Iowa, Carver College of 
+Medicine, SE 622 GH 200 Hawkins Drive, Iowa City, IA, 52242, USA. 
+Parijat-joy@uiowa.edu.
+(6)Health Sciences Clinical Education Librarian, Hardin Library of the Health 
+Sciences, University of Iowa, Iowa City, IA, USA. Xiaomei-gu@uiowa.edu.
+(7)Department of Internal Medicine, University of Iowa, Carver College of 
+Medicine, SE 622 GH 200 Hawkins Drive, Iowa City, IA, 52242, USA. 
+Michele-fang@uiowa.edu.
+
+BACKGROUND: Total knee arthroplasty is an effective treatment when nonsurgical 
+treatments fail, but it is associated with risk of complications which may be 
+increased in advanced age. The purpose of this study was to quantify age-related 
+differences in perioperative morbidity and mortality after total knee 
+arthroplasty through systematic review of existing literature.
+METHODS: PubMed, the Cochrane database of systematic reviews, Scopus, and 
+clinicaltrials.gov, were queried for relevant studies that compared primary 
+total knee arthroplasty outcomes of mortality, myocardial infarction (MI), deep 
+vein thrombosis (DVT), pulmonary embolism (PE) and functional status, of 
+geriatric patients (>75 years old) with a younger control group (<65 years old). 
+Pertinent journals and reference lists were hand searched. Eligibility criteria 
+included all articles except case reports, meta-analyses, and systematic 
+reviews. Two authors independently extracted data from each paper. Article 
+quality was assessed using the Newcastle-Ottawa Scale.
+RESULTS: Twenty-two studies were included. Geriatric patients had higher rates 
+of mortality, MI, DVT, and length of stay in older compared to younger patients, 
+however the absolute magnitude of these increases were small. The increase in 
+mortality may have reflected decreased life expectancy in the geriatric 
+populations as opposed to mortality specifically due perioperative risk. There 
+were no differences in PE incidence and improvement in pain and functional 
+status was equal in older and younger patients. Existing studies were limited by 
+non-randomized patient selection, as well as variation in definitions and 
+methodology.
+CONCLUSIONS: Existing data supports offering primary total knee arthroplasty to 
+select geriatric patients, although the risk of complications may be increased. 
+Much of the data was of poor quality. Future prospective studies are needed to 
+better identify risks and benefits of total knee arthroplasty so that patients 
+and surgeons can make informed decisions.
+
+DOI: 10.1186/s12877-016-0215-4
+PMCID: PMC4750247
+PMID: 26864215 [Indexed for MEDLINE]
+
+
+305. JAMA. 2016 Feb 9;315(6):609-11. doi: 10.1001/jama.2015.15564.
+
+Major Causes of Injury Death and the Life Expectancy Gap Between the United 
+States and Other High-Income Countries.
+
+Fenelon A(1), Chen LH(1), Baker SP(2).
+
+Author information:
+(1)National Center for Health Statistics, Hyattsville, Maryland.
+(2)Johns Hopkins University Bloomberg School of Public Health, Baltimore, 
+Maryland.
+
+DOI: 10.1001/jama.2015.15564
+PMCID: PMC4767002
+PMID: 26864416 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: All authors 
+have completed and submitted the ICMJE Form for Disclosure of Potential 
+Conflicts of Interest and none were reported.
+
+
+306. J Neurosci Res. 2016 May;94(5):424-9. doi: 10.1002/jnr.23718. Epub 2016 Feb
+11.
+
+Extension of recovery time from fatigue by repeated rest with short-term sleep 
+during continuous fatigue load: Development of chronic fatigue model.
+
+Kanzaki A(1)(2), Okauchi T(1), Hu D(1), Shingaki T(1), Katayama Y(1), Koyama 
+H(2), Watanabe Y(1), Cui Y(1).
+
+Author information:
+(1)Division of Biofunction Dynamics Imaging, RIKEN Center for Life Science 
+Technologies, Chuo-ku, Kobe, Japan.
+(2)Division of Endocrinology and Metabolism, Department of Internal Medicine, 
+Hyogo College of Medicine, Nishinomiya, Hyogo, Japan.
+
+Homeostasis is known to be involved in maintaining the optimal internal 
+environment, helping to achieve the best performance of biological functions. At 
+the same time, a deviation from optimal conditions often attenuates the 
+performance of biological functions, and such restricted performance could be 
+considered as individual fatigue, including physical and mental fatigue. The 
+present study seeks to develop an animal model of chronic or subacute fatigue in 
+which the recovery time is extended through the gradual disruption of 
+homeostasis. We show that repeated short-term rest periods with certain lengths 
+of sleep during continuous fatigue loading extend recovery from spontaneous 
+nighttime activity but not physical performance in comparison with a continuous 
+fatigue-loading procedure. Furthermore, the immobility time in a forced swimming 
+test was extended by repeated short-term rests. These results suggest that 
+repeated short-term rest with certain lengths of sleep during continuous fatigue 
+loading is able to extend the recovery from mental fatigue but not from physical 
+fatigue and that this effect might occur via the disruption of a homeostatic 
+mechanism that is involved in restoring the optimal internal environment.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jnr.23718
+PMID: 26864568 [Indexed for MEDLINE]
+
+
+307. Heart. 2016 May 15;102(10):755-62. doi: 10.1136/heartjnl-2015-308850. Epub
+2016  Feb 10.
+
+Using electronic health records to predict costs and outcomes in stable coronary 
+artery disease.
+
+Asaria M(1), Walker S(1), Palmer S(1), Gale CP(2), Shah AD(3), Abrams KR(4), 
+Crowther M(4), Manca A(1), Timmis A(5), Hemingway H(3), Sculpher M(1).
+
+Author information:
+(1)Centre for Health Economics, University of York, York, UK.
+(2)Faculty of Medicine and Health, Leeds Institute of Cardiovascular and 
+Metabolic Medicine, University of Leeds, Leeds, UK.
+(3)Farr Institute of Health Informatics Research, UCL Institute of Health 
+Informatics, University College, London, UK.
+(4)Department of Health Sciences, University of Leicester, Leicester, UK.
+(5)NIHR Biomedical Research Unit, Barts and the London NHS Trust, London, UK.
+
+Comment in
+    Heart. 2016 May 15;102(10):733-4.
+
+OBJECTIVES: To use electronic health records (EHR) to predict lifetime costs and 
+health outcomes of patients with stable coronary artery disease (stable-CAD) 
+stratified by their risk of future cardiovascular events, and to evaluate the 
+cost-effectiveness of treatments targeted at these populations.
+METHODS: The analysis was based on 94 966 patients with stable-CAD in England 
+between 2001 and 2010, identified in four prospectively collected, linked EHR 
+sources. Markov modelling was used to estimate lifetime costs and 
+quality-adjusted life years (QALYs) stratified by baseline cardiovascular risk.
+RESULTS: For the lowest risk tenth of patients with stable-CAD, predicted 
+discounted remaining lifetime healthcare costs and QALYs were £62 210 (95% CI 
+£33 724 to £90 043) and 12.0 (95% CI 11.5 to 12.5) years, respectively. For the 
+highest risk tenth of the population, the equivalent costs and QALYs were 
+£35 549 (95% CI £31 679 to £39 615) and 2.9 (95% CI 2.6 to 3.1) years, 
+respectively. A new treatment with a hazard reduction of 20% for myocardial 
+infarction, stroke and cardiovascular disease death and no side-effects would be 
+cost-effective if priced below £72 per year for the lowest risk patients and 
+£646 per year for the highest risk patients.
+CONCLUSIONS: Existing EHRs may be used to estimate lifetime healthcare costs and 
+outcomes of patients with stable-CAD. The stable-CAD model developed in this 
+study lends itself to informing decisions about commissioning, pricing and 
+reimbursement. At current prices, to be cost-effective some established as well 
+as future stable-CAD treatments may require stratification by patient risk.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not 
+already granted under a licence) please go to 
+http://www.bmj.com/company/products-services/rights-and-licensing/
+
+DOI: 10.1136/heartjnl-2015-308850
+PMCID: PMC4849559
+PMID: 26864674 [Indexed for MEDLINE]
+
+
+308. Neurology. 2016 Mar 8;86(10):890-7. doi: 10.1212/WNL.0000000000002445. Epub
+2016  Feb 10.
+
+Results from a phase 1 study of nusinersen (ISIS-SMN(Rx)) in children with 
+spinal muscular atrophy.
+
+Chiriboga CA(1), Swoboda KJ(2), Darras BT(2), Iannaccone ST(2), Montes J(2), De 
+Vivo DC(2), Norris DA(2), Bennett CF(2), Bishop KM(2).
+
+Author information:
+(1)From the Departments of Neurology (C.A.C., J.M., D.C.D.) and Rehabilitative 
+and Regenerative Medicine (J.M.), Columbia University, New York, NY; Department 
+of Neurology (K.J.S.), University of Utah, Salt Lake City; Department of 
+Neurology (B.T.D.), Boston Children's Hospital, Boston, MA; Department of 
+Pediatrics (S.T.I.), University of Texas Southwestern Medical School, Dallas; 
+and Ionis Pharmaceuticals, Inc. (formerly Isis Pharmaceuticals, Inc.) (D.A.N., 
+C.F.B., K.M.B.), Carlsbad, CA. cac3@cumc.columbia.edu.
+(2)From the Departments of Neurology (C.A.C., J.M., D.C.D.) and Rehabilitative 
+and Regenerative Medicine (J.M.), Columbia University, New York, NY; Department 
+of Neurology (K.J.S.), University of Utah, Salt Lake City; Department of 
+Neurology (B.T.D.), Boston Children's Hospital, Boston, MA; Department of 
+Pediatrics (S.T.I.), University of Texas Southwestern Medical School, Dallas; 
+and Ionis Pharmaceuticals, Inc. (formerly Isis Pharmaceuticals, Inc.) (D.A.N., 

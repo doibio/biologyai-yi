@@ -1,0 +1,1000 @@
+
+Author information:
+(1)Jiangsu Key Laboratory for Microbes and Functional Genomics, Jiangsu 
+Engineering and Technology Research Center for Industrialization of Microbial 
+Resources, College of Life Sciences, Nanjing Normal University, Nanjing 210023, 
+Jiangsu Province China.
+(2)China Key Laboratory of Light Industry Functional Yeast, Three Gorges 
+University, Yichang, 443000, Hubei Province China.
+
+Abundant gene clusters of natural products are observed in the endophytic fungus 
+Phomopsis liquidambaris; however, most of them are silent. Herein, a 
+plug-and-play DNA assembly tool has been applied for flavonoid synthesis in P. 
+liquidambaris. A shuttle plasmid was constructed based on S. cerevisiae, E. 
+coli, and P. liquidambaris with screening markers URA, Amp, and hygR, 
+respectively. Each fragment or cassette was successively assembled by overlap 
+extension PCR with at least 40-50 bp homologous arms in S. cerevisiae for 
+generating a new vector. Seven native promoters were screened by the DNA 
+assembly based on the fluorescence intensity of the mCherry reporter gene in P. 
+liquidambaris, and two of them were new promoters. The key enzyme chalcone 
+synthase was the limiting step of the pathway. The naringenin and kaempferol 
+pathways were refactored and activated with the titers of naringenin and 
+kaempferol of 121.53 mg/L and 75.38 mg/L in P. liquidambaris using fed-batch 
+fermentation, respectively. This study will be efficient and helpful for the 
+biosynthesis of secondary metabolites.
+
+DOI: 10.1021/acssynbio.1c00205
+PMID: 34251173 [Indexed for MEDLINE]
+
+
+50. Demography. 2021 Aug 1;58(4):1525-1546. doi: 10.1215/00703370-9368990.
+
+Estimating Adult Death Rates From Sibling Histories: A Network Approach.
+
+Feehan DM(1), Borges GM(2).
+
+Author information:
+(1)Department of Demography, University of California, Berkeley, CA, USA.
+(2)Brazilian Institute of Geography and Statistics (IBGE), Rio de Janeiro, 
+Brazil.
+
+Hundreds of millions of people live in countries that do not have complete death 
+registration systems, meaning that most deaths are not recorded and that 
+critical quantities, such as life expectancy, cannot be directly measured. The 
+sibling survival method is a leading approach to estimating adult mortality in 
+the absence of death registration. The idea is to ask survey respondents to 
+enumerate their siblings and to report about their survival status. In many 
+countries and periods, sibling survival data are the only nationally 
+representative source of information about adult mortality. Although a vast 
+amount of sibling survival data has been collected, important methodological 
+questions about the method remain unresolved. To help make progress on this 
+issue, we propose reframing the sibling survival method as a network sampling 
+problem. This approach enables a formal derivation of statistical estimators for 
+sibling survival data. Our derivation clarifies the precise conditions that 
+sibling history estimates rely on, leads to internal consistency checks that can 
+help assess data and reporting quality, and reveals important quantities that 
+could potentially be measured to relax assumptions in the future. We introduce 
+the R package siblingsurvival, which implements the methods we describe.
+
+Copyright © 2021 The Authors.
+
+DOI: 10.1215/00703370-9368990
+PMID: 34251434 [Indexed for MEDLINE]
+
+
+51. Orv Hetil. 2021 Jul 11;162(28):1129-1136. doi: 10.1556/650.2021.32115.
+
+[Pregnancy in women with cystic fibrosis: 14 case reports and literature 
+review].
+
+[Article in Hungarian]
+
+Ságodi L(1), Sólyom E(2), Almási A(2), Csiszér E(3), Nagy G(4).
+
+Author information:
+(1)1 Miskolci Egyetem, Egészségügyi Kar, Preventív Egészségtudományi Tanszék, 
+Miskolc, Adler Károly út 6., 3524.
+(2)2 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház, 
+Velkey László Gyermekegészségügyi Központ, Miskolc.
+(3)3 Országos Korányi Pulmonológiai Intézet és Semmelweis Egyetem, Pulmonológiai 
+Klinika, Budapest.
+(4)4 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház, 
+Szülészeti és Nőgyógyászati Osztály, Miskolc.
+
+Összefoglaló. A cystás fibrosisban szenvedő betegek várható élettartama 
+jelentősen megnőtt az utóbbi évtizedben, egyre több beteg képes saját gyermeket 
+vállalni. Célunk a cystás fibrosisban szenvedő várandós nők perinatalis és anyai 
+történéseinek felmérése saját eseteink és az irodalmi adatok alapján. 14, cystás 
+fibrosisban szenvedő nő 16 várandósságáról számolunk be. Rögzítettük a 
+várandósok életkorát, testtömegét, testmagasságát, testtömegindexét, 
+légzésfunkciós értékeit a graviditás kezdetén és végén. Az anyai átlagéletkor 
+szüléskor 21,6 (18-25) év volt. Az anyák graviditásának kezdetén a testmagasság 
+átlaga 162 (150-175) cm, a testtömeg átlaga 57,6 (42-72) kg, a testtömegindex 
+átlaga 21,4 (19,1-23,2) kg/m2 volt. A graviditás végén a testtömeg átlaga 62 
+(39-76) kg, a testtömegindex átlaga 23,6 (21,3-24,1) kg/m2 volt. A graviditás 
+alatti súlygyarapodás átlaga 8 (1,5-21,5) kg volt. A légzésfunkciós értékek a 
+graviditás kezdetén 2 betegnél voltak beszűkültek. A graviditás alatt még 2 
+beteg légzésfunkciós értékei csökkentek. A sikeres graviditások száma 13 volt. 1 
+anya kétszer szült. A koraszülések száma 1 volt. A várandósság átlagosan a 38. 
+(34-40.) gestatiós hét után 7 esetben császármetszéssel, 6 esetben hüvelyi 
+szüléssel fejeződött be. A vetélések száma 3 volt. Az Apgar-pontszám minden 
+esetben normális volt. 13 gyermek közül 11-nél a verejtékteszt nem volt 
+emelkedett. 2 gyermeknél magas verejtékértékek voltak, egyikük 
+c.1521_1523delCTT-heterozigóta, a másiknál génmutációt nem tudtunk igazolni. A 
+cystás fibrosisban szenvedő nők általában jól tolerálják a várandósságot az 
+esetek többségében. A kórosan beszűkült tüdőfunkcióval, alacsony tápláltsági 
+állapottal és cukorbetegséggel rendelkező nők nagyobb valószínűséggel 
+számíthatnak káros következményekre. Az újszülöttek prognózisa általában jó, de 
+számítani kell a koraszülés és a kis súllyal születés gyakoribb előfordulására. 
+Ideális esetben a várandósságot előzetes tanácsadás útján kell megtervezni, és 
+speciális cystás fibrosis csoportnak kell a várandósok ellátását figyelemmel 
+kísérni, ideértve a cystás fibrosis kezelésében jártas szülészeket is. Kisszámú 
+saját adatunk retrospektív elemzése megerősíti az irodalmi adatok tanúságait. 
+Orv Hetil. 2021; 162(28): 1129-1136. Summary. The life expectancy of patients 
+with cystic fibrosis has increased significantly in the last decade, with more 
+and more patients being able to have their own children. The aim of our study 
+was to assess the perinatal and maternal outcome of pregnant women with cystic 
+fibrosis based on our own cases and literature data. We report 16 pregnancies in 
+14 women with cystic fibrosis. We recorded the age, body weight, height, body 
+mass index, and respiratory function values of pregnant women at the beginning 
+and end of pregnancy. The mean maternal age at childbirth was 21.6 (18-25) 
+years. At the beginning of maternal pregnancy, the mean height was 162 (150-175) 
+cm, the mean body weight was 57.6 (42-72) kg, and the mean body mass index was 
+21.4 (19.1-23.2) kg/m2. At the end of pregnancy, the mean body weight was 62 
+(39-76) kg and the mean body mass index was 23.6 (21.3-24.1) kg/m2. The weight 
+gain under pregnancy was mean 8 (1.5-21.5) kg. The respiratory function values 
+at the onset of pregnancy were narrowed in 2 patients. During pregnancy, the 
+respiratory function values of 2 more patients decreased. The number of 
+successful gestations was 13. A mother gave birth twice. The number of premature 
+births was one. The pregnancy after the mean 38. (34-40.) gestational week was 
+completed in 7 cases by cesarean section and in 6 cases by vaginal delivery. The 
+number of miscarriages was 3. The Apgar score was normal in all cases. In 11 of 
+13 children, the sweat test was not elevated. 2 children had high sweat values, 
+one of them is heterozygous with c.1521_1523delCTT, the other could not prove a 
+gene mutation. Women with cystic fibrosis generally tolerate pregnancy well, in 
+most cases. Women with poor lung function, low nutritional status, and diabetes 
+are more likely to expect adverse consequences. The outcome of the newborns is 
+good in general, but a common occurrence of premature birth and low birth weight 
+is to be expected. Ideally, pregnancy should be planned through prior counseling 
+and the care of pregnant women should be monitored by a specialized cystic 
+fibrosis team, including obstetricians experienced in the treatment of cystic 
+fibrosis. A retrospective analysis of our own small-number data confirms the 
+evidence from the literature data. Orv Hetil. 2021; 162(28): 1129-1136.
+
+DOI: 10.1556/650.2021.32115
+PMID: 34252045 [Indexed for MEDLINE]
+
+
+52. PLoS Biol. 2021 Jul 12;19(7):e3001302. doi: 10.1371/journal.pbio.3001302. 
+eCollection 2021 Jul.
+
+Proteasome activity contributes to pro-survival response upon mild mitochondrial 
+stress in Caenorhabditis elegans.
+
+Sladowska M(1)(2), Turek M(1)(2), Kim MJ(1)(2), Drabikowski K(3), Mussulini 
+BHM(1), Mohanraj K(1), Serwa RA(1)(2), Topf U(2)(3), Chacinska A(1)(2)(4).
+
+Author information:
+(1)ReMedy International Research Agenda Unit, University of Warsaw, Warsaw, 
+Poland.
+(2)Centre of New Technologies, University of Warsaw, Warsaw, Poland.
+(3)Institute of Biochemistry and Biophysics, Polish Academy of Sciences, Warsaw, 
+Poland.
+(4)IMol Polish Academy of Sciences, Warsaw, Poland.
+
+Defects in mitochondrial function activate compensatory responses in the cell. 
+Mitochondrial stress that is caused by unfolded proteins inside the organelle 
+induces a transcriptional response (termed the "mitochondrial unfolded protein 
+response" [UPRmt]) that is mediated by activating transcription factor 
+associated with stress 1 (ATFS-1). The UPRmt increases mitochondrial protein 
+quality control. Mitochondrial dysfunction frequently causes defects in the 
+import of proteins, resulting in the accumulation of mitochondrial proteins 
+outside the organelle. In yeast, cells respond to mistargeted mitochondrial 
+proteins by increasing activity of the proteasome in the cytosol (termed the 
+"unfolded protein response activated by mistargeting of proteins" [UPRam]). The 
+presence and relevance of this response in higher eukaryotes is unclear. Here, 
+we demonstrate that defects in mitochondrial protein import in Caenorhabditis 
+elegans lead to proteasome activation and life span extension. Both proteasome 
+activation and life span prolongation partially depend on ATFS-1, despite its 
+lack of influence on proteasomal gene transcription. Importantly, life span 
+prolongation depends on the fully assembled proteasome. Our data provide a link 
+between mitochondrial dysfunction and proteasomal activity and demonstrate its 
+direct relevance to mechanisms that promote longevity.
+
+DOI: 10.1371/journal.pbio.3001302
+PMCID: PMC8274918
+PMID: 34252079 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+53. PLoS One. 2021 Jul 12;16(7):e0253893. doi: 10.1371/journal.pone.0253893. 
+eCollection 2021.
+
+Impact of assumptions on future costs, disutility and mortality in 
+cost-effectiveness analysis; a model exploration.
+
+Omidvari AH(1), Lansdorp-Vogelaar I(1), de Koning HJ(1), Meester RGS(1).
+
+Author information:
+(1)Department of Public Health, Erasmus MC University Medical Center Rotterdam, 
+Rotterdam, The Netherlands.
+
+INTRODUCTION: In cost-effectiveness analyses, the future costs, disutility and 
+mortality from alternative causes of morbidity are often not completely taken 
+into account. We explored the impact of different assumed values for each of 
+these factors on the cost-effectiveness of screening for colorectal cancer (CRC) 
+and esophageal adenocarcinoma (EAC).
+METHODS: Twenty different CRC screening strategies and two EAC screening 
+strategies were evaluated using microsimulation. Average health-related 
+expenses, disutility and mortality by age for the U.S. general population were 
+estimated using surveys and lifetables. First, we evaluated strategies under 
+default assumptions, with average mortality, and no accounting for 
+health-related costs and disutility. Then, we varied costs, disutility and 
+mortality between 100% and 150% of the estimated population averages, with 125% 
+as the best estimate. Primary outcome was the incremental cost per 
+quality-adjusted life-year (QALY) gained among efficient strategies.
+RESULTS: The set of efficient strategies was robust to assumptions on future 
+costs, disutility and mortality from other causes of morbidity. However, the 
+incremental cost per QALY gained increased with higher assumed values. For 
+example, for CRC, the ratio for the recommended strategy increased from $15,600 
+with default assumptions, to $32,600 with average assumption levels, $61,100 
+with 25% increased levels, and $111,100 with 50% increased levels. Similarly, 
+for EAC, the incremental costs per QALY gained for the recommended EAC screening 
+strategy increased from $106,300 with default assumptions to $198,300 with 50% 
+increased assumptions. In sensitivity analyses without discounting or including 
+only above-average expenses, the impact of assumptions was relatively smaller, 
+but best estimates of the cost per QALY gained remained substantially higher 
+than default estimates.
+CONCLUSIONS: Assumptions on future costs, utility and mortality from other 
+causes of morbidity substantially impact cost-effectiveness outcomes of cancer 
+screening. More empiric evidence and consensus are needed to guide assumptions 
+in future analyses.
+
+DOI: 10.1371/journal.pone.0253893
+PMCID: PMC8274850
+PMID: 34252090 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+54. Environ Pollut. 2021 Nov 1;288:117720. doi: 10.1016/j.envpol.2021.117720.
+Epub  2021 Jul 5.
+
+A common fungicide, Pristine®, impairs olfactory associative learning 
+performance in honey bees (Apis mellifera).
+
+DesJardins NS(1), Fisher A 2nd(2), Ozturk C(2), Fewell JH(2), DeGrandi-Hoffman 
+G(3), Harrison JF(2), Smith BH(2).
+
+Author information:
+(1)School of Life Sciences, Arizona State University, 427 E Tyler Mall, Tempe, 
+AZ, 85287, USA. Electronic address: ndesjard@asu.edu.
+(2)School of Life Sciences, Arizona State University, 427 E Tyler Mall, Tempe, 
+AZ, 85287, USA.
+(3)USDA ARS Carl Hayden Bee Research Center, 2000 East Allen Road, Tucson, AZ, 
+85719, USA.
+
+Although fungicides were previously considered to be safe for important 
+agricultural pollinators such as honey bees, recent evidence has shown that they 
+can cause a number of behavioral and physiological sublethal effects. Here, we 
+focus on the fungicide Pristine® (active ingredients: 25.2% boscalid, 12.8% 
+pyraclostrobin), which is sprayed during the blooming period on a variety of 
+crops and is known to affect honey bee mitochondria at field-relevant levels. To 
+date, no study has tested the effects of a field-relevant concentration of a 
+fungicide on associative learning ability in honey bees. We tested whether 
+chronic, colony-level exposure at field-relevant and higher concentrations of 
+Pristine® impairs performance on the proboscis extension reflex (PER) paradigm, 
+an associative learning task. Learning performance was reduced at higher 
+field-relevant concentrations of Pristine®. The reductions in learning 
+performance could not be explained by effects on hunger or motivation, as 
+sucrose responsiveness was not affected by Pristine® exposure. To determine 
+whether Pristine®'s negative effects on learning performance were mediated at a 
+specific life stage, we conducted a cross-fostering experiment that exposed bees 
+to the fungicide either only as larvae, only as adults, or during both stages. 
+We found that exposure across the entire life was necessary to significantly 
+reduce learning performance, although non-significant reductions occurred when 
+bees were exposed during just one stage. Our study provides strong evidence that 
+Pristine® has significant sublethal effects on learning performance. As 
+associative learning is a necessary ability for foraging, our results raise 
+concerns that Pristine® could impair foraging abilities and substantially weaken 
+colony health.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.envpol.2021.117720
+PMID: 34252716 [Indexed for MEDLINE]
+
+
+55. Health Place. 2021 Jul;70:102618. doi: 10.1016/j.healthplace.2021.102618.
+Epub  2021 Jul 9.
+
+We carry history within us: Anti-Black racism and the legacy of lynchings on 
+life expectancy in the U.S. South.
+
+Kihlström L(1), Kirby RS(2).
+
+Author information:
+(1)Department of Anthropology, University of South Florida, 4202 E Fowler 
+Avenue, Tampa, FL, 33620, United States; College of Public Health, University of 
+South Florida, 13201 Bruce B Downs Blvd., Tampa, FL, 33612, United States. 
+Electronic address: lkihlstrom@usf.edu.
+(2)College of Public Health, University of South Florida, 13201 Bruce B Downs 
+Blvd., Tampa, FL, 33612, United States. Electronic address: kirbyr@usf.edu.
+
+The United States lags in life expectancy compared to most of the world's 
+similarly wealthy nations, driven by pronounced regional disparities 
+particularly between the South and the rest of the country. The U.S. South has a 
+violent history of lynchings of Black Americans by White mobs after the ending 
+of slavery and up to the Civil Rights Era. Building on critical race 
+scholarship, the objective of this study was to determine whether there exists 
+an association between historical lynchings and overall life expectancies in the 
+U.S. South. We created a cross-sectional county-level data set with 1221 data 
+points utilizing data from the Equal Justice Initiative and Robert Wood Johnson 
+Foundation Country Health Rankings. The average life expectancy for 2019-2020 
+was 76.1 years, ranging from 68.2 years to 90.2 years. Overall life expectancy 
+was found to be highest (76.6) in counties with no recorded lynchings, and 
+lowest (75.5) in counties with the most lynchings (p < .001). In the spatially 
+enabled regression model, the history of lynching along with other covariates 
+explained 57.1% of the variance in life expectancies across the study area. 
+Counties with a history of lynchings also score lower compared to the reference 
+group in various socioeconomic indicators, including median household incomes 
+and high school graduation rates. The findings suggest that lynchings were 
+pivotal in creating the social and physical environment affecting health 
+outcomes in the U.S. South today. We call for further public health research 
+which acknowledges and explores this form of violent and institutional 
+anti-Black racism as foundational to the nation's regional health disparities.
+
+Copyright © 2021. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.healthplace.2021.102618
+PMID: 34252751 [Indexed for MEDLINE]
+
+
+56. Otolaryngol Head Neck Surg. 2022 Apr;166(4):662-668. doi: 
+10.1177/01945998211026847. Epub 2021 Jul 13.
+
+Cost-effectiveness Analysis of Submandibular Gland Preservation With 
+Sialendoscopy for the Management of Sialolithiasis.
+
+Acevedo JR(1), Hsu AC(2), Yu JC(3)(4), Rice DH(1), Kwon DI(1), Kung RW(1), Kokot 
+NC(1).
+
+Author information:
+(1)Caruso Department of Otolaryngology-Head and Neck Surgery, University of 
+Southern California, Los Angeles, California, USA.
+(2)Keck School of Medicine, University of Southern California, Los Angeles, 
+California, USA.
+(3)Leonard D. Schaeffer Center for Health Policy and Economics, University of 
+Southern California, Los Angeles, California, USA.
+(4)School of Pharmacy, University of Southern California, Los Angeles, 
+California, USA.
+
+OBJECTIVE: To compare the cost-effectiveness of sialendoscopy with gland 
+excision for the management of submandibular gland sialolithiasis.
+STUDY DESIGN: Cost-effectiveness analysis.
+SETTING: Outpatient surgery centers.
+METHODS: A Markov decision model compared the cost-effectiveness of 
+sialendoscopy versus gland excision for managing submandibular gland 
+sialolithiasis. Surgical outcome probabilities were found in the primary 
+literature. The quality of life of patients was represented by health utilities, 
+and costs were estimated from a third-party payer's perspective. The 
+effectiveness of each intervention was measured in quality-adjusted life-years 
+(QALYs). The incremental costs and effectiveness of each intervention were 
+compared, and a willingness-to-pay ratio of $150,000 per QALY was considered 
+cost-effective. One-way, multivariate, and probabilistic sensitivity analyses 
+were performed to challenge model conclusions.
+RESULTS: Over 10 years, sialendoscopy yielded 9.00 QALYs at an average cost of 
+$8306, while gland excision produced 8.94 QALYs at an average cost of $6103. The 
+ICER for sialendoscopy was $36,717 per QALY gained, making sialendoscopy 
+cost-effective by our best estimates. The model was sensitive to the probability 
+of success and the cost of sialendoscopy. Sialendoscopy must meet a 
+probability-of-success threshold of 0.61 (61%) and cost ≤$11,996 to remain 
+cost-effective. A Monte Carlo simulation revealed sialendoscopy to be 
+cost-effective 60% of the time.
+CONCLUSION: Sialendoscopy appears to be a cost-effective management strategy for 
+sialolithiasis of the submandibular gland when certain thresholds are 
+maintained. Further studies elucidating the clinical factors that determine 
+successful sialendoscopy may be aided by these thresholds as well as future 
+comparisons of novel technology.
+
+DOI: 10.1177/01945998211026847
+PMID: 34253114 [Indexed for MEDLINE]
+
+
+57. Neurol Res. 2021 Nov;43(11):900-908. doi: 10.1080/01616412.2021.1943121. Epub
+ 2021 Jul 13.
+
+21st Century Early Adult (55-74) Deaths from Brain-Disease-Deaths Compared to 
+All Other Cause Mortality in the Major Western Countries - Exposing a Hidden 
+Epidemic.
+
+Pritchard C(1), Hansen L(2), Silk A(3), Rosenorn-Lanng E(4).
+
+Author information:
+(1)Faculty of Social Sciences, Bournemouth University, Bournemouth, UK.
+(2)Honorary Senior Lecturer, Dept of Psychiatry, University of Southampton, 
+Bournemouth, UK.
+(3)Fellow in Public Heath, Bournemouth, UK.
+(4)Statistician Faculty of Health & Social Sciences, Bournemouth University UK, 
+Bournemouth, UK.
+
+OBJECTIVES: To examine early adult deaths (EAD) - people aged 55-74 due to brain 
+disease deaths (BDD) compared to all other causes (AOC) in the 21st century in 
+21 major Western countries (MWC).
+METHOD: EAD are below MWCc average life expectancy. All mortality drawn from the 
+latest WHO data. The three global BDD categories consist of mental and behaviour 
+disorder, nervous diseases and Alzheimer and other dementias. Mortality rates 
+per million are analysed for people 55-74 years and total age-standardised death 
+rates (ASDR). BDD rates between 2000-2015 compared against AOC of deaths for EAD 
+and ASDR. Confidence Intervals determine any significant difference AOC and BDD 
+over the period 2000-15, plus an examination of EAD in six separate global 
+mortality categories.
+RESULTS: EAD: The separate BDD categories for EAD significantly positively 
+correlated, validating their combination as BDD. Every country's AOC 55-74 rates 
+fell substantially, but fourteen country's BDD rose substantially (>20%) and all 
+MWC countries BDD rose significantly more than AOC. ASDR: All nations total AOC 
+fell substantially, whereas seventeen BDD rates rose substantially and every 
+country's BDD significantly increased compared to AOC deaths. Six other EAD 
+mortalities, circulatory, cancer, respiratory, compared to BDD produced Odds 
+Ratios ranging from 1:1.54 to 1:2.36 such were the marked differences over the 
+period.
+DISCUSSION: Positive news is that AOC are down across all investigated countries 
+in the 21st century. However, the extent of the EAD rises in just 16 years 
+indicates that these BDD conditions are starting earlier suggesting multiple 
+interactive environmental factors impacting upon brain related diseases.
+
+DOI: 10.1080/01616412.2021.1943121
+PMID: 34253141 [Indexed for MEDLINE]
+
+
+58. BMC Pulm Med. 2021 Jul 12;21(1):225. doi: 10.1186/s12890-021-01599-z.
+
+Rheological effects of hypertonic saline and sodium bicarbonate solutions on 
+cystic fibrosis sputum in vitro.
+
+Budai-Szűcs M(1), Berkó S(2), Kovács A(2), Jaikumpun P(3), Ambrus R(2), Halász 
+A(4), Szabó-Révész P(2), Csányi E(2), Zsembery Á(3).
+
+Author information:
+(1)Institute of Pharmaceutical Technology and Regulatory Affairs, University of 
+Szeged, Szeged, Hungary. budai-szucs.maria@szte.hu.
+(2)Institute of Pharmaceutical Technology and Regulatory Affairs, University of 
+Szeged, Szeged, Hungary.
+(3)Department of Oral Biology, Semmelweis University, Budapest, Hungary.
+(4)National Korányi Institute for Pulmonology, Budapest, Hungary.
+
+BACKGROUND: Cystic fibrosis (CF) is a life-threatening multiorgan genetic 
+disease, particularly affecting the lungs, where recurrent infections are the 
+main cause of reduced life expectancy. In CF, mutations in the gene encoding the 
+cystic fibrosis transmembrane conductance regulator (CFTR) protein impair 
+transepithelial electrolyte and water transport, resulting in airway 
+dehydration, and a thickening of the mucus associated with abnormal viscoelastic 
+properties. Our aim was to develop a rheological method to assess the effects of 
+hypertonic saline (NaCl) and NaHCO3 on CF sputum viscoelasticity in vitro, and 
+to identify the critical steps in sample preparation and in the rheological 
+measurements.
+METHODS: Sputum samples were mixed with hypertonic salt solutions in vitro in a 
+ratio of either 10:4 or 10:1. Distilled water was applied as a reference 
+treatment. The rheological properties of sputum from CF patients, and the 
+effects of these in vitro treatments, were studied with a rheometer at constant 
+frequency and strain, followed by frequency sweep tests, where storage modulus 
+(G'), loss modulus (G″) and loss factor were determined.
+RESULTS: We identified three distinct categories of sputum: (i) highly elastic 
+(G' > 100,000 Pa), (ii) elastic (100,000 Pa > G' > 1000 Pa), and (iii) 
+viscoelastic (G' < 1000). At the higher additive ratio (10:4), all of the added 
+solutions were found to significantly reduce the gel strength of the sputum, but 
+the most pronounced changes were observed with NaHCO3 (p < 0.001). Samples with 
+high elasticity exhibited the greatest changes while, for less elastic samples, 
+a weakening of the gel structure was observed when they were treated with water 
+or NaHCO3, but not with NaCl. For the viscoelastic samples, the additives did 
+not cause significant changes in the parameters. When the lower additive ratio 
+(10:1) was used, the mean values of the rheological parameters usually 
+decreased, but the changes were not statistically significant.
+CONCLUSION: Based on the rheological properties of the initial sputum samples, 
+we can predict with some confidence the treatment efficacy of each of the 
+alternative additives. The marked differences between the three categories 
+suggest that it is advisable to evaluate each sample individually using a 
+rheological approach such as that described here.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12890-021-01599-z
+PMCID: PMC8276516
+PMID: 34253193 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+59. Epilepsia. 2021 Sep;62(9):2142-2150. doi: 10.1111/epi.17007. Epub 2021 Jul
+13.
+
+Long-term safety of adjunctive cenobamate in patients with uncontrolled focal 
+seizures: Open-label extension of a randomized clinical study.
+
+French JA(1), Chung SS(2), Krauss GL(3), Lee SK(4), Maciejowski M(5), Rosenfeld 
+WE(6), Sperling MR(7), Kamin M(8).
+
+Author information:
+(1)New York University Langone Comprehensive Epilepsy Center, New York, New 
+York, USA.
+(2)Neuroscience Institute, Banner-University Medical Center, University of 
+Arizona, Phoenix, Arizona, USA.
+(3)Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+(4)Adult Comprehensive Epilepsy Center, Seoul National University Hospital, 
+Seoul, Republic of Korea.
+(5)NZOZ Diagnomed Clinical Research, Katowice, Poland.
+(6)Comprehensive Epilepsy Care Center for Children and Adults, St. Louis, 
+Missouri, USA.
+(7)Thomas Jefferson University, Philadelphia, Pennsylvania, USA.
+(8)SK Life Science, Paramus, New Jersey, USA.
+
+OBJECTIVE: This study was undertaken to examine long-term (up to 7.8 years) 
+retention rate, safety, and tolerability of the antiseizure medication (ASM) 
+cenobamate as adjunctive treatment in the open-label extension (OLE) of study 
+YKP3089C013 (C013; ClinicalTrials.gov: NCT01397968).
+METHODS: Patients who completed the 12-week, multicenter, multinational, 
+double-blind, randomized, placebo-controlled C013 study, which examined 
+adjunctive cenobamate treatment of adults with uncontrolled focal seizures, were 
+eligible to enroll in the OLE. During the OLE, dose adjustments of cenobamate 
+and concomitant ASMs were allowed. Safety assessments included frequency of 
+treatment-emergent adverse events (TEAEs) and serious TEAEs, TEAE severity, and 
+TEAEs leading to discontinuation. Probability of patient continuation in the OLE 
+was examined using a Kaplan-Meier analysis.
+RESULTS: One hundred forty-nine patients entered the OLE (median duration of 
+cenobamate treatment = 6.25 years). As of the data cutoff, 57% of patients 
+(85/149) remained in the OLE (median treatment duration = 6.8 years, range = 
+6.4-7.8 years). The median modal daily cenobamate dose was 200 mg (range = 
+50-400 mg). The probability of treatment continuation at 1-6 years of cenobamate 
+treatment was 73%, 67%, 63%, 61%, 60%, and 59%, respectively. Among patients who 
+continued at 1 year (n = 107), the probability of continuing at Years 2-5 was 
+92%, 87%, 83%, and 82%. The most common discontinuation reasons were patient 
+withdrawal (19.5%, 29/149), adverse event (10.1%, 15/149), and lack of efficacy 
+(5.4%, 8/149). TEAEs leading to discontinuation in 1% or more of patients were 
+fatigue (1.3%, 2/149), ataxia (1.3%, 2/149), and memory impairment or amnesia 
+(1.3%, 2/149). Dizziness (32.9%, 49/149), headache (26.8%, 40/149), and 
+somnolence (21.5%, 32/149) were the most frequently reported TEAEs and were 
+primarily mild or moderate in severity.
+SIGNIFICANCE: Long-term retention in the C013 OLE study demonstrated sustained 
+safety and tolerability of adjunctive cenobamate treatment up to 7.8 years in 
+adults with treatment-resistant focal seizures taking one to three ASMs.
+
+© 2021 The Authors. Epilepsia published by Wiley Periodicals LLC on behalf of 
+International League Against Epilepsy.
+
+DOI: 10.1111/epi.17007
+PMCID: PMC8456960
+PMID: 34254673 [Indexed for MEDLINE]
+
+Conflict of interest statement: J.A.F.: Salary support to New York University: 
+Epilepsy Foundation; consultant/advisor (on behalf of the Epilepsy Study 
+Consortium): Adamas, Aeonian/Aeovian, Anavex, Arkin Holdings, Arvelle, Athenen 
+Therapeutics/Carnot Pharma, Baergic, Biogen, BioXcel, Cavion, Cerebral, Cerevel, 
+Crossject, CuroNZ, Eisai, Eliem, Encoded, Engage, Engrail, Epiminder, Equilibre, 
+Fortress, Greenwich, GW Pharma, Janssen, Knopp, Lundbeck, Marinus, Mend 
+Neuroscience, Merck, NeuCyte, Neurocrine, Otsuka, Ovid, Passage, Praxis, Redpin, 
+Sage, SK Life Science, Sofinnova, Stoke, Supernus, Synergia Medical, Takeda, UCB 
+Pharma, West Therapeutic Development, Xenon, Xeris, Zogenix, Zynerba; research 
+support: Epilepsy Research Foundation, Epilepsy Study Consortium (funded by 
+Andrews Foundation, Eisai, Engage, Lundbeck, Pfizer, SK Life Science, Sunovion, 
+UCB Pharma, Vogelstein Foundation), Epilepsy Study Consortium/Epilepsy 
+Foundation (funded by Engage, Neurelis, SK Life Science, UCB Pharma), GW/One8 
+Foundation/FACES, National Institute of Neurological Disorders and Stroke; 
+editorial board: Lancet Neurology, Neurology Today; travel reimbursement: 
+Arvelle, Biogen, Cerevel, Engage, Epilepsy Study Consortium, Epilepsy 
+Foundation, Lundbeck, NeuCyte, Otsuka, Sage, UCB Pharma, Xenon, Zogenix. S.S.C.: 
+Consultant/advisor: Adamas, Eisai, SK Life Science, UCB Pharma; speaker: Eisai, 
+Greenwich Biosciences, Sunovion, UCB Pharma; research support: Engage, SK Life 
+Science, UCB Pharma. G.L.K.: Consultant/advisor: Adamas, Eisai, Otsuka, Shire; 
+research support: Biogen, SK Life Science, UCB Pharma, Upsher‐Smith. S.K.L.: 
+Consultant/advisor: Eisai, SK Life Science, UCB Pharma. M.M.: Speaker: Biogen, 
+Merck, Novartis, Roche; research support: Roche. W.E.R.: Consultant/advisor: SK 
+Life Science; speaker: Eisai, Greenwich Biosciences (GW Pharmaceuticals), SK 
+Life Science, Sunovion, UCB Pharma; research support: Greenwich Biosciences, 
+Marinus, Medtronic, Neurelis, Ovid, SK Life Science, Takeda, UCB Pharma, 
+Upsher‐Smith. M.R.S.: Consultant/advisor: Medtronic; speaker: Eisai, 
+International Medical Press, Medscape, NeurologyLive, Projects in Knowledge; 
+research support: Cavion, Cerevel, Eisai, Engage, Medtronic, Neurelis, SK Life 
+Science, Takeda, UCB Pharma, Xenon. M.K.: Employee, SK Life Science. We confirm 
+that we have read the Journal's position on issues involved in ethical 
+publication and affirm that this report is consistent with those guidelines.
+
+
+60. Radiology. 2021 Sep;300(3):594-604. doi: 10.1148/radiol.2021204321. Epub 2021
+ Jul 13.
+
+Active Surveillance Strategies for Low-Grade Prostate Cancer: Comparative 
+Benefits and Cost-effectiveness.
+
+Kang SK(1), Mali RD(1), Prabhu V(1), Ferket BS(1), Loeb S(1).
+
+Author information:
+(1)From the Departments of Radiology (S.K.K., R.D.M., V.P.), Population Health 
+(S.K.K., S.L.), and Urology (S.L.), New York University Grossman School of 
+Medicine, 660 First Ave, Room 333, New York, NY 10016; Department of Population 
+Health Science and Policy, Icahn School of Medicine at Mount Sinai, New York, NY 
+(B.S.F.); and Manhattan VA Medical Center, New York, NY (S.L.).
+
+Erratum in
+    Radiology. 2021 Oct;301(1):E380.
+
+Background Active surveillance (AS) is the recommended treatment option for 
+low-risk prostate cancer (PC). Surveillance varies in MRI, frequency of 
+follow-up, and the Prostate Imaging Reporting and Data System (PI-RADS) score 
+that would repeat biopsy. Purpose To compare the effectiveness and 
+cost-effectiveness of AS strategies for low-risk PC with versus without MRI. 
+Materials and Methods This study developed a mathematical model to evaluate the 
+cost-effectiveness of surveillance strategies in a simulation of men with a 
+diagnosis of low-risk PC. The following strategies were compared: watchful 
+waiting, prostate-specific antigen (PSA) and annual biopsy without MRI, and PSA 
+testing and MRI with varied PI-RADS thresholds for biopsy. MRI strategies 
+differed regarding scheduling and use of PI-RADS score of at least 3, or a 
+PI-RADS score of at least 4 to indicate the need for biopsy. Life-years, 
+quality-adjusted life-years (QALYs), and incremental cost-effectiveness ratios 
+were calculated by using microsimulation. Sensitivity analysis was used to 
+assess the impact of varying parameter values on results. Results For the base 
+case of 60-year-old men, all strategies incorporating prostate MRI extended 
+QALYs and life-years compared with watchful waiting and non-MRI strategies. 
+Annual MRI strategies yielded 16.19 QALYs, annual biopsy with no MRI yielded 
+16.14 QALYs, and watchful waiting yielded 15.94 QALYs. Annual MRI with PI-RADS 
+score of at least 3 or of at least 4 as the biopsy threshold and annual MRI with 
+biopsy even after MRI with negative findings offered similar QALYs and the same 
+unadjusted life expectancy: 23.05 life-years. However, a PI-RADS score of at 
+least 4 yielded 42% fewer lifetime biopsies. With a cost-effectiveness threshold 
+of $100 000 per QALY, annual MRI with biopsy for lesions with PI-RADS scores of 
+4 or greater was most cost-effective (incremental cost-effectiveness ratio, 
+$67 221 per QALY). Age, treatment type, risk of initial grade misclassification, 
+and quality-of-life impact of procedural complications affected results. 
+Conclusion The use of active surveillance (AS) with biopsy decisions guided by 
+findings from annual MRI reduces the number of biopsies while preserving life 
+expectancy and quality of life. Biopsy in lesions with PI-RADS scores of 4 or 
+greater is likely the most cost-effective AS strategy for men with low-risk 
+prostate cancer who are younger than 70 years. © RSNA, 2021 Online supplemental 
+material is available for this article. An earlier incorrect version appeared 
+online. This article was corrected on July 13, 2021.
+
+DOI: 10.1148/radiol.2021204321
+PMCID: PMC8409107
+PMID: 34254851 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosures of Conflicts of Interest: S.K.K. 
+Activities related to the present article: disclosed no relevant relationships. 
+Activities not related to the present article: disclosed grant to author’s 
+institution from the National Cancer Institute, AHRQ, and the Doris Duke 
+Foundation; disclosed royalties from Wolters Kluwer. Other relationships: 
+disclosed no relevant relationships. R.D.M. disclosed no relevant relationships. 
+V.P. disclosed no relevant relationships. B.S.F. disclosed no relevant 
+relationships. S.L. Activities related to the present article: disclosed no 
+relevant relationships. Activities not related to the present article: disclosed 
+stock/stock options from Gilead. Other relationships: disclosed no relevant 
+relationships.61. Health Technol Assess. 2021 Jul;25(46):1-118. doi: 10.3310/hta25460.
+
+Home environmental assessments and modification delivered by occupational 
+therapists to reduce falls in people aged 65 years and over: the OTIS RCT.
+
+Cockayne S(1), Pighills A(2)(3), Adamson J(1), Fairhurst C(1), Crossland S(4), 
+Drummond A(5), Hewitt CE(1), Rodgers S(1), Ronaldson SJ(1), McCaffery J(1), 
+Whiteside K(1), Scantlebury A(1), Robinson-Smith L(1), Cochrane A(1), Lamb 
+SE(6), Boyes S(7), Gilbody S(1), Relton C(8), Torgerson DJ(1).
+
+Author information:
+(1)York Trials Unit, Department of Health Sciences, University of York, York, 
+UK.
+(2)Mackay Institute of Research and Innovation, Queensland Health, Mackay Base 
+Hospital, Mackay, QLD, Australia.
+(3)Division of Tropical Health and Medicine, James Cook University, Townsville, 
+QLD, Australia.
+(4)Leicestershire Partnership NHS Trust, Leicester, UK.
+(5)School of Health Sciences, University of Nottingham, Nottingham, UK.
+(6)Institute of Health Research, College of Medicine and Health, University of 
+Exeter, Exeter, UK.
+(7)York Teaching Hospital NHS Foundation Trust, York, UK.
+(8)Institute of Population Health Sciences, Queen Mary University of London, 
+London, UK.
+
+BACKGROUND: Falls and fall-related fractures are highly prevalent among older 
+people and are a major contributor to morbidity and costs to individuals and 
+society. Only one small pilot trial has evaluated the effectiveness of a home 
+hazard assessment and environmental modification in the UK. This trial reported 
+a reduction in falls as a secondary outcome, and no economic evaluation was 
+undertaken. Therefore, the results need to be confirmed and a cost-effectiveness 
+analysis needs to be undertaken.
+OBJECTIVE: To determine the clinical effectiveness and cost-effectiveness of a 
+home hazard assessment and environmental modification delivered by occupational 
+therapists for preventing falls among community-dwelling people aged ≥ 65 years 
+who are at risk of falling, relative to usual care.
+DESIGN: This was a pragmatic, multicentre, modified cohort randomised controlled 
+trial with an economic evaluation and a qualitative study.
+SETTING: Eight NHS trusts in primary and secondary care in England.
+PARTICIPANTS: In total, 1331 participants were randomised (intervention group, 
+n = 430; usual-care group, n = 901) via a secure, remote service. Blinding was 
+not possible.
+INTERVENTIONS: All participants received a falls prevention leaflet and routine 
+care from their general practitioner. The intervention group were additionally 
+offered one home environmental assessment and modifications recommended or 
+provided to identify and manage personal fall-related hazards, delivered by an 
+occupational therapist.
+MAIN OUTCOME MEASURES: The primary outcome was the number of falls per 
+participant during the 12 months from randomisation. The secondary outcomes were 
+the proportion of fallers and multiple fallers, time to fall, fear of falling, 
+fracture rate, health-related quality of life and cost-effectiveness.
+RESULTS: The primary analysis included all 1331 randomised participants and 
+indicated weak evidence of a difference in fall rate between the two groups, 
+with an increase in the intervention group relative to usual care (adjusted 
+incidence rate ratio 1.17, 95% confidence interval 0.99 to 1.38; p = 0.07). A 
+similar proportion of participants in the intervention group (57.0%) and the 
+usual-care group (56.2%) reported at least one fall over 12 months. There were 
+no differences in any of the secondary outcomes. The base-case 
+cost-effectiveness analysis from an NHS and Personal Social Services perspective 
+found that, on average per participant, the intervention was associated with 
+additional costs (£18.78, 95% confidence interval £16.33 to £21.24), but was 
+less effective (mean quality-adjusted life-year loss -0.0042, 95% confidence 
+interval -0.0041 to -0.0043). Sensitivity analyses demonstrated uncertainty in 
+these findings. No serious, related adverse events were reported. The 
+intervention was largely delivered as intended, but recommendations were 
+followed to a varying degree.
+LIMITATIONS: Outcome data were self-reported by participants, which may have led 
+to inaccuracies in the reported falls data.
+CONCLUSIONS: We found no evidence that an occupational therapist-delivered home 
+assessment and modification reduced falls in this population of 
+community-dwelling participants aged ≥ 65 years deemed at risk of falling. The 
+intervention was more expensive and less effective than usual care, and 
+therefore it does not provide a cost-effective alternative to usual care.
+FUTURE WORK: An evaluation of falls prevention advice in a higher-risk 
+population, perhaps those previously hospitalised for a fall, or given by other 
+professional staff could be justified.
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN22202133.
+FUNDING: This project was funded by the National Institute for Health Research 
+(NIHR) Health Technology Assessment programme and will be published in full in 
+Health Technology Assessment; Vol. 25, No. 46. See the NIHR Journals Library 
+website for further project information.
+
+Plain Language Summary: Falling is a common problem among older people. In fact, 
+up to half of people aged over 80 years fall each year, with most falls 
+happening inside the home. Unfortunately, some falls cause serious injuries, 
+such as broken bones. People often think that falls are part of getting older 
+and that little can be done to stop them from falling. However, there are many 
+ways to reduce falls. The Occupational Therapist Intervention Study (OTIS) 
+explored whether or not a home assessment visit by an NHS occupational therapist 
+could reduce falls among older people who are likely to be at risk of falling. 
+In total, 1331 people aged 65 years or older living in England took part in the 
+study. These people were all sent an Age UK leaflet about how to prevent falls, 
+and 430 people were selected at random to receive a visit from an occupational 
+therapist. The occupational therapist assessed their homes for hazards, such as 
+slippery floors or poor lighting, and made suggestions for changes. We collected 
+information from participants using monthly falls calendars and postal 
+questionnaires to ask them about their falls, their quality of life, how often 
+they used NHS services and how often they used paid care workers. We also asked 
+them about whether they had had equipment and adaptations installed as a result 
+of the assessments. We found that the home assessment visits did not reduce the 
+number of falls people had or make any difference to participants’ quality of 
+life. However, many of the recommendations made by the occupational therapists 
+were not carried out. The home assessment visits by an occupational therapist 
+were not good value for money.
+
+DOI: 10.3310/hta25460
+PMCID: PMC8287374
+PMID: 34254934 [Indexed for MEDLINE]
+
+
+62. JMIR Form Res. 2021 Jul 12;5(7):e25285. doi: 10.2196/25285.
+
+A Web-Based Social Network Tool (GENIE) for Supporting Self-management Among 
+High Users of the Health Care System: Feasibility and Usability Study.
+
+Valaitis R(1), Cleghorn L(2), Vassilev I(3), Rogers A(3), Ploeg J(1), Kothari 
+A(4), Risdon C(2), Gillett J(5), Guenter D(2), Dolovich L(2).
+
+Author information:
+(1)School of Nursing, McMaster University, Hamilton, ON, Canada.
+(2)Department of Family Medicine, McMaster University, Hamilton, ON, Canada.
+(3)School of Health Sciences, University of Southampton, Southampton, United 
+Kingdom.
+(4)School of Health Studies, Western University, London, ON, Canada.
+(5)Health Aging and Society, McMaster University, Hamilton, ON, Canada.
+
+BACKGROUND: Primary care providers are well positioned to foster self-management 
+through linking patients to community-based health and social services (HSSs). 
+This study evaluated a web-based tool-GENIE (Generating Engagement in Network 
+Involvement)-to support the self-management of adults. GENIE empowers patients 
+to leverage their personal social networks and increase their access to HSSs. 
+GENIE maps patients' personal social networks, elicits preferences, and filters 
+local HSSs from a community service directory based on patient's interests. 
+Trained volunteers (an extension of the primary care team) conducted home visits 
+and conducted surveys related to life and health goals in the context of the 
+Health TAPESTRY (Teams Advancing Patient Experience: Strengthening Quality) 
+program, in which the GENIE tool was implemented. GENIE reports were uploaded to 
+an electronic medical record for care planning by the team.
+OBJECTIVE: This study aims to explore patients', volunteers', and clinicians' 
+perceptions of the feasibility, usability, and perceived outcomes of GENIE-a 
+tool for community-dwelling adults who are high users of the health care system.
+METHODS: This study involved 2 primary care clinician focus groups and 1 
+clinician interview (n=15), 1 volunteer focus group (n=3), patient telephone 
+interviews (n=8), field observations that captured goal-action sequences to 
+complete GENIE, and GENIE utilization statistics. The patients were enrolled in 
+a primary care program-Health TAPESTRY-and Ontario's Health Links Program, which 
+coordinates care for the highest users of the health care system. NVivo 11 (QSR 
+International) was used to support qualitative data analyses related to 
+feasibility and perceived outcomes, and descriptive statistics were used for 
+quantitative data.
+RESULTS: Most participants reported positive overall perceptions of GENIE. 
+However, feasibility testing showed that participants had a partial 
+understanding of the tool; volunteer facilitation was critical to support the 
+implementation of GENIE; clinicians perceived their navigation ability as 
+superior to that of GENIE supported by volunteers; and tool completion took 39 
+minutes, which made the home visit too long for some. Usability challenges 
+included difficulties completing some sections of the tool related to medical 
+terminology and unclear instructions, limitations in the quality and quantity of 
+HSSs results, and minor technological challenges. Almost all patients identified 
+a community program or activity of interest. Half of the patients (4/8, 50%) 
+followed up on HSSs and added new members to their network, whereas 1 
+participant lost a member. Clinicians' strengthened their understanding of 
+patients' personal social networks and needs, and patients felt less social 
+isolation.
+CONCLUSIONS: This study demonstrated the potential of GENIE, when supported by 
+volunteers, to expand patients' social networks and link them to relevant HSSs. 
+Volunteers require training to implement GENIE for self-management support, 
+which may help overcome the time limitations faced by primary care clinicians. 
+Refining the filtering capability of GENIE to address adults' needs may improve 
+primary care providers' confidence in using such tools.
+
+©Ruta Valaitis, Laura Cleghorn, Ivaylo Vassilev, Anne Rogers, Jenny Ploeg, Anita 
+Kothari, Cathy Risdon, James Gillett, Dale Guenter, Lisa Dolovich. Originally 
+published in JMIR Formative Research (https://formative.jmir.org), 12.07.2021.
+
+DOI: 10.2196/25285
+PMCID: PMC8315309
+PMID: 34255654
+
+Conflict of interest statement: Conflicts of Interest: None declared.
+
+
+63. Am J Primatol. 2021 Nov;83(11):e23299. doi: 10.1002/ajp.23299. Epub 2021 Jul
+13.
+
+Comparative neuropathology in aging primates: A perspective.
+
+Freire-Cobo C(1), Edler MK(2)(3)(4), Varghese M(1), Munger E(2)(3)(4), Laffey 
+J(1), Raia S(1), In SS(1), Wicinski B(1), Medalla M(5), Perez SE(6), Mufson 
+EJ(6)(7), Erwin JM(8), Guevara EE(8)(9), Sherwood CC(8), Luebke JI(5), Lacreuse 
+A(10), Raghanti MA(2)(3)(4), Hof PR(1)(11).
+
+Author information:
+(1)Nash Family Department of Neuroscience and Friedman Brain Institute, Icahn 
+School of Medicine at Mount Sinai, New York, New York, USA.
+(2)School of Biomedical Sciences, Kent State University, Kent, Ohio, USA.
+(3)Department of Anthropology, Kent State University, Kent, Ohio, USA.
+(4)Brain Health Research Institute, Kent State University, Kent, Ohio, USA.
+(5)Department of Anatomy and Neurobiology, Center for Systems Neuroscience, 
+Boston University School of Medicine, Boston, Massachusetts, USA.
+(6)Department of Neurobiology, Barrow Neurological Institute, Phoenix, Arizona, 
+USA.
+(7)Department of Neurology, Barrow Neurological Institute, Phoenix, Arizona, 
+USA.
+(8)Department of Anthropology, Center for the Advanced Study of Human 
+Paleobiology, The George Washington University, Washington, District of 
+Columbia, USA.
+(9)Department of Evolutionary Anthropology, Duke University, Durham, North 
+Carolina, USA.
+(10)Psychological and Brain Sciences, University of Massachusetts, Amherst, 
+Massachusetts, USA.
+(11)Ronald M. Loeb Center for Alzheimer's Disease, Icahn School of Medicine at 
+Mount Sinai, New York, New York, USA.
+
+While humans exhibit a significant degree of neuropathological changes 
+associated with deficits in cognitive and memory functions during aging, 
+non-human primates (NHP) present with more variable expressions of pathological 
+alterations among individuals and species. As such, NHP with long life 
+expectancy in captivity offer an opportunity to study brain senescence in the 
+absence of the typical cellular pathology caused by age-related 
+neurodegenerative illnesses commonly seen in humans. Age-related changes at 
+neuronal population, single cell, and synaptic levels have been well documented 
+in macaques and marmosets, while age-related and Alzheimer's disease-like 
+neuropathology has been characterized in additional species including lemurs as 
+well as great apes. We present a comparative overview of existing 
+neuropathologic observations across the primate order, including classic 
+age-related changes such as cell loss, amyloid deposition, amyloid angiopathy, 
+and tau accumulation. We also review existing cellular and ultrastructural data 
+on neuronal changes, such as dendritic attrition and spine alterations, synaptic 
+loss and pathology, and axonal and myelin pathology, and discuss their 
+repercussions on cellular and systems function and cognition.
+
+© 2021 Wiley Periodicals LLC.
+
+DOI: 10.1002/ajp.23299
+PMCID: PMC8551009
+PMID: 34255875 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICT OF INTERESTS The authors declare that 
+there are no conflicts of interests.
+
+
+64. Int J Equity Health. 2021 Jul 13;20(1):163. doi: 10.1186/s12939-021-01502-6.
+
+Health disparities in Russia at the regional and global scales.
+
+Shartova N(1), Tikunov V(2), Chereshnya O(2).
+
+Author information:
+(1)Faculty of Geography, Lomonosov Moscow State University, Moscow, 119991, 
+Russia. shartova@yandex.ru.
+(2)Faculty of Geography, Lomonosov Moscow State University, Moscow, 119991, 
+Russia.
+
+BACKGROUND: The capacity for health comparisons, including the accurate 
+comparison of indicators, is necessary for a comprehensive evaluation of 
+well-being in places where people live. An important issue is the assessment of 
+within-country heterogeneity for geographically extensive countries. The aim of 
+this study was to assess the spatial and temporal changes in health status in 
+Russia and to compare these regional changes with global trends.
+METHODS: The index, which considers the infant mortality rate and the male and 
+female life expectancy at birth, was used for this purpose. Homogeneous 
+territorial groups were identified using principal component analysis and 
+multivariate ranking procedures. Trend analysis of individual indicators 
+included in the index was also performed to assess the changes over the past 
+20 years (1990-2017).
+RESULTS: The study indicated a trend towards convergence in health indicators 
+worldwide, which is largely due to changes in infant mortality. It also revealed 
+that the trend of increasing life expectancy in many regions of Russia is not 
+statistically significant. Significant interregional heterogeneity of health 
+status in Russia was identified according to the application of typological 
+ranking. The regions were characterized by similar index values until the 
+mid-1990s.
+CONCLUSIONS: The strong spatial inequality in health of population was found in 
+Russia. While many regions of Russia were comparable to the countries in the 
+high-income group in terms of GDP, the progress in health was less pronounced. 
+Perhaps this can be explained by intraregional inequality, expressed by 
+significant fluctuations in income levels.
+TRIAL REGISTRATION: Not applicable.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12939-021-01502-6
+PMCID: PMC8276545
+PMID: 34256759 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+65. BMJ Case Rep. 2021 Jul 13;14(7):e244122. doi: 10.1136/bcr-2021-244122.
+
+Alternative management of delayed spontaneous oesophageal perforation by 
+endoscopic stenting.
+
+Zhu C(1), Castrodad A(2), Santos AP(2).
+
+Author information:
+(1)Texas Tech University Health Sciences Center School of Medicine, Lubbock, TX, 
+USA christina.zhu@ttuhsc.edu.
+(2)Department of Surgery, Texas Tech University Health Sciences Center, Covenant 
+Medical Center, Lubbock, TX, USA.
+
+Boerhaave's syndrome or spontaneous perforation of the oesophagus is a 
+life-threatening condition that carries high mortality. Delayed diagnosis has a 
+mortality rate of 20%-50%. While surgical intervention has been the mainstay of 
+treatment, advancements in endoscopy and oesophageal stenting have allowed for 
+alternative management. Our case involves a 33-year-old man with self-induced 
+emesis and DKA. After 10 days in the ICU, he developed a large right pleural 
+effusion, which was treated with chest tube placement. Upper GI study confirmed 
+delayed Boerhaave's syndrome. A self-expanding stent was inserted followed by 
+percutaneous endoscopic gastrostomy (PEG) for decompression and jejunal 
+extension for nutrition. He developed empyema and underwent right thoracotomy 
+for washout and lung decortication. Stent was exchanged once due to recurrent 
+leak following migration and removed after 40 days. Endoscopic stent placement 
+with PEG with jejunal extension followed by thoracotomy is a viable alternative 
+to primary repair of delayed oesophageal perforation.
+
+© BMJ Publishing Group Limited 2021. No commercial re-use. See rights and 
+permissions. Published by BMJ.
+
+DOI: 10.1136/bcr-2021-244122
+PMCID: PMC8278886
+PMID: 34257131 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+66. Sci Rep. 2021 Jul 13;11(1):14355. doi: 10.1038/s41598-021-93583-0.
+
+Ectoparasitic fungi Rickia wasmannii infection is associated with smaller body 
+size in Myrmica ants.
+
+Csősz S(1)(2), Rádai Z(3), Tartally A(4), Ballai LE(4), Báthori F(5)(6).
+
+Author information:
+(1)Evolutionary Ecology Research Group, Institute of Ecology and Botany, Centre 
+for Ecological Research, Alkotmány út 2-4, Vácrátót, 2163, Hungary.
+(2)MTA-ELTE-MTM Ecology Research Group, Pázmány Péter sétány 1/C, Budapest, 
+1117, Hungary.
+(3)Lendület Seed Ecology Research Group, Institute of Ecology and Botany, Centre 
+for Ecological Research, Alkotmány út 2-4, Vácrátót, 2163, Hungary.
+(4)Department of Evolutionary Zoology and Human Biology, University of Debrecen, 
+Egyetem tér 1, Debrecen, 4032, Hungary.
+(5)Evolutionary Ecology Research Group, Institute of Ecology and Botany, Centre 
+for Ecological Research, Alkotmány út 2-4, Vácrátót, 2163, Hungary. 
+ferenc.bathori@gmail.com.
+(6)Department of Evolutionary Zoology and Human Biology, University of Debrecen, 

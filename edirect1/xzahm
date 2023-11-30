@@ -1,0 +1,1000 @@
+
+DOI: 10.1176/ajp.2007.164.2.206
+PMID: 17267781 [Indexed for MEDLINE]
+
+
+65. Rev Mal Respir. 2006 Nov;23(5 Pt 3):16S95-16S99.
+
+[Non-small cell lung cancer in the elderly. What chemotherapy?].
+
+[Article in French]
+
+Quoix E(1).
+
+Author information:
+(1)Département de pneumologie, Hôpitaux Universitaires de Strasbourg, 
+Strasbourg, France. elisabeth.quoix@chru-strasbourg.fr
+
+Half the patients with lung cancer are over 65 and one third are over 70 years 
+of age. The increased incidence with age and the increase in life expectancy 
+explains the large number of lung cancers found in elderly people. The correct 
+management comes up against many obstacles: a certain nihilism among patients 
+and doctors, the false idea that cancer progresses less quickly in elderly 
+people and finally the near absence of clinical trials in elderly subjects. This 
+situation is changing with population based studies as well as therapeutic 
+trials specifically in elderly people which should allow better adaption of 
+treatment to age and co-morbidities without being sub-optimal.
+
+PMID: 17268344 [Indexed for MEDLINE]
+
+
+66. J Community Health. 2007 Feb;32(1):21-36. doi: 10.1007/s10900-006-9032-6.
+
+Effect of maternal HIV infection on child survival in Ghana.
+
+Hong R(1), Banta JE, Kamau JK.
+
+Author information:
+(1)Department of Global Health, School of Public Health and Health Services, 
+George Washington University, 2175 K Street NW, Washington, DC 20037, USA 
+rhong@gwu.edu
+
+The purpose of this study was to measure the association between maternal HIV 
+infection and infant mortality in Ghana. Using a censored synthetic cohort life 
+table based on the birth history of 3639 childbirths during 1999-2003 obtained 
+from the interviews of a nationally representative sample of 5691 women age 
+15-49 in 6251 households in the 2003 Ghana Demographic and Health Survey. The 
+survey collected demographic, socioeconomic, and health data of the respondents 
+as well as obtained voluntary counseling test for HIV infection from all 
+eligible women. The effects of maternal HIV status and other factors on infant 
+mortality were estimated using multivariate survival regression analysis and the 
+results are presented as Hazard Ratios (HR) with 95% confident interval (95% 
+CI). Children born to HIV infected mothers were three times as likely to die 
+during infancy as those born to uninfected mothers (HR = 3.01; 95% CI: 1.64, 
+5.50). Controlling for other factors affecting infant mortality further sharpens 
+this relationship (HR = 3.51; 95% CI: 1.87, 6.61). Not receiving antenatal care, 
+low birth weight, and living in households that use high pollution cooking fuels 
+were associated with a higher risk of infant mortality. Maternal HIV status is a 
+strong predictor of infant mortality in Ghana, independent of several other 
+factors. The results of this study suggest that HIV/AIDS epidemic has had great 
+impact on child well-being and child survival. This impact tends to increase as 
+the HIV/AIDS epidemic matures and infection in adults increases.
+
+DOI: 10.1007/s10900-006-9032-6
+PMID: 17269311 [Indexed for MEDLINE]
+
+
+67. Arch Ital Urol Androl. 2006 Dec;78(4):161-2.
+
+PSA: an update.
+
+Schulman C(1).
+
+Author information:
+(1)Department of Urology, University Clinics of Brussels, Erasme Hospital, 
+Belgium. claude.Schulman@ulb.ac.be
+
+We know there is no cut-off of PSA that can rule out prostate cancer, a little 
+more than zero and you may be at risk, the problem is to know if you are at risk 
+of dying from of this disease or not. So PSA is not so specific, and we know 
+also that between 2 and 8 ng/ml there is no big difference, and that PSA is 
+partly related to the transition zone. PSA is related to age and to the size of 
+the transition zone, which is BPH, so you have to exclude this, and keep in mind 
+the reference data that Joe Oesterling published in the JAMA in 1996 which is 
+that PSA is age dependeant. I would say that for patients who are at high risk 
+of dying of the disease, those who have a life expectancy of 10 or 15 years, 
+that are under 60 and have high Gleason, if you consider treatment, then you 
+have to treat them early if you want to cure them. But let's not overtreat 
+patients who have no risk or limited risk of dying from prostate cancer, let's 
+be more conservative. The difficulty is to define criteria. Age, of course, is 
+the major criteria. High Gleason, i.e., a Gleason with pattern 4 or 5, and PSA 
+velocity is very important.
+
+PMID: 17269624 [Indexed for MEDLINE]
+
+
+68. Proteome Sci. 2007 Feb 1;5:4. doi: 10.1186/1477-5956-5-4.
+
+An informatic pipeline for the data capture and submission of quantitative 
+proteomic data using iTRAQ.
+
+Siepen JA(#)(1), Swainston N(#)(2), Jones AR(1)(3), Hart SR(4), Hermjakob H(5), 
+Jones P(5), Hubbard SJ(1).
+
+Author information:
+(1)Faculty of Life Sciences, University of Manchester, M13 9PT, UK.
+(2)Manchester Interdisciplinary Biocentre, University of Manchester, UK.
+(3)School of Computer Science, Faculty of Engineering and Physical Sciences, 
+University of Manchester, UK.
+(4)MBCMS, School of Chemistry, Manchester Interdisciplinary Biocentre, 
+University of Manchester, UK.
+(5)EMBL Outstation EBI, Wellcome Trust Genome Campus, Hinxton, Cambs, UK.
+(#)Contributed equally
+
+BACKGROUND: Proteomics continues to play a critical role in post-genomic science 
+as continued advances in mass spectrometry and analytical chemistry support the 
+separation and identification of increasing numbers of peptides and proteins 
+from their characteristic mass spectra. In order to facilitate the sharing of 
+this data, various standard formats have been, and continue to be, developed. 
+Still not fully mature however, these are not yet able to cope with the 
+increasing number of quantitative proteomic technologies that are being 
+developed.
+RESULTS: We propose an extension to the PRIDE and mzData XML schema to 
+accommodate the concept of multiple samples per experiment, and in addition, 
+capture the intensities of the iTRAQ reporter ions in the entry. A simple 
+Java-client has been developed to capture and convert the raw data from common 
+spectral file formats, which also uses a third-party open source tool for the 
+generation of iTRAQ reported intensities from Mascot output, into a valid PRIDE 
+XML entry.
+CONCLUSION: We describe an extension to the PRIDE and mzData schemas to enable 
+the capture of quantitative data. Currently this is limited to iTRAQ data but is 
+readily extensible for other quantitative proteomic technologies. Furthermore, a 
+software tool has been developed which enables conversion from various mass 
+spectrum file formats and corresponding Mascot peptide identifications to PRIDE 
+formatted XML. The tool represents a simple approach to preparing quantitative 
+and qualitative data for submission to repositories such as PRIDE, which is 
+necessary to facilitate data deposition and sharing in public domain database. 
+The software is freely available from http://www.mcisb.org/software/PrideWizard.
+
+DOI: 10.1186/1477-5956-5-4
+PMCID: PMC1796855
+PMID: 17270041
+
+
+69. J Am Dent Assoc. 2007 Feb;138(2):144-6. doi: 10.14219/jada.archive.2007.0115.
+
+The health of the nation: why you should care.
+
+Glick M.
+
+DOI: 10.14219/jada.archive.2007.0115
+PMID: 17272361 [Indexed for MEDLINE]
+
+
+70. Gastroenterol Clin Biol. 2007 Jan;31(1):55-67. doi: 
+10.1016/s0399-8320(07)89326-2.
+
+[Surgical treatment of recurrent locoregional rectal cancer].
+
+[Article in French]
+
+Ghouti L(1), Portier G, Kirzin S, Guimbaud R, Lazorthes F.
+
+Author information:
+(1)Service de Chirurgie Digestive et Oncologique, Hôpital Purpan, Toulouse. 
+ghouti.l@chu-toulouse.fr
+
+Local recurrence (LR) after curative surgery for rectal cancer occurs in 4 to 
+33% of cases especially if surgery is sub-optimal (without total excision of the 
+mesorectum). In many cases, diagnosis of LR is made at a late stage because of 
+the high rate of asymptomatic patients, 56% in the experience of the Mayo 
+Clinic. MRI and PETscan are most effective for assessing local and general 
+extension, with a high diagnostic accuracy. Surgical treatment alone or with 
+radiation (preoperative and/or intraoperative) is the only curative treatment of 
+LR with R0 resectability rates of 30% to 45%. Morbidity and mortality rates are 
+high, especially for total exenteration and abdomino-sacral resection. After 
+curative surgery, 5-year global survival is between 30% and 40%. Palliative 
+resection of macroscopic residues is not recommended. Careful patient selection 
+for curative surgery is the best way to optimize treatment in these cases.
+
+DOI: 10.1016/s0399-8320(07)89326-2
+PMID: 17273131 [Indexed for MEDLINE]
+
+
+71. J Bras Pneumol. 2006;32 Suppl 4:S182-9. doi: 10.1590/s1806-37132006000900004.
+
+[Malignant pleural effusion].
+
+[Article in Portuguese]
+
+Teixeira LR(1), Pinto JA, Marchi E.
+
+Author information:
+(1)Faculdade de Medicina, Universidade de São Paulo, São Paulo, SP, Brazil.
+
+The malignant pleural effusion is a frequent complication in patients with of 
+advanced tumors. The presence of malignant cells in the pleural fluid or in the 
+pleural biopsy is indicative of dissemination of the primary disease, with 
+consequent reduction of life expectancy. The early diagnosis and treatment of 
+the malignant effusion is pivotal in promoting a better quality of life to 
+patients with advanced cancer.
+
+DOI: 10.1590/s1806-37132006000900004
+PMID: 17273622 [Indexed for MEDLINE]
+
+
+72. Rev Saude Publica. 2007 Feb;41(1):131-8. doi:
+10.1590/s0034-89102007000100018.
+
+[Life satisfaction among elderly population in the city of Botucatu, Southern 
+Brazil].
+
+[Article in Portuguese]
+
+Joia LC(1), Ruiz T, Donalisio MR.
+
+Author information:
+(1)Faculdade Sao Francisco de Barreiras, Barreiras, BA, Brasil. 
+lucianejoia@yahoo.com.br
+
+OBJECTIVE: As a result of overall growing population's life expectancy, it has 
+become increasingly important to ensure not only that the elderly have greater 
+longevity but also happiness and life satisfaction. The objective of the study 
+was to describe factors associated with life satisfaction among elderly people.
+METHODS: Three hundred and sixty-five older persons, selected by means of random 
+stratified proportional sampling, were interviewed in 2003. The instrument used 
+was a combination of Flanagan and Nahas questionnaires and WHOQOL-100. There 
+were added questions concerning physical activity extracted from International 
+Physical Activity Questionnaire, questions regarding reported morbidity and 
+emotional assessment, sociodemographic condition and an open question. The level 
+of life satisfaction was measured using a scale from one to seven by means of 
+visual recognition. Hierarchical logistic regression analysis was performed 
+including "life satisfaction" as a dependent variable and those included the 
+final questionnaire, in blocks, as independent variables.
+RESULTS: Most elderly were generally rather satisfied with life as well as with 
+specific aspects. The level of life satisfaction was associated with: comfort at 
+home (OR=11.82; 95% CI: 3.27; 42.63); appraising leisure as quality of life 
+(OR=3.82; 95% CI: 2.28; 6.39); waking up feeling well in the morning (OR=2.80; 
+95% CI: 1.47; 5.36); not reporting loneliness (OR=2.68; 95% CI: 1.54; 4.65); 
+having three or more daily meals (OR=2.63; 95% CI: 1.75; 5.90) and not reporting 
+Diabetes Mellitus (OR=2.63; 95% CI: 1.31; 5.27).
+CONCLUSIONS: Most elderly in the study were satisfied with life and their 
+satisfaction was associated with situations related to "being well" and not 
+being diabetic.
+
+DOI: 10.1590/s0034-89102007000100018
+PMID: 17273644 [Indexed for MEDLINE]
+
+
+73. Ethn Dis. 2007 Winter;17(1):40-8.
+
+Black-white differences in age trajectories of hypertension prevalence among 
+adult women and men, 1999-2002.
+
+Geronimus AT(1), Bound J, Keene D, Hicken M.
+
+Author information:
+(1)Department of Health Behavior and Health Education, School of Public Health, 
+University of Michigan, Ann Arbor, MI 48109-2029, USA. arline@umich.edu
+
+Summary for patients in
+    Ethn Dis. 2007 Winter;17(1):172.
+
+OBJECTIVES: To describe age patterns of hypertension prevalence in young through 
+middle-aged adults and to test the hypothesis that hypertension prevalence rises 
+more rapidly with age among Blacks than Whites in the United States.
+DESIGN, SETTING, AND PARTICIPANTS: Using multiple logistics regression, we 
+predicted probability of being hypertensive for participants ages 15-65 years in 
+the National Health and Nutrition Examination Survey (NHANES) IV, 1999-2002. We 
+estimated age-specific Black-to-White odds ratios of hypertension overall, by 
+sex, and adjusted for body mass index (BMI) and poverty income ratio. We also 
+followed NHANES cohorts to test whether differential age patterns of 
+hypertension prevalence by race or gender represented cohort effects.
+MAIN OUTCOME MEASURE: Hypertension: systolic blood pressure > or = 140 mm Hg, 
+diastolic blood pressure > or = 90 mm Hg, or current antihypertensive medication 
+use.
+RESULTS: Black/White odds of hypertension increased from 1.71 to 3.12 between 
+ages 15 and 65. Odds for women increased faster, from 2.11 to 4.04. By age 40, 
+Black women had the highest hypertension rates and steepest age-gradient of 
+race/sex groups. Adjustment for poverty income ratio did not affect results. 
+Adjustment for BMI reduced Black women's hypertension risk somewhat but not 
+men's. Cohort analysis confirmed a more rapid increase in hypertension 
+prevalence among Blacks and women.
+CONCLUSIONS: Hypertension screening of Blacks should begin at young ages. Early 
+diagnosis and vigilant management are critical to addressing racial and sex 
+differences and their effect on cardiovascular disease, life expectancy, and 
+maternal and infant health. Psychosocial stressors merit consideration as 
+candidates for primary prevention. Addressing fundamental causes is needed. 
+Understanding the growing age-gradient increase among US Black women is 
+pressing.
+
+PMID: 17274208 [Indexed for MEDLINE]
+
+
+74. Mil Med. 2007 Jan;172(1):53-7. doi: 10.7205/milmed.172.1.53.
+
+Mortality, length of life, and physical examination attendance in participants 
+of the Air Force Health Study.
+
+Ketchum NS(1), Michalek JE, Pavuk M.
+
+Author information:
+(1)Air Force Research Laboratory, 8315 Hawks Road, Building 1168, Brooks 
+City-Base, TX 78235-5368, USA.
+
+Begun in 1982, the Air Force Health Study (AFHS) has assessed the mortality of 
+veterans of Operation Ranch Hand, the unit responsible for aerially spraying 
+herbicides in Vietnam. A comparison group of other Air Force veterans involved 
+with aircraft missions in Southeast Asia during the same period, but not 
+involved with spraying herbicides, was included in the study. Among 18,082 
+veterans, this report examined whether attendance at AFHS physical examinations 
+from 1982 to 1999 played a role in mortality experience and potential 
+lengthening of life relative to veterans who did not attend. The years of 
+potential life lost for 1173 veterans who died before age 65 was calculated. No 
+statistically significant difference in risk of death was found from all causes, 
+cancer, or circulatory disease between attendees and nonattendees. No evidence 
+was found to suggest that attending physical examinations decreased mortality or 
+substantially lengthened life in AFHS participants.
+
+DOI: 10.7205/milmed.172.1.53
+PMID: 17274267 [Indexed for MEDLINE]
+
+
+75. J Spinal Cord Med. 2006;29(5):511-9. doi: 10.1080/10790268.2006.11753901.
+
+Long-term survival of persons ventilator dependent after spinal cord injury.
+
+Shavelle RM(1), DeVivo MJ, Strauss DJ, Paculdo DR, Lammertse DP, Day SM.
+
+Author information:
+(1)Life Expectancy Project, San Francisco, California 94122, USA. 
+shavelle@lifeexpectancy.com
+
+BACKGROUND/OBJECTIVE: Identify factors related to long-term survival, and 
+quantify their effect on mortality and life expectancy.
+SETTING: Model spinal cord injury systems of care across the United States.
+STUDY DESIGN: Survival analysis of persons with traumatic spinal cord injury who 
+are ventilator dependent at discharge from inpatient rehabilitation and who 
+survive at least 1 year after injury.
+METHODS: Logistic regression analysis on a data set of 1,986 person-years 
+occurring among 319 individuals injured from 1973 through 2003.
+RESULTS: The key factors related to long-term survival were age, time since 
+injury, neurologic level, and degree of completeness of injury. The life 
+expectancies were modestly lower than previous estimates. Pneumonia and other 
+respiratory conditions remain the leading cause of death but account for only 
+31% of deaths of known causes.
+CONCLUSIONS: Whereas previous research has suggested a dramatic improvement in 
+survival over the last few decades in this population, this is only the case 
+during the critical first few years after injury. There was no evidence for such 
+a trend in the subsequent period.
+
+DOI: 10.1080/10790268.2006.11753901
+PMCID: PMC1949034
+PMID: 17274490 [Indexed for MEDLINE]
+
+
+76. Transplant Proc. 2007 Jan-Feb;39(1):45-50. doi: 
+10.1016/j.transproceed.2006.10.199.
+
+Renal transplantation in dialysis patients with the history of coronary artery 
+bypass grafting and cardiac valve replacement.
+
+Debska-Slizień A(1), Lizakowski S, Wołyniec W, Giergielewicz B, Zadrozny D, 
+Milecka A, Moszkowska G, Dudziak M, Rogowski J, Sledziński Z, Rutkowski B.
+
+Author information:
+(1)Medical University of Gdansk, Department of Nephrology, Transplantation, and 
+Internal Medicine, Gdansk, Poland.
+
+Erratum in
+    Transplant Proc. 2007 Mar;39(2):579. Rutkowski, B [added].
+
+Death with a functioning kidney is the most frequent cause of graft failure. 
+Cardiovascular disease is the most frequent cause of death after renal 
+transplantation. Therefore, prior to grafting, it is mandatory to diagnose and 
+treat coronary artery disease and heart valve impairment. Transplantation is the 
+best option for renal replacement therapy as far as the quality of life and life 
+expectancy are concerned, although patients with such comorbidities may 
+experience a higher short-term mortality risk. The objective for this study was 
+to analyze both short- and long-term results of patients after coronary artery 
+bypass grafting (CABG) or cardiac valve replacement (CVR). The cardiac surgery 
+recipient group (CSR) included 16 patients (15 men, 1 woman) aged from 44 to 73 
+(mean 54.9 +/- 7.8) years. CABG was performed in 13/16 patients, and CVR in 
+3/16. The rest of our patients were treated as a comparative noncardiac surgery 
+recipient (non-CSR) group. It consisted of 422 patients (264 men, 158 women) 
+aged from 14 to 68 years (mean 43.2 +/- 12.9). The comparison revealed that 
+graft function estimated at 1 year after transplantation was not different: 
+serum creatinine concentrations of 1.7 +/- 0.2 and 1.6 +/- 0.5 mg/dL in CSR and 
+non-CSR, respectively. One-year patient survival in the CVR group of 93.8% was 
+slightly worse than that in the non-CSR group (97.9%), but death-censored 1-year 
+graft survivals were comparable in both groups (93.8% vs 92%). Urinary tract and 
+cytomegalovirus infections were the most common complications in the CSR group. 
+One patient lost his graft in month 3(rd) due to many serious infectious 
+complications. One patient died at the end of 12 months as a result of a 
+cardiovascular event (1/16). Our single-center results confirm that 
+transplantation in patients after CABG or CVR is a safe procedure; therefore, 
+such patients should be referred into the waiting list.
+
+DOI: 10.1016/j.transproceed.2006.10.199
+PMID: 17275472 [Indexed for MEDLINE]
+
+
+77. J Assoc Nurses AIDS Care. 2007 Jan-Feb;18(1 Suppl):S2-10. doi: 
+10.1016/j.jana.2006.11.012.
+
+Long-Term suppression of HIV infection: benefits and limitations of current 
+treatment options.
+
+Sension MG(1).
+
+Author information:
+(1)HIV Clinical Research, North Broward Hospital District, Fort Lauderdale, 
+Florida, USA.
+
+HIV type 1, a causative agent of AIDS, is a source of worldwide morbidity and 
+mortality. There are an estimated 1 million people in North America currently 
+living with HIV infection, and more than 40,000 new cases occur annually. Before 
+the advent of highly active antiretroviral therapy (HAART), the mortality rate 
+of HIV infection was nearly 100%, and life expectancy was short. However, 
+successful HAART delays the onset of AIDS, allowing patients to live with 
+chronic HIV infection for 20 years or more. HAART usually consists of a 
+combination of protease inhibitors (PIs), nucleoside reverse transcriptase 
+inhibitors (NRTIs), and/or nonnucleoside reverse transcriptase inhibitors 
+(NNRTIs). Although these agents are highly efficacious in delaying the onset of 
+AIDS, their clinical utility is limited by viral resistance, nonadherence to 
+therapy, and drug toxicity. Consequently, multidrug regimens are necessary for 
+successful treatment. Initial NNRTI-based HAART regimens are effective at 
+reducing viral load and boosting CD4(+) cell counts. NNRTI resistance is 
+uncommon, but should it occur, the NNRTI-based therapy needs to be quickly 
+replaced by a PI-based therapy. Triple NRTI-based regimens are recommended only 
+if NNRTI- or PI-based regimens cannot be used. When developing a multidrug 
+regimen, it is also important to select HAART agents with limited adverse 
+effects. Because each HAART agent has its own unique adverse effect profile, 
+selecting a regimen with a favorable profile may be difficult. For example, 
+certain PIs produce adverse metabolic effects that may increase the risk of 
+developing cardiovascular disease. In contrast, NNRTI-based therapies have a 
+different side effect profile. Because each HAART agent has specific 
+limitations, tailoring a regimen to the individual patient is of paramount 
+importance for achieving optimal outcomes.
+
+DOI: 10.1016/j.jana.2006.11.012
+PMID: 17275719 [Indexed for MEDLINE]
+
+
+78. Drug Discov Today. 2007 Feb;12(3-4):112-24. doi:
+10.1016/j.drudis.2006.12.008.  Epub 2006 Dec 15.
+
+Targeting mammalian target of rapamycin (mTOR) for health and diseases.
+
+Tsang CK(1), Qi H, Liu LF, Zheng XF.
+
+Author information:
+(1)Department of Pharmacology and Cancer Institute of New Jersey (CINJ) Robert 
+Wood Johnson Medical School, 675 Hoes Lane, Piscataway, NJ 08854 USA.
+
+Erratum in
+    Drug Discov Today. 2008 Sep;13(17-18):824.
+
+The macrolide rapamycin is used clinically to treat graft rejection and 
+restenosis. Mammalian target of rapamycin (mTOR) is a central controller of 
+cellular and organism growth that integrates nutrient and hormonal signals, and 
+regulates diverse cellular processes. New studies have linked mTOR to several 
+human diseases including cancer, diabetes, obesity, cardiovascular diseases and 
+neurological disorders. Recent data have also revealed that mTOR is involved in 
+the regulation of lifespan and in age-related diseases. These findings 
+demonstrate the importance of growth control in the pathology of major diseases 
+and overall human health, and underscore the therapeutic potential of the mTOR 
+pathway.
+
+DOI: 10.1016/j.drudis.2006.12.008
+PMID: 17275731 [Indexed for MEDLINE]
+
+
+79. J Health Econ. 2007 Sep 1;26(5):877-95. doi: 10.1016/j.jhealeco.2006.12.005. 
+Epub 2006 Dec 30.
+
+Does education affect smoking behaviors? Evidence using the Vietnam draft as an 
+instrument for college education.
+
+de Walque D(1).
+
+Author information:
+(1)Development Research Group, The World Bank, Washington, DC 20433, USA. 
+ddewalque@worldbank.org
+
+This paper tests the hypothesis that education improves health and increases 
+people's life expectancy. It does so by analyzing the effect of education on 
+smoking behaviors. To account for the endogeneity of smoking, the analysis 
+develops an instrumental variable approach which relies on the fact that during 
+the Vietnam War college attendance provided a strategy to avoid the draft. The 
+results indicate that education does affect smoking decisions: educated 
+individuals are less likely to smoke, and among those who initiated smoking, 
+they are more likely to have stopped.
+
+DOI: 10.1016/j.jhealeco.2006.12.005
+PMID: 17275938 [Indexed for MEDLINE]
+
+
+80. Ultrasound Med Biol. 2007 Mar;33(3):460-71. doi: 
+10.1016/j.ultrasmedbio.2006.09.006.
+
+Objective performance testing and quality assurance of medical ultrasound 
+equipment.
+
+Thijssen JM(1), Weijers G, de Korte CL.
+
+Author information:
+(1)Clinical Physics Laboratory, University Children's Hospital, Radboud 
+University Nijmegen Medical Center, Nijmegen, The Netherlands. 
+j.thijssen@cukz.umcn.nl
+
+There is an urgent need for a measurement protocol and software analysis for 
+objective testing of the imaging performance of medical ultrasound equipment 
+from a user's point of view. Methods for testing of imaging performance were 
+developed. Simple test objects were used, which have a long life expectancy. 
+First, the elevational focus (slice thickness) of the transducer was estimated 
+and the in-plane transmit focus was positioned at the same depth. Next, the 
+postprocessing look-up-table (LUT) was measured and linearized. The tests 
+performed were echo level dynamic range (dB), contrast resolution (i.e., gamma 
+of display, number of gray levels/dB) and sensitivity, overall system 
+sensitivity, lateral sensitivity profile, dead zone, spatial resolution and 
+geometric conformity of display. The concept of a computational observer was 
+used to define the lesion signal-to-noise ratio, SNR(L) (or Mahalanobis 
+distance), as a measure for contrast sensitivity. All the measurements were made 
+using digitized images and quantified by objective means, i.e., by image 
+analysis. The whole performance measurement protocol, as well as the 
+quantitative measurements, have been implemented in software. An extensive 
+data-base browser was implemented from which analysis of the images can be 
+started and reports generated. These reports contain all the information about 
+the measurements, such as graphs, images and numbers. The approach of 
+calibrating the gamma by using a linearized LUT was validated by processing 
+simultaneously acquired rf data. The contrast resolution and echo level of the 
+rf data had to be compressed by a factor of two and amplified by a gain factor 
+corresponding to 12 dB. This resulted in contrast curves that were practically 
+identical to those obtained from DICOM image data. The effects of changing the 
+transducer center frequency on the spatial resolution and contrast sensitivity 
+were estimated to illustrate the practical usefulness of the developed approach 
+of quality assurance by measuring objective performance characteristics. The 
+developed methods might be considered as a minimum set of objective quality 
+assurance measures. This set might be used to predict clinical performance of 
+medical ultrasound equipment, taking into account the performance at a unique 
+point in space i.e., the coinciding depths of the elevation and in-plane 
+(azimuth) foci. Furthermore, it should be investigated whether the approach 
+might be used to compare objectively various brands of equipment and to evaluate 
+the performance specifications given by the manufacturer. Last but not least, 
+the developed approach can be used to monitor, in a hospital environment, the 
+medical ultrasound equipment during its life cycle. The software package may be 
+viewed and downloaded at the website http://www.qa4us.eu.
+
+DOI: 10.1016/j.ultrasmedbio.2006.09.006
+PMID: 17275983 [Indexed for MEDLINE]
+
+
+81. J Gynecol Obstet Biol Reprod (Paris). 2007 Apr;36(2):119-28. doi: 
+10.1016/j.jgyn.2006.12.020. Epub 2007 Feb 2.
+
+[Management of endometriosis: clinical and biological assessment].
+
+[Article in French]
+
+Panel P(1), Renouvel F.
+
+Author information:
+(1)Service de Gynécologie - Obstétrique, Centre Hospitalier de Versailles, 
+Hôpital André-Mignot, 177, rue de Versailles, 78157 Le Chesnay, France. 
+ppanel@ch-versailles.fr
+
+No symptom is pathognomonic for endometriosis. Main symptoms are pain (chronic 
+pelvic pain, dysmenorrhea, deep dyspareunia, pain on defecation, cyclic pain) 
+and infertility (grade C). There is no relation between rAFS endometriosis 
+classification and symptoms intensity and frequency (grade B). Endometriosic 
+lesions location and symptoms type are related to each other as well as symptoms 
+intensity and lesions deepness or adhesion numbers (grade B). Clinical evidence 
+is the same for infertile endometriosic women (grade C). Screening for 
+depression is required among patients suffering from chronic endometriosic 
+pelvic pain (grade C). Clinical examination includes: 1) retrocervix area 
+inspection as well as upper part of posterior vaginal wall in search for typical 
+bluish lesions (grade B); 2) vaginal examination in search for: a) uterosacral 
+ligaments nodules (grade B); b) pain in uterosacral ligaments extension (grade 
+B); 3) re-examination during menstruation increases its performance (grade B). 
+No biological check-up in endometriosis diagnosis is necessary (grade A). CA 125 
+increase is related to: endometriomas and deep lesions volume (grade B), 
+surgically treated infertile women prognosis (grade B). Presurgical 
+endometriosis diagnosis is bettered by using diagnosis pattern in selected 
+population (grade B). Rating scales are recommended in diagnosis and therapeutic 
+follow up (grade B). Quality of life scales are useful to evaluate therapeutic 
+efficiency (grade B).
+
+DOI: 10.1016/j.jgyn.2006.12.020
+PMID: 17276015 [Indexed for MEDLINE]
+
+
+82. Presse Med. 2007 Jul-Aug;36(7-8):1084-97. doi: 10.1016/j.lpm.2007.01.006.
+Epub  2007 Feb 2.
+
+[Fabry disease: proposed guidelines from a French expert group for its 
+diagnosis, treatment and follow-up].
+
+[Article in French]
+
+Lidove O(1), Bekri S, Goizet C, Khau Van Kien A, Aractingi S, Knebelmann B, 
+Choukroun G, Tsimaratos M, Redonnet-Vernhet I, Lacombe D, Jaussaud R.
+
+Author information:
+(1)Service de médecine interne, Hôpital Bichat, Paris. 
+olivier.lidove@bch.aphp.fr
+
+Fabry disease is a rare and under-recognized disease associated with an altered 
+X-linked gene controlling hydrolase alpha-galactosidase A activity. This 
+mutation impairs the glycosphingolipid metabolism. A multisystemic disease with 
+a highly variable clinical presentation, its principal symptom is 
+acroparesthesia. Manifestations of Fabry disease occur mostly in hemizygous 
+males but also in heterozygous females. Before enzyme replacement therapy was 
+available, life expectancy was about 50 years in men and 70 years in women. 
+Early diagnosis is essential to prevent irreversible organ damage. Diagnosis is 
+based on an assay of alpha-galactosidase A activity in male patients and on 
+genetic analysis in female patients. Prognosis is related principally to three 
+complications: involvement of the central nervous system, kidneys, and heart. 
+Management of Fabry patients should in all cases combine symptomatic therapy and 
+regular clinical, laboratory and morphological follow-up by specialists in 
+genetic metabolic diseases. Enzyme replacement therapy should be considered in 
+all adult male patients and should probably begin early. In adult heterozygous 
+female patients and in children, this treatment should be considered only for 
+patients with severe pain, organ damage, or central nervous system, kidney, or 
+heart involvement. After a proband is identified, a genealogical tree should be 
+used to identify other affected members of the family.
+
+DOI: 10.1016/j.lpm.2007.01.006
+PMID: 17276649 [Indexed for MEDLINE]
+
+
+83. QJM. 2007 Feb;100(2):97-105. doi: 10.1093/qjmed/hcl141.
+
+Life expectancy of patients with newly-diagnosed HIV infection in the era of 
+highly active antiretroviral therapy.
+
+Fang CT(1), Chang YY, Hsu HM, Twu SJ, Chen KT, Lin CC, Huang LY, Chen MY, Hwang 
+JS, Wang JD, Chuang CY.
+
+Author information:
+(1)Department of Internal Medicine, National Taiwan University Hospital, No. 7 
+Chung San South Road, Taipei, Taiwan.
+
+BACKGROUND: Limited data are available on the life expectancy of patients with 
+newly-diagnosed HIV infection in the era of highly active antiretroviral therapy 
+(HAART).
+AIM: To provide such an estimate using a semi-parametric projection.
+DESIGN: Statistical analysis.
+METHODS: Follow-up data for patients newly diagnosed with HIV infection in 
+Taiwan (HIV/AIDS Cohort) from 1 May 1997 to 30 April 2003 (n = 3351, only 1% are 
+injecting drug users) were analysed using the Kaplan-Meier method. The survival 
+function for an age- and gender-matched reference population was generated by 
+the Monte Carlo method from the life-table of the general population. A constant 
+excess hazard model was used to project long-term survival of HIV-infected 
+patients, with linear extrapolation of a logit-transformed curve of survival 
+ratio between HIV-infected patients and the reference population.
+RESULTS: The 5-year survival rate was 58% in patients who had already developed 
+AIDS at diagnosis (AIDS group), and 89% in those who had not (non-AIDS group). 
+Extrapolation yielded an expected mean survival time of 10.6 years after 
+diagnosis for the AIDS group, and 21.5 years after diagnosis for the non-AIDS 
+group.
+DISCUSSION: Our results support the expansion of HIV screening programs to 
+minimize delay in diagnosis. With continuing advances in HAART, this estimate of 
+survival in initially asymptomatic patients may be conservative. Their long life 
+expectancy raises questions about what kind of preventive heath services should 
+be offered. These should be addressed through further analysis of overall 
+benefit and cost-effectiveness.
+
+DOI: 10.1093/qjmed/hcl141
+PMID: 17277317 [Indexed for MEDLINE]
+
+
+84. Support Care Cancer. 2007 Jun;15(6):603-611. doi: 10.1007/s00520-006-0191-x. 
+Epub 2007 Feb 3.
+
+Speed of haemoglobin response in patients with cancer: a review of the 
+erythropoietic proteins.
+
+Oberhoff C(1).
+
+Author information:
+(1)Department of Gynecology and Obstetrics, Marienhospital Altenessen, 
+Hospitalstraβe 24, D-45329, Essen, Germany. c.oberhoff@kkenw.de.
+
+BACKGROUND: Patients with cancer-related anaemia generally have a poor 
+prognosis. Evidence suggests that an effective erythropoietic protein 
+(epoetin)-mediated haemoglobin (Hb) response provides marked improvement in 
+quality of life (QoL). An early Hb response to erythropoietic protein therapy in 
+these patients would appear ideal but few studies have compared the speed of 
+response to different erythropoietic proteins, or the potential benefits 
+associated with an early Hb response.
+RESULTS AND DISCUSSION: The pharmacokinetic/pharmacodynamic profiles of 
+commercially available erythropoietic proteins are reviewed along with available 
+clinical data to examine Hb response and associated clinical outcomes for each 
+of these agents. Randomised, head-to-head trials comparing epoetin alfa and 
+darbepoetin alfa suggest that patients administered with epoetin alfa achieve a 
+satisfactory Hb response significantly earlier than those given darbepoetin 
+alfa, and with consistently lower monthly transfusion rates. Non-comparative 
+studies support this, suggesting also that epoetin beta may provide a relatively 
+faster Hb response in a greater number of patients than either epoetin alfa or 
+darbepoetin alfa, irrespective of malignancy or chemotherapy type. Moreover, 
+studies suggest consistently that a 'front-loading' dosing regimen with epoetin 
+alfa does not convey improved speed of Hb response over epoetin beta 
+administered according to current clinical practice guidelines.
+CONCLUSIONS: Given the poor prognosis of anaemic patients with cancer, the use 
+of an agent which provides clinical benefits quickly but with minimal 
+thromboembolic risk, should be considered an essential component of anaemia 
+management in these patients. However, more head-to-head studies are required to 
+confirm the relative efficacy of currently available erythropoietic proteins.
+
+DOI: 10.1007/s00520-006-0191-x
+PMID: 17277926 [Indexed for MEDLINE]
+
+
+85. J Commun Dis. 2005 Dec;37(4):261-8.
+
+Health related quality of life (HRQL) scoring (DR-12 score) in 
+tuberculosis--additional evaluative tool under DOTS.
+
+Dhingra VK(1), Rajpal S.
+
+Author information:
+(1)New Delhi Tuberculosis Centre, Jawahar Lal Nehru Marg, New Delhi-110002.
+
+The study was conducted among patients diagnosed as pulmonary or extra pulmonary 
+tuberculosis attending DOTS facilities at New Delhi Tuberculosis Centre, Delhi. 
+The objectives of the study are; to evaluate the impairment of health related 
+quality of life in patients of tuberculosis by evolving a HRQL questionnaire 
+(DR-12 score) and to validate the new scoring method by making serial 
+assessments of health related quality of life of the patients during 
+anti-tubercular therapy initially, at the end of intensive phase (IP) and at the 
+completion of treatment. Seventy eight consecutive patients aged between 15-60 
+years put on DOTS treatment at New Delhi Tuberculosis Centre, Delhi were 
+subjected to a HRQL questionnaire (DR-12 score) at 0 week, 8 weeks and at the 
+completion of treatment. The new scoring method contained questions on twelve 
+parameters related to symptoms, physiological, psychological and social 
+well-being of TB patients. The patients were asked to evaluate these twelve 
+parameters on a score of 1-3. All the individual parameters were equally 
+weighted. The data so obtained regarding these scores was analysed using 
+unpaired t-test, paired t-test, one way Anova test and Pearson corelation 
+coefficient test. The patients who converted at the end of intensive phase had a 
+significantly higher gain in scores as against, those who failed to convert even 
+after extension of intensive phase (p=0.019). Significantly higher scores were 
+observed among those who had a favourable outcome as against those who had 
+unfavourable outcome at the completion of treatment (p=0.029). Thus, DR-12 score 
+was found to have a strong construct validity and useful additional evaluative 
+tool for patients under DOTS therapy.
+
+PMID: 17278655 [Indexed for MEDLINE]
+
+
+86. Health Technol Assess. 2007 Feb;11(6):iii-iv, 1-85. doi: 10.3310/hta11060.
+
+Oral naltrexone as a treatment for relapse prevention in formerly 
+opioid-dependent drug users: a systematic review and economic evaluation.
+
+Adi Y(1), Juarez-Garcia A, Wang D, Jowett S, Frew E, Day E, Bayliss S, Roberts 
+T, Burls A.
+
+Author information:
+(1)Department of Public Health and Epidemiology, University of Birmingham, UK.
+
+OBJECTIVES: To investigate the clinical effectiveness and cost-effectiveness of 
+naltrexone for relapse prevention in detoxified formerly opioid-dependent 
+individuals compared with any strategy that does not use naltrexone, including 
+treatment with placebo, other pharmacological treatments, psychosocial 
+interventions or no treatment.
+DATA SOURCES: Major electronic databases were searched from inception to 
+September 2005.
+REVIEW METHODS: Selected studies were screened and quality assessed. 
+Meta-analyses were carried out as appropriate. A decision-analytic model using 
+Monte Carlo simulation was developed that compared naltrexone as an adjunctive 
+therapy to no naltrexone. It assumed compliance rates that were not enhanced by 
+contingent management rewards (because this is current UK practice). Utility 
+values could not be identified from the literature and so were obtained by 
+research specially commissioned from the Value of Health Panel.
+RESULTS: The methodological quality of the 26 randomised controlled trials 
+(RCTs) that met the inclusion criteria was poor to moderate. The results suggest 
+that naltrexone as maintenance therapy may be better than placebo in terms of 
+retention in treatment, but this was not statistically significant. A 
+meta-analysis of seven included RCTs gave the relative risk (RR) of loss of 
+retention in treatment in the naltrexone arm as 0.94. The pooled hazard ratio 
+(HR) reported in five of the RCTs for retention in treatment data followed up to 
+35 weeks was calculated as 0.90 in favour of naltrexone and also did not reach 
+statistical significance. The risk of drug abuse in naltrexone versus placebo, 
+with or without psychological support given in both arms, gave a pooled RR of 
+0.72, which was a statistically significant difference in favour of naltrexone. 
+The pooled HR from three RCTs for opioid relapse-free rates was significantly 
+different from placebo in favour of naltrexone 0.53; however, this fell off over 
+time and may be of limited clinical significance. The RR of reimprisonment while 
+on naltrexone therapy showed results in favour of naltrexone in the combined two 
+studies of parolees or people on probation, but the number of participants was 
+small. One study of 52 participants found that the difference in improvement 
+score for risky sexual behaviour in the naltrexone group compared with the 
+placebo group was not statistically significant. The adverse events data 
+reported showed no significant difference between the naltrexone and placebo 
+arms. The quality of the nine RCTs of interventions designed to increase 
+retention with naltrexone was poor to moderate; however, all three different 
+modalities of enhanced care showed some evidence of effectiveness. All of the 
+contingency management programmes used incentive vouchers; the mean duration of 
+treatment retention was 7.4 weeks for the contingency management intervention 
+compared with 2.3-5.6 weeks for the naltrexone treatment alone. The mean length 
+of time for which patients stayed on naltrexone was 84-103 days with additional 
+psychosocial therapy compared with 43-64 days for the control group. In trials 
+with added pharmacological agents the RRs of stopping treatment were 1.63 at 6 
+months and 1.31 at 12 months (in favour of naltrexone plus fluoxetine). It 
+became statistically significant at 6 months, but not at 12 months. A 
+meta-analysis of the RR of stopping treatment at week 12 (the minimum follow-up 
+period) was carried out using six of the nine studies. The pooled RR of stopping 
+treatment was 0.81. The results indicated that overall the intervention groups 
+had 19% fewer patients who stopped treatment compared with the control group, 
+but there was only a small number of studies and their quality was relatively 
+poor. No existing economic evaluations were identified. The point estimate for 
+the cost-effectiveness of naltrexone was pound42,500 per quality-adjusted 
+life-year (QALY). Sensitivity analysis was carried out and the incremental 
+cost-effectiveness ratio varied between pound34,600 and pound42,500 per QALY 
+gained.
+CONCLUSIONS: Following successful withdrawal from opioids, naltrexone may be 
+administered on a chronic basis to block any future effects of opioids. 
+Naltrexone appears to have some limited benefit in helping formerly 
+opioid-dependent individuals to remain abstinent, although the quality of the 
+evidence is relatively poor and heterogeneous. The limited quality and extent of 
+the studies precluded an analysis of subgroups likely to benefit from naltrexone 
+prescribing. Oral naltrexone is used infrequently in current UK practice, and 
+this review suggests that this is appropriate as there is little evidence to 
+support its wider implementation. There is an important deficit in information 
+about the quality of life of people who use illicit opioids and this would 
+perhaps be a worthwhile area of research in informing policy questions about the 
+cost-effectiveness of different programmes and interventions.
+
+DOI: 10.3310/hta11060
+PMID: 17280624 [Indexed for MEDLINE]
+
+
+87. Conf Proc IEEE Eng Med Biol Soc. 2005;2005:6021-4. doi: 
+10.1109/IEMBS.2005.1615864.
+
+Different plantar interface effects on dynamics of the lower limb.
+
+Hao ZH(1), Zhou JB, Jin DW, Zhou DW, Li XD.
+
+Author information:
+(1)Division of Intelligent & Biomechdanical System, State Key Laboratory of 
+Tribology, Tsinghua University, Beijing. China.
+
+The moments acting on the lower limb joints influence the life of the arthrosis. 
+These loads may depend on the footwear and action style. The footwear factor was 
+studied with three-dimensional gait measure system. Five young women in their 
+20s, wear 7 cm high-heeled shoes and sneakers, and walked in 10 m gait 
+laboratory walkway. Inversed dynamics was used to analysis the torques at the 
+ankle, knee and hip. Results showed that peak adduction moments at the knee and 
+ankle increased and flexion/extension moments at hip increased with high-heel 
+shoes compared with the sneakers. The high-heeled shoes result in greater load 
+in lower limb joints especial to the knee and hip.
+
+DOI: 10.1109/IEMBS.2005.1615864
+PMID: 17281634
+
+
+88. Conf Proc IEEE Eng Med Biol Soc. 2005;2005:7648-51. doi: 
+10.1109/IEMBS.2005.1616283.
+
+Life-like Control for Neural Prostheses: "Proximal Controls Distal".
+
+Popovic D(1), Popovic M, Sinkjaer T.
+
+Author information:
+(1)Member IEEE, Department of Health Science and Technology Aalborg University, 
+Denmark and Faculty of Electrical Engineering, University of Belgrade, Serbia. 
+(+45 96358726; fax: +45 98154008; e-mail: dbp@smi.auc.dk).
+
+We describe the model and implementation of the hierarchical hybrid method for 
+controlling of the lower-arm (pronation/supination and elbow flexion/extension) 
+in humans with disabilities. The control follows the strategy found in 
+ablebodied humans where the movement is planned based on the task and the most 
+distal part of the arm; yet, the command starts from the most proximal segment. 
+The controller uses a black box of the movement and relies on temporal and 
+spatial synergies. The driving signals are the shoulder flexion/extension 
+velocity and acceleration, the outputs are four stimulation patterns for the 
+control of elbow flexion/extension and pronation/supination. The operation is 
+discrete at the voluntary and coordination levels, and continuous at the 
+actuator level. The repertoire of movement that were considered was limited to a 
+set of typical daily activities within the normal workspace in the sitting 
+position only. The main application of this control is the therapeutic 
+electrical stimulation in post-stroke hemiplegic patients.
+
+DOI: 10.1109/IEMBS.2005.1616283
+PMID: 17282052
+
+
+89. Conf Proc IEEE Eng Med Biol Soc. 2005;2006:720-2. doi: 
+10.1109/IEMBS.2005.1616515.
+
+Electrostatic Self-assemble and Nanomedicine.
+
+Ji J(1), Shen J.
+
+Author information:
+(1)Department of Polymer Science, Zhejiang University, 310027, Hangzhou, China 
+(e-mail: jijian@jzju. Edu.cn).
+
+Electrostatic self-assemble (ESA), which based on the alternating physisorption 
+of oppositely charged polyelectrolyte, appears to be a promising method in 
+preparing nanolayer films of biopolymers and controlling the structures and 
+properties in nanoscale. It provides great potential in surface design of 
+nanolayer for bioactive coordinated coating for biomedical device, drug delivery 
+systems and novel gene delivery systems. Although biomedical device developments 
+have increased the quality and life expectancy of patients, the recognition of a 
+foreign material by living organism is still a problem, as it often leads to a 
+serial of adverse reactions, such as thrombus formation and complement 
+activation, etc. The new strategies in this regard aim at surface tailoring of 
+biomaterials in nanoscale to present different biologically activity. 
+Self-assembling of polymers has been increasingly explored for the preparation 
+of well-defined surfaces and interfaces in recent years [1]. Electrostatic 
+self-assemble (ESA), which based on the alternating physisorption of oppositely 
+charged polyelectrolyte, appears to be a promising method in preparing 
+multilayer films of biopolymers [2]. The buildup of such layer is easy and the 
+method can be used whatever the shape of the solid. The procedure may be carried 
+out not only with linear polyions and boladiions, but also with DNA, proteins, 
+virus, ceramics, and charged nanoparticles. Successful protein/polyion 
+multilayer assembly provides new possibilities in the line of efforts to create 
+a method of organizing proteins in layers and to build up such layers following 
+;molecular architecture' plans [3]. The method was extended to build up protein 
+superlattices, i.e.
+
+DOI: 10.1109/IEMBS.2005.1616515
+PMID: 17282284
+
+
+90. Curr Opin Cardiol. 2007 Mar;22(2):92-5. doi: 10.1097/HCO.0b013e32802086bc.
+
+Aortic valve replacement in elderly patients: what are the limits?
+
+Cohn LH(1), Narayanasamy N.
+
+Author information:
+(1)Division of Cardiac Surgery, Brigham and Women's Hospital, Boston, 
+Massachusetts 02115, USA. lcohn@partners.org
+
+PURPOSE OF REVIEW: Increased life expectancy has led to a growing elderly 
+population frequently presenting with aortic stenosis. This review focuses on 
+modalities of aortic valve replacement designed to cope with the risks from 
+multiple co-morbidities prevalent in the elderly.
+RECENT FINDINGS: Cardiac surgery is safe in octogenarians; very low risks are 
+associated with aortic valve replacement. Good short-term and medium-term 
+results are seen with early surgical intervention for aortic stenosis in the 
+relatively asymptomatic patient. The benefits seen with minimally invasive 
+surgery make it more acceptable. A hybrid approach that deploys a drug-eluting 
+stent for concomitant moderate coronary artery disease has shown promising 
+results. An extension of this concept is the percutaneous aortic valve 
+implantation that offers hope to the nonsurgical candidate. A systematic 
+approach of minimally invasive surgery in patients with prior coronary artery 
+bypass grafting minimizes injury to grafts. Bioprosthetic tissue valves are the 
+valves of choice in all the above interventions.
+SUMMARY: Cardiac surgery is used increasingly for aortic stenosis in elderly 
+patients. Current experiences in minimally invasive and percutaneous approaches 
+have opened the doors to hybrid strategies, which may be the mainstay of 
+treatment for older patients needing aortic valve replacements in the future.
+
+DOI: 10.1097/HCO.0b013e32802086bc
+PMID: 17284986 [Indexed for MEDLINE]
+
+
+91. Qual Life Res. 2007 Jun;16(5):777-86. doi: 10.1007/s11136-006-9162-4. Epub
+2007  Feb 8.
+
+The relationship between gender, social support, and health-related quality of 
+life in a community-based study in Washington County, Maryland.
+
+Gallicchio L(1), Hoffman SC, Helzlsouer KJ.
+
+Author information:
+(1)Prevention and Research Center, Weinberg Center for Women's Health and 
+Medicine Mercy Medical Center, Baltimore, MD 21202, USA. Lgallic@mdmercy.com
+
+OBJECTIVE: Men tend to report higher health-related quality of life (HRQOL) than 
+women of the same age, despite higher mortality rates and lower life expectancy. 
+Social support is one factor related to HRQOL that may contribute to the 
+observed gender difference. The purpose of this study was to determine the 
+factors associated with HRQOL, especially levels of social support, and 
+variation by gender.
+METHODS: Multivariable logistic regression was used to analyze data from 4,498 
+men and 6,948 women participating in an ongoing community-based cohort study in 
+Washington County, Maryland (CLUE-II).
+RESULTS: The results showed that men reported significantly better HRQOL than 
+women. Men reported having higher levels of social support than women, but the 
+magnitude of the association with HRQOL was similar. Having two or less close 
+friends was associated with a statistically significant increase in the odds of 
+reporting poorer HRQOL compared to having 10 or more close friends among both 
+genders (men: OR = 1.49; women: OR = 1.53). Differences in the level of social 
+support did not explain the gender difference in HRQOL.
+CONCLUSIONS: Our findings show that social support is an important correlate of 
+HRQOL for both men and women. However, the gender differences in HRQOL are not 
+explained by social support or the other factors examined.
+
+DOI: 10.1007/s11136-006-9162-4
+PMID: 17286195 [Indexed for MEDLINE]
+
+
+92. Nucleic Acids Res. 2007;35(6):e40. doi: 10.1093/nar/gkm051. Epub 2007 Feb 7.
+

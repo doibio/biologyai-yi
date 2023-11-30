@@ -1,0 +1,1000 @@
+malignant), a validation set (n = 100; 60 benign and 40 malignant) and a test 
+set (n = 150; 75 benign and 75 malignant). We used transfer learning on three 
+pre-trained DNNs: VGG16, ResNet50 and MobileNet. Each model was trained, and the 
+outputs calibrated, using temperature scaling. An ensemble of the three models 
+was then used to estimate the probability of malignancy based on all images from 
+a given case. The DNN ensemble classified the tumors as benign or malignant 
+(Ovry-Dx1 model); or as benign, inconclusive or malignant (Ovry-Dx2 model). The 
+diagnostic performance of the DNN models, in terms of sensitivity and 
+specificity, was compared to that of SA for classifying ovarian tumors in the 
+test set.
+RESULTS: At a sensitivity of 96.0%, Ovry-Dx1 had a specificity similar to that 
+of SA (86.7% vs 88.0%; P = 1.0). Ovry-Dx2 had a sensitivity of 97.1% and a 
+specificity of 93.7%, when designating 12.7% of the lesions as inconclusive. By 
+complimenting Ovry-Dx2 with SA in inconclusive cases, the overall sensitivity 
+(96.0%) and specificity (89.3%) were not significantly different from using SA 
+in all cases (P = 1.0).
+CONCLUSION: Ultrasound image analysis using DNNs can predict ovarian malignancy 
+with a diagnostic accuracy comparable to that of human expert examiners, 
+indicating that these models may have a role in the triage of women with an 
+ovarian tumor. © 2020 The Authors. Ultrasound in Obstetrics & Gynecology 
+published by John Wiley & Sons Ltd on behalf of International Society of 
+Ultrasound in Obstetrics and Gynecology.
+
+Publisher: Análisis de imágenes ecográficas utilizando redes neurales profundas 
+para distinguir entre tumores ováricos benignos y malignos: comparación con la 
+evaluación subjetiva de expertos OBJETIVOS: Desarrollar y probar el desempeño 
+del análisis de imágenes ecográficas computarizadas utilizando redes neurales 
+profundas (RNP) para distinguir entre tumores ováricos benignos y malignos y 
+comparar su precisión en el diagnóstico con la de la evaluación subjetiva (ES) 
+por especialistas expertos en ecografía. MÉTODOS: Se incluyeron 3077 (escala de 
+grises, n=1927; power Doppler, n=1150) imágenes de ultrasonido de 758 mujeres 
+con tumores ováricos, que fueron clasificadas prospectivamente por examinadores 
+especialistas en ecografía, de acuerdo con los términos y definiciones de la 
+IOTA (Análisis Internacional de Tumores Ováricos). El resultado histológico de 
+la cirugía (n=634) o el seguimiento a largo plazo (≥3 años) (n=124) sirvieron 
+como el estándar de referencia. El conjunto de datos se dividió en un 
+subconjunto de formación (n=508; 314 benignos y 194 malignos), un subconjunto de 
+validación (n=100; 60 benignos y 40 malignos) y un subconjunto de pruebas 
+(n=150; 75 benignos y 75 malignos). Se utilizó el aprendizaje de transferencia 
+en tres RNP pre-formadas: VGG16, ResNet50 y MobileNet. Cada modelo fue formado 
+primero mediante escalas de temperatura, al igual que los la calibración de los 
+outputs. A continuación, se utilizó una combinación de los tres modelos para 
+estimar la probabilidad de que el tumor fuera maligno con base en la totalidad 
+de las imágenes de un caso determinado. La combinación de RNP permitió 
+clasificar los tumores como benignos o malignos (modelo Ovry-Dx1); o como 
+benignos, no concluyentes o malignos (modelo Ovry-Dx2). Se comparó el desempeño 
+para el diagnóstico de los modelos de RNP, en términos de sensibilidad y de 
+especificidad, con el de la ES para la clasificación de los tumores ováricos en 
+el subconjunto de formación. RESULTADOS: Con una sensibilidad del 96,0%, 
+Ovry-Dx1 tuvo una especificidad similar a la de la ES (86,7% frente a 88,0%; 
+P=1,0). Ovry-Dx2 tuvo una sensibilidad del 97,1% y una especificidad del 93,7%, 
+y designaron un 12,7% de las lesiones como no concluyentes. Cuando se 
+complementó Ovry-Dx2 con ES en los casos no concluyentes, la sensibilidad 
+general (96,0%) y la especificidad (89,3%) no fueron significativamente 
+diferentes de la utilización de ES en todos los casos (P=1,0). CONCLUSIÓN: El 
+análisis de imágenes ecográficas mediante RNP puede predecir el cáncer de ovario 
+con una precisión en el diagnóstico igual a la de los especialistas expertos 
+humanos, lo que indica que estos modelos pueden jugar un papel en el triaje de 
+mujeres con un tumor de ovario. © 2020 The Authors. Ultrasound in Obstetrics & 
+Gynecology published by John Wiley & Sons Ltd on behalf of International Society 
+of Ultrasound in Obstetrics and Gynecology.
+
+Publisher: 采用基于深度神经网络的超声图像分析来辨别良性和恶性卵巢肿瘤:与专家主观评价对比 目的: 
+开发并检测采用基于深度神经网络(DNN)的电脑化超声图像分析来辨别良性和恶性卵巢肿瘤的性能，并将其诊断准确性与由一名超声专家进行主观评价(SA)的诊断准确性进行对比。 
+方法: 
+我们包含了3077张(灰度图，n=1927；能量多普勒，n=1150)来自758名有卵巢肿瘤妇女的超声图像，她们已由专家超声检查人员根据IOTA(国际卵巢肿瘤分析)术语和定义进行预期分类。以手术的组织学预后(n=634)或长期(≥3年)随访(n=124)作为金标准。数据集被分成训练集(n=508；314个良性和194个恶性)、验证集(n=100；60个良性和40个L恶性)和测试集(n=150；75个良性和75个恶性)。我们将迁移学习用于三个预先训练的DNN:VGG16、ResNet50和MobileNet。每个模型都受过训练，对结果进行过标准化，采用温度定标。然后，根据给定病例的所有图像，三个模型整体被用于判断恶性的可能性。DNN整体将肿瘤分类为良性或恶性(Ovry-Dx1模型)；或良性、不确定或恶性(Ovry-Dx2模型)。从敏感性和特异性角度，就测试集中卵巢肿瘤的分类将DNN模型的诊断性能与SA的诊断性能进行对比。 
+结果: 当敏感度为96.0%时，Ovry-Dx1的特异性类似于SA的特异性(86.7% vs 88.0%；P=1.0)。 
+在将12.7%的病灶指定为不确定时，Ovry-Dx2的敏感度为97.1%，特异性为93.7%。在不确定的病例中用Ovry-Dx2来补充SA，总体敏感度(96.0%)和特异性(89.3%)与在所有病例中使用SA(P=1.0)无显著差异。 
+结论: 基于DNN的超声图像分析可以用来预测卵巢恶性肿瘤，其诊断准确性能够达到人类专家检查人员的程度，表明这些模型可能在卵巢肿瘤妇女的分诊中起到作用。© 
+2020 作者。威利父子公司(John Wiley & Sons Ltd)代表国际妇产科超声学会(ISUOG)出版《国际妇产超声杂志》(Ultrasound 
+in Obstetrics & Gynecology)。.
+
+© 2020 The Authors. Ultrasound in Obstetrics & Gynecology published by John 
+Wiley & Sons Ltd on behalf of International Society of Ultrasound in Obstetrics 
+and Gynecology.
+
+DOI: 10.1002/uog.23530
+PMCID: PMC7839489
+PMID: 33142359 [Indexed for MEDLINE]
+
+
+561. Pediatr Transplant. 2021 Feb;25(1):e13891. doi: 10.1111/petr.13891. Epub
+2020  Nov 3.
+
+Multicenter data to improve health for pediatric renal transplant recipients in 
+North America: Complementary approaches of NAPRTCS and IROC.
+
+Hooper DK(1)(2), Misurac J(3), Blydt-Hansen T(4), Chua AN(5).
+
+Author information:
+(1)Division of Nephrology (MLC-7022) and James M Anderson Center for Health 
+Systems Excellence (MLC-7014), Cincinnati Children's Hospital Medical Center, 
+Cincinnati, OH, USA.
+(2)College of Medicine, University of Cincinnati, Cincinnati, OH, USA.
+(3)Division of Pediatric Nephrology, Dialysis, and Transplantation, University 
+of Iowa Stead Family Children's Hospital, Iowa City, IA, USA.
+(4)Division of Nephrology, BC Children's Hospital, University of British 
+Colombia, Vancouver, BC, Canada.
+(5)Division of Pediatric Nephrology, Duke University Medical Center, Durham, NC, 
+USA.
+
+Kidney transplantation increases life expectancy and improves quality of life 
+for children with end-stage kidney disease, yet sequelae of transplantation and 
+treatment make it difficult for transplant recipients to enjoy health and 
+quality of life similar to their healthy peers. The NAPRTCS network was among 
+the first to use multicenter data to inform improvements in care and outcomes 
+for children with a kidney transplant through observational research. Now, with 
+new technologies and unprecedented access to data, it is possible to create 
+learning health systems as envisioned by the US National Academy of Sciences to 
+seamlessly integrate research and continuous improvement of clinical care. In 
+this review, we present two pre-eminent North American networks focused on using 
+multicenter data to drive improved care and outcomes for children with a kidney 
+transplant. Whereas, for the past 30 years NAPRTCS has focused on discovery of 
+best practices through observational research and clinical trials, the Improving 
+Renal Outcomes Collaborative, established in 2016, engages patients, families, 
+clinicians, and researchers in redesigning the healthcare delivery system to 
+enable practice change and continuous improvement of health outcomes. We discuss 
+the history and past contributions of these networks, as well as current 
+activities, barriers, and potential future solutions to more fully realize the 
+vision of a true learning health system for pediatric kidney transplant 
+recipients.
+
+© 2020 Wiley Periodicals LLC.
+
+DOI: 10.1111/petr.13891
+PMID: 33142362 [Indexed for MEDLINE]
+
+
+562. Ann Thorac Surg. 2021 Aug;112(2):526-531. doi:
+10.1016/j.athoracsur.2020.07.106.  Epub 2020 Nov 2.
+
+Long-term Healthcare Expenditures Over Time for Tissue and Mechanical Aortic 
+Valve Replacement.
+
+Nguyen TC(1), Walker T(2), Gunnarsson C(3), Moore M(2), Keuffel EL(4).
+
+Author information:
+(1)Memorial Hermann Medical Center, University of Texas, Houston, Texas. 
+Electronic address: tom.c.nguyen@gmail.com.
+(2)Edwards Lifesciences, Irvine, California.
+(3)Gunnarsson Consulting, Jupiter, Florida.
+(4)Health Finance & Access Initiative, Bryn Mawr, Pennsylvania.
+
+BACKGROUND: Guidelines currently indicate the use of surgical aortic valve 
+replacement (SAVR) to treat severe cases of aortic stenosis, particularly for 
+low- to medium-risk patients. Although several studies have compared health 
+outcomes of tissue and mechanical SAVR, this economic simulation model estimates 
+the difference in long-term healthcare costs associated with tissue relative to 
+mechanical SAVR.
+METHODS: The deterministic and Monte Carlo simulation models used 
+literature-based epidemiologic and cost inputs to calculate annual expenditures 
+related to SAVR for up to 25 years after initial surgery. A series of 3 cohort 
+studies across different age groups provided the health outcome probabilities 
+for tissue valve patients. Outcome probabilities for mechanical valve patients 
+were based on relative risks reported in comparative meta-analyses or large 
+cohort studies.
+RESULTS: Relative to mechanical SAVR the expected net discounted savings for a 
+patient receiving tissue SAVR at ages 45, 55, and 65 years were $12,266, 
+$15,462, and $16,008, respectively (based on 2018 US dollars) over a 25-year 
+horizon (95% confidence intervals exceed $0). For a 45-year-old tissue SAVR 
+patient, the estimated per-patient cost difference (relative to mechanical SAVR) 
+of reoperation over 25 years ($16,201) were offset by expected savings on 
+anticoagulation monitoring ($26,257) over the same period. In a sensitivity 
+analysis in which mortality risk was assumed equal, significant long-term 
+savings associated with tissue SAVR still accrued in each of the 3 age cohorts.
+CONCLUSIONS: Payers, providers, and the healthcare system may financially 
+benefit from the use of tissue valves because significant savings were 
+associated with the use of tissue valves relative to mechanical valves for SAVR.
+
+Copyright © 2021 The Society of Thoracic Surgeons. Published by Elsevier Inc. 
+All rights reserved.
+
+DOI: 10.1016/j.athoracsur.2020.07.106
+PMID: 33144108 [Indexed for MEDLINE]
+
+
+563. J Epidemiol Community Health. 2020 Nov 3;75(4):315-20. doi: 
+10.1136/jech-2020-214373. Online ahead of print.
+
+Scaling COVID-19 against inequalities: should the policy response consistently 
+match the mortality challenge?
+
+McCartney G(1), Leyland A(2), Walsh D(3), Ruth D(2).
+
+Author information:
+(1)Place and Wellbeing Directorate, Public Health Scotland, Glasgow, UK 
+gmccartney@nhs.net.
+(2)MRC/CSO Social and Public Health Sciences Unit, University of Glasgow, 
+Glasgow, UK.
+(3)Glasgow Centre for Population Health, Glasgow, UK.
+
+BACKGROUND: The mortality impact of COVID-19 has thus far been described in 
+terms of crude death counts. We aimed to calibrate the scale of the modelled 
+mortality impact of COVID-19 using age-standardised mortality rates and life 
+expectancy contribution against other, socially determined, causes of death in 
+order to inform governments and the public.
+METHODS: We compared mortality attributable to suicide, drug poisoning and 
+socioeconomic inequality with estimates of mortality from an infectious disease 
+model of COVID-19. We calculated age-standardised mortality rates and life 
+expectancy contributions for the UK and its constituent nations.
+RESULTS: Mortality from a fully unmitigated COVID-19 pandemic is estimated to be 
+responsible for a negative life expectancy contribution of -5.96 years for the 
+UK. This is reduced to -0.33 years in the fully mitigated scenario. The 
+equivalent annual life expectancy contributions of suicide, drug poisoning and 
+socioeconomic inequality-related deaths are -0.25, -0.20 and -3.51 years, 
+respectively. The negative impact of fully unmitigated COVID-19 on life 
+expectancy is therefore equivalent to 24 years of suicide deaths, 30 years of 
+drug poisoning deaths and 1.7 years of inequality-related deaths for the UK.
+CONCLUSION: Fully mitigating COVID-19 is estimated to prevent a loss of 
+5.63 years of life expectancy for the UK. Over 10 years, there is a greater 
+negative life expectancy contribution from inequality than around six 
+unmitigated COVID-19 pandemics. To achieve long-term population health 
+improvements it is therefore important to take this opportunity to introduce 
+post-pandemic economic policies to 'build back better'.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY. Published 
+by BMJ.
+
+DOI: 10.1136/jech-2020-214373
+PMCID: PMC7958082
+PMID: 33144334
+
+Conflict of interest statement: Correction notice: This article has been 
+corrected since it first published online. The ‘Funding’ statement has been 
+corrected. Competing interests: None declared.
+
+
+564. Nat Rev Endocrinol. 2021 Jan;17(1):4-5. doi: 10.1038/s41574-020-00440-7.
+
+Life expectancy: benefits of bariatric surgery clarified.
+
+Morris A(1).
+
+Author information:
+(1)Nature Reviews Endocrinology, . nrendo@nature.com.
+
+Comment on
+    N Engl J Med. 2020 Oct 15;383(16):1535-1543.
+
+DOI: 10.1038/s41574-020-00440-7
+PMID: 33144688 [Indexed for MEDLINE]
+
+
+565. Br J Cancer. 2021 Feb;124(3):671-677. doi: 10.1038/s41416-020-01144-5. Epub
+2020  Nov 4.
+
+Understanding the impact of sex and stage differences on melanoma cancer patient 
+survival: a SEER-based study.
+
+Smith AJ(1), Lambert PC(2)(3), Rutherford MJ(2).
+
+Author information:
+(1)Department of Health Sciences, University of Leicester, Leicester, UK. 
+ajs134@le.ac.uk.
+(2)Department of Health Sciences, University of Leicester, Leicester, UK.
+(3)Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, 
+Stockholm, Sweden.
+
+BACKGROUND: This paper investigates the difference in survival of melanoma 
+patients across stage and sex by utilising net survival measures. Metrics are 
+presented at both the individual and population level.
+METHODS: Flexible parametric models were fitted to estimate life-expectancy 
+metrics to be applied to a group of 104,938 subjects with a melanoma skin cancer 
+diagnosis from 2000 to 2017. Period analysis was used for better predictions for 
+newly diagnosed patients, and missing-stage information was imputed for 9918 
+patients. Female relative survival was assigned to male subjects to demonstrate 
+the survival discrepancies experienced between sexes.
+RESULTS: At the age of 60, males diagnosed at the regional stage lose an average 
+of 4.99 years of life compared to the general population, and females lose 4.79 
+years, demonstrating the sex variation in expected mortality. In 2017, males 
+contributed 3545 more life years lost than females, and a potential 1931 life 
+years could be preserved if sex differences in survival were eliminated.
+CONCLUSIONS: This study demonstrates the survival differences across population 
+subgroups as a result of a melanoma cancer diagnosis. Females experience better 
+prognosis across age and stage at diagnosis; however, further investigation is 
+necessary to better understand the mechanisms behind this difference.
+
+DOI: 10.1038/s41416-020-01144-5
+PMCID: PMC7851379
+PMID: 33144697 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+566. Ecancermedicalscience. 2020 Sep 21;14:1106. doi: 10.3332/ecancer.2020.1106. 
+eCollection 2020.
+
+Antibiotics, cancer risk and oncologic treatment efficacy: a practical review of 
+the literature.
+
+Martins Lopes MS(1), Machado LM(1), Ismael Amaral Silva PA(1), Tome Uchiyama 
+AA(1), Yen CT(1), Ricardo ED(1), Mutao TS(1), Pimenta JR(1), Shimba DS(1), 
+Hanriot RM(1), Peixoto RD(2).
+
+Author information:
+(1)Hospital Alemão Oswaldo Cruz, São Paulo, Brazil.
+(2)Centro Paulista de Oncologia (Grupo Oncoclínicas), São Paulo, Brazil.
+
+Antibiotics have been extensively used to treat infectious diseases over the 
+past century and have largely contributed to increased life expectancy over 
+time. However, antibiotic use can impose profound and protracted changes to the 
+diversity of the microbial ecosystem, affecting the composition of up to 30% of 
+the bacterial species in the gut microbiome. By modifying human microbiota 
+composition, antibiotics alter the action of several oncologic drugs, 
+potentially leading to decreased efficacy and increased toxicities. Whether 
+antibiotics interfere with cancer therapies or even increase the risk of cancer 
+development has been under investigation, and no randomised trials have been 
+conducted so far. The aim of the current review is to describe the possible 
+effects of antibiotic therapies on different oncologic treatments, especially 
+immunotherapies, and to explore the link between previous antibiotics use and 
+the development of cancer.
+
+© the authors; licensee ecancermedicalscience.
+
+DOI: 10.3332/ecancer.2020.1106
+PMCID: PMC7581329
+PMID: 33144874
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+567. HRB Open Res. 2020 Nov 11;3:64. doi: 10.12688/hrbopenres.13124.2.
+eCollection  2020.
+
+Housing with support for older people: a mixed-methods systematic review 
+protocol.
+
+Coyle C(1)(2), Buggy S(1), Cagney O(1), Farragher L(1), Lee C(1), Patje D(1), 
+Long J(1).
+
+Author information:
+(1)Health Research Board, Dublin, Ireland.
+(2)Trinity College Dublin, Dublin, Ireland.
+
+Background: The implementation of housing with support is rapidly expanding, 
+particularly as life expectancy is increasing throughout the world. This 
+expansion is likely to intensify in the context of coronavirus disease 2019 
+(COVID-19), which has revealed the risks of relying primarily on nursing homes. 
+This mixed-methods systematic review aims to: 1) explore older people's 
+perceptions and experiences of housing with support and 2) examine the impact of 
+providing housing with support for older people on their quality of life. 
+Methods: The databases Ovid Medline, Ovid Social Policy & Practice, EBSCO 
+CINAHL, and EBSCO SOCIndex will be searched, and grey literature will also be 
+identified. Quality assessment will be carried out using Joanna Briggs 
+Institute's Critical Appraisal Checklist for Qualitative Research as well as a 
+tool from the National Institutes of Health for observational cohort studies. 
+This review will employ convergent parallel design; as such, qualitative and 
+quantitative findings will be synthesised separately in the initial stage of 
+analysis. The results from the qualitative and quantitative syntheses will then 
+be integrated in the final stage of the analysis. Conclusion: This systematic 
+review will synthesise the evidence regarding older people's perceptions and 
+experiences of housing with support and the impact of providing housing with 
+support for older people on their quality of life.
+
+Copyright: © 2020 Coyle C et al.
+
+DOI: 10.12688/hrbopenres.13124.2
+PMCID: PMC7592024
+PMID: 33145477
+
+Conflict of interest statement: No competing interests were disclosed.
+
+
+568. Pharmacoeconomics. 2021 Feb;39(2):171-180. doi: 10.1007/s40273-020-00971-x.
+Epub  2020 Nov 4.
+
+Lenalidomide with Rituximab for Previously Treated Follicular Lymphoma and 
+Marginal Zone Lymphoma: An Evidence Review Group Perspective of a NICE Single 
+Technology Appraisal.
+
+Witlox WJA(1), Grimm SE(1), Riemsma R(2), Armstrong N(2), Ryder S(2), Duffy 
+S(2), Carrera VH(2), Posadzki P(2), Worthy G(2), Pouwels XGLV(1)(3), Ramaekers 
+BLT(1), Kleijnen J(2)(4), Joore MA(1)(4), van Asselt ADI(5)(6)(7).
+
+Author information:
+(1)Department of Clinical Epidemiology and Medical Technology Assessment, 
+Maastricht University Medical Centre+, Maastricht, The Netherlands.
+(2)Kleijnen Systematic Reviews Ltd, York, UK.
+(3)Department of Health Technology and Services Research, Faculty of 
+Behavioural, Management and Social Sciences, Technical Medical Centre, 
+University of Twente, Enschede, The Netherlands.
+(4)Care and Public Health Research Institute (CAPHRI), Maastricht University, 
+Maastricht, The Netherlands.
+(5)Department of Clinical Epidemiology and Medical Technology Assessment, 
+Maastricht University Medical Centre+, Maastricht, The Netherlands. 
+a.d.i.van.asselt@umcg.nl.
+(6)Department of Epidemiology, University Medical Center Groningen, University 
+of Groningen, Hanzeplein 1, PO Box 30.001, 9700 RB, Groningen, The Netherlands. 
+a.d.i.van.asselt@umcg.nl.
+(7)Department of Health Sciences, University Medical Center Groningen, 
+University of Groningen, Hanzeplein 1, PO Box 30.001, 9700 RB, Groningen, The 
+Netherlands. a.d.i.van.asselt@umcg.nl.
+
+The National Institute for Health and Care Excellence (NICE) invited the 
+manufacturer (Celgene) of lenalidomide (Revlimid®), as part of the Single 
+Technology Appraisal (STA) process, to submit evidence for the clinical 
+effectiveness and cost-effectiveness of lenalidomide in combination with 
+rituximab (MabThera®), together referred to as R2, for the treatment of adults 
+with treated follicular lymphoma (FL) or marginal zone lymphoma (MZL). Kleijnen 
+Systematic Reviews Ltd, in collaboration with Maastricht University Medical 
+Centre+, was commissioned to act as the independent Evidence Review Group (ERG). 
+This paper summarises the company submission (CS), presents the ERG's critical 
+review on the clinical and cost-effectiveness evidence in the CS, highlights the 
+key methodological considerations, and describes the development of the NICE 
+guidance by the Appraisal Committee. The CS included one relevant study, for the 
+comparison of R2 versus rituximab monotherapy (R-mono): the AUGMENT trial. In 
+addition, the company performed an unanchored indirect comparison of R2 versus 
+rituximab combined with cyclophosphamide, doxorubicin, vincristine, and 
+prednisolone (R-CHOP) and rituximab combined with cyclophosphamide, vincristine, 
+and prednisolone (R-CVP), using data for R2 from the AUGMENT trial and pooled 
+data for R-CHOP/R-CVP from the Haematological Malignancy Research Network (HMRN) 
+database. During the STA process, the company provided an addendum containing 
+evidence on only the FL population, in line with the marketing authorisation 
+obtained at that time, which did not include MZL. The probabilistic incremental 
+cost-effectiveness ratios (ICERs) presented by the company were £27,768 per 
+quality-adjusted life year (QALY) gained for R2 versus R-CHOP, £41,602 per QALY 
+gained for R2 versus R-CVP, and £23,412 per QALY gained for R2 versus R-mono. 
+The ERG's concerns included the validity of the unanchored comparison, the 
+unavailability of a state transition model to verify the outcomes of the 
+partitioned survival model, substantial uncertainty in survival curves, and 
+potential over-estimation of utility values. The revised ERG base case resulted 
+in ICERs ranging from £16,874 to £44,888 per QALY gained for R2 versus R-CHOP, 
+from £23,135 to £59,810 per QALY gained for R2 versus R-CVP, and from £18,779 to 
+£27,156 per QALY gained for R2 versus R-mono. Substantial uncertainty remained 
+around these ranges. NICE recommended R2 within its marketing authorisation, as 
+an option for previously treated FL (grade 1-3A) in adults, contingent on the 
+company providing lenalidomide according to the commercial arrangement.
+
+DOI: 10.1007/s40273-020-00971-x
+PMCID: PMC7867510
+PMID: 33145711 [Indexed for MEDLINE]
+
+Conflict of interest statement: WW, RR, NA, SR, SD, VHC, PP, GW, XP, BR, JK, MJ, 
+SG, and AvA have no conflicts of interest to declare.
+
+
+569. Aging Cell. 2020 Nov;19(11):e13269. doi: 10.1111/acel.13269. Epub 2020 Nov
+4.
+
+Rapamycin-mediated mouse lifespan extension: Late-life dosage regimes with 
+sex-specific effects.
+
+Strong R(1)(2), Miller RA(3), Bogue M(4), Fernandez E(1)(2), Javors MA(5), 
+Libert S(6), Marinez PA(1)(2), Murphy MP(7), Musi N(8)(9), Nelson JF(10), 
+Petrascheck M(11)(12), Reifsnyder P(4), Richardson A(13)(14), Salmon AB(8)(15), 
+Macchiarini F(16), Harrison DE(4).
+
+Author information:
+(1)Geriatric Research, Education and Clinical Center and Research Service, South 
+Texas Veterans Health Care System, San Antonio, TX, USA.
+(2)Department of Pharmacology, Barshop Institute for Longevity and Aging Studies 
+at The University of Texas Health Science Center at San Antonio, San Antonio, 
+TX, USA.
+(3)Department of Pathology and Geriatrics Center, University of Michigan, Ann 
+Arbor, MI, USA.
+(4)The Jackson Laboratory, Bar Harbor, ME, USA.
+(5)Department of Psychiatry, University of Texas Health Science Center at San 
+Antonio, San Antonio, TX, USA.
+(6)Calico Labs, South San Francisco, CA, USA.
+(7)Medical Research Council Mitochondrial Biology Unit, University of Cambridge, 
+Cambridge, UK.
+(8)Geriatric Research, Education and Clinical Center, South Texas Veterans 
+Health Care System, San Antonio, TX, USA.
+(9)Department of Medicine, Barshop Institute for Longevity and Aging Studies at 
+The University of Texas Health Science Center at San Antonio, San Antonio, TX, 
+USA.
+(10)Department of Cellular and Integrative Physiology, Barshop Institute for 
+Longevity and Aging Studies at The University of Texas Health Science Center at 
+San Antonio, San Antonio, TX, USA.
+(11)Department of Molecular Medicine, The Scripps Research Institute, La Jolla, 
+CA, USA.
+(12)Department of Neuroscience, The Scripps Research Institute, La Jolla, CA, 
+USA.
+(13)Department of Biochemistry & Molecular Biology, University of Oklahoma 
+Health Science Center, Oklahoma City, OK, USA.
+(14)Oklahoma City VA Medical Center, Oklahoma City, OK, USA.
+(15)Department of Molecular Medicine, Barshop Institute for Longevity and Aging 
+Studies at The University of Texas Health Science Center at San Antonio, San 
+Antonio, TX, USA.
+(16)Division of Aging Biology, National Institute on Aging, Bethesda, MD, USA.
+
+To see if variations in timing of rapamycin (Rapa), administered to middle aged 
+mice starting at 20 months, would lead to different survival outcomes, we 
+compared three dosing regimens. Initiation of Rapa at 42 ppm increased survival 
+significantly in both male and female mice. Exposure to Rapa for a 3-month 
+period led to significant longevity benefit in males only. Protocols in which 
+each month of Rapa treatment was followed by a month without Rapa exposure were 
+also effective in both sexes, though this approach was less effective than 
+continuous exposure in female mice. Interpretation of these results is made more 
+complicated by unanticipated variation in patterns of weight gain, prior to the 
+initiation of the Rapa treatment, presumably due to the use of drug-free food 
+from two different suppliers. The experimental design included tests of four 
+other drugs, minocycline, β-guanidinopropionic acid, MitoQ, and 
+17-dimethylaminoethylamino-17-demethoxygeldanamycin (17-DMAG), but none of these 
+led to a change in survival in either sex.
+
+© 2020 The Authors. Aging Cell published by the Anatomical Society and John 
+Wiley & Sons Ltd.
+
+DOI: 10.1111/acel.13269
+PMCID: PMC7681050
+PMID: 33145977 [Indexed for MEDLINE]
+
+Conflict of interest statement: The University of Texas Health Science Center at 
+San Antonio has applied for a patent, U.S. Patent Application No. 13/128,800, by 
+inventors Zelton Dave Sharp and Randy Strong, for an encapsulated rapamycin 
+formulation used in this paper. Under a licensing agreement between Emtora 
+Biosciences (formerly Rapamycin Holdings, Inc.) and the University of Texas 
+Health Science Center San Antonio, R. Strong, and Z.D. Sharp, the University is 
+entitled to milestone payments and royalty on sales of microencapsulated 
+rapamycin. The university has a plan for managing conflicts of interest under 
+its “Policy and Procedures for Promoting Objectivity in Research by Managing, 
+Reducing or Eliminating Conflicts of Interest.” Michael P. Murphy consults for 
+Antipodean Pharmaceuticals Inc., which is developing MitoQ as a potential 
+therapy and also holds patents in the use of MitoQ.
+
+
+570. Cad Saude Publica. 2020 Oct 30;36(11):e00148920. doi:
+10.1590/0102-311X00148920.  eCollection 2020.
+
+Burden of disease from COVID-19 and its acute and chronic complications: 
+reflections on measurement (DALYs) and prospects for the Brazilian Unified 
+National Health System.
+
+[Article in English, Portuguese; Abstract available in Portuguese from the 
+publisher]
+
+Campos MR(1), Schramm JMA(1), Emmerick ICM(2), Rodrigues JM(1), Avelar FG(3), 
+Pimentel TG(1).
+
+Author information:
+(1)Escola Nacional de Saúde Pública Sergio Arouca, Fundação Oswaldo Cruz, Rio de 
+Janeiro, Brasil.
+(2)University of Massachusetts Medical School, Worcester, U.S.A.
+(3)Escola Nacional de Saúde Pública, Universidade NOVA de Lisboa, Lisboa, 
+Portugal.
+
+COVID-19 is an acute infectious respiratory distress syndrome (ARDS) caused by 
+the novel coronavirus SARS-CoV-2. The disease is highly communicable and 
+produces mild to severe symptoms, generating a high demand for intensive care 
+and thousands of deaths. In March 2020, COVID-19 was declared a pandemic and has 
+already surpassed five million cases and 300,000 deaths in the world. The 
+natural history of the disease has still not been fully established, hindering 
+the elaboration of effective clinical protocols and preventive measures. 
+Nevertheless, the disease requires a systemic approach, since there is evidence 
+of acute and chronic complications, in addition to the catastrophic effects on 
+the population's mental health. This highlights the need for a methodology that 
+more effectively captures the effect of COVID-19, considering such aspects as 
+severity, duration, and the potential to generate chronic complications that 
+will increase the demands on Brazilian Unified National Health System (SUS). 
+DALYs, or disability-adjusted life years, are thus an extremely useful indictor 
+that adds mortality, an estimate of years of life lost (YLLs), and morbidity, an 
+estimate of years of life lived with disability (YLDs). This article discusses 
+the relevance and difficulties of studying the burden of COVID-19 and its 
+complications in the Brazilian context, highlighting the natural history of the 
+disease and estimating indicators such as YLDs, considering the high burden of 
+disease in planning strategies to deal with the consequences of COVID-19 after 
+the pandemic. The article also discusses the future challenges to deal with the 
+disease in the SUS and the effects on the calculation of DALYs.
+
+Publisher: A COVID-19 é uma síndrome respiratória aguda grave (SRAG) infecciosa, 
+causada por coronavírus. A doença tem alta transmissibilidade e ocasiona 
+sintomas leves a graves, gerando elevada demanda por cuidados intensivos e 
+milhares de óbitos. Em março de 2020, a COVID-19 foi caracterizada como pandemia 
+e já soma mais de 5 milhões de casos e 300 mil óbitos pelo mundo. A história 
+natural da doença ainda não é bem estabelecida, dificultando a elaboração de 
+protocolos clínicos eficazes e medidas de prevenção. Apesar disso, pode-se 
+afirmar que é uma doença de abordagem sistêmica, já que há evidências de 
+complicações agudas e crônicas, além de efeitos catastróficos na saúde mental da 
+população. Destaca-se então a necessidade de uma metodologia que capte de forma 
+mais efetiva os efeitos da COVID-19, considerando aspectos como sua gravidade, 
+duração e potencial de gerar complicações crônicas que aumentarão as demandas no 
+Sistema Único de Saúde (SUS). Nesse sentido, é de extrema utilidade o indicador 
+DALY, ou anos de vida perdidos por morte prematura ajustados por incapacidade 
+(DALY), que agrega a (1) mortalidade - estimativa dos anos de vida perdidos 
+(YLL) e (2) morbidade - estimativa dos anos vividos com incapacidade (YLD). Este 
+artigo discute a relevância e as dificuldades de estudar a carga da COVID-19 e 
+de suas complicações, no contexto brasileiro, ressaltando a importância de 
+caracterizar a história natural da doença e estimar indicadores como o YLD, que 
+considerem a alta carga de morbidade no planejamento de estratégias para lidar 
+com as consequências da COVID-19 pós-pandemia. Discute-se também os desafios 
+futuros para o enfrentamento da doença no SUS e reflexões sobre o cálculo do 
+DALY.
+
+Publisher: La COVID-19 es un síndrome respiratorio agudo grave (SRAG) 
+infeccioso, causado por coronavirus. La enfermedad posee una alta 
+transmisibilidad y ocasiona de síntomas leves a graves, generando una elevada 
+demanda de cuidados intensivos y millares de fallecimientos. En marzo de 2020, 
+la COVID-19 se caracterizó como pandemia y ya suma más de 5 millones de casos y 
+300 mil fallecimientos por el mundo. La historia natural de la enfermedad 
+todavía no ha sido bien establecida, dificultando la elaboración de protocolos 
+clínicos eficaces y medidas de prevención. A pesar de eso, se puede afirmar que 
+es una enfermedad de abordaje sistémico, ya que existen evidencias sobre 
+complicaciones agudas y crónicas, además de efectos catastróficos en la salud 
+mental de la población. Se destaca entonces la necesidad de una metodología que 
+capte de forma más efectiva los efectos de la COVID-19, considerando aspectos 
+como su gravedad, duración, potencial de generar complicaciones crónicas que 
+aumentarán las demandas en el Sistema Único de Salud (SUS). En este sentido, es 
+de extrema utilidad el indicador DALY o años de vida perdidos por muerte 
+prematura ajustados por incapacidad, que agrega la (1) mortalidad - estimación 
+de los años de vida perdidos (YLL) y (2) morbilidad - estimación de los años 
+vividos con incapacidad (YLD). Este artículo discute la relevancia y las 
+dificultades de estudiar la carga de la COVID-19 y sus complicaciones, en el 
+contexto brasileño, resaltando la importancia de caracterizar la historia 
+natural de la enfermedad y estimar indicadores como el YLD, que consideren la 
+alta carga de morbilidad en la planificación de estrategias para lidiar con las 
+consecuencias de la COVID-19 pospandemia. Se discuten también los desafíos 
+futuros para el combate de la enfermedad en el SUS y reflexiones sobre el 
+cálculo del DALY.
+
+DOI: 10.1590/0102-311X00148920
+PMID: 33146278 [Indexed for MEDLINE]
+
+
+571. JAMA Netw Open. 2020 Nov 2;3(11):e2024329. doi: 
+10.1001/jamanetworkopen.2020.24329.
+
+Association of Neighborhood Deprivation With Epigenetic Aging Using 4 Clock 
+Metrics.
+
+Lawrence KG(1), Kresovich JK(1), O'Brien KM(1), Hoang TT(1), Xu Z(1), Taylor 
+JA(1)(2), Sandler DP(1).
+
+Author information:
+(1)Epidemiology Branch, National Institute of Environmental Health Sciences, 
+National Institutes of Health, Research Triangle Park, North Carolina.
+(2)Epigenetic and Stem Cell Biology Laboratory, National Institute of 
+Environmental Health Sciences, National Institutes of Health, Research Triangle 
+Park, North Carolina.
+
+IMPORTANCE: Neighborhood deprivation is associated with age-related disease, 
+mortality, and reduced life expectancy. However, biological pathways underlying 
+these associations are not well understood.
+OBJECTIVE: To evaluate the association between neighborhood deprivation and 
+epigenetic measures of age acceleration and genome-wide methylation.
+DESIGN, SETTING, AND PARTICIPANTS: This cross-sectional study used data from the 
+Sister Study, a prospective cohort study comprising 50 884 women living in the 
+US and Puerto Rico aged 35 to 74 years at enrollment who had a sister with 
+breast cancer but had not had breast cancer themselves. Cohort enrollment 
+occurred between July 2003 and March 2009. Participants completed a 
+computer-assisted telephone interview on demographic, socioeconomic, lifestyle, 
+and residential factors and provided anthropometric measures and peripheral 
+blood samples at a home examination. DNA methylation data obtained for 2630 
+non-Hispanic White women selected for a case-cohort study in 2014 were used in 
+this cross-sectional analysis. DNA methylation was measured using the 
+HumanMethylation450 BeadChips in whole blood samples collected at baseline. Data 
+analysis for this study was performed from October 17, 2019, to August 27, 2020.
+EXPOSURES: Each participants' primary address was linked to an established index 
+of neighborhood deprivation.
+MAIN OUTCOMES AND MEASURES: Epigenetic age was estimated using 4 epigenetic 
+clocks (Horvath, Hannum, PhenoAge, and GrimAge). Age acceleration was determined 
+using residuals from regressing chronologic age on each of the 4 epigenetic age 
+metrics. Linear regression was used to estimate associations between 
+neighborhood deprivation and epigenetic age acceleration as well as DNA 
+methylation at individual cytosine-guanine sites across the genome.
+RESULTS: Mean (SD) age of the 2630 participants was 56.9 (8.7) years. Those with 
+the greatest (>75th percentile) vs least (≤25th percentile) neighborhood 
+deprivation had higher epigenetic age acceleration estimated by Hannum 
+(β = 0.23; 95% CI, 0.01-0.45), PhenoAge (β = 0.28; 95% CI, 0.06-.50), and 
+GrimAge (β = 0.37; 95% CI, 0.12-0.62). Increasing US quartiles of neighborhood 
+deprivation exhibited a trend with Hannum, PhenoAge, and GrimAge. For example, 
+GrimAge showed a significant dose-response (P test for trend <.001) as follows: 
+level 2 vs level 1 (β = 0.30; 95% CI, 0.17-0.42), level 3 vs level 1 (β = 0.35; 
+95% CI, 0.19-0.50), and level 4 vs level 1 (β = 0.37; 95% CI, 0.12-0.62). 
+Neighborhood deprivation was found to be associated with 3 
+cytosine-phosphate-guanine sites, with 1 of these annotated to a known gene MAOB 
+(P = 9.71 × 10-08).
+CONCLUSIONS AND RELEVANCE: The findings of this study suggest that residing in a 
+neighborhood with a higher deprivation index appears to be reflected by 
+methylation-based markers of aging.
+
+DOI: 10.1001/jamanetworkopen.2020.24329
+PMCID: PMC7643028
+PMID: 33146735 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: None reported.
+
+
+572. Biochemistry. 2020 Nov 17;59(45):4344-4352. doi:
+10.1021/acs.biochem.0c00543.  Epub 2020 Nov 4.
+
+New Mechanism of Gemcitabine and Its Phosphates: DNA Polymerization Disruption 
+via 3'-5' Exonuclease Inhibition.
+
+Yang S(1), Luo D(2)(3), Li N(1), Li C(1), Tang S(1), Huang Z(1)(3).
+
+Author information:
+(1)Key Laboratory of Bio-Resource and Eco-environment of Ministry of Education, 
+College of Life Sciences, Sichuan University, Chengdu, Sichuan 610064, P. R. 
+China.
+(2)State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, 
+Sichuan University, Chengdu, Sichuan 610041, P. R. China.
+(3)Szostak-CDHT Institute for Large Nucleic Acids, Chengdu, Sichuan 610041, P. 
+R. China.
+
+Gemcitabine (dFdC), a modified deoxycytidine (dC) widely used in tumor 
+treatment, is a prodrug that is phosphorylated to generate mono-, di-, and 
+triphosphates. The triphosphate (dFdCTP) is incorporated into DNA to terminate 
+DNA synthesis in cancer. Some incorporated dFdC nucleotides can be partially 
+removed by the 3'-5' exonuclease activity, namely its editing function, and the 
+others escape the editing. However, whether there is an active mechanism for 
+dFdC to escape the editing remains unclear. We have first discovered that unlike 
+dFdC, its mono-, di-, and triphosphates can inhibit the 3'-5' exonuclease of DNA 
+polymerase I, suppress editing, and allow the active escaping mechanism, whereas 
+its polymerase activity is not remarkably affected. As such, these phosphates 
+can prevent the removal of the incorporated dFdC residue, thereby actively 
+blocking DNA extension and synthesis. The inhibition efficiency of these 
+phosphates follows the increased order of the mono-, di-, and triphosphates of 
+gemcitabine (dFdC < dFdCMP < dFdCDP < dFdCTP). In addition, after the deletion 
+of the 3'-5' exonuclease of cellular DNA polymerase I, the Escherichia coli 
+mutant is more sensitive to dFdCTP than is wild-type E. coli. Our new discovery 
+of the ability of these dFdC phosphates to inhibit exonuclease activity suggests 
+a novel anticancer mechanism of gemcitabine and its phosphate derivatives.
+
+DOI: 10.1021/acs.biochem.0c00543
+PMID: 33147009 [Indexed for MEDLINE]
+
+
+573. Burns. 2021 Feb;47(1):52-57. doi: 10.1016/j.burns.2020.09.004. Epub 2020 Oct
+3.
+
+Burn Unit admission and management protocol during COVID-19 pandemic.
+
+Azzena B(1), Perozzo FAG(2), De Lazzari A(3), Valotto G(4), Pontini A(5).
+
+Author information:
+(1)Burn Unit, Plastic Surgery, Padua University Hospital, Via Giustiniani 2, 
+Padua, Italy. Electronic address: bruno.azzena@aopd.veneto.it.
+(2)Burn Unit, Plastic Surgery, Padua University Hospital, Via Giustiniani 2, 
+Padua, Italy. Electronic address: filippoandreagiovanni.perozzo@aopd.veneto.it.
+(3)Burn Unit, Plastic Surgery, Padua University Hospital, Via Giustiniani 2, 
+Padua, Italy. Electronic address: alberto.delazzari@aopd.veneto.it.
+(4)1st Surgical Ward, Padua University Hospital, Via Giustiniani 2, Padua, 
+Italy. Electronic address: giovanni.valotto@aopd.veneto.it.
+(5)Burn Unit, Plastic Surgery, Padua University Hospital, Via Giustiniani 2, 
+Padua, Italy. Electronic address: alex.pontini@aopd.veneto.it.
+
+BACKGROUND: The actual epidemic outbreak is the third time in the last two 
+decades in which a coronavirus results in a major global spread with serious 
+consequences in terms of vastity of affected patients, life losses, health 
+system organization efforts and socio-economic implications. Lacking effective 
+therapies and vaccinations, during viral outbreak the major and most incisive 
+mean for viral spread control is spread prevention, especially for the fragile 
+burn-injured patients we are called to care for in Burn Units.
+METHODS: We developed an admission and inpatient management protocol to preserve 
+burn patients from SARS-CoV-2 contagion, in order to avoid additional morbidity 
+and mortality in patients with already compromised health conditions. Data from 
+burn-injured patients admitted to our Unit following this new protocol were 
+retrospectively analyzed in order to verify its effectiveness in prevention of 
+viral spread.
+RESULTS: From the 8th of March to the 8th of June, we admitted 18 patients in 
+the Burn Unit ICU and semi-ICU and 17 patients in the Burn Ward. Two of them 
+resulted positive to COVID-19 nasopharyngeal swab and bronchoalveolar lavage 
+collected immediately on admission, for both the extension of burns and their 
+general clinical conditions implied ICU admission. Moreover, a caregiver of an 
+admitted child resulted positive to the nasopharyngeal swab. No other cases of 
+SARS-CoV-2 positivity have been reported neither between hospitalized patients 
+nor between healthcare workers.
+CONCLUSION: The evidence of high ICU admission rate and high mortality in 
+patients affected by SARS-CoV-2 combined with the fragile clinical conditions of 
+burn patients required the development of an admission and hospitalization 
+management protocol.
+
+Copyright © 2020 Elsevier Ltd and ISBI. All rights reserved.
+
+DOI: 10.1016/j.burns.2020.09.004
+PMCID: PMC7532770
+PMID: 33148487 [Indexed for MEDLINE]
+
+
+574. Heart. 2021 Jun;107(11):881-887. doi: 10.1136/heartjnl-2020-317656. Epub
+2020  Nov 4.
+
+Trends of global burden of atrial fibrillation/flutter from Global Burden of 
+Disease Study 2017.
+
+Wang L(1)(2), Ze F(3), Li J(4), Mi L(5), Han B(6), Niu H(7), Zhao N(8).
+
+Author information:
+(1)Department of Cardiovascular Medicine, Shaanxi Provincial People's Hospital, 
+Xi'an, China.
+(2)Department of Neurology, Xi'an Ninth Hospital Affiliated to Medical College 
+of Xi'an Jiaotong University, Xi'an, China.
+(3)Department of Cardiac Electrophysiology, Peking University People's Hospital, 
+Beijing, China.
+(4)Department of Cardiology, Tangdu Hospital, Airforce Military Medical 
+University, Xi'an, China.
+(5)Key Laboratory of Carcinogenesis and Translational Research (Ministry of 
+Education), Department of Lymphoma, Peking University Cancer Hospital & 
+Institute, Beijing, China.
+(6)Department of Cardiology, The First Hospital of Lanzhou University, Lanzhou, 
+China.
+(7)Department of Cardiovascular Medicine, Shenzhen University General Hospital, 
+Shenzhen, China.
+(8)Department of Cardiovascular Medicine, Shaanxi Provincial People's Hospital, 
+Xi'an, China 173307845@qq.com.
+
+OBJECTIVE: This study aimed to estimate the global burden of atrial 
+fibrillation/atrial flutter (AF/AFL).
+METHODS: We retrieved data from the Global Health Data Exchange query tool and 
+estimated the age-standardised rates (ASRs) of prevalence, incidence and 
+disability-adjusted life-years (DALYs) of AF/AFL, as well as the population 
+attributable fraction (PAF) of risk factors contributing to DALYs. ASRs and 
+sociodemographic index (SDI) were assessed using Pearson's correlation 
+coefficients.
+RESULTS: In 2017, there were 37.6 million (95% uncertainty interval (UI) 32.5 to 
+42.6 million) individuals with AF/AFL globally. The prevalence rates increased 
+with increased SDI values in most regions for all years. Men had a higher 
+prevalence than women across all regions except for China. From 1990 to 2017, 
+global prevalence rate decreased by 5.08% (95% UI -6.24% to -3.82%), with the 
+largest decrease noted in the region with high SDI values. The global DALYs rate 
+declined by 2.53% (95% UI -4.16 to -0.29). PAF of elevated systolic blood 
+pressure for attributable DALYs accounted for the highest percentage, followed 
+by high body mass index, alcohol use, high-sodium diet, smoking and lead 
+exposure.
+CONCLUSIONS: Although the ASRs of prevalence, incidence and DALYs decreased from 
+1990 to 2017, the absolute number of patients with AF/AFL, annual number of new 
+AF/AFL cases and DALYs lost due to AF/AFL increased. This indicates that the 
+burden of AF/AFL is likely to remain high. Systematic surveillance is needed to 
+better identify and manage AF/AFL so as to prevent its various risk factors and 
+complications.
+
+© Author(s) (or their employer(s)) 2021. No commercial re-use. See rights and 
+permissions. Published by BMJ.
+
+DOI: 10.1136/heartjnl-2020-317656
+PMID: 33148545 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+575. Drug Metab Dispos. 2021 Jan;49(1):53-61. doi: 10.1124/dmd.120.000161. Epub
+2020  Nov 4.
+
+Extension of the Mechanistic Tissue Distribution Model of Rodgers and Rowland by 
+Systematic Incorporation of Lysosomal Trapping: Impact on Unbound Partition 
+Coefficient and Volume of Distribution Predictions in the Rat.
+
+Schmitt MV(1), Reichel A(1), Liu X(1), Fricker G(1), Lienau P(2).
+
+Author information:
+(1)Bayer AG, Pharmaceuticals R&D, Translational Sciences, Research 
+Pharmacokinetics, Berlin, Germany (M.V.S., A.R., P.L.); School of Life Sciences, 
+Tsinghua University, Beijing, China (X.L.); and Institute of Pharmacy and 
+Molecular Biotechnology, University of Heidelberg, Heidelberg, Germany (M.V.S., 
+G.F.).
+(2)Bayer AG, Pharmaceuticals R&D, Translational Sciences, Research 
+Pharmacokinetics, Berlin, Germany (M.V.S., A.R., P.L.); School of Life Sciences, 
+Tsinghua University, Beijing, China (X.L.); and Institute of Pharmacy and 
+Molecular Biotechnology, University of Heidelberg, Heidelberg, Germany (M.V.S., 
+G.F.) philip.lienau@bayer.com.
+
+Physiologically based pharmacokinetic modeling has become a standard tool to 
+predict drug distribution in early stages of drug discovery; however, this does 
+not currently encompass lysosomal trapping. For basic lipophilic compounds, 
+lysosomal sequestration is known to potentially influence intracellular as well 
+as tissue distribution. The aim of our research was to reliably predict the 
+lysosomal drug content and ultimately integrate this mechanism into 
+pharmacokinetic prediction models. First, we further validated our previously 
+presented method to predict the lysosomal drug content (Schmitt et al., 2019) 
+for a larger set of compounds (n = 41) showing a very good predictivity. Using 
+the lysosomal marker lipid bis(monoacylglycero)phosphate, we estimated the 
+lysosomal volume fraction for all major tissues in the rat, ranging from 0.03% 
+for adipose up to 5.3% for spleen. The pH-driven lysosomal trapping was then 
+estimated and fully integrated into the mechanistic distribution model published 
+by Rodgers et al. (2005) Predictions of Kpu improved for all lysosome-rich 
+tissues. For instance, Kpu increased for nicotine 4-fold (spleen) and 2-fold 
+(lung and kidney) and for quinidine 1.8-fold (brain), although for most other 
+drugs the effects were much less (≤7%). Overall, the effect was strongest for 
+basic compounds with a lower lipophilicity, such as nicotine, for which the 
+unbound volume of distribution at steady-state prediction changed from 1.34 to 
+1.58 l/kg. For more lipophilic (basic) compounds or those that already show 
+strong interactions with acidic phospholipids, the additional contribution of 
+lysosomal trapping was less pronounced. Nevertheless, lysosomal trapping will 
+also affect intracellular distribution of such compounds. SIGNIFICANCE 
+STATEMENT: The estimation of the lysosomal content in all body tissues 
+facilitated the incorporation of lysosomal sequestration into a general 
+physiologically based pharmacokinetic model, leading to improved predictions as 
+well as elucidating its influence on tissue and subcellular distribution in the 
+rat.
+
+Copyright © 2020 by The American Society for Pharmacology and Experimental 
+Therapeutics.
+
+DOI: 10.1124/dmd.120.000161
+PMID: 33148688 [Indexed for MEDLINE]
+
+
+576. BMJ Open. 2020 Nov 4;10(11):e037725. doi: 10.1136/bmjopen-2020-037725.
+
+Intensive care units follow-up: a scoping review protocol.
+
+Prevedello D(1), Fiore M(2), Creteur J(2), Preiser JC(2).
+
+Author information:
+(1)Department of Intensive Care Medicine, Erasme University Hospital, Brussels, 
+Belgium danielle.prevedello@erasme.ulb.ac.be.
+(2)Department of Intensive Care Medicine, Erasme University Hospital, Brussels, 
+Belgium.
+
+INTRODUCTION: Increasing numbers of patients are surviving critical illness, 
+leading to growing concern about the potential impact of the long-term 
+consequences of intensive care on patients, families and society as a whole. 
+These long-term effects are together known as postintensive care syndrome and 
+their presence can be evaluated at intensive care unit (ICU) follow-up 
+consultations. However, the services provided by these consultations vary across 
+hospitals and units, in part because there is no validated standard model to 
+evaluate patients and their quality of life after ICU discharge. We describe a 
+protocol for a scoping review focusing on models of ICU follow-up and the impact 
+of such strategies on improving patient quality of life.
+METHODS AND ANALYSIS: In this scoping review, we will search the literature 
+systematically using electronic databases (MEDLINE - from database inception to 
+June 15th 2020) and a grey literature search. We will involve stakeholders as 
+recommended by the Joanna Briggs Institute approach developed by Peters et al. 
+The research will be conducted in accordance with the Preferred Reporting Items 
+for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews 
+guidelines.
+ETHICS AND DISSEMINATION: This study does not require ethics approval, because 
+data will be obtained through a review of published primary studies. The results 
+of our evaluation will be published in a peer-reviewed journal and will also be 
+disseminated through presentations at national and international conferences.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2020-037725
+PMCID: PMC7643502
+PMID: 33148730 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+577. BMJ Open. 2020 Nov 3;10(11):e043560. doi: 10.1136/bmjopen-2020-043560.
+
+COVID-19 case-fatality rate and demographic and socioeconomic influencers: 
+worldwide spatial regression analysis based on country-level data.
+
+Cao Y(1)(2), Hiyoshi A(3)(4), Montgomery S(3)(5)(6).
+
+Author information:
+(1)Clinical Epidemiology and Biostatistics, Universitetssjukhuset Örebro, School 
+of Medical Sciences, Örebro University, Örebro, Sweden yang.cao@oru.se.
+(2)Unit of Integrative Epidemiology, Institute of Environmental Medicine, 
+Karolinska Institutet, Stockholm, Sweden.
+(3)Clinical Epidemiology and Biostatistics, Universitetssjukhuset Örebro, School 
+of Medical Sciences, Örebro University, Örebro, Sweden.
+(4)Department of Public Health Sciences, Stockholm University, Stockholm, 
+Sweden.
+(5)Clinical Epidemiology Division, Department of Medicine, Karolinska 
+Institutet, Stockholm, Sweden.
+(6)Department of Epidemiology and Public Health, University College London, 
+London, United Kingdom.
+
+OBJECTIVE: To investigate the influence of demographic and socioeconomic factors 
+on the COVID-19 case-fatality rate (CFR) globally.
+DESIGN: Publicly available register-based ecological study.
+SETTING: Two hundred and nine countries/territories in the world.
+PARTICIPANTS: Aggregated data including 10 445 656 confirmed COVID-19 cases.
+PRIMARY AND SECONDARY OUTCOME MEASURES: COVID-19 CFR and crude cause-specific 
+death rate were calculated using country-level data from the Our World in Data 
+website.
+RESULTS: The average of country/territory-specific COVID-19 CFR is about 
+2%-3% worldwide and higher than previously reported at 0.7%-1.3%. A doubling in 
+size of a population is associated with a 0.48% (95% CI 0.25% to 0.70%) increase 
+in COVID-19 CFR, and a doubling in the proportion of female smokers is 
+associated with a 0.55% (95% CI 0.09% to 1.02%) increase in COVID-19 CFR. The 
+open testing policies are associated with a 2.23% (95% CI 0.21% to 4.25%) 
+decrease in CFR. The strictness of anti-COVID-19 measures was not statistically 
+significantly associated with CFR overall, but the higher Stringency Index was 
+associated with higher CFR in higher-income countries with active testing 
+policies (regression coefficient beta=0.14, 95% CI 0.01 to 0.27). Inverse 
+associations were found between cardiovascular disease death rate and diabetes 
+prevalence and CFR.
+CONCLUSION: The association between population size and COVID-19 CFR may imply 
+the healthcare strain and lower treatment efficiency in countries with large 
+populations. The observed association between smoking in women and COVID-19 CFR 
+might be due to the finding that the proportion of female smokers reflected 
+broadly the income level of a country. When testing is warranted and healthcare 
+resources are sufficient, strict quarantine and/or lockdown measures might 
+result in excess deaths in underprivileged populations. Spatial dependence and 
+temporal trends in the data should be taken into account in global joint 
+strategy and/or policy making against the COVID-19 pandemic.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2020-043560
+PMCID: PMC7640588
+PMID: 33148769 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+578. J Med Ethics. 2021 Nov;47(11):719-721. doi: 10.1136/medethics-2020-106573.
+Epub  2020 Nov 4.
+
+Pre-diabetes in the elderly and the see-saw model of paternalism.
+
+Burch P(1), Holm S(2).
+

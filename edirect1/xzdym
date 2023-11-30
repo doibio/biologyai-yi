@@ -1,0 +1,1000 @@
+outcome predictions. Specifically, early fusion was the most used technique in 
+most applications for multimodal learning (22 out of 34 studies). We found that 
+multimodality fusion models outperformed traditional single-modality models for 
+the same task. Disease diagnosis and prediction were the most common clinical 
+outcomes (reported in 20 and 10 studies, respectively) from a clinical outcome 
+perspective. Neurological disorders were the dominant category (16 studies). 
+From an AI perspective, conventional ML models were the most used (19 studies), 
+followed by DL models (16 studies). Multimodal data used in the included studies 
+were mostly from private repositories (21 studies). Through this scoping review, 
+we offer new insights for researchers interested in knowing the current state of 
+knowledge within this research field.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41598-022-22514-4
+PMCID: PMC9605975
+PMID: 36289266 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+520. Diabetol Metab Syndr. 2022 Oct 26;14(1):155. doi:
+10.1186/s13098-022-00928-4.
+
+Health and economic effects on patients with type 2 diabetes mellitus in the 
+long run: predictions for the Chilean population.
+
+Espinoza MA(1), Abbott T(2), Passi A(2), Balmaceda C(2).
+
+Author information:
+(1)Departamento de Salud Pública, Unidad de Evaluación de Tecnologías 
+Sanitarias, Pontificia Universidad Católica de Chile, Diagonal Paraguay, Piso 2, 
+362, Santiago, Chile. manuel.espinoza@uc.cl.
+(2)Departamento de Salud Pública, Unidad de Evaluación de Tecnologías 
+Sanitarias, Pontificia Universidad Católica de Chile, Diagonal Paraguay, Piso 2, 
+362, Santiago, Chile.
+
+BACKGROUND: Diabetes is associated to a high financial and disease burden, 
+explaining a large proportion of expenditure of the health system in one year. 
+The purpose of this study was to estimate long-term costs and health outcomes of 
+recently diagnosed patients with type 2 diabetes in Chile.
+METHODS: Cost and consequence study based on mathematical discrete event 
+simulation (DES) model. We modelled expected costs (USD) and quality-adjusted 
+life-years (QALYs) from diagnosis to death (or the age of 95) of a hypothetical 
+cohort of 100,000 incident cases, simulated based on the Chilean National Health 
+Survey 2018. The incidence of twelve complications was estimated assuming the 
+hazard functions provided by the United Kingdom Prospective Diabetes Study. We 
+explore heterogeneity across patients based on their baseline risk covariates 
+and their impact on costs and QALYs.
+RESULTS: The expected cost and QALY of a recently diagnosed type 2 diabetes 
+patient in Chile were USD 8660 and 12.44 QALYs. Both costs and QALYs were 
+independently determined by baseline risk and the patient's life expectancy from 
+the diagnosis. Length of life since diagnosis showed the major impact on costs 
+(5.2% increase for every additional year). Myocardial infarction was the most 
+frequent complication (47.4%) and the most frequent cause of death.
+CONCLUSION: Diabetes type 2 determines a significant expenditure of the health 
+system and substantial health losses. Although the control of cardiovascular 
+risk factors and the metabolic control of the disease, both have an important 
+impact on costs and outcomes, the main impact is achieved by postponing the age 
+of onset of the disease.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s13098-022-00928-4
+PMCID: PMC9598003
+PMID: 36289521
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+521. Biomedicines. 2022 Oct 8;10(10):2515. doi: 10.3390/biomedicines10102515.
+
+Therapeutic Antiaging Strategies.
+
+Mishra SK(1), Balendra V(2), Esposto J(3), Obaid AA(4), Maccioni RB(5), Jha 
+NK(6)(7)(8), Perry G(9), Moustafa M(10)(11), Al-Shehri M(10), Singh MP(12), Khan 
+AA(13), Vamanu E(14), Singh SK(1).
+
+Author information:
+(1)Indian Scientific Education and Technology Foundation, Lucknow 226002, India.
+(2)Saint James School of Medicine, Park Ridge, IL 60068, USA.
+(3)Department of Environmental and Life Sciences, Trent University, 
+Peterborough, ON K9L 0G2, Canada.
+(4)Laboratory Medicine Department, Faculty of Applied Medical Sciences, Umm 
+Al-Qura University, Makkah 21955, Saudi Arabia.
+(5)Laboratory of Neurosciences and Functional Medicine, International Center for 
+Biomedicine, University of Chile, Santiago 7750000, Chile.
+(6)Department of Biotechnology, School of Engineering & Technology (SET), Sharda 
+University, Greater Noida 201310, India.
+(7)Department of Biotechnology, School of Applied & Life Sciences, Uttranchal 
+University, Dehradun 248007, India.
+(8)Department of Biotechnology, Engineering and Food Technology, Chandigarh 
+University, Mohali 140413, India.
+(9)Department of Biology, The University of Texas at San Antonio (UTSA), San 
+Antonio, TX 78249, USA.
+(10)Department of Biology, College of Science, King Khalid University, Abha 
+9004, Saudi Arabia.
+(11)Department of Botany and Microbiology, Faculty of Science, South Valley 
+University, Qena 83523, Egypt.
+(12)School of Bioengineering and Biosciences, Lovely Professional University, 
+Phagwara 144411, India.
+(13)Laboratory Medicine Department, College of Applied Medical Sciences, Umm 
+Al-Qura University, Makkah 78249, Saudi Arabia.
+(14)Faculty of Biotechnology, University of Agricultural Sciences and Veterinary 
+Medicine, 011464 Bucharest, Romania.
+
+Aging constitutes progressive physiological changes in an organism. These 
+changes alter the normal biological functions, such as the ability to manage 
+metabolic stress, and eventually lead to cellular senescence. The process itself 
+is characterized by nine hallmarks: genomic instability, telomere attrition, 
+epigenetic alterations, loss of proteostasis, deregulated nutrient sensing, 
+mitochondrial dysfunction, cellular senescence, stem cell exhaustion, and 
+altered intercellular communication. These hallmarks are risk factors for 
+pathologies, such as cardiovascular diseases, neurodegenerative diseases, and 
+cancer. Emerging evidence has been focused on examining the genetic pathways and 
+biological processes in organisms surrounding these nine hallmarks. From here, 
+the therapeutic approaches can be addressed in hopes of slowing the progression 
+of aging. In this review, data have been collected on the hallmarks and their 
+relative contributions to aging and supplemented with in vitro and in vivo 
+antiaging research experiments. It is the intention of this article to highlight 
+the most important antiaging strategies that researchers have proposed, 
+including preventive measures, systemic therapeutic agents, and invasive 
+procedures, that will promote healthy aging and increase human life expectancy 
+with decreased side effects.
+
+DOI: 10.3390/biomedicines10102515
+PMCID: PMC9599338
+PMID: 36289777
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+522. Biomedicines. 2022 Oct 13;10(10):2563. doi: 10.3390/biomedicines10102563.
+
+Integrated Neuroregenerative Techniques for Plasticity of the Injured Spinal 
+Cord.
+
+Leemhuis E(1)(2), Favieri F(1)(2), Forte G(2)(3), Pazzaglia M(1)(2).
+
+Author information:
+(1)Dipartimento di Psicologia, Sapienza Università di Roma, 00185 Rome, Italy.
+(2)Body and Action Lab, IRCCS Fondazione Santa Lucia, 00179 Rome, Italy.
+(3)Dipartimento di Psicologia Dinamica, Clinica e Salute, Sapienza Università di 
+Roma, 00185 Roma, Italy.
+
+On the slow path to improving the life expectancy and quality of life of 
+patients post spinal cord injury (SCI), recovery remains controversial. The 
+potential role of the regenerative capacity of the nervous system has led to 
+numerous attempts to stimulate the SCI to re-establish the interrupted 
+sensorimotor loop and to understand its potential in the recovery process. 
+Numerous resources are now available, from pharmacological to biomolecular 
+approaches and from neuromodulation to sensorimotor rehabilitation interventions 
+based on the use of various neural interfaces, exoskeletons, and virtual reality 
+applications. The integration of existing resources seems to be a promising 
+field of research, especially from the perspective of improving living 
+conditions in the short to medium term. Goals such as reducing chronic forms of 
+neuropathic pain, regaining control over certain physiological activities, and 
+enhancing residual abilities are often more urgent than complete functional 
+recovery. In this perspective article, we provide an overview of the latest 
+interventions for the treatment of SCI through broad phases of injury 
+rehabilitation. The underlying intention of this work is to introduce a spinal 
+cord neuroplasticity-based multimodal approach to promote functional recovery 
+and improve quality of life after SCI. Nonetheless, when used separately, 
+biomolecular therapeutic approaches have been shown to have modest outcomes.
+
+DOI: 10.3390/biomedicines10102563
+PMCID: PMC9599452
+PMID: 36289825
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+523. Biology (Basel). 2022 Oct 20;11(10):1540. doi: 10.3390/biology11101540.
+
+A Novel ssDNA Aptamer Targeting Carcinoembryonic Antigen: Selection and 
+Characterization.
+
+Yunussova N(1), Sypabekova M(2), Zhumabekova Z(3), Matkarimov B(2), Kanayeva 
+D(4).
+
+Author information:
+(1)Ph.D. Program in Life Sciences, Nazarbayev University, 53 Kabanbay Batyr 
+Ave., Astana 010000, Kazakhstan.
+(2)National Laboratory Astana, Nazarbayev University, 53 Kabanbay Batyr Ave., 
+Astana 010000, Kazakhstan.
+(3)M.Sc. Program in Biological Sciences, Nazarbayev University, 53 Kabanbay 
+Batyr Ave., Astana 010000, Kazakhstan.
+(4)Department of Biology, School of Sciences and Humanities, Nazarbayev 
+University, 53 Kabanbay Batyr Ave., Astana 010000, Kazakhstan.
+
+One of the major causes of a drastically shorter life expectancy and one of the 
+most prevalent diseases in the world today is cancer. Given the data on the rise 
+in cancer cases throughout the world, it is obvious that, despite the diagnostic 
+techniques currently being used, there is a pressing need to develop precise and 
+sensitive techniques for early diagnosis of the disease. A high degree of 
+affinity and specificity towards particular targets is maintained by the short 
+nucleic acid molecules known as aptamers. Aptamers outperform antibodies due to 
+their unique benefits, such as their simplicity in synthesis and modification, 
+lack of toxicity, and long-term stability. Utilizing an accurate recognition 
+element and a robust signal transduction mechanism, molecular diagnostics can be 
+extremely sensitive and specific. In this study, development of new 
+single-stranded DNA aptamers against CEA for use in cancer diagnostics was 
+accomplished using SELEX and NGS methods. As a result of 12 iterative SELEX 
+rounds, nine aptamer candidates against CEA were developed. NGS comparative 
+analysis revealed that round twelve had an enriched number of aptamers that were 
+specifically bound, as opposed to round eight. Among the selected nine sequences 
+characterized by bioinformatics analysis and ELONA, an aptamer sequence with the 
+highest specificity and affinity for the target protein was identified and 
+further examined. Aptamer sequence (6) was screened in a concentration-dependent 
+assay, specificity analysis was performed, and its potential secondary and 
+tertiary structures were predicted, which enabled us to test one of the possible 
+putative interactions with CEA. Finally, aptamer sequence (6) labelled with a 
+Cy5 fluorescent tag was used in confocal microscopy to observe its binding 
+towards the CEA expressed in HT-29 human colon adenocarcinoma cell line.
+
+DOI: 10.3390/biology11101540
+PMCID: PMC9598387
+PMID: 36290442
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript; or in the decision to 
+publish the results.
+
+
+524. Curr Oncol. 2022 Sep 30;29(10):7327-7342. doi: 10.3390/curroncol29100576.
+
+Prognostic Factors of Low-Grade Gliomas in Adults.
+
+Deacu M(1)(2), Popescu S(2)(3), Docu Axelerad A(2)(4), Topliceanu TS(5), Aschie 
+M(1)(2)(6), Bosoteanu M(1)(2), Cozaru GC(5)(7), Cretu AM(1)(5), Voda RI(1)(5), 
+Orasanu CI(1)(5).
+
+Author information:
+(1)Clinical Service of Pathology, Departments of Pathology, Sfantul Apostol 
+Andrei Emergency County Hospital, 900591 Constanta, Romania.
+(2)Faculty of Medicine, "Ovidius" University of Constanta, 900470 Constanta, 
+Romania.
+(3)Department of Radiology, Sfantul Apostol Andrei Emergency County Hospital, 
+900591 Constanta, Romania.
+(4)Department of Neurology, Sfantul Apostol Andrei Emergency County Hospital, 
+900591 Constanta, Romania.
+(5)Center for Research and Development of the Morphological and Genetic Studyies 
+of Malignant Pathology (CEDMOG), Ovidius University of Constanta, 900591 
+Constanta, Romania.
+(6)Academy of Medical Sciences of Romania, 030167 Bucharest, Romania.
+(7)Clinical Service of Pathology, Departments of Genetics, Sfantul Apostol 
+Andrei Emergency County Hospital, 900591 Constanta, Romania.
+
+Adult low-grade gliomas are a rare and aggressive pathology of the central 
+nervous system. Some of their characteristics contribute to the patient's life 
+expectancy and to their management. This study aimed to characterize and 
+identify the main prognostic factors of low-grade gliomas. The six-year 
+retrospective study statistically analyzed the demographic, imaging, and 
+morphogenetic characteristics of the patient group through appropriate 
+parameters. Immunohistochemical tests were performed: IDH1, Ki-67, p53, and 
+Nestin, as well as FISH tests on the CDKN2A gene and 1p/19q codeletion. The 
+pathology was prevalent in females, with patients having an average age of 56.31 
+years. The average tumor volume was 41.61 cm3, producing a midline shift with an 
+average of 7.5 mm. Its displacement had a negative impact on survival. The 
+presence of a residual tumor resulted in decreased survival and is an 
+independent risk factor for mortality. Positivity for p53 identified a low 
+survival rate. CDKN2A mutations were an independent risk factor for mortality. 
+We identified that a negative prognosis is influenced by the association of 
+epilepsy with headache, tumor volume, and immunoreactivity to IDH1 and p53. 
+Independent factors associated with mortality were midline shift, presence of 
+tumor residue, and CDKN2A gene deletions and amplifications.
+
+DOI: 10.3390/curroncol29100576
+PMCID: PMC9600247
+PMID: 36290853 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+525. Curr Oncol. 2022 Oct 5;29(10):7420-7429. doi: 10.3390/curroncol29100583.
+
+Acute Metastatic Spinal Cord Compression: Urgent Surgery versus Radiotherapy and 
+Treatment Result Prediction versus Actual Results.
+
+Hershkovich O(1), Sakhnini M(2), Gara S(2), Caspi I(2), Lotan R(1).
+
+Author information:
+(1)Department of Orthopedic Surgery, Wolfson Medical Center, Ha-Lokhamim St. 62, 
+Holon 5822012, Israel.
+(2)Department of Orthopedic Surgery, Sheba Medical Center, Tel Aviv University, 
+Tel Aviv 6997801, Israel.
+
+Background Context: The role of radiotherapy versus surgery in treating acute 
+metastatic spinal cord compression (AMSCC) has changed over the years. Purpose: 
+Our study evaluates neurological and functional outcomes following urgent 
+surgery and radiotherapy (USFR) versus urgent radiotherapy alone in treating 
+AMSCC. Study Design/Setting: A retrospective cohort of 54 patients with AMSCC 
+with variable neurological deficits. Overall, 32 patients were treated with 
+USFR, and 22 received urgent radiotherapy alone. Outcome Measures: Neurological 
+status regarding the Asia and Frankel scores, continence and ambulation, and 
+Kranofsky's functional score and patient life span comprised the outcome 
+measures. Methods: This was a retrospective EMR study. Results: USFR and 
+radiotherapy cohorts were similar in age, gender, tumor origin, and the number 
+of spinal metastases. The most common cause of AMSCC was carcinoma of the breast 
+(24.1%), followed by carcinoma of the lung (16.7%) and multiple myeloma (13%). 
+Neurological status at AMSCC presentation was similar between cohorts regarding 
+Asia and Frankel scores, continence and ambulation, and Kranofsky's functional 
+score. Following USFR, 59.3% of the patients had a motor strength improvement, 
+31.3% regained sphincter function, and 34.4% regained ambulation, while 90% of 
+the patients treated by radiotherapy did not show any improvement. One patient 
+under radiotherapy lost sphincter function. The treatment received did not 
+affect the patient's survival. A subanalysis of patients with a short life 
+expectancy, by Tomita and Tokuhashi scores, showed missed prediction in 29.4% of 
+cases. Conclusion: The study supports the beneficial effect of UFSR compared to 
+urgent radiotherapy alone in treating AMSCC in all subgroups. Early surgery 
+improved function, motor strength, sphincter control, and ambulation without 
+affecting life span. Prognostic scores failed to predict life span in almost 
+one-third of the patients, requiring further investigation.
+
+DOI: 10.3390/curroncol29100583
+PMCID: PMC9601261
+PMID: 36290860 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+526. Cells. 2022 Oct 17;11(20):3260. doi: 10.3390/cells11203260.
+
+Long-Term IGF1 Stimulation Leads to Cellular Senescence via Functional 
+Interaction with the Thioredoxin-Interacting Protein, TXNIP.
+
+Nagaraj K(1), Sarfstein R(1), Laron Z(2), Werner H(1).
+
+Author information:
+(1)Department of Human Molecular Genetics and Biochemistry, Sackler School of 
+Medicine, Tel Aviv University, Tel Aviv 69978, Israel.
+(2)Endocrinology and Diabetes Research Unit, Schneider Children's Medical 
+Center, Petah Tikva 49292, Israel.
+
+The growth hormone (GH)-insulin-like growth factor-1 (IGF1) signaling pathway 
+plays a major role in orchestrating cellular interactions, metabolism, growth 
+and aging. Studies from worms to mice showed that downregulated activity of the 
+GH/IGF1 pathway could be beneficial for the extension of lifespan. Laron 
+syndrome (LS) is an inherited autosomal recessive disorder caused by molecular 
+defects of the GH receptor (GHR) gene, leading to congenital IGF1 deficiency. 
+Life-long exposure to minute endogenous IGF1 levels in LS is associated with low 
+stature as well as other endocrine and metabolic deficits. Epidemiological 
+surveys reported that patients with LS have a reduced risk of developing cancer. 
+Studies conducted on LS-derived lymphoblastoid cells led to the identification 
+of a novel link between IGF1 and thioredoxin-interacting protein (TXNIP), a 
+multifunctional mitochondrial protein. TXNIP is highly expressed in LS patients 
+and plays a critical role in cellular redox regulation by thioredoxin. Given 
+that IGF1 affects the levels of TXNIP under various stress conditions, including 
+high glucose and oxidative stress, we hypothesized that the IGF1-TXNIP axis 
+plays an essential role in helping maintain a physiological balance in cellular 
+homeostasis. In this study, we show that TXNIP is vital for the cell fate choice 
+when cells are challenged by various stress signals. Furthermore, prolonged IGF1 
+treatment leads to the establishment of a premature senescence phenotype 
+characterized by a unique senescence network signature. Combined 
+IGF1/TXNIP-induced premature senescence can be associated with a typical 
+secretory inflammatory phenotype that is mediated by STAT3/IL-1A signaling. 
+Finally, these mechanistic insights might help with the understanding of basic 
+aspects of IGF1-related pathologies in the clinical setting.
+
+DOI: 10.3390/cells11203260
+PMCID: PMC9601129
+PMID: 36291127 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+527. Brain Sci. 2022 Sep 30;12(10):1327. doi: 10.3390/brainsci12101327.
+
+Subarachnoid Hemorrhage in Patients with SARS-CoV-2 Infection: Protocol for A 
+Scoping Review.
+
+Cornea A(1)(2), Simu M(1)(2), Rosca EC(1)(2).
+
+Author information:
+(1)Department of Neurology, Victor Babes University of Medicine and Pharmacy 
+Timisoara, 300041 Timișoara, Romania.
+(2)Department of Neurology, Clinical Emergency County Hospital Timisoara, 300736 
+Timisoara, Romania.
+
+Subarachnoid hemorrhage (SAH) is a life-threatening condition associated with 
+high mortality and substantial long-term morbidity. The SARS-CoV-2 virus is a 
+new pathogen that causes a disease with variable clinical manifestations. 
+Although the Coronavirus disease 2019 (COVID-19) is associated with 
+hypercoagulopathy, patients may also present with cerebral hemorrhage, including 
+SAH. The present paper reports a protocol for a scoping review that is aimed to 
+provide a comprehensive report on existing literature by examining data on SAH 
+associated with SARS-CoV-2 infection. Our objective is to evaluate the 
+epidemiology, clinical, laboratory, and neuroimaging features of SAH in patients 
+with COVID-19 and to explore the etiology and possible interventions in this 
+pathology. Using appropriate search terms, we will search LitCOVID, the WHO 
+database on COVID-19, and MedRxiv. The inclusion criteria are pre-defined. We 
+will extract the data of eligible studies in standardized forms and will report 
+the results in accordance with the Preferred Reporting Items for Systematic 
+reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR). We will 
+provide information for clinicians, healthcare providers, and public health 
+specialists.
+
+DOI: 10.3390/brainsci12101327
+PMCID: PMC9599430
+PMID: 36291263
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+528. Biomolecules. 2022 Oct 11;12(10):1456. doi: 10.3390/biom12101456.
+
+Immunosenescence, Inflammaging, and Lung Senescence in Asthma in the Elderly.
+
+Soma T(1)(2)(3), Nagata M(1)(2).
+
+Author information:
+(1)Department of Respiratory Medicine, Saitama Medical University, Saitama 
+350-0495, Japan.
+(2)Allergy Center, Saitama Medical University, Saitama 350-0495, Japan.
+(3)Preventive Medicine Research Center, Saitama Medical University Hospital, 
+Saitama 350-0495, Japan.
+
+Prevalence of asthma in older adults is growing along with increasing global 
+life expectancy. Due to poor clinical consequences such as high mortality, 
+advancement in understanding the pathophysiology of asthma in older patients has 
+been sought to provide prompt treatment for them. Age-related alterations of 
+functions in the immune system and lung parenchyma occur throughout life. 
+Alterations with advancing age are promoted by various stimuli, including 
+pathobionts, fungi, viruses, pollutants, and damage-associated molecular 
+patterns derived from impaired cells, abandoned cell debris, and senescent 
+cells. Age-related changes in the innate and adaptive immune response, termed 
+immunosenescence, includes impairment of phagocytosis and antigen presentation, 
+enhancement of proinflammatory mediator generation, and production of 
+senescence-associated secretory phenotype. Immnunosenescence could promote 
+inflammaging (chronic low-grade inflammation) and contribute to late-onset adult 
+asthma and asthma in the elderly, along with age-related pulmonary disease, such 
+as chronic obstructive pulmonary disease and pulmonary fibrosis, due to lung 
+parenchyma senescence. Aged patients with asthma exhibit local and systemic type 
+2 and non-type 2 inflammation, associated with clinical manifestations. Here, we 
+discuss immunosenescence's contribution to the immune response and the 
+combination of type 2 inflammation and inflammaging in asthma in the elderly and 
+present an overview of age-related features in the immune system and lung 
+structure.
+
+DOI: 10.3390/biom12101456
+PMCID: PMC9599177
+PMID: 36291665 [Indexed for MEDLINE]
+
+Conflict of interest statement: T.S. has received speaker’s honoraria for 
+speaking at meetings sponsored by AstraZeneca, GlaxoSmithKline, Novartis, and 
+Sanofi. M.N. has received speaker’s honoraria for speaking at meetings and 
+honoraria for KYORIN Pharmaseutical Co., Ltd., and Trii Pharmaceutical Co., 
+Ltd., and is an advisory board member for AstraZeneca. Lectures sponsored by 
+AstraZeneca, GlaxoSmithKline, Novartis, Sanofi.
+
+
+529. Cancers (Basel). 2022 Oct 16;14(20):5061. doi: 10.3390/cancers14205061.
+
+Surgical Tolerability and Frailty in Elderly Patients Undergoing Robot-Assisted 
+Radical Prostatectomy: A Narrative Review.
+
+Yamada Y(1), Taguchi S(1), Kume H(1).
+
+Author information:
+(1)Department of Urology, Graduate School of Medicine, The University of Tokyo, 
+Bunkyo-Ku, Tokyo 113-8655, Japan.
+
+Robot-assisted radical prostatectomy (RARP) has now become the gold standard 
+treatment for localized prostate cancer. There are multiple elements in decision 
+making for the treatment of prostate cancer. One of the important elements is 
+life expectancy, which the current guidelines recommend as an indicator for 
+choosing treatment options. However, determination of life expectancy can be 
+complicated and difficult in some cases. In addition, surgical tolerability is 
+also an important issue. Since frailty may be a major concern, it may be logical 
+to use geriatric assessment tools to discriminate 'surgically fit' patients from 
+unfit patients. Landmark studies show two valid models such as the phenotype 
+model and the cumulative deficit model that allow for the diagnosis of frailty. 
+Many studies have also developed geriatric screening tools such as VES-13 and 
+G8. These tools may have the potential to directly sort out unfit patients for 
+surgery preoperatively.
+
+DOI: 10.3390/cancers14205061
+PMCID: PMC9599577
+PMID: 36291845
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+530. Healthcare (Basel). 2022 Sep 22;10(10):1833. doi:
+10.3390/healthcare10101833.
+
+Pharmacist Intervention in Portuguese Older Adult Care.
+
+Rodrigues AR(1), Teixeira-Lemos E(2), Mascarenhas-Melo F(3)(4), Lemos LP(5), 
+Bell V(1).
+
+Author information:
+(1)Laboratory of Social Pharmacy and Public Health, Faculty of Pharmacy of the 
+University of Coimbra, University of Coimbra, 3000-548 Coimbra, Portugal.
+(2)CERNAS-IPV Research Centre, Polytechnic Institute of Viseu, 3504-510 Viseu, 
+Portugal.
+(3)Drug Development and Technology Laboratory, Faculty of Pharmacy of the 
+University of Coimbra, University of Coimbra, 3000-548 Coimbra, Portugal.
+(4)REQUIMTE/LAQV, Group of Pharmaceutical Technology, Faculty of Pharmacy of the 
+University of Coimbra, University of Coimbra, 3000-548 Coimbra, Portugal.
+(5)Nuclear Medicine Department, Centro Hospitalar e Universitário de Coimbra, 
+3000-548 Coimbra, Portugal.
+
+Healthy ageing has become one of the most significant challenges in a society 
+with an increasing life expectancy. Older adults have a greater prevalence of 
+chronic disease, with the need for multiple medications to appropriately control 
+these issues. In addition to their health concerns, ageing individuals are prone 
+to loneliness, dependence, and economic issues, which may affect their quality 
+of life. Governments and health professionals worldwide have developed various 
+strategies to promote active and healthy ageing to improve the quality of life 
+of older adults. Pharmacists are highly qualified health professionals, easily 
+accessible to the population, thus playing a pivotal role in medication 
+management. Their proximity to the patient puts them in a unique position to 
+provide education and training to improve therapeutic adherence and identify 
+medication-related problems. This paper aims to address the importance of 
+Portuguese community pharmacists in the medication management of older adults, 
+emphasising their intervention in health promotion, patient education, 
+medication-related problems, deprescription, dose administration aids, and 
+medication review and reconciliation. We also discuss home delivery services and 
+medication management in long-term care facilities.
+
+DOI: 10.3390/healthcare10101833
+PMCID: PMC9602367
+PMID: 36292280
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+531. Healthcare (Basel). 2022 Sep 24;10(10):1863. doi:
+10.3390/healthcare10101863.
+
+Correlation between Quality of Life under Treatment and Current Life 
+Satisfaction among Cancer Survivors Aged 75 Years and Older Receiving Outpatient 
+Chemotherapy in Ishikawa Prefecture, Japan.
+
+Kitamura Y(1), Nakai H(1), Hashimoto T(1), Morikawa Y(1), Motoo Y(2).
+
+Author information:
+(1)School of Nursing, Kanazawa Medical University, 1-1 Uchinada, Kahoku 
+920-0265, Ishikawa, Japan.
+(2)Komatsu Sophia Hospital, Komatsu 923-0861, Ishikawa, Japan.
+
+Life satisfaction is increasingly important for older cancer survivors as the 
+global population ages and the life expectancy 29 of cancer survivors increases. 
+This study sought to identify factors associated with physical symptoms, quality 
+of life under treatment, and current life satisfaction in cancer survivors aged 
+75 years and older receiving outpatient chemotherapy. Information about 
+treatment for cancer survivors was collected from electronic medical records, 
+and interviews were conducted to assess life satisfaction under treatment. 
+Participants were older cancer survivors in Ishikawa, Japan. Of the 
+participants, 80% lived on the Noto Peninsula. The average linear distance 
+traveled for treatment was 40.7 km. The factors associated with patients' 
+dissatisfaction with their current lives included general malaise (odds ratio: 
+9.61; 95% confidence interval: 1.28-72.22) and being less happy now than when 
+they were younger (odds ratio: 10.559; 95% confidence interval: 1.50-74.24). In 
+outpatient cancer treatment for survivors aged 75 years and older, support 
+should consider the distance to the hospital. As in past studies, general 
+malaise was shown to have a negative impact on the lives of cancer survivors 
+aged 75 years or older. Support providers should pay attention to patients' 
+general malaise when providing support.
+
+DOI: 10.3390/healthcare10101863
+PMCID: PMC9601938
+PMID: 36292310
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+532. Healthcare (Basel). 2022 Oct 21;10(10):2107. doi:
+10.3390/healthcare10102107.
+
+Lifestyle Strategies for the Management of Obesity in Older Adults: From 
+Controversies to Alternative Interventions.
+
+Villani A(1).
+
+Author information:
+(1)School of Health and Behavioural Sciences, University of the Sunshine Coast, 
+Sippy Downs, QLD 4556, Australia.
+
+Improvements in infection control, management of chronic diseases and impressive 
+advancements in modern medicine have all contributed to increases in life 
+expectancy [...].
+
+DOI: 10.3390/healthcare10102107
+PMCID: PMC9602317
+PMID: 36292554
+
+Conflict of interest statement: The author declares no conflict of interest.
+
+
+533. Genes (Basel). 2022 Sep 29;13(10):1761. doi: 10.3390/genes13101761.
+
+From Genotype to Phenotype-A Review of Kabuki Syndrome.
+
+Barry KK(1), Tsaparlis M(2), Hoffman D(3), Hartman D(4), Adam MP(5), Hung C(2), 
+Bodamer OA(2)(6).
+
+Author information:
+(1)Tufts University School of Medicine, Boston, MA 02111, USA.
+(2)Division of Genetics and Genomics, Boston Children's Hospital, Boston, MA 
+02115, USA.
+(3)Takeda Pharmaceuticals, Cambridge, MA 02139, USA.
+(4)Orexia Therapeutics, Boston, MA 02115, USA.
+(5)Division of Genetic Medicine, Department of Pediatrics, University of 
+Washington, Seattle, WA 98195, USA.
+(6)Broad Institute of MIT and Harvard University, Cambridge, MA 02142, USA.
+
+Kabuki syndrome (KS) is a rare neuro-developmental disorder caused by variants 
+in genes of histone modification, including KMT2D and KDM6A. This review 
+assesses our current understanding of KS, which was originally named 
+Niikawa-Kuroki syndrome, and aims to guide surveillance and medical care of 
+affected individuals as well as identify gaps in knowledge and unmet patient 
+needs. Ovid MEDLINE and EMBASE databases were searched from 1981 to 2021 to 
+identify reports related to genotype and systems-based phenotype 
+characterization of KS. A total of 2418 articles were retrieved, and 152 were 
+included in this review, representing a total of 1369 individuals with KS. 
+Genotype, phenotype, and the developmental and behavioral profile of KS are 
+reviewed. There is a continuous clinical phenotype spectrum associated with KS 
+with notable variability between affected individuals and an emerging 
+genotype-phenotype correlation. The observed clinical variability may be 
+attributable to differences in genotypes and/or unknown genetic and epigenetic 
+factors. Clinical management is symptom oriented, fragmented, and lacks 
+established clinical care standards. Additional research should focus on 
+enhancing understanding of the burden of illness, the impact on quality of life, 
+the adult phenotype, life expectancy and development of standard-of-care 
+guidelines.
+
+DOI: 10.3390/genes13101761
+PMCID: PMC9601850
+PMID: 36292647 [Indexed for MEDLINE]
+
+Conflict of interest statement: Kelly Barry and Deborah Hoffman were employed at 
+Takeda Pharmaceuticals at the time this study was initiated. Takeda 
+Pharmaceuticals had no role in the design of the study; in the collection, 
+analyses, or interpretation of data; in the writing of the manuscript, or in the 
+decision to publish the results. All other authors have no conflicts of interest 
+to disclose.
+
+
+534. Genes (Basel). 2022 Oct 6;13(10):1802. doi: 10.3390/genes13101802.
+
+Research on Werner Syndrome: Trends from Past to Present and Future Prospects.
+
+Tsuge K(1), Shimamoto A(1).
+
+Author information:
+(1)Department of Regenerative Medicine Research, Faculty of Pharmaceutical 
+Sciences, Sanyo-Onoda City University, 1-1-1 Daigaku-Street, Sanyo-Onoda 
+Yamaguchi 756-0884, Japan.
+
+A rare and autosomal recessive premature aging disorder, Werner syndrome (WS) is 
+characterized by the early onset of aging-associated diseases, including 
+shortening stature, alopecia, bilateral cataracts, skin ulcers, diabetes, 
+osteoporosis, arteriosclerosis, and chromosomal instability, as well as cancer 
+predisposition. WRN, the gene responsible for WS, encodes DNA helicase with a 3' 
+to 5' exonuclease activity, and numerous studies have revealed that WRN helicase 
+is involved in the maintenance of chromosome stability through actions in DNA, 
+e.g., DNA replication, repair, recombination, and epigenetic regulation via 
+interaction with DNA repair factors, telomere-binding proteins, histone 
+modification enzymes, and other DNA metabolic factors. However, although these 
+efforts have elucidated the cellular functions of the helicase in cell lines, 
+they have not been linked to the treatment of the disease. Life expectancy has 
+improved for WS patients over the past three decades, and it is hoped that a 
+fundamental treatment for the disease will be developed. Disease-specific 
+induced pluripotent stem (iPS) cells have been established, and these are 
+expected to be used in drug discovery and regenerative medicine for WS patients. 
+In this article, we review trends in research to date and present some 
+perspectives on WS research with regard to the application of pluripotent stem 
+cells. Furthermore, the elucidation of disease mechanisms and drug discovery 
+utilizing the vast amount of scientific data accumulated to date will be 
+discussed.
+
+DOI: 10.3390/genes13101802
+PMCID: PMC9601476
+PMID: 36292687 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+535. Insects. 2022 Sep 28;13(10):881. doi: 10.3390/insects13100881.
+
+Lethal, Sub-Lethal and Trans-Generational Effects of Chlorantraniliprole on 
+Biological Parameters, Demographic Traits, and Fitness Costs of Spodoptera 
+frugiperda (Lepidoptera: Noctuidae).
+
+Akhtar ZR(1), Afzal A(2)(3), Idrees A(3), Zia K(1)(4), Qadir ZA(5)(6), Ali S(7), 
+Haq IU(1), Ghramh HA(8), Niaz Y(7), Tahir MB(9), Arshad M(1), Li J(3).
+
+Author information:
+(1)Department of Entomology, University of Agriculture Faisalabad, Faisalabad 
+38000, Pakistan.
+(2)Institute of Molecular Biology and Biotechnology, The University of Lahore, 
+1-Km Defense Road, Lahore 54000, Pakistan.
+(3)Guangdong Key Laboratory of Animal Conservation and Resource Utilization, 
+Guangdong Public Laboratory of Wild Animal Conservation and Utilization, 
+Institute of Zoology, Guangdong Academy of Sciences, Guangzhou 510260, China.
+(4)Office of Research, Innovation & Commercialization (ORIC), University of 
+Agriculture Faisalabad, Faisalabad 38000, Pakistan.
+(5)Honeybee Research Institute, National Agricultural Research Centre, Park 
+Road, Islamabad 45500, Pakistan.
+(6)Department of Entomology and Wildlife Ecology, University of Delaware, 
+Newark, DE 19716, USA.
+(7)Department of Agricultural Engineering, Khwaja Fareed University of 
+Engineering and Information Technology, Rahim Yar Khan 64200, Pakistan.
+(8)Research Center for Advanced Materials Science (RCAMS), King Khalid 
+University, P.O. Box 9004, Abha 61413, Saudi Arabia.
+(9)Department of Physics, Khwaja Fareed University of Engineering and 
+Information Technology, Rahim Yar Khan 64200, Pakistan.
+
+Fall armyworm [Spodoptera frugiperda (J. E. Smith, 1797)] was first reported in 
+the Americas, then spread to all the continents of the world. Chemical 
+insecticides are frequently employed in managing fall armyworms. These 
+insecticides have various modes of actions and target sites to kill the insects. 
+Chlorantraniliprole is a selective insecticide with a novel mode of action and 
+is used against Lepidopteran, Coleopteran, Isopteran, and Dipteran pests. This 
+study determined chlorantraniliprole's lethal, sub-lethal, and 
+trans-generational effects on two consecutive generations (F0, F1, and F2) of 
+the fall armyworm. Bioassays revealed that chlorantraniliprole exhibited higher 
+toxicity against fall armyworms with a LC50 of 2.781 mg/L after 48 h of 
+exposure. Significant differences were noted in the biological parameters of 
+fall armyworms in all generations. Sub-lethal concentrations of 
+chlorantraniliprole showed prolonged larval and adult durations. The parameters 
+related to the fitness cost in F0 and F1 generations showed non-significant 
+differences. In contrast, the F2 generation showed lower fecundity at lethal (71 
+eggs/female) and sub-lethal (94 eggs/female) doses of chlorantraniliprole 
+compared to the control (127.5-129.3 eggs/female). Age-stage specific survival 
+rate (Sxj), life expectancy (Exj) and reproductive rate (Vxj) significantly 
+differed among insecticide-treated groups in all generations compared to the 
+control. A comparison of treated and untreated insects over generations 
+indicated substantial differences in demographic parameters such as net 
+reproduction rate (R0), intrinsic rate of increase (r), and mean generation time 
+(T). Several biological and demographic parameters were shown to be negatively 
+impacted by chlorantraniliprole. We conclude that chlorantraniliprole may be 
+utilized to manage fall armyworms with lesser risks.
+
+DOI: 10.3390/insects13100881
+PMCID: PMC9603994
+PMID: 36292828
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+536. Insects. 2022 Sep 30;13(10):890. doi: 10.3390/insects13100890.
+
+Characterization of Resistance to the Mexican Rice Borer (Lepidoptera: 
+Crambidae) among Sugarcane Cultivars.
+
+Salgado LD(1), Wilson BE(2), Penn HJ(3), Richard RT(3), Way MO(4).
+
+Author information:
+(1)Department of Entomology, Louisiana State University Agricultural Center, 404 
+Life Sciences Building-LSU, Baton Rouge, LA 70803, USA.
+(2)Sugar Research Station, Louisiana State University Agricultural Center, 5755 
+LSU Ag Road, St. Gabriel, LA 70776, USA.
+(3)Sugarcane Research Unit, United States Department of Agriculture 
+(USDA)-Agricultural Research Service (ARS), 5883 Usda Rd, Houma, LA 70360, USA.
+(4)Department of Entomology, Texas A&M AgriLife Research and Extension Center, 
+1509 Aggie Drive, Beaumont, TX 77713, USA.
+
+Cultivar resistance is an essential management strategy for the Mexican rice 
+borer, Eoreuma loftini (Dyar), in sugarcane in the USA, but resistance 
+mechanisms are poorly understood. Resistance was evaluated among Louisiana's 
+(USA) commercial sugarcane cultivars and experimental clones through field 
+screenings, greenhouse trials, and a diet incorporation assay. Cultivars L 
+01-299 and HoCP 85-845 had the lowest borer injury levels, while HoCP 00-950 and 
+L 12-201 were among the most heavily injured in field and greenhouse trials. The 
+variability of results between the two field trials suggests that a genotype × 
+environment interaction might affect the expression of resistance. Oviposition 
+did not differ among evaluated cultivars in the greenhouse choice study. Results 
+from the no-choice experiment showed that neonatal establishment differed among 
+cultivars by up to 3-fold. In a diet incorporation assay, all cultivars reduced 
+larval weight up to 86.5% and increased days to pupation by 1.8-fold relative to 
+the diet-only control. Collectively, these results suggest that Louisiana's 
+sugarcane breeding germplasm contains various resistance levels to E. loftini, 
+emphasizing the importance of screening cultivars before they are released to 
+growers. Future studies should try to determine the influence of environmental 
+factors on resistance expression.
+
+DOI: 10.3390/insects13100890
+PMCID: PMC9603989
+PMID: 36292838
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript; or in the decision to 
+publish the results.
+
+
+537. Insects. 2022 Oct 3;13(10):901. doi: 10.3390/insects13100901.
+
+Physicochemical Properties of Sugarcane Cultivars Affected Life History and 
+Population Growth Parameters of Sesamia nonagrioides (Lefebvre) (Lepidoptera: 
+Noctuidae).
+
+Mortazavi Malekshah SA(1), Naseri B(1), Ranjbar Aghdam H(2), Razmjou J(1), Fathi 
+SAA(1), Ebadollahi A(3), Changbunjong T(4).
+
+Author information:
+(1)Department of Plant Protection, Faculty of Agriculture and Natural Resources, 
+University of Mohaghegh Ardabili, Ardabil 5619911367, Iran.
+(2)Iranian Research Institute of Plant Protection, Agricultural Research, 
+Education and Extension Organization (AREEO), Tehran 1985813111, Iran.
+(3)Department of Plant Sciences, Moghan College of Agriculture and Natural 
+Resources, University of Mohaghegh Ardabili, Ardabil 5697194781, Iran.
+(4)Department of Pre-Clinic and Applied Animal Science, Faculty of Veterinary 
+Science, Mahidol University, Nakhon Pathom 73170, Thailand.
+
+The use of resistant cultivars is an efficient management strategy against S. 
+nonagrioides. The effects of different sugarcane cultivars, CP48-103, CP57-614, 
+CP69-1062, CP73-21, SP70-1143, and IRC99-02 were evaluated on the oviposition 
+preference (free-choice assay), life history, and life table parameters of S. 
+nonagrioides at 27 ± 1 °C, 60 ± 5% RH and a photoperiod of 16: 8 (L: D) h. The 
+longest and shortest developmental times were on cultivars SP70-1143 and 
+CP48-103, respectively. The oviposition preference of S. nonagrioides was the 
+highest on cultivars CP48-103 and CP69-1062, and negatively correlated with the 
+shoot trichome density and shoot rind hardness of the cultivars. The highest 
+intrinsic rate of increase of S. nonagrioides was on cultivar CP48-103 and the 
+lowest was on cultivar SP70-1143. The shortest mean generation time was on 
+CP48-103 and the longest was on SP70-1143. The results indicate that cultivars 
+CP48-103 and CP69-1062 were susceptible, and cultivar SP70-1143 was partially 
+resistant against S. nonagrioides. This information could be useful for 
+developing integrated management programs of S. nonagrioides, such as the use of 
+resistant cultivars to reduce the damage caused by this pest in sugarcane 
+fields.
+
+DOI: 10.3390/insects13100901
+PMCID: PMC9604304
+PMID: 36292849
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+538. Insects. 2022 Oct 12;13(10):921. doi: 10.3390/insects13100921.
+
+Biotic Potential Induced by Different Host Plants in the Fall Armyworm, 
+Spodoptera frugiperda (Lepidoptera: Noctuidae).
+
+Altaf N(1), Idrees A(2), Ullah MI(1), Arshad M(1), Afzal A(2)(3), Afzal M(1), 
+Rizwan M(4), Li J(2).
+
+Author information:
+(1)Department of Entomology, University of Sargodha, Sargodha 40100, Pakistan.
+(2)Guangdong Key Laboratory of Animal Conservation and Resource Utilization, 
+Guangdong Public Laboratory of Wild Animal Conservation and Utilization, 
+Institute of Zoology, Guangdong Academy of Sciences, Guangzhou 510260, China.
+(3)Institute of Molecular Biology and Biotechnology, The University of Lahore, 
+1-Km Defense Road, Lahore 54000, Pakistan.
+(4)Beekeeping and Hill Fruit Pests Research Station, Rawalpindi 46300, Pakistan.
+
+Fall armyworm, Spodoptera frugiperda (J.E. Smith) (Lepidoptera: Noctuidae), is a 
+polyphagous insect pest of many important crops. To evaluate the influence of 
+host plants on the biology and survival of the Pakistani population of S. 
+frugiperda, we examined life table parameters of S. frugiperda raised on maize, 
+sorghum, wheat, and rice. The development rate was significantly higher on the 
+maize crop than on the other three host plants. Different larval diets affected 
+development time and fecundity. S. frugiperda attained the fastest larval 
+development (16 days) on maize and the slowest development (32.74 days) on rice. 
+Adult females from maize-fed larvae laid 1088 eggs/female, those from 
+sorghum-fed larvae laid 591.6 eggs/female, those from wheat-fed larvae laid 
+435.6 eggs/female, and those from rice-fed larvae laid 49.6 eggs/female. Age 
+stage-specific parameters also indicated the higher fecundity, higher life 
+expectancy, and higher survival of S. frugiperda on maize plants than on the 
+other three hosts. Larval diets had a significant varying effect on the finite 
+and intrinsic increase rates, reflecting that maize was the most suitable diet. 
+The findings of the present study are useful for predicting population dynamics 
+especially in areas cultivating Poaceae crops, except maize, to develop 
+sustainable integrated pest management strategies for this pest.
+
+DOI: 10.3390/insects13100921
+PMCID: PMC9604044
+PMID: 36292869
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+539. Int J Mol Sci. 2022 Oct 16;23(20):12387. doi: 10.3390/ijms232012387.
+
+Role of Vitronectin and Its Receptors in Neuronal Function and Neurodegenerative 
+Diseases.
+
+Ruzha Y(1), Ni J(1), Quan Z(1), Li H(1), Qing H(1).
+
+Author information:
+(1)School of Life Science, Beijing Institute of Technology, Beijing 100081, 
+China.
+
+Vitronectin (VTN), a multifunctional glycoprotein with various physiological 
+functions, exists in plasma and the extracellular matrix. It is known to be 
+involved in the cell attachment, spreading and migration through binding to the 
+integrin receptor, mainly via the RGD sequence. VTN is also widely used in the 
+maintenance and expansion of pluripotent stem cells, but its effects go beyond 
+that. Recent evidence shows more functions of VTN in the nervous system as it 
+participates in neural differentiation, neuronutrition and neurogenesis, as well 
+as in regulating axon size, supporting and guiding neurite extension. 
+Furthermore, VTN was proved to play a key role in protecting the brain as it can 
+reduce the permeability of the blood-brain barrier by interacting with integrin 
+receptors in vascular endothelial cells. Moreover, evidence suggests that VTN is 
+associated with neurodegenerative diseases, such as Alzheimer's disease, but its 
+function has not been fully understood. This review summarizes the functions of 
+VTN and its receptors in neurons and describes the role of VTN in the 
+blood-brain barrier and neurodegenerative diseases.
+
+DOI: 10.3390/ijms232012387
+PMCID: PMC9604229
+PMID: 36293243 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+540. Int J Environ Res Public Health. 2022 Oct 13;19(20):13197. doi: 
+10.3390/ijerph192013197.
+
+Burden of Disease Due to Ambient Particulate Matter in Germany-Explaining the 
+Differences in the Available Estimates.
+
+Tobollik M(1), Kienzler S(1), Schuster C(1)(2), Wintermeyer D(1), Plass D(1).
+
+Author information:
+(1)German Environment Agency, Department Environmental Hygiene, Corrensplatz, 
+14195 Berlin, Germany.
+(2)Berlin-Brandenburg Academy of Sciences and Humanities, Transfer Unit Science 
+Communication, 10117 Berlin, Germany.
+
+Ambient particulate matter (PM2.5) pollution is an important threat to human 
+health. The aim of this study is to estimate the environmental burden of disease 
+(EBD) for the German population associated with PM2.5 exposure in Germany for 
+the years 2010 until 2018. The EBD method was used to quantify relevant 
+indicators, e.g., disability-adjusted life years (DALYs), and the life table 
+approach was used to estimate the reduction in life expectancy caused by 
+long-term PM2.5 exposure. The impact of varying assumptions and input data was 
+assessed. From 2010 to 2018 in Germany, the annual population-weighted PM2.5 
+concentration declined from 13.7 to 10.8 µg/m3. The estimates of annual 
+PM2.5-attributable DALYs for all disease outcomes showed a downward trend. In 
+2018, the highest EBD was estimated for ischemic heart disease (101.776; 95% 
+uncertainty interval (UI) 62,713-145,644), followed by lung cancer (60,843; 95% 
+UI 43,380-79,379). The estimates for Germany differ from those provided by other 
+institutions. This is mainly related to considerable differences in the input 
+data, the use of a specific German national life expectancy and the selected 
+relative risks. A transparent description of input data, computational steps, 
+and assumptions is essential to explain differing results of EBD studies to 
+improve methodological credibility and trust in the results. Furthermore, the 
+different calculated indicators should be explained and interpreted with 
+caution.
+
+DOI: 10.3390/ijerph192013197
+PMCID: PMC9602590
+PMID: 36293778 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study, in the collection, analyses, or 
+interpretation of data, in the writing of the manuscript, or in the decision to 
+publish the results.541. Int J Environ Res Public Health. 2022 Oct 13;19(20):13202. doi: 
+10.3390/ijerph192013202.
+
+Neurological Outpatients Prefer EEG Home-Monitoring over Inpatient Monitoring-An 
+Analysis Based on the UTAUT Model.
+
+Baum U(1), Kühn F(2), Lichters M(3), Baum AK(1), Deike R(1), Hinrichs 
+H(1)(4)(5), Neumann T(1)(6)(7)(8).
+
+Author information:
+(1)Department of Neurology, Otto-von-Guericke University Magdeburg, Leipziger 
+Str. 44, 39120 Magdeburg, Germany.
+(2)Institute for Sensory and Innovation Research (ISI GmbH), Ascherberg 2, 37124 
+Rosdorf, Germany.
+(3)Chair of Marketing and Retailing, Faculty of Economics and Business 
+Administration, Chemnitz University of Technology, Reichenhainer Straße 39, 
+09126 Chemnitz, Germany.
+(4)Leibniz Institute for Neurobiology, Brenneckestraße 6, 39118 Magdeburg, 
+Germany.
+(5)Center for Behavioral Brain Sciences (CBBS), Universitätsplatz 2, 39106 
+Magdeburg, Germany.
+(6)Chair in Health Services Research, School of Life Sciences, University of 
+Siegen, Am Eichenhang 50, 57076 Siegen, Germany.
+(7)Chair in Empirical Economics, Otto-von-Guericke-University Magdeburg, 
+Universitätsplatz 2, 39106 Magdeburg, Germany.
+(8)Research Campus STIMULATE, Otto-von-Guericke-University Magdeburg, 
+Sandtorstraße 23, 39106 Magdeburg, Germany.
+
+Home monitoring examinations offer diagnostic and economic advantages compared 
+to inpatient monitoring. In addition, these technical solutions support the 
+preservation of health care in rural areas in the absence of local care 
+providers. The acceptance of patients is crucial for the implementation of home 
+monitoring concepts. The present research assesses the preference for a health 
+service that is to be introduced, namely an EEG home-monitoring of neurological 
+outpatients-using a mobile, dry-electrode EEG (electroencephalography) system-in 
+comparison to the traditional long-time EEG examination in a hospital. Results 
+of a representative study for Germany (n = 421) reveal a preference for home 
+monitoring. Importantly, this preference is partially driven by a video 
+explaining the home monitoring system. We subsequently analyzed factors that 
+influence the behavioral intention (BI) to use the new EEG system, drawing on an 
+extended Unified Theory of Acceptance and Use of Technology (UTAUT) model. The 
+strongest positive predictor of BI is the belief that EEG home-monitoring will 
+improve health quality, while computer anxiety and effort expectancy represent 
+the strongest barriers. Furthermore, we find the UTAUT model's behavioral 
+intention construct to predict the patients' decision for or against home 
+monitoring more strongly than any other patient's characteristic such as gender, 

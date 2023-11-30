@@ -1,0 +1,1000 @@
+system. The first algorithm was developed to determine the hip/shoulder 
+extension/flexion range of motion. The second algorithm automatically determines 
+the stance and swing phase per leg. To investigate the accuracy of the 
+algorithms, two dogs were walked on a treadmill and measured simultaneously with 
+an IMU system, an optical tracking system and two cameras. The range of motion 
+estimation was compared to the optical tracking systems, with a total of 280 
+steps recorded. To test the stance and swing phase detection, a total of 63 
+steps were manually annotated in the video recordings and compared with the 
+output of the algorithm. The IMU's-based estimation of the range of motion 
+showed an average deviation of 1.4° to 5.6° from the optical reference, while 
+the average deviation in the detection of the beginning and end of the stance 
+and swing phases ranged from -0.01 to 0.09 s. This study shows that even simple 
+algorithms can extract relevant information from inertial measurements that are 
+comparable to results from more complex approaches. However, additional studies 
+including a wider subject pool need to be conducted to investigate the 
+significance of the presented findings.
+
+© 2023 The Authors. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.vas.2023.100301
+PMCID: PMC10275712
+PMID: 37333505
+
+Conflict of interest statement: Two co-authors are respectively co-founder and 
+shareholder of 4DVets AG, the manufacturer of the discussed system. All authors 
+worked together on a research project financed by Swiss Funding Agency 
+Innosuisse.
+
+
+674. Front Public Health. 2023 Jun 2;11:1130252. doi: 10.3389/fpubh.2023.1130252.
+ eCollection 2023.
+
+Multidimensional background examination of young underweight Japanese women: 
+focusing on their dieting experiences.
+
+Murofushi Y(1)(2), Yamaguchi S(3)(2), Kadoya H(4)(1)(2), Otsuka H(5)(6), Ogura 
+K(7), Kaga H(8), Yoshizawa Y(9), Tamura Y(5)(6)(8)(9)(10).
+
+Author information:
+(1)Faculty of Health and Sports Science, Juntendo University, Chiba, Japan.
+(2)Graduate School of Health and Sports Science, Juntendo University, Chiba, 
+Japan.
+(3)Division of Public Health, Department of Hygiene and Public Health, School of 
+Medicine, Tokyo Women's Medical University, Tokyo, Japan.
+(4)Faculty of Medical Science, Juntendo University, Chiba, Japan.
+(5)Department of Sports Medicine and Sportology, Juntendo University Graduate 
+School of Medicine, Tokyo, Japan.
+(6)Sportology Center, Juntendo University Graduate School of Medicine, Tokyo, 
+Japan.
+(7)Juntendo Advanced Research Institute for Health Science, Juntendo University, 
+Tokyo, Japan.
+(8)Department of Metabolism and Endocrinology, Juntendo University Graduate 
+School of Medicine, Tokyo, Japan.
+(9)Center for Healthy Life Expectancy, Juntendo University Graduate School of 
+Medicine, Tokyo, Japan.
+(10)Faculty of International Liberal Arts, Juntendo University, Tokyo, Japan.
+
+INTRODUCTION: This study examines the background of underweight young women in 
+Japan from multiple perspectives, focusing on whether they have ever dieted.
+METHODS: A screening survey was administered to 5,905 underweight (BMI < 18.5 
+kg/m2) women aged 18-29 years, who could report their birth weight recorded in 
+their mother-child handbook. Valid responses were obtained from 400 underweight 
+and 189 normal-weight women. The survey collected data regarding height, weight 
+(BMI), body image and perception of weight, dieting experience, exercise habits 
+from elementary school age onwards, and current eating habits. Additionally, 
+five standardized questionnaires were used (EAT-26, eHEALTH, SATAQ-3 JS, TIPI-J, 
+and RSES). The primary analysis was a comparative analysis (t-test/χ2)-with the 
+presence or absence of underweight and diet experience as independent variables, 
+and each questionnaire as a dependent variable.
+RESULTS: The screening survey revealed that approximately 24% of the total 
+population was underweight, with a low mean BMI. Of the respondents, more than 
+half reported their body image as skinny and a small percentage as obese. 
+Compared with the non-diet-experienced group (NDG), the diet-experienced group 
+(DG) had a significantly higher proportion of past to current exercise habits. 
+There was a significantly higher percentage of disagreement responses from the 
+DG for weight and food gain than for the NDG. The NDG weighed significantly less 
+than the DG in terms of birth weight, and lost weight easier than the DG. 
+Additionally, the NDG was significantly more likely to agree with increasing 
+weight and food intake. The NDG's exercise habits were below 40% from elementary 
+school age to the present, predominantly owing to a dislike for exercise and a 
+lack of opportunity to implement it. In the standardized questionnaire, the DG 
+was significantly higher for EAT-26, eHEALTH, SATAQ-3 JS, and Conscientiousness 
+(TIPI-J), whereas the NDG was only significantly higher for Openness (TIPI-J).
+DISCUSSION: The results suggest the need for different health education programs 
+for underweight women who desire to lose weight and experience dieting and for 
+those who do not. This study's results are reflected in the development of 
+sports opportunities optimized for each individual, and in the development of 
+measures to ensure adequate nutritional intake.
+
+Copyright © 2023 Murofushi, Yamaguchi, Kadoya, Otsuka, Ogura, Kaga, Yoshizawa 
+and Tamura.
+
+DOI: 10.3389/fpubh.2023.1130252
+PMCID: PMC10273403
+PMID: 37333534 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as potential conflicts of interest.
+
+
+675. Front Public Health. 2023 May 22;11:1149966. doi:
+10.3389/fpubh.2023.1149966.  eCollection 2023.
+
+Neglected burden of injuries in Ethiopia, from 1990 to 2019: a systematic 
+analysis of the global burden of diseases study 2019.
+
+Berheto TM(1), Sengoelge M(2), Tadesse S(1), Workie SB(1), Tessema G(3), Memirie 
+ST(4), Mohammed S(1), Getnet F(1), Walker A(5), Naghavi M(5), Misganaw A(5).
+
+Author information:
+(1)National Data Management and Analytics Center for Health, Ethiopian Public 
+Health Institute, Addis Ababa, Ethiopia.
+(2)Department of Global Public Health, Karolinska Institutet (KI), Stockholm, 
+Sweden.
+(3)School of Population Health, Faculty of Health Sciences, Curtin University, 
+Perth, WA, Australia.
+(4)College of Health Sciences, Addis Ababa University, Addis Ababa, Ethiopia.
+(5)Institute of Health Metrics and Evaluation, University of Washington, 
+Seattle, WA, United States.
+
+BACKGROUND: The 2030 agenda for sustainable development goals has given injury 
+prevention new attention, including halving road traffic injuries. This study 
+compiled the best available evidence on injury from the global burden of 
+diseases study for Ethiopia from 1990 to 2019.
+METHODS: Injury data on incidence, prevalence, mortality, disability-adjusted 
+life years lost, years lived with disability, and years of life lost were 
+extracted from the 2019 global burden of diseases study for regions and 
+chartered cities in Ethiopia from 1990 to 2019. Rates were estimated per 100,000 
+population.
+RESULTS: In 2019, the age-standardized rate of incidence was 7,118 (95% UI: 
+6,621-7,678), prevalence was 21,735 (95% UI: 19,251-26,302), death was 72 (95% 
+UI: 61-83), disability-adjusted life years lost was 3,265 (95% UI: 2,826-3,783), 
+years of live lost was 2,417 (95% UI: 2,043-2,860), and years lived with 
+disability was 848 [95% UI: (620-1,153)]. Since 1990, there has been a reduction 
+in the age-standardized rate of incidence by 76% (95% UI: 74-78), death by 70% 
+(95% UI: 65-75), and prevalence by 13% (95% UI: 3-18), with noticeable 
+inter-regional variations. Transport injuries, conflict and terrorism, 
+interpersonal violence, self-harm, falls, poisoning, and exposure to mechanical 
+forces were the leading causes of injury-related deaths and long-term 
+disabilities. Since 1990, there has been a decline in the prevalence of 
+transport injuries by 32% (95% UI: 31-33), exposure to mechanical forces by 12% 
+(95% UI: 10-14), and interpersonal violence by 7.4% (95% UI: 5-10). However, 
+there was an increment in falls by 8.4% (95% UI: 7-11) and conflict and 
+terrorism by 1.5% (95% UI: 38-27).
+CONCLUSION: Even though the burden of injuries has steadily decreased at 
+national and sub-national levels in Ethiopia over the past 30 years, it still 
+remains to be an area of public health priority. Therefore, injury prevention 
+and control strategies should consider regional disparities in the burden of 
+injuries, promoting transportation safety, developing democratic culture and 
+negotiation skills to solve disputes, using early security-interventions when 
+conflict arises, ensuring workplace safety and improving psychological wellbeing 
+of citizens.
+
+Copyright © 2023 Berheto, Sengoelge, Tadesse, Workie, Tessema, Memirie, 
+Mohammed, Getnet, Walker, Naghavi and Misganaw.
+
+DOI: 10.3389/fpubh.2023.1149966
+PMCID: PMC10274142
+PMID: 37333551 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+676. SSM Popul Health. 2023 Jun 7;23:101445. doi: 10.1016/j.ssmph.2023.101445. 
+eCollection 2023 Sep.
+
+Changes in contributions of age- and cause-specific mortality to the widening 
+life expectancy gap between North and South Korea, 1990-2019: An analysis of the 
+Global Burden of Disease Study 2019.
+
+Choi M(1)(2), Sempungu JK(2)(3), Lee EH(2)(3), Lee YH(2).
+
+Author information:
+(1)Institute for Future Public Health, Graduate School of Public Health, Korea 
+University, Seoul, Republic of Korea.
+(2)Department of Preventive Medicine, Korea University College of Medicine, 
+Seoul, Republic of Korea.
+(3)Program in Public Health, Graduate School, Korea University, Seoul, Republic 
+of Korea.
+
+BACKGROUND: Life expectancy gaps between North and South Korea have increased 
+but contributions to these gaps remain poorly understood. Using data from the 
+Global Burden of Disease Study (GBD) 2019, we examined how much death from 
+specific diseases contributed to these gaps in different age groups over three 
+decades.
+METHODS: Data for death numbers and population by sex and 5-year age groups in 
+both North and South Korea from 1990 to 2019 were extracted from the GBD 2019 to 
+calculate life expectancy. Joinpoint regression analysis was conducted to 
+investigate changes in life expectancy in North and South Korea. We used 
+decomposition analysis to partition differences in life expectancy within and 
+between the two Koreas into changes in age- and cause-specific death 
+contributions.
+RESULTS: Life expectancy increased in two Koreas from 1990 to 2019, but North 
+Korea experienced a marked decline in life expectancy during the mid-1990s. The 
+life expectancy gaps between the two Koreas were greatest in 1999, with a 
+difference of 13.3 years for males and 14.9 years for females. The main 
+contributors to these gaps were higher under-5 mortality from nutritional 
+deficiencies for males (4.62 years) and females (4.57 years) in North Korea, 
+accounting for about 30% of the total gap in life expectancy. After 1999, the 
+life expectancy gaps reduced but persisted with differences of about ten years 
+by 2019. Notably, chronic diseases contributed to about 8 out of 10 years of 
+life expectancy gap between the two Koreas in 2019. Differential cardiovascular 
+disease mortality in the older groups was the main contributor to the life 
+expectancy gap.
+CONCLUSIONS: The contributors to this gap have shifted from nutritional 
+deficiencies in children younger than five years to cardiovascular disease among 
+elderly people. Efforts for strengthening social and healthcare systems are 
+needed to curb this large gap.
+
+© 2023 The Authors.
+
+DOI: 10.1016/j.ssmph.2023.101445
+PMCID: PMC10276181
+PMID: 37334332
+
+
+677. Clin Case Rep. 2023 Jun 17;11(6):e7560. doi: 10.1002/ccr3.7560. eCollection
+2023  Jun.
+
+Lingual fasciculation: A point of call for the diagnosis of amyotrophic lateral 
+sclerosis.
+
+Galeazzi L(1), Holzman J(1), Mondoloni M(1), Rochefort J(1).
+
+Author information:
+(1)Department of Oral and Dental Medicine, Pitié-Salpêtrière Hospital Université 
+Paris Cité, UFR Odontologie Paris France.
+
+A 60-year-old female patient, with no notable medical history, was referred by 
+the internal medicine department for a dry mouth workup. The clinical 
+examination revealed an absence of dryness, and the presence of lingual 
+fasciculations, associated with difficulties in mastication and phonation. These 
+symptoms appeared spontaneously 9 months before the consultation, after leaving 
+confinement. Given the presence of lingual fasciculations, the diagnostic 
+hypothesis of a neurological pathology, in particular amyotrophic lateral 
+sclerosis (ALS), was suspected. After performing an electromyogram (EMG), the 
+diagnosis of ALS was retained. Riluzole treatment was then started, and physical 
+therapy sessions were scheduled. Riluzole allows an average gain of 4 to 
+6 months of life expectancy. Speech therapy and physical therapy allow to 
+maintain the functions as long as possible and to improve the end-of-life 
+conditions. The interest of early detection of ALS allows delaying the 
+progression of the disease.
+
+© 2023 The Authors. Clinical Case Reports published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/ccr3.7560
+PMCID: PMC10276246
+PMID: 37334341
+
+Conflict of interest statement: All authors declare that they have no conflicts 
+of interest.
+
+
+678. Palliat Support Care. 2023 Aug;21(4):697-704. doi:
+10.1017/S147895152300069X.
+
+Psychedelic medicines for end-of-life care: Pipeline clinical trial review 2022.
+
+Jing X(1), Hoeh NR(1), Menkes DB(1).
+
+Author information:
+(1)Department of Psychological Medicine, School of Medicine, Faculty of Medical 
+and Health Sciences, University of Auckland, Auckland, New Zealand.
+
+OBJECTIVES: People with terminal illnesses often experience psychological 
+distress and associated disability. Recent clinical trial evidence has 
+stimulated interest in the therapeutic use of psychedelics at end of life. Much 
+uncertainty remains, however, mainly due to methodological difficulties that 
+beset existing trials. We conducted a scoping review of pipeline clinical trials 
+of psychedelic treatment for depression, anxiety, and existential distress at 
+end of life.
+METHODS: Proposed, registered, and ongoing trials were identified from 2 
+electronic databases (ClinicalTrials.gov and the World Health Organization 
+International Clinical Trials Registry Platform). Recent reviews and both 
+commercial and non-profit organization websites were used to identify additional 
+unregistered trials.
+RESULTS: In total, 25 studies were eligible, including 13 randomized controlled 
+trials and 12 open-label trials. Three trials made attempts beyond randomization 
+to assess expectancy and blinding effectiveness. Investigational drugs included 
+ketamine (n = 11), psilocybin (n = 10), 3,4-methylenedioxymethamphetamine 
+(n = 2), and lysergic acid diethylamide (n = 2). Three trials involved 
+microdosing, and fifteen trials incorporated psychotherapy.
+SIGNIFICANCE OF RESULTS: A variety of onging or upcoming clinical trials are 
+expected to usefully extend evidence regarding psychedelic-assisted group 
+therapy and microdosing in the end-of-life setting. Still needed are 
+head-to-head comparisons of different psychedelics to identify those best suited 
+to specific indications and clinical populations. More extensive and rigorous 
+studies are also necessary to better control expectancy, confirm therapeutic 
+findings and establish safety data to guide the clinical application of these 
+novel therapies.
+
+DOI: 10.1017/S147895152300069X
+PMID: 37334486 [Indexed for MEDLINE]
+
+
+679. BMJ Open. 2023 Jun 19;13(6):e068800. doi: 10.1136/bmjopen-2022-068800.
+
+Development and validation of a rurality index for healthcare research in Japan: 
+a modified Delphi study.
+
+Kaneko M(1), Ikeda T(2)(3), Inoue M(4), Sugiyama K(3), Saito M(5), Ohta R(6), 
+Cooray U(3), Vingilis E(7), Freeman TR(7), Mathews M(7).
+
+Author information:
+(1)Department of Health Data Science, Yokohama City University, Yokohama, Japan 
+kanekom@yokohama-cu.ac.jp.
+(2)Department of Health Policy Science, Yamagata University, Yamagata, Japan.
+(3)Department of International and Community Oral Health, Tohoku University 
+Graduate School of Dentistry, Sendai, Japan.
+(4)Department of Family and Community Medicine, Hamamatsu University School of 
+Medicine, Hamamatsu, Japan.
+(5)GENEPRO, Asahi, Japan.
+(6)Department of Community Care, Unnan City Hospital, Unnan, Shimane, Japan.
+(7)Department of Family Medicine, Western University, London, Ontario, Canada.
+
+OBJECTIVES: Rural-urban healthcare disparities exist globally. Various countries 
+have used a rurality index for evaluating the disparities. Although Japan has 
+many remote islands and rural areas, no rurality index exists. This study aimed 
+to develop and validate a Rurality Index for Japan (RIJ) for healthcare 
+research.
+DESIGN: We employed a modified Delphi method to determine the factors of the RIJ 
+and assessed the validity. The study developed an Expert Panel including 
+healthcare professionals and a patient who had expertise in rural healthcare.
+SETTING: The panel members were recruited from across Japan including remote 
+islands, mountain areas and heavy snow areas. The panel recruited survey 
+participants whom the panel considered to have expertise.
+PARTICIPANTS: The initial survey recruited 100 people, including rural 
+healthcare providers, local government staff and residents.
+PRIMARY OUTCOME MEASURES: Factors to include in the RIJ were identified by the 
+Expert Panel and survey participants. We also conducted an exploratory factor 
+analysis on the selected factors to determine the factor structure. Convergent 
+validity was examined by calculating the correlation between the index for 
+physician distribution and the RIJ. Criterion-related validity was assessed by 
+calculating the correlation with average life expectancy.
+RESULTS: The response rate of the final survey round was 84.8%. From the Delphi 
+surveys, four factors were selected for the RIJ: population density, direct 
+distance to the nearest hospital, remote islands and whether weather influences 
+access to the nearest hospital. We employed the factor loadings as the weight of 
+each factor. The average RIJ of every zip code was 50.5. The correlation 
+coefficient with the index for physician distribution was -0.45 (p<0.001), and 
+the correlation coefficients with the life expectancies of men and women were 
+-0.35 (p<0.001) and -0.12 (p<0.001), respectively.
+CONCLUSION: This study developed the RIJ using a modified Delphi method. The 
+index showed good validity.
+
+© Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2022-068800
+PMCID: PMC10314574
+PMID: 37336534 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+680. J Emerg Med. 2023 Jul;65(1):e31-e35. doi: 10.1016/j.jemermed.2023.03.062.
+Epub  2023 Mar 17.
+
+Concurrent Pansinusitis and Orbital Cellulitis Complicated by Extensive Head and 
+Neck Venous Thrombosis in an Unvaccinated Adolescent Patient with COVID-19: A 
+Case Report.
+
+Mears CJ(1), DeFlorio P(2), Murray B(2).
+
+Author information:
+(1)Department of Emergency Medicine, Wright State University Boonshoft School of 
+Medicine, Dayton, Ohio. Electronic address: charles.mears@wright.edu.
+(2)Department of Emergency Medicine, Wright State University Boonshoft School of 
+Medicine, Dayton, Ohio.
+
+BACKGROUND: Orbital cellulitis is an infrequent but serious infectious 
+complication of rhinosinusitis, most commonly seen in the pediatric population. 
+Extension into the cavernous sinus, leading to further infection and thrombosis, 
+is a rare but life-threatening complication. Although COVID-19 has been linked 
+to an increased risk of venous thromboembolism, most cases involve extremity 
+deep venous thrombosis or pulmonary embolism; reports of intracranial or jugular 
+system thrombosis are rare.
+CASE REPORT: We describe a case of a 17-year-old female patient with no 
+significant medical history or thrombotic risk factors found to have orbital 
+cellulitis and severe pansinusitis, complicated by multiple venous thromboses in 
+the head and neck requiring emergent surgical intervention and pediatric 
+intensive care admission. WHY SHOULD AN EMERGENCY PHYSICIAN BE AWARE OF THIS?: 
+Extensive head and neck venous thrombosis and intracranial abscesses are rare 
+complications of pansinusitis and orbital cellulitis, and the thrombotic 
+complications of COVID-19 are well documented. A delay in diagnosis and 
+treatment can lead to potentially devastating consequences.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.jemermed.2023.03.062
+PMCID: PMC10022179
+PMID: 37336653 [Indexed for MEDLINE]
+
+
+681. Health Res Policy Syst. 2023 Jun 19;21(1):57. doi:
+10.1186/s12961-023-01005-6.
+
+Respective healthcare system performances taking into account environmental 
+quality: what are the re-rankings for OECD countries?
+
+Ngami A(1), Ventelou B(2).
+
+Author information:
+(1)Aix Marseille Univ, CNRS, IRD, AMSE, Marseille, France, 5-9 Boulevard 
+Bourdet, CS 50498, 13205, Marseille Cedex 1, France.
+(2)Aix Marseille Univ, CNRS, IRD, AMSE, Marseille, France, 5-9 Boulevard 
+Bourdet, CS 50498, 13205, Marseille Cedex 1, France. bruno.ventelou@univ-amu.fr.
+
+BACKGROUND: Efficiency analyses have been widely used in the literature to rank 
+countries regarding their health system performances. However, little place has 
+been given to the environmental aspect: two countries with the same 
+characteristics could experience completely different healthcare system outcomes 
+just because they do not face the same environmental quality situation, which is 
+a major determinant of the health of inhabitants.
+METHODS: Using a stochastic frontier model, this paper analyses the effect of 
+environmental quality on health system outcomes in OECD countries, measured by 
+life expectancy at birth.
+RESULTS: We show that the healthcare system performance ranking of OECD 
+countries changes significantly, depending on whether the environmental index is 
+taken into account.
+CONCLUSIONS: These findings, once again, underline the critical importance of 
+the environment when addressing population health issues. In general, our 
+results can be aligned with the messages of the One Health approach literature.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12961-023-01005-6
+PMCID: PMC10278271
+PMID: 37337204 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors declare they have no competing 
+interests.
+
+
+682. Ther Clin Risk Manag. 2023 Jun 14;19:455-473. doi: 10.2147/TCRM.S386923. 
+eCollection 2023.
+
+Innovations in the Treatment of Dystrophic Epidermolysis Bullosa (DEB): Current 
+Landscape and Prospects.
+
+Hou PC(#)(1), Del Agua N(#)(2)(3), Lwin SM(4), Hsu CK(1)(2)(3), McGrath 
+JA(1)(3)(4).
+
+Author information:
+(1)Department of Dermatology, National Cheng Kung University Hospital, College 
+of Medicine, National Cheng Kung University, Tainan, Taiwan.
+(2)Institute of Clinical Medicine, College of Medicine, National Cheng Kung 
+University, Tainan, Taiwan.
+(3)International Center for Wound Repair and Regeneration (iWRR), National Cheng 
+Kung University, Tainan, Taiwan.
+(4)St John's Institute of Dermatology, School of Basic and Medical Biosciences, 
+King's College London, London, UK.
+(#)Contributed equally
+
+Dystrophic epidermolysis bullosa (DEB) is one of the major types of EB, a rare 
+hereditary group of trauma-induced blistering skin disorders. DEB is caused by 
+inherited pathogenic variants in the COL7A1 gene, which encodes type VII 
+collagen, the major component of anchoring fibrils which maintain adhesion 
+between the outer epidermis and underlying dermis. DEB can be subclassified into 
+dominant (DDEB) and recessive (RDEB) forms. Generally, DDEB has a milder 
+phenotype, while RDEB patients often have more extensive blistering, chronic 
+inflammation, skin fibrosis, and a propensity for squamous cell carcinoma 
+development, collectively impacting on daily activities and life expectancy. At 
+present, best practice treatments are mostly supportive, and thus there is a 
+considerable burden of disease with unmet therapeutic need. Over the last 20 
+years, considerable translational research efforts have focused on either trying 
+to cure DEB by direct correction of the COL7A1 gene pathology, or by modifying 
+secondary inflammation to lessen phenotypic severity and improve patient 
+symptoms such as poor wound healing, itch, and pain. In this review, we provide 
+an overview and update on various therapeutic innovations for DEB, including 
+gene therapy, cell-based therapy, protein therapy, and disease-modifying and 
+symptomatic control agents. We outline the progress and challenges for each 
+treatment modality and identify likely prospects for future clinical impact.
+
+© 2023 Hou et al.
+
+DOI: 10.2147/TCRM.S386923
+PMCID: PMC10277004
+PMID: 37337559
+
+Conflict of interest statement: The authors report no conflicts of interest in 
+this work.
+
+
+683. Biometrics. 2023 Jun 19. doi: 10.1111/biom.13891. Online ahead of print.
+
+Analysis of dynamic restricted mean survival time based on pseudo-observations.
+
+Yang Z(1)(2), Zhang C(2), Hou Y(3), Chen Z(2).
+
+Author information:
+(1)Stomatological Hospital, School of Stomatology, Southern Medical University, 
+Guangzhou, China.
+(2)Department of Biostatistics, School of Public Health (Guangdong Provincial 
+Key Laboratory of Tropical Disease Research), Southern Medical University, 
+Guangzhou, China.
+(3)Department of Statistics and Data Science, School of Economics, Jinan 
+University, Guangzhou, China.
+
+In clinical follow-up studies with a time-to-event end point, the difference in 
+the restricted mean survival time (RMST) is a suitable substitute for the hazard 
+ratio (HR). However, the RMST only measures the survival of patients over a 
+period of time from the baseline and cannot reflect changes in life expectancy 
+over time. Based on the RMST, we study the conditional restricted mean survival 
+time (cRMST) by estimating life expectancy in the future according to the time 
+that patients have survived, reflecting the dynamic survival status of patients 
+during follow-up. In this paper, we introduce the estimation method of cRMST 
+based on pseudo-observations, the statistical inference concerning the 
+difference between two cRMSTs (cRMSTd), and the establishment of the robust 
+dynamic prediction model using the landmark method. Simulation studies are 
+conducted to evaluate the statistical properties of these methods. The results 
+indicate that the estimation of the cRMST is accurate, and the dynamic RMST 
+model has high accuracy in coefficient estimation and good predictive 
+performance. In addition, an example of patients with chronic kidney disease who 
+received renal transplantations is employed to illustrate that the dynamic RMST 
+model can predict patients' expected survival times from any prediction time, 
+considering the time-dependent covariates and time-varying effects of 
+covariates.
+
+© 2023 The International Biometric Society.
+
+DOI: 10.1111/biom.13891
+PMID: 37337620
+
+
+684. Mol Imaging Radionucl Ther. 2023 Jun 20;32(2):178-180. doi: 
+10.4274/mirt.galenos.2023.81567.
+
+I-131 Avid Tumor Thrombus in a Case of Poorly Differentiated Thyroid Cancer.
+
+Gill SM(1), Hassan A(1), Bashir H(1), Shafiq W(1).
+
+Author information:
+(1)Shaukat Khanum Memorial Cancer Hospital and Research Centre, Department of 
+Nuclear Medicine, Lahore, Pakistan.
+
+Intravenous tumor extension is a well-recognized phenomenon occurring in various 
+malignancies but is a relatively rare entity in thyroid carcinoma. In patients 
+with poorly differentiated thyroid cancer (pDTC), I-131 avid superior vena cava 
+tumor (SVC) thrombus at initial presentation is infrequent and potential life 
+threatening. Tumor thrombus can form either due to direct vascular extension of 
+the primary mass or by hematogenous spread. Hybrid nuclear imaging can 
+differentiate the two entities, which can impact the treatment plan of the 
+patient. We present images of an interesting case of evolution of SVC thrombus 
+in a 46-year-old woman with diagnosed pDTC over the span of two years.
+
+Publisher: İntravenöz tümör yayılımı, çeşitli malignitelerde ortaya çıkan iyi 
+bilinen bir fenomendir, ancak tiroid karsinomunda nispeten nadir bir antitedir. 
+Kötü diferansiye tiroid kanseri (pDTC) olan hastalarda, başlangıçta I-131 avid 
+superior vena cava tümörü (SVC) trombüsü nadirdir ve potansiyel olarak yaşamı 
+tehdit eder. Tümör trombüsü, primer kitlenin doğrudan vasküler yayılımı veya 
+hematojen yayılım nedeniyle oluşabilir. Hibrit nükleer görüntüleme, hastanın 
+tedavi planını etkileyebilecek bu iki antiteyi ayırt edebilir. Bu yazıda, pDTC 
+tanısı konan 46 yaşındaki bir kadında ilginç bir SVC trombüs gelişiminin iki 
+yıllık görüntülerini sunuyoruz.
+
+©Copyright 2023 by the Turkish Society of Nuclear Medicine / Molecular Imaging 
+and Radionuclide Therapy published by Galenos Publishing House.
+
+DOI: 10.4274/mirt.galenos.2023.81567
+PMCID: PMC10284192
+PMID: 37337877
+
+Conflict of interest statement: Conflict of Interest: No conflict of interest 
+was declared by the authors.
+
+
+685. Am J Hum Biol. 2023 Nov;35(11):e23948. doi: 10.1002/ajhb.23948. Epub 2023
+Jun  20.
+
+Association between infectious exposures in infancy and epigenetic age 
+acceleration in young adulthood in metropolitan Cebu, Philippines.
+
+McDade TW(1)(2), Ryan CP(3), Adair LS(4), Lee NR(5), Carba DB(5), MacIsaac 
+JL(6)(7)(8), Dever K(6)(7)(8), Atashzay P(6)(7)(8), Kobor MS(6)(7)(8), Kuzawa 
+CW(1)(2).
+
+Author information:
+(1)Department of Anthropology, Northwestern University, Evanston, Illinois, USA.
+(2)Institute for Policy Research, Northwestern University, Evanston, Illinois, 
+USA.
+(3)Robert N. Butler Columbia Aging Center, Department of Epidemiology, Columbia 
+University Mailman School of Public Health, New York, New York, USA.
+(4)Department of Nutrition, Gillings School of Global Public Health, Carolina 
+Population Center, CB #8120, University of North Carolina at Chapel Hill, Chapel 
+Hill, North Carolina, USA.
+(5)Office of Population Studies Foundation, University of San Carlos, Cebu City, 
+Philippines.
+(6)Department of Medical Genetics, Faculty of Medicine, University of British 
+Columbia, Vancouver, British Columbia, Canada.
+(7)Edwin S.H. Leong Centre for Healthy Aging, University of British Columbia, 
+Vancouver, British Columbia, Canada.
+(8)Centre for Molecular Medicine and Therapeutics, Vancouver, British Columbia, 
+Canada.
+
+Comment in
+    Am J Hum Biol. 2023 Nov;35(11):e23973.
+    Am J Hum Biol. 2023 Nov;35(11):e23977.
+
+OBJECTIVES: The drivers of human life expectancy gains over the past 200 years 
+are not well-established, with a potential role for historical reductions in 
+infectious disease. We investigate whether infectious exposures in infancy 
+predict biological aging using DNA methylation-based markers that forecast 
+patterns of morbidity and mortality later in life.
+METHODS: N = 1450 participants from the Cebu Longitudinal Health and Nutrition 
+Survey-a prospective birth cohort initiated in 1983-provided complete data for 
+the analyses. Mean chronological age was 20.9 years when venous whole blood 
+samples were drawn for DNA extraction and methylation analysis, with subsequent 
+calculation of three epigenetic age markers: Horvath, GrimAge, and DunedinPACE. 
+Unadjusted and adjusted least squares regression models were evaluated to test 
+the hypothesis that infectious exposures in infancy are associated with 
+epigenetic age.
+RESULTS: Birth in the dry season, a proxy measure for increased infectious 
+exposure in the first year of life, as well as the number of symptomatic 
+infections in the first year of infancy, predicted lower epigenetic age. 
+Infectious exposures were associated with the distribution of white blood cells 
+in adulthood, which were also associated with measures of epigenetic age.
+CONCLUSIONS: We document negative associations between measures of infectious 
+exposure in infancy and DNA methylation-based measures of aging. Additional 
+research, across a wider range of epidemiological settings, is needed to clarify 
+the role of infectious disease in shaping immunophenotypes and trajectories of 
+biological aging and human life expectancy.
+
+© 2023 The Authors. American Journal of Human Biology published by Wiley 
+Periodicals LLC.
+
+DOI: 10.1002/ajhb.23948
+PMID: 37338007 [Indexed for MEDLINE]
+
+
+686. J Med Virol. 2023 Jun;95(6):e28891. doi: 10.1002/jmv.28891.
+
+Global and regional estimates of cervical cancer burden associated with human 
+immunodeficiency virus infection from 1990 to 2019.
+
+Wan Z(1)(2), Zhao J(3), Xu L(3), Sun P(1)(2), Shuai P(1)(2), Li K(3), Zhang 
+Y(3), Chen Y(1)(4), Su Q(1)(2), Yao X(1)(2), Li X(3), Liu Y(1)(2).
+
+Author information:
+(1)Department of Health Management Center, Institute of Health Management, 
+Sichuan Provincial People's Hospital, University of Electronic Science and 
+Technology of China, Chengdu, China.
+(2)Chinese Academy of Sciences Sichuan Translational Medicine Research Hospital, 
+Chengdu, China.
+(3)Department of School of Public Health, and Epidemiology and Biostatistics, 
+Zhejiang University School of Medicine, Hangzhou, China.
+(4)School of Public Health, Southwest Medical University, Luzhou, China.
+
+Previous studies reported human immunodeficiency virus (HIV) could enhance human 
+papillomavirus (HPV)-induced cervical cancer. Therefore, the burden of cervical 
+cancer associated with HIV across different regions and time periods need to be 
+assessed. We aim to investigate the global burden of cervical cancer associated 
+with HIV infection. Age standardized rates (ASRs) of cervical cancer 
+disability-adjusted life-years (DALYs) in females (≥15 years old) were 
+calculated by standardization, according the age-specific DALYs numbers 
+extracted from GBD data set 2019. Population attributable fractions was 
+calculated by combining the published risk ratio, with the HIV prevalence (≥15 
+years old) from Joint United Nations Programme on HIV and AIDS (UNAIDS), and 
+transferred to estimate the HIV-associated cervical cancer burden. Expected 
+annual percentage changes (EAPCs) was calculated to describe the temporal trend 
+of ASR from 1990 to 2019. Pearson correlation analysis were conducted to assess 
+the correlation between the ASR or EAPCs and the socio-demographic index. The 
+worldwide DALYs ASR caused by HIV-associated cervical cancer rose from 3.78 (95% 
+confidence interval [CI]: 2.19-5.56) in 1990 to 9.50 (95% CI: 5.66-13.79) in 
+2019 per 100k population. In 2019, the region with the greatest burden was 
+Eastern and Southern Africa, with the highest DALYs of 273 900 (95% CI: 
+149 100-476 400) and ASR of 254.44 per 100k population (95% CI: 168.86-329.28). 
+Notably, the Eastern Europe and Central Asia regions had the highest EAPC 
+(14.07%) of HIV-associated DALYs ASR. Women in Eastern and Southern Africa 
+experience the greatest burden of HIV-associated cervical cancer, while the 
+Eastern Europe and Central Asia regions had witnessed the largest increase over 
+the last 30 years. Prioritize the promotion of HPV vaccination and cervical 
+cancer screening for women living with HIV were crucial in these regions.
+
+© 2023 Wiley Periodicals LLC.
+
+DOI: 10.1002/jmv.28891
+PMID: 37338085 [Indexed for MEDLINE]
+
+
+687. Eye (Lond). 2023 Jun 20. doi: 10.1038/s41433-023-02626-5. Online ahead of
+print.
+
+PACS plus criteria: a retrospective cohort review of 612 consecutive patients 
+treated with bilateral YAG peripheral iridotomies.
+
+Young SL(1)(2), Cheng KKW(3)(4), O' Connell N(3), Sanders R(4)(5), Agarwal 
+PK(3)(4).
+
+Author information:
+(1)Princess Alexandra Eye Pavilion, NHS Lothian, Edinburgh, UK. 
+drsuyoung@gmail.com.
+(2)Department of Ophthalmology, University of Edinburgh, Edinburgh, UK. 
+drsuyoung@gmail.com.
+(3)Princess Alexandra Eye Pavilion, NHS Lothian, Edinburgh, UK.
+(4)Department of Ophthalmology, University of Edinburgh, Edinburgh, UK.
+(5)Queen Margaret Hospital, NHS Fife, Dunfermline, UK.
+
+INTRODUCTION: With an ageing population and better life expectancy, the 
+prevalence of angle closure disease is expected to increase by 20% per decade. 
+In 2022, the Royal College of Ophthalmologists (RCOphth) issued a guideline on 
+managing angle closure disease. Hospital eye service (HES) referral and 
+prophylactic treatment are recommended only for primary angle closure suspect 
+(PACS) with "Plus" features only. We aimed to examine patients previously 
+treated with YAG peripheral iridotomies (YAG PI) for the presence of "PACS Plus" 
+features.
+METHODS: A retrospective cohort study of consecutive patients treated with YAG 
+PI between 2015 and 2019 at a tertiary referral NHS eye centre was reviewed. 
+Cases were examined to identify and classify patients into Primary Angle Closure 
+(PAC), PACS, and Primary Angle Closure Glaucoma (PACG). Patients with PACS were 
+studied for "Plus" features.
+RESULTS: Six hundred twelve patients with gonioscopy-confirmed angle closure 
+(defined as a minimum 180 degrees iridotrabecular contact) treated with YAG PI 
+from years 2015 to 2019 were included in the analysis. The mean age of patients 
+presenting with angle closure disease was 68.5 years (SD 11.3). There were 390 
+(63.7%) patients with PACS, 102 (16.6%) with PAC and 120 (19.7%) with PACG. Of 
+the PACS patients, 159(40.8%) patients had no "Plus" features. 181 (40.2%) 
+patients had 1 "Plus" feature, 37 (9.5%) had 2 "Plus" features and 13 (3.3%) 
+patients had 3 "Plus" features.
+CONCLUSION: In our cohort, a considerable proportion (40.8%) of PACS patients 
+treated with YAG PI did not have Plus features and therefore that would not meet 
+the proposed criteria for HES referral and YAG PI. With the proposed guidance, 
+we expect a considerable reduction in HES referrals. Nonetheless, community 
+optometry services should be supported and trained to provide monitoring for 
+patients with PACS not referred to the HES.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41433-023-02626-5
+PMID: 37340048
+
+
+688. Environ Sci Pollut Res Int. 2023 Jul;30(35):83245-83259. doi: 
+10.1007/s11356-023-28223-3. Epub 2023 Jun 20.
+
+Global, region and national trends and age-period-cohort effects in colorectal 
+cancer burden from 1990 to 2019, with predictions to 2039.
+
+Hu S(1), Li Y(2), Zhu W(2), Liu J(2), Wei S(3).
+
+Author information:
+(1)Department of Public Health, Tongji Hospital, Tongji Medical College, 
+Huazhong University of Science and Technology, Wuhan, China.
+(2)Department of Epidemiology and Biostatistics, School of Public Health, Tongji 
+Medical College, Huazhong University of Science and Technology, Wuhan, Hubei, PR 
+China.
+(3)Department of Epidemiology and Biostatistics, School of Public Health, Tongji 
+Medical College, Huazhong University of Science and Technology, Wuhan, Hubei, PR 
+China. ws2008cn@gmail.com.
+
+Nowadays, colorectal cancer (CRC) is the second leading cause of cancer deaths 
+and contributes to a gradually increasing disease burden. We aimed to estimate 
+the secular trends of global CRC burden, the effect of age, period, and birth 
+cohort, and project the global burden over time. Based on the epidemiological 
+CRC data from 1990 to 2019 in 204 countries and territories from GBD 2019, the 
+estimated annual percentage change (EAPC), was calculated from a linear model 
+and joinpoint regression model. We utilized an age-period-cohort model to reckon 
+age, period, and birth cohort effects on CRC age-standardized rate. The burden 
+of CRC was projected by conducting the BAPC model. Globally, there was a slight 
+decline in the age-standardized DALY rate, which was more apparent in females, 
+with high SDI regions and in Australia and Western Europe areas. Meanwhile, our 
+model predicts a weaker increase in morbidity (EAPC of 0.37) and a speedier 
+reduction in mortality (EAPC of -0.66) by the next 20 years. The relative risk 
+of period for high SDI regions decreased from 1.08 (95%UI: 1.06-1.1) in 
+1990-1994 to 0.85 (95%UI:0.83-0.88) in 2015-2019, but worsens in low and middle 
+SDI regions. The local drifts were more than 1 in the 30-34 and 35-39 age 
+groups, indicating the rising tide of early-onset CRC. Given the gender and 
+region-specific CRC, targeted efforts to reduce the prevalence of risk factors, 
+improve screening coverage rates, and strengthen foundational medical facilities 
+are necessary.
+
+© 2023. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s11356-023-28223-3
+PMID: 37340163 [Indexed for MEDLINE]
+
+
+689. Health Qual Life Outcomes. 2023 Jun 20;21(1):59. doi: 
+10.1186/s12955-023-02131-z.
+
+Characteristics of health-state utilities used in cost-effectiveness analyses: a 
+systematic review of published studies in Asia.
+
+Yang Z(#)(1)(2), Zeng X(#)(3)(4), Huang W(5), Chai Q(6), Zhao A(7), Chuang 
+LH(8)(9), Wu B(10), Luo N(11).
+
+Author information:
+(1)Health Services Management Department, Guizhou Medical University, Gui'an, 
+China.
+(2)Center of Medicine Economics and Management Research, Guizhou Medical 
+University, Gui'an, China.
+(3)Shanghai Chest Hospital, Shanghai Jiao Tong University School of Medicine, 
+Shanghai, China.
+(4)School of Health Management, Harbin Medical University, Harbin, China.
+(5)School of Health Management, Harbin Medical University, Harbin, China. 
+weidong218@126.com.
+(6)Department of Pharmacy, School of Medicine, Huangpu Branch, Shanghai Ninth 
+People's Hospital, Shanghai Jiao Tong University, Shanghai, China.
+(7)Analysis Group, Boston, MA, USA.
+(8)Department of Epidemiology and Global Health, Umeå University, Umeå, Sweden.
+(9)GongJing Healthcare (Nanjing) Co. Ltd, Nanjing, China.
+(10)School of Medicine, Ren Ji Hospital, Shanghai Jiao Tong University, 
+Shanghai, China.
+(11)Saw Swee Hock School of Public Health, National University of Singapore, 
+Singapore, Singapore. ephln@nus.edu.sg.
+(#)Contributed equally
+
+INTRODUCTION: Cost-utility analysis (CUA) is the preferred form of economic 
+evaluation in many countries. As one of the key data inputs in cost-utility 
+models, health state utility (HSU) has a crucial impact on CUA results. In the 
+past decades, health technology assessment has been expanding rapidly in Asia, 
+yet research examining the methodology and process used to generate 
+cost-effectiveness evidence is scarce. The aim of this study was to examine the 
+reporting of the characteristics of HSU data used in CUAs in Asia and how the 
+characteristics have changed over time.
+METHODS: A systematic literature search was performed to identify published CUA 
+studies targeting Asian populations. Information was extracted for both the 
+general characteristics of selected studies and the characteristics of reported 
+HSU data. For each HSU value identified, we extracted data for four key 
+characteristics, including 1) estimation method; 2) source of health-related 
+quality of life (HRQoL) data; 3) source of preference data; and 4) sample size. 
+The percentage of nonreporting was calculated and compared over two time periods 
+(1990-2010 vs 2011-2020).
+RESULTS: A total of 789 studies were included and 4,052 HSUs were identified. Of 
+these HSUs, 3,351 (82.7%) were from published literature and 656 (16.2%) were 
+from unpublished empirical data. Overall, the characteristics of HSU data were 
+not reported in more than 80% of the studies. Of HSUs whose characteristics were 
+reported, most of them were estimated using the EQ-5D (55.7%), Asian HRQoL data 
+(91.9%), and Asian health preferences (87.7%); 45.7% of the HSUs was estimated 
+with a sample of 100 or more individuals. All four characteristics showed 
+improvements after 2010.
+CONCLUSION: Over the past two decades, there has been a significant increase in 
+CUA studies targeting Asian populations. However, HSU's characteristics were not 
+reported in most of the CUA studies, making it difficult to evaluate the quality 
+and appropriateness of the HSUs used in those cost-effectiveness studies.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12955-023-02131-z
+PMCID: PMC10283288
+PMID: 37340446 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr. Yang reports grants from The EuroQol 
+Research Foundation, outside the submitted work; and Dr. Yang is an EuroQol 
+member. Dr. Luo reports grants from The EuroQol Research Foundation, during the 
+conduct of the study; grants from The EuroQol Research Foundation, outside the 
+submitted work; and Dr. Luo is a member of the EuroQol Group. Dr. Chuang reports 
+grants from The EuroQol Research Foundation, during the conduct of the study; 
+grants from The EuroQol Research Foundation, outside the submitted work; and Dr. 
+Chuang is a member of the EuroQol Group.
+
+
+690. Chin Med J (Engl). 2023 Oct 20;136(20):2431-2441. doi: 
+10.1097/CM9.0000000000002741. Epub 2023 Jun 25.
+
+Changing profiles of cardiovascular disease and risk factors in China: a 
+secondary analysis for the Global Burden of Disease Study 2019.
+
+Wang H(1), Zhang H(2), Zou Z(1).
+
+Author information:
+(1)Institute of Child and Adolescent Health, School of Public Health, Peking 
+University; National Health Commission Key Laboratory of Reproductive Health, 
+Beijing 100191, China.
+(2)Heart Center and Shanghai Institute of Pediatric Congenital Heart Disease, 
+Shanghai Children's Medical Center, National Children's Medical Center, Shanghai 
+Jiaotong University School of Medicine, Shanghai 200127, China.
+
+BACKGROUND: Understanding the changing profiles of cardiovascular disease (CVD) 
+and modifiable risk factors is essential for CVD prevention and control. We 
+aimed to report the comprehensive trends in CVD and risk factors in China from 
+1990 to 2019.
+METHODS: Data on the incidence, death, and disability-adjusted life years 
+(DALYs) of total CVD and its 11 subtypes for China were obtained from the Global 
+Burden of Disease Study 2019. The CVD burden attributable to 12 risk factors was 
+also retrieved. A secondary analysis was conducted to summarize the leading 
+causes of CVD burden and attributable risk factors.
+RESULTS: From 1990 to 2019, the number of CVD incidence, death, and DALYs 
+considerably increased by 132.8%, 89.1%, and 52.6%, respectively. Stroke, 
+ischemic heart disease, and hypertensive heart disease accounted for over 95.0% 
+of CVD deaths in 2019 and remained the top three causes during the past 30 
+years. Between 1990 and 2019, the age-standardized rate of stroke decreased 
+significantly (percentage of decreased incidence: -9.3%; death: -39.8%; DALYs: 
+-41.6%), while the rate of ischemic heart disease increased (percentage of 
+increased incidence: 11.5%; death: 17.6%; DALYs: 2.2%). High systolic blood 
+pressure, unhealthy diet, tobacco, and air pollution continued to be the major 
+contributors to CVD deaths and DALYs (attributing to over 70% of the CVD 
+burden), and the high body mass index (BMI)-associated CVD burden had the 
+largest increase between 1990 and 2019.
+CONCLUSIONS: The significant increases in the number of CVD incident cases, 
+deaths, and DALYs suggest that the CVD burden is still a concern. Intensified 
+strategies and policies are needed to maintain promising progress in stroke and 
+to reduce the escalating burden of ischemic heart disease. The CVD burden 
+attributable to risk factors has not yet made adequate achievements; even worse, 
+high BMI has contributed to the increasing CVD burden.
+
+Copyright © 2023 The Chinese Medical Association, produced by Wolters Kluwer, 
+Inc. under the CC-BY-NC-ND license.
+
+DOI: 10.1097/CM9.0000000000002741
+PMCID: PMC10586832
+PMID: 37341657 [Indexed for MEDLINE]
+
+Conflict of interest statement: None.
+
+
+691. JAMA Psychiatry. 2023 Sep 1;80(9):886-894. doi: 
+10.1001/jamapsychiatry.2023.1566.
+
+Effectiveness of a Lifestyle Intervention for People With a Severe Mental 
+Illness in Dutch Outpatient Mental Health Care: A Randomized Clinical Trial.
+
+Walburg FS(1), van Meijel B(2)(3)(4), Hoekstra T(1), Kol J(1), Pape LM(1), de 
+Joode JW(1), van Tulder M(5), Adriaanse M(1).
+
+Author information:
+(1)Department Health Sciences, Vrije Universiteit Amsterdam, Amsterdam Public 
+Health Research Institute, Amsterdam, the Netherlands.
+(2)Inholland University of Applied Sciences, Department of Health, Sports and 
+Welfare, Mental Health Nursing Research Group, Amsterdam, the Netherlands.
+(3)Department of Psychiatry, Amsterdam Public Health Research Institute, 
+Amsterdam UMC (VUmc), Amsterdam, the Netherlands.
+(4)Parnassia Psychiatric Institute, Parnassia Academy, The Hague, the 
+Netherlands.
+(5)Department of Clinical, Neuro- and Developmental Psychology, Faculty of 
+Behavioral and Movement Sciences, Vrije Universiteit Amsterdam, Amsterdam, the 
+Netherlands.
+
+IMPORTANCE: People with a severe mental illness (SMI) have a life expectancy 
+reduced by 10 to 20 years compared with the general population, primarily 
+attributable to cardiometabolic disorders. Lifestyle interventions for people 
+with SMI can improve health and reduce cardiometabolic risk.
+OBJECTIVE: To evaluate the effectiveness of a group-based lifestyle intervention 
+among people with SMI in outpatient treatment settings compared with treatment 
+as usual (TAU).
+DESIGN, SETTING, AND PARTICIPANTS: The Severe Mental Illness Lifestyle 
+Evaluation (SMILE) study is a pragmatic cluster randomized clinical trial 
+performed in 8 mental health care centers with 21 flexible assertive community 
+treatment teams in the Netherlands. Inclusion criteria were SMI, age of 18 years 
+or older, and body mass index (calculated as weight in kilograms divided by 
+height in meters squared) of 27 or greater. Data were collected from January 
+2018 to February 2020, and data were analyzed from September 2020 to February 
+2023.
+INTERVENTIONS: Weekly 2-hour group sessions for 6 months followed by monthly 
+2-hour group sessions for another 6 months, delivered by trained mental health 
+care workers. The intervention targeted overall lifestyle changes, emphasizing 
+establishing a healthy diet and promoting physical activity. TAU (control) did 
+not include structured interventions or advice on lifestyle.
+MAIN OUTCOMES AND MEASURES: Crude and adjusted linear mixed models and 
+multivariable logistic regression analyses were performed. The main outcome was 
+body weight change. Secondary outcomes included changes in body mass index, 
+blood pressure, lipid profiles, fasting glucose level, quality of life, 
+self-management ability, and lifestyle behaviors (physical activity and health, 
+mental health, nutrition, and sleep).
+RESULTS: The study population included 11 lifestyle intervention teams (126 
+participants) and 10 TAU teams (98 participants). Of 224 included patients, 137 
+(61.2%) were female, and the mean (SD) age was 47.6 (11.1) years. From baseline 
+to 12 months, participants in the lifestyle intervention group lost 3.3 kg (95% 
+CI, -6.2 to -0.4) more than those in the control group. In the lifestyle 
+intervention group, people with high attendance rates lost more weight than 
+participants with medium and low rates (mean [SD] weight loss: high, -4.9 [8.1] 
+kg; medium, -0.2 [7.8] kg; low, 0.8 [8.3] kg). Only small or no changes were 
+found for secondary outcomes.
+CONCLUSIONS AND RELEVANCE: In this trial, the lifestyle intervention 
+significantly reduced weight from baseline to 12 months in overweight and obese 
+adults with SMI. Tailoring lifestyle interventions and increasing attendance 
+rates might be beneficial for people with SMI.
+TRIAL REGISTRATION: Netherlands Trial Register Identifier: NTR6837.
+
+DOI: 10.1001/jamapsychiatry.2023.1566
+PMCID: PMC10285675
+PMID: 37342055 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr van Tulder 
+has received grants from the Netherlands Organization for Health Research and 
+Development (ZonMw) during the conduct of the study. No other disclosures were 
+reported.
+
+
+692. JMIR Res Protoc. 2023 Jun 21;12:e44346. doi: 10.2196/44346.
+
+Prevention and Treatment of Social Anxiety Disorder in Adolescents: Protocol for 
+a Randomized Controlled Trial of the Online Guided Self-Help Intervention 
+SOPHIE.
+
+Walder N(1), Berger T(2), Schmidt SJ(1).
+
+Author information:
+(1)Division of Clinical Child and Adolescent Psychology, Institute of 
+Psychology, University of Bern, Bern, Switzerland.
+(2)Division of Clinical Psychology and Psychotherapy, Institute of Psychology, 
+University of Bern, Bern, Switzerland.
+
+BACKGROUND: Social anxiety symptoms are highly prevalent among adolescents and 
+are associated with poor quality of life and low psychosocial functioning. If 
+untreated, social anxiety often persists into adulthood and increases the risk 

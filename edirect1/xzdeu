@@ -1,0 +1,1000 @@
+
+Author information:
+(1)Direcció General de Salut Pública i Addiccions, Conselleria de Sanitat 
+Universal i Salut Pública, Avda/Cataluña, 21, 46020, Valencia, Spain. 
+perez_jorpan@gva.es.
+(2)Direcció General de Salut Pública i Addiccions, Conselleria de Sanitat 
+Universal i Salut Pública, Avda/Cataluña, 21, 46020, Valencia, Spain.
+(3)Departament d'Estadística i Investigació Operativa, Universitat de València, 
+C/Dr. Moliner, 50, 46100, Burjassot, Valencia, Spain.
+
+BACKGROUND: Most epidemiological risk indicators strongly depend on the age 
+composition of populations, which makes the direct comparison of raw 
+(unstandardized) indicators misleading because of the different age structures 
+of the spatial units of study. Age-standardized rates (ASR) are a common 
+solution for overcoming this confusing effect. The main drawback of ASRs is that 
+they depend on age-specific rates which, when working with small areas, are 
+often based on very few, or no, observed cases for most age groups. A similar 
+effect occurs with life expectancy at birth and many more epidemiological 
+indicators, which makes standardized mortality ratios (SMR) the omnipresent risk 
+indicator for small areas epidemiologic studies.
+METHODS: To deal with this issue, a multivariate smoothing model, the M-model, 
+is proposed in order to fit the age-specific probabilities of death (PoDs) for 
+each spatial unit, which assumes dependence between closer age groups and 
+spatial units. This age-space dependence structure enables information to be 
+transferred between neighboring consecutive age groups and neighboring areas, at 
+the same time, providing more reliable age-specific PoDs estimates.
+RESULTS: Three case studies are presented to illustrate the wide range of 
+applications that smoothed age specific PoDs have in practice . The first case 
+study shows the application of the model to a geographical study of lung cancer 
+mortality in women. This study illustrates the convenience of considering 
+age-space interactions in geographical studies and to explore the different 
+spatial risk patterns shown by the different age groups. Second, the model is 
+also applied to the study of ischaemic heart disease mortality in women in two 
+cities at the census tract level. Smoothed age-standardized rates are derived 
+and compared for the census tracts of both cities, illustrating some advantages 
+of this mortality indicator over traditional SMRs. In the latest case study, the 
+model is applied to estimate smoothed life expectancy (LE), which is the most 
+widely used synthetic indicator for characterizing overall mortality differences 
+when (not so small) spatial units are considered.
+CONCLUSION: Our age-space model is an appropriate and flexible proposal that 
+provides more reliable estimates of the probabilities of death, which allow the 
+calculation of enhanced epidemiological indicators (smoothed ASR, smoothed LE), 
+thus providing alternatives to traditional SMR-based studies of small areas.
+
+DOI: 10.1186/s12942-020-00251-z
+PMCID: PMC7716592
+PMID: 33276785 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+12. Sci Total Environ. 2021 Mar 1;758:143672. doi:
+10.1016/j.scitotenv.2020.143672.  Epub 2020 Nov 21.
+
+The what, how, why, and when of dendrochemistry: (paleo)environmental 
+information from the chemical analysis of tree rings.
+
+Binda G(1), Di Iorio A(2), Monticelli D(3).
+
+Author information:
+(1)Department of Science and High Technology, Università degli Studi 
+dell'Insubria, Via Valleggio, 12, 22100 Como, Italy.
+(2)Department of Biotechnology and Life Sciences, Università degli Studi 
+dell'Insubria, Via Jean Henry Dunant, 3, 21100 Varese, Italy.
+(3)Department of Science and High Technology, Università degli Studi 
+dell'Insubria, Via Valleggio, 12, 22100 Como, Italy. Electronic address: 
+damiano.monticelli@uninsubria.it.
+
+The chemical analysis of tree rings has attracted the interest of researchers in 
+the past five decades in view of the possibility of exploiting this biological 
+indicator as a widely available, high-resolution environmental archive. 
+Information regarding the surrounding environment can be derived either by 
+directly measuring environmental variables (nutrient availability, presence of 
+pollutants, etc.) or by exploiting proxies (e.g. paleoclimatic and 
+paleoenvironmental reconstructions). This review systematically covers the topic 
+and provides a critical view on the reliability of dendrochemical information. 
+First, we introduce the determinable chemical species, such as major elements, 
+trace metals, isotopic ratios, and organic compounds, together with a brief 
+description of their uptake mechanisms and functions in trees. Subsequently, we 
+present the possibilities offered by analytical techniques in the field of tree 
+ring analysis, focusing on direct methods and recent developments. The latter 
+strongly improved the details of the accessible information, enabling the 
+investigation of complex phenomena associated with plant life and encouraging 
+the direct analysis of new analytes, particularly minor organic compounds. With 
+regard to their applications, dendrochemical proxies have been used to trace 
+several processes, such as environmental contamination, paleoclimate 
+reconstruction, global environmental changes, tree physiology, extreme events, 
+ecological trends, and dendroprovenance. Several case studies are discussed for 
+each proposed application, with special emphasis on the reliability of tracing 
+each process. Starting from the reviewed literature data, the second part of the 
+paper is devoted to the critical assessment of the reliability of tree ring 
+proxies. We provide an overview of the current knowledge, discuss the 
+limitations of the inferences that may be drawn from the dendrochemical data, 
+and provide recommendations for the best practices to be used for their 
+validation. Finally, we present the future perspectives related to the 
+advancements in analytical instrumentation and further extension of application 
+fields.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2020.143672
+PMID: 33277003 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+13. Iran J Kidney Dis. 2020 Dec;14(6):463-469.
+
+Comparison Between eGFR by Schwartz Formula with Measured GFR by Radionuclide 
+Diethylenetriamine Pentaacetic Acid Scan (Tc99 DTPA scan), in Patients 
+Undergoing Chemotherapy with Nephrotoxic Drugs.
+
+Esmaeilnejad SS(1), Nazari S, Esfandiar N.
+
+Author information:
+(1)Pediatric Department of Shahid Beheshti University of Medical Sciences and 
+Health Services, Mofid Children Hospital, Tehran, Iran. 
+enshshaghayegh@gmail.com.
+
+INTRODUCTION: Children with malignancy who are under treatment with nephrotoxic 
+drugs are at risk of renal dysfunction. Due to increased life expectancy, 
+evaluation of drug toxicity is now of higher importance than before. The aim of 
+this study is to compare two methods of GFR measurement.
+METHODS: An analytical study on children with malignancy undergoing chemotherapy 
+with nephrotoxic drugs (cisplatin, carboplatin, cyclophosphamide, ifosfamind, 
+etoposide) during 2016 and 2017 in Mofid Children Hospital was done. Demographic 
+information, anthropometric measurements, type of malignancy, type of 
+chemotherapy medication and also lab tests including CBC and the biochemistry 
+indices were recorded. The GFR of each patient was calculated using Schwartz 
+formula and DTPA scanning. The rates were compared and the difference was 
+analyzed statistically.
+RESULTS: According to Schwartz formula, 24% of patients needed dose adjustment, 
+while based on DTPA scanning, this rate was 6%. Comparing these two measures by 
+paired T-test, showed a significant statistical difference (P < .05). Schwartz 
+formula had 25.5% more positive results of predicting the need for dose 
+adjustment. The two measured GFRs for each person were evaluated in terms of 
+compatibility and correlation based on Kappa statistical method, which were 
+incompatible and had significant difference (P < .05).
+CONCLUSION: Using evaluative methods including Schwartz formula cannot 
+demonstrate renal dysfunctions reliability in patients taking nephrotoxic 
+chemotherapy drugs. Eventually if the GFR measurement method overestimates 
+patients with renal dysfunction, the patients will not be able to make adequate 
+use of the therapeutic effects of chemotherapy with the appropriate dosage.
+
+PMID: 33277450 [Indexed for MEDLINE]
+
+
+14. Int J Clin Pract. 2021 Apr;75(4):e13882. doi: 10.1111/ijcp.13882. Epub 2020
+Dec  21.
+
+Drug use evaluation of cefepime at Khartoum North Teaching Hospital in Sudan.
+
+Obeid WMN(1), Abdoon IH(2), Osman B(2), Osman WJA(3), Suliman HM(2), Mohamed 
+EM(4), Mothana RAA(5).
+
+Author information:
+(1)Clinical Pharmacy Program, Faculty of Pharmacy, University of Khartoum, 
+Khartoum, Sudan.
+(2)Department of Pharmacology, Faculty of Pharmacy, University of Khartoum, 
+Khartoum, Sudan.
+(3)Department of Pharmacognosy, Faculty of Pharmacy, University of Khartoum, 
+Khartoum, Sudan.
+(4)Department of Agricultural Extension and Rural Development, Faculty of 
+Agriculture, University of Khartoum, Khartoum, Sudan.
+(5)Department of Pharmacognosy, College of Pharmacy, King Saud University, 
+Riyadh, Saudi Arabia.
+
+BACKGROUND: Cefepime is essentially used for life-threatening infections. 
+Although overutilisation of antibiotics is strongly discouraged around the 
+world, they are still overused in developing countries including Sudan.
+OBJECTIVES: This study aims to evaluate the rational use of cefepime at Khartoum 
+North Teaching Hospital-Sudan.
+METHODS: A retrospective cross-sectional, hospital-based study was conducted in 
+the internal medicine ward at Khartoum North Teaching Hospital from August/2018 
+to April/2019. The study covered medical records of adult patients receiving 
+cefepime during the study period. Patient's data were analysed using simple 
+descriptive statistics (frequency and percentage) and inferential statistics 
+(logistic regression) to describe the relationship between dependent and 
+independent variables. P ≤ .05 was considered statistically significant.
+RESULTS: Out of 90 patients, only 16.7% of patients were tested for antibiotic 
+sensitivity. Cefepime was prescribed to 50% and 23.3% of patients for the 
+treatment of UTIs/post-dialysis and sepsis, respectively. Although the majority 
+of patients (72.2%) received cefepime with appropriate indication, only 21.1% 
+and 15.6% received the drug with appropriate dose and duration, respectively. 
+Cefepime had been prescribed appropriately in a correct dose, duration, and 
+indications for only 7.8% of patients. The vast majority of patients tested for 
+kidney functions had elevated creatinine levels (96.1%); however, cefepime dose 
+had been adjusted for only 4.1% of them.
+CONCLUSION: This study highlighted the irrational use of cefepime regarding 
+inappropriate dose, duration, and inadequate antibiotic sensitivity tests. A 
+lack of attention to dosage adjustment in patients with renal impairment had 
+been observed. Positive clinical outcome was significantly associated with 
+antibiotic sensitivity test.
+
+© 2020 John Wiley & Sons Ltd.
+
+DOI: 10.1111/ijcp.13882
+PMID: 33277753 [Indexed for MEDLINE]
+
+
+15. Int J Infect Dis. 2021 Feb;103:176-181. doi: 10.1016/j.ijid.2020.11.193. Epub
+ 2020 Dec 2.
+
+The economic and health burdens of diseases caused by group A Streptococcus in 
+New Zealand.
+
+Cannon JW(1), Zhung J(2), Bennett J(3), Moreland NJ(4), Baker MG(2), Geelhoed 
+E(1), Fraser J(4), Carapetis JR(5), Jack S(6).
+
+Author information:
+(1)Telethon Kids Institute, University of Western Australia, Perth, Western 
+Australia.
+(2)Department of Public Health, University of Otago, Wellington, New Zealand.
+(3)Department of Public Health, University of Otago, Wellington, New Zealand. 
+Electronic address: julie.bennett@otago.ac.nz.
+(4)Department of Molecular Medicine and Pathology, University of Auckland, 
+Auckland, New Zealand.
+(5)Telethon Kids Institute, University of Western Australia, Perth, Western 
+Australia; Department of Infectious Diseases, Perth Children's Hospital, Perth, 
+Western Australia.
+(6)Department of Preventive and Social Medicine, University of Otago, Dunedin, 
+New Zealand; Southern District Health Board, Dunedin, New Zealand.
+
+OBJECTIVES: In preparation for the future arrival of a group A Streptococcus 
+(GAS) vaccine, this study estimated the economic and health burdens of GAS 
+diseases in New Zealand (NZ).
+METHODS: The annual incidence of GAS diseases was based on extrapolation of the 
+average number of primary healthcare episodes managed each year in general 
+practices (2014-2016) and on the average number of hospitalizations occurring 
+each year (2005-2014). Disease incidence was multiplied by the average cost of 
+diagnosing and managing an episode of disease at each level of care to estimate 
+the annual economic burden.
+RESULTS: GAS affected 1.5% of the population each year, resulting in an economic 
+burden of 29.2 million NZ dollars (2015 prices) and inflicting a health burden 
+of 2373 disability-adjusted life years (DALYs). Children <5 years of age were 
+the most likely age group to present for GAS-related healthcare. Presentations 
+for superficial throat and skin infections (predominantly pharyngitis and 
+impetigo) were more common than other GAS diseases. Cellulitis contributed the 
+most to the total economic and health burdens. Invasive and immune-mediated 
+diseases disproportionately contributed to the total economic and health burdens 
+relative to their frequency of occurrence.
+CONCLUSION: Preventing GAS diseases would have substantial economic and health 
+benefits in NZ and globally.
+
+Copyright © 2020 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.ijid.2020.11.193
+PMID: 33278622 [Indexed for MEDLINE]
+
+
+16. J Biomech. 2021 Jan 4;114:110144. doi: 10.1016/j.jbiomech.2020.110144. Epub
+2020  Nov 21.
+
+Rate of torque development scaled to maximum torque available is velocity 
+dependent.
+
+Tillin NA(1), Hessel AL(2), Ang SXT(3).
+
+Author information:
+(1)Department of Life Sciences, Roehampton University, London, UK. Electronic 
+address: Neale.Tillin@roehampton.ac.uk.
+(2)Institute of Physiology II, University of Muenster, DE, Germany.
+(3)Department of Life Sciences, Roehampton University, London, UK; National 
+Junior College, Singapore.
+
+The influence of angular velocity on rate of torque development (RTD) is 
+unknown, despite the inverse, curvilinear torque-velocity relationship for 
+angle- and velocity-specific maximum available torque (Tmax) being 
+well-established. This study investigated the relationship between angular 
+velocity and RTD scaled to Tmax. In 17 participants, tetanic contractions 
+(100-Hz) of the knee extensors were evoked as the knee was passively extended at 
+different iso-velocities between 0° s-1 and 200° s-1. Each condition consisted 
+of evoking 0.25-s contractions without pre-activation (for measuring RTD) 
+commencing as the knee passed 95° of extension, and 1.25-s contractions with 
+pre-activation (for measuring Tmax), commencing 1 s prior to the knee reaching 
+95°. Torque at 100 ms after torque onset (T100) and peak RTD (RTDpeak) in the 
+contractions without pre-activation were normalised to Tmax. The torque-velocity 
+relationship for T100 was flat in comparison to an inverse, curvilinear 
+relationship for Tmax, resulting in linear increases in normalised T100 and 
+RTDpeak with increased velocity. Results also showed normalised T100 and RTDpeak 
+were likely overestimated due to shortening-induced force depression (FD) which 
+would be greater in contractions with- than without- pre-activation. However, 
+these effects of FD cannot explain the faster normalised RTD with increased 
+velocity, as the relative difference in work done (a proxy for FD) between 
+contractions with and without pre-activation decreased - and thus the 
+overestimation of normalised RTD metrics likely decreased - with increased 
+velocity. In conclusion, RTD scaled to Tmax increases with increased velocity, 
+which appears to be an intrinsic contractile property independent of the effects 
+of force depression.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jbiomech.2020.110144
+PMID: 33278768 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+17. J Mov Disord. 2021 Jan;14(1):34-41. doi: 10.14802/jmd.20034. Epub 2020 Dec 7.
+
+The Queensland Parkinson's Project: An Overview of 20 Years of Mortality from 
+Parkinson's Disease.
+
+Poortvliet PC(1), Gluch A(1), Silburn PA(2), Mellick GD(1).
+
+Author information:
+(1)Griffith Institute for Drug Discovery, School of Environment and Science, 
+Griffith University, Brisbane, Australia.
+(2)Queensland Brain Institute, University of Queensland, Brisbane, Australia.
+
+OBJECTIVE: The consensus is that life expectancy for individuals with 
+Parkinson's disease (PD) is reduced, but estimations vary. We aimed to provide 
+an overview of 20 years of mortality and risk factor data from the Queensland 
+Parkinson's Project.
+METHODS: The analysis included 1,334 PD and 1,127 control participants. 
+Preliminary analysis of baseline characteristics (sex, age at onset, family 
+history, smoking status, pesticide exposure, depression and neurosurgery) was 
+conducted, and Kaplan-Meier curves were generated for each potential risk 
+factor. Standardized mortality ratios (SMRs) were calculated comparing this 
+cohort to the general Australian population. Cox proportional hazards regression 
+modeling was used to analyze potential predictors of mortality.
+RESULTS: In total, 625 (46.8%) PD and 237 (21.0%) control participants were 
+deceased. Mean disease duration until death was 15.3 ± 7.84 years. Average ages 
+at death were 78.0 ± 7.4 years and 80.4 ± 8.4 years for the deceased PD and 
+control participants, respectively. Mortality was significantly increased for PD 
+in general {SMR = 2.75 [95% confidence interval (CI): 2.53-2.96]; p = 0.001}. 
+SMRs were slightly higher for women and those with an age of onset before 60 
+years. Multivariate analysis showed that deep brain stimulation (DBS) treatment 
+was associated with lower mortality [hazard ratio (HR) = 0.76; 95% CI: 
+0.59-0.98], while occasional pesticide exposure increased mortality risk (HR = 
+1.48; 95% CI: 1.17-1.88). Family history of PD, smoking and depression were not 
+independent predictors of mortality.
+CONCLUSION: Mortality in PD is increased. Sex, age at onset and occasional 
+pesticide exposure were independent determinants of increased mortality, while 
+DBS treatment was associated with reduced mortality.
+
+DOI: 10.14802/jmd.20034
+PMCID: PMC7840238
+PMID: 33278869
+
+Conflict of interest statement: Conflicts of Interest The authors have no 
+financial conflicts of interest.
+
+
+18. Res Social Adm Pharm. 2021 Aug;17(8):1444-1452. doi: 
+10.1016/j.sapharm.2020.11.001. Epub 2020 Nov 4.
+
+Translation, cross-cultural adaptation, and validation of the Danish version of 
+the revised Patients' Attitudes Towards Deprescribing (rPATD) questionnaire: 
+Version for older people with limited life expectancy.
+
+Lundby C(1), Simonsen T(2), Ryg J(3), Søndergaard J(4), Pottegård A(5), 
+Lauridsen HH(6).
+
+Author information:
+(1)Hospital Pharmacy Funen, Odense University Hospital, Odense C, Denmark; OPEN, 
+Open Patient Data Explorative Network, Odense University Hospital, Odense C, 
+Denmark; Clinical Pharmacology, Pharmacy and Environmental Medicine, Department 
+of Public Health, University of Southern Denmark, Odense C, Denmark. Electronic 
+address: carina.lundby.olesen@rsyd.dk.
+(2)Hospital Pharmacy Funen, Odense University Hospital, Odense C, Denmark.
+(3)Department of Geriatric Medicine, Odense University Hospital, Odense C, 
+Denmark; Geriatric Research Unit, Department of Clinical Research, University of 
+Southern Denmark, Odense C, Denmark.
+(4)Research Unit of General Practice, Department of Public Health, University of 
+Southern Denmark, Odense C, Denmark.
+(5)Hospital Pharmacy Funen, Odense University Hospital, Odense C, Denmark; 
+Clinical Pharmacology, Pharmacy and Environmental Medicine, Department of Public 
+Health, University of Southern Denmark, Odense C, Denmark.
+(6)Research Unit of Clinical Biomechanics, Department of Sports Science and 
+Clinical Biomechanics, University of Southern Denmark, Odense M, Denmark.
+
+BACKGROUND: Knowledge about patients' attitudes towards deprescribing is 
+essential for optimizing medication use. The revised Patients' Attitudes Towards 
+Deprescribing (rPATD) questionnaire is a 22-item self-report instrument 
+capturing older patients' beliefs and attitudes towards deprescribing.
+OBJECTIVES: To translate and cross-culturally adapt the rPATD questionnaire into 
+Danish and subsequently validate it in a cohort of nursing home residents.
+METHODS: The rPATD questionnaire was translated and cross-culturally adapted 
+during five stages of forward and backward translation. The validation study 
+included 162 Danish nursing home residents (median age 84 years; 67% women). 
+Validity was assessed through exploratory factor analysis (structural validity) 
+and hypothesis testing (construct validity), while reliability was assessed 
+through internal consistency. Floor and ceiling effects were examined.
+RESULTS: The exploratory factor analysis revealed a 4-factor structure similar 
+to the original rPATD questionnaire, with items loading into four factors 
+related to level of involvement in medication use, perceived burden of taking 
+medication, belief in appropriateness of using medication, and concerns about 
+stopping medication. The questionnaire was adjusted to the Danish nursing home 
+population and health care system by omission of two items, concerning 
+medication expenses and inconvenience of taking medication, which resulted in a 
+model with factor loadings ranging from 0.29 to 0.84 and only minor 
+cross-loading. Construct validity correctly predicted 67% of the hypothesized 
+correlations. Internal consistency of all factors was generally acceptable with 
+Cronbach's α ranging from 0.67 to 0.78. No floor and ceiling effects were 
+identified.
+CONCLUSIONS: Results suggest that the Danish modified model of the rPATD 
+questionnaire generally has acceptable validity and reliability.
+
+Copyright © 2020. Published by Elsevier Inc.
+
+DOI: 10.1016/j.sapharm.2020.11.001
+PMID: 33279446 [Indexed for MEDLINE]
+
+
+19. Clin Gastroenterol Hepatol. 2022 Feb;20(2):409-418.e5. doi: 
+10.1016/j.cgh.2020.11.024. Epub 2020 Dec 3.
+
+Patterns of Alcohol Use After Early Liver Transplantation for Alcoholic 
+Hepatitis.
+
+Lee BP(1), Im GY(2), Rice JP(3), Lazar A(1), Weinberg E(4), Han H(5), Maddur 
+H(6), Ghobrial RM(7), Therapondos G(8), Hsu C(9), Fix OK(10), Eswaran S(11), 
+Shetty K(12), Chhatwal J(13), Dalgic OO(13), Jakhete N(12), Mobley C(7), Victor 
+DW(7), Mehta N(1), Dinges L(10), Rinella M(6), Schiano TD(2), Lucey MR(14), 
+Terrault N(15).
+
+Author information:
+(1)Department of Medicine, University of California, San Francisco, San 
+Francisco, California.
+(2)Icahn School of Medicine at Mount Sinai, New York, New York.
+(3)Department of Medicine, University of Wisconsin, Madison, Wisconsin. 
+Electronic address: Jrice@medicine.wisc.edu.
+(4)Perelman School of Medicine, University of Pennsylvania, Philadelphia, 
+Pennsylvania.
+(5)Keck School of Medicine, University of Southern California, Los Angeles, 
+California.
+(6)Feinberg School of Medicine, Northwestern University, Chicago, Illinois.
+(7)Weil Cornell College of Medicine, Sherrie and Alan Conover Center for Liver 
+Disease and Transplantation, Houston Methodist Hospital, Houston, Texas.
+(8)Ochsner Clinical School of Medicine, Ochsner Clinic, New Orleans, Louisiana.
+(9)Georgetown University School of Medicine, Washington, DC.
+(10)Swedish Organ Transplant and Liver Center, Swedish Medical Center, Seattle, 
+Washington.
+(11)Department of Medicine, Rush Medical Center, Chicago, Illinois.
+(12)Department of Medicine, Division of Gastroenterology and Hepatology, 
+University of Maryland School of Medicine, Baltimore, Maryland.
+(13)Institute of Technology Assessment, Liver Center and Gastrointestinal 
+Division, Massachusetts General Hospital, Boston, Massachusetts.
+(14)Department of Medicine, University of Wisconsin, Madison, Wisconsin.
+(15)Keck School of Medicine, University of Southern California, Los Angeles, 
+California. Electronic address: terrault@usc.edu.
+
+BACKGROUND & AIMS: Early liver transplantation (LT) for alcoholic hepatitis (AH) 
+is lifesaving but concerns regarding return to harmful alcohol use remain. We 
+sought to identify distinct patterns of alcohol use post-LT to inform pre-LT 
+candidate selection and post-LT addiction care.
+METHODS: Detailed post-LT alcohol use data was gathered retrospectively from 
+consecutive patients with severe AH at 11 ACCELERATE-AH sites from 2006-2018. 
+Latent class analysis identified longitudinal patterns of alcohol use post-LT. 
+Logistic and Cox regression evaluated associations between patterns of alcohol 
+use with pre-LT variables and post-LT survival. A microsimulation model 
+estimated the effect of selection criteria on overall outcomes.
+RESULTS: Of 153 LT recipients, 1-, 3-, and 5-year survival were 95%, 88% and 
+82%. Of 146 LT recipients surviving to home discharge, 4 distinct longitudinal 
+patterns of post-LT alcohol use were identified: Pattern 1 [abstinent](n = 103; 
+71%), pattern 2 [late/non-heavy](n = 9; 6.2%), pattern 3 [early/non-heavy](n = 
+22; 15%), pattern 4 [early/heavy](n = 12; 8.2%). One-year survival was similar 
+among the 4 patterns (100%), but patients with early post-LT alcohol use had 
+lower 5-year survival (62% and 53%) compared to abstinent and late/non-heavy 
+patterns (95% and 100%). Early alcohol use patterns were associated with younger 
+age, multiple prior rehabilitation attempts, and overt encephalopathy. In 
+simulation models, the pattern of post-LT alcohol use changed the average 
+life-expectancy after early LT for AH.
+CONCLUSIONS: A significant majority of LT recipients for AH maintain longer-term 
+abstinence, but there are distinct patterns of alcohol use associated with 
+higher risk of 3- and 5-year mortality. Pre-LT characteristics are associated 
+with post-LT alcohol use patterns and may inform candidate selection and post-LT 
+addiction care.
+
+Copyright © 2022 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cgh.2020.11.024
+PMID: 33279780 [Indexed for MEDLINE]
+
+
+20. J Surg Res. 2021 Mar;259:154-162. doi: 10.1016/j.jss.2020.11.038. Epub 2020
+Dec  3.
+
+Early Versus Delayed Pacemaker for Heart Block After Valve Surgery: A 
+Cost-Effectiveness Analysis.
+
+Beller JP(1), Tyerman Z(2), Mehaffey JH(2), Hawkins RB(2), Charles EJ(2), 
+Yarboro LT(2), Teman NR(2), Wancheck T(3), Ailawadi G(2), Mehta NK(4).
+
+Author information:
+(1)Division of Thoracic and Cardiovascular Surgery, Department of Surgery, 
+University of Virginia, Charlottesville, Virginia. Electronic address: 
+jbeller@virginia.edu.
+(2)Division of Thoracic and Cardiovascular Surgery, Department of Surgery, 
+University of Virginia, Charlottesville, Virginia.
+(3)Public Health Sciences, University of Virginia School of Medicine, 
+Charlottesville, Virginia.
+(4)Division of Cardiovascular Medicine, Department of Medicine, University of 
+Virginia, Charlottesville, Virginia.
+
+BACKGROUND: A significant percentage of patients who acutely develop high-grade 
+atrioventricular block after valve surgery will ultimately recover, yet the 
+ability to predict recovery is limited. The purpose of this analysis was to 
+evaluate the cost-effectiveness of two different management strategies for the 
+timing of permanent pacemaker implantation for new heart block after valve 
+surgery.
+METHODS: A cost-effectiveness model was developed using costs and probabilities 
+of short- and long-term complications of pacemaker placement, short-term 
+atrioventricular node recovery, intensive care unit stays, and long-term 
+follow-up. We aggregated the total expected cost and utility of each option over 
+a 20-y period. Quality-adjusted survival with a pacemaker was estimated from the 
+literature and institutional patient-reported outcomes. Primary decision 
+analysis was based on an expected recovery rate of 36.7% at 12 d with timing of 
+pacemaker implantation: early placement (5 d) versus watchful waiting for 12 d.
+RESULTS: A strategy of watchful waiting was more costly ($171,798 ± $45,695 
+versus $165,436 ± $52,923; P < 0.0001) but had a higher utility (9.05 ± 1.36 
+versus 8.55 ± 1.33 quality-adjusted life years; P < 0.0001) than an early 
+pacemaker implantation strategy. The incremental cost-effectiveness ratio of 
+watchful waiting was $12,724 per quality-adjusted life year. The results are 
+sensitive to differences in quality-adjusted survival and rates of recovery of 
+atrioventricular node function.
+CONCLUSIONS: Watchful waiting for pacemaker insertion is a cost-effective 
+management strategy compared with early placement for acute atrioventricular 
+block after valve surgery. Although this is cost-effective from a population 
+perspective, clinical risk scores predicting recovery will aid in personalized 
+decision-making.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jss.2020.11.038
+PMCID: PMC7897291
+PMID: 33279841 [Indexed for MEDLINE]
+
+
+21. Mol Psychiatry. 2021 Aug;26(8):4475-4485. doi: 10.1038/s41380-020-00968-0.
+Epub  2020 Dec 5.
+
+Genome-wide DNA methylation analysis of peripheral blood cells derived from 
+patients with first-episode schizophrenia in the Chinese Han population.
+
+Li M(#)(1), Li Y(#)(2), Qin H(3), Tubbs JD(4), Li M(5), Qiao C(1)(6), Lin J(1), 
+Li Q(1), Fan F(2), Gou M(2), Huang J(2), Tong J(2), Yang F(2), Tan Y(7), Yao 
+Y(8).
+
+Author information:
+(1)Department of Biostatistics and Computational Biology, School of Life 
+Sciences, Fudan University, Shanghai, 200438, PR China.
+(2)Peking University HuiLongGuan Clinical Medical School, Beijing HuiLongGuan 
+Hospital, Beijing, 100096, PR China.
+(3)Guangdong Provincial Key Laboratory of Malignant Tumor Epigenetics and Gene 
+Regulation, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, 
+510120, PR China.
+(4)Department of Psychiatry, The University of Hong Kong, Hong Kong, SAR, 
+999077, PR China.
+(5)Sinotech Genomics Ltd, Shanghai, 210000, PR China.
+(6)Human Phenome Institute, Fudan University, 825 Zhangheng Road, Shanghai, 
+201203, PR China.
+(7)Peking University HuiLongGuan Clinical Medical School, Beijing HuiLongGuan 
+Hospital, Beijing, 100096, PR China. yltan21@126.com.
+(8)Department of Biostatistics and Computational Biology, School of Life 
+Sciences, Fudan University, Shanghai, 200438, PR China. yin_yao@fudan.edu.cn.
+(#)Contributed equally
+
+Erratum in
+    Mol Psychiatry. 2021 Jan 4;:
+
+Schizophrenia is a severe neuropsychiatric disorder with core features including 
+hallucinations, delusions, and cognition deficits. Accumulating evidence has 
+implicated abnormal DNA methylation in the development of schizophrenia. 
+However, the mechanisms by which DNA methylation changes alter the risk for 
+schizophrenia remain largely unknown. We recently carried out a DNA methylome 
+study of peripheral blood samples from 469 first-episode patients with 
+schizophrenia and 476 age- and gender-matched healthy controls of Han Chinese 
+origin. Genomic DNA methylation patterns were quantified using an Illumina 
+Infinium Human MethylationEPIC BeadChip. We identified multiple differentially 
+methylated positions (DMPs) and regions between patients and controls. The most 
+significant DMPs were annotated to genes C17orf53, THAP1 and KCNQ4 (KV7.4), with 
+Bonferroni-adjusted P values of [Formula: see text], [Formula: see text], and 
+[Formula: see text], respectively. In particular, KCNQ4 encodes a voltage-gated 
+potassium channel of the KV7 family, which is linked to neuronal excitability. 
+The genes associated with top-ranked DMPs also included many genes involved in 
+nervous system development, such as LIMK2 and TMOD2. Gene ontology analysis of 
+the differentially methylated genes further identified strong enrichment of 
+neuronal networks, including neuron projection extension, axonogenesis and 
+neuron apoptotic process. Finally, we provided evidence that 
+schizophrenia-associated epigenetic alterations co-localize with genetic 
+susceptibility loci. By focusing on first-episode schizophrenia patients, our 
+investigation lends particularly strong support for an important role of DNA 
+methylation in schizophrenia pathogenesis unconfounded by the effects of 
+long-term antipsychotic medication or disease progression. The observed DNA 
+methylation aberrations in schizophrenia patients could potentially provide a 
+valuable resource for identifying diagnostic biomarkers and developing novel 
+therapeutic targets to benefit schizophrenia patients.
+
+© 2020. The Author(s), under exclusive licence to Springer Nature Limited.
+
+DOI: 10.1038/s41380-020-00968-0
+PMID: 33279932 [Indexed for MEDLINE]
+
+
+22. Adv Gerontol. 2020;33(3):600-606.
+
+[Clothing and footwear for the persons of elderly and senile age as the problem 
+of gerontological technologies.].
+
+[Article in Russian; Abstract available in Russian from the publisher]
+
+Volkova VM(1), Skirmont EI(1), Smirnova LM(1)(2), Klimasheva SB(1), Zimina 
+EL(1), Golubeva YB(1), Gorelova IK(1), Golovin MA(1)(3).
+
+Author information:
+(1)G.A.Albrecht Federal Scientific Center of Rehabilitation of the Disabled, 50 
+Bestuzhevskaya str., St. Petersburg 195067, Russian Federation, e-mail: 
+v.m.volkova@mail.ru.
+(2)V.I.Ulyanov (Lenin) Saint-Petersburg State Electrotechnical University 
+«LETI», 5 Professor Popov str., St. Petersburg 197376, Russian Federation.
+(3)Peter the Great Saint Petersburg Polytechnic University, 29 
+Polytechnicheskaya str., St. Petersburg 195251, Russian Federation.
+
+According to the World Health Organization, human life expectancy has increased 
+significantly around the world over the past century, but this process is 
+inevitably accompanied by aging. Therefore, persons who have reached the elderly 
+and senile age often become infirm, especially physically. As a result, such 
+people find it increasingly difficult to make movements related to self-service 
+and movement when using standard clothing and shoes. In a study of 55 patients 
+(from 60 to 87 years), conducted for the first time from the point of view of 
+medical and social rehabilitation, data were obtained that reveal the nature of 
+physical limitations of this group of people, which significantly complicate 
+them use of standard clothing and shoes. The main conclusion of the work is the 
+relevance of the development of medical and technical requirements for the 
+design and production of clothing and footwear specifically for the elderly and 
+senile taking into account their changed anthropometric parameters and their 
+characteristic functional limitations.
+
+Publisher: По данным ВОЗ, за последнее столетие продолжительность жизни человека 
+значительно увеличилась во всем мире, но этот процесс неизбежно сопровождается 
+старением. Поэтому лица, достигшие пожилого и старческого возраста, нередко 
+становятся немощными, особенно в физическом плане. В итоге, таким людям всё 
+труднее даются движения, связанные с самообслуживанием и передвижением, при 
+пользовании типовой одеждой и обувью. В процессе обследования 55 пациентов 60–87 
+лет, проведённого впервые с позиций медико-социальной реабилитации, получены 
+данные о характере ограничений физических возможностей этого контингента людей, 
+существенно осложняющих использование ими типовой одежды и обуви. Основной вывод 
+работы заключается в актуальности разработки медико-технических требований, 
+предъявляемых к проектированию и производству одежды и обуви специально для 
+данной категории людей с учетом их измененных антропометрических параметров и 
+характерных для них функциональных ограничений.
+
+PMID: 33280349 [Indexed for MEDLINE]
+
+
+23. Crit Rev Food Sci Nutr. 2022;62(9):2432-2459. doi: 
+10.1080/10408398.2020.1853038. Epub 2020 Dec 7.
+
+Edible films and coatings for shelf life extension of mango: a review.
+
+Tavassoli-Kafrani E(1), Gamage MV(2), Dumée LF(1), Kong L(1), Zhao S(1).
+
+Author information:
+(1)Geelong, Institute for Frontier Materials, Deakin University, Melbourne, 
+Victoria, Australia.
+(2)CSIRO Agriculture and Food Private, Werribee, VIC, Australia.
+
+Edible films and coatings are eco-friendly promising materials for preserving 
+the quality and extending the shelf life of fresh and minimally-processed 
+fruits. They can form protective layers around fruits, regulate their 
+respiration rates, and protect them from loss of water, tissue softening, 
+browning, and microbial contamination. Edible films and coatings have many 
+advantages over other post-harvest treatments. They can add commercial value to 
+fruits by enhancing their appearance, and act as carriers of functional 
+ingredients, such as antioxidants, antimicrobial agents and nutraceuticals. 
+Mango, a highly perishable tropical fruit, has a short post-harvest life, which 
+limits transport to distant markets. Application of edible films and coatings on 
+mango fruits is an effective method to preserve their quality and safety. This 
+paper provides an overview of desirable properties for films and coatings, and 
+recent development in different edible coatings for both fresh and 
+minimally-processed mango. The most popular edible coating materials, such as 
+chitosan, waxes, starch, gums, and cellulose used for mango are reviewed. The 
+commercialization of coating formulations and equipment used for application of 
+coatings are discussed. The environmental impacts, safety aspects, and the 
+challenges encountered are outlined. The opportunities to use other coating 
+materials, such as aloe-vera gel, microbial polysaccharides, and photosynthetic 
+microorganisms are also examined.
+
+DOI: 10.1080/10408398.2020.1853038
+PMID: 33280405 [Indexed for MEDLINE]
+
+
+24. Circ Cardiovasc Qual Outcomes. 2020 Dec;13(12):e007094. doi: 
+10.1161/CIRCOUTCOMES.120.007094. Epub 2020 Dec 7.
+
+Economic Evaluation of Catheter Ablation of Atrial Fibrillation in Patients with 
+Heart Failure With Reduced Ejection Fraction.
+
+Chew DS(1), Loring Z(1)(2), Anand J(3), Fudim M(1)(2), Lowenstern A(1)(2), Rymer 
+JA(1)(2), Weimer KED(4), Atwater BD(2), DeVore AD(1)(2), Exner DV(5), Noseworthy 
+PA(6), Yancy CW(7), Mark DB(1)(2), Piccini JP(1)(2).
+
+Author information:
+(1)Duke Clinical Research Institute, Duke University, Durham, NC (D.S.C., Z.L., 
+M.F., A.L., J.A.R., A.D.D., D.B.M., J.P.P.).
+(2)Division of Cardiology (Z.L., M.F., A.L., J.A.R., B.D.A., A.D.D., D.B.M., 
+J.P.P.), Duke University Medical Center, Durham, NC.
+(3)Division of Cardiovascular and Thoracic Surgery, Department of Surgery 
+(J.A.), Duke University Medical Center, Durham, NC.
+(4)Department of Pediatrics (K.E.D.W.), Duke University Medical Center, Durham, 
+NC.
+(5)Department of Cardiac Sciences, University of Calgary, Alberta, Canada 
+(D.V.E.).
+(6)Department of Cardiovascular Diseases, Mayo Clinic, Rochester, MN (P.A.N.).
+(7)Division of Cardiology, Northwestern University Feinberg School of Medicine, 
+Chicago, IL (C.W.Y.).
+
+BACKGROUND: Randomized clinical trials have demonstrated that catheter ablation 
+for atrial fibrillation in patients with heart failure with reduced ejection 
+fraction may improve survival and other cardiovascular outcomes.
+METHODS: We constructed a decision-analytic Markov model to estimate the costs 
+and benefits of catheter ablation and medical management in patients with 
+symptomatic heart failure with reduced ejection fraction (left ventricular 
+ejection fraction ≤35%) and atrial fibrillation over a lifetime horizon. 
+Evidence from the published literature informed the model inputs, including 
+clinical effectiveness data from meta-analyses. Probabilistic and deterministic 
+sensitivity analyses were performed. A 3% discount rate was applied to both 
+future costs and benefits. The primary outcome was the incremental 
+cost-effectiveness ratio assessed from the US health care sector perspective.
+RESULTS: Catheter ablation was associated with 6.47 (95% CI, 5.89-6.93) 
+quality-adjusted life years (QALYs) and a total cost of $105 657 (95% CI, 
+$55 311-$191 934; 2018 US dollars), compared with 5.30 (95% CI, 5.20-5.39) QALYs 
+and $63 040 (95% CI, $37 624-$102 260) for medical management. The incremental 
+cost-effectiveness ratio for catheter ablation compared with medical management 
+was $38 496 (95% CI, $5583-$117 510) per QALY gained. Model inputs with the 
+greatest variation on incremental cost-effectiveness ratio estimates were the 
+cost of ablation and the effect of catheter ablation on mortality reduction. 
+When assuming a more conservative estimate of the treatment effect of catheter 
+ablation on mortality (hazard ratio of 0.86), the estimated incremental 
+cost-effectiveness ratio was $74 403 per QALY gained. At a willingness-to-pay 
+threshold of $100 000 per QALY gained, atrial fibrillation ablation was found to 
+be economically favorable compared with medical management in 95% of 
+simulations.
+CONCLUSIONS: Catheter ablation in patients with heart failure with reduced 
+ejection fraction patients and atrial fibrillation may be considered 
+economically attractive at current benchmarks for societal willingness-to-pay in 
+the United States.
+
+DOI: 10.1161/CIRCOUTCOMES.120.007094
+PMCID: PMC7738404
+PMID: 33280436 [Indexed for MEDLINE]
+
+
+25. Biochemistry (Mosc). 2020 Nov;85(11):1319-1334. doi:
+10.1134/S0006297920110048.
+
+Engineering Artificial Biodiversity of Lantibiotics to Expand Chemical Space of 
+DNA-Encoded Antibiotics.
+
+Pipiya SO(1), Terekhov SS(1)(2), Mokrushina YA(1)(2), Knorre VD(1), Smirnov 
+IV(3)(2), Gabibov AG(1)(2).
+
+Author information:
+(1)Shemyakin and Ovchinnikov Institute of Bioorganic Chemistry, Russian Academy 
+of Sciences, Moscow, 117997, Russia.
+(2)Faculty of Chemistry, Lomonosov Moscow State University, Moscow, 119991, 
+Russia.
+(3)Shemyakin and Ovchinnikov Institute of Bioorganic Chemistry, Russian Academy 
+of Sciences, Moscow, 117997, Russia. smirnov@ibch.ru.
+
+The discovery of antibiotics was one of the fundamental stages in the 
+development of humanity, leading to a dramatic increase in the life expectancy 
+of millions of people all over the world. The uncontrolled use of antibiotics 
+resulted in the selection of resistant strains of bacteria, limiting the 
+effectiveness of antimicrobial therapy nowadays. Antimicrobial peptides (AMPs) 
+were considered promising candidates for next-generation antibiotics for a long 
+time. However, the practical application of AMPs is restricted by their low 
+therapeutic indices, impaired pharmacokinetics, and pharmacodynamics, which is 
+predetermined by their peptide structure. Nevertheless, the DNA-encoded nature 
+of AMPs enables creating broad repertoires of artificial biodiversity of 
+antibiotics, making them versatile templates for the directed evolution of 
+antibiotic activity. Lantibiotics are a unique class of AMPs with an expanded 
+chemical space. A variety of post-translational modifications, mechanisms of 
+action on bacterial membranes, and DNA-encoded nature make them a convenient 
+molecular template for creating highly representative libraries of antimicrobial 
+compounds. Isolation of new drug candidates from this synthetic biodiversity is 
+extremely attractive but requires high-throughput screening of antibiotic 
+activity. The combination of synthetic biology and ultrahigh-throughput 
+microfluidics allows implementing the concept of directed evolution of 
+lantibiotics for accelerated creation of new promising drug candidates.
+
+DOI: 10.1134/S0006297920110048
+PMID: 33280576 [Indexed for MEDLINE]
+
+
+26. Semin Nucl Med. 2021 Jul;51(4):357-363. doi:
+10.1053/j.semnuclmed.2020.11.002.  Epub 2020 Dec 4.
+
+Diagnosis and Image-guided Therapy of Cardiac Left Ventricular Assist Device 
+Infections.
+
+Chen W(1), Dilsizian V(2).
+
+Author information:
+(1)Department of Diagnostic Radiology and Nuclear Medicine, University of 
+Maryland School of Medicine, Baltimore, Maryland.
+(2)Department of Diagnostic Radiology and Nuclear Medicine, University of 
+Maryland School of Medicine, Baltimore, Maryland. Electronic address: 
+vdilsizian@umm.edu.
+
+Due to limited availability of donor hearts, more and more end stage heart 
+failure patients are dependent on left ventricular assist device (LVAD) as their 
+destination therapy rather than the original intended use as a bridge for heart 
+transplantation. While LVADs improve life expectancy in these patients, 
+infection emerges as one of the major adverse events. Early and accurate 
+localization of LVAD infection is critical, as it can significantly influence 
+clinical management decisions and ultimately impact patient outcome. Although 
+the International Society of Heart and Lung Transplantation has defined 3 
+categories for LVAD infection: (1) LVAD-specific infection, (2) LVAD-related 
+infection, and (3) non-LVAD infection, there is still lack of standardized 
+criteria for diagnosing these 3 types of LVAD infections. Morphologically based 
+imaging tools such as transesophageal echocardiogram and cardiac computed 
+tomography (CT) or CT angiogram have limited roles in diagnosing LVAD infections 
+due to their nonspecific findings, often affected by significant streaking and 
+beam hardening artifacts from the metal device. In contrast, 
+18F-fluorodeoxyglucose (FDG) Positron Emission Tomography (PET)/CT has 
+repeatedly shown a high sensitivity and specificity for LVAD infection 
+diagnosis, albeit in small number of subjects. Beyond its accuracy for detecting 
+infection, FDG PET/CT can predict clinical outcome based on the location of LVAD 
+infection. As a functional imaging tool, FDG PET/CT can demonstrate the extent 
+and severity of LVAD infection, as well as infectious embolism and potential 
+extra-cardiac source of infection, which are all critical for providing optimal 
+patient care, justifying its judicious and precise use in the workup of LVAD 
+infection.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.semnuclmed.2020.11.002
+PMID: 33280782 [Indexed for MEDLINE]
+
+
+27. Chemosphere. 2021 Feb;265:129118. doi: 10.1016/j.chemosphere.2020.129118.
+Epub  2020 Nov 26.
+
+Fitness cost of imidacloprid resistance in the cotton-staining bug, Dysdercus 
+koenigii.
+
+Saeed R(1), Abbas N(2), Hafez AM(3).
+
+Author information:
+(1)Entomology Section, Central Cotton Research Institute, Multan, 60000, 
+Pakistan.
+(2)Pesticides and Environmental Toxicology Laboratory, Department of Plant 
+Protection, College of Food and Agriculture Sciences, King Saud University, P.O. 
+Box 2460, Riyadh, 11451, Saudi Arabia. Electronic address: nnoor.c@ksu.edu.sa.
+(3)Pesticides and Environmental Toxicology Laboratory, Department of Plant 
+Protection, College of Food and Agriculture Sciences, King Saud University, P.O. 
+Box 2460, Riyadh, 11451, Saudi Arabia. Electronic address: hafez@ksu.edu.sa.
+
+Dysdercus koenigii, a serious cotton-staining insect pest in many countries, has 
+shown high resistance to imidacloprid, a systemic neonicotinoid insecticide used 
+to control sap-sucking pests. With the aim of creating an effective management 
+strategy, the biological traits of susceptible (SS) and imidacloprid-resistant 
+(Imida-RS) D. koenigii, as well as their reciprocal crosses (CR1 and CR2), were 
+investigated here using a life table established on age, stage, and two-sex 
+patterns. Compared with SS D. koenigii, Imida-RS and CR1 strains had lower 
+relative fitness (0.80 and 0.47, respectively) and fecundity (eggs per female); 
+prolonged egg duration and a prolonged adult preoviposition period; shorter 
+nymphal duration, male/female total longevity, and oviposition days, and a 
+shorter total preoviposition period. However, there were no differences among 
+strains in nymphal survival rates and female ratio. The CR2 D. koenigii had 
+similar relative fitness value (1.09), suggested no fitness cost in most of the 
+parameters. Demographic parameters, including net reproductive rate, were lower 
+in the Imida-RS strain than in SS and CR2 D. koenigii. Similarly, the Imida-RS 
+and CR1 strains had shorter generation time and doubling time, lower 
+reproductive value and life expectancy relative to the SS and CR2 D. koenigii. 
+In addition, age-specific fecundity was negatively affected in the CR1 strain 
+compared with the other strains. These findings could help facilitate the 
+development of rational D. koenigii control strategies.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.chemosphere.2020.129118
+PMID: 33280850 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+28. Vaccine. 2021 Jan 8;39(2):343-349. doi: 10.1016/j.vaccine.2020.11.053. Epub
+2020  Nov 24.
+
+A model for the incremental burden of invasive Haemophilus influenzae type b due 
+to a decline of childhood vaccination during the COVID-19 outbreak: A dynamic 
+transmission model in Japan.
+
+Kitano T(1), Aoki H(2).
+
+Author information:
+(1)Division of Infectious Diseases, Department of Pediatrics, The Hospital for 
+Sick Children, University of Toronto, 555 University Ave, Toronto, ON M5G 1X8, 
+Canada. Electronic address: taito.kitano@sickkids.ca.
+(2)Department of Neonatology, Kanagawa Children's Medical Center, 2-138-4 
+Mutsukawa, Minami-ku, Yokohama, Kanagawa 232-8555, Japan.
+
+BACKGROUND: The current coronavirus disease 2019 (COVID-19) outbreak has caused 
+a persistent decline in childhood vaccination coverage, including Haemophilus 
+influenzae type b (Hib) vaccine, in some countries. Our objective was to 
+evaluate the impact of decreased Hib vaccination due to COVID-19 on invasive Hib 
+disease burden in Japan.
+METHODS: Using a deterministic dynamic transmission model 
+(susceptible-carriage-infection-recovery model), the incidence rates of invasive 
+Hib disease in under 5 year olds in rapid vaccination recovery and persistent 
+vaccination declined scenarios were compared for the next 10 years after 2020. 
+The national Hib vaccination rate after the impact of COVID-19 reduced to 87% 
+and 73% in 2020 from approximately 97% each in 2013-2019 for primary and booster 
+doses.
+RESULTS: While the persistent decline scenarios revealed an increase in invasive 
+Hib disease incidence to 0.50/100,000 children under 5 years old, the incidence 
+of the rapid recovery scenario slightly increased with a consistent decline of 
+incidence after 2021. The shorter the duration of the decline in vaccination 
+rate was, the smaller the incremental disease burden observed in the model. 
+Compared to the rapid recovery scenario, the permanent decline scenario showed a 
+296.87 cumulative incremental quality-adjusted life years (QALY) loss for the 
+next 10 years.
+CONCLUSIONS: The persistent decline of Hib vaccination rate due to COVID-19 
+causes an incremental disease burden irrespective of the possible decline of Hib 
+transmission rate by COVID-19 mitigation measures. A rapid recovery of 
+vaccination coverage rate can prevent this possible incremental disease burden.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.vaccine.2020.11.053
+PMID: 33280853 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+29. Genet Med. 2021 Apr;23(4):758-766. doi: 10.1038/s41436-020-01038-0. Epub 2020
+ Dec 7.
+
+Health and economic outcomes of newborn screening for infantile-onset Pompe 
+disease.
+
+Richardson JS(1)(2), Kemper AR(3), Grosse SD(4), Lam WKK(5), Rose AM(6), Ahmad 
+A(7), Gebremariam A(6), Prosser LA(8)(9).
+
+Author information:
+(1)Department of Health Management and Policy, University of Michigan, Ann 
+Arbor, MI, USA.
+(2)RTI International, Research Triangle Park, NC, USA.
+(3)Division of Ambulatory Pediatrics, Nationwide Children's Hospital, Columbus, 
+OH, USA.
+(4)Centers for Disease Control and Prevention, Atlanta, GA, USA.
+(5)Duke Clinical & Translational Science Institute, School of Medicine, Duke 
+University, Durham, NC, USA.
+(6)Susan B. Meister Child Health Evaluation and Research (CHEAR) Center, 
+Department of Pediatrics, University of Michigan, Ann Arbor, MI, USA.
+(7)Division of Pediatric Genetics, Department of Pediatrics, University of 
+Michigan, Ann Arbor, MI, USA.
+(8)Department of Health Management and Policy, University of Michigan, Ann 
+Arbor, MI, USA. lisapros@umich.edu.
+(9)Susan B. Meister Child Health Evaluation and Research (CHEAR) Center, 
+Department of Pediatrics, University of Michigan, Ann Arbor, MI, USA. 
+lisapros@umich.edu.
+
+PURPOSE: To estimate health and economic outcomes associated with newborn 
+screening (NBS) for infantile-onset Pompe disease in the United States.
+METHODS: A decision analytic microsimulation model simulated health and economic 
+outcomes of a birth cohort of 4 million children in the United States. Universal 
+NBS and treatment was compared with clinical identification and treatment of 
+infantile-onset Pompe disease. Main outcomes were projected cases identified, 
+costs, quality-adjusted life-years (QALYs), and incremental cost-effectiveness 
+ratios (ICERs) over the life course.
+RESULTS: Universal NBS for Pompe disease and confirmatory testing was estimated 
+to cost an additional $26 million annually. Additional medication costs 
+associated with earlier treatment initiation were $181 million; however, $8 
+million in medical care costs for other services were averted due to delayed 
+disease progression. Infants with screened and treated infantile-onset Pompe 
+disease experienced an average lifetime increase of 11.66 QALYs compared with 
+clinical detection. The ICER was $379,000/QALY from a societal perspective 
+and $408,000/QALY from the health-care perspective. Results were sensitive to 
+the cost of enzyme replacement therapy.
+CONCLUSION: Newborn screening for Pompe disease results in substantial health 
+gains for individuals with infantile-onset Pompe disease, but with additional 
+costs.
+
+DOI: 10.1038/s41436-020-01038-0
+PMCID: PMC8035228
+PMID: 33281187 [Indexed for MEDLINE]
+
+Conflict of interest statement: COMPETING INTERESTS The authors declare no 
+competing interests.
+
+
+30. Front Microbiol. 2020 Nov 17;11:573056. doi: 10.3389/fmicb.2020.573056. 

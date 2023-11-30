@@ -1,0 +1,1000 @@
+(#)Contributed equally
+
+Adverse childhood experiences (ACEs) can harm mental health across the lifespan 
+and reduce life expectancy. We provide a commentary of evidence on the health 
+impacts, and how creative arts and digital interventions may support prevention 
+and recovery.
+
+DOI: 10.1038/s41467-022-35466-0
+PMCID: PMC9772595
+PMID: 36550111 [Indexed for MEDLINE]
+
+Conflict of interest statement: K.B. is P.I.; A.M.-W. and S.S. are 
+co-investigators on the ATTUNE project. The authors declare no further competing 
+interests.
+
+
+304. J Endocrinol Invest. 2023 Jun;46(6):1219-1232. doi:
+10.1007/s40618-022-01993-2.  Epub 2022 Dec 22.
+
+Clinical and oncological outcomes in single-stage versus staged surgery for 
+pediatric craniopharyngiomas: a multicenter retrospective study.
+
+Agresta G(1)(2), Campione A(3)(4), Veiceschi P(#)(3)(4), Gallo D(#)(5), Agosti 
+E(3)(4), Massimi L(6), Piatelli G(7), Consales A(7), Linsler S(8), Oertel J(8), 
+Pozzi F(3)(4), Tanda ML(#)(5), Castelnuovo P(#)(4)(9), Locatelli D(#)(3)(4).
+
+Author information:
+(1)Division of Neurosurgery, Department of Biotechnology and Life Sciences, 
+University of Insubria, ASST Sette Laghi, Luigi Borri, 57, 21100, Varese, Italy. 
+gianluca.agresta9@gmail.com.
+(2)Head and Neck Surgery and Forensic Dissection Research Center, University of 
+Insubria, Luigi Borri, 57, 21100, Varese, Italy. gianluca.agresta9@gmail.com.
+(3)Division of Neurosurgery, Department of Biotechnology and Life Sciences, 
+University of Insubria, ASST Sette Laghi, Luigi Borri, 57, 21100, Varese, Italy.
+(4)Head and Neck Surgery and Forensic Dissection Research Center, University of 
+Insubria, Luigi Borri, 57, 21100, Varese, Italy.
+(5)Endocrinology Unit, Department of Medicine and Surgery, ASST Sette Laghi, 
+University of Insubria, Varese, Italy.
+(6)Pediatric Neurosurgery Unit, Institute of Neurosurgery, Catholic University 
+Medical School, Rome, Italy.
+(7)Division of Neurosurgery, IRCCS Istituto Giannina Gaslini, Genoa, Italy.
+(8)Klinik für Neurochirurgie, Universitätsklinikum des Saarlandes, Homburg, 
+Germany.
+(9)Division of Otorhinolaryngology, Department of Biotechnology and Life 
+Sciences, University of Insubria, ASST Sette Laghi, Varese, Italy.
+(#)Contributed equally
+
+PURPOSE: Craniopharyngiomas (CPGs) are aggressive brain tumors responsible of 
+severe morbidity in children. The best treatment strategies are under debate. 
+Our study evaluates surgical, pituitary, and hypothalamic outcomes of a tailored 
+staged-surgical approach compared to a single-stage radical approach in children 
+with CPGs.
+METHODS: Multicenter retrospective study enrolling 96 children treated for CPGs 
+in the period 2010-2022. The surgical management was selected after a 
+multidisciplinary evaluation. Primary endpoint includes the inter-group 
+comparison of preservation/improvement of hypothalamic-pituitary function, the 
+extent of resection, and progression-free survival (PFS). Secondary endpoints 
+include overall survival (OS), morbidity, and quality of life (QoL).
+RESULTS: Gross Total Resection (GTR) was reached in 46.1% of cases in the 
+single-stage surgery group (82 patients, age at surgery 9 ± 4.7 years) and 33.3% 
+after the last operation in the staged surgery group (14 patients age 
+7.64 ± 4.57 years at first surgery and 9.36 ± 4.7 years at the last surgery). 
+The PFS was significantly higher in patients addressed to staged- compared to 
+single-stage surgery (93.75% vs 70.7% at 5 years, respectively, p = 0.03). The 
+recurrence rate was slightly higher in the single-stage surgery group. No 
+significant differences emerged in the endocrinological, visual, hypothalamic 
+outcome, OS, and QoL comparing the two groups.
+CONCLUSIONS: In pediatric CPGs' surgical radicality and timing of intervention 
+should be tailored considering both anatomical extension and 
+hypothalamic-pituitary function. In selected patients, a staged approach offers 
+a safer and more effective disease control, preserving psychophysical 
+development.
+
+© 2022. The Author(s), under exclusive licence to Italian Society of 
+Endocrinology (SIE).
+
+DOI: 10.1007/s40618-022-01993-2
+PMID: 36550264 [Indexed for MEDLINE]
+
+
+305. Interdiscip Sci. 2023 Mar;15(1):131-145. doi: 10.1007/s12539-022-00546-8.
+Epub  2022 Dec 23.
+
+Towards Effective Consensus Scoring in Structure-Based Virtual Screening.
+
+Nhat Phuong D(1), Flower DR(2), Chattopadhyay S(3), Chattopadhyay AK(4).
+
+Author information:
+(1)Department of Mathematics, College of Engineering and Physical Sciences, 
+Aston University, Birmingham, B4 7ET, UK.
+(2)Life and Health Sciences, Aston University, Birmingham, B4 7ET, UK.
+(3)Acculi Labs Pvt. Ltd., Bangalore, Karnataka, 560098, India.
+(4)Department of Mathematics, College of Engineering and Physical Sciences, 
+Aston University, Birmingham, B4 7ET, UK. a.k.chattopadhyay@aston.ac.uk.
+
+Virtual screening (VS) is a computational strategy that uses in silico automated 
+protein docking inter alia to rank potential ligands, or by extension rank 
+protein-ligand pairs, identifying potential drug candidates. Most docking 
+methods use preferred sets of physicochemical descriptors (PCDs) to model the 
+interactions between host and guest molecules. Thus, conventional VS is often 
+data-specific, method-dependent and with demonstrably differing utility in 
+identifying candidate drugs. This study proposes four universality classes of 
+novel consensus scoring (CS) algorithms that combine docking scores, derived 
+from ten docking programs (ADFR, DOCK, Gemdock, Ledock, PLANTS, PSOVina, 
+QuickVina2, Smina, Autodock Vina and VinaXB), using decoys from the DUD-E 
+repository ( http://dude.docking.org/ ) against 29 MRSA-oriented targets to 
+create a general VS formulation that can identify active ligands for any 
+suitable protein target. Our results demonstrate that CS provides improved 
+ligand-protein docking fidelity when compared to individual docking platforms. 
+This approach requires only a small number of docking combinations and can serve 
+as a viable and parsimonious alternative to more computationally expensive 
+docking approaches. Predictions from our CS algorithm are compared against 
+independent machine learning evaluations using the same docking data, 
+complementing the CS outcomes. Our method is a reliable approach for identifying 
+protein targets and high-affinity ligands that can be tested as high-probability 
+candidates for drug repositioning.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s12539-022-00546-8
+PMCID: PMC9941253
+PMID: 36550341 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors declare that they have no conflict 
+of interest.
+
+
+306. BMC Psychiatry. 2022 Dec 22;22(1):821. doi: 10.1186/s12888-022-04472-3.
+
+Exploring risk factors for re-hospitalization in a psychiatric inpatient 
+setting: a retrospective naturalistic study.
+
+Berardelli I(1), Sarubbi S(2), Rogante E(2), Erbuto D(3), Cifrodelli M(4), 
+Giuliani C(4), Calabrò G(3), Lester D(5), Innamorati M(6), Pompili M(3).
+
+Author information:
+(1)Department of Neurosciences, Faculty of Medicine and Psychology, Suicide 
+Prevention Centre, Mental Health and Sensory Organs, Sant'Andrea Hospital, 
+Sapienza University of Rome, Via Di Grottarossa, 1035, 00189, Rome, Italy. 
+isabella.berardelli@uniroma1.it.
+(2)Department of Human Neurosciences, Sapienza University of Rome, Viale 
+Dell'Università, 30, 00185, Rome, Italy.
+(3)Department of Neurosciences, Faculty of Medicine and Psychology, Suicide 
+Prevention Centre, Mental Health and Sensory Organs, Sant'Andrea Hospital, 
+Sapienza University of Rome, Via Di Grottarossa, 1035, 00189, Rome, Italy.
+(4)Psychiatry Residency Training Program, Faculty of Medicine and Psychology, 
+Sapienza University of Rome, Sant'Andrea Hospital, Psychiatry Unit, Via Di 
+Grottarossa, 1035, 00189, Rome, Italy.
+(5)Psychology Program, Stockton University, Galloway, NJ, USA.
+(6)Department of Human Sciences, European University of Rome, Via Degli 
+Aldobrandeschi 190, 00163, Rome, Italy.
+
+BACKGROUND: The reduction of multiple psychiatric hospitalizations is an 
+important clinical challenge in mental health care. In fact, psychiatric 
+re-hospitalization negatively affects the quality of life and the life 
+expectancy of patients with psychiatric disorders. For these reasons, 
+identifying predictors of re-hospitalization is important for better managing 
+psychiatric patients. The first purpose of the present study was to examine the 
+readmission rate in a large sample of inpatients with a psychiatric disorder. 
+Second, we investigated the role of several demographical and clinical features 
+impacting re-hospitalization.  METHOD: This retrospective study enrolled 1001 
+adult inpatients (510 men and 491 women) consecutively admitted to the 
+University Psychiatric Clinic, Sant'Andrea Hospital, Sapienza University of Rome 
+between January 2018 and January 2022. To identify risk factors for psychiatric 
+re-hospitalization, we divided the sample into 3 subgroups: the Zero-Re group 
+which had no readmission after the index hospitalization, the One-Re group with 
+patients re-admitted only once, and the Two-Re with at least two re-admissions.  
+RESULTS: The groups differed according to previous hospitalizations, a history 
+of suicide attempts, age at onset, and length of stay. Furthermore, the results 
+of the regression model demonstrated that the Two-Re group was more likely to 
+have a history of suicide attempts and previous hospitalizations.
+DISCUSSION: These results indicate the importance of assessing risk factors in 
+psychiatric hospitalized patients and implementing ad hoc prevention strategies 
+for reducing subsequent re-hospitalizations.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12888-022-04472-3
+PMCID: PMC9783999
+PMID: 36550540 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+307. J Nepal Health Res Counc. 2022 Nov 3;20(2):546-549. doi: 
+10.33314/jnhrc.v20i02.4211.
+
+Addressing Men's Health Needs in Nepal: An Ignored Public and Clinical Health 
+Concern.
+
+Puri MC(1), Gautam P(1), Baker P(2), Bhadra R(3).
+
+Author information:
+(1)Center for Research on Environment, Health and Population Activities 
+(CREHPA), Kusunti, Lalitpur, Nepal.
+(2)Global Action on Mens Health, UK.
+(3)Health and Development Solutions, Kathmandu, Nepal.
+
+Despite men's poorer outcomes than women in many health issues such as life 
+expectancy, ischemic heart disease, hypertension, diabetes, HIV/AIDS, 
+traffic-related injuries, drug and alcohol abuse, etc, Nepal's health care 
+strategy does not have an adequately focused program to address men's health 
+needs. This comment aims to illustrate the differences in selected health 
+indicators between men and women and suggest Nepal's health sector strategy 
+2022-2030 should address to advance men's health needs. Keywords: Health policy; 
+men's health; Nepal.
+
+DOI: 10.33314/jnhrc.v20i02.4211
+PMID: 36550742 [Indexed for MEDLINE]
+
+
+308. Biomolecules. 2022 Dec 2;12(12):1808. doi: 10.3390/biom12121808.
+
+Different Extracellular β-Amyloid (1-42) Aggregates Differentially Impair Neural 
+Cell Adhesion and Neurite Outgrowth through Differential Induction of Scaffold 
+Palladin.
+
+Zhang T(1), Song C(1), Li H(1), Zheng Y(2), Zhang Y(1)(2).
+
+Author information:
+(1)Key Laboratory for Molecular Enzymology and Engineering of the Ministry of 
+Education, Jilin University, Changchun 130012, China.
+(2)School of Life Science, Jilin University, Changchun 130012, China.
+
+Extracellular amyloid β-protein (1-42) (Aβ42) aggregates have been recognized as 
+toxic agents for neural cells in vivo and in vitro. The aim of this study was to 
+investigate the cytotoxic effects of extracellular Aβ42 aggregates in soluble 
+(or suspended, SAβ42) and deposited (or attached, DAβ42) forms on cell 
+adhesion/re-adhesion, neurite outgrowth, and intracellular scaffold palladin 
+using the neural cell lines SH-SY5Y and HT22, and to elucidate the potential 
+relevance of these effects. The effect of extracellular Aβ42 on neural cell 
+adhesion was directly associated with their neurotrophic or neurotoxic activity, 
+with SAβ42 aggregates reducing cell adhesion and associated live cell 
+de-adherence more than DAβ42 aggregates, while causing higher mortality. The 
+reduction in cell adhesion due to extracellular Aβ42 aggregates was accompanied 
+by the impairment of neurite outgrowth, both in length and number, and 
+similarly, SAβ42 aggregates impaired the extension of neurites more severely 
+than DAβ42 aggregates. Further, the disparate changes of intracellular palladin 
+induced by SAβ42 and DAβ42 aggregates, respectively, might underlie their 
+aforementioned effects on target cells. Further, the use of anti-oligomeric Aβ42 
+scFv antibodies revealed that extracellular Aβ42 aggregates, especially large 
+DAβ42 aggregates, had some independent detrimental effects, including physical 
+barrier effects on neural cell adhesion and neuritogenesis in addition to their 
+neurotoxicity, which might be caused by the rigid C-terminal clusters formed 
+between adjacent Aβ42 chains in Aβ42 aggregates. Our findings, concerning how 
+scaffold palladin responds to extracellular Aβ42 aggregates, and is closely 
+connected with declines in cell adhesion and neurite outgrowth, provide new 
+insights into the cytotoxicity of extracellular Aβ42 aggregates in Alzheimer 
+disease.
+
+DOI: 10.3390/biom12121808
+PMCID: PMC9775237
+PMID: 36551236 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+309. Biomolecules. 2022 Dec 13;12(12):1867. doi: 10.3390/biom12121867.
+
+Chronic Bedridden Condition Is Reflected by Substantial Changes in Plasma 
+Inflammatory Profile.
+
+Magliozzi R(1), Pedrinolla A(2), Rossi S(3), Stabile AM(4), Danese E(5), Lippi 
+G(5), Schena F(6), Calabrese M(1), Venturelli MV(6)(7).
+
+Author information:
+(1)Department of Neurological and Movement Sciences, Neurology Section, 
+University of Verona, 37100 Verona, Italy.
+(2)Department of Cellular, Computational, and Integrative Biology, CIBIO, 
+University of Trento, 38123 Trento, Italy.
+(3)Department of Oncology and Molecular Medicine, Istituto Superiore di Sanità, 
+00161 Rome, Italy.
+(4)Department of Surgery and Biomedical Sciences, Section of Human Anatomy, 
+Clinical and Forensic, School of Medicine, 06132 Perugia, Italy.
+(5)Department of Life and Reproduction Sciences, Laboratory of Clinical 
+Biochemistry, University of Verona, 37134 Verona, Italy.
+(6)Department of Neuroscience, Biomedicine, and Movement Science, Movement 
+Science Section, University of Verona, 37131 Verona, Italy.
+(7)Department of Internal Medicine, University of Utah, Salt Lake City, UT 
+84132, USA.
+
+Absent or reduced physical activity and spontaneous movement over days, weeks, 
+or even years may lead to problems in almost every major organ/system in the 
+human body. In this study, we investigated whether the dysregulation and 
+alteration of plasma protein inflammatory profiling can stratify chronic 
+bedridden conditions observed in 22 elderly chronic bedridden (CBR) individuals 
+with respect to 11 age-matched active (OLD) controls. By using a combination of 
+immune-assay multiplex techniques, a complex of 27 inflammatory mediators was 
+assessed in the plasma collected from the two groups. A specific plasma protein 
+signature is indeed able to distinguish IPO individuals from age-matched OLD 
+controls; while significantly (p < 0.001) higher protein levels of IL-2, IL-7, 
+and IL-12p70 were measured in the plasma of CBR with respect to OLD individuals, 
+significantly (p < 0.01) higher levels of seven inflammatory mediators, 
+including IL-9, PDGF-b, CCL4 (MIP-1b), CCL5 (RANTES), IL-1Ra, CXCL10 (IP10), and 
+CCL2 (MCP-1), were identified in OLD individuals with respect to CBR 
+individuals. These data suggest that the chronic absence of physical activity 
+may contribute to the dysregulation of a complex molecular pattern occurring 
+with ageing and that specific plasma protein signatures may represent potential 
+biomarkers as well as new potential therapeutic targets for new treatments aimed 
+at improving health expectancy.
+
+DOI: 10.3390/biom12121867
+PMCID: PMC9775060
+PMID: 36551295 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+310. Cancers (Basel). 2022 Dec 13;14(24):6150. doi: 10.3390/cancers14246150.
+
+Repurposing of Commercially Existing Molecular Target Therapies to Boost the 
+Clinical Efficacy of Immune Checkpoint Blockade.
+
+Sinha D(1), Moseley P(1), Lu X(1), Wright Q(1), Gabrielli B(2), Frazer IH(1), 
+Cruz JLG(1).
+
+Author information:
+(1)Faculty of Medicine, Frazer Institute, The University of Queensland, 
+Brisbane, QLD 4102, Australia.
+(2)Mater Research Institute, The University of Queensland, Brisbane, QLD 4102, 
+Australia.
+
+Immune checkpoint blockade (ICB) is now standard of care for several metastatic 
+epithelial cancers and prolongs life expectancy for a significant fraction of 
+patients. A hostile tumor microenvironment (TME) induced by intrinsic oncogenic 
+signaling induces an immunosuppressive niche that protects the tumor cells, 
+limiting the durability and efficacy of ICB therapies. Addition of receptor 
+tyrosine kinase inhibitors (RTKi) as potential modulators of an unfavorable 
+local immune environment has resulted in moderate life expectancy improvement. 
+Though the combination strategy of ICB and RTKi has shown significantly better 
+results compared to individual treatment, the benefits and adverse events are 
+additive whereas synergy of benefit would be preferable. There is therefore a 
+need to investigate the potential of inhibitors other than RTKs to reduce 
+malignant cell survival while enhancing anti-tumor immunity. In the last five 
+years, preclinical studies have focused on using small molecule inhibitors 
+targeting cell cycle and DNA damage regulators such as CDK4/6, CHK1 and poly ADP 
+ribosyl polymerase (PARP) to selectively kill tumor cells and enhance cytotoxic 
+immune responses. This review provides a comprehensive overview of the available 
+drugs that attenuate immunosuppression and overcome hostile TME that could be 
+used to boost FDA-approved ICB efficacy in the near future.
+
+DOI: 10.3390/cancers14246150
+PMCID: PMC9776741
+PMID: 36551637
+
+Conflict of interest statement: The funders had no role in the writing of the 
+manuscript.
+
+
+311. Cancers (Basel). 2022 Dec 17;14(24):6229. doi: 10.3390/cancers14246229.
+
+Utility of the Age Discrepancy between Frailty-Based Biological Age and Expected 
+Life Age in Patients with Urological Cancers.
+
+Togashi K(1), Hatakeyama S(1), Soma O(1), Okita K(1), Fujita N(1), Tanaka T(2), 
+Noro D(3), Horiguchi H(1), Uemura N(4), Iwane T(5), Okamoto T(1), Yamamoto H(1), 
+Yoneyama T(6), Hashimoto Y(1), Ohyama C(1).
+
+Author information:
+(1)Department of Urology, Hirosaki University Graduate School of Medicine, 
+Hirosaki 036-8562, Japan.
+(2)Department of Urology, Aomori Prefectural Central Hospital, Aomori 030-8553, 
+Japan.
+(3)Department of Urology, Mutsu General Hospital, Mutsu 035-8601, Japan.
+(4)Department of Innovation Center for Health Promotion, Hirosaki University 
+Graduate School of Medicine, Hirosaki 036-8562, Japan.
+(5)Research Institute of Health Innovation, Hirosaki University Graduate School 
+of Medicine, Hirosaki 036-8562, Japan.
+(6)Department of Advanced Transplant and Regenerative Medicine, Hirosaki 
+University Graduate School of Medicine, Hirosaki 036-8562, Japan.
+
+Background: The estimation of biological age is challenging in patients with 
+cancers. We aimed to investigate frailty-based biological ages using 
+frailty-discriminant scores (FDS) and examined the effect of biological-expected 
+life age discrepancy on the prognosis of patients with urological cancers. 
+Methods: We retrospectively evaluated frailty in 1035 patients having urological 
+cancers. Their frailty-based biological age was then defined by the FDS, which 
+is a comprehensive frailty assessment tool, using 1790 noncancer individuals as 
+controls. An expected life age (=chronological age + life expectancy) was 
+subsequently calculated using the 2019 life expectancy table. The primary 
+outcome was the estimation of the biological-expected life age discrepancy 
+between the frailty-based biological age and expected life age in patients with 
+urological cancers. Secondary outcomes were the evaluation of the effect of the 
+biological-expected life age discrepancy on overall survival. Results: We 
+included 405, 466, and 164 patients diagnosed with prostate cancer, urothelial 
+carcinoma, and renal cell carcinoma, respectively. The median chronological age, 
+life expectancy, and estimated frailty-based biological age were 71, 17, and 83 
+years, respectively. The biological-expected life age discrepancy in any 
+urological cancers, localized diseases, and metastatic diseases was −4.8, −6.3, 
+and +0.15 years, respectively. The biological-expected life age discrepancy of 
+>5 years was significantly associated with poor overall survival. Conclusions: 
+The biological-expected life age discrepancy between frailty-based biological 
+age and expected life age may be helpful in understanding the role of frailty 
+and patient/doctor conversation.
+
+DOI: 10.3390/cancers14246229
+PMCID: PMC9776733
+PMID: 36551713
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+312. Biomedicines. 2022 Dec 9;10(12):3201. doi: 10.3390/biomedicines10123201.
+
+Case Report of Myelodysplastic Syndrome in a Sickle-Cell Disease Patient Treated 
+with Hydroxyurea and Literature Review.
+
+Flevari P(1), Voskaridou E(1), Galactéros F(2), Cannas G(3), Loko G(4), Joseph 
+L(5), Bartolucci P(2), Gellen-Dautremer J(2), Bernit E(6), Charneau C(6), Habibi 
+A(2).
+
+Author information:
+(1)Centre of Excellence in Rare Hematological Disease-Hemoglobinopathies, Laiko 
+General Hospital, 11527 Athens, Greece.
+(2)Sickle Cell Referral Center, Department of Internal Medicine, Henri-Mondor 
+University Hospital, APHP, U-PEC, 94000 Créteil, France.
+(3)Hospices Civils de Lyon, Edouard-Herriot Hospital, Internal Medicine, 
+Reference Centre for Sickle-Cell Disease, Thalassemia and Other Red Blood Cell 
+Disorders, 69003 Lyon, France.
+(4)Martinique Hospital, 97212 Martinique, France.
+(5)Biotherapy Department, Necker Children's Hospital, Assistance 
+Publique-Hôpitaux de Paris, 75610 Paris, France.
+(6)Antilles-Guyane Reference Centre for Sickle-Cell Disease, Thalassemia and 
+Other Red Blood Cell Disorders, Pointe à Pitre, 97157 Guadeloupe, France.
+
+The safety profile of hydroxyurea (HU) in patients with sickle-cell disease 
+(SCD) is relatively well known. However, despite the suspected association of HU 
+with myeloid neoplasms in myeloproliferative neoplasms (MPN), and the 
+publication of sporadic reports of myeloid malignancies in SCD patients treated 
+with HU, the possible excess risk imparted by HU in this population having an 
+increasing life expectancy has failed to be demonstrated. Herein, we report one 
+case of myelodysplastic syndrome emanating from the results on safety and 
+effectiveness of HU on the largest European cohort of 1903 HU-treated adults and 
+children who were followed-up prospectively in an observational setting over 10 
+years, accounting for a total exposure of 7309.5 patient-years. A comparison of 
+this single case with previously published similar cases did not allow us to 
+draw any significant conclusions due to the paucity of these events.
+
+DOI: 10.3390/biomedicines10123201
+PMCID: PMC9775156
+PMID: 36551957
+
+Conflict of interest statement: Ersi Voskaridou reported receiving fees from 
+CELGENE (Consultancy, Research funding), Bristol Myers Squibb (BMS) 
+(Consultancy, Research funding), PROTAGONIST (Research funding), GENESIS 
+(Consultancy, Research funding), NOVARTIS (Research funding), ADDMEDICA 
+(Consultancy, Research funding), and IMARA (Research funding). Frédéric 
+Galactéros reported receiving grants for consultancy from NOVARTIS, SANOFI, 
+BLUEBIRDBIO, PFIZER, AGIOS, GBT, BMS and ADDMEDICA (Consultancy, Research 
+funding). Giovanna Cannas reported receiving fees from ADDMEDICA (Research 
+funding). Laure Joseph reported receiving fees from BLUEBIRDBIO (Consultancy), 
+and ADDMEDICA (Research funding). Pablo Bartolucci reported receiving fees from 
+NOVARTIS Company (Consultancy, Lecture, Research funding), BLUEBIRDBIO 
+(Consultancy, Research funding), EMMAUS (Consultancy), HEMANEXT (Consultancy), 
+AGIOS (Consultancy), JAZZPHARMA (Lecture), ADDMEDICA (Consultancy, Research 
+funding), FOUNDATION FABRE (Research funding), Cofounder of INNOVHEM, ROCHE 
+(Consultancy), and GBT (Consultancy). Justine Gellen-Dautremer reported 
+receiving fees from ADDMEDICA (Research funding). Emmanuelle Bernit reported 
+receiving fees from ADDMEDICA (Research funding). Anoosha Habibi reported 
+receiving fees from NOVARTIS Company (Consultancy), BLUEBIRD BIO Company 
+(Consultancy), and ADDMEDICA (Research funding). Addmedica Company was involved 
+in the design and conduct of the study (including development of the study 
+protocol and statistical analysis plan); collection, monitoring, analysis, and 
+interpretation of the data; and preparation, approval and submission of this 
+manuscript.
+
+
+313. Biomedicines. 2022 Dec 11;10(12):3213. doi: 10.3390/biomedicines10123213.
+
+A Scoping Review of Rodent Studies Investigating the Epigenetic Mechanisms in 
+the Brain Underlying the Effects of Diet on Depressive-like Behaviour.
+
+Sánchez-Lafuente CL(1), Reive BS(1), Kalynchuk LE(1), Caruncho HJ(1).
+
+Author information:
+(1)Division of Medical Sciences, University of Victoria, Victoria, BC V8P 5C2, 
+Canada.
+
+A healthy diet has been highly associated with a decreased risk for mental 
+health problems such as major depression. Evidence from human studies shows that 
+diet can influence mood but there is a poor understanding of the molecular 
+mechanisms behind these effects, especially the role of epigenetic alterations 
+in the brain. Our objective was to use the Preferred Reporting Items for 
+Systematic Reviews and Meta-Analysis extension for Scoping Reviews (PRISMA-ScR) 
+format to gather all recent studies using animal models that investigate direct 
+or indirect (on the offspring) effects of diet on depressive symptoms, including 
+studies that assess epigenetic mechanisms in the brain. In this format, two 
+authors conducted independent database searches of PubMed, Web of Science, and 
+Academic search premier using one search block "diet epigenetics depression" to 
+find papers published between 2000 and 2022. Relevant studies were selected 
+using pre-defined inclusion/exclusion criteria that were performed independently 
+by the two authors before a subset of studies were selected for qualitative 
+analysis. A total of 11 studies met the inclusion criteria for this systematic 
+scoping review. We found that the literature focuses primarily on the effects of 
+individual nutrients, instead of a specific diet, on despair-like behaviour and 
+anxiety. Studies are heterogenous with the techniques used to asses epigenetic 
+changes in the brain and therefore making it hard to reach common mechanistic 
+explanations. However, all studies report diet-induced changes in the epigenome 
+mainly by the action of DNA methylation, histone acetylation and microRNAs that 
+are parallelel with changes in behaviour. Moreover studies show that inadequate 
+maternal diets can make the offspring more susceptible to develop anxiety and 
+depressive-like behaviour later in life, which is paralleled with changes in the 
+epigenome. Overall, this systematic review shows that there is some literature 
+suggesting a role of brain epigenetics on the diet-induced protective or 
+detrimental effects, specifically on anxiety and depressive-like behaviour. 
+However, studies are limited, lacking the study of some types of diets, 
+behavioural tasks or epigenetic mechanisms. Nevertherless, it shows the 
+importance of genome-environment interactions, bringing new insights towards 
+mechanisms that could be involved in the pathophysiology of mood disorders as 
+well as putative therapeutic targets.
+
+DOI: 10.3390/biomedicines10123213
+PMCID: PMC9775686
+PMID: 36551970
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+314. Cells. 2022 Dec 9;11(24):3980. doi: 10.3390/cells11243980.
+
+Systematic Analysis of a Pyroptosis-Related Signature to Predict the Prognosis 
+and Immune Microenvironment of Lower-Grade Glioma.
+
+He Y(1), Cai Y(2), Liu J(1), Ding H(3), Li X(1), Tian S(2), Li Z(1).
+
+Author information:
+(1)Brain Glioma Center, Zhongnan Hospital of Wuhan University, Wuhan 430062, 
+China.
+(2)Department of Pathology, Zhongnan Hospital of Wuhan University, Wuhan 430062, 
+China.
+(3)Department of Oncology, Zhongnan Hospital of Wuhan University, Wuhan 430062, 
+China.
+
+Current treatments for lower-grade glioma (LGG) do not effectively improve life 
+expectancy rates, and this is a major global health concern. Improving our 
+knowledge of this disease will ultimately help to improve prevention, accurate 
+prognosis, and treatment strategies. Pyroptosis is an inflammatory form of 
+regulated cell death, which plays an important role in tumor progression and 
+occurrence. There is still a lack of effective markers to evaluate the prognosis 
+of LGG patients. We collected paraffin-embedded tissue samples and prognostic 
+information from 85 patients with low-grade gliomas and fabricated them into a 
+tissue microarray. Combining data from public databases, we explored the 
+relationship between pyroptosis-related genes (PRGs) and the prognoses of 
+patients with LGG and investigated their correlations with the tumor 
+microenvironment (TME) by means of machine learning, single-cell, 
+immunohistochemical, nomogram, GSEA, and Cox regression analyses. We developed a 
+six-gene PRG-based prognostic model, and the results have identified CASP4 as an 
+effective marker for LGG prognosis predictions. Furthermore, the effects on 
+immune cell infiltration may also provide guidance for future immunotherapy 
+strategies.
+
+DOI: 10.3390/cells11243980
+PMCID: PMC9776729
+PMID: 36552744 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as potential conflicts of interest.
+
+
+315. Cells. 2022 Dec 12;11(24):4018. doi: 10.3390/cells11244018.
+
+Melatonin Protects Mitochondrial Function and Inhibits Oxidative Damage against 
+the Decline of Human Oocytes Development Caused by Prolonged Cryopreservation.
+
+Zhu Q(1), Ding D(2)(3)(4), Yang H(1)(5)(6), Zou W(2)(3)(4), Yang D(2)(5)(6), 
+Wang K(2)(5)(6), Zhang C(2)(5)(6), Chen B(2)(5)(6), Ji D(2)(5)(6), Hao 
+Y(2)(5)(6), Xue R(2)(5)(6), Xu Y(2)(5)(6), Wang Q(2)(5)(6), Wang J(2)(5)(6), Yan 
+B(7), Cao Y(2)(5)(6), Zou H(2)(3)(4), Zhang Z(1)(2)(3)(4).
+
+Author information:
+(1)Department of Biomedical Engineering, Anhui Medical University, Hefei 230032, 
+China.
+(2)Department of Obstetrics and Gynecology, The First Affiliated Hospital of 
+Anhui Medical University, Hefei 230022, China.
+(3)NHC Key Laboratory of Study on Abnormal Gametes and Reproductive Tract, Anhui 
+Medical University, Hefei 230032, China.
+(4)Key Laboratory of Population Health Across Life Cycle, Anhui Medical 
+University, Ministry of Education of the People's Republic of China, No 81 
+Meishan Road, Hefei 230032, China.
+(5)Anhui Province Key Laboratory of Reproductive Health and Genetics, Hefei 
+230032, China.
+(6)Anhui Provincial Engineering Research Center of Biopreservation and 
+Artificial Organs, Hefei 230032, China.
+(7)The Second Clinical Medical School, Anhui Medical University, Hefei 230032, 
+China.
+
+Melatonin (MT) can improve the effect of cryopreservation on oocytes by 
+suppressing oxidative stress and maintaining the permeability of the oolemma. In 
+this study, MT was firstly applied to human oocytes' cryopreservation to explore 
+the effect of prolonged cryopreservation on developmental competence and its 
+role. Collected in vitro-matured human oocytes were cryopreserved in 
+MT-containing or MT-free medium for 0 and 6 months; after warming, viable 
+oocytes were assessed for developmental viability, intracellular protein 
+expression, mitochondrial function, and oxidation-antioxidant system. Meanwhile, 
+fresh oocytes were set as the control. The results showed that with the 
+extension of cryopreservation time, the developmental competence of oocytes 
+gradually declined, accompanied by the down-regulation of most mitochondrial 
+function-related proteins, the reduction in ATP and GSH production, the increase 
+in ROS accumulation, and the aggravation of the imbalance of ROS/GSH in oocytes. 
+However, the participation of MT seemed to effectively mitigate these negative 
+effects. Therefore, we speculate that melatonin may maintain normal ATP 
+production and ROS/GSH balance in cryopreserved oocytes by protecting 
+mitochondrial function and inhibiting oxidative damage, thereby effectively 
+maintaining the developmental competence of human oocytes in prolonged 
+cryopreservation.
+
+DOI: 10.3390/cells11244018
+PMCID: PMC9776420
+PMID: 36552782 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interest or personal relationship that could have appeared 
+to influence the work reported in this paper.
+
+
+316. Diagnostics (Basel). 2022 Nov 25;12(12):2941. doi:
+10.3390/diagnostics12122941.
+
+Clinical and Pathological Profiles of Vertebral Bone Metastases from Endometrial 
+Cancers: Evidence from a Twenty-Year Case Series.
+
+Bandiera S(1), Salamanna F(2), Borsari V(2), Contartese D(2), Bontempi M(2), 
+Tschon M(2), Tosini G(1), Pasini S(1), Terzi S(1), Fini M(3), Gasbarrini A(1).
+
+Author information:
+(1)Spine Surgery Unit, IRCCS Istituto Ortopedico Rizzoli, 40136 Bologna, Italy.
+(2)Complex Structure of Surgical Sciences and Technologies, IRCCS Istituto 
+Ortopedico Rizzoli, 40136 Bologna, Italy.
+(3)Scientific Direction, IRCCS Istituto Ortopedico Rizzoli, 40136 Bologna, 
+Italy.
+
+Patients with endometrial cancer (EC) frequently have metastases to lungs, 
+extra-pelvic nodes, and liver. Although an uncommon occurrence, cases of EC 
+metastasis to bone, prevalently in vertebral bone, have also been reported. The 
+objective of this study was to analyze clinical and pathological profiles of 
+patients with EC metastatic to vertebral bone. We carried out a retrospective 
+case series on surgically treated patients for this pathology. From 2001 to 
+2021, out of 775 patients with bone metastasis, 1.6% had bone metastasis from 
+EC. The median time between the diagnosis of primary tumor and that of bone 
+metastases was 31.5 months. Solitary bone lesion was present in 7 patients and 
+lumbar vertebrae were the segments most affected. Pathological fractures in 
+46.2% of patients and spinal pain in all were present. In terms of location, 
+46.2% of bone metastases resided within the anterior section of the vertebra, 
+while the remaining presented an extension within the anterior and posterior 
+sections, with 46.1% of cases showing an extradural extra-osseous extension and 
+paraspinous envelope. Median survival after diagnosis of bone metastasis was 
+11.5 months. Vertebral bone metastasis in EC is a rare phenomenon, with severe 
+prognosis. An in-depth understanding of this topic may guide future management 
+and treatment decisions, thus improving life expectancy and quality.
+
+DOI: 10.3390/diagnostics12122941
+PMCID: PMC9776595
+PMID: 36552950
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+317. Diagnostics (Basel). 2022 Dec 14;12(12):3161. doi:
+10.3390/diagnostics12123161.
+
+The CSIESA: A Novel Score for the Assessment of Intrinsic and Extrinsic Skin 
+Aging Based on Reflectance Confocal Microscopy Imaging.
+
+Lupu M(1)(2), Malciu AM(3), Cozma EC(3)(4), Banciu ML(3), Voiculescu 
+VM(1)(2)(3).
+
+Author information:
+(1)Department of Dermatology, Panduri Medical Center, 011367 Bucharest, Romania.
+(2)Department of Dermatology, "Carol Davila" University of Medicine and 
+Pharmacy, 050474 Bucharest, Romania.
+(3)Department of Dermatology and Allergology, Elias Emergency University 
+Hospital, 011461 Bucharest, Romania.
+(4)Department of Pathophysiology, University of Medicine and Pharmacy of 
+Craiova, 200638 Craiova, Romania.
+
+Skin aging is an intricate physiological process governed by intrinsic and 
+extrinsic factors. Increasing life expectancy has turned skin aging into a 
+growing concern for the general population. Clinical examination of the skin 
+does not fully describe the skin aging process. This study aims to evaluate the 
+healthy skin of five different age groups in order to develop an easy-to-use 
+confocal score for quantifying signs of skin aging and test the correlation 
+between this new score and the already described clinical score, SCINEXA (score 
+of intrinsic and extrinsic skin aging). Thirty-five subjects split into five age 
+groups: <35; 36−45; 46−55; 56−65, and >65 years old were enrolled. Clinical 
+signs were quantified using the SCINEXA score, and known confocal variables of 
+skin aging were evaluated. Three different semi-quantitative scores were 
+calculated: epidermal disarrangement score (EDS), epidermal hyperplasia score 
+(EHS), and dermal score (DS). The EDS showed a stable trend up to the age of 65 
+and a dramatic increase in older subjects. EHS was characterized by an ascending 
+trend from younger subjects to middle-aged ones. The DS was progressive with 
+age, with a different proportion of distinct collagen types. The confocal CSIESA 
+(confocal score for the assessment of intrinsic and extrinsic skin aging) score 
+correlated well with the SCINEXA score. Reflectance confocal microscopy is a 
+powerful, non-invasive technique for microscopically quantifying aging signs.
+
+DOI: 10.3390/diagnostics12123161
+PMCID: PMC9777711
+PMID: 36553168
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+318. Foods. 2022 Dec 7;11(24):3951. doi: 10.3390/foods11243951.
+
+Antioxidant, Organoleptic and Physicochemical Changes in Different Marinated 
+Oven-Grilled Chicken Breast Meat.
+
+Okpala COR(1)(2), Juchniewicz S(1), Leicht K(1), Korzeniowska M(1), Guiné 
+RPF(3).
+
+Author information:
+(1)Department of Functional Food Products Development, Faculty of Biotechnology 
+and Food Science, Wrocław University of Environmental and Life Sciences, 51-630 
+Wrocław, Poland.
+(2)UGA Cooperative Extension, College of Agricultural and Environmental 
+Sciences, University of Georgia, Athens, GA 30602, USA.
+(3)CERNAS-Research Centre for Natural Resources, Environment and Society, 
+Polytechnic Institute of Viseu, 3504-510 Viseu, Portugal.
+
+The antioxidant, organoleptic, and physicochemical changes in different 
+marinated oven-grilled chicken breast meat were investigated. Specifically, the 
+chicken breast meat samples were procured from a local retailer in Wroclaw, 
+Poland. The antioxidant aspects involved 
+2,2'-azinobis-(3-ethylbenzthiazolin-6-sulfonic acid) (ABTS), 
+1,1-diphenyl-2-pierylhydrazy (DPPH), and ferric-reducing antioxidant power 
+(FRAP). The organoleptic aspects involved sensory and texture aspects. The 
+physicochemical aspects involved the pH, thiobarbituric acid reactive substance 
+(TBARS), cooking weight loss, L* a* b* color, and textural cutting force. 
+Different marination variants comprised incremental 0.5, 1, and 1.5% 
+concentrations of Baikal skullcap (BS), cranberry pomace (CP), and grape pomace 
+(GP) that depicted antioxidants, and subsequently incorporated either African 
+spice (AS) or an industrial marinade/pickle (IM). The oven grill facility was 
+set at a temperature of 180 °C and a constant cooking time of 5 min. Results 
+showed various antioxidant, organoleptic and physicochemical range values across 
+the different marinated oven-grilled chicken breast meat samples, most of which 
+appeared somewhat limited. Incorporating either AS or IM seemingly widens the 
+ABTS and FRAP ranges, with much less for the DPPH. Moreover, with increasing CP, 
+GP, and BS concentrations, fluctuations seemingly persist in pH, TBARS, cooking 
+weight loss, L* a* b* color, and textural cutting force values even when either 
+AS or IM was incorporated, despite resemblances in some organoleptic sensory and 
+texture profiles. Overall, the oven-grilling approach promises to moderate the 
+antioxidant, organoleptic, and physicochemical value ranges in the different 
+marinated chicken breast meat samples in this study.
+
+DOI: 10.3390/foods11243951
+PMCID: PMC9777720
+PMID: 36553694
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+319. Foods. 2022 Dec 8;11(24):3971. doi: 10.3390/foods11243971.
+
+Microbiological and Sensorial Quality of Beef Meat (Longissimus dorsi) Marinated 
+with Cinnamon Extract and Stored at Various Temperatures.
+
+Zawani CJ(1), Nor-Khaizura MAR(1)(2), Mahyudin NA(3), Ismail-Fitry MR(4), Nirmal 
+NP(5).
+
+Author information:
+(1)Department of Food Science, Faculty of Food Science and Technology, 
+Universiti Putra Malaysia (UPM), Serdang 43400, Selangor, Malaysia.
+(2)Laboratory of Food Safety and Food Integrity, Institute of Tropical 
+Agricultural and Food Security, Universiti Putra Malaysia (UPM), Serdang 43400, 
+Selangor, Malaysia.
+(3)Department of Food Service and Management, Faculty of Food Science and 
+Technology, Universiti Putra Malaysia (UPM), Serdang 43400, Selangor, Malaysia.
+(4)Department of Food Technology, Faculty of Food Science and Technology, 
+Universiti Putra Malaysia (UPM), Serdang 43400, Selangor, Malaysia.
+(5)Institute of Nutrition, Mahidol University, 999 Phutthamonthon 4 Road, 
+Salaya, Nakhon Pathom 73170, Thailand.
+
+Meat spoilage caused by temperature abuse is a major problem for producers, 
+retailers, and consumers that can generate large economic losses to industries. 
+Microbial growth of Pseudomonas spp. is the main source of spoilage during 
+storage. Cinnamon has antimicrobial properties that may potentially be used to 
+reduce the spoilage caused by Pseudomonas. The objectives of this study were to 
+determine the inhibitory effect of cinnamon extract (CE) against Pseudomonas 
+aeruginosa (ATCC 27853) and evaluate the treatment of CE on meat quality during 
+different storage temperatures (5 °C, 10 °C, 15 °C, and 25 °C). The 
+anti-Pseudomonas result showed that 100% (w/v) CE concentration produced a 13.50 
+mm zone of inhibition in a disc diffusion assay. The minimum inhibitor 
+concentration (MIC) of CE was noted at 25% (v/v), whereas the minimum 
+bactericidal concentration (MBC) value was observed at 50% (v/v) concentration 
+of CE. The time-kill showed the growth of P. aeruginosa decreased from 7.64 to 
+5.39 log CFU/mL at MIC concentration. Total phenolic content and IC50 value of 
+the cinnamon extract was expressed as 6.72 ± 0.87 mg GAE/g extract and 0.15 
+mg/mL, respectively. When the meat was marinated with 50% (v/v) CE and stored at 
+various temperatures, the total viable count (TVC) and growth of Pseudomonas 
+spp. were lowered as compared to the control sample. However, the reduction in 
+microbial count in all samples was influenced by the storage temperature, where 
+the lowered microbial count was noted in the sample treated with CE and stored 
+at 5 and 10 °C for 48 h. The pH of meat treated with or without CE ranged from 
+pH 5.74 to 6.48. The sensory attributes of colour, texture, and overall 
+acceptability have a significant difference, except for odour, between marinated 
+meat and control. The results indicate that the use of cinnamon extract as the 
+marination agent for meat could reduce the growth of Pseudomonas spp. and 
+therefore assist in extending the shelf life of meat at 5 and 10 °C storage 
+temperatures.
+
+DOI: 10.3390/foods11243971
+PMCID: PMC9778215
+PMID: 36553712
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+320. Healthcare (Basel). 2022 Nov 22;10(12):2342. doi:
+10.3390/healthcare10122342.
+
+Quality of Life and Anxiety Levels in Latin American Immigrants as Caregivers of 
+Older Adults in Spain.
+
+Fernández-Carrasco FJ(1)(2), Molina-Yanes EM(2), Antúnez-Calvente I(1), 
+Rodríguez-Díaz L(3), Riesco-González FJ(1), Gómez-Salgado J(4)(5), Palomo-Gómez 
+R(6), Vázquez-Lara JM(3).
+
+Author information:
+(1)Department of Obstetrics, Punta de Europa Hospital, 11207 Algeciras, Spain.
+(2)Nursing and Physiotherapy Department, Faculty of Nursing, University of 
+Cádiz, 11207 Algeciras, Spain.
+(3)Nursing Department, Faculty of Health Sciences of Ceuta, University of 
+Granada, 51001 Ceuta, Spain.
+(4)Department of Sociology, Social Work and Public Health, Faculty of Labour 
+Sciences, University of Huelva, 21007 Huelva, Spain.
+(5)Safety and Health Postgraduate Programme, Universidad Espíritu Santo, 
+Guayaquil 092301, Ecuador.
+(6)Department of Obstetrics, La Linea de la Concepción Hospital; 11300 La Línea 
+de la Concepción, Spain.
+
+Increased life expectancy in Spain has highlighted the need for formal 
+caregivers who care for older adults who live at home. In many cases, families 
+choose to hire immigrants from Latin America who, on many occasions, have been 
+forced to emigrate, which causes a considerable psychological impact on them. To 
+this, other factors such as precarious working conditions, loneliness, or high 
+workload are added, which leads to many caregivers becoming sick. The aim of 
+this study was to assess the quality of life and the level of anxiety derived 
+from the workload of Latin American immigrants who come to Spain to care for 
+older adults. A descriptive cross-sectional study was carried out using two 
+validated questionnaires to measure this relationship. A correlation was also 
+established between quality of life and anxiety as expressed by the 
+participants. The sample consisted of a total of 426 subjects. One of the main 
+results showed that the lower the caregiver's quality of life, the higher their 
+level of anxiety (OR = 1.06; 95% CI). Live-in caregivers had a lower quality of 
+life than people who did not live in the same house as the cared-for person (OR 
+= 2.22; 95% CI). Working long hours and having a high workload was associated 
+with poorer quality of life and higher levels of anxiety. Assessing immigrants 
+who are formal caregivers and providing them with the support that helps to 
+improve their quality of life is suggested to reduce the occurrence of anxiety 
+disorders.
+
+DOI: 10.3390/healthcare10122342
+PMCID: PMC9778248
+PMID: 36553865
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+321. Healthcare (Basel). 2022 Nov 25;10(12):2366. doi:
+10.3390/healthcare10122366.
+
+Mortality in Schizophrenia-Spectrum Disorders: Recent Advances in Understanding 
+and Management.
+
+Peritogiannis V(1)(2), Ninou A(3), Samakouri M(2).
+
+Author information:
+(1)Mobile Mental Health Unit of the Prefectures of Ioannina and Thesprotia, 
+Society for the Promotion of Mental Health in Epirus, 45445 Ioannina, Greece.
+(2)Department of Psychiatry, Medical School, Democritus University of Thrace, 
+68100 Alexandroupolis, Greece.
+(3)"Skitali" Day Center, Society for the Promotion of Mental Health in Epirus, 
+45445 Ioannina, Greece.
+
+Schizophrenia is a life-shortening disease and life expectancy in patients may 
+be 15-20 years shorter than in the general population, with increasing longevity 
+gap over time. Premature mortality in schizophrenia-spectrum disorders is mainly 
+due to preventable natural causes, such as cardio-vascular disease, infections, 
+respiratory tract diseases and cancer, alongside suicide, homicide and 
+accidents. There is a complex interplay of factors that act synergistically and 
+cause physical morbidity to patients and subsequent mortality. Smoking, 
+alcohol/substance abuse and sedentary life style, alongside disease-related 
+factors, such as metabolic abnormalities and accelerating aging contribute to 
+physical morbidity. Moreover, the symptomatology of psychosis and stigma may 
+limit patients' access to quality medical care. Interventions to promote 
+physical health in those patients should be multifaceted, and should target all 
+patient-related modifiable factors, but also should address service-related 
+healthcare disparities. Long-term antipsychotic use (including clozapine and 
+long-acting injectables) is associated with substantially decreased all-cause 
+mortality, including suicide and cardiovascular mortality, in patients with 
+schizophrenia despite the well-known cardiometabolic adverse effects of 
+second-generation agents. Integrated care may involve co-location of physical 
+and mental health services, liaison services, shared protocols and information 
+sharing systems, and has emerged as a way to address the physical health needs 
+of those patients. Interventions to address mortality in schizophrenia and 
+related syndromes should take place as early as possible in the course of the 
+patients' treatment, and could be an integral component of care delivered by 
+specialized early intervention services.
+
+DOI: 10.3390/healthcare10122366
+PMCID: PMC9777663
+PMID: 36553890
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+322. Healthcare (Basel). 2022 Dec 8;10(12):2482. doi: 10.3390/healthcare10122482.
+
+Do Sexually Satisfied Individuals Think That They Live Longer? Results from the 
+German Ageing Survey.
+
+Hajek A(1), Buczak-Stec E(1), König HH(1).
+
+Author information:
+(1)Department of Health Economics and Health Services Research, University 
+Medical-Center Hamburg-Eppendorf, Hamburg Center for Health Economics, 20246 
+Hamburg, Germany.
+
+The aim of this study was to determine the association between sexual 
+satisfaction and expected longevity among middle-aged and older adults (also 
+stratified by sex). Data were taken from the German Ageing Survey (year 2011; n 
+= 3231)—a nationally representative sample of community-dwelling individuals ≥ 
+40 years in Germany. A widely used question was used to quantify sexual 
+satisfaction. Furthermore, the expected life expectancy served as an outcome 
+measure. After adjusting for various covariates, multiple linear regressions 
+showed that sexual satisfaction was associated with higher expected longevity 
+among the total sample (β = 0.28, p < 0.05). Moreover, it was associated with 
+higher expected longevity among women (β = 0.48, p < 0.05), but not men. In 
+conclusion, adjusting for several covariates, our results showed that there is 
+an association between sexual satisfaction and higher expected longevity, 
+particularly in women. Efforts to increase sexual satisfaction may thus also 
+contribute to expected longevity which, in turn, can be beneficial for actual 
+longevity.
+
+DOI: 10.3390/healthcare10122482
+PMCID: PMC9778126
+PMID: 36554006
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+323. Int J Environ Res Public Health. 2022 Dec 7;19(24):16398. doi: 
+10.3390/ijerph192416398.
+
+Motives and Barriers Affecting the Participation of Polish People in the 
+Physical Activity of Nordic Walking.
+
+Soroka A(1), Godlewska A(1), Mazurek-Kusiak A(2).
+
+Author information:
+(1)Faculty of Medical and Health Sciences, Siedlce University of Natural 
+Sciences and Humanities, B. Prusa 14 st., 08-110 Siedlce, Poland.
+(2)Department of Tourism and Recreation, University of Life Sciences in Lublin, 
+Akademicka 15, 20-950 Lublin, Poland.
+
+The aim of the study was to identify motives and barriers which have the 
+greatest influence on participation in Nordic Walking (NW) of people with normal 
+body weight and persons who are either overweight or obese (according to their 
+BMI). In the study, the modified Physical Activity and Leisure Motivation Scale 
+(PALMS) was used, which was designed to measure adult physical activity (PA) 
+motivation. PALMS measures eight motives for participation in PA, on a 5-point 
+Likert scale. The study was conducted during a NW competition and during 
+training sessions of its participants. Two groups of respondents were taken into 
+account: the first group with those with normal body weight and the second group 
+with those who were overweight or obese. Respondents with normal body weight 
+were more frequent participants of NW sessions. Enhanced body capacity, concern 
+for one's health, improved body shape and lifespan extension were major motives 
+of practicing NW. Polish people perceive PA as a means of improving the quality 
+of life due to enhanced health and wellbeing. Subjects with normal body weight 
+tended to mention lack of areas suitable for NW and lack of time due to 
+professional work. Overweight or obese persons pointed to other types of PA, 
+shyness and lack of time.
+
+DOI: 10.3390/ijerph192416398
+PMCID: PMC9778249
+PMID: 36554278 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+324. Int J Environ Res Public Health. 2022 Dec 8;19(24):16479. doi: 
+10.3390/ijerph192416479.
+
+Global, Regional, and National Burden of Road Injuries from 1990 to 2019.
+
+Xu Y(1), Chen M(2), Yang R(1), Wumaierjiang M(1), Huang S(1).
+
+Author information:
+(1)Department of Orthopedics, The Second Affiliated Hospital, Xi'an Jiaotong 
+University, Xi'an 710049, China.
+(2)Department of Intensive Care Unit, The Affiliated Drum Tower Hospital, 
+Medical School, Nanjing University, Nanjing 210093, China.
+
+(1) Background: Understanding occurrence can help formulate effective 
+preventative laws and regulations. However, the most recent global burden and 
+road injuries (RIs) trends have not been reported. This study reports the burden 
+of RIs globally from 1990 to 2019. (2) Methods: RIs data were downloaded from 
+the Global Burden of Disease 2019. Incidence, deaths, and disability-adjusted 

@@ -1,0 +1,1000 @@
+AG.
+
+DOI: 10.1007/s40271-021-00541-z
+PMCID: PMC8321769
+PMID: 34327605 [Indexed for MEDLINE]
+
+Conflict of interest statement: BMC, KR, and JH have no conflicts to disclose.
+
+
+273. J Gen Intern Med. 2022 Feb;37(3):499-506. doi: 10.1007/s11606-021-07018-7.
+Epub  2021 Jul 29.
+
+Predicting Life Expectancy to Target Cancer Screening Using Electronic Health 
+Record Clinical Data.
+
+Lee AK(1)(2), Jing B(3)(4), Jeon SY(5)(3), Boscardin WJ(5)(3)(6), Lee SJ(5)(3).
+
+Author information:
+(1)Division of Geriatrics, University of California, 4150 Clement St, VA181G, 
+San Francisco, CA, 94121, USA. alexandra.lee@ucsf.edu.
+(2)San Francisco Veterans Affairs Medical Center, San Francisco, USA. 
+alexandra.lee@ucsf.edu.
+(3)San Francisco Veterans Affairs Medical Center, San Francisco, USA.
+(4)Northern California Institute for Research and Education, San Francisco, USA.
+(5)Division of Geriatrics, University of California, 4150 Clement St, VA181G, 
+San Francisco, CA, 94121, USA.
+(6)Division of Biostatistics, University of California, San Francisco, San 
+Francisco, USA.
+
+BACKGROUND: Guidelines recommend breast and colorectal cancer screening for 
+older adults with a life expectancy >10 years. Most mortality indexes require 
+clinician data entry, presenting a barrier for routine use in care. Electronic 
+health records (EHR) are a rich clinical data source that could be used to 
+create individualized life expectancy predictions to identify patients for 
+cancer screening without data entry.
+OBJECTIVE: To develop and internally validate a life expectancy calculator from 
+structured EHR data.
+DESIGN: Retrospective cohort study using national Veteran's Affairs (VA) EHR 
+databases.
+PATIENTS: Veterans aged 50+ with a primary care visit during 2005.
+MAIN MEASURES: We assessed demographics, diseases, medications, laboratory 
+results, healthcare utilization, and vital signs 1 year prior to the index 
+visit. Mortality follow-up was complete through 2017. Using the development 
+cohort (80% sample), we used LASSO Cox regression to select ~100 predictors from 
+913 EHR data elements. In the validation cohort (remaining 20% sample), we 
+calculated the integrated area under the curve (iAUC) and evaluated calibration.
+KEY RESULTS: In 3,705,122 patients, the mean age was 68 years and the majority 
+were male (97%) and white (85%); nearly half (49%) died. The life expectancy 
+calculator included 93 predictors; age and gender most strongly contributed to 
+discrimination; diseases also contributed significantly while vital signs were 
+negligible. The iAUC was 0.816 (95% confidence interval, 0.815, 0.817) with good 
+calibration.
+CONCLUSIONS: We developed a life expectancy calculator using VA EHR data with 
+excellent discrimination and calibration. Automated life expectancy prediction 
+using EHR data may improve guideline-concordant breast and colorectal cancer 
+screening by identifying patients with a life expectancy >10 years.
+
+© 2021. Society of General Internal Medicine.
+
+DOI: 10.1007/s11606-021-07018-7
+PMCID: PMC8858374
+PMID: 34327653 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors declare no conflicts of interest.
+
+
+274. JAMA Netw Open. 2021 Jul 1;4(7):e2118516. doi: 
+10.1001/jamanetworkopen.2021.18516.
+
+Cost-effectiveness of Internet-Delivered vs In-Person Cognitive Behavioral 
+Therapy for Children and Adolescents With Obsessive-Compulsive Disorder.
+
+Aspvall K(1)(2), Sampaio F(3), Lenhard F(1), Melin K(4)(5), Norlin L(5), 
+Serlachius E(1)(2), Mataix-Cols D(1)(2), Andersson E(6).
+
+Author information:
+(1)Centre for Psychiatry Research, Department of Clinical Neuroscience, 
+Karolinska Institutet, Sweden.
+(2)Stockholm Health Care Services, Region Stockholm, Stockholm, Sweden.
+(3)Department of Public Health and Caring Sciences, Uppsala Universitet, 
+Uppsala, Sweden.
+(4)Institute Health and Care Sciences, Sahlgrenska Academy, University of 
+Gothenburg, Gothenburg, Sweden.
+(5)Region Västra Götaland, Department of Child and Adolescent Psychiatry, 
+Sahlgrenska University Hospital, Gothenburg, Sweden.
+(6)Division of Psychology, Department of Clinical Neuroscience, Karolinska 
+Institutet, Stockholm, Sweden.
+
+IMPORTANCE: Therapist-guided, internet-delivered cognitive behavioral therapy is 
+an effective treatment option for children and adolescents with 
+obsessive-compulsive disorder, but to our knowledge, its cost-effectiveness 
+compared with traditional in-person treatment has not been established.
+OBJECTIVE: To evaluate the cost-effectiveness of guided internet-delivered 
+cognitive behavioral therapy implemented within a stepped-care model compared 
+with in-person cognitive behavioral therapy for young people with 
+obsessive-compulsive disorder.
+DESIGN, SETTING, AND PARTICIPANTS: This economic evaluation of a randomized 
+noninferiority trial conducted at 2 specialist obsessive-compulsive disorder 
+clinics in Sweden enrolled 152 children and adolescents aged 8 to 17 years with 
+obsessive-compulsive disorder, mainly through clinician referrals (110 [72%]). 
+Recruitment began October 6, 2017, and ended May 24, 2019. Follow-up ended April 
+14, 2020.
+INTERVENTIONS: Participants were randomly assigned to receive either guided 
+internet-delivered cognitive behavioral therapy or in-person cognitive 
+behavioral therapy during a 16-week period. At the 3-month follow-up, 
+nonresponders in both groups were offered additional in-person cognitive 
+behavior therapy sessions.
+MAIN OUTCOMES AND MEASURES: Health outcomes were treatment response rates 
+(primary outcome), remission rates, and quality-adjusted life-years. Cost data 
+were collected before treatment, after treatment, at 3-month follow-up, and at 
+6-month follow-up (primary end point) and are presented in 2020 US dollars. The 
+differences in incremental costs and health outcomes were compared between the 
+groups and presented from the health care professional, health care sector, and 
+societal perspectives.
+RESULTS: A total of 152 participants (94 girls [62%]; mean [SD] age, 13.4 [2.5] 
+years) were randomized; 151 (99%) completed the trial. At the 6-month follow-up, 
+50 of 74 participants (68%) in the stepped-care group and 52 of 77 participants 
+(68%) in the in-person cognitive behavioral therapy group were classified as 
+treatment responders (odds ratio, 1.00 [95% CI, 0.51-1.98]; P = .99). Health 
+economic analyses showed that the stepped-care group used fewer therapist 
+resources than the in-person cognitive behavioral therapy group, resulting in a 
+mean cost savings of $2104 (95% CI, $1202-$3006) per participant for the full 
+study period of 10 months, corresponding to a relative savings of 39%. The cost 
+savings remained largely comparable when taking wider health care sector and 
+societal perspectives.
+CONCLUSIONS AND RELEVANCE: This study suggests that, for young people with 
+obsessive-compulsive disorder, a low-cost digital intervention followed by 
+in-person treatment for nonresponders was cost-effective compared with in-person 
+cognitive behavior therapy alone.
+
+DOI: 10.1001/jamanetworkopen.2021.18516
+PMCID: PMC8325072
+PMID: 34328501 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Drs Aspvall, 
+Sampaio, Lenhard, Melin, Serlachius, Mataix-Cols, and Andersson and Ms Norlin 
+reported receiving grants from the Swedish Research Council for Health, Working 
+Life and Welfare, the ALF Medicin Project by Region Stockholm, Drottning Silvias 
+Jubileumsfond, Fonden för psykisk hälsa, Fredrik och Ingrid Thurings stiftelse, 
+and the Jane and Dan Olssons Foundation during the conduct of the study. Dr 
+Mataix-Cols reported receiving personal fees from UpToDate, Wolters Kluwer 
+Health, and Elsevier outside the submitted work. Dr Andersson reported receiving 
+royalties from Natur & Kultur unrelated to the current work. No other 
+disclosures were reported.
+
+
+275. Int J Qual Health Care. 2021 Aug 12;33(3):mzab109. doi:
+10.1093/intqhc/mzab109.
+
+Variation in hospital performance measures from the Turkey Ministry of Health.
+
+Saluvan M(1), Milliren CE(2), Graham DA(3)(4), Simsekler MCE(5)(6), Babacan Akin 
+M(7), Koçatakan P(8), Gören M(8), Ozonoff A(1)(4).
+
+Author information:
+(1)Precision Vaccines Program, Boston Children's Hospital, 300 Longwood Avenue, 
+Boston, MA 02115, USA.
+(2)Institutional Centers for Clinical and Translational Research, Boston 
+Children's Hospital, 300 Longwood Avenue, Boston, MA 02115, USA.
+(3)Program for Patient Safety and Quality, Boston Children's Hospital, 300 
+Longwood Avenue, Boston, MA 02115, USA.
+(4)Department of Pediatrics, Harvard Medical School, Boston Children's Hospital, 
+300 Longwood Avenue, Boston, MA 02115, USA.
+(5)Department of Industrial and Systems Engineering, Khalifa University of 
+Science and Technology, Abu Dhabi 127788, UAE.
+(6)School of Management, University College London, Gower Street, London WC1E 
+6BT, UK.
+(7)New York Turkish Consulate General, 605 3rd Ave 30th floor, New York, NY 
+10158, USA.
+(8)General Directorate of Turkish Public Hospitals, Üniversiteler Mh., 
+Dumlupinar Bulvari, 6001 Cd No: 9, Çankaya, Ankara 06490, Turkey.
+
+BACKGROUND: The Turkish healthcare system has seen broad population-based 
+improvements in expanded health insurance coverage and access to healthcare 
+services. Hospital performance in this national system is understudied. We aimed 
+to identify trends in hospital performance over time following implementation of 
+the Health Transformation Program and describe how regional outcomes correlate 
+with regional vital statistics.
+OBJECTIVE: We examine hospital performance data collected by the PHA from 2013 
+to 2015. We aim to identify the temporal variation in hospital performance for 
+nearly 30 individual measures and to describe the relationship between 
+hospital-level performance measures and regional vital statistics.
+METHODS: We conducted a retrospective cohort study of 674 public hospitals in 
+Turkey using baseline data from 2013 and follow-up data from 2014-15 collected 
+by the Turkish Statistical Institution and the Public Hospital Agency. We report 
+demographic and socioeconomic data across 12 geographic regions and analyze 29 
+hospital-level performance measures across four domains: (i) health services; 
+(ii) administrative services; (iii) financial services and (iv) quality 
+measures. We examine temporal variation, and study correlation between 
+performance measures and regional vital statistics. We fit mixed-effects linear 
+regression models to estimate linear trend over time accounting for 
+within-hospital residual correlation. We prepared our manuscript in accordance 
+with guidelines set by the STROBE statement for cohort studies.
+RESULTS: During the 3 years of study period, 21 of 29 measures improved and 8 
+measures worsened. All but three measures demonstrated significant differences 
+across regions of the country. Several measures, including inpatient efficiency, 
+patient satisfaction and audit score, are associated with regional infant 
+mortality and life expectancy.
+CONCLUSIONS: Evidence of temporal improvement in hospital-level performance may 
+suggest some positive changes within the Turkish national healthcare system. 
+Correlation of some measures with regional level health outcomes suggests a 
+quality measurement strategy to monitor performance changes in the future. 
+Although hospital-level functions have improved performance, the results of our 
+study may help achieve further improvement for the health of the country's 
+citizens.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of 
+International Society for Quality in Health Care. All rights reserved. For 
+permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/intqhc/mzab109
+PMID: 34329442 [Indexed for MEDLINE]
+
+
+276. Glia. 2021 Nov;69(11):2717-2738. doi: 10.1002/glia.24067. Epub 2021 Jul 30.
+
+Morphofunctional programming of microglia requires distinct roles of type II 
+myosins.
+
+Melo PN(1)(2), Souza da Silveira M(1)(3), Mendes Pinto I(1)(4), Relvas 
+JB(1)(5)(6).
+
+Author information:
+(1)Instituto de Investigação e Inovação em Saúde (I3S), Universidade do Porto, 
+Porto, Portugal.
+(2)Graduate Programme in Areas of Basic and Applied Biology (GABBA), Instituto 
+de Ciências Biomédicas Abel Salazar (ICBAS), Universidade do Porto, Porto, 
+Portugal.
+(3)Instituto de Biofísica Carlos Chagas Filho (IBCCF), Universidade Federal do 
+Rio de Janeiro, Rio de Janeiro, Brazil.
+(4)Life Sciences, International Iberian Nanotechnology Laboratory (INL), Braga, 
+Portugal.
+(5)Instituto de Biologia Molecular e Celular (IBMC), Universidade do Porto, 
+Porto, Portugal.
+(6)Department of Biomedicine, Faculty of Medicine, University of Porto, Porto, 
+Portugal.
+
+The ramified morphology of microglia and the dynamics of their membrane 
+protrusions are essential for their functions in central nervous system 
+development, homeostasis, and disease. Although their ability to change and 
+control shape critically depends on the actin and actomyosin cytoskeleton, the 
+underlying regulatory mechanisms remain largely unknown. In this study, we 
+systematically analyzed the actomyosin cytoskeleton and regulators downstream of 
+the small GTPase RhoA in the control of microglia shape and function. Our 
+results reveal that (i) Myh9 controls cortical tension levels and affects 
+microglia protrusion formation, (ii) cofilin-mediated maintenance of actin 
+turnover regulates microglia protrusion extension, and (iii) Myh10 influences 
+microglia inflammatory activation. Overall we uncover molecular pathways that 
+regulate microglia morphology and identify type-II myosins as important 
+regulators of microglia biology with differential roles in the control of cell 
+shape (Myh9) and functions (Myh10).
+
+© 2021 Wiley Periodicals LLC.
+
+DOI: 10.1002/glia.24067
+PMID: 34329508 [Indexed for MEDLINE]
+
+
+277. Am J Mens Health. 2021 Jul-Aug;15(4):15579883211036786. doi: 
+10.1177/15579883211036786.
+
+Global, Regional, and National Incidence and Year Lived with Disability for 
+Benign Prostatic Hyperplasia from 1990 to 2019.
+
+Xu XF(1)(2), Liu GX(1), Guo YS(1), Zhu HY(2), He DL(3), Qiao XM(1)(2), Li 
+XH(2)(4).
+
+Author information:
+(1)Department of Urology, Xianyang Central Hospital, Xianyang, China.
+(2)Clinical Research Center of Xianyang City, Xianyang Central Hospital, 
+Xianyang, China.
+(3)Department of Urology, First Affiliated Hospital of Xi'an Jiaotong 
+University, Xi'an, China.
+(4)Center for Evidence-Based and Translational Medicine, Zhongnan Hospital of 
+Wuhan University, Wuhan, China.
+
+The objective of this study is to provide comprehensive and up-to-date estimates 
+on the disease burden of BPH in 204 countries and territories between 1990 and 
+2019. Data about incidence, year lived with disability (YLD), and their 
+age-standardized rates (ASRs) for 21 regions, 5 Socio-demographic Index (SDI) 
+quintiles, 204 countries and territories, and 12 age categories from 1990 to 
+2019 were obtained from the Global Burden of Disease 2019 study. Estimated 
+annual percentage changes (EAPCs) of the ASRs and the associations between SDI 
+and the ASRs were estimated. The effects of population growth, population aging, 
+and age-specific rate on the changes in the absolute numbers of incidence and 
+YLD were quantified. Globally, there were 11.26 million (95% uncertainty 
+interval [UI]: 8.79, 14.46) new cases and 1.86 million (95%UI: 1.13, 2.78) YLD 
+due to BPH in 2019. The global ASRs of incidence (EAPC: -0.031, 95% CI: -0.050, 
+-0.012) and YLD (EAPC: -0.058, 95% CI: -0.084, -0.031) decreased slightly from 
+1990 to 2019, whereas the absolute numbers increased dramatically from 1990 
+(incidence by 105.7% and YLD by 110.6%), mainly driven by the population growth 
+(53.5% for incidence and 54.4% for YLD) and population aging (55.7% for 
+incidence and 63.2% for YLD). The burden of BPH varied markedly among different 
+regions, socioeconomic status, and countries. As the population is growing and 
+aging, great efforts are required to develop effective prevention, treatment and 
+management strategies to meet the high and increasing burden of BPH worldwide.
+
+DOI: 10.1177/15579883211036786
+PMCID: PMC8326634
+PMID: 34330182 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Conflicting Interests: The 
+author(s) declared no potential conflicts of interest with respect to the 
+research, authorship, and/or publication of this article.
+
+
+278. Clin Lymphoma Myeloma Leuk. 2021 Nov;21(11):e865-e875. doi: 
+10.1016/j.clml.2021.06.012. Epub 2021 Jun 24.
+
+Primary Mediastinal B-Cell Lymphoma: A 2021 Update on Genetics, Diagnosis, and 
+Novel Therapeutics.
+
+Ahmed Z(1), Afridi SS(2), Shahid Z(3), Zamani Z(1), Rehman S(4), Aiman W(5), 
+Khan M(6), Mir MA(7), Awan FT(8), Anwer F(9), Iftikhar R(10).
+
+Author information:
+(1)Department of Internal Medicine, King Edward Medical University, Lahore, 
+Pakistan.
+(2)Department of Internal Medicine, Khyber Medical College Peshawar, Peshawar, 
+Pakistan.
+(3)CMH Lahore Medical College, Lahore, Pakistan.
+(4)Shaikh Khalifa Bin Zayyed al Nahyan Medical and Dental College, Lahore, 
+Pakistan.
+(5)Department of Internal Medicine, Nishtar Medical College, Multan, Pakistan.
+(6)Armed Forces Bone Marrow Transplant Centre, Rawalpindi, Pakistan.
+(7)Shifa International Hospital, Islamabad, Pakistan.
+(8)Department of Medicine, Division of Hematology and Oncology, UT Southwestern 
+Medical Center, Dallas, TX.
+(9)Hematology, Oncology, Stem Cell Transplantation, Multiple Myeloma Program, 
+Taussig Cancer Center, Cleveland Clinic, Cleveland, OH.
+(10)Armed Forces Bone Marrow Transplant Centre, Rawalpindi, Pakistan. Electronic 
+address: drraheeliftikhar@gmail.com.
+
+Primary mediastinal large B-cell lymphoma (PMBCL) is an aggressive B-cell 
+lymphoma arising from thymic B-cells having clinicopathologic features distinct 
+from systemic diffuse large B-cell lymphoma (DLBCL). PMBCL comprises 2% to 4% of 
+all non-Hodgkin lymphomas (NHL), 7% of DLBCL and seen predominantly in young 
+females with a median age of 35 years at diagnosis. The annual incidence of 
+PMBCL is 0.4 per million with a 5-year survival rate exceeding 70% with 
+improving supportive care and genetic characterization of the disease. 
+Pathogenesis involves dysregulation of Janus kinase-signal transducer and 
+activator of transcription (JAK-STAT), nuclear factor-kB (NF-kB) pathways and 
+amplification of the 9p24.1 region of chromosome 9. PMBCL patients have a 
+prolonged life expectancy necessitating the need for treatment approaches that 
+are based on maximizing cure with minimal long-term toxicity. Due to rarity and 
+its recognition as a distinct entity, therapeutic decisions are guided by 
+clinical presentation, clinician and center experience, and analysis of patients 
+with PMBCL within DLBCL registries. Historically R-CHOP has been the usual first 
+line treatment for PMBCL followed by involved site radiotherapy (ISRT), however 
+clinical practice varies across centers with emerging consensus to avoid upfront 
+RT by utilizing dose intense regimens (DA-EPOCH-R) in younger and fit patients. 
+Prognosis of relapsed refractory PMBCL not responding to salvage chemotherapy is 
+dismal, however there are many emerging options including Brentuximab Vedotin, 
+immune check point inhibitors and chimeric antigen receptor T-cell therapy. In 
+this article, we focus on the pathogenesis, current and evolving treatments, and 
+provide recommendations for optimal management of patients with PMBCL.
+
+Copyright © 2021. Published by Elsevier Inc.
+
+DOI: 10.1016/j.clml.2021.06.012
+PMID: 34330673 [Indexed for MEDLINE]
+
+
+279. Mol Diagn Ther. 2021 Sep;25(5):563-576. doi: 10.1007/s40291-021-00544-4.
+Epub  2021 Jul 30.
+
+Milestones of Precision Medicine: An Innovative, Multidisciplinary Overview.
+
+García-Foncillas J(1)(2), Argente J(3)(4), Bujanda L(5), Cardona V(6)(7), 
+Casanova B(8)(9), Fernández-Montes A(10), Horcajadas JA(11), Iñiguez A(12), 
+Ortiz A(13), Pablos JL(14)(15), Pérez Gómez MV(13).
+
+Author information:
+(1)Department of Oncology, Oncohealth Institute, Fundacion Jimenez Diaz 
+University Hospital, Autonomous University, Madrid, Spain. 
+jgfoncillas@gmail.com.
+(2)Medical Oncology Department, University Hospital Fundación Jiménez 
+Díaz-Universidad Autonoma de Madrid, Madrid, Spain. jgfoncillas@gmail.com.
+(3)Department of Endocrinology, Instituto de Salud Carlos III, IMDEA Institute, 
+Hospital Infantil Universitario Niño Jesús, Spanish PUBERE Registry, CIBER of 
+Obesity and Nutrition (CIBEROBN), Universidad Autónoma de Madrid, Madrid, Spain.
+(4)Department of Pediatrics, Instituto de Salud Carlos III, IMDEA Institute, 
+Hospital Infantil Universitario Niño Jesús, Spanish PUBERE Registry, CIBER of 
+Obesity and Nutrition (CIBEROBN), Universidad Autónoma de Madrid, Madrid, Spain.
+(5)Department of Gastroenterology, Hospital Donostia/Instituto Biodonostia, 
+Centro de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas 
+(CIBEREHD), Universidad del País Vasco (UPV/EHU), San Sebastian, Spain.
+(6)Allergy Section, Department of Internal Medicine, Hospital Vall d'Hebron, 
+Barcelona, Spain.
+(7)ARADyAL Research Network, Barcelona, Spain.
+(8)Neuroimmunology Unit, La Fe University and Polytechnic Hospital, Valencia, 
+Spain.
+(9)Department of Medicine, Faculty of Medicine, University of Valencia, 
+Valencia, Spain.
+(10)Medical Oncology, Complejo Hospitalario Universitario de Ourense, Ourense, 
+Spain.
+(11)Overture Life, Valencia, Spain.
+(12)Department of Cardiology, Hospital Álvaro Cunqueiro-Complejo Hospitalario 
+Universitario, Vigo, Spain.
+(13)Department of Nephrology and Hypertension, IIS-Fundación Jiménez Díaz-UAM, 
+Madrid, Spain.
+(14)Grupo de Enfermedades Inflamatorias y Autoinmunes, Instituto de 
+Investigación Hospital 12 de Octubre, Madrid, Spain.
+(15)Servicio de Reumatología, Hospital 12 de Octubre, Universidad Complutense de 
+Madrid, Madrid, Spain.
+
+Although the concept of precision medicine, in which healthcare is tailored to 
+the molecular and clinical characteristics of each individual, is not new, its 
+implementation in clinical practice has been heterogenous. In some medical 
+specialties, precision medicine has gone from being just a promise to a reality 
+that achieves better patient outcomes. This is a fact if we consider, for 
+example, the great advances made in the genetic diagnosis and subsequent 
+treatment of countless hereditary diseases, such as cystic fibrosis, which have 
+improved the life expectancy of many of the affected children. In the field of 
+oncology, the development of targeted therapies has prolonged the survival of 
+patients with breast, lung, colorectal, melanoma, and hematological 
+malignancies. In other disciplines, clinical milestones are perhaps less well 
+known, but no less important. The current challenge is to expand and generalize 
+the use of technologies that are central to precision medicine, such as 
+massively parallel sequencing, to improve the management (prevention and 
+treatment) of complex conditions such as cardiovascular, kidney, or autoimmune 
+diseases. This process requires investment in specialized expertise, 
+multidisciplinary collaboration, and the nationwide organization of genetic 
+laboratories for diagnosis of specific diseases.
+
+© 2021. The Author(s), under exclusive licence to Springer Nature Switzerland 
+AG.
+
+DOI: 10.1007/s40291-021-00544-4
+PMID: 34331269 [Indexed for MEDLINE]
+
+
+280. Health Econ. 2021 Sep;30(10):2606-2613. doi: 10.1002/hec.4401. Epub 2021 Jul
+30.
+
+Distributional consequences of including survivor costs in economic evaluations.
+
+Kellerborg K(1), Brouwer W(1), Versteegh M(2), Wouterse B(1), van Baal P(1).
+
+Author information:
+(1)Erasmus School of Health Policy & Management, Erasmus University Rotterdam, 
+Rotterdam, Netherlands.
+(2)Institute of Medical Technology Assessment, Erasmus University Rotterdam, 
+Rotterdam, Netherlands.
+
+Medical interventions that increase life expectancy of patients result in 
+additional consumption of non-medical goods and services in 'added life years'. 
+This paper focuses on the distributional consequences across socio-economic 
+groups of including these costs in cost effectiveness analysis. In that context, 
+it also highlights the role of remaining quality of life and household economies 
+of scale. Data from a Dutch household spending survey was used to estimate 
+non-medical consumption and household size by age and educational attainment. 
+Estimates of non-medical consumption and household size were combined with life 
+tables to estimate what the impact of including non-medical survivor costs would 
+be on the incremental cost effectiveness ratio (ICER) of preventing a death at a 
+certain age. Results show that including non-medical survivor costs increases 
+estimated ICERs most strongly when interventions are targeted at the higher 
+educated. Adjusting for household size (lower educated people less often live 
+additional life years in multi-person households) and quality of life (lower 
+educated people on average spend added life years in poorer health) mitigates 
+this difference. Ignoring costs of non-medical consumption in economic 
+evaluations implicitly favors interventions targeted at the higher educated and 
+thus potentially amplifies socio-economic inequalities in health.
+
+© 2021 The Authors. Health Economics published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/hec.4401
+PMCID: PMC9292358
+PMID: 34331343 [Indexed for MEDLINE]
+
+Conflict of interest statement: Mr. Kellerborg has nothing to disclose. Dr. 
+Brouwer reports grants from the European Union in the H2020 programme, during 
+the conduct of the study. Dr. Versteegh reports that he is director of the 
+institute for Medical Technology Assessment (iMTA) which conducts contract 
+research for public and private sector bodies. The institute is 100% owned by 
+Erasmus University of Rotterdam and dr Versteegh does not receive any personal 
+fees from collaborations with the private sector. Dr. Wouterse has nothing to 
+disclose. Dr. van Baal has nothing to disclose.
+
+
+281. Accid Anal Prev. 2021 Sep;160:106316. doi: 10.1016/j.aap.2021.106316. Epub
+2021  Jul 29.
+
+Road injury burden in Mexico 1990 to 2019: Secondary data analysis from the 
+Global Burden of Disease Study.
+
+Dávila-Cervantes CA(1).
+
+Author information:
+(1)Latin American Faculty of Social Sciences Mexico, Mexico City, Mexico. 
+Electronic address: claudio.davila@flacso.edu.mx.
+
+Road injuries have been a major cause of premature mortality and disability in 
+Mexico. The objective of this paper is to report the findings from the Global 
+Burden of Disease study (GBD-2019) on road injuries in Mexico at a national and 
+subnational scale from 1990 to 2019, and to assess the association between road 
+injury burden and the socio-demographic index. Following the 2019 Global Burden 
+of Disease study road injury mortality, premature mortality, the years lived 
+with disability and disability-adjusted life-years (DALYs) are reported. While 
+the number of deaths from road injuries increased between 1990 and 2019, the 
+age-standardized mortality rates declined. Pedestrian road injuries and motor 
+vehicle road injuries accounted for 8 of every 10 deaths from road injury in 
+2019. Road injury mortality and DALY rates decreased nationally, but stagnated 
+since 2011. The road injury burden was higher for men in all age groups. 
+Pedestrian and motor vehicle road injuries caused the highest DALY rate in both 
+males and females. There was no significant association between the SDI and the 
+road injury age-standardized DALY rates. This study presents a comprehensive 
+report of road injury burden of disease in Mexico. Mexico continues to have an 
+incomplete, fragmented and poorly enforced legislative framework, with a large 
+diversity between its 32 states. Thus, an integrated legislative and juridical 
+effort is needed to continue reducing the road injury disease burden, which is 
+tailored for specific age groups, vulnerable road users and high-burden areas.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.aap.2021.106316
+PMID: 34332290 [Indexed for MEDLINE]
+
+
+282. J Pain Symptom Manage. 2022 Jan;63(1):78-87. doi: 
+10.1016/j.jpainsymman.2021.07.012. Epub 2021 Jul 29.
+
+Physicians' Opinion and Practice With the Continuous Use of Sedatives in the 
+Last Days of Life.
+
+Heijltjes MT(1), Morita T(2), Mori M(2), Heckel M(3), Klein C(3), Stiel S(4), 
+Miccinesi G(5), Deliens L(6), Robijn L(7), Stone P(8), Sykes N(8), Hui D(9), 
+Krishna L(10), van Delden JJM(11), van der Heide A(12), Rietjens JAC(12).
+
+Author information:
+(1)Department of Medical Humanities, Julius Center for Health Sciences and 
+Primary Care (M.T.H., J.J.M.V.D.), UMC Utrecht, Utrecht, The Netherlands. 
+Electronic address: m.t.heijltjes-2@umcutrecht.nl.
+(2)Palliative and Supportive Care Division (T.M., M.M.), Seirei Mikatahara 
+General Hospital, Shizuoka, Japan.
+(3)Department of Palliative Medicine (M.H., C.K.), CCC Erlangen - EMN, 
+Universitätsklinikum Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg 
+(FAU), Erlangen, Germany.
+(4)Hannover Medical School (S.S.), Institute for General Practice and Palliative 
+Care, Düsseldorf, Germany.
+(5)Oncological network (G.M.), Prevention and Research Institute-ISPRO, Firenze, 
+Italy.
+(6)Vrije Universiteit Brussel (L.D.), Ixelles, Belgium.
+(7)Department of Public Health and Primary Care (L.R.), Ghent University, Ghent, 
+Belgium.
+(8)Marie Curie Palliative Care Research Department (P.S., N.S.), University 
+College London, London, United Kingdom.
+(9)MD Anderson Cancer Center (D.H.), University of Texas, Texas, USA.
+(10)National Cancer Center Singapore (L.K.), Singapore.
+(11)Department of Medical Humanities, Julius Center for Health Sciences and 
+Primary Care (M.T.H., J.J.M.V.D.), UMC Utrecht, Utrecht, The Netherlands.
+(12)Erasmus MC (A.V.D.H., J.A.C.R.), University Medical Center Rotterdam, 
+Rotterdam, The Netherlands.
+
+CONTEXT: There are few international studies about the continuous use of 
+sedatives (CUS) in the last days of life.
+OBJECTIVES: We aim to describe the experiences and opinions regarding CUS of 
+physicians caring for terminally ill patients in seven countries.
+METHODS: Questionnaire study about practices and experiences with CUS in the 
+last days of life among physicians caring for terminally ill patients in Belgium 
+(n = 175), Germany (n = 546), Italy (n = 214), Japan (n = 513), the Netherlands 
+(n = 829), United Kingdom (n = 114) and Singapore (n = 21).
+RESULTS: The overall response rate was 22%. Of the respondents, 88-99% reported 
+that they had clinical experience of CUS in the last 12 months. More than 90% of 
+respondents indicated that they mostly used midazolam for sedation. The use of 
+sedatives to relieve suffering in the last days of life was considered 
+acceptable in cases of physical suffering (87%-99%). This percentage was lower 
+but still substantial in cases of psycho-existential suffering in the absence of 
+physical symptoms (45%-88%). These percentages were lower when the prognosis was 
+at least several weeks (22%-66% for physical suffering and 5%-42% for 
+psycho-existential suffering). Of the respondents, 10% or less agreed with the 
+statement that CUS is unnecessary because suffering can be alleviated with other 
+measures. A substantial proportion (41%-95%) agreed with the statement that a 
+competent patient with severe suffering has the right to demand the use of 
+sedatives in the last days of life.
+CONCLUSION: Many respondents in our study considered CUS acceptable for the 
+relief of physical and psycho-existential suffering in the last days of life. 
+The acceptability was lower regarding CUS for psycho-existential suffering and 
+regarding CUS for patients with a longer life expectancy.
+
+Copyright © 2021 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jpainsymman.2021.07.012
+PMID: 34333097 [Indexed for MEDLINE]
+
+
+283. J Thromb Haemost. 2021 Nov;19(11):2710-2725. doi: 10.1111/jth.15480. Epub
+2021  Aug 17.
+
+Increased potency of recombinant VWF D'D3 albumin fusion proteins engineered for 
+enhanced affinity for coagulation factor VIII.
+
+Chia J(1), Pestel S(2), Glauser I(1), Emmrich K(1), Hardy MP(1), Mischnik M(2), 
+Raquet E(2), Tomasetig V(1), Claar P(2), Zalewski A(1), Bass GT(1), Turnbull 
+V(1), Chen CG(1), Wilson MJ(1), Panousis C(1), Weimer T(2), Andrews A(1), 
+Verhagen AM(1), Dower SK(1).
+
+Author information:
+(1)CSL Limited, Bio21 Molecular Science and Biotechnology Institute, Parkville, 
+Victoria, Australia.
+(2)CSL Behring GmbH, Marburg, Germany.
+
+BACKGROUND: We have recently reported on a recombinant von Willebrand factor 
+(VWF) D'D3 albumin fusion protein (rD'D3-FP) developed to extend the half-life 
+of coagulation factor VIII (FVIII) for the treatment of hemophilia A. Based on 
+predictive modelling presented in this study, we hypothesized that modifying 
+rD'D3-FP to improve FVIII interaction would reduce exchange with endogenous VWF 
+and provide additional FVIII half-life benefit.
+OBJECTIVES: The aim of this study was to identify novel rD'D3-FP variants with 
+enhanced therapeutic efficacy in extending FVIII half-life.
+METHODS: Through both directed mutagenesis and random mutagenesis using a novel 
+mammalian display platform, we identified novel rD'D3-FP variants with increased 
+affinity for FVIII (rVIII-SingleChain) under both neutral and acidic conditions 
+and assessed their ability to extend FVIII half-life in vitro and in vivo.
+RESULTS: In rat preclinical studies, rD'D3-FP variants with increased affinity 
+for FVIII displayed enhanced potency, with reduced dose levels required to 
+achieve equivalent rVIII-SingleChain half-life extension. In cell-based imaging 
+studies in vitro, we also demonstrated reduced dissociation of rVIII-SingleChain 
+from the rD'D3-FP variants within acidic endosomes and more efficient 
+co-recycling of the rD'D3-FP/rVIII-SingleChain complex via the FcRn recycling 
+system.
+CONCLUSIONS: In summary, at potential clinical doses, the rD'D3-FP variants 
+provide marked benefits with respect to dose levels and half-life extension of 
+co-administered FVIII, supporting their development for use in the treatment of 
+hemophilia A.
+
+© 2021 International Society on Thrombosis and Haemostasis.
+
+DOI: 10.1111/jth.15480
+PMID: 34333849 [Indexed for MEDLINE]
+
+
+284. Chin Med J (Engl). 2021 Jul 29;134(16):1959-1966. doi: 
+10.1097/CM9.0000000000001666.
+
+Cancer incidence and mortality in Zhejiang Province, Southeast China, 2016: a 
+population-based study.
+
+Wang YQ(1), Li HZ(1), Gong WW(2), Chen YY(1), Zhu C(1), Wang L(1), Zhong JM(2), 
+Du LB(1).
+
+Author information:
+(1)Zhejiang Provincial Office for Cancer Prevention and Control, The Cancer 
+Hospital of the University of Chinese Academy of Sciences (Zhejiang Cancer 
+Hospital), Institute of Basic Medicine and Cancer (IBMC), Chinese Academy of 
+Sciences, Hangzhou, Zhejiang 310022, China.
+(2)Department of Chronic Non-communicable Disease Prevention and Control, 
+Zhejiang Provincial Center for Disease Control and Prevention, Hangzhou, 
+Zhejiang 310051, China.
+
+BACKGROUNDS: Cancer is one of the main causes of death worldwide, seriously 
+threatening human health and life expectancy. We aimed to analyze the cancer 
+incidence and mortality rates during 2016 in Zhejiang Province, Southeast China.
+METHODS: Data were collected from 14 population-based cancer registries across 
+Zhejiang Province of China. Cancer incidence and mortality rates stratified by 
+sex and region were analyzed. The crude rate, age-standardized rate, 
+age-specific and region-specific rate, and cumulative rate were calculated. The 
+proportions of 10 common cancers in different groups and the incidence and 
+mortality rates of the top five cancers in different age groups were also 
+calculated. The Chinese national census of 2000 and the world Segi population 
+was used for calculating the age-standardized incidence and mortality rates.
+RESULTS: The 14 cancer registries covered a population of 14,250,844 
+individuals, accounting for 29.13% of the population of Zhejiang Province. The 
+total reported cancer cases and deaths were 55,835 and 27,013, respectively. The 
+proportion of morphological verification (MV%) was 78.95% of the population, and 
+percentage of incident cases identified through death certificates only (DCO%) 
+was 1.23% with a mortality-to-incidence ratio (M/I ratio) of 0.48. The crude 
+incidence rate in Zhejiang cancer registration areas was 391.80/105; the 
+age-standardized incidence rate of the Chinese standard population (ASIRC) and 
+the age-standardized incidence rate of the world standard population (ASIRW) 
+were 229.76/105 and 220.96/105, respectively. The incidence rate in men was 
+higher than that in women. The incidence rate increased rapidly after 45 years 
+of age and peaked in individuals aged 80 to 84 years. The top 10 incidence rates 
+of cancers were lung cancer, female breast cancer, thyroid cancer, colorectal 
+cancer, stomach cancer, liver cancer, prostate cancer, cervical cancer, 
+esophageal cancer, and pancreatic cancer (from highest to lowest). The crude 
+mortality rate in Zhejiang cancer registration areas was 189.55/105; the 
+age-standardized mortality rate of the Chinese standard population (ASMRC) and 
+the age-standardized mortality rate of the world standard population (ASMRW) 
+were 94.46/105 and 93.42/105, respectively. The mortality rate in men was higher 
+than that in women, and the male population in rural areas was higher than that 
+in urban areas. The cancer mortality rate increased rapidly after 50 years of 
+age and peaked in individuals aged 85+ years. The top 10 mortality rates of 
+cancers were lung cancer, liver cancer, stomach cancer, colorectal cancer, 
+pancreatic cancer, esophageal cancer, female breast cancer, prostate cancer, 
+lymphoma, and leukemia (from highest to lowest).
+CONCLUSIONS: Lung cancer, female breast cancer, thyroid cancer, colorectal 
+cancer, prostate cancer, liver cancer, and stomach cancer were the most common 
+cancers in Zhejiang Province. Effective prevention and control measures should 
+be established after considering the different characteristics of cancers in 
+urban and rural areas.
+
+Copyright © 2021 The Chinese Medical Association, produced by Wolters Kluwer, 
+Inc. under the CC-BY-NC-ND license.
+
+DOI: 10.1097/CM9.0000000000001666
+PMCID: PMC8382332
+PMID: 34334631 [Indexed for MEDLINE]
+
+Conflict of interest statement: None.
+
+
+285. Spine (Phila Pa 1976). 2021 Sep 1;46(17):1165-1171. doi: 
+10.1097/BRS.0000000000003981.
+
+Calculating Utilities From the Spine Oncology Study Group Outcomes 
+Questionnaire: A Necessity for Economic and Decision Analysis.
+
+Pahuta MA(1), Fisk F(2), Versteeg AL(3), Fisher CG(4), Sahgal A(5), Gokaslan 
+ZL(6), Reynolds JJ(7), Laufer I(8), Lazary A(9), Rhines LD(10), Boriani S(11), 
+Bettegowda C(12), Dea N(4); on behalf of the AO Spine Knowledge Forum Tumor.
+
+Author information:
+(1)Division of Orthopedic Surgery, McMaster University, Hamilton, ON, Canada.
+(2)Department of Orthopedics, Henry Ford Health System, Detroit, MI.
+(3)Department of Radiation Oncology, University Medical Center Utrecht, Utrecht, 
+The Netherlands and Department of Orthopaedic Surgery, University of Toronto, 
+Toronto, Ontario, Canada.
+(4)Division of Spine, Surgery Vancouver Spine Surgery Institute, Vancouver 
+General Hospital University of British Columbia, Vancouver, Canada.
+(5)Department of Radiation Oncology, Sunnybrook Odette Cancer Center and 
+University of Toronto, Toronto, Ontario, Canada.
+(6)Department of Neurosurgery, The Warren Alpert Medical School of Brown 
+University and Rhode Island Hospital and The Miriam Hospital, Providence, RI.
+(7)Oxford University Hospitals NHS Foundation Trust, Oxford, UK.
+(8)Department of Neurosurgery, NYU Grossman School of Medicine, New York, NY.
+(9)National Center for Spinal Disorders and Buda Health Center, Budapest, 
+Hungary.
+(10)Department of Neurosurgery, Division of Surgery, The University of Texas MD 
+Anderson Cancer Center, Houston, TX.
+(11)Spine Surgery Division, IRCCS Istituto Ortopedico Galeazzi, Milan, Italy.
+(12)Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+Baltimore, MD.
+
+STUDY DESIGN: General population utility valuation study.
+OBJECTIVE: The aim of this study was to develop a technique for calculating 
+utilities from the Spine Oncology Study Group Outcomes Questionnaire v2.0 
+(SOSGOQ2.0).
+SUMMARY OF BACKGROUND DATA: The ability to calculate quality-adjusted life-years 
+(QALYs) for metastatic spine disease would enhance treatment decision-making and 
+facilitate economic analysis. QALYs are calculated using utilities.
+METHODS: Using a hybrid concept-retention and factorial analysis shortening 
+approach, we first shortened the SOSGOQ2.0 to eight items (SOSGOQ-8D). This was 
+done to lessen the cognitive burden of the utility valuation exercise. A general 
+population sample of 2730 adults was then asked to evaluate 12 choice sets based 
+on SOSGOQ-8D health states in a Discrete Choice Experiment. A utility scoring 
+rubric was then developed using a mixed multinomial-logit regression model.
+RESULTS: We were able to reduce the SOSGOQ2.0 to an SOSGOQ-8D with a mean error 
+of 0.003 and mean absolute error of 3.078 compared to the full questionnaire. 
+The regression model demonstrated good predictive performance and was used to 
+develop a utility scoring rubric. Regression results revealed that participants 
+did not regard all SOSGOQ-8D items as equally important.
+CONCLUSION: We provide a simple technique for converting the SOSGOQ2.0 to 
+utilities. The ability to evaluate QALYs in metastatic spine disease will 
+facilitate economic analysis and patient counseling. We also quantify the 
+importance of individual SOSGOQ-8D items. Clinicians should heed these findings 
+and offer treatments that maximize function in the most important items.Level of 
+Evidence: 3.
+
+Copyright © 2021 The Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/BRS.0000000000003981
+PMCID: PMC8357033
+PMID: 34334684 [Indexed for MEDLINE]
+
+
+286. Front Physiol. 2021 Jul 16;12:676501. doi: 10.3389/fphys.2021.676501. 
+eCollection 2021.
+
+Substantial and Reproducible Individual Variability in Skeletal Muscle Outcomes 
+in the Cross-Over Designed Planica Bed Rest Program.
+
+Fernandez-Gonzalo R(1), McDonnell AC(2), Simpson EJ(3), Macdonald IA(3), Rullman 
+E(1), Mekjavic IB(2)(4).
+
+Author information:
+(1)Department of Laboratory Medicine, Division of Clinical Physiology, 
+Karolinska Institutet, and Unit of Clinical Physiology, Karolinska University 
+Hospital, Stockholm, Sweden.
+(2)Department of Automation, Biocybernetics and Robotics, Jozef Stefan 
+Institute, Ljubljana, Slovenia.
+(3)MRC Arthritis Research UK Centre for Musculoskeletal Ageing Research, School 
+of Life Sciences, University of Nottingham Medical School, Nottingham, United 
+Kingdom.
+(4)Department of Biomedical Physiology and Kinesiology, Simon Fraser University, 
+Burnaby, BC, Canada.
+
+To evaluate the individual responses in skeletal muscle outcomes following bed 
+rest, data from three studies (21-day PlanHab; 10-day FemHab and LunHab) were 
+combined. Subjects (n = 35) participated in three cross-over campaigns within 
+each study: normoxic (NBR) and hypoxic bed rest (HBR), and hypoxic ambulation 
+(HAMB; used as control). Individual variability (SDIR) was investigated as √(SD 
+Exp2 -SD Con2 ), where SDExp and SDCon are the standard deviations of the change 
+score (i.e., post - pre) in the experimental (NBR and HBR) and the control 
+(HAMB) groups, respectively. Repeatability and moderators of the individual 
+variability were explored. Significant SDIR was detected for knee extension 
+torque, and thigh and calf muscle area, which translated into an individual 
+response ranging from 3 to -17% for knee extension torque, -2 to -12% for calf 
+muscle area, and -1 to -8% for thigh muscle area. Strong correlations were found 
+for changes in NBR vs. HBR (i.e., repeatability) in thigh and calf muscle area 
+(r = 0.65-0.75, P < 0.0001). Change-scores in knee extension torque, and thigh 
+and calf muscle area strongly correlated with baseline values (P < 0.001; r 
+between -0.5 and -0.9). Orthogonal partial least squares regression analysis 
+explored if changes in the investigated variables could predict calf muscle area 
+alterations. This analysis indicated that 43% of the variance in calf muscle 
+area could be attributed to changes in all of the other variables. This is the 
+first study using a validated methodology to report clinically relevant 
+individual variability after bed rest in knee extension torque, calf muscle 
+area, and (to a lower extent) thigh muscle area. Baseline values emerged as a 
+moderator of the individual response, and a global bed rest signature served as 
+a moderately strong predictor of the individual variation in calf muscle area 
+alterations.
+
+Copyright © 2021 Fernandez-Gonzalo, McDonnell, Simpson, Macdonald, Rullman and 
+Mekjavic.
+
+DOI: 10.3389/fphys.2021.676501
+PMCID: PMC8322684
+PMID: 34335293
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+287. ChemCatChem. 2021 May 7;13(9):2095-2116. doi: 10.1002/cctc.202001886. Epub
+2021  Jan 28.
+
+Biosynthetic Cyclization Catalysts for the Assembly of Peptide and Polyketide 
+Natural Products.
+
+Adrover-Castellano ML(1), Schmidt JJ(1), Sherman DH(1).
+
+Author information:
+(1)Life Sciences Institute, University of Michigan, 210 Washtenaw Avenue, Ann 
+Arbor, MI 48109-2216 (USA).
+
+Many biologically active natural products are synthesized by nonribosomal 
+peptide synthetases (NRPSs), polyketide synthases (PKSs) and their hybrids. 
+These megasynthetases contain modules possessing distinct catalytic domains that 
+allow for substrate initiation, chain extension, processing and termination. At 
+the end of a module, a terminal domain, usually a thioesterase (TE), is 
+responsible for catalyzing the release of the NRPS or PKS as a linear or 
+cyclized product. In this review, we address the general cyclization mechanism 
+of the TE domain, including oligomerization and the fungal C-C bond forming 
+Claisen-like cyclases (CLCs). Additionally, we include examples of cyclization 
+catalysts acting within or at the end of a module. Furthermore, 
+condensation-like (CT) domains, terminal reductase (R) domains, reductase-like 
+domains that catalyze Dieckmann condensation (RD), thioesterase-like Dieckmann 
+cyclases, trans-acting TEs from the penicillin binding protein (PBP) enzyme 
+family, product template (PT) domains and others will also be reviewed. The 
+studies summarized here highlight the remarkable diversity of NRPS and PKS 
+cyclization catalysts for the production of biologically relevant, complex 
+cyclic natural products and related compounds.
+
+DOI: 10.1002/cctc.202001886
+PMCID: PMC8320681
+PMID: 34335987
+
+
+288. Radiol Case Rep. 2021 Jul 16;16(9):2651-2657. doi:
+10.1016/j.radcr.2021.06.041.  eCollection 2021 Sep.
+
+Invasive sinus aspergillosis with mycotic aneurysm of the vertebral artery and 
+subarachnoid hemorrhage - Case report.
+
+Mencinger M(1), Matos T(2)(3), Popović KŠ(1)(3).
+
+Author information:
+(1)Clinical Institute of Radiology, University Medical Centre Ljubljana, Zaloška 
+7, 1000 Ljubljana, Slovenia.
+(2)Institute of Microbiology and Immunology, Faculty of Medicine, University of 
+Ljubljana, Ljubljana, Slovenia.
+(3)Faculty of Medicine Ljubljana, University of Ljubljana, Ljubljana, Slovenia.
+
+Invasive sinus aspergillosis is a rare life-threatening condition usually found 
+in immunocompromised patients. The fungus spreads from paranasal sinuses into 
+the central nervous system by direct extension or through blood vessels. 
+Perineural spread is an uncommon mechanism of spread in invasive aspergillosis. 
+A mycotic aneurysm is a dangerous complication of invasive sinus aspergillosis 
+because of its insidious development and is often diagnosed only post-mortem 
+after causing fatal intracranial hemorrhage. Intracranial vascular complications 
+of invasive sinus aspergillosis require prompt recognition and treatment and 
+should always be considered when a diagnosis of CNS aspergillosis is made. We 
+present a case of invasive sinus aspergillosis in an apparently immunocompetent 
+patient that manifested with a brain abscess, perineural spread of the 
+infection, and mycotic aneurysm of the vertebral artery with subsequent rupture 
+and fatal subarachnoid hemorrhage. This case highlights the possibility of 
+perineural spread and hemorrhagic complications in invasive cerebral 
+aspergillosis.
+
+© 2021 The Authors. Published by Elsevier Inc. on behalf of University of 
+Washington.
+
+DOI: 10.1016/j.radcr.2021.06.041
+PMCID: PMC8318899
+PMID: 34336072
+
+
+289. Oxid Med Cell Longev. 2021 Jul 11;2021:9932218. doi: 10.1155/2021/9932218. 
+eCollection 2021.
+
+Effects and Mechanisms of Resveratrol on Aging and Age-Related Diseases.
+
+Zhou DD(1), Luo M(1), Huang SY(1), Saimaiti A(1), Shang A(1), Gan RY(2)(3), Li 
+HB(1).
+
+Author information:
+(1)Guangdong Provincial Key Laboratory of Food, Nutrition and Health, Department 
+of Nutrition, School of Public Health, Sun Yat-sen University, Guangzhou 510080, 
+China.
+(2)Research Center for Plants and Human Health, Institute of Urban Agriculture, 
+Chinese Academy of Agricultural Sciences, Chengdu 610213, China.
+(3)Key Laboratory of Coarse Cereal Processing (Ministry of Agriculture and Rural 
+Affairs), Sichuan Engineering & Technology Research Center of Coarse Cereal 
+Industrialization, Chengdu University, Chengdu 610106, China.
+
+The aging of population has become an issue of great concern because of its 
+rapid increase. Aging is an important risk factor of many chronic diseases. 
+Resveratrol could be found in many foods, such as grapes, red wine, peanuts, and 
+blueberries. Many studies reported that resveratrol possessed various 
+bioactivities, such as antioxidant, anti-inflammatory, cardiovascular 
+protection, anticancer, antidiabetes mellitus, antiobesity, neuroprotection, and 
+antiaging effects. The antiaging mechanisms of resveratrol were mainly 
+ameliorating oxidative stress, relieving inflammatory reaction, improving 
+mitochondrial function, and regulating apoptosis. Resveratrol could be an 
+effective and safe compound for the prevention and treatment of aging and 
+age-related diseases. In this review, we summarize the effects of resveratrol on 
+aging, life extension, and several age-related diseases, with special attention 
+paid to the mechanisms of antiaging action.
+
+Copyright © 2021 Dan-Dan Zhou et al.
+
+DOI: 10.1155/2021/9932218
+PMCID: PMC8289612
+PMID: 34336123 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there is no conflict of 
+interest regarding the publication of this article.
+
+
+290. Case Rep Cardiol. 2021 Jul 11;2021:5569533. doi: 10.1155/2021/5569533. 
+eCollection 2021.
+
+Lactococcus garvieae: An Uncommon Human Pathogen Causing Infective Endocarditis 
+in a Valve-in-Valve Transcatheter Aortic Valve Replacement.
+
+González-Bravo DH(1), Alegre-Boschetti S(1), Silva-Cantillo R(1), 
+Mercado-Maldonado J(1), Ramos-Márquez R(2), Torres-Rivera G(2), Cortés C(3), 
+Mercado-Crespo J(1).
+
+Author information:
+(1)Cardiovascular Division, Department of Medicine, VA Caribbean Healthcare 
+System, San Juan, Puerto Rico.
+(2)Internal Medicine Division, Department of Medicine, VA Caribbean Healthcare 
+System, San Juan, Puerto Rico.
+(3)Internal Medicine and Nephrology Division, Department of Medicine, VA 
+Caribbean Healthcare System, San Juan, Puerto Rico.
+
+Lactococcus garvieae is a fish pathogen and an uncommon cause of human 
+infections. There is a growing body of evidence showing its potential for 
+causing endocarditis especially in those with prior valve surgery. In this case 
+report, we present what we believe is the first case of endocarditis by L. 
+garvieae affecting a valve-in-valve transcatheter aortic valve replacement that 
+was successfully treated. Specific guidelines for the management of these 
+patients are lacking. Our experience can contribute to the current knowledge 
+regarding this life-threatening infection as well as to the future care of these 
+patients. We aim to emphasize that despite not being recognized as a typical 
+endocarditis microorganism by the Duke Criteria, the possibility of endocarditis 
+needs to be highly entertained in patients with L. garvieae bacteremia, 
+especially when prosthetic valves are present. Consequently, clinicians should 
+pursue further this diagnosis with transesophageal echocardiogram and/or 
+alternative imaging modalities (e.g., PET-CT scan and MRI) regardless of an 
+initial negative transthoracic echocardiogram. Reaching a diagnosis of L. 
+garvieae endocarditis led us to the decision of prolonging the antibiotic course 
+for 6 weeks with successful results. Ultimately, surgery was not required owing 
+to the absence of prosthetic aortic valve dysfunction and paravalvular extension 
+of the infection.
+
+Copyright © 2021 Diego H. González-Bravo et al.
+
+DOI: 10.1155/2021/5569533
+PMCID: PMC8289619
+PMID: 34336297
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.
+
+
+291. Int J Burns Trauma. 2021 Jun 15;11(3):245-250. eCollection 2021.
+
+Paraffin wax bath therapy versus therapeutic ultrasound in management of post 
+burn contractures of small joints of hand.
+
+Riaz HM(1), Ashraf Cheema S(2).
+
+Author information:
+(1)Department of Physiotherapy, Burn Centre, Faisalabad Medical University, 
+Allied Hospital Faisalabad, Pakistan.
+(2)Department of Plastic Surgery, Burn Centre, Faisalabad Medical University, 

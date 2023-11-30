@@ -1,0 +1,1000 @@
+37232, USA; Department of Neurological Surgery, Vanderbilt University Medical 
+Center, The Village at Vanderbilt, 1500 21st Ave S Suite 1506, Nashville, TN 
+37212, USA. Electronic address: amir.m.abtahi@vumc.org.
+
+BACKGROUND CONTEXT: Multiple sclerosis (MS) is an autoimmune, neurodegenerative 
+disease that can lead to significant functional disability. Improving treatment 
+regimens have extended life expectancy and led to an increase in the number of 
+elective spine surgeries for degenerative conditions in the MS population. 
+Recent literature has reported mixed results regarding the efficacy of elective 
+spine surgery for patients with MS. There is also a paucity of literature 
+comparing postoperative patient reported outcomes (PROs) and reoperation rates 
+between patients with and without MS.
+PURPOSE: To determine if patients with MS have worse PROs and higher 
+complication, readmission and reoperation rates after elective spine surgery 
+compared with patients without neurodegenerative conditions when adjusting for 
+baseline covariates through propensity matching.
+STUDY DESIGN/SETTING: Retrospective review of prospectively collected data from 
+the Quality Outcomes Database (QOD), a national, longitudinal, multicenter spine 
+outcomes registry.
+PATIENT SAMPLE: For the lumbar cohort, 312 patients with MS and 46,738 patients 
+without MS were included. The cervical myelopathy cohort included 91 patients 
+with MS and 6,426 patients without MS. The cervical radiculopathy cohort 
+consisted of 103 patients with MS and 13,751 patients without MS.
+OUTCOME MEASURES: 1) complication rates, 2) readmission rates, 3) reoperation 
+rates, and 4) PROs at 3- and 12-months including ODI/NDI, NRS back/neck/arm/leg 
+pain, mJOA scores and patient satisfaction ratings.
+METHODS: Data from the QOD was queried for patients with surgeries occurring 
+between 04/2013-01/2019. Three surgical groups were included: 1) Elective lumbar 
+surgery, 2) Elective cervical surgery for myelopathy, 3) Elective cervical 
+surgery for radiculopathy. Patients with any neurodegenerative condition other 
+than MS were excluded. Patients without MS were propensity matched against 
+patients with MS in a 5 to 1 ratio without replacement based on ASA grade, 
+arthrodesis, surgical approach, number of operated levels, age, and baseline 
+ODI/NDI, NRS leg/arm pain, NRS back/neck pain, and EQ-5D. Multivariable 
+regressions with cluster-robust standard errors were used to estimate average 
+effect of how the outcome would change if the MS patient didn't have the 
+disease. The mean difference was used for continuous outcomes and the risk 
+difference was used for binary outcomes.
+RESULTS: For the lumbar cohort, no differences were found between the 2 groups 
+at 3 or 12 months in any of the outcome measures. For the myelopathy cohort, 
+patients with MS patients had a lower rate of reoperation at 12 months (risk 
+difference=-0.036, p=.007) and worse 3-month mJOA scores (mean 
+difference=-1.044, p=.004) compared with patients without MS. For the 
+radiculopathy cohort, patients with MS had a lower rate of reoperation at 3 
+months (risk difference=-0.019, p=.018) and 12 months (risk difference=-0.029, 
+p=.007) compared with those without MS.
+CONCLUSIONS: Patients with MS had similar PROs compared with patients without MS 
+when adjusting for baseline covariates through propensity matching, except for 
+3-month mJOA scores in the myelopathy cohort. Reoperation rates were found to be 
+lower in patients with MS undergoing elective cervical surgery for both 
+myelopathy and radiculopathy. These results suggest that when analyzed 
+independently, a diagnosis of MS does not significantly impact complication, 
+readmission and reoperation rates or PROs, and therefore should not represent a 
+major contraindication to elective spine surgery. Surgical decisions in this 
+patient population should be made based on careful consideration of patient 
+factors including other comorbidities as well as baseline patient functional 
+status.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.spinee.2022.06.009
+PMID: 35779839 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest Dr. Jacquelyn 
+Pennings reports a past contract with NeuroPoint Alliance Inc. as well as 
+consulting fees from Steamboat Orthopaedic Spine Institute and 3Spine. Dr. 
+Kristin Archer reports a past contract with NeuroPoint Alliance Inc., past 
+consulting fees from Pacira, current consulting fees from NeuroSpinal Innovation 
+Inc and honorarium from Spine as an editorial board member. Dr. Hui Nian reports 
+a past contract with NeuroPoint Alliance Inc. Dr. Zuckerman reports being an 
+unaffiliated neurotrauma consultant for the National Football League. Dr. 
+Stephens reports educational consulting for Medical Device Business Services and 
+a grant from Stryker Spine [R1160501]. For the remaining authors, none were 
+declared.
+
+
+955. N Biotechnol. 2022 Nov 25;71:21-29. doi: 10.1016/j.nbt.2022.06.005. Epub
+2022  Jun 29.
+
+Plasma protein biomarker profiling reveals major differences between acute 
+leukaemia, lymphoma patients and controls.
+
+Abu Sabaa A(1), Shen Q(2), Lennmyr EB(3), Enblad AP(3), Gammelgård G(4), Molin 
+D(4), Hein A(4), Freyhult E(5), Kamali-Moghaddam M(2), Höglund M(3), Enblad 
+G(4), Eriksson A(3).
+
+Author information:
+(1)Department of Immunology, Genetics & Pathology, Uppsala University, Uppsala, 
+Sweden; Centre for Research and Development, Uppsala University/Region 
+Gävleborg, Sweden. Electronic address: amal.abu.sabaa@regiongavleborg.se.
+(2)Department of Immunology, Genetics & Pathology, Science for Life Laboratory, 
+Uppsala University, Uppsala, Sweden.
+(3)Department of Cell and Molecular Biology, Uppsala University, Uppsala, 
+Sweden.
+(4)Department of Immunology, Genetics & Pathology, Uppsala University, Uppsala, 
+Sweden.
+(5)Department of Medical Sciences, National Bioinformatics Infrastructure 
+Sweden, Science for Life Laboratory, Uppsala University, Uppsala, Sweden.
+
+Aiming to accommodate the unmet need for easily accessible biomarkers with a 
+focus on biological differences between haematological diseases, the diagnostic 
+value of plasma proteins in acute leukaemias and lymphomas was investigated. A 
+multiplex proximity extension assay (PEA) was used to analyze 183 proteins in 
+diagnostic plasma samples from 251 acute leukaemia and lymphoma patients and 
+compared with samples from 60 healthy controls. Multivariate modelling using 
+partial least square discriminant analysis revealed highly significant 
+differences between distinct disease subgroups and controls. The model allowed 
+explicit distinction between leukaemia and lymphoma, with few patients 
+misclassified. Acute leukaemia samples had higher levels of proteins associated 
+with haemostasis, inflammation, cell differentiation and cell-matrix 
+integration, whereas lymphoma samples demonstrated higher levels of proteins 
+known to be associated with tumour microenvironment and lymphoma dissemination. 
+PEA technology can be used to screen for large number of plasma protein 
+biomarkers in low µL sample volumes, enabling the distinction between controls, 
+acute leukaemias and lymphomas. Plasma protein profiling could help gain 
+insights into the pathophysiology of acute leukaemia and lymphoma and the 
+technique may be a valuable tool in the diagnosis of these diseases.
+
+Copyright © 2022 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.nbt.2022.06.005
+PMID: 35779858 [Indexed for MEDLINE]
+
+
+956. Adv Cancer Res. 2022;155:167-214. doi: 10.1016/bs.acr.2022.03.006. Epub 2022
+Apr  20.
+
+Cardiac complications of cancer therapies.
+
+Mauro AG(1), Hunter K(1), Salloum FN(2).
+
+Author information:
+(1)Division of Cardiology, Department of Internal Medicine, Virginia 
+Commonwealth University, Pauley Heart Center, Richmond, VA, United States.
+(2)Division of Cardiology, Department of Internal Medicine, Virginia 
+Commonwealth University, Pauley Heart Center, Richmond, VA, United States. 
+Electronic address: fadi.salloum@vcuhealth.org.
+
+The quest of defeating cancer and improving prognosis in survivors has generated 
+remarkable strides forward in research and have advanced the development of new 
+antineoplastic therapies. These achievements, combined with rapid screening and 
+early detection, have considerably extended the life expectancy of patients 
+surviving multiple types of malignancies. Consequently, chemotherapy-related 
+toxicity in several organ systems, especially the cardiovascular system, has 
+surfaced as one of the leading causes of morbidity and mortality among cancer 
+survivors. Recent evidence classifies chemotherapy-induced cardiotoxicity as the 
+second-leading cause of morbidity and mortality, closely comparing with 
+secondary cancer malignancies. While a certain degree of cardiotoxicity has been 
+reported to accompany most chemotherapies, including anthracyclines, 
+anti-metabolites, and alkylating agents, even the latest targeted cancer 
+therapies such as immune checkpoint inhibitors and tyrosine kinase inhibitors 
+have been associated with acute and chronic cardiac sequelae. In this chapter, 
+we focus on describing the principal mechanism(s) for each class of 
+chemotherapeutic agents that lead to cardiotoxicity and the innovative 
+translational research approaches that are currently being explored to prevent 
+or treat cancer therapy-induced cardiotoxicity and related cardiac 
+complications.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/bs.acr.2022.03.006
+PMCID: PMC9648627
+PMID: 35779874 [Indexed for MEDLINE]
+
+
+957. Semin Immunol. 2022 Jan;59:101628. doi: 10.1016/j.smim.2022.101628. Epub
+2022  Jun 30.
+
+Pathophysiology of neurodegenerative diseases: An interplay among axonal 
+transport failure, oxidative stress, and inflammation?
+
+Tesco G(1), Lomoio S(2).
+
+Author information:
+(1)Department of Neuroscience, Tufts University School of Medicine, 136 Harrison 
+Ave, Boston, MA 02111, USA.
+(2)Department of Neuroscience, Tufts University School of Medicine, 136 Harrison 
+Ave, Boston, MA 02111, USA. Electronic address: selene.lomoio@tufts.edu.
+
+Neurodegenerative diseases (NDs) are heterogeneous neurological disorders 
+characterized by a progressive loss of selected neuronal populations. A 
+significant risk factor for most NDs is aging. Considering the constant increase 
+in life expectancy, NDs represent a global public health burden. Axonal 
+transport (AT) is a central cellular process underlying the generation and 
+maintenance of neuronal architecture and connectivity. Deficits in AT appear to 
+be a common thread for most, if not all, NDs. Neuroinflammation has been 
+notoriously difficult to define in relation to NDs. Inflammation is a complex 
+multifactorial process in the CNS, which varies depending on the disease stage. 
+Several lines of evidence suggest that AT defect, axonopathy and 
+neuroinflammation are tightly interlaced. However, whether these impairments 
+play a causative role in NDs or are merely a downstream effect of neuronal 
+degeneration remains unsettled. We still lack reliable information on the 
+temporal relationship between these pathogenic mechanisms, although several 
+findings suggest that they may occur early during ND pathophysiology. This 
+article will review the latest evidence emerging on whether the interplay 
+between AT perturbations and some aspects of CNS inflammation can participate in 
+ND etiology, analyze their potential as therapeutic targets, and the urge to 
+identify early surrogate biomarkers.
+
+Copyright © 2022 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.smim.2022.101628
+PMCID: PMC9807734
+PMID: 35779975 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests The authors have no conflict 
+of interest to declare.
+
+
+958. Drug Alcohol Depend. 2022 Sep 1;238:109542. doi: 
+10.1016/j.drugalcdep.2022.109542. Epub 2022 Jun 20.
+
+Time trends and associated factors of global burden due to drug use disorders in 
+204 countries and territories, 1990-2019.
+
+Chen A(1), Zou M(2), Fan M(3), Young CA(4), Chiu HC(5), Jin G(6), Tian L(7).
+
+Author information:
+(1)Department of Pharmacy, Fifth Affiliated Hospital, Sun Yat-sen University, 
+Zhuhai, China.
+(2)State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun 
+Yat-sen University, Guangdong Provincial Key Laboratory of Ophthalmology and 
+Visual Science, Guangdong Provincial Clinical Research Center for Ocular 
+Diseases, Guangzhou 510060, China.
+(3)Department of General Intensive Care Unit, Third Affiliated Hospital, Sun 
+Yat-sen University, Guangzhou, China.
+(4)Department of Ophthalmology, Third Affiliated Hospital, Nanchang University, 
+Nanchang, China.
+(5)Institute for Hospital Management, Tsinghua University, Beijing, China; 
+Department of Healthcare Administration and Medical Informatics, Kaohsiung 
+Medical University, Kaohsiung, Taiwan; Department of Health Policy and 
+Management, Bloomberg School of Public Health, John Hopkins University, 
+Baltimore, United States. Electronic address: chiuhc@sz.tsinghua.edu.cn.
+(6)State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun 
+Yat-sen University, Guangdong Provincial Key Laboratory of Ophthalmology and 
+Visual Science, Guangdong Provincial Clinical Research Center for Ocular 
+Diseases, Guangzhou 510060, China. Electronic address: jingm@mail2.sysu.edu.cn.
+(7)Department of Pharmacy, Fifth Affiliated Hospital, Sun Yat-sen University, 
+Zhuhai, China. Electronic address: tianlin@mail.sysu.edu.cn.
+
+BACKGROUND: Drug use disorders (DUDs) have been a public health crisis which 
+strongly impacted community health and socio-economic development. However, 
+there are few studies based on the latest global data to show changes in the 
+disease burden due to DUDs, specifically investigating associations between the 
+country-level socio-economic factors and the burden of DUDs.
+METHODS: Data of DUDs were extracted from the Global Burden of Disease Study 
+2019 database to explore the trends of the disease burden due to DUDs from 1990 
+to 2019. Univariate linear regression and stepwise multiple linear regression 
+analysis were performed to analyze the correlations between burden due to DUDs 
+and country-level socio-economic factors.
+RESULTS: Globally, the number of disability-adjusted life-years (DALYs) caused 
+by DUDs approximately increased by 2.6% yearly from 1990 to 2019, though the 
+age-standardized DALY rate has not changed significantly in the past 30 years. 
+The age-standardized DALY rate of opioid use disorders showed an upward trend 
+during the past 30 years and was highest among 5 types of DUDs in 2019. 
+Inequality-adjusted human development index (β = 15.9, 95% confidence interval 
+[CI]: 12.9-18.9, P < 0.001) was identified as the key risk factor associated 
+with square-root transformed age-standardized DALY rate of DUDs.
+CONCLUSIONS: Global burden due to DUDs has increased significantly over the past 
+30 years. More effective targeted public health policies should be formulated to 
+manage the public health challenge of DUDs, especially in developed countries 
+and territories.
+
+Copyright © 2022 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.drugalcdep.2022.109542
+PMID: 35780623 [Indexed for MEDLINE]
+
+
+959. Ann Thorac Surg. 2022 Dec;114(6):2001-2007. doi: 
+10.1016/j.athoracsur.2022.06.017. Epub 2022 Jun 30.
+
+Minimum Volume Standards for Surgical Care of Early-Stage Lung Cancer: A 
+Cost-Effectiveness Analysis.
+
+Subramanian MP(1), Yang Z(1), Chang SH(2), Willis D(3), Zhang J(4), Semenkovich 
+TR(1), Heiden BT(1), Kozower BD(1), Kreisel D(1), Meyers BF(1), Patterson GA(1), 
+Nava RG(1), Puri V(5).
+
+Author information:
+(1)Division of Cardiothoracic Surgery, Washington University School of Medicine, 
+St Louis, Missouri.
+(2)Division of Public Health Sciences, Washington University School of Medicine, 
+St Louis, Missouri.
+(3)Division of Hematology and Oncology, Department of Pediatrics, Washington 
+University School of Medicine, St Louis, Missouri.
+(4)George Warren Brown School of Social Work, Washington University in St Louis, 
+St Louis, Missouri.
+(5)Division of Cardiothoracic Surgery, Washington University School of Medicine, 
+St Louis, Missouri. Electronic address: varunpuri@wustl.edu.
+
+Comment in
+    Ann Thorac Surg. 2023 Aug;116(2):442.
+    Ann Thorac Surg. 2023 Sep;116(3):655-656.
+
+BACKGROUND: Multiple stakeholders have advocated for minimum volume standards 
+for complex surgical procedures. The Leapfrog Group recommends that patients 
+with non-small cell lung cancer (NSCLC) receive surgical resection at hospitals 
+that perform at least 40 lung resections annually. However, the 
+cost-effectiveness of this paradigm is unknown.
+METHODS: A cost-effectiveness analysis was performed on 90-day and 5-year 
+horizons for patients with clinical stage I NSCLC undergoing surgical resection 
+at hospitals stratified by Leapfrog standard. Model inputs were derived from 
+either the literature or a propensity score-matched cohort using the National 
+Cancer Database. For the 5-year horizon, we simulated using a Markov model with 
+1-year cycle. Incremental cost-effectiveness ratio (ICER) was calculated to 
+evaluate cost-effectiveness.
+RESULTS: For the 90-day horizon, resection at a Leapfrog hospital was more 
+costly ($25 567 vs $25 530) but had greater utility (0.185 vs 0.181 
+quality-adjusted life-years), resulting in an ICER of 10 506. Similarly, for the 
+5-year horizon, resection at a Leapfrog hospital was more costly ($26 600 vs 
+$26 495) but more effective (3.216 vs 3.122 quality-adjusted life-years), 
+resulting in an ICER of 1108. When the costs for long-distance travel, lodging, 
+and loss of productivity for caregivers were factored in, the ICER was 20 499 
+during the 5-year horizon for resection at Leapfrog hospitals. Using a 
+willingness-to-pay threshold of $50 000, resection at a Leapfrog hospital 
+remained cost-effective.
+CONCLUSIONS: Receiving surgery for clinical stage I NSCLC at hospitals that meet 
+Leapfrog volume standards is cost-effective. Payers and policymakers should 
+consider supporting patient and caregiver travel to higher volume institutions 
+for lung cancer surgery.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.athoracsur.2022.06.017
+PMID: 35780816 [Indexed for MEDLINE]
+
+
+960. Gac Sanit. 2022;36 Suppl 1:S4-S12. doi: 10.1016/j.gaceta.2022.02.008.
+
+[Health impact of COVID pandemic. SESPAS Report 2022].
+
+[Article in Spanish]
+
+Torres-Cantero AM(1), Álvarez León EE(2), Morán-Sánchez I(3), San Lázaro 
+Campillo I(4), Bernal Morell E(5), Hernández Pereña M(4), Martínez-Morata I(6).
+
+Author information:
+(1)IMIB-Arrixaca, Murcia, España; Servicio de Medicina Preventiva, Hospital 
+Clínico Universitario Virgen de la Arrixaca, Murcia, España; Departamento de 
+Ciencias Sociosanitarias, Facultad de Medicina, Universidad de Murcia, Murcia, 
+España. Electronic address: amtorres@um.es.
+(2)Servicio de Medicina Preventiva, Complejo Hospitalario Universitario Insular 
+Materno Infantil, Servicio Canario de la Salud, Las Palmas de Gran Canaria, 
+España; Instituto Ramón y Cajal de Investigación Sanitaria (IRYCIS), Madrid, 
+España.
+(3)IMIB-Arrixaca, Murcia, España; CSM Cartagena, Servicio Murciano de Salud, 
+Cartagena (Murcia), España.
+(4)IMIB-Arrixaca, Murcia, España; Servicio de Medicina Preventiva, Hospital 
+Clínico Universitario Virgen de la Arrixaca, Murcia, España.
+(5)IMIB-Arrixaca, Murcia, España; Departamento de Ciencias Sociosanitarias, 
+Facultad de Medicina, Universidad de Murcia, Murcia, España; Hospital General 
+Universitario Reina Sofía, Murcia, España.
+(6)IMIB-Arrixaca, Murcia, España; Department of Environmental Health Sciences, 
+Mailman School of Public Health, Columbia University, New York, USA.
+
+OBJECTIVE: The World Health Organization declared the global SARS-CoV-2 
+infection a pandemic on March 11, 2020. The objective of this paper is to 
+present its impact in terms of physical and mental health 22 months later.
+METHOD: We have reviewed results from published meta-analysis and systematic 
+reviews, and some individual articles on specific aspects of special interest. 
+National information on infection comes for the Red Nacional de Vigilancia 
+Epidemiológica (RENAVE).
+RESULTS: Up to the end of October, more than 250 million infections and 5 
+million deaths had been reported globally. In Spain, 4.7 million infections have 
+been documented although the real figure might be above 7 million. The pandemic 
+has reduced life expectancy, and its effects have been especially dramatic in 
+people with comorbidities and the elderly. There is a worsening of mental health 
+in the general population. It is foreseeable that some groups, such as health 
+professionals, mostly women, and front-line workers, may have a greater risk of 
+developing mental health pathologies. The pandemic and the control measures have 
+had other undesirable consequences such as a decrease in healthcare utilization, 
+an increase in sedentary lifestyle or an increase in gender violence. In 
+addition to its immediate effect on morbidity and mortality, the control 
+measures have damaged the overall health status of the global population.
+CONCLUSIONS: Longitudinal studies are necessary to determine the mid and long 
+consequences of the pandemic and the control measures, and to identify and 
+evaluate effective health interventions.
+
+OBJETIVO: Presentar, a los 22 meses de que la Organización Mundial de la Salud 
+declarara como pandemia la infección global por SARS-CoV-2 el 11 de marzo de 
+2020, el impacto hasta el momento de la pandemia en términos de salud física y 
+mental.
+MÉTODO: Se han revisado resultados procedentes de metaanálisis y revisiones 
+sistemáticas, citándose para algún aspecto específico de interés artículos 
+individuales. La información nacional procede de la Red Nacional de Vigilancia 
+Epidemiológica (RENAVE).
+RESULTADOS: Hasta finales de octubre se habían producido más de 250 millones de 
+infecciones y 5 millones de muertes. En España se han notificado 4,7 millones de 
+infecciones, aunque la cifra real es superior a los 7 millones. Se ha reducido 
+la esperanza de vida, con efectos especialmente dramáticos en grupos de 
+población con comorbilidad y de edad avanzada. Se constata un empeoramiento de 
+la salud mental general. Es previsible que algunos colectivos, como los/las 
+profesionales sanitarios/as, en su mayoría mujeres, y trabajadores/as de primera 
+línea, tengan un mayor riesgo de desarrollar patologías de salud mental en el 
+futuro. La pandemia y las medidas de control han tenido otras consecuencias 
+indeseables, como la disminución de la actividad asistencial, el aumento del 
+sedentarismo y el aumento de la violencia de género.
+CONCLUSIONES: Son necesarios estudios longitudinales para determinar la magnitud 
+de las consecuencias de la propia infección y de las medidas de control y las 
+actuaciones necesarias.
+
+Copyright © 2022 SESPAS. Publicado por Elsevier España, S.L.U. All rights 
+reserved.
+
+DOI: 10.1016/j.gaceta.2022.02.008
+PMCID: PMC9244867
+PMID: 35781147 [Indexed for MEDLINE]961. Gynecol Oncol. 2022 Sep;166(3):582-588. doi: 10.1016/j.ygyno.2022.06.015.
+Epub  2022 Jul 1.
+
+Pembrolizumab plus lenvatinib as first-line therapy for patients with mismatch 
+repair-proficient advanced endometrial cancer: A United States-based 
+cost-effectiveness analysis.
+
+Liu K(1), Zhu Y(1), Zhou Y(1), Zhang Y(2), Zhu H(3).
+
+Author information:
+(1)Department of Oncology, Xiangya Hospital, Central South University, Changsha, 
+Hunan 410008, China.
+(2)Department of Gynecology, Xiangya Hospital, Central South University, 
+Changsha, Hunan 410008, China; National Clinical Research Center for Geriatric 
+Disorders, Xiangya Hospital, Central South University, Changsha, Hunan 410008, 
+China. Electronic address: xyzhangyu@csu.edu.cn.
+(3)Department of Oncology, Xiangya Hospital, Central South University, Changsha, 
+Hunan 410008, China; National Clinical Research Center for Geriatric Disorders, 
+Xiangya Hospital, Central South University, Changsha, Hunan 410008, China. 
+Electronic address: zhuhong0719@126.com.
+
+OBJECTIVE: In 2022, the KEYNOTE-775 (NCT03517449) study showed that 
+pembrolizumab plus lenvatinib (PL) has more benefits than traditional 
+chemotherapy as a first-line regimen to treat patients with mismatch 
+repair-proficient (pMMR) advanced endometrial cancer (aEC). However, given the 
+high cost of immuno-targeted therapy, the widespread use among patients remains 
+uncertain. Therefore, we conducted a cost-effectiveness comparison between PL 
+and chemotherapy.
+METHODS: We evaluated the cost-effectiveness of PL versus chemotherapy over 7 
+years by developing a comprehensive Markov model, included 697 patients, that 
+calculated total cost, life-years (LYs), quality-adjusted life-years (QALYs), 
+and incremental cost-effectiveness ratio (ICER) at a willingness-to-pay (WTP) 
+threshold of $150,000 per QALY. The robustness of the model was evaluated by 
+one-way, two-way, and probabilistic sensitivity analyses. In addition, we also 
+performed subgroup analyses.
+RESULTS: Chemotherapy yielded a mean survival of 0.705 QALYs (0.901 LYs) per 
+patient and was associated with a mean cost of $163,777. PL was associated with 
+an incremental cost of $38,582 and an additional 0.349 QALYs, leading to an ICER 
+of $110,401 per QALY as compared to chemotherapy. The cost of pembrolizumab had 
+a significant impact on ICER. At the assumed WTP threshold of $150,000 per QALY, 
+approximately 79.2% of simulations show cost-effectiveness occurs in PL. Results 
+of the subgroup analysis showed that PL was the most cost-effective regimen for 
+patients who had previously received 1-line of therapy.
+CONCLUSION: For patients with pMMR aEC, the PL strategy may be the most 
+cost-effective strategy at a WTP of $150,000 from the economic perspective of 
+the United States.
+
+Copyright © 2022 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ygyno.2022.06.015
+PMID: 35781166 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no competing interests.
+
+
+962. J Gen Appl Microbiol. 2023 Mar 6;68(6):270-277. doi:
+10.2323/jgam.2022.05.006.  Epub 2022 Jul 2.
+
+Characterization of hexose transporter genes in the views of the chronological 
+life span and glucose uptake in fission yeast.
+
+Maruyama T(1), Hayashi K(1), Matsui K(1), Maekawa Y(1), Shimasaki T(1), Ohtsuka 
+H(1), Shigeaki S(2), Aiba H(1).
+
+Author information:
+(1)Laboratory of Molecular Microbiology, Department of Basic Medicinal Sciences, 
+Graduate School of Pharmaceutical Sciences, Nagoya University.
+(2)Institute of Life Science, Kurume University.
+
+Fission yeast, Schizosaccharomyces pombe, possesses eight hexose transporters, 
+Ght1~8. In order to clarify the role of each hexose transporter on glucose 
+uptake, a glucose uptake assay system was established and the actual glucose 
+uptake activity of each hexose transporter-deletion mutant was measured. Under 
+normal growth condition containing 2% glucose, ∆ght5 and ∆ght2 mutants showed 
+large and small decrease in glucose uptake activity, respectively. On the other 
+hand, the other deletion mutants did not show any decrease in glucose uptake 
+activity indicating that, in the presence of Ght5 and Ght2, the other hexose 
+transporters do not play a significant role in glucose uptake. To understand the 
+relevance between glucose uptake and lifespan regulation, we measured the 
+chronological lifespan of each hexose transporter deletion mutant, and found 
+that only ∆ght5 mutant showed a significant lifespan extension. Based on these 
+results we showed that Ght5 is mainly involved in the glucose uptake in 
+Schizosaccharomyces pombe, and suggested that the ∆ght5 mutant has prolonged 
+lifespan due to physiological changes similar to calorie restriction.
+
+DOI: 10.2323/jgam.2022.05.006
+PMID: 35781263 [Indexed for MEDLINE]
+
+
+963. Orthop Rev (Pavia). 2022 Jun 30;14(4):36574. doi: 10.52965/001c.36574. 
+eCollection 2022.
+
+Functional bracing in distal radius fractures: a cadaveric pilot study.
+
+van Buijtenen JM(1), van Delft EA(2), Rijsdijk M(3), Dobbe J(4), van der Veen 
+A(1), Streekstra GJ(4), Bloemers FW(1).
+
+Author information:
+(1)Department of Surgery, Amsterdam UMC, location VUmc.
+(2)Trauma Surgery, Amsterdam UMC, VUmc; Spaarne Gasthuis.
+(3)Surgery, OLVG West Amsterdam.
+(4)Department of Biomedical Engineering and Physics, Amsterdam UMC, University 
+of Amsterdam.
+
+BACKGROUND: Extra-articular distal radius fractures are often treated by 
+circular casting. A functional brace, however, may equally support the fracture 
+zone but allows early mobilization of the radiocarpal joint. Since the amount of 
+fracture movement for different types of fixation is currently unknown, a study 
+was initiated to investigate the degree of bone displacement in extra-articular 
+distal radius fractures fixated by regular circular casting, functional bracing, 
+or no-fixation.
+METHODS: In four cadaveric arms, an extra-articular distal radius fracture was 
+simulated and immobilized by the three ways of fixation. After creating an 
+extra-articular distal radius fracture, the fracture was reduced anatomically 
+and the cadaveric arm was strapped in a test frame. Hereafter, flexion, 
+extension and deviation of the hand were then induced by a static moment of 
+force of one newton meter. Subsequently CT scans of the wrist were performed and 
+bone displacement was quantified.
+RESULTS: Immobilization of an extra-articular distal radius fracture by 
+functional bracing provides comparable fixation compared to circular casting and 
+no fixation, and shows significantly less extension-rotation displacement of the 
+distal bone segment for the wrist in flexion and palmodorsal translation and 
+extension-rotation for the wrist in extension.
+CONCLUSION: Functional bracing of extra articular distal radius fractures in 
+cadaveric arms provides significant less extension-rotation displacement in 
+flexion and palmodorsal translation and extension-rotation in extension compared 
+to circular casting and no fixation.
+
+DOI: 10.52965/001c.36574
+PMCID: PMC9246090
+PMID: 35782198
+
+
+964. Iran J Vet Res. 2022;23(1):53-60. doi: 10.22099/IJVR.2021.38534.5609.
+
+Evaluation of the properties and antibacterial activity of microchitosan film 
+impregnated with Shirazi thyme (Zataria multiflora) and garlic (Allium sativum) 
+essential oils.
+
+Ebadi Z(1), Ghaisari H(2), Tajeddin B(3), Shekarforoush SS(2).
+
+Author information:
+(1)Ph.D. Student in Food Hygiene, Department of Food Hygiene and Public Health, 
+School of Veterinary Medicine, Shiraz University, Shiraz, Iran, and Animal 
+Science Research Institute (ASRI), Agricultural Research, Education and 
+Extension Organization (AREEO), Karaj, Iran (current address).
+(2)Department of Food Hygiene and Public Health, School of Veterinary Medicine, 
+Shiraz University, Shiraz, Iran.
+(3)Agricultural Engineering Research Institute (AERI), Agricultural Research, 
+Education and Extension Organization (AREEO), Karaj, Iran.
+
+BACKGROUND: Recent research has shown that chitosan has good moisture-absorbing 
+properties at the micro and nanoscale, and seems to be a good candidate for the 
+production of biodegradable moisture-absorbing films.
+AIMS: The aim of this study was to evaluate the properties and antibacterial 
+activity of starch-based microchitosan (MCH) films impregnated with two 
+essential oils (EOs).
+METHODS: MCH films with varying thicknesses were made from cornstarch (6%), 
+microchitosan (1%), glycerol (2.25%), and/or EOs (2%), and their 
+characteristics, including swelling degree (SD), tensile strength (TS), and 
+elongation at break (EB%), were examined. The film structures were confirmed by 
+X-ray diffraction (XRD), scanning electron microscopy (SEM), and atomic force 
+microscopy (AFM). To determine the antibacterial activity against Escherichia 
+coli and Staphylococcus aureus, two EOs of Shirazi thyme, garlic, and a mixture 
+of them were used in the experimentation.
+RESULTS: The EB% and TS had a linear relationship with the thickness of samples 
+and improved by increasing the thickness of films. The XRD pattern showed that 
+the MCH films had an amorphous structure. SEM of the films showed a homogeneous 
+dispersion of MCH in the starch matrix without any porosity. The AFM images 
+showed a simultaneous increase in the thickness of the MCH films and surface 
+roughness. The film was able to absorb water up to 15.78 times its weight in 48 
+h. The inhibition zone of films containing 2% thyme EO was 42.0 mm for S. aureus 
+and 12.3 mm for E. coli (P<0.05).
+CONCLUSION: MCH film containing Shirazi thyme can be described as a 
+moisture-absorbing antibacterial pad and is a new idea for active food packaging 
+to increase the shelf life of foods with fully degradable properties.
+
+DOI: 10.22099/IJVR.2021.38534.5609
+PMCID: PMC9238934
+PMID: 35782351
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.
+
+
+965. Sports Med Health Sci. 2019 Sep 10;1(1):59-60. doi:
+10.1016/j.smhs.2019.08.005.  eCollection 2019 Dec.
+
+Targeting healthspan to optimally combat non-communicable disease in an aging 
+world.
+
+Drake JC(1)(2), Yan Z(1)(2).
+
+Author information:
+(1)School of Medicine, University of Virginia, Charlottesville, VA, USA.
+(2)Center for Skeletal Muscle Research at Robert M. Berne Cardiovascular 
+Research Center, University of Virginia, Charlottesville, VA, USA.
+
+Human lifespan and life expectancy have increased worldwide, but the number of 
+years that we spend free of chronic or debilitating disorders, known as 
+healthspan, has not shifted along with increased lifespan. This unfavourable 
+trend presents a tremendous global social-economical problem. We propose a model 
+of promoting optimal human health with proactive, holistic interventions across 
+the lifespan, which require multi-disciplinary, innovative approaches to 
+research and care. We contend that this is the only hope that we have to face 
+the challenges of population growth and aging, as well as the upward trend in 
+non-communicable disease prevalence.
+
+© 2019 Chengdu Sport University. Production and hosting by Elsevier B.V. on 
+behalf of KeAi.
+
+DOI: 10.1016/j.smhs.2019.08.005
+PMCID: PMC9219309
+PMID: 35782460
+
+
+966. Mol Genet Metab Rep. 2022 Mar 26;31:100862. doi:
+10.1016/j.ymgmr.2022.100862.  eCollection 2022 Jun.
+
+Understanding and modifying Fabry disease: Rationale and design of a pivotal 
+Phase 3 study and results from a patient-reported outcome validation study.
+
+Wanner C(1), Kimonis V(2), Politei J(3), Warnock DG(4), Üçeyler N(5), Frey A(6), 
+Cornelisse P(6), Hughes D(7).
+
+Author information:
+(1)Department of Medicine, Division of Nephrology, University Hospital Würzburg, 
+Oberduerrbacher Str. 6, 97080 Würzburg, Germany.
+(2)Division of Genetics and Genomic Medicine, Department of Pediatrics, 
+University of California, Irvine, 333 The City Blvd. West, Suite 800, Orange, CA 
+92868, USA.
+(3)Foundation for the Study of Neurometabolic Diseases, FESEN, Uriarte 2383, 
+C1425 CABA, Buenos Aires, Argentina.
+(4)University of Alabama at Birmingham, 1720 University Blvd, Birmingham, AL 
+35294, USA.
+(5)Department of Neurology, University Hospital of Würzburg, Oberduerrbacher 
+Str. 6, 97080 Würzburg, Germany.
+(6)Idorsia Pharmaceuticals Ltd, Hegenheimermattweg 91, 4123 Allschwil, 
+Switzerland.
+(7)University College London and Royal Free Hospital, Pond Street, London NW3 
+2QG, United Kingdom.
+
+The use of available treatments for Fabry disease (FD) (including enzyme 
+replacement therapy [ERT]) may be restricted by their limited symptom 
+improvement and mode of administration. Lucerastat is currently being 
+investigated in the MODIFY study as oral substrate reduction therapy for the 
+treatment of FD. By reducing the net globotriaosylceramide (Gb3) load in 
+tissues, lucerastat has disease-modifying potential to improve symptoms and 
+delay disease progression. MODIFY is a multicenter, double-blind, randomized, 
+placebo-controlled, parallel-group Phase 3 study (ClinicalTrial.gov: 
+NCT03425539); here we present the rationale and design of this study. Eligible 
+adults with a genetically confirmed diagnosis of FD and FD-specific neuropathic 
+pain entered screening. Patients were randomized (2:1) to receive either oral 
+lucerastat twice daily or placebo for 6 months; treatment allocation was 
+stratified according to sex and ERT treatment status. The main objectives of 
+MODIFY are to assess the effects of lucerastat on neuropathic pain, 
+gastrointestinal (GI) symptoms, FD biomarkers, and determine its safety and 
+tolerability. Neuropathic pain and GI symptoms are key features of FD that have 
+a significant impact on quality of life. Despite various tools available to 
+assess pain and GI symptoms, there are currently limited tools available to 
+assess neuropathic and GI symptoms in FD, validated according to health 
+authority guidelines. Based on FDA recommendations, we undertook a 
+patient-reported outcome (PRO) validation study, using a novel eDiary-based PRO 
+tool to assess the validity of evaluating neuropathic pain as a primary efficacy 
+endpoint in MODIFY. Results from the PRO validation study are included. To date, 
+MODIFY is the largest Phase 3 clinical study conducted in patients with FD. 
+Enrollment to MODIFY is now complete, with 118 patients randomized. Results will 
+be presented in a separate publication. Long-term effects of lucerastat are 
+being assessed in the ongoing open-label extension study (NCT03737214).
+
+© 2022 Idorsia Pharmaceuticals Ltd.
+
+DOI: 10.1016/j.ymgmr.2022.100862
+PMCID: PMC9248229
+PMID: 35782623
+
+
+967. Sports Med Health Sci. 2021 Feb 17;3(1):46-48. doi:
+10.1016/j.smhs.2021.02.005.  eCollection 2021 Mar.
+
+High intensity resistance training as intervention method to knee 
+osteoarthritis.
+
+Malorgio A(1), Malorgio M(2), Benedetti M(2), Casarosa S(1)(3), Cannataro R(4).
+
+Author information:
+(1)University of Pisa Clinical and Experimental Department, Pisa, Italy.
+(2)Be Active Training Studio, Viale Europa 68, Cascina (PI), Italy.
+(3)San Rossore Sport Village, Viale Delle Cascine, Pisa, Italy.
+(4)Galascreen Laboratories - University of Calabria, Rende, Cosenza, CS, Italy.
+
+High intensity resistance training (HI-RT) is a treatment option for Knee 
+Osteoarthritis (KOA). Isotonic machines (leg press, leg extension) are utilized 
+for standardization and reproducibility reasons, but the load used during the 
+protocol is often low, considering that elder people usually have low strength 
+levels, training so with high intensities calculated on low loads. The 
+physiological response of an elder woman trained with high loads on a free 
+weight exercise, the regular barbell deadlift, with a 1 Repetition Maximum (1RM) 
+of 100 kg, can be appreciated in this report, so that for the first time we can 
+see the effect of a one year of high intensity resistance training program on a 
+powerlifting exercise on a 72 year-old woman with KOA. A Western Ontario and 
+McMaster Universities Arthritis Index (WOMAC) questionnaire was administered 
+before starting the training program (T0) and after 1 year of training, as long 
+as a control RX, to evaluate the effect of HI-RT on joint functionality and 
+quality of life.
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.smhs.2021.02.005
+PMCID: PMC9219264
+PMID: 35782681
+
+Conflict of interest statement: None of the authors have relevant interests to 
+disclose.
+
+
+968. Health Serv Insights. 2022 Jun 23;15:11786329221109755. doi: 
+10.1177/11786329221109755. eCollection 2022.
+
+Understanding Differences in Health Care Spending: A Comparative Study of Prices 
+and Volumes Across OECD Countries.
+
+Lorenzoni L(1), Dougherty S(1).
+
+Author information:
+(1)OECD, France.
+
+Erratum in
+    Health Serv Insights. 2022 Jun 30;15:11786329221113379.
+
+Variations across OECD countries in the prices of health care and hospital 
+services can be vast. These price differences mean that comparisons of such 
+services should be adjusted to reflect the 'real' volumes consumed. Purchasing 
+power parities (PPPs) can be used to make such comparisons more accurately, 
+going beyond simple GDP-based comparisons, by aggregating the prices of actual 
+individual consumption of health items. These health and hospital PPPs 
+demonstrate that GDP PPPs are a weak substitute, as price structures vary 
+widely. Moreover, there is tentative evidence that higher relative prices for 
+health care tend to bloat health expenditure and are associated with lower life 
+expectancy.
+
+© The Author(s) 2022.
+
+DOI: 10.1177/11786329221109755
+PMCID: PMC9240587
+PMID: 35783560
+
+Conflict of interest statement: Declaration of conflicting interests: The 
+author(s) declared no potential conflicts of interest with respect to the 
+research, authorship, and/or publication of this article.
+
+
+969. Front Med (Lausanne). 2022 Jun 17;9:835421. doi: 10.3389/fmed.2022.835421. 
+eCollection 2022.
+
+Case Report: Secondary Hemophagocytic Lymphohistiocytosis (sHLH) and Candida 
+auris Fungemia in Post-acute COVID-19 Syndrome: A Clinical Challenge.
+
+Gautam S(1), Sharma G(1), Singla S(1), Garg S(1).
+
+Author information:
+(1)Department of Internal Medicine, Maulana Azad Medical College and Associated 
+Lok Nayak Hopital, New Delhi, India.
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection causes a 
+disease (COVID-19) with multisystem involvement. The world is now entering a 
+phase of post-COVID-19 manifestations in this pandemic. Secondary hemophagocytic 
+lymphohistiocytosis (sHLH) is a life-threatening hyperinflammatory event 
+triggered by viral infections, including SARS-CoV-2. Both Multisystem 
+Inflammatory Syndrome-Adults (MIS-A) and Cytokine Storm Syndrome (CSS) are 
+considered close differentials of sHLH and add to the spectrum of Post-acute 
+COVID-19 syndrome (PACS). In this report, we presented the case of a middle-aged 
+Asian man who was initially discharged upon recovery from severe COVID-19 
+infection after 17 days of hospitalization to a private institute and later came 
+to our hospital 13 days post-discharge. Here, he was diagnosed with sHLH, 
+occurring as an extension of CSS, with delayed presentation falling within the 
+spectrum of PACS. The diagnosis of sHLH was made holistically with the HLH-2004 
+criteria. Our patient initially responded to intravenous immunoglobulin (IVIG) 
+and dexamethasone, later complicated by disseminated Candida auris infection and 
+had a fatal outcome. Though many cases of HLH during active COVID-19 and a few 
+cases post COVID-19 recovery have been reported, based on H-score, which has 
+limitations as a diagnostic tool. We report the first case report of 
+post-COVID-19 sHLH using the HLH-2004 criteria, complicated by disseminated 
+Candidemia, emphasizing that the care of patients with COVID-19 does not 
+conclude at the time of hospital discharge. We highlight the importance of 
+surveillance in the post-COVID phase for early detection of sHLH which may 
+predispose to fatal opportunistic infections (OIs).
+
+Copyright © 2022 Gautam, Sharma, Singla and Garg.
+
+DOI: 10.3389/fmed.2022.835421
+PMCID: PMC9247387
+PMID: 35783658
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+970. Case Rep Orthop. 2022 Jun 23;2022:3391350. doi: 10.1155/2022/3391350. 
+eCollection 2022.
+
+Brachialis Muscle Rupture in a Pediatric Patient Followed Up by Ultrasound 
+Examinations: A Rare Case Report.
+
+Yamaji A(1), Uesugi M(1), Kamada H(2), Ichimura H(1), Yamazaki M(2).
+
+Author information:
+(1)Department of Orthopedic Surgery, Ibaraki Seinan Medical Center Hospital, 
+Sakai, Sashima District, Ibaraki 306-0433, Japan.
+(2)Department of Orthopedic Surgery, University of Tsukuba Hospital, Ibaraki, 
+Tsukuba, Amakubo 305-8576, Japan.
+
+Isolated brachial muscle injuries are relatively rare injuries and reportedly 
+occur during forced elbow extension. Though commonly conservative treatment 
+approach is adopted, the treatment criteria remain unclear. Here, we report the 
+case of a patient who experienced functional recovery after conservative 
+treatment for an isolated brachial muscle injury. The patient was an 8-year-old 
+boy whose chief complaint was left elbow pain. The injury occurred when the 
+patient fell while playing on gymnastics bars and bruised the palmar side of his 
+left elbow on the bar. Owing to the pain in the left elbow, the patient came to 
+our institution. There were no clear signs of deformities or swelling in the 
+left elbow and no obvious tenderness. X-ray and computed tomography (CT) imaging 
+examinations revealed no signs of a fracture or dislocation, and the patient was 
+diagnosed with left brachialis muscle rupture based on magnetic resonance 
+imaging (MRI). Although the brachialis muscle was complete ruptured, a healing 
+tendency was seen on body surface ultrasound examinations over time, and the 
+patient was treated conservatively. After 3 weeks of cast immobilization, the 
+patient underwent range of motion exercises. Two months after the injury, there 
+were no issues with elbow joint function in daily life activities and no 
+limitations in range of motion. Here, MRI was used to diagnose brachialis muscle 
+rupture, and ultrasound examinations were utilized to make treatment decisions.
+
+Copyright © 2022 Akihiro Yamaji et al.
+
+DOI: 10.1155/2022/3391350
+PMCID: PMC9246635
+PMID: 35783672
+
+Conflict of interest statement: The authors declare that there is no conflict of 
+interest regarding the publication of this article.
+
+
+971. J Dent Sci. 2022 Jul;17(3):1364-1370. doi: 10.1016/j.jds.2022.05.002. Epub
+2022  May 21.
+
+Tooth life expectancy and burden of tooth loss: Two cross-sectional studies in 
+Taiwan.
+
+Liang LY(1), Tsai MC(2), Shih KC(3)(4), Huang SM(5), Morisky DE(6), Fu E(7).
+
+Author information:
+(1)Jian-An Private Practice, New Taipei City, Taiwan.
+(2)Institute of Health and Welfare Policy, School of Medicine, National Yang 
+Ming Chiao Tung University, Taipei, Taiwan.
+(3)Division of Endocrinology & Metabolism, Cheng Hsin General Hospital, Taipei, 
+Taiwan.
+(4)Division of Endocrinology & Metabolism, Tri-Service General Hospital, 
+National Defense Medical Center, Taipei, Taiwan.
+(5)Senior Health & Long-Term Care Research Project, National Health Research 
+Institutes Forum, Taiwan.
+(6)UCLA School of Public Health, Department of Community Health Sciences, Los 
+Angeles, CA, USA.
+(7)Department of Dentistry, Taipei Tzu Chi Hospital, New Taipei City, Taiwan.
+
+BACKGROUND/PURPOSE: Life expectancy (LE) is a hypothetical measure to predict 
+life longevity and the indicator of society's overall health. Tooth loss is a 
+worldwide enigma; however, the LE for tooth (LET) are obscure. LET and the 
+burden of tooth loss in Taiwan were estimated using the scheme of National 
+Health Insurance (NHI).
+MATERIALS AND METHODS: Using NHI data, mortality rate, age-specific mortality 
+rate, tooth-extraction rate, and age-specific tooth-extraction rate (ASTER) of 
+Taiwanese in 2004 and 2013 were estimated. ASTER for the individual tooth 
+(ASTER-T) was analyzed for each of 28 permanent teeth according to ID code and 
+tooth location. LET and years lived with disability for tooth loss (YLDs-T) of 
+each permanent tooth were estimated following Global Burden Disease study.
+RESULTS: In 2004, 1,741,228 teeth extracted from 1,078,254 patients among 
+22,646,835 Taiwanese, whereas 2,012,907 teeth extracted from 1,254,746 patients 
+among 23,344,670 in 2013. In both years, the ASTERs presented an increasing 
+trend as age increased. However, the ASTER-Ts presented varied according to 
+tooth types. The LET and YLDs-T were also varied. The maximum values of YLDs-T 
+were noticed for the first molars.
+CONCLUSION: Our findings of this national survey highlight the need for public 
+health policy, particular the early loss of first molars, aiming to increase 
+awareness regarding oral health.
+
+© 2022 Association for Dental Sciences of the Republic of China. Publishing 
+services by Elsevier B.V.
+
+DOI: 10.1016/j.jds.2022.05.002
+PMCID: PMC9236957
+PMID: 35784138
+
+Conflict of interest statement: The authors have no conflicts of interest 
+relevant to this article.
+
+
+972. Front Public Health. 2022 Jun 17;10:905172. doi: 10.3389/fpubh.2022.905172. 
+eCollection 2022.
+
+Global Burden and Trends of Norovirus-Associated Diseases From 1990 to 2019: An 
+Observational Trend Study.
+
+Zhang X(1), Chen C(1), Du Y(1), Yan D(1), Jiang D(1), Liu X(1), Yang M(2), Ding 
+C(1), Lan L(1), Hecht R(3), Yang S(1)(2).
+
+Author information:
+(1)State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, 
+National Clinical Research Center for Infectious Diseases, Collaborative 
+Innovation Center for Diagnosis and Treatment of Infectious Diseases, The First 
+Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.
+(2)Department of Big Data Health Science, School of Public Health, Zhejiang 
+University, Hangzhou, China.
+(3)Department of Epidemiology of Microbial Diseases, Yale School of Public 
+Health, New Haven, CT, United States.
+
+INTRODUCTION: As an important pathogen causing diarrheal diseases, the burden 
+and change in the death rate of norovirus-associated diseases (NADs) globally 
+are still unknown.
+METHODS: Based on global disease burden data from 1990 to 2019, we analyzed the 
+age-standardized death rate (ASDR) of NADs by age, region, country, and 
+Socio-Demographic Index (SDI) level. The discrete Poisson model was applied in 
+the analysis of NADs' spatiotemporal aggregation, the Joinpoint regression model 
+to analyze the trend of death burden of NADs over 30 years, and a generalized 
+linear model to identify the risk factors for the death rate from NADs.
+RESULTS: The ASDR of NADs significantly decreased by a factor of approximately 
+2.7 times, from 5.02 (95% CI: 1.1, 11.34) in 1990 to 1.86 (95% CI: 0.36, 4.16) 
+in 2019 [average annual percent change (AAPC) = -3.43, 95% CI: -3.56, -3.29]. 
+The death burden of NADs in 2019 was still highest in African regions despite a 
+great decline in recent decades. However, the ASDR in high SDI countries 
+presented an uptrend [0.12 (95% CI: 0.03, 0.26) in 1990 and 0.24 (95% CI: 0.03, 
+0.53) in 2019, AAPC = 2.52, 95% CI: 2.02-3.03], mainly observed in the elderly 
+over 70 years old. Compared to children under 5 years old, the 2019 death rate 
+of elderly individuals over 80 years old was much higher in high SDI countries. 
+The generalized linear model showed that factors of the number of physicians (RR 
+= 0.67), the proportions of children under 14 years old (RR = 1.21), elderly 
+individuals over 65 years old (RR = 1.13), educational level (RR = 1.03) and 
+urbanization proportion (RR = 1.01) influenced the ASDR of NADs.
+CONCLUSIONS: The death burden of NADs has remained high in developing regions 
+over the last three decades and has increased among the elderly in countries 
+with high SDI levels, even though the global trend in NAD-associated deaths has 
+decreased significantly in the past three decades. More effective public health 
+policies against NADs need to be implemented in high SDI regions and for the 
+elderly.
+
+Copyright © 2022 Zhang, Chen, Du, Yan, Jiang, Liu, Yang, Ding, Lan, Hecht and 
+Yang.
+
+DOI: 10.3389/fpubh.2022.905172
+PMCID: PMC9247406
+PMID: 35784210 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+973. Front Public Health. 2022 Jun 17;10:928937. doi: 10.3389/fpubh.2022.928937. 
+eCollection 2022.
+
+The Burden of Trachea, Bronchus, and Lung Cancer Attributable to Occupational 
+Exposure From 1990 to 2019.
+
+Li H(1), Guo J(2), Liang H(2), Zhang T(2), Zhang J(2), Wei L(2), Shi D(2), Zhang 
+J(2), Wang Z(2).
+
+Author information:
+(1)Department of Anesthesiology, Guangdong General Hospital, Guangzhou, China.
+(2)Department of Thoracic Surgery, The Seventh Affiliated Hospital, Sun Yat-sen 
+University, Shenzhen, China.
+
+OBJECTIVES: Occupational exposure to carcinogens is associated with trachea, 
+bronchus, and lung (TBL) cancer. The objective of this study was to provide 
+global and regional estimates of the burden of TBL cancer associated with 
+occupational carcinogens (OCs) between 1990 and 2019.
+METHODS: Age-standardized mortality rates (ASMR) and age-standardized 
+disability-adjusted life years (DALYs) rates (ASDR) of TBL cancer related to 
+exposure to OCs at the global and regional levels were extracted for 1990-2019 
+from the Global Burden of Disease 2019. Joinpoint regression was used to analyze 
+trends in the ASMR and ASDR of TBL cancer burden related to OCs, and the annual 
+percent change and the average annual percent change (AAPC) were recorded.
+RESULTS: The mortality from TBL cancer related to exposure to OCs increased 
+globally. The ASMR and ASDR decreased in both sexes and in men between 1990 and 
+2019. The AAPC of ASMR and ASDR decreased in men between 1990 and 2019, but 
+increased in women. Asbestos accounted for the highest death number and 
+beryllium accounted for the lowest; diesel engine exhaust caused the largest 
+percentage change in death number (145.3%), in ASDR (14.9%), and in all ages 
+DALY rates (57.6%). Asbestos accounted for the largest death number in high 
+social development index (SDI) countries, whereas low-middle SDI countries had 
+the largest percent change (321.4%). Asbestos was associated with decreased ASDR 
+in high SDI countries and increased ASDR in low-middle SDI countries, and 
+similar changes were observed for other OCs.

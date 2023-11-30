@@ -1,0 +1,1000 @@
+iyas_daghlas@hms.harvard.edu.
+(2)Department of Epidemiology and Biostatistics, School of Public Health, 
+Imperial College London, London, UK.
+
+BACKGROUND & AIMS: Systemic iron status affects multiple health outcomes, 
+however its net effect on life expectancy is not known. We conducted a 
+two-sample Mendelian randomization (MR) study to investigate the association of 
+genetically proxied iron status with life expectancy.
+METHODS: Using genetic data from 48,972 individuals, we identified three genetic 
+variants as instrumental variables for systemic iron status. We obtained genetic 
+associations of these variants with parental lifespan (n = 1,012,240) and 
+individual survival to the 90th vs. 60th percentile age (11,262 cases and 25,483 
+controls). We used the inverse-variance weighted method to estimate the effect 
+of a 1-standard deviation (SD) increase in genetically predicted serum iron on 
+each of the life expectancy outcomes.
+RESULTS: We found a detrimental effect of genetically proxied higher iron status 
+on life expectancy. A 1-SD increase in genetically predicted serum iron 
+corresponded to 0.70 (95% confidence interval [CI] -1.17, -0.24; 
+P = 3.00 × 10-3) fewer years of parental lifespan and had odds ratio 0.81 (95% 
+CI 0.70, 0.93; P = 4.44 × 10-3) for survival to the 90th vs. 60th percentile 
+age. We did not find evidence to suggest that these results were biased by 
+pleiotropic effects of the genetic variants.
+CONCLUSIONS: Higher systemic iron status may reduce life expectancy. The 
+clinical implications of this finding warrant further investigation, 
+particularly in the context of iron supplementation in individuals with normal 
+iron status.
+
+Copyright © 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.clnu.2020.06.025
+PMCID: PMC8063605
+PMID: 32690432 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest DG is employed part-time by 
+Novo Nordisk. ID has no conflicts of interest to declare.
+
+
+109. BMJ Open. 2020 Jul 19;10(7):e033965. doi: 10.1136/bmjopen-2019-033965.
+
+Moving beyond the Cox proportional hazards model in survival data analysis: a 
+cervical cancer study.
+
+Li L(1)(2), Yang Z(2), Hou Y(3), Chen Z(4).
+
+Author information:
+(1)Department of Medical Matters, Puning People's Hospital, Puning, China.
+(2)Department of Biostatistics, School of Public Health (Guangdong Provincial 
+Key Laboratory of Tropical Disease Research), Southern Medical University, 
+Guangzhou, China.
+(3)Department of Statistics, School of Economics, Jinan University, Guangzhou, 
+China.
+(4)Department of Biostatistics, School of Public Health (Guangdong Provincial 
+Key Laboratory of Tropical Disease Research), Southern Medical University, 
+Guangzhou, China zheng-chen@hotmail.com.
+
+OBJECTIVES: This study explored the prognostic factors and developed a 
+prediction model for Chinese-American (CA) cervical cancer (CC) patients. We 
+compared two alternative models (the restricted mean survival time (RMST) model 
+and the proportional baselines landmark supermodel (PBLS model, producing 
+dynamic prediction)) versus the Cox proportional hazards model in the context of 
+time-varying effects.
+SETTING AND DATA SOURCES: A total of 713 CA women with CC and available 
+covariates (age at diagnosis, International Federation of Gynecology and 
+Obstetrics (FIGO) stage, lymph node metastasis and radiation) from the 
+Surveillance, Epidemiology and End Results database were included.
+DESIGN: We applied the Cox proportional hazards model to analyse the all-cause 
+mortality with the proportional hazards assumption. Additionally, we applied two 
+alternative models to analyse covariates with time-varying effects. The 
+performances of the models were compared using the C-index for discrimination 
+and the shrinkage slope for calibration.
+RESULTS: Older patients had a worse survival rate than younger patients. 
+Advanced FIGO stage patients showed a relatively poor survival rate and low life 
+expectancy. Lymph node metastasis was an unfavourable prognostic factor in our 
+models. Age at diagnosis, FIGO stage and lymph node metastasis represented 
+time-varying effects from the PBLS model. Additionally, radiation showed no 
+impact on survival in any model. Dynamic prediction presented a better 
+performance for 5-year dynamic death rates than did the Cox proportional hazards 
+model.
+CONCLUSIONS: With the time-varying effects, the RMST model was suggested to 
+explore diagnosis factors, and the PBLS model was recommended to predict a 
+patient's w-year dynamic death rate.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2019-033965
+PMCID: PMC7371360
+PMID: 32690495 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+110. BMJ Open. 2020 Jul 19;10(7):e035041. doi: 10.1136/bmjopen-2019-035041.
+
+Universal mental health screening with a focus on suicidal behaviour using 
+smartphones in a Mexican rural community: protocol for the SMART-SCREEN 
+population-based survey.
+
+Arenas-Castañeda PE(1), Aroca Bisquert F(2)(3), Martinez-Nicolas I(4), Castillo 
+Espíndola LA(5), Barahona I(6), Maya-Hernández C(7), Lavana Hernández MM(1), 
+Manrique Mirón PC(6), Alvarado Barrera DG(1), Treviño Aguilar E(2), Barrios 
+Núñez A(8), De Jesus Carlos G(2), Vildosola Garcés A(8), Flores Mercado J(9), 
+Barrigon ML(10)(11), Artes A(12)(13), de Leon S(14), Molina-Pizarro CA(15), 
+Rosado Franco A(15), Perez-Rodriguez M(16), Courtet P(17), Martínez-Alés G(18), 
+Baca-Garcia E(19)(11)(20)(21)(22).
+
+Author information:
+(1)Secretaría de Salud de la Ciudad de México, Jurisdicción Sanitaria Milpa 
+Alta, Milpa Alta, Mexico.
+(2)Instituto de Matemáticas. Unidad de Cuernavaca. Universidad Nacional Autónoma 
+de México, Cuernavaca, Mexico.
+(3)CNRS-UMI 4584 - LaSoL Laboratorio Internacional Solomon Lefschetz, Ciudad de 
+Mexico, Mexico.
+(4)Faculty of Life Sciences, Catholic University of Murcia (UCAM), Murcia, 
+Spain.
+(5)Hospital General de Milpa Alta, Milpa Alta, Mexico.
+(6)Cátedra-Conacyt, Instituto de Matemáticas, Unidad de Cuernavaca, Universidad 
+Nacional Autónoma de México, Cuernavaca, Mexico.
+(7)Center for Evaluation and Surveys Research, National Institute of Public 
+Health (INSP), Cuernavaca, Mexico.
+(8)Servicios de Salud del Instituto de Educación Media Superior CDMX, Ciudad de 
+Mexico, Mexico.
+(9)Unidad de Medicina Familiar ISSSTE, Ciudad de Mexico, Mexico.
+(10)Psychiatry, Autonomous University of Madrid, Madrid, Spain.
+(11)Psychiatry, University Hospital Jimenez Diaz Foundation, Madrid, Spain.
+(12)Department of Signal Theory and Communications, Universidad Carlos III de 
+Madrid, Leganés, Madrid, Spain.
+(13)CIBERSAM (Centro de Investigacion en Salud Mental), Carlos III Institute of 
+Health, Madrid, Spain.
+(14)Department of Signal Theory and Communications, Universidad Carlos III de 
+Madrid, Madrid, Spain.
+(15)Yucatan State Mental Health Institute, Merida, Mexico.
+(16)Psychiatry, Icahn School of Medicine at Mount Sinai, New York, New York, 
+USA.
+(17)Department of Emergency Psychiatry and Acute Care, University of 
+Montpellier, Hôpital Lapeyronie, CHU Montpellier, Montpellier, France.
+(18)Department of Epidemiology, Columbia University Mailman School of Public 
+Health, New York, New York, USA.
+(19)Psychiatry, Autonomous University of Madrid, Madrid, Spain 
+ebacgar2@yahoo.es.
+(20)Universidad Catolica del Maule, Talca, Chile.
+(21)CIBERSAM, Madrid, Spain.
+(22)Department of psychiatry, Centre Hospitalier Universitaire de Nîmes, Nîmes, 
+France.
+
+INTRODUCTION: Mental disorders represent the second cause of years lived with 
+disability worldwide. Suicide mortality has been targeted as a key public health 
+concern by the WHO. Smartphone technology provides a huge potential to develop 
+massive and fast surveys. Given the vast cultural diversity of Mexico and its 
+abrupt orography, smartphone-based resources are invaluable in order to 
+adequately manage resources, services and preventive measures in the population. 
+The objective of this study is to conduct a universal suicide risk screening in 
+a rural area of Mexico, measuring also other mental health outcomes such as 
+depression, anxiety and alcohol and substance use disorders.
+METHODS AND ANALYSIS: A population-based cross-sectional study with a temporary 
+sampling space of 9 months will be performed between September 2019 and June 
+2020. We expect to recruit a large percentage of the target population (at least 
+70%) in a short-term survey of Milpa Alta Delegation, which accounts for 137 927 
+inhabitants in a territorial extension of 288 km2.They will be recruited via an 
+institutional call and a massive public campaign to fill in an online 
+questionnaire through mobile-assisted or computer-assisted web app. This 
+questionnaire will include data on general health, validated questionnaires 
+including Well-being Index 5, Patient Health Questionnaire-9, Generalized 
+Anxiety Disorder Scale 2, Alcohol Use Disorders Identification Test, selected 
+questions of the Drug Abuse Screening Test and Columbia-Suicide Severity Rating 
+Scales and Diagnostic and statistical manual of mental disorders (DSM-5) 
+questions about self-harm.We will take into account information regarding time 
+to mobile app response and geo-spatial location, and aggregated data on social, 
+demographical and environmental variables. Traditional regression modelling, 
+multilevel mixed methods and data-driven machine learning approaches will be 
+used to test hypotheses regarding suicide risk factors at the individual and the 
+population level.
+ETHICS AND DISSEMINATION: Ethical approval (002/2019) was granted by the Ethics 
+Review Board of the Hospital Psiquiátrico Yucatán, Yucatán (Mexico). This 
+protocol has been registered in ClinicalTrials.gov. The starting date of the 
+study is 3 September 2019. Results will serve for the planning and healthcare of 
+groups with greater mental health needs and will be disseminated via 
+publications in peer-reviewed journal and presented at relevant mental health 
+conferences.
+TRIAL REGISTRATION NUMBER: NCT04067063.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2019-035041
+PMCID: PMC7371217
+PMID: 32690505 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: EBG designed the MeMind 
+application.
+
+
+111. Heart. 2020 Nov;106(21):1638-1645. doi: 10.1136/heartjnl-2020-316665. Epub
+2020  Jul 20.
+
+Eisenmenger syndrome: diagnosis, prognosis and clinical management.
+
+Arvanitaki A(1)(2), Giannakoulas G(2), Baumgartner H(1), Lammers AE(3)(4).
+
+Author information:
+(1)Department of Cardiology III-Adult Congenital and Valvular Heart Disease, 
+University Hospital Muenster, Muenster, Nordrhein-Westfalen, Germany.
+(2)1st Department of Cardiology, AHEPA University Hospital, School of Medicine, 
+Aristotle University of Thessaloniki, Thessaloniki, Greece.
+(3)Department of Cardiology III-Adult Congenital and Valvular Heart Disease, 
+University Hospital Muenster, Muenster, Nordrhein-Westfalen, Germany 
+AstridElisabeth.Lammers@ukmuenster.de.
+(4)Division of Paediatric Cardiology, University Hospital Muenster, Muenster, 
+Germany.
+
+Eisenmenger syndrome (ES) represents the most severe phenotype of pulmonary 
+arterial hypertension (PAH) associated with congenital heart disease (CHD) and 
+occurs in patients with large unrepaired shunts. Despite early detection of CHD 
+and major advances in paediatric cardiac surgery, ES is still prevalent and 
+requires a multidisciplinary approach by adult CHD experts in tertiary centres. 
+Central cyanosis is the primary clinical manifestation leading to secondary 
+erythrocytosis and various multiorgan complications that increase morbidity and 
+affect quality of life. Close follow-up is needed to early diagnose and timely 
+manage these complications. The primary goal of care is to maintain patients' 
+fragile stability. Although the recent use of advanced PAH therapies has 
+substantially improved functional capacity and increased life expectancy, 
+long-term survival remains poor. Progressive heart failure, infectious diseases 
+and sudden cardiac death comprise the main causes of death in patients with ES. 
+Impaired exercise tolerance, decreased arterial oxygen saturation, iron 
+deficiency, pre-tricuspid shunts, arrhythmias, increased brain natriuretic 
+peptide, echocardiographic indices of right ventricular dysfunction and 
+hospitalisation for heart failure predict mortality. Endothelin receptor 
+antagonists are used as first-line treatment in symptomatic patients, while 
+phosphodiesterase-5 inhibitors may be added. Due to the lack of evidence, 
+current guidelines do not provide a clear therapeutic strategy regarding 
+treatment escalation. Additional well-designed trials are required to assess the 
+comparative efficacy of various PAH agents and the benefit of combination 
+therapy. Finally, the development of a risk score is of utmost importance to 
+guide clinical therapy.
+
+© Author(s) (or their employer(s)) 2020. No commercial re-use. See rights and 
+permissions. Published by BMJ.
+
+DOI: 10.1136/heartjnl-2020-316665
+PMID: 32690623 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest:: AEL: Advisory consultancy 
+work for Actelion Pharmaceuticals.
+
+
+112. BMJ Open. 2020 Jul 20;10(7):e036060. doi: 10.1136/bmjopen-2019-036060.
+
+Mapping of modifiable barriers and facilitators with interdisciplinary chronic 
+obstructive pulmonary disease (COPD) guidelines concordance within hospitals to 
+the Theoretical Domains Framework: a mixed methods systematic review protocol.
+
+Issac H(1), Moloney C(2), Taylor M(2), Lea J(2).
+
+Author information:
+(1)School of Nursing and Midwifery, University of Southern Queensland, 
+Toowoomba, Queensland, Australia hancy.issac@usq.edu.au.
+(2)School of Nursing and Midwifery, University of Southern Queensland, 
+Toowoomba, Queensland, Australia.
+
+INTRODUCTION: Multifarious chronic obstructive pulmonary disease (COPD) 
+guidelines have been published by local, national and global respiratory 
+societies. These guidelines subsume holistic evidence based on recommendations 
+to diagnose, treat, prevent and manage acute exacerbation with COPD. Despite the 
+existing comprehensive recommendations, readmission rates and hospitalisations 
+have increased in the last decade. Evidence to date has reported suboptimal 
+clinical guidelines concordance. Acute exacerbations of COPD (AECOPD) is a 
+common hospital presentation due to varied causes such as infective 
+exacerbations, worsening disease condition, medication non-adherence, lack of 
+education and incomprehensive discharge planning. AECOPD directly and indirectly 
+causes economic burden, disrupts health-related quality of life (HRQol), hasten 
+lung function decline and increases overall morbidity and mortality. COPD being 
+a multimodal chronic disease, consistent interdisciplinary interventions from 
+the time of admission to discharge may reduce readmissions and enhance HRQol 
+among these patients and their families.
+METHODS AND ANALYSIS: This protocol adheres to the Joanna Briggs Institute 
+methodology for mixed methods systematic reviews and the Preferred Reporting 
+Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews 
+reporting guidelines. Qualitative, quantitative and mixed methods studies will 
+append this study to explore determinants of COPD guidelines concordance. 
+Comprehensive three-tier search strategies will be used to search nine databases 
+(COCHRANE, EBSCO HOST, MEDLINE, SCIENCE DIRECT, JBI, SCOPUS, WEB OF SCIENCE, 
+WILEY and DARE) in May 2020. Two independent reviewers will screen abstracts and 
+full-text articles in consonance with inclusion criteria. The convergent 
+integrative method narrative review will contribute a deeper understanding of 
+any discrepancies found in the existing evidence. Quality of the studies will be 
+reported and Theoretical Domains Framework (TDF) will be used as a priori to 
+synthesis data. Identified barriers, facilitators and corresponding clinical 
+behavioural change solutions will be categorised using TDF indicators to provide 
+future research and implementation recommendations.
+ETHICS AND DISSEMINATION: Ethical approval is not required and results 
+dissemination will occur through peer-reviewed publication.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2019-036060
+PMCID: PMC7375635
+PMID: 32690740 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+113. Trauma Violence Abuse. 2022 Jan;23(1):278-287. doi:
+10.1177/1524838020942754.  Epub 2020 Jul 21.
+
+Pornography and Sexual Aggression: Can Meta-Analysis Find a Link?
+
+Ferguson CJ(1), Hartley RD(2).
+
+Author information:
+(1)Department of Psychology, Stetson University, DeLand, FL, USA.
+(2)Department of Criminology & Criminal Justice, University of Texas at San 
+Antonio, TX, USA.
+
+Whether pornography contributes to sexual aggression in real life has been the 
+subject of dozens of studies over multiple decades. Nevertheless, scholars have 
+not come to a consensus about whether effects are real. The current 
+meta-analysis examined experimental, correlational, and population studies of 
+the pornography/sexual aggression link dating back from the 1970s to the current 
+time. Methodological weaknesses were very common in this field of research. 
+Nonetheless, evidence did not suggest that nonviolent pornography was associated 
+with sexual aggression. Evidence was particularly weak for longitudinal studies, 
+suggesting an absence of long-term effects. Violent pornography was weakly 
+correlated with sexual aggression, although the current evidence was unable to 
+distinguish between a selection effect as compared to a socialization effect. 
+Studies that employed more best practices tended to provide less evidence for 
+relationships whereas studies with citation bias, an indication of researcher 
+expectancy effects, tended to have higher effect sizes. Population studies 
+suggested that increased availability of pornography is associated with reduced 
+sexual aggression at the population level. More studies with improved practices 
+and preregistration would be welcome.
+
+DOI: 10.1177/1524838020942754
+PMID: 32691692 [Indexed for MEDLINE]
+
+
+114. Cochrane Database Syst Rev. 2020 Jul 21;7(7):CD013168. doi: 
+10.1002/14651858.CD013168.pub2.
+
+Internal iliac artery revascularisation versus internal iliac artery occlusion 
+for endovascular treatment of aorto-iliac aneurysms.
+
+Sousa LHD(1), Baptista-Silva JC(2), Vasconcelos V(1), Flumignan RL(1), Nakano 
+LC(1).
+
+Author information:
+(1)Department of Surgery, Division of Vascular and Endovascular Surgery, 
+Universidade Federal de São Paulo, São Paulo, Brazil.
+(2)Evidence Based Medicine, Cochrane Brazil, Universidade Federal de São Paulo, 
+São Paulo, Brazil.
+
+Update of
+    doi: 10.1002/14651858.CD013168.
+
+BACKGROUND: Endovascular aortic aneurysm repair (EVAR) is used to treat 
+aorto-iliac and isolated iliac aneurysms in selected patients, and prospective 
+studies have shown advantages compared with open surgical repair, mainly in the 
+first years of follow-up. Although this technique produces good results, 
+anatomic issues (such as common iliac artery ectasia or an aneurysm that 
+involves the iliac bifurcation) can make EVAR more complex and challenging and 
+can lead to an inadequate distal seal zone for the stent-graft. Inadequate 
+distal fixation in the common iliac arteries can lead to a type Ib endoleak. To 
+avoid this complication, one of the most commonly used techniques is unilateral 
+or bilateral internal iliac artery occlusion and extension of the iliac limb 
+stent-graft to the external iliac arteries with or without embolisation of the 
+internal iliac artery. However, this occlusion is not without harm and is 
+associated with ischaemic complications in the pelvic territory such as buttock 
+claudication, sexual dysfunction, ischaemic colitis, gluteal necrosis, and 
+spinal cord injury. New endovascular devices and alternative techniques such as 
+iliac branch devices and the sandwich technique have been described to maintain 
+pelvic perfusion and decrease complications, achieving revascularisation of the 
+internal iliac arteries in patients not suitable for an adequate seal zone in 
+the common iliac arteries. These approaches may also preserve the quality of 
+life of treated individuals and may decrease other serious complications 
+including spinal cord ischaemia, ischaemic colitis, and gluteal necrosis, 
+thereby decreasing the morbidity and mortality of EVAR.
+OBJECTIVES: To assess the effects of internal iliac artery revascularisation 
+versus internal iliac artery occlusion during endovascular repair of aorto-iliac 
+aneurysms and isolated iliac aneurysms involving the iliac bifurcation.
+SEARCH METHODS: The Cochrane Vascular Information Specialists searched the 
+Cochrane Vascular Specialised Register; the Cochrane Central Register of 
+Controlled Trials (CENTRAL), in the Cochrane Library; MEDLINE; Embase; the 
+Cumulative Index to Nursing and Allied Health Literature (CINAHL); and the World 
+Health Organization International Clinical Trials Registry Platform and 
+ClinicalTrials.gov trials registers to 28 August 2019. The review authors 
+searched Latin American Caribbean Health Sciences Literature (LILACS) and the 
+Indice Bibliográfico Español de Ciencias de la Salud (IBECS) on 28 August 2019 
+and contacted specialists in the field and manufacturers to identify relevant 
+studies.
+SELECTION CRITERIA: We planned to include all randomised controlled trials 
+(RCTs) that compared internal iliac artery revascularisation with internal iliac 
+artery occlusion for patients undergoing endovascular treatment of aorto-iliac 
+aneurysms and isolated iliac aneurysms involving the iliac bifurcation.
+DATA COLLECTION AND ANALYSIS: Two review authors independently assessed 
+identified studies for potential inclusion in the review. We used standard 
+methodological procedures in accordance with the Cochrane Handbook for 
+Systematic Review of Interventions.
+MAIN RESULTS: We identified no RCTs that met the inclusion criteria.
+AUTHORS' CONCLUSIONS: We found no RCTs that compared internal iliac artery 
+revascularisation versus internal iliac artery occlusion for endovascular 
+treatment of aorto-iliac aneurysms and isolated iliac aneurysms involving the 
+iliac bifurcation. High-quality studies that evaluate the best strategy for 
+managing endovascular repair of aorto-iliac aneurysms with inadequate distal 
+seal zones in the common iliac artery are needed.
+
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, 
+Ltd.
+
+DOI: 10.1002/14651858.CD013168.pub2
+PMCID: PMC7389186
+PMID: 32691854 [Indexed for MEDLINE]
+
+Conflict of interest statement: LHDGS: none known. JCCBS: none known. VV: none 
+known. RLGF: none known. LCUN: none known.
+
+
+115. Biotechnol Bioeng. 2020 Nov;117(11):3499-3507. doi: 10.1002/bit.27511. Epub
+2020  Jul 30.
+
+Extension of cell membrane boosting squalene production in the engineered 
+Escherichia coli.
+
+Meng Y(1), Shao X(1), Wang Y(1), Li Y(1), Zheng X(1), Wei G(1), Kim SW(2), Wang 
+C(1).
+
+Author information:
+(1)School of Biology and Basic Medical Sciences, Soochow University, Suzhou, 
+China.
+(2)Division of Applied Life Science (BK21 Plus), PMBBRC, Gyeongsang National 
+University, Jinju, Republic of Korea.
+
+Squalene is a lipophilic and non-volatile triterpene with many industrial 
+applications for food, pharmaceuticals, and cosmetics. Metabolic engineering 
+focused on optimization of the production pathway suffer from little success in 
+improving titers because of a limited space of the cell membrane accommodating 
+the lipophilic product. Extension of cell membrane would be a promising approach 
+to overcome the storage limitation for successful production of squalene. In 
+this study, Escherichia coli was engineered for squalene production by 
+overexpression of some membrane proteins. The highest production of 612 mg/L was 
+observed in the engineered E. coli with overexpression of Tsr, a serine 
+chemoreceptor protein, which induced invagination of inner membrane to form 
+multilayered structure. It was also observed an increase in unsaturated fatty 
+acid in membrane lipids composition, suggesting cellular response to maintain 
+membrane fluidity against squalene accumulation in the engineered strain. This 
+study potentiates the capability of E. coli for squalene production and provides 
+an effective strategy for the enhanced production of such compounds.
+
+© 2020 Wiley Periodicals LLC.
+
+DOI: 10.1002/bit.27511
+PMID: 32691870 [Indexed for MEDLINE]
+
+
+116. Kardiol Pol. 2020 Sep 25;78(9):842-849. doi: 10.33963/KP.15522. Epub 2020
+Jul  21.
+
+New advances in the prevention of transcatheter aortic valve implantation 
+failure: current and future perspectives.
+
+Piroli F(1), Franchin L(2), Bruno F(2), De Filippo O(2), D'Ascenzo F(2), 
+Conrotto F(2).
+
+Author information:
+(1)Division of Cardiology, Department of Medical Sciences, Città della Salute e 
+della Scienza, University of Turin, Turin, Italy. francescopiroli@yahoo.it
+(2)Division of Cardiology, Department of Medical Sciences, Città della Salute e 
+della Scienza, University of Turin, Turin, Italy
+
+Transcatheter aortic valve implantation (TAVI) represents an established and 
+safe therapeutic alternative to surgical valve replacement for patients with 
+severe symptomatic aortic stenosis. However, some uncertainty still persists 
+about long‑term outcomes of this procedure. The aim of this review was to 
+analyze the actual state of the art with focus on the new advances that are 
+being developed to improve this therapeutic approach. Thanks to improvements in 
+technology and materials as well as a substantial standardization of the 
+procedure, patients undergoing TAVI are showing increasing life expectancy. 
+Although a growing body of evidence demonstrated a convincing midterm safety 
+profile, the very long‑ ‑term survival after TAVI still depends on the rate of 
+bioprosthetic valve failure (BVF). Structural valve deterioration, leaflet 
+thrombosis, prosthesis-patient mismatch, paravalvular regurgitation, and 
+endocarditis are the main complications that threaten the preservation of 
+valvular function. Through the understanding of these physiopathological 
+mechanisms underlying BVF, we analyzed how the management of such valve‑related 
+issues has evolved in the last years and how current clinical and research 
+efforts are shifting towards the ambit of prevention of valve failure. In 
+conclusion, in the near future, the prevention of long‑ ‑term BVF is expected to 
+be one of the major challenges regarding TAVI. Currently, promising results can 
+be observed in the development of new technologies and therapeutic options.
+
+DOI: 10.33963/KP.15522
+PMID: 32692029 [Indexed for MEDLINE]
+
+
+117. Zool Res. 2020 Sep 18;41(5):576-580. doi:
+10.24272/j.issn.2095-8137.2020.083.
+
+First record of Theloderma pyaukkya Dever, 2017 (Anura: Rhacophoridae) in China, 
+with range extension of Theloderma moloch (Annandale, 1912) to Yunnan.
+
+Du LN(1)(2), Liu S(3), Hou M(4), Yu GH(1)(5).
+
+Author information:
+(1)Key Laboratory of Ecology of Rare and Endangered Species and Environmental 
+Protection (Guangxi Normal University), Ministry of Education, Guilin, Guangxi 
+541004, China.
+(2)Guangxi Key Laboratory of Rare and Endangered Animal Ecology, College of Life 
+Science, Guangxi Normal University, Guilin, Guangxi 541004, China.
+(3)Kunming Natural History Museum of Zoology, Kunming Institute of Zoology, 
+Chinese Academy of Sciences, Kunming, Yunnan 650223, China.
+(4)Institute of Continuing Education, Sichuan Normal University, Chengdu, 
+Sichuan 610068, China. E-mail: turtlechina@126.com.
+(5)Guangxi Key Laboratory of Rare and Endangered Animal Ecology, College of Life 
+Science, Guangxi Normal University, Guilin, Guangxi 541004, China. E-mail: 
+yugh2018@126.com.
+
+Theloderma pyaukkya is recorded for the first time in China based on a specimen 
+collected from western Yunnan. Morphologically, the specimen shows good 
+agreement with the original description of T. pyaukkya, and phylogenetically is 
+clustered with the type specimens and holotype of T. pyaukkya from Kachin State 
+(northern Myanmar) with strong support. The taxonomic status of T. pyaukkya from 
+Chin State (western Myanmar) needs further examination. In addition, Theloderma 
+moloch is also recorded in Yunnan for the first time. This brings the number of 
+Theloderma species recorded in Yunnan, China, to seven, namely, T. 
+albopunctatum, T. baibungense, T. bicolor, T. gordoni, T. moloch, T. pyaukkya, 
+and T. rhododiscus.
+
+DOI: 10.24272/j.issn.2095-8137.2020.083
+PMCID: PMC7475012
+PMID: 32692491 [Indexed for MEDLINE]
+
+
+118. JCO Oncol Pract. 2021 Apr;17(4):e469-e478. doi: 10.1200/OP.20.00155. Epub
+2020  Jul 21.
+
+Outcomes and Costs for Women After Breast Cancer: Preparing for Improved 
+Survivorship of Medicare Beneficiaries.
+
+Yashkin AP(1), Greenup RA(2)(3)(4), Gorbunova G(1), Akushevich I(1), Oeffinger 
+KC(3)(4)(5), Hwang ES(2)(3).
+
+Author information:
+(1)Biodemography of Aging Research Unit, Duke Population Research Center, Duke 
+University, Durham, NC.
+(2)Department of Surgery, Duke University, Durham, NC.
+(3)Duke Cancer Institute, Duke University, Durham, NC.
+(4)Department of Population Health Sciences, Duke University, Durham, NC.
+(5)Department of Medicine, Duke University, Durham, NC.
+
+PURPOSE: Increasing health care costs, longer life expectancy, improved breast 
+cancer (BC) survival, and higher levels of complex comorbidities have important 
+implications for future Medicare expenditures.
+METHODS: Data from the SEER program linked to Medicare claims records were used. 
+Women with BC (cases) were categorized into 3 groups on the basis of their year 
+of diagnosis (1998, 2003, or 2008) and were propensity score matched to women 
+without a BC diagnosis (controls). All stage and stage-specific longitudinal 
+changes in survival, morbidity levels using the Elixhauser index, and Medicare 
+expenditures in 2018 dollars were calculated and compared.
+RESULTS: More than 15% of BC cases were diagnosed in patients over the age of 85 
+years. The prevalence of most comorbidities increased over time. Costs among 
+cases increased between 1998 and 2008. Spending directly correlated with the 
+stage of disease at diagnosis, with the lowest per-patient costs in the ductal 
+carcinoma in situ (DCIS) subgroup ($14,792 in 1998 and $19,652 in 2008) and the 
+highest in those with distant cancer ($37,667 in 1998 and $43,675 in 2008). 
+Assuming no significant changes in the distribution of BC stage or age at 
+diagnosis, the total annual costs of caring for patients with BC in women 65 
+years of age or older at diagnosis increased by at least $1.1 billion between 
+1998 and 2008.
+CONCLUSION: Improvements in BC survivorship are associated with intensive use of 
+health care resources and substantially higher downstream costs among Medicare 
+beneficiaries. Appropriate planning, in both the fiscal and the oncology care 
+infrastructure, is required to prepare the health system for these emerging 
+health care trends.
+
+DOI: 10.1200/OP.20.00155
+PMCID: PMC8258099
+PMID: 32692618 [Indexed for MEDLINE]
+
+Conflict of interest statement: Rachel A. GreenupHonoraria: Novartis, 
+GenentechNo other potential conflicts of interest were reported.
+
+
+119. Eur J Neurol. 2020 Dec;27(12):2415-2421. doi: 10.1111/ene.14450. Epub 2020
+Aug  31.
+
+Cause of death in autopsy-confirmed dementia disorders.
+
+Degerskär ANW(1), Englund EM(1).
+
+Author information:
+(1)Division of Pathology, Department of Clinical Sciences, Lund University, 
+Lund, Sweden.
+
+BACKGROUND AND PURPOSE: Dementia disorders predispose for lethal complications 
+and decrease life expectancy. A more profound knowledge regarding end-stage 
+conditions in dementia could therefore ameliorate treatment and care of these 
+patients.
+METHODS: Autopsy reports on 207 deceased individuals with clinically diagnosed 
+neurocognitive disorder/dementia and on 200 neurocognitively healthy individuals 
+of the same age range were studied. Autopsy results, especially cause of death, 
+were compared between the dementia and the control groups.
+RESULTS: The two most frequent causes of death in the dementia population were 
+pneumonia (34.3%) and acute myocardial infarction (30.4%). This result differed 
+from that of the control group, in which acute myocardial infarction (42.5%) 
+accounted for most events of deaths, followed by circulatory failure (12.5%). 
+The leading cause of death varied amongst dementia subtypes. Further, in 
+Alzheimer's disease pneumonia was more frequent in severe/advanced cases whilst 
+acute myocardial infarction was more common in milder cases.
+CONCLUSIONS: Cause of death differed between the demented and the general 
+population of the same age and between subtypes of dementia. Alzheimer's disease 
+severity was reflected in different final conditions. The findings have 
+relevance for the final stage care and treatment in dementia disorders.
+
+© 2020 The Authors. European Journal of Neurology published by John Wiley & Sons 
+Ltd on behalf of European Academy of Neurology.
+
+DOI: 10.1111/ene.14450
+PMID: 32692883 [Indexed for MEDLINE]
+
+
+120. Prev Med. 2020 Oct;139:106214. doi: 10.1016/j.ypmed.2020.106214. Epub 2020
+Jul  18.
+
+Rural-urban differences in estimated life expectancy associated with 
+neighborhood-level cumulative social and environmental determinants.
+
+Prochaska JD(1), Jupiter DC(2), Horel S(3), Vardeman J(4), Burdine JN(3).
+
+Author information:
+(1)Department of Preventive Medicine & Population Health, School of Medicine, 
+University of Texas Medical Branch, 301 University Blvd, Route 1153, Galveston, 
+TX 77555, United States of America. Electronic address: joprocha@utmb.edu.
+(2)Department of Preventive Medicine & Population Health, School of Medicine, 
+University of Texas Medical Branch, 301 University Blvd, Route 1153, Galveston, 
+TX 77555, United States of America.
+(3)School of Public Health, Texas A&M University Health Science Center, 212 
+Adriance Lab Rd., College Station, TX 77843, United States of America.
+(4)Jack J. Valenti School of Communication, University of Houston, 3347 Cullen 
+Blvd., Houston, TX 77204, United States of America.
+
+Diverse neighborhood-level environmental and social impacts on health are well 
+documented. While studies typically examine these impacts individually, 
+examining potential health impacts from multiple sources as a whole can provide 
+a broader context of overall neighborhood-level health impacts compared to 
+examining each component independently. This study examined the association 
+between cumulative neighborhood-level potential health impacts on health and 
+expected life expectancy within neighborhoods (census tracts) across Texas using 
+the Neighborhood Potential Health Impact Score tool. Among urban census tract 
+neighborhoods, a difference of nearly 5 years was estimated between 
+neighborhoods with the least health promoting cumulative health impacts compared 
+to neighborhoods with the most health promoting cumulative health impacts. 
+Differences were observed between rural and urban census tract neighborhoods, 
+with rural areas having less variability in expected life expectancy associated 
+with neighborhood-level cumulative potential health impacts compared to urban 
+areas.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ypmed.2020.106214
+PMID: 32693175 [Indexed for MEDLINE]121. Clin Neurol Neurosurg. 2020 Oct;197:106092. doi:
+10.1016/j.clineuro.2020.106092.  Epub 2020 Jul 16.
+
+Septic cavernous sinus thrombosis-Case series and review of the literature.
+
+Geng B(1), Wu X(2), Malhotra A(3).
+
+Author information:
+(1)Department of Radiology and Biomedical Imaging, Yale School of Medicine, 
+United States. Electronic address: bertie.geng@yale.edu.
+(2)Department of Radiology and Biomedical Imaging, Yale School of Medicine, 
+United States. Electronic address: xiaowumed@gmail.com.
+(3)Department of Radiology and Biomedical Imaging, Yale School of Medicine, Box 
+208042, Tompkins East 2, 333 Cedar St, New Haven, CT 06520-8042, United States. 
+Electronic address: ajay.malhotra@yale.edu.
+
+BACKGROUND AND PURPOSE: Septic cavernous sinus thrombosis (CST) is a rare, 
+life-threatening disease with infectious thrombosis causing associated 
+complications resulting in high morbidity and mortality. We report a series of 
+CST patients with assessment of arterial and intracranial complications.
+METHODS: We used the radiology database from a large, academic tertiary care 
+center to collect all patients treated with CST between 2002 and 2019. Patient 
+demographics, source of infection, treatment course and outcomes were evaluated. 
+A review of the recent literature was also performed for similar reported 
+complications from CST.
+RESULTS: 14 patients with CST treated during this time period were assessed. Of 
+the 14 patients, 1 patient died. 7 patients had unilateral narrowing of ICA 
+while 3 patients had bilateral narrowing. The ICA narrowing was reversible in 
+10/12 patients and improvement but persistent narrowing in one patient. One 
+patient had an infectious pseudo aneurysm that was treated by coiling. Extension 
+of thrombosis to the transverse- sigmoid sinuses and internal jugular vein were 
+seen in 3 patients. Three patients had subdural empyema which was treated 
+surgically.
+CONCLUSION: The prognosis of CST has improved with advancement in treatment, but 
+complications are not infrequent.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.clineuro.2020.106092
+PMID: 32693341 [Indexed for MEDLINE]
+
+
+122. Infancy. 2010 May;15(3):324-335. doi: 10.1111/j.1532-7078.2009.00011.x. Epub
+ 2010 Jan 8.
+
+Understanding Interest in the Second Year of Life.
+
+MacPherson AC(1), Moore C(1).
+
+Author information:
+(1)Department of Psychology Dalhousie University.
+
+Infants (n = 24, mean age 13 months and n = 24, mean age 19 months) were tested 
+on an extension of the method introduced by Tomasello and Haberl (2003) to 
+examine the understanding of another person's interest in a novel object. Four 
+objects were presented serially. For two objects, infants played with an 
+experimenter. The infant played with one object alone, and the experimenter 
+played with one object alone. Finally, all four objects were presented together, 
+and the experimenter excitedly asked for one without indicating which. Results 
+showed that younger infants tended to chose the object that they had not yet 
+played with, whereas older infants were significantly more likely to choose the 
+object that the experimenter had not yet played with. These results are 
+discussed in the context of research on the development of understanding 
+diversity of simple object-directed attitudes in the second year of life.
+
+Copyright International Society on Infant Studies (ISIS).
+
+DOI: 10.1111/j.1532-7078.2009.00011.x
+PMID: 32693543
+
+
+123. BMJ Glob Health. 2020 Jul;5(7):e002414. doi: 10.1136/bmjgh-2020-002414.
+
+Diversification in causes of death in low-mortality countries: emerging patterns 
+and implications.
+
+Bergeron-Boucher MP(1), Aburto JM(2)(3)(4), van Raalte A(4).
+
+Author information:
+(1)Interdisciplinary Centre on Population Dynamics, Syddansk Universitet, 
+Odense, Denmark mpbergeron@sdu.dk.
+(2)Interdisciplinary Centre on Population Dynamics, Syddansk Universitet, 
+Odense, Denmark.
+(3)Department of Sociology and Leverhulme Centre for Demographic Science, 
+University of Oxford, Oxford, Oxfordshire, UK.
+(4)Max-Planck-Institute for Demographic Research, Rostock, 
+Mecklenburg-Vorpommern, Germany.
+
+INTRODUCTION: An important role of public health organisations is to monitor 
+indicators of variation, so as to disclose underlying inequality in health 
+improvement. In industrialised societies, more individuals than ever are 
+reaching older ages and have become more homogeneous in their age at death. This 
+has led to a decrease in lifespan variation, with substantial implications for 
+the reduction of health inequalities. We focus on a new form of variation to 
+shed further light on our understanding of population health and ageing: 
+variation in causes of death.
+METHODS: Data from the WHO Mortality Database and the Human Mortality Database 
+are used to estimate cause-of-death distributions and life tables in 15 
+low-mortality countries. Cause-of-death variation, using 19 groups of causes, is 
+quantified using entropy measures and analysed from 1994 to 2017.
+RESULTS: The last two decades have seen increasing diversity in causes of death 
+in low-mortality countries. There have been important reductions in the share of 
+deaths from diseases of the circulatory system, while the share of a range of 
+other causes, such as diseases of the genitourinary system, mental and 
+behavioural disorders, and diseases of the nervous system, has been increasing, 
+leading to a more complex cause-of-death distribution.
+CONCLUSIONS: The diversification in causes of death witnessed in recent decades 
+is most likely a result of the increase in life expectancy, together with better 
+diagnoses and awareness of certain diseases. Such emerging patterns bring 
+additional challenges to healthcare systems, such as the need to research, 
+monitor and treat a wider range of diseases. It also raises new questions 
+concerning the distribution of health resources.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjgh-2020-002414
+PMCID: PMC7375425
+PMID: 32694219 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+124. Clin Orthop Relat Res. 2020 Dec;478(12):2869-2888. doi: 
+10.1097/CORR.0000000000001416.
+
+Is Reconstruction of Unstable Midfoot Charcot Neuroarthropathy Cost Effective 
+from a US Payer's Perspective?
+
+Albright RH(1), Joseph RM(2), Wukich DK(3), Armstrong DG(4), Fleischer AE(2)(5).
+
+Author information:
+(1)R. H. Albright, The Dartmouth Institute, Geisel School of Medicine, Hanover, 
+NH, USA.
+(2)R. M. Joseph, A. E. Fleischer, Department of Podiatric Medicine and 
+Radiology, Dr. William M. Scholl College of Podiatric Medicine at Rosalind 
+Franklin University of Medicine and Science, North Chicago, IL, USA.
+(3)D. K. Wukich, Department of Orthopaedic Surgery, UT Southwestern Medical 
+Center, Dallas, TX, USA.
+(4)D. G. Armstrong, Southwestern Academic Limb Salvage Alliance, Department of 
+Surgery, Keck School of Medicine at University of Southern California, Los 
+Angeles, CA, USA.
+(5)A. E. Fleischer, Weil Foot and Ankle Institute, Mount Prospect, IL, USA.
+
+BACKGROUND: Charcot neuroarthropathy is a morbid and expensive complication of 
+diabetes that can lead to lower extremity amputation. Current treatment of 
+unstable midfoot deformity includes lifetime limb bracing, primary transtibial 
+amputation, or surgical reconstruction of the deformity. In the absence of a 
+widely adopted treatment algorithm, the decision to pursue more costly attempts 
+at reconstruction in the United States continues to be driven by surgeon 
+preference.
+QUESTIONS/PURPOSES: To examine the cost effectiveness (defined by lifetime 
+costs, quality-adjusted life-years [QALYs] and incremental cost-effectiveness 
+ratio [ICER]) of surgical reconstruction and its alternatives (primary 
+transtibial amputation and lifetime bracing) for adults with diabetes and 
+unstable midfoot Charcot neuroarthropathy using previously published cost data.
+METHODS: A Markov model was used to compare Charcot reconstruction and its 
+alternatives in three progressively worsening clinical scenarios: no foot ulcer, 
+uncomplicated (or uninfected) ulcer, and infected ulcer. Our base case scenario 
+was a 50-year-old adult with diabetes and unstable midfoot deformity. Patients 
+were placed into health states based on their disease stage. Transitions between 
+health states occurred annually using probabilities estimated from the evidence 
+obtained after systematic review. The time horizon was 50 cycles. Data regarding 
+costs were obtained from a systematic review. Costs were converted to 2019 USD 
+using the Consumer Price Index. The primary outcomes included the long-term 
+costs and QALYs, which were combined to form ICERs. Willingness-to-pay was set 
+at USD 100,000/QALY. Multiple sensitivity analyses and probabilistic analyses 
+were performed to measure model uncertainty.
+RESULTS: The most effective strategy for patients without foot ulcers was 
+Charcot reconstruction, which resulted in an additional 1.63 QALYs gained and an 
+ICER of USD 14,340 per QALY gained compared with lifetime bracing. 
+Reconstruction was also the most effective strategy for patients with uninfected 
+foot ulcers, resulting in an additional 1.04 QALYs gained, and an ICER of USD 
+26,220 per QALY gained compared with bracing. On the other hand, bracing was 
+cost effective in all scenarios and was the only cost-effective strategy for 
+patents with infected foot ulcers; it resulted in 6.32 QALYs gained and an ICER 
+of USD 15,010 per QALY gained compared with transtibial amputation. As unstable 
+midfoot Charcot neuroarthropathy progressed to deep infection, reconstruction 
+lost its value (ICER USD 193,240 per QALY gained) compared with bracing. This 
+was driven by the increasing costs associated with staged surgeries, combined 
+with a higher frequency of complications and shorter patient life expectancies 
+in the infected ulcer cohort. The findings in the no ulcer and uncomplicated 
+ulcer cohorts were both unchanged after multiple sensitivity analyses; however, 
+threshold effects were identified in the infected ulcer cohort during the 
+sensitivity analysis. When the cost of surgery dropped below USD 40,000 or the 
+frequency of postoperative complications dropped below 50%, surgical 
+reconstruction became cost effective.
+CONCLUSIONS: Surgeons aiming to offer both clinically effective and 
+cost-effective care would do well to discuss surgical reconstruction early with 
+patients who have unstable midfoot Charcot neuroarthropathy, and they should 
+favor lifetime bracing only after deep infection develops. Future clinical 
+studies should focus on methods of minimizing surgical complications and/or 
+reducing operative costs in patients with infected foot ulcers.
+LEVEL OF EVIDENCE: Level II, economic and decision analysis.
+
+DOI: 10.1097/CORR.0000000000001416
+PMCID: PMC7899431
+PMID: 32694315 [Indexed for MEDLINE]
+
+Conflict of interest statement: Each author certifies that neither he or she, 
+nor any member of his or her immediate family, has funding or commercial 
+associations (consultancies, stock ownership, equity interest, patent/licensing 
+arrangements, etc) that might pose a conflict of interest in connection with the 
+submitted article. All ICMJE Conflict of Interest Forms for authors and Clinical 
+Orthopaedics and Related Research® editors and board members are on file with 
+the publication and can be viewed on request.
+
+
+125. Pharmacoeconomics. 2020 Oct;38(10):1135-1145. doi:
+10.1007/s40273-020-00942-2.
+
+Perspective and Costing in Cost-Effectiveness Analysis, 1974-2018.
+
+Kim DD(1)(2), Silver MC(3), Kunst N(4)(5)(6), Cohen JT(3)(7), Ollendorf 
+DA(3)(7), Neumann PJ(3)(7).
+
+Author information:
+(1)Center for the Evaluation of Value and Risk in Health, Institute for Clinical 
+Research and Health Policy Studies, Tufts Medical Center, 800 Washington St, Box 
+063, Boston, MA, 02111, USA. dkim3@tuftsmedicalcenter.org.
+(2)Department of Medicine, Tufts University School of Medicine, Boston, MA, USA. 
+dkim3@tuftsmedicalcenter.org.
+(3)Center for the Evaluation of Value and Risk in Health, Institute for Clinical 
+Research and Health Policy Studies, Tufts Medical Center, 800 Washington St, Box 
+063, Boston, MA, 02111, USA.
+(4)Department of Health Management and Health Economics, University of Oslo, 
+Oslo, Norway.
+(5)Cancer Outcomes, Public Policy and Effectiveness Research (COPPER) Center, 
+Yale University School of Medicine, New Haven, CT, USA.
+(6)LINK Medical Research, Oslo, Norway.
+(7)Department of Medicine, Tufts University School of Medicine, Boston, MA, USA.
+
+Erratum in
+    Pharmacoeconomics. 2020 Dec;38(12):1377.
+
+OBJECTIVE: Our objective was to examine perspective and costing approaches used 
+in cost-effectiveness analyses (CEAs) and the distribution of reported 
+incremental cost-effectiveness ratios (ICERs).
+METHODS: We analyzed the Tufts Medical Center's CEA and Global Health CEA 
+registries, containing 6907 cost-per-quality-adjusted-life-year (QALY) and 698 
+cost-per-disability-adjusted-life-year (DALY) studies published through 2018. We 
+examined how often published CEAs included non-health consequences and their 
+impact on ICERs. We also reviewed 45 country-specific guidelines to examine 
+recommended analytic perspectives.
+RESULTS: Study authors often mis-specified or did not clearly state the 
+perspective used. After re-classification by registry reviewers, a healthcare 
+sector or payer perspective was most prevalent (74%). CEAs rarely included 
+unrelated medical costs and impacts on non-healthcare sectors. The most common 
+non-health consequence included was productivity loss in the cost-per-QALY 
+studies (12%) and patient transportation in the cost-per-DALY studies (21%). Of 
+19,946 cost-per-QALY ratios, the median ICER was $US26,000/QALY (interquartile 
+range [IQR] 2900-110,000), and 18% were cost saving and QALY increasing. Of 5572 
+cost-per-DALY ratios, the median ICER was $US430/DALY (IQR 67-3400), and 8% were 
+cost saving and DALY averting. Based on 16 cost-per-QALY studies (2017-2018) 
+reporting 68 ICERs from both the healthcare sector and societal perspectives, 
+the median ICER from a societal perspective ($US22,710/QALY [IQR 11,991-49,603]) 
+was more favorable than from a healthcare sector perspective ($US30,402/QALY 
+[IQR 10,486-77,179]). Most governmental guidelines (67%) recommended either a 
+healthcare sector or a payer perspective.
+CONCLUSION: Researchers should justify and be transparent about their choice of 
+perspective and costing approaches. The use of the impact inventory and 
+reporting of disaggregate outcomes can reduce inconsistencies and confusion.
+
+DOI: 10.1007/s40273-020-00942-2
+PMCID: PMC7373843
+PMID: 32696192 [Indexed for MEDLINE]
+
+Conflict of interest statement: DDK, MCS, JTC, DAO, and PJN are employees of the 
+Center for the Evaluation of Value and Risk in Health at Tufts Medical Center, 
+which maintains the CEA Registry and the GHCEA registry used as data sources for 
+this study. The CEA registry is supported by subscription revenue from 
+pharmaceutical and device companies, academic institutions, and government 
+agencies. The GHCEA registry is supported by a grant from the Bill and Melinda 
+Gates Foundation. NK was funded by the Research Council of Norway and LINK 
+Medical Research (grant numbers 276146 and 304034) and has received personal 
+fees for speaking from Thermo Fisher Scientific, outside of the submitted work. 
+JTC has received grants for work conducted on behalf of Amgen, Biogen, and 
+Janssen Pharmaceuticals and has lectured on the use of simulation for Pfizer. 
+JTC has also consulted for AbbVie, Precision Health Economics, Sage 
+Therapeutics, and Sarepta, outside of the submitted work. PJN has held one-time 
+roles on the advisory boards on health economics topics for Avexis, AbbVie, 
+Research Triangle Institute, Merck, Genentech, Bluebird Bio, and Novo Nordisk. 
+PJN serves on the advisory board for the Congressional Budget Office and has 
+consulted for Precision Health Economics, outside of the submitted work.
+
+
+126. Monaldi Arch Chest Dis. 2020 Jul 22;90(3). doi: 10.4081/monaldi.2020.1388.
+
+Early trends of socio-economic and health indicators influencing case fatality 
+rate of COVID-19 pandemic.
+
+Asfahan S(1), Shahul A(2), Chawla G(3), Dutt N(4), Niwas R(5), Gupta N(6).
+
+Author information:
+(1)Department of Pulmonary Medicine, All India Institute of Medical Sciences, 
+Jodhpur. shahirasfahan@gmail.com.
+(2)Department of Pulmonary Medicine, All India Institute of Medical Sciences, 
+Jodhpur. aneesambbs@gmail.com.
+(3)Department of Pulmonary Medicine, All India Institute of Medical Sciences, 
+Jodhpur. dr.gopalchawla@gmail.com.
+(4)Department of Pulmonary Medicine, All India Institute of Medical Sciences, 
+Jodhpur. drnaveendutt@yahoo.co.in.
+(5)Department of Pulmonary Medicine, All India Institute of Medical Sciences, 
+Jodhpur. rniwasaiims@gmail.com.
+(6)Department of Paediatrics, All India Institute of Medical Sciences, Jodhpur. 
+neerajlnjp@gmail.com.
+
+Coronavirus disease 2019, i.e. COVID-19, started as an outbreak in a district of 
+China and has engulfed the world in a matter of 3 months. It is posing a serious 
+health and economic challenge worldwide. However, case fatality rates (CFRs) 
+have varied amongst various countries ranging from 0 to 8.91%. We have evaluated 
+the effect of selected socio-economic and health indicators to explain this 
+variation in CFR. Countries reporting a minimum of 50 cases as on 14th March 
+2020, were selected for this analysis. Data about the socio-economic indicators 
+of each country was accessed from the World bank database and data about the 
+health indicators were accessed from the World Health Organisation (WHO) 
+database. Various socioeconomic indicators and health indicators were selected 
+for this analysis. After selecting from univariate analysis, the indicators with 
+the maximum correlation were used to build a model using multiple variable 
+linear regression with a forward selection of variables and using adjusted 
+R-squared score as the metric. We found univariate regression results were 
+significant for GDP (Gross Domestic Product) per capita, POD 30/70 (Probability 
+Of Dying Between Age 30 And Exact Age 70 From Any of Cardiovascular Disease, 
+Cancer, Diabetes or Chronic Respiratory Disease), HCI (Human Capital Index), 
+GNI(Gross National Income) per capita, life expectancy, medical doctors per 
+10000 population, as these parameters negatively corelated with CFR (rho = -0.48 
+to -0.38 , p<0.05). Case fatality rate was regressed using ordinary least 
+squares (OLS) against the socio-economic and health indicators. The indicators 
+in the final model were GDP per capita, POD 30/70, HCI, life expectancy, medical 
+doctors per 10,000, median age, current health expenditure per capita, number of 
+confirmed cases and population in millions. The adjusted R-squared score was 
+0.306. Developing countries with a poor economy are especially vulnerable in 
+terms of COVID-19 mortality and underscore the need to have a global policy to 
+deal with this on-going pandemic. These trends largely confirm that the toll 
+from COVID-19 will be worse in countries ill-equipped to deal with it. These 
+analyses of epidemiological data are need of time as apart from increasing 
+situational awareness, it guides us in taking informed interventions and helps 
+policy-making to tackle this pandemic.
+
+DOI: 10.4081/monaldi.2020.1388
+PMID: 32696629 [Indexed for MEDLINE]
+

@@ -1,0 +1,1000 @@
+life-threatening manifestations are aortic aneurysms leading to dissection and 
+rupture. Other cardiovascular complications, including mitral valve prolapse, 
+primary cardiomyopathy, and arrhythmia, also occur more frequently in patients 
+with MFS. The standard medical care relies on cardiovascular imaging at regular 
+intervals, along with pharmacological treatment with β-adrenergic receptor 
+blockers aimed at reducing the aortic growth rate. When aortic dilatation 
+reaches a threshold associated with increased risk of dissection, prophylactic 
+surgical aortic replacement is performed. Although current clinical management 
+has significantly improved the life expectancy of patients with MFS, no cure is 
+available and fatal complications still occur, underscoring the need for new 
+treatment options. In recent years, preclinical studies have identified a number 
+of potentially promising therapeutic targets. Nevertheless, the translation of 
+these results into clinical practice has remained challenging. In this review, 
+we present an overview of the currently available knowledge regarding the 
+underlying pathophysiological processes associated with MFS cardiovascular 
+pathology. We then summarize the treatment options that have been developed 
+based on this knowledge and are currently in different stages of preclinical or 
+clinical development, provide a critical review of the limitations of current 
+studies and highlight potential opportunities for future research.
+
+© 2021 Deleeuw et al.
+
+DOI: 10.2147/JEP.S265271
+PMCID: PMC8366784
+PMID: 34408505
+
+Conflict of interest statement: The authors reported no conflicts of interest 
+for this work and declare that the research was conducted in the absence of any 
+commercial of financial relationships that could be construed as a potential 
+conflict of interest.
+
+
+531. Front Neurorobot. 2021 Aug 2;15:685961. doi: 10.3389/fnbot.2021.685961. 
+eCollection 2021.
+
+Multi-Joint Angles Estimation of Forearm Motion Using a Regression Model.
+
+Qin Z(1), Stapornchaisit S(1), He Z(1), Yoshimura N(2)(3), Koike Y(2).
+
+Author information:
+(1)Department of Information and Communications Engineering, Tokyo Institute of 
+Technology, Yokohama, Japan.
+(2)Institute of Innovative Research, Tokyo Institute of Technology, Yokohama, 
+Japan.
+(3)Precursory Research for Embryonic Science and Technology (PRESTO), Japan 
+Science and Technology Agency (JST), Saitama, Japan.
+
+To improve the life quality of forearm amputees, prosthetic hands with high 
+accuracy, and robustness are necessary. The application of surface 
+electromyography (sEMG) signals to control a prosthetic hand is challenging. In 
+this study, we proposed a time-domain CNN model for the regression prediction of 
+joint angles in three degrees of freedom (3-DOFs, include two wrist joint motion 
+and one finger joint motion), and five-fold cross validation was used to 
+evaluate the correlation coefficient (CC). The CC value results of wrist 
+flexion/extension motion obtained from 10 participants was 0.87-0.92, 
+pronation/supination motion was 0.72-0.95, and hand grip/open motion was 
+0.75-0.94. We backtracked the fully connected layer weights to create a geometry 
+plot for analyzing the motion pattern to investigate the learning of the 
+proposed model. In order to discuss the daily updateability of the model by 
+transfer learning, we performed a second experiment on five of the participants 
+in another day and conducted transfer learning based on smaller amount of 
+dataset. The CC results improved (wrist flexion/extension was 0.90-0.97, 
+pronation/supination was 0.84-0.96, hand grip/open was 0.85-0.92), suggesting 
+the effectiveness of the transfer learning by incorporating the small amounts of 
+sEMG data acquired in different days. We compared our CNN-based model with four 
+conventional regression models, the result illustrates that proposed model 
+significantly outperforms the four conventional models with and without transfer 
+learning. The offline result suggests the reliability of the proposed model in 
+real-time control in different days, it can be applied for real-time prosthetic 
+control in the future.
+
+Copyright © 2021 Qin, Stapornchaisit, He, Yoshimura and Koike.
+
+DOI: 10.3389/fnbot.2021.685961
+PMCID: PMC8366416
+PMID: 34408635
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+532. Pharmacoeconomics. 2021 Dec;39(12):1443-1454. doi:
+10.1007/s40273-021-01067-w.  Epub 2021 Aug 19.
+
+What Aspects of Illness Influence Public Preferences for Healthcare Priority 
+Setting? A Discrete Choice Experiment in the UK.
+
+Morrell L(1)(2), Buchanan J(3)(4), Rees S(5), Barker RW(6), Wordsworth S(3)(4).
+
+Author information:
+(1)Health Economics Research Centre, Nuffield Department of Population Health, 
+University of Oxford, Old Road Campus, Roosevelt Drive, Oxford, OX3 7LF, UK. 
+liz.morrell@ndph.ox.ac.uk.
+(2)Oxford-UCL Centre for the Advancement of Sustainable Medical Innovation, 
+Radcliffe Department of Medicine, University of Oxford, Oxford, UK. 
+liz.morrell@ndph.ox.ac.uk.
+(3)Health Economics Research Centre, Nuffield Department of Population Health, 
+University of Oxford, Old Road Campus, Roosevelt Drive, Oxford, OX3 7LF, UK.
+(4)NIHR Oxford Biomedical Research Centre, University of Oxford, Oxford, UK.
+(5)Oxford Academic Health Science Network, Oxford, UK.
+(6)Oxford-UCL Centre for the Advancement of Sustainable Medical Innovation, 
+Radcliffe Department of Medicine, University of Oxford, Oxford, UK.
+
+BACKGROUND: Decisions on funding new healthcare technologies assume that all 
+health improvements are valued equally. However, public reaction to health 
+technology assessment (HTA) decisions suggests there are health attributes that 
+matter deeply to them but are not currently accounted for in the assessment 
+process. We aimed to determine the relative importance of attributes of illness 
+that influence the value placed on alleviating that illness.
+METHOD: We conducted a discrete choice experiment survey that presented general 
+public respondents with 15 funding decisions between hypothetical health 
+conditions. The conditions were defined by five attributes that characterise 
+serious illnesses, plus the health gain from treatment. Respondent preferences 
+were modelled using conditional logistic regression and latent class analysis.
+RESULTS: 905 members of the UK public completed the survey in November 2017. 
+Respondents generally preferred to provide treatments for conditions with 
+'better' characteristics. The exception was treatment availability, where 
+respondents preferred to provide treatments for conditions where there is no 
+current treatment, and were prepared to accept lower overall health gain to do 
+so. A subgroup of respondents preferred to prioritise 'worse' health states.
+CONCLUSION: This study suggests a preference among the UK public for treating an 
+unmet need; however, it does not suggest a preference for prioritising other 
+distressing aspects of health conditions, such as limited life expectancy, or 
+where patients are reliant on care. Our results are not consistent with the 
+features currently prioritised in UK HTA processes, and the preference 
+heterogeneity we identify presents a major challenge for developing broadly 
+acceptable policy.
+
+© 2021. The Author(s).
+
+DOI: 10.1007/s40273-021-01067-w
+PMCID: PMC8599241
+PMID: 34409564 [Indexed for MEDLINE]
+
+Conflict of interest statement: Liz Morrell, James Buchanan and Sarah Wordsworth 
+declare no conflicts of interest. Richard W. Barker is founder and CEO of New 
+Medicine Partners, co-founder of Metadvice and Innohealth, non-executive 
+Director for the Image Analysis Group, Chair of the Health Innovation Network 
+(UK), and was a non-executive director of Celgene Corporation. Sian Rees carried 
+out research projects for Oxfordshire Clinical Commissioning Group (part of NHS 
+England, UK) and Applied Research Collaboration South London (a health service 
+research collaboration, UK).
+
+
+533. Behav Cogn Psychother. 2022 Jan;50(1):74-88. doi: 10.1017/S1352465821000345.
+ Epub 2021 Aug 19.
+
+Integrating motivational interviewing with cognitive behavioural therapy for 
+anxiety disorders, depression and co-morbid unhealthy lifestyle behaviours: a 
+randomised controlled pilot trial.
+
+Ghaderi A(1), Rosendahl I(2), Bohman B(2).
+
+Author information:
+(1)Division of Psychology, Department of Clinical Neuroscience, Karolinska 
+Institutet, SE-171 77, Stockholm, Sweden.
+(2)Centre for Psychiatry Research, Department of Clinical Neuroscience, 
+Karolinska Institutet and Stockholm Health Care Services, Region Stockholm, 
+SE-113 64, Stockholm, Sweden.
+
+BACKGROUND: A substantial proportion of patients receiving cognitive behavioural 
+therapy (CBT) do not achieve remission, and drop-out is considerable. 
+Motivational interviewing (MI) may influence non-response and drop-out. Previous 
+research shows that MI as a pre-treatment to CBT produces moderate effects 
+compared with CBT alone. Studies integrating MI with CBT (MI-CBT) are scarce.
+AIMS: To test the feasibility of MI-CBT in terms of therapist competence in MI 
+and various participant measures, including recruitment and retention. In 
+addition, separate preliminary evaluations were conducted, exploring the effects 
+of CBT alone for anxiety disorders and depression, and of MI-CBT for anxiety 
+disorders, depression and unhealthy lifestyle behaviours.
+METHOD: Using a randomised controlled parallel trial design, participants were 
+recruited in routine psychiatric care and allocated to CBT alone or MI-CBT. 
+Means in feasibility measures and within-condition Hedges' g effect sizes in 
+treatment outcome measures were calculated. Authors were not blind to treatment 
+allocation, while independent raters were blind.
+RESULTS: Seventy-three patients were assessed for eligibility, and 49 were 
+included. Participant perceptions of treatment credibility, expectancy for 
+improvement, and working alliance were similar for both conditions. Overall, 
+effect sizes were large across outcome measures for both conditions, including 
+anxiety and depressive symptoms and functional impairment. However, therapists 
+did not acquire sufficient competence in MI and the drop-out rate was high.
+CONCLUSIONS: MI-CBT proved feasible in some respects, but the present study did 
+not support the progression to a randomised controlled trial designed to assess 
+the effectiveness of MI-CBT. Additional pilot studies are needed.
+
+DOI: 10.1017/S1352465821000345
+PMID: 34409931 [Indexed for MEDLINE]
+
+
+534. Immunol Res. 2021 Dec;69(6):496-519. doi: 10.1007/s12026-021-09224-1. Epub
+2021  Aug 19.
+
+COVID-19: the CaMKII-like system of S protein drives membrane fusion and induces 
+syncytial multinucleated giant cells.
+
+Wenzhong L(1)(2), Hualan L(3).
+
+Author information:
+(1)School of Computer Science and Engineering, Sichuan University of Science & 
+Engineering, Zigong, 643002, China. liuwz@suse.edu.cn.
+(2)School of Life Science and Food Engineering, Yibin University, Yibin, 644000, 
+China. liuwz@suse.edu.cn.
+(3)School of Life Science and Food Engineering, Yibin University, Yibin, 644000, 
+China.
+
+The SARS-CoV-2 S protein on the membrane of infected cells can promote 
+receptor-dependent syncytia formation, relating to extensive tissue damage and 
+lymphocyte elimination. In this case, it is challenging to obtain neutralizing 
+antibodies and prevent them through antibodies effectively. Considering that, in 
+the current study, structural domain search methods are adopted to analyze the 
+SARS-CoV-2 S protein to find the fusion mechanism. The results show that after 
+the EF-hand domain of S protein bound to calcium ions, S2 protein had CaMKII 
+protein activities. Besides, the CaMKII_AD domain of S2 changed S2 conformation, 
+facilitating the formation of HR1-HR2 six-helix bundles. Apart from that, the 
+Ca2+-ATPase of S2 pumped calcium ions from the virus cytoplasm to help membrane 
+fusion, while motor structures of S drove the CaATP_NAI and CaMKII_AD domains to 
+extend to the outside and combined the viral membrane and the cell membrane, 
+thus forming a calcium bridge. Furthermore, the phospholipid-flipping-ATPase 
+released water, triggering lipid mixing and fusion and generating fusion pores. 
+Then, motor structures promoted fusion pore extension, followed by the 
+cytoplasmic contents of the virus being discharged into the cell cytoplasm. 
+After that, the membrane of the virus slid onto the cell membrane along the 
+flowing membrane on the gap of the three CaATP_NAI. At last, the HR1-HR2 hexamer 
+would fall into the cytoplasm or stay on the cell membrane. Therefore, the 
+CaMKII_like system of S protein facilitated membrane fusion for further inducing 
+syncytial multinucleated giant cells.
+
+© 2021. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s12026-021-09224-1
+PMCID: PMC8374125
+PMID: 34410575 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+535. Neurodegener Dis Manag. 2021 Aug;11(4):263-276. doi: 10.2217/nmt-2021-0019.
+Epub  2021 Aug 20.
+
+Masitinib for the treatment of Alzheimer's disease.
+
+Ettcheto M(1)(2)(3), Cano A(3)(4)(5), Sanchez-López E(3)(4), Verdaguer E(6), 
+Folch J(3)(7), Auladell C(3)(6), Camins A(1)(2)(3).
+
+Author information:
+(1)Department of Pharmacology, Toxicology & Therapeutic Chemistry, Faculty of 
+Pharmacy & Food Sciences, University of Barcelona, Spain.
+(2)Institut de Neurociències (UBNeuro), University of Barcelona, Spain.
+(3)Biomedical Research Networking Centre in Neurodegenerative Diseases 
+(CIBERNED), Madrid, Spain.
+(4)Department of Pharmacy, Pharmaceutical Technology & Physical Chemistry, 
+Faculty of Pharmacy & Food Sciences, University of Barcelona, Spain.
+(5)Research Center & Memory Clinic, Fundació ACE. Institut Català de 
+Neurociències Aplicades - International University of Catalunya (UIC), 
+Barcelona, Spain.
+(6)Department of Cellular Biology, Physiology & Immunology, Faculty of Biology, 
+University of Barcelona, Spain.
+(7)Unit of Biochemistry & Pharmacology, Faculty of Medicine & Health Sciences, 
+University of Rovira i Virgili, Reus (Tarragona), Spain.
+
+The actual standard treatment for mild-to-moderately severe Alzheimer's disease 
+only attacks its symptoms. Masitinib is a potent and selective 
+phenylaminothiazole-type tyrosine kinase inhibitor which is currently in Phase 
+III studies for the treatment of Alzheimer's disease (AD) with the aim of 
+modifying its evolution and with multiple pharmacological targets such as 
+inhibition of mast cells activity, inhibition of microglia activation, 
+modulation of Aβ and Tau protein signaling pathway and prevention of synaptic 
+damage. Here, we review the preclinical and clinical studies that investigated 
+the administration of masitinib treatment in monotherapy in AD. All research 
+studies revealed positive effects concerning the cognitive functions in AD and 
+generally with good safety and tolerability.
+
+Plain Language Summary: Lay abstract In the 21st century, life expectancy has 
+increased a lot in developed countries but so has the number of people who are 
+diagnosed with Alzheimer's disease (AD). AD causes a decline in brain function 
+over time and is the main cause of death and disability in elderly people. 
+Current treatments only improve the symptoms of the disease but do not cure or 
+stop the disease getting worse. For this reason, new treatments are being 
+developed including the drug masitinib which is in Phase III in clinical trials. 
+Masitinib protects specific brain and nervous system cells from being damaged by 
+the disease. Results from current research into masitinib suggest that it can 
+improve cognitive processes in AD patients. This article summarizes results from 
+masitinib clinical and preclinical studies.
+
+DOI: 10.2217/nmt-2021-0019
+PMID: 34412534 [Indexed for MEDLINE]
+
+
+536. Gac Sanit. 2022 Jul-Aug;36(4):396-397. doi: 10.1016/j.gaceta.2021.07.002.
+Epub  2021 Jul 28.
+
+[Decrease in life expectancy in 2020 and SARS-CoV-2 seroprevalence].
+
+[Article in Spanish]
+
+Trias-Llimós S(1), Bilal U(2), Franco M(3), Blanes A(4), Riffe T(5).
+
+Author information:
+(1)Centre d'Estudis Demografics, Centres de Recerca de Catalunya, Bellaterra, 
+Barcelona, España. Electronic address: strias@ced.uab.cat.
+(2)Department of Epidemiology and Biostatistics, Dornsife School of Public 
+Health, Drexel University, Philadelphia, PA, USA; Urban Health Collaborative, 
+Dornsife School of Public Health, Drexel University, Philadelphia, PA, USA.
+(3)Grupo de Investigación en Salud Pública y Epidemiología, Facultad de 
+Medicina, Universidad de Alcalá, Alcalá de Henares, Madrid, España; Department 
+of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, 
+USA.
+(4)Centre d'Estudis Demografics, Centres de Recerca de Catalunya, Bellaterra, 
+Barcelona, España.
+(5)Ikerbasque, Fundación Vasca para la Ciencia, Bilbao, España; OPIK, 
+Departamento de Sociología, Universidad del País Vasco EHU/UPV, Leioa, Bizkaia, 
+España.
+
+DOI: 10.1016/j.gaceta.2021.07.002
+PMCID: PMC8316063
+PMID: 34412926 [Indexed for MEDLINE]
+
+
+537. J Nucl Med. 2022 Apr;63(4):543-548. doi: 10.2967/jnumed.121.262324. Epub
+2021  Aug 19.
+
+PET-Based Staging Is Cost-Effective in Early-Stage Follicular Lymphoma.
+
+Lo AC(1), James LP(2)(3), Prica A(4), Raymakers A(5), Peacock S(5), Qu M(6), 
+Louie AV(7), Savage KJ(8), Sehn LH(8), Hodgson D(9), Yang JC(10), Eich HTT(11), 
+Wirth A(12), Hunink MGM(3)(13).
+
+Author information:
+(1)Department of Radiation Oncology, BC Cancer, University of British Columbia, 
+Vancouver, British Columbia, Canada; andrea.lo@bccancer.bc.ca.
+(2)PhD Program in Health Policy, Harvard University, Cambridge, Massachusetts.
+(3)Center for Health Decision Science, Harvard T.H. Chan School of Public 
+Health, Boston, Massachusetts.
+(4)Department of Medical Oncology and Hematology, Princess Margaret Cancer 
+Centre, Toronto, Ontario, Canada.
+(5)Cancer Control Research, BC Cancer, Vancouver, British Columbia, Canada.
+(6)Department of Radiation Oncology, London Health Sciences Centre, Western 
+University, London, Ontario, Canada.
+(7)Department of Radiation Oncology, Sunnybrook Health Sciences Centre, 
+University of Toronto, Toronto, Ontario, Canada.
+(8)Centre for Lymphoid Cancer, Department of Medical Oncology, BC Cancer, 
+Vancouver, British Columbia, Canada.
+(9)Radiation Medicine Program, Princess Margaret Cancer Centre, Toronto, 
+Ontario, Canada.
+(10)Department of Radiation Oncology, University of California, San Francisco, 
+San Francisco, California.
+(11)Department of Radiation Oncology, University Hospital Muenster, Muenster, 
+Germany.
+(12)Department of Radiation Oncology, Peter MacCallum Cancer Centre, Melbourne, 
+Australia; and.
+(13)Clinical Epidemiology and Radiology, Erasmus University, Rotterdam, 
+Netherlands.
+
+The objective was to assess the cost-effectiveness of staging PET/CT in 
+early-stage follicular lymphoma (FL) from the Canadian health-care system 
+perspective. Methods: The study population was FL patients staged as early-stage 
+using conventional CT imaging and planned for curative-intent radiation therapy 
+(RT). A decision analytic model simulated the management after adding staging 
+PET/CT versus using staging CT alone. In the no-PET/CT strategy, all patients 
+proceeded to curative-intent RT as planned. In the PET/CT strategy, PET/CT 
+information could result in an increased RT volume, switching to a noncurative 
+approach, or no change in RT treatment as planned. The subsequent disease course 
+was described using a state-transition cohort model over a 30-y time horizon. 
+Diagnostic characteristics, probabilities, utilities, and costs were derived 
+from the literature. Baseline analysis was performed using quality-adjusted life 
+years (QALYs), costs (2019 Canadian dollars), and the incremental 
+cost-effectiveness ratio. Deterministic sensitivity analyses were conducted, 
+evaluating net monetary benefit at a willingness-to-pay threshold of 
+$100,000/QALY. Probabilistic sensitivity analysis using 10,000 simulations was 
+performed. Costs and QALYs were discounted at a rate of 1.5%. Results: In the 
+reference case scenario, staging PET/CT was the dominant strategy, resulting in 
+an average lifetime cost saving of $3,165 and a gain of 0.32 QALYs. In 
+deterministic sensitivity analyses, the PET/CT strategy remained the preferred 
+strategy for all scenarios supported by available data. In probabilistic 
+sensitivity analysis, the PET/CT strategy was strongly dominant in 77% of 
+simulations (i.e., reduced cost and increased QALYs) and was cost-effective in 
+89% of simulations (i.e., either saved costs or had an incremental 
+cost-effectiveness ratio below $100,000/QALY). Conclusion: Our analysis showed 
+that the use of PET/CT to stage early-stage FL patients reduces cost and 
+improves QALYs. Patients with early-stage FL should undergo PET/CT before 
+curative-intent RT.
+
+© 2022 by the Society of Nuclear Medicine and Molecular Imaging.
+
+DOI: 10.2967/jnumed.121.262324
+PMCID: PMC8973292
+PMID: 34413148 [Indexed for MEDLINE]
+
+
+538. Clinicoecon Outcomes Res. 2021 Aug 13;13:745-755. doi: 10.2147/CEOR.S317078.
+ eCollection 2021.
+
+Cost-Effectiveness of Apixaban versus Other Direct Oral Anticoagulants and 
+Warfarin in the Prevention of Thromboembolic Complications Among Finnish 
+Patients with Non-Valvular Atrial Fibrillation.
+
+Hallinen T(1), Soini E(1), Asseburg C(1), Linna M(2), Eloranta P(3), Sintonen 
+S(3), Kosunen M(3).
+
+Author information:
+(1)ESiOR Oy, Kuopio, Finland.
+(2)Aalto University, Department of Industrial Engineering and Management, Espoo, 
+Finland.
+(3)Pfizer Oy, Helsinki, Finland.
+
+PURPOSE: Direct oral anticoagulant (DOAC) use for the prevention of 
+thromboembolic complications in patients with non-valvular atrial fibrillation 
+(AF) has increased steadily in Finland. DOACs have been shown to be 
+cost-effective in comparison to warfarin, but published evidence of relative 
+cost-effectiveness between DOACs is still scarce and mostly based on indirect 
+comparisons of clinical trial evidence. The aim of this study was to compare the 
+cost-effectiveness of apixaban to dabigatran, rivaroxaban and warfarin in a 
+Finnish setting using real-life evidence where available.
+PATIENTS AND METHODS: A lifetime Markov simulation model used previously in a 
+published Finnish assessment comparing apixaban and warfarin was modified and 
+updated with the relative effectiveness and safety data available from the 
+real-world NAXOS-study and representative Finnish input data for patient 
+characteristics, event risks, mortality, resource use, costs, and quality of 
+life. Apixaban's cost-effectiveness was assessed from health care payer 
+perspective (using 3% per year discount rate) based on incremental 
+cost-effectiveness ratio (ICER, cost per quality-adjusted life year [QALY] 
+gained), probability of cost-effectiveness (at willingness-to-pay [WTP] of 
+35,000 euros/QALY), and net monetary benefit (NMB).
+RESULTS: Apixaban increased the average modelled quality-adjusted 
+life-expectancy and reduced the average total health care costs of AF patients 
+when compared to warfarin (+0.14 QALYs, -3691 euros), dabigatran (+0.11 QALYs, 
+-404 euros), and rivaroxaban (+0.03 QALYs, -43 euros). The resulting NMB of 
+apixaban versus warfarin, dabigatran and rivaroxaban was 8723, 4168, and 1129 
+euros, respectively. The respective probabilities of apixaban being 
+cost-effective against each comparator were 100%, 92.7%, and 64.0%.
+CONCLUSION: In this modelling study, apixaban dominated other anticoagulants in 
+the Finnish real-life setting.
+
+© 2021 Hallinen et al.
+
+DOI: 10.2147/CEOR.S317078
+PMCID: PMC8370583
+PMID: 34413661
+
+Conflict of interest statement: TH and ES are partners and employees, and CA is 
+an employee of ESiOR Oy, which was commissioned by Pfizer Oy to perform this 
+study. ESiOR has carried out commissioned studies and health-economic analyses 
+for several other pharmaceutical companies, food industry companies, device 
+companies, research groups, health care organizations, and hospitals. ML is an 
+employee of Aalto University. PE, SS and MK are employees of Pfizer Oy. This 
+study was sponsored by Pfizer and Bristol Myers Squibb. Medical Writing support 
+was provided by Taru Hallinen at ESiOR Oy and was funded by Pfizer and Bristol 
+Myers Squibb. The authors report no other conflicts of interest in this work.
+
+
+539. Front Plant Sci. 2021 Jul 23;12:695110. doi: 10.3389/fpls.2021.695110. 
+eCollection 2021.
+
+Modeling Agrobacterium-Mediated Gene Transformation of Tobacco (Nicotiana 
+tabacum)-A Model Plant for Gene Transformation Studies.
+
+Niedbała G(1), Niazian M(2), Sabbatini P(3).
+
+Author information:
+(1)Department of Biosystems Engineering, Faculty of Environmental and Mechanical 
+Engineering, Poznań University of Life Sciences, Poznań, Poland.
+(2)Field and Horticultural Crops Research Department, Kurdistan Agricultural and 
+Natural Resources Research and Education Center, Agricultural Research, 
+Education and Extension Organization, Sanandaj, Iran.
+(3)Department of Horticulture, Plant and Soil Sciences Building, Michigan State 
+University, East Lansing, MI, United States.
+
+The multilayer perceptron (MLP) topology of an artificial neural network (ANN) 
+was applied to create two predictor models in Agrobacterium-mediated gene 
+transformation of tobacco. Agrobacterium-mediated transformation parameters, 
+including Agrobacterium strain, Agrobacterium cell density, acetosyringone 
+concentration, and inoculation duration, were assigned as inputs for ANN-MLP, 
+and their effects on the percentage of putative and PCR-verified transgenic 
+plants were investigated. The best ANN models for predicting the percentage of 
+putative and PCR-verified transgenic plants were selected based on basic network 
+quality statistics. Ex-post error calculations of the relative approximation 
+error (RAE), the mean absolute error (MAE), the root mean square error (RMS), 
+and the mean absolute percentage error (MAPE) demonstrated the prediction 
+quality of the developed models when compared to stepwise multiple regression. 
+Moreover, significant correlations between the ANN-predicted and the actual 
+values of the percentage of putative transgenes (R 2 = 0.956) and the percentage 
+of PCR-verified transgenic plants (R 2 = 0.671) indicate the superiority of the 
+established ANN models over the classical stepwise multiple regression in 
+predicting the percentage of putative (R 2 = 0.313) and PCR-verified (R 2= 
+0.213) transgenic plants. The best combination of the multiple inputs analyzed 
+in this investigation, to achieve maximum actual and predicted transgenic 
+plants, was at OD 600 = 0.8 for the LB4404 strain of Agrobacterium × 300 μmol/L 
+acetosyringone × 20 min immersion time. According to the sensitivity analysis of 
+ANN models, the Agrobacterium strain was the most important influential 
+parameter in Agrobacterium-mediated transformation of tobacco. The prediction 
+efficiency of the developed model was confirmed by the data series of 
+Agrobacterium-mediated transformation of an important medicinal plant with low 
+transformation efficiency. The results of this study are pivotal to model and 
+predict the transformation of other important Agrobacterium-recalcitrant plant 
+genotypes and to increase the transformation efficiency by identifying critical 
+parameters. This approach can substantially reduce the time and cost required to 
+optimize multi-factorial Agrobacterium-mediated transformation strategies.
+
+Copyright © 2021 Niedbała, Niazian and Sabbatini.
+
+DOI: 10.3389/fpls.2021.695110
+PMCID: PMC8370025
+PMID: 34413865
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+540. Clin Rehabil. 2022 Feb;36(2):240-250. doi: 10.1177/02692155211040727. Epub
+2021  Aug 20.
+
+Economic analysis of the 'Take Charge' intervention for people following stroke: 
+Results from a randomised trial.
+
+Te Ao B(1), Harwood M(1), Fu V(2), Weatherall M(3), McPherson K(4), Taylor 
+WJ(3), McRae A(5), Thomson T(6), Gommans J(7), Green G(8), Ranta A(3), Hanger 
+C(9), Riley J(2), McNaughton H(2).
+
+Author information:
+(1)University of Auckland, Auckland, New Zealand.
+(2)Medical Research Institute of New Zealand, Wellington, New Zealand.
+(3)University of Otago, Wellington, New Zealand.
+(4)AUT University, Auckland, New Zealand.
+(5)Auckland District Health Board, Auckland, New Zealand.
+(6)Hutt Valley District Health Board, Lower Hutt, New Zealand.
+(7)Hawkes Bay District Health Board, Hastings, New Zealand.
+(8)Counties-Manukau District Health Board, Auckland, New Zealand.
+(9)Canterbury District Health Board, Christchurch, New Zealand.
+
+OBJECTIVE: To undertake an economic analysis of the Take Charge intervention as 
+part of the Taking Charge after Stroke (TaCAS) study.
+DESIGN: An open, parallel-group, randomised trial comparing active and control 
+interventions with blinded outcome assessment.
+SETTING: Community.
+PARTICIPANTS: Adults (n = 400) discharged to community, non-institutional living 
+following acute stroke.
+INTERVENTIONS: The Take Charge intervention, a strengths based, self-directed 
+rehabilitation intervention, in two doses (one or two sessions), and a control 
+intervention (no Take Charge sessions).
+MEASURES: The cost per quality-adjusted life year (QALY) saved for the period 
+between randomisation (always post hospital discharge) and 12 months following 
+acute stroke. QALYs were calculated from the EuroQol-5D-5L. Costs of 
+stroke-related and non-health care were obtained by questionnaire, hospital 
+records and the New Zealand Ministry of Health.
+RESULTS: One-year post hospital discharge cost of care was mean (95% CI) $US4706 
+(3758-6014) for the Take Charge intervention group and $6118 (4350-8005) for 
+control, mean (95% CI) difference $ -1412 (-3553 to +729). Health utility scores 
+were mean (95% CI) 0.75 (0.73-0.77) for Take Charge and 0.71 (0.67-0.75) for 
+control, mean (95% CI) difference 0.04 (0.0-0.08). Cost per QALY gained for the 
+Take Charge intervention was $US -35,296 (=£ -25,524, € -30,019). Sensitivity 
+analyses confirm Take Charge is cost-effective, even at a very low 
+willingness-to-pay threshold. With a threshold of $US5000 per QALY, the 
+probability that Take Charge is cost-effective is 99%.
+CONCLUSION: Take Charge is cost-effective and probably cost saving.
+
+DOI: 10.1177/02692155211040727
+PMID: 34414801 [Indexed for MEDLINE]541. Thorac Cancer. 2021 Oct;12(19):2611-2613. doi: 10.1111/1759-7714.14124. Epub
+ 2021 Aug 20.
+
+Complete spontaneous remission of small cell lung cancer in the absence of 
+specific treatment: A case report.
+
+Song SH(1), Ha CW(2), Kim C(3), Seong GM(3).
+
+Author information:
+(1)Department of Internal Medicine, Cheju Halla General Hospital, Jeju, Republic 
+of Korea.
+(2)Department of Pathology, Cheju Halla General Hospital, Jeju, Republic of 
+Korea.
+(3)Department of Internal Medicine, Jeju National University College of 
+Medicine, Jeju, Republic of Korea.
+
+Small cell lung cancer (SCLC) is a unique tumor that has a distinct clinical 
+behavior and dismal prognosis. If untreated, it can become aggressively 
+malignant, and life expectancy could be limited to weeks. Spontaneous regression 
+of lung cancer has rarely been reported, and among them SCLC is even rarer. The 
+underlying mechanisms of spontaneous regression are poorly understood. Here, we 
+report a case of complete spontaneous SCLC remission in an elderly patient.
+
+© 2021 The Authors. Thoracic Cancer published by China Lung Oncology Group and 
+John Wiley & Sons Australia, Ltd.
+
+DOI: 10.1111/1759-7714.14124
+PMCID: PMC8487809
+PMID: 34415108 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflict of interest.
+
+
+542. J Hum Nutr Diet. 2022 Apr;35(2):388-395. doi: 10.1111/jhn.12944. Epub 2021
+Sep  5.
+
+Culinary medicine and culinary nutrition education for individuals with the 
+capacity to influence health related behaviour change: A scoping review.
+
+Asher RC(1)(2), Shrewsbury VA(1)(2), Bucher T(2)(3), Collins CE(2).
+
+Author information:
+(1)School of Health Sciences, College of Health, Medicine and Wellbeing, The 
+University of Newcastle, Newcastle, NSW, USA.
+(2)Priority Research Centre for Physical Activity and Nutrition, The University 
+of Newcastle, Callaghan, NSW, Australia.
+(3)School of Environmental and Life Sciences, College of Engineering, Science 
+and Environment, The University of Newcastle, Newcastle, NSW, USA.
+
+BACKGROUND: Culinary medicine (CM) or culinary nutrition (CN) education provided 
+to professionals with the capacity to influence behaviour change is an emerging 
+strategy to promote diet quality and reduce the burden of diet related chronic 
+disease in adults. The purpose of this scoping review was to synthesise current 
+research describing CM/CN education provided to or by health, education and 
+culinary professionals, or students of these disciplines.
+METHODS: Preferred Reporting Items for Systematic reviews and Meta-Analysis 
+extension for Scoping Reviews (PRISMA-ScR) was used. Eleven electronic databases 
+were searched in March 2019. Included studies were: (i) nutrition, health or 
+lifestyle programs with a CM/CN component; (ii) study participants or programs 
+facilitated by people working or training in health, community and/or adult 
+education, or culinary roles where facilitator training was described; (iii) 
+reported in the English language; and (iv) published from 2003.
+RESULTS: In total, 33 studies were included. Nineteen studies delivered programs 
+to general population groups and were facilitated by health professionals and/or 
+health university students. Fourteen studies delivered CM/CN training to health 
+professionals or students. Studies reported changes in participants' culinary 
+skill and nutrition knowledge (n = 18), changes in dietary intake (n = 13), 
+attitudes and behaviour change in healthy eating and cooking (n = 4), and 
+competency in nutrition counselling and knowledge (n = 7).
+CONCLUSIONS: Further research examining the effectiveness of CM/CN programs, and 
+that describes optimal content, format and timing of the programs, is needed. 
+Research evaluating the impact of training in CM/CN to education and culinary 
+professionals on healthy cooking behaviours of their patients/clients is 
+warranted.
+
+© 2021 The British Dietetic Association Ltd.
+
+DOI: 10.1111/jhn.12944
+PMID: 34415642 [Indexed for MEDLINE]
+
+
+543. J Surg Oncol. 2021 Dec;124(8):1499-1507. doi: 10.1002/jso.26654. Epub 2021
+Aug  20.
+
+Adjunct diagnostic strategies in improving diagnostic yields in image-guided 
+biopsies of musculoskeletal neoplasms-A cost-effectiveness analysis.
+
+Ramkumar DB(1)(2)(3), Kelly SP(1), Ramkumar N(4), Gyftopoulos S(5), Raskin 
+KA(1), Lozano-Calderon SA(1), Chang CY(6).
+
+Author information:
+(1)Department of Orthopaedic Surgery, Section of Orthopaedic Oncology, 
+Massachusetts General Hospital, Boston, Massachusetts, USA.
+(2)Department of Orthopaedic Surgery, Boston Children's Hospital, Boston, 
+Massachusetts, USA.
+(3)Section of Orthopaedic Oncology, Division of Orthopaedic Surgery, Lahey 
+Hospital and Medical Center, Burlington, Massachusetts, USA.
+(4)Dartmouth Geisel School of Medicine, Hanover, New Hampshire, USA.
+(5)Department of Radiology, NYU Langone Health, New York, New York, USA.
+(6)Department of Radiology, Massachusetts General Hospital, Boston, 
+Massachusetts, USA.
+
+BACKGROUND: Routine use of adjunct intraprocedural fresh frozen biopsy (FFP) or 
+point-of-care (POC) cytology at the time of image-guided biopsy can improve 
+diagnostic tissue yields for musculoskeletal neoplasms, but these are associated 
+with increased costs.
+OBJECTIVE: This study aimed to ascertain the most cost-effective adjunctive test 
+for image-guided biopsies of musculoskeletal neoplasms.
+METHODS: This expected value cost-effectiveness microsimulation compared the 
+payoffs of cost (2020 United States dollars) and effectiveness (quality-adjusted 
+life, in days) on each of the competing strategies. A literature review and 
+institutional data were used to ascertain probabilities, diagnostic yields, 
+utility values, and direct medical costs associated with each strategy. Payer 
+and societal perspectives are presented. One- and two-way sensitivity analyses 
+evaluated model uncertainties.
+RESULTS: The total cost and effectiveness for each of the strategies were 
+$1248.98, $1414.09, $1980.53, and 80.31, 79.74, 79.69 days for the use of FFP, 
+permanent pathology only, and POC cytology, respectively. The use of FFP 
+dominated the competing strategies. Sensitivity analyses revealed FFP as the 
+most cost-effective across all clinically plausible values.
+CONCLUSIONS: Adjunct FFP is most cost-effective in improving the diagnostic 
+yield of image-guided biopsies for musculoskeletal neoplasms. These findings are 
+robust to sensitivity analyses using clinically plausible probabilities.
+
+© 2021 Wiley Periodicals LLC.
+
+DOI: 10.1002/jso.26654
+PMID: 34416016 [Indexed for MEDLINE]
+
+
+544. Lancet Oncol. 2021 Sep;22(9):1312-1321. doi: 10.1016/S1470-2045(21)00387-9.
+Epub  2021 Aug 17.
+
+Lenvatinib with etoposide plus ifosfamide in patients with refractory or 
+relapsed osteosarcoma (ITCC-050): a multicentre, open-label, multicohort, phase 
+1/2 study.
+
+Gaspar N(1), Venkatramani R(2), Hecker-Nolting S(3), Melcon SG(4), Locatelli 
+F(5), Bautista F(6), Longhi A(7), Lervat C(8), Entz-Werle N(9), Casanova M(10), 
+Aerts I(11), Strauss SJ(12), Thebaud E(13), Morland B(14), Nieto AC(15), 
+Marec-Berard P(16), Gambart M(17), Rossig C(18), Okpara CE(19), He C(20), Dutta 
+L(20), Campbell-Hewson Q(21).
+
+Author information:
+(1)Department of Childhood and Adolescent Oncology, Gustave Roussy Cancer 
+Centre, Villejuif, France. Electronic address: nathalie.gaspar@gustaveroussy.fr.
+(2)Texas Children's Cancer Center, Baylor College of Medicine, Houston, TX, USA.
+(3)Klinikum Stuttgart, Olga Hospital, Stuttgart, Germany.
+(4)Vall d'Hebron University Hospital, Barcelona, Spain.
+(5)Ospedale Pediatrico Bambino Gesù, Sapienza University of Rome, Rome, Italy.
+(6)Hospital Infantil Universitario Niño Jesus, Madrid, Spain.
+(7)IRCCS Istituto Ortopedico Rizzoli, Bologna, Italy.
+(8)Pediatric and AYA Oncology Unit, Centre Oscar Lambret, Lille, France.
+(9)Chu Strasbourg-Hôpital Hautepierre, Strasbourg, France.
+(10)Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy.
+(11)SIREDO Oncology Center, PSL Research University, Institut Curie, Paris, 
+France.
+(12)University College London Hospital, London, UK.
+(13)CHU Nantes-Hôpital Mère-Enfant, Nantes, France.
+(14)Birmingham Children's Hospital, Birmingham, UK.
+(15)Hospital Universitario y Politecnico La Fe, Valencia, Spain.
+(16)Centre Léon Bérard, Lyon, France.
+(17)CHU de Toulouse, Hôpital des Enfants, Toulouse, France.
+(18)Department of Pediatric Hematology and Oncology, University Children's 
+Hospital Muenster, Muenster, Germany.
+(19)Eisai, Hatfield, UK.
+(20)Eisai, Woodcliff Lake, NJ, USA.
+(21)The Great North Children's Hospital, Royal Victoria Infirmary, Newcastle 
+Upon Tyne, UK.
+
+Comment in
+    Lancet Oncol. 2021 Sep;22(9):1206-1207.
+
+BACKGROUND: Tyrosine kinase inhibitors have shown activity in osteosarcoma and 
+might enhance the efficacy of chemotherapy. We aimed to determine the 
+recommended phase 2 dose and antitumour activity of lenvatinib with etoposide 
+plus ifosfamide in patients with refractory or relapsed osteosarcoma.
+METHODS: This multicentre, open-label, multicohort, phase 1/2 trial was done at 
+17 hospitals in six countries. Eligible patients were aged 2-25 years, had 
+relapsed or refractory osteosarcoma, measurable or evaluable disease per 
+Response Evaluation Criteria in Solid Tumors version 1.1, Lansky 
+play-performance score or Karnofsky performance score of 50% or higher, up to 
+one previous VEGF or VEGF receptor-targeted therapy, and a life expectancy of at 
+least 3 months. This study includes a combination dose-finding phase 1 part 
+(cohort 3A) and a phase 2 combination expansion in patients with osteosarcoma 
+(cohort 3B). Lenvatinib was administered orally at a starting dose of 11 mg/m2 
+per day, capped at 24 mg per day, and etoposide (100 mg/m2 per day) plus 
+ifosfamide (3000 mg/m2 per day) were administered intravenously on days 1-3 of 
+each 21-day cycle for a maximum of five cycles. Lenvatinib monotherapy continued 
+after these five cycles until disease progression, toxic effects, or patient 
+choice to discontinue. The phase 1 primary endpoint was to determine the 
+recommended phase 2 dose by evaluating dose-limiting toxicity and the phase 2 
+primary endpoint was progression-free survival at 4 months. Progression-free 
+survival was measured in the full analysis set, which included all patients 
+enrolled for efficacy outcomes; safety was assessed in all patients who received 
+any study drug. This study is registered with ClinicalTrials.gov, NCT02432274.
+FINDINGS: 30 patients were screened for enrolment into cohort 3A between May 9, 
+2016, and June 3, 2019, and 22 patients for enrolment into cohort 3B between 
+Sept 13, 2018, and July 18, 2019. Eight patients from cohort 3A and two from 
+cohort 3B were ineligible for enrolment in the study. In phase 1, dose-limiting 
+toxicities were observed in three patients (one in the lenvatinib 11 mg/m2 
+combination group and two in the 14 mg/m2 combination group) and the recommended 
+phase 2 dose was determined as lenvatinib 14 mg/m2 per day (with daily dose cap 
+of 24 mg) and etoposide 100 mg/m2 per day plus ifosfamide 3000 mg/m2 per day 
+administered intravenously on days 1-3 of each 21-day cycle for a maximum of 
+five cycles. 35 patients from phase 1 (cohort 3A; n=15) and phase 2 (cohort 3B; 
+n=20) were treated at the recommended phase 2 dose and their results were 
+pooled. Progression-free survival at 4 months was 51% (95% CI 34-69) in 18 of 35 
+patients per the binomial estimate. The most common grade 3-4 treatment-emergent 
+adverse events were neutropenia (27 [77%] of 35), thrombocytopenia (25 [71%]), 
+anaemia (19 [54%]), and decreased white blood cell count (19 [54%]). 26 [74%] of 
+35 patients had serious treatment-emergent adverse events and no 
+treatment-related deaths occurred.
+INTERPRETATION: Lenvatinib with etoposide plus ifosfamide shows promising 
+antitumour activity with no new safety signals in patients with refractory and 
+relapsed osteosarcoma. These findings warrant further investigation in an 
+ongoing randomised phase 2 study (NCT04154189).
+FUNDING: Eisai and Merck Sharp & Dohme.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(21)00387-9
+PMID: 34416158 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests NG reports fees from 
+Eisai for presenting the study results at a scientific congress meeting. SH-N 
+reports institutional study and grant funding from Eisai and an unpaid 
+leadership role as cochair of the Pediatric Cancer Data Commons. SGM reports 
+personal fees from Bayer for an educational event and personal fees from Loxo 
+Oncology, Bayer, and Eusa Pharma for participating on an advisory board. SJS 
+reports personal consulting fees from GSK for participating on an advisory 
+board. CEO, CH, and LD are employees of Eisai. All other authors declare no 
+competing interests.
+
+
+545. Lancet. 2021 Sep 4;398(10303):870-905. doi: 10.1016/S0140-6736(21)01207-1.
+Epub  2021 Aug 17.
+
+Global, regional, and national progress towards Sustainable Development Goal 3.2 
+for neonatal and child health: all-cause and cause-specific mortality findings 
+from the Global Burden of Disease Study 2019.
+
+GBD 2019 Under-5 Mortality Collaborators.
+
+Collaborators: Paulson KR, Kamath AM, Alam T, Bienhoff K, Abady GG, Abbas J, 
+Abbasi-Kangevari M, Abbastabar H, Abd-Allah F, Abd-Elsalam SM, Abdoli A, Abedi 
+A, Abolhassani H, Abreu LG, Abu-Gharbieh E, Abu-Rmeileh NM, Abushouk AI, Adamu 
+AL, Adebayo OM, Adegbosin AE, Adekanmbi V, Adetokunboh OO, Adeyinka DA, Adsuar 
+JC, Afshari K, Aghaali M, Agudelo-Botero M, Ahinkorah BO, Ahmad T, Ahmadi K, 
+Ahmed MB, Aji B, Akalu Y, Akinyemi OO, Aklilu A, Al-Aly Z, Alam K, Alanezi FM, 
+Alanzi TM, Alcalde-Rabanal JE, Al-Eyadhy A, Ali T, Alicandro G, Alif SM, Alipour 
+V, Alizade H, Aljunid SM, Almasi-Hashiani A, Almasri NA, Al-Mekhlafi HM, Alonso 
+J, Al-Raddadi RM, Altirkawi KA, Alumran AK, Alvis-Guzman N, Alvis-Zakzuk NJ, 
+Ameyaw EK, Amini S, Amini-Rarani M, Amit AML, Amugsi DA, Ancuceanu R, Anderlini 
+D, Andrei CL, Ansari F, Ansari-Moghaddam A, Antonio CAT, Antriyandarti E, Anvari 
+D, Anwer R, Aqeel M, Arabloo J, Arab-Zozani M, Aripov T, Ärnlöv J, Artanti KD, 
+Arzani A, Asaad M, Asadi-Aliabadi M, Asadi-Pooya AA, Asghari Jafarabadi M, 
+Athari SS, Athari SM, Atnafu DD, Atreya A, Atteraya MS, Ausloos M, Awan AT, 
+Ayala Quintanilla BP, Ayano G, Ayanore MA, Aynalem YA, Azari S, Azarian G, Azene 
+ZN, B DB, Babaee E, Badiye AD, Baig AA, Banach M, Banik PC, Barker-Collo SL, 
+Barqawi HJ, Bassat Q, Basu S, Baune BT, Bayati M, Bedi N, Beghi E, Beghi M, Bell 
+ML, Bendak S, Bennett DA, Bensenor IM, Berhe K, Berman AE, Bezabih YM, 
+Bhagavathula AS, Bhandari D, Bhardwaj N, Bhardwaj P, Bhattacharyya K, Bhattarai 
+S, Bhutta ZA, Bikbov B, Biondi A, Birihane BM, Biswas RK, Bohlouli S, Bragazzi 
+NL, Breusov AV, Brunoni AR, Burkart K, Burugina Nagaraja S, Busse R, Butt ZA, 
+Caetano Dos Santos FL, Cahuana-Hurtado L, Camargos P, Cámera LA, Cárdenas R, 
+Carreras G, Carrero JJ, Carvalho F, Castaldelli-Maia JM, Castañeda-Orjuela CA, 
+Castelpietra G, Cerin E, Chang JC, Chanie WF, Charan J, Chatterjee S, Chattu SK, 
+Chattu VK, Chaturvedi S, Chen S, Cho DY, Choi JJ, Chu DT, Ciobanu LG, Cirillo M, 
+Conde J, Costa VM, Couto RAS, Dachew BA, Dahlawi SMA, Dai H, Dai X, Dandona L, 
+Dandona R, Daneshpajouhnejad P, Darmstadt GL, Das JK, Dávila-Cervantes CA, Davis 
+AC, Davletov K, De la Hoz FP, De Leo D, Deeba F, Denova-Gutiérrez E, Dervenis N, 
+Desalew A, Deuba K, Dey S, Dharmaratne SD, Dhingra S, Dhungana GP, Dias da Silva 
+D, Diaz D, Dorostkar F, Doshmangir L, Dubljanin E, Duraes AR, Eagan AW, Edinur 
+HA, Efendi F, Eftekharzadeh S, El Sayed I, El Tantawi M, Elbarazi I, Elgendy IY, 
+El-Jaafary SI, Emami A, Enany S, Eyawo O, Ezzikouri S, Faris PS, Farzadfar F, 
+Fattahi N, Fauk NK, Fazlzadeh M, Feigin VL, Ferede TY, Fereshtehnejad SM, 
+Fernandes E, Ferrara P, Filip I, Fischer F, Fisher JL, Foigt NA, Folayan MO, 
+Foroutan M, Franklin RC, Freitas M, Friedman SD, Fukumoto T, Gad MM, Gaidhane 
+AM, Gaidhane S, Gaihre S, Gallus S, Garcia-Basteiro AL, Garcia-Gordillo MA, 
+Gardner WM, Gaspar Fonseca M, Gebremedhin KB, Getacher L, Ghashghaee A, 
+Gholamian A, Gilani SA, Gill TK, Giussani G, Gnedovskaya EV, Godinho MA, Goel A, 
+Golechha M, Gona PN, Gopalani SV, Goudarzi H, Grivna M, Gugnani HC, Guido D, 
+Guimarães RA, Gupta RD, Gupta R, Hafezi-Nejad N, Haider MR, Haj-Mirzaian A, 
+Hamidi S, Hanif A, Hankey GJ, Hargono A, Hasaballah AI, Hasan MM, Hasan SS, 
+Hassan A, Hassanipour S, Hassankhani H, Havmoeller RJ, Hayat K, 
+Heidari-Soureshjani R, Henry NJ, Herteliu C, Hole MK, Holla R, Hossain N, 
+Hosseini M, Hosseinzadeh M, Hostiuc M, Hostiuc S, Househ M, Huang J, Humayun A, 
+Hwang BF, Iavicoli I, Ibitoye SE, Ikuta KS, Ilesanmi OS, Ilic IM, Ilic MD, 
+Inamdar S, Inbaraj LR, Iqbal K, Iqbal U, Islam MM, Islam SMS, Iso H, Iwagami M, 
+Iwu CCD, Jaafari J, Jacobsen KH, Jagnoor J, Jain V, Janodia MD, Javaheri T, 
+Javanmardi F, Jayaram S, Jayatilleke AU, Jenabi E, Jha RP, Ji JS, John O, Jonas 
+JB, Joo T, Joseph N, Joukar F, Jozwiak JJ, Jürisson M, Kabir A, Kabir Z, 
+Kalankesh LR, Kamyari N, Kanchan T, Kapoor N, Karami Matin B, Karch A, Karimi 
+SE, Kassahun G, Kayode GA, Kazemi Karyani A, Kemmer L, Khalid N, Khalilov R, 
+Khammarnia M, Khan EA, Khan G, Khan M, Khan MN, Khang YH, Khatab K, Khater AM, 
+Khater MM, Khayamzadeh M, Khosravi A, Kim D, Kim YE, Kim YJ, Kimokoti RW, Kisa 
+A, Kisa S, Kissoon N, Kopec JA, Kosen S, Koul PA, Koulmane Laxminarayana SL, 
+Koyanagi A, Krishan K, Krishnamoorthy V, Kuate Defo B, Kucuk Bicer B, Kulkarni 
+V, Kumar GA, Kumar M, Kumar N, Kurmi OP, Kusuma D, La Vecchia C, Lacey B, Lalloo 
+R, Lami FH, Landires I, Larsson AO, Lasrado S, Lassi ZS, Lauriola P, Lee PH, Lee 
+SWH, Lee YH, Leigh J, Leonardi M, Lewycka S, Li B, Li S, Liang J, Lim LL, 
+Limenih MA, Lin RT, Liu X, Lodha R, Lopez AD, Lozano R, Lugo A, Lunevicius R, 
+Mackay MT, Madhava Kunjathur S, Magnani FG, Mahadeshwara Prasad DR, Maheri M, 
+Mahmoudi M, Majeed A, Maled V, Maleki A, Maleki S, Malekzadeh R, Malik AA, Malta 
+DC, Mamun AA, Mansouri B, Mansournia MA, Martinez G, Martini S, Martins-Melo FR, 
+Masoumi SZ, Maulik PK, McAlinden C, McGrath JJ, Medina-Solís CE, Mehrabi Nasab 
+E, Mejia-Rodriguez F, Memish ZA, Mendoza W, Menezes RG, Mengesha EW, Mensah GA, 
+Meretoja A, Meretoja TJ, Mersha AM, Mestrovic T, Miazgowski B, Miazgowski T, 
+Michalek IM, Miller TR, Mini GK, Miri M, Mirica A, Mirrakhimov EM, Mirzaei H, 
+Mirzaei M, Moazen B, Moghadaszadeh M, Mohajer B, Mohamad O, Mohammad Y, 
+Mohammadi SM, Mohammadian-Hafshejani A, Mohammed S, Mokdad AH, Molokhia M, 
+Monasta L, Mondello S, Moni MA, Moore CE, Moradi G, Moradi M, Moradzadeh R, 
+Moraga P, Morawska L, Morrison SD, Mosser JF, Mousavi Khaneghah A, Mustafa G, 
+Naderi M, Nagarajan AJ, Nagaraju SP, Naghavi M, Naghshtabrizi B, Naimzada MD, 
+Nangia V, Narasimha Swamy S, Nascimento BR, Naveed M, Nazari J, Ndejjo R, Negoi 
+I, Negoi RI, Nena E, Nepal S, Netsere HB, Nguefack-Tsague G, Ngunjiri JW, Nguyen 
+CTY, Nguyen CT, Nguyen HLT, Nigatu YT, Nigussie SN, Nixon MR, Nnaji CA, Nomura 
+S, Noor NM, Noubiap JJ, Nuñez-Samudio V, Nwatah VE, Oancea B, Odukoya OO, Ogbo 
+FA, Olusanya BO, Olusanya JO, Omar Bali A, Onwujekwe OE, Ortiz A, Otoiu A, 
+Otstavnov N, Otstavnov SS, Owolabi MO, P A M, Padubidri JR, Pakhale S, Pakshir 
+K, Pal PK, Palladino R, Pana A, Panda-Jonas S, Pandey A, Pandey A, Pandi-Perumal 
+SR, Pangaribuan HU, Pardo-Montaño AM, Park EK, Patel SK, Patton GC, Pawar S, 
+Pazoki Toroudi H, Peden AE, Pepito VCF, Peprah EK, Pereira J, Pérez-Gómez J, 
+Perico N, Pesudovs K, Pilgrim T, Pinheiro M, Piradov MA, Pirsaheb M, 
+Platts-Mills JA, Pokhrel KN, Postma MJ, Pourjafar H, Prada SI, Prakash S, 
+Pupillo E, Quazi Syed Z, Rabiee N, Radfar A, Rafiee A, Rafiei A, Raggi A, 
+Rahimzadeh S, Rahman MHU, Rahmani AM, Ramezanzadeh K, Rana J, Ranabhat CL, Rao 
+SJ, Rasella D, Rastogi P, Rathi P, Rawaf DL, Rawaf S, Rawasia WF, Rawassizadeh 
+R, Reiner RC Jr, Remuzzi G, Renzaho AMN, Reshmi B, Resnikoff S, Rezaei N, Rezaei 
+N, Rezapour A, Riahi SM, Ribeiro D, Rickard J, Roever L, Ronfani L, Rothenbacher 
+D, Rubagotti E, Rumisha SF, Ryan PM, Saddik B, Sadeghi E, Saeedi Moghaddam S, 
+Sagar R, Sahebkar A, Salahshoor MR, Salehi S, Salem MR, Salimzadeh H, Salomon 
+JA, Samodra YL, Samy AM, Sanabria J, Santric-Milicevic MM, Saraswathy SYI, 
+Sarker AR, Sarrafzadegan N, Sarveazad A, Sathian B, Sathish T, Sattin D, Saxena 
+S, Saya GK, Saylan M, Schiavolin S, Schlaich MP, Schwebel DC, Schwendicke F, 
+Senthilkumaran S, Sepanlou SG, Serván-Mori E, Sha F, Shafaat O, Shahabi S, 
+Shahbaz M, Shaheen AA, Shahid I, Shaikh MA, Shakiba S, Shalash AS, 
+Shams-Beyranvand M, Shannawaz M, Sharafi K, Sheikh A, Sheikhbahaei S, Shiferaw 
+WS, Shigematsu M, Shin JI, Shiri R, Shiue I, Shuval K, Siddiqi TJ, Sidemo NB, 
+Sigfusdottir ID, Sigurvinsdottir R, Silva JP, Silverberg JIS, Simonetti B, Singh 
+BB, Singh JA, Singhal D, Sinha DN, Skiadaresi E, Skryabin VY, Skryabina AA, 
+Sleet DA, Sobaih BH, Sobhiyeh MR, Soltani S, Soriano JB, Spurlock EE, 
+Sreeramareddy CT, Steiropoulos P, Stokes MA, Stortecky S, Sufiyan MB, 
+Suliankatchi Abdulkader R, Sulo G, Swope CB, Sykes BL, Szeto MD, Szócska M, 
+Tabarés-Seisdedos R, Tadesse EG, Taherkhani A, Tamiru AT, Tareque MI, 
+Tehrani-Banihashemi A, Temsah MH, Tesfay FH, Tessema GA, Tessema ZT, Thankappan 
+KR, Thapar R, Tolani MA, Tovani-Palone MR, Traini E, Tran BX, Tripathy JP, 
+Tsapparellas G, Tsatsakis A, Tudor Car L, Uddin R, Ullah A, Umeokonkwo CD, Unim 
+B, Unnikrishnan B, Upadhyay E, Usman MS, Vacante M, Vaezi M, Valadan Tahbaz S, 
+Valdez PR, Vasankari TJ, Venketasubramanian N, Verma M, Violante FS, Vlassov V, 
+Vo B, Vu GT, Wado YD, Waheed Y, Wamai RG, Wang Y, Wang Y, Wang YP, Ward P, 
+Werdecker A, Westerman R, Wickramasinghe ND, Wilner LB, Wiysonge CS, Wu AM, Wu 
+C, Xie Y, Yahyazadeh Jabbari SH, Yamagishi K, Yandrapalli S, Yaya S, 
+Yazdi-Feyzabadi V, Yip P, Yonemoto N, Yoon SJ, Younis MZ, Yousefi Z, 
+Yousefinezhadi T, Yu C, Yusuf SS, Zaidi SS, Zaman SB, Zamani M, Zamanian M, 
+Zastrozhin MS, Zastrozhina A, Zhang Y, Zhang ZJ, Zhao XG, Ziapour A, Hay SI, 
+Murray CJL, Wang H, Kassebaum NJ.
+
+Comment in
+    MMW Fortschr Med. 2021 Nov;163(Suppl 3):29.
+
+BACKGROUND: Sustainable Development Goal 3.2 has targeted elimination of 
+preventable child mortality, reduction of neonatal death to less than 12 per 
+1000 livebirths, and reduction of death of children younger than 5 years to less 
+than 25 per 1000 livebirths, for each country by 2030. To understand current 
+rates, recent trends, and potential trajectories of child mortality for the next 
+decade, we present the Global Burden of Diseases, Injuries, and Risk Factors 
+Study (GBD) 2019 findings for all-cause mortality and cause-specific mortality 
+in children younger than 5 years of age, with multiple scenarios for child 
+mortality in 2030 that include the consideration of potential effects of 
+COVID-19, and a novel framework for quantifying optimal child survival.
+METHODS: We completed all-cause mortality and cause-specific mortality analyses 
+from 204 countries and territories for detailed age groups separately, with 
+aggregated mortality probabilities per 1000 livebirths computed for neonatal 
+mortality rate (NMR) and under-5 mortality rate (U5MR). Scenarios for 2030 
+represent different potential trajectories, notably including potential effects 
+of the COVID-19 pandemic and the potential impact of improvements preferentially 
+targeting neonatal survival. Optimal child survival metrics were developed by 
+age, sex, and cause of death across all GBD location-years. The first metric is 
+a global optimum and is based on the lowest observed mortality, and the second 
+is a survival potential frontier that is based on stochastic frontier analysis 
+of observed mortality and Healthcare Access and Quality Index.
+FINDINGS: Global U5MR decreased from 71·2 deaths per 1000 livebirths (95% 
+uncertainty interval [UI] 68·3-74·0) in 2000 to 37·1 (33·2-41·7) in 2019 while 
+global NMR correspondingly declined more slowly from 28·0 deaths per 1000 live 
+births (26·8-29·5) in 2000 to 17·9 (16·3-19·8) in 2019. In 2019, 136 (67%) of 
+204 countries had a U5MR at or below the SDG 3.2 threshold and 133 (65%) had an 
+NMR at or below the SDG 3.2 threshold, and the reference scenario suggests that 
+by 2030, 154 (75%) of all countries could meet the U5MR targets, and 139 (68%) 
+could meet the NMR targets. Deaths of children younger than 5 years totalled 
+9·65 million (95% UI 9·05-10·30) in 2000 and 5·05 million (4·27-6·02) in 2019, 
+with the neonatal fraction of these deaths increasing from 39% (3·76 million 
+[95% UI 3·53-4·02]) in 2000 to 48% (2·42 million; 2·06-2·86) in 2019. NMR and 
+U5MR were generally higher in males than in females, although there was no 
+statistically significant difference at the global level. Neonatal disorders 
+remained the leading cause of death in children younger than 5 years in 2019, 
+followed by lower respiratory infections, diarrhoeal diseases, congenital birth 
+defects, and malaria. The global optimum analysis suggests NMR could be reduced 
+to as low as 0·80 (95% UI 0·71-0·86) deaths per 1000 livebirths and U5MR to 1·44 
+(95% UI 1·27-1·58) deaths per 1000 livebirths, and in 2019, there were as many 
+as 1·87 million (95% UI 1·35-2·58; 37% [95% UI 32-43]) of 5·05 million more 
+deaths of children younger than 5 years than the survival potential frontier.
+INTERPRETATION: Global child mortality declined by almost half between 2000 and 
+2019, but progress remains slower in neonates and 65 (32%) of 204 countries, 
+mostly in sub-Saharan Africa and south Asia, are not on track to meet either SDG 
+3.2 target by 2030. Focused improvements in perinatal and newborn care, 
+continued and expanded delivery of essential interventions such as vaccination 
+and infection prevention, an enhanced focus on equity, continued focus on 
+poverty reduction and education, and investment in strengthening health systems 
+across the development spectrum have the potential to substantially improve 
+U5MR. Given the widespread effects of COVID-19, considerable effort will be 
+required to maintain and accelerate progress.
+FUNDING: Bill & Melinda Gates Foundation.
+
+Copyright © 2021 The Author(s). Published by Elsevier Ltd. This is an Open 
+Access article under the CC BY 4.0 license. Published by Elsevier Ltd.. All 
+rights reserved.
+
+DOI: 10.1016/S0140-6736(21)01207-1
+PMCID: PMC8429803
+PMID: 34416195 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests Robert Ancuceanu 
+reports consulting fees from AbbVie and AstraZeneca; payment or honoraria for 
+lectures, presentations, speakers' bureaus, manuscript writing, or educational 
+events from Sandoz and AbbVie; support for attending meetings and/or travel from 
+AbbVie and AstraZeneca, all outside the submitted work. Marcel Ausloos reports 
+grants or contracts from Romanian National Authority for Scientific Research and 
+Innovation, CNDS-UEFISCDI, project number PN-III-P4-ID-PCCF-2016-0084, outside 
+the submitted work. Ettore Beghi reports grants or contracts paid to their 
+institutions from ALSA, the Italian Ministry of Health and SOBI; payment or 
+honoraria for lectures, presentations, speakers' bureaus, manuscript writing, or 
+educational events from Arvell Therapeutics; support for attending meetings 
+and/or travel from ILAE and EAN, all outside the submitted work. Reinhard Busse 
+reports leadership or fiduciary role in other board, society, committee, or 
+advocacy group, paid or unpaid with the Robert Koch Institute as member of the 
+scientific advisory committee, German Burden 2020 project, all outside the 
+submitted work. Joao Conde reports grants or contracts from the European 
+Research Council grant agreement No 848325 (ERC starting grant); patents planned 

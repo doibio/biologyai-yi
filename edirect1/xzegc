@@ -1,0 +1,1000 @@
+
+
+159. Adv Exp Med Biol. 2023;1424:187-192. doi: 10.1007/978-3-031-31982-2_20.
+
+Application of Machine Learning Techniques in the HELIAD Study Data for the 
+Development of Diagnostic Models in MCI and Dementia.
+
+Dimakopoulos GA(1), Vrahatis AG(1), Exarchos TP(1), Ntanasi E(2), Yannakoulia 
+M(2), Kosmidis MH(3), Dardiotis E(4), Hadjigeorgiou G(5), Sakka P(6), Scarmeas 
+N(7)(8), Vlamos P(9).
+
+Author information:
+(1)Bioinformatics and Human Electrophysiology Laboratory, Department of 
+Informatics, Ionian University, Corfu, Greece.
+(2)Department of Nutrition and Diatetics, Harokopio University, Athens, Greece.
+(3)Lab of Cognitive Neuroscience, School of Psychology, Aristotle University of 
+Thessaloniki, Thessaloniki, Greece.
+(4)School of Medicine, University of Thessaly, Larissa, Greece.
+(5)Department of Neurology, Medical School, University of Cyprus, Nicosia, 
+Cyprus.
+(6)Athens Association of Alzheimer's Disease and Related Disorders, Athens, 
+Greece.
+(7)1st Department of Neurology, Aiginition Hospital, National and Kapodistrian 
+University of Athens, Medical School, Athens, Greece.
+(8)Department of Neurology, Columbia University, New York, NY, USA.
+(9)Bioinformatics and Human Electrophysiology Laboratory, Department of 
+Informatics, Ionian University, Corfu, Greece. vlamos@ionio.gr.
+
+The increase in the population's life expectancy leads to an increase in the 
+incidence of dementia and, therefore, in diseases such as Alzheimer's. Towards 
+this direction, the HELIAD1 study is the first large-scale epidemiological study 
+aimed at assessing epidemiological data on dementia, mild mental decline, and 
+other neuropsychiatric disorders associated with old age. This is a huge study 
+with several computational challenges, most of which can be addressed by machine 
+learning processes. The objectives of this study were to detect patterns in the 
+HELIAD clinical data that classify with high accuracy various levels of 
+cognitive impairment by training ML algorithms and hence apply derived model on 
+future clinical data to predict with the same accuracy the class variable. We 
+propose a machine learning method based on RUSBoost classifier to identify a 
+critical subset of biomarkers that classify accurately between neurological 
+patients with mild cognitive impairment (MCI) or dementia of the Alzheimer's 
+type (DAT) and the cognitively healthy control (CHC) group. In this study we 
+used a highly skewed (imbalanced) dataset with most observations (majority 
+class) belonging to the CHC group. The method proposed predicts accurately the 
+clinical diagnosis label and effectively classifies the neurological patients 
+from the CHC class. In particular, the classification accuracy (actual vs 
+predicted) for the three classes of the clinical diagnosis was 97%, 78%, and 91% 
+for control, MCI, and dementia class, respectively.
+
+© 2023. The Author(s), under exclusive license to Springer Nature Switzerland 
+AG.
+
+DOI: 10.1007/978-3-031-31982-2_20
+PMID: 37486493 [Indexed for MEDLINE]
+
+
+160. Adv Exp Med Biol. 2023;1424:297-311. doi: 10.1007/978-3-031-31982-2_34.
+
+Radiomics for Alzheimer's Disease: Fundamental Principles and Clinical 
+Applications.
+
+Georgiadou E(1), Bougias H(2), Leandrou S(3), Stogiannos N(4)(5)(6).
+
+Author information:
+(1)Department of Radiology, Metaxa Anticancer Hospital, Piraeus, Greece.
+(2)Department of Clinical Radiology, University Hospital of Ioannina, Ioannina, 
+Greece.
+(3)Department of Health Sciences, School of Sciences, European University 
+Cyprus, Engomi, Cyprus.
+(4)Discipline of Medical Imaging and Radiation Therapy, University College Cork, 
+Cork, Ireland. n.stogiannos@gnkerkyras.gr.
+(5)Division of Midwifery & Radiography, City, University of London, London, UK. 
+n.stogiannos@gnkerkyras.gr.
+(6)Medical Imaging Department, Corfu General Hospital, Corfu, Greece. 
+n.stogiannos@gnkerkyras.gr.
+
+Alzheimer's disease is a neurodegenerative disease with a huge impact on 
+people's quality of life, life expectancy, and morbidity. The ongoing prevalence 
+of the disease, in conjunction with an increased financial burden to healthcare 
+services, necessitates the development of new technologies to be employed in 
+this field. Hence, advanced computational methods have been developed to 
+facilitate early and accurate diagnosis of the disease and improve all health 
+outcomes. Artificial intelligence is now deeply involved in the fight against 
+this disease, with many clinical applications in the field of medical imaging. 
+Deep learning approaches have been tested for use in this domain, while 
+radiomics, an emerging quantitative method, are already being evaluated to be 
+used in various medical imaging modalities. This chapter aims to provide an 
+insight into the fundamental principles behind radiomics, discuss the most 
+common techniques alongside their strengths and weaknesses, and suggest ways 
+forward for future research standardization and reproducibility.
+
+© 2023. The Author(s), under exclusive license to Springer Nature Switzerland 
+AG.
+
+DOI: 10.1007/978-3-031-31982-2_34
+PMID: 37486507 [Indexed for MEDLINE]
+
+
+161. PLoS One. 2023 Jul 24;18(7):e0288561. doi: 10.1371/journal.pone.0288561. 
+eCollection 2023.
+
+Temporal trends in the disease burden of osteoarthritis from 1990 to 2019, and 
+projections until 2030.
+
+Chen X(1), Tang H(1), Lin J(1), Zeng R(1).
+
+Author information:
+(1)Quanzhou First Hospital Affiliated to Fujian Medical University, Quanzhou, 
+Fujian Province, China.
+
+This study aimed to report trends in the global burden of osteoarthritis (OA) 
+from 1990 to 2019 and predict the trends in the following years based on Global 
+Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2019. The study 
+included reporting on the prevalence and incidence rates, as well as 
+disability-adjusted life years (DALYs). Additionally, the age-standardized 
+incidence rate (ASR) and Estimated Annual Percent Change (EAPC) were analyzed 
+along with related factors, finally, Bayesian age-period-cohort (BAPC) analysis 
+were utilized to predict the trends in the upcoming years. In 2019, globally, 
+there were about 414.7 million (95%UI: 368.8 to 464.4 million) OA incident 
+cases, with an age-standardized incidence rate (ASR) about 492.21 (95% UI:438.66 
+to 551.5) per 100000. And there were about 527.8 million (95% UI: 478.7 to 584.8 
+million) OA prevalent cases in 2019. The DALYs for OA increased to about 189.49 
+million (95%UI: 95.71 to 376.60 million) from 1990 to 2019 (EAPC:0.14%; 95%CI: 
+0.12% to 0.16%). There was a positive association between ASR and 
+Socio-demographic index (SDI) both at the regional and national level. BAPC 
+results showed that ASR in females would decrease but increase in males in the 
+following years. In conclusion, the global burden of OA has risen steadily 
+between 1990 and 2019, placing a significant strain on society. This trend is 
+expected to continue in the coming years. To alleviate this burden, it is 
+necessary to implement measures that target risk factors such as high body mass 
+index.
+
+Copyright: © 2023 Chen et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0288561
+PMCID: PMC10365297
+PMID: 37486949 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+162. Br J Dermatol. 2023 Oct 25;189(5):648. doi: 10.1093/bjd/ljad256.
+
+Insights into Stevens-Johnson syndrome/toxic epidermal necrolysis lifetime 
+burden: assessing life expectancy, healthcare costs and quality of life.
+
+Liu Y(1), Li Q(2), Chu C(1), Zhou Y(1).
+
+Author information:
+(1)Medical Cosmetic Center.
+(2)Department of Orthopedics, Chengdu Second People's Hospital, Chengdu, 
+Sichuan, China.
+
+Comment on
+    Br J Dermatol. 2023 Oct 25;189(5):553-560.
+
+DOI: 10.1093/bjd/ljad256
+PMID: 37487543 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest: the authors declare no 
+conflicts of interest.
+
+
+163. J Econ Entomol. 2023 Oct 10;116(5):1575-1584. doi: 10.1093/jee/toad144.
+
+Effects of different host plants on the growth, development, and fecundity of 
+Phthorimaea absoluta (Lepidoptera: Gelechiidae): an evaluation based on the 
+age-stage two-sex life table.
+
+Jiang Z(1), Yang G(1)(2), Zhang J(1), Chen G(1), Hu C(3), Chen H(1), Zhang 
+X(1)(4).
+
+Author information:
+(1)College of Plant Protection, Yunnan Agricultural University, State Key 
+Laboratory of Yunnan Biological Resources Protection and Utilization, Kunming 
+650201, China.
+(2)College of Plant Protection, Nanjing Agricultural University, Nanjing 210095, 
+China.
+(3)Sericultural and Apicultural Research Institute, Yunnan Academy of 
+Agricultural Sciences, Honghe 661100, China.
+(4)Wageningen University and Research Greenhouse Horticulture, Bleiswijk 2265ZG, 
+The Netherlands.
+
+This study aimed to investigate the growth and development parameters of 
+Phthorimaea absoluta (Meyrick) population at each stage when feeding on 4 host 
+plants: Lycopersicon esculentum, Solanum tuberosum, Solanum melongena, and 
+Nicotiana tabacum. The objective was to predict population dynamics and develop 
+appropriate control strategies. The age-stage sex-life table was used to 
+evaluate survival rate, fecundity, life expectancy, reproductive value, 
+population parameters, and population growth prediction of P. absoluta after 
+feeding on the 4 Solanaceae plants. The results showed significant variations in 
+the fecundity parameters of P. absoluta among the different host plants. The L. 
+esculentum population exhibited the highest average egg-laying period 
+(13.17 ± 0.61 days) and average egg production (219.31 ± 21.02 eggs), while N. 
+tabacum had the lowest values (4.56 ± 0.26 days and 26.08 ± 2.53 eggs, 
+respectively). The gross reproduction rate of P. absoluta feeding on L. 
+esculentum was 146.43 ± 21.00, which was 1.80, 3.77, and 6.39 times higher 
+compared to S. tuberosum, S. melongena, and N. tabacum, respectively. The 
+average age period and population doubling time of P. absoluta feeding on L. 
+esculentum were lower than those of the other 3 host plants. These results 
+indicated that while P. absoluta can complete a generation on L. esculentum, S. 
+tuberosum, S. melongena, and N. tabacum, L. esculentum is the most suitable host 
+for its growth and development. Therefore, in the occurrence and adjacent areas 
+of P. absoluta, relevant authorities should promptly monitor and control its 
+population in the planting areas of Solanaceae plants to prevent further spread.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of 
+Entomological Society of America. All rights reserved. For permissions, please 
+e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/jee/toad144
+PMID: 37487575 [Indexed for MEDLINE]
+
+
+164. Ageing Res Rev. 2023 Sep;90:102020. doi: 10.1016/j.arr.2023.102020. Epub
+2023  Jul 23.
+
+Aging with spinal cord injury: A narrative review of consequences and 
+challenges.
+
+Guízar-Sahagún G(1), Grijalva I(2), Franco-Bourland RE(3), Madrazo I(2).
+
+Author information:
+(1)Research Unit for Neurological Diseases, Instituto Mexicano del Seguro 
+Social, 4430 Calzada de Tlalpan, Mexico City, Mexico. Electronic address: 
+guizarg@gmail.com.
+(2)Research Unit for Neurological Diseases, Instituto Mexicano del Seguro 
+Social, 4430 Calzada de Tlalpan, Mexico City, Mexico.
+(3)Department of Biochemistry, Instituto Nacional de Rehabilitación Luis 
+Guillermo Ibarra Ibarra, 289 Calzada México-Xochimilco, Mexico City, Mexico.
+
+Given the increase in life expectancy, aging with a pre-existing spinal cord 
+injury (SCI) is becoming more common. This condition is challenging as 
+compromised health status and functional independence can worsen. We aimed to 
+provide an updated overview of the consequences of aging with SCI, highlighting 
+the main challenges facing this population in a narrative review of the current 
+literature we retrieved from the PubMed database from 2000 to 2022 on any aspect 
+related to aging in persons with SCI. Here we address adverse circumstances that 
+increase disability and hinder an active lifestyle, such as progressive physical 
+deterioration, secondary health conditions, limitations in personal activity, 
+changes in family and social support structures, aging of caregivers, and 
+depletion of economic resources. Favorable changes are also observed, including 
+psychosocial adjustments that improve quality of life. Additionally, various 
+interventions are discussed to promote well-being, health, and social 
+participation. Due to the relevance of this issue, people with SCI and all those 
+who take care of them must have up-to-date information to carry out the 
+necessary measures to promote healthy aging in a more inclusive social 
+environment.
+
+Published by Elsevier B.V.
+
+DOI: 10.1016/j.arr.2023.102020
+PMID: 37487887 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest None.
+
+
+165. Int J Biol Macromol. 2023 Sep 1;248:125938. doi:
+10.1016/j.ijbiomac.2023.125938.  Epub 2023 Jul 22.
+
+Development of Plantago ovata seed mucilage and xanthan gum-based edible coating 
+with prominent optical and barrier properties.
+
+Ashooriyan P(1), Mohammadi M(2), Najafpour Darzi G(1), Nikzad M(1).
+
+Author information:
+(1)Biotechnology Research Laboratory, Faculty of Chemical Engineering, Babol 
+Noshirvani University of Technology, 47148, Babol, Iran.
+(2)Biotechnology Research Laboratory, Faculty of Chemical Engineering, Babol 
+Noshirvani University of Technology, 47148, Babol, Iran. Electronic address: 
+m.mohammadi@nit.ac.ir.
+
+This study investigates the fabrication of edible coating based on Plantago 
+ovata seed mucilage (POSM). The films were prepared from POSM (1 %, w/v), 
+glycerol (75 %, based on POSM mass), and xanthan gum (XG: 20, 30 and 40 %, based 
+on POSM mass) by a casting method, and their physicochemical, mechanical, 
+thermal, morphological, and barrier properties were determined. Results 
+indicated the development of highly transparent (transparency values: 
+1.36 ± 0.05 to 2.42 ± 0.09) and hydrophobic films (contact angle: 101.57 ± 0.34 
+to107.08 ± 0.55o) with very low water vapor permeability (WVP: 
+2.77 ± 0.02 × 10-12 to 1.98 ± 0.04 × 10-12 g s-1m-1Pa-1), slight water 
+solubility (31.14 ± 0.46 to 23.08 ± 0.82 %), and good mechanical properties 
+(tensile strength: 30.87 ± 0.96 to 61.80 ± 0.71 MPa). Morphological studies also 
+indicated smooth and uniform surfaces without pores and cracks. In addition, the 
+films showed good antioxidant activity (61.46 to 68.71 %), and their 
+antibacterial activity against E. coli, S. aureus and P. aeruginosa was also 
+demonstrated. The applicability of the developed films to extend the shelf life 
+of strawberries was shown by comparing the appearance of dip-coated strawberries 
+and the control sample within 8 days at room temperature. Based on the results, 
+the developed biofilms have great potential for edible coating and packaging 
+applications.
+
+Copyright © 2023 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijbiomac.2023.125938
+PMID: 37487996 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+166. Sci Rep. 2023 Jul 24;13(1):11969. doi: 10.1038/s41598-023-39270-8.
+
+Effect of larval diets on the life table parameters of dengue mosquito, Aedes 
+aegypti (L.) (Diptera: Culicidae) using age-stage two sex life table theory.
+
+Salim M(1), Kamran M(2), Khan I(3), Saljoqi AUR(2), Ahmad S(2)(4), Almutairi 
+MH(5), Sayed AA(6), Aleya L(7), Abdel-Daim MM(8), Shah M(9)(10).
+
+Author information:
+(1)Department of Plant Protection, Faculty of Crop Protection Sciences, The 
+University of Agriculture, Peshawar, Pakistan. muhammadsalim@aup.edu.pk.
+(2)Department of Plant Protection, Faculty of Crop Protection Sciences, The 
+University of Agriculture, Peshawar, Pakistan.
+(3)Pakistan Atomic Energy Commission, Nuclear Institute for Food and Agriculture 
+(NIFA), P. O. Box 446, Peshawar, Pakistan.
+(4)Department of Entomology, Abdul Wali Khan University Mardan, Mardan, 23200, 
+Pakistan.
+(5)Department of Zoology, College of Science, King Saud University, P.O. Box 
+2455, 11451, Riyadh, Saudi Arabia.
+(6)Zoology Department, Faculty of Science, Cairo University, Giza, 12613, Egypt.
+(7)Chrono-Environnement Laboratory, UMR CNRS 6249, CEDEX, Bourgogne, 
+Franche-Comté University, 25030, Besançon, France.
+(8)Pharmacology Department, Faculty of Veterinary Medicine, Suez Canal 
+University, Ismailia, 41522, Egypt.
+(9)Natural and Medical Sciences Research Center, University of Nizwa, Birkat Al 
+Mauz, P.O. Box 33, Nizwa, 616, Oman.
+(10)Department of Botany, Abdul Wali Khan University Mardan, Mardan, 23200, 
+Pakistan.
+
+The current study regarding the effects of larval diets on the life table 
+parameters of dengue mosquitoes, Aedes aegypti was conducted under laboratory 
+conditions at 27 ± 2 °C and 60 ± 5% relative humidity at NIFA (Nuclear Institute 
+for Food and Agriculture) Peshawar, Pakistan. The data on life table parameters 
+of Ae. aegypti reared on Diet 1 (replacement diet), Diet 2 (Khan's diet for 
+Anopheles), Diet 3 (Khan's modified diet) and Diet 4 (IAEA diet) were analyzed 
+using the age-stage, two-sex life table software. Diet 4 (IAEA) was used as a 
+control for comparison. The results indicated that significantly maximum 
+percentage of egg hatching of Ae. aegypti was observed when reared on Diet 4 
+(73.86%) and Diet 3 (72.90%), while less % of egg hatching was recorded in Diet 
+1 (40.67%) and Diet 2 (55.53%). The data further showed that the Diet 3 had a 
+highest intrinsic rate of increase (r) (0.097 ± 5.68 day-1), finite rate of 
+increase (λ) (1.10 ± 6.26 day-1) and net reproductive rate (R0) (11.99 ± 1.52 
+eggs/female) followed by Diet 2 and Diet 4. The mean generation time (T) of Ae. 
+aegypti reared on Diet 3 (23.67 ± 0.86 days) and Diet 1 (24.05 ± 0.61 days) was 
+significantly shorter than Diet 2 (26.15 ± 0.71 days) and Diet 4 
+(26.41 ± 0.38 days). The overall results revealed that Diet 3 showed good 
+results at different life table parameters of Ae. aegypti and can be used as the 
+preferred diet in the Sterile Insect Technique (SIT) where the mass culture of 
+mosquitoes is required.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41598-023-39270-8
+PMCID: PMC10366198
+PMID: 37488190 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+167. Neural Regen Res. 2024 Feb;19(2):375-379. doi: 10.4103/1673-5374.375298.
+
+Connecting neurodevelopment to neurodegeneration: a spotlight on the role of 
+kinesin superfamily protein 2A (KIF2A).
+
+Ruiz-Reig N(1), Hakanen J(1), Tissir F(2).
+
+Author information:
+(1)Université catholique de Louvain, Institute of neuroscience, Brussels, 
+Belgium.
+(2)Université catholique de Louvain, Institute of neuroscience, Brussels, 
+Belgium; College of Health and Life Sciences, Hamad Bin Khalifa University 
+(HBKU), Doha, Qatar.
+
+Microtubules play a central role in cytoskeletal changes during neuronal 
+development and maintenance. Microtubule dynamics is essential to polarity and 
+shape transitions underlying neural cell division, differentiation, motility, 
+and maturation. Kinesin superfamily protein 2A is a member of human kinesin 13 
+gene family of proteins that depolymerize and destabilize microtubules. In 
+dividing cells, kinesin superfamily protein 2A is involved in mitotic 
+progression, spindle assembly, and chromosome segregation. In postmitotic 
+neurons, it is required for axon/dendrite specification and extension, neuronal 
+migration, connectivity, and survival. Humans with kinesin superfamily protein 
+2A mutations suffer from a variety of malformations of cortical development, 
+epilepsy, autism spectrum disorder, and neurodegeneration. In this review, we 
+discuss how kinesin superfamily protein 2A regulates neuronal development and 
+function, and how its deregulation causes neurodevelopmental and neurological 
+disorders.
+
+DOI: 10.4103/1673-5374.375298
+PMCID: PMC10503618
+PMID: 37488893
+
+Conflict of interest statement: None
+
+
+168. Demogr Res. 2023 Mar 7;48(12):339-352. doi: 10.4054/DemRes.2023.48.12.
+
+Differential impact of the COVID-19 pandemic on excess mortality and life 
+expectancy loss within the Hispanic population.
+
+Arias E(1), Tejada-Vera B(1).
+
+Author information:
+(1)National Center for Health Statistics, Hyattsville, Maryland, USA.
+
+BACKGROUND: The impact of the COVID-19 pandemic on the Hispanic population 
+resulted in the almost complete elimination of the long-standing Hispanic 
+mortality advantage relative to the non-Hispanic White population. However, it 
+is unknown how COVID-19 mortality affected the diverse Hispanic subpopulations.
+OBJECTIVE: We estimate life expectancy at birth in 2019 and 2020 by select 
+Hispanic country/region of origin and explore how changes in age-specific 
+all-cause and COVID-19 mortality affected changes in life expectancy between 
+2019 and 2020 for each group.
+METHODS: We use final 2019 and 2020 mortality data from the National Center for 
+Health Statistics and population estimates based on the 2019 and 2020 American 
+Community Survey. We calculate life tables and apply decomposition techniques to 
+explore the effects of changes in age- and cause-specific mortality on life 
+expectancy.
+RESULTS: Patterns of age- and cause-specific excess deaths and their impact on 
+declines in life expectancy due to the COVID-19 pandemic differed substantially 
+by Hispanic subgroup. Life expectancy losses ranged from 0.6 to 6.7 years among 
+males and from 0.6 to 3.6 years among females.
+CONCLUSIONS: Our findings highlight the heterogeneous impact of the COVID-19 
+pandemic within the Hispanic population.
+CONTRIBUTIONS: Our findings contribute new information that will help future 
+researchers identify the causes of the disproportionately severe impact of the 
+COVID-19 pandemic on the Hispanic population. Our study underscores the 
+importance of population disaggregation in endeavors to identify the multiple 
+pathways by which the pandemic affected the Hispanic population.
+
+DOI: 10.4054/DemRes.2023.48.12
+PMCID: PMC10364128
+PMID: 37489132
+
+
+169. Genet Med. 2023 Nov;25(11):100942. doi: 10.1016/j.gim.2023.100942. Epub 2023
+Jul  22.
+
+Genomic testing for suspected monogenic kidney disease in children and adults: A 
+health economic evaluation.
+
+Wu Y(1), Jayasinghe K(2), Stark Z(3), Quinlan C(4), Patel C(5), McCarthy H(6), 
+Mallawaarachchi AC(7), Kerr PG(8), Alexander S(6), Mallett AJ(9), Goranitis 
+I(10); KidGen Collaborative investigators.
+
+Author information:
+(1)Health Economics Unit, Centre for Health Policy, Melbourne School of 
+Population and Global Health, University of Melbourne, Melbourne, VIC, 
+Australia; Australian Genomics Health Alliance, Melbourne, VIC, Australia; 
+Murdoch Children's Research Institute, Melbourne, VIC, Australia.
+(2)Murdoch Children's Research Institute, Melbourne, VIC, Australia; Department 
+of Nephrology, Monash Medical Centre, Melbourne, Australia; Monash University, 
+Melbourne, Australia; The KidGen Collaborative, Australian Genomics Health 
+Alliance, Melbourne, Australia.
+(3)Australian Genomics Health Alliance, Melbourne, VIC, Australia; Victorian 
+Clinical Genetics Services, Murdoch Children's Research Institute, Melbourne, 
+Australia; Department of Pediatrics, University of Melbourne, Melbourne, 
+Australia.
+(4)Murdoch Children's Research Institute, Melbourne, VIC, Australia; The KidGen 
+Collaborative, Australian Genomics Health Alliance, Melbourne, Australia; 
+Department of Pediatrics, University of Melbourne, Melbourne, Australia; 
+Department of Pediatric Nephrology, Royal Children's Hospital, Melbourne, 
+Australia.
+(5)The KidGen Collaborative, Australian Genomics Health Alliance, Melbourne, 
+Australia; Genetic Health Queensland, Royal Brisbane and Women's Hospital, 
+Brisbane, Australia.
+(6)Centre for Kidney Research, Children's Hospital at Westmead, Sydney, 
+Australia; Sydney Children's Hospitals Network, Sydney, Australia; Faculty of 
+Medicine, The University of Sydney, Sydney, Australia.
+(7)Department of Medical Genetics, Royal Prince Alfred Hospital, Sydney, 
+Australia; Garvan Institute of Medical Research, Sydney, Australia.
+(8)Department of Nephrology, Monash Medical Centre, Melbourne, Australia; Monash 
+University, Melbourne, Australia.
+(9)The KidGen Collaborative, Australian Genomics Health Alliance, Melbourne, 
+Australia; Institute for Molecular Bioscience and Faculty of Medicine, The 
+University of Queensland, Brisbane, Australia; Department of Renal Medicine, 
+Townsville University Hospital, Townsville, Australia; College of Medicine & 
+Dentistry, James Cook University, Townsville, Australia. Electronic address: 
+andrew.mallett@health.qld.gov.au.
+(10)Health Economics Unit, Centre for Health Policy, Melbourne School of 
+Population and Global Health, University of Melbourne, Melbourne, VIC, 
+Australia; Australian Genomics Health Alliance, Melbourne, VIC, Australia; 
+Murdoch Children's Research Institute, Melbourne, VIC, Australia; The KidGen 
+Collaborative, Australian Genomics Health Alliance, Melbourne, Australia. 
+Electronic address: ilias.goranitis@unimelb.edu.au.
+
+PURPOSE: To assess the relative cost-effectiveness of genomic testing compared 
+with standard non-genomic diagnostic investigations in patients with suspected 
+monogenic kidney disease from an Australian health care system perspective.
+METHODS: Diagnostic and clinical information was used from a national cohort of 
+349 participants. Simulation modelling captured diagnostic, health, and economic 
+outcomes during a time horizon from clinical presentation until 3 months 
+post-test results based on the outcome of cost per additional diagnosis and 
+lifetime horizon based on cost per quality-adjusted life-year (QALY) gained.
+RESULTS: Genomic testing was Australian dollars (AU$) 1600 more costly per 
+patient and led to an additional 27 diagnoses out of a 100 individuals tested, 
+resulting in an incremental cost-effectiveness ratio of AU$5991 per additional 
+diagnosis. Using a lifetime horizon, genomic testing resulted in an additional 
+cost of AU$438 and 0.04 QALYs gained per individual compared with standard 
+diagnostic investigations, corresponding to an incremental cost-effectiveness 
+ratio of AU$10,823 per QALY gained. Sub-group analyses identified that the 
+results were largely driven by the cost-effectiveness in glomerular diseases.
+CONCLUSION: Based on established or expected thresholds of cost-effectiveness, 
+our evidence suggests that genomic testing is very likely to be cost saving for 
+individuals with suspected glomerular diseases, whereas no evidence of 
+cost-effectiveness was found for non-glomerular diseases.
+
+Copyright © 2023 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.gim.2023.100942
+PMID: 37489581 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Andrew J. Mallett received 
+grants from Medical Research Future Fund, Sanofi-Genzyme, and Queensland 
+Technology Futures Fund, and support for attending meetings from Otsuka 
+Australia, holds leadership role in KidGen Collaborative, RACP Foundation, and 
+Townsville Hospital & Health Service, and has other non-financial interests in 
+Sanofi, Reata, and Dicerna. Hugh McCarthy received grant from Royal Australasian 
+College of Physicians. Peter G. Kerr received a grant from NHMRC (Australia) and 
+payment for presentations and manuscript writing from Astra Zeneca, participates 
+on REDUCCTION Trial Data Safety Monitoring Board, and holds the Treasurer role 
+in ANZ Society of Nephrology. All other authors declare no conflicts of 
+interest.
+
+
+170. Recent Adv Food Nutr Agric. 2023;14(3):135-143. doi: 
+10.2174/2772574X14666230725094910.
+
+An Evidence Base for Heart Disease Prevention using a Mediterranean Diet 
+Comprised Primarily of Vegetarian Food.
+
+Gupta UC(1), Gupta SC(2), Gupta SS(3).
+
+Author information:
+(1)Agriculture and Agri-food Canada, Charlottetown Research and Development 
+Centre, 440 University Avenue, Charlottetown, PE, C1A 4N6, Canada.
+(2)The Department of Plastic Surgery, Loma Linda University School of Medicine, 
+Loma Linda, California, 92354, USA.
+(3)School of Health Sciences, Purdue University, West Lafayette, Indiana, 47906, 
+USA.
+
+Dietary patterns, nutrition, physical activity, air pollution, tobacco smoke, 
+ethnicity and genetics affect heart disease. Vegetarian food diets are one of 
+the important factors in its prevention and control. People living in the five 
+blue zones, mostly consuming the Mediterranean diet (MedDiet), have the highest 
+longevity in the world and the least incidence of heart disease. There are 
+several forms of heart pathology, e.g., the most common coronary heart disease, 
+myocardial infarction, congestive heart failure, heart valve disease and 
+abnormal heart rhythms. Heart disease is the leading cause of death in the world 
+and varies by race, where indigenous and people of color have a higher risk for 
+its complications than the white population. The morbidity of cardiovascular 
+pathology in the Afro-American community persists high and is a primary source 
+of disparities in life expectancy between Afro-Americans and whites in the 
+United States. Adherence to healthy diets higher in vegetable foods and lower in 
+animal foods is correlated with a lower risk of cardiovascular disease, 
+morbidity and mortality in the general population. A detailed literature review 
+was performed of the Medline, EMBASE, and Ebsco databases to synthesize and 
+compare evidence on this topic to produce a review of the importance of a 
+Mediterranean diet in the prevention of heart disease. Consumption of a MedDiet 
+consisting of fruits and vegetables (including berries due to their high fibre 
+and antioxidant content), nuts, whole grains, leafy greens, beans like 
+chickpeas, eggplants, Greek yogurt and extra virgin olive oil are associated 
+with longer life and lower incidence of heart disease. The latter diet is 
+superior to consuming large quantities of meat and refined carbohydrates, such 
+as sucrose, high fructose corn syrup and grains that have had the fibrous and 
+nutritious parts removed.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/2772574X14666230725094910
+PMID: 37489789 [Indexed for MEDLINE]
+
+
+171. Health Syst Transit. 2023 Jul;25(3):1-276.
+
+France: Health System Review.
+
+Or Z(1), Gandré C(1), Seppänen AV(1), Hernández-Quevedo C(2), Webb E(3), Michel 
+M(4), Chevreul K(4).
+
+Author information:
+(1)IRDES.
+(2)European Observatory on Health Systems and Policies, LSE Health.
+(3)Technical University of Berlin and European Observatory on Health Systems and 
+Policies.
+(4)Inserm.
+
+This review of the French health system analyses recent developments in health 
+organisation and governance, financing, healthcare provision, recent reforms and 
+health system performance. Overall health status continues to improve in France, 
+although geographic and socioeconomic inequalities in life expectancy persist. 
+The health system combines a social health insurance (SHI) model with an 
+important role for tax-based revenues to finance healthcare. The health system 
+provides universal coverage, with a broad benefits basket, but cost-sharing is 
+required for all essential services. Private complementary insurance to cover 
+these costs results in very low average out-of-pocket (OOP) payments, although 
+there are concerns regarding solidarity, financial redistribution and efficiency 
+in the health system. The macroeconomic context in the last couple of years in 
+the country has been affected by the Covid-19 pandemic, which resulted in 
+subsequent increases of total health expenditure in France in 2020 (3.7%) and 
+2021 (9.8%). Healthcare provision continues to be highly fragmented in France, 
+with a segmented approach to care organization and funding across primary, 
+secondary and long-term care. Recent reforms aim to strengthen primary care by 
+encouraging multidisciplinary group practices, while public health efforts over 
+the last decade have focused on boosting prevention strategies and tackling 
+lifestyle risk factors, such as smoking and obesity with limited success. 
+Continued challenges include ensuring the sustainability of the health 
+workforce, particularly to secure adequate numbers of health professionals in 
+medically underserved areas, such as rural and less affluent communities, and 
+improving working conditions, remuneration and career prospects, especially for 
+nurses, to support retention. The Covid-19 pandemic has brought to light some 
+structural weaknesses within the French health system, but it has also provided 
+opportunities for improving its sustainability. There has been a notable shift 
+in the will to give more room to decision-making at the local level, involving 
+healthcare professionals, and to find new ways of funding healthcare providers 
+to encourage care coordination and integration.
+
+World Health Organization 2023 (acting as the host organization for, and 
+secretariat of, the European Observatory on Health Systems and Policies).
+
+PMID: 37489947 [Indexed for MEDLINE]
+
+
+172. Lab Chip. 2023 Aug 22;23(17):3811-3819. doi: 10.1039/d2lc01133f.
+
+An optically fabricated gradient nanochannel array to access the translocation 
+dynamics of T4-phage DNA through nanoconfinement.
+
+Zhang C(1), Hou J(1), Zeng Y(1), Dai L(2), Zhao W(1), Jing G(3), Sun D(1), Cao 
+Y(4), Zhang C(1).
+
+Author information:
+(1)State Key Laboratory of Photon-Technology in Western China Energy, Institute 
+of Photonics and Photon-Technology, Northwest University, Xi'an, 710127, China. 
+zhangce.univ@gmail.com.
+(2)Department of Physics, City University of Hong Kong, Hong Kong, 999077, 
+China.
+(3)School of Physics, Northwest University, Xi'an, 710127, China.
+(4)Guangdong Provincial Key Laboratory of Optical Fiber Sensing and 
+Communications, Institute of Photonics Technology, Jinan University, Guangzhou, 
+510632, China. yaoyucao@jnu.edu.cn.
+
+It has been widely recognized that nanostructures in natural biological 
+materials play important roles in regulating life machinery. Even though 
+nanofabrication techniques such as two-photon polymerization (TPP) provide 
+sub-100 nm fabrication resolution, it remains technologically challenging to 
+produce 3D nanoscale features modeling the complexity in vivo. We herein 
+demonstrate that a nanochannel array carrying different sizes and nanostructures 
+with gradually transitioning dimensions can be easily produced on a slightly 
+tilted nano-stage. Using the gradient nanochannel array, we systematically 
+investigate the factors affecting the dynamics of DNA translocation through 
+nanoconfinement, including the size of biomolecules and geometrical features of 
+the physical environment, which resembles the selectivity of nanopores in the 
+cell membrane. It is observed that T4-phage DNA shows distinctive conformational 
+transition dynamics during translocation through nanochannels driven by electric 
+field or flow, and the deformation energy required for DNA to enter the 
+nanochannels depends on both chemical environmental conditions, i.e., the ionic 
+strength regulating DNA persistence length and nanochannel dimension. In the 
+electric field, DNA repeatedly gets stretched and compressed during its 
+migration through the nanochannel, reflected by elevated fluctuation in 
+extension, which is substantially greater than the thermal fluctuation. However, 
+driven by flow, DNA remains stretched during translocation through nanochannels, 
+and shows variances in extension of merely a few hundred nanometers. These 
+results indicate that the optically fabricated gradient nanochannel array is a 
+suitable platform for optimizing the experimental conditions for biomedical 
+applications such as gene mapping, and verify that production of complex three 
+dimensional (3D) nanostructures can be greatly simplified by including slight 
+inclination during TPP fabrication.
+
+DOI: 10.1039/d2lc01133f
+PMID: 37490010 [Indexed for MEDLINE]
+
+
+173. PLoS One. 2023 Jul 25;18(7):e0280371. doi: 10.1371/journal.pone.0280371. 
+eCollection 2023.
+
+Costs and models used in the economic analysis of Total Knee Replacement (TKR): 
+A systematic review.
+
+Gandhi N(1), Qadeer AS(1), Meher A(1), Rachel J(1), Patra A(1), John J(1), 
+Anilkumar A(1), Dutta A(2), Nanda L(1), Rout SK(2).
+
+Author information:
+(1)Indian Institute of Public Health-Hyderabad, Public Health Foundation of 
+India, New Delhi, India.
+(2)Indian Institute of Public Health-Bhubaneswar, Public Health Foundation of 
+India, New Delhi, India.
+
+OBJECTIVES: The main objective of this review is to summarize the evidence on 
+the core modelling specifications and methodology on the cost-effectiveness of 
+TKR compared to non-surgical management. Another objective of this study is to 
+synthesize evidence of TKR cost and compare it across countries using purchasing 
+power parity (PPP).
+METHODOLOGY: The electronic databases used for this review were MEDLINE 
+(PubMed), Cochrane Central Register of Controlled Trials (CENTRAL), HTAIn 
+repository, Cost effectiveness Analysis (CEA) registry, and Google Scholar. 
+Consolidated Health Economic Evaluation Reporting Standards (CHEERS) was used to 
+assess the validity of the methods and transparency in reporting the results. 
+The Quality of Health Economic Studies (QHES) was used to check the quality of 
+economic evaluation models of the studies included. The cost of TKR surgery from 
+high income and low- or middle-income countries were extracted and converted to 
+single USD ($) using purchasing power parities (PPP) method.
+RESULT: Thirty-two studies were included in this review, out of which eight 
+studies used Markov model, five used regression model, one each reported 
+Marginal structure model, discrete simulation model, decision tree and 
+Osteoarthritis Policy Model (OAPol) respectively to assess the 
+cost-effectiveness of TKR. For PPP, twenty-six studies were included in the 
+analysis of TKR cost. The average cost of TKR surgery was the lowest in 
+developing country-India ($3457) and highest in USA ($19568).
+CONCLUSION: The findings of this review showed that the Markov model was most 
+widely used in the analysis of the cost effectiveness of TKR. Our review also 
+concluded that the cost of TKR was higher in the developed countries as compared 
+to the developing countries.
+
+Copyright: © 2023 Gandhi et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0280371
+PMCID: PMC10368258
+PMID: 37490490 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+174. Bol Med Hosp Infant Mex. 2023;80(Supl 1):53-57. doi:
+10.24875/BMHIM.22000104.
+
+Coexistence of persistent fetal vasculature and retinoblastoma in the same eye.
+
+[Article in English]
+
+Castillo-Trejo B(1), Pérez-Pérez JF(1), Aguilar-Morales K(1), Castelo-Huerta 
+M(1), Pérez-Giráldez A(1), Corredor-Casas S(1).
+
+Author information:
+(1)Instituto Mexicano de Oftalmología I.A.P., Querétaro, México.
+
+BACKGROUND: As retinoblastoma (RB) is the most frequent primary intraocular 
+malignant tumor in childhood, it should be the main pathology to rule out in 
+pediatric patients with leukocoria. Persistence of fetal vasculature (PFV) is 
+within the differential diagnosis of leukocoria, a vitreous disorder arising 
+from a defect in the involution of the hyaloid vasculature in the embryonic 
+stage, which affects normal ocular development and commonly produces associated 
+microophthalmia. An early diagnosis and timely treatment are crucial for a 
+better prognosis and life expectancy of the child.
+CASE REPORT: We present a case of retinoblastoma and coexisting with PFV: a 
+2-years-and 11-months-old male with no red reflex, and vasculature and 
+yellowish-white membrane behind the lens of the right eye. B-mode ultrasound 
+with disorganization of the vitreous cavity with high reflectivity echoes 
+suggestive of calcification. On examination we found an enlarged eyeball, 
+rubeosis iridis, posterior vasculature, intraocular pressure 28 mmHg. Computed 
+tomography with heterogeneous intraocular mass with hyperdense regions. With a 
+diagnosis of probable retinoblastoma, enucleation was performed. Histopathology 
+reported moderately differentiated retinoblastoma coexisting with PFV.
+CONCLUSIONS: The finding of these two diagnoses in the same eye is very rare due 
+to the different pathophysiology.
+
+Publisher: INTRODUCCIÓN: El retinoblastoma (RB) es el tumor maligno primario 
+intraocular más frecuente en la infancia y debe ser la principal patología a 
+descartar en los pacientes pediátricos con leucocoria. La persistencia de la 
+vasculatura fetal (PVF) está dentro del diagnóstico diferencial de la 
+leucocoria, un trastorno del vítreo que surge de un defecto en la involución de 
+la vasculatura hialoidea en la etapa embrionaria que afecta al desarrollo ocular 
+normal y comúnmente produce microoftalmia asociada. El diagnóstico temprano y 
+tratamiento oportuno son cruciales para un buen pronóstico y mejor esperanza de 
+vida del infante.
+CASO CLÍNICO: Presentamos un caso de coexistencia de retinoblastoma y PVF: 
+paciente de sexo masculino de 2 años y 11 meses sin reflejo rojo y vasculatura y 
+membrana blanco-amarillenta detrás del cristalino en el ojo derecho. La 
+ecografía en modo B con desorganización de la cavidad vítrea con ecos de alta 
+reflectividad sugestivos de calcificación. A la exploración se observó globo 
+ocular agrandado, rubeosis iridis, vasculatura posterior, presión intraocular 28 
+mmHg. Tomografía computarizada con masa intraocular heterogénea con regiones 
+hiperdensas. Con diagnóstico de probable retinoblastoma, se realizó la 
+enucleación. La histopatología informó el hallazgo de retinoblastoma 
+moderadamente diferenciado coexistente con PVF.
+CONCLUSIONES: El hallazgo de estos dos diagnósticos en un mismo ojo es muy poco 
+frecuente debido a la diferente fisiopatología.
+
+Copyright: © 2023 Permanyer.
+
+DOI: 10.24875/BMHIM.22000104
+PMID: 37490692 [Indexed for MEDLINE]
+
+
+175. BMJ. 2023 Jul 24;382:1713. doi: 10.1136/bmj.p1713.
+
+Life expectancy of minority ethnic learning disabled people is half that of 
+white counterparts.
+
+O'Dowd A(1).
+
+Author information:
+(1)London.
+
+DOI: 10.1136/bmj.p1713
+PMID: 37491020 [Indexed for MEDLINE]
+
+
+176. Sci Rep. 2023 Jul 25;13(1):12047. doi: 10.1038/s41598-023-38945-6.
+
+A lack of nurse autonomy impacts population health when compared to physician 
+care: an ecological study.
+
+You W(1)(2)(3), Cusack L(4), Donnelly F(4).
+
+Author information:
+(1)Adelaide Nursing School, The University of Adelaide, Adelaide, Australia. 
+wenpeng.you@adelaide.edu.au.
+(2)Heart and Lung, Royal Adelaide Hospital, Adelaide, Australia. 
+wenpeng.you@adelaide.edu.au.
+(3)Adelaide Medical School, The University of Adelaide, Adelaide, SA, 5005, 
+Australia. wenpeng.you@adelaide.edu.au.
+(4)Adelaide Nursing School, The University of Adelaide, Adelaide, Australia.
+
+This study highlights that the contribution of nursing is secondary to 
+physicians in overall population health (indexed with life expectancy at birth, 
+e(0)). Scatter plots, bivariate correlation and partial correlation models were 
+performed to analyse the correlations between e(0) and physician healthcare and 
+nursing healthcare respectively. Affluence, urbanization and obesity were 
+incorporated as the potential confounders. The Fisher's r-to-z transformation 
+was conducted for comparing the correlations. Multiple linear regression 
+analyses were implemented for modelling that physicians' contributions to e(0) 
+explain nurses'. Nursing healthcare correlated to e(0) significantly less 
+strongly than physician healthcare in simple regressions. Nursing healthcare was 
+in weak or negligible correlation to e(0) when physician healthcare was 
+controlled individually or together with the three confounders. Physician 
+healthcare remains significantly correlational to e(0) when nursing healthcare 
+alone was controlled or when the three confounders were controlled. Linear 
+regression revealed that nursing healthcare was a significant predictor for e(0) 
+when physician healthcare was "not added" for modelling, but this predicting 
+role became negligible when physician healthcare was "added". Our study findings 
+suggested that nurses still work under the direction of physicians due to lack 
+of autonomy. Without correction, health services will continue to transmit the 
+invisibility of nursing healthcare from one generation of nurses to another.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41598-023-38945-6
+PMCID: PMC10368668
+PMID: 37491376 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+177. Cell Mol Life Sci. 2023 Jul 25;80(8):228. doi: 10.1007/s00018-023-04876-8.
+
+Integration of nuclear Ca(2+) transients and subnuclear protein shuttling 
+provides a novel mechanism for the regulation of CREB-dependent gene expression.
+
+Karpova A(1)(2), Samer S(3), Turacak R(3), Yuanxiang P(3), Kreutz MR(4)(5)(6).
+
+Author information:
+(1)RG Neuroplasticity, Leibniz Institute for Neurobiology, 39118, Magdeburg, 
+Germany. anna.karpova@lin-magdeburg.de.
+(2)Center for Behavioral Brain Sciences, Otto von Guericke University, 39106, 
+Magdeburg, Germany. anna.karpova@lin-magdeburg.de.
+(3)RG Neuroplasticity, Leibniz Institute for Neurobiology, 39118, Magdeburg, 
+Germany.
+(4)RG Neuroplasticity, Leibniz Institute for Neurobiology, 39118, Magdeburg, 
+Germany. michael.kreutz@lin-magdeburg.de.
+(5)Center for Behavioral Brain Sciences, Otto von Guericke University, 39106, 
+Magdeburg, Germany. michael.kreutz@lin-magdeburg.de.
+(6)Leibniz Group 'Dendritic Organelles and Synaptic Function', Center for 
+Molecular Neurobiology, ZMNH, University Medical Center Hamburg-Eppendorf, 
+20251, Hamburg, Germany. michael.kreutz@lin-magdeburg.de.
+
+Nuclear Ca2+ waves elicited by NMDAR and L-type voltage-gated Ca2+-channels as 
+well as protein transport from synapse-to-nucleus are both instrumental in 
+control of plasticity-related gene expression. At present it is not known 
+whether fast [Ca2+]n transients converge in the nucleus with signaling of 
+synapto-nuclear protein messenger. Jacob is a protein that translocate a 
+signalosome from N-methyl-D-aspartate receptors (NMDAR) to the nucleus and that 
+docks this signalosome to the transcription factor CREB. Here we show that the 
+residing time of Jacob in the nucleoplasm strictly correlates with nuclear 
+[Ca2+]n transients elicited by neuronal activity. A steep increase in [Ca2+]n 
+induces instantaneous uncoupling of Jacob from LaminB1 at the nuclear lamina and 
+promotes the association with the transcription factor cAMP-responsive 
+element-binding protein (CREB) in hippocampal neurons. The size of the Jacob 
+pool at the nuclear lamina is controlled by previous activity-dependent nuclear 
+import, and thereby captures the previous history of NMDAR-induced 
+nucleocytoplasmic shuttling. Moreover, the localization of Jacob at the nuclear 
+lamina strongly correlates with synaptic activity and [Ca2+]n waves reflecting 
+ongoing neuronal activity. In consequence, the resulting extension of the 
+nuclear residing time of Jacob amplifies the capacity of the Jacob signalosome 
+to regulate CREB-dependent gene expression and will, thereby, compensate for the 
+relatively small number of molecules reaching the nucleus from individual 
+synapses.
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s00018-023-04876-8
+PMCID: PMC10368568
+PMID: 37491479 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interests.
+
+
+178. Health Sci Rep. 2023 Jul 22;6(7):e1432. doi: 10.1002/hsr2.1432. eCollection
+2023  Jul.
+
+Predictors of mortality and clinical outcomes following implantable 
+cardioverter-defibrillator therapy in elderly patients: A retrospective 
+single-center cohort study.
+
+Malekrah A(1)(2), Shafiee A(3)(4), Heidari A(4)(5), Vasheghani-Farahani A(1)(4), 
+Bozorgi A(1), Sadeghian S(1), Yaminisharif A(1).
+
+Author information:
+(1)Department of Electrophysiology, Tehran Heart Center, Cardiovascular Diseases 
+Research Institute Tehran University of Medical Sciences Tehran Iran.
+(2)Cardiovascular Research Center Mazandaran University of Medical Science Sari 
+Iran.
+(3)Department of Cardiovascular Research, Tehran Heart Center, Cardiovascular 
+Diseases Research Institute Tehran University of Medical Sciences Tehran Iran.
+(4)Cardiac Primary Prevention Research Center, Cardiovascular Diseases Research 
+Institute Tehran University of Medical Sciences Tehran Iran.
+(5)Faculty of Medicine, Tehran Medical Sciences Islamic Azad University Tehran 
+Iran.
+
+BACKGROUND AND AIMS: Implantable cardioverter-defibrillators (ICDs) are 
+frequently used to prevent sudden cardiac death in patients with high-risk 
+arrhythmias. However, the use of ICD therapy in elderly patients beyond the 
+predicted age of life expectancy is still controversial. We aimed to evaluate 
+the predictors of mortality and clinical outcomes following ICD implantation in 
+elderly patients.
+METHODS: We conducted a retrospective analysis of 145 elderly patients aged 72 
+years and older who received ICD implantation between January 2010 and August 
+2015. We collected and analyzed baseline data, including clinical, demographic, 
+and medical history, the reason for ICD therapy, procedural data, and 
+echocardiography results. Follow-up data included the development of 
+complications and mortality. The predictors of mortality were identified using 
+the univariate and multivariable Cox regression models.
+RESULTS: During the median follow-up duration of 30.5 [18.0-48.0] months, 141 
+cases completed follow-up (mean age = 76.0 ± 3.7 years). Forty-four patients 
+experienced at least one episode of ICD therapy. Inappropriate shock, recurrent 
+shock, and device-related infection were the most frequent complications 
+observed in our study. Of the 145 patients, 42 died during the follow-up period, 
+with an average survival time of 22.4 months after ICD implantation. Among these 
+patients, 11 received ICD for primary prevention, and 31 received it for 
+secondary prevention. Cardiovascular problems were the leading cause of death. 
+We found that a low baseline ejection fraction (EF) was an independent predictor 
+of mortality (hazard ratio = 0.93, 95% confidence interval: 0.90-0.98; 
+p = 0.008).
+CONCLUSION: Our study suggests that ICD therapy is a valuable treatment option 
+for elderly patients beyond their predicted age of life expectancy. The study 
+highlights the importance of baseline EF as a significant predictor of mortality 
+in these patients.
+
+© 2023 The Authors. Health Science Reports published by Wiley Periodicals LLC.
+
+DOI: 10.1002/hsr2.1432
+PMCID: PMC10363787
+PMID: 37492274
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+179. MDM Policy Pract. 2023 Jul 20;8(2):23814683231187566. doi: 
+10.1177/23814683231187566. eCollection 2023 Jul-Dec.
+
+Expected Health Benefits of SGLT-2 Inhibitors and GLP-1 Receptor Agonists in 
+Older Adults.
+
+Dadwani RS(1), Wan W(2), Skandari MR(3), Huang ES(2).
+
+Author information:
+(1)Pritzker School of Medicine, University of Chicago, Chicago, IL, USA.
+(2)Department of Medicine, University of Chicago, Chicago, IL, USA.
+(3)Imperial College Business School, Imperial College London, London, UK.
+
+Background. Older and sicker adults with type 2 diabetes (T2D) were 
+underrepresented in randomized trials of glucagon-like peptide 1 
+receptor-agonist (GLP1RA) and sodium-glucose cotransporter 2 inhibitors 
+(SGLT2I), and thus, health benefits are uncertain in this population. Objective. 
+To assess the impact of age, health status, and life expectancy in older adults 
+with T2D on health benefits of GLP1RA and SGLT2I. Design. We used the United 
+Kingdom Prospective Diabetes Study (UKPDS) model to simulate lifetime health 
+outcomes. We calibrated the UKPDS model to improve mortality prediction in older 
+adults using a common geriatric prognostic index. Participants. National Health 
+and Nutrition Examination Survey 2013-2018 participants 65 y and older with T2D, 
+eligible for GLP1RA or SGLT2I according to American Diabetes Association 
+guidelines. Interventions. GLP1RA or SGLT2I use versus no additional medication. 
+Main Measures. Lifetime complications and weighted life-years (LYs) and 
+quality-adjusted life-years (QALYs) across overall treatment arms and life 
+expectancies. Key Results. The overall older adult population was predicted to 
+experience significant health benefits from GLP1RA (+0.29 LY [95% confidence 
+interval: 0.27, 0.31], +0.15 QALYs [0.14, 0.16]) and SGLT2I (+0.26 LY [0.24, 
+0.28], +0.13 QALYs [0.12, 0.14]) as compared with no added medication. However, 

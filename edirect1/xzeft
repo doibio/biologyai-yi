@@ -1,0 +1,1000 @@
+(6)Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, 
+Stockholm, Sweden.
+
+BACKGROUND: Routine reporting of cancer patient survival is important, both to 
+monitor the effectiveness of health care and to inform about prognosis following 
+a cancer diagnosis. A range of different survival measures exist, each serving 
+different purposes and targeting different audiences. It is important that 
+routine publications expand on current practice and provide estimates on a wider 
+range of survival measures. We examine the feasibility of automated production 
+of such statistics.
+METHODS: We used data on 23 cancer sites obtained from the Cancer Registry of 
+Norway (CRN). We propose an automated way of estimating flexible parametric 
+relative survival models and calculating estimates of net survival, crude 
+probabilities, and loss in life expectancy across many cancer sites and 
+subgroups of patients.
+RESULTS: For 21 of 23 cancer sites, we were able to estimate survival models 
+without assuming proportional hazards. Reliable estimates of all desired 
+measures were obtained for all cancer sites.
+DISCUSSION: It may be challenging to implement new survival measures in routine 
+publications as it can require the application of modeling techniques. We 
+propose a way of automating the production of such statistics and show that we 
+can obtain reliable estimates across a range of measures and subgroups of 
+patients.
+
+© 2023. The Author(s), under exclusive licence to Springer Nature Limited.
+
+DOI: 10.1038/s41416-023-02360-5
+PMCID: PMC10449893
+PMID: 37433898 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+992. Front Microbiol. 2023 Jun 26;14:1207601. doi: 10.3389/fmicb.2023.1207601. 
+eCollection 2023.
+
+Whole-body microbiota of newborn calves and their response to prenatal vitamin 
+and mineral supplementation.
+
+Luecke SM(1), Holman DB(2), Schmidt KN(1), Gzyl KE(2), Hurlbert JL(3), Menezes 
+ACB(3), Bochantin KA(3), Kirsch JD(3), Baumgaertner F(3), Sedivec KK(4), Swanson 
+KC(3), Dahlen CR(3), Amat S(1).
+
+Author information:
+(1)Department of Microbiological Sciences, North Dakota State University, Fargo, 
+ND, United States.
+(2)Lacombe Research and Development Centre, Agriculture and Agri-Food Canada, 
+Lacombe, AB, Canada.
+(3)Department of Animal Sciences, and Center for Nutrition and Pregnancy, North 
+Dakota State University, Fargo, ND, United States.
+(4)Central Grasslands Research Extension Center, North Dakota State University, 
+Streeter, ND, United States.
+
+Early life microbial colonization and factors affecting colonization patterns 
+are gaining interest due to recent developments suggesting that early life 
+microbiome may play a role in Developmental Origins of Health and Disease. In 
+cattle, limited information exists on the early microbial colonization of 
+anatomical sites involved in bovine health beyond the gastrointestinal tract. 
+Here, we investigated 1) the initial microbial colonization of seven different 
+anatomical locations in newborn calves and 2) whether these early life microbial 
+communities and 3) serum cytokine profiles are influenced by prenatal vitamin 
+and mineral (VTM) supplementation. Samples were collected from the hoof, liver, 
+lung, nasal cavity, eye, rumen (tissue and fluid), and vagina of beef calves 
+that were born from dams that either received or did not receive VTM 
+supplementation throughout gestation (n = 7/group). Calves were separated from 
+dams immediately after birth and fed commercial colostrum and milk replacer 
+until euthanasia at 30 h post-initial colostrum feeding. The microbiota of all 
+samples was assessed using 16S rRNA gene sequencing and qPCR. Calf serum was 
+subjected to multiplex quantification of 15 bovine cytokines and chemokines. Our 
+results indicated that the hoof, eye, liver, lung, nasal cavity, and vagina of 
+newborn calves were colonized by site-specific microbiota, whose community 
+structure differed from the ruminal-associated communities (0.64 ≥ R2 ≥ 0.12, p 
+≤ 0.003). The ruminal fluid microbial community was the only one that differed 
+by treatment (p < 0.01). However, differences (p < 0.05) by treatment were 
+detected in microbial richness (vagina); diversity (ruminal tissue, fluid, and 
+eye); composition at the phylum and genus level (ruminal tissue, fluid, and 
+vagina); and in total bacterial abundance (eye and vagina). From serum cytokines 
+evaluated, concentration of chemokine IP-10 was greater (p = 0.02) in VTM calves 
+compared to control calves. Overall, our results suggest that upon birth, the 
+whole-body of newborn calves are colonized by relatively rich, diverse, and 
+site-specific bacterial communities. Noticeable differences were observed in 
+ruminal, vaginal, and ocular microbiota of newborn calves in response to 
+prenatal VTM supplementation. These findings can derive future hypotheses 
+regarding the initial microbial colonization of different body sites, and on 
+maternal micronutrient consumption as a factor that may influence early life 
+microbial colonization.
+
+Copyright © 2023 Luecke, Holman, Schmidt, Gzyl, Hurlbert, Menezes, Bochantin, 
+Kirsch, Baumgaertner, Sedivec, Swanson, Dahlen and Amat.
+
+DOI: 10.3389/fmicb.2023.1207601
+PMCID: PMC10331429
+PMID: 37434710
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+993. RSC Adv. 2023 Jul 10;13(30):20495-20511. doi: 10.1039/d3ra02248j.
+eCollection  2023 Jul 7.
+
+Surface modifications of biomaterials in different applied fields.
+
+Hu X(1)(2), Wang T(1)(2), Li F(1)(2), Mao X(1)(2).
+
+Author information:
+(1)State Key Laboratory of Ultrasound in Medicine and Engineering College of 
+Biomedical Engineering, Chongqing Medical University Chongqing 400016 P. R. 
+China maox@cqmu.edu.cn.
+(2)Chongqing Key Laboratory of Biomedical Engineering, College of Biomedical 
+Engineering, Chongqing Medical University Chongqing 400016 P. R. China.
+
+Biomaterial implantation into the human body plays a key role in the medical 
+field and biological applications. Increasing the life expectancy of biomaterial 
+implants, reducing the rejection reaction inside the human body and reducing the 
+risk of infection are the problems in this field that need to be solved 
+urgently. The surface modification of biomaterials can change the original 
+physical, chemical and biological properties and improve the function of 
+materials. This review focuses on the application of surface modification 
+techniques in various fields of biomaterials reported in the past few years. The 
+surface modification techniques include film and coating synthesis, covalent 
+grafting, self-assembled monolayers (SAMs), plasma surface modification and 
+other strategies. First, a brief introduction to these surface modification 
+techniques for biomaterials is given. Subsequently, the review focuses on how 
+these techniques change the properties of biomaterials, and evaluates the 
+effects of modification on the cytocompatibility, antibacterial, antifouling and 
+surface hydrophobic properties of biomaterials. In addition, the implications 
+for the design of biomaterials with different functions are discussed. Finally, 
+based on this review, it is expected that the biomaterials have development 
+prospects in the medical field.
+
+This journal is © The Royal Society of Chemistry.
+
+DOI: 10.1039/d3ra02248j
+PMCID: PMC10331796
+PMID: 37435384
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+994. Front Psychiatry. 2023 Jun 26;14:1183884. doi: 10.3389/fpsyt.2023.1183884. 
+eCollection 2023.
+
+Childhood adversity and late-life depression: moderated mediation model of 
+stress and social support.
+
+Lee JK(1), Lee J(2), Chung MK(1)(3), Park JY(4), Shin T(5), Lee KJ(6), Lim 
+HS(7), Hwang S(8), Urtnasan E(9), Jo Y(3), Kim MH(2).
+
+Author information:
+(1)Institute for Poverty Alleviation and International Development, Yonsei 
+University Mirae Campus, Wonju, Republic of Korea.
+(2)Department of Psychiatry, Yonsei University Wonju College of Medicine, Wonju, 
+Republic of Korea.
+(3)Department of Global Public Administration, Yonsei University Mirae Campus, 
+Wonju, Republic of Korea.
+(4)Department of Social Welfare, Sangji University, Wonju, Republic of Korea.
+(5)Division of Business Administration, Yonsei University Mirae Campus, Wonju, 
+Republic of Korea.
+(6)Department of Biomedical Engineering, Yonsei University Mirae Campus, Wonju, 
+Republic of Korea.
+(7)Division of Software, Yonsei University Mirae Campus, Wonju, Republic of 
+Korea.
+(8)Department of Precision Medicine, Yonsei University Wonju College of 
+Medicine, Wonju, Republic of Korea.
+(9)Artificial Intelligence Bigdata Medical Center, Yonsei University Wonju 
+College of Medicine, Wonju, Republic of Korea.
+
+BACKGROUND: As life expectancy increases, understanding the mechanism for 
+late-life depression and finding a crucial moderator becomes more important for 
+mental health in older adults. Childhood adversity increases the risk of 
+clinical depression even in old age. Based on the stress sensitivity theory and 
+stress-buffering effects, stress would be a significant mediator, while social 
+support can be a key moderator in the mediation pathways. However, few studies 
+have tested this moderated mediation model with a sample of older adults. This 
+study aims to reveal the association between childhood adversity and late-life 
+depression in older adults, taking into consideration the effects of stress and 
+social support.
+METHODS: This study used several path models to analyze the data from 622 
+elderly participants who were never diagnosed with clinical depression.
+RESULTS: We found that childhood adversity increases the odds ratio of 
+depression by approximately 20% in older adults. Path model with mediation 
+demonstrates that stress fully mediates the pathway from childhood adversity to 
+late-life depression. Path model with moderated mediation also illustrates that 
+social support significantly weakens the association between childhood adversity 
+and perceived stress.
+CONCLUSION: This study provides empirical evidence to reveal a more detailed 
+mechanism for late-life depression. Specifically, this study identifies one 
+crucial risk factor and one protective factor, stress and social support, 
+respectively. This brings insight into prevention of late-life depression among 
+those who have experienced childhood adversity.
+
+Copyright © 2023 Lee, Lee, Chung, Park, Shin, Lee, Lim, Hwang, Urtnasan, Jo and 
+Kim.
+
+DOI: 10.3389/fpsyt.2023.1183884
+PMCID: PMC10331618
+PMID: 37435403
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+995. Pediatrics. 2023 Aug 1;152(2):e2022058931. doi: 10.1542/peds.2022-058931.
+
+Resuscitate but not Intubate? Partial Codes in Pediatrics.
+
+Silverman A(1), Batten J(2)(3), Berkman E(4)(5), Fitzgerald H(3), Epstein B(6), 
+Shearer E(7), Diekema D(5)(8), Burgart A(2)(3).
+
+Author information:
+(1)Division of Child Neurology, Department of Neurology.
+(2)Department of Anesthesiology, Perioperative, and Pain Medicine, and.
+(3)Stanford Center for Biomedical Ethics, Stanford University School of 
+Medicine, Palo Alto, California.
+(4)Divisions of Pediatric Critical Care Medicine.
+(5)Bioethics and Palliative Care.
+(6)University of Virginia School of Nursing, Charlottesville, Virginia.
+(7)Department of Emergency Medicine, Brown University School of Medicine, 
+Providence, Rhode Island.
+(8)Emergency Medicine, Department of Pediatrics, University of Washington School 
+of Medicine, Seattle, Washington.
+
+The use of partial code status in pediatric medicine presents clinicians with 
+unique ethical challenges. The clinical vignette describes the presentation of a 
+pulseless infant with a limited life expectancy. The infant's parents instruct 
+the emergency medicine providers to resuscitate but not to intubate. In an 
+emergency, without a clear understanding of parents' goals, complying with their 
+request risks an ineffective resuscitation. The first commentary focuses on 
+parental grief and how, in certain circumstances, a partial code best serves 
+their needs. Its authors argue that providers are sometimes obligated to endure 
+moral distress. The second commentary focuses on the healthcare team's moral 
+distress and highlights the implications of a relational ethics framework for 
+the case. The commentators emphasize the importance of honest communication and 
+pain management. The final commentary explores the systems-level and how the 
+design of hospital code status orders may contribute to requests for partial 
+codes. They argue systems should discourage partial codes and prohibit 
+resuscitation without intubation.
+
+Copyright © 2023 by the American Academy of Pediatrics.
+
+DOI: 10.1542/peds.2022-058931
+PMID: 37435669 [Indexed for MEDLINE]
+
+
+996. Arch Ital Urol Androl. 2023 Jul 11;95(3):11455. doi:
+10.4081/aiua.2023.11455.
+
+Use of Basilic vein in arteriovenous fistulas construction for hemodialysis 
+access. Is it a good option alternative to prosthetic arteriovenous grafts?
+
+Abdo EM(1), Abouelgreed TA(2), Elshinawy WE(3), Farouk N(4), Abdelaal MA(5), 
+Ismail H(6), Ibrahim AH(7), Kasem SA(8), Aboomar AA(9).
+
+Author information:
+(1)Department of Vascular Surgery, Faculty of Medicine, Al-Azhar University, 
+Cairo. ehababdo48@yahoo.com.
+(2)Department of Urology, Faculty of Medicine, Al-Azhar University, Cairo. 
+dr_tamer_ali@yahoo.com.
+(3)Department of Vascular Surgery, Faculty of Medicine, Al-Azhar University, 
+Cairo. waleed.elshinay82@gmail.com.
+(4)Department of Vascular Surgery, Faculty of Medicine, Al-Azhar University, 
+Cairo. dr.nehalfarouk@yahoo.com.
+(5)Department of Urology, Faculty of Medicine, Al-Azhar University, Cairo. 
+maal_uro@yahoo.com.
+(6)Department of Urology, Faculty of Medicine, Al-Azhar University, Cairo. 
+drhassan_ismail@yahoo.com.
+(7)Department of Internal Medicine, Nephrology Unit, Faculty Medicine, Al-Azhar 
+University, Cairo. mkellany@yahoo.com.
+(8)Department of Internal Medicine, Nephrology Unit, Faculty Medicine, Al-Azhar 
+University, Cairo. summerahmed1983@yahoo.com.
+(9)Department of Internal Medicine, Nephrology Unit, Faculty Medicine, Tanta 
+University, Tanta. ahmed_abo_omar12@yahoo.com.
+
+PURPOSE: For patients with a failed forearm autogenous fistula (AF) and an 
+exhausted cephalic vein, there is controversy about whether a brachial basilic 
+AF with transposition or an arteriovenous prosthetic bridging graft (BG) must be 
+the second vascular access option. This work measured and compared these two 
+modalities according to patency rates, complications, and revisions.
+PATIENTS AND METHODS: A retrospective study of 104 cases that had either a 
+brachial basilic AF (72) or an Arteriovenous BG (32). Technical success, 
+operative complications, procedurerelated mortality, maturation time, functional 
+primary, secondary, and overall patency rates were all assessed.
+RESULTS: Technical success was obtained in all participants. No procedure-linked 
+mortality. Maturation time for BGs was significantly shorter than AFs. The 
+complication rate was significantly higher in BGs than in AFs. The most 
+prevalent complication was access thrombosis. The functional primary patency 
+rate was significantly higher in AF than in BG at 12-month followup: 77.7% vs 
+53.1% (p < 0.012). secondary patency rate was higher in AF than in BG at 1-year 
+follow-up 62.5% vs 42.8% (p = 0.063), respectively. In addition, BGs required 
+more interventions to preserve patency.
+CONCLUSIONS: AF had higher primary, secondary and overall functional patency 
+rates and needed fewer procedures to keep patency than BGs. Cases that need 
+early vascular access as a result of central venous catheter complications or 
+who have a reduced life expectancy may benefit from BGs.
+
+DOI: 10.4081/aiua.2023.11455
+PMID: 37435737 [Indexed for MEDLINE]
+
+
+997. J Dent Res. 2023 Jul;102(8):841-843. doi: 10.1177/00220345231181885.
+
+Aging and Oral Health: Biological and Sociobehavioral Perspectives.
+
+Colombo AP(1), Wu B(2).
+
+Author information:
+(1)Institute of Microbiology, Federal University of Rio de Janeiro, Rio de 
+Janeiro, Brazil.
+(2)Rory Meyers College of Nursing and College of Dentistry, New York University, 
+New York, NY, USA.
+
+As the life expectancy and growth of the aging population increase globally, 
+efforts to promote healthy longevity become more important. Holistic policy 
+guidelines and actions have been designed to advocate and fortify healthy aging 
+at multiple levels. Oral health, a fundamental contributor of overall health and 
+well-being, forms a core part of the noncommunicable disease agenda within the 
+sustainable development goals set by the World Health Organization. Aging 
+significantly heightens the risk of myriad oral disorders and other 
+noncommunicable diseases. As of 2019, oral disorders accounted for 8.9 million 
+disability-adjusted life-years in individuals older than 60 y. In addition to 
+the development of multidisciplinary aging-friendly policies to promote healthy 
+aging, basic biology and translational research has been encouraged that focuses 
+on deciphering the underlying mechanisms involved in age-related physical and 
+cognitive decline or dysregulation of oral tissues. Given the relevance of oral 
+health aging as a critical component of the One Health Initiative, this special 
+issue encompasses a collection of articles dedicated to recent advances in the 
+behavioral and social implications of age-related oral diseases and tooth loss 
+on several aspects of the quality of life of adults as they age. Furthermore, it 
+includes articles detailing molecular mechanisms associated with cellular aging 
+and their implications for oral tissue health, periodontal disease severity, and 
+the regenerative potential of stem cells.
+
+DOI: 10.1177/00220345231181885
+PMID: 37436910 [Indexed for MEDLINE]
+
+
+998. Sci Transl Med. 2023 Jul 12;15(704):eabq3665. doi:
+10.1126/scitranslmed.abq3665.  Epub 2023 Jul 12.
+
+Improved control of a prosthetic limb by surgically creating 
+electro-neuromuscular constructs with implanted electrodes.
+
+Zbinden J(1)(2), Sassu P(1)(3)(4), Mastinu E(1)(2)(5), Earley EJ(1)(2)(6), 
+Munoz-Novoa M(1)(7), Brånemark R(8)(9)(10), Ortiz-Catalan M(1)(2)(11).
+
+Author information:
+(1)Center for Bionics and Pain Research, Mölndal, Sweden.
+(2)Department of Electrical Engineering, Chalmers University of Technology, 
+Gothenburg, Sweden.
+(3)Department of Hand Surgery, Sahlgrenska University Hospital, Mölndal, Sweden.
+(4)Department of Orthoplastic, IRCCS Istituto Ortopedico Rizzoli, Bologna, 
+Italy.
+(5)BioRobotics Institute, Scuola Superiore Sant'Anna, Pisa, Italy.
+(6)Osseointegration Research Consortium, University of Colorado, Aurora, CO, 
+USA.
+(7)Center for Advanced Reconstruction of Extremities, Sahlgrenska University 
+Hospital, Mölndal, Sweden.
+(8)K. Lisa Yang Center for Bionics, Massachusetts Institute of Technology, 
+Cambridge, MA, USA.
+(9)Department of Orthopaedics, Gothenburg University, Gothenburg, Sweden.
+(10)Integrum AB, Mölndal, Sweden.
+(11)Bionics Institute, Melbourne, Australia.
+
+Remnant muscles in the residual limb after amputation are the most common source 
+of control signals for prosthetic hands, because myoelectric signals can be 
+generated by the user at will. However, for individuals with amputation higher 
+up the arm, such as an above-elbow (transhumeral) amputation, insufficient 
+muscles remain to generate myoelectric signals to enable control of the lost arm 
+and hand joints, thus making intuitive control of wrist and finger prosthetic 
+joints unattainable. We show that severed nerves can be divided along their 
+fascicles and redistributed to concurrently innervate different types of muscle 
+targets, particularly native denervated muscles and nonvascularized free muscle 
+grafts. We engineered these neuromuscular constructs with implanted electrodes 
+that were accessible via a permanent osseointegrated interface, allowing for 
+bidirectional communication with the prosthesis while also providing direct 
+skeletal attachment. We found that the transferred nerves effectively innervated 
+their new targets as shown by a gradual increase in myoelectric signal strength. 
+This allowed for individual flexion and extension of all five fingers of a 
+prosthetic hand by a patient with a transhumeral amputation. Improved prosthetic 
+function in tasks representative of daily life was also observed. This 
+proof-of-concept study indicates that motor neural commands can be increased by 
+creating electro-neuromuscular constructs using distributed nerve transfers to 
+different muscle targets with implanted electrodes, enabling improved control of 
+a limb prosthesis.
+
+DOI: 10.1126/scitranslmed.abq3665
+PMID: 37437016 [Indexed for MEDLINE]
+
+
+999. J Clin Endocrinol Metab. 2023 Jul 12:dgad411. doi: 10.1210/clinem/dgad411. 
+Online ahead of print.
+
+Weight gain after HIV therapy initiation: pathophysiology and implications.
+
+Chandiwana NC(1), Siedner MJ(2), Marconi VC(3), Hill A(4), Ali MK(5)(6), 
+Batterham RL(7), Venter WDF(1)(8).
+
+Author information:
+(1)Ezintsha, Faculty of Health Sciences, University of the Witwatersrand, 
+Johannesburg, South Africa.
+(2)Medical Practice Evaluation Center, Massachusetts General Hospital and 
+Harvard Medical School, Boston, MA, USA.
+(3)Division of Infectious Diseases and Department of Global Health, Emory 
+University School of Medicine and Rollins School of Public Health, Atlanta, USA.
+(4)University of Liverpool, Liverpool, UK.
+(5)Hubert Department of Global Health, Rollins School of Public Health, Emory 
+University, Atlanta, US.
+(6)Department of Family and Preventive Medicine, School of Medicine, Emory 
+University, Atlanta, US.
+(7)Department of Medicine, University College London, London  UK.
+(8)Department of Public Health Medicine, School of Health Systems and Public 
+Health, Faculty of Health Sciences, University of Pretoria.
+
+Rapid advances in potency, safety, and availability of modern HIV antiretroviral 
+therapy (ART) have yielded a near-normal life expectancy for most people living 
+with HIV (PLWH). Ironically, considering the history of HIV/AIDS (initially 
+called "slim disease" due to associated weight loss), the latest dilemma faced 
+by many people starting HIV therapy is weight gain and obesity, particularly 
+Black people, women, and those who commenced treatment with advanced 
+immunodeficiency. We review the pathophysiology and implications of weight gain 
+among PLWH on ART and discuss why this phenomenon was only recognized recently, 
+despite the availability of effective therapy for nearly 30 years. We 
+comprehensively explore the theories of the causes, from initial speculation 
+that weight gain was simply a return to health for people recovering from 
+wasting to comparative effects of newer regimens versus prior toxic agents, to 
+direct effects of agents on mitochondrial function. We then discuss the 
+implications of weight gain on modern ART, particularly concomitant effects on 
+lipids, glucose metabolism, and inflammatory markers. Finally, we discuss 
+intervention options for PLWH and obesity, from the limitations of switching ART 
+regimens or specific agents within regimens, weight-gain mitigation strategies, 
+and potential hope in access to emerging anti-obesity agents, which are yet to 
+be evaluated in this population.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of the 
+Endocrine Society.
+
+DOI: 10.1210/clinem/dgad411
+PMID: 37437159
+
+
+1000. Am Soc Clin Oncol Educ Book. 2023 Jun;43:e390456. doi: 10.1200/EDBK_390456.
+
+Systemic Therapy in Older Patients With High-Risk Disease.
+
+Brain EGC(1).
+
+Author information:
+(1)Department of Medical Oncology, Institut Curie, Saint-Cloud, France.
+
+Adjuvant systemic treatments for older patients with breast cancer require 
+constant dose or schedule adjustments of standards established for younger ones. 
+This is mainly due to frailty that increases according to age (40%-50% of 
+signals in all comers after age 70 years) and remains difficult to spot or 
+diagnose accurately and therefore is often overlooked. Older patients are at 
+higher risk to develop side effects whether under chemotherapy, optimized 
+endocrine treatment, or targeted therapies. Pharmacokinetic reflects poorly 
+functional reserves that reduce with aging and is therefore misleading. The 
+demonstration of significant long-term benefits provided by adjuvant treatments 
+is challenged by life expectancy, driven by multimorbidity status that increases 
+with age, competing with cancer outcome. When geriatric assessment is 
+incorporated into the multidisciplinary team, treatment decision process shows 
+30%-50% changes, de-escalating initial age-agnostic treatment choices in two of 
+three cases. Finally, expectations from treatment vary over the years: In older 
+ones, although not being exclusive, there is a general shift of preference for 
+protecting functionality, cognitive functions, and independence, as summarized 
+in quality of life that many systemic adjuvant treatment may jeopardize. These 
+provocative considerations show importance to pay more attention to expectations 
+expressed by older patients to limit gaps between what is thought by health care 
+professionals as right, often on the basis of dose intensity models strongly 
+engrained in oncology and that older patients may assess counterintuitively 
+differently. The most achieved molecular testing to identify high-risk luminal 
+tumors should be combined with determinant geriatric factors to bring relevant 
+global information in the adjuvant setting for older patients.
+
+DOI: 10.1200/EDBK_390456
+PMID: 37437232 [Indexed for MEDLINE]
+1. Biochemistry. 2023 Aug 15;62(16):2503-2515. doi: 10.1021/acs.biochem.3c00165. 
+Epub 2023 Jul 12.
+
+Computational Exploration of Potential CFTR Binding Sites for Type I Corrector 
+Drugs.
+
+Lester A(1), Sandman M(1), Herring C(1), Girard C(1), Dixon B(1), Ramsdell H(1), 
+Reber C(1), Poulos J(1), Mitchell A(1), Spinney A(1), Henager ME(1), Evans 
+CN(1), Turlington M(1), Johnson QR(1).
+
+Author information:
+(1)Berry College Department of Chemistry and Biochemistry, Mount Berry, Georgia 
+30149, United States.
+
+Cystic fibrosis (CF) is a recessive genetic disease that is caused by mutations 
+in the cystic fibrosis transmembrane conductance regulator (CFTR) protein. The 
+recent development of a class of drugs called "correctors", which repair the 
+structure and function of mutant CFTR, has greatly enhanced the life expectancy 
+of CF patients. These correctors target the most common disease causing CFTR 
+mutant F508del and are exemplified by the FDA-approved VX-809. While one binding 
+site of VX-809 to CFTR was recently elucidated by cryo-electron microscopy, four 
+additional binding sites have been proposed in the literature and it has been 
+theorized that VX-809 and structurally similar correctors may engage multiple 
+CFTR binding sites. To explore these five binding sites, ensemble docking was 
+performed on wild-type CFTR and the F508del mutant using a large library of 
+structurally similar corrector drugs, including VX-809 (lumacaftor), VX-661 
+(tezacaftor), ABBV-2222 (galicaftor), and a host of other structurally related 
+molecules. For wild-type CFTR, we find that only one site, located in membrane 
+spanning domain 1 (MSD1), binds favorably to our ligand library. While this MSD1 
+site also binds our ligand library for F508del-CFTR, the F508del mutation also 
+opens a binding site in nucleotide binding domain 1 (NBD1), which enables strong 
+binding of our ligand library to this site. This NBD1 site in F508del-CFTR 
+exhibits the strongest overall binding affinity for our library of corrector 
+drugs. This data may serve to better understand the structural changes induced 
+by mutation of CFTR and how correctors bind to the protein. Additionally, it may 
+aid in the design of new, more effective CFTR corrector drugs.
+
+DOI: 10.1021/acs.biochem.3c00165
+PMCID: PMC10433520
+PMID: 37437308 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.
+
+
+2. Am J Otolaryngol. 2023 Nov-Dec;44(6):103984. doi:
+10.1016/j.amjoto.2023.103984.  Epub 2023 Jul 5.
+
+Impact of time-to-surgery on survival and quality of life in oral cancer.
+
+Tirelli G(1), Boscolo-Rizzo P(1), Pelloso L(1), Gardenal N(1), Giudici F(2), 
+Marcuzzo AV(1), Tofanelli M(3).
+
+Author information:
+(1)Department of Medical, Surgical and Health Sciences, Section of 
+Otolaryngology, University of Trieste, Trieste, Italy.
+(2)Department of Medicine, Surgery and Health Sciences, Biostatistics Unit, 
+University of Trieste, Trieste, Italy.
+(3)Department of Medical, Surgical and Health Sciences, Section of 
+Otolaryngology, University of Trieste, Trieste, Italy. Electronic address: 
+mtofanelli@units.it.
+
+PURPOSE: To investigate the association between time-to-surgery (TTS) and 
+overall survival (OS), disease specific survival (DSS) and quality of life (QoL) 
+in patients with oral squamous cell carcinoma (OSCC).
+MATERIALS AND METHODS: 116 patients with OSCC candidate to surgery were 
+examined. TTS intervals starting from diagnosis (TTS-clinical-based) and from 
+histological reports (TTS-biopsy-based) were calculated. The effects of TTS 
+intervals and prognostic factors on 5-year OS and DSS were explored.
+RESULTS: In our cohort advanced T-categories OSCCs with TTS < 30 days showed a 
+trend to have higher DSS rate (p = 0.049). Patients with 
+TTS-clinical-based < 30 days showed better postoperative QoL. Positive surgical 
+margins, nodal involvement (pN+), DOI >10 mm, invasive surgery and 
+extra-capsular extension in pN+ were found to be significantly associated with a 
+poor OS and DSS.
+CONCLUSIONS: TTS ≥ 30 days can adversely affect DSS, especially in the advanced 
+T categories. Short TTS intervals resulted associated with a better 
+postoperative QoL.
+
+Copyright © 2023 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjoto.2023.103984
+PMID: 37437337 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest None.
+
+
+3. Semin Ultrasound CT MR. 2023 Aug;44(4):292-308. doi:
+10.1053/j.sult.2023.01.003.  Epub 2023 Feb 2.
+
+2-Dimensional and 3-Dimensional MR Imaging-Aid to Knee Preservation Surgery: 
+Focus on Meniscus and Articular Cartilage.
+
+Taneja AK(1), Chhabra A(2).
+
+Author information:
+(1)Department of Radiology, UT Southwestern Medical Center, Dallas, TX; Hospital 
+Israelita Albert Einstein, Sao Paulo, SP, Brazil.
+(2)Department of Radiology, UT Southwestern Medical Center, Dallas, TX; 
+Department of Orthopedic Surgery, UT Southwestern Medical Center, Dallas, TX; 
+Johns Hopkins University, Baltimore, MD; Walton Center of Neuroscience, 
+Liverpool, UK; University of Dallas, Richardson, TX. Electronic address: 
+avneesh.chhabra@utsouthwestern.edu.
+
+With an increasing life expectancy of global human population, there is a 
+growing demand for preservation of native articular meniscus and cartilage to 
+delay joint arthroplasties, especially in younger and active patients. Since 
+damage to the meniscus and hyaline cartilage of the knee have limited intrinsic 
+capacity to heal, such lesions lead to premature and/or accelerated 
+osteoarthritis. However, knee surgical treatments have evolved and may allow 
+restoration of the natural anatomy, delay the progression of damage, and alter 
+the biology of the meniscus and articular cartilage. The knee preservation 
+surgery is aided by timely detection of such injuries and high-resolution 
+illustration and characterization of the pathology using two-dimensional and 
+three-dimensional magnetic resonance imaging (MRI), made possible due to better 
+MR scanner technology and related software improvements. This article reviews 
+the current literature and authors' experience with imaging concepts and 
+high-resolution MR imaging techniques as they relate to management and planning 
+for such restorative procedures. Relevant arthroscopy correlations have been 
+illustrated.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.sult.2023.01.003
+PMID: 37437968 [Indexed for MEDLINE]
+
+
+4. Int J Obes (Lond). 2023 Oct;47(10):931-938. doi: 10.1038/s41366-023-01332-2. 
+Epub 2023 Jul 12.
+
+Life expectancy after bariatric surgery or usual care in patients with or 
+without baseline type 2 diabetes in Swedish Obese Subjects.
+
+Carlsson LMS(1), Carlsson B(1)(2), Jacobson P(1), Karlsson C(1)(3), 
+Andersson-Assarsson JC(1), Kristensson FM(1)(4), Ahlin S(1)(5), Svensson 
+PA(1)(6), Taube M(1), Näslund I(7), Karason K(1), Peltonen M(8), Sjöholm K(9).
+
+Author information:
+(1)Institute of Medicine, Sahlgrenska Academy, University of Gothenburg, 
+Gothenburg, Sweden.
+(2)Research and Early Development, Cardiovascular, Renal and Metabolism (CVRM), 
+BioPharmaceuticals R&D, AstraZeneca, Gothenburg, Sweden.
+(3)Late-Stage Development, Cardiovascular, Renal and Metabolism (CVRM), 
+BioPharmaceuticals R&D, AstraZeneca, Gothenburg, Sweden.
+(4)Region Västra Götaland, Department of Oncology, Sahlgrenska University 
+Hospital, Gothenburg, Sweden.
+(5)Region Västra Götaland, Department of Clinical Physiology, NU Hospital Group, 
+Trollhättan, Sweden.
+(6)Institute of Health and Care Sciences, Sahlgrenska Academy, University of 
+Gothenburg, Gothenburg, Sweden.
+(7)Department of Surgery, Faculty of Medicine and Health, Örebro University, 
+Örebro, Sweden.
+(8)Finnish Institute for Health and Welfare, Helsinki, Finland.
+(9)Institute of Medicine, Sahlgrenska Academy, University of Gothenburg, 
+Gothenburg, Sweden. kajsa.sjoholm@medic.gu.se.
+
+OBJECTIVES: To determine life expectancy and causes of death after bariatric 
+surgery in relation to baseline type 2 diabetes (T2D) in the prospective, 
+Swedish Obese Subjects study.
+METHODS: The study included 2010 patients with obesity who underwent bariatric 
+surgery and 2037 matched controls, eligible for surgery. The surgery group 
+underwent gastric bypass (n = 265), banding (n = 376), or vertical banded 
+gastroplasty (n = 1369). The control group (n = 2037) received usual obesity 
+care. Causes of death were obtained from the Swedish Cause of Death Register, 
+case sheets and autopsy reports, in patients with baseline T2D (n = 392 surgery 
+patients/n = 305 controls) or non-T2D (n = 1609 surgery patients/n = 1726 
+controls) during a median follow-up 26 years.
+RESULTS: In T2D and non-T2D subgroups, bariatric surgery was associated with 
+increased life expectancy (2.1, 95% confidence interval (95% CI) 0.2-4.0; and 
+1.6, 0.5-2.7 years, respectively) and reduced overall mortality (adjusted hazard 
+ratio (adjHR) = 0.77, 95% CI: 0.61-0.97; and 0.82, 0.72-0.94, respectively), and 
+the treatment benefit was similar (interaction p = 0.615). Bariatric surgery was 
+associated with reduced cardiovascular mortality in both subgroups 
+(adjHR = 0.65, 95% CI: 0.46-0.91; and 0.70, 0.55-0.88, respectively (interaction 
+p = 0.516)).
+CONCLUSIONS: Bariatric surgery is associated with similar reduction of overall 
+and cardiovascular mortality and increased life expectancy regardless of 
+baseline diabetes status.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41366-023-01332-2
+PMCID: PMC10511310
+PMID: 37438611 [Indexed for MEDLINE]
+
+Conflict of interest statement: BC and CK are employed by AstraZeneca and hold 
+stocks in the same company. No other conflict of interest relevant to this study 
+was reported.
+
+
+5. Cardiovasc Diabetol. 2023 Jul 12;22(1):174. doi: 10.1186/s12933-023-01903-7.
+
+Impact of type 2 diabetes on life expectancy and role of kidney disease among 
+inpatients with heart failure in Switzerland: an ambispective cohort study.
+
+Salvador D Jr(1)(2)(3), Bano A(1)(2), Wehrli F(1), Gonzalez-Jaramillo V(1)(2), 
+Laimer M(4), Hunziker L(2), Muka T(5)(6).
+
+Author information:
+(1)Institute of Social and Preventive Medicine, University of Bern, Bern, 
+Switzerland.
+(2)Department of Cardiology, Inselspital, Bern University Hospital, Bern, 
+Switzerland.
+(3)Graduate School for Health Sciences, University of Bern, Bern, Switzerland.
+(4)Department of Diabetes, Endocrinology, Nutritional Medicine, and Metabolism, 
+Inselspital, University of Bern, Bern, Switzerland.
+(5)Institute of Social and Preventive Medicine, University of Bern, Bern, 
+Switzerland. taulant.muka@ispm.unibe.ch.
+(6)Epistudia, Bern, Switzerland. taulant.muka@ispm.unibe.ch.
+
+BACKGROUND: Type 2 diabetes (T2D) is expected to worsen the prognosis of 
+inpatients with heart failure (HF) but the evidence from observational studies 
+is inconsistent. We aimed to compare mortality outcomes and life expectancy 
+among inpatients with HF with or without T2D and explored whether chronic kidney 
+disease (CKD) influenced these associations.
+METHODS: We collected hospital and civil registry records of consecutive 
+inpatients from a tertiary hospital in Switzerland with a diagnosis of HF from 
+the year 2015 to 2019. We evaluated the association of T2D with mortality risk 
+using Cox regression and adjusted for confounders.
+RESULTS: Our final cohort consisted of 10,532 patients with HF of whom 27% had 
+T2D. The median age (interquartile range [IQR]) was 75 [68 to 82] and 78 [68 to 
+86] for the diabetes and non-diabetes groups, respectively. Over a median 
+follow-up [IQR] of 4.5 years [3.3 to 5.6], 5,347 (51%) of patients died. T2D 
+patients had higher risk of all-cause mortality (hazard ratio [HR] 1.21, 95% 
+confidence interval [CI] 1.14 to 1.29). Compared to control (i.e. no T2D nor 
+CKD), average life expectancy (95% CI) among T2D patients, CKD, or both was 
+shorter by 5.4 months (95% CI 1.1 to 9.7), 9.0 months (95% CI 8.4 to 9.6), or 
+14.8 months (95% CI 12.4 to 17.2), respectively. No difference by sex or 
+ejection fraction category was observed.
+CONCLUSIONS: T2D is associated with a significantly higher risk of all-cause 
+mortality and shorter life expectancy compared to those without among 
+middle-aged and elderly inpatients with HF; presence of CKD may further increase 
+these risks.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12933-023-01903-7
+PMCID: PMC10339473
+PMID: 37438747 [Indexed for MEDLINE]
+
+Conflict of interest statement: DS attended AstraZeneca EUCAN regional office as 
+a postgraduate intern from June 2022 to August 2022. All other authors have 
+reported that they have no relationships relevant to the contents of this paper 
+to disclose.
+
+
+6. BMC Public Health. 2023 Jul 12;23(1):1337. doi: 10.1186/s12889-023-16255-w.
+
+Future burden of non-communicable diseases attributable to overweight in Chile: 
+a multistate life table modeling study.
+
+Fuentes R(1), Nilson E(2)(3), Rezende LFM(4), Christofaro DGD(5), Silva DR(6), 
+Ferrero-Hernández P(7), Cristi-Montero C(8), Marques A(9), Farías-Valenzuela 
+C(10), Ferrari G(11).
+
+Author information:
+(1)Universidad de Santiago de Chile (USACH), Escuela de Ciencias de la Actividad 
+Física, el Deporte y la Salud, Santiago, Chile.
+(2)Center for Epidemiological Research in Nutrition and Public Health, 
+University of São Paulo, São Paulo, Brazil.
+(3)Oswaldo Cruz Foundation (Fiocruz/Brasilia), Brasília, Brazil.
+(4)Department of Preventive Medicine, Escola Paulista de Medicina, Universidade 
+Federal de São Paulo, Sao Paulo, Brazil.
+(5)Physical Education Department, Graduate Program in Movement Sciences, School 
+of Technology and Sciences, São Paulo State University (Unesp), São Paulo, 
+Brazil.
+(6)Department of Physical Education, Universidade Federal de Sergipe - UFS, São 
+Cristóvão, Brazil.
+(7)Escuela de Pedagogía en Educación Física, Facultad de Educación, Universidad 
+Autónoma de Chile, Santiago, 8900000, Chile.
+(8)IRyS Group, Physical Education School, Pontificia Universidad Católica de 
+Valparaíso, Valparaíso, Chile.
+(9)CIPER, Faculdade de Motricidade Humana, Universidade de Lisboa, Cruz 
+Quebrada, 1499-002, Portugal.
+(10)Facultad de Ciencias Para El Cuidado de La Salud, Universidad San Sebastián, 
+Lota 2465, Providencia, 7510157, Chile.
+(11)Universidad de Santiago de Chile (USACH), Escuela de Ciencias de la 
+Actividad Física, el Deporte y la Salud, Santiago, Chile. 
+gerson.demoraes@usach.cl.
+
+BACKGROUND: Previous studies have quantified the current burden of diseases 
+attributable to overweight in Chile. However, no study has estimated the 
+attributable burden of overweight in the future. Herein, we estimated the 
+potential impact of different trajectories in the prevalence of overweight on 
+the incidence and mortality from non-communicable diseases (NCDs) in Chilean 
+adults from 2019 to 2030.
+METHODS: A multistate life table modelling was used to estimate the 
+business-as-usual (BAU: if the current rate of increase in BMI persist through 
+the next 11 years; i.e., 0.4% per year from 2003 to 2017) and three 
+counterfactual scenarios (1: the increase rate of overweight is reduced by half; 
+2: maintanance of the current prevalence of overweight; 3: the prevalence 
+of overweight is reduced by 6.7%) over a 11-year simulation period for burden of 
+NCDs attributable to overweight in Chilean adults aged 20 to 80 years. The model 
+inputs included nationally representative data of body mass index, national 
+official demographic records, NCDs from the Global Burden of Disease study in 
+2019, and relative risks from a published meta-analysis.
+RESULTS: If the current trends of increase in overweight are maintained in 
+Chile, approximately, 669 thousand cases and 117 thousand deaths from NCDs will 
+occur from 2020 to 2030. In case the increase rate of overweight is reduced by 
+half during this period, around 7 thousand cases and 1.4 thousand deaths from 
+NCDs would be prevented, while achieving no increase in the prevalence of 
+overweight would avert 10 thousand cases and 2 thousand deaths. In the 
+optimistic scenario of reducing the prevalence of overweight by 6.7% until 2030, 
+approximately 25 thousand cases and 5 thousand deaths from NCDs would be 
+prevented.
+CONCLUSION: We estimated that the number of NCDs cases and deaths that could be 
+avoided by decreasing the prevalence of overweight in Chilean adults. Preventive 
+programs aimed to reduce overweight may have a high impact on the future burden 
+of NCDs in Chile.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12889-023-16255-w
+PMCID: PMC10337135
+PMID: 37438831 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+7. Glob Public Health. 2023 Jan;18(1):2229892. doi:
+10.1080/17441692.2023.2229892.
+
+The burden of malaria in sub-Saharan Africa and its association with development 
+assistance for health and governance: An exploration of the GBD 2019 study.
+
+Sempungu JK(1)(2), Choi M(2)(3), Lee EH(1)(2), Lee YH(2).
+
+Author information:
+(1)Program in Public Health, Graduate School, Korea University, Seoul, Republic 
+of Korea.
+(2)Department of Preventive Medicine, Korea University College of Medicine, 
+Seoul, Republic of Korea.
+(3)Institute for Future Public Health, Korea University, Seoul, Republic of 
+Korea.
+
+Even with a reduced burden of malaria in sub-Saharan Africa (SSA), differences 
+remain in the rate of change among countries and sub-regions. We used data from 
+the Global Burden of Disease Study 2019 to establish the relationship between 
+Development Assistance for Health (DAH) and governance and trends in malaria 
+burden in SSA. The trend was estimated using the Joinpoint regression program 
+and the Institute of Health Metrics and Evaluation's DAH database, and World 
+Bank Governance Indicators to analyze the DAH and governance respectively from 
+2000 to 2017 and used two-way fixed effects to establish their association with 
+the trend in the period. The findings showed decreases in SSA's age-standardised 
+rates for disability-adjusted life years (ASDR) (-47% (95% uncertainty interval 
+(UI) -69% to -14%)), deaths (-38% (95% UI -65% to -3%)), incidence (-35% (95% UI 
+-44% to -25%)), and prevalence (-34% (95% UI -43% to -24%)). Decreases in ASDR 
+were associated with increases in DAH (β -134.18, standard error (SE) 27.26) and 
+governance scores (β -246.19, SE 39.13). The association between reductions in 
+malaria burden and increases in DAH and in governance scores shows the need for 
+accelerated funding of malaria programs and advocacy for better disease 
+governance in malaria-endemic countries.Abbreviations: APC: Annual percentage 
+change; ASDR: Age-standardised disability-adjusted life-year rate; ASIR: 
+Age-standardised incidence rate; ASIR: Age-standardised incidence rate; ASMR: 
+Age-standardised mortality rate; CSSA: Central sub-Saharan Africa; DAH: 
+Development Assistance for Health; DALYs: Disability-adjusted life years; ESSA: 
+Eastern sub-Saharan Africa; GBD: Global burden of disease; GHDx Global Health 
+Data Exchange; IHME: Institute of Health Metrics and Evaluation; SDGs: 
+Sustainable Development Goals; SSA: Sub-Saharan Africa; SSSA: Southern 
+sub-Saharan Africa; UNSD: United Nations Statistics Division; USD: United States 
+dollars; WGI: World Bank Governance Indicators; WHO: World Health Organization; 
+WSSA: Western sub-Saharan Africa.
+
+DOI: 10.1080/17441692.2023.2229892
+PMID: 37438859 [Indexed for MEDLINE]
+
+
+8. OTJR (Thorofare N J). 2024 Jan;44(1):57-66. doi: 10.1177/15394492231183627.
+Epub  2023 Jul 12.
+
+Needs Assessment of Self-Management for Individuals With Chronic Spinal Cord 
+Injury/Disease.
+
+Kraus B(1), Wolf TJ(1).
+
+Author information:
+(1)University of Missouri-Columbia, USA.
+
+Since the 1980s, survivorship for persons with spinal cord injury/disease 
+(SCI/D) has significantly improved; however, life expectancy remains lower than 
+the general population due to secondary health conditions (SHCs) that lead to 
+decreased function and death. This study explored (1) facilitators and barriers 
+to engaging in self-management (SM) for persons with SCI/D and (2) stakeholder 
+perspectives on potential SM program components and content for intervention 
+development. Around 38 participants with SCI/D responded to this cross-sectional 
+study and needs assessment conducted at the University of Missouri, Columbia. 
+Responses were analyzed to determine descriptive statistics. Participants 
+indicated barriers to SM include transportation/distance, presence of SHCs, and 
+a lack of local resources. Participants noted that virtual SM programs with 
+strong psychological health/coping components were preferred. These findings 
+should guide the development of an SM program tailored to SCI/D to reduce the 
+prevalence and impact of SHC on the SCI/D population.
+
+Plain Language Summary: Persons with Spinal Cord Injury/Disease (SCI/D) 
+experience secondary health conditions to a higher degree than the general 
+population which impacts their function, quality of life, and lifespan. The 
+factors that limit or support participation in self-management behaviors and 
+programs were explored and we asked people with SCI/D what they would want out 
+of a self-management program tailored to their needs. Results showed that 
+virtual programs with a both group and individual sessions with a strong mental 
+health component were preferred.
+
+DOI: 10.1177/15394492231183627
+PMCID: PMC10676024
+PMID: 37438990 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Conflicting InterestsThe 
+author(s) declared no potential conflicts of interest with respect to the 
+research, authorship, and/or publication of this article.
+
+
+9. Analyst. 2023 Aug 7;148(16):3870-3875. doi: 10.1039/d3an00817g.
+
+On-chip-angiogenesis based on a high-throughput biomimetic three-dimensional 
+cell spheroid culture system.
+
+Wang Y(1)(2), Zeng X(1), Chen P(1), Du W(1), Pei Y(3), Wang G(1), Liu BF(1).
+
+Author information:
+(1)The Key Laboratory for Biomedical Photonics of MOE at Wuhan National 
+Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key 
+Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College 
+of Life Science and Technology, Huazhong University of Science and Technology, 
+Wuhan 430074, China. wangguoping@hust.edu.cn.
+(2)Department of Ultrasound, the First Affiliated Hospital of Zhengzhou 
+University, Zhengzhou 450052, China.
+(3)Department of Pharmacy, Wuxi People's Hospital Attached to Nanjing Medical 
+University, Wuxi 214023, China. 79660672@qq.com.
+
+Angiogenesis is one of the most essential developmental processes and plays a 
+key role in organogenesis and tumorigenesis in which epithelial cells 
+proliferate and migrate, thus resulting in sprouting and extension of the 
+existing vasculature. The study of angiogenesis in vivo is limited by 
+difficulties related to imaging of the fine structure of vascular sprouting 
+within non-transparent bulk tissue. Thus, many model systems have been proposed 
+in recent years. However, to meet the urgent need for high-throughput studies 
+and screening, further improvements are still required, particularly in terms of 
+scaling-up. In this study, we combined microchip fabrication with the culture of 
+three-dimensional (3D) spheroids, thus providing a platform for 3D multilayer 
+angiogenesis-on-a-chip. Using this platform, we investigated the precise effects 
+of vascular endothelial growth factor (VEGF) on angiogenesis. In comparison with 
+two-dimensional (2D) angiogenesis assays, our 3D angiogenesis platform 
+demonstrated superior sprouting and provided proof of concept that our 3D 
+biomimetic angiogenesis-on-a-chip could serve as a powerful tool for pro- or 
+anti-angiogenesis candidate drug screening.
+
+DOI: 10.1039/d3an00817g
+PMID: 37439439 [Indexed for MEDLINE]
+
+
+10. Cancer Chemother Pharmacol. 2023 Sep;92(3):223-228. doi: 
+10.1007/s00280-023-04556-1. Epub 2023 Jul 13.
+
+Access to innovation through clinical trials and the national early access 
+program for patients with lung cancer in France: focus on atezolizumab and 
+durvalumab.
+
+Jacquet E(1), Pham F(2)(3), Taouk B(2), Kerouani-Lafaye G(2), Monard A(2)(4), 
+Brunel L(2), Albin N(5)(6).
+
+Author information:
+(1)Department of Oncohematology, Centre Hospitalier Universitaire 
+Grenoble-Alpes, Grenoble, France.
+(2)Oncology Hematology and Cell Therapy Department, French National Agency for 
+Safety of Medicines and Health Products ANSM, 147 Boulevard Anatole France, 
+Saint-Denis, France.
+(3)Department of Pharmacy, Centre Hospitalo-Universitaire Hôpital Henri Mondor 
+Assistance Publique des Hôpitaux de Paris, Créteil, France.
+(4)Department of Oncohematology, Groupe Hospitalier Mutualiste de Grenoble, 
+Grenoble, France.
+(5)Oncology Hematology and Cell Therapy Department, French National Agency for 
+Safety of Medicines and Health Products ANSM, 147 Boulevard Anatole France, 
+Saint-Denis, France. nicolas.albin@ansm.sante.fr.
+(6)Department of Oncohematology, Groupe Hospitalier Mutualiste de Grenoble, 
+Grenoble, France. nicolas.albin@ansm.sante.fr.
+
+PURPOSE: Tumor genomic profiling and PD-L1 testing mean lung cancer management 
+can be tackled through a personalized approach. Targeted therapies and 
+immunotherapy are necessary to improve survival and preserve the patients' 
+quality of life. Early access to innovation before marketing authorization (MA) 
+is possible in France through clinical trials and an early-access program called 
+a Temporary Authorization for Use (ATU), which is a unique regulatory system in 
+Europe. This study aims to assess the impact of early access to innovation 
+through clinical trials and ATUs in thoracic oncology.
+METHODS: Data from clinical trials between 2018 and 2021 and ATUs between 2005 
+and 2019 were collected internally and assessed for drugs in thoracic oncology, 
+with specific focus on 2 ATUs, respectively, atezolizumab and durvalumab.
+RESULTS: From 2018 to 2021, the National Agency for the Safety of Medicines and 
+Health Products authorized 145 clinical trials in lung cancer. Between 2005 and 
+2019, 19 drugs obtained an EU MA or an MA extension for a therapeutic indication 
+in lung cancer. During this period, 11 of these drugs were granted an ATU, 
+corresponding to 6851 patients treated. Of this total number of patients, data 
+were collected for 33.1% and 71.2%, who received durvalumab and atezolizumab, 
+respectively. Real-life efficacy data were consistent with the clinical trial 
+data.
+CONCLUSION: Over the past 15 years, clinical trials and the French early access 
+program have allowed considerable early access to therapeutic innovation in real 
+life for patients, especially in thoracic oncology.
+
+© 2023. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00280-023-04556-1
+PMID: 37439816 [Indexed for MEDLINE]
+
+
+11. AIDS Behav. 2023 Jul 13. doi: 10.1007/s10461-023-04127-8. Online ahead of
+print.
+
+The Intersection of Age and HIV Status for Black Sexual Minority Men (BSMM): A 
+Social Network Analysis.
+
+Clair CA(1), Volpi C(2), Dunn D(3), Latkin CA(2), Tobin KE(2).
+
+Author information:
+(1)Department of Health, Behavior and Society, Johns Hopkins Bloomberg School of 
+Public Health, 624 N. Broadway St, Baltimore, MD, 21205, USA. cclair1@jhu.edu.
+(2)Department of Health, Behavior and Society, Johns Hopkins Bloomberg School of 
+Public Health, 624 N. Broadway St, Baltimore, MD, 21205, USA.
+(3)Chase Brexton Health Care, Baltimore, MD, USA.
+

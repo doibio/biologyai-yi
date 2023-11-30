@@ -1,0 +1,1000 @@
+BACKGROUND: Though primary care patients commonly present with rectal bleeding, 
+the optimal evaluation strategy remains unknown.
+OBJECTIVE: To compare the cost-effectiveness of four diagnostic strategies in 
+the evaluation of rectal bleeding.
+DESIGN: Cost-effectiveness analysis using a Markov decision model.
+DATA SOURCES: Systematic review of the literature, Medicare reimbursement data, 
+Surveillance, Epidemiology, and End Results (SEER) Cancer Registry.
+TARGET POPULATION: Patients over age 40 with otherwise asymptomatic rectal 
+bleeding.
+TIME HORIZON: The patient's lifetime.
+PERSPECTIVE: Modified societal perspective.
+INTERVENTIONS: Watchful waiting, flexible sigmoidoscopy, flexible sigmoidoscopy 
+followed by air contrast barium enema (FS+ACBE), and colonoscopy.
+OUTCOME MEASURES: Incremental cost-effectiveness ratio.
+RESULTS OF BASE-CASE ANALYSIS: The incremental cost-effectiveness ratio for 
+colonoscopy compared with flexible sigmoidoscopy was 5,480 dollars per 
+quality-adjusted year of life saved (QALY). Watchful waiting and FS+ACBE were 
+more expensive and less effective than colonoscopy.
+RESULTS OF SENSITIVITY ANALYSES: The cost of colonoscopy was reduced to 1,686 
+dollars per QALY when age at entry was changed to 45. Watchful waiting became 
+the least expensive strategy when community procedure charges replaced Medicare 
+costs, when age at entry was maximized to 80, or when the prevalence of polyps 
+was lowered to 7%, but the remaining strategies provided greater life expectancy 
+at relatively low cost. The strategy of FS+ACBE remained more expensive and less 
+effective in all analyses. In the remaining sensitivity analyses, the 
+incremental cost-effectiveness of colonoscopy compared with flexible 
+sigmoidoscopy never rose above 34,000 dollars.
+CONCLUSIONS: Colonoscopy is a cost-effective method to evaluate otherwise 
+asymptomatic rectal bleeding, with a low cost per QALY compared to other 
+strategies.
+
+DOI: 10.1111/j.1525-1497.2005.40077.x
+PMCID: PMC1490043
+PMID: 15693933 [Indexed for MEDLINE]
+
+
+277. Best Pract Res Clin Haematol. 2005 Mar;18(1):113-28. doi: 
+10.1016/j.beha.2004.08.017.
+
+Conventional allograft and autograft in low grade lymphoma.
+
+Avivi I(1), Goldstone AH.
+
+Author information:
+(1)Department of Hematology and Bone Marrow Transplantation, Rambam Medical 
+Center, P.O. Box 9602, Haifa 31096, Israel. i_avivi@rambam.health.gov.il
+
+In low grade non-Hodgkin's lymphoma (NHL), while conventional chemotherapy does 
+increase progression-free survival (PFS), overall survival (OS) has not been 
+improved by the newer chemotherapies and advanced indolent NHL remains 
+essentially incurable without allogeneic bone marrow transplant. High dose 
+therapy (HDT) followed by autologous stem cell transplantation (ASCT) aims to 
+eradicate residual tumour cells. Nevertheless, it is still unclear if despite 
+extending PFS it prolongs OS. However, even if ASCT does so, it does not 
+guarantee cure and the majority of patients will eventually relapse. There is 
+accumulating evidence that by using a non-contaminated graft (obtained with stem 
+cell purging), OS does improve. However, data from prospective randomised trials 
+comparing purged versus unpurged autografts is awaited. Nevertheless, allogeneic 
+stem cell transplantation (Allo SCT) appears to provide the best/highest chances 
+for cure, providing a non-contaminated graft along with a graft versus lymphoma 
+(GVL) effect. However, the procedure is age limited due to its high toxicity, 
+(especially in patients over 50 years), limiting this procedure to younger 
+patients whose life expectancy due to disease is short. Reduced intensity SCT 
+may therefore be a reasonable approach in younger patients with advanced 
+disease, allowing a GVL effect with less toxicity compared with conventional 
+allograft. However, data is still limited and follow-up in the majority of 
+studies is relatively short, highlighting the need for longer follow-up to 
+establish the role of reduced intensity SCT in low grade lymphoma.
+
+DOI: 10.1016/j.beha.2004.08.017
+PMID: 15694188 [Indexed for MEDLINE]
+
+
+278. Curr Biol. 2005 Feb 8;15(3):267-70. doi: 10.1016/j.cub.2005.01.036.
+
+Sexual cooperation: mating increases longevity in ant queens.
+
+Schrempf A(1), Heinze J, Cremer S.
+
+Author information:
+(1)Biologie I, Universität Regensburg, Universitätsstrasse 31, D-93040 
+Regensburg, Germany.
+
+Divergent reproductive interests of males and females often cause sexual 
+conflict . Males of many species manipulate females by transferring seminal 
+fluids that boost female short-term fecundity while decreasing their life 
+expectancy and future reproductivity . The life history of ants, however, is 
+expected to reduce sexual conflict; whereas most insect females show repeated 
+phases of mating and reproduction, ant queens mate only during a short period 
+early in life and undergo a lifelong commitment to their mates by storing sperm 
+. Furthermore, sexual offspring can only be reared after a sterile worker force 
+has been built up . Therefore, the males should also profit from a long female 
+lifespan. In the ant Cardiocondyla obscurior, mating indeed has a positive 
+effect on the lifetime reproductive success of queens. Queens that mated to 
+either one fertile or one sterilized male lived considerably longer and started 
+laying eggs earlier than virgin queens. Only queens that received viable sperm 
+from fertile males showed increased fecundity. The lack of a trade-off between 
+fecundity and longevity is unexpected, given evolutionary theories of aging . 
+Our data instead reveal the existence of sexual cooperation in ants.
+
+DOI: 10.1016/j.cub.2005.01.036
+PMID: 15694312 [Indexed for MEDLINE]
+
+
+279. Int J Med Inform. 2005 Mar;74(2-4):79-87. doi:
+10.1016/j.ijmedinf.2004.07.006.
+
+Extending the GEM model to support knowledge extraction from textual guidelines.
+
+Georg G(1), Séroussi B, Bouaud J.
+
+Author information:
+(1)SPIM, Inserm ERM 202, Université Paris 6, 15 Rue de l'Ecole de Médecine, 
+F-75006 Paris, France. gersende.georg@spim.jussieu.fr
+
+Clinical Practice Guidelines (CPGs) are being developed as a tool to promote 
+best practice in medicine. However, the diffusion of paper guidelines has been 
+shown to only have a limited impact. This is why computerization of CPGs has 
+recently been suggested as a means to improve their dissemination as well as 
+physicians' compliance. The Guideline Elements Model (GEM) has been proposed to 
+facilitate the encoding of CPGs and support the automatic processing of 
+marked-up documents. In this paper, we explore the automatic generation of a 
+rule base from a textual guideline using GEM. In this study, we propose an 
+extension of the GEM model that introduces additional levels of structuring 
+centered on decision variables. This allows a more efficient representation of 
+the decision processes, which supports the automatic generation of decision 
+rules from textual guidelines. The 1999 Canadian recommendations for the 
+management of hypertension have been marked-up as a GEM-encoded instance of our 
+extended DTD. We derived a rule base using an XML parser to extract the relevant 
+elements to instantiate the IF and THEN clauses of decision rules. The rule base 
+automatically generated compares favourably with the manual generation of 
+decision rules in the ASTI project. This approach is an interesting case study 
+in the computerization of CPGs, as it illustrates processing steps that are 
+relevant to the various aspects of CPGs life-cycle, from production to 
+consultation and use.
+
+DOI: 10.1016/j.ijmedinf.2004.07.006
+PMID: 15694612 [Indexed for MEDLINE]
+
+
+280. Am J Med. 2005 Feb;118(2):198-9; author reply 199. doi: 
+10.1016/j.amjmed.2004.08.026.
+
+How can modeling best contribute to the assessment of secondary stroke 
+prevention strategies?
+
+Matchar DB, Samsa GP.
+
+Comment on
+    Am J Med. 2004 Jun 15;116(12):797-806.
+
+DOI: 10.1016/j.amjmed.2004.08.026
+PMID: 15694909 [Indexed for MEDLINE]
+
+
+281. Am J Med. 2005 Feb;118(2):199-200; author reply 200. doi: 
+10.1016/j.amjmed.2004.11.013.
+
+Creative cost-effectiveness analysis of CAPRIE data- dust in our eyes.
+
+Eriksson P.
+
+Comment on
+    Am J Med. 2004 Jun 15;116(12):797-806.
+
+DOI: 10.1016/j.amjmed.2004.11.013
+PMID: 15694910 [Indexed for MEDLINE]
+
+
+282. Vasc Endovascular Surg. 2005 Jan-Feb;39(1):33-8.
+
+Outcomes of patients with atherosclerotic upper extremity tissue loss.
+
+Zhang WW(1), Harris LM, Shenoy SS, Hassett JM, Wall LP.
+
+Author information:
+(1)Department of Surgery, School of Medicine and Biomedical Sciences, University 
+at Buffalo, State University of New York 14209, USA.
+
+Severe ischemia of the upper extremity causing tissue necrosis occurs much less 
+frequently than in the lower extremity. The clinical outcome of patients 
+diagnosed with digital nonhealing ulcer or gangrene is largely unknown. A 
+retrospective review of patients with upper extremity tissue loss was performed. 
+Patients with ischemia from embolic disease, steal syndromes, and vasospastic or 
+connective tissue disorders were excluded. Thirteen patients with upper 
+extremity ischemic gangrene and/or nonhealing ulcers were treated from January 
+1995 to June 2002. Comorbid conditions included diabetes mellitus in 10 patients 
+and renal failure in 11 patients. Five patients developed bilateral upper 
+extremity ischemia during the period of evaluation, while 8 had unilateral 
+involvement. Nine patients had dry gangrene of a digit, 5 had nonhealing ulcers, 
+and 1 patient developed wet gangrene from an ischemic ulcer. All 13 patients 
+received local wound care and medical treatment with anticoagulants, calcium 
+channel blockers, or antiplatelet agents. Ischemic lesions healed in 3 of the 5 
+patients with conservative management. Surgical intervention was performed on 6 
+patients with dry gangrene, and the patient with wet gangrene underwent 
+amputation of the hand (53.8%). Two patients underwent sympathectomy without 
+improvement. In the remaining 3 patients, tissue loss remained stable. Seven 
+patients died within 2 years of presentation with upper extremity ischemia, with 
+a survival at 24 months of only 14% by lifetable analysis. The local outcome of 
+severe upper extremity ischemia is generally favorable, with good response to 
+either medical management or digit amputation. However, the life expectancy of 
+the patients with upper extremity ischemia from true atherosclerotic disease is 
+dismal. Therefore, surgical intervention should be reserved for infection 
+control or pain relief only.
+
+PMID: 15696246 [Indexed for MEDLINE]
+
+
+283. Rev Neurol. 2005 Jan 1-15;40(1):54-60.
+
+[Non-surgical potentially reversible dementias].
+
+[Article in Spanish]
+
+Santos-Franco JA(1), Barquet-Platón EI, Mercado-Pimentel R, Ortiz-Velázquez RI, 
+Cardona-Cabrera S, Otero-Siliceo E.
+
+Author information:
+(1)Servicio de Neurocirugía, Instituto Nacional de Neurología y Neurocirugía 
+Manuel Velasco Suárez, México DF, México. jorge_santos@correo.unam.mx
+
+AIMS: In this study, we review dementias that are potentially reversible. The 
+paper summarises the causes that essentially require management by medical 
+means, while causes of a surgical nature will be dealt with in a second article. 
+These papers attempt to avoid mistaken diagnoses and labels in patients with a 
+high potential to improve their cognitive disorder and to guide us towards a 
+more suitable management.
+DEVELOPMENT: Dementia is a public health problem, mainly in countries with long 
+life expectancy. It has an incidence of 3-11% in patients over the age of 65, 
+and 20-50% in those over 85 years old. Most of them (50-70%) have Alzheimer-type 
+dementia, followed by the vascular type (20%); there is a smaller percentage of 
+cases of the so-called subcortical dementias and also those secondary to medical 
+and/or surgical conditions that suggest potential reversibility. These latter 
+cases are not easy to recognise and their incidence, depending on the series, 
+ranges from 0 to 37%. Once they have been diagnosed, it is still difficult to 
+state whether they will in fact turn out to be reversible. Their most common 
+causes, such as deficiencies, metabolic disorders, chronic diseases, toxins, and 
+so on, must be detected as early as possible, which can be done by means of 
+clinical observation and use of the laboratory.
+CONCLUSIONS: Although the potential to improve in patients with a diagnosis of 
+reversible dementia is still subject to discussion, this brief review guides us 
+in the search for their causes and their management, since late detection and 
+management are very likely to be the cause of a poor progression.
+
+PMID: 15696427 [Indexed for MEDLINE]
+
+
+284. Ugeskr Laeger. 2005 Jan 10;167(2):166-8.
+
+[Social differences in expected lifetime spent in good health in Copenhagen].
+
+[Article in Danish]
+
+Brønnum-Hansen H(1), Iburg KM, Andersen O, Lissau I, Saelan H, Rasmussen NK.
+
+Author information:
+(1)Statens Institut for Folkesundhed, World Health Organization, Regional Office 
+for Europe, København, Danmarks Statistik. hbh@niph.dk
+
+PMID: 15697128 [Indexed for MEDLINE]
+
+
+285. Paediatr Respir Rev. 2005 Mar;6(1):29-32. doi: 10.1016/j.prrv.2004.11.005.
+
+Some chronic obstructive pulmonary disease will originate in neonatal intensive 
+care units.
+
+Bentham JR(1), Shaw NJ.
+
+Author information:
+(1)Neonatal Unit, Liverpool Women's Hospital, Liverpool L8 7SS, UK.
+
+Chronic lung disease is the most common adverse outcome in survivors of 
+prematurity. These infants experience frequent hospitalisation because of 
+respiratory-related illness in their first year, as well as persistent cough, 
+wheeze and oxygen dependence. Although the severity of respiratory illness 
+decreases and supplemental oxygen is needed less as their lungs mature, 
+childhood is still complicated by persistent wheeze, cough and reduced exercise 
+tolerance in comparison with their peers. Although there is little longitudinal 
+follow-up data beyond adolescence, imaging studies suggest that these infants 
+are highly likely to suffer with respiratory problems akin to chronic 
+obstructive pulmonary disease in later adulthood. The nature of their long-term 
+respiratory problems, the impact of cigarette smoking and the effect on life 
+expectancy are all unanswered questions that need addressing as these infants 
+grow up.
+
+DOI: 10.1016/j.prrv.2004.11.005
+PMID: 15698812 [Indexed for MEDLINE]
+
+
+286. J Clin Oncol. 2005 Apr 1;23(10):2130-5. doi: 10.1200/JCO.2005.03.134. Epub
+2005  Feb 7.
+
+The effect of low molecular weight heparin on survival in patients with advanced 
+malignancy.
+
+Klerk CP(1), Smorenburg SM, Otten HM, Lensing AW, Prins MH, Piovella F, Prandoni 
+P, Bos MM, Richel DJ, van Tienhoven G, Büller HR.
+
+Author information:
+(1)Department of Vascular Medicine, Academic Medical Center F4-139, Meibergdreef 
+9, 1105 AZ Amsterdam, The Netherlands. c.p.klerk@amc.uva.nl
+
+Comment in
+    J Clin Oncol. 2005 Apr 1;23(10):2119-20.
+
+PURPOSE: Studies in cancer patients with venous thromboembolism suggested that 
+low molecular weight heparin may prolong survival. In a double-blind study, we 
+evaluated the effect of low molecular weight heparin on survival in patients 
+with advanced malignancy without venous thromboembolism.
+METHODS: Patients with metastasized or locally advanced solid tumors were 
+randomly assigned to receive a 6-week course of subcutaneous nadroparin or 
+placebo. The primary efficacy analysis was based on time from random assignment 
+to death. The primary safety outcome was major bleeding.
+RESULTS: In total, 148 patients were allocated to nadroparin and 154 patients 
+were allocated to placebo. Mean follow-up was 1 year. In the intention-to-treat 
+analysis the overall hazard ratio of mortality was 0.75 (95% CI, 0.59 to 0.96) 
+with a median survival of 8.0 months in the nadroparin recipients versus 6.6 
+months in the placebo group. After adjustment for potential confounders, the 
+treatment effect remained statistically significant. Major bleeding occurred in 
+five (3%) of nadroparin-treated patients and in one (1%) of the placebo 
+recipients (P = .12). In the a priori specified subgroup of patients with a life 
+expectancy of 6 months or more at enrollment, the hazard ratio was 0.64 (95% CI, 
+0.45 to 0.90) with a median survival of 15.4 and 9.4 months, respectively. For 
+patients with a shorter life expectancy, the hazard ratio was 0.88 (95% CI, 0.62 
+to 1.25).
+CONCLUSION: A brief course of subcutaneous low molecular weight heparin 
+favorably influences the survival in patients with advanced malignancy and 
+deserves additional clinical evaluation.
+
+DOI: 10.1200/JCO.2005.03.134
+PMID: 15699479 [Indexed for MEDLINE]
+
+
+287. Prostate Cancer Prostatic Dis. 2005;8(1):22-30. doi:
+10.1038/sj.pcan.4500772.
+
+The impact of age and comorbidity on survival outcomes and treatment patterns in 
+prostate cancer.
+
+Hall WH(1), Jani AB, Ryu JK, Narayan S, Vijayakumar S.
+
+Author information:
+(1)Department of Radiation Oncology, UC Davis Cancer Center, University of 
+California, Davis, 4501 X Street, Sacramento, CA 95817, USA.
+
+The management of localized prostate cancer is based on stage, grade, PSA, and 
+subjective assessment of comorbidity and life expectancy. Over the last 15 y, 
+stage migration and the improved use of Gleason sum, PSA and TNM staging have 
+led to many treatment options for patients with newly diagnosed localized 
+prostate cancer. At the same time, advances in treatment techniques have helped 
+decrease the long-term complications of surgery and radiotherapy. However, the 
+importance of age and comorbidity, in survival outcomes and treatment 
+decision-making has been largely overlooked. Currently, stage, grade, and PSA 
+are the only quantifiable variables consistently used in research and treatment 
+decision-making. Comorbidity and life expectancy have remained largely 
+subjective variables. Increasing longevity and a rapidly aging population have 
+made age and comorbidity increasingly important factors in clinical research and 
+treatment decision-making. This article reviews the importance of age and 
+comorbidity on treatment decisions and survival outcomes in prostate cancer, as 
+well as their use as objectively quantifiable variables. Examples from the 
+general oncology literature are given. The overview also examines validated 
+comorbidity indices and advocates the use of the Charlson Comorbidity Index 
+(CCI) in research outcomes and treatment decision-making in prostate cancer. 
+Several clinical vignettes are provided to demonstrate the potential clinical 
+utility of the CCI as applied to prostate cancer.
+
+DOI: 10.1038/sj.pcan.4500772
+PMID: 15700051 [Indexed for MEDLINE]
+
+
+288. J Comput Biol. 2004;11(5):787-99. doi: 10.1089/cmb.2004.11.787.
+
+A new scoring function and associated statistical significance for structure 
+alignment by CE.
+
+Jia Y(1), Dewey TG, Shindyalov IN, Bourne PE.
+
+Author information:
+(1)Keck Graduate Institute of Applied Life Sciences, 535 Watson Drive, 
+Claremont, CA 91711, USA.
+
+A new scoring function for assessing the statistical significance of protein 
+structure alignment has been developed. The new scores were tested empirically 
+using the combinatorial extension (CE) algorithm. The significance of a given 
+score was given a p-value by curve-fitting the distribution of the scores 
+generated by a random comparison of proteins taken from the PDB_SELECT database 
+and the structural classification of proteins (SCOP) database. Although the 
+scoring function was developed based on the CE algorithm, it is portable to any 
+other protein structure alignment algorithm. The new scoring function is 
+examined by sensitivity, specificity, and ROC curves.
+
+DOI: 10.1089/cmb.2004.11.787
+PMID: 15700402 [Indexed for MEDLINE]
+
+
+289. JAMA. 2005 Feb 9;293(6):699-706. doi: 10.1001/jama.293.6.699.
+
+Costs and effectiveness of ximelagatran for stroke prophylaxis in chronic atrial 
+fibrillation.
+
+O'Brien CL(1), Gage BF.
+
+Author information:
+(1)Washington University School of Medicine, St Louis, Mo 63110, USA.
+
+Comment in
+    JAMA. 2005 Feb 9;293(6):736-9.
+    JAMA. 2005 Jun 15;293(23):2860-1; author reply 2861.
+
+CONTEXT: Recent trials have found that ximelagatran and warfarin are equally 
+effective in stroke prevention for patients with atrial fibrillation. Because 
+ximelagatran can be taken in a fixed, oral dose without international normalized 
+ratio monitoring and may have a lower risk of hemorrhage, it might improve 
+quality-adjusted survival compared with dose-adjusted warfarin.
+OBJECTIVE: To compare quality-adjusted survival and cost among 3 alternative 
+therapies for patients with chronic atrial fibrillation: ximelagatran, warfarin, 
+and aspirin.
+DESIGN: Semi-Markov decision model.
+PATIENTS: Hypothetical cohort of 70-year-old patients with chronic atrial 
+fibrillation, varying risk of stroke, and no contraindications to 
+anticoagulation therapy.
+MAIN OUTCOME MEASURES: Quality-adjusted life-years (QALYs) and costs in US 
+dollars.
+RESULTS: For patients with atrial fibrillation but no additional risk factors 
+for stroke, both ximelagatran and warfarin cost more than 50,000 dollars per 
+QALY compared with aspirin. For patients with additional stroke risk factors and 
+low hemorrhage risk, ximelagatran modestly increased quality-adjusted survival 
+(0.12 QALY) at a substantial cost (116,000 dollars per QALY) compared with 
+warfarin. For ximelagatran to cost less than 50,000 dollars per QALY it would 
+have to cost less than 1100 dollars per year or be prescribed to patients who 
+have an elevated risk of intracranial hemorrhage (>1.0% per year of warfarin) or 
+a low quality of life with warfarin therapy.
+CONCLUSION: Assuming equal effectiveness in stroke prevention and decreased 
+hemorrhage risk, ximelagatran is not likely to be cost-effective in patients 
+with atrial fibrillation unless they have a high risk of intracranial hemorrhage 
+or a low quality of life with warfarin.
+
+DOI: 10.1001/jama.293.6.699
+PMID: 15701911 [Indexed for MEDLINE]
+
+
+290. Forum Nutr. 2005;(57):147-56. doi: 10.1159/000083787.
+
+Vegetarian diets: what are the advantages?
+
+Leitzmann C(1).
+
+Author information:
+(1)Institute of Nutritional Sciences, University of Giessen, Giessen, Germany. 
+claus.leitzmann@ernaehrung.uni-giessen.de
+
+A growing body of scientific evidence indicates that wholesome vegetarian diets 
+offer distinct advantages compared to diets containing meat and other foods of 
+animal origin. The benefits arise from lower intakes of saturated fat, 
+cholesterol and animal protein as well as higher intakes of complex 
+carbohydrates, dietary fiber, magnesium, folic acid, vitamin C and E, 
+carotenoids and other phytochemicals. Since vegetarians consume widely divergent 
+diets, a differentiation between various types of vegetarian diets is necessary. 
+Indeed, many contradictions and misunderstandings concerning vegetarianism are 
+due to scientific data from studies without this differentiation. In the past, 
+vegetarian diets have been described as being deficient in several nutrients 
+including protein, iron, zinc, calcium, vitamin B12 and A, n-3 fatty acids and 
+iodine. Numerous studies have demonstrated that the observed deficiencies are 
+usually due to poor meal planning. Well-balanced vegetarian diets are 
+appropriate for all stages of the life cycle, including children, adolescents, 
+pregnant and lactating women, the elderly and competitive athletes. In most 
+cases, vegetarian diets are beneficial in the prevention and treatment of 
+certain diseases, such as cardiovascular disease, hypertension, diabetes, 
+cancer, osteoporosis, renal disease and dementia, as well as diverticular 
+disease, gallstones and rheumatoid arthritis. The reasons for choosing a 
+vegetarian diet often go beyond health and well-being and include among others 
+economical, ecological and social concerns. The influences of these aspects of 
+vegetarian diets are the subject of the new field of nutritional ecology that is 
+concerned with sustainable life styles and human development.
+
+DOI: 10.1159/000083787
+PMID: 15702597 [Indexed for MEDLINE]
+
+
+291. Clin Exp Hypertens. 2004 Oct-Nov;26(7-8):731-8. doi: 10.1081/ceh-200032144.
+
+Current status of hypertension control around the world.
+
+Erdine S(1), Aran SN.
+
+Author information:
+(1)Cardiology Department, Cerrahpasa Medical School, University of Istanbul, 
+Istanbul, Turkey. eserdine@superonline.com
+
+It is well established that hypertension is an important risk factor for 
+cardiovascular disease. Data from epidemiological and observational studies have 
+demonstrated increasing risk of stroke, myocardial infarction, cardiovascular 
+death and all cause mortality associated with high blood pressure. Despite the 
+significance of the problem with respect to overall health, control of high 
+blood pressure is far from being optimal. Data from the National Health and 
+Nutrition Survey have shown that those achieving target blood pressure values 
+less than 140/90 mmHg are only 34% of the hypertensive population. The situation 
+is no better in the rest of the world and even worse in the developing 
+countries. Epidemiological transition taking place in developing countries with 
+a decline in communicable diseases and an increase in noncommunicable have 
+resulted in an improvement in life expectancy, thus causing predictable shifts 
+in causes of death. Aging of the populations, urbanization and socioeconomic 
+changes in the developing world have led to an increase in the prevalence of 
+hypertension, with low control rates due to scarce health resources and 
+insufficient health infrastructure. Thus prevention, detection, treatment and 
+control of hypertension play a crucial role in protection of cardiovascular 
+disease, not only in the developed countries but also in the developing world 
+and implementation of hypertension guidelines should be reinforced around the 
+world.
+
+DOI: 10.1081/ceh-200032144
+PMID: 15702628 [Indexed for MEDLINE]
+
+
+292. Ann Cardiol Angeiol (Paris). 2005 Jan;54(1):26-31. doi: 
+10.1016/j.ancard.2004.11.003.
+
+[Pacemaker longevity. Replacement of the device].
+
+[Article in French]
+
+Deharo JC(1), Djiane P.
+
+Author information:
+(1)Unité de rythmologie, département de cardiologie, hôpital Timone Adultes, 
+263, rue Saint-Pierre, 13385 Marseille cedex 05, France. 
+jean-claude.deharo@ap-hm.fr
+
+Life expectancy of patients implanted with cardiac pacemakers has largely 
+increased, so that generator replacement is becoming an important part of the 
+activity in most of the implanting centers. In more than 70% of the cases, the 
+indication for pacemaker replacement is normal battery depletion. Since the new 
+devices are more and more sophisticated and smaller, longevity optimization 
+becomes a real challenge. The main determinant of pacemaker longevity is the 
+output programmed for the pulse generator. It mainly depends on the output 
+voltage and duration settings. The pacing impedance and the percentage of time 
+with pacing are other major determinants of pacemaker longevity. Each 
+manufacturer provides specific policy but the battery voltage and internal 
+impedance are the more accurate and easy-to-obtain battery depletion parameters. 
+The magnet rate is still frequently used but is less valuable since it can drop 
+abruptly at the end of battery life. The complication rate of pacemaker 
+replacement is three-fold higher than the one of first implant. Infections, skin 
+erosions and lead related complications are not uncommon. The replacement should 
+be systematically preceded by the checking of several points including the 
+patient's pacemaker dependency, the necessity to replace or extract one or 
+several leads, the venous system status, the compatibility between the new 
+generator and the leads and the necessity to upgrade the pacing system or to 
+change the pacemaker pocket.
+
+DOI: 10.1016/j.ancard.2004.11.003
+PMID: 15702908 [Indexed for MEDLINE]
+
+
+293. Appl Health Econ Health Policy. 2004;3(2):61-6. doi: 
+10.2165/00148365-200403020-00001.
+
+Should we maximise QALYs? : a debate with respect to peak-end evaluation.
+
+Oliver A(1).
+
+Author information:
+(1)LSE Health and Social Care and Department of Social Policy, London School of 
+Economics and Political Science, London, UK. a.j.oliver@lse.ac.uk
+
+DOI: 10.2165/00148365-200403020-00001
+PMID: 15702942 [Indexed for MEDLINE]
+
+
+294. Appl Health Econ Health Policy. 2004;3(2):79-89. doi: 
+10.2165/00148365-200403020-00004.
+
+The use of probabilistic decision models in technology assessment : the case of 
+total hip replacement.
+
+Briggs A(1), Sculpher M, Dawson J, Fitzpatrick R, Murray D, Malchau H.
+
+Author information:
+(1)Health Economics Research Centre, Department of Public Health, University of 
+Oxford, Old Road Campus, Headington, Oxford, UK. andrew.briggs@dphpc.ox.ac.uk
+
+There is increasing recognition that decision modelling is central to health 
+technology assessment and, in particular, to analyses to support formal decision 
+making regarding the funding of the use of new technologies. In part, the key 
+role of decision analysis stems from the need to handle multiple sources of 
+uncertainty in the available evidence. The use of probabilistic decision 
+analysis is a means of reflecting the parameter uncertainty in models and 
+presenting this in a comprehensible manner to decision makers. In this article, 
+we demonstrate the potential role of probabilistic models using the case study 
+of total hip replacement surgery.A cost-effectiveness model was constructed to 
+compare the Charnley and Spectron hip prostheses in terms of lifetime costs and 
+quality-adjusted life-years (QALYs). Revision rates were estimated from the 
+Swedish National Total Hip Arthroplasty Register (1992-2000); the risk of 
+revision with the Spectron prosthesis relative to the Charnley prosthesis was 
+0.67 (95% confidence interval [CI] 0.32, 1.02) for early revisions and 0.26 (95% 
+CI 0.07, 0.46) for late revisions. This lower revision risk resulted in the 
+Spectron generating more QALYs than the Charnley prosthesis. Based on mean costs 
+and QALYs, the Spectron results in cost savings in younger patients, and 
+generates incremental cost-effectiveness ratios of between pound1000 and pound16 
+000 in older patient groups. The probabilistic results from the model indicated 
+that, if it is assumed that decision makers are willing to pay up to pound20 000 
+per additional QALY, the probability of the Spectron being the more 
+cost-effective prosthesis ranged between 70% and 100%, depending on the age and 
+sex of the patient.This article looks at the application of probabilistic 
+decision modelling using total hip replacement as a case study to emphasis the 
+need for decision models to quantify all sources of parameter uncertainty and to 
+clearly distinguish parameter uncertainty from subgroup heterogeneity.
+
+DOI: 10.2165/00148365-200403020-00004
+PMID: 15702945 [Indexed for MEDLINE]
+
+
+295. N Engl J Med. 2005 Feb 10;352(6):570-85. doi: 10.1056/NEJMsa042657.
+
+Cost-effectiveness of screening for HIV in the era of highly active 
+antiretroviral therapy.
+
+Sanders GD(1), Bayoumi AM, Sundaram V, Bilir SP, Neukermans CP, Rydzak CE, 
+Douglass LR, Lazzeroni LC, Holodniy M, Owens DK.
+
+Author information:
+(1)Duke Clinical Research Institute, Duke University, Durham, NC 27715, USA. 
+gillian.sanders@duke.edu
+
+Comment in
+    N Engl J Med. 2005 Feb 10;352(6):620-1.
+    N Engl J Med. 2005 May 19;352(20):2137-9; author reply 2137-9.
+    N Engl J Med. 2005 May 19;352(20):2137-9; author reply 2137-9.
+    N Engl J Med. 2005 May 19;352(20):2137-9; author reply 2137-9.
+
+BACKGROUND: The costs, benefits, and cost-effectiveness of screening for human 
+immunodeficiency virus (HIV) in health care settings during the era of highly 
+active antiretroviral therapy (HAART) have not been determined.
+METHODS: We developed a Markov model of costs, quality of life, and survival 
+associated with an HIV-screening program as compared with current practice. In 
+both strategies, symptomatic patients were identified through symptom-based case 
+finding. Identified patients started treatment when their CD4 count dropped to 
+350 cells per cubic millimeter. Disease progression was defined on the basis of 
+CD4 levels and viral load. The likelihood of sexual transmission was based on 
+viral load, knowledge of HIV status, and efficacy of counseling.
+RESULTS: Given a 1 percent prevalence of unidentified HIV infection, screening 
+increased life expectancy by 5.48 days, or 4.70 quality-adjusted days, at an 
+estimated cost of 194 dollars per screened patient, for a cost-effectiveness 
+ratio of 15,078 dollars per quality-adjusted life-year. Screening cost less than 
+50,000 dollars per quality-adjusted life-year if the prevalence of unidentified 
+HIV infection exceeded 0.05 percent. Excluding HIV transmission, the 
+cost-effectiveness of screening was 41,736 dollars per quality-adjusted 
+life-year. Screening every five years, as compared with a one-time screening 
+program, cost 57,138 dollars per quality-adjusted life-year, but was more 
+attractive in settings with a high incidence of infection. Our results were 
+sensitive to the efficacy of behavior modification, the benefit of early 
+identification and therapy, and the prevalence and incidence of HIV infection.
+CONCLUSIONS: The cost-effectiveness of routine HIV screening in health care 
+settings, even in relatively low-prevalence populations, is similar to that of 
+commonly accepted interventions, and such programs should be expanded.
+
+Copyright 2005 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMsa042657
+PMID: 15703422 [Indexed for MEDLINE]
+
+
+296. N Engl J Med. 2005 Feb 10;352(6):586-95. doi: 10.1056/NEJMsa042088.
+
+Expanded screening for HIV in the United States--an analysis of 
+cost-effectiveness.
+
+Paltiel AD(1), Weinstein MC, Kimmel AD, Seage GR 3rd, Losina E, Zhang H, 
+Freedberg KA, Walensky RP.
+
+Author information:
+(1)Department of Epidemiology and Public Health, Yale School of Medicine, New 
+Haven, Conn 06520-8034, USA. david.paltiel@yale.edu
+
+Comment in
+    N Engl J Med. 2005 Feb 10;352(6):620-1.
+    N Engl J Med. 2005 May 19;352(20):2137-9; author reply 2137-9.
+    N Engl J Med. 2005 May 19;352(20):2137-9; author reply 2137-9.
+
+BACKGROUND: Although the Centers for Disease Control and Prevention (CDC) 
+recommend routine HIV counseling, testing, and referral (HIVCTR) in settings 
+with at least a 1 percent prevalence of HIV, roughly 280,000 Americans are 
+unaware of their human immunodeficiency virus (HIV) infection. The effect of 
+expanded screening for HIV is unknown in the era of effective antiretroviral 
+therapy.
+METHODS: We developed a computer simulation model of HIV screening and treatment 
+to compare routine, voluntary HIVCTR with current practice in three target 
+populations: "high-risk" (3.0 percent prevalence of undiagnosed HIV infection; 
+1.2 percent annual incidence); "CDC threshold" (1.0 percent and 0.12 percent, 
+respectively); and "U.S. general" (0.1 percent and 0.01 percent). Input data 
+were derived from clinical trials and observational cohorts. Outcomes included 
+quality-adjusted survival, cost, and cost-effectiveness.
+RESULTS: In the high-risk population, the addition of one-time screening for HIV 
+antibodies with an enzyme-linked immunosorbent assay (ELISA) to current practice 
+was associated with earlier diagnosis of HIV (mean CD4 cell count at diagnosis, 
+210 vs. 154 per cubic millimeter). One-time screening also improved average 
+survival time among HIV-infected patients (quality-adjusted survival, 220.7 
+months vs. 219.8 months). The incremental cost-effectiveness was 36,000 dollars 
+per quality-adjusted life-year gained. Testing every five years cost 50,000 
+dollars per quality-adjusted life-year gained, and testing every three years 
+cost 63,000 dollars per quality-adjusted life-year gained. In the CDC threshold 
+population, the cost-effectiveness ratio for one-time screening with ELISA was 
+38,000 dollars per quality-adjusted life-year gained, whereas testing every five 
+years cost 71,000 dollars per quality-adjusted life-year gained, and testing 
+every three years cost 85,000 dollars per quality-adjusted life-year gained. In 
+the U.S. general population, one-time screening cost 113,000 dollars per 
+quality-adjusted life-year gained.
+CONCLUSIONS: In all but the lowest-risk populations, routine, voluntary 
+screening for HIV once every three to five years is justified on both clinical 
+and cost-effectiveness grounds. One-time screening in the general population may 
+also be cost-effective.
+
+Copyright 2005 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMsa042088
+PMID: 15703423 [Indexed for MEDLINE]
+
+
+297. N Engl J Med. 2005 Feb 10;352(6):620-1. doi: 10.1056/NEJMe048347.
+
+Routine screening for HIV infection--timely and cost-effective.
+
+Bozzette SA.
+
+Comment on
+    N Engl J Med. 2005 Feb 10;352(6):570-85.
+    N Engl J Med. 2005 Feb 10;352(6):586-95.
+
+DOI: 10.1056/NEJMe048347
+PMID: 15703428 [Indexed for MEDLINE]
+
+
+298. Epidemiology. 2005 Mar;16(2):226-32. doi:
+10.1097/01.ede.0000152904.95284.0f.
+
+Mental vulnerability as a predictor of early mortality.
+
+Eplov LF(1), Jørgensen T, Birket-Smith M, Segel S, Johansen C, Mortensen EL.
+
+Author information:
+(1)Copenhagen County Research Centre for Prevention and Health, Glostrup 
+University Hospital, Copenhagen, Denmark. Flagaard@dadlnet.dk
+
+BACKGROUND: Studies have demonstrated that mental vulnerability (ie, a tendency 
+to experience psychosomatic symptoms or inadequate interpersonal interactions) 
+is associated with various diseases. The objective of our study is to evaluate 
+whether mental vulnerability is a risk factor for early mortality.
+METHODS: We conducted a prospective cohort study of 3 random samples of the 
+population in Copenhagen County, Denmark selected in 1976, 1982-1984, and 1991 
+(n = 6435). Baseline data collection included measures of mental vulnerability, 
+social factors, comorbidity, biologic risk markers (eg, blood pressure, lipid 
+levels), and lifestyle factors. We determined vital status of the study sample 
+through linkage to the Civil Registration System until 2001 and to the Cause of 
+Death Registry until 1998. The mean follow-up time was 15.9 years for analysis 
+of total mortality and 13.6 years for analysis of mortality as the result of 
+natural causes. The association between mental vulnerability and survival was 
+examined using Kaplan-Meir plots and Cox proportional-hazard models adjusting 
+for possible confounding factors.
+RESULTS: With respect to mental vulnerability, 79% of the sample was classified 
+as not vulnerable, 13% as moderately vulnerable, and 8% as highly vulnerable. 
+Compared with the nonvulnerable group, highly vulnerable persons showed 
+increased total mortality (hazard ratio = 1.6; 95% confidence interval = 
+1.3-1.9) and increased mortality from natural causes (1.6; 1.2-2.0). The 
+inclusion of the mental vulnerability score as a continuous variable gave 
+similar results.
+CONCLUSIONS: Mental vulnerability may be an independent risk factor for 
+premature mortality. The biologic mechanisms that may underlie this association 
+need further exploration.
+
+DOI: 10.1097/01.ede.0000152904.95284.0f
+PMID: 15703538 [Indexed for MEDLINE]
+
+
+299. Curr Opin Gastroenterol. 2004 Jan;20(1):43-8. doi: 
+10.1097/00001574-200401000-00009.
+
+Colorectal cancer in inflammatory bowel disease.
+
+Krok KL(1), Lichtenstein GR.
+
+Author information:
+(1)Center for Inflammatory Bowel Diseases, Division of Gastroenterology, 
+Hospital of the University of Pennsylvania, University of Pennsylvania School of 
+Medicine, Philadelphia, Pennsylvania 19104-4283, USA.
+
+PURPOSE OF REVIEW: Patients with inflammatory bowel disease, either Crohn 
+disease or ulcerative colitis, are at an increased risk for developing 
+colorectal carcinoma.
+RECENT FINDINGS: Surveillance colonoscopy, although never formally evaluated in 
+a prospective controlled trial, is performed in an effort to reduce this risk. 
+Novel methods of detecting dysplasia are constantly being evaluated, including 
+chromoendoscopy and biomarkers of carcinoma, in an attempt to stratify patients 
+who are at a higher risk of developing high-grade dysplasia or carcinoma.
+SUMMARY: Because of the potential impact on quality of life and life expectancy, 
+an optimal strategy for reducing the risk of developing colorectal cancer in 
+patients with inflammatory bowel disease needs to be defined.
+
+DOI: 10.1097/00001574-200401000-00009
+PMID: 15703619
+
+
+300. Health Stat Q. 2004 Autumn;(23):75-7.
+
+Report: Healthy life expectancy in Great Britain: 2001.
+
+[No authors listed]
+
+PMID: 15704386 [Indexed for MEDLINE]301. Health Stat Q. 2004 Summer;(22):5-13.
+
+Geographical comparisons of cancer survival indicators.
+
+Rachet B(1), Riga M, Mitry E, Romanengo M, Quinn M, Cooper N, Coleman M.
+
+Author information:
+(1)London School of Hygiene and Tropical Medicine.
+
+Cancer survival statistics are needed by health authorities (HAs) to develop 
+local policies and manage resources optimally. Methodological issues can affect 
+the interpretation of these and similar statistics. More reliable indicators of 
+cancer survival are obtained by using regional life tables, rather than a single 
+national life table, to take into account background mortality. As cancer 
+survival varies widely with age, age standardisation is required to improve the 
+comparability of survival rates in cancer patient groups with different age 
+structures. The standards based on cases diagnosed in England and Wales during 
+1986-1990 provide valuable continuity with earlier published results. Estimates 
+of annual rates of change in survival (based on linear regression) together with 
+their statistical significance, give reliable indications of trends.
+
+PMID: 15704389 [Indexed for MEDLINE]
+
+
+302. Zh Nevrol Psikhiatr Im S S Korsakova. 2005;105(1):61-4.
+
+[Cognitive potential P300 in dementia with Levy's bodies and Alzheimer's 
+disease].
+
+[Article in Russian]
+
+Koberskaia NN, Zenkov LR, Zakharov VV, Preobrazhenskaia IS.
+
+Neurodegenerative diseases accompanied by cognitive impairment (dementia with 
+Levy's bodies--DLB and Alzheimer's disease--AD) and others) are becoming more 
+widespread due to increasing population life expectancy. The paper addresses use 
+of cognitive event-related potential P300 to verbal and nonverbal stimuli with 
+an assessment of interhemispheric asymmetry and topographic distribution of P300 
+in patients with DLB and AD comparied to age-matched healthy controls. Specific 
+alterations of P300 amplitude and latency suggest a use of cognitive 
+event-related potential P300 in differential diagnosis of DLB and AD.
+
+PMID: 15704487 [Indexed for MEDLINE]
+
+
+303. J Med Dent Sci. 2004 Dec;51(4):179-85.
+
+Pilot study of using GIS to visualize health status distribution: case study of 
+Songjiang District, Shanghai.
+
+Fu H(1), Umezaki M, Nakamura K, Chen P, Chen J, Shi HJ, Takano T.
+
+Author information:
+(1)School of Public Health, Fudan University, Shanghai 200032, PR China. 
+hfu@shmu.edu.cn
+
+The aim of this study was to investigate the geographic variation in mortality 
+indicators in Songjiang District of Shanghai under rapid change with 
+urbanization. Geographic Information System (GIS) was used to visualize the 
+distributions of health status and to test the extent of spatial 
+auto-correlation in the indictors. In 2001, total crude mortality was 
+687/100,000 for the district; the rates for the townships (N=15) in the district 
+ranged from 444/100,000 to 805/100,000. GIS maps indicated that the mortality 
+was higher in the marginal areas of the district. Significant positive 
+auto-correlations were found in total crude mortality rates, death rate for 
+infectious diseases, and death rates for digestive diseases. The measures that 
+consider intra-region inequality in health needs will be required in the regions 
+under urbanization.
+
+PMID: 15704654 [Indexed for MEDLINE]
+
+
+304. Health Stat Q. 2004 Winter;(24):71-82.
+
+Life expectancy at birth by local authorities in the United kingdom, 1991-1993 
+and 2001-2003.
+
+[No authors listed]
+
+PMID: 15704813 [Indexed for MEDLINE]
+
+
+305. Int J Health Geogr. 2005 Feb 10;4(1):5. doi: 10.1186/1476-072X-4-5.
+
+From wealth to health: modelling the distribution of income per capita at the 
+sub-national level using night-time light imagery.
+
+Ebener S(1), Murray C, Tandon A, Elvidge CC.
+
+Author information:
+(1)Evidence and Information for Policy, World Health Organization, Av, Appia 20, 
+1211 Geneva 27, Switzerland. ebeners@who.int.
+
+BACKGROUND: Sub-national figures providing information about the wealth of the 
+population are useful in defining the spatial distribution of both economic 
+activity and poverty within any given country. Furthermore, since several health 
+indicators such as life expectancy are highly correlated with household welfare, 
+sub-national figures allow for the estimation of the distribution of these 
+health indicators within countries when direct measurement is difficult.We have 
+developed methods that utilize spatially distributed information, including 
+night-time light imagery and population to model the distribution of income per 
+capita, as a proxy for wealth, at the country and sub-national level to support 
+the estimation of the distribution of correlated health indicators. RESULTS: A 
+first set of analysis are performed in order to propose a new global model for 
+the prediction of income per capita at the country level. A second set of 
+analysis is then confirming the possibility to transfer the country level 
+approach to the sub-national level on a country by country basis before 
+underlining the difficulties to create a global or regional models for the 
+extrapolation of sub-national figures when no country data set exists. 
+CONCLUSIONS: The methods described provide promising results for the 
+extrapolation of national and sub-national income per capita figures. These 
+results are then discussed in order to evaluate if the proposed methods could 
+not represent an alternative approach for the generation of consistent country 
+specific and/or global poverty maps disaggregated to some sub-national level.
+
+DOI: 10.1186/1476-072X-4-5
+PMCID: PMC549533
+PMID: 15705196
+
+
+306. Cardiol Rev. 2005 Mar-Apr;13(2):61-8. doi:
+10.1097/01.crd.0000126082.86717.12.
+
+Management of peripheral arterial disease.
+
+Aronow WS(1).
+
+Author information:
+(1)Divisions of Cardiology and Geriatrics, Department of Medicine, New York 
+Medical College/Westchester Medical Center, Valhalla, NY 10595, USA. 
+WSAronow@aol.com
+
+Peripheral arterial disease (PAD) may be asymptomatic, may be associated with 
+intermittent claudication, or may be associated with critical limb ischemia. 
+Coronary artery disease (CAD) and other atherosclerotic vascular disorders may 
+coexist with PAD. Persons with PAD are at increased risk for all-cause 
+mortality, cardiovascular mortality, and mortality from CAD. Modifiable risk 
+factors such as cessation of cigarette smoking and control of dyslipidemia, 
+hypertension, and diabetes should be treated. Statins reduce the incidence of 
+intermittent claudication and improve exercise duration until the onset of 
+intermittent claudication in persons with PAD and hypercholesterolemia. 
+Antiplatelet drugs such as aspirin or clopidogrel, especially clopidogrel, and 
+angiotensin-converting enzyme inhibitors should be given to all persons with 
+PAD. beta-Blockers should be given if CAD is present. Exercise rehabilitation 
+programs and cilostazol improve exercise time until intermittent claudication. 
+Indications for lower-extremity angioplasty, preferably with stenting, or bypass 
+surgery are 1) incapacitating claudication in persons interfering with work or 
+lifestyle; 2) limb salvage in persons with limb-threatening ischemia as 
+manifested by rest pain, nonhealing ulcers, and/or infection or gangrene; and 3) 
+vasculogenic impotence. However, amputation should be performed if tissue loss 
+has progressed beyond the point of salvage, if surgery is too risky, if life 
+expectancy is very low, or if functional limitations diminish the benefit of 
+limb salvage.
+
+DOI: 10.1097/01.crd.0000126082.86717.12
+PMID: 15705252 [Indexed for MEDLINE]
+
+
+307. BMJ. 2005 Feb 12;330(7487):326. doi: 10.1136/bmj.330.7487.326-d.
+
+Canadian life expectancy varies greatly depending on ethnic origin.
+
+Kermode-Scott B.
+
+DOI: 10.1136/bmj.330.7487.326-d
+PMCID: PMC548761
+PMID: 15705678 [Indexed for MEDLINE]
+
+
+308. Spine (Phila Pa 1976). 2005 Feb 15;30(4):E103-5. doi: 
+10.1097/01.brs.0000153704.92369.f7.
+
+Central cord syndrome after total hip arthroplasty: a patient report.
+
+Buchowski JM(1), Kebaish KM, Suk KS, Kostuik JP.
+
+Author information:
+(1)Department of Orthopaedic Surgery, Johns Hopkins University, Baltimore, MD, 
+USA.
+
+Erratum in
+    Spine. 2005 Apr 1;30(7):845. Athanasou, Nicholas [removed]; Wheeler, Kate 
+[removed].
+
+STUDY DESIGN: Case report.
+OBJECTIVE: To present a patient with central cord syndrome injury after total 
+hip arthroplasty performed under general endotracheal anesthesia.
+SUMMARY OF BACKGROUND DATA: Central cord syndrome, a common injury usually 
+sustained as a result of an extension injury to the cervical spine, often occurs 
+in geriatric patients with underlying spondylotic changes. The injury results in 
+weakness and sensory changes, which are more pronounced in the upper than in the 
+lower extremities. Patients with this syndrome experience variable return of 
+function, but some degree of residual deficit and spasticity is likely.

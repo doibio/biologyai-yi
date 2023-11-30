@@ -1,0 +1,1000 @@
+
+
+18. J Med Syst. 2015 Aug;39(8):79. doi: 10.1007/s10916-015-0262-y. Epub 2015 Jun
+28.
+
+An Improved RSA Based User Authentication and Session Key Agreement Protocol 
+Usable in TMIS.
+
+Amin R(1), Biswas GP.
+
+Author information:
+(1)Department of Computer Science, Engineering, Indian School of Mines, Dhanbad, 
+826004, India, amin_ruhul@live.com.
+
+Recently, Giri et al.'s proposed a RSA cryptosystem based remote user 
+authentication scheme for telecare medical information system and claimed that 
+the protocol is secure against all the relevant security attacks. However, we 
+have scrutinized the Giri et al.'s protocol and pointed out that the protocol is 
+not secure against off-line password guessing attack, privileged insider attack 
+and also suffers from anonymity problem. Moreover, the extension of password 
+guessing attack leads to more security weaknesses. Therefore, this protocol 
+needs improvement in terms of security before implementing in real-life 
+application. To fix the mentioned security pitfalls, this paper proposes an 
+improved scheme over Giri et al.'s scheme, which preserves user anonymity 
+property. We have then simulated the proposed protocol using widely-accepted 
+AVISPA tool which ensures that the protocol is SAFE under OFMC and CL-AtSe 
+models, that means the same protocol is secure against active and passive 
+attacks including replay and man-in-the-middle attacks. The informal 
+cryptanalysis has been also presented, which confirmed that the proposed 
+protocol provides well security protection on the relevant security attacks. The 
+performance analysis section compares the proposed protocol with other existing 
+protocols in terms of security and it has been observed that the protocol 
+provides more security and achieves additional functionalities such as user 
+anonymity and session key verification.
+
+DOI: 10.1007/s10916-015-0262-y
+PMID: 26123833 [Indexed for MEDLINE]
+
+
+19. Disabil Health J. 2016 Jan;9(1):127-33. doi: 10.1016/j.dhjo.2015.05.003. Epub
+ 2015 May 29.
+
+Quality of life in Mexican patients with primary neurological or musculoskeletal 
+disabilities.
+
+Estrella-Castillo DF(1), Gómez-de-Regil L(2).
+
+Author information:
+(1)Universidad Autónoma de Yucatán, Facultad de Medicina, Avenida Itzáes No. 498 
+x 59 y 59A Colonia Centro, Mérida, Yucatán CP 97000, Mexico.
+(2)Hospital Regional de Alta Especialidad de la Península de Yucatán, Calle 7, 
+No. 433 por 20 y 22, Fraccionamiento Altabrisa, Mérida, Yucatán 97130, Mexico. 
+Electronic address: gomezderegil@gmail.com.
+
+BACKGROUND: As the population with a disability increases both in number and 
+life expectancy, so does its demand for health services. Very little original 
+research has been done in Mexican populations regarding the effect of disability 
+on quality of life.
+OBJECTIVES: 1) Assessing the subjective quality of life of patients with 
+neuromusculoskeletal and movement-related function disabilities and, 2) 
+Analyzing the possible effect of the medical condition (diseases of the nervous 
+system vs. diseases of the musculoskeletal system and connective tissue) and its 
+interaction with sex and age.
+METHODS: In a cross-sectional design 330 participants were recruited from a 
+public institution in Mexico providing specialized outpatient rehabilitation. 
+After signing informed consent they responded a brief sociodemographic 
+questionnaire and the WHOQOL-BREF scale.
+RESULTS: In general quality of life levels were satisfactory. Female and elderly 
+patients with diseases of the nervous system were particularly affected in the 
+physical and psychological dimensions. Women with diseases of the nervous system 
+also showed a negatively affected social quality of life. Elderly with diseases 
+of the musculoskeletal system and connective tissue scored the lowest in general 
+health perception.
+CONCLUSIONS: Even though most patients were quite satisfied with their quality 
+of life, not all aspects or cases have such positive perceptions; both the 
+physical and psychological dimensions were particularly negative in female and 
+elderly patients with nervous system diseases. Clinicians would do well to 
+thoughtfully assess patients in these groups and adjust treatment to achieve the 
+greatest possible rehabilitation.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.dhjo.2015.05.003
+PMID: 26123857 [Indexed for MEDLINE]
+
+
+20. Drugs Aging. 2015 Jul;32(7):515-24. doi: 10.1007/s40266-015-0280-y.
+
+Diagnosis and Management of Late-Onset Spondyloarthritis: Implications of 
+Treat-to-Target Recommendations.
+
+Toussirot É(1).
+
+Author information:
+(1)Clinical Investigation Center in Biotherapy, INSERM CIC-1431, University 
+Hospital of Besançon, Place St Jacques, 25000, Besançon, France, 
+etoussirot@chu-besancon.fr.
+
+Spondyloarthritis (SpA) is usually observed in young patients while onset in the 
+elderly is less common. Late-onset forms of SpA may become more common due to 
+longer life expectancy. The clinical spectrum of late-onset SpA is as broad as 
+in young people, with a predominance of peripheral SpA over pure axial disease. 
+The Assessment of SpondyloArthritis international Society (ASAS) has developed 
+new criteria for axial or peripheral SpA that allow patients aged under 45 years 
+at the time of disease onset to be identified. These criteria are not 
+theoretically adapted for the classification of patients with late-onset disease 
+but they are useful for the diagnosis. Similarly, magnetic resonance imaging 
+(MRI) is now widely used for the early recognition of sacroiliitis or spinal 
+inflammation in SpA, and sacroiliitis as evidenced by MRI is included in the 
+ASAS criteria for axial SpA. Nevertheless, the utility of sacroiliac joint 
+and/or spine inflammation as detected by MRI has mostly been described in young 
+patients with ankylosing spondylitis, SpA, or inflammatory back pain, but not in 
+the elderly. The management of SpA is now more focused on remission or, 
+alternatively, low disease activity, according to the treat-to-target 
+recommendations. Such an optimized approach to therapy is thought to improve 
+patient outcomes and ultimately long-term quality of life. The same principles 
+of treatment should apply in the elderly, but require certain adjustments, 
+especially with biological agents. Tumor necrosis factor-α blocking agents are 
+very effective in SpA, but seem slightly less effective in the elderly and are 
+associated with an increased risk of infection in this population. A careful and 
+rigorous evaluation is thus required before initiating these agents in elderly 
+subjects.
+
+DOI: 10.1007/s40266-015-0280-y
+PMID: 26123949 [Indexed for MEDLINE]
+
+
+21. Amino Acids. 2015 Sep;47(9):1875-83. doi: 10.1007/s00726-015-2028-8. Epub
+2015  Jun 28.
+
+Homoarginine (hArg) and asymmetric dimethylarginine (ADMA) in short stature 
+children without and with growth hormone deficiency: hArg and ADMA are involved 
+differently in growth in the childhood.
+
+Langen J(1), Kayacelebi AA, Beckmann B, Weigt-Usinger K, Carmann C, Hörster I, 
+Lilienthal E, Richter-Unruh A, Tsikas D, Lücke T.
+
+Author information:
+(1)Department of Neuropaediatrics, Children's Hospital, University of Bochum, 
+Alexandrinenstr. 5, 44791, Bochum, Germany.
+
+Adult subjects with growth hormone (GH) deficiency (GHD) are known to have 
+reduced life expectancy due to increased cardiovascular and cerebrovascular 
+events. In adults, these events are associated with elevated circulating 
+concentrations of asymmetric dimethylarginine (ADMA) which is an endogenous 
+inhibitor of L-arginine (Arg)-derived nitric oxide (NO). Low circulating 
+concentrations of homoarginine (hArg) emerged as a cardiovascular risk factor. 
+In adults, hArg seems to antagonize ADMA. In the present work, we tested the 
+hypothesis that children with short stature without or with GHD have altered 
+Arg/NO pathway as compared to children with normal growth. We studied 66 short 
+stature children (38 boys, 28 girls) aged 3.5-17.3 years, who underwent the 
+routine L-Arginine Test to diagnose presence of GHD. GHD was confirmed in 47 
+children (GHD group; 30 boys, 17 girls) and was absent in the remaining 19 
+children (non-GHD group; 8 boys, 11 girls). In addition, we investigated 24 
+healthy age- and gender-matched children (10 boys, 14 girls) with normal growth. 
+In EDTA plasma samples of all children, we determined by mass spectrometry-based 
+methods the concentrations of Arg, hArg and ADMA, and calculated the Arg/ADMA 
+and hArg/ADMA molar ratios. With respect to these biochemical parameters, we did 
+not find statistically significant differences between the GHD and non-GHD 
+groups. Comparing short with normal stature children, we found small differences 
+regarding plasma hArg concentrations [mean ± SD; median (25th-75th percentile)]: 
+2.06 ± 0.52 µM; 2.12 (1.74-2.36) µM vs. 1.7 ± 0.5 µM; 1.6 (1.4-1.8) µM, P < 
+0.001. Compared to normal stature children, short stature children had 
+considerably higher plasma concentrations of ADMA [0.77 ± 0.15 µM; 0.77 
+(0.66-0.85) µM vs. 0.57 ± 0.09 µM; 0.58 (0.50-0.63) µM, P < 0.001], but not of 
+Arg [83.3 ± 19.2 µM; 82.2 (71.9-90.3) µM vs. 86.5 ± 17.8 µM; 84.8 (77.2-94.8) 
+µM, P = 0.336], or the hArg/ADMA ratio [2.74 ± 0.76; 2.7 (2.2-3.1) vs. 3.1 ± 
+1.2; 2.85 (2.42-3.66), P = 0.161. hArg in the GHD group (r = 0.41, P = 0.004) 
+and the hArg/ADMA ratio in both groups (r = 0.44, P = 0.002 in GHD; r = 0.55, P 
+= 0.01 in non-GHD)], but not ADMA were positively correlated with insulin-like 
+growth factor-1 (IGF-1). hArg and hArg/ADMA differed between girls and boys in 
+the GHD and non-GHD groups but in the normal growth group. The hArg/ADMA ratio 
+increased with age in all groups. Our study suggests that hArg and ADMA are 
+involved in growth in the childhood, presumably in an antagonistic manner, with 
+ADMA slowing and hArg accelerating growth.
+
+DOI: 10.1007/s00726-015-2028-8
+PMID: 26123987 [Indexed for MEDLINE]
+
+
+22. J Health Polit Policy Law. 2015 Aug;40(4):911-21. doi:
+10.1215/03616878-3150160.  Epub 2015 Jun 29.
+
+The Affordable Care Act versus Medicare for All.
+
+Seidman L(1).
+
+Author information:
+(1)University of Delaware.
+
+Many problems facing the Affordable Care Act would disappear if the nation were 
+instead implementing Medicare for All - the extension of Medicare to every age 
+group. Every American would be automatically covered for life. Premiums would be 
+replaced with a set of Medicare taxes. There would be no patient cost sharing. 
+Individuals would have free choice of doctors. Medicare's single-payer 
+bargaining power would slow price increases and reduce medical cost as a 
+percentage of gross domestic product (GDP). Taxes as a percentage of GDP would 
+rise from below average to average for economically advanced nations. Medicare 
+for All would be phased in by age.
+
+Copyright © 2015 by Duke University Press.
+
+DOI: 10.1215/03616878-3150160
+PMID: 26124300 [Indexed for MEDLINE]
+
+
+23. Clin Ophthalmol. 2015 Jun 17;9:1099-107. doi: 10.2147/OPTH.S86208.
+eCollection  2015.
+
+Long-term (60-month) results for the implantable miniature telescope: efficacy 
+and safety outcomes stratified by age in patients with end-stage age-related 
+macular degeneration.
+
+Boyer D(1), Freund KB(2), Regillo C(3), Levy MH(4), Garg S(5).
+
+Author information:
+(1)Retina-Vitreous Associates Medical Group, Beverly Hills, CA, USA.
+(2)Vitreous-Retina-Macula Consultants of New York, New York, NY, USA.
+(3)Wills Eye Institute, Philadelphia, PA, USA.
+(4)Sarasota Retina Institute, Sarasota, FL, USA.
+(5)The Gavin Herbert Eye Institute (University of California, Irvine) Irvine, 
+CA, USA.
+
+BACKGROUND: The purpose of this study was to evaluate the long-term results of 
+an implantable miniature telescope (IMT) in patients with bilateral, end-stage, 
+age-related macular degeneration (AMD).
+METHODS: A prospective, open-label, multicenter clinical trial with fellow eye 
+controls enrolled 217 patients (mean age 76 years) with AMD and 
+moderate-to-profound bilateral central visual acuity loss (20/80-20/800) 
+resulting from untreatable geographic atrophy, disciform scars, or both. A 
+subgroup analysis was performed with stratification for age (patient age 65 to 
+<75 years [group 1; n=70] and patient age ≥75 years [group 2; n=127]), with a 
+comparative evaluation of change in best-corrected distance visual acuity 
+(BCDVA), quality of life, ocular complications from surgery, adverse events, and 
+endothelial cell density (ECD). Follow-up in an extension study was 60 months.
+RESULTS: Data were available for 22, 38, and 31 patients in group 1 and 42, 46, 
+and 32 patients in group 2 at 36, 48, and 60 months, respectively. Mean BCDVA 
+improvement from baseline to 60 months was 2.41±2.69 lines in all patients 
+(n=76), with 2.64±2.55 lines in group 1 and 2.09±2.88 lines in group 2. Quality 
+of life scores were significantly higher in group 1. The most common significant 
+surgery-related ocular complications in group 1 were iritis >30 days after 
+surgery (7/70; 10%) and persistent corneal edema (3/70; 4.3%); and in group 2 
+were a decrease in BCDVA in the implanted eye or IMT removal (10/127 each; 
+7.9%), corneal edema >30 days after surgery (9/127; 7.1%), and persistent 
+corneal edema (6/127; 4.7%). Significant adverse events included four corneal 
+transplants, comprising two (2.9%) in group 1 and two (1.6%) in group 2. At 60 
+months, one patient in group 1 (3.2%) and three patients in group 2 (9.4%) had 
+lost ≥2 lines of vision. The IMT was removed in one (1.4%) and ten (7.9%) 
+patients in group 1 and group 2, respectively. Mean ECD loss was 20% at 3 
+months. Chronic loss was 3% per year. ECD loss was less in group 1 than in group 
+2 (35% versus 40%, respectively) at 60 months.
+CONCLUSION: Long-term results show substantial retention of improvement in 
+BDCVA. Chronic ECD loss was consistent with that reported for conventional 
+intraocular lenses. The IMT performed as well in group 1 (the younger group) as 
+it did in group 2 through month 60. Younger patients retained more vision than 
+their older counterparts and had fewer adverse events. Although not a specified 
+outcome for this study, patients younger than 65 years also fared better than 
+those in group 2 and retained more vision with fewer adverse events through 
+month 60.
+
+DOI: 10.2147/OPTH.S86208
+PMCID: PMC4476474
+PMID: 26124633
+
+
+24. J Autism Dev Disord. 2015 Nov;45(11):3613-23. doi: 10.1007/s10803-015-2507-5.
+
+Treatment for Sleep Problems in Children with Autism and Caregiver Spillover 
+Effects.
+
+Tilford JM(1)(2), Payakachat N(3), Kuhlthau KA(4)(5), Pyne JM(6), Kovacs E(7), 
+Bellando J(8), Williams DK(9), Brouwer WB(10), Frye RE(8).
+
+Author information:
+(1)Department of Health Policy and Management, University of Arkansas for 
+Medical Sciences, Little Rock, AR, 72205, USA. tilfordmickj@uams.edu.
+(2)Division of Pharmaceutical Evaluation and Policy, University of Arkansas for 
+Medical Sciences, Little Rock, AR, USA. tilfordmickj@uams.edu.
+(3)Division of Pharmaceutical Evaluation and Policy, University of Arkansas for 
+Medical Sciences, Little Rock, AR, USA.
+(4)Department of Pediatrics, Harvard Medical School, Boston, MA, USA.
+(5)Center for Adolescent Health Policy, Massachusetts General Hospital, Boston, 
+MA, USA.
+(6)Center for Mental Healthcare and Outcomes Research, Central Arkansas Veterans 
+Healthcare System and Psychiatric Research Institute, University of Arkansas for 
+Medical Sciences, Little Rock, AR, USA.
+(7)Department of Psychiatry, Columbia University Medical Center, New York, NY, 
+USA.
+(8)Department of Pediatrics, University of Arkansas for Medical Sciences, Little 
+Rock, AR, USA.
+(9)Department of Biostatistics, University of Arkansas for Medical Sciences, 
+Little Rock, AR, USA.
+(10)Department of Health Policy and Management, Erasmus University, Rotterdam, 
+The Netherlands.
+
+Sleep problems in children with autism spectrum disorders (ASD) are 
+under-recognized and under-treated. Identifying treatment value accounting for 
+health effects on family members (spillovers) could improve the perceived 
+cost-effectiveness of interventions to improve child sleep habits. A prospective 
+cohort study (N = 224) was conducted with registry and postal survey data 
+completed by the primary caregiver. We calculated quality of life outcomes for 
+the child and the primary caregiver associated with treatments to improve sleep 
+in the child based on prior clinical trials. Predicted treatment effects for 
+melatonin and behavioral interventions were similar in magnitude for the child 
+and for the caregiver. Accounting for caregiver spillover effects associated 
+with treatments for the child with ASD increases treatment benefits and improves 
+cost-effectiveness profiles.
+
+DOI: 10.1007/s10803-015-2507-5
+PMCID: PMC4609586
+PMID: 26126749 [Indexed for MEDLINE]
+
+
+25. Appl Health Econ Health Policy. 2015 Aug;13(4):325-40. doi: 
+10.1007/s40258-015-0183-4.
+
+A Systematic Review of Studies Evaluating the Cost Utility of Screening 
+High-Risk Populations for Latent Tuberculosis Infection.
+
+Campbell JR(1), Sasitharan T, Marra F.
+
+Author information:
+(1)University of British Columbia, 2405 Wesbrook Mall, Vancouver, BC, V6T 1Z3, 
+Canada.
+
+BACKGROUND: As tuberculosis screening trends to targeting high-risk populations, 
+knowing the cost effectiveness of such screening is vital to decision makers.
+OBJECTIVES: The purpose of this review was to compile cost-utility analyses 
+evaluating latent tuberculosis infection (LTBI) screening in high-risk 
+populations that used quality-adjusted life-years (QALYs) as their measure of 
+effectiveness.
+DATA SOURCES: A literature search of MEDLINE, EMBASE, Cochrane Database of 
+Systematic Reviews, Web of Knowledge, and PubMed was performed from database 
+start to November 2014.
+INCLUSION CRITERIA: Studies performed in populations at high risk of LTBI and 
+subsequent reactivation that used the QALY as an effectiveness measure were 
+included.
+STUDY APPRAISAL AND SYNTHESIS: Quality was assessed using the Consolidated 
+Health Economic Evaluation Reporting Standards (CHEERS) checklist. Data 
+extracted included tuberculin skin test (TST) and/or interferon-gamma release 
+assay (IGRA) use, economic, screening, treatment, health state, and 
+epidemiologic parameters. Data were summarized in regard to consistency in model 
+parameters and the incremental cost-effectiveness ratio (ICER), with costs 
+adjusted to 2013 US dollars.
+RESULTS: Of 415 studies identified, ultimately eight studies were included in 
+the review. Most took a societal perspective (n = 4), used lifetime time 
+horizons (n = 6), and used Markov models (n = 8). Screening of adult immigrants 
+was found to be cost effective with a TST in one study, but moderately cost 
+effective with an IGRA in another study; screening immigrants arriving more than 
+5 years prior with an IGRA was moderately cost effective until 44 years of age 
+(n = 1). Screening HIV-positive patients was highly cost effective with a TST 
+(n = 1) and moderately cost effective with an IGRA (n = 1). Screening in those 
+with renal diseases (n = 2) and diabetes (n = 1) was not cost effective.
+LIMITATIONS: Very few studies used the QALY as their effectiveness measure. 
+Parameter and study design inconsistencies limit the comparability of studies.
+CONCLUSIONS: With validity issues in terms of parameters and assumptions, any 
+conclusion should be interpreted with caution. Despite this, some cautionary 
+recommendations emerged: screening HIV patients with a TST is highly cost 
+effective, while screening adult immigrants with an IGRA is moderately cost 
+effective.
+
+DOI: 10.1007/s40258-015-0183-4
+PMID: 26129810 [Indexed for MEDLINE]
+
+
+26. Curr Allergy Asthma Rep. 2015 Apr;15(4):15. doi: 10.1007/s11882-015-0515-3.
+
+Presentation and Diagnosis of Hypersensitivity to Platinum Drugs.
+
+Caiado J(1), Castells M.
+
+Author information:
+(1)Immunoallergology Department, Hospital de Santa Maria, Centro Hospitalar 
+Lisboa Norte, Avenida Professor Egas Moniz, 1649-035, Lisbon, Portugal, 
+joanacaiado@hotmail.com.
+
+Hypersensitivity reactions (HSRs) to platinum drugs are increasing due to their 
+extensive use in a wide variety of malignancies and the repeated exposures in 
+patients with increased life expectancy. Understanding the incidence of HSR to 
+platinum drugs and associated risk factors can help with the diagnosis and may 
+provide protection against severe HSRs. A thorough clinical history with 
+identification of the typical and atypical symptoms, the relationship with the 
+platin administration, and the number of previous exposures are the key to the 
+diagnosis. An elevated serum tryptase at the time of the HSR indicates that IgE 
+and/or mast cells/basophils were involved in the HSR. Skin testing to platinum 
+drugs is a highly sensitive and specific diagnostic tool, which helps provide 
+risk stratification and management recommendations. Platinum specific IgE 
+measurement and basophil activation test (BAT) are emerging as new diagnostic 
+tools and in combination with skin testing can help support the diagnosis and 
+the cross-reactivity between the three most commonly used platinum drugs, namely 
+carboplatin, cisplatin, and oxaliplatin.
+
+DOI: 10.1007/s11882-015-0515-3
+PMID: 26130472 [Indexed for MEDLINE]
+
+
+27. In Vivo. 2015 Jul-Aug;29(4):415-22.
+
+The Spectrum of Infectious Diseases in Kidney Transplantation: A Review of the 
+Classification, Pathogens and Clinical Manifestations.
+
+Anastasopoulos NA(1), Duni A(2), Peschos D(3), Agnantis N(4), Dounousi E(5).
+
+Author information:
+(1)Department of Surgery, Medical School, University of Ioannina, Ioannina, 
+Greece.
+(2)Department of Nephrology, University Hospital of Ioannina, Ioannina, Greece.
+(3)Laboratory of Physiology, Medical School, University of Ioannina, Ioannina, 
+Greece.
+(4)Laboratory of Pathology, Medical School, University of Ioannina, Ioannina, 
+Greece.
+(5)Department of Nephrology, University Hospital of Ioannina, Ioannina, Greece 
+evangeldou@gmail.com.
+
+Kidney transplantation is the treatment-of-choice for a significant number of 
+patients with end-stage renal disease. Renal transplant recipients (RTRs) 
+benefit from a longer life expectancy, with a better quality of life. Despite, 
+recent accomplishments in the field of kidney transplantation, both short- and 
+long-term, surgical and medical complications still exist. Among these 
+complications, cardiovascular disease, carcinogenesis and infections are the 
+most important. Infectious diseases constitute the most common complications 
+after renal transplantation and the second most common cause of death among RTRs 
+with a functioning graft. Theoretically, all infectious pathogens could cause 
+disease in immunocompromised RTRs, yet among these, one could identify more 
+important ones, such as the Enterobacteriaceae, causing urinary tract 
+infections; pneumonia due to Pneumocystis jirovecii; Candida species which cause 
+invasive fungal infections; herpes viruses; hepatitis viruses and parasites. 
+Early diagnosis and effective treatment are key elements in salvaging both the 
+allograft and the patient. However, clinical manifestations and diagnosis of 
+such infectious diseases are not easily identified due to the altered state of 
+immune response of the RTR. Thus, apart from possessing a deep knowledge of the 
+etiology and the treatment options in each case, transplant physicians should 
+also always remain alert when dealing with RTRs.
+
+Copyright © 2015 International Institute of Anticancer Research (Dr. John G. 
+Delinassios), All rights reserved.
+
+PMID: 26130786 [Indexed for MEDLINE]
+
+
+28. Bonekey Rep. 2015 Jun 24;4:716. doi: 10.1038/bonekey.2015.85. eCollection
+2015.
+
+Androgen-deprivation therapy and bone loss in prostate cancer patients: a 
+clinical review.
+
+Bienz M(1), Saad F(2).
+
+Author information:
+(1)Faculty of Medicine, University of Montreal , Montreal, Canada.
+(2)Department of Urology, University of Montreal Hospital Center , Montreal, 
+Canada.
+
+Androgen-deprivation therapy (ADT) has become a standard of care in the 
+management of advanced prostate cancer or as an adjunct therapy. However, ADT is 
+associated with a well-known deleterious effect on bone health, resulting in a 
+decrease in bone-mass density (BMD) and increased risk for fracture. With the 
+longer life expectancy of prostate cancer patients, improvement of the quality 
+of life has become increasingly important. Therefore, adequate screening, 
+prevention and treatment of BMD loss is paramount. Zoledronic acid and denosumab 
+have shown promising results in recent studies, which has led to the Food and 
+Drug Administration approval of these treatment options in various settings 
+throughout the course of the disease, including the prevention of ADT-associated 
+bone loss. This review focuses on the various parameters that impact BMD loss in 
+men initiating ADT, on the specific effect of ADT on bone health and on various 
+lifestyle modifications and treatment options such as bisphosphonates, 
+osteoclast-targeted therapy and selective estrogen-receptor modulators that have 
+shown promising results in recent studies.
+
+DOI: 10.1038/bonekey.2015.85
+PMCID: PMC4478875
+PMID: 26131363
+
+Conflict of interest statement: FS is a consultant to and receives research 
+funding from Amgen, Novartis and Bayer. The remaining author declares no 
+conflict of interest.
+
+
+29. Am J Respir Crit Care Med. 2015 Oct 15;192(8):965-73. doi: 
+10.1164/rccm.201501-0126OC.
+
+Effects of Recipient Age and Diagnosis on Health-related Quality-of-Life Benefit 
+of Lung Transplantation.
+
+Singer LG(1)(2), Chowdhury NA(2), Faughnan ME(1)(3)(4), Granton J(1)(2), 
+Keshavjee S(5)(2), Marras TK(1)(2), Tullis DE(1)(3), Waddell TK(5)(2), Tomlinson 
+G(1)(2).
+
+Author information:
+(1)1 Department of Medicine and.
+(2)2 University Health Network, Toronto, Ontario, Canada.
+(3)3 St. Michael's Hospital, Toronto, Ontario, Canada; and.
+(4)4 Li Ka Shing Knowledge Institute, St. Michael's Hospital, Toronto, Ontario, 
+Canada.
+(5)5 Department of Thoracic Surgery, University of Toronto, Toronto, Ontario, 
+Canada.
+
+RATIONALE: The average age of lung transplant recipients is increasing, and the 
+mix of recipient indications for transplantation is changing.
+OBJECTIVES: To determine whether the health-related quality-of-life (HRQL) 
+benefit of lung transplantation differs by recipient age and diagnosis.
+METHODS: In this prospective cohort study, we obtained serial HRQL measurements 
+in adults with advanced lung disease who subsequently underwent lung 
+transplantation (2004-2012). HRQL assessments included the St. George's 
+Respiratory Questionnaire, 36-Item Short-Form Health Survey (SF-36), EQ-5D, 
+Standard Gamble, and Visual Analog Scale for current health. We used linear 
+mixed effects models for associations between age or diagnosis and changes in 
+HRQL with transplantation. To address potential survivorship bias, we fitted 
+Markov models to the distribution of discrete post-transplant health states 
+(HRQL better than pretransplant, not better, or dead) and estimated 
+quality-adjusted life-years post-transplant.
+MEASUREMENTS AND MAIN RESULTS: A total of 430 subjects were listed, 387 were 
+transplanted, and 326 provided both pretransplant and post-transplant data. 
+Transplantation conferred large improvements in all HRQL measures: St. George's 
+change of -47 units (95% confidence interval, -48 to -44), 36-Item Short-Form 
+Health Survey physical component summary score of 17.7 (16.5-18.9), EQ-5D of 
+0.27 (0.24-0.30), Standard Gamble of 0.48 (0.44-0.51), and Visual Analog of 44 
+(42-47). Age was not associated with meaningful differences in the HRQL benefits 
+of transplantation. There was less HRQL benefit in interstitial lung disease 
+than in cystic fibrosis.
+CONCLUSIONS: Lung transplantation confers large HRQL benefits, which vary by 
+recipient diagnosis, but do not differ substantially in older recipients.
+
+DOI: 10.1164/rccm.201501-0126OC
+PMID: 26131729 [Indexed for MEDLINE]
+
+
+30. J Clin Ethics. 2015 Summer;26(2):121-31.
+
+Expanding the Use of Continuous Sedation Until Death: Moving Beyond the Last 
+Resort for the Terminally Ill.
+
+LiPuma SH(1), DeMarco JP(2).
+
+Author information:
+(1)Cuyahoga Community College, Western Campus, Department of Philosophy, 11000 
+Pleasant Valley Rd., Parma, OH 44103-5150 USA. Samuel.lipuma@tri-c.edu.
+(2)Cleveland State University, Department of Philosophy, 2121 Euclid Ave., RT 
+1932, Cleveland, Ohio 44115-2214 USA.
+
+Comment in
+    J Clin Ethics. 2015 Summer;26(2):132-42.
+
+As currently practiced, the use of continuous sedation until death (CSD) is 
+controlled by clinicians in a way that may deny patients a key choice in 
+controlling their dying process. Ethical guidelines from the American Medical 
+Association and the American Academy of Pain Medicine describe CSD as a "last 
+resort," and a position statement from the American Academy of Hospice and 
+Palliative Medicine describe it as "an intervention reserved for extreme 
+situations." Accordingly, patients must progress to unremitting pain and 
+suffering and reach a last-resort stage before the option to pursue CSD is 
+considered. Alternatively, we present and defend a new guideline in which 
+decisionally capable, terminally ill patients who have a life expectancy of less 
+than six months may request CSD before being subjected to the refractory 
+suffering of a treatment of "last resort."
+
+Copyright 2015 The Journal of Clinical Ethics. All rights reserved.
+
+PMID: 26132059 [Indexed for MEDLINE]
+
+
+31. J Clin Ethics. 2015 Summer;26(2):132-42.
+
+Continuous Sedation Until Death Should Not Be an Option of First Resort.
+
+McCammon SD(1), Piemonte NM(2).
+
+Author information:
+(1)University of Texas Medical Branch, 301 University Blvd., Galveston, Texas 
+77555-0521 USA. sdmccamm@utmb.edu.
+(2)527 21st St. #63, Galveston, TX 77550 USA. Nicole.piemonte@gmail.com.
+
+Comment in
+    J Clin Ethics. 2015 Fall;26(3):266-9.
+
+Comment on
+    J Clin Ethics. 2015 Summer;26(2):121-31.
+
+Samuel H. LiPuma and Joseph P. DeMarco argue for a positive right to continuous 
+sedation until death (CSD) for any patient with a life expectancy less than six 
+months. They reject any requirement of proportionality. Their proposed guideline 
+makes CSD an option for a decisional adult patient with an appropriate terminal 
+diagnosis regardless of whether suffering (physical or existential) is present. 
+This guideline purports to "empower" the patient with the ability to control the 
+timing and manner of her death. This extends even to the option to "opt out" of 
+the awareness and experience of dying and to avoid suffering altogether, even if 
+one's symptoms and suffering could be effectively treated. We respond first with 
+a critique of their terminology. We then turn to some purely practical 
+considerations of how this guideline might be enacted in the current atmosphere 
+of American hospice and palliative care medicine. We close with a consideration 
+of one philosophical concern that might ground the discussion of risks, 
+benefits, and alternatives necessary for informed consent.
+
+Copyright 2015 The Journal of Clinical Ethics. All rights reserved.
+
+PMID: 26132060 [Indexed for MEDLINE]
+
+
+32. Am Fam Physician. 2015 Jul 1;92(1):27-34.
+
+Management of Blood Glucose with Noninsulin Therapies in Type 2 Diabetes.
+
+George CM(1), Brujin LL(1), Will K(2), Howard-Thompson A(1).
+
+Author information:
+(1)University of Tennessee Health Science Center, Memphis, TN, USA.
+(2)Texas Tech University Health Sciences Center, Abilene, TX, USA.
+
+A comprehensive, collaborative approach is necessary for optimal treatment of 
+patients with type 2 diabetes mellitus. Treatment guidelines focus on nutrition, 
+exercise, and pharmacologic therapies to prevent and manage complications. 
+Patients with prediabetes or new-onset diabetes should receive individualized 
+medical nutrition therapy, preferably from a registered dietitian, as needed to 
+achieve treatment goals. Patients should be treated initially with metformin 
+because it is the only medication shown in randomized controlled trials to 
+reduce mortality and complications. Additional medications such as 
+sulfonylureas, dipeptidyl-peptidase-4 inhibitors, thiazolidinediones, and 
+glucagon-like peptide-1 receptor agonists should be added as needed in a 
+patient-centered fashion. However, there is no evidence that any of these 
+medications reduce the risk of diabetes-related complications, cardiovascular 
+mortality, or all-cause mortality. There is insufficient evidence on which 
+combination of hypoglycemic agents best improves health outcomes before 
+escalating to insulin therapy. The American Diabetes Association recommends an 
+A1C goal of less than 7% for many nonpregnant adults, with the option of a less 
+stringent goal of less than 8% for patients with short life expectancy, 
+cardiovascular risk factors, or long-standing diabetes. Randomized trials in 
+middle-aged patients with cardiovascular risk factors have shown no mortality 
+benefit and in some cases increased mortality with more stringent A1C targets.
+
+PMID: 26132124 [Indexed for MEDLINE]
+
+
+33. Mem Inst Oswaldo Cruz. 2015 Aug;110(5):611-7. doi: 10.1590/0074-02760150064. 
+Epub 2015 Jun 30.
+
+Effect of Leishmania spp infection on the survival, life expectancy, fecundity 
+and fertility of Lutzomyia longipalpiss.l. and Lutzomyia pseudolongipalpis.
+
+Agrela IF(1), Feliciangeli MD(1).
+
+Author information:
+(1)Instituto de Investigaciones Biomédicas, Facultad de Ciencias de la Salud, 
+Universidad de Carabobo, Maracay, Aragua, VE.
+
+We evaluated the effects of Leishmaniaspp infection on several population 
+parameters of Lutzomyia longipalpis sensu lato andLutzomyia pseudolongipalpis, 
+vectors of visceral leishmaniasis in Venezuela, under experimental conditions 
+during the first post-feeding period. Females of both species were allowed to 
+feed and engorge on a suspension of fresh washed human red blood cells in foetal 
+calf serum. These blood cells were either non-infected or infected with one of 
+the fourLeishmaniaspp strains and were offered through a chicken skin membrane. 
+The longevity, life expectancy and the fecundity of uninfected flies were 
+similar in both species, but the fertility was significantly lower in uninfected 
+Lu. longipalpis females. In all cases, the infection of Lu. longipalpis and Lu. 
+pseudolongipalpis by the Leishmaniastrains resulted in significant detrimental 
+effects, which exerted a fitness cost expressed by reduced survival and life 
+expectancy, as well as decreased fertility and fecundity compared with the 
+control groups. Nevertheless, differences in these parameters were observed 
+between these vector species depending on whether they were infected with the 
+autochthonous Venezuelan Leishmania infantum strain (NESA) or the Brazilian 
+reference strain (PP75). The experimental data obtained agree with field data on 
+the natural infection of these vector species and the significance of this 
+scenario is discussed.
+
+DOI: 10.1590/0074-02760150064
+PMCID: PMC4569823
+PMID: 26132427 [Indexed for MEDLINE]
+
+
+34. Bioethics. 2016 Mar;30(3):159-64. doi: 10.1111/bioe.12171. Epub 2015 Jul 1.
+
+Against 'Saving Lives': Equal Concern and Differential Impact.
+
+Chappell RY.
+
+Bioethicists often present 'saving lives' as a goal distinct from, and competing 
+with, that of extending lives by as much as possible. I argue that this usage of 
+the term is misleading, and provides unwarranted rhetorical support for 
+neglecting the magnitudes of the harms and benefits at stake in medical 
+allocation decisions, often to the detriment of the young. Equal concern for all 
+persons requires weighting equal interests equally, but not all individuals have 
+an equal interest in 'life-saving' treatment.
+
+© 2015 John Wiley & Sons Ltd.
+
+DOI: 10.1111/bioe.12171
+PMID: 26132886 [Indexed for MEDLINE]
+
+
+35. Int J Environ Res Public Health. 2015 Jun 30;12(7):7444-56. doi: 
+10.3390/ijerph120707444.
+
+Comparison of the Cumulative Incidence Rates of Coal Workers' Pneumoconiosis 
+between 1970 and 2013 among Four State-Owned Colliery Groups in China.
+
+Cui K(1), Shen F(2)(3), Han B(4), Yuan J(3), Suo X(5), Qin T(6), Liu H(7), Chen 
+J(8).
+
+Author information:
+(1)School of Public Health, China Medical University, Shenyang 110013, Liaoning, 
+China. cuikai19851022@tom.com.
+(2)School of Public Health, China Medical University, Shenyang 110013, Liaoning, 
+China. yuanjx@heuu.edu.cn.
+(3)School of Public Health, Hebei United University, Tangshan 063000, Hebei, 
+China. yuanjx@heuu.edu.cn.
+(4)School of Public Health, China Medical University, Shenyang 110013, Liaoning, 
+China. alex0229@163.com.
+(5)Occupational Disease Prevention and Treatment Hospital of Datong Coal Mine 
+Group, Datong 037003, Shanxi, China. suoxsuox@sina.com.
+(6)Occupational Disease Prevention and Treatment Hospital of Kailuan Colliery 
+Group, Tangshan 063000, Hebei, China. qintbqin@sina.com.
+(7)School of Public Health, China Medical University, Shenyang 110013, Liaoning, 
+China. liuhbabc@163.com.
+(8)School of Public Health, China Medical University, Shenyang 110013, Liaoning, 
+China. chenjie@mail.cmu.edu.cn.
+
+The purpose of this study was to identify differences in the incidence 
+characteristics of coal workers' pneumoconiosis (CWP) based on data from four 
+large state-owned colliery groups of China, by comparing the cumulative 
+incidence rates of CWP. We investigated 87,904 coal workers from the Datong, 
+Kailuan, Fuxin, and Tiefa Colliery Groups, who were exposed to dust for at least 
+1 year. The cumulative incidence rate of CWP was calculated with the life-table 
+method and stratified analysis among coal workers with different occupational 
+categories during different years of first dust exposure. Our results showed the 
+cumulative incidence rate of Datong was higher than that of any other colliery 
+group among workers with different occupational categories during different 
+years of first dust exposure. For Datong workers who started their dust exposure 
+in the 1970s, the cumulative incidence rates of CWP among tunneling, mining, 
+combining, and helping workers were 34.77%, 10.20%, 34.59%, and 4.91% during the 
+observed time of 34 years, respectively. For those in the 1980s, the cumulative 
+incidence rates were 32.29%, 13.51%, 2.98%, and 0.47%, respectively. The 
+cumulative incidence rates of Fuxin and Tiefa were the lowest. In conclusion, 
+the Datong colliery has the highest cumulative incidence rate of CWP among the 
+four studied collieries, followed by Kailuan. The cumulative incidence rates of 
+Fuxin and Tiefa were the lowest. Additional dust-proofing measures for 
+decreasing dust concentrations are still necessary.
+
+DOI: 10.3390/ijerph120707444
+PMCID: PMC4515667
+PMID: 26133134 [Indexed for MEDLINE]
+
+
+36. Int Orthop. 2016 Jan;40(1):41-9. doi: 10.1007/s00264-015-2847-y. Epub 2015
+Jul  2.
+
+Intra-operative gaps affect outcome and postoperative kinematics in vivo 
+following cruciate-retaining total knee arthroplasty.
+
+Fujimoto E(1), Sasashige Y(2), Tomita T(3), Sasaki H(2), Touten Y(2), Fujiwara 
+Y(2), Ochi M(4).
+
+Author information:
+(1)Department of Orthopaedic Surgery, Chugoku Rousai Hospital, 1-5-1 Hirotagaya, 
+Kure, Hiroshima, 737-0193, Japan. eisaku-fjm@umin.ac.jp.
+(2)Department of Orthopaedic Surgery, Chugoku Rousai Hospital, 1-5-1 Hirotagaya, 
+Kure, Hiroshima, 737-0193, Japan.
+(3)Department of Orthopaedic Biomaterial Science, Osaka University Graduate 
+School of Medicine, Suita, Osaka, Japan.
+(4)Department of Orthopaedic Surgery, Hiroshima University, Hiroshima, Japan.
+
+PURPOSE: The following investigation evaluates the effect of intra-operative 
+gaps after posterior cruciate ligament-retaining total knee arthroplasty using 
+two-dimensional/three-dimensional registration and the Western Ontario and 
+McMaster Universities Osteoarthritis Index (WOMAC).
+METHODS: Patients were divided into two groups according to their 90°-0° 
+component gap changes using a device designed by our laboratory. The wide gap 
+group was defined as more than 3 mm (4.3 ± 0.7 mm), and the narrow gap group was 
+defined as less than 3 mm (1.3 ± 1.3 mm).
+RESULTS: Under non-WB (weight bearing) conditions, the wide flexion gap group 
+(N = 10) showed a significant anterior displacement of the medial femoral 
+condyle as compared with the narrow flexion gap group (N = 20). Despite no 
+significant differences observed under WB conditions, both femoral condyle 
+positions during flexion were significantly more posterior than during 
+extension. WOMAC of the tight gap group showed worse scores for two functional 
+items demanding knee flexion (bending to floor and getting on/off toilet).
+CONCLUSION: The large flexion gap could influence the late rollback under non-WB 
+conditions and better WOMAC functional scores in the flexion items. Three to 
+four millimetre laxity at 90°-0° component gaps may be adequate and might be 
+necessary to carry out daily life activities.
+
+DOI: 10.1007/s00264-015-2847-y
+PMID: 26133289 [Indexed for MEDLINE]
+
+
+37. Med Phys. 2015 Jul;42(7):4043-54. doi: 10.1118/1.4922200.
+
+Automatic segmentation method for bone and blood vessel in murine hindlimb.
+
+Zhao F(1), Liang J(1), Chen D(1), Wang C(1), Yang X(1), Chen X(1), Cao F(2).
+
+Author information:
+(1)Engineering Research Center of Molecular and Neuro Imaging of Ministry of 
+Education, School of Life Science and Technology, Xidian University, Xi'an, 
+Shaanxi 710071, China.
+(2)Department of Cardiology, Chinese People's Liberation Army General Hospital, 
+Beijing 100853, China.
+
+PURPOSE: The goal of this paper is to address three problems existing in vessel 
+extraction of murine hindlimb. First, the bone can hardly be separated from 
+blood vessels because the intensity of contrast enhanced blood vessels is 
+similar to that of bones. Second, as an automatic blood vessel segmentation 
+method, the vesselness method is sensitive to sharp boundaries, resulting in 
+false positive effect in nonvascular regions. Finally, thin blood vessels are 
+always broken after segmentation because of the low signal-to-noise ratio.
+METHODS: The proposed automatic segmentation method for bone and blood vessel in 
+this paper includes three important modules. (1) To eliminate the interference 
+of bones on the segmentation of blood vessels, the authors employ split Bregman 
+method to segment bones in the first place. (2) The authors propose an edge 
+extension strategy to cope with the false positive effect of the vesselness 
+method on the sharp boundaries of hindlimb after the removal of bones. Then, the 
+authors segment the blood vessels using the vesselness method combined with 
+multiscale bi-Gaussian filtering. (3) The authors reconnect the broken blood 
+vessels after segmentation based on centerline and morphological dilation.
+RESULTS: The bones' segmentation from the murine hindlimbs was conducted using 
+the split Bregman, manual, and thresholding methods, respectively. Compared with 
+the thresholding method, the split Bregman method could finely segment the bones 
+from blood vessels, and the results were comparable to that of manual 
+segmentation. After removing bones, the vesselness method combined with the 
+bi-Gaussian filtering with and without edge extension was performed. The 
+vesselness results with the edge extension strategy could effectively eliminate 
+the false positive effect on sharp boundaries in nonvascular regions. Some of 
+the blood vessels segmented by thresholding from the vesselness results were 
+disconnected. Thus, the authors employed the vascular connection method based on 
+centerline and morphological dilation to connect the broken blood vessels. 
+Compared with the vascular connection utilizing the spatial-variant and 
+-invariant morphological closing methods, the proposed vascular connection 
+method reconnected the broken blood vessels and meanwhile maintained the 
+nonbroken ones unchanged.
+CONCLUSIONS: Our proposed method is suitable for the segmentation of bones and 
+blood vessels in murine hindlimbs. For the segmentation of bones, the split 
+Bregman method improves the distinguishability between bones and blood vessels, 
+since both the intensity information and the geometrical size are exploited. For 
+the segmentation of blood vessels, vesselness method with the edge extension 
+strategy eliminates the false positive effect on the nonvascular sharp 
+boundaries. After segmentation, the proposed vascular connection method based on 
+centerline and morphological dilation can reconnect the broken blood vessels 
+without affecting the nonbroken ones.
+
+DOI: 10.1118/1.4922200
+PMID: 26133605 [Indexed for MEDLINE]
+
+
+38. Biol Pharm Bull. 2015;38(7):986-91. doi: 10.1248/bpb.b15-00231.
+
+Molecular Targeted Therapy for Hepatocellular Carcinoma: Present Status and 
+Future Directions.
+
+Choi KJ(1), Baik IH, Ye SK, Lee YH.
+
+Author information:
+(1)Department of Radiation Oncology, Brain Korea 21 PLUS Project for Medical 
+Science, Yonsei University College of Medicine.
+
+Hepatocellular carcinoma (HCC) is the sixth most common cancer and the third 
+most lethal neoplasm, causing an estimated 700000 deaths annually. Currently HCC 
+has only one systemic molecular targeted therapy, the multi-kinase inhibitor, 
+sorafenib. The standard-of-care for advanced liver cancer is limited because 
+sorafenib can expand the median life expectancy of patients for only 1 year. 
+Thus there is an urgent need to develop a novel molecular targeted therapy to 
+improve therapeutic outcomes for HCC. HCCs are phenotypically and genetically 
+heterogeneous tumors driven by diverse molecular mechanisms. However, HCCs 
+exhibit certain common traits selected through genetic and epigenetic 
+alterations. The identification of common molecular alterations may provide an 
+opportunity to develop more effective anticancer treatment through targeted 
+therapy. Recent studies in liver cancer biology have revealed a limited number 
+of molecular targets responsible for initiating and maintaining dysregulated 
+cell proliferation, including vascular endothelial growth factor receptor 
+(VEGFR), epidermal growth factor receptor (EGFR), fibroblast growth factor 
+receptor (FGFR), platelet-derived growth factor receptor (PDGFR), 
+c-mesenchymal-epithelial transition factor-1 (c-Met), mammalian target of 
+rapamycin (mTOR) and histone deacetylases (HDACs). New treatments involving 
+inhibitors targeting several of these critical pathways are in development. This 
+review describes the current understanding of target pathways, ongoing clinical 
+trials using HCC-targeted agents, and future directions in the treatment of HCC.
+
+DOI: 10.1248/bpb.b15-00231
+PMID: 26133708 [Indexed for MEDLINE]
+
+
+39. J Bioeth Inq. 2015 Dec;12(4):645-9. doi: 10.1007/s11673-015-9645-5. Epub 2015
+ Jul 2.
+
+The Tortoise Transformation as a Prospect for Life Extension.
+
+Murphy TF(1).
+
+Author information:
+(1)Department of Medical Education m/c 591, 808 S. Wood St., University of 
+Illinois College of Medicine at Chicago, Chicago, IL, 60612-7309, USA. 
+tmurphy@uic.edu.
+
+The value of extending the human lifespan remains a key philosophical debate in 
+bioethics. In building a case against the extension of the species-typical human 
+life, Nicolas Agar considers the prospect of transforming human beings near the 
+end of their lives into Galapagos tortoises, which would then live on decades 
+longer. A central question at stake in this transformation is the persistence of 
+human consciousness as a condition of the value of the transformation. Agar 
+entertains the idea that consciousness could persist in some measure, but he 
+thinks little is to be gained from the transformation because the experiences 
+available to tortoises pale in comparison to those available to human beings. 
+Moreover, he thinks persisting human consciousness and values would degrade over 
+time, being remade by tortoise needs and environment. The value available in the 
+transformation would not, then, make the additional years of life desirable. 
+Agar's account does not, however, dispose of the tortoise transformation as a 
+defensible preference. Some people might still want this kind of transformation 
+for symbolic reasons, but it would probably be better that no human 
+consciousness persist, since that consciousness would be inexpressible as such. 
+Even so, it is not irrational to prefer various kinds of lifespan extension even 
+if they involve significant modifications to human consciousness and values.
+
+DOI: 10.1007/s11673-015-9645-5
+PMID: 26133891 [Indexed for MEDLINE]
+
+
+40. PLoS One. 2015 Jul 2;10(7):e0131757. doi: 10.1371/journal.pone.0131757. 
+eCollection 2015.
+
+Expression and Characterization of the RKOD DNA Polymerase in Pichia pastoris.
+
+Wang F(1), Li S(1), Zhao H(1), Bian L(1), Chen L(1), Zhang Z(1), Zhong X(2), Ma 
+L(1), Yu X(1).
+
+Author information:
+(1)Hubei Collaborative Innovation Center for Green Transformation of 
+Bio-resources, Hubei Key Laboratory of Industrial Biotechnology, College of Life 
+Sciences, Hubei University, Wuhan, People's Republic of China.
+(2)Department of Bioengineering, Zhixing College of HuBei University, Wuhan, 
+People's Republic of China.
+
+The present study assessed high-level expression of the KOD DNA polymerase in 
+Pichia pastoris. Thermococcus kodakaraensis KOD1 is a DNA polymerase that is 
+widely used in PCR. The DNA coding sequence of KOD was optimized based on the 
+codon usage bias of P. pastoris and synthesized by overlapping PCR, and the 
+nonspecific DNA-binding protein Sso7d from the crenarchaeon Sulfolobus 
+solfataricus was fused to the C-terminus of KOD. The resulting novel gene was 
+cloned into a pHBM905A vector and introduced into P. pastoris GS115 for 
+secretory expression. The yield of the target protein reached approximately 250 
+mg/l after a 6-d induction with 1% (v/v) methanol in shake flasks. This yield is 
+much higher than those of other DNA polymerases expressed heterologously in 
+Escherichia coli. The recombinant enzyme was purified, and its enzymatic 
+features were studied. Its specific activity was 19,384 U/mg. The recombinant 
+KOD expressed in P. pastoris exhibited excellent thermostability, extension rate 
+and fidelity. Thus, this report provides a simple, efficient and economic 
+approach to realize the production of a high-performance thermostable DNA 
+polymerase on a large scale. This is the first report of the expression in yeast 
+of a DNA polymerase for use in PCR.
+
+DOI: 10.1371/journal.pone.0131757
+PMCID: PMC4489709
+PMID: 26134129 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+41. Health Technol Assess. 2015 Jun;19(47):1-134. doi: 10.3310/hta19470.
+
+Erlotinib and gefitinib for treating non-small cell lung cancer that has 
+progressed following prior chemotherapy (review of NICE technology appraisals 
+162 and 175): a systematic review and economic evaluation.
+
+Greenhalgh J(1), Bagust A(1), Boland A(1), Dwan K(1), Beale S(1), Hockenhull 
+J(1), Proudlove C(2), Dundar Y(1), Richardson M(1), Dickson R(1), Mullard A(3), 
+Marshall E(3).
+
+Author information:
+(1)Liverpool Reviews and Implementation Group, University of Liverpool, 
+Liverpool, UK.
+(2)North West Medicines Information Centre, Pharmacy Practice Unit, Liverpool, 
+UK.
+(3)The Clatterbridge Centre NHS Foundation Trust, Liverpool, UK.
+
+BACKGROUND: Lung cancer is the second most diagnosed cancer in the UK. Over 70% 
+of lung cancers are non-small cell lung cancers (NSCLCs). Patients with stage 
+III or IV NSCLC may be offered treatment to improve survival, disease control 
+and quality of life. One-third of these patients receive further treatment 
+following disease progression; these treatments are the focus of this systematic 
+review.
+OBJECTIVES: To appraise the clinical effectiveness and cost-effectiveness of 
+erlotinib [Tarceva(®), Roche (UK) Ltd] and gefitinib (IRESSA(®), AstraZeneca) 
+compared with each other, docetaxel or best supportive care (BSC) for the 
+treatment of NSCLC after disease progression following prior chemotherapy. The 
+effectiveness of treatment with gefitinib was considered only for patients with 
+epidermal growth factor mutation-positive (EGFR M+) disease.
+DATA SOURCES: Four electronic databases (EMBASE, MEDLINE, The Cochrane Library, 
+PubMed) were searched for randomised controlled trials (RCTs) and economic 
+evaluations. Manufacturers' evidence submissions to the National Institute for 
+Health and Care Excellence were also considered.
+REVIEW METHODS: Outcomes for three distinct patient groups based on EGFR 
+mutation status [EGFR M+, epidermal growth factor mutation negative (EGFR M-) 
+and epidermal growth factor mutation status unknown (EGFR unknown)] were 
+considered. Heterogeneity of the data precluded statistical analysis. A de novo 
+economic model was developed to compare treatments (incremental cost per 
+quality-adjusted life-year gained).
+RESULTS: Twelve trials were included in the review. The use of gefitinib was 
+compared with chemotherapy (n = 6) or BSC (n = 1), and the use of erlotinib was 
+compared with chemotherapy (n = 3) or BSC (n = 1). One trial compared the use of 
+gefitinib with the use of erlotinib. No trials included solely EGFR M+ patients; 
+all data were derived from retrospective subgroup analyses from six RCTs [Kim 
+ST, Uhm JE, Lee J, Sun JM, Sohn I, Kim SW, et al. Randomized phase II study of 

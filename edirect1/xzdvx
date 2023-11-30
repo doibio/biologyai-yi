@@ -1,0 +1,1000 @@
+(6)Center for Biomedical Research Network on Frailty and Health Aging 
+(CIBERFES), 28029 Madrid, Spain.
+(7)Department of Genetics, University of Valencia, 46100 Burjassot, Spain.
+
+Bone pathologies such as osteoporosis (OTP) and osteoarthritis (OA) are rising 
+in incidence with the worldwide rise in life expectancy. The diagnosis is 
+usually obtained using imaging techniques such as densitometry, but with both 
+being multifactorial diseases, several molecular mechanisms remain to be 
+understood. Metabolomics offers the potential to detect global changes which can 
+lead to the identification of biomarkers and a better insight in the progress of 
+the diseases. Our aim was to compare the metabolic profiles of a cohort of 100 
+postmenopausal women, including subcapital hip fragility fracture patients, 
+women with severe OA of the hip that required the implantation of a hip 
+prosthesis and controls, to find altered metabolites and networks. Nuclear 
+magnetic resonance (NMR) spectroscopy was used to obtain the metabolomic 
+profiles of peripheral blood derived serum, and statistical analysis was 
+performed using MATLAB V.6.5. 30 of the 73 metabolites analysed showed 
+statistically significant differences in a 3-way ANOVA, and 11 of them were 
+present in the comparison between OA and controls after adjustment by 
+covariates, including amino acids, energy metabolism metabolites and 
+phospholipid precursors. PLS-DA analysis shows a good discrimination between 
+controls and fracture subjects with OA patients, and ROC curve analysis 
+demonstrates that control and fracture subjects were accurately discriminated 
+using the metabolome, but not OA. These results point to OA as an intermediate 
+metabolic state between controls and fracture, and suggest that some metabolic 
+shifts that happen after a fracture are also present at weaker intensity in the 
+OA process.
+
+DOI: 10.3390/metabo12080677
+PMCID: PMC9329991
+PMID: 35893245
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+290. J Pers Med. 2022 Jul 23;12(8):1200. doi: 10.3390/jpm12081200.
+
+Cardiovascular Risk after Kidney Transplantation: Causes and Current Approaches 
+to a Relevant Burden.
+
+Reggiani F(1)(2), Moroni G(1), Ponticelli C(3).
+
+Author information:
+(1)Nephrology and Dialysis Unit, IRCCS Humanitas Research Hospital, Via Manzoni 
+56, Rozzano, 20089 Milan, Italy.
+(2)Department of Biomedical Sciences, Humanitas University, Pieve Emanuele, 
+20090 Milan, Italy.
+(3)Independent Investigator, 20131 Milan, Italy.
+
+BACKGROUND: Cardiovascular disease is a frequent complication after kidney 
+transplantation and represents the leading cause of mortality in this 
+population.
+MATERIAL AND METHODS: We searched for the relevant articles in the National 
+Institutes of Health library of medicine, transplant, cardiologic and 
+nephrological journals.
+RESULTS: The pathogenesis of cardiovascular disease in kidney transplant is 
+multifactorial. Apart from non-modifiable risk factors, such as age, gender, 
+genetic predisposition and ethnicity, several traditional and non-traditional 
+modifiable risk factors contribute to its development. Traditional factors, such 
+as diabetes, hypertension and dyslipidemia, may be present before and may worsen 
+after transplantation. Immunosuppressants and impaired graft function may 
+strongly influence the exacerbation of these comorbidities. However, in the last 
+years, several studies showed that many other cardiovascular risk factors may be 
+involved in kidney transplantation, including hyperuricemia, inflammation, low 
+klotho and elevated Fibroblast Growth Factor 23 levels, deficient levels of 
+vitamin D, vascular calcifications, anemia and poor physical activity and 
+quality of life.
+CONCLUSIONS: The timely and effective treatment of time-honored and recently 
+discovered modifiable risk factors represent the basis of the prevention of 
+cardiovascular complications in kidney transplantation. Reduction of 
+cardiovascular risk can improve the life expectancy, the quality of life and the 
+allograft function and survival.
+
+DOI: 10.3390/jpm12081200
+PMCID: PMC9329988
+PMID: 35893294
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+291. J Pers Med. 2022 Jul 25;12(8):1211. doi: 10.3390/jpm12081211.
+
+Early-Stage Detection of Ovarian Cancer Based on Clinical Data Using Machine 
+Learning Approaches.
+
+Ahamad MM(1), Aktar S(1), Uddin MJ(1), Rahman T(2), Alyami SA(3), Al-Ashhab 
+S(3), Akhdar HF(4), Azad A(5)(6), Moni MA(7).
+
+Author information:
+(1)Department of Computer Science and Engineering, Bangabandhu Sheikh Mujibur 
+Rahman Science and Technology University, Gopalganj 8100, Bangladesh.
+(2)Department of Computer Science and Engineering, Rajshahi University of 
+Engineering and Technology, Rajshahi 6200, Bangladesh.
+(3)Department of Mathematics and Statistics, Faculty of Science, Imam Mohammad 
+Ibn Saud Islamic University (IMSIU), Riyadh 13318, Saudi Arabia.
+(4)Department of Physics, Faculty of Science, Imam Mohammad Ibn Saud Islamic 
+University (IMSIU), Riyadh 13318, Saudi Arabia.
+(5)Faculty of Science, Engineering & Technology, Swinburne University of 
+Technology, Sydney 2150, Australia.
+(6)ProCan®, Children's Medical Research Institute, Faculty of Medicine and 
+Health, The University of Sydney, Westmead, NSW 2145, Australia.
+(7)School of Health and Rehabilitation Sciences, Faculty of Health and 
+Behavioural Sciences, The University of Queensland, St Lucia, QLD 4072, 
+Australia.
+
+One of the common types of cancer for women is ovarian cancer. Still, at 
+present, there are no drug therapies that can properly cure this deadly disease. 
+However, early-stage detection could boost the life expectancy of the patients. 
+The main aim of this work is to apply machine learning models along with 
+statistical methods to the clinical data obtained from 349 patient individuals 
+to conduct predictive analytics for early diagnosis. In statistical analysis, 
+Student's t-test as well as log fold changes of two groups are used to find the 
+significant blood biomarkers. Furthermore, a set of machine learning models 
+including Random Forest (RF), Support Vector Machine (SVM), Decision Tree (DT), 
+Extreme Gradient Boosting Machine (XGBoost), Logistic Regression (LR), Gradient 
+Boosting Machine (GBM) and Light Gradient Boosting Machine (LGBM) are used to 
+build classification models to stratify benign-vs.-malignant ovarian cancer 
+patients. Both of the analysis techniques recognized that the serumsamples 
+carbohydrate antigen 125, carbohydrate antigen 19-9, carcinoembryonic antigen 
+and human epididymis protein 4 are the top-most significant biomarkers as well 
+as neutrophil ratio, thrombocytocrit, hematocrit blood samples, alanine 
+aminotransferase, calcium, indirect bilirubin, uric acid, natriumas as general 
+chemistry tests. Moreover, the results from predictive analysis suggest that the 
+machine learning models can classify malignant patients from benign patients 
+with accuracy as good as 91%. Since generally, early-stage detection is not 
+available, machine learning detection could play a significant role in cancer 
+diagnosis.
+
+DOI: 10.3390/jpm12081211
+PMCID: PMC9394434
+PMID: 35893305
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+292. J Clin Med. 2022 Jul 24;11(15):4297. doi: 10.3390/jcm11154297.
+
+Typical and Atypical Symptoms of Petrous Apex Cholesterol Granuloma: Association 
+with Radiological Findings.
+
+Vinciguerra A(1), Turri-Zanoni M(2), Verillaud B(1), Guichard JP(3), Spirito 
+L(2), Karligkiotis A(2), Castelnuovo P(2), Herman P(1).
+
+Author information:
+(1)Otorhinolaryngology and Skull Base Center, AP-HP, Hospital Lariboisière, 
+75010 Paris, France.
+(2)Unit of Otorhinolaryngology, Department of Biotechnology and Life Sciences, 
+University of Insubria, Ospedale di Circolo e Fondazione Macchi, Via 
+Guicciardini 9, 21100 Varese, Italy.
+(3)Service de Neuroradiologie, AP-HP, Hôpital Lariboisière, 75010 Paris, France.
+
+Objective: Petrous apex cholesterol granuloma (PACG) is a lesion that can give 
+rise to different symptoms, and correlations with etiopathology are ambiguous. 
+The aim of this study is to analyze the association between PACG symptoms and 
+radiological findings at presentation, in order to establish a reproduceable 
+pre-operative radiological evaluation and guide the surgical indication. 
+Methods: PACG patients were collected in two tertiary care hospitals. All cases 
+underwent CT/MRI to evaluate the cyst localization and erosion of surrounding 
+structures. Typical and atypical symptoms were then analyzed and compared to 
+radiologic findings established in accordance with the literature. Results: 
+Twenty-nine patients were recruited; the most common symptoms were headache 
+(69%), diplopia (20.7%) and fainting (24.1%), an atypical clinical manifestation 
+related to jugular tubercle involvement. Significant associations between 
+symptoms and radiologic findings were noted in terms of headache and temporal 
+lobe compression (p = 0.04), fainting and jugular tubercle erosion (p < 0.001), 
+vestibular symptoms and internal auditory canal erosion (p = 0.02), facial 
+paresthesia and Meckel’s cave compression (p = 0.03), diplopia and Dorello canal 
+involvement (p = 0.001), and tinnitus and cochlear basal turn erosion (p < 
+0.001). All patients were treated via an endoscopic−endonasal approach, in which 
+extension was tailored to each case. At a median follow-up of 46 months, 93.1% 
+of patients experienced resolution of symptoms. Conclusions: This 
+clinico-radiological series demonstrates associations between symptoms and 
+anatomical subsites involved with PACG. Hence, it may guide the surgeon at the 
+time of surgical decision, since it asserts that typical and atypical symptoms 
+are actually related to PACG.
+
+DOI: 10.3390/jcm11154297
+PMCID: PMC9330305
+PMID: 35893388
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+293. Polymers (Basel). 2022 Jul 22;14(15):2979. doi: 10.3390/polym14152979.
+
+Study on Flexural Fatigue Properties of POM Fiber Airport Pavement Concrete.
+
+Wang Z(1)(2), Guo R(1)(2), Liu G(1), Guo L(1)(2), Yan Y(1)(2).
+
+Author information:
+(1)Faculty of Civil Engineering and Mechanics, Kunming University of Science and 
+Technology, Kunming 650504, China.
+(2)Yunnan Key Laboratory of Disaster Reduction in Civil Engineering, Kunming 
+650504, China.
+
+Polyoxymethylene (POM) fiber is a new polymer fiber with the potential to 
+improve the performance of airport pavement concrete. The effect of POM fiber on 
+the flexural fatigue properties of concrete is an important issue in its 
+application for airport pavement concrete. In this study, four-point flexural 
+fatigue experiments were conducted using ordinary performance concrete (OPC) and 
+POM fiber airport pavement concrete (PFAPC) with fiber volume contents of 0.6% 
+and 1.2%, at four stress levels, to examine the flexural fatigue characteristics 
+of these materials. A two-parameter Weibull distribution test of flexural 
+fatigue life was performed, after examining the change in flexural fatigue 
+deformation using the cycle ratio (n/N). A flexural fatigue life equation was 
+then constructed considering various failure probabilities (survival rate). The 
+results show that POM fiber had no discernible impact on the static load 
+strength of airport pavement concrete, and the difference between PFAPC and OPC 
+in terms of static load strength was less than 5%. POM fiber can substantially 
+increase the flexural fatigue deformation capacity of airport pavement concrete 
+by almost 100%, but POM fiber had a different degree of detrimental impact on 
+the fatigue life of airport pavement concrete compared to OPC, with a maximum 
+decrease of 85%. The fatigue lives of OPC and PFAPC adhered to the two-parameter 
+Weibull distribution, the single- and double-log fatigue equations considering 
+various failure probabilities had a high fitting degree based on the 
+two-parameter Weibull distribution, and their R2 was essentially over 0.90. The 
+ultimate fatigue strength of PFAPC was roughly 4% lower than that of OPC. This 
+study on the flexural fatigue properties of POM fiber airport pavement concrete 
+has apparent research value for the extension of POM fiber to the construction 
+of long-life airport pavements.
+
+DOI: 10.3390/polym14152979
+PMCID: PMC9331626
+PMID: 35893943
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+294. J Comp Eff Res. 2022 Oct;11(14):1057-1069. doi: 10.2217/cer-2022-0109. Epub
+2022  Jul 27.
+
+Cost-effectiveness analysis of prolonged-release fampridine to treat walking 
+disability of multiple sclerosis in China.
+
+Zhao X(1), Yang H(1), Wei T(1), Zhao J(1), Liu J(1), Huang Z(2), Zhu L(2), Zhao 
+Y(3), Li W(4).
+
+Author information:
+(1)Real World Solutions, IQVIA, Shanghai, 200124, China.
+(2)Value & Access, Biogen China, Shanghai, 200031, China.
+(3)The First Hospital of China Medical University, Shenyang, Liaoning, 110001, 
+China.
+(4)School of International Pharmaceutical Business, China Pharmaceutical 
+University, Nanjing, Jiangsu, 211198, China.
+
+Objectives: This study evaluates the cost-effectiveness of adding 
+prolonged-release (PR)-fampridine to best supportive care (BSC) versus BSC alone 
+in adult multiple sclerosis patients with walking disability in China. Materials 
+& methods: A hybrid decision tree and Markov model from both the societal and 
+healthcare perspectives were constructed. Parameters were derived from clinical 
+trials of PR-fampridine, published sources and clinical expert interviews. 
+Results: Over a 10-year time horizon, adding PR-fampridine to BSC led to 0.15 
+quality-adjusted life year (QALY) gain and lower costs, with incremental 
+cost-effectiveness ratios of -238,806 Chinese Yuan/QALY and -113,488 Chinese 
+Yuan/QALY from the societal and healthcare perspectives, respectively. 
+Conclusion: Compared with BSC alone, PR-fampridine plus BSC is considered an 
+economically dominant strategy for the treatment of multiple sclerosis-related 
+walking disability in China.
+
+DOI: 10.2217/cer-2022-0109
+PMID: 35894120 [Indexed for MEDLINE]
+
+
+295. Exp Biol Med (Maywood). 2022 Sep;247(18):1670-1679. doi: 
+10.1177/15353702221108925. Epub 2022 Jul 27.
+
+Green tea epigallocatechin gallate suppresses 3T3-L1 cell growth via 
+microRNA-143/MAPK7 pathways.
+
+Chen CP(1), Su TC(2), Yang MJ(2), Chen WT(1), Siao AC(1), Huang LR(1), Lin 
+YY(1)(3)(4), Kuo YC(5), Chung JF(6), Cheng CF(6)(7)(8), Ku HC(6), Kao YH(1).
+
+Author information:
+(1)Department of Life Sciences, National Central University, Taoyuan 320.
+(2)Tea Research and Extension Station, Council of Agriculture, Taoyuan 326.
+(3)Department of Emergency Medicine, Taoyuan Armed Forces General Hospital, 
+Taoyuan 325.
+(4)Department of Emergency Medicine, Tri-Service General Hospital, National 
+Defense Medical Center, Taipei 114.
+(5)Department of Gastroenterology, Landseed Hospital, Taoyuan 324.
+(6)Department of Pediatrics, Taipei Tzu Chi Hospital, Buddhist Tzu Chi Medical 
+Foundation, New Taipei City 23142.
+(7)Institute of Biomedical Sciences, Academia Sinica, Taipei 11529.
+(8)Department of Pediatrics, Tzu Chi University, Hualien 97004.
+
+Green tea epigallocatechin gallate (EGCG) and microRNA (miRNA) molecules 
+modulate obesity. Nevertheless, it is still unknown whether EGCG modulates fat 
+cell growth via miRNA-related signaling. In this study, white preadipocytes were 
+used to examine whether the antimitogenic effect of EGCG on fat cells is 
+regulated by the miR-143/MAPK7 pathway. We showed that EGCG upregulated the 
+levels of miR-143, but not miR-155, in 3T3-L1 preadipocytes. Moreover, EGCG 
+downregulated MAPK7 mRNA and protein levels time- and dose-dependently. MAPK7 
+expression increased during 3T3-L1 cell proliferation. miR-143 overexpression in 
+the absence of EGCG mimicked the effects of EGCG to suppress preadipocyte growth 
+and MAPK7 expression, whereas knockdown of miR-143 antagonized the EGCG-altered 
+levels of miR-143, MAPK7, and pERK1/2 and reversed the EGCG-inhibited cell 
+growth. These findings suggest that EGCG inhibits 3T3-L1 cell growth via 
+miR-143/MAPK7 pathway.
+
+DOI: 10.1177/15353702221108925
+PMCID: PMC9597208
+PMID: 35894140 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author(s) declared no potential conflicts of 
+interest with respect to the research, authorship, and/or publication of this 
+article.
+
+
+296. Braz J Biol. 2022 Jul 22;82:e263276. doi: 10.1590/1519-6984.263276.
+eCollection  2022.
+
+Life tables of the ladybird beetles Harmonia axyridis, Cycloneda sanguinea and 
+Hippodamia convergens reared on the greenbug Schizaphis graminum.
+
+Santos-Cividanes TM(1), Cividanes FJ(1), Souza LS(2), Matos STS(3), Ramos TO(4).
+
+Author information:
+(1)Instituto Biológico, Ribeirão Preto, SP, Brasil.
+(2)Faculdade Quirinópolis, Quirinópolis, GO, Brasil.
+(3)Universidade Estadual Paulista, Departamento de Fitossanidade, Jaboticabal, 
+SP, Brasil.
+(4)Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais, 
+Machado, MG, Brasil.
+
+The Asian lady beetle Harmonia axyridis (Coleoptera: Coccinellidae) is a 
+biological control agent that also may adversely impact other coccinellid 
+species. Life table parameters were used to assess the population growth 
+potential and the effects of interspecific competition between the invasive lady 
+beetle H. axyridis and the native coccinellids Hippodamia convergens and 
+Cycloneda sanguinea (Coleoptera: Coccinellidae) under laboratory conditions at 
+25 °C, using Schizaphis graminum (Hemiptera: Aphididae) as prey. The effects of 
+the abiotic factors air temperature and humidity on these coccinellids by 
+conducting a survey in a sorghum crop under average conditions of 18.1 °C and 
+53.5%, respectively, were also assessed. Fecundity was higher in C. sanguinea 
+(1021.0 eggs per female) and H. axyridis (1029.2 eggs per female) than in H. 
+convergens (484.5 eggs per female). The majority of the life table parameters 
+showed no significant differences. The instantaneous rates of population 
+increase (rm) of C. sanguinea, H. axyridis, and H. convergens were 0.195, 0.198, 
+and 0.194 d-1, respectively. Based on the life table parameters obtained in this 
+study, all three species of Coccinellidae showed a similar capacity to control a 
+S. graminum population.
+
+DOI: 10.1590/1519-6984.263276
+PMID: 35894351 [Indexed for MEDLINE]
+
+
+297. Rev Soc Bras Med Trop. 2022 Jul 25;55:e00102022. doi: 
+10.1590/0037-8682-0010-2022. eCollection 2022.
+
+Burden of syphilis in Brazil and federated units, 1990-2016: estimates from the 
+Global Burden of Disease Study 2019.
+
+Bezerra JMT(1)(2)(3), Castro PASV(4), Machado CJ(5), Carneiro M(1)(6)(7).
+
+Author information:
+(1)Universidade Federal de Minas Gerais, Instituto de Ciências Biológicas, 
+Departamento de Parasitologia, Programa de Pós-Graduação em Parasitologia, Belo 
+Horizonte, MG, Brasil.
+(2)Universidade Estadual do Maranhão, Centro de Ciências Agrárias, Programa de 
+Pós-Graduação em Ciência Animal, São Luís, MA, Brasil.
+(3)Universidade Estadual do Maranhão, Centro de Estudos Superiores de Lago da 
+Pedra, Curso de Licenciatura em Ciências Biológicas, Lago da Pedra, MA, Brasil.
+(4)Universidade Federal de Minas Gerais, Faculdade de Medicina, Curso de 
+Bacharelado em Medicina, Belo Horizonte, MG, Brasil.
+(5)Universidade Federal de Minas Gerais, Faculdade de Medicina, Programa de 
+Programa de Pós-Graduação em Promoção de Saúde e Prevenção da Violência, Belo 
+Horizonte, MG, Brasil.
+(6)Universidade Federal de Minas Gerais, Faculdade de Medicina, Programa de 
+Pós-Graduação em Infectologia e Medicina Tropical, Belo Horizonte, MG, Brasil.
+(7)Universidade Federal de Ouro Preto, Núcleo de Pesquisas em Ciências 
+Biológicas, Programa de Pós-Graduação em Ciências Biológicas, Ouro Preto, MG, 
+Brasil.
+
+BACKGROUND: Syphilis is a chronic infectious disease that has created 
+challenging situations for humanity for centuries. Transmission can occur 
+sexually or vertically, with great repercussions on populations, particularly 
+among women and children. The present study presents information on the main 
+burden imposed by syphilis generated by the Global Burden of Disease (GBD) Study 
+2019 for Brazil and its 27 federated units.
+METHODS: We described the metrics of incidence, deaths, years of life lost 
+(YLLs), years lived with disability (YLDs), and disability-adjusted life years 
+(DALYs), standardized by age and per 100,000 inhabitants, from 1990 to 2019, and 
+we compared the disease burden between the years 1990 and 2019.
+RESULTS: In Brazil, the disease burden increased between 2005 and 2019 for all 
+metrics. Although a higher incidence of syphilis was found among women in 2019, 
+DALYs [YLLs (males: 15.9%; females: 21.8%), YLDs (males: 25.0%; females: 50.0%), 
+and DALYs (males: 16.2%; females: 22.4%)] were higher among men. In 2019, the 
+highest DALY rate per 100,000 inhabitants was observed in individuals aged above 
+50 years. The State of Maranhão presented the highest values of DALYs {1990: 
+165.2 [95% uncertainty interval (UI) 96.2-264.4]; 2005: 43.8 [95% UI 30.3-62.4]; 
+2019: 29.1 [95% UI 19.8-41.1]} per 100,000 inhabitants in the three years 
+analyzed.
+CONCLUSIONS: The burden of syphilis has increased in recent years. Men presented 
+higher DALYs, although the incidence of the disease was higher in women. 
+Syphilis affects a large number of people across all age groups, causing 
+different degrees of disability and premature death (DALYs).
+
+DOI: 10.1590/0037-8682-0010-2022
+PMCID: PMC9359340
+PMID: 35894394 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: The authors declare that 
+there is no conflict of interest.
+
+
+298. JAMA Netw Open. 2022 Jul 1;5(7):e2223911. doi: 
+10.1001/jamanetworkopen.2022.23911.
+
+Comparison of 6 Mortality Risk Scores for Prediction of 1-Year Mortality Risk in 
+Older Adults With Multimorbidity.
+
+Schneider C(1), Aubert CE(1)(2), Del Giovane C(2), Donzé JD(1)(3)(4)(5), Gastens 
+V(2)(6), Bauer DC(7), Blum MR(1)(2), Dalleur O(8)(9), Henrard S(9)(10), Knol 
+W(11), O'Mahony D(12), Curtin D(12), Lee SJ(13), Aujesky D(1), Rodondi N(1)(2), 
+Feller M(1)(2).
+
+Author information:
+(1)Department of General Internal Medicine, Inselspital, Bern University 
+Hospital, University of Bern, Bern, Switzerland.
+(2)Institute of Primary Health Care, University of Bern, Bern, Switzerland.
+(3)Department of Medicine, Neuchâtel Hospital Network, Neuchâtel, Switzerland.
+(4)Division of Internal Medicine, Lausanne University Hospital, Lausanne, 
+Switzerland.
+(5)Department of General Internal Medicine, Brigham and Women's Hospital, 
+Harvard Medical School, Boston, Massachusetts.
+(6)Graduate School for Health Sciences, University of Bern, Bern, Switzerland.
+(7)Departments of Medicine and Epidemiology and Biostatistics, University of 
+California, San Francisco, San Francisco.
+(8)Cliniques Universitaires Saint-Luc, Université Catholique de Louvain, 
+Louvain, Belgium.
+(9)Louvain Drug Research Institute-Clinical Pharmacy Research Group, Université 
+Catholique de Louvain, Louvain, Belgium.
+(10)Institute of Health and Society, Université Catholique de Louvain, Louvain, 
+Belgium.
+(11)Department of Geriatric Medicine and Expertise Centre Pharmacotherapy in Old 
+Persons, University Medical Center Utrecht, Utrecht University, Utrecht, the 
+Netherlands.
+(12)Department of Medicine (Geriatrics) University College Cork and Cork 
+University Hospital, Cork, Republic of Ireland.
+(13)Division of Geriatrics, University of California, San Francisco, San 
+Francisco.
+
+IMPORTANCE: The most appropriate therapy for older adults with multimorbidity 
+may depend on life expectancy (ie, mortality risk), and several scores have been 
+developed to predict 1-year mortality risk. However, often, these mortality risk 
+scores have not been externally validated in large sample sizes, and a 
+head-to-head comparison in a prospective contemporary cohort is lacking.
+OBJECTIVE: To prospectively compare the performance of 6 scores in predicting 
+the 1-year mortality risk in hospitalized older adults with multimorbidity.
+DESIGN, SETTING, AND PARTICIPANTS: This prognostic study analyzed data of 
+participants in the OPERAM (Optimising Therapy to Prevent Avoidable Hospital 
+Admissions in Multimorbid Older People) trial, which was conducted between 
+December 1, 2016, and October 31, 2018, in surgical and nonsurgical departments 
+of 4 university-based hospitals in Louvain, Belgium; Utrecht, the Netherlands; 
+Cork, Republic of Ireland; and Bern, Switzerland. Eligible participants in the 
+OPERAM trial had multimorbidity (≥3 coexisting chronic diseases), were aged 70 
+years or older, had polypharmacy (≥5 long-term medications), and were admitted 
+to a participating ward. Data were analyzed from April 1 to September 30, 2020.
+MAIN OUTCOMES AND MEASURES: The outcome of interest was any-cause death 
+occurring in the first year of inclusion in the OPERAM trial. Overall 
+performance, discrimination, and calibration of the following 6 scores were 
+assessed: Burden of Illness Score for Elderly Persons, CARING (Cancer, 
+Admissions ≥2, Residence in a nursing home, Intensive care unit admit with 
+multiorgan failure, ≥2 Noncancer hospice guidelines) Criteria, Charlson 
+Comorbidity Index, Gagné Index, Levine Index, and Walter Index. These scores 
+were assessed using the following measures: Brier score (0 indicates perfect 
+overall performance and 0.25 indicates a noninformative model); C-statistic and 
+95% CI; Hosmer-Lemeshow goodness-of-fit test and calibration plots; and 
+sensitivity, specificity, and positive and negative predictive values.
+RESULTS: The 1879 patients in the study had a median (IQR) age of 79 (74-84) 
+years and 835 were women (44.4%). The median (IQR) number of chronic diseases 
+was 11 (8-16). Within 1 year, 375 participants (20.0%) died. Brier scores ranged 
+from 0.16 (Gagné Index) to 0.24 (Burden of Illness Score for Elderly Persons). 
+C-statistic values ranged from 0.62 (95% CI, 0.59-0.65) for Charlson Comorbidity 
+Index to 0.69 (95% CI, 0.66-0.72) for the Walter Index. Calibration was good for 
+the Gagné Index and moderate for other mortality risk scores.
+CONCLUSIONS AND RELEVANCE: Results of this prognostic study suggest that all 6 
+of the 1-year mortality risk scores examined had moderate prognostic 
+performance, discriminatory power, and calibration in a large cohort of 
+hospitalized older adults with multimorbidity. Overall, none of these mortality 
+risk scores outperformed the others, and thus none could be recommended for use 
+in daily clinical practice.
+
+DOI: 10.1001/jamanetworkopen.2022.23911
+PMCID: PMC9331084
+PMID: 35895059 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Lee 
+reported receiving a grant from the US Department of Veterans Affairs during the 
+conduct of the study. Dr Rodondi reported receiving grants from the European 
+Union during the conduct of the study. No other disclosures were reported.
+
+
+299. Obes Surg. 2022 Nov;32(11):3571-3580. doi: 10.1007/s11695-022-06216-4. Epub
+2022  Jul 27.
+
+Comprehensive Analysis of Improvements in Health-Related Quality of Life and 
+Establishment of QALY Gains in a Government-Funded Bariatric Surgical Program 
+with 5-Year Follow-up.
+
+Chadwick C(1)(2), Burton PR(3)(4), Reilly J(3)(5), Playfair J(3), Laurie C(3), 
+Shaw K(3)(4), Brown WA(3)(4).
+
+Author information:
+(1)Department of Surgery, Central Clinical School, Monash University, Alfred 
+Health, Melbourne, VIC, Australia. Chiara.Chadwick@monash.edu.
+(2)Oesophago-Gastric and Bariatric Unit, Alfred Health. Melbourne, Victoria, 
+Australia. Chiara.Chadwick@monash.edu.
+(3)Department of Surgery, Central Clinical School, Monash University, Alfred 
+Health, Melbourne, VIC, Australia.
+(4)Oesophago-Gastric and Bariatric Unit, Alfred Health. Melbourne, Victoria, 
+Australia.
+(5)Department of Anaesthesiology and Perioperative Medicine, Alfred Health, 
+Melbourne, VIC, Australia.
+
+PURPOSE: Bariatric surgery is an efficacious intervention for substantial and 
+sustained weight reduction in individuals with morbid obesity resulting in 
+health improvements. However, the changes to a patient's health related quality 
+of life (HRQoL) in the medium to longer term after bariatric surgery have not 
+been adequately characterized. Our aim was to evaluate the change to patient 
+HRQoL 5 years following bariatric surgery in an Australian government-funded 
+hospital system and determine the significance of relationships between change 
+in physical and mental assessment scores and HRQoL utility scores.
+MATERIALS AND METHODS: We performed a longitudinal panel study of 81 adult 
+patients who underwent primary bariatric surgery at an Australian tertiary 
+government-funded hospital and completed multi-attribute utility (MAU), 
+multi-attribute non-utility (MA), and disease-specific adjusted quality of life 
+(AQoL) questionnaires before and after bariatric surgery.
+RESULTS: At a mean (SD) 5.72 (1.07) years postbariatric surgery, participants 
+demonstrated statistically significant improvements in mean AQoL-8D utility 
+(0.135 (0.21); P < 0.0001), yielding a mean 3.2 (1.67) QALYs gained. Beck 
+Depression Inventory-II scores improved (baseline mean 17.35 (9.57); 5-year mean 
+14.7 (11.57); P = 0.037). Short Form-36 scores improved in the domains of 
+physical functioning and role limitations due to physical health and general 
+health. Change in depression scores and patient satisfaction with surgery were 
+found to be significant predictors of follow up AQoL utility scores.
+CONCLUSIONS: Bariatric surgery improves physical and psychological quality of 
+life measures over 5 years. The improvement of patient QALYs provide insight to 
+the potential cost utility of publicly funded bariatric surgery in the medium 
+term.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s11695-022-06216-4
+PMCID: PMC9327972
+PMID: 35895247 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+300. PLoS One. 2022 Jul 27;17(7):e0267551. doi: 10.1371/journal.pone.0267551. 
+eCollection 2022.
+
+How does it all end? Trends and disparities in health at the end of life.
+
+Vierboom YC(1).
+
+Author information:
+(1)Max Planck Institute for Demographic Research, Rostock, Germany.
+
+OBJECTIVES: To consider trends and disparities in end-of-life health in the US.
+METHODS: I use data from the National Health Interview Survey, linked to death 
+records through 2015, for respondents who died at ages 65+ to compare the 
+prevalence of three health outcomes in the last six years of life across time, 
+sex, age, race, and educational attainment. Self-rated health (SRH) is available 
+for respondents interviewed in years 1987-2014, while information on activities 
+of daily living (ADL) and instrumental activities of daily living (IADL) is 
+available for the period 1997-2014.
+RESULTS: By the end of the study period, individuals reported two fewer months 
+of fair/poor health at the end of life than those dying in earlier years. In 
+contrast, time lived with at least one activity limitation at the end of life 
+generally remained comparable. Compared to men, women on average reported an 
+additional year of living with an IADL limitation before death, and an 
+additional eight months with an ADL limitation. Despite sex differences in 
+disability, both sexes reported similar periods of fair/poor SRH before death. 
+Similarly, while individuals who lived to older ages experienced a longer 
+disabled period before death than individuals who died at younger ages, all age 
+groups were equally likely to report fair/poor SRH. Black adults and adults with 
+less formal schooling also spent more time with an end-of-life disability. For 
+men, these racial and socioeconomic disparities lessened as death approached. 
+For women, inequalities persisted until death.
+DISCUSSION: These findings suggest that despite increasing life expectancy, the 
+period of poor health and disability prior to death has not recently been 
+extended. Black women and women with less than a high school degree, require 
+extended support at the end of life.
+
+DOI: 10.1371/journal.pone.0267551
+PMCID: PMC9328500
+PMID: 35895597 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author has declared that no competing 
+interests exist.301. BMJ. 2022 Jul 27;378:e069679. doi: 10.1136/bmj-2021-069679.
+
+Burden of chronic obstructive pulmonary disease and its attributable risk 
+factors in 204 countries and territories, 1990-2019: results from the Global 
+Burden of Disease Study 2019.
+
+Safiri S(1)(2)(3), Carson-Chahhoud K(4)(5), Noori M(6), Nejadghaderi SA(7)(8), 
+Sullman MJM(9)(10), Ahmadian Heris J(11), Ansarin K(12), Mansournia MA(13), 
+Collins GS(14)(15), Kolahi AA(16), Kaufman JS(17).
+
+Author information:
+(1)Tuberculosis and Lung Diseases Research Centre, Tabriz University of Medical 
+Sciences, Tabriz, Iran.
+(2)Department of Community Medicine, Faculty of Medicine, Tabriz University of 
+Medical Sciences, Tabriz, Iran.
+(3)Department of Epidemiology and Biostatistics, Faculty of Health, Tabriz 
+University of Medical Sciences, Tabriz, Iran.
+(4)Australian Centre for Precision Health, University of South Australia, South 
+Australia, Australia.
+(5)School of Medicine, University of Adelaide, South Australia, Australia.
+(6)Student Research Committee, School of Medicine, Iran University of Medical 
+Sciences, Tehran, Iran.
+(7)Research Centre for Integrative Medicine in Aging, Aging Research Institute, 
+Tabriz University of Medical Sciences, Tabriz, Iran.
+(8)Systematic Review and Meta-analysis Expert Group (SRMEG), Universal 
+Scientific Education and Research Network (USERN), Tehran, Iran.
+(9)Department of Life and Health Sciences, University of Nicosia, Nicosia, 
+Cyprus.
+(10)Department of Social Sciences, University of Nicosia, Nicosia, Cyprus.
+(11)Department of Allergy and Clinical Immunology, Paediatric Hospital, Tabriz 
+University of Medical Sciences, Tabriz, Iran.
+(12)Rahat Breath and Sleep Research Centre, Tabriz University of Medical 
+Sciences, Tabriz, Iran.
+(13)Department of Epidemiology and Biostatistics, School of Public Health, 
+Tehran University of Medical Sciences, Tehran, Iran.
+(14)Centre for Statistics in Medicine, NDORMS, Botnar Research Centre, 
+University of Oxford, Oxford, UK.
+(15)NIHR Oxford Biomedical Research Centre, Oxford University Hospitals NHS 
+Foundation Trust, Oxford, UK.
+(16)Social Determinants of Health Research Centre, Shahid Beheshti University of 
+Medical Sciences, Tehran, Iran a.kolahi@sbmu.ac.ir.
+(17)Department of Epidemiology, Biostatistics, and Occupational Health, Faculty 
+of Medicine, McGill University, Montreal, Quebec, Canada.
+
+OBJECTIVE: To report the global, regional, and national burden of chronic 
+obstructive pulmonary disease (COPD) and its attributable risk factors between 
+1990 and 2019, by age, sex, and sociodemographic index.
+DESIGN: Systematic analysis.
+DATA SOURCE: Global Burden of Disease Study 2019.
+MAIN OUTCOME MEASURES: Data on the prevalence, deaths, and disability adjusted 
+life years (DALYs) of COPD, and its attributable risk factors, were retrieved 
+from the Global Burden of Disease 2019 project for 204 countries and 
+territories, between 1990 and 2019. The counts and rates per 100 000 population, 
+along with 95% uncertainty intervals, were presented for each estimate.
+RESULTS: In 2019, 212.3 million prevalent cases of COPD were reported globally, 
+with COPD accounting for 3.3 million deaths and 74.4 million DALYs. The global 
+age standardised point prevalence, death, and DALY rates for COPD were 2638.2 
+(95% uncertainty intervals 2492.2 to 2796.1), 42.5 (37.6 to 46.3), and 926.1 
+(848.8 to 997.7) per 100 000 population, which were 8.7%, 41.7%, and 39.8% lower 
+than in 1990, respectively. In 2019, Denmark (4299.5), Myanmar (3963.7), and 
+Belgium (3927.7) had the highest age standardised point prevalence of COPD. 
+Egypt (62.0%), Georgia (54.9%), and Nicaragua (51.6%) showed the largest 
+increases in age standardised point prevalence across the study period. In 2019, 
+Nepal (182.5) and Japan (7.4) had the highest and lowest age standardised death 
+rates per 100 000, respectively, and Nepal (3318.4) and Barbados (177.7) had the 
+highest and lowest age standardised DALY rates per 100 000, respectively. In 
+men, the global DALY rate of COPD increased up to age 85-89 years and then 
+decreased with advancing age, whereas for women the rate increased up to the 
+oldest age group (≥95 years). Regionally, an overall reversed V shaped 
+association was found between sociodemographic index and the age standardised 
+DALY rate of COPD. Factors contributing most to the DALYs rates for COPD were 
+smoking (46.0%), pollution from ambient particulate matter (20.7%), and 
+occupational exposure to particulate matter, gases, and fumes (15.6%).
+CONCLUSIONS: Despite the decreasing burden of COPD, this disease remains a major 
+public health problem, especially in countries with a low sociodemographic 
+index. Preventive programmes should focus on smoking cessation, improving air 
+quality, and reducing occupational exposures to further reduce the burden of 
+COPD.
+
+© Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmj-2021-069679
+PMCID: PMC9326843
+PMID: 35896191 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: All authors have completed 
+the ICMJE uniform disclosure form at www.icmje.org/disclosure-of-interest/ and 
+declare: support from Shahid Beheshti University of Medical Sciences for the 
+submitted work; no financial relationships with any organisations that might 
+have an interest in the submitted work in the previous three years; no other 
+relationships or activities that could appear to have influenced the submitted 
+work.
+
+
+302. Eur J Health Econ. 2023 Jun;24(4):621-632. doi: 10.1007/s10198-022-01495-1.
+Epub  2022 Jul 27.
+
+Modeling the potential efficiency of a blood biomarker-based tool to guide 
+pre-hospital thrombolytic therapy in stroke patients.
+
+Parody-Rua E(1)(2), Bustamante A(3), Montaner J(4)(5), Rubio-Valera M(6)(7), 
+Serrano D(8), Pérez-Sánchez S(5), Sánchez-Viñas A(1), Guevara-Cuellar C(9), 
+Serrano-Blanco A(10)(11)(12).
+
+Author information:
+(1)Teaching, Research and Innovation Unit, Parc Sanitari Sant Joan de Déu, Sant 
+Boi de Llobregat, Spain.
+(2)Primary Care Prevention and Health Promotion Network (redIAPP), Barcelona, 
+Spain.
+(3)Stroke Unit, Hospital Universitari Germans Trias i Pujol, Badalona, Spain.
+(4)Neurovascular Research Laboratory, Vall d'Hebron Institute of Research 
+(VHIR), Barcelona, Spain.
+(5)Institute de Biomedicine of Seville, IBiS/Hospital Universitario Virgen del 
+Rocío/CSIC/University of Seville and Department of Neurology, Hospital 
+Universitario Virgen Macarena, Seville, Spain.
+(6)Head of Quality and Patient Safety, Parc Sanitari Sant Joan de Déu. Institut 
+de Recerca Sant Joan de Déu, Sant Boi de Llobregat, Spain.
+(7)CIBER of Epidemiology and Public Health (CIBERESP), Madrid, Spain.
+(8)Freelance Health Economist, Barcelona, Spain.
+(9)Facultad de Ciencias de la Salud, Universidad Icesi, Cali, Colombia.
+(10)CIBER of Epidemiology and Public Health (CIBERESP), Madrid, Spain. 
+antoni.serrano@sjd.es.
+(11)Parc Sanitari Sant Joan de Déu. Institut de Recerca Sant Joan de Déu, Mental 
+Health Directorate, C/Camí Vell de la Colònia, 25, 08830, Sant Boi de Llobregat, 
+Barcelona, Spain. antoni.serrano@sjd.es.
+(12)Departament de Medicina. Facultat de Medicina i Ciències de la Salut, 
+Universitat de Barcelona, Barcelona, Spain. antoni.serrano@sjd.es.
+
+OBJECTIVES: Stroke treatment with intravenous tissue-type plasminogen activator 
+(tPA) is effective and efficient, but as its benefits are highly time dependent, 
+it is essential to treat the patient promptly after symptom onset. This study 
+evaluates the cost-effectiveness of a blood biomarker test to differentiate 
+ischemic and hemorrhagic stroke to guide pre-hospital treatment with tPA in 
+patients with suspected stroke, compared with standard hospital management. The 
+standard care for patients suffering stroke consists mainly in diagnosis, 
+treatment, hospitalization and monitoring.
+METHODS: A Markov model was built with four health states according to the 
+modified Rankin scale, in adult patients with suspected moderate to severe 
+stroke (NIHSS 4-22) within 4.5 hours after symptom onset. A Spanish Health 
+System perspective was used. The time horizon was 15 years. Quality-adjusted 
+life-years (QALYs) and life-years gained (LYGs) were used as a measure of 
+effectiveness. Short- and long-term direct health costs were included. Costs 
+were expressed in Euros (2022). A discount rate of 3% was used. Probabilistic 
+sensitivity analysis and several one-way sensitivity analyses were conducted.
+RESULTS: The use of a blood-test biomarker compared with standard care was 
+associated with more QALYs (4.87 vs. 4.77), more LYGs (7.18 vs. 7.07), and 
+greater costs (12,807€ vs. 12,713€). The ICER was 881€/QALY. Probabilistic 
+sensitivity analysis showed that the biomarker test was cost-effective in 82% of 
+iterations using a threshold of 24,000€/QALY.
+CONCLUSIONS: The use of a blood biomarker test to guide pre-hospital 
+thrombolysis is cost-effective compared with standard hospital care in patients 
+with ischemic stroke.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s10198-022-01495-1
+PMCID: PMC10175459
+PMID: 35896861 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr. Montaner holds patents on “METHOD FOR 
+SELECTING A PATIENT FOR A REPERFUSION THERAPY” EP19382384.6 and “METHODS FOR 
+DIFFERENTIATING ISCHEMIC STROKE FROM HEMORRHAGIC STROKE” EP14382492. The other 
+authors report no conflicts.
+
+
+303. BMC Neurol. 2022 Jul 27;22(1):279. doi: 10.1186/s12883-022-02793-0.
+
+Burden of stroke in North Africa and Middle East, 1990 to 2019: a systematic 
+analysis for the global burden of disease study 2019.
+
+Shahbandi A(#)(1), Shobeiri P(#)(1), Azadnajafabad S(1), Saeedi Moghaddam S(1), 
+Sharifnejad Tehrani Y(1), Ebrahimi N(1), Rezaei N(1), Rashidi MM(1), Ghamari 
+SH(1), Abbasi-Kangevari M(1), Koolaji S(1), Haghshenas R(1), Rezaei N(1)(2), 
+Larijani B(2), Farzadfar F(3)(4).
+
+Author information:
+(1)Non-Communicable Diseases Research Center, Endocrinology and Metabolism 
+Population Sciences Institute, Tehran University of Medical Sciences, No. 10, 
+Jalal Al-e-Ahmad Highway, Tehran, 1411713119, Iran.
+(2)Endocrinology and Metabolism Research Center, Endocrinology and Metabolism 
+Clinical Sciences Institute, Tehran University of Medical Sciences, Tehran, 
+Iran.
+(3)Non-Communicable Diseases Research Center, Endocrinology and Metabolism 
+Population Sciences Institute, Tehran University of Medical Sciences, No. 10, 
+Jalal Al-e-Ahmad Highway, Tehran, 1411713119, Iran. f-farzadfar@tums.ac.ir.
+(4)Endocrinology and Metabolism Research Center, Endocrinology and Metabolism 
+Clinical Sciences Institute, Tehran University of Medical Sciences, Tehran, 
+Iran. f-farzadfar@tums.ac.ir.
+(#)Contributed equally
+
+BACKGROUND: While several studies investigated the epidemiology and burden of 
+stroke in the North Africa and Middle East region, no study has comprehensively 
+evaluated the age-standardized attributable burden to all stroke subtypes and 
+their risk factors yet.
+OBJECTIVE: The aim of the present study is to explore the regional distribution 
+of the burden of stroke, including ischemic stroke, subarachnoid hemorrhage, and 
+intracerebral hemorrhage, and the attributable burden to its risk factors in 
+2019 among the 21 countries of North Africa and Middle East super-region.
+METHODS: The data of the Global Burden of Disease Study (GBD) 2019 on stroke 
+incidence, prevalence, death, disability-adjusted life years (DALYs), years of 
+life lost (YLLs), years lived with disability (YLDs) rates, and attributed 
+deaths, DALYs, YLLs, and YLDs to stroke risk factors were used for the present 
+study.
+RESULTS: The age-standardized deaths, DALYs, and YLLs rates were diminished 
+statistically significant by 27.8, 32.0, and 35.1% from 1990 to 2019, 
+respectively. Attributed deaths, DALYs, and YLLs to stroke risk factors, 
+including high systolic blood pressure, high body-mass index, and high fasting 
+plasma glucose shrank statistically significant by 24.9, 25.8, and 28.8%, 
+respectively.
+CONCLUSION: While the age-standardized stroke burden has reduced during these 
+30 years, it is still a concerning issue due to its increased burden in all-age 
+numbers. Well-developed primary prevention, timely diagnosis and management of 
+the stroke and its risk factors might be appreciated for further decreasing the 
+burden of stroke and its risk factors and reaching Sustainable Development Goal 
+3.4 target for reducing premature mortality from non-communicable diseases.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12883-022-02793-0
+PMCID: PMC9327376
+PMID: 35896999 [Indexed for MEDLINE]
+
+Conflict of interest statement: The Authors declare that they have no conflict 
+of interest.
+
+
+304. Popul Health Metr. 2022 Jul 27;20(1):17. doi: 10.1186/s12963-022-00294-3.
+
+Comparing health gains, costs and cost-effectiveness of 100s of interventions in 
+Australia and New Zealand: an online interactive league table.
+
+Carvalho N(1), Sousa TV(2), Mizdrak A(3), Jones A(3), Wilson N(3), Blakely T(4).
+
+Author information:
+(1)Health Economics Unit, Centre for Health Policy, School of Population and 
+Global Health, The University of Melbourne, Level 4, 207 Bouverie St, Parkville, 
+VIC, 3010, Australia. natalie.carvalho@unimelb.edu.au.
+(2)Music Therapy, Faculty of Fine Arts and Music, The University of Melbourne, 
+Melbourne, Australia.
+(3)Burden of Disease Epidemiology, Equity, and Cost-Effectiveness Programme 
+(BODE3), Department of Public Health, University of Otago, Wellington, New 
+Zealand.
+(4)Population Interventions Unit, Centre for Epidemiology and Biostatistics, 
+School of Population and Global Health, The University of Melbourne, Melbourne, 
+Australia.
+
+BACKGROUND: This study compares the health gains, costs, and cost-effectiveness 
+of hundreds of Australian and New Zealand (NZ) health interventions conducted 
+with comparable methods in an online interactive league table designed to inform 
+policy.
+METHODS: A literature review was conducted to identify peer-reviewed evaluations 
+(2010 to 2018) arising from the Australia Cost-Effectiveness research and NZ 
+Burden of Disease Epidemiology, Equity and Cost-Effectiveness Programmes, or 
+using similar methodology, with: health gains quantified as health-adjusted life 
+years (HALYs); net health system costs and/or incremental cost-effectiveness 
+ratio; time horizon of at least 10 years; and 3% to 5% discount rates.
+RESULTS: We identified 384 evaluations that met the inclusion criteria, covering 
+14 intervention domains: alcohol; cancer; cannabis; communicable disease; 
+cardiovascular disease; diabetes; diet; injury; mental illness; other 
+non-communicable diseases; overweight and obesity; physical inactivity; salt; 
+and tobacco. There were large variations in health gain across evaluations: 
+33.9% gained less than 0.1 HALYs per 1000 people in the total population over 
+the remainder of their lifespan, through to 13.0% gaining > 10 HALYs per 1000 
+people. Over a third (38.8%) of evaluations were cost-saving.
+CONCLUSIONS: League tables of comparably conducted evaluations illustrate the 
+large health gain (and cost) variations per capita between interventions, in 
+addition to cost-effectiveness. Further work can test the utility of this league 
+table with policy-makers and researchers.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12963-022-00294-3
+PMCID: PMC9327210
+PMID: 35897104 [Indexed for MEDLINE]
+
+Conflict of interest statement: Not applicable. Competing interests All authors 
+have no conflicts of interest to declare.
+
+
+305. Int J Environ Res Public Health. 2022 Jul 23;19(15):8958. doi: 
+10.3390/ijerph19158958.
+
+The Impact of 51 Risk Factors on Life Expectancy in Canada: Findings from a New 
+Risk Prediction Model Based on Data from the Global Burden of Disease Study.
+
+Kopec JA(1)(2), Sayre EC(2), Shams B(3), Li LC(2)(4), Xie H(2)(5), Feehan LM(4), 
+Esdaile JM(2)(6).
+
+Author information:
+(1)School of Population and Public Health, University of British Columbia, 
+Vancouver, BC V6T 1Z3, Canada.
+(2)Arthritis Research Canada, Vancouver, BC V5Y 3P2, Canada.
+(3)Fraser Health Authority, Surrey, BC V3T 0H1, Canada.
+(4)Department of Physical Therapy, University of British Columbia, Vancouver, BC 
+V6T 1Z3, Canada.
+(5)Faculty of Health Sciences, Simon Fraser University, Burnaby, BC V5A 1S6, 
+Canada.
+(6)Department of Medicine, University of British Columbia, Vancouver, BC V5Z 
+1M9, Canada.
+
+The aims of this study were (1) to develop a comprehensive risk-of-death and 
+life expectancy (LE) model and (2) to provide data on the effects of multiple 
+risk factors on LE. We used data for Canada from the Global Burden of Disease 
+(GBD) Study. To create period life tables for males and females, we obtained 
+age/sex-specific deaths rates for 270 diseases, population distributions for 51 
+risk factors, and relative risk functions for all disease-exposure pairs. We 
+computed LE gains from eliminating each factor, LE values for different levels 
+of exposure to each factor, and LE gains from simultaneous reductions in 
+multiple risk factors at various ages. If all risk factors were eliminated, LE 
+in Canada would increase by 6.26 years for males and 5.05 for females. The 
+greatest benefit would come from eliminating smoking in males (2.45 years) and 
+high blood pressure in females (1.42 years). For most risk factors, their 
+dose-response relationships with LE were non-linear and depended on the presence 
+of other factors. In individuals with high levels of risk, eliminating or 
+reducing exposure to multiple factors could improve LE by several years, even at 
+a relatively advanced age.
+
+DOI: 10.3390/ijerph19158958
+PMCID: PMC9332720
+PMID: 35897329 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interests.
+
+
+306. Int J Environ Res Public Health. 2022 Jul 25;19(15):9034. doi: 
+10.3390/ijerph19159034.
+
+Active Ageing Awareness and Quality of Life among Pre-Elder Malaysian Public 
+Employees.
+
+Bahuri NHA(1), Rizal H(1)(2), Said MA(1)(3), Myint PK(4), Su TT(5).
+
+Author information:
+(1)Department of Social and Preventive Medicine, Faculty of Medicine, University 
+of Malaya, Kuala Lumpur 50603, Malaysia.
+(2)Centre for Population Health (CePH), Department of Social and Preventive 
+Medicine, Faculty of Medicine, University of Malaya, Kuala Lumpur 50603, 
+Malaysia.
+(3)Centre for Epidemiology and Evidence-Based Practice, Department of Social and 
+Preventive Medicine, Faculty of Medicine, University of Malaya, Kuala Lumpur 
+50603, Malaysia.
+(4)Ageing Clinical & Experimental Research Team, Institute of Applied Health 
+Sciences, University of Aberdeen, Aberdeen AB25 2ZD, UK.
+(5)South East Asia Community Observatory (SEACO) and Global Public Health, 
+Jeffrey Cheah School of Medicine & Health Sciences, Monash University, Bandar 
+Sunway, Subang Jaya 47500, Malaysia.
+
+Increasing life expectancy has led to a global rise in late-life diseases. 
+Quality of Life (QOL) is important for healthy life expectancy. The active 
+ageing framework serves as a guide for policymakers to design policies that 
+enhance the QOL of older people. This study aims to determine the association 
+between awareness of active ageing and QOL. The Malay version of the 26-item 
+WHOQOL-BREF questionnaire was utilised along with the 14-item Active Ageing 
+Awareness Questionnaire (AAAQ). A total of 532 participants had a mean (SD) age 
+of 50.2 (5.9), were largely ethnic Malay (96.2%), female (52.8%), and comprised 
+largely of low-income households (65.4%). The median (IQR) AAAQ score was 71.4 
+(19.1). The hierarchical multiple regression analysis revealed significant 
+positive association between AAAQ and the QOL domains of physical (β = 0.154, p 
+< 0.001), psychological (β = 0.196, p < 0.001), social relationship (β = 0.175, 
+p < 0.001), and environment (β = 0.145, p < 0.001) after adjusting for all 
+covariates. Awareness of active ageing was found to have a positive effect on 
+all domains of QOL among pre-elder employees, and thus, we recommend that 
+policies to improve active ageing awareness should be implemented for healthy 
+life expectancy in ageing populations.
+
+DOI: 10.3390/ijerph19159034
+PMCID: PMC9329977
+PMID: 35897412 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+307. Sensors (Basel). 2022 Jul 25;22(15):5549. doi: 10.3390/s22155549.
+
+Using Nonlinear Vibroartrographic Parameters for Age-Related Changes Assessment 
+in Knee Arthrokinematics.
+
+Kręcisz K(1), Bączkowicz D(1), Kawala-Sterniuk A(2).
+
+Author information:
+(1)Faculty of Physical Education and Physiotherapy, Opole University of 
+Technology, 45-758 Opole, Poland.
+(2)Faculty of Electrical Engineering, Automatic Control and Informatics, Opole 
+University of Technology, 45-758 Opole, Poland.
+
+Changes in articular surfaces can be associated with the aging process and as 
+such may lead to quantitative and qualitative impairment of joint motion. This 
+study is aiming to evaluate the age-related quality of the knee joint 
+arthrokinematic motion using nonlinear parameters of the vibroarthrographic 
+(VAG) signal. To analyse the age-related quality of the patellofemoral joint 
+(PFJ), motion vibroarthrography was used. The data that were subject to analysis 
+represent 220 participants divided into five age groups. The VAG signals were 
+acquired during flexion/extension knee motion and described with the following 
+nonlinear parameters: recurrence rate (RR) and multi-scale entropy (MSE). RR and 
+MSE decrease almost in a linear way with age (main effects of group p<0.001; 
+means (SD): RR=0.101(0.057)−0.020(0.017); and MSE=20.9(8.56)−13.6(6.24)). The RR 
+post-hoc analysis showed that there were statistically significant differences 
+(p<0.01) in all comparisons with the exception of the 5th−6th life decade. For 
+MSE, statistically significant differences (p<0.01) occurred for: 3rd−7th, 
+4th−7th, 5th−7th and 6th life decades. Our results imply that degenerative 
+age-related changes are associated with lower repeatability, greater 
+heterogeneity in state space dynamics, and greater regularity in the time domain 
+of VAG signal. In comparison with linear VAG measures, our results provide 
+additional information about the nature of changes of the vibration dynamics of 
+PFJ motion with age.
+

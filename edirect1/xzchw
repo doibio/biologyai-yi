@@ -1,0 +1,1000 @@
+Academy of Computational Life Sciences (ACLS), Tokyo Institute of Technology, 
+J3-141 4259, Nagatsutacho, Midori-ku, Yokohama City, Kanagawa 226-8501, Japan.
+(2)Department of Computer Science, School of Computing, Tokyo Institute of 
+Technology, W8-76 2-12-1, Ookayama, Meguro-ku, Tokyo 152-8550, Japan.
+(3)Department of Computer Science, School of Computing, Tokyo Institute of 
+Technology, W8-76 2-12-1, Ookayama, Meguro-ku, Tokyo 152-8550, Japan; Advanced 
+Computational Drug Discovery Unit (ACDD), Institute of Innovative Research, 
+Tokyo Institute of Technology, 4259 Nagatsutacho, Midori-ku, Yokohama City, 
+Kanagawa 226-8501, Japan.
+(4)Department of Computer Science, School of Computing, Tokyo Institute of 
+Technology, W8-76 2-12-1, Ookayama, Meguro-ku, Tokyo 152-8550, Japan; Education 
+Academy of Computational Life Sciences (ACLS), Tokyo Institute of Technology, 
+J3-141 4259, Nagatsutacho, Midori-ku, Yokohama City, Kanagawa 226-8501, Japan; 
+Advanced Computational Drug Discovery Unit (ACDD), Institute of Innovative 
+Research, Tokyo Institute of Technology, 4259 Nagatsutacho, Midori-ku, Yokohama 
+City, Kanagawa 226-8501, Japan. Electronic address: akiyama@c.titech.ac.jp.
+
+The need to accelerate large-scale protein-ligand docking in virtual screening 
+against a huge compound database led researchers to propose a strategy that 
+entails memorizing the evaluation result of the partial structure of a compound 
+and reusing it to evaluate other compounds. However, the previous method 
+required frequent disk accesses, resulting in insufficient acceleration. Thus, 
+more efficient memory usage can be expected to lead to further acceleration, and 
+optimal memory usage could be achieved by solving the minimum cost flow problem. 
+In this research, we propose a fast algorithm for the minimum cost flow problem 
+utilizing the characteristics of the graph generated for this problem as 
+constraints. The proposed algorithm, which optimized memory usage, was 
+approximately seven times faster compared to existing minimum cost flow 
+algorithms.
+
+Copyright © 2018 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.compbiolchem.2018.03.013
+PMID: 29628156 [Indexed for MEDLINE]
+
+
+464. Anesth Essays Res. 2018 Jan-Mar;12(1):116-118. doi: 10.4103/aer.AER_178_17.
+
+Postoperative Cognitive Dysfunction in Indian Patients Undergoing Total Knee 
+Replacement Under Spinal Anesthesia.
+
+Kilaru P(1), Reddy AR(1), Reddy MV(1), Kidiyoor B(1), Joseph VM(2), Reddy 
+AVG(2).
+
+Author information:
+(1)Department of Anaesthesia, Sunshine Hospital, Secunderabad, Telangana, India.
+(2)Department of Orthopaedics, Sunshine Hospital, Secunderabad, Telangana, 
+India.
+
+INTRODUCTION: Total knee replacement is a common surgical procedure in the 
+elderly. The number of surgeries has increased owing to the increasing life 
+expectancy of the population and better functional outcomes postsurgery. 
+Postoperative cognitive dysfunction (POCD) is an identified entity postsurgery 
+in elderly but most of the studies have been on patients undergoing cardiac and 
+other nonorthopaedic surgeries. The studies have shown variable incidence due to 
+selection bias. We studied the incidence and probable predictive factors of POCD 
+in elderly Indian population undergoing total knee replacement under spinal 
+anesthesia.
+MATERIALS AND METHODS: We designed a prospective, observational study at a 
+single center including patients above 60 years of age undergoing total knee 
+replacement under spinal anesthesia. Preoperative mini-mental scale examination, 
+electrolytes, urea and creatinine levels were recorded. Postoperatively, mini 
+mental scale evaluation (MMSE) was done 2 days postsurgery, at 3 months, 6 
+months, and 1 year follow-up. Laboratory values postoperatively were recorded.
+RESULTS: The average preoperative MMSE was 27 and declined to 25.4 on second 
+postoperative day the value increased to 25.9, 26.6, and 27 at 3 months, 6 
+months, and 1-year follow-up, respectively. Sixty-three out of 600 patients 
+developed POCD at second postoperative day. Forty-three patients showed recovery 
+in subsequent visits and 20 patients had persistent dysfunction at the end of 1 
+year. Electrolyte imbalance, oxygen saturation, and age over 80 years were 
+factors that showed statistically significant difference in multiple comparison 
+analysis.
+CONCLUSION: In our study, we have found POCD to be a definitive entity which can 
+cause short- and long-term cognitive defect in elderly Indian population 
+undergoing total knee replacement and electrolyte imbalance, age, and oxygen 
+saturation were the significant factors in the patients who developed POCD.
+
+DOI: 10.4103/aer.AER_178_17
+PMCID: PMC5872846
+PMID: 29628565
+
+Conflict of interest statement: There are no conflicts of interest.
+
+
+465. J Clin Orthop Trauma. 2018 Jan-Mar;9(1):63-80. doi:
+10.1016/j.jcot.2017.09.010.  Epub 2017 Sep 25.
+
+Megaprosthesis versus Allograft Prosthesis Composite for massive skeletal 
+defects.
+
+Gautam D(1), Malhotra R(1).
+
+Author information:
+(1)Department of Orthopedics, All India Institute of Medical Sciences (AIIMS), 
+Ansari Nagar, New Delhi, 110029, India.
+
+Massive skeletal defects are encountered in the setting of tumors necessitating 
+excision, failed total hip arthroplasty with periprosthetic bone loss, 
+periprosthetic fracture, complex trauma, multiple failed osteosynthesis and 
+infection. Reconstruction of the segmental defects poses a tremendous challenge 
+to the orthopaedic surgeons. The goal of osseous reconstruction of these defects 
+is to restore the bone length and function. Currently the most commonly employed 
+methods for reconstruction are either a megaprosthesis or an Allograft 
+Prosthesis Composite (APC). Megaprosthesis, initially created for the treatment 
+in neoplastic pathologies are being used for the non-neoplastic pathologies as 
+well. The longevity of these implants is an issue as majority of the patients 
+receiving them are the survivors of oncologic issue or elderly population, both 
+in which the life expectancy is limited. However, the early complications like 
+instability, infection, prosthetic breakage and fixation failure have been 
+extensively reported in several literatures. Moreover, the megaprostheses are 
+non-biological options preventing secure fixation of the soft tissue around the 
+implant. The Allograft Prosthesis Composites were introduced to overcome the 
+complications of megaprosthesis. APC is made of a revision-type prosthesis 
+cemented into the skeletal allograft to which the remaining soft tissue sleeve 
+can be biologically fixed. APCs are preferred in young and low risk patients. 
+Though the incidence of instability is relatively low with the composites as 
+compared to the megaprosthesis, apart from infection, the newer complications 
+pertaining to APCs are inevitable that includes non-union, allograft resorption, 
+periprosthetic fracture and potential risk of disease transmission. The current 
+review aims to give an overview on the treatment outcomes, complications and 
+survival of both the megaprostheses and APCs at different anatomic sites in both 
+the upper and lower limbs.
+
+DOI: 10.1016/j.jcot.2017.09.010
+PMCID: PMC5884048
+PMID: 29628687
+
+
+466. Bone Joint J. 2018 Apr 1;100-B(4):527-534. doi: 
+10.1302/0301-620X.100B4.BJJ-2017-0968.R1.
+
+Patients with unilateral transfemoral amputation treated with a percutaneous 
+osseointegrated prosthesis: a cost-effectiveness analysis.
+
+Hansson E(1), Hagberg K(2), Cawson M(3), Brodtkorb TH(4).
+
+Author information:
+(1)Institute of Health and Care Sciences, Sahlgrenska Academy University of 
+Gothenburg, Medicinaregatan 3, Gothenburg 413 90, Sweden and Department of 
+Orthopaedics, Sahlgrenska University Hospital, Gothenburg 413 45, Sweden.
+(2)University of Gothenburg, Medicinaregatan 3, Gothenburg 413 90, Sweden and 
+Advanced Reconstruction of Extremities and Department of Prosthetics and 
+Orthotics, Sahlgrenska University Hospital, Gothenburg 413 45, Sweden.
+(3)RTI Health Solutions, The Pavilion, Towers Business Park, Wilmslow Road, 
+Didsbury, Manchester M20 2LS, UK.
+(4)RTI Health Solutions, Vällebergsv 9B, Ljungskile 459 30, Sweden.
+
+AIMS: The aim of this study was to compare the cost-effectiveness of treatment 
+with an osseointegrated percutaneous (OI-) prosthesis and a socket-suspended 
+(S-) prosthesis for patients with a transfemoral amputation.
+PATIENTS AND METHODS: A Markov model was developed to estimate the medical costs 
+and changes in quality-adjusted life-years (QALYs) attributable to treatment of 
+unilateral transfemoral amputation over a projected period of 20 years from a 
+healthcare perspective. Data were collected alongside a prospective clinical 
+study of 51 patients followed for two years.
+RESULTS: OI-prostheses had an incremental cost per QALY gained of €83 374 
+compared with S-prostheses. The clinical improvement seen with OI-prostheses was 
+reflected in QALYs gained. Results were most sensitive to the utility value for 
+both treatment arms. The impact of an annual decline in utility values of 1%, 
+2%, and 3%, for patients with S-prostheses resulted in a cost per QALY gained of 
+€37 020, €24 662, and €18 952, respectively, over 20 years.
+CONCLUSION: From a healthcare perspective, treatment with an OI-prosthesis 
+results in improved quality of life at a relatively high cost compared with that 
+for S-prosthesis. When patients treated with S-prostheses had a decline in 
+quality of life over time, the cost per QALY gained by OI-prosthesis treatment 
+was considerably reduced. Cite this article: Bone Joint J 2018;100-B:527-34.
+
+DOI: 10.1302/0301-620X.100B4.BJJ-2017-0968.R1
+PMCID: PMC6503759
+PMID: 29629586 [Indexed for MEDLINE]
+
+
+467. AJR Am J Roentgenol. 2018 Jun;210(6):1279-1287. doi: 10.2214/AJR.17.19011.
+Epub  2018 Apr 9.
+
+Comparison Between Image-Guided and Landmark-Based Glenohumeral Joint Injections 
+for the Treatment of Adhesive Capsulitis: A Cost-Effectiveness Study.
+
+Gyftopoulos S(1), Abballe V(1), Virk MS(2), Koo J(3), Gold HT(4), Subhas N(5).
+
+Author information:
+(1)1 Department of Radiology, NYU Langone Medical Center, 660 First Ave, New 
+York, NY 10016.
+(2)2 Department of Orthopedic Surgery, NYU Hospital for Joint Diseases, NYU 
+Langone Orthopedic Hospital, New York, NY.
+(3)3 Department of Rehabilitation Medicine, Rusk Rehabilitation, NYU Langone 
+Medical Center, New York, NY.
+(4)4 Department of Population Health, NYU School of Medicine, New York, NY.
+(5)5 Department of Radiology, Cleveland Clinic, Cleveland, OH.
+
+OBJECTIVE: The purpose of this study was to determine the cost-effectiveness of 
+landmark-based and image-guided intraarticular steroid injections for the 
+initial treatment of a population with adhesive capsulitis.
+MATERIALS AND METHODS: A decision analytic model from the health care system 
+perspective over a 6-month time frame for 50-year-old patients with clinical 
+findings consistent with adhesive capsulitis was used to evaluate the 
+incremental cost-effectiveness of three techniques for administering 
+intraarticular steroid to the glenohumeral joint: landmark based (also called 
+blind), ultrasound guided, and fluoroscopy guided. Input data on cost, 
+probability, and utility estimates were obtained through a comprehensive 
+literature search and from expert opinion. The primary effectiveness outcome was 
+quality-adjusted life years (QALY). Costs were estimated in 2017 U.S. dollars.
+RESULTS: Ultrasound-guided injections were the dominant strategy for the base 
+case, because it was the least expensive ($1280) and most effective (0.4096 
+QALY) strategy of the three options overall. The model was sensitive to the 
+probabilities of getting the steroid into the joint by means of blind, 
+ultrasound-guided, and fluoroscopy-guided techniques and to the costs of the 
+ultrasound-guided and blind techniques. Two-way sensitivity analyses showed that 
+ultrasound-guided injections were favored over blind and fluoroscopy-guided 
+injections over a range of reasonable probabilities and costs. Probabilistic 
+sensitivity analysis showed that ultrasound-guided injections were 
+cost-effective in 44% of simulations, compared with 34% for blind injections and 
+22% for fluoroscopy-guided injections and over a wide range of 
+willingness-to-pay thresholds.
+CONCLUSION: Ultrasound-guided injections are the most cost-effective option for 
+the initial steroid-based treatment of patients with adhesive capsulitis. Blind 
+and fluoroscopy-guided injections can also be cost-effective when performed by a 
+clinician likely to accurately administer the medication into the correct 
+location.
+
+DOI: 10.2214/AJR.17.19011
+PMID: 29629805 [Indexed for MEDLINE]
+
+
+468. Med Decis Making. 2018 Aug;38(6):627-634. doi: 10.1177/0272989X18765184.
+Epub  2018 Apr 9.
+
+Setting Dead at Zero: Applying Scale Properties to the QALY Model.
+
+Roudijk B(1), Donders ART(1), Stalmeier PFM(1).
+
+Author information:
+(1)Department for Health Evidence, Radboud University Medical Center, Radboud 
+Institute for Health Sciences, Nijmegen, Gelderland, the Netherlands.
+
+INTRODUCTION: Scaling severe states can be a difficult task. First, the method 
+of measurement affects whether a health state is considered better or worse than 
+dead. Second, in discrete choice experiments, different models to anchor health 
+states on 0 (dead) and 1 (perfect health) produce varying amounts of health 
+states worse than dead.
+RESEARCH QUESTION: Within the context of the quality-adjusted life year (QALY) 
+model, this article provides insight into the value assigned to dead and its 
+consequences for decision making. Our research questions are 1) what are the 
+arguments set forth to assign dead the number 0 on the health-utility scale? And 
+2) what are the effects of the position of dead on the health-utility scale on 
+decision making?
+METHODS: A literature review was conducted to explore the arguments set forth to 
+assign dead a value of 0 in the QALY model. In addition, scale properties and 
+transformations were considered.
+RESULTS: The review uncovered several practical and theoretical considerations 
+for setting dead at 0. In the QALY model, indifference between 2 health episodes 
+is not preserved under changes of the origin of the duration scale. Ratio scale 
+properties are needed for the duration scale to preserve indifferences. In 
+combination with preferences and zero conditions for duration and health, it 
+follows that dead should have a value of 0.
+CONCLUSIONS: The health-utility and duration scales have ratio scale properties, 
+and dead should be assigned the number 0. Furthermore, the position of dead 
+should be carefully established, because it determines how life-saving and 
+life-improving values are weighed in cost-utility analysis.
+
+DOI: 10.1177/0272989X18765184
+PMCID: PMC6587359
+PMID: 29629848 [Indexed for MEDLINE]
+
+
+469. Rectal Cancer.
+
+Lotfollahzadeh S(1), Kashyap S(2), Tsoris A(3), Recio-Boiles A(4), Babiker 
+HM(5).
+
+In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023 
+Jan–.
+2023 Jul 4.
+
+Author information:
+(1)Renal and Vascular Section, Department of Medicine, Boston University School 
+of Medicine, Boston, MA 02118, USA
+(2)Beckley Appalachian Regional Healthcare Hospital
+(3)UTHSC Nashville
+(4)University of Arizona
+(5)University of Arizona Cancer Center
+
+Colon and rectal cancers (CRC) combined are the third most commonly diagnosed 
+cancer in the United States and the second deadliest. Rectal cancer has distinct 
+environmental associations and genetic risk factors different from colon 
+cancer.  The transformation of the normal rectal epithelium to a dysplastic 
+lesion and eventually an invasive carcinoma requires a combination of genetic 
+mutations, either somatic (acquired) or germline (inherited), over an 
+approximately 10 to 15 year period. Response to pre-operative therapy and 
+pathological staging are the most important prognostic indicators of rectal 
+cancer. Initial workup starts with a careful history and physical examination, 
+including a digital rectal exam. An endoscopic examination with rigid 
+sigmoidoscopy is required; this is important to measure the distance from the 
+lesion to the anal verge and for tissue biopsy to confirm rectal cancer. Once 
+rectal cancer has been established pathologically, an MRI or transrectal 
+ultrasound can accurately determine local tumor extension and node status. 
+Baseline computed tomography of the chest, abdomen, and pelvis rules out 
+metastatic lesions. An interdisciplinary evaluation by medical oncology, 
+radiation oncology, and surgical oncology is important to discuss the best 
+combination of perioperative chemo-radiotherapy (in addition to possible 
+surgical resection) that could augment the chance of cure, particularly in 
+high-risk patients. Oligo-metastatic disease to the liver and lung and 
+local-recurrence patients with rectal cancer are still potentially curable with 
+multimodality therapies. Palliative systemic therapy is reserved for 
+non-surgical candidates to ameliorate symptoms, improve quality of life, and 
+prolong life expectancy.
+
+Copyright © 2023, StatPearls Publishing LLC.
+
+PMID: 29630254
+
+Conflict of interest statement: Disclosure: Saran Lotfollahzadeh declares no 
+relevant financial relationships with ineligible companies. Disclosure: Sarang 
+Kashyap declares no relevant financial relationships with ineligible companies. 
+Disclosure: Andrea Tsoris declares no relevant financial relationships with 
+ineligible companies. Disclosure: Alejandro Recio-Boiles declares no relevant 
+financial relationships with ineligible companies. Disclosure: Hani Babiker 
+declares no relevant financial relationships with ineligible companies.
+
+
+470. PLoS One. 2018 Apr 9;13(4):e0195134. doi: 10.1371/journal.pone.0195134. 
+eCollection 2018.
+
+First- and second-line bevacizumab in ovarian cancer: A Belgian cost-utility 
+analysis.
+
+Neyt M(1), Vlayen J(1), Devriese S(1), Camberlin C(1).
+
+Author information:
+(1)Belgian Health Care Knowledge Centre (KCE), Brussels, Belgium.
+
+BACKGROUND: Currently, in Belgium, bevacizumab is reimbursed for ovarian cancer 
+patients, based on a contract between the Minister and the manufacturer 
+including confidential agreements. This reimbursement will be re-evaluated in 
+2018.
+OBJECTIVE: To support the reimbursement reassessment by calculating the 
+cost-effectiveness of bevacizumab: (1) in addition to first-line chemotherapy; 
+(2) in the treatment of recurrent ovarian cancer (platinum-sensitive or 
+platinum-resistant).
+METHODS: A health economic model has been developed for the Belgian situation 
+according to the Belgian guidelines for economic evaluations. The lifetime 
+Markov model was set up from the perspective of the health care payer 
+(government and patient), including direct healthcare related costs. Results are 
+expressed as the extra costs per quality-adjusted life year (QALY). Calculations 
+were based on results of four international trials. Both probabilistic and 
+one-way sensitivity analyses were performed.
+RESULTS: Incremental cost-effectiveness ratios (ICERs) of first-line bevacizumab 
+are on average 158 000/QALY (GOG-0218 trial) and 443 000/QALY (ICON7 trial). The 
+most favourable scenario is based on the stage IV subgroup of the GOG-0218 trial 
+(€52 000/QALY). Since subgroup findings are often exploratory and require 
+confirmatory studies, results of the economic evaluation based on this subgroup 
+analysis should be considered with caution. For second-line bevacizumab, ICERs 
+are on average €587 000/QALY (OCEANS trial) and €172 000/QALY (AURELIA trial). 
+Sensitivity analysis shows that results are most sensitive to the price of 
+bevacizumab.
+CONCLUSION: From a health economic perspective, ICERs of bevacizumab are 
+relatively high. The most favourable results are found for first-line treatment 
+of stage IV ovarian cancer patients. Price reductions have a major impact on the 
+estimated ICERs. It is recommended to take these findings into account when 
+re-evaluating the reimbursement of bevacizumab in ovarian cancer.
+
+DOI: 10.1371/journal.pone.0195134
+PMCID: PMC5891000
+PMID: 29630612 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+471. Am J Obstet Gynecol. 2018 Jul;219(1):107.e1-107.e6. doi: 
+10.1016/j.ajog.2018.04.002. Epub 2018 Apr 7.
+
+Long-term mortality risk and life expectancy following recurrent hypertensive 
+disease of pregnancy.
+
+Theilen LH(1), Meeks H(2), Fraser A(2), Esplin MS(3), Smith KR(4), Varner MW(3).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, University of Utah Health, Salt Lake 
+City, UT; Women and Newborns Clinical Program, Intermountain Healthcare, Salt 
+Lake City, UT. Electronic address: lauren.theilen@hsc.utah.edu.
+(2)Population Sciences, Huntsman Cancer Institute, University of Utah Health, 
+Salt Lake City, UT.
+(3)Department of Obstetrics and Gynecology, University of Utah Health, Salt Lake 
+City, UT; Women and Newborns Clinical Program, Intermountain Healthcare, Salt 
+Lake City, UT.
+(4)Population Sciences, Huntsman Cancer Institute, University of Utah Health, 
+Salt Lake City, UT; Department of Family and Consumer Studies, University of 
+Utah, Salt Lake City, UT.
+
+BACKGROUND: Women with a history of hypertensive disease of pregnancy have 
+increased risks for early mortality from multiple causes. The effect of 
+recurrent hypertensive disease of pregnancy on mortality risk and life 
+expectancy is unknown.
+OBJECTIVE: We sought to determine whether recurrent hypertensive disease of 
+pregnancy is associated with increased mortality risks.
+STUDY DESIGN: In this retrospective cohort study, we used birth certificate data 
+to determine the number of pregnancies affected by hypertensive disease of 
+pregnancy for each woman delivering in Utah from 1939 through 2012. We assigned 
+women to 1 of 3 groups based on number of affected pregnancies: 0, 1, or ≥2. 
+Exposed women had ≥1 affected singleton pregnancy and lived in Utah for ≥1 year 
+postpartum. Exposed women were matched 1:2 to unexposed women by age, year of 
+childbirth, and parity. Underlying cause of death was determined from death 
+certificates. Mortality risks by underlying cause of death were compared between 
+exposed and unexposed women as a function of number of affected pregnancies. Cox 
+regressions controlled for infant sex, gestational age, parental education, 
+ethnicity, and marital status.
+RESULTS: We identified 57,384 women with ≥1 affected pregnancy (49,598 women 
+with 1 affected pregnancy and 7786 women with ≥2 affected pregnancies). These 
+women were matched to 114,768 unexposed women. As of 2016, 11,894 women were 
+deceased: 4722 (8.2%) exposed and 7172 (6.3%) unexposed. Women with ≥2 affected 
+pregnancies had increased mortality from all causes (adjusted hazard ratio, 
+2.04; 95% confidence interval, 1.76-2.36), diabetes (adjusted hazard ratio, 
+4.33; 95% confidence interval, 2.21-8.47), ischemic heart disease (adjusted 
+hazard ratio, 3.30; 95% confidence interval, 2.02-5.40), and stroke (adjusted 
+hazard ratio, 5.10; 95% confidence interval, 2.62-9.92). For women whose index 
+pregnancy delivered from 1939 through 1959 (n = 10,488), those with ≥2 affected 
+pregnancies had shorter additional life expectancies than mothers who had only 1 
+or 0 hypertensive pregnancies (48.92 vs 51.91 vs 55.48 years, respectively).
+CONCLUSION: Hypertensive diseases of pregnancy are associated with excess risks 
+for early all-cause mortality and some cause-specific mortality, and these risks 
+increase further with recurrent disease.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ajog.2018.04.002
+PMCID: PMC6019643
+PMID: 29630888 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest/disclosure: The authors 
+report no conflicts of interest.
+
+
+472. Urology. 2018 Jun;116:68-75. doi: 10.1016/j.urology.2018.01.056. Epub 2018
+Apr  6.
+
+Impact of Accountable Care Organizations on Diagnostic Testing for Prostate 
+Cancer.
+
+Luckenbaugh AN(1), Hollenbeck BK(2), Kaufman SR(2), Yan P(2), Herrel LA(2), 
+Skolarus TA(2), Norton EC(3), Schroeck FR(4), Jacobs BL(5), Miller DC(2), 
+Hollingsworth JM(2), Shahinian VB(6), Borza T(7).
+
+Author information:
+(1)Department of Urology, University of Michigan, Ann Arbor, MI.
+(2)Department of Urology, University of Michigan, Ann Arbor, MI; Dow Division of 
+Health Services Research, Department of Urology, University of Michigan, Ann 
+Arbor, MI.
+(3)Department of Internal Medicine, University of Michigan, Ann Arbor, MI; 
+Department of Economics, University of Michigan, Ann Arbor, MI; National Bureau 
+of Economic Research, Cambridge, MA.
+(4)The Dartmouth Institute for Health Policy and Clinical Practice, Hanover, NH.
+(5)Department of Urology, Graduate School of Public Health, University of 
+Pittsburgh, Pittsburgh, PA.
+(6)Dow Division of Health Services Research, Department of Urology, University 
+of Michigan, Ann Arbor, MI; Department of Internal Medicine, University of 
+Michigan, Ann Arbor, MI.
+(7)Department of Urology, University of Michigan, Ann Arbor, MI; Dow Division of 
+Health Services Research, Department of Urology, University of Michigan, Ann 
+Arbor, MI. Electronic address: tborza@med.umich.edu.
+
+Comment in
+    Urology. 2018 Jun;116:74-75.
+
+OBJECTIVE: To determine if Accountable Care Organizations (ACOs) have the 
+potential to accelerate the impact of prostate cancer screening recommendations.
+METHODS: We performed a retrospective cohort study using Medicare data 
+evaluating the rates of PSA testing and prostate biopsy among men without 
+prostate cancer between 2011 and 2014. We assessed PSA testing and biopsy rates 
+before and after policy implementation among patients of ACO and non-ACO-aligned 
+physicians. To control for secular trends, difference-in-differences methods 
+were used to determine the effects of ACO implementation.
+RESULTS: We identified 1.1 million eligible men without prostate cancer. From 
+2011 to 2014, the rates of PSA testing and biopsy declined by 22.3% and 7.0%, 
+respectively. PSA testing declined similarly regardless of ACO 
+participation-from 618 to 530 tests per 1000 beneficiaries among ACO-aligned 
+physicians and from 607 to 516 tests per 1000 beneficiaries among 
+non-ACO-aligned physicians (difference-in-differences P = .11). Whereas rates of 
+prostate biopsy remained constant for patients of non-ACO-aligned physicians at 
+12 biopsies per 1000 beneficiaries, these rates increased from 11.6 to 12.5 
+biopsies per 1000 beneficiaries of patients of ACO-aligned physicians 
+(difference-in-differences P = .03).
+CONCLUSION: PSA testing and prostate biopsy rates decreased significantly 
+between 2011 and 2014. The rate of PSA testing was not differentially affected 
+by ACO participation. Conversely, there was an increase in the rate of prostate 
+biopsy among patients of ACO-aligned physicians. ACOs did not accelerate 
+deimplementation of PSA testing for eligible Medicare beneficiaries without 
+prostate cancer.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.urology.2018.01.056
+PMCID: PMC5975111
+PMID: 29630957 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosures: The authors have no conflicts of 
+interest related to this work.
+
+
+473. Disabil Rehabil. 2019 Aug;41(17):2060-2065. doi:
+10.1080/09638288.2018.1459879.  Epub 2018 Apr 10.
+
+Assessing the impact of a home-based stroke rehabilitation programme: a 
+cost-effectiveness study.
+
+Allen L(1)(2), John-Baptiste A(2), Meyer M(1), Richardson M(1), Speechley M(2), 
+Ure D(3), Markle-Reid M(4), Teasell R(1)(3)(5).
+
+Author information:
+(1)a Department of Aging, Rehabilitation, and Geriatric Care , Lawson Health 
+Research Institute , London , Canada.
+(2)b Department of Epidemiology and Biostatistics , Western University , London 
+, Canada.
+(3)c St. Joseph's Health Care, Parkwood Institute , London , Canada.
+(4)d School of Nursing , McMaster University , Hamilton , Canada.
+(5)e Schulich School of Medicine and Dentistry , University of Western Ontario, 
+Physical Medicine and Rehabilitation , London , Canada.
+
+Background: Stroke is often a severe and debilitating event that requires 
+ongoing rehabilitation. The Community Stroke Rehabilitation Teams (CSRTs) offer 
+home-based stroke rehabilitation to individuals for whom further therapy is 
+unavailable or inaccessible. The objective of this study was to evaluate the 
+cost-effectiveness of the CSRT programme compared with a "Usual Care" cohort. 
+Methods: We collected data on CSRT clients from January 2012 to February 2013. 
+Comparator data were derived from a study of stroke survivors with limited 
+access to specialised stroke rehabilitation. Literature-derived values were used 
+to inform a long-term projection. Using Markov modelling, we projected the model 
+for 35 years in six-month cycles. One-way, two-way, and probabilistic 
+sensitivity analyses were performed. Results were discounted at 3% per year. 
+Results: Results demonstrated that the CSRT programme has a net monetary benefit 
+(NMB) of $43,655 over Usual Care, and is both less costly and more effective 
+(incremental cost = -$17,255; incremental effect = 1.65 Quality Adjusted Life 
+Years [QALYs]). Results of the probabilistic sensitivity analysis revealed that 
+incremental cost-effectiveness of the CSRT programme is superior in 100% of 
+iterations when compared to Usual Care. Conclusions: The study shows that CSRT 
+model of care is cost-effective, and should be considered when evaluating 
+potential stroke rehabilitation delivery methods. Implications for 
+Rehabilitation Ongoing rehabilitation following stroke is imperative for optimal 
+recovery. Home-based specialised stroke rehabilitation may be an option for 
+individuals for whom ongoing rehabilitation is unavailable or inaccessible. The 
+results of this study demonstrated that home-based rehabilitation is a 
+cost-effective means of providing ongoing rehabilitation to individuals who have 
+experienced a stroke.
+
+DOI: 10.1080/09638288.2018.1459879
+PMID: 29631453 [Indexed for MEDLINE]
+
+
+474. Proc Natl Acad Sci U S A. 2018 Apr 24;115(17):4447-4452. doi: 
+10.1073/pnas.1716852115. Epub 2018 Apr 9.
+
+Symbiont selection via alcohol benefits fungus farming by ambrosia beetles.
+
+Ranger CM(1)(2), Biedermann PHW(3)(4), Phuntumart V(5), Beligala GU(5), Ghosh 
+S(5), Palmquist DE(6), Mueller R(7)(8), Barnett J(9), Schultz PB(10), Reding 
+ME(9)(2), Benz JP(11).
+
+Author information:
+(1)Horticultural Insects Research Laboratory, US Department of 
+Agriculture-Agricultural Research Service, Wooster, OH 44691; 
+christopher.ranger@ars.usda.gov peter.biedermann@uni-wuerzburg.de.
+(2)Department of Entomology, Ohio Agricultural Research and Development Center, 
+The Ohio State University, Wooster, OH 44691.
+(3)Department of Biochemistry, Max Planck Institute for Chemical Ecology, 07745 
+Jena, Germany; christopher.ranger@ars.usda.gov 
+peter.biedermann@uni-wuerzburg.de.
+(4)Department of Animal Ecology and Tropical Biology, Biozentrum, Julius 
+Maximilian University Würzburg, 97074 Würzburg, Germany.
+(5)Department of Biological Sciences, Bowling Green State University, Bowling 
+Green, OH 43403.
+(6)US Department of Agriculture-Agricultural Research Service Midwest Area, 
+Peoria, IL 61604.
+(7)Department of Biochemistry, Max Planck Institute for Chemical Ecology, 07745 
+Jena, Germany.
+(8)Hawkesbury Institute for the Environment, Western Sydney University, Penrith, 
+NSW 2751, Australia.
+(9)Horticultural Insects Research Laboratory, US Department of 
+Agriculture-Agricultural Research Service, Wooster, OH 44691.
+(10)Hampton Roads Agricultural Research and Extension Center, Virginia 
+Polytechnic Institute and State University, Virginia Beach, VA 23455.
+(11)School of Life Sciences Weihenstephan, Technical University of Munich, 
+D-85354 Freising, Germany.
+
+Animal-microbe mutualisms are typically maintained by vertical symbiont 
+transmission or partner choice. A third mechanism, screening of high-quality 
+symbionts, has been predicted in theory, but empirical examples are rare. Here 
+we demonstrate that ambrosia beetles rely on ethanol within host trees for 
+promoting gardens of their fungal symbiont and producing offspring. Ethanol has 
+long been known as the main attractant for many of these fungus-farming beetles 
+as they select host trees in which they excavate tunnels and cultivate fungal 
+gardens. More than 300 attacks by Xylosandrus germanus and other species were 
+triggered by baiting trees with ethanol lures, but none of the foundresses 
+established fungal gardens or produced broods unless tree tissues contained in 
+vivo ethanol resulting from irrigation with ethanol solutions. More X. germanus 
+brood were also produced in a rearing substrate containing ethanol. These 
+benefits are a result of increased food supply via the positive effects of 
+ethanol on food-fungus biomass. Selected Ambrosiella and Raffaelea fungal 
+isolates from ethanol-responsive ambrosia beetles profited directly and 
+indirectly by (i) a higher biomass on medium containing ethanol, (ii) strong 
+alcohol dehydrogenase enzymatic activity, and (iii) a competitive advantage over 
+weedy fungal garden competitors (Aspergillus, Penicillium) that are inhibited by 
+ethanol. As ambrosia fungi both detoxify and produce ethanol, they may maintain 
+the selectivity of their alcohol-rich habitat for their own purpose and that of 
+other ethanol-resistant/producing microbes. This resembles biological screening 
+of beneficial symbionts and a potentially widespread, unstudied benefit of 
+alcohol-producing symbionts (e.g., yeasts) in other microbial symbioses.
+
+Copyright © 2018 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.1716852115
+PMCID: PMC5924889
+PMID: 29632193 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+475. Drugs. 2018 Apr;78(6):643-673. doi: 10.1007/s40265-018-0897-3.
+
+Herbal Dietary Supplements for Erectile Dysfunction: A Systematic Review and 
+Meta-Analysis.
+
+Borrelli F(1)(2), Colalto C(3)(4), Delfino DV(5)(4), Iriti M(6)(4), Izzo 
+AA(7)(8).
+
+Author information:
+(1)Department of Pharmacy, School of Medicine and Surgery, University of Napes 
+Federico II, Via D. Montesano 49, 80131, Naples, Italy. franborr@unina.it.
+(2)Working Group "Pharmacognosy and Phytotherapy" of the Italian Pharmacological 
+Society, Viale Abruzzi 32, 20131, Milan, Italy. franborr@unina.it.
+(3)Farmacia San Paolo dr Colalto, Piazza Dè l'Osto 37, 37035, San Giovanni 
+Ilarione, Verona, Italy.
+(4)Working Group "Pharmacognosy and Phytotherapy" of the Italian Pharmacological 
+Society, Viale Abruzzi 32, 20131, Milan, Italy.
+(5)Section of Pharmacology, Department of Medicine, University of Perugia, 
+Piazzale Severi, 06132, S. Andrea delle Fratte, Perugia, Italy.
+(6)Department of Agricultural and Environmental Sciences, Milan State 
+University, Via Celoria 2, 20133, Milan, Italy.
+(7)Department of Pharmacy, School of Medicine and Surgery, University of Napes 
+Federico II, Via D. Montesano 49, 80131, Naples, Italy. aaizzo@unina.it.
+(8)Working Group "Pharmacognosy and Phytotherapy" of the Italian Pharmacological 
+Society, Viale Abruzzi 32, 20131, Milan, Italy. aaizzo@unina.it.
+
+PURPOSE: Erectile dysfunction (ED) is a common condition that significantly 
+affects quality of life and interpersonal relationships.
+OBJECTIVE: Our objective was to perform a systematic review and meta-analysis to 
+evaluate the efficacy of herbal dietary supplements in the treatment of ED.
+MATERIALS AND METHODS: We searched five databases to identify randomized 
+controlled trials (RCTs) that evaluated the clinical efficacy of herbal 
+medicines in ED. Quality was assessed and risk of bias was estimated using the 
+Jadad score and the Cochrane risk-of-bias tool.
+RESULTS: In total, 24 RCTs, including 2080 patients with ED, were identified. 
+Among these, 12 evaluated monopreparations (five ginseng [n = 399], three 
+saffron [n = 397], two Tribulus terrestris [n = 202], and one each Pinus 
+pinaster [n = 21] and Lepidium meyenii [n = 50]), seven evaluated formulations 
+(n = 544), and five investigated dietary supplements in combination with pure 
+compounds (n = 410). Ginseng significantly improved erectile function 
+(International Index of Erectile Function [IIEF]-5 score: 140 ginseng, 96 
+placebo; standardized mean difference [SMD] 0.43; 95% confidence interval [CI] 
+0.15-0.70; P < 0.01; I2 = 0), P. pinaster and L. meyenii showed very preliminary 
+positive results, and saffron and T. terrestris treatment produced mixed 
+results. Several herbal formulations were associated with a decrease of IIEF-5 
+or IIEF-15, although the results were preliminary. The quality of the included 
+studies varied, with only seven having a prevalent low risk of bias. The median 
+methodological quality Jadad score was three out of a maximum of five. Adverse 
+events were recorded in 19 of 24 trials, with no significant differences between 
+placebo and verum in placebo-controlled studies.
+CONCLUSIONS: Encouraging evidence suggests that ginseng may be an effective 
+herbal treatment for ED. However, further, larger, and high-quality studies are 
+required before firm conclusions can be drawn. Promising (although very 
+preliminary) results have also been generated for some herbal formulations. 
+Overall, more research in the field, adhering to the CONSORT statement extension 
+for reporting trials, is justified before the use of herbal products in ED can 
+be recommended.
+
+DOI: 10.1007/s40265-018-0897-3
+PMID: 29633089 [Indexed for MEDLINE]
+
+
+476. Hepatology. 2018 Oct;68(4):1476-1486. doi: 10.1002/hep.29922. Epub 2018 May
+14.
+
+Cost-effectiveness of antiviral treatment after resection in hepatitis B 
+virus-related hepatocellular carcinoma patients with compensated cirrhosis.
+
+Xie L(1), Yin J(1), Xia R(1), Zhuang G(1).
+
+Author information:
+(1)Department of Epidemiology and Biostatistics, School of Public Health, Xi'an 
+Jiaotong University Health Science Center, Xi'an, Shaanxi, China.
+
+Hepatocellular carcinoma (HCC) imposes a heavy disease burden on China due to 
+its high morbidity and mortality. China accounts for about 50% of the total new 
+cases and deaths worldwide. Most cases are related to hepatitis B virus (HBV) 
+infection and are associated with cirrhosis at diagnosis. Antiviral treatment 
+with nucleos(t)ide analogues (NAs) after resection in HBV-related HCC can reduce 
+recurrence and improve survival. Such treatment is in fact recommended by 
+Chinese guidelines. However, cost-effectiveness studies regarding this treatment 
+are rare. The objective of this study was to estimate the cost-effectiveness of 
+NA treatment after resection in HBV-related HCC patients with compensated 
+cirrhosis. A Markov model was constructed to simulate HBV-related HCC patients 
+with compensated cirrhosis and detectable HBV DNA, with or without NA treatment 
+after resection, followed up over their lifetime. Costs, life expectancy, 
+quality-adjusted life-years (QALYs), and incremental cost-effectiveness ratios 
+(ICER) were calculated for each strategy from the societal perspective. The 
+parameters of the model were derived from published studies, government 
+documents, and our surveys. Sensitivity analyses were used to explore the impact 
+of parameters on the uncertainty of the results. NA treatment produced 4.22 
+QALYs, costing $39,898, while non-NA treatment achieved 2.80 QALYs, costing 
+$16,048. The ICER of NA treatment versus non-NA treatment was $16,848/QALY, 
+which was between 2 and 3 times gross domestic product per capita and was 
+therefore deemed cost-effective. Probabilistic sensitivity analysis confirmed 
+that NA treatment was cost-effective, with a probability of 0.852.
+CONCLUSION: NA treatment after liver resection was likely cost-effective in 
+HBV-related HCC patients with compensated cirrhosis. (Hepatology 2018).
+
+© 2018 by the American Association for the Study of Liver Diseases.
+
+DOI: 10.1002/hep.29922
+PMID: 29633304 [Indexed for MEDLINE]
+
+
+477. Haemophilia. 2018 May;24(3):348-358. doi: 10.1111/hae.13438. Epub 2018 Apr
+6.
+
+Defining extended half-life rFVIII-A critical review of the evidence.
+
+Mahlangu J(1), Young G(2), Hermans C(3), Blanchette V(4), Berntorp E(5), 
+Santagostino E(6).
+
+Author information:
+(1)Faculty of Health Sciences, University of the Witwatersrand and National 
+Health Laboratory Service, Charlotte Maxeke Johannesburg Academic Hospital, 
+Johannesburg, South Africa.
+(2)Children's Hospital Los Angeles, University of Southern California Keck 
+School of Medicine, Los Angeles, CA, USA.
+(3)Haemostasis and Thrombosis Unit, Division of Haematology, Cliniques 
+universitaires Saint-Luc, Brussels, Belgium.
+(4)Pediatric Thrombosis and Hemostasis Program, Division of Hematology/Oncology, 
+Hospital for Sick Children, University of Toronto, Toronto, ON, Canada.
+(5)Centre for Thrombosis and Haemostasis, Lund University, Malmö, Sweden.
+(6)A. Bianchi Bonomi Hemophilia and Thrombosis Center, IRCCS Ca' Granda 
+Foundation, Maggiore Hospital Policlinico of Milan, Milan, Italy.
+
+INTRODUCTION: Recent haemophilia treatment advances include new recombinant 
+FVIII (rFVIII) products with improved pharmacokinetic (PK) properties that aim 
+to reduce the burden of prophylaxis. These treatments are commonly referred to 
+as extended half-life rFVIII products (EHL rFVIII). There is no uniform 
+definition of what constitutes an EHL rFVIII. Such a definition would help 
+physicians, patients and funders understand the properties of standard and EHL 
+rFVIIIs and thus provide clarity when selecting an EHL in clinical settings.
+AIM: To critically assess the published evidence on new and emerging rFVIII 
+products in order to propose a definition to classify EHL rFVIIIs.
+METHODS: We systematically searched PubMed, EMBASE and regulatory authorities 
+(FDA/EMA/Health Canada) websites for publications and regulatory submissions 
+describing prospective crossover PK studies evaluating rFVIIIs that demonstrate 
+improved PK parameters in adults and adolescents with severe haemophilia A.
+RESULTS: Following critical analyses of the published data, we developed a 
+holistic approach to defining rFVIIIs as EHLs, which requires all of the 
+following: (i) using technology designed to extend rFVIII half-life; (ii) 
+lacking bioequivalence with a standard rFVIII comparator-above the FDA/EMA 
+cut-off of 125% for the 90% confidence intervals for area under the curve ratio; 
+and (iii) having an extended half-life ratio measured in a PK comparator 
+crossover study.
+CONCLUSION: In this systematic review, a pragmatic definition of EHL rFVIII has 
+been proposed that should provide better clarity in clinical discussions 
+surrounding the appropriate use of rFVIII products. At present, only products 
+using PEGylation or Fc fusion half-life extension technology meet the proposed 
+criteria for definition of EHL rFVIII.
+
+© 2018 The Authors. Haemophilia Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/hae.13438
+PMID: 29633467 [Indexed for MEDLINE]
+
+
+478. Int J Technol Assess Health Care. 2018 Jan;34(2):163-171. doi: 
+10.1017/S0266462318000090. Epub 2018 Apr 10.
+
+DECISION-COMPONENTS OF NICE'S TECHNOLOGY APPRAISALS ASSESSMENT FRAMEWORK.
+
+de Folter J(1), Trusheim M(2), Jonsson P(3), Garner S(4).
+
+Author information:
+(1)National Institute for Health and Care Excellence 
+(NICE)joost.defolter@nice.org.uk;folterj@gmail.com.
+(2)Massachusetts Institute of Technology (MIT).
+(3)National Institute for Health and Care Excellence 
+(NICE)Pall.Jonsson@nice.org.uk.
+(4)National Institute for Health and Care Excellence (NICE).
+
+OBJECTIVES: Value assessment frameworks have gained prominence recently in the 
+context of U.S. healthcare. Such frameworks set out a series of factors that are 
+considered in funding decisions. The UK's National Institute of Health and Care 
+Excellence (NICE) is an established health technology assessment (HTA) agency. 
+We present a novel application of text analysis that characterizes NICE's 
+Technology Appraisals in the context of the newer assessment frameworks and 
+present the results in a visual way.
+METHODS: A total of 243 documents of NICE's medicines guidance from 2007 to 2016 
+were analyzed. Text analysis was used to identify a hierarchical set of decision 
+factors considered in the assessments. The frequency of decision factors stated 
+in the documents was determined and their association with terms related to 
+uncertainty. The results were incorporated into visual representations of 
+hierarchical factors.
+RESULTS: We identified 125 decision factors, and hierarchically grouped these 
+into eight domains: Clinical Effectiveness, Cost Effectiveness, Condition, 
+Current Practice, Clinical Need, New Treatment, Studies, and Other Factors. 
+Textual analysis showed all domains appeared consistently in the guidance 
+documents. Many factors were commonly associated with terms relating to 
+uncertainty. A series of visual representations was created.
+CONCLUSIONS: This study reveals the complexity and consistency of NICE's 
+decision-making processes and demonstrates that cost effectiveness is not the 
+only decision-criteria. The study highlights the importance of processes and 
+methodology that can take both quantitative and qualitative information into 
+account. Visualizations can help effectively communicate this complex 
+information during the decision-making process and subsequently to stakeholders.
+
+DOI: 10.1017/S0266462318000090
+PMID: 29633673 [Indexed for MEDLINE]
+
+
+479. Anal Chem. 2018 May 1;90(9):5671-5677. doi: 10.1021/acs.analchem.7b05217.
+Epub  2018 Apr 10.
+
+Fenobody: A Ferritin-Displayed Nanobody with High Apparent Affinity and 
+Half-Life Extension.
+
+Fan K(1), Jiang B(1)(2), Guan Z(3), He J(1)(2), Yang D(1), Xie N(4), Nie G(4), 
+Xie C(3), Yan X(1)(2).
+
+Author information:
+(1)Key Laboratory of Protein and Peptide Pharmaceuticals, CAS-University of 
+Tokyo Joint Laboratory of Structural Virology and Immunology , Institute of 
+Biophysics, Chinese Academy of Sciences , Beijing 100101 , China.
+(2)University of Chinese Academy of Sciences , 19A Yuquan Road , Beijing 100049 
+, China.
+(3)State Key Laboratory of Membrane Biology, Laboratory of Molecular Biophysics, 
+School of Life Sciences , Peking University , Beijing 100871 , China.
+(4)Institute of Translation Medicine , Shenzhen Second People's Hospital, First 
+Affiliated Hospital of Shenzhen University , Shenzhen , 518035 , China.
+
+Nanobodies consist of a single domain variable fragment of a camelid heavy-chain 
+antibody. Nanobodies have potential applications in biomedical fields because of 
+their simple production procedures and low cost. Occasionally, nanobody clones 
+of interest exhibit low affinities for their target antigens, which, together 
+with their short half-life limit bioanalytical or therapeutic applications. 
+Here, we developed a novel platform we named fenobody, in which a nanobody 
+developed against H5N1 virus is displayed on the surface of ferritin in the form 
+of a 24mer. We constructed a fenobody by substituting the fifth helix of 
+ferritin with the nanobody. TEM analysis showed that nanobodies were displayed 
+on the surface of ferritin in the form of 6 × 4 bundles, and that these 
+clustered nanobodies are flexible for antigen binding in spatial structure. 
+Comparing fenobodies with conventional nanobodies currently used revealed that 
+the antigen binding apparent affinity of anti-H5N1 fenobody was dramatically 
+increased (∼360-fold). Crucially, their half-life extension in a murine model 
+was 10-fold longer than anti-H5N1 nanobody. In addition, we found that our 
+fenobodies are highly expressed in Escherichia coli, and are both soluble and 
+thermo-stable nanocages that self-assemble as 24-polymers. In conclusion, our 
+results demonstrate that fenobodies have unique advantages over currently 
+available systems for apparent affinity enhancement and half-life extension of 
+nanobodies. Our fenobody system presents a suitable platform for various 
+large-scale biotechnological processes and should greatly facilitate the 
+application of nanobody technology in these areas.
+
+DOI: 10.1021/acs.analchem.7b05217
+PMID: 29634235 [Indexed for MEDLINE]
+
+
+480. Antioxid Redox Signal. 2018 Jun 1;28(16):1483-1502. doi:
+10.1089/ars.2017.7434.
+
+Dietary and Endocrine Regulation of Endogenous Hydrogen Sulfide Production: 
+Implications for Longevity.
+
+Hine C(1), Zhu Y(2), Hollenberg AN(2), Mitchell JR(3).
+
+Author information:
+(1)1 Department of Cellular and Molecular Medicine, Cleveland Clinic Lerner 
+Research Institute , Cleveland, Ohio.
+(2)2 Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess 
+Medical Center and Harvard Medical School , Boston, Massachusetts.
+(3)3 Department of Genetics and Complex Diseases, Harvard T.H. Chan School of 
+Public Health , Boston, Massachusetts.
+
+SIGNIFICANCE: Hydrogen sulfide (H2S) at the right concentration is associated 
+with numerous health benefits in experimental organisms, ranging from protection 
+from ischemia/reperfusion injury to life span extension. Given the considerable 
+translation potential, two major strategies have emerged: supplementation of 
+exogenous H2S and modulation of endogenous H2S metabolism. Recent Advances: 
+Recently, it was reported that hepatic H2S production capacity is increased in 
+two of the best-characterized mammalian models of life span extension, dietary 
+restriction, and hypopituitary dwarfism, leading to new insights into dietary 
+and hormonal regulation of endogenous H2S production together with broader 
+changes in sulfur amino acid (SAA) metabolism with implications for DNA 
+methylation and redox status.
+CRITICAL ISSUES: Here, we discuss the role of dietary SAAs and growth hormone 
+(GH)/thyroid hormone (TH) signaling in regulation of endogenous H2S production 
+largely via repression of H2S generating enzymes cystathionine γ-lyase (CGL) and 
+cystathionine β-synthase (CBS) on the level of gene transcription, as well as 
+reciprocal regulation of GH and TH signaling by H2S itself. We also discuss 
+plasticity of CGL and CBS gene expression in response to environmental stimuli 
+and the potential of the microbiome to impact overall H2S levels.
+FUTURE DIRECTIONS: The relative contribution of increased H2S to health span or 
+lifespan benefits in models of extended longevity remains to be determined, as 
+does the mechanism by which such benefits occur. Nonetheless, our ability to 
+control H2S levels using exogenous H2S donors or by modifying the endogenous H2S 
+production/consumption equilibrium has the potential to improve health and 
+increase "shelf-life" across evolutionary boundaries, including our own. 
+Antioxid. Redox Signal. 28, 1483-1502.
+
+DOI: 10.1089/ars.2017.7434
+PMCID: PMC5930795
+PMID: 29634343 [Indexed for MEDLINE]481. Med Sci Sports Exerc. 2018 Sep;50(9):1733-1739. doi: 
+10.1249/MSS.0000000000001637.
+
+Effects of Neuromuscular Electrical Stimulation in People with Spinal Cord 
+Injury.
+
+Bochkezanian V(1)(2)(3), Newton RU(2)(3), Trajano GS(4), Blazevich AJ(2).
+
+Author information:
+(1)School of Health, Medical and Applied Sciences, Central Queensland 
+University, Rockhampton, QLD, AUSTRALIA.
+(2)Centre for Sports and Exercise Science, School of Medical and Health 
+Sciences, Edith Cowan University, Perth, WA, AUSTRALIA.
+(3)Exercise Medicine Research Institute, Edith Cowan University, Perth, WA, 
+AUSTRALIA.
+(4)School of Exercise and Nutrition Sciences, Queensland University of 
+Technology, Brisbane, QLD, AUSTRALIA.
+
+INTRODUCTION: Muscle force production is usually impaired in people with spinal 
+cord injury (SCI). The use of high-intensity neuromuscular electrical 
+stimulation (NMES) strength training can help promote metabolically active lean 
+muscle mass and, thus, increase muscle mass and improve physical health and 
+quality of life (QoL). Nonetheless, NMES is usually used at low-stimulation 
+intensities, and there is limited evidence on the effects of high-intensity NMES 
+strength training into improving muscle force and mass, symptoms of spasticity, 
+or physical health and QoL in people with SCI.
+METHODS: Five individuals with chronic SCI completed five 10-repetition sets of 
+high-intensity knee extension NMES strength training sessions for 12 wk in both 
+quadriceps muscles. Quadriceps femoris (QF) knee extensor torque was measured on 
+a dynamometer, and cross-sectional area (CSAQF) was measured with extended 
+field-of-view ultrasonography. Venous blood samples were collected for blood 
+lipid profiling and C-reactive protein analyses. The Spinal Cord Injury 
+Spasticity Evaluation Tool was used to assess symptoms of spasticity, and the 
+QoL index SCI version III was used for QoL measures.
+RESULTS: QF tetanic knee extensor torque increased on average by 35% (2%-92%), 
+and CSAQF increased by 47% (14%-145%). A significant increase in the HDL/LDL 
+cholesterol ratio (P < 0.001) and a mean significant improvement of 4.8% ± 2.3% 
+(absolute value = 0.26) in the Spinal Cord Injury Spasticity Evaluation Tool 
+score was observed, whereas QoL showed a near-significant improvement in the 
+health and functioning domain (15.0 ± 4.2 and 17.3 ± 5.1; P = 0.07).
+CONCLUSIONS: High-intensity NMES strength training in people with SCI may 
+improve muscle strength, mass, physical health, and QoL. However, replication of 
+these results is necessary before clinical implementation.
+
+DOI: 10.1249/MSS.0000000000001637
+PMID: 29634640 [Indexed for MEDLINE]
+
+
+482. JAMA. 2018 Apr 10;319(14):1444-1472. doi: 10.1001/jama.2018.0158.
+
+The State of US Health, 1990-2016: Burden of Diseases, Injuries, and Risk 
+Factors Among US States.
+
+US Burden of Disease Collaborators; Mokdad AH(1), Ballestros K(1), Echko M(1), 
+Glenn S(1), Olsen HE(1), Mullany E(1), Lee A(1), Khan AR(2), Ahmadi A(3)(4), 
+Ferrari AJ(1)(5)(6), Kasaeian A(7), Werdecker A(8), Carter A(1), Zipkin B(1), 
+Sartorius B(9)(10), Serdar B(11), Sykes BL(12), Troeger C(1), Fitzmaurice 
+C(1)(13), Rehm CD(14), Santomauro D(1)(5)(6), Kim D(15), Colombara D(1), 
+Schwebel DC(16), Tsoi D(1), Kolte D(17), Nsoesie E(1), Nichols E(1), Oren E(18), 
+Charlson FJ(1)(5)(6), Patton GC(19), Roth GA(1), Hosgood HD(20), Whiteford 
+HA(1)(5)(6), Kyu H(1), Erskine HE(1)(5)(6), Huang H(21), Martopullo I(1), Singh 
+JA(16), Nachega JB(22)(23)(24), Sanabria JR(25)(26), Abbas K(27), Ong K(1), Tabb 
+K(28), Krohn KJ(1), Cornaby L(1), Degenhardt L(1)(29), Moses M(1), Farvid 
+M(30)(31), Griswold M(1), Criqui M(32), Bell M(33), Nguyen M(1), Wallin 
+M(34)(35), Mirarefin M(1)(36), Qorbani M(37), Younis M(38), Fullman N(1), Liu 
+P(1), Briant P(1), Gona P(39), Havmoller R(4), Leung R(40), Kimokoti R(41), 
+Bazargan-Hejazi S(42)(43), Hay SI(1)(44), Yadgir S(1), Biryukov S(1), Vollset 
+SE(1)(45), Alam T(1), Frank T(1), Farid T(2), Miller T(46)(47), Vos T(1), 
+Bärnighausen T(48)(49)(50), Gebrehiwot TT(51), Yano Y(52), Al-Aly Z(53), Mehari 
+A(54), Handal A(55), Kandel A(56), Anderson B(57), Biroscak B(33)(58), 
+Mozaffarian D(59), Dorsey ER(60), Ding EL(30), Park EK(61), Wagner G(62), Hu 
+G(63), Chen H(64), Sunshine JE(57), Khubchandani J(65), Leasher J(66), Leung 
+J(57)(5), Salomon J(48), Unutzer J(57), Cahill L(30)(67), Cooper L(68), Horino 
+M(69), Brauer M(1)(70), Breitborde N(71), Hotez P(72), Topor-Madry R(73)(74), 
+Soneji S(75), Stranges S(76)(77), James S(1), Amrock S(78), Jayaraman S(79), 
+Patel T(80), Akinyemiju T(16), Skirbekk V(81)(82), Kinfu Y(83), Bhutta 
+Z(84)(85), Jonas JB(86), Murray CJL(1).
+
+Author information:
+(1)Institute for Health Metrics and Evaluation, University of Washington, 
+Seattle.
+(2)University of Louisville, Louisville, Kentucky.
+(3)Kermanshah University of Medical Sciences, Kermanshah, Iran.
+(4)Karolinska Institutet, Stockholm, Sweden.
+(5)School of Public Health, University of Queensland, Brisbane, Australia.
+(6)Queensland Centre for Mental Health Research, Brisbane, Australia.
+(7)Hematology-Oncology and Stem Cell Transplantation Research Center, and 
+Hematologic Malignancies Research Center, Tehran University of Medical Sciences, 
+Tehran, Iran.

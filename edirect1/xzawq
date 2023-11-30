@@ -1,0 +1,1000 @@
+clusters, imbalanced cluster sizes, and skewed costs. Performance was reported 
+as bias, root mean squared error (rMSE), and confidence interval (CI) coverage 
+for estimating incremental net benefits (INBs). We also compared the methods in 
+a case study.
+RESULTS: Each method reported low levels of bias. Without the robust SE, SUR 
+gave poor CI coverage (base case: 0.89 v. nominal level: 0.95). The MLM and TSB 
+performed well in each scenario (CI coverage, 0.92-0.95). With few clusters, the 
+GEE and SUR (with robust SE) had coverage below 0.90. In the case study, the 
+mean INBs were similar across all methods, but ignoring clustering 
+underestimated statistical uncertainty and the value of further research.
+CONCLUSIONS: MLMs and the TSB are appropriate analytical methods for CEAs of 
+CRTs with the characteristics described. SUR and GEE are not recommended for 
+studies with few clusters.
+
+DOI: 10.1177/0272989X11418372
+PMCID: PMC3757919
+PMID: 22016450 [Indexed for MEDLINE]
+
+
+767. Int J Ther Massage Bodywork. 2011;4(3):1-7. doi: 10.3822/ijtmb.v4i3.137.
+Epub  2011 Sep 30.
+
+A novel massage therapy technique for management of chronic cervical pain: a 
+case series.
+
+Thompson WR(1), Carter R, Rohe B, Duncan RL, Cooper CR.
+
+Author information:
+(1)Department of Biological Sciences, University of Delaware, Newark.
+
+BACKGROUND: Neck pain is a generalized condition resulting from a complex 
+etiology with presentation of a wide variety of symptoms. Neck pain is most 
+often accompanied by decreased range of motion (ROM), muscle and joint 
+stiffness, and limitations in functional capabilities. This condition may result 
+in significant personal and societal burden.
+PURPOSE: We evaluated the effectiveness of a novel massage therapy intervention 
+by following the treatment regimen and outcomes of two patients experiencing 
+chronic neck pain.
+PARTICIPANTS: Two patients (46 and 53 years old) experienced chronic (>5 years) 
+neck pain. Both patients reported pain, limited ROM, and muscle and joint 
+stiffness. Additionally, the first patient reported a lack of sleep, and both 
+patients stated their pain interfered with their quality of life and activities 
+of daily living.
+INTERVENTION: Patients received the Integrative Muscular Movement Technique 
+(IMMT) intervention approximately twice a week for a total of eight treatments, 
+each approximately 20 minutes in duration.
+RESULTS: Both patients experienced a reduction in pain and an increase in 
+cervical ROM in flexion, extension, rotation, and sidebending. The first patient 
+also reported an increased ability to sleep. Both patients reported an increased 
+ability to perform activities of daily living, including work-related 
+responsibilities.
+CONCLUSIONS: For the two patients included in this report, therapist 
+observations and patient reports indicate that inclusion of the IMMT treatment 
+in a treatment regimen for chronic neck pain may lead to decreased pain and 
+increased cervical ROM. These positive effects of the IMMT intervention may have 
+a role in enhancing functional outcomes of these patients.
+
+DOI: 10.3822/ijtmb.v4i3.137
+PMCID: PMC3184474
+PMID: 22016757
+
+
+768. Sheng Wu Gong Cheng Xue Bao. 2011 Jul;27(7):990-7.
+
+[Cloning of Blakeslea trispora carRA gene by PCR-driven overlap extension and 
+construction of an activity detection system].
+
+[Article in Chinese]
+
+Tang H(1), Shi N, Yu M, Liu L, Liu J, Jia Y, Niu H, Zhang L.
+
+Author information:
+(1)Key Laboratory of Microbial Diversity Research and Application of Hebei 
+Province, College of Life Sciences, Hebei University, Baoding 071002, China.
+
+Blakeslea trispora CarRA has both lycopene cyclase and phytoene synthase 
+activity. In order to analyze the double functional activity of CarRA proteins 
+and to detect the active sites of lycopene cyclase, we constructed two detection 
+systems in Escherichia coli by color complementary. Through PCR-driven overlap 
+extension we got carRA gene cDNA, then constructed prokaryotes expression vector 
+pET28a-carRA. pET28a-carRA with plasmid pAC-LYC carrying crtl/crtB/crtE gene 
+clusters were co-transformed to BL21(DE3) to validate lycopene cyclase activity. 
+We constructed the plasmid pAC-LYC delta (crtB) carrying crtl/crtE gene 
+clusters, then co-transtormed them with pET28a-carRA to BL21(DE3) to validate 
+phytoene synthase activity. Based on color complementary, and HPLC analysis of 
+metabolites, we confirmed that the CarRA protein activity detection system was 
+reliable. Our study provides a screening model for specific mutation of lycopene 
+cyclase without affecting phytoene synthase activity.
+
+PMID: 22016982 [Indexed for MEDLINE]
+
+
+769. J Med Econ. 2012;15(2):207-18. doi: 10.3111/13696998.2011.632797. Epub 2011
+Nov  17.
+
+A cost-utility study of the use of pregabalin in treatment-refractory 
+neuropathic pain.
+
+Gordon J(1), Lister S, Prettyjohns M, McEwan P, Tetlow A, Gabriel Z.
+
+Author information:
+(1)School of Population Health and Clinical Practice, The University of Adelaide 
+, Adelaide, South Australia, Australia. jason.gordon@adelaide.edu.au
+
+OBJECTIVES: A small but significant proportion of patients with peripheral 
+neuropathic pain (NeP) are refractory to the typical treatments applied in 
+clinical practice, including amitriptyline and gabapentin. Thus, they continue 
+to suffer the debilitating effects of NeP. This study aimed to evaluate the 
+cost-effectiveness of pregabalin in comparison to usual care, in patients with 
+refractory NeP, from a third party payer's perspective (NHS).
+METHODS: A stochastic simulation model was constructed, using clinical data from 
+four non-randomized studies, to generate pain pathways of patients receiving 
+usual care and pregabalin. Treatment effect (pain reduction) was converted to 
+quality-of-life (QoL) data, using a regression analysis based on new utility 
+data, collected from a survey of refractory NeP patients presenting to pain 
+clinics in Cardiff, Wales. All relevant direct costs were estimated using 
+resource use from the survey data (where available) and unit costs from the 
+British National Formulary (BNF). The analysis was run over a 5-year time 
+horizon, with costs and benefits discounted at 3.5%.
+STUDY LIMITATIONS: The use of non-randomized (observational) data to 
+characterize the effectiveness of treatments for NeP. Exclusion of productivity 
+costs and consequences from the analysis.
+RESULTS: In the base case analysis, an incremental cost-effectiveness ratio 
+(ICER) of £10,803 per quality adjusted life year (QALY) was attained. This 
+result was found to be reasonably insensitive to variations in the key input 
+parameters, with ICERs ranging from £8505 to £22,845 per QALY gained.
+CONCLUSIONS: The analysis shows that pregabalin is a cost-effective alternative 
+to usual care in patients with refractory NeP, with an ICER well below the 
+threshold typically adopted by UK health technology assessment groups, such as 
+NICE.
+
+DOI: 10.3111/13696998.2011.632797
+PMID: 22017236 [Indexed for MEDLINE]
+
+
+770. J Transl Med. 2011 Oct 21;9:181. doi: 10.1186/1479-5876-9-181.
+
+Stem cell treatment for patients with autoimmune disease by systemic infusion of 
+culture-expanded autologous adipose tissue derived mesenchymal stem cells.
+
+Ra JC(1), Kang SK, Shin IS, Park HG, Joo SA, Kim JG, Kang BC, Lee YS, Nakama K, 
+Piao M, Sohl B, Kurtz A.
+
+Author information:
+(1)Stem Cell Research Center, RNL BIO, Seoul, 153-768, Republic of Korea. 
+jcra@rnl.co.kr
+
+Prolonged life expectancy, life style and environmental changes have caused a 
+changing disease pattern in developed countries towards an increase of 
+degenerative and autoimmune diseases. Stem cells have become a promising tool 
+for their treatment by promoting tissue repair and protection from immune-attack 
+associated damage. Patient-derived autologous stem cells present a safe option 
+for this treatment since these will not induce immune rejection and thus 
+multiple treatments are possible without any risk for allogenic sensitization, 
+which may arise from allogenic stem cell transplantations. Here we report the 
+outcome of treatments with culture expanded human adipose-derived mesenchymal 
+stem cells (hAdMSCs) of 10 patients with autoimmune associated tissue damage and 
+exhausted therapeutic options, including autoimmune hearing loss, multiple 
+sclerosis, polymyotitis, atopic dermatitis and rheumatoid arthritis. For 
+treatment, we developed a standardized culture-expansion protocol for hAdMSCs 
+from minimal amounts of fat tissue, providing sufficient number of cells for 
+repetitive injections. High expansion efficiencies were routinely achieved from 
+autoimmune patients and from elderly donors without measurable loss in safety 
+profile, genetic stability, vitality and differentiation potency, migration and 
+homing characteristics. Although the conclusions that can be drawn from the 
+compassionate use treatments in terms of therapeutic efficacy are only 
+preliminary, the data provide convincing evidence for safety and therapeutic 
+properties of systemically administered AdMSC in human patients with no other 
+treatment options. The authors believe that ex-vivo-expanded autologous AdMSCs 
+provide a promising alternative for treating autoimmune diseases. Further 
+clinical studies are needed that take into account the results obtained from 
+case studies as those presented here.
+
+DOI: 10.1186/1479-5876-9-181
+PMCID: PMC3222617
+PMID: 22017805 [Indexed for MEDLINE]
+
+
+771. J Am Med Dir Assoc. 2011 Nov;12(9):627-632.e2. doi:
+10.1016/j.jamda.2011.02.010.  Epub 2011 Mar 30.
+
+Update on diabetes in the elderly and in nursing home residents.
+
+Migdal A(1), Yarandi SS, Smiley D, Umpierrez GE.
+
+Author information:
+(1)Department of Medicine, Division of Endocrinology at Emory University, 
+Atlanta, GA, USA.
+
+Diabetes is common in the elderly population and in nursing home residents. More 
+than 20% of adults aged 65 to 75 years and 40% of adults older than 80 years 
+suffer from diabetes. Physiological changes in elderly individuals, such as 
+decreased physical activity, abdominal obesity, and increased inflammatory 
+state, increase insulin resistance in peripheral tissue and reduce 
+glucose-dependent insulin release, leading to carbohydrate intolerance and 
+diabetes. The clinical presentation in the elderly and nursing home residents is 
+frequently guided by the high rate of comorbidities such as hypertension, 
+depression, and cardiovascular diseases. Treatment recommendations for glycemic 
+control in elderly ambulatory patients are similar to those in long-term care 
+facilities. Healthy patients with diabetes should aim for near-normal fasting 
+plasma glucose and an HbA1C of about 7%; however, treatment goals must be 
+individualized in patients with impaired cognitive and physical ability, reduced 
+life expectancy, and heavy burden of comorbid disease. Elderly individuals and 
+nursing home residents are at increased risk of hypoglycemia during 
+pharmacological treatment. In general, a conservative and stepwise approach to 
+the treatment of the elderly patient with diabetes is suggested. Treatment may 
+be initiated with dietary and physical activity modification and with a single 
+oral agent, followed by a combination of oral agents and insulin therapy if 
+needed. Evidence from clinical trials indicates that improving glycemic control, 
+as well as cardiovascular risk factors, reduces morbidity and mortality in older 
+individuals with diabetes.
+
+Copyright © 2011 American Medical Directors Association. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jamda.2011.02.010
+PMID: 22018016 [Indexed for MEDLINE]
+
+
+772. Arch Gerontol Geriatr. 2012 Sep-Oct;55(2):279-82. doi: 
+10.1016/j.archger.2011.09.010. Epub 2011 Oct 20.
+
+Age-specific incidence ratios of colorectal cancer (CRC) in Turkey: CRC in older 
+people is increasing.
+
+Tas F(1), Keskin S.
+
+Author information:
+(1)Institute of Oncology, University of Istanbul, Capa, 34390 Istanbul, Turkey. 
+faruktas2002@yahoo.com
+
+Life expectancy has greatly increased in the last century. In the last decades, 
+cancer in the older people has become an increasingly common problem owing to 
+the prolonged life-expectancy of the general population and to the improved 
+management of common cancers. The aim of this study was to demonstrate the 
+age-specific incidence ratios in patients with CRC. Data were collected from 
+hospital-based registries from 1988 to 2007. A total of 4209 patients were 
+assessed. The median age at diagnosis was 58 years. When compared to 
+Surveillance Epidemiology and End Results (SEER) data, these values were found 
+to be 13 years younger than American patients. Trends consist of the median ages 
+of patients were increased during years (p<0.001). Along the years, especially 
+in the last years, the ratios of cancer patients of older than 70 years were 
+significantly increased among the cancer patient populations. CRC in older 
+person has become an increasingly common problem in the last years.
+
+Copyright © 2011 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.archger.2011.09.010
+PMID: 22018466 [Indexed for MEDLINE]
+
+
+773. J Health Econ. 2012 Jan;31(1):158-68. doi: 10.1016/j.jhealeco.2011.09.004.
+Epub  2011 Oct 1.
+
+GET MORE, PAY MORE? An elaborate test of construct validity of willingness to 
+pay per QALY estimates obtained through contingent valuation.
+
+Bobinac A(1), van Exel NJ, Rutten FF, Brouwer WB.
+
+Author information:
+(1)Department of Health Policy & Management and Institute for Medical Technology 
+Assessment, Erasmus University Rotterdam, P.O. Box 1738, 3000 DR Rotterdam, The 
+Netherlands. bobinac@bmg.eur.nl
+
+Estimates of WTP per QALY can be taken as an indication of the monetary value of 
+health gains, which may carry information regarding the appropriate height of 
+the cost-effectiveness threshold. Given the far-reaching consequences choosing a 
+particular threshold, and thus the potential relevance of WTP per QALY 
+estimates, it is important to address the validity of these estimates. This 
+study addresses this issue. Our findings offer little support to the validity of 
+WTP per QALY estimates obtained in this study. Implications for general WTP per 
+QALY estimates and further research are discussed.
+
+Copyright © 2011 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jhealeco.2011.09.004
+PMID: 22018622 [Indexed for MEDLINE]
+
+
+774. Clin Ther. 2011 Nov;33(11):1698-712. doi: 10.1016/j.clinthera.2011.09.022.
+Epub  2011 Oct 21.
+
+Evaluating the long-term cost-effectiveness of liraglutide versus exenatide BID 
+in patients with type 2 diabetes who fail to improve with oral antidiabetic 
+agents.
+
+Valentine WJ(1), Palmer AJ, Lammert M, Langer J, Brändle M.
+
+Author information:
+(1)Ossian Health Economics and Communications GmbH, Basel, Switzerland.
+
+BACKGROUND: The global clinical and economic burden of type 2 diabetes is 
+substantial. Recently, clinical trials with glucagon-like peptide-1 (GLP-1) 
+receptor agonists (liraglutide and exenatide) have shown a multifactorial 
+clinical profile with the potential to address many of the clinical needs of 
+patients and reduce the burden of disease.
+OBJECTIVE: The goal of this study was to evaluate the long-term 
+cost-effectiveness of once-daily liraglutide versus exenatide BID in patients 
+with type 2 diabetes who failed to improve with metformin and/or sulfonylurea, 
+based on the results of a previous clinical trial in 6 European countries 
+(Switzerland, Denmark, Norway, Finland, the Netherlands, and Austria).
+METHODS: A validated computer simulation model of diabetes was used to predict 
+life expectancy, quality-adjusted life years (QALYs), and incidence of 
+diabetes-related complications in patients receiving liraglutide (1.8 mg once 
+daily) or exenatide (10 μg BID). Baseline cohort characteristics and treatment 
+effects were derived from the Liraglutide Effect and Action in Diabetes 6 trial. 
+Country-specific complication costs were taken from published sources. 
+Simulations were run over 40 years from third-party payer perspectives. Future 
+costs and clinical benefits were discounted at country-specific discount rates. 
+Sensitivity analyses were performed.
+RESULTS: Liraglutide was associated with improvements of 0.12 to 0.17 QALY and a 
+reduced incidence of most diabetes-related complications versus exenatide in all 
+settings. Evaluation of total direct medical costs (treatment plus complication 
+costs) suggest that liraglutide was likely to cost between Euro (€) 1023 and 
+€1866 more than exenatide over patients' lifetimes, leading to incremental 
+cost-effectiveness ratios per QALY gained versus exenatide of: Switzerland, CHF 
+(Swiss francs) 10,950 (€6902); Denmark, Danish krone [kr] 88,160 (€11,805); 
+Norway, Norwegian krone [kr], 111,916 (€13,546); Finland, €8459; the 
+Netherlands, €8119; and Austria, €8516.
+CONCLUSIONS: Long-term projections indicated that liraglutide was associated 
+with benefits in life expectancy, QALYs, and reduced complication rates versus 
+exenatide. Liraglutide was cost-effective from a health care payer perspective 
+in Switzerland, Denmark, Norway, Finland, the Netherlands, and Austria.
+
+Copyright © 2011 Elsevier HS Journals, Inc. All rights reserved.
+
+DOI: 10.1016/j.clinthera.2011.09.022
+PMID: 22018679 [Indexed for MEDLINE]
+
+
+775. Enferm Clin. 2012 Mar-Apr;22(2):100-4. doi: 10.1016/j.enfcli.2011.05.007.
+Epub  2011 Oct 21.
+
+[Home nursing care of a woman with a malignant wound in a primary health care 
+setting].
+
+[Article in Spanish]
+
+Romero-Collado A(1).
+
+Author information:
+(1)Departament d'Infermeria, Facultat d'Infermeria, Universitat de Girona, 
+España. angel.romero@udg.edu
+
+The gradual increase in life expectancy in the Spanish population has led to an 
+increase cancer episodes (the second leading cause of mortality in Spain), and 
+an increase in wounds of neoplastic origin, which have a different healing time 
+from other wounds. This article describes the case of an 85 year-old woman with 
+a malignant wound, due to a recurrent skin lymphangiosarcoma, and her inclusion 
+in the Primary Care home care program with the home care support team (PADES). 
+The overall assessment of the person and not just "the wound", and an 
+individualised nursing care plan led to pain control, wound healing and 
+prevention of complications (constipation, worsening of the injury). Tumour 
+wound care using the process of moist wound healing has been effective even in a 
+fragile tissue. Monitoring and surrounding skin care is essential for the wound 
+not to deteriorate further. In addition, hospitalisation of the patient, with 
+the negative impact it could have on the quality of life of both the patient and 
+her family, was avoided.
+
+Copyright Â© 2010 Elsevier España, S.L. All rights reserved.
+
+DOI: 10.1016/j.enfcli.2011.05.007
+PMID: 22018774 [Indexed for MEDLINE]
+
+
+776. Minerva Endocrinol. 2011 Sep;36(3):181-5.
+
+Role of the IGF/insulin system in longevity.
+
+Mari D(1).
+
+Author information:
+(1)Department of Medical Sciences, University of Milan, Milan, Italy. 
+daniela.mari@unimi.it
+
+Human life expectancy is influenced by multiple determinants, including various 
+environmental and genetic factors. Though the non-genetic factors are important, 
+it is estimated that approximately 25-32% of the overall difference in human 
+lifespan for survival after the age of 60 years depends on for by genetic 
+polymorphisms among individuals. In addition, there are human homologues to many 
+genes that affect lifespan in model organisms. In people, longevity genes might 
+slow the rate of age-related changes in cells, increase resistance to 
+environmental stresses like infection and injury, and reduce the risk of many 
+age-related conditions. The best studied longevity pathway is probably the one 
+involving insulin/IGF-1 signaling. The important role of IGF and insulin-related 
+signaling pathways in the control of longevity of worms and insects is very well 
+documented. In the mouse, several spontaneous or experimentally induced 
+mutations that interfere with GH/IGF axis modulation lead to extended longevity. 
+Increases in the average life span in these mutants range from approximately 
+20-70% depending on the nature of the endocrine defect, gender, diet, and/or 
+genetic background. All the data in animals models and in the population studies 
+support the evidence that this pathway drives an evolutionarily conserved 
+network that regulates lifespan and affects longevity across species. Results 
+obtained in humans are still controversial and further extensive studies are 
+required to firmly establish a role of the IGF1 axis in modulation of human 
+longevity. A better knowledge of the role of this pathway in humans may assist 
+in the design of improved treatment methods for age-related diseases, delay the 
+aging process and prolong the human lifespan.
+
+PMID: 22019749 [Indexed for MEDLINE]
+
+
+777. Mol Aspects Med. 2011 Aug;32(4-6):279-304. doi: 10.1016/j.mam.2011.10.007.
+Epub  2011 Oct 15.
+
+Hormesis, cellular stress response and vitagenes as critical determinants in 
+aging and longevity.
+
+Calabrese V(1), Cornelius C, Cuzzocrea S, Iavicoli I, Rizzarelli E, Calabrese 
+EJ.
+
+Author information:
+(1)Department of Chemistry, University of Catania, Viale Andrea Doria, 95100 
+Catania, Italy. calabres@unict.it
+
+Understanding mechanisms of aging and determinants of life span will help to 
+reduce age-related morbidity and facilitate healthy aging. Average lifespan has 
+increased over the last centuries, as a consequence of medical and environmental 
+factors, but maximal life span remains unchanged. Extension of maximal life span 
+is currently possible in animal models with measures such as genetic 
+manipulations and caloric restriction (CR). CR appears to prolong life by 
+reducing reactive oxygen species (ROS)-mediated oxidative damage. But ROS 
+formation, which is positively implicated in cellular stress response 
+mechanisms, is a highly regulated process controlled by a complex network of 
+intracellular signaling pathways. By sensing the intracellular nutrient and 
+energy status, the functional state of mitochondria, and the concentration of 
+ROS produced in mitochondria, the longevity network regulates life span across 
+species by co-ordinating information flow along its convergent, divergent and 
+multiply branched signaling pathways, including vitagenes which are genes 
+involved in preserving cellular homeostasis during stressful conditions. 
+Vitagenes encode for heat shock proteins (Hsp) Hsp32, Hsp70, the thioredoxin and 
+the sirtuin protein systems. Dietary antioxidants, such as carnosine, carnitines 
+or polyphenols, have recently been demonstrated to be neuroprotective through 
+the activation of hormetic pathways, including vitagenes. The hormetic 
+dose-response, challenges long-standing beliefs about the nature of the 
+dose-response in a lowdose zone, having the potential to affect significantly 
+the design of pre-clinical studies and clinical trials as well as strategies for 
+optimal patient dosing in the treatment of numerous diseases. Given the broad 
+cytoprotective properties of the heat shock response there is now strong 
+interest in discovering and developing pharmacological agents capable of 
+inducing stress responses. In this review we discuss the most current and up to 
+date understanding of the possible signaling mechanisms by which caloric 
+restriction, as well hormetic caloric restriction-mimetics compounds by 
+activating vitagenes can enhance defensive systems involved in bioenergetic and 
+stress resistance homeostasis with consequent impact on longevity processes.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.mam.2011.10.007
+PMID: 22020114 [Indexed for MEDLINE]
+
+
+778. Cancer. 2012 Jun 1;118(11):2962-70. doi: 10.1002/cncr.26611. Epub 2011 Oct
+21.
+
+Stereotactic body radiotherapy for multisite extracranial oligometastases: final 
+report of a dose escalation trial in patients with 1 to 5 sites of metastatic 
+disease.
+
+Salama JK(1), Hasselle MD, Chmura SJ, Malik R, Mehta N, Yenice KM, Villaflor VM, 
+Stadler WM, Hoffman PC, Cohen EE, Connell PP, Haraf DJ, Vokes EE, Hellman S, 
+Weichselbaum RR.
+
+Author information:
+(1)Department of Radiation Oncology, Duke University, Durham, North Carolina 
+27710, USA. joseph.salama@duke.edu
+
+BACKGROUND: A subset of patients with metastatic cancer in limited organs may 
+benefit from metastasis-directed therapy. The authors investigated whether 
+patients with limited metastases could be safely treated with 
+metastasis-directed radiotherapy.
+METHODS: Patients with 1 to 5 metastatic cancer sites with a life expectancy of 
+>3 months received escalating stereotactic body radiotherapy (SBRT) doses to all 
+known cancer sites. Patients were followed radiographically with CT scans of the 
+chest, abdomen, and pelvis and metabolically with fluorodeoxyglucose-positron 
+emission tomography, 1 month after treatment, and then every 3 months. Acute 
+toxicities were scored using the National Cancer Institute's Common Terminology 
+Criteria for Adverse Events version 3.0, and late toxicities were scored using 
+the Radiation Therapy Oncology Group late toxicity scoring system.
+RESULTS: Sixty-one patients with 113 metastases were enrolled from November 2004 
+to November 2009 on a prospective radiation dose escalation study. Median 
+follow-up was 20.9 months. Patients tolerated treatment well; the maximal 
+tolerated dose was not reached in any cohort. Eleven patients (18.3%) have not 
+progressed. One and 2-year progression-free survival are 33.3% (95% confidence 
+interval [CI], 22.8-46.1) and 22.0% (95% CI, 12.8-34.4); 1-year and 2-year 
+overall survival are 81.5% (95% CI, 71.1-91.1) and 56.7% (95% CI, 43.9-68.9). 
+Seventy-two percent of patients whose tumors progressed did so in limited (1-3) 
+metastatic sites.
+CONCLUSIONS: Patients with 1 to 5 metastases can be safely treated to multiple 
+body sites and may benefit from SBRT. Further investigation should focus on 
+patient selection.
+
+Copyright © 2011 American Cancer Society.
+
+DOI: 10.1002/cncr.26611
+PMID: 22020702 [Indexed for MEDLINE]
+
+
+779. Cancer. 2012 Jun 15;118(12):3173-81. doi: 10.1002/cncr.26613. Epub 2011 Oct
+21.
+
+Comparative and cost-effectiveness of oxaliplatin-based or irinotecan-based 
+regimens compared with 5-fluorouracil/leucovorin alone among US elderly stage IV 
+colon cancer patients.
+
+Mullins CD(1), Hsiao FY, Onukwugha E, Pandya NB, Hanna N.
+
+Author information:
+(1)Pharmaceutical Health Services Research Department, University of Maryland 
+School of Pharmacy, Baltimore, Maryland 21201, USA. dmullins@rx.umaryland.edu
+
+BACKGROUND: Clinical trials have shown a statistically significant disease-free 
+survival benefit of oxaliplatin-based or irinotecan-based combination regimens 
+for stage IV colon cancer. Less is known regarding the comparative effectiveness 
+and cost-effectiveness of these agents among elderly patients. Whether the 
+benefits of these agents justify the additional costs for elderly Medicare 
+recipients is particularly policy relevant after US health care reform.
+METHODS: A cost-effectiveness analysis of oxaliplatin-based or irinotecan-based 
+combination therapy versus 5-fluorouracil/leucovorin alone in elderly stage IV 
+colon cancer patients was performed from a US Medicare perspective. Survival and 
+direct medical costs were estimated using Surveillance, Epidemiology, and End 
+Results-Medicare data sets for patients diagnosed from 2002 to 2005 with 
+follow-up through 2007. Incremental cost-effectiveness ratios (ICERs) were 
+calculated as costs per life-year gained, with sensitivity analysis estimating 
+the cost per quality-adjusted life-year (QALY).
+RESULTS: Median improved overall survival with 5-fluorouracil/leucovorin alone, 
+or irinotecan-based or oxaliplatin-based combination therapy was 0.99, 1.07, and 
+1.47 life-years, respectively. Costs per life-year gained for oxaliplatin-based 
+or irinotecan-based combination regimens compared with 5-fluorouracil/leucovorin 
+alone were $78,181 and $267,938, respectively. ICERs comparing oxaliplatin-based 
+to irinotecan-based regimens were $40,230 per life-year gained or $160,920 per 
+QALY.
+CONCLUSIONS: Oxaliplatin-based or irinotecan-based combination therapy improves 
+overall survival but also substantially increases direct medical costs compared 
+with 5-fluorouracil/leucovorin alone when used in elderly US patients with stage 
+IV colon cancer. Oxaliplatin-based regimens are more cost-effective than 
+irinotecan-based regimens for treatment of elderly stage IV colon cancer 
+patients in terms of cost per life-year gained, but not in terms of cost per 
+QALY.
+
+Copyright © 2011 American Cancer Society.
+
+DOI: 10.1002/cncr.26613
+PMID: 22020739 [Indexed for MEDLINE]
+
+
+780. Mov Disord. 2011 Oct;26(12):2286-90. doi: 10.1002/mds.23878.
+
+Projected numbers of people with movement disorders in the years 2030 and 2050.
+
+Bach JP(1), Ziegler U, Deuschl G, Dodel R, Doblhammer-Reiter G.
+
+Author information:
+(1)Department of Neurology, Philipps-University Marburg, Marburg, Germany.
+
+Comment in
+    Mov Disord. 2012 Aug;27(9):1204-5; author reply 1207.
+
+BACKGROUND: Movement disorders are chronic diseases with an increasing 
+prevalence in old age. Because these disorders pose a major challenge to 
+patients, families, and health care systems, there is a need for reliable data 
+about the future number of affected people.
+PATIENTS AND METHODS: We searched the literature to identify epidemiological 
+studies to obtain age-specific prevalence data of movement disorders. We 
+combined the age-specific prevalence data with population projections for 
+Europe, the United States, and Canada.
+RESULTS: Movement disorders will increase considerably between 2010 and 2050. 
+The highest increase will be for dementia with Lewy bodies. In several 
+countries, we project a near doubling of patients with PD.
+CONCLUSIONS: There will be a strong increase in the number of people affected by 
+most movement disorders between 2010 and 2050. This increase will mostly depend 
+on the future aging of populations in terms of their age structure and future 
+life expectancy.
+
+Copyright © 2011 Movement Disorder Society.
+
+DOI: 10.1002/mds.23878
+PMID: 22021158 [Indexed for MEDLINE]781. Am J Public Health. 2011 Dec;101(12):e9-15. doi: 10.2105/AJPH.2011.300361.
+Epub  2011 Oct 20.
+
+Mortality risk associated with disability: a population-based record linkage 
+study.
+
+Majer IM(1), Nusselder WJ, Mackenbach JP, Klijs B, van Baal PH.
+
+Author information:
+(1)Department of Public Health, Erasmus MC, Rotterdam, The Netherlands. 
+i.majer@erasmusmc.nl
+
+OBJECTIVES: We assessed the association between mortality and disability and 
+quantified the effect of disability-associated risk factors.
+METHODS: We linked data from cross-sectional health surveys in the Netherlands 
+to the population registry to create a large data set comprising baseline 
+covariates and an indicator of death. We used Cox regression models to estimate 
+the hazard ratio of disability on mortality.
+RESULTS: Among men, the unadjusted hazard ratio for activities of daily living, 
+mobility, or mild disability defined by the Organization for Economic 
+Co-operation and Development at age 55 years was 7.85 (95% confidence interval 
+[CI] = 4.36, 14.13), 5.21 (95% CI = 3.19, 8.51), and 1.87 (95% CI = 1.58, 2.22), 
+respectively. People with disability in activities of daily living and mobility 
+had a 10-year shorter life expectancy than nondisabled people had, of which 6 
+years could be explained by differences in lifestyle, sociodemographics, and 
+major chronic diseases.
+CONCLUSIONS: Disabled people face a higher mortality risk than nondisabled 
+people do. Although the difference can be explained by diseases and other risk 
+factors for those with mild disability, we cannot rule out that more severe 
+disabilities have an independent effect on mortality.
+
+DOI: 10.2105/AJPH.2011.300361
+PMCID: PMC3222426
+PMID: 22021307 [Indexed for MEDLINE]
+
+
+782. Eur J Public Health. 2012 Dec;22(6):756-60. doi: 10.1093/eurpub/ckr136. Epub
+ 2011 Oct 22.
+
+Has Scotland always been the 'sick man' of Europe? An observational study from 
+1855 to 2006.
+
+McCartney G(1), Walsh D, Whyte B, Collins C.
+
+Author information:
+(1)Public Health Science Directorate, NHS Health Scotland, Glasgow, UK. 
+gmccartney@nhs.net
+
+Comment in
+    Eur J Public Health. 2012 Dec;22(6):751.
+
+BACKGROUND: Scotland has been dubbed 'the sick man of Europe' on account of its 
+higher mortality rates compared with other western European countries. It is not 
+clear the length of time for which Scotland has had higher mortality rates. The 
+root causes of the higher mortality in Scotland remain elusive.
+METHODS: Life expectancy data from the Human Mortality Database were tabulated 
+and graphed for a selection of wealthy, mainly European countries from around 
+1850 onwards.
+RESULTS: Scotland had a life expectancy in the mid-range of countries included 
+in the Human Mortality Database from the mid-19th century until around 1950. 
+After 1950, Scottish life expectancy improved at a slower rate than in 
+comparably wealthy nations before further faltering during the last 30 years. 
+Scottish life expectancy now lies between that of western European and eastern 
+European nations. The USA also displays a marked faltering in its life 
+expectancy trend after 1981. There is an inverse association between life 
+expectancy and the Index of Economic Freedom such that greater neoliberalism is 
+associated with a smaller increase, or a decrease, in life expectancy.
+CONCLUSION: Life expectancy in Scotland has only been relatively low since 
+around 1950. From 1980, life expectancy in Scotland, the USA and, to a greater 
+extent, the former USSR displays a further relative faltering. It has been 
+suggested that Scotland suffered disproportionately from the adoption of 
+neoliberalism across the nations of the UK, and the evidence here both supports 
+this suggestion and highlights other countries which may have suffered 
+similarly.
+
+DOI: 10.1093/eurpub/ckr136
+PMCID: PMC3505444
+PMID: 22021374 [Indexed for MEDLINE]
+
+
+783. BMJ. 2011 Oct 21;343:d6822. doi: 10.1136/bmj.d6822.
+
+No excuses for 36 year gap in life expectancy across the world, says WHO.
+
+Moszynski P.
+
+DOI: 10.1136/bmj.d6822
+PMID: 22021470 [Indexed for MEDLINE]
+
+
+784. QJM. 2012 Mar;105(3):241-6. doi: 10.1093/qjmed/hcr204. Epub 2011 Oct 22.
+
+Sex hormones and cause-specific mortality in the male veterans: the Vietnam 
+Experience Study.
+
+Phillips AC(1), Gale CR, Batty GD.
+
+Author information:
+(1)School of Sport and Exercise Sciences, University of Birmingham, Birmingham 
+B15 2TT, UK. A.C.Phillips@bham.ac.uk
+
+BACKGROUND: Testosterone levels have been linked to life expectancy in men, less 
+is known about the sex hormones follicular stimulating hormone and luteinizing 
+hormone.
+AIM: To examine the association of testosterone, follicular stimulating hormone, 
+luteinizing hormone with mortality.
+DESIGN: Prospective cohort analysis.
+METHODS: Participants were 4255 Vietnam-era US army veterans with a mean age of 
+38.3 years. From military service files, telephone interviews and a medical 
+examination, socio-demographic and health data were collected. Contemporary 
+morning fasted hormone concentrations were determined. All-cause, 
+cardiovascular, cancer, external and 'other' cause mortality was ascertained 
+over the subsequent 15 years. Hazard ratios were calculated, first with 
+adjustment for age and then, additionally, for a range of confounders.
+RESULTS: Individuals within the highest tertiles of follicle stimulating hormone 
+(FSH) and luteinizing hormone (LH) levels were at increased risk of all-cause 
+mortality following adjustment for a range of risk factors. However, with mutual 
+adjustment, neither FSH nor LH significantly predicted mortality. Testosterone 
+levels did not show an association with all-cause mortality, and none of the 
+hormones were significantly associated with CVD, cancer, 'other' or 
+external-cause mortality in fully adjusted models.
+CONCLUSION: Greater FSH and LH levels are associated with all-cause mortality, 
+but not independently of one another.
+
+DOI: 10.1093/qjmed/hcr204
+PMID: 22021570 [Indexed for MEDLINE]
+
+
+785. BMJ Open. 2011 Jul 29;1(1):e000128. doi: 10.1136/bmjopen-2011-000128.
+
+Life expectancy and disparity: an international comparison of life table data.
+
+Vaupel JW(1), Zhang Z, van Raalte AA.
+
+Author information:
+(1)Max Planck Institute for Demographic Research, Rostock, Germany. 
+jwv@demogr.mpg.de
+
+OBJECTIVES: To determine the contribution of progress in averting premature 
+deaths to the increase in life expectancy and the decline in lifespan variation.
+DESIGN: International comparison of national life table data from the Human 
+Mortality Database.
+SETTING: 40 developed countries and regions, 1840-2009.
+POPULATION: Men and women of all ages.
+MAIN OUTCOME MEASURE: We use two summary measures of mortality: life expectancy 
+and life disparity. Life disparity is a measure of how much lifespans differ 
+among individuals. We define a death as premature if postponing it to a later 
+age would decrease life disparity.
+RESULTS: In 89 of the 170 years from 1840 to 2009, the country with the highest 
+male life expectancy also had the lowest male life disparity. This was true in 
+86 years for female life expectancy and disparity. In all years, the top several 
+life expectancy leaders were also the top life disparity leaders. Although only 
+38% of deaths were premature, fully 84% of the increase in life expectancy 
+resulted from averting premature deaths. The reduction in life disparity 
+resulted from reductions in early-life disparity, that is, disparity caused by 
+premature deaths; late-life disparity levels remained roughly constant.
+CONCLUSIONS: The countries that have been the most successful in averting 
+premature deaths have consistently been the life expectancy leaders. Greater 
+longevity and greater equality of individuals' lifespans are not incompatible 
+goals. Countries can achieve both by reducing premature deaths.
+
+DOI: 10.1136/bmjopen-2011-000128
+PMCID: PMC3191439
+PMID: 22021770
+
+Conflict of interest statement: Competing interests: None.
+
+
+786. J Anim Sci. 2012 Jul;90(7):2301-7. doi: 10.2527/jas.2011-4568. Epub 2011 Oct
+21.
+
+Alpharma Beef Cattle Nutrition Symposium: implications of nutritional management 
+for beef cow-calf systems.
+
+Funston RN(1), Summers AF, Roberts AJ.
+
+Author information:
+(1)University of Nebraska West Central Research and Extension Center, North 
+Platte 69101. rfunston2@unl.edu
+
+The beef cattle industry relies on the use of high-forage diets to develop 
+replacement females, maintain the cow herd, and sustain stocker operations 
+Forage quantity and quality fluctuate with season and environmental conditions 
+Depending on class and physiological state of the animal, a forage diet may not 
+always meet nutritional requirements, resulting in reduced ADG or BW loss if 
+supplemental nutrients are not provided It is important to understand the 
+consequences of such BW loss and the economics of providing supplementation to 
+the beef production system Periods of limited or insufficient nutrient 
+availability can be followed by periods of compensatory BW gain once dietary 
+conditions improve This may have less impact on breeding animals, provided 
+reproductive efficiency is not compromised, where actual BW is not as important 
+as it is in animals destined for the feedlot A rapidly evolving body of 
+literature is also demonstrating that nutritional status of cows during 
+pregnancy can affect subsequent offspring development and production 
+characteristics later in life The concept of fetal programming is that maternal 
+stimuli during critical periods of fetal development have long-term implications 
+for offspring Depending on timing, magnitude, and duration of nutrient 
+limitation or supplementation, it is possible that early measures in life, such 
+as calf birth BW, may be unaffected, whereas measures later in life, such as 
+weaning BW, carcass characteristics, and reproductive traits, may be influenced 
+This body of research provides compelling evidence of a fetal programming 
+response to maternal nutrition in beef cattle Future competitiveness of the US 
+beef industry will continue to be dependent on the use of high-forage diets to 
+meet the majority of nutrient requirements Consequences of nutrient restriction 
+or supplementation must be considered not only on individual animal performance 
+but also the developing fetus and its subsequent performance throughout life.
+
+DOI: 10.2527/jas.2011-4568
+PMID: 22021812 [Indexed for MEDLINE]
+
+
+787. BMJ Open. 2011 Jan 1;1(2):e000240. doi: 10.1136/bmjopen-2011-000240.
+
+Impact of walking on life expectancy and lifetime medical expenditure: the 
+Ohsaki Cohort Study.
+
+Nagai M(1), Kuriyama S, Kakizaki M, Ohmori-Matsuda K, Sone T, Hozawa A, Kawado 
+M, Hashimoto S, Tsuji I.
+
+Author information:
+(1)Division of Epidemiology, Department of Public Health and Forensic Medicine, 
+Tohoku University Graduate School of Medicine, Sendai, Japan. 
+m-nagai@med.tohoku.ac.jp
+
+OBJECTIVE: People who spend a longer time walking have lower demands for medical 
+care. However, in view of their longer life expectancy, it is unclear whether 
+their lifetime medical expenditure increases or decreases. The present study 
+examined the association between time spent walking, life expectancy and 
+lifetime medical expenditure.
+METHOD: The authors followed up 27,738 participants aged 40-79 years and 
+prospectively collected data on their medical expenditure and survival covering 
+a 13-year-period. Participants were classified into those walking <1 and ≥1 h 
+per day. The authors constructed life tables and estimated the life expectancy 
+and lifetime medical expenditure from 40 years of age using estimate of 
+multiadjusted mortality and medical expenditure using a Poisson regression model 
+and linear regression model, respectively.
+RESULTS: Participants who walked ≥1 h per day have a longer life expectancy from 
+40 years of age than participants who walked <1 h per day. The multiadjusted 
+life expectancy for those who walked ≥1 h per day was 44.81 years, significantly 
+lower by 1.38 years in men (p=0.0073) in men and 57.78 years in women, 
+non-significantly lower by 1.16 years in women (p=0.2351). In addition to their 
+longer life expectancy, participants who walked ≥1 h per day required a lower 
+lifetime medical expenditure from 40 years of age than participants who walked 
+<1 h per day. The multiadjusted lifetime medical expenditure for those who 
+walked ≥1 h per day was £99 423.6, significantly lower by 7.6% in men (p=0.0048) 
+and £128 161.2, non-significantly lower by 2.7% in women (p=0.2559).
+DISCUSSION: Increased longevity resulting from a healthier lifestyle does not 
+necessarily translate into an increased amount of medical expenditure throughout 
+life. Encouraging people to walk may extend life expectancy and decrease 
+lifetime medical expenditure, especially for men.
+
+DOI: 10.1136/bmjopen-2011-000240
+PMCID: PMC3191604
+PMID: 22021866
+
+Conflict of interest statement: Competing interest: None.
+
+
+788. PLoS One. 2011;6(10):e26139. doi: 10.1371/journal.pone.0026139. Epub 2011
+Oct  11.
+
+Cost-effectiveness of angiotensin-converting enzyme inhibitors for the 
+prevention of diabetic nephropathy in The Netherlands--a Markov model.
+
+Adarkwah CC(1), Gandjour A, Akkerman M, Evers SM.
+
+Author information:
+(1)CAPHRI School of Public Health and Primary Care, Maastricht University, 
+Maastricht, The Netherlands.
+
+OBJECTIVE: Type 2 diabetes is the main cause of end-stage renal disease (ESRD) 
+in Europe and the USA. Angiotensin-converting enzyme (ACE) inhibitors have a 
+potential to slow down the progression of renal disease and therefore provide a 
+renal-protective effect. The aim of our study was to assess the most 
+cost-effective time to start an ACE inhibitor (or an angiotensin II receptor 
+blocker [ARB] if coughing as a side effect occurs) in patients with newly 
+diagnosed type 2 diabetes in The Netherlands.
+METHODS: A lifetime Markov decision model with simulated 50-year-old patients 
+with newly diagnosed diabetes mellitus was developed using published data on 
+costs and health outcomes and simulating the progression of renal disease. A 
+health insurance perspective was adopted. Three strategies were compared: 
+treating all patients at the time of diagnosing type 2 diabetes, screening for 
+microalbuminuria, and screening for macroalbuminuria.
+RESULTS: In the base-case analysis, the treat-all strategy is associated with 
+the lowest costs and highest benefit and therefore dominates screening both for 
+macroalbuminuria and microalbuminuria. A multivariate sensitivity analysis shows 
+that the probability of savings is 70%.
+CONCLUSIONS: In The Netherlands for patients with type 2 diabetes prescription 
+of an ACE inhibitor immediately after diagnosis should be considered if they do 
+not have contraindications. An ARB should be considered for those patients 
+developing a dry cough under ACE inhibitor therapy. The potential for cost 
+savings would be even larger if the prevention of cardiovascular events were 
+considered.
+
+DOI: 10.1371/journal.pone.0026139
+PMCID: PMC3191181
+PMID: 22022539 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+789. Ann N Y Acad Sci. 2011 Oct;1235:30-43. doi:
+10.1111/j.1749-6632.2011.06201.x.
+
+Future self-continuity: how conceptions of the future self transform 
+intertemporal choice.
+
+Hershfield HE(1).
+
+Author information:
+(1)New York University, USA. h-ersnerhershfield@kellogg.northwestern.edu
+
+With life expectancy dramatically increasing throughout much of the world, 
+people have to make choices with a longer future in mind than they ever had to 
+before. Yet, many indicators suggest that undersaving for the long term often 
+occurs: in America, for instance, many individuals will not be able to maintain 
+their preretirement standard of living in retirement. Previous research has 
+tried to understand problems with intertemporal choice by focusing on the ways 
+in which people treat present and future rewards. In this paper, the author 
+reviews a burgeoning body of theoretical and empirical work that takes a 
+different viewpoint, one that focuses on how perceptions of the self over time 
+can dramatically affect decision making. Specifically, when the future self 
+shares similarities with the present self, when it is viewed in vivid and 
+realistic terms, and when it is seen in a positive light, people are more 
+willing to make choices today that may benefit them at some point in the years 
+to come.
+
+© 2011 New York Academy of Sciences.
+
+DOI: 10.1111/j.1749-6632.2011.06201.x
+PMCID: PMC3764505
+PMID: 22023566 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest The author declares no 
+conflicts of interest.
+
+
+790. Ann N Y Acad Sci. 2011 Oct;1235:57-74. doi:
+10.1111/j.1749-6632.2011.06208.x.
+
+Decision-making heuristics and biases across the life span.
+
+Strough J(1), Karns TE, Schlosnagle L.
+
+Author information:
+(1)Department of Psychology, West Virginia University, Morgantown, USA. 
+jonell.strough@mail.wvu.edu
+
+We outline a contextual and motivational model of judgment and decision-making 
+(JDM) biases across the life span. Our model focuses on abilities and skills 
+that correspond to deliberative, experiential, and affective decision-making 
+processes. We review research that addresses links between JDM biases and these 
+processes as represented by individual differences in specific abilities and 
+skills (e.g., fluid and crystallized intelligence, executive functioning, 
+emotion regulation, personality traits). We focus on two JDM biases-the 
+sunk-cost fallacy (SCF) and the framing effect. We trace the developmental 
+trajectory of each bias from preschool through middle childhood, adolescence, 
+early adulthood, and later adulthood. We conclude that life-span developmental 
+trajectories differ depending on the bias investigated. Existing research 
+suggests relative stability in the framing effect across the life span and 
+decreases in the SCF with age, including in later life. We highlight directions 
+for future research on JDM biases across the life span, emphasizing the need for 
+process-oriented research and research that increases our understanding of JDM 
+biases in people's everyday lives.
+
+© 2011 New York Academy of Sciences.
+
+DOI: 10.1111/j.1749-6632.2011.06208.x
+PMCID: PMC3755606
+PMID: 22023568 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest The authors declare no 
+conflicts of interest.
+
+
+791. Ann N Y Acad Sci. 2011 Oct;1235:75-85. doi:
+10.1111/j.1749-6632.2011.06207.x.
+
+Everyday problem solving across the adult life span: solution diversity and 
+efficacy.
+
+Mienaltowski A(1).
+
+Author information:
+(1)Center for the Study of Lifespan Development, Psychology Department, Western 
+Kentucky University, Bowling Green, Kentucky, USA. andrew.mienaltowski@wku.edu
+
+Everyday problem solving involves examining the solutions that individuals 
+generate when faced with problems that take place in their everyday experiences. 
+Problems can range from medication adherence and meal preparation to disagreeing 
+with a physician over a recommended medical procedure or compromising with 
+extended family members over where to host Thanksgiving dinner. Across the life 
+span, research has demonstrated divergent patterns of change in performance 
+based on the type of everyday problems used as well as based on the way that 
+problem-solving efficacy is operationally defined. Advancing age is associated 
+with worsening performance when tasks involve single-solution or fluency-based 
+definitions of effectiveness. However, when efficacy is defined in terms of the 
+diversity of strategies used, as well as by the social and emotional impact of 
+solution choice on the individual, performance is remarkably stable and 
+sometimes even improves in the latter half of life. This article discusses how 
+both of these approaches to everyday problem solving inform research on the 
+influence that aging has on everyday functioning.
+
+© 2011 New York Academy of Sciences.
+
+DOI: 10.1111/j.1749-6632.2011.06207.x
+PMCID: PMC3746011
+PMID: 22023569 [Indexed for MEDLINE]
+
+
+792. Ann N Y Acad Sci. 2011 Oct;1235:v-vi. doi: 10.1111/j.1749-6632.2011.06252.x.
+
+Introduction to decision making over the life span.
+
+Samanez-Larkin GR(1).
+
+Author information:
+(1)Vanderbilt University, Nashville, Tennessee, USA.
+
+DOI: 10.1111/j.1749-6632.2011.06252.x
+PMID: 22023570 [Indexed for MEDLINE]
+

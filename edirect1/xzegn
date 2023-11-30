@@ -1,0 +1,1000 @@
+paper.361. WIREs Mech Dis. 2023 Nov-Dec;15(6):e1625. doi: 10.1002/wsbm.1625. Epub 2023
+Aug  6.
+
+Mathematical models of cystic fibrosis as a systemic disease.
+
+Olivença DV(1), Davis JD(2), Kumbale CM(2), Zhao CY(3), Brown SP(4), McCarty 
+NA(5), Voit EO(2).
+
+Author information:
+(1)Center for Engineering Innovation, The University of Texas at Dallas, 
+Richardson, Texas, USA.
+(2)Department of Biomedical Engineering, Georgia Tech and Emory University, 
+Atlanta, Georgia, USA.
+(3)Mayo Clinic Alix School of Medicine, Mayo Clinic, Rochester, Minnesota, USA.
+(4)Department of Biological Sciences, Georgia Tech and Emory University, 
+Atlanta, Georgia, USA.
+(5)Department of Pediatrics, Emory University School of Medicine, Atlanta, 
+Georgia, USA.
+
+Cystic fibrosis (CF) is widely known as a disease of the lung, even though it is 
+in truth a systemic disease, whose symptoms typically manifest in 
+gastrointestinal dysfunction first. CF ultimately impairs not only the pancreas 
+and intestine but also the lungs, gonads, liver, kidneys, bones, and the 
+cardiovascular system. It is caused by one of several mutations in the gene of 
+the epithelial ion channel protein CFTR. Intense research and improved 
+antimicrobial treatments during the past eight decades have steadily increased 
+the predicted life expectancy of a person with CF (pwCF) from a few weeks to 
+over 50 years. Moreover, several drugs ameliorating the sequelae of the disease 
+have become available in recent years, and notable treatments of the root cause 
+of the disease have recently generated substantial improvements in health for 
+some but not all pwCF. Yet, numerous fundamental questions remain unanswered. 
+Complicating CF, for instance in the lung, is the fact that the associated 
+insufficient chloride secretion typically perturbs the electrochemical balance 
+across epithelia and, in the airways, leads to the accumulation of thick, 
+viscous mucus and mucus plaques that cannot be cleared effectively and provide a 
+rich breeding ground for a spectrum of bacterial and fungal communities. The 
+subsequent infections often become chronic and respond poorly to antibiotic 
+treatments, with outcomes sometimes only weakly correlated with the drug 
+susceptibility of the target pathogen. Furthermore, in contrast to rapidly 
+resolved acute infections with a single target pathogen, chronic infections 
+commonly involve multi-species bacterial communities, called "infection 
+microbiomes," that develop their own ecological and evolutionary dynamics. It is 
+presently impossible to devise mathematical models of CF in its entirety, but it 
+is feasible to design models for many of the distinct drivers of the disease. 
+Building upon these growing yet isolated modeling efforts, we discuss in the 
+following the feasibility of a multi-scale modeling framework, known as 
+template-and-anchor modeling, that allows the gradual integration of refined 
+sub-models with different granularity. The article first reviews the most 
+important biomedical aspects of CF and subsequently describes mathematical 
+modeling approaches that already exist or have the potential to deepen our 
+understanding of the multitude aspects of the disease and their 
+interrelationships. The conceptual ideas behind the approaches proposed here do 
+not only pertain to CF but are translatable to other systemic diseases. This 
+article is categorized under: Congenital Diseases > Computational Models.
+
+© 2023 Wiley Periodicals LLC.
+
+DOI: 10.1002/wsbm.1625
+PMID: 37544654 [Indexed for MEDLINE]
+
+
+362. Cureus. 2023 Jul 5;15(7):e41409. doi: 10.7759/cureus.41409. eCollection 2023
+ Jul.
+
+Self-Care Practices and Their Role in the Control of Diabetes: A Narrative 
+Review.
+
+Ahmad F(1), Joshi SH(1).
+
+Author information:
+(1)Department of Community Medicine, Jawaharlal Nehru Medical College, Datta 
+Meghe Institute of Higher Education and Research, Wardha, IND.
+
+Diabetes mellitus (DM) is a long-standing, continuously growing metabolic 
+ailment in which levels of glucose in the blood increase due to a total (DM of 
+type 1) or incomplete (DM of type 2) decrease in the level of the hormone 
+insulin. Diabetes mellitus affects a large number of individuals worldwide, and 
+as more people develop the disease, the burden will double from what it is now. 
+The requirements of people suffering from diabetes are not only confined to the 
+control of blood glucose; there is also a need to prevent disabilities, side 
+effects, and difficulties in rehabilitation. Studies suggest that seven 
+self-care practices for individuals suffering from this disease have shown good 
+outcomes. Those practices include assessment of sugar levels in the blood, 
+consuming healthy foods, remaining physically active, taking medications 
+regularly and on time, maintaining healthy behavior, and decreasing risk 
+factors. All of these practices collectively have shown good results in 
+maintaining blood glucose levels, decreasing side effects, and increasing life 
+expectancy in people with diabetes mellitus. Those who have DM and practice 
+self-care have shown positive results by reducing the complications of DM, 
+decreasing its progression, and leading to a huge reduction in the burden due to 
+DM. Despite these positive changes, people sticking to these self-care practices 
+are very few, specifically when we see broad and chronic changes. There are many 
+positive contributing factors, such as social factors, demographic factors, and 
+various socio-economic factors, but the role of physicians in increasing the 
+practices associated with personal care for people with this disease is crucial 
+and most important for the desired outcome. Keeping in mind the burden and 
+multidimensional nature of the disorder, proper systematic and combined efforts 
+are needed to increase these self-care practices in patients with diabetes to 
+reduce any chronic side effects and complications.
+
+Copyright © 2023, Ahmad et al.
+
+DOI: 10.7759/cureus.41409
+PMCID: PMC10402910
+PMID: 37546053
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+363. Cureus. 2023 Jul 6;15(7):e41432. doi: 10.7759/cureus.41432. eCollection 2023
+ Jul.
+
+Trends in Obesity-Related Mortality and Racial Disparities.
+
+Okobi OE(1)(2), Beeko PKA(3), Nikravesh E(4), Beeko MAE(5), Ofiaeli C(6), Ojinna 
+BT(7)(8), Okunromade O(9), Dick AI(10), Sulaiman AR(11), Sowemimo A(12).
+
+Author information:
+(1)Family Medicine, Medficient Health Systems, Laurel, USA.
+(2)Family Medicine, Lakeside Medical Center, Belle Glade, USA.
+(3)General Internal Medicine, Suhum Government Hospital, Suhum, GHA.
+(4)Family Medicine, Guilan University of Medical Sciences, Rasht, IRN.
+(5)Internal Medicine, Kyebi Government Hospital, Kyebi, GHA.
+(6)Family Medicine, Nnamdi Azikiwe University, Awka, NGA.
+(7)Family Medicine, California Institute of Behavioral Neuroscience and 
+Psychology, Fairfield, USA.
+(8)Surgery, University of Nigeria Nsukka, Enugu, NGA.
+(9)Public Health, Jiann-Ping Hsu College of Public Health, Georgia Southern 
+University, Statesboro, USA.
+(10)Public Health, Chicago State University, Chicago, USA.
+(11)Internal Medicine, Lagos State University, Lagos, NGA.
+(12)Internal Medicine, All Saints University, Roseau, DMA.
+
+BACKGROUND: Across the globe, obesity stands as a prominent public health 
+concern, linked to a heightened susceptibility to a range of metabolic and 
+cardiovascular disorders. This study reveals a disproportionate impact of 
+obesity on African American (AA) communities, irrespective of socioeconomic 
+status. Structural racism plays a critical role in perpetuating healthcare 
+disparities between AA and other racial/ethnic groups in the United States. 
+These disparities are reflected in limited access to nutritious food, safe 
+exercise spaces, health insurance, and medical care, all of which significantly 
+influence healthcare outcomes and obesity prevalence. Additionally, both 
+conscious and unconscious interpersonal racism adversely affect obesity care, 
+outcomes, and patient-healthcare provider interactions among Blacks.
+STUDY OBJECTIVE: This study aims to analyze and compare obesity-related 
+mortality rates among AAs, Whites, and other racial groups.
+METHODOLOGY: We queried the CDC WONDER dataset, incorporating all US death 
+certificates. During data extraction, various ICD 10 codes were used to denote 
+different obesity categories: E66.1 (drug-induced obesity), E66.2 (severe 
+obesity with alveolar hypoventilation), E66.3 (overweight), E66.8 (other forms 
+of obesity), E66.9 (unspecified obesity), E66.0 (obesity due to excess calorie 
+intake), E66.01 (severe obesity due to excess calories), and E66.09 (other forms 
+of obesity caused by excess calorie intake). Our study encompassed decedents 
+aged ≥15 years, with obesity-related diseases as the underlying cause of death 
+from 2018 to 2021. Sex- and race-specific obesity-related mortality rates were 
+examined for AAs, Whites, and other races. Resultant mortality trends were 
+computed and presented as ratios comparing AA and White populations.
+RESULTS: This study reveals lower obesity-related mortality rates in AAs 
+compared to Whites. Furthermore, women exhibited higher rates than men. In the 
+15 to 24 age bracket, males comprised 60.11% of the 361 deaths, whereas females 
+made up 39.89%. In this demographic, 35.46% of deaths were among Blacks, with 
+64.54% among Whites. Within the 25 to 34 age group, females constituted 37.26% 
+of the 1943 deaths, and males 62.74%. Whites made up 62.94% of the fatalities, 
+Blacks 33.40%, with other racial groups accounting for the remainder. These 
+trends extended through the 35-44, 45-54, 55-64, 65-74, and 75+ age categories, 
+with variations in death proportions among genders and races. Whites 
+consistently accounted for the highest death percentages across all age groups, 
+followed by Blacks. Our data indicate that obesity-related mortality tends to 
+occur earlier in life.
+CONCLUSION: Our results corroborate previous studies linking elevated mortality 
+risk to obesity and overweight conditions. The uniformity of our findings across 
+age groups, as well as genders, supports the proposal for applying a single 
+range of body weight throughout life. Given the ongoing rise in obesity and 
+overweight conditions across the United States, excess mortality rates are 
+projected to accelerate, potentially leading to decreased life expectancy. This 
+highlights the urgency for developing and implementing effective strategies to 
+control and prevent obesity nationwide.
+
+Copyright © 2023, Okobi et al.
+
+DOI: 10.7759/cureus.41432
+PMCID: PMC10403782
+PMID: 37546111
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+364. Cureus. 2023 Jul 5;15(7):e41412. doi: 10.7759/cureus.41412. eCollection 2023
+ Jul.
+
+Risk of Infections With Long-Term Left Ventricular Assist Device Support.
+
+Karnatak R(1), Sandkovsky U(2).
+
+Author information:
+(1)Infectious Disease and Critical Care Medicine, Aurora Health, Milwaukee, USA.
+(2)Division of Infectious Disease, Baylor University Medical Center, Dallas, 
+USA.
+
+The average life expectancy post-left ventricular assist device (LVAD) 
+implantation has significantly increased in recent years. Impaired cellular 
+immunity post-LVAD implantation has been suggested. It is not clear if a 
+prolonged duration of LVAD support will lead to an increase in infections and 
+possibly cause opportunistic infections, as seen in immunocompromised patients.
+METHODS:  We retrospectively reviewed all the patients who underwent new 
+continuous-flow (C-F) LVAD implantation between January 1, 2013, and December 
+31, 2014, at the University of Nebraska Medical Center. Patients were followed 
+until heart transplant, LVAD explantation, death, or December 31, 2017. We 
+defined LVAD infections as per the International Society of Heart and Lung 
+Transplantation (ISHLT) definition: VAD-specific, VAD-related, and non-VAD 
+infections. The primary outcome was to calculate the incidence of LVAD 
+infections per 1000 days of LVAD support. Secondary outcomes were to assess the 
+cause of death and the effect of bloodstream infections on LVAD thrombosis, 
+stroke, and death.
+RESULTS: During the study period, a total of 94 patients underwent a C-F LVAD 
+implantation. Five patients were lost in follow-up; 89 patients were included in 
+the study. The mean age at LVAD implantation was 54 (SD+15) years. Out of 89 
+patients, 67 (75%) were men, and 53/89 (71%) received LVAD as destination 
+therapy (DT). At the time of LVAD implantation, 34/89 (38%) patients had 
+ITERMACS (interagency registry for mechanically assisted circulatory 
+support) score 1 (cardiogenic shock). The median duration of LVAD support was 
+387+493 days, with an interquartile range of 140 to 1083 days. The incidence 
+rate of infections post-LVAD implantation decreased from 3.2 /1000 LVAD days 
+(95% confidence interval [CI] 2.54-4.03) during the first year of LVAD support 
+to 0.78/1000 LVAD days (95% CI, 0.38-1.65) during the following third year of 
+LVAD support. Similarly, the incidence of VAD-specific infections in the first 
+year post-LVAD implantation versus the third-year post LVAD implantation 
+decreased from 0.83/1000 LVAD days (95% CI, 0.53-1.30) to 0.33/1000 LVAD days 
+(95% CI, 0.10-1.04). On univariate survival analysis, an increased risk of death 
+was associated with a one-year increase in age at LVAD implantation (hazard 
+ratio (HR) 1.05 (95% CI, 1.01-1.09), p=0.01), the presence of infection within 
+30 days before LVAD implantation (HR 2.44 (95% CI, 1.09-5.48), p=0.03), 
+underlying ischemic cardiomyopathy (HR 2.96 (95% CI, 1.28-6.80), p=0.01), and 
+lower ITERMACS profile HR 3.64 (95% CI, 1.09-12.13, p=0.04). Bloodstream 
+infections (BSIs) were not associated with an increased risk of death (HR 1.63 
+(95% CI, 0.56-4.80, p=0.37). Univariate survival analysis for poor outcomes 
+(LVAD thrombosis, stroke, or death) showed BSIs increased the risk of having a 
+poor outcome (HR 2.39 (95% CI, 1.02-5.57), p=0.04).
+CONCLUSIONS:  The incidence rate of post-LVAD infections decreased significantly 
+over time. LVAD implantation may not be contributing to immune suppression as 
+previously suggested. In our study, BSIs were found to have a significantly 
+increased hazard ratio for a poor outcome post-LVAD implantation.
+
+Copyright © 2023, Karnatak et al.
+
+DOI: 10.7759/cureus.41412
+PMCID: PMC10402930
+PMID: 37546149
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+365. bioRxiv. 2023 Jul 25:2023.07.25.550452. doi: 10.1101/2023.07.25.550452. 
+Preprint.
+
+Early-life stress triggers long-lasting organismal resilience and longevity via 
+tetraspanin.
+
+Jiang WI(1), De Belly H(1)(2), Wang B(1), Wong A(1), Kim M(1), Oh F(1), DeGeorge 
+J(1), Huang X(3), Guang S(3), Weiner OD(1)(2), Ma DK(1)(4)(5).
+
+Author information:
+(1)Cardiovascular Research Institute, University of California, San Francisco, 
+San Francisco, USA.
+(2)Department of Biochemistry and Biophysics, University of California, San 
+Francisco, San Francisco, CA, USA.
+(3)The USTC RNA Institute, Division of Life Sciences and Medicine, Department of 
+Obstetrics and Gynecology, The First Affiliated Hospital of USTC, Biomedical 
+Sciences and Health Laboratory of Anhui Province, University of Science and 
+Technology of China, Hefei, Anhui, China.
+(4)Department of Physiology, University of California, San Francisco, San 
+Francisco, CA, USA.
+(5)Innovative Genomics Institute, University of California, Berkeley, Berkeley, 
+CA, USA.
+
+Early-life stress experiences can produce lasting impacts on organismal 
+adaptation and fitness. How transient stress elicits memory-like physiological 
+effects is largely unknown. Here we show that early-life thermal stress strongly 
+up-regulates tsp-1, a gene encoding the conserved transmembrane tetraspanin in 
+C. elegans. TSP-1 forms prominent multimers and stable web-like structures 
+critical for membrane barrier functions in adults and during aging. 
+Up-regulation of TSP-1 is long lasting even after transient early-life stress. 
+Such regulation requires CBP-1, a histone acetyl-transference that facilitates 
+initial tsp-1 transcription. Tetraspanin webs form regular membrane structures 
+and mediate resilience-promoting effects of early-life thermal stress. 
+Gain-of-function TSP-1 confers striking C. elegans longevity extension and 
+thermal resilience in human cells. Together, our results reveal a cellular 
+mechanism by which early-life thermal stress produces long-lasting memory-like 
+impact on organismal resilience and longevity.
+
+DOI: 10.1101/2023.07.25.550452
+PMCID: PMC10402089
+PMID: 37546737
+
+Conflict of interest statement: Competing interests The authors declare no 
+competing interests.
+
+
+366. Res Sq. 2023 Jul 25:rs.3.rs-3176642. doi: 10.21203/rs.3.rs-3176642/v1.
+Preprint.
+
+Event-related potential (ERP) evidence for early visual processing differences 
+in children and adults with Cystinosis (CTNS gene mutations).
+
+Horsthuis DJ(1), Molholm S(1), Foxe JJ(2), Francisco AA(1).
+
+Author information:
+(1)Albert Einstein College of Medicine.
+(2)University of Rochester School of Medicine and Dentistry.
+
+BACKGROUND: Cystinosis, a rare lysosomal storage disease caused by mutations in 
+the CTNS gene, is characterized by cystine crystallization and accumulation 
+within multiple tissues, including kidney and brain. Its impact on neural 
+function appears mild relative to its effects on other organs during early 
+disease, but since therapeutic advances have led to substantially increased life 
+expectancy, neurological implications are of increasing interest, necessitating 
+deeper understanding of the impact of cystinosis on neurocognitive function. 
+Behavioral difficulties have been reported in cystinosis in the visual domain. 
+Very little is known, however, about how the brains of people living with 
+cystinosis process visual information. This is especially interesting given that 
+cystine accumulation in the cornea and posterior ocular structures is a hallmark 
+of cystinosis.
+METHODS: Here, high-density scalp electrophysiology was recorded to visual 
+stimuli (during a Go/No-Go task) to investigate early visual processing in 
+individuals with cystinosis, compared to age-matched controls. Analyses focused 
+on early stages of cortical visual processing.
+RESULTS: The groups differed in their initial cortical response, with 
+individuals with cystinosis exhibiting a significantly larger visual evoked 
+potential (VEP) in the 130-150 ms time window. The groups also differed in the 
+associations between neural responses and verbal abilities: While controls with 
+higher IQ scores presented larger neural responses, that relationship was not 
+observed in cystinosis.
+CONCLUSIONS: The enlarged VEP in cystinosis could be the result of cortical 
+hyperexcitability and/or differences in attentional engagement and explain, at 
+least partially, the visual and visual-spatial difficulties described in this 
+population.
+
+DOI: 10.21203/rs.3.rs-3176642/v1
+PMCID: PMC10402243
+PMID: 37546758
+
+Conflict of interest statement: Competing interests The Authors report no 
+biomedical financial interests or potential conflicts of interest.
+
+
+367. bioRxiv. 2023 Jul 25:2023.07.25.550589. doi: 10.1101/2023.07.25.550589. 
+Preprint.
+
+Kinetic dissection of pre-crRNA binding and processing by CRISPR-Cas12a.
+
+Sinan S(1), Appleby NM(1), Russell R(1).
+
+Author information:
+(1)Department of Molecular Biosciences, University of Texas at Austin, Austin TX 
+78712.
+
+CRISPR-Cas12a binds and processes a single pre-crRNA during maturation, 
+providing a simple tool for genome editing applications. Here, we constructed a 
+kinetic and thermodynamic framework for pre-crRNA processing by Cas12a in vitro, 
+and we measured the contributions of distinct regions of the pre-crRNA to this 
+reaction. We find that the pre-crRNA binds rapidly and extraordinarily tightly 
+to Cas12a (Kd = 0.6 pM), such that pre-crRNA binding is fully rate limiting for 
+processing and therefore determines the specificity of Cas12a for different 
+pre-crRNAs. The guide sequence contributes 10-fold to the affinities of both the 
+precursor and mature forms of the crRNA, while deletion of an upstream sequence 
+had no significant effect on affinity of the pre-crRNA. After processing, the 
+mature crRNA remains very tightly bound to Cas12a, with a half-life of ~1 day 
+and a Kd value of 60 pM. Addition of a 5'-phosphoryl group, which is normally 
+lost during the processing reaction as the scissile phosphate, tightens binding 
+of the mature crRNA by ~10-fold by accelerating binding and slowing 
+dissociation. Using a direct competition assay, we found that pre-crRNA binding 
+specificity is robust to other changes in RNA sequence, including tested changes 
+in the guide sequence, addition of a 3' extension, and secondary structure 
+within the guide region. Together our results provide a quantitative framework 
+for pre-crRNA binding and processing by Cas12a and suggest strategies for 
+optimizing crRNA design in some genome editing applications.
+
+DOI: 10.1101/2023.07.25.550589
+PMCID: PMC10402064
+PMID: 37546762
+
+
+368. Eur Heart J Case Rep. 2023 Aug 1;7(8):ytad344. doi: 10.1093/ehjcr/ytad344. 
+eCollection 2023 Aug.
+
+Simultaneous transcatheter dual valve replacement (mitral and tricuspid valves): 
+a case report.
+
+Garg P(1), Chouhan N(1), Wander GS(1), Chandra P(1), Kashyap R(2)(3).
+
+Author information:
+(1)Department of Cardiology, Medanta-The Medicity, CH Baktawar Singh Rd, 
+Islampur Colony, Sector 38, Gurugram, Haryana 122001, India.
+(2)Critical Care Medicine, Mayo Clinic, 201 W. Center St. Rochester, MN 55902, 
+USA.
+(3)Medical Director, WellSpan Health, 1001 S George St, York, PA 17403, USA.
+
+BACKGROUND: Structural valve dysfunction in bioprosthetic heart valves 
+necessitates redo replacement procedure that are associated with high mortality 
+and morbidity. The transcatheter valve-in-valve (VIV) approach has emerged as a 
+preferred option for patients requiring redo procedures due to structural valve 
+degeneration. We report from India the first case of the simultaneous 
+transcatheter dual VIV implantation (mitral valve and tricuspid valves) in a 
+high-surgical-risk patient.
+CASE SUMMARY: A 57-year-old female was presented with a history of rheumatic 
+heart disease, post-mitral valve as well as tricuspid valve replacement 
+(perimount 33 mm) 11 years back. Bioprosthetic heart valve was chosen probably 
+due to limited life expectancy and compliance issues with monitoring of 
+international normalised ratio (INR). She now presented with progressive 
+dyspnoea, oedema, and palpitations (New York Heart Association Class III) for 
+the last 6 months. The patient was scheduled for transcatheter dual valve 
+replacement simultaneously. The procedure was successful with a favourable 
+outcome, short hospital stays, and early recovery.
+DISCUSSION: This is the first case of simultaneous transcatheter dual valve 
+replacement reported from India, which is fluoroscopically guided and supported 
+by TEE. It is a valuable and considerable option for patients with failing 
+bioprosthesis valves who are at increased peri-operative risk.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of the 
+European Society of Cardiology.
+
+DOI: 10.1093/ehjcr/ytad344
+PMCID: PMC10401318
+PMID: 37547370
+
+Conflict of interest statement: Conflict of interest: None declared.
+
+
+369. Transpl Int. 2023 Jul 21;36:11089. doi: 10.3389/ti.2023.11089. eCollection
+2023.
+
+Heart Transplantation in High-Risk Recipients Employing Donor Marginal Grafts 
+Preserved With Ex-Vivo Perfusion.
+
+Sponga S(1)(2), Vendramin I(2), Salman J(3), Ferrara V(1), De Manna ND(2), 
+Lechiancole A(2), Warnecke G(4), Dralov A(2), Haverich A(3), Ius F(3), 
+Bortolotti U(2), Livi U(1)(2), Avsar M(3).
+
+Author information:
+(1)Department of Medicine, University of Udine, Udine, Italy.
+(2)Cardiothoracic Department, University Hospital of Udine, Udine, Italy.
+(3)Department of Cardiothoracic, Transplant and Vascular Surgery, Hannover 
+Medical School, Hannover, Germany.
+(4)Department of Cardiac Surgery, Heidelberg Medical School, Heidelberg, 
+Germany.
+
+Extending selection criteria to face donor organ shortage in heart 
+transplantation (HTx) may increase the risk of mortality. Ex-vivo normothermic 
+perfusion (EVP) limits ischemic time allowing assessment of graft function. We 
+investigated the outcome of HTx in 80 high-risk recipients transplanted with 
+marginal donor and EVP-preserved grafts, from 2016 to 2021. The recipients 
+median age was 57 years (range, 13-75), with chronic renal failure in 61%, 
+impaired liver function in 11% and previous cardiac surgery in 90%; 80% were 
+mechanically supported. Median RADIAL score was 3. Mean graft ischemic time was 
+118 ± 25 min, "out-of-body" time 420 ± 66 min and median cardiopulmonary bypass 
+(CPB) time 228 min (126-416). In-hospital mortality was 11% and ≥moderate 
+primary graft dysfunction 16%. At univariable analysis, CPB time and high 
+central venous pressure were risk factors for mortality. Actuarial survival at 1 
+and 3 years was 83% ± 4%, and 72% ± 7%, with a median follow-up of 16 months 
+(range 2-43). Recipient and donor ages, pre-HTx extracorporeal life support and 
+intra-aortic balloon pump were risk factors for late mortality. In conclusion, 
+the use of EVP allows extension of the graft pool by recruitment of marginal 
+donors to successfully perform HTx even in high-risk recipients.
+
+Copyright © 2023 Sponga, Vendramin, Salman, Ferrara, De Manna, Lechiancole, 
+Warnecke, Dralov, Haverich, Ius, Bortolotti, Livi and Avsar.
+
+DOI: 10.3389/ti.2023.11089
+PMCID: PMC10401590
+PMID: 37547752 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+370. Front Chem. 2023 Jul 12;11:1220573. doi: 10.3389/fchem.2023.1220573.
+eCollection  2023.
+
+Conjugation of amiodarone to a novel cardiomyocyte cell penetrating peptide for 
+potential targeted delivery to the heart.
+
+Yurko R(1), Islam K(1), Weber B(2), Salama G(2), Zahid M(3).
+
+Author information:
+(1)Peptide Synthesis Facility, University of Pittsburgh, Pittsburgh, PA, United 
+States.
+(2)Division of Cardiology, Department of Medicine, Pittsburgh Heart, Lung, 
+Blood, and Vascular Medicine Institute, University of Pittsburgh School of 
+Medicine, University of Pittsburgh Medical Center, Pittsburgh, PA, United 
+States.
+(3)Deptartment of Cardiovascular Diseases, Mayo Clinic, Rochester, MN, United 
+States.
+
+Modern medicine has developed a myriad of therapeutic drugs against a wide range 
+of human diseases leading to increased life expectancy and better quality of 
+life for millions of people. Despite the undeniable benefit of medical 
+advancements in pharmaceutical technology, many of the most effective drugs 
+currently in use have serious limitations such as off target side effects 
+resulting in systemic toxicity. New generations of specialized drug constructs 
+will enhance targeted therapeutic efficacy of existing and new drugs leading to 
+safer and more effective treatment options for a variety of human ailments. As 
+one of the most efficient drugs known for the treatment of cardiac arrhythmia, 
+Amiodarone presents the same conundrum of serious systemic side effects 
+associated with long term treatment. In this article we present the synthesis of 
+a next-generation prodrug construct of amiodarone for the purpose of advanced 
+targeting of cardiac arrhythmias by delivering the drug to cardiomyocytes using 
+a novel cardiac targeting peptide, a cardiomyocyte-specific cell penetrating 
+peptide. Our in vivo studies in guinea pigs indicate that cardiac targeting 
+peptide-amiodarone conjugate is able to have similar effects on calcium handling 
+as amiodarone at 1/15th the total molar dose of amiodarone. Further studies are 
+warranted in animal models of atrial fibrillation to show efficacy of this 
+conjugate.
+
+Copyright © 2023 Yurko, Islam, Weber, Salama and Zahid.
+
+DOI: 10.3389/fchem.2023.1220573
+PMCID: PMC10402922
+PMID: 37547910
+
+Conflict of interest statement: MZ holds a patent on the use of cardiac 
+targeting peptide as a novel cardiac vector along with Dr. Paul Robbins and 
+University of Pittsburgh. The remaining authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+371. Pol Arch Intern Med. 2023 Aug 30;133(7-8):16543. doi: 10.20452/pamw.16543.
+Epub  2023 Aug 7.
+
+How to treat isolated distal deep vein thrombosis.
+
+Potere N(1), Ageno W(2).
+
+Author information:
+(1)Department of Medicine and Ageing Sciences, “G. d’Annunzio” University, 
+Chieti, Italy
+(2)Department of Medicine and Surgery, University of Insubria, Varese, Italy. 
+walter.ageno@uninsubria.it
+
+Isolated distal deep vein thrombosis (IDDVT) is a frequent manifestation of 
+venous thromboembolism (VTE), accounting for up to 50% cases of lower‑extremity 
+deep vein thrombosis (DVT). As compared with proximal DVT, IDDVT is more 
+frequently associated with transient risk factors and less often occurs 
+unprovoked or in the presence of permanent risk factors. IDDVT generally carries 
+a significantly lower risk of proximal extension, post‑thrombotic syndrome, and 
+recurrence than proximal DVT. Nevertheless, some patient subgroups, such as 
+those with active cancer, other predisposing permanent risk factors, prior VTE, 
+unprovoked IDDVT, persistently restricted mobility, and trifurcation or 
+bilateral involvement, exhibit a non‑negligible recurrence risk. Unlike in 
+proximal DVT, the optimal therapeutic management of IDDVT remains uncertain. In 
+clinical practice, the vast majority of IDDVT patients are managed with 
+anticoagulation rather than with surveillance serial compression 
+ultrasonography, which tends to be reserved to individuals at a high bleeding 
+risk. Available data seem to favor anticoagulant therapy over no 
+anticoagulation, thanks to a significant reduction in the risk for proximal 
+extension and recurrence, without increased bleeding risk. Recent results of the 
+RIDTS (Rivaroxaban for the Treatment of Symptomatic Isolated Distal Deep Vein 
+Thrombosis) randomized clinical trial with rivaroxaban further support the use 
+of anticoagulant therapy for 3 months over shorter durations (eg, ≤6 weeks). In 
+this review, we offer an updated overview of the epidemiology, risk factors, and 
+clinical course of IDDVT, with a focus on the therapeutic management in light of 
+current guideline recommendations and most recent evidence. We also present 
+real‑life clinical cases of IDDVT with proposed therapeutic approaches, and 
+highlight major challenges and gaps in this field.
+
+DOI: 10.20452/pamw.16543
+PMID: 37548526 [Indexed for MEDLINE]
+
+
+372. J Food Sci. 2023 Sep;88(9):3626-3648. doi: 10.1111/1750-3841.16719. Epub
+2023  Aug 7.
+
+Recent advances in extending the shelf life of fresh wet noodles: Influencing 
+factors and preservation technologies.
+
+Obadi M(1), Li Y(1)(2), Xu B(1).
+
+Author information:
+(1)School of Food and Biological Engineering, Jiangsu University, Zhenjiang, 
+China.
+(2)Hunan Provincial Key Laboratory of Research, Resource Mining and High-valued 
+Utilization on Edible & Medicinal Plant, Jishou University, Jishou, China.
+
+Fresh wet noodles (FWNs) are popular among people and have attracted increasing 
+attention because of their characteristics of freshness, chewiness, good taste, 
+and better maintenance of noodle flavor. However, due to the high moisture 
+content and abundance of nutrients in FWN, they are prone to spoilage, which 
+shortens their shelf life and reduces their quality, greatly restricting their 
+large-scale production. Therefore, seeking effective preservation methods to 
+prolong the shelf life is a major breakthrough for the industrialization of FWN. 
+The present review provides a comprehensive overview of the main factors that 
+contribute to the spoilage and degradation of FWN. These factors encompass 
+microorganisms, moisture content, nutritional composition, enzymes, and storage 
+temperature. Moreover, the recent developments in novel shelf-life extension 
+technology applied to FWN, such as chemical preservatives, natural 
+preservatives, physical treatment technologies, and composite preservation 
+technology, are presented and discussed. From the literature reviewed, the 
+application of technologies, such as adding preservatives, modified atmosphere 
+packaging, microwave, cold plasma, ozone, and other technologies, has a certain 
+effect on improving the shelf life of FWN, but the single preservation 
+technology still has some deficiencies. In order to further improve the 
+preservation efficiency, using two or more preservation methods is an important 
+direction for future research on the preservation technology of FWN.
+
+© 2023 Institute of Food Technologists.
+
+DOI: 10.1111/1750-3841.16719
+PMID: 37548645 [Indexed for MEDLINE]
+
+
+373. Aging Dis. 2023 Jul 24. doi: 10.14336/AD.2023.0721. Online ahead of print.
+
+"Post-Protean" Public Health and the Geroscience Hypothesis.
+
+Farrelly C(1).
+
+Author information:
+(1)Department of Political Studies, Queen's University, Kingston, Ontario, K7L 
+3N6, Canada.
+
+Despite unprecedented investments in public health and biomedical research, 
+improvements in life expectancy and healthy life expectancy have stagnated in 
+the United States. Part of the reason for this development can be traced back to 
+the influence of "Protean" over "Post-Protean" public health, the names that can 
+be given to two contrasting visions of public health advanced in the early 
+twentieth century. Protean public health prescribes "waging a war" against 
+disease and was successful in reducing the early-life mortality risks from 
+infectious disease. But Protean public health has proven less effective in 
+improving the quality of life of older persons. Post-Protean public health 
+prioritizes the experimental method and research into the indirect methods of 
+improving health. It articulated a vision of public heath that was given a more 
+concrete specification by Alex Comfort in what is now referred to as the 
+Geroscience Hypothesis. To improve the health prospects of aging populations the 
+dominance of Protean public health must be relaxed, to enable the benefits of 
+Post-Protean public health to be realized. Doing so means shifting public 
+health's aspirations towards increasing the healthspan vs "saving lives" by 
+extending the duration of time older persons can survive by managing the 
+multi-morbidities of late life.
+
+DOI: 10.14336/AD.2023.0721
+PMID: 37548942
+
+
+374. J Geriatr Oncol. 2023 Sep;14(7):101598. doi: 10.1016/j.jgo.2023.101598. Epub
+ 2023 Aug 5.
+
+Association of cardiovascular disease with health-related quality of life among 
+older women with early-stage breast cancer undergoing adjuvant endocrine 
+therapy.
+
+Liu YS(1), Liu Y(2), Park C(3).
+
+Author information:
+(1)Health Outcomes Division, College of Pharmacy, The University of Texas at 
+Austin, Austin, TX, USA.
+(2)Department of Internal Medicine, Dell Medical School, The University of Texas 
+at Austin, Austin, TX, USA.
+(3)Health Outcomes Division, College of Pharmacy, The University of Texas at 
+Austin, Austin, TX, USA. Electronic address: chanhyun.park@austin.utexas.edu.
+
+INTRODUCTION: Due to the improved overall survival and life expectancy of older 
+women with breast cancer, cardiovascular disease (CVD) arose as the primary 
+cause of non-cancer-related deaths in this population. Therefore, assessing the 
+health-related quality of life (HRQoL) of breast cancer patients with comorbid 
+CVD is becoming increasingly vital. Our study aimed to evaluate the association 
+between comorbid CVD and HRQoL among older women with early-stage breast cancer 
+who are receiving adjuvant endocrine therapy (AET) in the United States.
+MATERIALS AND METHODS: We conducted a retrospective cohort study using the 
+2006-2017 Surveillance, Epidemiology, and End Results-Medicare Health Outcomes 
+Survey data. We identified female patients over the age of 65 who were diagnosed 
+with stage I-III hormone receptor-positive breast cancer and treated with AET. 
+HRQoL was assessed by the physical and mental component summary (PCS & MCS) in 
+the health survey. CVD was defined as a history of acute myocardial infarction 
+(AMI), congestive heart failure (CHF), angina, stroke, or other heart-related 
+conditions. We performed multivariate linear regression models while controlling 
+for covariates.
+RESULTS: Among 3,904 older women, a history of CHF [β = -1.97, p = 0.025], 
+stroke [β = -3.00, p < 0.010], or other heart-related condition [β = -1.10, 
+p = 0.046] was significantly associated with lower PCS. However, no significant 
+differences in PCS scores were found between women with a history of AMI or 
+angina and those without these conditions. Having a history of CHF [β = -1.72, 
+p = 0.033] or stroke [β = -1.48, p = 0.038] was significantly associated with 
+lower MCS, whereas a history of angina, AMI, or other heart conditions was not 
+associated with significant differences in MCS. Our study did not observe any 
+significant differences in PCS and MCS between the two types AETs.
+DISCUSSION: The study found that older women with early-stage breast cancer who 
+were being treated with AETs had a lower HRQoL if they had a history of CHF or 
+stroke. These comorbidities were identified as strong predictors for decreased 
+HRQoL. The findings highlight the significance of managing cardiovascular 
+diseases in such patients for better HRQoL while they receive AET treatment.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jgo.2023.101598
+PMID: 37549476 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest Yi-Shao Liu: 
+YSL is a current student assistant (co-op) at Novo Nordisk Inc. and a graduate 
+student at the University of Texas at Austin. The work was completed without any 
+involvement with Novo Nordisk Inc. Chanhyun Park: None. Yan Liu: None.
+
+
+375. Neuroepidemiology. 2023;57(5):336-344. doi: 10.1159/000533362. Epub 2023 Aug
+7.
+
+Validation of Administrative Health Data Algorithms for Identifying Persons with 
+Parkinson's Disease and the 10-Year Prevalence Trend in Bologna, Italy.
+
+Zenesini C(1), Belotti LMB(1), Baccari F(1), Baldin E(1), Ridley B(1), 
+Calandra-Buonaura G(1)(2), Cortelli P(1)(2), D'Alessandro R(1), Nonino F(1), 
+Vignatelli L(1).
+
+Author information:
+(1)IRCCS Istituto delle Scienze Neurologiche di Bologna, Bologna, Italy.
+(2)Dipartimento di Scienze Biomediche e NeuroMotorie, Università Degli Studi di 
+Bologna, Bologna, Italy.
+
+INTRODUCTION: Health administrative databases are widely used for the estimation 
+of the prevalence of Parkinson's disease (PD). Few in general, and none used in 
+Italy, have been validated by testing their diagnostic accuracy. The primary 
+objective was to validate two algorithms for the identification of persons with 
+PD using clinical diagnosis as the reference standard on an Italian sample of 
+people with PD. The second objective was to estimate 10-year trends in PD 
+prevalence in the Bologna Local Health Trust from 2010 to 2019.
+METHODS: Two algorithms (index tests) applied to health administrative databases 
+(hospital discharge, drug prescriptions, exemptions for medical costs) were 
+validated against clinical diagnosis of PD by an expert neurologist (reference 
+standard) in a cohort of consecutive outpatients. Sensitivity and specificity 
+with relative 95% confidence intervals (CIs) were calculated. The prevalence of 
+PD in a specific year was estimated as the ratio between the number of subjects 
+fulfilling any criteria of the algorithm with better diagnostic accuracy and the 
+total population in the same year (×1,000), stratified by age, sex, and district 
+of residence.
+RESULTS: The two algorithms showed high accuracy for identifying patients with 
+PD: one with greater sensitivity of 94.2% (CI: 88.4-97.6) and the other with 
+greater specificity of 98.1% (CI: 97.7-98.5). For the estimation of prevalence, 
+we chose the most specific algorithm with the fewest total number of 
+misclassified cases. We identified 3,798 people with PD as of December 31, 2019, 
+corresponding to a prevalence of 4.3 per 1,000 inhabitants (CI: 4.2-4.4). 
+Prevalence was higher in males (4.7, CI: 4.5-5.0) than females (3.8, CI: 
+3.7-4.0) and increased with age. The crude prevalence over time was slightly 
+elevated as it followed a progressive aging of the population. When stratifying 
+the prevalence for age groups, we did not observe a trend except in the 45-64 
+year category where we observed an increasing trend over time.
+CONCLUSION: Algorithms based on administrative data are accurate when detecting 
+people with PD in the Italian public health system. In a large northern Italian 
+population, increased prevalence of about 10% was observed in the decade 
+2010-2019 and is explained by increased life expectancy. These data may be 
+useful in planning the allocation of health care resources for people with PD.
+
+© 2023 S. Karger AG, Basel.
+
+DOI: 10.1159/000533362
+PMID: 37549643 [Indexed for MEDLINE]
+
+
+376. Int J Biol Macromol. 2023 Oct 1;250:126161. doi:
+10.1016/j.ijbiomac.2023.126161.  Epub 2023 Aug 6.
+
+Pulling and analyzing silk fibers from aqueous solution using a robotic device.
+
+Välisalmi T(1), Bettahar H(2), Zhou Q(3), Linder MB(4).
+
+Author information:
+(1)Department of Bioproducts and Biosystems, School of Chemical Engineering, 
+Aalto University, FI-00076 Aalto, Finland; Centre of Excellence in Life-Inspired 
+Hybrid Materials (LIBER), Aalto University, P.O. Box 16100, FI-00076 Aalto, 
+Finland.
+(2)Department of Electrical Engineering and Automation, School of Electrical 
+Engineering, Aalto University, FI-00076 Aalto, Finland.
+(3)Department of Electrical Engineering and Automation, School of Electrical 
+Engineering, Aalto University, FI-00076 Aalto, Finland. Electronic address: 
+quan.zhou@aalto.fi.
+(4)Department of Bioproducts and Biosystems, School of Chemical Engineering, 
+Aalto University, FI-00076 Aalto, Finland; Centre of Excellence in Life-Inspired 
+Hybrid Materials (LIBER), Aalto University, P.O. Box 16100, FI-00076 Aalto, 
+Finland. Electronic address: markus.linder@aalto.fi.
+
+Spiders, silkworms, and many other animals can spin silk with exceptional 
+properties. However, artificially spun fibers often fall short of their natural 
+counterparts partly due sub-optimal production methods. A variety of methods, 
+such as wet-, dry-, and biomimetic spinning have been used. The methods are 
+based on extrusion, whereas natural spinning also involves pulling. Another 
+shortcoming is that there is a lack feedback control during extension. Here we 
+demonstrate a robotic fiber pulling device that enables controlled pulling of 
+silk fibers and in situ measurement of extensional forces during the pulling and 
+tensile testing of the pulled fibers. The pulling device was used to study two 
+types of silk-one recombinant spider silk (a structural variant of ADF3) and one 
+regenerated silk fibroin. Also, dextran-a branched polysaccharide-was used as a 
+reference material for the procedure due to its straightforward preparation and 
+storage. No post-treatments were applied. The pulled regenerated silk fibroin 
+fibers achieved high tensile strength in comparison to similar extrusion-based 
+methods. The mechanical properties of the recombinant spider silk fibers seemed 
+to be affected by the liquid-liquid phase separation of the silk proteins.
+
+Copyright © 2023 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijbiomac.2023.126161
+PMID: 37549763
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+377. Inj Prev. 2023 Oct;29(5):418-424. doi: 10.1136/ip-2023-044915. Epub 2023 Aug
+7.
+
+Global burden and trends of transport injuries from 1990 to 2019: an 
+observational trend study.
+
+Wan R(#)(1), Xia J(#)(1), Duan F(1), Min L(1), Liu T(2).
+
+Author information:
+(1)Department of Critical Care Medicine, Taihe Hospital, Hubei University of 
+Medicine, Shiyan, Hubei, China.
+(2)Department of Critical Care Medicine, Taihe Hospital, Hubei University of 
+Medicine, Shiyan, Hubei, China yuneizhiba@163.com.
+(#)Contributed equally
+
+BACKGROUND: Transport injuries (TIs) are a major cause of global 
+disability-adjusted life-years (DALYs) and mortality. In this study, we aimed to 
+assess the global burden and trends of TIs from 1990 to 2019.
+METHODS: We assessed the annual age-standardised incidence rate (ASIR) and 
+age-standardised DALYs rate of TIs by sex, age, Social Development Index (SDI) 
+and geographical region from 1990 to 2019 from the Global Burden of Disease 
+Study 2019. The changing trends were described by estimated annual percentage 
+changes (EAPCs).
+RESULTS: Globally, in 2019, the ASIR and age-standardised DALYs rates of TIs 
+were 134 6.06/100 000 (95% UI 11 42.6/100 000-157 5.57/100 000) and 97 7.91/100 
+000 (86 8.91/100 000-107 6.81/100 000), respectively. From 1990 to 2019, the 
+global ASIR of TIs presented significant upwards trends with the EAPC (0.25%, 
+95% CI 0.19% to 0.31%), and it was significantly increased in the age groups of 
+15-49 (0.37%, 95% CI 0.29% to 0.45%), 50-69 (0.40%, 95% CI 0.36% to 0.44%) and 
+70+ (0.22%, 95% CI 0.17% to 0.28%). Prominent increases in ASIR were detected in 
+middle-SDI areas (0.72%, 95% CI 0.57% to 0.87%), low-middle SDI areas (0.66%, 
+95% CI 0.59% to 0.72%) and low-SDI areas (0.21%, 95% CI 0.17% to 0.26%). The 
+global age-standardised DALYs rate presented downwards trends with the EAPC 
+(-1.27%, 95% CI -1.35% to -1.2%), and it was significantly decreased in all age 
+groups and SDI areas.
+CONCLUSION: Globally, TIs still cause a serious burden, and the incidence has 
+significantly increased, especially in people above the age of 14 and in 
+middle-SDI and low-SDI areas, thus necessitating more attention and health 
+interventions.
+
+© Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/ip-2023-044915
+PMCID: PMC10579470
+PMID: 37549986 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+378. Nat Commun. 2023 Aug 7;14(1):4751. doi: 10.1038/s41467-023-39746-1.
+
+Urbanisation generates multiple trait syndromes for terrestrial animal taxa 
+worldwide.
+
+Hahs AK(#)(1), Fournier B(#)(2), Aronson MFJ(3), Nilon CH(4), Herrera-Montes 
+A(5), Salisbury AB(6), Threlfall CG(7)(8), Rega-Brodsky CC(9), Lepczyk CA(10), 
+La Sorte FA(11), MacGregor-Fors I(12), Scott MacIvor J(13), Jung K(14), Piana 
+MR(15), Williams NSG(16), Knapp S(17)(18)(19), Vergnes A(20), Acevedo AA(21), 
+Gainsbury AM(22), Rainho A(23), Hamer AJ(24), Shwartz A(25), Voigt CC(26), 
+Lewanzik D(26), Lowenstein DM(27), O'Brien D(28), Tommasi D(29), Pineda E(30), 
+Carpenter ES(31), Belskaya E(32), Lövei GL(33)(34), Makinson JC(35), Coleman 
+JL(36), Sadler JP(37), Shroyer J(4), Shapiro JT(38), Baldock KCR(39)(40)(41), 
+Ksiazek-Mikenas K(42), Matteson KC(43), Barrett K(44), Siles L(45), Aguirre 
+LF(46), Armesto LO(47), Zalewski M(48), Herrera-Montes MI(49), Obrist MK(50), 
+Tonietto RK(51), Gagné SA(52), Hinners SJ(53), Latty T(54), Surasinghe TD(55), 
+Sattler T(56), Magura T(34)(57), Ulrich W(58), Elek Z(59), Castañeda-Oviedo 
+J(60), Torrado R(61), Kotze DJ(#)(62), Moretti M(#)(63).
+
+Author information:
+(1)School of Agriculture, Food and Ecosystem Sciences, The University of 
+Melbourne, Burnley Campus 500 Yarra Blvd, Richmond, 3121 VIC, Australia. 
+amy.hahs@unimelb.edu.au.
+(2)Institute of Environmental Science and Geography, University of Potsdam, 
+Karl-Liebknecht-Str. 24-25, 14476, Potsdam, Germany. 
+bertrand.fournier@uni-potsdam.de.
+(3)Department of Ecology, Evolution and Natural Resources, Rutgers, The State 
+University of New Jersey, New Brunswick, NJ, 08816, USA.
+(4)School of Natural Resources, University of Missouri, Columbia, MO, 65211, 
+USA.
+(5)Department of Environmental Science, College of Natural Sciences, University 
+of Puerto Rico, San Juan, Puerto Rico.
+(6)The Morton Arboretum, 4100 Illinois Route 53, Lisle, IL, 60532, USA.
+(7)School of Life and Environmental Sciences, The University of Sydney, Sydney, 
+NSW, 2006, Australia.
+(8)School of Natural Sciences, Macquarie University, Sydney, NSW, 2109, 
+Australia.
+(9)School of Science and Mathematics, Pittsburg State University, Pittsburg, KS, 
+66762, USA.
+(10)School of Forestry, Wildlife and Environment, Auburn University, Auburn, AL, 
+36849, USA.
+(11)Cornell Lab of Ornithology, Cornell University, Ithaca, NY, 14850, USA.
+(12)Faculty of Biological and Environmental Sciences, Ecosystems and Environment 
+Research Programme, University of Helsinki, Niemenkatu 73, FI-15140, Lahti, 
+Finland.
+(13)Department of Biological Sciences, University of Toronto Scarborough, 1265 
+Military Trail, Toronto, M1C 1A4, Canada.
+(14)Institute of Evolutionary Ecology and Conservation Genomics, Ulm University, 
+Albert-Einstein-Allee 11, 89069, Ulm, Germany.
+(15)USDA Forest Service, Northern Research Station, Amherst, MA, 01002, USA.
+(16)School of Agriculture, Food and Ecosystem Sciences, The University of 
+Melbourne, Burnley Campus 500 Yarra Blvd, Richmond, 3121 VIC, Australia.
+(17)Helmholtz Centre for Environmental Research - UFZ, Department of Community 
+Ecology, Theodor-Lieser-Str. 4, 06120, Halle (Saale), Germany.
+(18)German Centre for Integrative Biodiversity Research (iDiv) 
+Halle-Jena-Leipzig, Puschstraße 4, 04103, Leipzig, Germany.
+(19)Technische Universität Berlin, Department of Plant Ecology, Rothenburgstraße 
+12, 12165, Berlin, Germany.
+(20)CEFE, Univ Montpellier, CNRS, EPHE, IRD, Univ Paul Valéry Montpellier 3, 
+Montpellier, France.
+(21)Departamento de Ciencias Ecológicas, Facultad de Ciencias, Laboratorio de 
+Genética y Evolución, Universidad de Chile, Las Palmeras 3425, Ñuñoa, Santiago, 
+Chile.
+(22)University of South Florida, St. Petersburg Campus, Department of 
+Integrative Biology, St. Petersburg, FL, 33701, USA.
+(23)cE3c - Centre for Ecology, Evolution and Environmental Changes at the Dept. 
+of Animal Biology, Faculty of Sciences, Univ. of Lisbon, Lisboa, Portugal.
+(24)Institute of Aquatic Ecology, Centre for Ecological Research, Karolina u. 
+29, 1113, Budapest, Hungary.
+(25)Faculty of Architecture and Town Planning, Technion - Israel Institute of 
+Technology, Haifa, 32000, Israel.
+(26)Dept. of Evolutionary Ecology, Leibniz Institute for Zoo and Wildlife 
+Research, Alfred-Kowalke-Str. 17, 10315, Berlin, Germany.
+(27)Michigan State University Extension, Macomb County, 21885 Dunham Rd - Suite 
+12, Clinton Twp, MI, 48036, USA.
+(28)Scottish Natural Heritage (NatureScot), Great Glen House, Inverness, IV3 
+8NW, UK.
+(29)Institute of Marine Sciences, University of California Santa Cruz, Santa 
+Cruz, CA, 95064, USA.
+(30)Red de Biología y Conservación de Vertebrados. Instituto de Ecología, A.C. 
+Carretera Antigua a Coatepec 351, Xalapa, 91073, Mexico.
+(31)U.S. Fish and Wildlife Service, Chesapeake Bay Field Office, 177 Admiral 
+Cochrane Dr, Annapolis, MD, 21401, USA.
+(32)Institute of Plant and Animal Ecology, Ural Branch, Russian Academy of 
+Sciences, Eighth March Street 202, Yekaterinburg, 620144, Russia.
+(33)Department of Agroecology, Aarhus University, Flakkebjerg Research Centre, 
+DK-4200, Slagelse, Denmark.
+(34)ELKH-DE Anthropocene Ecology Research Group, University of Debrecen, H-4032, 
+Debrecen, Egyetem square 1, Hungary.
+(35)Hawkesbury Institute for the Environment, Western Sydney University, Locked 
+Bag 1797, Penrith, NSW, 2751, Australia.
+(36)Queens College at the City University of New York, Flushing, NY, USA.
+(37)School of Geography, Earth and Environmental Sciences, University of 
+Birmingham, Edgbaston, Birmingham, B15 2TT, UK.
+(38)University of Lyon, French Agency for Food, Environmental and Occupational 
+Health & Safety (ANSES), Laboratory of Lyon, 31 Avenue Tony Garnier, 69364, Lyon 
+Cedex 07, France.
+(39)Department of Geography and Environmental Sciences, Northumbria University, 
+Newcastle upon Tyne, UK.
+(40)School of Biological Sciences, University of Bristol, Bristol, UK.
+(41)Cabot Institute, University of Bristol, Bristol, UK.
+(42)Department of Biology, Elmhurst University, Elmhurst, IL, 60126, USA.
+(43)Department of Biology/Project Dragonfly, Miami University, Oxford, OH, USA.
+(44)Department of Forestry and Environmental Conservation, Clemson University, 
+261 Lehotsky Hall, Clemson, SC, 29631, USA.
+(45)Área de Mastozoología, Museo de Historia Natural Alcide d'Orbigny, Avenida 
+Potosí 1458, Cochabamba, Cochabamba, Bolivia.
+(46)Centro de Biodiversidad y Genética, Universidad Mayor de San Simón, c Sucre, 
+frente Parque La Torre s/n, Cochabamba, Bolivia.
+(47)Tecnoacademia, CEDRUM, Servicio Nacional de Aprendizaje (SENA), Cúcuta, 
+Colombia.
+(48)Museum and Institute of Zoology of the Polish Academy of Sciences, Wilcza 
+64, Warsaw, 00-679, Poland.
+(49)Grupo de Ecologia Animal, Universidad del Valle, Cali, Colombia.
+(50)Swiss Federal Institute for Forest, Snow and Landscape Research WSL, 
+Biodiversity and Conservation Biology, CH-8903, Birmensdorf, Switzerland.
+(51)Department of Natural Sciences, University of Michigan-Flint, 303 E Kearsley 
+St., Flint, MI, 48502, USA.
+(52)University of North Carolina at Charlotte, 9201 University City Blvd., 
+Charlotte, NC, 28223, USA.
+(53)Department of City and Metropolitan Planning, University of Utah, Salt Lake 
+City, UT, USA.
+(54)Sydney Institute of Agriculture, School of Life and Environmental Sciences, 
+University of Sydney, Sydney, Australia.
+(55)Department of Biological Sciences, Bridgewater State University, 
+Bridgewater, MA, 02325, USA.
+(56)Swiss Ornithological Institute, Seerose 1, CH-6204, Sempach, Switzerland.
+(57)Department of Ecology, Faculty of Science and Technology, University of 
+Debrecen, H-4032, Debrecen, Egyetem square 1., Hungary.
+(58)Department of Ecology and Biogeography, Nicolaus Copernicus University, 
+Lwowska 1, 87-100, Torun, Poland.
+(59)Centre for Agricultural Research, Plant Protection Institute, Eötvös Loránd 
+Research Network, Herman Ottó út 15, Budapest, 1022, Hungary.
+(60)Grupo de Investigación en Ecología y Biogeografía, Universidad de Pamplona, 
+Pamplona, Colombia.
+(61)Secretaría de Educación del Municipio de Cúcuta, Cúcuta, Colombia.
+(62)Faculty of Biological and Environmental Sciences, Ecosystems and Environment 
+Research Programme, University of Helsinki, Niemenkatu 73, FI-15140, Lahti, 
+Finland. johan.kotze@helsinki.fi.
+(63)Swiss Federal Research Institute WSL, Biodiversity and Conservation Biology, 

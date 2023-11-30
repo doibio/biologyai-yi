@@ -1,0 +1,1000 @@
+p=0.00). On the other hand, the increase of the standardized disability-adjusted 
+life year rate was related to musculoskeletal disorders, diabetes, kidney 
+disorders and substance use disorders with a significant annual percentage 
+change of 0.1%, 0.2% and 1.3% (p=0.00) respectively. Conclusion: the 
+implementation of the national strategy is the key solution to mitigate the 
+impact of non-communicable diseases in Tunisia.
+
+Copyright: Houyem Khiari et al.
+
+DOI: 10.11604/pamj.2021.40.62.30980
+PMCID: PMC8590256
+PMID: 34804330 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+765. Front Public Health. 2021 Nov 3;9:764584. doi: 10.3389/fpubh.2021.764584. 
+eCollection 2021.
+
+Communication About Chronic Pain in Older Persons' Social Networks: Study 
+Protocol of a Qualitative Approach.
+
+Merminod G(1), Weber O(1), Vaucher C(2), Semlali I(1), Terrier A(1), Decosterd 
+I(3), Rubli Truchard E(4), Singy P(1).
+
+Author information:
+(1)Liaison Psychiatry Service, Department of Psychiatry, Lausanne University 
+Hospital, Lausanne, Switzerland.
+(2)Institute of Social Sciences, Faculty of Social and Political Sciences, 
+University of Lausanne, Lausanne, Switzerland.
+(3)Pain Center, Service of Anesthesiology, Lausanne University Hospital and 
+University of Lausanne, Lausanne, Switzerland.
+(4)Geriatrics and Geriatric Rehabilitation Service and Chair of Geriatric 
+Palliative Care, Department of Medicine, Lausanne University Hospital, Lausanne, 
+Switzerland.
+
+A lack of social relations appears to impact on health and life expectancy among 
+the older persons. The quality and diversity of social relations are correlated 
+with good health and well-being in later life. Chronic pain is a crucial issue 
+in aging population. Effective communication between the older persons with 
+chronic pain, their relatives and the actors of the healthcare system 
+facilitates the management of this condition. Studies on communication in later 
+life generally do not consider the older persons' social network as a whole, 
+focusing only a specific segment (e.g., family or medical staff). This lack of 
+scientific data prevents the actors of the healthcare system from offering 
+solutions to bridge clinically relevant communication gaps. As a consequence, 
+our study has three objectives: (1) to identify how the older persons perceive 
+communication about chronic pain with their social network; (2) to identify 
+their unmet communication needs; (3) to develop recommendations that improve 
+communication about chronic pain in later life. The study will be divided into 
+two phases. The first phase will meet objectives 1 and 2. It will involve 
+individual interviews with about 50 people over 75 years old suffering from 
+chronic pain and without major cognitive or auditory troubles. In this phase, we 
+will apply a multi-layered analysis. We will map the older persons' personal 
+network and identify their communication practices and needs, by combining 
+content and discourse analysis with social network theories. The second phase of 
+the study will aim at recommendations based on the results of the first phase 
+(objective 3). It will require focus groups with different sets of stakeholders 
+(older persons, relative caregivers, health professionals, decision-makers). In 
+the second phase, we will use content analysis to pinpoint the concerns and 
+suggestions for action. The results will be disseminated on three levels: (1) to 
+the scientific world (specialists in the field of health and aging and health 
+communication); (2) to health practitioners working with older persons; (3) to 
+society at large, with a focus on institutions and groups directly concerned by 
+the issue.
+
+Copyright © 2021 Merminod, Weber, Vaucher, Semlali, Terrier, Decosterd, Rubli 
+Truchard and Singy.
+
+DOI: 10.3389/fpubh.2021.764584
+PMCID: PMC8595239
+PMID: 34805077 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+766. Front Public Health. 2021 Nov 5;9:766707. doi: 10.3389/fpubh.2021.766707. 
+eCollection 2021.
+
+Using Satellite Images and Deep Learning to Identify Associations Between 
+County-Level Mortality and Residential Neighborhood Features Proximal to 
+Schools: A Cross-Sectional Study.
+
+Levy JJ(1)(2)(3), Lebeaux RM(1)(2), Hoen AG(1)(2)(4), Christensen BC(1), Vaickus 
+LJ(3), MacKenzie TA(1)(4)(5).
+
+Author information:
+(1)Department of Epidemiology, Geisel School of Medicine at Dartmouth, Lebanon, 
+NH, United States.
+(2)Program in Quantitative Biomedical Sciences, Geisel School of Medicine at 
+Dartmouth, Lebanon, NH, United States.
+(3)Emerging Diagnostic and Investigative Technologies, Department of Pathology 
+and Laboratory Medicine, Dartmouth Hitchcock Medical Center, Lebanon, NH, United 
+States.
+(4)Department of Biomedical Data Science, Geisel School of Medicine at 
+Dartmouth, Lebanon, NH, United States.
+(5)The Dartmouth Institute for Health Policy and Clinical Practice, Geisel 
+School of Medicine at Dartmouth, Lebanon, NH, United States.
+
+What is the relationship between mortality and satellite images as elucidated 
+through the use of Convolutional Neural Networks? Background: Following a 
+century of increase, life expectancy in the United States has stagnated and 
+begun to decline in recent decades. Using satellite images and street view 
+images, prior work has demonstrated associations of the built environment with 
+income, education, access to care, and health factors such as obesity. However, 
+assessment of learned image feature relationships with variation in crude 
+mortality rate across the United States has been lacking. Objective: We sought 
+to investigate if county-level mortality rates in the U.S. could be predicted 
+from satellite images. Methods: Satellite images of neighborhoods surrounding 
+schools were extracted with the Google Static Maps application programming 
+interface for 430 counties representing ~68.9% of the US population. A 
+convolutional neural network was trained using crude mortality rates for each 
+county in 2015 to predict mortality. Learned image features were interpreted 
+using Shapley Additive Feature Explanations, clustered, and compared to 
+mortality and its associated covariate predictors. Results: Predicted mortality 
+from satellite images in a held-out test set of counties was strongly correlated 
+to the true crude mortality rate (Pearson r = 0.72). Direct prediction of 
+mortality using a deep learning model across a cross-section of 430 U.S. 
+counties identified key features in the environment (e.g., sidewalks, driveways, 
+and hiking trails) associated with lower mortality. Learned image features were 
+clustered, and we identified 10 clusters that were associated with education, 
+income, geographical region, race, and age. Conclusions: The application of deep 
+learning techniques to remotely-sensed features of the built environment can 
+serve as a useful predictor of mortality in the United States. Although we 
+identified features that were largely associated with demographic information, 
+future modeling approaches that directly identify image features associated with 
+health-related outcomes have the potential to inform targeted public health 
+interventions.
+
+Copyright © 2021 Levy, Lebeaux, Hoen, Christensen, Vaickus and MacKenzie.
+
+DOI: 10.3389/fpubh.2021.766707
+PMCID: PMC8602058
+PMID: 34805078 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+767. SSM Popul Health. 2021 Nov 4;16:100954. doi: 10.1016/j.ssmph.2021.100954. 
+eCollection 2021 Dec.
+
+The impact of an unequal distribution of education on inequalities in life 
+expectancy.
+
+Danler C(1), Pfaff K(2).
+
+Author information:
+(1)Department of Socioeconomics, Vienna University of Economics and Business, 
+Welthandelsplatz 1, 1020, Wien, Austria.
+(2)Department of Socioeconomics, Vienna University of Economics and Business, 
+D4.3.026, Welthandelsplatz 1, 1020, Wien, Austria.
+
+Prior research has found socio-economic determinants such as education to affect 
+health outcomes. Yet, education is not distributed equally among the population. 
+This article attempts to quantify the impact of unequal distribution of 
+education on inequalities in life expectancy. We calculate a Gini coefficient of 
+longevity from the life tables provided by the Human Mortality Database and a 
+Gini coefficient of education using data on educational attainment from Barro 
+and Lee (2013). We estimate linear regression models to examine the relationship 
+between inequality in education and inequality in life expectancy at the country 
+level for up to 31 European countries between 1970 and 2010. Results provide 
+empirical evidence for a statistically significant positive association between 
+educational inequality and inequalities of longevity. Confounding factors 
+reflecting individual health behaviour such as cigarette or alcohol consumption 
+do not exert a separate statistically significant effect on inequality in life 
+expectancy. Findings are robust to alternative calculation of key variables, 
+dropping a potential outlier, and an alternative estimation approach. These 
+findings suggest that not only education, but also equality in education is a 
+crucial factor for health outcomes. Continuing efforts should be directed 
+towards the reduction of educational inequality in order to reduce inequality in 
+longevity within a country.
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.ssmph.2021.100954
+PMCID: PMC8581344
+PMID: 34805476
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+declare.
+
+
+768. J Interv Med. 2019 Oct 23;2(4):150-153. doi: 10.1016/j.jimed.2019.10.002. 
+eCollection 2019 Nov.
+
+Thoracic endovascular aortic repair with left subclavian artery reconstruction 
+for blunt traumatic aortic injury in elderly patients.
+
+Zhang L(1), Wu H(1), Li X(1), Lv K(1), Song H(1), Zeng C(1), Liu J(2).
+
+Author information:
+(1)Department of Vascular Surgery, Dazhou Central Hospital, Dazhou, 635000, PR 
+China.
+(2)Department of Vascular Surgery, The First Affiliated Hospital of Xi'an 
+Jiaotong University, Xi'an, 710000, PR China.
+
+Erratum in
+    J Interv Med. 2021 Feb 11;4(1):54-55.
+
+INTRODUCTION: Blunt thoracic aortic injury (BTAI) is rare in elderly patients. 
+As the population ages and life expectancy increases, the frequency of this 
+injury will increase, while the treatment and outcomes remain unclear.
+METHODS: We retrospectively analyzed the collected data of patients >60 years 
+old with BTAI to investigate the mechanism of trauma; time interval from injury 
+to diagnosis; type and timing of surgical intervention; aortic arch pattern; 
+choice of left subclavian artery reconstruction; endograft to treat BTAI; length 
+of the endovascular procedure; endoleaks; complications including stroke, 
+paraplegia, and renal failure; length of hospital stay (LOS) and intensive care 
+unit stay (L.ICUS); and 30-day mortality.
+RESULTS: Five elderly trauma patients were found to have BTAI. Four (80%) were 
+males, the cohort mean age was 68 years, the major mechanism of trauma was fall 
+injury, and the associated injury was thoracic trauma. All patients were 
+transferred to our hospital, and emergency computed tomography angiography 
+showed BTAI in each patient. The average time interval from injury to diagnosis 
+was 2.7 days. Two patients suddenly showed signs of instability in their vital 
+signs and underwent immediate endovascular repair, while 3 patients underwent 
+delayed endovascular repair. The injury site was located in the aortic isthmus 
+just distal to the origin of the left subclavian artery; the aortic arch pattern 
+was II (80.0%) in 4 cases and III in 1 case (20.0%). The choice of left 
+subclavian artery reconstruction included chimney, double chimney, 
+prefenestration, and chimney combined with in situ fenestration. Endografts to 
+treat BTAI included the Ankura (Lifetech Scientific, Shenzhen, China) and the 
+C-TAG (W.L. Gore & Associates, Flagstaff, AZ USA).The length of the endovascular 
+procedure was 75.4 min; there were no endoleaks and no complications including 
+stroke, paraplegia, or renal failure. The average LOS was 25 days, and the 
+average L.ICUS of 2 patients was 15 days, with no 30-day mortality.
+CONCLUSION: Elderly patients with fall injury should promptly exclude BTAI. 
+Thoracic endovascular aortic repair (TEVAR) with a left subclavian artery 
+reconstruction technique provided good results without procedure-related or 
+neurological complications. Because of the low incidence of this type of injury, 
+we are unable to provide any evidence to guide the treatment option for this 
+life-threatening condition.
+
+© 2019 Shanghai Journal of Interventional Medicine Press. Production and hosting 
+by Elsevier B.V. on behalf of KeAi.
+
+DOI: 10.1016/j.jimed.2019.10.002
+PMCID: PMC8562287
+PMID: 34805892
+
+Conflict of interest statement: None.
+
+
+769. Scand J Work Environ Health. 2022 Mar 1;48(2):158-168. doi:
+10.5271/sjweh.4001.  Epub 2021 Nov 22.
+
+Global, regional and national burden of disease attributable to 19 selected 
+occupational risk factors for 183 countries, 2000-2016: A systematic analysis 
+from the WHO/ILO Joint Estimates of the Work-related Burden of Disease and 
+Injury.
+
+Pega F(1), Hamzaoui H, Náfrádi B, Momen NC.
+
+Author information:
+(1)Department of Environment, Climate Change and Health, World Health 
+Organization, Avenue Appia 20, 1211 Geneva 27, Switzerland. pegaf@who.int.
+
+OBJECTIVES: We provide a brief introduction to the objectives, data, methods and 
+results of the World Health Organization (WHO)/International Labor Organization 
+(ILO) Joint Estimates of the Work-related Burden of Disease and Injury (WHO/ILO 
+Joint Estimates), which estimated the burden attributable to 19 selected 
+occupational risk factors.
+METHODS: The WHO/ILO Joint Estimates were produced within the global Comparative 
+Risk Assessment framework, which attributes the burden of one specific health 
+outcome (ie, disease/injury) to a specific occupational risk factor. For 39 
+established occupational risk factor-health outcome pairs, estimates are 
+produced using population attributable fractions (PAF) from recent burden of 
+disease estimates. For two additional pairs, PAF are calculated from new 
+databases of exposure and risk ratios produced in WHO/ILO systematic reviews. 
+Attributable disease burdens were estimated by applying the PAF to total disease 
+burdens.
+RESULTS: Globally in 2016, it is estimated that 1.88 [95% uncertainty range (UR) 
+1.84-1.92] million deaths and 89.72 (95% UR 88.61-90.83) million 
+disability-adjusted life years were attributable to the 19 selected occupational 
+risk factors and their health outcomes. A disproportionately large work-related 
+burden of disease is observed in the WHO African Region (for disability-adjusted 
+life years), South-East Asia Region, and Western Pacific Region (for deaths), 
+males and older age groups.
+CONCLUSIONS: The WHO/ILO Joint Estimates can be used for global monitoring of 
+exposure to occupational risk factors and work-related burden of disease and to 
+identify, plan, cost, implement and evaluate policies, programs and actions to 
+prevent exposure to occupational risk factors and their associated burden.
+
+DOI: 10.5271/sjweh.4001
+PMCID: PMC9045235
+PMID: 34806754 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors declare no conflicts of interest.
+
+
+770. Diabet Med. 2022 Mar;39(3):e14747. doi: 10.1111/dme.14747. Epub 2021 Nov 27.
+
+Cost-effectiveness of professional-mode flash glucose monitoring in general 
+practice among adults with type 2 diabetes: Evidence from the GP-OSMOTIC trial.
+
+Hua X(1), Catchpool M(1), Clarke P(1)(2), Blackberry I(3), Chiang J(4)(5), 
+Holmes-Truscott E(6)(7), Jenkins A(8), Khunti K(9), O'Neal D(10), Speight 
+J(6)(7), Furler J(4), Manski-Nankervis JA(4), Dalziel K(1); GP-OSMOTIC Study 
+Group.
+
+Collaborators: Best J, Liew D, Kennedy M, Audehm R, Thuraisingam S, De La Rue K, 
+Ginnivan L, Hannam R, Clarke M, Lake A, Januszewski A.
+
+Author information:
+(1)Centre for Health Policy, Melbourne School of Population and Global Health, 
+The University of Melbourne, Parkville, Victoria, Australia.
+(2)Health Economics Research Centre, Nuffield Department of Population Health, 
+University of Oxford, Oxford, UK.
+(3)John Richards Centre for Rural Ageing Research, La Trobe Rural Health School, 
+La Trobe University, Wodonga, Victoria, Australia.
+(4)Department of General Practice, University of Melbourne, Parkville, Victoria, 
+Australia.
+(5)Westmead Applied Research Centre, University of Sydney, Sydney, New South 
+Wales, Australia.
+(6)School of Psychology, Deakin University, Geelong, Victoria, Australia.
+(7)Australian Centre for Behavioural Research in Diabetes, Diabetes Victoria, 
+Melbourne, Victoria, Australia.
+(8)National Health and Medical Research Council Clinical Trials Centre, 
+University of Sydney, Sydney, New South Wales, Australia.
+(9)Diabetes Research Centre, University of Leicester, Leicester General 
+Hospital, Leicester, UK.
+(10)Department of Medicine, University of Melbourne, Parkville, Victoria, 
+Australia.
+
+AIM: To assess the cost-effectiveness of professional-mode flash glucose 
+monitoring in adults with type 2 diabetes in general practice compared with 
+usual clinical care.
+METHODS: An economic evaluation was conducted as a component of the GP-OSMOTIC 
+trial, a pragmatic multicentre 12-month randomised controlled trial enrolling 
+299 adults with type 2 diabetes in Victoria, Australia. The economic evaluation 
+was conducted from an Australian healthcare sector perspective with a lifetime 
+horizon. Health-related quality of life (EQ-5D) and total healthcare costs were 
+compared between the intervention and the usual care group within the trial 
+period. The 'UKPDS Outcomes Model 2' was used to simulate post-trial lifetime 
+costs, life expectancy and quality-adjusted life years (QALYs).
+RESULTS: No significant difference in health-related quality of life and costs 
+was found between the two groups within the trial period. Professional-mode 
+flash glucose monitoring yielded greater QALYs (0.03 [95% CI: 0.02, 0.04]) and a 
+higher cost (A$3807 [95% CI: 3604, 4007]) compared with usual clinical care 
+using a lifetime horizon under the trial-based monitoring frequency, considered 
+not cost-effective (incremental cost-effectiveness ratio = A$120,228). The 
+intervention becomes cost-effective if sensor price is reduced to lower than 
+50%, or monitoring frequency is decreased to once per year while maintaining the 
+same treatment effect on HbA1c .
+CONCLUSIONS: Including professional-mode flash glucose monitoring every 3 months 
+as part of a management plan for people with type 2 diabetes in general practice 
+is not cost-effective, but could be if the sensor price or monitoring frequency 
+can be reduced.
+
+© 2021 Diabetes UK.
+
+DOI: 10.1111/dme.14747
+PMID: 34806780 [Indexed for MEDLINE]
+
+
+771. J Med Internet Res. 2021 Nov 19;23(11):e29749. doi: 10.2196/29749.
+
+The Role of Machine Learning in Diagnosing Bipolar Disorder: Scoping Review.
+
+Jan Z(1), Ai-Ansari N(2), Mousa O(2), Abd-Alrazaq A(2), Ahmed A(2)(3), Alam 
+T(2), Househ M(2).
+
+Author information:
+(1)College of Health and Life Sciences, Hamad Bin Khalifa University, Qatar 
+Foundation, Education City, Doha, Qatar.
+(2)Division of Information and Computing Technology, College of Science and 
+Engineering, Hamad Bin Khalifa University, Qatar Foundation, Education City, 
+Doha, Qatar.
+(3)Department of Psychiatry, Weill Cornell Medicine, Education City, Doha, 
+Qatar.
+
+BACKGROUND: Bipolar disorder (BD) is the 10th most common cause of frailty in 
+young individuals and has triggered morbidity and mortality worldwide. Patients 
+with BD have a life expectancy 9 to 17 years lower than that of normal people. 
+BD is a predominant mental disorder, but it can be misdiagnosed as depressive 
+disorder, which leads to difficulties in treating affected patients. 
+Approximately 60% of patients with BD are treated for depression. However, 
+machine learning provides advanced skills and techniques for better diagnosis of 
+BD.
+OBJECTIVE: This review aims to explore the machine learning algorithms used for 
+the detection and diagnosis of bipolar disorder and its subtypes.
+METHODS: The study protocol adopted the PRISMA-ScR (Preferred Reporting Items 
+for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews) 
+guidelines. We explored 3 databases, namely Google Scholar, ScienceDirect, and 
+PubMed. To enhance the search, we performed backward screening of all the 
+references of the included studies. Based on the predefined selection criteria, 
+2 levels of screening were performed: title and abstract review, and full review 
+of the articles that met the inclusion criteria. Data extraction was performed 
+independently by all investigators. To synthesize the extracted data, a 
+narrative synthesis approach was followed.
+RESULTS: We retrieved 573 potential articles were from the 3 databases. After 
+preprocessing and screening, only 33 articles that met our inclusion criteria 
+were identified. The most commonly used data belonged to the clinical category 
+(19, 58%). We identified different machine learning models used in the selected 
+studies, including classification models (18, 55%), regression models (5, 16%), 
+model-based clustering methods (2, 6%), natural language processing (1, 3%), 
+clustering algorithms (1, 3%), and deep learning-based models (3, 9%). Magnetic 
+resonance imaging data were most commonly used for classifying bipolar patients 
+compared to other groups (11, 34%), whereas microarray expression data sets and 
+genomic data were the least commonly used. The maximum ratio of accuracy was 
+98%, whereas the minimum accuracy range was 64%.
+CONCLUSIONS: This scoping review provides an overview of recent studies based on 
+machine learning models used to diagnose patients with BD regardless of their 
+demographics or if they were compared to patients with psychiatric diagnoses. 
+Further research can be conducted to provide clinical decision support in the 
+health industry.
+
+©Zainab Jan, Noor AI-Ansari, Osama Mousa, Alaa Abd-alrazaq, Arfan Ahmed, Tanvir 
+Alam, Mowafa Househ. Originally published in the Journal of Medical Internet 
+Research (https://www.jmir.org), 19.11.2021.
+
+DOI: 10.2196/29749
+PMCID: PMC8663682
+PMID: 34806996 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: None declared.
+
+
+772. Genet Mol Biol. 2021 Nov 19;44(4):e20200463. doi: 
+10.1590/1678-4685-GMB-2020-0463. eCollection 2021.
+
+Overexpression of RAPGEF3 enhances the therapeutic effect of dezocine in 
+treatment of neuropathic pain.
+
+Liu X(1), Song L(1), Ma X(1), Liu Y(1), Huang H(1), Xu Y(1), Yan W(1).
+
+Author information:
+(1)The Affiliated Hospital of Qingdao University, Department of Anesthesiology, 
+Qingdao, Shandong, China.
+
+Pain is a significant problem worldwide that affects the quality of life of 
+patients. Dezocine is a non-addictive analgesic drug with kappa-opioid 
+antagonist activity and has been successfully used to alleviate of postoperative 
+pain. In addition, dezocine has an analgesic effect similar to that of morphine, 
+alleviating moderate to severe pain. Rap guanine nucleotide exchange factor 3 
+(RAPGEF3) is a guanine nucleotide exchange factor for GTPases Rap1 and Rap2, 
+which could enhance the activity of Rap1 to promote cell adhesion and axon 
+regeneration, as well as promote neurite extension by interacting with nerve 
+growth factors. Here, we first observed that overexpression of RAPGEF3 increased 
+cell viability, as shown by a CCK-8 assay, and recovered brain function in rats. 
+The expression of inflammation-related factors at the mRNA level was detected 
+using qPCR, and the concentration of these factors in a cultured cell medium and 
+rat serum samples were decreased as shown by ELISA after RAPGEF3 overexpression. 
+Through western blotting, we further found that pro-inflammatory proteins were 
+decreased, and these effects might be mediated by inhibition of the Ras/p-38 
+MAPK signaling pathway. Taken together, we speculated that RAPGEF3overexpression 
+enhances the therapeutic effect of dezocine on neuropathic pain by inhibiting 
+the inflammatory response through inhibition of the Ras/p-38 MAPK signaling 
+pathway.
+
+DOI: 10.1590/1678-4685-GMB-2020-0463
+PMCID: PMC8607529
+PMID: 34807222
+
+Conflict of interest statement: Conflict of Interest: The authors declare that 
+there is no conflict of interest that could be perceived as prejudicial to the 
+impartiality of the reported research.
+
+
+773. JAMA Intern Med. 2022 Jan 1;182(1):33-41. doi:
+10.1001/jamainternmed.2021.6745.
+
+Time to Benefit of Bisphosphonate Therapy for the Prevention of Fractures Among 
+Postmenopausal Women With Osteoporosis: A Meta-analysis of Randomized Clinical 
+Trials.
+
+Deardorff WJ(1)(2), Cenzer I(1)(2), Nguyen B(1)(2), Lee SJ(1)(2).
+
+Author information:
+(1)Division of Geriatrics, Department of Medicine, University of California, San 
+Francisco.
+(2)Geriatrics, Palliative and Extended Care Service Line, San Francisco Veterans 
+Affairs Health Care System, San Francisco, California.
+
+IMPORTANCE: The clinical decision to initiate bisphosphonate therapy for the 
+treatment of osteoporosis requires balancing shorter-term harms and burdens (eg, 
+gastroesophageal irritation or severe musculoskeletal pain) with longer-term 
+benefits in reducing potential fractures.
+OBJECTIVE: To assess the time to benefit (TTB) of bisphosphonate therapy for the 
+prevention of nonvertebral and other fractures among postmenopausal women with 
+osteoporosis.
+DATA SOURCES: Randomized clinical trials (RCTs) were identified from systematic 
+reviews commissioned by the US Preventive Services Task Force (1 review), the 
+Agency for Healthcare Research and Quality (1 review), the Cochrane Library (2 
+reviews), and the Endocrine Society (1 review).
+STUDY SELECTION: Studies selected were RCTs involving postmenopausal women with 
+a diagnosis of osteoporosis based on existing vertebral fractures or bone 
+mineral density T scores of -2.5 or lower. The selection process was focused on 
+studies of alendronate, risedronate, and zoledronic acid because they are 
+guideline-recommended first-line agents for reducing nonvertebral fractures. 
+Studies were excluded if they did not focus on women with a primary diagnosis of 
+osteoporosis, had no placebo arm, or had a lack of data on time to fracture.
+DATA EXTRACTION AND SYNTHESIS: Random-effects Weibull survival curves were 
+fitted and Markov chain Monte Carlo methods were used to estimate the absolute 
+risk reduction (ARR) and TTB for each study. These estimates were pooled using a 
+random-effects meta-analysis model.
+MAIN OUTCOMES AND MEASURES: The primary outcome was the time to 3 different ARR 
+thresholds (0.002, 0.005, and 0.010) for the first nonvertebral fracture. 
+Secondary outcomes included the time to 4 ARR thresholds (0.001, 0.002, 0.005, 
+and 0.010) for hip fracture, any clinical fracture, and clinical vertebral 
+fracture.
+RESULTS: Of 67 full-text articles identified, 10 RCTs comprising 23 384 
+postmenopausal women with osteoporosis were included either as the original RCT 
+or part of subsequently published pooled analyses. Among the studies, the number 
+of participants ranged from 994 to 7765, with mean (SD) age ranging from 63 (7) 
+years to 74 (3) years and follow-up duration ranging from 12 to 48 months. The 
+pooled meta-analysis found that 12.4 months (95% CI, 6.3-18.4 months) were 
+needed to avoid 1 nonvertebral fracture per 100 postmenopausal women receiving 
+bisphosphonate therapy at an ARR of 0.010. To prevent 1 hip fracture, 200 
+postmenopausal women with osteoporosis would need to receive bisphosphonate 
+therapy for 20.3 months (95% CI, 11.0-29.7 months) at an ARR of 0.005. In 
+addition, 200 postmenopausal women with osteoporosis would need to receive 
+bisphosphonate therapy for 12.1 months (95% CI, 6.4-17.8 months) to avoid 1 
+clinical vertebral fracture at an ARR of 0.005.
+CONCLUSIONS AND RELEVANCE: This meta-analysis found that the TTB of 
+bisphosphonate therapy was 12.4 months to prevent 1 nonvertebral fracture per 
+100 postmenopausal women with osteoporosis. These results suggest that 
+bisphosphonate therapy is most likely to benefit postmenopausal women with 
+osteoporosis who have a life expectancy greater than 12.4 months.
+
+DOI: 10.1001/jamainternmed.2021.6745
+PMCID: PMC8609461
+PMID: 34807231 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: None reported.
+
+
+774. Adv Ther. 2022 Jan;39(1):562-582. doi: 10.1007/s12325-021-01982-6. Epub 2021
+Nov  22.
+
+Cost-Effectiveness of Combination of Baricitinib and Remdesivir in Hospitalized 
+Patients with COVID-19 in the United States: A Modelling Study.
+
+Kelton K(1), Klein T(1), Murphy D(1), Belger M(2), Hille E(1), McCollam PL(2), 
+Spiro T(2), Burge R(3)(4).
+
+Author information:
+(1)Medical Decision Modeling Inc., Indianapolis, IN, USA.
+(2)Eli Lilly and Company, 893 S. Delaware Street, Indianapolis, IN, 46225, USA.
+(3)Eli Lilly and Company, 893 S. Delaware Street, Indianapolis, IN, 46225, USA. 
+rburge@lilly.com.
+(4)University of Cincinnati, Cincinnati, OH, USA. rburge@lilly.com.
+
+INTRODUCTION: Baricitinib-remdesivir (BARI-REM) combination is superior to 
+remdesivir (REM) in reducing recovery time and accelerating clinical improvement 
+among hospitalized patients with coronavirus disease 2019 (COVID-19), 
+specifically those receiving high-flow oxygen/noninvasive ventilation. Here we 
+assessed the cost-effectiveness of BARI-REM versus REM in hospitalized patients 
+with COVID-19 in the USA.
+METHODS: A three-state model was developed addressing costs and patient utility 
+associated with COVID-19 hospitalization, immediate post hospital care, and 
+subsequent lifetime medical care. Analysis was performed from the perspective of 
+a payer and a hospital. Both perspectives evaluated two subgroups: all patients 
+and patients who required oxygen. The primary measures of benefit in the model 
+were patient quality-adjusted life years (QALYs) accrued during and after 
+hospitalization, cost per life years gained, cost per death avoided, and cost 
+per use of mechanical ventilation avoided.
+RESULTS: In the base-case payer perspective with a lifetime horizon, treatment 
+with BARI-REM versus REM resulted in an incremental total cost of $7962, a gain 
+of 0.446 life years and gain of 0.3565 QALYs over REM. The incremental 
+cost-effectiveness ratios of using BARI-REM were estimated as $22,334 per QALY 
+and $17,858 per life year. The base-case and sensitivity analyses showed that 
+the total incremental cost per QALY falls within the reduced willingness-to-pay 
+threshold of $50,000/QALY applied under health emergencies. In all hospitalized 
+patients, treatment with BARI-REM versus REM reduced total hospital expenditures 
+per patient by $1778 and total reimbursement payments by $1526, resulting in a 
+$252 reduction in net costs per patient; it also resulted in a net gain of 
+0.0018 QALYs and increased survival of COVID-19 hospitalizations by 2.7%.
+CONCLUSION: Our study showed that BARI-REM is cost-effective compared to using 
+REM for hospitalized patients with COVID-19. The base-case results of this 
+cost-effectiveness model were most sensitive to average annual medical costs for 
+recovered patients.
+
+© 2021. The Author(s).
+
+DOI: 10.1007/s12325-021-01982-6
+PMCID: PMC8606629
+PMID: 34807369 [Indexed for MEDLINE]
+
+
+775. Zhonghua Yi Xue Za Zhi. 2021 Nov 23;101(43):3525-3527. doi: 
+10.3760/cma.j.cn112137-20210711-01546.
+
+[Current status and thoughts of non-surgical treatment of knee osteoarthritis].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Jin T(1), Cheng ZX(2).
+
+Author information:
+(1)Department of Pain Medicine, Xinhua Hospital Affiliated to Shanghai Jiao Tong 
+University School of Medicine, Shanghai 200092, China.
+(2)Department of Pain Medicine, the Second Affiliated Hospital of Nanjing 
+Medical University, Nanjing 210011, China.
+
+Knee osteoarthritis (KOA) is a worldwide disease, and also the main cause of 
+pain and disability in the motor system. Due to the aging population in China, 
+extension of life expectancy and increased number of obese people, the number of 
+people affected by KOA continues to surge. Neither surgical nor non-surgical 
+treatment can change the disease process, but these interventions can reduce 
+pain and disability. The treatment principle of KOA is to start with 
+non-surgical treatment, which has been considered as the first choice for KOA 
+patients due to its advantages of less complications, minimal invasiveness, and 
+low medical cost. This article describes the non-surgical treatment of KOA, 
+aiming to provide new insights into the clinical treatment of KOA.
+
+Publisher: 
+膝骨关节炎（KOA）是一种全球性疾病，也是运动系统疼痛和残疾的主要原因。由于中国人口普遍老龄化、预期寿命延长和肥胖人数增加，受KOA影响的人数不断增加。手术治疗和非手术治疗都不能改变疾病进程，但这些干预措施可以减轻疼痛和残疾。KOA的治疗原则是从非手术治疗开始，因其并发症少、创伤小、医疗费用低等优点被认为是KOA患者的首选治疗方法。本文对KOA的非手术治疗方面进行了阐述，旨在为临床上KOA的治疗提供思路。.
+
+DOI: 10.3760/cma.j.cn112137-20210711-01546
+PMID: 34808744 [Indexed for MEDLINE]
+
+
+776. Injury. 2022 Feb;53(2):713-718. doi: 10.1016/j.injury.2021.11.012. Epub 2021
+Nov  10.
+
+The economic burden of the postoperative management in surgically treated trauma 
+patients with peri- and/or intra-articular fractures of the lower extremities: A 
+prospective multicenter cohort study.
+
+Kalmet P(1), Andriessen MT(2), Maduro CV(3), van den Boom N(1), Moens-Oyen C(2), 
+Hiligsmann M(4), Janzing H(5), van der Veen A(6), Jaspars C(7), Sintenie JB(8), 
+Seelen H(9), Brink P(1), Poeze M(10), Evers S(11).
+
+Author information:
+(1)Maastricht University Medical Center+, Maastricht, the Netherlands.
+(2)Maastricht University, Maastricht, the Netherlands.
+(3)Maastricht University Medical Center+, Maastricht, the Netherlands; 
+Maastricht University, Maastricht, the Netherlands. Electronic address: 
+cherelle.maduro@mumc.nl.
+(4)Maastricht University, Care and Public Health Research Institute (CAPHRI), 
+Maastricht, the Netherlands.
+(5)Viecuri Medical Center, Venlo, the Netherlands.
+(6)Catharina Hospital, Eindhoven, the Netherlands.
+(7)Maxima Medical Center, Veldhoven, the Netherlands.
+(8)Elkerliek Hospital, Helmond, the Netherlands.
+(9)Maastricht University, Care and Public Health Research Institute (CAPHRI), 
+Maastricht, the Netherlands; Adelante Rehabilitation Center, Hoensbroek, the 
+Netherlands.
+(10)Maastricht University Medical Center+, Maastricht, the Netherlands; Nutrim 
+School for Nutrition, Toxicology and Metabolism, Maastricht University, 
+Maastricht, the Netherlands.
+(11)Maastricht University, Care and Public Health Research Institute (CAPHRI), 
+Maastricht, the Netherlands; Trimbos Institute, Netherlands Institute of Mental 
+Health and Addiction, the Netherlands.
+
+OBJECTIVES: To estimate the economic burden expressed in costs and quality of 
+life of the post-surgical treatment of peri‑ and/or intra-articular fractures in 
+the lower extremity from a societal perspective.
+DESIGN: This is a quantitative study as it aims to find averages and generalize 
+results to wider populations. The design is a cost-of-illness and quality of 
+life study focusing on costs (in euros), Activities of Daily Living (ADL) and 
+Quality of Life (Qol) in patients with peri‑ and/or intra-articular fractures of 
+the lower extremities.
+SETTING: Surgically treated trauma patients with peri‑ and/or intra-articular 
+fractures of the lower extremities during 26 weeks follow-up. Patients were 
+included from 4 hospitals in the Netherlands.
+MAIN OUTCOME MEASURES: Costs, ADL and Quality Adjusted Life Years (QALY).
+METHODS: Cost of illness was estimated through a bottom-up method. The Dutch 
+Eq-5D-5 L questionnaire was used to calculate utilities while Lower Extremity 
+Functional Scale (LEFS) scores were used as a measure of ADL. Non-parametric 
+bootstrapping was used to test for statistical differences in costs. Subgroup 
+analyses were performed to determine the influence of work status and further 
+sensitivity analyses were performed to test the robustness of the results.
+RESULTS: Total average societal costs were € 9836.96 over six months. 
+Unexpectedly, total societal and healthcare costs were lower for patients with a 
+paid job relative to patients without. Sensitivity analyses showed that our 
+choice of a societal perspective and the EuroQol as our primary utility 
+measurement tool had a significant effect on the outcomes. The ADL at baseline 
+was respectively; 10.4 and at 26 weeks post-surgery treatment 49.5. The QoL was 
+at baseline respectively; 0.3 and at 26 weeks post-surgery treatment 0.7. These 
+findings are indicative of a significantly improved ADL and QoL (p ≤ 0.05) over 
+time.
+CONCLUSIONS: This study reveal a substantial economic burden in monetary terms 
+and effect on QoL of patients with peri‑ and/or intra-articular fractures of the 
+lower extremities during 26 weeks follow-up.
+REGISTRATION: This study was registered in the Dutch Trial Register (NTR6077). 
+Date of registration: 01-09-2016.
+
+Copyright © 2021 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.injury.2021.11.012
+PMID: 34809922 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest There are no 
+conflicts of interest in the materials or subject matter dealt with the 
+manuscript.
+
+
+777. Neurologia (Engl Ed). 2022 Nov-Dec;37(9):781-793. doi: 
+10.1016/j.nrleng.2019.07.009. Epub 2021 Nov 19.
+
+The effects of altered neurogenic microRNA levels and their involvement in the 
+aggressiveness of periventricular glioblastoma.
+
+Reséndiz-Castillo LJ(1), Minjarez B(2), Reza-Zaldívar EE(1), Hernández-Sapiéns 
+MA(1), Gutiérrez-Mercado YK(1), Canales-Aguirre AA(3).
+
+Author information:
+(1)Biotecnología Médica y Farmacéutica, Centro de Investigación y Asistencia en 
+Tecnología y Diseño del Estado de Jalisco, Guadalajara, Jalisco, Mexico.
+(2)Centro Universitario de Ciencias Biológicas y Agropecuarias (CUCBA), 
+Universidad de Guadalajara, Zapopan, Jalisco, Mexico.
+(3)Biotecnología Médica y Farmacéutica, Centro de Investigación y Asistencia en 
+Tecnología y Diseño del Estado de Jalisco, Guadalajara, Jalisco, Mexico; Unidad 
+de Evaluación Preclínica, Centro de Investigación y Asistencia en Tecnología y 
+Diseño del Estado de Jalisco, Guadalajara, Jalisco, Mexico. Electronic address: 
+acanales@ciatej.mx.
+
+INTRODUCTION: Glioblastoma multiforme is the most common primary brain tumour, 
+with the least favourable prognosis. Despite numerous studies and medical 
+advances, it continues to be lethal, with an average life expectancy of 15 
+months after chemo-radiotherapy.
+DEVELOPMENT: Recent research has addressed several factors associated with the 
+diagnosis and prognosis of glioblastoma; one significant factor is tumour 
+localisation, particularly the subventricular zone, which represents one of the 
+most active neurogenic niches of the adult human brain. Glioblastomas in this 
+area are generally more aggressive, resulting in unfavourable prognosis and a 
+shorter life expectancy. Currently, the research into microRNAs (miRNA) has 
+intensified, revealing different expression patterns under physiological and 
+pathophysiological conditions. It has been reported that the expression levels 
+of certain miRNAs, mainly those related to neurogenic processes, are 
+dysregulated in oncogenic events, thus favouring gliomagenesis and greater 
+tumour aggressiveness. This review discusses some of the most important miRNAs 
+involved in subventricular neurogenic processes and their association with 
+glioblastoma aggressiveness.
+CONCLUSIONS: MiRNA regulation and function play an important role in the 
+development and progression of glioblastoma; understanding the alterations of 
+certain miRNAs involved in both differentiation and neural and glial maturation 
+could help us to better understand the malignant characteristics of 
+glioblastoma.
+
+Copyright © 2019 Sociedad Española de Neurología. Published by Elsevier España, 
+S.L.U. All rights reserved.
+
+DOI: 10.1016/j.nrleng.2019.07.009
+PMID: 34810139 [Indexed for MEDLINE]
+
+
+778. BMJ Open. 2021 Nov 22;11(11):e048524. doi: 10.1136/bmjopen-2020-048524.
+
+Community Ageing Research 75+ (CARE75+) REMOTE study: a remote model of 
+recruitment and assessment of the health, well-being and social circumstances of 
+older people.
+
+Brown L(1), Heaven A(2), Quinn C(3), Goodwin V(4), Chew-Graham C(5), Mahmood 
+F(2), Hallas S(2), Jacob I(2), Brundle C(2), Best K(6), Daffu-O'Reilly A(7), 
+Spilsbury K(7), Young TA(8), Hawkins R(6), Hanratty B(9), Teale E(6), Clegg 
+A(6).
+
+Author information:
+(1)Academic Unit for Ageing and Stroke Research, Bradford Institute for Health 
+Research, Bradford, UK lesley.brown@bthft.nhs.uk.
+(2)Academic Unit for Ageing and Stroke Research, Bradford Institute for Health 
+Research, Bradford, UK.
+(3)Centre for Applied Dementia Studies, Faculty of Health Studies, University of 
+Bradford, Bradford, UK.
+(4)College of Medicine and Health, University of Exeter, Exeter, UK.
+(5)School of Medicine, University of Keele, Keele, UK.
+(6)Academic Unit for Ageing and Stroke Research, University of Leeds, Faculty of 
+Medicine and Health, Leeds, UK.
+(7)School of Healthcare, Faculty of Medicine and Health, University of Leeds, 
+Leeds, UK.
+(8)School of Health and Related Research (ScHARR), The University of Sheffield, 
+Sheffield, UK.
+(9)Population Health Sciences Institute, Newcastle University, Newcastle upon 
+Tyne, UK.
+
+INTRODUCTION: The Community Ageing Research 75+ (CARE75+) study is a 
+longitudinal cohort study collecting extensive health and social data, with a 
+focus on frailty, independence and quality of life in older age. CARE75+ was the 
+first international experimental frailty research cohort designed using trial 
+within cohorts (TwiCs) methodology, aligning epidemiological research with 
+clinical trial evaluation of interventions to improve the health and well-being 
+of older people. CARE75+ REMOTE is an extension of CARE75+ using a remote model 
+that does not require face-to-face interactions for data collection in the 
+current circumstances of a global pandemic and will provide an efficient, 
+sustainable data collection model.
+METHODS AND ANALYSIS: Prospective cohort study using TwiCs. One thousand 
+community-dwelling older people (≥75 years) will be recruited from UK general 
+practices by telephone. Exclusions include: nursing home/care home residents; 
+those with an estimated life expectancy of 3 months or less; and people 
+receiving palliative care.
+DATA COLLECTION: Assessments will be conducted by telephone, web-submission or 
+postal questionnaire: baseline, 6 months, 12 months, 18 months, 24 months, 30 
+months and 36 months. Measures include activities of daily living, mood, 
+health-related quality of life, comorbidities, medications, frailty, informal 
+care, healthcare and social care service use. Consent will be sought for data 
+linkage and invitations to additional studies (sub-studies).
+ETHICS AND DISSEMINATION: CARE75+ was approved by the National Research Ethics 
+Service (NRES) Committee Yorkshire and the Humber-Bradford Leeds 10 October 2014 
+(14/YH/1120). CARE75+ REMOTE (amendment 13) was approved on the 18th November 
+2020. Consent is sought if an individual is willing to participate and has 
+capacity to provide informed consent. Consultee assent is sought if an 
+individual lacks capacity. Results will be disseminated in peer-reviewed 
+scientific journals and conferences. Results will be summarised and disseminated 
+to study participants via newsletters, local engagement events and on a bespoke 
+website.
+TRIAL REGISTRATION NUMBER: ISRCTN16588124.
+
+© Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY. Published 
+by BMJ.
+
+DOI: 10.1136/bmjopen-2020-048524
+PMCID: PMC8609936
+PMID: 34810183 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+779. Health Technol Assess. 2021 Nov;25(66):1-126. doi: 10.3310/hta25660.
+
+Unicompartmental compared with total knee replacement for patients with 
+multimorbidities: a cohort study using propensity score stratification and 
+inverse probability weighting.
+
+Prats-Uribe A(1), Kolovos S(1), Berencsi K(1), Carr A(1), Judge A(1)(2), Silman 
+A(1), Arden N(1)(3)(4), Petersen I(5), Douglas IJ(6), Wilkinson JM(7)(8), Murray 
+D(1), Valderas JM(9), Beard DJ(1), Lamb SE(1)(10), Ali MS(1)(6), 
+Pinedo-Villanueva R(1), Strauss VY(1), Prieto-Alhambra D(1).
+
+Author information:
+(1)Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal 
+Sciences, Botnar Research Centre, Nuffield Orthopaedic Centre, University of 
+Oxford, Oxford, UK.
+(2)Musculoskeletal Research Unit, Translational Health Sciences, Bristol Medical 
+School, University of Bristol, Southmead Hospital, Bristol, UK.
+(3)Centre for Sport, Exercise and Osteoarthritis Research Versus Arthritis, 
+Botnar Research Centre, Nuffield Orthopaedic Centre, University of Oxford, 
+Oxford, UK.
+(4)Medical Research Council Lifecourse Epidemiological Unit, University of 
+Southampton, Southampton, UK.
+(5)Department of Primary Care and Population Health, University College London, 
+London, UK.
+(6)Department of Non-Communicable Disease Epidemiology, London School of Hygiene 
+and Tropical Medicine, London, UK.
+(7)Department of Oncology and Metabolism, University of Sheffield, Sheffield, 
+UK.
+(8)Research Committee, National Joint Registry for England, Wales, Northern 
+Ireland and the Isle of Man, Hemel Hempstead, UK.
+(9)College of Medicine and Health, University of Exeter, Exeter, UK.
+(10)University of Exeter Medical School, Institute of Health Research, College 
+of Medicine and Health, Exeter, UK.
+
+BACKGROUND: Although routine NHS data potentially include all patients, 
+confounding limits their use for causal inference. Methods to minimise 
+confounding in observational studies of implantable devices are required to 
+enable the evaluation of patients with severe systemic morbidity who are 
+excluded from many randomised controlled trials.
+OBJECTIVES: Stage 1 - replicate the Total or Partial Knee Arthroplasty Trial 
+(TOPKAT), a surgical randomised controlled trial comparing unicompartmental knee 
+replacement with total knee replacement using propensity score and instrumental 
+variable methods. Stage 2 - compare the risk benefits and cost-effectiveness of 
+unicompartmental knee replacement with total knee replacement surgery in 
+patients with severe systemic morbidity who would have been ineligible for 
+TOPKAT using the validated methods from stage 1.
+DESIGN: This was a cohort study.
+SETTING: Data were obtained from the National Joint Registry database and linked 
+to hospital inpatient (Hospital Episode Statistics) and patient-reported outcome 
+data.
+PARTICIPANTS: Stage 1 - people undergoing unicompartmental knee replacement 
+surgery or total knee replacement surgery who met the TOPKAT eligibility 
+criteria. Stage 2 - participants with an American Society of Anesthesiologists 
+grade of ≥ 3.
+INTERVENTION: The patients were exposed to either unicompartmental knee 
+replacement surgery or total knee replacement surgery.
+MAIN OUTCOME MEASURES: The primary outcome measure was the postoperative Oxford 
+Knee Score. The secondary outcome measures were 90-day postoperative 
+complications (venous thromboembolism, myocardial infarction and prosthetic 
+joint infection) and 5-year revision risk and mortality. The main outcome 
+measures for the health economic analysis were health-related quality of life 
+(EuroQol-5 Dimensions) and NHS hospital costs.
+RESULTS: In stage 1, propensity score stratification and inverse probability 
+weighting replicated the results of TOPKAT. Propensity score adjustment, 
+propensity score matching and instrumental variables did not. Stage 2 included 
+2256 unicompartmental knee replacement patients and 57,682 total knee 
+replacement patients who had severe comorbidities, of whom 145 and 23,344 had 
+linked Oxford Knee Scores, respectively. A statistically significant but 
+clinically irrelevant difference favouring unicompartmental knee replacement was 
+observed, with a mean postoperative Oxford Knee Score difference of < 2 points 
+using propensity score stratification; no significant difference was observed 
+using inverse probability weighting. Unicompartmental knee replacement more than 
+halved the risk of venous thromboembolism [relative risk 0.33 (95% confidence 
+interval 0.15 to 0.74) using propensity score stratification; relative risk 0.39 
+(95% confidence interval 0.16 to 0.96) using inverse probability weighting]. 
+Unicompartmental knee replacement was not associated with myocardial infarction 
+or prosthetic joint infection using either method. In the long term, 
+unicompartmental knee replacement had double the revision risk of total knee 
+replacement [hazard ratio 2.70 (95% confidence interval 2.15 to 3.38) using 
+propensity score stratification; hazard ratio 2.60 (95% confidence interval 1.94 
+to 3.47) using inverse probability weighting], but half of the mortality [hazard 
+ratio 0.52 (95% confidence interval 0.36 to 0.74) using propensity score 
+stratification; insignificant effect using inverse probability weighting]. 
+Unicompartmental knee replacement had lower costs and higher quality-adjusted 
+life-year gains than total knee replacement for stage 2 participants.
+LIMITATIONS: Although some propensity score methods successfully replicated 
+TOPKAT, unresolved confounding may have affected stage 2. Missing Oxford Knee 
+Scores may have led to information bias.
+CONCLUSIONS: Propensity score stratification and inverse probability weighting 
+successfully replicated TOPKAT, implying that some (but not all) propensity 
+score methods can be used to evaluate surgical innovations and implantable 
+medical devices using routine NHS data. Unicompartmental knee replacement was 
+safer and more cost-effective than total knee replacement for patients with 
+severe comorbidity and should be considered the first option for suitable 
+patients.
+FUTURE WORK: Further research is required to understand the performance of 
+propensity score methods for evaluating surgical innovations and implantable 
+devices.
+TRIAL REGISTRATION: This trial is registered as EUPAS17435.
+FUNDING: This project was funded by the National Institute for Health Research 
+(NIHR) Health Technology Assessment programme and will be published in full in 
+Health Technology Assessment; Vol. 25, No. 66. See the NIHR Journals Library 
+website for further project information.
+
+Plain Language Summary: We compared the risks and benefits of partial and total 
+knee replacements in NHS patients with a complex medical history who would 
+normally be excluded from randomised trials on this topic. We used information 
+that was collected during hospital appointments for people who had a knee 
+replacement between 2009 and 2016. It is difficult to directly compare the two 
+groups because each individual patient has a different medical history. We 
+tested advanced statistical methods to account for these differences. In stage 
+1, we showed that some of these advanced statistical methods could replicate the 
+results of a recently published surgical trial using routine data from the NHS. 
+We compared patients in the trial with similar patients who were operated on in 
+the NHS. Three of the proposed methods showed results similar to those obtained 
+from the Total or Partial Knee Arthroplasty Trial (TOPKAT). In stage 2, we used 
+the successful methods from stage 1 to study the risks, benefits and costs of 
+partial and total knee replacement surgery in patients with complex medical 
+histories. Two of the statistical methods found that patients who had a partial 
+knee replacement had less self-reported pain and better function after surgery 
+than patients who had a total knee replacement. All three methods found that 
+partial knee replacement was safer, was associated with a lower risk of blood 
+clots (a known complication of knee surgery) and had lower mortality over 5 
+years. However, patients who had a partial knee replacement were twice as likely 
+as those with a total knee replacement to need a second surgery within 5 years. 
+We found that partial knee replacements were less costly to the NHS and were 
+associated with better overall quality of life for patients than total knee 
+replacement.
+
+DOI: 10.3310/hta25660
+PMID: 34812138 [Indexed for MEDLINE]
+
+
+780. Spine (Phila Pa 1976). 2022 Apr 1;47(7):523-530. doi: 
+10.1097/BRS.0000000000004299.
+
+Calculating Ex-ante Utilities From the Modified Japanese Orthopedic Association 
+Score: A Prerequisite for Quantifying the Value of Care for Cervical Myelopathy.
+
+Jiang EX(1), Fisk FE(1), Taliaferro K(1), Pahuta MA(2).
+
+Author information:
+(1)Department of Orthopedic Surgery, Henry Ford Hospital, Detroit, MI.
+(2)Division of Orthopedic Surgery, McMaster University, Hamilton, ON, Canada.
+
+STUDY DESIGN: General population utility valuation study.
+OBJECTIVE: The aim of this study was to develop a technique for calculating 
+utilities from the modified Japanese Orthopedic Association (mJOA) Score.
+SUMMARY OF BACKGROUND DATA: The ability to calculate quality-adjusted life-years 
+(QALYs) for degenerative cervical myelopathy (DCM) would enhance treatment 
+decision making and facilitate economic analysis. QALYs are calculated using 
+utilities.
+METHODS: We recruited a sample of 760 adults from a market research panel. Using 
+an online discrete choice experiment, participants rated eight choice sets based 
+on mJOA health states. A multiattribute utility function was estimated using a 
+mixed multinomial-logit regression model. The sample was partitioned into a 
+training set used for model fitting and validation set used for model 
+evaluation.
+RESULTS: The regression model demonstrated good predictive performance on the 
+validation set with an area under the curve of 0.81 (95% confidence interval: 
+0.80-0.82)). The regression model was used to develop a utility scoring rubric 
+for the mJOA. Regression results revealed that participants did not regard all 
+mJOA domains as equally important. The rank order of importance was (in 
+decreasing order): lower extremity motor function, upper extremity motor 
+function, sphincter dysfunction, upper extremity sensation.
+CONCLUSION: This study provides a simple technique for converting the mJOA score 
+to utilities and quantify the importance of mJOA domains. The ability to 
+evaluate QALYs for DCM will facilitate economic analysis and patient counseling. 
+Clinicians should heed these findings and offer treatments that maximize 
+function in the attributes viewed most important by patients.Level of Evidence: 
+3.
+
+Copyright © 2021 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/BRS.0000000000004299
+PMID: 34812194 [Indexed for MEDLINE]781. Can Urol Assoc J. 2022 Apr;16(4):E197-E204. doi: 10.5489/cuaj.7453.
+
+Trimodal therapy vs. radical cystectomy for muscle-invasive bladder cancer: A 
+Markov microsimulation model.
+
+Magee D(1), Cheung D(1), Hird A(1), Sridhar SS(2), Catton C(3), Chung P(3), 
+Berlin A(3), Warde P(3), Zlotta A(1), Fleshner N(1), Kulkarni GS(1).
+
+Author information:
+(1)Division of Urology, Department of Surgery, University Health Network, 
+University of Toronto, Toronto, ON, Canada.

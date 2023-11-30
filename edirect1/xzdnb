@@ -1,0 +1,1000 @@
+Sopon M(1), Oleksik V(2), Roman M(3), Cofaru N(4), Oleksik M(4), Mohor C(5), 
+Boicean A(6), Fleaca R(3).
+
+Author information:
+(1)Orthopaedic-Traumatology Surgery Department, Sibiu Emergency Clinical 
+Hospital, 550024 Sibiu, Romania.
+(2)Department of Industrial Machinery and Equipments, Lucian Blaga University of 
+Sibiu, 550024 Sibiu, Romania.
+(3)Department of Surgery, Lucian Blaga University of Sibiu, 550024 Sibiu, 
+Romania.
+(4)Department of Industrial Engineering and Management, Lucian Blaga University 
+of Sibiu, 550024 Sibiu, Romania.
+(5)Department of Basic Science, Lucian Blaga University of Sibiu, 550024 Sibiu, 
+Romania.
+(6)Department of Medicine, Lucian Blaga University of Sibiu, 550024 Sibiu, 
+Romania.
+
+BACKGROUND AND OBJECTIVES: Osteoporotic spine fractures represent a significant 
+factor for decreasing quality of life in the elderly female population. 
+Understanding the mechanisms involved in producing these fractures can improve 
+their prevention and treatment. This study presents a biomechanical method to 
+produce a vertebral fracture, conducted on a human spine segment, observing the 
+displacements and strains in the intervertebral disc, endplate, and vertebral 
+body.
+MATERIALS AND METHODS: We performed two tests, one corresponding to an extension 
+loading, and the second to an axial loading.
+RESULTS: The maximum displacement in the target vertebral body presented higher 
+values in the case of the extension as compared to the axial strain where it 
+mainly occurred after the fracture was produced. The strains occurred 
+simultaneously on both discs. In the case of the axial strain, due to the 
+occurrence of the fracture, the maximum value was recorded in the spine body, 
+while in the case of the extensions, it occurred in the neural part of the upper 
+disc. The advantage of this method was that the entire study was an experiment, 
+using optical methods, increasing the precision of the material data input.
+CONCLUSIONS: The research method allowed recording in real time of a larger 
+amount of data from the different components of the spine segment. If there was 
+an extension component of the compression force at the moment of the initial 
+loading, part of this load was absorbed by the posterior column with higher 
+mechanical resistance. After the maximum capacity of the absorption was reached, 
+in both situations the behavior was similar.
+
+DOI: 10.3390/jpm11090907
+PMCID: PMC8469636
+PMID: 34575684
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+45. Int J Mol Sci. 2021 Sep 21;22(18):10150. doi: 10.3390/ijms221810150.
+
+Eosinophils as Drivers of Severe Eosinophilic Asthma: Endotypes or Plasticity?
+
+Van Hulst G(1), Bureau F(1)(2), Desmet CJ(1).
+
+Author information:
+(1)Laboratory of Cellular and Molecular Immunology, B34, GIGA Institute and 
+Faculty of Veterinary Medicine, Liège University, 4000 Liège, Belgium.
+(2)Walloon Excellence in Life Sciences and Biotechnology (Welbio), 1300 Wavres, 
+Belgium.
+
+Asthma is now recognized as a heterogeneous disease, encompassing different 
+phenotypes driven by distinct pathophysiological mechanisms called endotypes. 
+Common phenotypes of asthma, referred to as eosinophilic asthma, are 
+characterized by the presence of eosinophilia. Eosinophils are usually 
+considered invariant, terminally differentiated effector cells and have become a 
+primary therapeutic target in severe eosinophilic asthma (SEA) and other 
+eosinophil-associated diseases (EADs). Biological treatments that target 
+eosinophils reveal an unexpectedly complex role of eosinophils in asthma, 
+including in SEA, suggesting that "not all eosinophils are equal". In this 
+review, we address our current understanding of the role of eosinophils in 
+asthma with regard to asthma phenotypes and endotypes. We further address the 
+possibility that different SEA phenotypes may involve differences in eosinophil 
+biology. We discuss how these differences could arise through eosinophil 
+"endotyping", viz. adaptations of eosinophil function imprinted during their 
+development, or through tissue-induced plasticity, viz. local adaptations of 
+eosinophil function through interaction with their lung tissue niches. In doing 
+so, we also discuss opportunities, technical challenges, and open questions 
+that, if addressed, might provide considerable benefits in guiding the choice of 
+the most efficient precision therapies of SEA and, by extension, other EADs.
+
+DOI: 10.3390/ijms221810150
+PMCID: PMC8467265
+PMID: 34576313 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript, or in the decision to 
+publish the results. C.J.D. received honoraria from GSK Biologicals and 
+consulting fees from AstraZeneca, with no relation to the present work.
+
+
+46. Materials (Basel). 2021 Sep 10;14(18):5224. doi: 10.3390/ma14185224.
+
+Adaptive Finite Element Model for Simulating Crack Growth in the Presence of 
+Holes.
+
+Alshoaibi AM(1), Fageehi YA(1).
+
+Author information:
+(1)Mechanical Engineering Department, Jazan University, P.O. Box 114, Jazan 
+45142, Saudi Arabia.
+
+This study presents a developed finite element code written by Visual Fortran to 
+computationally model fatigue crack growth (FCG) in arbitrary 2D structures with 
+constant amplitude loading, using the linear elastic fracture mechanics (LEFM) 
+concept. Accordingly, optimizing an FCG analysis, it is necessary to describe 
+all the characteristics of the 2D model of the cracked component, including 
+loads, support conditions, and material characteristics. The advancing front 
+method has been used to generate the finite element mesh. The equivalent stress 
+intensity factor was used as the onset criteria of crack propagation, since it 
+is the main significant parameter that must be precisely predicted. As such, a 
+criterion premised on direction (maximum circumferential stress theory) was 
+implemented. After pre-processing, the analysis continues with incremental 
+analysis of the crack growth, which is discretized into short straight segments. 
+The adaptive mesh finite element method was used to perform the stress analysis 
+for each increment. The displacement extrapolation technique was employed at 
+each crack extension increment to compute the SIFs, which are then assessed by 
+the maximum circumferential stress theory to determine the direction of the 
+crack growth and predict the fatigue life as a function of crack length using a 
+modified form of Paris' law. The application examples demonstrate the developed 
+program's capability and performance.
+
+DOI: 10.3390/ma14185224
+PMCID: PMC8472104
+PMID: 34576448
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+47. Materials (Basel). 2021 Sep 14;14(18):5275. doi: 10.3390/ma14185275.
+
+Material Behavior and Fatigue Assessment of Old Steel Bridges of the Spanish 
+Conventional Rail Network.
+
+Presno Vélez Á(1), Bernardo Sánchez A(2), Bruna OA(3), Abella DM(4), de Prado 
+LÁ(2), Fernández MM(2).
+
+Author information:
+(1)Department of Mathematics, University of Oviedo, 33007 Oviedo, Spain.
+(2)Department of Mining Technology, Topography and Structures, University of 
+León, 24071 León, Spain.
+(3)SERS Consultores en Ingeniería y Arquitectura S.A., 50008 Zaragoza, Spain.
+(4)Laboratory Responsible, TAM Group, 33405 Avilés, Spain.
+
+This work presented salient features of the steel behavior of seven metallic 
+bridges close to, or over, 100 years old, among the Spanish conventional rail 
+network as well as the results of a fatigue life expectancy study. A preliminary 
+study of the properties of the constituent materials obtained from the bridges 
+samples was carried out followed by dynamic fatigue tests under service 
+representative loads. Due to the steelmaking techniques in the late 19th and 
+early 20th centuries, disperse fatigue behavior results were obtained. However, 
+the wide safety margins with which these bridges were designed, as well as the 
+mechanical properties of the steel (relatively good mechanical resistance but 
+with low ductility), seem to guarantee a long fatigue life. This estimate 
+decreases sharply with increasing loads.
+
+DOI: 10.3390/ma14185275
+PMCID: PMC8467738
+PMID: 34576499
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+48. Molecules. 2021 Sep 13;26(18):5552. doi: 10.3390/molecules26185552.
+
+Recent Advances in the Application of the Antimicrobial Peptide Nisin in the 
+Inactivation of Spore-Forming Bacteria in Foods.
+
+Anumudu C(1), Hart A(2), Miri T(1), Onyeaka H(1).
+
+Author information:
+(1)School of Chemical Engineering, University of Birmingham, Edgbaston, 
+Birmingham B15 2TT, UK.
+(2)Department of Chemical and Biological Engineering, The University of 
+Sheffield, Sheffield S1 3JD, UK.
+
+Conventional thermal and chemical treatments used in food preservation have come 
+under scrutiny by consumers who demand minimally processed foods free from 
+chemical agents but microbiologically safe. As a result, antimicrobial peptides 
+(AMPs) such as bacteriocins and nisin that are ribosomally synthesised by 
+bacteria, more prominently by the lactic acid bacteria (LAB) have appeared as a 
+potent alternative due to their multiple biological activities. They represent a 
+powerful strategy to prevent the development of spore-forming microorganisms in 
+foods. Unlike thermal methods, they are natural without an adverse impact on 
+food organoleptic and nutritional attributes. AMPs such as nisin and 
+bacteriocins are generally effective in eliminating the vegetative forms of 
+spore-forming bacteria compared to the more resilient spore forms. However, in 
+combination with other non-thermal treatments, such as high pressure, 
+supercritical carbon dioxide, electric pulses, a synergistic effect with AMPs 
+such as nisin exists and has been proven to be effective in the inactivation of 
+microbial spores through the disruption of the spore structure and prevention of 
+spore outgrowth. The control of microbial spores in foods is essential in 
+maintaining food safety and extension of shelf-life. Thus, exploration of the 
+mechanisms of action of AMPs such as nisin is critical for their design and 
+effective application in the food industry. This review harmonises information 
+on the mechanisms of bacteria inactivation from published literature and the 
+utilisation of AMPs in the control of microbial spores in food. It highlights 
+future perspectives in research and application in food processing.
+
+DOI: 10.3390/molecules26185552
+PMCID: PMC8469619
+PMID: 34577022 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors do not have any conflict of interest.
+
+
+49. Molecules. 2021 Sep 17;26(18):5651. doi: 10.3390/molecules26185651.
+
+Anti-Inflammatory Effect of Charantadiol A, Isolated from Wild Bitter Melon 
+Leaf, on Heat-Inactivated Porphyromonas gingivalis-Stimulated THP-1 Monocytes 
+and a Periodontitis Mouse Model.
+
+Tsai TH(1), Chang CI(2), Hung YL(3), Huang WC(3), Chang H(4), Kuo YH(5)(6)(7), 
+Chyuan JH(8), Chuang LT(4), Tsai PJ(3)(9).
+
+Author information:
+(1)Department of Dentistry, Keelung Chang-Gung Memorial Hospital, Keelung 204, 
+Taiwan.
+(2)Department of Biological Science and Technology, National Pingtung University 
+of Science and Technology, Pingtung 912, Taiwan.
+(3)Department of Human Development and Family Studies, National Taiwan Normal 
+University, Taipei 106, Taiwan.
+(4)Department of Biotechnology and Pharmaceutical Technology, Yuanpei University 
+of Medical Technology, Hsinchu 300, Taiwan.
+(5)Department of Chinese Pharmaceutical Sciences and Chinese Medicine Resources, 
+China Medical University, Taichung 404, Taiwan.
+(6)Chinese Medicine Research Center, China Medical University, Taichung 404, 
+Taiwan.
+(7)Department of Biotechnology, Asia University, Taichung 413, Taiwan.
+(8)Hualien District Agricultural Research and Extension Station, Hualien 973, 
+Taiwan.
+(9)Program of Nutrition Science, School of Life Science, National Taiwan Normal 
+University, Taipei 116, Taiwan.
+
+Porphyromonas gingivalis has been identified as one of the major periodontal 
+pathogens. Activity-directed fractionation and purification processes were 
+employed to identify bioactive compounds from bitter melon leaf. Ethanolic 
+extract of bitter melon leaf was separated into five subfractions by open column 
+chromatography. Subfraction-5-3 significantly inhibited P. gingivalis-induced 
+interleukin (IL)-8 and IL-6 productions in human monocytic THP-1 cells and then 
+was subjected to separation and purification by using different chromatographic 
+methods. Consequently, 5β,19-epoxycucurbita-6,23(E),25(26)-triene-3β,19(R)-diol 
+(charantadiol A) was identified and isolated from the subfraction-5-3. 
+Charantadiol A effectively reduced P. gingivalis-induced IL-6 and IL-8 
+productions and triggered receptors expressed on myeloid cells (TREM)-1 mRNA 
+level of THP-1 cells. In a separate study, charantadiol A significantly 
+suppressed P. gingivalis-stimulated IL-6 and tumor necrosis factor-α mRNA levels 
+in gingival tissues of mice, confirming the inhibitory effect against P. 
+gingivalis-induced periodontal inflammation. Thus, charantadiol A is a potential 
+anti-inflammatory agent for modulating P. gingivalis-induced inflammation.
+
+DOI: 10.3390/molecules26185651
+PMCID: PMC8466092
+PMID: 34577123 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+50. Molecules. 2021 Sep 21;26(18):5700. doi: 10.3390/molecules26185700.
+
+Ginger, a Possible Candidate for the Treatment of Dementias?
+
+Schepici G(1), Contestabile V(1), Valeri A(1), Mazzon E(1).
+
+Author information:
+(1)IRCCS Centro Neurolesi "Bonino-Pulejo", Via Provinciale Palermo, Contrada 
+Casazza, 98124 Messina, Italy.
+
+As the human life expectancy increases, age-linked diseases have become more and 
+more frequent. The worldwide increment of dementia cases demands medical 
+solutions, but the current available drugs do not meet all the expectations. 
+Recently the attention of the scientific community was attracted by natural 
+compounds, used in ancient medicine, known for their beneficial effects and high 
+tolerability. This review is focused on Ginger (Zingiber officinale) and explore 
+its properties against Alzheimer's Disease and Vascular Dementia, two of the 
+most common and devastating forms of dementia. This work resumes the beneficial 
+effects of Ginger compounds, tested in computational in vitro and in vivo models 
+of Alzheimer's Disease and Vascular Dementia, along with some human tests. All 
+these evidences suggest a potential role of the compounds of ginger not only in 
+the treatment of the disease, but also in its prevention.
+
+DOI: 10.3390/molecules26185700
+PMCID: PMC8470323
+PMID: 34577171 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+51. Molecules. 2021 Sep 21;26(18):5702. doi: 10.3390/molecules26185702.
+
+Joint Cardioprotective Effect of Vitamin C and Other Antioxidants against 
+Reperfusion Injury in Patients with Acute Myocardial Infarction Undergoing 
+Percutaneous Coronary Intervention.
+
+Rodrigo R(1), Prieto JC(1)(2), Aguayo R(3), Ramos C(2), Puentes Á(3), Gajardo 
+A(2), Panieri E(4), Rojas-Solé C(1), Lillo-Moya J(1), Saso L(4).
+
+Author information:
+(1)Molecular and Clinical Pharmacology Program, Faculty of Medicine, Campus 
+Norte, Institute of Biomedical Sciences, University of Chile, Avda. 
+Independencia 1027, Santiago 8380000, Chile.
+(2)University of Chile Clinical Hospital, Campus Norte, Carlos Lorca Tobar 999, 
+Independencia, Santiago 8380456, Chile.
+(3)Cardiology Unit, Department of Medicine, Occident Division, San Juan de Dios 
+Hospital, Avenida Portales 3239, Santiago 8500000, Chile.
+(4)Department of Physiology and Pharmacology "Vittorio Erspamer", Faculty of 
+Pharmacy and Medicine, Sapienza University, P.le Aldo Moro 5, 00185 Rome, Italy.
+
+Percutaneous coronary intervention (PCI) has long remained the gold standard 
+therapy to restore coronary blood flow after acute myocardial infarction (AMI). 
+However, this procedure leads to the development of increased production of 
+reactive oxygen species (ROS) that can exacerbate the damage caused by AMI, 
+particularly during the reperfusion phase. Numerous attempts based on 
+antioxidant treatments, aimed to reduce the oxidative injury of cardiac tissue, 
+have failed in achieving an effective therapy for these patients. Among these 
+studies, results derived from the use of vitamin C (Vit C) have been 
+inconclusive so far, likely due to suboptimal study designs, misinterpretations, 
+and the erroneous conclusions of clinical trials. Nevertheless, recent clinical 
+trials have shown that the intravenous infusion of Vit C prior to PCI-reduced 
+cardiac injury biomarkers, as well as inflammatory biomarkers and ROS 
+production. In addition, improvements of functional parameters, such as left 
+ventricular ejection fraction (LVEF) and telediastolic left ventricular volume, 
+showed a trend but had an inconclusive association with Vit C. Therefore, it 
+seems reasonable that these beneficial effects could be further enhanced by the 
+association with other antioxidant agents. Indeed, the complexity and the 
+multifactorial nature of the mechanism of injury occurring in AMI demands 
+multitarget agents to reach an enhancement of the expected cardioprotection, a 
+paradigm needing to be demonstrated. The present review provides data supporting 
+the view that an intravenous infusion containing combined safe antioxidants 
+could be a suitable strategy to reduce cardiac injury, thus improving the 
+clinical outcome, life quality, and life expectancy of patients subjected to PCI 
+following AMI.
+
+DOI: 10.3390/molecules26185702
+PMCID: PMC8468345
+PMID: 34577176 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+52. Pharmaceuticals (Basel). 2021 Sep 1;14(9):890. doi: 10.3390/ph14090890.
+
+Metformin a Potential Pharmacological Strategy in Late Onset Alzheimer's Disease 
+Treatment.
+
+Poor SR(1)(2)(3), Ettcheto M(3)(4), Cano A(4)(5)(6)(7), Sanchez-Lopez 
+E(4)(6)(7), Manzine PR(3)(8), Olloquequi J(9), Camins A(3)(4)(5)(9), Javan 
+M(1)(2)(10).
+
+Author information:
+(1)Department of Physiology, Faculty of Medical Sciences, Tarbiat Modares 
+University, Tehran 14117-13116, Iran.
+(2)Institute for Brain and Cognition, Tarbiat Modares University, Tehran 
+14117-13116, Iran.
+(3)Department of Pharmacology, Toxicology and Therapeutic Chemistry, Faculty of 
+Pharmacy and Food Sciences, Institut de Neurociències, University of Barcelona, 
+08028 Barcelona, Spain.
+(4)Biomedical Research Networking Centre in Neurodegenerative Diseases 
+(CIBERNED), 08028 Madrid, Spain.
+(5)Ace Alzheimer Center Barcelona, Universitat Internacional de Catalunya (UIC), 
+08028 Barcelona, Spain.
+(6)Institute of Nanoscience and Nanotechnology (IN2UB), 08028 Barcelona, Spain.
+(7)Department of Pharmacy, Pharmaceutical Technology and Physical Chemistry, 
+Faculty of Pharmacy and Food Sciences, University of Barcelona, 08028 Barcelona, 
+Spain.
+(8)Department of Gerontology, Federal University of São Carlos (UFSCar), São 
+Carlos 13565-905, Brazil.
+(9)Laboratory of Cellular and Molecular Pathology, Institute of Biomedical 
+Sciences, Faculty of Health Sciences, Universidad Autónoma de Chile, Talca 
+3467987, Chile.
+(10)Department of Brain and Cognitive Sciences, Cell Science Research Center, 
+Royan Institute for Stem Cell Biology and Technology, ACECR, Tehran 14117-13116, 
+Iran.
+
+Alzheimer's disease (AD) is one of the most devastating brain disorders. 
+Currently, there are no effective treatments to stop the disease progression and 
+it is becoming a major public health concern. Several risk factors are involved 
+in the progression of AD, modifying neuronal circuits and brain cognition, and 
+eventually leading to neuronal death. Among them, obesity and type 2 diabetes 
+mellitus (T2DM) have attracted increasing attention, since brain insulin 
+resistance can contribute to neurodegeneration. Consequently, AD has been 
+referred to "type 3 diabetes" and antidiabetic medications such as intranasal 
+insulin, glitazones, metformin or liraglutide are being tested as possible 
+alternatives. Metformin, a first line antihyperglycemic medication, is a 
+5'-adenosine monophosphate (AMP)-activated protein kinase (AMPK) activator 
+hypothesized to act as a geroprotective agent. However, studies on its 
+association with age-related cognitive decline have shown controversial results 
+with positive and negative findings. In spite of this, metformin shows positive 
+benefits such as anti-inflammatory effects, accelerated neurogenesis, 
+strengthened memory, and prolonged life expectancy. Moreover, it has been 
+recently demonstrated that metformin enhances synaptophysin, sirtuin-1, AMPK, 
+and brain-derived neuronal factor (BDNF) immunoreactivity, which are essential 
+markers of plasticity. The present review discusses the numerous studies which 
+have explored (1) the neuropathological hallmarks of AD, (2) association of type 
+2 diabetes with AD, and (3) the potential therapeutic effects of metformin on AD 
+and preclinical models.
+
+DOI: 10.3390/ph14090890
+PMCID: PMC8465337
+PMID: 34577590
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+53. Pharmaceuticals (Basel). 2021 Sep 13;14(9):923. doi: 10.3390/ph14090923.
+
+Osteosarcoma in Children: Not Only Chemotherapy.
+
+Argenziano M(1), Tortora C(1), Pota E(1), Di Paola A(2), Di Martino M(1), Di 
+Leva C(1), Di Pinto D(1), Rossi F(1).
+
+Author information:
+(1)Department of Woman, Child and General and Specialist Surgery, University of 
+Campania "Luigi Vanvitelli", 80138 Naples, Italy.
+(2)Department of Experimental Medicine, University of Campania "Luigi 
+Vanvitelli", 80138 Naples, Italy.
+
+Osteosarcoma (OS) is the most severe bone malignant tumor, responsible for 
+altered osteoid deposition and with a high rate of metastasis. It is 
+characterized by heterogeneity, chemoresistance and its interaction with bone 
+microenvironment. The 5-year survival rate is about 67% for patients with 
+localized OS, while it remains at 20% in case of metastases. The standard 
+therapy for OS patients is represented by neoadjuvant chemotherapy, surgical 
+resection, and adjuvant chemotherapy. The most used chemotherapy regimen for 
+children is the combination of high-dose methotrexate, doxorubicin, and 
+cisplatin. Considered that the necessary administration of high-dose 
+chemotherapy is responsible for a lot of acute and chronic side effects, the 
+identification of novel therapeutic strategies to ameliorate OS outcome and the 
+patients' life expectancy is necessary. In this review we provide an overview on 
+new possible innovative therapeutic strategies in OS.
+
+DOI: 10.3390/ph14090923
+PMCID: PMC8471047
+PMID: 34577623
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+54. Medicina (Kaunas). 2021 Sep 9;57(9):950. doi: 10.3390/medicina57090950.
+
+Acrometastases to the Hand: A Systematic Review.
+
+Umana GE(1), Scalia G(2), Palmisciano P(1), Passanisi M(1), Da Ros V(3), Pompili 
+G(4), Barone F(1), Amico P(5), Tomasi SO(6)(7), Graziano F(2), Patti IV(8)(9), 
+Mele S(8)(9), Maugeri R(10), Raffa G(11), Giammalva GR(10), Iacopino GD(10), 
+Germanò A(11), Nicoletti GF(2), Ippolito M(12), Sabini MG(8)(9), Cicero S(1), 
+Strigari L(13), Cuttone G(9).
+
+Author information:
+(1)Trauma Center, Gamma Knife Center, Department of Neurosurgery, Cannizzaro 
+Hospital, 95126 Catania, Italy.
+(2)Department of Neurosurgery, Highly Specialized Hospital and of National 
+Importance "Garibaldi", 95122 Catania, Italy.
+(3)Department of Biomedicine and Prevention, University Hospital of Rome "Tor 
+Vergata", 00133 Rome, Italy.
+(4)Plastic Surgery Unit, Cannizzaro Hospital, 95126 Catania, Italy.
+(5)Department of Pathological Anatomy, Cannizzaro Hospital, 95126 Catania, 
+Italy.
+(6)Department of Neurological Surgery, Christian Doppler Klinik Paracelsus 
+Medical University, 5020 Salzburg, Austria.
+(7)Laboratory for Microsurgical Neuroanatomy, Christian Doppler Klinik, 5020 
+Salzburg, Austria.
+(8)Medical Physics Unit, Cannizzaro Hospital, 95126 Catania, Italy.
+(9)INFN-Laboratori Nazionali del Sud, Via S. Sofia 62, 95123 Catania, Italy.
+(10)Post-Graduate Residency Programme in Neurological Surgery, Department of 
+Experimental Biomedicine and Clinical Neurosciences, School of Medicine, 
+Neurosurgical Clinic, AOUP "Paolo Giaccone", 90127 Palermo, Italy.
+(11)BIOMORF Department, Division of Neurosurgery, University of Messina, 98124 
+Messina, Italy.
+(12)Department of Advanced Technologies, Nuclear Medicine and PET Cannizzaro 
+Hospital, 95126 Catania, Italy.
+(13)Department of Medical Physics, IRCCS University Hospital of Bologna, 40138 
+Bologna, Italy.
+
+Background and Objectives: The term acrometastases (AM) refers to secondary 
+lesions sited distally to the elbow and knee, representing 0.1% of all bony 
+metastases. By frequency, pulmonary cancer and gastrointestinal and 
+genitourinary tract neoplasms are the most responsible for the reported AM. 
+Improvements in oncologic patient care favor an increase in the incidence of 
+such rare cases. We performed a systematic review of acrometastases to the hand 
+to provide further insight into the management of these fragile patients. We 
+also present a peculiar case of simultaneous acrometastasis to the ring finger 
+and pathological vertebral fracture. Material and Methods: A literature search 
+according to the PRISMA (Preferred Reporting Items for Systematic Reviews and 
+Meta-Analyses) statement was conducted using the PubMed, Google Scholar, and 
+Scopus databases in December 2020 on metastasis to the hand and wrist, from 1986 
+to 2020. MeSH terms included acrometastasis, carpal metastasis, hand metastasis, 
+finger metastasis, phalangeal metastasis, and wrist metastasis. Results: In 
+total, 215 studies reporting the follow-up of 247 patients were analyzed, with a 
+median age of 62 years (range 10-91 years). Overall, 162 out of 247 patients 
+were males (65.6%) and 85 were females (34.4%). The median reported follow-up 
+was 5 months (range 0.5-39). The median time from primary tumor diagnosis to 
+acrometastasis was 24 months (range 0.7-156). Acrometastases were located at the 
+finger/phalanx (68.4%), carpal (14.2%), metacarpal (14.2%), or other sites 
+(3.2%). The primary tumors were pulmonary in 91 patients (36.8%). The average 
+interval from primary tumor diagnosis to acrometastasis varied according to the 
+primary tumor type from 2 months (in patients with mesenchymal tumors) to 64.0 
+months (in patients with breast cancer). Conclusions: Acrometastases usually 
+develop in the late stage of oncologic disease and are associated with short 
+life expectancy. Their occurrence can no longer be considered rare; physicians 
+should thus be updated on their surgical management and their impact on 
+prognosis and survival.
+
+DOI: 10.3390/medicina57090950
+PMCID: PMC8471162
+PMID: 34577873 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+55. Nutrients. 2021 Sep 1;13(9):3076. doi: 10.3390/nu13093076.
+
+Dietary Protein Requirement Threshold and Micronutrients Profile in Healthy 
+Older Women Based on Relative Skeletal Muscle Mass.
+
+Khanal P(1)(2), He L(1)(2), Degens H(3)(4)(5), Stebbings GK(1), Onambele-Pearson 
+GL(1), Williams AG(1)(6)(7), Thomis M(2), Morse CI(1).
+
+Author information:
+(1)Musculoskeletal Science and Sports Medicine Research Centre, Department of 
+Sport and Exercise Sciences, Manchester Metropolitan University, Manchester M15 
+6BH, UK.
+(2)Department of Movement Sciences, Physical Activity, Sports & Health Research 
+Group, KU Leuven, 3001 Leuven, Belgium.
+(3)Department of Life Sciences, Manchester Metropolitan University, Manchester 
+M15 6BH, UK.
+(4)Institute of Sport Science and Innovations, Lithuanian Sports University, 
+LT-44221 Kaunas, Lithuania.
+(5)Pharmacy of Targu Mures, University of Medicine, 540142 Targu Mures, Romania.
+(6)Institute of Sport, Exercise and Health, University College London, London 
+W1T 7HA, UK.
+(7)Applied Sports Science Technology and Medicine Research Centre, Faculty of 
+Science and Engineering, Swansea University, Swansea SA1 8EN, UK.
+
+Although multiple nutrients have shown protective effects with regard to 
+preserving muscle function, the recommended amount of dietary protein and other 
+nutrients profile on older adults for maintenance of high muscle mass is still 
+debatable. The aims of this paper were to: (1) identify dietary differences 
+between older women with low and high relative skeletal muscle mass, and (2) 
+identify the minimal dietary protein intake associated with high relative 
+skeletal muscle mass and test the threshold ability to determine an association 
+with skeletal muscle phenotypes. Older women (n = 281; 70 ± 7 years, 65 ± 14 
+kg), with both low and high relative skeletal muscle mass groups, completed a 
+food questionnaire. Skeletal muscle mass, fat-free mass (FFM), biceps brachii 
+thickness, vastus lateralis anatomical cross-sectional area (VLACSA), handgrip 
+strength (HGS), maximum elbow flexion torque (MVCEF), maximum knee extension 
+torque (MVCKE), muscle quality (HGS/Body mass), and fat mass were measured. 
+Older women with low relative skeletal muscle mass had a lower daily intake of 
+protein, iodine, polyunsaturated fatty acid (PUFA), Vit E, manganese, milk, 
+fish, nuts and seeds (p < 0.05) compared to women with high relative skeletal 
+muscle mass. The minimum required dietary protein intake for high relative 
+skeletal muscle mass was 1.17 g/kg body mass/day (g/kg/d) (sensitivity: 0.68; 
+specificity: 0.62). Women consuming ≥1.17 g/kg/d had a lower BMI (B = -3.9, p < 
+0.001) and fat mass (B = -7.8, p < 0.001), and a higher muscle quality (B = 
+0.06, p < 0.001). The data indicate that to maintain muscle mass and function, 
+older women should consume ≥1.17 g/kg/d dietary protein, through a varied diet 
+including milk, fish and nuts that also contain polyunsaturated fatty acid 
+(PUFA) and micronutrients such as iodine, Vit E and manganese.
+
+DOI: 10.3390/nu13093076
+PMCID: PMC8471109
+PMID: 34578954 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+56. Nutrients. 2021 Sep 2;13(9):3089. doi: 10.3390/nu13093089.
+
+Association of Dietary Vitamin D Intake, Serum 25(OH)D(3), 25(OH)D(2) with 
+Cognitive Performance in the Elderly.
+
+Wang R(1), Wang W(1), Hu P(2), Zhang R(1), Dong X(1), Zhang D(1).
+
+Author information:
+(1)Department of Epidemiology and Health Statistics, the School of Public Health 
+of Qingdao University, 308 Ningxia Road, Qingdao 266071, China.
+(2)Qingdao Municipal Center for Disease Control and Prevention, Qingdao 
+Institute of Preventive Medicine, Qingdao 266033, China.
+
+BACKGROUND: As life expectancy increases, cognitive performance decline in the 
+elderly has become one of the major global challenges. We aimed to evaluate the 
+association of dietary vitamin D (VD), serum 25-hydroxyvitamin D3 (25(OH)D3), 
+25-hydroxyvitamin D2 (25(OH)D2), and total 25-hydroxyvitamin (25(OH)D) 
+concentration with cognitive performance in older Americans.
+METHODS: The data from the National Health and Nutrition Examination Survey 
+(NHANES), 2011-2014 was used. The cognitive performance was assessed by the 
+Consortium to Establish a Registry for Alzheimer's Disease (CERAD) Word Learning 
+sub-test, Animal Fluency test, and Digit Symbol Substitution Test (DSST). A 
+binary logistic regression model was applied to evaluate the association between 
+VD and cognitive performance, and restricted cubic spline model was adopted to 
+evaluate the dose-response relationship.
+RESULTS: While comparing to the lowest dietary VD intake group, the multivariate 
+adjusted odds ratios (ORs) and 95% confidence intervals (CIs) of the highest 
+dietary VD intake group were 0.51 (0.36-0.72) for the Animal Fluency test score 
+and 0.45 (0.31-0.66) for DSST score, respectively; and those of serum total 
+25(OH)D and 25(OH)D3 concentration were 0.68 (0.47-0.97) and 0.62 (0.44-0.86) 
+for DSST score. L-shaped relationships were identified for dietary VD intake, 
+serum total 25(OH)D and 25(OH)D3 concentration with cognition performance. The 
+associations between dietary VD intake, serum total 25(OH)D and cognitive 
+performance were non-significant when stratified by gender.
+CONCLUSIONS: The study indicates that dietary VD intake, serum total 25(OH)D and 
+25(OH)D3 concentration were positively associated with cognitive performance. 
+Further studies are needed to clarify the possible effects of dietary VD intake 
+and serum 25(OH)D2, 25(OH)D3 on cognitive performance.
+
+DOI: 10.3390/nu13093089
+PMCID: PMC8467888
+PMID: 34578965 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+57. Nutrients. 2021 Sep 8;13(9):3127. doi: 10.3390/nu13093127.
+
+Risk-Benefit Assessment of Cereal-Based Foods Consumed by Portuguese Children 
+Aged 6 to 36 Months-A Case Study under the RiskBenefit4EU Project.
+
+Assunção R(1)(2)(3), Boué G(4), Alvito P(1)(2), Brazão R(1), Carmona P(5), 
+Carvalho C(6)(7), Correia D(7)(8), Fernandes P(4), Lopes C(7)(8), Martins 
+C(1)(2)(9), Membré JM(4), Monteiro S(5), Nabais P(5), Thomsen ST(10), Torres 
+D(6)(7), Pires SM(10), Jakobsen LS(10).
+
+Author information:
+(1)Food and Nutrition Department, National Institute of Health Dr. Ricardo 
+Jorge, 1649-016 Lisboa, Portugal.
+(2)CESAM, Centre for Environmental and Marine Studies, University of Aveiro, 
+3810-193 Aveiro, Portugal.
+(3)IUEM, Instituto Universitário Egas Moniz, Egas Moniz-Cooperativa de Ensino 
+Superior, CRL, 2829-511 Caparica, Portugal.
+(4)INRAe, Oniris, Secalim, 44307 Nantes, France.
+(5)Food Risks Unit, Economic and Food Safety Authority (ASAE), 1649-038 Lisboa, 
+Portugal.
+(6)Faculty of Nutrition and Food Sciences, University of Porto, 4150-180 Porto, 
+Portugal.
+(7)EPIUnit-Institute of Public Health, University of Porto, 4050-600 Porto, 
+Portugal.
+(8)Department of Public Health and Forensic Sciences and Medical Education, 
+Faculty of Medicine, University of Porto, 4200-450 Porto, Portugal.
+(9)NOVA National School of Public Health, Public Health Research Center, 
+Universidade NOVA de Lisboa, 1600-560 Lisboa, Portugal.
+(10)Division for Diet, Disease Prevention and Toxicology, The National Food 
+Institute, Technical University of Denmark, 2800 Kgs Lyngby, Denmark.
+
+Cereal-based foods, including breakfast (BC) and infant cereals (IC), are among 
+the first solid foods introduced to infants. BC and IC are sources of macro and 
+micronutrients that have beneficial effects on health, but can also be sources 
+of harmful chemical and microbiological contaminants and nutrients that may lead 
+to adverse health effects at high consumption levels. This study was performed 
+under the RiskBenefit4EU project with the aim of assessing the health impact 
+associated with consumption of BC and IC by Portuguese children under 35 months. 
+Adverse effects associated with the presence of aflatoxins, Bacillus cereus, 
+sodium and free sugars were assessed against the benefits of fiber intake. We 
+applied a risk-benefit assessment approach, and quantified the health impact of 
+changes in consumption of BC and IC from current to various alternative 
+consumption scenarios. Health impact was assessed in terms of 
+disability-adjusted life years. Results showed that moving from the current 
+consumption scenario to considered alternative scenarios results in a gain of 
+healthy life years. Portuguese children can benefit from exchanging intake of IC 
+to BC, if the BC consumed has an adequate nutritional profile in terms of fiber, 
+sodium and free sugars, with levels of aflatoxins reduced as much as possible.
+
+DOI: 10.3390/nu13093127
+PMCID: PMC8467172
+PMID: 34579004 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+58. Nutrients. 2021 Sep 21;13(9):3290. doi: 10.3390/nu13093290.
+
+Gut Microbiota Predicts Healthy Late-Life Aging in Male Mice.
+
+Ke S(1)(2), Mitchell SJ(3)(4), MacArthur MR(3)(4), Kane AE(5), Sinclair DA(5), 
+Venable EM(6), Chadaideh KS(6), Carmody RN(6), Grodstein F(1)(7), Mitchell 
+JR(4), Liu Y(1).
+
+Author information:
+(1)Channing Division of Network Medicine, Brigham and Women's Hospital and 
+Harvard Medical School, Boston, MA 02115, USA.
+(2)State Key Laboratory of Pig Genetic Improvement and Production Technology, 
+Jiangxi Agricultural University, Nanchang 330045, China.
+(3)Department of Molecular Metabolism, Harvard T.H. Chan School of Public 
+Health, Boston, MA 02115, USA.
+(4)Department of Health Sciences and Technology, ETH Zurich, 8005 Zurich, 
+Switzerland.
+(5)Paul F. Glenn Center for Biology of Aging Research, Department of Genetics, 
+Blavatnik Institute, Harvard Medical School, Boston, MA 02115, USA.
+(6)Department of Human Evolutionary Biology, Harvard University, Cambridge, MA 
+02138, USA.
+(7)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 
+Boston, MA 02115, USA.
+
+Calorie restriction (CR) extends lifespan and retards age-related chronic 
+diseases in most species. There is growing evidence that the gut microbiota has 
+a pivotal role in host health and age-related pathological conditions. Yet, it 
+is still unclear how CR and the gut microbiota are related to healthy aging. 
+Here, we report findings from a small longitudinal study of male C57BL/6 mice 
+maintained on either ad libitum or mild (15%) CR diets from 21 months of age and 
+tracked until natural death. We demonstrate that CR results in a significantly 
+reduced rate of increase in the frailty index (FI), a well-established indicator 
+of aging. We observed significant alterations in diversity, as well as 
+compositional patterns of the mouse gut microbiota during the aging process. 
+Interrogating the FI-related microbial features using machine learning 
+techniques, we show that gut microbial signatures from 21-month-old mice can 
+predict the healthy aging of 30-month-old mice with reasonable accuracy. This 
+study deepens our understanding of the links between CR, gut microbiota, and 
+frailty in the aging process of mice.
+
+DOI: 10.3390/nu13093290
+PMCID: PMC8467910
+PMID: 34579167 [Indexed for MEDLINE]
+
+Conflict of interest statement: D.A.S. is a founder, equity owner, advisor to, 
+director of, board member of, consultant to, investor in and/or inventor on 
+patents licensed to Revere Biosensors, UpRNA, GlaxoSmithKline, Jupiter Orphan 
+Therapeutics, Wellomics, Lua Communications, DaVinci Logic, InsideTracker 
+(Segterra), Caudalie, Animal Biosciences, Vium, Longwood Fund, Catalio Capital 
+Management, Frontier Acquisition Corporation, AFAR (American Federation for 
+Aging Research), Life Extension Advocacy Foundation (LEAF), Global Healthspan 
+Policy Institute, Lifeboat Foundation, Cohbar, Galilei, EMD Millipore, Zymo 
+Research, Immetas, and EdenRoc Sciences (and affiliates Arc-Bio, Dovetail 
+Genomics, Claret Bioscience, MetroBiotech, and Liberty Biosecurity), Life 
+Biosciences ( and affiliates Iduna, Senolytic Therapeutics, Spotlight 
+Biosciences, Selphagy, Jumpstart Fertility, Continuum Biosciences, and 
+Alterity). D.A.S. is an inventor on a patent application filed by Mayo Clinic 
+and Harvard Medical School that has been licensed to Elysium Health. More 
+information at https://sinclair.hms.harvard.edu/david-sinclairs-affiliations. 
+The other authors declare no competing interests.
+
+
+59. Plants (Basel). 2021 Sep 14;10(9):1901. doi: 10.3390/plants10091901.
+
+Effect on Chemical and Physical Properties of Soil Each Peat Moss, Elemental 
+Sulfur, and Sulfur-Oxidizing Bacteria.
+
+Lee SY(1), Kim EG(1), Park JR(1)(2), Ryu YH(3), Moon W(4), Park GH(5), 
+Ubaidillah M(6), Ryu SN(4), Kim KM(1)(2).
+
+Author information:
+(1)Division of Plant Biosciences, School of Applied Biosciences, College of 
+Agriculture and Life Sciences, Kyungpook National University, Daegu 41566, 
+Korea.
+(2)Coastal Agriculture Research Institute, Kyungpook National University, Daegu 
+41566, Korea.
+(3)Gyeongbuk Agricultural Research & Extension Services, Uiseong 37339, Korea.
+(4)Department of Agricultural Science, Korea National Open University, Seoul 
+03087, Korea.
+(5)Department Ecological & Environmental System, College of Ecological & 
+Environmental Science, Kyungpook National University, Sangju 37224, Korea.
+(6)Department of Agronomy, Faculty of Agriculture, Jember University, Jl. 
+Kalimantan 37, Jember 68121, Indonesia.
+
+Peat moss is an organic substance corroded by sphagnum moss and has a pH of 
+3.0-4.0. Elemental sulfur is sulfated and oxidized by the action of bacteria to 
+become sulfuric acid. These biological factors can alter the soil environment. 
+Blueberries require soil with a pH of 4.5-5.2 and high organic matter content. 
+In this experiment, we investigated whether different treatment rates of peat 
+moss, elemental sulfur, and sulfur-oxidizing bacteria affect changes in soil pH, 
+physicochemical properties, and electrical conductivity. We detected strong 
+changes in soil pH as a reaction to the supply of peat moss, elemental sulfur, 
+and sulfur-oxidizing bacteria. The pH of the soil when peat moss and elemental 
+sulfur each were supplied was reduced. In addition, the pH decreased faster when 
+elemental sulfur and sulfur-oxidizing bacteria were supplied together than 
+elemental sulfur alone, satisfying an acidic soil environment suitable for 
+blueberry cultivation. In this experiment, it is shown that peat moss, elemental 
+sulfur, and sulfur-oxidizing bacteria are suitable for lowering soil pH. It was 
+demonstrated that when elemental sulfur and sulfur-oxidizing bacteria were 
+treated together, the pH decreased faster than when treated with peat moss. It 
+could be economically beneficial to farmers to use elemental sulfur and 
+sulfur-oxidizing bacteria, which are cheaper than peat moss, to reduce the pH of 
+the soil.
+
+DOI: 10.3390/plants10091901
+PMCID: PMC8469801
+PMID: 34579434
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+60. J Manag Care Spec Pharm. 2021 Sep;27(9-a Suppl):S12-S16. doi: 
+10.18553/jmcp.2021.27.9-a.s12.
+
+Using latent class and quantum models to value equity in health care: a tale of 
+2 stories.
+
+Ngorsuraches S(1).
+
+Author information:
+(1)Department of Health Outcomes Research & Policy, Harrison School of Pharmacy, 
+Auburn University, Auburn, AL.
+
+Cost-effectiveness analysis (CEA) with quality-adjusted life-year (QALY) was 
+introduced to address health equity concerns in value assessment. However, QALY 
+fails to capture patient preference. Stated preference methods (eg, discrete 
+choice experiment [DCE]) have been increasingly used to incorporate patient 
+preference into the value assessment framework in health care. Still, ones with 
+a moral dimension such as health equity do not exist. The objective of this 
+paper was to describe 2 stated preference approaches that can empirically value 
+health equity. First, the decision-maker perceptions of the prevalence of equity 
+dimensions in DCE choice tasks are identified. A latent class model based on 
+random utility theory is proposed to derive the value of equity from the 
+decision makers with different perceptions of the prevalence of equity 
+dimensions. Second, equity attributes are incorporated in DCE choice tasks, and 
+a quantum choice model, which can capture stochasticity during the decision 
+process in the mind of the decision makers, is used to value the equity. These 
+approaches will improve existing value assessment methods to address health 
+equity adequately. DISCLOSURES: This study received no outside funding. 
+Ngorsuraches has received research grants from Bristol Myers Squibb and through 
+the University of Utah and PhRMA Foundation.
+
+DOI: 10.18553/jmcp.2021.27.9-a.s12
+PMCID: PMC10408399
+PMID: 34579543 [Indexed for MEDLINE]
+
+Conflict of interest statement: This study received no outside funding. 
+Ngorsuraches has received research grants from Bristol Myers Squibb and through 
+the University of Utah and PhRMA Foundation.61. Health Policy. 2021 Nov;125(11):1406-1414. doi:
+10.1016/j.healthpol.2021.09.004.  Epub 2021 Sep 16.
+
+Cost-utility analysis of medication review with follow-up for cardiovascular 
+outcomes: A microsimulation model.
+
+Ahumada-Canale A(1), Vargas C(2), Martinez-Mardones F(3), Plaza-Plaza JC(4), 
+Benrimoj S(5), Garcia-Cardenas V(3).
+
+Author information:
+(1)Graduate School of Health, University of Technology Sydney, Sydney, 
+Australia; Centre for the Health Economy, Macquarie University, Sydney, 
+Australia. Electronic address: antonio.ahumadacanale@mq.edu.au.
+(2)Centre for Health Economics Research and Evaluation, University of Technology 
+Sydney, Sydney, Australia.
+(3)Graduate School of Health, University of Technology Sydney, Sydney, 
+Australia.
+(4)Facultad de Química y de Farmacia, Pontificia Universidad Católica de Chile, 
+Santiago, Chile.
+(5)Pharmaceutical Care Research Group, Faculty of Pharmacy, University of 
+Granada, Granada, Spain.
+
+BACKGROUND: Cardiovascular diseases are the leading cause of death. 
+Pharmacist-led medication review with follow-up might be cost-effective 
+preventing cardiovascular diseases.
+OBJECTIVE: To undertake a cost-utility analysis of the addition of 
+pharmacist-led medication review with follow-up to usual care compared to usual 
+care alone for cardiovascular outpatients.
+MATERIALS AND METHODS: A state-transition microsimulation model was built to 
+project outcomes over a lifetime time horizon. Inputs from a cluster randomized 
+controlled trial conducted in primary health care centers in Chile with 
+full-time pharmacists were used. Probabilities were estimated using 
+patient-level data. Utilities and costs associated with each health state were 
+obtained from the literature, whereas the intervention costs were retrieved from 
+the trial. The public third-party payer perspective was used. Uncertainty was 
+evaluated through one-way and probabilistic sensitivity analyses.
+RESULTS: For the base case analysis, an incremental cost-effectiveness ratio of 
+$963 per quality-adjusted life-year was observed which was considered 
+cost-effective. The results were robust to sensitivity analyses and were driven 
+by decreased cardiovascular events resulting in lower mortality.
+CONCLUSIONS: Medication review with follow-up was deemed a cost-effective 
+addition to usual care with low uncertainty.
+
+Copyright © 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.healthpol.2021.09.004
+PMID: 34579954 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest None.
+
+
+62. BMJ. 2021 Sep 27;374:n2291. doi: 10.1136/bmj.n2291.
+
+Covid-19: England sees biggest fall in life expectancy since records began in 
+wake of pandemic.
+
+Iacobucci G(1).
+
+Author information:
+(1)The BMJ.
+
+DOI: 10.1136/bmj.n2291
+PMID: 34580075
+
+
+63. BMJ Open Qual. 2021 Sep;10(3):e001263. doi: 10.1136/bmjoq-2020-001263.
+
+Cost-DALY comparison of hip replacement care in 12 Belgian hospitals.
+
+Dehanne F(1)(2), Gourdin M(3), Devleesschauwer B(4), Bihin B(3), Van Wilder 
+P(2), Mareschal B(5), Leclercq P(2), Pirson M(2).
+
+Author information:
+(1)General Management, CHU UCL Namur, Yvoir, Belgium 
+fabian.dehanne@uclouvain.be.
+(2)ESP, ULB, Bruxelles, Belgium.
+(3)General Management, CHU UCL Namur, Yvoir, Belgium.
+(4)Department of Epidemiology and Public Health, Sciensano, Brussel, Belgium.
+(5)ULB - Solbosch Campus, Bruxelles, Belgium.
+
+BACKGROUND: In view of the expected increase in expenditure on hip replacement 
+treatment in Belgium, the complication rate and potential waste reduction, as 
+estimated by the Organisation for Economic Cooperation and Development, we are 
+not yet in a position to assess the efficiency of hip replacement treatment in 
+Belgian hospitals. This objective study uses a cost-disability-adjusted life 
+years (DALYs) ratio to propose a comparison of hip replacement surgery among 12 
+Belgian hospitals.
+METHODS: Our study seeks to innovate by proposing an interhospital comparison 
+that simultaneously integrates the weighting of quality indicators and the costs 
+of managing a patient. To this end, we associated a DALY impact with each 
+patient safety indicator, readmission and mortality outcome. We then compared 
+hospitals using both costs and DALYs adjusted to their case mix index. The 
+adjusted values (costs and DALYs) were obtained by relating the observed value 
+to the predicted value obtained from the linear regression model.
+RESULTS: We registered a total of 246.5 DALYs for the 12 hospital institutions, 
+the average cost (SD) of a stay being €8013 (€4304). Our model allowed us to 
+identify hospitals with observed values higher than those predicted. Out of the 
+12 hospitals evaluated, 4 need to reduce costs and DALYs impacts, 6 have to 
+improve one of the two factors and 2 appear to have good results. The costs for 
+the worst performing hospitals can rise to over €150 000.
+CONCLUSION: Evaluating the rates of patient safety indicators, associated with 
+cost, is a prerequisite for quality and cost improvement efforts on the part of 
+managers and practitioners. However, it appears essential to evaluate the entire 
+care chain using a comparable unit of measurement. The hospital's case mix index 
+must also be considered in benchmarking to avoid drawing the wrong conclusions. 
+In addition, other indicators, such as the patient's perception of the actual 
+results, should be added to our study.
+
+© Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjoq-2020-001263
+PMCID: PMC8477339
+PMID: 34580082 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+64. Cancer Prev Res (Phila). 2022 Jan;15(1):37-44. doi: 
+10.1158/1940-6207.CAPR-21-0155. Epub 2021 Sep 27.
+
+Cost Effectiveness of Lung Cancer Screening With Low-Dose CT in Heavy Smokers in 
+China.
+
+Yuan J(#)(1)(2), Sun Y(#)(1), Wang K(1), Wang Z(1), Li D(1), Fan M(1), Bu X(1), 
+Chen M(3)(4), Ren H(3)(4).
+
+Author information:
+(1)Department of Respiratory and Critical Care Medicine, The First Affiliated 
+Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi Province, China.
+(2)Health Science Center, Yangtze University, Jingzhou, Hubei Province, China.
+(3)Department of Respiratory and Critical Care Medicine, The First Affiliated 
+Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi Province, China. 
+chenmingwei@xjtu.edu.cn renhui@xjtufh.edu.cn.
+(4)Shaanxi Provincial Research Center for the Project of Prevention and 
+Treatment of Respiratory Diseases, Xi'an, Shaanxi province, China.
+(#)Contributed equally
+
+Although lung cancer screening with low-dose CT (LDCT) can reduce lung cancer 
+mortality by 20%, without an appropriate eligibility criteria, it may result in 
+a waste of medical resources and a degree of unnecessary damage to participants' 
+health. This study aims to give the optimal screening strategy in China based on 
+cost-effectiveness analysis on pros and cons of different situations. From the 
+perspective of primary healthcare system, a Markov model was built to simulate 
+LDCT screening of 100,000 heavy smokers (>30 pack years) aged 40 in different 
+situations. Model parameters mainly came from screening programs conducted in 
+China and other countries, official public data, and published literature. Two 
+indicators of primary outcome, incremental cost-effectiveness ratio (ICER) and 
+net health benefits (NHB), were compared with those of no screening. Sensitivity 
+analysis was conducted to evaluate model uncertainties. We defined the optimal 
+strategy as the one with both acceptable cost effectiveness and maximal NHB. 
+Base-case analysis results showed that for all screening strategies, ICERs were 
+less than three times of GDP per capita. As for NHB results, it showed that when 
+the willingness to pay for screening was less than three times of GPD per 
+capita, the largest NHB was obtained in the strategy which started screening at 
+50 years old and this strategy showed stable performance in univariate and 
+probabilistic sensitivity as well. PREVENTION RELEVANCE: LDCT screening is cost 
+effective in heavy smokers in China, and the optimal age to start screening is 
+suggested to be 50 years old.
+
+©2021 American Association for Cancer Research.
+
+DOI: 10.1158/1940-6207.CAPR-21-0155
+PMID: 34580085 [Indexed for MEDLINE]
+
+
+65. Med Oncol. 2021 Sep 28;38(11):134. doi: 10.1007/s12032-021-01587-7.
+
+Cancer induced bone pain: current management and future perspectives.
+
+Kapoor R(1), Saxena AK(1), Vasudev P(1), Sundriyal D(2), Kumar A(3).
+
+Author information:
+(1)Department of Anesthesiology and Pain Medicine, University College of Medical 
+Sciences and GTB Hospital, New Delhi, India.
+(2)Department of Medical Oncology, Hematology, All India Institute of Medical 
+Sciences, Rishikesh, Uttarakhand, India. drdeepaksundriyal@gmail.com.
+(3)Department of Pathology and Lab Medicine, All India Institute of Medical 
+Sciences, Rishikesh, Uttarakhand, India.
+
+Recent improvements in the therapeutic armamentarium of oncology by the addition 
+of targeted and immunotherapeutic agents have led to an increase in the life 
+expectancy of advanced-stage cancer patients. This has led to an increased 

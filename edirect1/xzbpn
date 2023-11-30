@@ -1,0 +1,1000 @@
+BC treatment model.
+METHODS: Data were obtained from NordiQC HER2 BC surveys performed from 2008 to 
+2012. False-negative (FN) and false-positive (FP) rates for approved and 
+laboratory-developed IVDs were used to estimate direct costs, loss of survival, 
+productivity benefit and quality-adjusted life-years. In the absence of 
+consistent and accessible clinical and economic data from countries 
+participating in the NordiQC programme, United States productivity data, 
+healthcare costs and patient numbers were used as a surrogate in order to 
+estimate the potential impact of selecting an approved or laboratory-developed 
+IVDs.
+RESULTS: In total, 1703 tests were performed. Pooled FN rates were 11% for 
+approved IVDs and 25% for laboratory-developed IVDs; FP rates were 0% and 5%, 
+respectively. Using these FP and FN rates in the economic model and applying 
+them to the United States BC population, approved IVD tests would result in 
+better clinical outcomes, i.e., better survival and fewer disease 
+recurrences/progressions, and lower costs, i.e., total direct costs and lost 
+productivity, versus laboratory-developed IVD tests. Every $1 saved by 
+laboratories by using cheaper reagents could potentially result in approximately 
+$6 additional costs to the healthcare system.
+CONCLUSIONS: The results of this analysis suggest that incorrect HER2 test 
+results have far-reaching clinical and economic consequences.
+
+DOI: 10.1186/s12913-015-1018-6
+PMCID: PMC4553016
+PMID: 26318869 [Indexed for MEDLINE]
+
+
+615. Aging (Albany NY). 2015 Aug;7(8):553-67. doi: 10.18632/aging.100791.
+
+Knockdown of Indy/CeNac2 extends Caenorhabditis elegans life span by inducing 
+AMPK/aak-2.
+
+Schwarz F(1), Karadeniz Z(1), Fischer-Rosinsky A(1), Willmes DM(2), Spranger 
+J(1), Birkenfeld AL(1)(2)(3).
+
+Author information:
+(1)Department of Endocrinology, Diabetes and Nutrition, Center for 
+Cardiovascular Research, Charité - University School of Medicine, Berlin, 
+Germany.
+(2)Section of Metabolic Vascular Medicine, Medical Clinic III and Paul 
+Langerhans Institute Dresden (PLID), a member of the German Diabetes Center 
+(DZD), Technische Universität Dresden, Germany.
+(3)Section of Diabetes and Nutritional Sciences, Rayne Institute, King's College 
+London, UK.
+
+Reducing the expression of the Indy (Acronym for 'I'm Not Dead, Yet') gene in 
+lower organisms promotes longevity and leads to a phenotype that resembles 
+various aspects of caloric restriction. In C. elegans, the available data on 
+life span extension is controversial. Therefore, the aim of this study was to 
+determine the role of the C. elegans INDY homolog CeNAC2 in life span regulation 
+and to delineate possible molecular mechanisms. siRNA against Indy/CeNAC2 was 
+used to reduce expression of Indy/CeNAC2. Mean life span was assessed in four 
+independent experiments, as well as whole body fat content and AMPK activation. 
+Moreover, the effect of Indy/CeNAC2 knockdown in C. elegans with inactivating 
+variants of AMPK (TG38) was studied. Knockdown of Indy/CeNAC2 increased life 
+span by 22±3 % compared to control siRNA treated C. elegans, together with a 
+decrease in whole body fat content by ~50%. Indy/CeNAC2 reduction also increased 
+the activation of the intracellular energy sensor AMPK/aak2. In worms without 
+functional AMPK/aak2, life span was not extended when Indy/CeNAC2 was reduced. 
+Inhibition of glycolysis with deoxyglucose, an intervention known to increase 
+AMPK/aak2 activity and life span, did not promote longevity when Indy/CeNAC2 was 
+knocked down. Together, these data indicate that reducing the expression of 
+Indy/CeNAC2 increases life span in C. elegans, an effect mediated at least in 
+part by AMPK/aak2.
+
+DOI: 10.18632/aging.100791
+PMCID: PMC4586101
+PMID: 26318988 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest statement ALB owns shares 
+of Eternygen GmbH. The authors have no conflict of interests to declare.
+
+
+616. Protein Eng Des Sel. 2015 Oct;28(10):379-83. doi: 10.1093/protein/gzv039.
+Epub  2015 Aug 27.
+
+Identification of cross-reactive single-domain antibodies against serum albumin 
+using next-generation DNA sequencing.
+
+Henry KA(1), Tanha J(2), Hussack G(3).
+
+Author information:
+(1)Human Health Therapeutics Portfolio, National Research Council Canada, 100 
+Sussex Drive, Ottawa, ON, Canada K1A 0R6.
+(2)Human Health Therapeutics Portfolio, National Research Council Canada, 100 
+Sussex Drive, Ottawa, ON, Canada K1A 0R6 School of Environmental Sciences, 
+Ontario Agricultural College, University of Guelph, 50 Stone Road East, Guelph, 
+ON, Canada N1G 2W1 Department of Biochemistry, Microbiology and Immunology, 
+University of Ottawa, 75 Laurier Avenue East, Ottawa, ON, Canada K1H 8M5.
+(3)Human Health Therapeutics Portfolio, National Research Council Canada, 100 
+Sussex Drive, Ottawa, ON, Canada K1A 0R6 greg.hussack@nrc-cnrc.gc.ca.
+
+Antibodies that cross-react with multiple isoforms or homologue of a given 
+protein are often desirable, especially in therapeutic applications. Here, we 
+report the identification of several unique, clonally unrelated, single-domain 
+antibodies (sdAbs) that bind to multiple serum albumin orthologues (human, 
+rhesus, rat and mouse) with low-to-medium nanomolar affinity from a llama 
+immunized only with human serum albumin. Using single-round panning of a 
+phage-displayed sdAb library against serum albumins and next-generation DNA 
+sequencing, we were able to predict patterns of sdAb reactivity to the albumins 
+of different species with ∼90% accuracy. We expect this strategy to be generally 
+applicable for identifying cross-reactive sdAbs, particularly when these exist 
+at low frequency and/or are poorly enriched by panning. Moreover, the sdAbs 
+identified here are of potential interest for serum half-life extension of 
+biologics.
+
+© Crown copyright 2015.
+
+DOI: 10.1093/protein/gzv039
+PMID: 26319004 [Indexed for MEDLINE]
+
+
+617. Neural Netw. 2015 Nov;71:88-104. doi: 10.1016/j.neunet.2015.08.001. Epub
+2015  Aug 14.
+
+Incremental multi-class semi-supervised clustering regularized by Kalman 
+filtering.
+
+Mehrkanoon S(1), Agudelo OM(2), Suykens JA(3).
+
+Author information:
+(1)KU Leuven, ESAT-STADIUS, Kasteelpark Arenberg 10, B-3001 Leuven (Heverlee), 
+Belgium. Electronic address: siamak.mehrkanoon@esat.kuleuven.be.
+(2)KU Leuven, ESAT-STADIUS, Kasteelpark Arenberg 10, B-3001 Leuven (Heverlee), 
+Belgium. Electronic address: mauricio.agudelo@esat.kuleuven.be.
+(3)KU Leuven, ESAT-STADIUS, Kasteelpark Arenberg 10, B-3001 Leuven (Heverlee), 
+Belgium. Electronic address: johan.suykens@esat.kuleuven.be.
+
+This paper introduces an on-line semi-supervised learning algorithm formulated 
+as a regularized kernel spectral clustering (KSC) approach. We consider the case 
+where new data arrive sequentially but only a small fraction of it is labeled. 
+The available labeled data act as prototypes and help to improve the performance 
+of the algorithm to estimate the labels of the unlabeled data points. We adopt a 
+recently proposed multi-class semi-supervised KSC based algorithm (MSS-KSC) and 
+make it applicable for on-line data clustering. Given a few user-labeled data 
+points the initial model is learned and then the class membership of the 
+remaining data points in the current and subsequent time instants are estimated 
+and propagated in an on-line fashion. The update of the memberships is carried 
+out mainly using the out-of-sample extension property of the model. Initially 
+the algorithm is tested on computer-generated data sets, then we show that video 
+segmentation can be cast as a semi-supervised learning problem. Furthermore we 
+show how the tracking capabilities of the Kalman filter can be used to provide 
+the labels of objects in motion and thus regularizing the solution obtained by 
+the MSS-KSC algorithm. In the experiments, we demonstrate the performance of the 
+proposed method on synthetic data sets and real-life videos where the clusters 
+evolve in a smooth fashion over time.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neunet.2015.08.001
+PMID: 26319050 [Indexed for MEDLINE]
+
+
+618. Nutr Hosp. 2015 Sep 1;32(3):1184-92. doi: 10.3305/nh.2015.32.3.9176.
+
+[RISK OF MALNUTRITION IN A POPULATION OVER 75 YEARS NON-INSTITUTIONALIZED WITH 
+FUNCTIONAL AUTONOMY].
+
+[Article in Spanish; Abstract available in Spanish from the publisher]
+
+Hernández Galiot A(1), Pontes Torrado Y(2), Goñi Cambrodón I(2).
+
+Author information:
+(1)Departamento de Nutrición y Bromatología I. Facultad de Farmacia. Universidad 
+Complutense de Madrid, España.. aherna08@ucm.es.
+(2)Departamento de Nutrición y Bromatología I. Facultad de Farmacia. Universidad 
+Complutense de Madrid, España.. igonic@ucm.es.
+
+OBJECTIVES: to assess the nutritional status of autonomous non-institutionalized 
+elderly, and determine the relationship between malnutrition risk and social 
+factors, diseases and quality of life of the population.
+METHODS: cross-sectional study in 57 adults over 75 autonomous, 
+non-institutionalized residents in Garrucha, Almería. The nutritional risk 
+assessment was performed with the MNA questionnaire. The social risk was 
+assessed by socio-familiar scale of Gijón, and the life expectancy was assessed 
+by CCI questionnaire.
+RESULTS: 73.7% of the population had a good nutritional status; 22.8% was at 
+risk of malnutrition and 3.5% had malnutrition. Some subjects were at social 
+risk and 17.5% had a probability of mortality rate of over 52% in the following 
+three years. Most of the population was within 5 diseases. The risk of 
+malnutrition was positively related to social risk and the number of chronic 
+diseases.
+CONCLUSIONS: the elderly presented an acceptable nutritional status. However, 
+22.8% of the group was at risk of malnutrition, especially those over 90 years 
+and women. The risk of malnutrition appears to be associated with a more 
+disadvantaged social situation and with more diseases. The development of 
+training programs in nutrition education and the use of simple tools to detect 
+nutritional risk in primary health care could be effective tools to reduce the 
+prevalence of malnutrition, avoid negative consequences on the health and 
+improve the quality of life of older adults.
+
+Publisher: Objetivos: valorar el estado nutricional en adultos mayores autónomos 
+no institucionalizados y determinar la relación del riesgo de malnutrición con 
+factores sociales, patologías y calidad de vida de la población. Métodos: 
+estudio transversal realizado en 57 adultos mayores de 75 años autónomos, no 
+institucionalizados residentes en Garrucha, Almería. La valoración del riesgo 
+nutricional se realizó con el cuestionario MNA. El riesgo social se valoró 
+mediante la escala socio-familiar de Gijón y la esperanza de vida se valoró con 
+el cuestionario CCI. Resultados: el 73,7% de la población presentó un buen 
+estado nutricional; el 22,8% tenía riesgo de malnutrición y el 3,5 % presentó 
+malnutrición. Algunos sujetos estaban en riesgo social y el 17,5 % presentaba 
+una probabilidad de mortalidad superior al 52% en los siguientes tres años. La 
+mayoría de la población padecía menos de cinco enfermedades. El riesgo de 
+malnutrición se relacionó positivamente con los factores sociales y con el 
+número de patologías. Conclusiones: la población estudiada presentó un aceptable 
+estado nutricional. A pesar de ello, el 22,8% del colectivo tenía riesgo de 
+malnutrición, principalmente los mayores de 90 años y las mujeres. El riesgo de 
+malnutrición parece relacionarse con una situación social más desfavorecida y 
+con un mayor número de patologías. El desarrollo de programas de formación en 
+educación nutricional y la utilización de instrumentos sencillos para detectar 
+el riesgo nutricional, en atención primaria, podrían ser herramientas eficaces 
+para disminuir la prevalencia de malnutrición, evitar consecuencias negativas 
+sobre la salud y mejorar la calidad de vida de los adultos mayores.
+
+Copyright AULA MEDICA EDICIONES 2014. Published by AULA MEDICA. All rights 
+reserved.
+
+DOI: 10.3305/nh.2015.32.3.9176
+PMID: 26319837 [Indexed for MEDLINE]
+
+
+619. Blood. 2015 Oct 8;126(15):1860-1. doi: 10.1182/blood-2015-07-657478. Epub
+2015  Aug 28.
+
+How should we assess the value of innovative drugs in oncology? Lessons from 
+cost-effectiveness analyses.
+
+Prasad V(1), Mailankody S(2).
+
+Author information:
+(1)Medical Oncology Service, National Cancer Institute, National Institutes of 
+Health, Bethesda, MD Hematology-Oncology Service, Knight Cancer Center, Oregon 
+Health & Sciences University, Portland, OR.
+(2)Medical Oncology Service, National Cancer Institute, National Institutes of 
+Health, Bethesda, MD Myeloma Service, Division of Hematologic Malignancies, 
+Memorial Sloan Kettering Cancer Center, New York, NY.
+
+Comment on
+    Blood. 2015 Mar 19;125(12):1866-9.
+
+DOI: 10.1182/blood-2015-07-657478
+PMCID: PMC4600021
+PMID: 26320099 [Indexed for MEDLINE]
+
+
+620. Asian Pac J Cancer Prev. 2015;16(14):6033-8. doi:
+10.7314/apjcp.2015.16.14.6033.
+
+Effectiveness of Cognitive Behavioral Therapy Techniques for Control of Pain in 
+Lung Cancer Patients: An Integrated Review.
+
+Phianmongkhol Y(1), Thongubon K, Woottiluk P.
+
+Author information:
+(1)Obstetric and Gynecological Nursing Section, Faculty of Nursing, Chiang Mai 
+University, Chiang Mai, Thailand E-mail : yupin.ph@cmu.ac.th.
+
+BACKGROUND: Experience of lung cancer includes negative impacts on both physical 
+and psychological health. Pain is one of the negative experiences of lung 
+cancer. Cognitive behavioral therapy techniques are often recommended as 
+treatments for lung cancer pain. The objective of this review was to synthesize 
+the evidence on the effectiveness of cognitive behavioral therapy techniques in 
+treating lung cancer pain. This review considered studies that included lung 
+cancer patients who were required to 1) be at least 18 years old; 2) speak and 
+read English or Thai; 3) have a life expectancy of at least two months; 4) 
+experience daily cancer pain requiring an opioid medication; 5) have a positive 
+response to opioid medication; 6) have "average or usual" pain between 4 and 7 
+on a scale of 0-10 for the day before the clinic visit or for a typical day; and 
+7) able to participate in a pain evaluation and treatment program. This review 
+considered studies to examine interventions for use in treatment of pain in lung 
+cancer patients, including: biofeedback, cognitive/attentional distraction, 
+imagery, hypnosis, and meditation. Any randomized controlled trials (RCTs) that 
+examined cognitive behavioral therapy techniques for pain specifically in lung 
+cancer patients were included. In the absence of RCTs, quasi-experimental 
+designs were reviewed for possible conclusion in a narrative summary. Outcome 
+measures were pain intensity before and after cognitive behavioural therapy 
+techniques. The search strategy aimed to find both published and unpublished 
+literature. A three-step search was utilised by using identified keywords and 
+text term. An initial limited search of MEDLINE and CINAHL was undertaken 
+followed by analysis of the text words contained in the title and abstract, and 
+of the index terms used to describe the article. A second search using all the 
+identified keywords and index terms was then undertaken across all included 
+databases. Thirdly, the reference list of all identified reports and articles 
+were searched for additional studies. Searches were conducted during January 
+1991- March 2014 limited to English and Thai languages with no date restriction.
+MATERIALS AND METHODS: All studies that met the inclusion criteria were assessed 
+for methodological quality by three reviewers using a standardized critical 
+appraisal tool from the Joanna Briggs Institute (JBI). Three reviewers extracted 
+data independently, using a standardized data extraction tool from the Joanna 
+Briggs Institute (JBI). Ideally for quantitative data meta-analysis was to be 
+conducted where all results were subject to double data entry. Odds ratios (for 
+categorical data) and weighted mean differences (for continuous data) and their 
+95% confidence intervals were to be calculated for analysis and heterogeneity 
+was to be assessed using the standard Chi-square. Where statistical pooling was 
+not possible the finding were be presented in narrative form.
+RESULTS: There were no studies located that met the inclusion requirements of 
+this review. There were also no text and opinion pieces that were specific to 
+cognitive behavioral therapy techniques pain and lung cancer patients.
+CONCLUSIONS: There is currently no evidence available to determine the 
+effectiveness of cognitive behavioural therapy techniques for pain in lung 
+cancer patients.
+
+DOI: 10.7314/apjcp.2015.16.14.6033
+PMID: 26320492 [Indexed for MEDLINE]
+
+
+621. Asian Pac J Cancer Prev. 2015;16(14):6081-7. doi:
+10.7314/apjcp.2015.16.14.6081.
+
+Incidence and Mortality of Breast Cancer and their Relationship to Development 
+in Asia.
+
+Ghoncheh M(1), Mohammadian-Hafshejani A, Salehiniya H.
+
+Author information:
+(1)Department of Epidemiology and Biostatistics, School of Public Health, 
+Hamadan University of Medical Sciences, Hamadan, Iran E-mail : 
+alesaleh70@yahoo.com.
+
+PURPOSE: This study aimed to investigate the incidence and mortality of breast 
+cancer, and its relationship with human development index (HDI) and its 
+components in Asia in 2012.
+MATERIALS AND METHODS: This study was an ecologic study in Asia for assessment 
+of the correlation between age-specific incidence rate (ASIR) and age-specific 
+mortality rate (ASMR) with HDI and its details that include: life expectancy at 
+birth, mean years of schooling and gross national income (GNI) per capita. Data 
+about SIR and SMR for every Asian country for the year 2012 were obtained from 
+the global cancer project. We used a bivariate method for assessment of the 
+correlation between SIR and SMR and HDI and its individual components. 
+Statistical significance was assumed if P<0.05. All reported P-values are 
+two-sided. Statistical analyses were performed using SPSS (Version 15.0, SPSS 
+Inc.).
+RESULTS: In 2012, 639,824 cases of breast cancer were recorded in Asian 
+countries. Countries with the highest standardized incidence rate (ASIR) (per 
+100,000) were Israel (80.5), Lebanon (78.7), Armenia (74.1) and the highest 
+standard mortality rate (ASMR) was observed in Pakistan (25.2), Armenia (24.2), 
+and Lebanon (24). There was a positive correlation between the ASIR of breast 
+cancer and HDI (r = 0.556, p <0.001), whereas there was a negative correlation 
+between the ASMR of breast cancer and HDI (r = -0.051).
+CONCLUSIONS: Breast cancer incidence in countries with higher development is 
+greater, while mortality is greatest in countries with less development. There 
+was a positive and significant relationship between the ASIR of breast cancer 
+and HDI and its components. Also there was a negative but non significant 
+relationship between the ASMR of breast cancer and HDI.
+
+DOI: 10.7314/apjcp.2015.16.14.6081
+PMID: 26320499 [Indexed for MEDLINE]
+
+
+622. Clin Calcium. 2015 Sep;25(9):1313-8.
+
+[On "2015 Guidelines for Prevention and Treatment of Osteoporosis". Osteoporosis 
+in relation to locomotive syndrome].
+
+[Article in Japanese]
+
+Ishibashi H(1).
+
+Author information:
+(1)Department of Orthopedic Surgery, Ina Hospital, Japan.
+
+In the super-aged society of Japan, both osteoporosis and locomotive syndrome 
+are important together from a point of view of the extension of the healthy life 
+expectancy. Osteoporosis is an significant constituting disease of locomotive 
+syndrome, and the measures for locomotive syndrome are important to the 
+prevention of osteoporotic fracture, because it influences the risk of falling. 
+Actually, a rating system and the measures for locomotive syndrome have 
+significant relationship with evaluation and decreace of the risk of falling. To 
+reduce the osteoporotic fracture in Japan, the spread of measures for locomotive 
+syndrome are necessary, as well as the increase of a treatment rate of 
+osteoporosis.
+
+PMID: 26320531 [Indexed for MEDLINE]
+
+
+623. J Biotechnol. 2015 Oct 20;212:116-24. doi: 10.1016/j.jbiotec.2015.08.021.
+Epub  2015 Aug 29.
+
+An acidified thermostabilizing mini-peptide derived from the carboxyl extension 
+of the larger isoform of the plant Rubisco activase.
+
+Zhang M(1), Li X(2), Yang Y(1), Luo Z(1), Liu C(1), Gong M(3), Zou Z(4).
+
+Author information:
+(1)School of Life Sciences, Engineering Research Center of Sustainable 
+Development and Utilization of Biomass Energy, Ministry of Education, Key 
+Laboratory of Biomass Energy and Environmental Biotechnology of Yunnan Province, 
+Yunnan Normal University, Kunming 650500, Yunnan, China.
+(2)Sugarcane Research Institute, Yunnan Academy of Agricultural Sciences, Yunnan 
+Key Laboratory of Sugarcane Genetic Improvement, Kaiyuan 661600, Yunnan, China.
+(3)School of Life Sciences, Engineering Research Center of Sustainable 
+Development and Utilization of Biomass Energy, Ministry of Education, Key 
+Laboratory of Biomass Energy and Environmental Biotechnology of Yunnan Province, 
+Yunnan Normal University, Kunming 650500, Yunnan, China. Electronic address: 
+gongming63@163.com.
+(4)School of Life Sciences, Engineering Research Center of Sustainable 
+Development and Utilization of Biomass Energy, Ministry of Education, Key 
+Laboratory of Biomass Energy and Environmental Biotechnology of Yunnan Province, 
+Yunnan Normal University, Kunming 650500, Yunnan, China. Electronic address: 
+zzr09@sina.com.
+
+Thermostable fusion peptide partners are valuable in engineering thermostability 
+in proteins. We evaluated the Arabidopsis counterpart (AtRAce) and an acidified 
+derivative (mRAce) of the conserved carboxyl extension (RAce) of plant Rubisco 
+activase (RCA) for their thermostabilizing properties in Escherichia coli and 
+Saccharomyces cerevisiae using a protein fusion strategy. We used AtRAce and 
+mRAce as fusion tails for the thermolabile protein RCA2 from Arabidopsis 
+thaliana and Nicotiana tabacum. The homologous fusion of AtRAce with Arabidopsis 
+RCA2 and the heterologous fusion of AtRAce with tobacco RCA2 increased the 
+thermostability of both proteins. The acidified derivative mRAce conferred 
+greater thermostability upon both proteins as compared with AtRAce. Moreover, 
+mRAce enhanced the thermostability of other two thermolabile proteins from 
+Jatropha curcas: the cytosolic ascorbate peroxidase 1 (JcAPX1) and the TATA-box 
+binding protein isoform 1 (JcTBP1). We further report - for the first time - 
+that JcTBP1 mediates heat tolerance in vivo in yeast. Thus, our study identifies 
+a C-terminal acidic mini-peptide - the acidified derivative mRAce - with 
+potential uses in improving the thermostability of heat-labile proteins and 
+their associated heat tolerance in host organisms.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jbiotec.2015.08.021
+PMID: 26321073 [Indexed for MEDLINE]
+
+
+624. Lancet. 2015 Nov 28;386(10009):2145-91. doi: 10.1016/S0140-6736(15)61340-X.
+Epub  2015 Aug 28.
+
+Global, regional, and national disability-adjusted life years (DALYs) for 306 
+diseases and injuries and healthy life expectancy (HALE) for 188 countries, 
+1990-2013: quantifying the epidemiological transition.
+
+GBD 2013 DALYs and HALE Collaborators; Murray CJ, Barber RM, Foreman KJ, 
+Abbasoglu Ozgoren A, Abd-Allah F, Abera SF, Aboyans V, Abraham JP, Abubakar I, 
+Abu-Raddad LJ, Abu-Rmeileh NM, Achoki T, Ackerman IN, Ademi Z, Adou AK, Adsuar 
+JC, Afshin A, Agardh EE, Alam SS, Alasfoor D, Albittar MI, Alegretti MA, Alemu 
+ZA, Alfonso-Cristancho R, Alhabib S, Ali R, Alla F, Allebeck P, Almazroa MA, 
+Alsharif U, Alvarez E, Alvis-Guzman N, Amare AT, Ameh EA, Amini H, Ammar W, 
+Anderson HR, Anderson BO, Antonio CA, Anwari P, Arnlöv J, Arsic Arsenijevic VS, 
+Artaman A, Asghar RJ, Assadi R, Atkins LS, Avila MA, Awuah B, Bachman VF, Badawi 
+A, Bahit MC, Balakrishnan K, Banerjee A, Barker-Collo SL, Barquera S, Barregard 
+L, Barrero LH, Basu A, Basu S, Basulaiman MO, Beardsley J, Bedi N, Beghi E, 
+Bekele T, Bell ML, Benjet C, Bennett DA, Bensenor IM, Benzian H, Bernabé E, 
+Bertozzi-Villa A, Beyene TJ, Bhala N, Bhalla A, Bhutta ZA, Bienhoff K, Bikbov B, 
+Biryukov S, Blore JD, Blosser CD, Blyth FM, Bohensky MA, Bolliger IW, Bora 
+Başara B, Bornstein NM, Bose D, Boufous S, Bourne RR, Boyers LN, Brainin M, 
+Brayne CE, Brazinova A, Breitborde NJ, Brenner H, Briggs AD, Brooks PM, Brown 
+JC, Brugha TS, Buchbinder R, Buckle GC, Budke CM, Bulchis A, Bulloch AG, 
+Campos-Nonato IR, Carabin H, Carapetis JR, Cárdenas R, Carpenter DO, Caso V, 
+Castañeda-Orjuela CA, Castro RE, Catalá-López F, Cavalleri F, Çavlin A, Chadha 
+VK, Chang JC, Charlson FJ, Chen H, Chen W, Chiang PP, Chimed-Ochir O, Chowdhury 
+R, Christensen H, Christophi CA, Cirillo M, Coates MM, Coffeng LE, Coggeshall 
+MS, Colistro V, Colquhoun SM, Cooke GS, Cooper C, Cooper LT, Coppola LM, 
+Cortinovis M, Criqui MH, Crump JA, Cuevas-Nasu L, Danawi H, Dandona L, Dandona 
+R, Dansereau E, Dargan PI, Davey G, Davis A, Davitoiu DV, Dayama A, De Leo D, 
+Degenhardt L, Del Pozo-Cruz B, Dellavalle RP, Deribe K, Derrett S, Des Jarlais 
+DC, Dessalegn M, Dharmaratne SD, Dherani MK, Diaz-Torné C, Dicker D, Ding EL, 
+Dokova K, Dorsey ER, Driscoll TR, Duan L, Duber HC, Ebel BE, Edmond KM, Elshrek 
+YM, Endres M, Ermakov SP, Erskine HE, Eshrati B, Esteghamati A, Estep K, Faraon 
+EJ, Farzadfar F, Fay DF, Feigin VL, Felson DT, Fereshtehnejad SM, Fernandes JG, 
+Ferrari AJ, Fitzmaurice C, Flaxman AD, Fleming TD, Foigt N, Forouzanfar MH, 
+Fowkes FG, Paleo UF, Franklin RC, Fürst T, Gabbe B, Gaffikin L, Gankpé FG, 
+Geleijnse JM, Gessner BD, Gething P, Gibney KB, Giroud M, Giussani G, Gomez 
+Dantes H, Gona P, González-Medina D, Gosselin RA, Gotay CC, Goto A, Gouda HN, 
+Graetz N, Gugnani HC, Gupta R, Gupta R, Gutiérrez RA, Haagsma J, Hafezi-Nejad N, 
+Hagan H, Halasa YA, Hamadeh RR, Hamavid H, Hammami M, Hancock J, Hankey GJ, 
+Hansen GM, Hao Y, Harb HL, Haro JM, Havmoeller R, Hay SI, Hay RJ, Heredia-Pi IB, 
+Heuton KR, Heydarpour P, Higashi H, Hijar M, Hoek HW, Hoffman HJ, Hosgood HD, 
+Hossain M, Hotez PJ, Hoy DG, Hsairi M, Hu G, Huang C, Huang JJ, Husseini A, 
+Huynh C, Iannarone ML, Iburg KM, Innos K, Inoue M, Islami F, Jacobsen KH, Jarvis 
+DL, Jassal SK, Jee SH, Jeemon P, Jensen PN, Jha V, Jiang G, Jiang Y, Jonas JB, 
+Juel K, Kan H, Karch A, Karema CK, Karimkhani C, Karthikeyan G, Kassebaum NJ, 
+Kaul A, Kawakami N, Kazanjan K, Kemp AH, Kengne AP, Keren A, Khader YS, Khalifa 
+SE, Khan EA, Khan G, Khang YH, Kieling C, Kim D, Kim S, Kim Y, Kinfu Y, Kinge 
+JM, Kivipelto M, Knibbs LD, Knudsen AK, Kokubo Y, Kosen S, Krishnaswami S, Kuate 
+Defo B, Kucuk Bicer B, Kuipers EJ, Kulkarni C, Kulkarni VS, Kumar GA, Kyu HH, 
+Lai T, Lalloo R, Lallukka T, Lam H, Lan Q, Lansingh VC, Larsson A, Lawrynowicz 
+AE, Leasher JL, Leigh J, Leung R, Levitz CE, Li B, Li Y, Li Y, Lim SS, Lind M, 
+Lipshultz SE, Liu S, Liu Y, Lloyd BK, Lofgren KT, Logroscino G, Looker KJ, 
+Lortet-Tieulent J, Lotufo PA, Lozano R, Lucas RM, Lunevicius R, Lyons RA, Ma S, 
+Macintyre MF, Mackay MT, Majdan M, Malekzadeh R, Marcenes W, Margolis DJ, 
+Margono C, Marzan MB, Masci JR, Mashal MT, Matzopoulos R, Mayosi BM, Mazorodze 
+TT, Mcgill NW, Mcgrath JJ, Mckee M, Mclain A, Meaney PA, Medina C, Mehndiratta 
+MM, Mekonnen W, Melaku YA, Meltzer M, Memish ZA, Mensah GA, Meretoja A, Mhimbira 
+FA, Micha R, Miller TR, Mills EJ, Mitchell PB, Mock CN, Mohamed Ibrahim N, 
+Mohammad KA, Mokdad AH, Mola GL, Monasta L, Montañez Hernandez JC, Montico M, 
+Montine TJ, Mooney MD, Moore AR, Moradi-Lakeh M, Moran AE, Mori R, Moschandreas 
+J, Moturi WN, Moyer ML, Mozaffarian D, Msemburi WT, Mueller UO, Mukaigawara M, 
+Mullany EC, Murdoch ME, Murray J, Murthy KS, Naghavi M, Naheed A, Naidoo KS, 
+Naldi L, Nand D, Nangia V, Narayan KM, Nejjari C, Neupane SP, Newton CR, Ng M, 
+Ngalesoni FN, Nguyen G, Nisar MI, Nolte S, Norheim OF, Norman RE, Norrving B, 
+Nyakarahuka L, Oh IH, Ohkubo T, Ohno SL, Olusanya BO, Opio JN, Ortblad K, Ortiz 
+A, Pain AW, Pandian JD, Panelo CI, Papachristou C, Park EK, Park JH, Patten SB, 
+Patton GC, Paul VK, Pavlin BI, Pearce N, Pereira DM, Perez-Padilla R, Perez-Ruiz 
+F, Perico N, Pervaiz A, Pesudovs K, Peterson CB, Petzold M, Phillips MR, 
+Phillips BK, Phillips DE, Piel FB, Plass D, Poenaru D, Polinder S, Pope D, 
+Popova S, Poulton RG, Pourmalek F, Prabhakaran D, Prasad NM, Pullan RL, Qato DM, 
+Quistberg DA, Rafay A, Rahimi K, Rahman SU, Raju M, Rana SM, Razavi H, Reddy KS, 
+Refaat A, Remuzzi G, Resnikoff S, Ribeiro AL, Richardson L, Richardus JH, 
+Roberts DA, Rojas-Rueda D, Ronfani L, Roth GA, Rothenbacher D, Rothstein DH, 
+Rowley JT, Roy N, Ruhago GM, Saeedi MY, Saha S, Sahraian MA, Sampson UK, 
+Sanabria JR, Sandar L, Santos IS, Satpathy M, Sawhney M, Scarborough P, 
+Schneider IJ, Schöttker B, Schumacher AE, Schwebel DC, Scott JG, Seedat S, 
+Sepanlou SG, Serina PT, Servan-Mori EE, Shackelford KA, Shaheen A, Shahraz S, 
+Shamah Levy T, Shangguan S, She J, Sheikhbahaei S, Shi P, Shibuya K, Shinohara 
+Y, Shiri R, Shishani K, Shiue I, Shrime MG, Sigfusdottir ID, Silberberg DH, 
+Simard EP, Sindi S, Singh A, Singh JA, Singh L, Skirbekk V, Slepak EL, Sliwa K, 
+Soneji S, Søreide K, Soshnikov S, Sposato LA, Sreeramareddy CT, Stanaway JD, 
+Stathopoulou V, Stein DJ, Stein MB, Steiner C, Steiner TJ, Stevens A, Stewart A, 
+Stovner LJ, Stroumpoulis K, Sunguya BF, Swaminathan S, Swaroop M, Sykes BL, Tabb 
+KM, Takahashi K, Tandon N, Tanne D, Tanner M, Tavakkoli M, Taylor HR, Te Ao BJ, 
+Tediosi F, Temesgen AM, Templin T, Ten Have M, Tenkorang EY, Terkawi AS, Thomson 
+B, Thorne-Lyman AL, Thrift AG, Thurston GD, Tillmann T, Tonelli M, Topouzis F, 
+Toyoshima H, Traebert J, Tran BX, Trillini M, Truelsen T, Tsilimbaris M, Tuzcu 
+EM, Uchendu US, Ukwaja KN, Undurraga EA, Uzun SB, Van Brakel WH, Van De Vijver 
+S, van Gool CH, Van Os J, Vasankari TJ, Venketasubramanian N, Violante FS, 
+Vlassov VV, Vollset SE, Wagner GR, Wagner J, Waller SG, Wan X, Wang H, Wang J, 
+Wang L, Warouw TS, Weichenthal S, Weiderpass E, Weintraub RG, Wenzhi W, 
+Werdecker A, Westerman R, Whiteford HA, Wilkinson JD, Williams TN, Wolfe CD, 
+Wolock TM, Woolf AD, Wulf S, Wurtz B, Xu G, Yan LL, Yano Y, Ye P, Yentür GK, Yip 
+P, Yonemoto N, Yoon SJ, Younis MZ, Yu C, Zaki ME, Zhao Y, Zheng Y, Zonies D, Zou 
+X, Salomon JA, Lopez AD, Vos T.
+
+Comment in
+    Lancet. 2015 Nov 28;386(10009):2121-2.
+    Nature. 2016 Oct 19;538(7625):371.
+
+BACKGROUND: The Global Burden of Disease Study 2013 (GBD 2013) aims to bring 
+together all available epidemiological data using a coherent measurement 
+framework, standardised estimation methods, and transparent data sources to 
+enable comparisons of health loss over time and across causes, age-sex groups, 
+and countries. The GBD can be used to generate summary measures such as 
+disability-adjusted life-years (DALYs) and healthy life expectancy (HALE) that 
+make possible comparative assessments of broad epidemiological patterns across 
+countries and time. These summary measures can also be used to quantify the 
+component of variation in epidemiology that is related to sociodemographic 
+development.
+METHODS: We used the published GBD 2013 data for age-specific mortality, years 
+of life lost due to premature mortality (YLLs), and years lived with disability 
+(YLDs) to calculate DALYs and HALE for 1990, 1995, 2000, 2005, 2010, and 2013 
+for 188 countries. We calculated HALE using the Sullivan method; 95% uncertainty 
+intervals (UIs) represent uncertainty in age-specific death rates and YLDs per 
+person for each country, age, sex, and year. We estimated DALYs for 306 causes 
+for each country as the sum of YLLs and YLDs; 95% UIs represent uncertainty in 
+YLL and YLD rates. We quantified patterns of the epidemiological transition with 
+a composite indicator of sociodemographic status, which we constructed from 
+income per person, average years of schooling after age 15 years, and the total 
+fertility rate and mean age of the population. We applied hierarchical 
+regression to DALY rates by cause across countries to decompose variance related 
+to the sociodemographic status variable, country, and time.
+FINDINGS: Worldwide, from 1990 to 2013, life expectancy at birth rose by 6·2 
+years (95% UI 5·6-6·6), from 65·3 years (65·0-65·6) in 1990 to 71·5 years 
+(71·0-71·9) in 2013, HALE at birth rose by 5·4 years (4·9-5·8), from 56·9 years 
+(54·5-59·1) to 62·3 years (59·7-64·8), total DALYs fell by 3·6% (0·3-7·4), and 
+age-standardised DALY rates per 100 000 people fell by 26·7% (24·6-29·1). For 
+communicable, maternal, neonatal, and nutritional disorders, global DALY 
+numbers, crude rates, and age-standardised rates have all declined between 1990 
+and 2013, whereas for non-communicable diseases, global DALYs have been 
+increasing, DALY rates have remained nearly constant, and age-standardised DALY 
+rates declined during the same period. From 2005 to 2013, the number of DALYs 
+increased for most specific non-communicable diseases, including cardiovascular 
+diseases and neoplasms, in addition to dengue, food-borne trematodes, and 
+leishmaniasis; DALYs decreased for nearly all other causes. By 2013, the five 
+leading causes of DALYs were ischaemic heart disease, lower respiratory 
+infections, cerebrovascular disease, low back and neck pain, and road injuries. 
+Sociodemographic status explained more than 50% of the variance between 
+countries and over time for diarrhoea, lower respiratory infections, and other 
+common infectious diseases; maternal disorders; neonatal disorders; nutritional 
+deficiencies; other communicable, maternal, neonatal, and nutritional diseases; 
+musculoskeletal disorders; and other non-communicable diseases. However, 
+sociodemographic status explained less than 10% of the variance in DALY rates 
+for cardiovascular diseases; chronic respiratory diseases; cirrhosis; diabetes, 
+urogenital, blood, and endocrine diseases; unintentional injuries; and self-harm 
+and interpersonal violence. Predictably, increased sociodemographic status was 
+associated with a shift in burden from YLLs to YLDs, driven by declines in YLLs 
+and increases in YLDs from musculoskeletal disorders, neurological disorders, 
+and mental and substance use disorders. In most country-specific estimates, the 
+increase in life expectancy was greater than that in HALE. Leading causes of 
+DALYs are highly variable across countries.
+INTERPRETATION: Global health is improving. Population growth and ageing have 
+driven up numbers of DALYs, but crude rates have remained relatively constant, 
+showing that progress in health does not mean fewer demands on health systems. 
+The notion of an epidemiological transition--in which increasing 
+sociodemographic status brings structured change in disease burden--is useful, 
+but there is tremendous variation in burden of disease that is not associated 
+with sociodemographic status. This further underscores the need for 
+country-specific assessments of DALYs and HALE to appropriately inform health 
+policy decisions and attendant actions.
+FUNDING: Bill & Melinda Gates Foundation.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(15)61340-X
+PMCID: PMC4673910
+PMID: 26321261 [Indexed for MEDLINE]
+
+
+625. Pathol Biol (Paris). 2015 Sep;63(4-5):230-4. doi:
+10.1016/j.patbio.2015.07.008.  Epub 2015 Aug 25.
+
+Stress in biology and medicine, role in aging.
+
+Robert L(1), Labat-Robert J(2).
+
+Author information:
+(1)Université Paris 5, Hôtel Dieu, 1, place du Parvis-Notre-Dame, 75181 Paris, 
+France. Electronic address: lrobert5@orange.fr.
+(2)Université Paris 5, Hôtel Dieu, 1, place du Parvis-Notre-Dame, 75181 Paris, 
+France.
+
+In this review, we present a short description of the history of stress in the 
+medical literature followed by a recapitulation of its mechanisms, from the 
+cellular to the organismal level and its role in aging. The medical importance 
+of stress was first taken up as a subject of experimental medicine by 
+physiologists, starting from Claude Bernard's concept of the stability of the 
+"milieu intérieur", altered by stress, followed by others, culminating recently 
+by the elucidation of its mechanisms at the cellular and molecular level. These 
+studies showed that oxidative stress is one of the most important and most 
+frequent form of biological aggression. Its accumulation over time is important 
+for the burnout syndrome and for neuronal aging. There is however a positive 
+side to it also, redox signaling plays an important role in the functional 
+coordination of cellular activities. These mechanisms, still to be more 
+completely evaluated, have to be taken in account for planning efficient 
+protective therapeutic interventions.
+
+Copyright © 2015 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.patbio.2015.07.008
+PMID: 26321500 [Indexed for MEDLINE]
+
+
+626. Front Endocrinol (Lausanne). 2015 Aug 11;6:122. doi:
+10.3389/fendo.2015.00122.  eCollection 2015.
+
+Modalities for Visualization of Cortical Bone Remodeling: The Past, Present, and 
+Future.
+
+Harrison KD(1), Cooper DM(1).
+
+Author information:
+(1)Department of Anatomy and Cell Biology, University of Saskatchewan , 
+Saskatoon, SK , Canada.
+
+Bone's ability to respond to load-related phenomena and repair microdamage is 
+achieved through the remodeling process, which renews bone by activating groups 
+of cells known as basic multicellular units (BMUs). The products of BMUs, 
+secondary osteons, have been extensively studied via classic two-dimensional 
+techniques, which have provided a wealth of information on how histomorphology 
+relates to skeletal structure and function. Remodeling is critical in 
+maintaining healthy bone tissue; however, in osteoporotic bone, imbalanced 
+resorption results in increased bone fragility and fracture. With increasing 
+life expectancy, such degenerative bone diseases are a growing concern. The 
+three-dimensional (3D) morphology of BMUs and their correlation to function, 
+however, are not well-characterized and little is known about the specific 
+mechanisms that initiate and regulate their activity within cortical bone. We 
+believe a key limitation has been the lack of 3D information about BMU 
+morphology and activity. Thus, this paper reviews methodologies for 3D 
+investigation of cortical bone remodeling and, specifically, structures 
+associated with BMU activity (resorption spaces) and the structures they create 
+(secondary osteons), spanning from histology to modern ex vivo imaging 
+modalities, culminating with the growing potential of in vivo imaging. This 
+collection of papers focuses on the theme of "putting the 'why' back into bone 
+architecture." Remodeling is one of two mechanisms "how" bone structure is 
+dynamically modified and thus an improved 3D understanding of this fundamental 
+process is crucial to ultimately understanding the "why."
+
+DOI: 10.3389/fendo.2015.00122
+PMCID: PMC4531299
+PMID: 26322017
+
+
+627. Front Plant Sci. 2015 Aug 14;6:638. doi: 10.3389/fpls.2015.00638.
+eCollection  2015.
+
+Combined endophytic inoculants enhance nickel phytoextraction from serpentine 
+soil in the hyperaccumulator Noccaea caerulescens.
+
+Visioli G(1), Vamerali T(2), Mattarozzi M(3), Dramis L(1), Sanangelantoni AM(1).
+
+Author information:
+(1)Department of Life Sciences, University of Parma Parma, Italy.
+(2)Department of Agronomy, Food, Natural Resources, Animals and the Environment, 
+University of Padova Padova, Italy.
+(3)Department of Chemistry, University of Parma Parma, Italy.
+
+This study assesses the effects of specific bacterial endophytes on the 
+phytoextraction capacity of the Ni-hyperaccumulator Noccaea caerulescens, 
+spontaneously growing in a serpentine soil environment. Five metal-tolerant 
+endophytes had already been selected for their high Ni tolerance (6 mM) and 
+plant growth promoting ability. Here we demonstrate that individual bacterial 
+inoculation is ineffective in enhancing Ni translocation and growth of N. 
+caerulescens in serpentine soil, except for specific strains Ncr-1 and Ncr-8, 
+belonging to the Arthrobacter and Microbacterium genera, which showed the 
+highest indole acetic acid production and 1-aminocyclopropane-1-carboxylic 
+acid-deaminase activity. Ncr-1 and Ncr-8 co-inoculation was even more efficient 
+in promoting plant growth, soil Ni removal, and translocation of Ni, together 
+with that of Fe, Co, and Cu. Bacteria of both strains densely colonized the root 
+surfaces and intercellular spaces of leaf epidermal tissue. These two bacterial 
+strains also turned out to stimulate root length, shoot biomass, and Ni uptake 
+in Arabidopsis thaliana grown in MS agar medium supplemented with Ni. It is 
+concluded that adaptation of N. caerulescens in highly Ni-contaminated 
+serpentine soil can be enhanced by an integrated community of bacterial 
+endophytes rather than by single strains; of the former, Arthrobacter and 
+Microbacterium may be useful candidates for future phytoremediation trials in 
+multiple metal-contaminated sites, with possible extension to 
+non-hyperaccumulator plants.
+
+DOI: 10.3389/fpls.2015.00638
+PMCID: PMC4536374
+PMID: 26322074
+
+
+628. Drugs Context. 2015 Jul 28;4:212285. doi: 10.7573/dic.212285. eCollection
+2015.
+
+An assessment of chemotherapy-induced nausea and vomiting direct costs in three 
+EU countries.
+
+Turini M(1), Piovesana V(1), Ruffo P(1), Ripellino C(2), Cataldo N(2).
+
+Author information:
+(1)Helsinn Healthcare SA, Lugano/Pazzallo, Switzerland;
+(2)IMS Health Information Solutions Medical Research srl, Milan, Italy.
+
+BACKGROUND: chemotherapy-induced nausea and vomiting (CINV) has been commonly 
+reported as one of the most distressing adverse effects among treated patients 
+with cancer. Inadequately treated, CINV can lead to increased resource 
+utilization and severely impair patients' daily functioning and quality of life. 
+Direct costs include acquisition cost of antiemetic drugs and rescue medication, 
+administration devices, add-on treatments, such as hydration, and additional 
+patient care, that is, nursing and physician time, unscheduled office visits, 
+emergency room admissions, and, in some cases, extended hospitalization or 
+readmission. There are many reports on the cost-effectiveness of antiemetic 
+drugs, but information on the total cost per patient associated with CINV is 
+limited. The costs associated with severe CINV episodes are considered 
+responsible for the most significant part of the expenditures.
+SCOPE: The aim of this study was to investigate the management of CINV episodes 
+in three European health-care environments and to estimate direct costs 
+associated with severe CINV episodes.
+METHODS: An online survey addressed to Italian, German, and French oncologists 
+and oncology nurses was performed. The survey included 41 questions about the 
+management and the resource utilization for patients experiencing any CINV 
+episode during the 6-month period preceding the survey. Furthermore, the cost 
+associated with severe CINV episode management was estimated by adopting the 
+National Health Service's perspective.
+FINDINGS: A large proportion of patients receiving chemotherapy experienced a 
+CINV episode (34.4% in Italy, 50.2% in France, and 40.4% in Germany); among 
+those, 8.8% in Italy, 11.6% in France, and 19.2% in Germany experienced a severe 
+CINV episode. Compared with Italy, Germany and France presented a greater 
+hospitalization rate following an unplanned visit to the oncology ward or an 
+emergency room access due to CINV. In Italy, the mean cost per patient with a 
+severe CINV episode resulted in approximately €389, about half of the mean cost 
+in France (€750) and a third of the mean cost in Germany (€1,017).
+CONCLUSIONS: Severe CINV episodes requiring hospitalization, day hospital, or 
+hospitalization extension involve a significant cost for the National Health 
+Services; additional studies should be conducted in order to evaluate potential 
+ways to offset these expenses.
+
+DOI: 10.7573/dic.212285
+PMCID: PMC4544273
+PMID: 26322114
+
+
+629. Ann Appl Stat. 2014 Dec;8(4):2268-2291. doi: 10.1214/14-AOAS769.
+
+Longitudinal Mixed Membership Trajectory Models for Disability Survey Data.
+
+Manrique-Vallier D(1).
+
+Author information:
+(1)Department of Statistics, Indiana University.
+
+We develop new methods for analyzing discrete multivariate longitudinal data and 
+apply them to functional disability data on U.S. elderly population from the 
+National Long Term Care Survey (NLTCS), 1982-2004. Our models build on a mixed 
+membership framework, in which individuals are allowed multiple membership on a 
+set of extreme profiles characterized by time-dependent trajectories of 
+progression into disability. We also develop an extension that allows us to 
+incorporate birth-cohort effects, in order to assess inter-generational changes. 
+Applying these methods we find that most individuals follow trajectories that 
+imply a late onset of disability, and that younger cohorts tend to develop 
+disabilities at a later stage in life compared to their elders.
+
+DOI: 10.1214/14-AOAS769
+PMCID: PMC4548941
+PMID: 26322146
+
+
+630. J Water Health. 2015 Sep;13(3):662-70. doi: 10.2166/wh.2015.201.
+
+Adoption of a microbial health-based target for Australian drinking water 
+regulation.
+
+O'Toole J(1), Sinclair M(1), Gibney K(1), Leder K(1).
+
+Author information:
+(1)Department of Epidemiology and Preventive Medicine, School of Public Health 
+and Preventive Medicine, Monash University, 99 Commercial Road, Victoria 3004, 
+Melbourne, Australia E-mail: joanne.otoole@monash.edu.
+
+The health-based targets of 1 in 10,000 for infection and 10(-6) disability 
+adjusted life years (DALYs) per person per year are increasingly being 
+considered, or have already been adopted, to define microbial safety targets for 
+water. The aim of this paper is to convey information about how these two 
+targets compare by converting each of the target values to a common metric. The 
+metric chosen for viral (rotavirus and norovirus) and protozoan 
+(Cryptosporidium) reference pathogens is the estimated maximum number of annual 
+drinking water-associated cases of acute diarrhoeal disease tolerated. For the 
+reference bacterial pathogen Campylobacter, sequelae to acute diarrhoeal illness 
+have also been considered in estimating the tolerable number of cases for the 
+DALY target. Also investigated is whether non-compliance with targets would be 
+detected as a waterborne disease outbreak by the health surveillance system in 
+an extreme hypothetical situation whereby all tolerable cases per annum occurred 
+as a single event. The paper highlights that verification of compliance with 
+targets cannot be demonstrated by the absence of reported drinking 
+water-associated outbreaks alone and concludes that introduction of a 
+quantitative health-based outcome for drinking water in Australia would help 
+improve water quality management by providing a common goal directly linked to 
+health outcomes.
+
+DOI: 10.2166/wh.2015.201
+PMID: 26322752 [Indexed for MEDLINE]
+
+
+631. Health Technol Assess. 2015 Aug;19(69):1-190. doi: 10.3310/hta19690.
+
+The INTRABEAM® Photon Radiotherapy System for the adjuvant treatment of early 
+breast cancer: a systematic review and economic evaluation.
+
+Picot J(1), Copley V(1), Colquitt JL(1), Kalita N(1), Hartwell D(1), Bryant 
+J(1).
+
+Author information:
+(1)Southampton Health Technology Assessments Centre (SHTAC), University of 
+Southampton, Southampton, UK.
+
+BACKGROUND: Initial treatment for early breast cancer is usually either 
+breast-conserving surgery (BCS) or mastectomy. After BCS, whole-breast external 
+beam radiotherapy (WB-EBRT) is the standard of care. A potential alternative to 
+post-operative WB-EBRT is intraoperative radiation therapy delivered by the 
+INTRABEAM(®) Photon Radiotherapy System (Carl Zeiss, Oberkochen, Germany) to the 
+tissue adjacent to the resection cavity at the time of surgery.
+OBJECTIVE: To assess the clinical effectiveness and cost-effectiveness of 
+INTRABEAM for the adjuvant treatment of early breast cancer during surgical 
+removal of the tumour.
+DATA SOURCES: Electronic bibliographic databases, including MEDLINE, EMBASE and 
+The Cochrane Library, were searched from inception to March 2014 for 
+English-language articles. Bibliographies of articles, systematic reviews, 
+clinical guidelines and the manufacturer's submission were also searched. The 
+advisory group was contacted to identify additional evidence.
+METHODS: Systematic reviews of clinical effectiveness, health-related quality of 
+life and cost-effectiveness were conducted. Two reviewers independently screened 
+titles and abstracts for eligibility. Inclusion criteria were applied to full 
+texts of retrieved papers by one reviewer and checked by a second reviewer. Data 
+extraction and quality assessment were undertaken by one reviewer and checked by 
+a second reviewer, and differences in opinion were resolved through discussion 
+at each stage. Clinical effectiveness studies were included if they were carried 
+out in patients with early operable breast cancer. The intervention was the 
+INTRABEAM system, which was compared with WB-EBRT, and study designs were 
+randomised controlled trials (RCTs). Controlled clinical trials could be 
+considered if data from available RCTs were incomplete (e.g. absence of data on 
+outcomes of interest). A cost-utility decision-analytic model was developed to 
+estimate the costs, benefits and cost-effectiveness of INTRABEAM compared with 
+WB-EBRT for early operable breast cancer.
+RESULTS: One non-inferiority RCT, TARGeted Intraoperative radioTherapy Alone 
+(TARGIT-A), met the inclusion criteria for the review. The review found that 
+local recurrence was slightly higher following INTRABEAM than WB-EBRT, but the 
+difference did not exceed the 2.5% non-inferiority margin providing INTRABEAM 
+was given at the same time as BCS. Overall survival was similar with both 
+treatments. Statistically significant differences in complications were found 
+for the occurrence of wound seroma requiring more than three aspirations (more 
+frequent in the INTRABEAM group) and for a Radiation Therapy Oncology Group 
+toxicity score of grade 3 or 4 (less frequent in the INTRABEAM group). 
+Cost-effectiveness base-case analysis indicates that INTRABEAM is less expensive 
+but also less effective than WB-EBRT because it is associated with lower total 
+costs but fewer total quality-adjusted life-years gained. However, sensitivity 
+analyses identified four model parameters that can cause a switch in the 
+treatment option that is considered cost-effective.
+LIMITATIONS: The base-case result from the model is subject to uncertainty 
+because the disease progression parameters are largely drawn from the single 
+available RCT. The RCT median follow-up of 2 years 5 months may be inadequate, 
+particularly as the number of participants with local recurrence is low. The 
+model is particularly sensitive to this parameter.
+CONCLUSIONS AND IMPLICATIONS: A significant investment in INTRABEAM equipment 
+and staff training (clinical and non-clinical) would be required to make this 
+technology available across the NHS. Longer-term follow-up data from the 
+TARGIT-A trial and analysis of registry data are required as results are 
+currently based on a small number of events and economic modelling results are 
+uncertain.
+STUDY REGISTRATION: This study is registered as PROSPERO CRD42013006720.
+FUNDING: The National Institute for Health Research Health Technology Assessment 
+programme. Note that the economic model associated with this document is 
+protected by intellectual property rights, which are owned by the University of 
+Southampton. Anyone wishing to modify, adapt, translate, reverse engineer, 
+decompile, dismantle or create derivative work based on the economic model must 
+first seek the agreement of the property owners.
+
+DOI: 10.3310/hta19690
+PMCID: PMC4781621
+PMID: 26323045 [Indexed for MEDLINE]
+
+
+632. Asian J Androl. 2016 Jan-Feb;18(1):39-42. doi: 10.4103/1008-682X.159713.
+
+Countries with high circumcision prevalence have lower prostate cancer 
+mortality.
+
+Wachtel MS, Yang S, Morris BJ(1).
+
+Author information:
+(1)School of Medical Sciences, University of Sydney, Sydney, New South Wales, 
+Australia.
+
+Comment in
+    Asian J Androl. 2016 Nov-Dec;18(6):949.
+    Asian J Androl. 2016 Nov-Dec;18(6):950-951.
+
+The present study determined the relationship of male circumcision (MC) 
+prevalence with prostatic carcinoma mortality rate in the 85 countries globally 
+for which data on each were available. MC prevalence in different countries were 
+obtained from a WHO report and allocated to WHO categories of 81%-100%, 20%-80%, 
+and 0%-19%. Prostatic carcinoma mortality data were from Globoscan, gross 
+national income per capita as well as male life expectancy were from a World 
+Bank report, and percentages of Jews and Muslims by country were from the Pew 
+Research Institute and the North American Jewish Data Bank. Negative binomial 
+regression was used to estimate prostatic carcinoma mortality rate ratios. 
+Compared to countries with 81%-100% MC prevalence, prostatic carcinoma mortality 
+rate was higher in those with MC prevalence of 0%-19% (adjusted OR [adjOR] 
+=1.82; 95% CI 1.14, 2.91) and 20%-80% (adjOR = 1.80; 95% CI, 1.16, 2.78). Higher 
+Muslim percentage (adjOR = 0.92 [95% CI 0.87, 0.98] for each 10% increase) and 
+longer life expectancy (adjOR = 0.82 [95% CI 0.72, 0.93] for each 5 additional 
+years) were associated with lower prostatic carcinoma mortality. Higher gross 
+national income per capita (adjOR = 1.10 [95% CI 1.01, 1.20] for double this 
+parameter) correlated with higher mortality. Compared with American countries, 
+prostatic carcinoma mortality rate was similar in Eastern Mediterranean 
+countries (adjOR = 1.02; 95% CI 0.58, 1.76), but was lower in European (adjOR = 
+0.60; 95% CI 0.50, 0.74) and Western Pacific countries (adjOR = 0.54, 95% CI 
+0.37, 0.78). Thus, prostate cancer mortality is significantly lower in countries 
+in which MC prevalence exceeds 80%.
+
+DOI: 10.4103/1008-682X.159713
+PMCID: PMC4736355
+PMID: 26323559 [Indexed for MEDLINE]
+
+
+633. Curr Hypertens Rep. 2015 Oct;17(10):81. doi: 10.1007/s11906-015-0591-8.
+
+Review of New Statistical Techniques for Analysis of Cardiovascular Trial and 
+Registry Data.
+
+Amaratunga D(1), Cabrera J.
+
+Author information:
+(1)Rutgers Cardiovascular Institute, Rutgers University, Newark, NJ, USA.
+
+Cardiovascular research generates a large variety of data including big and 
+small datasets that pose interesting challenges to researchers in biomedical 
+statistics. This paper covers a number of important methodology issues and the 
+solutions that have been applied so far to try to solve them. The first issue is 
+multiple testing and the use of false discovery rates to correct for 
+multiplicity. This is illustrated with an application related to genotyping 
+heart diseases. The second is measuring life extension at present and in the 
+future. The third one is the issue of U and J curves and the questions they 
+present. Finally, this paper studies visit-to-visit blood pressure variability 
+as a predictor of cardiovascular events.
+
+DOI: 10.1007/s11906-015-0591-8
+PMID: 26323874 [Indexed for MEDLINE]
+
+
+634. Ther Umsch. 2015 Sep;72(9):577-9. doi: 10.1024/0040-5930/a000721.
+
+[Telemedicine for the elderly- opportunities are increasing, critical factors 
+have to be tackled!].
+
+[Article in German]
+
+Otto U(1), Tarnutzer S, Brettenhofer M.
+
+Author information:
+(1)1 Careum Forschung, Forschungsinstitut der Kalaidos FH Gesundheit, Zürich.
+
+An autonomous life and quality .of life are essential objectives for the use of 
+telemedicine among the elderly population. To make aging in place possible the 
+elderly peoples' homes have to be embedded in an integrated health and aged care 
+system. In addition to this, it is necessary to create coproduction with the 
+patients and their relatives. However, to meet those targets it is required to 
+achieve enormous rethinking and widely acceptance of telemedicine among all 
+health care professionals. Medical institutions have to undergo vast changes 
+towards a patient-centered health care delivery and an increased intersectoral 
+and interdisciplinary collaboration. Political will for fair and just allocation 
+processes is essential to avoid a potential digital divide among the population, 
+e.g. for socioeconomic disadvantaged population groups or people living in rural 
+areas. Therefore,flanking preparing measures and continuous support through 
+easily accessible contact persons are essential. According adaptations of 
+financial models and an extension of health insurance benefits will be 
+necessary.
+
+DOI: 10.1024/0040-5930/a000721
+PMID: 26323957 [Indexed for MEDLINE]

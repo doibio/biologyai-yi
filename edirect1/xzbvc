@@ -1,0 +1,1000 @@
+750. Metabolomics. 2016;12:109. doi: 10.1007/s11306-016-1051-4. Epub 2016 Jun 7.
+
+Recon 2.2: from reconstruction to model of human metabolism.
+
+Swainston N(1), Smallbone K(2), Hefzi H(3), Dobson PD(2), Brewer J(4), Hanscho 
+M(5), Zielinski DC(6), Ang KS(7), Gardiner NJ(8), Gutierrez JM(3), Kyriakopoulos 
+S(9), Lakshmanan M(9), Li S(3), Liu JK(10), Martínez VS(11), Orellana CA(11), 
+Quek LE(11), Thomas A(12), Zanghellini J(13), Borth N(5), Lee DY(7), Nielsen 
+LK(11), Kell DB(14), Lewis NE(15), Mendes P(16).
+
+Author information:
+(1)Manchester Centre for Synthetic Biology of Fine and Speciality Chemicals 
+(SYNBIOCHEM), Manchester Institute of Biotechnology, The University of 
+Manchester, Manchester, M1 7DN UK ; Faculty of Life Sciences, The University of 
+Manchester, Manchester, M13 9PL UK ; School of Computer Science, The University 
+of Manchester, Manchester, M13 9PL UK.
+(2)School of Computer Science, The University of Manchester, Manchester, M13 9PL 
+UK.
+(3)Department of Bioengineering, University of California, San Diego, La Jolla, 
+CA USA ; Novo Nordisk Foundation Center for Biosustainability, University of 
+California, San Diego School of Medicine, La Jolla, CA USA.
+(4)Harvard Extension School, 51 Brattle St., Cambridge, MA 02138 USA ; Computer 
+Science and Artificial Intelligence Lab, Massachusetts Institute of Technology, 
+32 Vassar St., Cambridge, MA 02139 USA.
+(5)Department of Biotechnology, University of Natural Resources and Life 
+Sciences, Vienna, Austria ; Austrian Centre of Industrial Biotechnology, Vienna, 
+Austria.
+(6)Department of Bioengineering, University of California, San Diego, La Jolla, 
+CA USA.
+(7)Department of Chemical and Biomolecular Engineering, National University of 
+Singapore, 4 Engineering Drive 4, Singapore, 117585 Singapore ; Bioprocessing 
+Technology Institute, Agency for Science, Technology and Research (ASTAR), 20 
+Biopolis Way, #06-01, Centros, Singapore, 138668 Singapore.
+(8)Faculty of Life Sciences, The University of Manchester, Manchester, M13 9PL 
+UK.
+(9)Bioprocessing Technology Institute, Agency for Science, Technology and 
+Research (ASTAR), 20 Biopolis Way, #06-01, Centros, Singapore, 138668 Singapore.
+(10)Bioinformatics and Systems Biology Program, University of California, San 
+Diego, La Jolla, CA USA.
+(11)Australian Institute for Bioengineering and Nanotechnology (AIBN), The 
+University of Queensland, Corner College and Cooper Roads (Bldg 75), Brisbane, 
+QLD 4072 Australia.
+(12)Novo Nordisk Foundation Center for Biosustainability, University of 
+California, San Diego School of Medicine, La Jolla, CA USA ; Bioinformatics and 
+Systems Biology Program, University of California, San Diego, La Jolla, CA USA.
+(13)Austrian Centre of Industrial Biotechnology, Vienna, Austria.
+(14)Manchester Centre for Synthetic Biology of Fine and Speciality Chemicals 
+(SYNBIOCHEM), Manchester Institute of Biotechnology, The University of 
+Manchester, Manchester, M1 7DN UK ; School of Chemistry, The University of 
+Manchester, Manchester, M13 9PL UK.
+(15)Novo Nordisk Foundation Center for Biosustainability, University of 
+California, San Diego School of Medicine, La Jolla, CA USA ; Department of 
+Pediatrics, University of California, San Diego, La Jolla, CA USA.
+(16)Manchester Centre for Synthetic Biology of Fine and Speciality Chemicals 
+(SYNBIOCHEM), Manchester Institute of Biotechnology, The University of 
+Manchester, Manchester, M1 7DN UK ; School of Computer Science, The University 
+of Manchester, Manchester, M13 9PL UK ; Center for Quantitative Medicine, UConn 
+Health, 263 Farmington Avenue, Farmington, CT 06030-6033 USA.
+
+INTRODUCTION: The human genome-scale metabolic reconstruction details all known 
+metabolic reactions occurring in humans, and thereby holds substantial promise 
+for studying complex diseases and phenotypes. Capturing the whole human 
+metabolic reconstruction is an on-going task and since the last community effort 
+generated a consensus reconstruction, several updates have been developed.
+OBJECTIVES: We report a new consensus version, Recon 2.2, which integrates 
+various alternative versions with significant additional updates. In addition to 
+re-establishing a consensus reconstruction, further key objectives included 
+providing more comprehensive annotation of metabolites and genes, ensuring full 
+mass and charge balance in all reactions, and developing a model that correctly 
+predicts ATP production on a range of carbon sources.
+METHODS: Recon 2.2 has been developed through a combination of manual curation 
+and automated error checking. Specific and significant manual updates include a 
+respecification of fatty acid metabolism, oxidative phosphorylation and a 
+coupling of the electron transport chain to ATP synthase activity. All 
+metabolites have definitive chemical formulae and charges specified, and these 
+are used to ensure full mass and charge reaction balancing through an automated 
+linear programming approach. Additionally, improved integration with 
+transcriptomics and proteomics data has been facilitated with the updated 
+curation of relationships between genes, proteins and reactions.
+RESULTS: Recon 2.2 now represents the most predictive model of human metabolism 
+to date as demonstrated here. Extensive manual curation has increased the 
+reconstruction size to 5324 metabolites, 7785 reactions and 1675 associated 
+genes, which now are mapped to a single standard. The focus upon mass and charge 
+balancing of all reactions, along with better representation of energy 
+generation, has produced a flux model that correctly predicts ATP yield on 
+different carbon sources.
+CONCLUSION: Through these updates we have achieved the most complete and best 
+annotated consensus human metabolic reconstruction available, thereby increasing 
+the ability of this resource to provide novel insights into normal and disease 
+states in human. The model is freely available from the Biomodels database 
+(http://identifiers.org/biomodels.db/MODEL1603150001).
+
+DOI: 10.1007/s11306-016-1051-4
+PMCID: PMC4896983
+PMID: 27358602
+
+
+751. Afr Health Sci. 2016 Mar;16(1):18-26. doi: 10.4314/ahs.v16i1.3.
+
+Indirect child mortality estimation technique to identify trends of under-five 
+mortality in Ethiopia.
+
+Ayele DG(1), Zewotir T(1), Mwambi H(1).
+
+Author information:
+(1)School of Mathematics, Statistics and Computer Science, University of 
+KwaZulu-Natal, Pietermaritzburg, Private Bag X01, Scottsville, 3209, South 
+Africa.
+
+BACKGROUND: In sub-Saharan African countries, the chance of a child dying before 
+the age of five years is high. The problem is similar in Ethiopia, but it shows 
+a decrease over years.
+METHODS: The 2000; 2005 and 2011 Ethiopian Demographic and Health Survey results 
+were used for this work. The purpose of the study is to detect the pattern of 
+under-five child mortality overtime. Indirect child mortality estimation 
+technique is adapted to examine the under-five child mortality trend in 
+Ethiopia.
+RESULTS: From the result, it was possible to see the trend of under-five child 
+mortality in Ethiopia. The under-five child mortality shows a decline in 
+Ethiopia.
+CONCLUSION: From the study, it can be seen that there is a positive correlation 
+between mother and child survival which is almost certain in any population. 
+Therefore, this study shows the trend of under-five mortality in Ethiopia and 
+decline over time.
+
+DOI: 10.4314/ahs.v16i1.3
+PMCID: PMC4915413
+PMID: 27358609 [Indexed for MEDLINE]
+
+
+752. J Lifestyle Med. 2016 Mar;6(1):16-26. doi: 10.15280/jlm.2016.6.1.16. Epub
+2016  Mar 31.
+
+Health System Development and Performance in Korea and Japan: A Comparative 
+Study of 2000-2013.
+
+Dronina Y(1), Yoon YM(2), Sakamaki H(3), Nam EW(1).
+
+Author information:
+(1)Yonsei Global Health Center, Yonsei University, Wonju, Korea; Department of 
+Health Administration, Graduate School, Yonsei University, Wonju, Korea; 
+Institute for Poverty and Alleviation and International Development (IPAID), 
+Wonju, Korea.
+(2)Yonsei Global Health Center, Yonsei University, Wonju, Korea; Department of 
+Health Administration, Graduate School, Yonsei University, Wonju, Korea.
+(3)School of Management, Tokyo University of Science, Tokyo, Japan.
+
+BACKGROUND: The Japanese and Korean healthcare systems are very similar and 
+thus, they have the same problems and weaknesses. This study discusses the 
+problems and proposes complementary solutions based on the results of a 
+comparative analysis of conditions in the healthcare systems of the two 
+countries.
+METHODS: This article presents a comparative analysis of the healthcare status 
+of the two countries based on certain health criteria used worldwide, a 
+literature review, and data from the Korean Ministry of Health and Welfare, 
+Japanese Ministry of Health, Labour and Welfare, World Health Organization 
+(WHO), World Bank, and Organization for Economic Cooperation and Development 
+(OECD).
+RESULTS: The scores of the healthcare systems were calculated for quantitative 
+comparison. The performance of the Japanese health system was the best, followed 
+by the Korean health system. Both countries observed an increased life 
+expectancy and decreased infant and under-five mortality rates during the last 
+14 years. However, lower fertility rates were found, which could lead to a 
+decreased working population and a subsequent increase in the economic burden of 
+governments and households. A higher alcohol consumption rate was found in 
+Korea, which was related to the establishment of interpersonal relationships.
+CONCLUSION: The reform of the healthcare systems in Korea and Japan led to an 
+increased life expectancy; concurrently, reduced fertility rates led to an 
+increasing aging population. As a result, increasing health costs require 
+additional measures to improve health equity and strengthen health promotion.
+
+DOI: 10.15280/jlm.2016.6.1.16
+PMCID: PMC4915763
+PMID: 27358836
+
+
+753. Med Law. 2014 Jul;33(2):41-7.
+
+MKHITAR GOSH'S MEDIEVAL LAW CODE AND ITS IMPLICATIONS FOR ARMENIAN COMMUNITIES 
+ABROAD.
+
+Davtyan S, Khachatryan M, Johrian A, Ghazaryan K.
+
+The Law Book of the medieval Armenian legal and economic thought is an 
+exceptional work that encompasses valuable information of the Armenian nation's 
+domestic life. Mkhitar Gosh was considered to be one of the most outstanding 
+figures and lawyers (lawmakers) of all times. Armenian Law Code after Mkhitar 
+Gosh is writhed at 12 century. One of the primary sources for the law code was 
+Armenian customary law. This Code became moral code for guiding for hall 
+Armenians over the world because of high moral spirit reflecting Armenian 
+mentality. This article presents the brief history of extension of legal rules 
+setting out in the Law Code. The Law Code was established and widely used not 
+only in Armenia but also in a number of Armenian communities abroad (Russian, 
+Poland, Georgia, Latvia, India etc.). Law Code was accepted by all Armenians. 
+Moreover, it served for the development of legislation for a number of civilized 
+European and Asian countries.
+
+PMID: 27359007 [Indexed for MEDLINE]
+
+
+754. Med Law. 2014 Oct;33(3):49-59.
+
+THE ADOPTION OF BUDDHISM'S PRINCIPLES AS A MEANS OF IMPROVING PHYSICIANS' WORK 
+WITH TERMINALLY ILL PATIENTS.
+
+Wolf R.
+
+The medical approach as summarized by Leibowitz--"We must treat the person, not 
+just the disease"--highlights the importance of treating the sick person and not 
+only the illness' pathology. This approach calls for healing not only the 
+physical side, but also--and mainly--the mental aspect of the patient. One of 
+the goals of this article is to turn physicians' attention towards the 
+compassion necessary in treating a person with a severe or chronic illness, or a 
+person who is dying--precisely because sometimes there is no medical cure for 
+the physical state of such a patient. Therefore, physicians' attention does need 
+to be directed to providing emotional assistance to such a patient. Sometimes, 
+the emotional strength the patient draws from the medical team that is treating 
+him can change his view of, and approach to, the illness, and can enable his 
+body to muster the emotional strength necessary to deal with his situation. 
+Buddhism's approach enables the sick patient to experience his illness in a 
+different way, by making peace with one's situation and, sometimes, even viewing 
+the situation differently--viewing the illness as a type of renewal. Buddhism, 
+therefore, enables a sick person to choose a different point of view when his 
+energy is exhausted and he loses hope, providing quality of life to patients. In 
+such a situation, a sick person finds emotional strength in the knowledge that 
+the end of his life is actually a renewal somewhere else. The limited life 
+expectancy of the terminally ill patient demands that he be able to spend his 
+time with minimal concerns and worries, and does not leave much time for 
+treating the emotional side--the patient's fear. In light of this fact, the 
+patient's ability to look ahead and grasp at hope is the most important issue. 
+As much as possible, this is accomplished in an atmosphere of acceptance and 
+with the absence, or reduction, of fear. The freedom to decide for oneself how 
+to behave, according to one's own approach, is what makes it possible for the 
+sick individual to feel empowered, and is liable to encourage the patient to 
+adopt a different point of view. The Buddhist approach recommends replacing the 
+helplessness that usually accompanies the predicament of terminally ill patients 
+with acceptance of responsibility for their behavior in any given situation; 
+this is Buddhism's main contribution to both physicians and patients alike.
+
+PMID: 27359017 [Indexed for MEDLINE]
+
+
+755. Med Law. 2014 Oct;33(3):87-106.
+
+THE BUDGET, THE FAMILY PHYSICIAN AND THE PATIENT A DIFFERENT APPROACH.
+
+Keidar I.
+
+Modern medicine offers better health and longer life expectancy, yet consumes 
+huge budgets. The Israeli Health Insurance Law (IHIL) regulates the delivery of 
+health services to all Israel's residents through Health Maintenance 
+Organizations (HMOS). These organizations confront constant struggles with their 
+budgets and have to reduce expenses as much as possible (without harming the 
+health level rendered). In the constant necessity to restrain expenses are 
+embedded difficulties that might cause unrest to the Public Health System (PHS). 
+At the edge of the public health spear are the Family Physicians (FPS) who have 
+not only to supply the best possible medicine to their patients, and at the same 
+time confront budgetary constraints that have the potential to hinder the level 
+of rendered medicine, but also have, at times, to mediate between the 
+conflicting interests of their patients' wish to receive the best available 
+health measures, the FP own medical believes, the HMO's directives and, between 
+the FPS wish, to keep up the number of their (content) patients. One of the 
+World Health Organization's (WHO) concepts, like Israel's one, is that soul and 
+body are inseparable and must be addressed simultaneously in the process of 
+healing. Real life at the Family Physicians' clinics shows, at times, that 
+despite the Israeli physicians' very high professional level, and the Israeli 
+Health System (IHS)'s high efficiency, such a process, due to budgetary 
+constraints, workload and various other reasons, does not always take place and, 
+on the personal level, there are patients who feel that the "system" has treated 
+them incorrectly and in an unsatisfactory manner. Unsatisfied and restless 
+patients might cause undesirable consequences to the "system", like losing faith 
+in one's FP and HMO, which might lead to the patients' reduced cooperation in 
+the healing process, lawsuits amplification, patients leaving their FPS and 
+their HMOs etc. Addressing the patient's soul and body as an inseparable unit 
+would help harnessing the patients' will and mental resources to the healing 
+process. A content and satisfied patient tends to less argue with his/her FP, to 
+be more satisfied with the rendered health services, to be more grateful for the 
+provided services, to be healthier (as some would argue), to be more motivated 
+and committed to the healing process, thus, all parties would benefit, 
+emotionally, physically and from the budgetary point of view. This article would 
+like to offer a "simple" 'yet very effective way' to keep the HMO's members feel 
+that they are not alone at their sensitive time of illness, that behind the FP's 
+desk sits not only a professional figure, but also a "human being" who is there 
+to support their "souls" as well, thus, harnessing the patients to the healing 
+process, reducing the patients' possible discontent from the HMOS's ways of 
+rendering services including, at times, in cases when the required or desired 
+medical measures is not received. The correct use of Interpersonal Communication 
+(IPC) by the FP encompasses tremendous opportunities to achieve the desired 
+connection between soul and body during the healing process, and offers many 
+personal, budgetary and other benefits to the patient, FP, HMO and the health 
+system at large. Its use is almost costless, its contribution to the health 
+system is huge and, last, but not least, it can easily be learned and adopted by 
+FPS in their daily work with their patients and the system.
+
+PMID: 27359019 [Indexed for MEDLINE]
+
+
+756. PLoS One. 2016 Jun 30;11(6):e0158168. doi: 10.1371/journal.pone.0158168. 
+eCollection 2016.
+
+Cyanobacterial Polyhydroxybutyrate (PHB): Screening, Optimization and 
+Characterization.
+
+Ansari S(1), Fatma T(1).
+
+Author information:
+(1)Cyanobacterial Biotechnology Laboratory, Department of Biosciences, Jamia 
+Millia Islamia (Central University), New Delhi, India.
+
+In modern life petroleum-based plastic has become indispensable due to its 
+frequent use as an easily available and a low cost packaging and moulding 
+material. However, its rapidly growing use is causing aquatic and terrestrial 
+pollution. Under these circumstances, research and development for biodegradable 
+plastic (bioplastics) is inevitable. Polyhydroxybutyrate (PHB), a type of 
+microbial polyester that accumulates as a carbon/energy storage material in 
+various microorganisms can be a good alternative. In this study, 23 
+cyanobacterial strains (15 heterocystous and 8 non-heterocystous) were screened 
+for PHB production. The highest PHB (6.44% w/w of dry cells) was detected in 
+Nostoc muscorum NCCU- 442 and the lowest in Spirulina platensis NCCU-S5 (0.51% 
+w/w of dry cells), whereas no PHB was found in Cylindrospermum sp., Oscillatoria 
+sp. and Plectonema sp. Presence of PHB granules in Nostoc muscorum NCCU- 442 was 
+confirmed microscopically with Sudan black B and Nile red A staining. 
+Pretreatment of biomass with methanol: acetone: water: dimethylformamide [40: 
+40: 18: 2 (MAD-I)] with 2 h magnetic bar stirring followed by 30 h continuous 
+chloroform soxhlet extraction acted as optimal extraction conditions. Optimized 
+physicochemical conditions viz. 7.5 pH, 30°C temperature, 10:14 h light:dark 
+periods with 0.4% glucose (as additional carbon source), 1.0 gl-1 sodium 
+chloride and phosphorus deficiency yielded 26.37% PHB on 7th day instead of 21st 
+day. Using FTIR, 1H NMR and GC-MS, extracted polymer was identified as PHB. 
+Thermal properties (melting temperature, decomposition temperatures etc.) of the 
+extracted polymer were determined by TGA and DSC. Further, the polymer showed 
+good tensile strength and young's modulus with a low extension to break ratio 
+comparable to petrochemical plastic. Biodegradability potential tested as weight 
+loss percentage showed efficient degradation (24.58%) of PHB within 60 days by 
+mixed microbial culture in comparison to petrochemical plastic.
+
+DOI: 10.1371/journal.pone.0158168
+PMCID: PMC4928839
+PMID: 27359097 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+757. PLoS One. 2016 Jun 30;11(6):e0157129. doi: 10.1371/journal.pone.0157129. 
+eCollection 2016.
+
+Cost-Effectiveness of Apixaban versus Warfarin in Chinese Patients with 
+Non-Valvular Atrial Fibrillation: A Real-Life and Modelling Analyses.
+
+Li X(1), Tse VC(1), Lau WC(1), Cheung BM(2), Lip GY(3), Wong IC(1)(4), Chan 
+EW(1).
+
+Author information:
+(1)Centre for Safe Medication Practice and Research, Department of Pharmacology 
+and Pharmacy, The University of Hong Kong, Hong Kong SAR, China.
+(2)Department of Medicine, Li Ka Shing Faculty of Medicine, The University of 
+Hong Kong, Hong Kong SAR, China.
+(3)University of Birmingham Centre for Cardiovascular Sciences, City Hospital, 
+Birmingham, United Kingdom.
+(4)Research Department of Practice and Policy, School of Pharmacy, University 
+College London, London, United Kingdom.
+
+OBJECTIVES: Many of the cost-effectiveness analyses of apixaban against warfarin 
+focused on Western populations but Asian evidence remains less clear. The 
+present study aims to evaluate the cost-effectiveness of apixaban against 
+warfarin in Chinese patients with non-valvular atrial fibrillation (NVAF) from a 
+public institutional perspective in Hong Kong.
+METHODS: We used a Markov model incorporating 12 health state transitions, and 
+simulated the disease progression of NVAF in 1,000 hypothetical patients treated 
+with apixaban/warfarin. Risks of clinical events were based on the ARISTOTLE 
+trial and were adjusted with local International Normalized Ratio control, 
+defined as the time in therapeutic range. Real-life input for the model, 
+including patients' demographics and clinical profiles, post-event treatment 
+patterns, and healthcare costs, were determined by a retrospective cohort of 
+40,569 incident patients retrieved from a Hong Kong-wide electronic medical 
+database. Main outcome measurements included numbers of thromboembolic and 
+bleeding events, life years, quality-adjusted life years (QALYs) and direct 
+healthcare cost. When comparing apixaban and warfarin, treatment with 
+incremental cost-effectiveness ratio (ICER) less than one local GDP per capita 
+(USD 33,534 in 2014) was defined to be cost-effective.
+RESULTS: In the lifetime simulation, fewer numbers of events were estimated for 
+the apixaban group, resulting in reduced event-related direct medical costs. The 
+estimated ICER of apixaban was USD 7,057 per QALY at base-case analysis and 
+ranged from USD 1,061 to 14,867 per QALY under the 116 tested scenarios in 
+deterministic sensitivity analysis. While in probabilistic sensitivity analysis, 
+the probability of apixaban being the cost-effective alternative to warfarin was 
+96% and 98% at a willingness to pay threshold of USD 33,534 and 100,602 per 
+QALY, respectively.
+CONCLUSIONS: Apixaban is likely to be a cost-effective alternative to warfarin 
+for stroke prophylaxis in Chinese patients with NVAF in Hong Kong.
+
+DOI: 10.1371/journal.pone.0157129
+PMCID: PMC4928891
+PMID: 27362421 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: EWC received financial 
+support from Janssen, a division of Johnson and Johnson, Bristol Myers Squibb, 
+Pfizer and Eisai; The Pharmaceutical Society of Hong Kong; The University of 
+Hong Kong; Early Career Scheme and the General Research Fund, Research Grants 
+Council, Hong Kong. There are no patents, products in development, or marketed 
+products to declare. This does not alter the authors’ adherence to PLOS ONE 
+policies on sharing data and materials.
+
+
+758. Clin Infect Dis. 2016 Jul 15;63 Suppl 1(Suppl 1):S3-S11. doi: 
+10.1093/cid/ciw219.
+
+Management of Hepatitis C/HIV Coinfection in the Era of Highly Effective 
+Hepatitis C Virus Direct-Acting Antiviral Therapy.
+
+Wyles DL(1), Sulkowski MS(2), Dieterich D(3).
+
+Author information:
+(1)Divisions of Infectious Diseases, Department of Medicine, University of 
+California, San Diego.
+(2)Johns Hopkins University School of Medicine, Baltimore, Maryland.
+(3)Division of Liver Disease, Department of Medicine, Icahn School of Medicine 
+at Mount Sinai, New York, New York.
+
+The increased life expectancy of persons infected with human immunodeficiency 
+virus (HIV) treated with antiretroviral therapy (ART) has resulted in renewed 
+attention to non-HIV-related diseases exacerbated by HIV infection. Coinfection 
+with hepatitis C virus (HCV) is a particular area of concern, as the global 
+prevalence has been estimated at 2.5-5 million people. In this article, we 
+discuss the epidemiology of HCV infection and reinfection, HCV-related liver 
+disease progression in the era of effective ART, and the efficacy of emerging 
+HCV treatment strategies in persons with HIV/HCV coinfection. New data regarding 
+treatment of persons with HIV/HCV coinfection suggest that HCV treatment should 
+be a priority in those with HIV. Results from recent studies using all-oral HCV 
+regimens have shown high rates of sustained virologic response in both clinical 
+trials and real-world settings. A multidisciplinary approach to HCV treatment in 
+those with HIV is recommended for optimal patient management. Following HCV 
+cure, practitioners also need to be mindful of the risks for HCV reinfection and 
+educate patients on protective measures.
+
+© The Author 2016. Published by Oxford University Press for the Infectious 
+Diseases Society of America. All rights reserved. For permissions, e-mail 
+journals.permissions@oup.com.
+
+DOI: 10.1093/cid/ciw219
+PMCID: PMC4928450
+PMID: 27363438 [Indexed for MEDLINE]
+
+
+759. Ann Ist Super Sanita. 2016 Apr-Jun;52(2):151-3. doi: 10.4415/ANN_16_02_04.
+
+Health status of the Italian people: gender inequalities. Commentary.
+
+Sabetta T(1), Ricciardi W(2).
+
+Author information:
+(1)Istituto di Sanità Pubblica, Sezione di Igiene, Osservatorio Nazionale sulla 
+Salute nelle Regioni Italiane, Università Cattolica del Sacro Cuore, Rome, 
+Italy.
+(2)President, Istituto Superiore di Sanità, Rome, Italy.
+
+Differences between male and female affect diseases onset, evolution and 
+prognosis. In terms of survival, women have a higher life expectancy at birth 
+than men, with strong differences at regional level (the highest values in 
+Trento AP and the lowest in Campania). Smoking, alcohol consumption, overweight 
+and obesity and physical activities indicators are analyzed among men and woman. 
+A reduction in smokers and number of smoked cigarettes is observed, especially 
+among men. Men also show a higher number of ex-smokers than woman. Also for 
+alcohol consumption, the prevalence of consumers at risk is higher among men 
+than women. Overweight and obesity are more prevalent among men than women, the 
+same as physical activity played continuously and occasionally. Gender 
+differences are also shown in hospitalization rate and mortality rate for 
+ischemic heart disease, affecting men twice more than women. The analysis shows 
+a good health status condition of Italian people, but it is important to be 
+aware that gender is one of essential characteristics in health care field, 
+independently of people age.
+
+DOI: 10.4415/ANN_16_02_04
+PMID: 27364387 [Indexed for MEDLINE]
+
+
+760. Ann Vasc Surg. 2016 Oct;36:55-63. doi: 10.1016/j.avsg.2016.02.034. Epub 2016
+Jun  27.
+
+Extending Abdominal Aortic Aneurysm Detection to Older Age Groups: Preliminary 
+Results from the Liège Screening Programme.
+
+Makrygiannis G(1), Labalue P(2), Erpicum M(3), Schlitz M(3), Seidel L(4), El 
+Hachemi M(5), Gangolf M(6), Albert A(4), Defraigne JO(3), Lindholt JS(7), 
+Sakalihasan N(3).
+
+Author information:
+(1)Department of Cardiovascular Surgery, University Hospital of Liège, Liège, 
+Belgium. Electronic address: gmakrygiannis@doct.ulg.ac.be.
+(2)General Practitioner, County of Chaudfontaine, Liège, Belgium.
+(3)Department of Cardiovascular Surgery, University Hospital of Liège, Liège, 
+Belgium.
+(4)Biostatistics, University Hospital of Liège, Liège, Belgium.
+(5)Department of Radiology, University Hospital of Liège, Liège, Belgium.
+(6)Department of Medical and Economic Information, University Hospital of Liège, 
+Liège, Belgium.
+(7)Department of Cardiovascular and Thoracic Surgery, Elitary Research Centre of 
+Individualized Medicine in Arterial Diseases (CIMA), T. University Hospital of 
+Odense, Odense, Denmark.
+
+BACKGROUND: There is evident benefit in terms of reduced aneurysm-related 
+mortality from screening programs of abdominal aortic aneurysm (AAA) in men aged 
+65 years and more. Recent studies in the United Kingdom and Sweden have shown a 
+decline of the prevalence of AAA in the general population. Current screening 
+policies (e.g., men aged 65-74 years), however, do not account for aging and 
+increased life expectancy of Western populations. This study investigated AAA 
+detection by extending the target population to older age groups (75-85 years).
+METHODS: AAA screening was conducted in the County of Chaudfontaine (Liège, 
+Belgium) on the population of elderly (n = 3,054). The participation rate was 
+36%. The 1,101 participants (722 men aged 65-85 years and 379 women aged 
+74-85 years) were examined by ultrasound scan. AAA was defined as an infrarenal 
+aortic outer-outer diameter of at least 3 cm. Demographics, clinical parameters, 
+and risk factors were also recorded. AAA prevalence was estimated, and patients 
+with and without AAA were compared by logistic regression.
+RESULTS: The overall AAA prevalence was 3.6% (n = 40). In female participants, 
+AAA prevalence was low (1.3%). In men, it amounted 2.7% in the 65-74 age group 
+but rose to 7.3% in the age-extended group (75-85 years). Further in addition to 
+age, height, current smoking, history of coronary artery disease, 
+hypercholesterolemia, peripheral artery disease of the lower limbs, and varicose 
+veins were significantly associated with the presence of AAA.
+CONCLUSIONS: These preliminary findings, based on a representative sample of the 
+elderly population of the Liège region, support the idea that current AAA 
+screening policies should be updated to cover an increasingly aging population. 
+The presence of varicose veins as a potential risk factor for AAA should also be 
+considered during screening.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.avsg.2016.02.034
+PMID: 27364735 [Indexed for MEDLINE]
+
+
+761. J Gen Intern Med. 2016 Nov;31(11):1308-1314. doi: 10.1007/s11606-016-3787-y.
+
+Receipt of Cancer Screening Is a Predictor of Life Expectancy.
+
+Goodwin JS(1)(2)(3), Sheffield K(4)(5)(6), Li S(7), Tan A(8)(7)(4)(9).
+
+Author information:
+(1)Department of Internal Medicine, University of Texas Medical Branch, 
+Galveston, TX, USA. jsgoodwi@utmb.edu.
+(2)Sealy Center on Aging, University of Texas Medical Branch, 301 University 
+Blvd, Galveston, TX, 77555-0177, USA. jsgoodwi@utmb.edu.
+(3)Institute for Translational Sciences, University of Texas Medical Branch, 
+Galveston, TX, USA. jsgoodwi@utmb.edu.
+(4)Institute for Translational Sciences, University of Texas Medical Branch, 
+Galveston, TX, USA.
+(5)Department of Preventive Medicine and Community Health, University of Texas 
+Medical Branch, Galveston, TX, USA.
+(6)Global Patient Outcomes and Real World Evidence, Eli Lilly and Company, 
+Indianapolis, IN, 46285, USA.
+(7)Sealy Center on Aging, University of Texas Medical Branch, 301 University 
+Blvd, Galveston, TX, 77555-0177, USA.
+(8)Department of Internal Medicine, University of Texas Medical Branch, 
+Galveston, TX, USA.
+(9)Ohio State University School of Nursing, 1582 Neil Ave, Columbus, OH, 43210, 
+USA.
+
+Comment in
+    J Gen Intern Med. 2016 Nov;31(11):1354.
+
+BACKGROUND: Obtaining cancer screening on patients with limited life expectancy 
+has been proposed as a measure for low quality care for primary care physicians 
+(PCPs). However, administrative data may underestimate life expectancy in 
+patients who undergo screening.
+OBJECTIVE: To determine the association between receipt of screening mammography 
+or PSA and overall survival.
+DESIGN: Retrospective cohort study from 1/1/1999 to 12/31/2012. Receipt of 
+screening was assessed for 2001-2002 and survival from 1/1/2003 to 12/31/2012. 
+Life expectancy was estimated as of 1/1/03 using a validated algorithm, and was 
+compared to actual survival for men and women, stratified by receipt of cancer 
+screening.
+PARTICIPANTS: A 5 % sample of Medicare beneficiaries aged 69-90 years as of 
+1/1/2003 (n = 906,723).
+INTERVENTIONS: Receipt of screening mammography in 2001-2002 for women, or a 
+screening PSA test in 2002 for men.
+MAIN MEASURES: Survival from 1/1/2003 through 12/31/2012.
+KEY RESULTS: Subjects were stratified by life expectancy based on age and 
+comorbidity. Within each stratum, the subjects with prior cancer screening had 
+actual median survivals higher than those who were not screened, with 
+differences ranging from 1.7 to 2.1 years for women and 0.9 to 1.1 years for 
+men. In a Cox model, non-receipt of screening in women had an impact on survival 
+(HR = 1.52; 95 % CI = 1.51, 1.54) similar in magnitude to a diagnosis of 
+complicated diabetes or heart failure, and was comparable to uncomplicated 
+diabetes or liver disease in men (HR = 1.23; 1.22, 1.25).
+CONCLUSIONS: Receipt of cancer screening is a powerful marker of health status 
+that is not captured by comorbidity measures in administrative data. Because 
+life expectancy algorithms using administrative data underestimate the life 
+expectancy of patients who undergo screening, they can overestimate the problem 
+of cancer screening in patients with limited life expectancy.
+
+DOI: 10.1007/s11606-016-3787-y
+PMCID: PMC5071287
+PMID: 27364834 [Indexed for MEDLINE]
+
+Conflict of interest statement: Compliance with Ethical Standards Funders This 
+work was supported by grants from the National Institutes of Health 
+(P30-AG024832, UL1TR000071 and KO5 CA 134923), the Agency for Healthcare 
+Research and Quality (R24HS022134), and the Cancer Prevention Research Institute 
+of Texas (RP101207). The sponsors played no role in the acquisition, analysis, 
+or interpretation of data, or in determining where to send the manuscript for 
+publication. Prior Presentations None. Conflict of Interest The authors declare 
+that they do not have a conflict of interest.
+
+
+762. J Trace Elem Med Biol. 2016 Dec;38:10-18. doi: 10.1016/j.jtemb.2016.05.010.
+Epub  2016 Jun 9.
+
+Chemical features of in use and in progress chelators for iron overload.
+
+Nurchi VM(1), Crisponi G(2), Lachowicz JI(2), Medici S(3), Peana M(3), Zoroddu 
+MA(3).
+
+Author information:
+(1)Department of Chemical and Geological Sciences, University of Cagliari, 
+Cittadella Universitaria, 09042 Monserrato-Cagliari, Italy. Electronic address: 
+nurchi@unica.it.
+(2)Department of Chemical and Geological Sciences, University of Cagliari, 
+Cittadella Universitaria, 09042 Monserrato-Cagliari, Italy.
+(3)Department of Chemistry and Pharmacy, University of Sassari, Via Vienna 2, 
+07100 Sassari, Italy.
+
+An excessive amount of iron may become extremely toxic both for its ability to 
+generate reactive oxygen species, and for the lack of regulatory mechanisms for 
+iron excretion in humans. Chelation therapy has been introduced in clinical 
+practice in the 1970's to defend thalassemia patients from the effects of iron 
+overload and it has dramatically changed both life expectancy and quality of 
+life. The disadvantages of the drugs in clinical use make the research for new, 
+more suitable iron chelating agents, urgent. This review defines the 
+requirements of an iron chelator, then points out the principal chemical 
+features of the iron chelators in use. Finally, a survey on the last ten years 
+of the literature relative to iron chelators is done, and the most interesting 
+ligands are presented, with particular emphasis to those that reached clinical 
+trials.
+
+Copyright © 2016 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.jtemb.2016.05.010
+PMID: 27365273 [Indexed for MEDLINE]
+
+
+763. Cereb Cortex. 2017 Jul 1;27(7):3618-3629. doi: 10.1093/cercor/bhw183.
+
+Palmitoylation of cdc42 Promotes Spine Stabilization and Rescues Spine Density 
+Deficit in a Mouse Model of 22q11.2 Deletion Syndrome.
+
+Moutin E(1), Nikonenko I(1), Stefanelli T(1), Wirth A(2), Ponimaskin E(2), De 
+Roo M(1), Muller D(1).
+
+Author information:
+(1)Department of Basic Neurosciences, Medical School, University of Geneva, 1211 
+Geneva 4, Switzerland.
+(2)Cellular Neurophysiology, Hannover Medical School, 30625 Hannover, Germany.
+
+22q11.2 deletion syndrome (22q11DS) is associated with learning and cognitive 
+dysfunctions and a high risk of developing schizophrenia. It has become 
+increasingly clear that dendritic spine plasticity is tightly linked to 
+cognition. Thus, understanding how genes involved in cognitive disorders affect 
+synaptic networks is a major challenge of modern biology. Several studies have 
+pointed to a spine density deficit in 22q11DS transgenic mice models. Using the 
+LgDel mouse model, we first quantified spine deficit at different stages using 
+electron microscopy. Next we performed repetitive confocal imaging over several 
+days on hippocampal organotypic cultures of LgDel mice. We show no imbalanced 
+ratio between daily spine formation and spine elimination, but a decreased spine 
+life expectancy. We corrected this impaired spine stabilization process by 
+overexpressing ZDHHC8 palmitoyltransferase, whose gene belongs to the LgDel 
+microdeletion. Overexpression of one of its substrates, the cdc42 brain-specific 
+variant, under a constitutively active form (cdc42-palm-CA) led to the same 
+result. Finally, we could rescue spine density in vivo, in adult LgDel mice, by 
+injecting pups with a vector expressing cdc42-palm-CA. This study reveals a new 
+role of ZDHHC8-cdc42-palm molecular pathway in postsynaptic structural 
+plasticity and provides new evidence in favor of the dysconnectivity hypothesis 
+for schizophrenia.
+
+© The Author 2016. Published by Oxford University Press. All rights reserved. 
+For Permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cercor/bhw183
+PMID: 27365300 [Indexed for MEDLINE]
+
+
+764. Bone Joint J. 2016 Jul;98-B(7):945-51. doi: 10.1302/0301-620X.98B7.36860.
+
+Metallic hemiarthroplasty for the treatment of end-stage hallux rigidus: 
+mid-term implant survival, functional outcome and cost analysis.
+
+Clement ND(1), MacDonald D(1), Dall GF(2), Ahmed I(1), Duckworth AD(1), Shalaby 
+HS(1), McKinley J(1).
+
+Author information:
+(1)Royal Infirmary of Edinburgh, Little France Crescent, Old Dalkeith Road, 
+Edinburgh, EH16 4SA, UK.
+(2)Borders General Hospital, Melrose, Roxburghshire, TD6 9BS, UK.
+
+AIMS: To examine the mid-term outcome and cost utility of the BioPro metallic 
+hemiarthroplasty for the treatment of hallux rigidius.
+PATIENTS AND METHODS: We reviewed 97 consecutive BioPro metallic 
+hemiarthroplasties performed in 80 patients for end-stage hallux rigidus, with a 
+minimum follow-up of five years. There were 19 men and 61 women; their mean age 
+was 55 years (22 to 74). No patient was lost to follow-up.
+RESULTS: A total of 12 patients (15 first metatarso-phalangeal joints (MTPJs)) 
+required a revision; one for infection, two for osteolysis and 12 for pain. The 
+all cause rate of survival at five years was 85.6% (95% confidence interval (CI) 
+83.5 to 87.9). Younger age was a significant predictor of revision (odds ratio 
+1.09, 95% CI 1.02 to 1.17, p = 0.014) on excluding infection and adjusting for 
+confounding variables (Cox regression). Significant improvements were 
+demonstrated at five years in the Manchester Oxford Foot Questionnaire (13.9, 
+95% CI 10.5 to 17.2) and in the physical component of the Short Form-12 score 
+(6.5, 95% CI 4.1 to 8.9). The overall rate of satisfaction was 75%. The cost per 
+quality adjusted life year at five years, accounting for a 14% rate of revision 
+was between £4431 and £6361 depending on the complexity and morbidity of the 
+patient.
+CONCLUSION: The BioPro hemiarthroplasty offers good short to mid-term functional 
+outcome and is a cost effective intervention. The relatively high revision rate 
+is associated with younger age and perhaps the use of this implant should be 
+limited to older patients. Cite this article: Bone Joint J 2016;98-B:945-51.
+
+©2016 The British Editorial Society of Bone & Joint Surgery.
+
+DOI: 10.1302/0301-620X.98B7.36860
+PMID: 27365473 [Indexed for MEDLINE]
+
+
+765. Asian J Neurosurg. 2016 Jul-Sep;11(3):261-7. doi: 10.4103/1793-5482.145354.
+
+Surgical management of acromegaly: Long term functional outcome analysis and 
+assessment of recurrent/residual disease.
+
+Banerji D(1), Das NK(1), Sharma S(1), Jindal Y(1), Jain VK(1), Behari S(1).
+
+Author information:
+(1)Department of Neurosurgery, Sanjay Gandhi Postgraduate Institute of Medical 
+Sciences, Lucknow, Uttar Pradesh, India.
+
+CONTEXT: Functional growth hormone producing adenomas have long-term deleterious 
+effects on the visual apparatus, the cardiovascular and musculoskeletal systems, 
+and often predispose to malignancies. Since persistence of acromegaly affects 
+outcome and quality of life, therapeutic interventions become mandatory.
+AIM: This study represents an analysis of long-term clinical and endocrinal 
+outcome of 115 patients of acromegaly after surgical management.
+SETTING AND DESIGN: Tertiary care retrospective study.
+MATERIALS AND METHODS: One hundred and fifteen patients (male:female ratio: 
+1:1.09) with acromegalic features were studied. Apart from acromegalic features, 
+their main clinical presentation also included headache, diminution of vision, 
+field defects, ptosis, irregular menstruation, diabetes insipidus, diabetes 
+mellitus and hypertension. Six of them presented with apoplexy. Their 
+preoperative endocrinal evaluation included basal and suppressed growth hormone 
+(GH), prolactin and thyroid levels. On the basis of axial and coronal CT scan or 
+multiplanar MR imaging or both, the tumors were classified according to their 
+suprasellar and parasellar extension (Hardy's grade). Transnasal 
+trans-sphenoidal surgery (TSS) (n = 37) and sublabial, rhinoseptal TSS (n = 72) 
+were the preferred approaches. Six patients with significant parasellar 
+extensions underwent trans-cranial explorations. The patients were followed up 
+at 6 and 12 weeks and then at 6 monthly intervals. Hormonal and CT/MR evaluation 
+were also done. Attainment of random GH value less than 2.5 µg/L, and the nadir 
+GH value after oral glucose tolerance test (OGTT) less than 1 µg/L were used as 
+the criteria of cure.
+FINDINGS: The patients were preoperatively in Hardy's tumor grade 0 (29), A 
+(21), A+E (3), B (21), B+E (5), C (9), C+E (10), D (1) D+E (11), E (5), 
+respectively. One hundred and one patients were available for follow-up (FU; 
+median FU duration: 84 months; range: 6 to 132 months). Surgical cure was 
+achieved in 73 patients following the first surgery; and, in 10 additional 
+patients following a second intervention. No patient with a preoperative grade 
+0, A, B, C had a recurrence after attaining the initial remission. Recurrence 
+after an initial cure occurred in 7 patients (overall remission rate following 
+surgery: 75.24%). The preoperative grade of the latter patients was A+E:1, 
+B+E:1, C+E:1, D:1, D+E:2, E:1, respectively. All these patients underwent 
+subsequent radiotherapy (RT). The twelve patients with persistent symptoms and 
+high GH levels following surgery underwent RT; six others with improved symptoms 
+despite high GH levels were kept under strict observation. There was no surgical 
+mortality.
+CONCLUSIONS: A high remission rate without significant morbidity could be 
+achieved following surgical intervention in acromegalic patients. Following 
+surgery, tumors with greater than or equal to 3 cm suprasellar height and 
+without parasellar extension had no clinical recurrence at FU. A continuous 
+monitoring is mandatory to pick up relapsed cases as well as those who develop 
+delayed signs of hypopituitarism. A subset of patients who show clinical 
+improvement following surgery but still have higher GH levels may be followed up 
+without additional therapy unless clinical signs reappear or the serum GH levels 
+progressively increase.
+
+DOI: 10.4103/1793-5482.145354
+PMCID: PMC4849295
+PMID: 27366253
+
+Conflict of interest statement: Conflict of Interest: None declared.
+
+
+766. Turk J Anaesthesiol Reanim. 2014 Jun;42(3):154-7. doi:
+10.5152/TJAR.2014.08769.  Epub 2014 Mar 11.
+
+Acute Phase Reaction after Femur Fracture in a Child with Griscelli Syndrome.
+
+Güngör İ(1), Öztürk AM(2), Kaya K(1), Çelebi H(1), Kösem B(1).
+
+Author information:
+(1)Department of Anaesthesiology and Reanimation, Gazi University Faculty of 
+Medicine, Ankara, Turkey.
+(2)Department of Orthopaedics and Traumatology, Gazi University Faculty of 
+Medicine, Ankara, Turkey.
+
+Griscelli syndrome (GS) is an autosomal recessive disorder that is characterized 
+by partial albinism of the skin and hair shaft. Prompt and early diagnosis is a 
+crucial step for the follow up and management of GS, which would otherwise 
+dramatically decrease the life expectancy of the patients. This case report 
+presents the clinical course of a femoral fracture treated with closed reduction 
+and pelvic-pedal cast, and progression of acute phase reaction during the follow 
+up period.
+
+DOI: 10.5152/TJAR.2014.08769
+PMCID: PMC4894226
+PMID: 27366412
+
+
+767. J Res Natl Inst Stand Technol. 2004 Oct 1;109(5):517-24. doi: 
+10.6028/jres.109.038. Print 2004 Sep-Oct.
+
+Stability Comparison of Recordable Optical Discs-A Study of Error Rates in Harsh 
+Conditions.
+
+Slattery O(1), Lu R(1), Zheng J(1), Byers F(1), Tang X(1).
+
+Author information:
+(1)National Institute of Standards and Technology, Gaithersburg, MD 20899-8951.
+
+The reliability and longevity of any storage medium is a key issue for 
+archivists and preservationists as well as for the creators of important 
+information. This is particularly true in the case of digital media such as DVD 
+and CD where a sufficient number of errors may render the disc unreadable. This 
+paper describes an initial stability study of commercially available recordable 
+DVD and CD media using accelerated aging tests under conditions of increased 
+temperature and humidity. The effect of prolonged exposure to direct light is 
+also investigated and shown to have an effect on the error rates of the media. 
+Initial results show that high quality optical media have very stable 
+characteristics and may be suitable for long-term storage applications. However, 
+results also indicate that significant differences exist in the stability of 
+recordable optical media from different manufacturers.
+
+DOI: 10.6028/jres.109.038
+PMCID: PMC4849567
+PMID: 27366630
+
+
+768. PLoS Pathog. 2016 Jul 1;12(7):e1005714. doi: 10.1371/journal.ppat.1005714. 
+eCollection 2016 Jul.
+
+Hepatitis C Virus Core Protein Promotes miR-122 Destabilization by Inhibiting 
+GLD-2.
+
+Kim GW(1), Lee SH(1), Cho H(1), Kim M(1), Shin EC(2), Oh JW(1).
+
+Author information:
+(1)Department of Biotechnology, Yonsei University, Seoul, Korea.
+(2)Laboratory of Immunology and Infectious Diseases, Graduate School of Medical 
+Science and Engineering, KAIST, Daejeon, Korea.
+
+The liver-specific microRNA miR-122, which has essential roles in liver 
+development and metabolism, is a key proviral factor for hepatitis C virus 
+(HCV). Despite its crucial role in the liver and HCV life cycle, little is known 
+about the molecular mechanism of miR-122 expression regulation by HCV infection. 
+Here, we show that the HCV core protein downregulates the abundance of miR-122 
+by promoting its destabilization via the inhibition of GLD-2, a non-canonical 
+cytoplasmic poly(A) polymerase. The decrease in miR-122 expression resulted in 
+the dysregulation of the known functions of miR-122, including its proviral 
+activity for HCV. By high-throughput sequencing of small RNAs from human liver 
+biopsies, we found that the 22-nucleotide (nt) prototype miR-122 is modified at 
+its 3' end by 3'-terminal non-templated and templated nucleotide additions. 
+Remarkably, the proportion of miR-122 isomers bearing a single nucleotide tail 
+of any ribonucleotide decreased in liver specimens from patients with HCV. We 
+found that these single-nucleotide-tailed miR-122 isomers display increased 
+miRNA activity and stability over the 22-nt prototype miR-122 and that the 
+3'-terminal extension is catalyzed by the unique terminal nucleotidyl 
+transferase activity of GLD-2, which is capable of adding any single 
+ribonucleotide without preference of adenylate to the miR-122 3' end. The HCV 
+core protein specifically inhibited GLD-2, and its interaction with GLD-2 in the 
+cytoplasm was found to be responsible for miR-122 downregulation. Collectively, 
+our results provide new insights into the regulatory role of the HCV core 
+protein in controlling viral RNA abundance and miR-122 functions through miR-122 
+stability modulation.
+
+DOI: 10.1371/journal.ppat.1005714
+PMCID: PMC4930175
+PMID: 27366906 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+769. Expert Rev Pharmacoecon Outcomes Res. 2017 Feb;17(1):85-98. doi: 
+10.1080/14737167.2016.1208087. Epub 2016 Jul 15.
+
+An estimate of the public health impact and cost-effectiveness of universal 
+vaccination with a 9-valent HPV vaccine in Germany.
+
+Largeron N(1), Petry KU(2), Jacob J(3), Bianic F(4), Anger D(4), Uhart M(1).
+
+Author information:
+(1)a Health Economics Department , Sanofi Pasteur MSD - Health Economics , Lyon 
+, France.
+(2)b Klinikum Wolfsburg - OBGYN , Wolfsburg , Germany.
+(3)c Mapi Group Ringgold - RSW&A , Uxbridge , London , UK.
+(4)d Mapi Group - RSW&A , Nanterre , France.
+
+INTRODUCTION: Since 2007, the German Standing Vaccination Committee recommends 
+HPV vaccination for girls aged 12-17 with a 2- (Cervarix®) or 4-valent 
+(Gardasil®) vaccine. A 9-valent vaccine (Gardasil 9®) recently received a 
+European market authorization in 2015.
+METHODS: A dynamic transmission model was calibrated to the German setting and 
+used to estimate costs and QALYs associated with vaccination strategies.
+RESULTS: Compared to the current vaccination program, the 9-valent vaccine 
+extended to boys shows further reductions of 24% in the incidence of cervical 
+cancer, 30% and 14% in anal cancer for males and females, as well as over a 
+million cases of genital warts avoided after 100 years. The new strategy is 
+associated with an ICER of 22,987€ per QALY gained, decreasing to 329€ when 
+considering the vaccine switch for girls-only.
+CONCLUSION: Universal vaccination with the 9-valent vaccine can yield 
+significant health benefits when compared to the current program.
+
+DOI: 10.1080/14737167.2016.1208087
+PMID: 27366939 [Indexed for MEDLINE]
+
+
+770. J Affect Disord. 2016 Nov 1;204:180-6. doi: 10.1016/j.jad.2016.06.047. Epub
+2016  Jun 22.
+
+Mental disorders in adults with congenital heart disease: Unmet needs and impact 
+on quality of life.
+
+Westhoff-Bleck M(1), Briest J(2), Fraccarollo D(1), Hilfiker-Kleiner D(1), 
+Winter L(2), Maske U(3), Busch MA(3), Bleich S(2), Bauersachs J(1), Kahl KG(4).
+
+Author information:
+(1)Department of Cardiology and Angiology, Hannover Medical School, Germany.
+(2)Department of Psychiatry, Social Psychiatry and Psychotherapy, Hannover 
+Medical School, Germany.
+(3)Department of Epidemiology and Health Monitoring, Robert Koch Institute, 
+Berlin, Germany.
+(4)Department of Psychiatry, Social Psychiatry and Psychotherapy, Hannover 
+Medical School, Germany. Electronic address: kahl.kai@mh-hannover.de.
+
+OBJECTIVE: In adult congenital heart disease (ACHD), mental health status and 
+quality of life become important issues due to improved life expectancy. Current 
+literature provides conflicting data regarding mental health status in ACHD. 
+Furthermore, none of the studies so far compared prevalence rates with a matched 
+control group.
+METHODS: The prevalence of mental disorders was assessed in 150 ACHD using a 
+structured interview, and compared to 12-months estimates of the general German 
+population. Quality of life (QoL) was measured with World Health Organization 
+Quality of Life instrument. Furthermore, we related the diagnostic results of 
+widely used screening instruments for depression (Beck Depression Inventory-2; 
+BDI-2; Hospital Anxiety and Depression Scale; HADS) with clinical diagnoses, to 
+receive optimal sensitivity and specificity values.
+RESULTS: The prevalence of psychiatric disorders was significantly higher in 
+ACHD than in the general population (48.0%; CI: 44.7-60.0 vs. 35.7%; CI: 
+33.5-37.9). Mood (30.7%; CI: 24.0-38.0 vs. 10.7%;CI:9.4-12.0) and anxiety 
+disorders (28.0%; CI:22.0-36.7 vs. 16.8%; CI: 15.0-18.6) were the leading causes 
+of psychiatric illness. Sixteen of 150 ACHD patients (10.7%) received specific 
+treatment for psychiatric disorders before entering the study. Overall quality 
+of life was independently and negatively associated with a diagnosis of major 
+depression (p<0.001), alcohol dependency (p=0.004), nicotine dependency 
+(p=0.036), and NYHA class (p=0.007). Accuracy of the HADS-D and BDI-2 as 
+screening instruments was moderate (AUC 0.60-0.81), depending on the cut-off 
+score used.
+CONCLUSIONS: Psychiatric disorders, particularly mood and anxiety disorders are 
+significantly more frequent in ACHD compared to the general population. However, 
+these disorders are rarely diagnosed resulting in under treatment and loss of 
+quality of life. Quality of life is independently associated with the existence 
+of mood, anxiety and substance use disorders. When self-rating instruments 
+(BDI-2, HADS) are used as screening instruments in ACHD care, lower cut-off 
+values are recommended.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jad.2016.06.047
+PMID: 27367306 [Indexed for MEDLINE]
+
+
+771. Infez Med. 2016 Jun 1;24(2):105-11.
+
+Listeria monocytogenes meningitis in the elderly: epidemiological, clinical and 
+therapeutic findings.
+
+Pagliano P(1), Ascione T(1), Boccia G(2), De Caro F(2), Esposito S(3).
+
+Author information:
+(1)AORN dei Colli, D. Cotugno Hospital, Department of Infectious Diseases, 
+Naples, Italy.
+(2)Institute of Hygiene, University of Salerno, Italy.
+(3)Department of Infectious Diseases, University of Salerno, Italy.
+
+Listeria monocytogenes is a Gram-positive bacillus and facultative intracellular 
+bacterium whose transmission occurs mainly through the consumption of 
+contaminated food, L. monocytogenes invades the host cells using various protein 
+and can escape to the human T-cell immune system by cell-to-cell spreading. If 
+the infection is not controlled at the stage in which the bacterium is in the 
+liver, for instance, due to a severe immunodepression, a secondary bacteraemia 
+can be developed and L. monocytogenes reaches the preferred sites transgressing 
+the blood-brain barrier or the placental barrier. Individuals with T-cell 
+dysfunction, such as pregnant women, the elderly, and those receiving 

@@ -1,0 +1,1000 @@
+establishment of a system for monitoring ACEs in families with multiple or 
+complex conditions.
+
+DOI: 10.1007/s10995-015-1915-7
+PMID: 26694043 [Indexed for MEDLINE]
+
+
+770. BMC Genomics. 2015;16 Suppl 13(Suppl 13):S5. doi:
+10.1186/1471-2164-16-S13-S5.  Epub 2015 Dec 16.
+
+Obesity-related known and candidate SNP markers can significantly change 
+affinity of TATA-binding protein for human gene promoters.
+
+Arkova OV, Ponomarenko MP, Rasskazov DA, Drachkova IA, Arshinova TV, Ponomarenko 
+PM, Savinkova LK, Kolchanov NA.
+
+BACKGROUND: Obesity affects quality of life and life expectancy and is 
+associated with cardiovascular disorders, cancer, diabetes, reproductive 
+disorders in women, prostate diseases in men, and congenital anomalies in 
+children. The use of single nucleotide polymorphism (SNP) markers of diseases 
+and drug responses (i.e., significant differences of personal genomes of 
+patients from the reference human genome) can help physicians to improve 
+treatment. Clinical research can validate SNP markers via genotyping of patients 
+and demonstration that SNP alleles are significantly more frequent in patients 
+than in healthy people. The search for biomedical SNP markers of interest can be 
+accelerated by computer-based analysis of hundreds of millions of SNPs in the 
+1000 Genomes project because of selection of the most meaningful candidate SNP 
+markers and elimination of neutral SNPs.
+RESULTS: We cross-validated the output of two computer-based methods: DNA 
+sequence analysis using Web service SNP_TATA_Comparator and keyword search for 
+articles on comorbidities of obesity. Near the sites binding to TATA-binding 
+protein (TBP) in human gene promoters, we found 22 obesity-related candidate SNP 
+markers, including rs10895068 (male breast cancer in obesity); rs35036378 
+(reduced risk of obesity after ovariectomy); rs201739205 (reduced risk of 
+obesity-related cancers due to weight loss by diet/exercise in obese 
+postmenopausal women); rs183433761 (obesity resistance during a high-fat diet); 
+rs367732974 and rs549591993 (both: cardiovascular complications in obese 
+patients with type 2 diabetes mellitus); rs200487063 and rs34104384 (both: 
+obesity-caused hypertension); rs35518301, rs72661131, and rs562962093 (all: 
+obesity); and rs397509430, rs33980857, rs34598529, rs33931746, rs33981098, 
+rs34500389, rs63750953, rs281864525, rs35518301, and rs34166473 (all: chronic 
+inflammation in comorbidities of obesity). Using an electrophoretic mobility 
+shift assay under nonequilibrium conditions, we empirically validated the 
+statistical significance (α < 0.00025) of the differences in TBP affinity values 
+between the minor and ancestral alleles of 4 out of the 22 SNPs: rs200487063, 
+rs201381696, rs34104384, and rs183433761. We also measured half-life (t1/2), 
+Gibbs free energy change (ΔG), and the association and dissociation rate 
+constants, ka and kd, of the TBP-DNA complex for these SNPs.
+CONCLUSIONS: Validation of the 22 candidate SNP markers by proper clinical 
+protocols appears to have a strong rationale and may advance postgenomic 
+predictive preventive personalized medicine.
+
+DOI: 10.1186/1471-2164-16-S13-S5
+PMCID: PMC4686794
+PMID: 26694100 [Indexed for MEDLINE]
+
+
+771. Genome Biol. 2015 Dec 22;16:285. doi: 10.1186/s13059-015-0847-2.
+
+Transcriptome analysis in calorie-restricted rats implicates epigenetic and 
+post-translational mechanisms in neuroprotection and aging.
+
+Wood SH(1), van Dam S(1), Craig T(1), Tacutu R(1), O'Toole A(1), Merry BJ(1), de 
+Magalhães JP(2).
+
+Author information:
+(1)Integrative Genomics of Ageing Group, Institute of Integrative Biology, 
+University of Liverpool, Liverpool, UK.
+(2)Integrative Genomics of Ageing Group, Institute of Integrative Biology, 
+University of Liverpool, Liverpool, UK. jp@senescence.info.
+
+BACKGROUND: Caloric restriction (CR) can increase longevity in rodents and 
+improve memory function in humans. α-Lipoic acid (LA) has been shown to improve 
+memory function in rats, but not longevity. While studies have looked at 
+survival in rodents after switching from one diet to another, the underlying 
+mechanisms of the beneficial effects of CR and LA supplementation are unknown. 
+Here, we use RNA-seq in cerebral cortex from rats subjected to CR and 
+LA-supplemented rats to understand how changes in diet can affect aging, 
+neurodegeneration and longevity.
+RESULTS: Gene expression changes during aging in ad libitum-fed rats are largely 
+prevented by CR, and neuroprotective genes are overexpressed in response to both 
+CR and LA diets with a strong overlap of differentially expressed genes between 
+the two diets. Moreover, a number of genes are differentially expressed 
+specifically in rat cohorts exhibiting diet-induced life extension. Finally, we 
+observe that LA supplementation inhibits histone deacetylase (HDAC) protein 
+activity in vitro in rat astrocytes. We find a single microRNA, miR-98-3p, that 
+is overexpressed during CR feeding and LA dietary supplementation; this microRNA 
+alters HDAC and histone acetyltransferase (HAT) activity, which suggests a role 
+for HAT/HDAC homeostasis in neuroprotection.
+CONCLUSIONS: This study presents extensive data on the effects of diet and aging 
+on the cerebral cortex transcriptome, and also emphasises the importance of 
+epigenetics and post-translational modifications in longevity and 
+neuroprotection.
+
+DOI: 10.1186/s13059-015-0847-2
+PMCID: PMC4699360
+PMID: 26694192 [Indexed for MEDLINE]
+
+
+772. Int J Technol Assess Health Care. 2015 Jan;31(5):331-8. doi: 
+10.1017/S0266462315000501. Epub 2015 Dec 23.
+
+HEADROOM APPROACH TO DEVICE DEVELOPMENT: CURRENT AND FUTURE DIRECTIONS.
+
+Girling A(1), Lilford R(2), Cole A(3), Young T(4).
+
+Author information:
+(1)Institute for Applied Health Research,University of 
+BirminghamA.J.Girling@bham.ac.uk.
+(2)Division of Health Sciences,University of Warwick.
+(3)Office of Health Economics.
+(4)School of Information Systems, Computing and Mathematics,Brunel University.
+
+OBJECTIVES: The headroom approach to medical device development relies on the 
+estimation of a value-based price ceiling at different stages of the development 
+cycle. Such price-ceilings delineate the commercial opportunities for new 
+products in many healthcare systems. We apply a simple model to obtain critical 
+business information as the product proceeds along a development pathway, and 
+indicate some future directions for the development of the approach.
+METHODS: Health economic modelling in the supply-side development cycle for new 
+products.
+RESULTS: The headroom can be used: initially as a 'reality check' on the 
+viability of the device in the healthcare market; to support product development 
+decisions using a real options approach; and to contribute to a pricing policy 
+which respects uncertainties in the reimbursement outlook.
+CONCLUSIONS: The headroom provides a unifying thread for business decisions 
+along the development cycle for a new product. Over the course of the cycle 
+attitudes to uncertainty will evolve, based on the timing and manner in which 
+new information accrues. Within this framework the developmental value of new 
+information can justify the costs of clinical trials and other 
+evidence-gathering activities. Headroom can function as a simple shared tool to 
+parties in commercial negotiations around individual products or groups of 
+products. The development of similar approaches in other contexts holds promise 
+for more rational planning of service provision.
+
+DOI: 10.1017/S0266462315000501
+PMCID: PMC4762238
+PMID: 26694550 [Indexed for MEDLINE]
+
+
+773. Qual Life Res. 2016 Jul;25(7):1771-7. doi: 10.1007/s11136-015-1211-4. Epub
+2015  Dec 22.
+
+Quality of life increases in patients with painful diabetic neuropathy following 
+treatment with spinal cord stimulation.
+
+Duarte RV(1), Andronis L(2), Lenders MW(3), de Vos CC(3)(4).
+
+Author information:
+(1)Department of Public Health, Epidemiology and Biostatistics, Room 124, Murray 
+Learning Centre, University of Birmingham, Birmingham, B15 2TT, UK. 
+r.duarte@bham.ac.uk.
+(2)Department of Health Economics, University of Birmingham, Birmingham, UK.
+(3)Department of Neurosurgery, Medisch Spectrum Twente, Enschede, The 
+Netherlands.
+(4)Department of Clinical Neurophysiology, University of Twente, Enschede, The 
+Netherlands.
+
+PURPOSE: This study aims to explore the changes in pain intensity and quality of 
+life (QoL) experienced by patients with painful diabetic neuropathy (PDN) 
+treated with spinal cord stimulation (SCS) and conventional medical practice 
+(CMP).
+METHODS: Patient-reported pain intensity and QoL data were obtained from 
+participants in an international multicentre randomised controlled trial 
+comparing SCS versus CMP. Data were collected at randomisation and 6 month 
+follow up by means of a visual analogue scale for pain intensity, the EuroQoL 
+Visual Analogue Scale (EQ VAS) and the EuroQol EQ-5D index. Quality-adjusted 
+life years (QALYs) were calculated for each treatment using the 'area under the 
+curve' method. Differences in QALYs were calculated after adjusting for 
+between-treatment imbalances in baseline QoL.
+RESULTS: At 6 months, patients allocated to SCS reported larger reductions in 
+pain intensity and improvements in QoL measured by the EQ-5D utility score and 
+EQ VAS as compared to those allocated to CMP. Initial calculations of QALYs for 
+the SCS and CMP groups suggested no statistical differences between the groups. 
+Adjusting for imbalances in baseline EQ-5D scores showed SCS to be associated 
+with significantly higher QALYs compared to CMP.
+CONCLUSIONS: SCS resulted in significant improvement in pain intensity and QoL 
+in patients with PDN, offering further support for SCS as an effective treatment 
+for patients suffering from PDN. From a methodological point of view, different 
+results would have been obtained if QALY calculations were not adjusted for 
+baseline EQ-5D scores, highlighting the need to account for imbalances in 
+baseline QoL.
+
+DOI: 10.1007/s11136-015-1211-4
+PMCID: PMC4893357
+PMID: 26694963 [Indexed for MEDLINE]
+
+
+774. Ann N Y Acad Sci. 2016 Jan;1363(1):11-7. doi: 10.1111/nyas.12982. Epub 2015
+Dec  22.
+
+Significant life extension by ten percent dietary restriction.
+
+Richardson A(1)(2), Austad SN(3), Ikeno Y(4), Unnikrishnan A(1), McCarter RJ(5).
+
+Author information:
+(1)University of Oklahoma Health Sciences Center, Oklahoma City, Oklahoma.
+(2)Oklahoma City VA Medical Center, Oklahoma City, Oklahoma.
+(3)Department of Biology, University of Alabama at Birmingham, Birmingham, 
+Alabama.
+(4)Barshop Institute for Longevity and Aging Studies and Department of 
+Pathology, University of Texas Health Science Center at San Antonio, Research 
+Service, Audie Murphy VA Hospital (STVHCS), San Antonio, Texas.
+(5)Department of Biobehavioral Health, Pennsylvania State University, State 
+College, Pennsylvania.
+
+Although it is well documented that dietary restriction (DR) increases the life 
+span of rodents and other animals, this increase is observed at relatively high 
+levels of DR, in which rodents are typically fed 40% less than that consumed by 
+rodents fed ad libitum. It is generally assumed that lower levels of DR will 
+have a lesser impact on life span; however, there are very little published data 
+on the effect of low levels of DR on life span. In this study, we show that 10% 
+DR increased life span to almost the same extent as 40% DR. While both 10% and 
+40% DR resulted in similar changes in non-neoplastic lesions, 10% DR had no 
+significant effect on the incidence of neoplasia (except for pituitary adenoma), 
+and 40% DR resulted in a significant reduction (40%) in neoplasia. These data 
+clearly demonstrate that the life span of F344 rats does not increase linearly 
+with the level of DR; rather, even a low level of DR can substantially affect 
+life span. This rodent study has important translational implications because it 
+suggests that a modest reduction in calories might have significant health 
+benefits for humans.
+
+© 2015 The Authors. Annals of the New York Academy of Sciences published by 
+Wiley Periodicals, Inc. on behalf of New York Academy of Sciences.
+
+DOI: 10.1111/nyas.12982
+PMCID: PMC4836177
+PMID: 26695614 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest The authors declare no 
+conflicts of interest.
+
+
+775. Rep Pract Oncol Radiother. 2015 Nov-Dec;20(6):425-9. doi: 
+10.1016/j.rpor.2014.08.001. Epub 2014 Sep 10.
+
+Retreatment for prostate cancer with stereotactic body radiation therapy (SBRT): 
+Feasible or foolhardy?
+
+Arcangeli S(1), Agolli L(2), Donato V(1).
+
+Author information:
+(1)Department of Radiotherapy, Azienda Ospedaliera S. Camillo-Forlanini, Rome, 
+Italy.
+(2)Department of Radiotherapy, Azienda Ospedaliera S. Andrea - Facoltà di 
+Medicina e Psicologia dell' Università di Roma "La Sapienza", Rome, Italy.
+
+The most popular therapeutic option in the management of radio-recurrent 
+prostatic carcinoma is represented by the androgen deprivation therapy, that 
+however should be considered only palliative and hampered by potential adverse 
+effects of testosterone suppression. Local therapies such as surgery, 
+cryoablation or brachytherapy might be curative choices for patients in good 
+conditions and with a long-life expectancy, but at cost of significant risk of 
+failure and severe toxicity. The administration of stereotactic body radiation 
+therapy (SBRT) in this setting have come about because of tremendous technologic 
+advances in image guidance and treatment delivery techniques that enable the 
+delivery of large doses to tumor with reduced margins and high gradients outside 
+the target, thereby reducing the volume of rectum which already received 
+significant doses from primary radiotherapy. So far, very modest data are 
+available to support its employment. Rationale, clinical experience, and 
+challenges are herein reviewed and discussed.
+
+DOI: 10.1016/j.rpor.2014.08.001
+PMCID: PMC4661353
+PMID: 26696782
+
+
+776. Biomed Res Int. 2015;2015:917156. doi: 10.1155/2015/917156. Epub 2015 Nov
+30.
+
+Inhibition of ACE Retards Tau Hyperphosphorylation and Signs of Neuronal 
+Degeneration in Aged Rats Subjected to Chronic Mild Stress.
+
+AbdAlla S(1), El Hakim A(2), Abdelbaset A(3), Elfaramawy Y(3), Quitterer U(4).
+
+Author information:
+(1)Molecular Pharmacology Unit, Department of Chemistry and Applied Biosciences, 
+ETH Zurich, Winterthurerstrasse 190, 8057 Zurich, Switzerland.
+(2)International Neuroscience Institute (INI) Hannover, Rudolf-Pichlmayr-Strasse 
+4, 30625 Hannover, Germany.
+(3)Medical Research Centre (MRC), Ain Shams University Hospitals, Abassia, Cairo 
+11591, Egypt.
+(4)Molecular Pharmacology Unit, Department of Chemistry and Applied Biosciences, 
+ETH Zurich, Winterthurerstrasse 190, 8057 Zurich, Switzerland ; Institute of 
+Pharmacology and Toxicology, Department of Medicine, University of Zurich, 
+Winterthurerstrasse 190, 8057 Zurich, Switzerland.
+
+With increasing life expectancy, Alzheimer's disease (AD) and other types of 
+age-associated dementia are on the rise worldwide. Treatment approaches for 
+dementia are insufficient and novel therapies are not readily available. In this 
+context repurposing of established drugs appears attractive. A well-established 
+class of cardiovascular drugs, which targets the angiotensin II system, is such 
+a candidate, which currently undergoes a paradigm shift with regard to the 
+potential benefit for treatment of neurodegenerative symptoms. In search for 
+additional evidence, we subjected aged rats to chronic unpredictable mild 
+stress, which is known to enhance the development of AD-related 
+neuropathological features. We report here that four weeks of chronic mild 
+stress induced a strong upregulation of the hippocampal angiotensin-converting 
+enzyme (Ace) at gene expression and protein level. Concomitantly, tau protein 
+hyperphosphorylation developed. Signs of neurodegeneration were detected by the 
+significant downregulation of neuronal structure proteins such as 
+microtubule-associated protein 2 (Map2) and synuclein-gamma (Sncg). Ace was 
+involved in neurodegenerative symptoms because treatment with the 
+brain-penetrating ACE inhibitor, captopril, retarded tau hyperphosphorylation 
+and signs of neurodegeneration. Moreover, ACE inhibitor treatment could 
+counteract glutamate neurotoxicity by preventing the downregulation of glutamate 
+decarboxylase 2 (Gad2). Taken together, ACE inhibition targets neurodegeneration 
+triggered by environmental stress.
+
+DOI: 10.1155/2015/917156
+PMCID: PMC4677170
+PMID: 26697495 [Indexed for MEDLINE]
+
+
+777. Int J Chronic Dis. 2015;2015:260143. doi: 10.1155/2015/260143. Epub 2015 Nov
+30.
+
+Burden of Self-Reported Noncommunicable Diseases in 26 Villages of Anand 
+District of Gujarat, India.
+
+Kumar D(1), Raithatha SJ(1), Gupta S(2), Raj R(2), Kharod N(1).
+
+Author information:
+(1)Pramukhswami Medical College, Karamsad, Gujarat 388325, India.
+(2)Extension Programmes Department, HM Patel Center for Medical Care and 
+Education, Karamsad, Gujarat 388325, India.
+
+Introduction. Noncommunicable diseases (NCDs) account for 53% of deaths and 44% 
+of disability adjusted life years lost in India. A survey was undertaken to 
+measure the prevalence of tobacco and alcohol use and self-reported NCDs in a 
+rural community in western part of India. Methodology. Trained Village Health 
+Workers did the survey in the years 2012-13 under supervision. The data was 
+collected for five NCDs, namely, hypertension, diabetes mellitus, cancer, heart 
+disease, and mental illnesses. Results. 18,269 households with a population of 
+89755 were covered. Prevalence of any form of tobacco use in the age group of 
+>20 years was 34.5 and 52.7% and 15.2% in males and females, respectively. 
+Prevalence of any NCD was 5.3% with a slightly higher prevalence in females 
+(5.4%) than males (5.2%) in the age group of 20-69 years. Prevalence of NCD 
+multimorbidity (≥2 NCDs) was 0.7% in the age group of 20-69 years. 80.7% of 
+hypertensives and 94.9% of diabetics were taking treatment. More females than 
+males were taking antihypertensive treatment. Conclusion. Tobacco use was high. 
+Prevalence of NCDs was less than that reported in other studies. Data generated 
+from this study can be useful in planning a community based NCD programme.
+
+DOI: 10.1155/2015/260143
+PMCID: PMC4677196
+PMID: 26697530
+
+
+778. Curationis. 2013;36(1):E1-7. doi: 10.4102/curationis.v36i1.22.
+
+Health maintenance and low socio-economic status: A family perspective.
+
+Ncho CD, Wright SC.
+
+The socio-economic status of people has a profound influence on health, as 
+higher rates of morbidity and mortality are reported for individuals with lower 
+socio-economic status. Due to the increased burden of disease, research 
+exploring how families maintain their health in a low socio-economic situation 
+is an urgent priority. The objective of the study was to gain an understanding 
+of the reality families are confronted with in terms of their health due to 
+their socio-economic status. The study was contextual, qualitative and 
+exploratory using purposive sampling methods. The sample size was governed by 
+data saturation and realised as 17 families (n=17). The participants for the 
+study were families residing in Soshanguve Extension 12 and 13, South Africa. 
+The data collection method was self-report using a semi-structured interview. 
+Content analysis was done according to Tesch’s approach using open coding. Five 
+themes based on the theoretical basis of the study, including age, sex and 
+genetic constitution, individual lifestyle factors, social and community 
+networks, living and working conditions and general socio-economic status were 
+used. Maintaining the health of people living in a physically and psychosocially 
+disadvantaged position requires a different approach from registered 
+professional nurses. No community-specific intervention can be planned and 
+implemented to reduce the burden of communicable and non-communicable disease in 
+the community without evidence based on a family perspective.
+
+DOI: 10.4102/curationis.v36i1.22
+PMID: 26697607 [Indexed for MEDLINE]
+
+
+779. J Craniomaxillofac Surg. 2016 Feb;44(2):155-9. doi:
+10.1016/j.jcms.2015.10.027.  Epub 2015 Nov 11.
+
+Prospective biomechanical analysis of donor-site morbidity after fibula free 
+flap.
+
+Rendenbach C(1), Kohlmeier C(2), Suling A(3), Assaf AT(2), Catala-Lehnen P(4), 
+Amling M(4), Heiland M(2), Riecke B(2).
+
+Author information:
+(1)Department of Oral & Maxillofacial Surgery (Head: Prof. Dr. Max Heiland), 
+University Medical Center Hamburg Eppendorf, Martinistraße 52, 20246 Hamburg, 
+Germany. Electronic address: c.rendenbach@uke.de.
+(2)Department of Oral & Maxillofacial Surgery (Head: Prof. Dr. Max Heiland), 
+University Medical Center Hamburg Eppendorf, Martinistraße 52, 20246 Hamburg, 
+Germany.
+(3)Department of Medical Biometry and Epidemiology (Head: Prof. Dr. Karl 
+Wegscheider), University Medical Center Hamburg Eppendorf, Martinistraße 52, 
+20246 Hamburg, Germany.
+(4)Institute of Osteology and Biomechanics (Head: Prof. Dr. Michael Amling), 
+University Medical Center Hamburg Eppendorf, Martinistraße 52, 20246 Hamburg, 
+Germany.
+
+PURPOSE: The fibula free flap (FFF) is a standard method for osseous 
+reconstruction. The purpose of this study was to investigate functional deficits 
+after harvesting a free fibula flap.
+MATERIAL AND METHODS: We designed and implemented a prospective clinical cohort 
+study. The study sample consisted of patients undergoing mandible resection and 
+reconstruction with a fibula free flap. The primary endpoint was the 
+time-dependent difference in maximum peak power per body mass (MPP). In 
+addition, balance ability, American Orthopedic Foot and Ankle Society (AOFAS) 
+score, sensory limitations, general surgical complications, and the range of 
+motion were recorded.
+RESULTS: A total of 27 patients were examined pre- and postoperatively (8 months 
+on average). MPP and balance ability were significantly reduced (p < 0.001) 
+postoperatively. Furthermore, a deficit in dorsal extension and a considerable 
+reduction of the AOFAS score were recorded. For the primary outcome, there were 
+no significant predictors on multivariate analysis.
+CONCLUSIONS: Our results indicate a postoperative reduction of lower limb 
+performance with a relevant impact on everyday activities, equivalent to the 
+average loss of 7 life years of a healthy, fit individual. However, these data 
+do not challenge the value of this commonly used microvascular graft. Future 
+efforts should focus on the development of strategies to minimize the associated 
+donor-site morbidity.
+
+Copyright © 2015 European Association for Cranio-Maxillo-Facial Surgery. 
+Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jcms.2015.10.027
+PMID: 26697726 [Indexed for MEDLINE]
+
+
+780. PLoS One. 2015 Dec 23;10(12):e0145300. doi: 10.1371/journal.pone.0145300. 
+eCollection 2015.
+
+Differing Methods and Definitions Influence DALY estimates: Using 
+Population-Based Data to Calculate the Burden of Convulsive Epilepsy in Rural 
+South Africa.
+
+Wagner RG(1)(2)(3), Ibinda F(1)(4), Tollman S(1)(2)(3), Lindholm L(3), Newton 
+CR(1)(4)(5)(6), Bertram MY(7).
+
+Author information:
+(1)Studies of the Epidemiology of Epilepsy in Demographic Surveillance Systems 
+(SEEDS), INDEPTH Network, Accra, Ghana.
+(2)MRC/Wits Rural Public Health and Health Transitions Research Unit 
+(Agincourt), School of Public Health, Faculty of Health Sciences, University of 
+the Witwatersrand, Johannesburg, South Africa.
+(3)Epidemiology and Global Health, Department of Public Health & Clinical 
+Medicine, Umeå University, Umeå, Sweden.
+(4)KEMRI/Wellcome Trust Research Programme, Centre for Geographic Medicine 
+Research- Coast, Kilifi, Kenya.
+(5)Neurosciences Unit, Institute for Child Health, University College London, 
+London, United Kingdom.
+(6)Department of Psychiatry, University of Oxford, Oxford, United Kingdom.
+(7)World Health Organization, Geneva, Switzerland.
+
+BACKGROUND: The disability adjusted life year (DALY) is a composite measure of 
+disease burden that includes both morbidity and mortality, and is relevant to 
+conditions such as epilepsy that can limit productive functioning. The 2010 
+Global Burden of Disease (GBD) study introduced a number of new methods and 
+definitions, including a prevalence-based approach and revised disability 
+weights to calculate morbidity and new standard life expectancies to calculate 
+premature mortality. We used these approaches, and local, population-based data, 
+to estimate the burden of convulsive epilepsy in rural South Africa.
+METHODS & FINDINGS: Comprehensive prevalence, incidence and mortality data on 
+convulsive epilepsy were collected within the Agincourt sub-district in rural 
+northeastern South Africa between 2008 and 2012. We estimated DALYs using both 
+prevalence- and incidence-based approaches for calculating years of life lived 
+with disability. Additionally, we explored how changing the disease model by 
+varying the disability weights influenced DALY estimates. Using the 
+prevalence-based approach, convulsive epilepsy in Agincourt resulted in 332 
+DALYs (95% uncertainty interval (UI): 216-455) and 4.1 DALYs per 1,000 
+individuals (95%UI: 2.7-5.7) annually. Of this, 26% was due to morbidity while 
+74% was due to premature mortality. DALYs increased by 10% when using the 
+incidence-based method. Varying the disability weight from 0.072 (treated 
+epilepsy, seizure free) to 0.657 (severe epilepsy) caused years lived with 
+disability to increase from 18 (95%UI: 16-19) to 161 (95%UI: 143-170).
+CONCLUSIONS: DALY estimates are influenced by both the methods applied and 
+population parameters used in the calculation. Irrespective of method, a 
+significant burden of epilepsy is due to premature mortality in rural South 
+Africa, with a lower burden than rural Kenya. Researchers and national 
+policymakers should carefully interrogate the methods and data used to calculate 
+DALYs as this will influence policy priorities and resource allocation.
+
+DOI: 10.1371/journal.pone.0145300
+PMCID: PMC4689490
+PMID: 26697856 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.781. Nat Rev Rheumatol. 2016 Mar;12(3):169-82. doi: 10.1038/nrrheum.2015.172.
+Epub  2015 Dec 24.
+
+Activation of mTOR (mechanistic target of rapamycin) in rheumatic diseases.
+
+Perl A(1).
+
+Author information:
+(1)Division of Rheumatology, Departments of Medicine, Microbiology and 
+Immunology, and Biochemistry and Molecular Biology, State University of New 
+York, Upstate Medical University, College of Medicine, 750 East Adams Street, 
+Syracuse, New York 13210, USA.
+
+Mechanistic target of rapamycin (mTOR, also known as mammalian target of 
+rapamycin) is a ubiquitous serine/threonine kinase that regulates cell growth, 
+proliferation and survival. These effects are cell-type-specific, and are 
+elicited in response to stimulation by growth factors, hormones and cytokines, 
+as well as to internal and external metabolic cues. Rapamycin was initially 
+developed as an inhibitor of T-cell proliferation and allograft rejection in the 
+organ transplant setting. Subsequently, its molecular target (mTOR) was 
+identified as a component of two interacting complexes, mTORC1 and mTORC2, that 
+regulate T-cell lineage specification and macrophage differentiation. mTORC1 
+drives the proinflammatory expansion of T helper (TH) type 1, TH17, and 
+CD4(-)CD8(-) (double-negative, DN) T cells. Both mTORC1 and mTORC2 inhibit the 
+development of CD4(+)CD25(+)FoxP3(+) T regulatory (TREG) cells and, indirectly, 
+mTORC2 favours the expansion of T follicular helper (TFH) cells which, similarly 
+to DN T cells, promote B-cell activation and autoantibody production. In 
+contrast to this proinflammatory effect of mTORC2, mTORC1 favours, to some 
+extent, an anti-inflammatory macrophage polarization that is protective against 
+infections and tissue inflammation. Outside the immune system, mTORC1 controls 
+fibroblast proliferation and chondrocyte survival, with implications for tissue 
+fibrosis and osteoarthritis, respectively. Rapamycin (which primarily inhibits 
+mTORC1), ATP-competitive, dual mTORC1/mTORC2 inhibitors and upstream regulators 
+of the mTOR pathway are being developed to treat autoimmune, hyperproliferative 
+and degenerative diseases. In this regard, mTOR blockade promises to increase 
+life expectancy through treatment and prevention of rheumatic diseases.
+
+DOI: 10.1038/nrrheum.2015.172
+PMCID: PMC5314913
+PMID: 26698023 [Indexed for MEDLINE]
+
+
+782. Clin Oncol (R Coll Radiol). 2016 Mar;28(3):209-14. doi: 
+10.1016/j.clon.2015.11.011. Epub 2015 Dec 14.
+
+Prognosis, Treatment Benefit and Goals of Care: What do Oncologists Discuss with 
+Patients who have Incurable Cancer?
+
+Raskin W(1), Harle I(2), Hopman WM(3), Booth CM(4).
+
+Author information:
+(1)Department of Medicine, Queen's University, Kingston, Canada.
+(2)Department of Medicine, Queen's University, Kingston, Canada; Department of 
+Oncology, Queen's University, Kingston, Canada.
+(3)Department of Public Health Sciences, Queen's University, Kingston, Canada; 
+Clinical Research Institute, Kingston General Hospital, Kingston, Canada.
+(4)Department of Medicine, Queen's University, Kingston, Canada; Department of 
+Oncology, Queen's University, Kingston, Canada; Department of Public Health 
+Sciences, Queen's University, Kingston, Canada. Electronic address: 
+boothc@kgh.kari.net.
+
+AIMS: Documentation of advance directives among patients with terminal cancer is 
+known to be poor. Here we describe documentation of prognosis, treatment benefit 
+and goals of care discussions in outpatients with advanced cancer.
+MATERIALS AND METHODS: All patients receiving first-line palliative chemotherapy 
+for metastatic pancreas or lung cancers during 2010-2013 at the Cancer Centre of 
+Southeastern Ontario were identified from electronic pharmacy records. Clinical 
+notes from medical oncology were reviewed to identify documentation of 
+discussions regarding prognosis, treatment benefit and goals of care. 
+Differences between groups were tested using the chi-squared test.
+RESULTS: In total, 222 patients were included: 80% (177/222) with lung cancer 
+and 20% (45/222) with pancreas cancer. Medical oncology notes documented 
+discussion of prognosis in 64% (142/222), palliative intent of therapy in 82% 
+(182/222), magnitude of treatment benefit in 29% (64/222) and goals of care in 
+4% (9/222) of patients. An estimate of survival was documented in 36% (79/222) 
+of cases. Across medical oncology providers there was substantial variation in 
+the frequency of discussing prognosis (range 33-90%, P < 0.001), treatment 
+intent (range 55-100%, P < 0.001) and goals of care (range 0-17%, P = 0.034). In 
+total, 41% (93/222) of patients were seen by palliative care; substantial 
+medical oncology provider variation was observed (range 27-58%, P = 0.020). 
+Referral rates to palliative care did not increase over time (41-44%, 
+P = 0.250).
+CONCLUSIONS: In this cohort of ambulatory patients with an estimated life 
+expectancy of 1 year or less, medical oncology documentation of prognosis, 
+treatment benefit and goals of care was poor. Less than half the patients were 
+seen by palliative care. Initiatives to improve documentation and referral to 
+palliative care are needed.
+
+Copyright © 2015 The Royal College of Radiologists. Published by Elsevier Ltd. 
+All rights reserved.
+
+DOI: 10.1016/j.clon.2015.11.011
+PMID: 26698027 [Indexed for MEDLINE]
+
+
+783. World J Urol. 2016 Sep;34(9):1249-53. doi: 10.1007/s00345-015-1749-3. Epub
+2015  Dec 23.
+
+Can MRI/TRUS fusion targeted biopsy replace saturation prostate biopsy in the 
+re-evaluation of men in active surveillance?
+
+Pepe P(1), Garufi A(2), Priolo G(2), Pennisi M(3).
+
+Author information:
+(1)Urology Unit, Cannizzaro Hospital, Via Messina 829, Catania, Italy. 
+piepepe@hotmail.com.
+(2)Imaging Department, Cannizzaro Hospital, Catania, Italy.
+(3)Urology Unit, Cannizzaro Hospital, Via Messina 829, Catania, Italy.
+
+Comment in
+    Urology. 2020 Jan;135:122.
+
+PURPOSE: The detection rate for significant prostate cancer of mMRI/TRUS fusion 
+targeted biopsy versus saturation prostate biopsy was prospectively evaluated in 
+men enrolled in active surveillance (AS) protocol.
+METHODS: From May 2013 to January 2015, 40 men aged 66 years (median) with very 
+low-risk PCa were enrolled in an AS protocol, and eligible criteria were: life 
+expectancy greater than 10 years, cT1C, PSA below 10 ng/ml, PSA density <0.20, 
+≤2 unilateral positive biopsy cores, Gleason score (GS) equal to 6, greatest 
+percentage of cancer (GPC) in a core ≤50 %. All patients underwent 3.0-Tesla 
+pelvic mpMRI before confirmatory transperineal saturation biopsy (SPBx; median 
+30 cores) combined with mpMRI/TRUS fusion targeted biopsy (median 4 cores) of 
+suspicious lesions (PI-RADS 4-5).
+RESULTS: Ten out of 40 (25 %) patients were reclassified by SPBx based on 
+upgraded GS ≥ 7; mpMRI found all the lesions predictive of significant PCa 
+showing a false-positive rate equal to 5 %; on the contrary, mpMRI/TRUS targeted 
+biopsy missed 3/10 (30 %) significant PCa characterised by the presence of a 
+single positive core of GS ≥ 7 and GPC ≤ 5 %, suggesting that reduced number of 
+targeted biopsies could miss small but significant PCa. Diagnostic accuracy, 
+sensitivity, specificity, and positive and negative predictive value of mpMRI in 
+diagnosing significant PCa were 95.2, 100, 93.8, 83.4, 100 %, respectively.
+CONCLUSIONS: Although mpMRI provided high diagnostic accuracy (about 95 %) in 
+diagnosing clinically significant PCa, mpMRI/TRUS fusion targeted biopsy cannot 
+replace SPBx at confirmatory biopsy of men enrolled in AS protocols.
+
+DOI: 10.1007/s00345-015-1749-3
+PMID: 26699628 [Indexed for MEDLINE]
+
+
+784. Lancet. 2015 Nov 21;386(10008):2053. doi: 10.1016/S0140-6736(15)00987-3.
+Epub  2015 Nov 20.
+
+Disparities in health and health care in Myanmar.
+
+Zaw PPT(1), Htoo TS(2), Pham NM(3), Eggleston K(4).
+
+Author information:
+(1)Department of Medical Research, Ministry of Health, Pyin Oo Lwin, Myanmar; 
+Stanford University Asia Health Policy Program, Stanford, CA 94305, USA.
+(2)Myanmar Ministry of Health, Nay Pyi Taw, Myanmar.
+(3)Thai Nguyen University of Medicine and Pharmacy, Thai Nguyen City, Vietnam; 
+Stanford University Asia Health Policy Program, Stanford, CA 94305, USA.
+(4)Stanford University Asia Health Policy Program, Stanford, CA 94305, USA. 
+Electronic address: karene@stanford.edu.
+
+Comment in
+    Lancet. 2016 Feb 20;387(10020):749-50.
+
+DOI: 10.1016/S0140-6736(15)00987-3
+PMCID: PMC4672190
+PMID: 26700385 [Indexed for MEDLINE]
+
+
+785. Lancet. 2015 Dec 12;386(10011):2391-2. doi: 10.1016/S0140-6736(15)01194-0.
+
+Future inequalities in life expectancy in England and Wales - Authors' reply.
+
+Bennett JE(1), Li G(1), Kontis V(1), Foreman K(1), Ezzati M(2).
+
+Author information:
+(1)Department of Epidemiology and Biostatistics, School of Public Health, 
+Imperial College London, London W2 1PG, UK.
+(2)Department of Epidemiology and Biostatistics, School of Public Health, 
+Imperial College London, London W2 1PG, UK. Electronic address: 
+majid.ezzati@imperial.ac.uk.
+
+Comment on
+    Lancet. 2015 Jul 11;386(9989):163-70.
+    Lancet. 2015 Dec 12;386(10011):2391.
+
+DOI: 10.1016/S0140-6736(15)01194-0
+PMID: 26700526 [Indexed for MEDLINE]
+
+
+786. Lancet. 2015 Dec 12;386(10011):2391. doi: 10.1016/S0140-6736(15)01193-9.
+
+Future inequalities in life expectancy in England and Wales.
+
+Peters F(1), Bohk-Ewald C(2), Rau R(2).
+
+Author information:
+(1)Institute for Sociology and Demography, University of Rostock, 18051 Rostock, 
+Germany. Electronic address: frederik.peters@uni-rostock.de.
+(2)Institute for Sociology and Demography, University of Rostock, 18051 Rostock, 
+Germany.
+
+Comment in
+    Lancet. 2015 Dec 12;386(10011):2391-2.
+
+Comment on
+    Lancet. 2015 Jul 11;386(9989):163-70.
+
+DOI: 10.1016/S0140-6736(15)01193-9
+PMID: 26700527 [Indexed for MEDLINE]
+
+
+787. Lancet. 2015 Dec 12;386(10011):2422-35. doi: 10.1016/S0140-6736(15)00955-1.
+
+Assuring health coverage for all in India.
+
+Patel V(1), Parikh R(2), Nandraj S(2), Balasubramaniam P(3), Narayan K(2), Paul 
+VK(4), Kumar AK(5), Chatterjee M(6), Reddy KS(7).
+
+Author information:
+(1)London School of Hygiene & Tropical Medicine, London, UK; Public Health 
+Foundation of India, Gurgaon, India. Electronic address: 
+vikram.patel@lshtm.ac.uk.
+(2)Public Health Foundation of India, Gurgaon, India.
+(3)Public Health Foundation of India, Gurgaon, India; Public Health Foundation 
+of India and Royal Norwegian Embassy Universal Health Initiative, New Delhi, 
+India.
+(4)Department of Paediatrics, All India Institute of Medical Sciences, New 
+Delhi, India.
+(5)Independent Researcher and Policy Analyst, New Delhi, India.
+(6)Sewa, Ahmedabad, India; VimoSEWA Cooperative, Ahmedabad, India; Lok Swasthya 
+Health Cooperative, Ahmedabad, India.
+(7)Public Health Foundation of India, Gurgaon, India; World Heart Federation, 
+New Delhi, India.
+
+Comment in
+    Lancet. 2016 Mar 19;387(10024):1160.
+
+Successive Governments of India have promised to transform India's 
+unsatisfactory health-care system, culminating in the present government's 
+promise to expand health assurance for all. Despite substantial improvements in 
+some health indicators in the past decade, India contributes disproportionately 
+to the global burden of disease, with health indicators that compare 
+unfavourably with other middle-income countries and India's regional neighbours. 
+Large health disparities between states, between rural and urban populations, 
+and across social classes persist. A large proportion of the population is 
+impoverished because of high out-of-pocket health-care expenditures and suffers 
+the adverse consequences of poor quality of care. Here we make the case not only 
+for more resources but for a radically new architecture for India's health-care 
+system. India needs to adopt an integrated national health-care system built 
+around a strong public primary care system with a clearly articulated supportive 
+role for the private and indigenous sectors. This system must address acute as 
+well as chronic health-care needs, offer choice of care that is rational, 
+accessible, and of good quality, support cashless service at point of delivery, 
+and ensure accountability through governance by a robust regulatory framework. 
+In the process, several major challenges will need to be confronted, most 
+notably the very low levels of public expenditure; the poor regulation, rapid 
+commercialisation of and corruption in health care; and the fragmentation of 
+governance of health care. Most importantly, assuring universal health coverage 
+will require the explicit acknowledgment, by government and civil society, of 
+health care as a public good on par with education. Only a radical restructuring 
+of the health-care system that promotes health equity and eliminates 
+impoverishment due to out-of-pocket expenditures will assure health for all 
+Indians by 2022--a fitting way to mark the 75th year of India's independence.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(15)00955-1
+PMID: 26700532 [Indexed for MEDLINE]
+
+
+788. Development. 2016 Feb 1;143(3):492-503. doi: 10.1242/dev.126292. Epub 2015
+Dec  23.
+
+A novel role for Ascl1 in the regulation of mesendoderm formation via 
+HDAC-dependent antagonism of VegT.
+
+Gao L(1), Zhu X(1), Chen G(1), Ma X(2), Zhang Y(1), Khand AA(1), Shi H(1), Gu 
+F(1), Lin H(1), Chen Y(3), Zhang H(1), He L(1), Tao Q(4).
+
+Author information:
+(1)MOE Key Laboratory of Protein Sciences, Tsinghua University School of Life 
+Sciences, Beijing 100084, China.
+(2)CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of 
+Genomics, Chinese Academy of Sciences, Beijing 100101, China.
+(3)Tianjin Normal University College of Life Science, Binshuixidao (extension 
+line) 393, Xinqing District, Tianjin 300387, China.
+(4)MOE Key Laboratory of Protein Sciences, Tsinghua University School of Life 
+Sciences, Beijing 100084, China qhtaolab@tsinghua.edu.cn.
+
+Maternally expressed proteins function in vertebrates to establish the major 
+body axes of the embryo and to establish a pre-pattern that sets the stage for 
+later-acting zygotic signals. This pre-patterning drives the propensity of 
+Xenopus animal cap cells to adopt neural fates under various experimental 
+conditions. Previous studies found that the maternally expressed transcription 
+factor, encoded by the Xenopus achaete scute-like gene ascl1, is enriched at the 
+animal pole. Asc1l is a bHLH protein involved in neural development, but its 
+maternal function has not been studied. Here, we performed a series of gain- and 
+loss-of-function experiments on maternal ascl1, and present three novel 
+findings. First, Ascl1 is a repressor of mesendoderm induced by VegT, but not of 
+Nodal-induced mesendoderm. Second, a previously uncharacterized N-terminal 
+domain of Ascl1 interacts with HDAC1 to inhibit mesendoderm gene expression. 
+This N-terminal domain is dispensable for its neurogenic function, indicating 
+that Ascl1 acts by different mechanisms at different times. Ascl1-mediated 
+repression of mesendoderm genes was dependent on HDAC activity and accompanied 
+by histone deacetylation in the promoter regions of VegT targets. Finally, 
+maternal Ascl1 is required for animal cap cells to retain their competence to 
+adopt neural fates. These results establish maternal Asc1l as a key factor in 
+establishing pre-patterning of the early embryo, acting in opposition to VegT 
+and biasing the animal pole to adopt neural fates. The data presented here 
+significantly extend our understanding of early embryonic pattern formation.
+
+© 2016. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/dev.126292
+PMCID: PMC4760308
+PMID: 26700681 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests The authors declare no 
+competing or financial interests.
+
+
+789. FASEB J. 2016 Apr;30(4):1634-42. doi: 10.1096/fj.15-282475. Epub 2015 Dec
+23.
+
+Circadian clocks govern calorie restriction-mediated life span extension through 
+BMAL1- and IGF-1-dependent mechanisms.
+
+Patel SA(1), Chaudhari A(1), Gupta R(1), Velingkaar N(1), Kondratov RV(2).
+
+Author information:
+(1)Department of Biological, Geological, and Environmental Sciences, and Center 
+for Gene Regulation in Health and Diseases, Cleveland State University, 
+Cleveland, Ohio, USA.
+(2)Department of Biological, Geological, and Environmental Sciences, and Center 
+for Gene Regulation in Health and Diseases, Cleveland State University, 
+Cleveland, Ohio, USA r.kondratov@csuohio.edu.
+
+Calorie restriction (CR) increases longevity in many species by unknown 
+mechanisms. The circadian clock was proposed as a potential mediator of CR. 
+Deficiency of the core component of the circadian clock-transcriptional factor 
+BMAL1 (brain and muscle ARNT [aryl hydrocarbon receptor nuclear 
+translocator]-like protein 1)-results in accelerated aging. Here we investigated 
+the role of BMAL1 in mechanisms of CR. The 30% CR diet increased the life span 
+of wild-type (WT) mice by 20% compared to mice on anad libitum(AL) diet but 
+failed to increase life span ofBmal1(-/-)mice. BMAL1 deficiency impaired 
+CR-mediated changes in the plasma levels of IGF-1 and insulin. We detected a 
+statistically significantly reduction of IGF-1 in CRvs.AL by 50 to 70% in WT 
+mice at several daily time points tested, while inBmal1(-/-)the reduction was 
+not significant. Insulin levels in WT were reduced by 5 to 9%, 
+whileBmal1(-/-)induced it by 10 to 35% at all time points tested. CR 
+up-regulated the daily average expression ofBmal1(by 150%) and its downstream 
+target genesPeriods(by 470% forPer1and by 130% forPer2). We propose that BMAL1 
+is an important mediator of CR, and activation of BMAL1 might link CR mechanisms 
+with biologic clocks.-Patel, S. A., Chaudhari, A., Gupta, R., Velingkaar, N., 
+Kondratov, R. V. Circadian clocks govern calorie restriction-mediated life span 
+extension through BMAL1- and IGF-1-dependent mechanisms.
+
+© FASEB.
+
+DOI: 10.1096/fj.15-282475
+PMCID: PMC4799504
+PMID: 26700733 [Indexed for MEDLINE]
+
+
+790. Ann Am Thorac Soc. 2016 Mar;13(3):401-13. doi:
+10.1513/AnnalsATS.201504-205OC.
+
+Potential Cost-effectiveness of Early Identification of Hospital-acquired 
+Infection in Critically Ill Patients.
+
+Tsalik EL(1)(2)(3), Li Y(4), Hudson LL(2)(3), Chu VH(2)(4), Himmel T(2), 
+Limkakeng AT(5), Katz JN(6), Glickman SW(7), McClain MT(8)(2)(3), Welty-Wolf 
+KE(8)(2), Fowler VG(2), Ginsburg GS(2)(3), Woods CW(8)(2)(3), Reed SD(2)(4).
+
+Author information:
+(1)1 Emergency Medicine Service, and.
+(2)2 Department of Medicine.
+(3)3 Center for Applied Genomics and Precision Medicine, Duke University, 
+Durham, North Carolina.
+(4)4 Duke Clinical Research Institute, and.
+(5)5 Department of Surgery, Duke University School of Medicine, Durham, North 
+Carolina.
+(6)6 Department of Medicine, University of North Carolina Health Care, Chapel 
+Hill, North Carolina; and.
+(7)7 Department of Emergency Medicine, University of North Carolina School of 
+Medicine, Chapel Hill, North Carolina.
+(8)8 Medicine Service, Durham Veterans Affairs Medical Center, Durham, North 
+Carolina.
+
+RATIONALE: Limitations in methods for the rapid diagnosis of hospital-acquired 
+infections often delay initiation of effective antimicrobial therapy. New 
+diagnostic approaches offer potential clinical and cost-related improvements in 
+the management of these infections.
+OBJECTIVES: We developed a decision modeling framework to assess the potential 
+cost-effectiveness of a rapid biomarker assay to identify hospital-acquired 
+infection in high-risk patients earlier than standard diagnostic testing.
+METHODS: The framework includes parameters representing rates of infection, 
+rates of delayed appropriate therapy, and impact of delayed therapy on 
+mortality, along with assumptions about diagnostic test characteristics and 
+their impact on delayed therapy and length of stay. Parameter estimates were 
+based on contemporary, published studies and supplemented with data from a 
+four-site, observational, clinical study. Extensive sensitivity analyses were 
+performed. The base-case analysis assumed 17.6% of ventilated patients and 11.2% 
+of nonventilated patients develop hospital-acquired infection and that 28.7% of 
+patients with hospital-acquired infection experience delays in appropriate 
+antibiotic therapy with standard care. We assumed this percentage decreased by 
+50% (to 14.4%) among patients with true-positive results and increased by 50% 
+(to 43.1%) among patients with false-negative results using a hypothetical 
+biomarker assay. Cost of testing was set at $110/d.
+MEASUREMENTS AND MAIN RESULTS: In the base-case analysis, among ventilated 
+patients, daily diagnostic testing starting on admission reduced inpatient 
+mortality from 12.3 to 11.9% and increased mean costs by $1,640 per patient, 
+resulting in an incremental cost-effectiveness ratio of $21,389 per life-year 
+saved. Among nonventilated patients, inpatient mortality decreased from 7.3 to 
+7.1% and costs increased by $1,381 with diagnostic testing. The resulting 
+incremental cost-effectiveness ratio was $42,325 per life-year saved. Threshold 
+analyses revealed the probabilities of developing hospital-acquired infection in 
+ventilated and nonventilated patients could be as low as 8.4 and 9.8%, 
+respectively, to maintain incremental cost-effectiveness ratios less than 
+$50,000 per life-year saved.
+CONCLUSIONS: Development and use of serial diagnostic testing that reduces the 
+proportion of patients with delays in appropriate antibiotic therapy for 
+hospital-acquired infections could reduce inpatient mortality. The model 
+presented here offers a cost-effectiveness framework for future test 
+development.
+
+DOI: 10.1513/AnnalsATS.201504-205OC
+PMID: 26700878 [Indexed for MEDLINE]
+
+
+791. Perit Dial Int. 2015 Nov;35(6):630-4. doi: 10.3747/pdi.2014.00342.
+
+Geriatric Assessment, Falls and Rehabilitation in Patients Starting or 
+Established on Peritoneal Dialysis.
+
+Jassal SV(1).
+
+Author information:
+(1)University Health Network of Toronto, Toronto, Canada vanita.jassal@uhn.ca.
+
+Individuals aged over 70 years at the time of starting dialysis have a varied 
+and often challenging existence on dialysis. Canadian data suggest those 
+starting dialysis between the ages of 75 and 79 years will have an average life 
+expectancy of 3.2 years, while based on US data, patients can expect an average 
+life expectancy of 25 months. A substantial proportion of these patients will, 
+however, experience transient or permanent loss of personal independence within 
+the first few months to years on dialysis. Preliminary data from patients 
+recently started on peritoneal dialysis (PD) suggest patients and families 
+adapt, but that the adaptation often involves limiting activities and altering 
+the social role the patient has within the family. As data emerge, it will be 
+possible to hypothesize whether this adaptation is beneficial in the long term, 
+or whether these adaptations are permissive, allowing the patient to play a sick 
+role leading to an accelerated transition to frailty and possibly death. Future 
+research will hopefully inform us whether the functional dependency can be 
+identified early and whether it is preventable. In the interim, repair rather 
+than prevention is possible through rehabilitation. We therefore advocate that 
+programs providing PD care consider the integration of protocols whereby 
+patients may undergo formal evaluation to identify those who would benefit from 
+walking or personal care aids, rehabilitation interventions, and, when needed, 
+personal support.
+
+Copyright © 2015 International Society for Peritoneal Dialysis.
+
+DOI: 10.3747/pdi.2014.00342
+PMCID: PMC4689464
+PMID: 26702003 [Indexed for MEDLINE]
+
+
+792. J Am Heart Assoc. 2015 Dec 23;4(12):e002321. doi: 10.1161/JAHA.115.002321.
+
+Cost-Effectiveness of a Statewide Campaign to Promote Aspirin Use for Primary 
+Prevention of Cardiovascular Disease.
+
+Michaud TL(1), Abraham J(2), Jalal H(3), Luepker RV(4), Duval S(5), Hirsch 
+AT(4).
+
+Author information:
+(1)Center for Reducing Health Disparities, College of Public Health, University 
+of Nebraska Medical Center, Omaha, NE (T.L.M.) Department of Health Promotion, 
+Social and Behavioral Health, College of Public Health, University of Nebraska 
+Medical Center, Omaha, NE (T.L.M.).
+(2)Division of Health Policy and Management, University of Minnesota, 
+Minneapolis, MN (J.A.).
+(3)Department of Health Policy and Management, University of Pittsburgh, PA 
+(H.J.).
+(4)Division of Epidemiology and Community Health, University of Minnesota, 
+Minneapolis, MN (R.V.L., A.T.H.) Lillehei Heart Institute and Cardiovascular 
+Division, University of Minnesota, Minneapolis, MN (R.V.L., S.D., A.T.H.).
+(5)Lillehei Heart Institute and Cardiovascular Division, University of 
+Minnesota, Minneapolis, MN (R.V.L., S.D., A.T.H.).
+
+Comment in
+    J Am Heart Assoc. 2015 Dec;4(12). pii: e002927. doi: 
+10.1161/JAHA.115.002927.
+
+BACKGROUND: The U.S. Preventive Services Task Force in 2009 recommended 
+increased aspirin use for primary prevention of cardiovascular disease (CVD) in 
+men ages 45 to 79 years and women ages 55 to 79 years for whom benefit outweighs 
+risk. This study estimated the clinical efficacy and cost-effectiveness of a 
+statewide public and health professional awareness campaign to increase regular 
+aspirin use among the target population in Minnesota to reduce first CVD events.
+METHODS AND RESULTS: A state-transition Markov model was developed, adopting a 
+payer perspective and lifetime time horizon. The main outcomes of interest were 
+quality-adjusted life years, costs, and the number of CVD events averted among 
+those without a prior CVD history. The model was based on real-world data about 
+campaign effectiveness from representative state-specific aspirin use and event 
+rates, and estimates from the scholarly literature. Implementation of a campaign 
+was predicted to avert 9874 primary myocardial infarctions in men and 1223 
+primary ischemic strokes in women in the target population. Increased aspirin 
+use was associated with as many as 7222 more major gastrointestinal bleeding 
+episodes. The cost-effectiveness analysis indicated cost-saving results for both 
+the male and female target populations.
+CONCLUSIONS: Using current U.S. Preventive Services Task Force recommendations, 
+a state public and health professional awareness campaign would likely provide 
+clinical benefit and be economically attractive. With clinician adjudication of 

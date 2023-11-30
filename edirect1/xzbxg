@@ -1,0 +1,1000 @@
+DOI: 10.1007/s40520-016-0638-y
+PMID: 27761759 [Indexed for MEDLINE]
+
+
+867. Lifetime Data Anal. 2017 Oct;23(4):651-670. doi: 10.1007/s10985-016-9384-x.
+Epub  2016 Oct 19.
+
+Regression analysis of clustered failure time data with informative cluster size 
+under the additive transformation models.
+
+Chen L(1), Feng Y(2)(3), Sun J(4).
+
+Author information:
+(1)Division of Biostatistics, Washington University School of Medicine, Campus 
+Box 8067, 660 S. Euclid Ave, St. Louis, MO, 63110, USA. lingchen@wustl.edu.
+(2)School of Mathematics and Statistics, Wuhan University, Wuhan, 430072, China.
+(3)Computational Science Hubei Key Laboratory, Wuhan University, Wuhan, 430072, 
+China.
+(4)Department of Statistics, University of Missouri, 146 Middlebush Hall, 
+Columbia, MO, 65211, USA.
+
+This paper discusses regression analysis of clustered failure time data, which 
+occur when the failure times of interest are collected from clusters. In 
+particular, we consider the situation where the correlated failure times of 
+interest may be related to cluster sizes. For inference, we present two 
+estimation procedures, the weighted estimating equation-based method and the 
+within-cluster resampling-based method, when the correlated failure times of 
+interest arise from a class of additive transformation models. The former makes 
+use of the inverse of cluster sizes as weights in the estimating equations, 
+while the latter can be easily implemented by using the existing software 
+packages for right-censored failure time data. An extensive simulation study is 
+conducted and indicates that the proposed approaches work well in both the 
+situations with and without informative cluster size. They are applied to a 
+dental study that motivated this study.
+
+DOI: 10.1007/s10985-016-9384-x
+PMID: 27761797 [Indexed for MEDLINE]
+
+
+868. Diabet Med. 2017 Jun;34(6):786-793. doi: 10.1111/dme.13274. Epub 2016 Nov
+10.
+
+Profile of diabetes in men aged 79-97 years: the Western Australian Health in 
+Men Study.
+
+Henze M(1)(2), Alfonso H(3), Flicker L(1)(4), George J(4), Chubb SAP(1)(5), 
+Hankey GJ(1), Almeida OP(4)(6), Golledge J(7)(8), Norman PE(9), Yeap BB(1)(2).
+
+Author information:
+(1)School of Medicine and Pharmacology, University of Western Australia, Perth, 
+Western Australia, Australia.
+(2)Department of Endocrinology and Diabetes, Fiona Stanley Hospital, Perth, 
+Western Australia, Australia.
+(3)School of Public Health, Curtin University, Perth, Western Australia, 
+Australia.
+(4)Western Australian Centre for Health and Ageing, Centre for Medical Research, 
+University of Western Australia, Perth, Western Australia, Australia.
+(5)PathWest Laboratory Medicine, Fiona Stanley Hospital, Perth, Western 
+Australia, Australia.
+(6)School of Psychiatry and Clinical Neurosciences, University of Western 
+Australia, Perth, Western Australia, Australia.
+(7)Vascular Biology Unit, Queensland Research Centre for Peripheral Vascular 
+Disease, School of Medicine, James Cook University, Townsville, Queensland, 
+Australia.
+(8)Department of Vascular and Endovascular Surgery, Townsville Hospital, 
+Townsville, Queensland, Australia.
+(9)School of Surgery, University of Western Australia, Perth, Western Australia, 
+Australia.
+
+AIMS: To investigate behavioural, physical and biochemical characteristics 
+associated with diabetes in the oldest age group of elderly men.
+METHODS: We conducted a cross-sectional analysis of community-dwelling men aged 
+79-97 years from Perth, Western Australia. Lifestyle behaviours, self-rated 
+health, physical function, and fasting glucose and HbA1c levels were assessed.
+RESULTS: Of 1426 men, 315 had diabetes (22%). Men with diabetes were of similar 
+age to men without (84.9 vs 84.5 years; P = 0.14). Only 26.5% of men with 
+diabetes self-rated their health as excellent or very good, compared with 40.6% 
+of men without diabetes (P < 0.001). Diabetes was associated with less 
+involvement with recreational walking (32.7 vs 41.0%; P < 0.01) and leisure 
+activities (19.0 vs 26.5%; P < 0.01). Men with diabetes had poorer physical 
+function on multiple measures, including longer times for the Timed Up-and-Go 
+test (15.0 ± 6.9 s vs 13.4 ± 5.3 s; P < 0.001) and weaker knee extension (20.2 
+vs 21.9 kg; P < 0.001). In multivariate analyses, diabetes was associated with 
+an increased prevalence of myocardial infarction (odds ratio 1.80, 95% CI 
+1.25-2.60; P < 0.001) and falls resulting in injury (odds ratio 1.55, 95% CI 
+1.06-2.26; P = 0.02). Average HbA1c was 49 ± 8 mmol/mol (6.6 ± 0.8%) in men with 
+diabetes, with 90.6% of these men on diet or oral hypoglycaemic therapy.
+CONCLUSIONS: In older men, diabetes is associated with poorer self-perceived 
+health, reduced healthy lifestyle behaviours and physical function, heart 
+disease and injurious falls. The majority of these men with diabetes had good 
+glycaemic control. Encouraging healthy lifestyle behaviours and improving 
+physical function should be evaluated as interventions to improve 
+quality-of-life and health outcomes.
+
+© 2016 Diabetes UK.
+
+DOI: 10.1111/dme.13274
+PMID: 27761946 [Indexed for MEDLINE]
+
+
+869. Chem Biol Drug Des. 2017 May;89(5):670-680. doi: 10.1111/cbdd.12888. Epub
+2016  Nov 19.
+
+Synthesis and evaluation of novel amonafide-polyamine conjugates as anticancer 
+agents.
+
+Wang Y(1), Zhang J(2), Li M(2), Li M(2), Xie S(2), Wang C(3).
+
+Author information:
+(1)College of Chemistry and Chemical Engineering, Henan University, Kaifeng, 
+China.
+(2)Pharmaceutical College, Henan University, Kaifeng, China.
+(3)Key Laboratory of Natural Medicine and Immuno-Engineering, Henan University, 
+Kaifeng, China.
+
+With the aim of upregulating antitumor efficacy and downregulating adverse 
+effects, the amino group in the three-position of amonafide aromatic ring was 
+modified by coupling with different amine/polyamine motifs via two linkers. Two 
+series of naphthalimide derivatives were designed and synthesized and evaluated 
+for their antitumor properties in vitro and in vivo. The preliminary in vitro 
+trials revealed that compounds with urea as the linker were not active, and the 
+presence of aspirin elevated the potency of 6k against tumor cells, wound 
+healing, and the protein expression of cyclic D1 and MMP9. The in vivo trials on 
+three H22 tumor transplant models demonstrated that the combination of 6k and 
+aspirin markedly improved the efficacy in terms of inhibitive effect, pulmonary 
+metastasis, and extension of the life span. More importantly, the combination of 
+6k and aspirin displayed the reduced side-effects compared to that of amonafide.
+
+© 2016 John Wiley & Sons A/S.
+
+DOI: 10.1111/cbdd.12888
+PMID: 27762101 [Indexed for MEDLINE]
+
+
+870. Br J Surg. 2017 Jan;104(1):98-107. doi: 10.1002/bjs.10317. Epub 2016 Oct 20.
+
+Cost-effectiveness of emergency versus delayed laparoscopic cholecystectomy for 
+acute gallbladder pathology.
+
+Sutton AJ(1)(2), Vohra RS(3), Hollyman M(4), Marriott PJ(4)(5), Buja A(6), 
+Alderson D(7), Pasquali S(8), Griffiths EA(5); CholeS Study Group and the West 
+Midlands Research Collaborative.
+
+Collaborators: Vohra RS, Spreadborough P, Hollyman M, Marriott PJ, Kirkham A, 
+Pasquali S, Alderson D, Griffiths EA, Fenwick S, Elmasry M, Nunes QM, Kennedy D, 
+Khan RB, Khan MA, Magee CJ, Jones SM, Mason D, Parappally CP, Mathur P, Saunders 
+M, Jamel S, Ul Haque S, Zafar S, Shiwani MH, Samuel N, Dar F, Jackson A, Lovett 
+B, Dindyal S, Winter H, Fletcher T, Rahman S, Wheatley K, Nieto T, Ayaani S, 
+Youssef H, Nijjar RS, Watkin H, Naumann D, Emesih S, Sarmah PB, Lee K, Joji N, 
+Heath J, Teasdale RL, Weerasinghe C, Needham PJ, Welbourn H, Forster L, Finch D, 
+Blazeby JM, Robb W, McNair AG, Hrycaiczuk A, Charalabopoulos A, Kadirkamanathan 
+S, Tang CB, Jayanthi NV, Noor N, Dobbins B, Cockbain AJ, Nilsen-Nunn A, de 
+Siqueira J, Pellen M, Cowley JB, Ho WM, Miu V, White TJ, Hodgkins KA, Kinghorn 
+A, Tutton MG, Al-Abed YA, Menzies D, Ahmad A, Reed J, Khan S, Monk D, Vitone LJ, 
+Murtaza G, Joel A, Brennan S, Shier D, Zhang C, Yoganathan T, Robinson SJ, 
+McCallum IJ, Jones MJ, Elsayed M, Tuck E, Wayman J, Carney K, Aroori S, Hosie 
+KB, Kimble A, Bunting DM, Fawole AS, Basheer M, Dave RV, Sarveswaran J, Jones E, 
+Kendal C, Tilston MP, Gough M, Wallace T, Singh S, Downing J, Mockford KA, Issa 
+E, Shah N, Chauhan N, Wilson TR, Forouzanfar A, Wild JR, Nofal E, Bunnell C, 
+Madbak K, Rao ST, Devoto L, Siddiqi N, Khawaja Z, Hewes JC, Gould L, Chambers A, 
+Rodriguez DU, Sen G, Robinson S, Carney K, Bartlett F, Rae DM, Stevenson TE, 
+Sarvananthan K, Dwerryhouse SJ, Higgs SM, Old OJ, Hardy TJ, Shah R, Hornby ST, 
+Keogh K, Frank L, Al-Akash M, Upchurch EA, Frame RJ, Hughes M, Jelley C, Weaver 
+S, Roy S, Sillo TO, Galanopoulos G, Cuming T, Cunha P, Tayeh S, Kaptanis S, 
+Heshaishi M, Eisawi A, Abayomi M, Ngu WS, Fleming K, Bajwa DS, Chitre V, Aryal 
+K, Ferris P, Silva M, Lammy S, Mohamed S, Khawaja A, Hussain A, Ghazanfar MA, 
+Bellini MI, Ebdewi H, Elshaer M, Gravante G, Drake B, Ogedegbe A, Mukherjee D, 
+Arhi C, Iqbal LG, Watson NF, Aggarwal SK, Orchard P, Villatoro E, Willson PD, 
+Mok J, Woodman T, Deguara J, Garcea G, Babu BI, Dennison AR, Malde D, Lloyd D, 
+Satheesan S, Al-Taan O, Boddy A, Slavin JP, Jones RP, Ballance L, Gerakopoulos 
+S, Jambulingam P, Mansour S, Sakai N, Acharya V, Sadat MM, Karim L, Larkin D, 
+Amin K, Khan A, Law J, Jamdar S, Smith SR, Sampat K, O'shea KM, Manu M, Asprou 
+FM, Malik NS, Chang J, Johnstone M, Lewis M, Roberts GP, Karavadra B, Photi E, 
+Hewes J, Gould L, Chambers A, Rodriguez D, O'Reilly DA, Rate AJ, Sekhar H, 
+Henderson LT, Starmer BZ, Coe PO, Tolofari S, Barrie J, Bashir G, Sloane J, 
+Madanipour S, Halkias C, Trevatt AE, Borowski DW, Hornsby J, Courtney MJ, 
+Virupaksha S, Seymour K, Robinson S, Hawkins H, Bawa S, Gallagher PV, Reid A, 
+Wood P, Finch JG, Parmar J, Stirland E, Gardner-Thorpe J, Al-Muhktar A, Peterson 
+M, Majeed A, Bajwa FM, Martin J, Choy A, Tsang A, Pore N, Andrew DR, Al-Khyatt 
+W, Taylor C, Bhandari S, Chambers A, Subramanium D, Toh SK, Carter NC, Tate S, 
+Pearce B, Wainwright D, Mercer SJ, Knight B, Vijay V, Alagaratnam S, Sinha S, 
+Khan S, El-Hasani SS, Hussain AA, Bhattacharya V, Kansal N, Fasih T, Jackson C, 
+Siddiqui MN, Chishti IA, Fordham IJ, Siddiqui Z, Bausbacher H, Geogloma I, 
+Gurung K, Tsavellas G, Basynat P, Shrestha AK, Basu S, Mohan AC, Harilingam M, 
+Rabie M, Akhtar M, Kumar P, Jafferbhoy SF, Hussain N, Raza S, Haque M, Alam I, 
+Aseem R, Patel S, Asad M, Booth MI, Ball WR, Wood CP, Pinho-Gomes AC, Kausar A, 
+Obeidallah MR, Varghase J, Lodhia J, Bradley D, Rengifo C, Lindsay D, Gopalswamy 
+S, Finlay I, Wardle S, Bullen N, Iftikhar SY, Awan A, Ahmed J, Leeder P, Fusai 
+G, Bond-Smith G, Psica A, Puri Y, Hou D, Noble F, Szentpali K, Broadhurst J, 
+Date R, Hossack MR, Goh YL, Turner P, Shetty V, Riera M, Macano CA, Sukha A, 
+Preston SR, Hoban JR, Puntis DJ, Williams SV, Krysztopik R, Kynaston J, Batt J, 
+Doe M, Goscimski A, Jones GH, Smith SR, Hall C, Carty N, Ahmed J, 
+Panteleimonitis S, Gunasekera RT, Sheel AR, Lennon H, Hindley C, Reddy M, Kenny 
+R, Elkheir N, McGlone ER, Rajaganeshan R, Hancorn K, Hargreaves A, Prasad R, 
+Longbotham DA, Vijayanand D, Wijetunga I, Ziprin P, Nicolay CR, Yeldham G, Read 
+E, Gossage JA, Rolph RC, Ebied H, Phull M, Khan MA, Popplewell M, Kyriakidis D, 
+Hussain A, Henley N, Packer JR, Derbyshire L, Porter J, Appleton S, Farouk M, 
+Basra M, Jennings NA, Ali S, Kanakala V, Ali H, Lane R, Dickson-Lowe R, 
+Zarsadias P, Mirza D, Puig S, Al Amari K, Vijayan D, Sutcliffe R, Marudanayagam 
+R, Hamady Z, Prasad AR, Patel A, Durkin D, Kaur P, Bowen L, Byrne JP, Pearson 
+KL, Delisle TG, Davies J, Tomlinson MA, Johnpulle MA, Slawinski C, Macdonald A, 
+Nicholson J, Newton K, Mbuvi J, Farooq A, Mothe BS, Zafrani Z, Brett D, 
+Francombe J, Spreadborough P, Barnes J, Cheung M, Al-Bahrani AZ, Preziosi G, 
+Urbonas T, Alberts J, Mallik M, Patel K, Segaran A, Doulias T, Sufi PA, Yao C, 
+Pollock S, Manzelli A, Wajed S, Kourkulos M, Pezzuto R, Wadley M, Hamilton E, 
+Jaunoo S, Padwick R, Sayegh M, Newton RC, Hebbar M, Farag SF, Spearman J, Hamdan 
+MF, D'Costa C, Blane C, Giles M, Peter MB, Hirst NA, Hossain T, Pannu A, 
+El-Dhuwaib Y, Morrison TE, Taylor GW, Thompson RL, McCune K, Loughlin P, Lawther 
+R, Byrnes CK, Simpson DJ, Mawhinney A, Warren C, McKay D, McIlmunn C, Martin S, 
+MacArtney M, Diamond T, Davey P, Jones C, Clements JM, Digney R, Chan WM, McCain 
+S, Gull S, Janeczko A, Dorrian E, Harris A, Dawson S, Johnston D, McAree B, 
+Ghareeb E, Thomas G, Connelly M, McKenzie S, Cieplucha K, Spence G, Campbell W, 
+Hooks G, Bradley N, Hill AD, Cassidy JT, Boland M, Burke P, Nally DM, Hill AD, 
+Khogali E, Shabo W, Iskandar E, McEntee GP, O'Neill MA, Peirce C, Lyons EM, 
+O'Sullivan AW, Thakkar R, Carroll P, Ivanovski I, Balfe P, Lee M, Winter DC, 
+Kelly ME, Hoti E, Maguire D, Karunakaran P, Geoghegan JG, McDermott F, Martin 
+ST, Cross KS, Cooke F, Zeeshan S, Murphy JO, Mealy K, Mohan HM, Nedujchelyn Y, 
+Ullah MF, Ahmed I, Giovinazzo F, Milburn J, Prince S, Brooke E, Buchan J, Khalil 
+AM, Vaughan EM, Ramage MI, Aldridge RC, Gibson S, Nicholson GA, Vass DG, Grant 
+AJ, Holroyd DJ, Jones MA, Sutton CM, O'Dwyer P, Nilsson F, Weber B, Williamson 
+TK, Lalla K, Bryant A, Carter CR, Forrest CR, Hunter DI, Nassar AH, Orizu MN, 
+Knight K, Qandeel H, Suttie S, Belding R, McClarey A, Boyd AT, Guthrie GJ, Lim 
+PJ, Luhmann A, Watson AJ, Richards CH, Nicol L, Madurska M, Harrison E, Boyce 
+KM, Roebuck A, Ferguson G, Pati P, Wilson MS, Dalgaty F, Fothergill L, Driscoll 
+PJ, Mozolowski KL, Banwell V, Bennett SP, Rogers PN, Skelly BL, Rutherford CL, 
+Mirza AK, Lazim T, Lim HC, Duke D, Ahmed T, Beasley WD, Wilkinson MD, Maharaj G, 
+Malcolm C, Brown TH, Shingler GM, Mowbray N, Radwan R, Morcous P, Wood S, Kadhim 
+A, Stewart DJ, Baker AL, Tanner N, Shenoy H, Hafiz S, De Marchi JA, Singh-Ranger 
+D, Hisham E, Ainley P, O'Neill S, Terrace J, Napetti S, Hopwood B, Rhys T, 
+Downing J, Kanavati S, Coats M, Aleksandrov D, Kallaway C, Yahya S, Weber B, 
+Templeton A, Trotter M, Lo C, Dhillon A, Heywood N, Aawsaj Y, Hamdan A, 
+Reece-Bolton O, McGuigan A, Shahin Y, Ali A, Luther A, Nicholson JA, Rajendran 
+I, Boal M, Ritchie J.
+
+Author information:
+(1)Health Economics Unit, Leeds Institute of Health Sciences, University of 
+Leeds, Leeds, UK.
+(2)National Institute for Health Research Diagnostic Evidence Co-operative 
+Leeds, Leeds, UK.
+(3)Trent Oesophago-Gastric Unit, Nottingham University Hospitals NHS Foundation 
+Trust, Nottingham, UK.
+(4)West Midlands Surgical Research Collaborative, Birmingham, UK.
+(5)Department of Upper Gastrointestinal Surgery, Queen Elizabeth Hospital, 
+Birmingham, UK.
+(6)Laboratory of Public Health and Population Studies, Department of Molecular 
+Medicine, University of Padua.
+(7)Academic Department of Surgery, University of Birmingham, Birmingham, UK.
+(8)Surgical Oncology Unit, Veneto Institute of Oncology IOV-IRCCS, Padua, Italy.
+
+Comment in
+    Evid Based Med. 2017 Dec;22(6):221.
+
+BACKGROUND: The optimal timing of cholecystectomy for patients admitted with 
+acute gallbladder pathology is unclear. Some studies have shown that emergency 
+cholecystectomy during the index admission can reduce length of hospital stay 
+with similar rates of conversion to open surgery, complications and mortality 
+compared with a 'delayed' operation following discharge. Others have reported 
+that cholecystectomy during the index acute admission results in higher 
+morbidity, extended length of stay and increased costs. This study examined the 
+cost-effectiveness of emergency versus delayed cholecystectomy for acute benign 
+gallbladder disease.
+METHODS: Using data from a prospective population-based cohort study examining 
+the outcomes of cholecystectomy in the UK and Ireland, a model-based 
+cost-utility analysis was conducted from the perspective of the UK National 
+Health Service, with a 1-year time horizon for costs and outcomes. Probabilistic 
+sensitivity analysis was used to investigate the impact of parameter uncertainty 
+on the results obtained from the model.
+RESULTS: Emergency cholecystectomy was found to be less costly (£4570 versus 
+£4720; €5484 versus €5664) and more effective (0·8868 versus 0·8662 QALYs) than 
+delayed cholecystectomy. Probabilistic sensitivity analysis showed that the 
+emergency strategy is more than 60 per cent likely to be cost-effective across 
+willingness-to-pay values for the QALY from £0 to £100 000 (€0-120 000).
+CONCLUSION: Emergency cholecystectomy is less costly and more effective than 
+delayed cholecystectomy. This approach is likely to be beneficial to patients in 
+terms of improved health outcomes and to the healthcare provider owing to the 
+reduced costs.
+
+© 2016 BJS Society Ltd Published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/bjs.10317
+PMID: 27762448 [Indexed for MEDLINE]
+
+
+871. Am J Hematol. 2016 Nov;91(11):1146-1159. doi: 10.1002/ajh.24553.
+
+Systemic mastocytosis in adults: 2017 update on diagnosis, risk stratification 
+and management.
+
+Pardanani A(1).
+
+Author information:
+(1)Division of Hematology Department of Medicine, Mayo Clinic, Rochester, 
+Minnesota. pardanani.animesh@mayo.edu.
+
+Disease overview:Systemic mastocytosis (SM) results from a clonal proliferation 
+of abnormal mast cells (MC) in one or more extra-cutaneous organs.
+DIAGNOSIS: The major criterion is presence of multifocal clusters of 
+morphologically abnormal MC in the bone marrow. Minor diagnostic criteria 
+include elevated serum tryptase level, abnormal MC expression of CD25 and/or 
+CD2, and presence of KITD816V. Risk stratification: The 2008 World Health 
+Organization (WHO) classification of SM has been shown to be prognostically 
+relevant. Classification of SM patients into indolent (SM), aggressive SM (ASM), 
+SM associated with a clonal non-MC lineage disease (SM-AHNMD) and mast cell 
+leukemia (MCL) subgroups is a useful first step in establishing prognosis.
+MANAGEMENT: SM treatment is generally palliative. ISM patients have a normal 
+life expectancy and receive symptom-directed therapy; infrequently, 
+cytoreductive therapy may be indicated for refractory symptoms. ASM patients 
+have disease-related organ dysfunction; interferon-α (±corticosteroids) can 
+control dermatological, hematological, gastrointestinal, skeletal and 
+mediator-release symptoms, but is hampered by poor tolerability. Similarly, 
+cladribine has broad therapeutic activity, with particular utility when rapid MC 
+debulking is indicated; the main toxicity is myelosuppression. Imatinib has a 
+therapeutic role in the presence of an imatinib-sensitive KIT mutation or in 
+KITD816-unmutated patients. Treatment of SM-AHNMD is governed primarily by the 
+non-MC neoplasm; hydroxyurea has modest utility in this setting; there is a role 
+for allogeneic stem cell transplantation in select cases. Investigational drugs: 
+Recent data confirms midostaurin's significant anti-MC activity in patients with 
+advanced SM. Am. J. Hematol. 91:1147-1159, 2016. © 2016 Wiley Periodicals, Inc.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajh.24553
+PMID: 27762455 [Indexed for MEDLINE]
+
+
+872. Anesth Analg. 2016 Nov;123(5):1302-1306. doi: 10.1213/ane.0000000000001592.
+
+Hemodynamic Instability Following Airway Spray Cryotherapy.
+
+Pedoto A(1), Desiderio DP, Amar D, Downey RJ.
+
+Author information:
+(1)From the *Department of Anesthesiology and Critical Care Medicine, Memorial 
+Sloan Kettering Cancer Center, New York, NY; and †Thoracic Division, Department 
+of Surgery, Memorial Sloan Kettering Cancer Center, New York, NY.
+
+BACKGROUND: Spray cryotherapy (SCT) of airway lesions is used to effectively 
+palliate respiratory symptoms related to airway obstruction, but significant 
+intraoperative hemodynamic complications have been noted. We reviewed the 
+experience at a single institution using SCT for the treatment of obstructive 
+airway tumors.
+METHODS: A retrospective review of a single institution experience with 
+intraoperative and postoperative hemodynamic complications associated with SCT 
+was performed. Descriptive statistics were performed.
+RESULTS: Between June 2009 and April 2010, 34 treatment sessions were performed 
+on 28 patients. Median age was 60 years (range, 15-88 years). Tumor 
+characteristics were as follows: 13 primary lung cancers (43%), 11 pulmonary 
+metastases (50%), 1 direct extension of an esophageal cancer (3%), and 2 benign 
+pulmonary lesions (7%). Twenty-one tumors (75%) were distal to the carina; 14 
+(50%) were >95% occlusive. Median procedure length was 78 minutes (range, 15-176 
+minutes). Eleven sessions (31%) led to severe hypotension and/or bradycardia, 
+with 2 patients requiring cardiopulmonary resuscitation. One patient died 
+intraoperatively after cardiac arrest; a second patient was stable 
+intraoperatively but died within 24 hours of SCT. Four patients required 
+reintubation and short-term mechanical ventilation.
+CONCLUSIONS: Unpredictable life-threatening hemodynamic instability can follow 
+endobronchial SCT. We propose that the most likely cause is pulmonary venous 
+gaseous emboli entering the right heart, the coronary arteries, and the systemic 
+circulation. Although SCT may offer advantages over airway laser therapy (such 
+as no risk of fire and rapid hemostasis), further study is needed to delineate 
+the relative likelihood of therapeutic benefit versus catastrophic 
+complications.
+
+DOI: 10.1213/ane.0000000000001592
+PMCID: PMC5117828
+PMID: 27763916 [Indexed for MEDLINE]
+
+Conflict of interest statement: None
+
+
+873. J Food Sci Technol. 2016 Jul;53(7):2966-2986. doi:
+10.1007/s13197-016-2265-1.  Epub 2016 Jul 21.
+
+Potential of carboxymethyl cellulose coating and low dose gamma irradiation to 
+maintain storage quality, inhibit fungal growth and extend shelf-life of cherry 
+fruit.
+
+Hussain PR(1), Rather SA(1), Suradkar P(1), Parveen S(2), Mir MA(2), Shafi F(2).
+
+Author information:
+(1)Nuclear Research Laboratory, Astrophysical Sciences Division, Bhabha Atomic 
+Research Centre, Zakura, Srinagar, 190006 India.
+(2)Division of Post-Harvest Technology, Sheri Kashmir University of Agricultural 
+Sciences and Technology (K), Shalimar, Srinagar, 190006 India.
+
+Carboxymethyl cellulose (CMC) coatings alone and in combination with gamma 
+irradiation was tested for maintaining the storage quality, inhibiting fungal 
+incidence and extending shelf-life of cherry fruit. Two commercial cherry 
+varieties viz. Misri and Double after harvest at commercial maturity were coated 
+with CMC at levels 0.5-1.0 % w/v and gamma irradiated at 1.2 kGy. The treated 
+fruit including control was stored under ambient (temperature 25 ± 2 °C, RH 
+70 %) and refrigerated (temperature 3 ± 1 °C, RH 80 %) conditions for evaluation 
+of various physico-chemical parameters. Fruits were evaluated after every 3 and 
+7 days under ambient and refrigerated conditions. CMC coating alone at levels 
+0.5 and 0.75 % w/v was not found effective with respect to mold growth 
+inhibition under either of the two conditions. Individual treatment of CMC 
+coating at 1.0 % w/v and 1.2 kGy irradiation proved helpful in delaying the 
+onset of mold growth up to 5 and 8 days of ambient storage. During 
+post-refrigerated storage at 25 ± 2 °C, RH 70 %, irradiation alone at 1.2 kGy 
+gave further 4 days extension in shelf-life of cherry varieties following 
+28 days of refrigeration. All combinatory treatments of CMC coating and 
+irradiation proved beneficial in maintaining the storage quality as well as 
+delaying the decaying of cherry fruit during post-refrigerated storage at 
+25 ± 2 °C, RH 70 % but, combination of CMC at 1.0 % w/v and 1.2 kGy irradiation 
+was found significantly (p ≤ 0.05) superior to all other treatments in 
+maintaining the storage quality and delaying the decaying of cherry fruit. The 
+above combinatory treatment besides maintaining storage quality resulted in 
+extension of 6 days in shelf life of cherry varieties during post-refrigerated 
+storage at 25 ± 2 °C, RH 80 % following 28 days of refrigeration. Above 
+Combination treatment gave a maximum of 2.3 and 1.5 log reduction in yeast and 
+mold count of cherry fruits after 9 and 28 days of ambient and refrigerated 
+storage, thereby ensuring consumer safety.
+
+DOI: 10.1007/s13197-016-2265-1
+PMCID: PMC5052165
+PMID: 27765967
+
+
+874. Thromb J. 2016 Oct 4;14(Suppl 1):34. doi: 10.1186/s12959-016-0097-x.
+eCollection  2016.
+
+Comorbidities of cardiovascular disease and cancer in hemophilia patients.
+
+Wang JD(1).
+
+Author information:
+(1)Center for Rare Disease and Hemophilia, Department of Pediatrics, Taichung 
+Veterans General Hospital, Taichung, Taiwan ; School of Medicine, China Medical 
+University, Taichung, Taiwan.
+
+As life expectancy greatly increases in persons with hemophilia (PWH), more 
+age-related diseases such as cancer and cardiovascular disease (CVD) emerge 
+among this patient group. The aim of this study was to review the available 
+evidence on the epidemiology of CVD events, and incidence and survival of cancer 
+in PWH. The prevalence of CVD events among PWH seems to be similar to that of 
+the general population. Some known risk factors for the event, including aging, 
+hypertension, and hyperlipidemia, are also associated with its occurrence in 
+PWH. There is no evidence showing occurrence of the event directly to clotting 
+factor concentrate administration. On the other hand, the incidence of non-virus 
+related cancer seems to be higher in PWH than the general population. In 
+addition, PWH with cancer were younger at the time of diagnosis. In regards to 
+hemophilia effect on cancer prognosis, further basic and large-scale prospective 
+studies are urgently needed.
+
+DOI: 10.1186/s12959-016-0097-x
+PMCID: PMC5056471
+PMID: 27766060
+
+
+875. Biomed Res Int. 2016;2016:3420638. doi: 10.1155/2016/3420638. Epub 2016 Sep
+27.
+
+A Review of Management of Inflammation in the HIV Population.
+
+Slim J(1), Saling CF(2).
+
+Author information:
+(1)Saint Michael's Medical Center, Newark, NJ 07102-2094, USA; Saint Joseph's 
+Regional Medical Center, Paterson, NJ 07503, USA; New York Medical College, 
+Valhalla, NY 10595, USA.
+(2)New York Medical College, Valhalla, NY 10595, USA; Internal Medicine, Saint 
+Michael's Medical Center, Newark, NJ 07102, USA.
+
+Advancements in antiretroviral therapy have drastically increased the life 
+expectancy for those infected with HIV. Today, a new subgroup of older patients 
+with long-term controlled HIV exists, and its populace is continuously mounting. 
+Therefore, it is essential to understand the enduring effects of chronic 
+suppressed HIV infection in order to further improve HIV management in these 
+patients. This paper will examine the role of HIV in chronic inflammation and 
+immune dysfunction, the dynamic interaction that exists between comorbidity and 
+HIV, and the potential consequences of long-term antiretroviral therapy in an 
+effort to provide the best management options for the virally suppressed HIV 
+patient.
+
+DOI: 10.1155/2016/3420638
+PMCID: PMC5059528
+PMID: 27766258 [Indexed for MEDLINE]
+
+
+876. Arch Dermatol Res. 2017 Jan;309(1):11-19. doi: 10.1007/s00403-016-1698-8.
+Epub  2016 Oct 20.
+
+CD164 identifies CD4(+) T cells highly expressing genes associated with 
+malignancy in Sézary syndrome: the Sézary signature genes, FCRL3, Tox, and 
+miR-214.
+
+Benoit BM(1), Jariwala N(1), O'Connor G(2), Oetjen LK(3)(4), Whelan TM(3), Werth 
+A(1), Troxel AB(5), Sicard H(6), Zhu L(1), Miller C(1), Takeshita J(1), McVicar 
+DW(2), Kim BS(3)(7)(8)(4), Rook AH(1), Wysocka M(9).
+
+Author information:
+(1)Department of Dermatology, Perelman School of Medicine, University of 
+Pennsylvania, 421 Curie Blvd, 1049 BRB, Philadelphia, PA, 19104, USA.
+(2)National Cancer Institute, Cancer and Inflammation Program, Frederick, MD, 
+USA.
+(3)Division of Dermatology, Department of Medicine, Washington University, St. 
+Louis, MO, USA.
+(4)The Division of Biology and Biomedical Sciences, Washington University, St. 
+Louis, MO, USA.
+(5)Department of Biostatistics and Epidemiology, Center for Clinical 
+Epidemiology and Biostatistics, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA, USA.
+(6)Innate Pharma, Research and Drug Development, Marseille, France.
+(7)Department of Anesthesiology, Washington University, St. Louis, MO, USA.
+(8)Department of Pathology and Immunology, Washington University, St. Louis, MO, 
+USA.
+(9)Department of Dermatology, Perelman School of Medicine, University of 
+Pennsylvania, 421 Curie Blvd, 1049 BRB, Philadelphia, PA, 19104, USA. 
+mwysocka@mail.med.upenn.edu.
+
+Sézary syndrome (SS), a leukemic variant of cutaneous T-cell lymphoma (CTCL), is 
+associated with a significantly shorter life expectancy compared to 
+skin-restricted mycosis fungoides. Early diagnosis of SS is, therefore, key to 
+achieving enhanced therapeutic responses. However, the lack of a biomarker(s) 
+highly specific for malignant CD4+ T cells in SS patients has been a serious 
+obstacle in making an early diagnosis. We recently demonstrated the high 
+expression of CD164 on CD4+ T cells from Sézary syndrome patients with a wide 
+range of circulating tumor burdens. To further characterize CD164 as a potential 
+biomarker for malignant CD4+ T cells, CD164+ and CD164-CD4+ T cells isolated 
+from patients with high-circulating tumor burden, B2 stage, and medium/low tumor 
+burden, B1-B0 stage, were assessed for the expression of genes reported to 
+differentiate SS from normal controls, and associated with malignancy and poor 
+prognosis. The expression of Sézary signature genes: T plastin, GATA-3, along 
+with FCRL3, Tox, and miR-214, was significantly higher, whereas STAT-4 was 
+lower, in CD164+ compared with CD164-CD4+ T cells. While Tox was highly 
+expressed in both B2 and B1-B0 patients, the expression of Sézary signature 
+genes, FCRL3, and miR-214 was associated predominantly with advanced B2 disease. 
+High expression of CD164 mRNA and protein was also detected in skin from CTCL 
+patients. CD164 was co-expressed with KIR3DL2 on circulating CD4+ T cells from 
+high tumor burden SS patients, further providing strong support for CD164 as a 
+disease relevant surface biomarker.
+
+DOI: 10.1007/s00403-016-1698-8
+PMCID: PMC5357118
+PMID: 27766406 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interests Dr. Helene Sicard is 
+employed by Innate Pharma, Marseille, France. The authors state no conflict of 
+interest.
+
+
+877. Qual Life Res. 2017 Apr;26(4):1059-1070. doi: 10.1007/s11136-016-1436-x.
+Epub  2016 Oct 20.
+
+Quality of life in people aged 65+ in Europe: associated factors and models of 
+social welfare-analysis of data from the SHARE project (Wave 5).
+
+Conde-Sala JL(1), Portellano-Ortiz C(2), Calvó-Perxas L(3), Garre-Olmo J(3)(4).
+
+Author information:
+(1)Faculty of Psychology, University of Barcelona, Passeig Vall d'Hebron, 171, 
+08035, Barcelona, Spain. jllconde@ub.edu.
+(2)Faculty of Psychology, University of Barcelona, Passeig Vall d'Hebron, 171, 
+08035, Barcelona, Spain.
+(3)Girona Biomedical Research Institute (IDIBGI), Salt, Spain.
+(4)Department of Medical Sciences, University of Girona, Girona, Spain.
+
+PURPOSE: To analyse the clinical, sociodemographic and socioeconomic factors 
+that influence perceived quality of life (QoL) in a community sample of 33,241 
+people aged 65+ and to examine the relationship with models of social welfare in 
+Europe.
+METHODS: This was a cross-sectional study of data from Wave 5 (2013) of the 
+Survey of Health, Ageing and Retirement in Europe (SHARE). The instruments used 
+in the present study were as follows: sociodemographic data, CASP-12 (QoL), 
+EURO-D (depression), indicators of life expectancy and suicide (WHO), and 
+economic indicators (World Bank). Statistical analysis included bivariate and 
+multilevel analyses.
+RESULTS: In the multilevel analysis, greater satisfaction in life, less 
+depression, sufficient income, better subjective health, physical activity, an 
+absence of functional impairment, younger age and participation in activities 
+were associated with better QoL in all countries. More education was only 
+associated with higher QoL in Eastern European and Mediterranean countries, and 
+only in the latter was caring for grandchildren also related to better QoL. 
+Socioeconomic indicators were better and QoL scores higher (mean = 38.5 ± 5.8) 
+in countries that had a social democratic (Nordic cluster) or corporatist model 
+(Continental cluster) of social welfare, as compared to Eastern European and 
+Mediterranean countries, which were characterized by poorer socioeconomic 
+conditions, more limited social welfare provision and lower QoL scores 
+(mean = 33.5 ± 6.4).
+CONCLUSIONS: Perceived quality-of-life scores are consistent with the 
+sociodemographic and clinical characteristics of participants, as well as with 
+the socioeconomic indicators and models of social welfare of the countries in 
+which they live.
+
+DOI: 10.1007/s11136-016-1436-x
+PMID: 27766517 [Indexed for MEDLINE]
+
+
+878. Cancer Gene Ther. 2017 Mar;24(3):121-129. doi: 10.1038/cgt.2016.46. Epub
+2016  Oct 21.
+
+Chimeric antigen receptors for treatment of glioblastoma: a practical review of 
+challenges and ways to overcome them.
+
+Sengupta S(1)(2), Mao G(3), Gokaslan ZS(2), Sampath P(1)(2).
+
+Author information:
+(1)Brain Tumor Laboratory, Roger Williams Medical Center, Providence, RI, USA.
+(2)Department of Neurosurgery, Rhode Island Hospital, Providence, RI, USA.
+(3)Department of Pathology, Rhode Island Hospital, Providence, RI, USA.
+
+Glioblastoma (GBM) is by far the most common and the most aggressive of all the 
+primary brain malignancies. No curative therapy exists, and median life 
+expectancy hovers at around 1 year after diagnosis, with a minute fraction 
+surviving beyond 5 years. The difficulty in treating GBM lies in the cancer's 
+protected niche within the blood-brain barrier and the heterogeneity of the 
+cancer cells, which possess varying degrees of susceptibility to various common 
+modalities of treatment. Over time, it is the tumor heterogeneity of GBM and the 
+ability of the cancer stem cells to evolve in response treatment that renders 
+the cancer refractory to conventional treatment. Therefore, research has 
+increasingly focused on treatment that incorporates knowledge of GBM molecular 
+biology to therapeutic strategies. One type of therapy that shows great promise 
+is the area of T-cell immunotherapy to target GBM-specific tumor antigens. One 
+attractive strategy is to use T cells that have undergone genetic modification 
+to express a chimeric antigen receptor capable of interacting with tumor 
+antigens. In this article, we will review chimeric antigen receptor T-cell 
+therapy, their advantages, drawbacks, challenges facing their use and how those 
+challenges may be overcome.
+
+DOI: 10.1038/cgt.2016.46
+PMID: 27767090 [Indexed for MEDLINE]
+
+
+879. Macromol Biosci. 2017 Mar;17(3). doi: 10.1002/mabi.201600268. Epub 2016 Oct
+21.
+
+A Modified Polysaccharide-Based Hydrogel for Enhanced Osteogenic Maturation and 
+Mineralization Independent of Differentiation Factors.
+
+Sanyasi S(1), Kumar S(1), Ghosh A(2), Majhi RK(2), Kaur N(1), Choudhury P(1), 
+Singh UP(3), Goswami C(2), Goswami L(1).
+
+Author information:
+(1)School of Biotechnology, KIIT University, Bhubaneswar, 751024, India.
+(2)School of Biological Sciences, NISER, Bhubaneswar, 751024, India.
+(3)School of Electronics Engineering, KIIT University, Bhubaneswar, 751024, 
+India.
+
+Bone related problems are increasing as a consequence of increased life 
+expectancy, disorders in life style, and other medical conditions enforcing the 
+need for functional bones prepared in vitro at affordable cost. Lack of suitable 
+surface which promotes growth of both osteogenic and nonosteogenic cells is a 
+major limitation. Here a novel biomaterial is reported that is synthesized from 
+natural polysaccharide, namely, tamarind kernel polysaccharide (TKP), which is 
+grafted with hydrophilic acrylic acid (AA) by radical polymerization. 
+Modification in surface functionality removes unwanted proteins and alters 
+hydrophilic/hydrophobic balance. TKP-AA is suitable for the growth of different 
+nonosteogenic and osteogenic cells. This material is suitable for osteoblasts 
+and promotes in vitro mineralization and differentiation without the addition of 
+exogenous growth factors. TKP-AA can be used for the growth of mesenchymal stem 
+cell-derived osteoblasts. It is suggested that TKP-AA can potentially be used as 
+a scaffold for diverse cell types and particularly for bone tissue engineering 
+at low cost.
+
+© 2016 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/mabi.201600268
+PMID: 27767291 [Indexed for MEDLINE]
+
+
+880. J Vis Exp. 2016 Oct 6;(116):54275. doi: 10.3791/54275.
+
+Exergaming in Older People Living with HIV Improves Balance, Mobility and 
+Ameliorates Some Aspects of Frailty.
+
+Veeravelli S(1), Najafi B(2), Marin I(2), Blumenkron F(3), Smith S(3), Klotz 
+SA(4).
+
+Author information:
+(1)Department of Surgery, Interdisciplinary Consortium on Advanced Motion 
+Performance (iCAMP), College of Medicine, University of Arizona.
+(2)Interdisciplinary Consortium on Advanced Motion Performance (iCAMP), Division 
+of Vascular Surgery and Endovascular Therapy, Michael E. DeBakey Department of 
+Surgery, Baylor College of Medicine.
+(3)Department of Medicine, Division of Infectious Disease, College of Medicine, 
+University of Arizona.
+(4)Department of Medicine, Division of Infectious Disease, College of Medicine, 
+University of Arizona; sklotz@u.arizona.edu.
+
+Approximately 1.2 million people in the United States live with HIV infection. 
+Medical advancements have increased the life expectancy and this cohort is 
+aging. HIV-positive individuals have a high incidence of frailty (~20%) 
+characterized by depression and sedentary behavior. Exercise would be healthy, 
+but due to the frail status of many HIV-positive individuals, conventional 
+exercise is too taxing. The aim of this study was to evaluate the effectiveness 
+and acceptability of a novel game-based training program (exergame) in 
+ameliorating some aspects of frailty in HIV-infected individuals. Ten older 
+people living with HIV were enrolled in an exergame intervention. Patients 
+performed balance exercises such as weight shifting, ankle reaching, and 
+obstacle crossing. Real-time visual/audio lower-extremity joint motion feedback 
+was provided using wearable sensors to assist feedback and encourage subjects to 
+accurately execute each exercise task. Patients trained twice a week for 45 min 
+for 6 weeks. Changes in balance, gait, psychosocial parameters and quality of 
+life parameters were assessed at the beginning, midterm and at conclusion of the 
+training program. Ten patients completed the study and their results analyzed. 
+The mean age was 57.2 ± 9.2 years. The participants showed a significant 
+reduction in center of mass sway (78.2%, p = .045) during the semi-tandem 
+balance stance with eyes closed and showed a significant increase in gait speed 
+during a dual task motor-cognitive assessment (9.3%, p = .048) with an increase 
+in stride velocity of over 0.1 m/sec. A significant reduction in reported pain 
+occurred (43.5%, p = .041). Preliminary results of this exergame intervention 
+show promise in improving balance and mobility while requiring older people 
+living with HIV to be more active. The exergame can be continued at home and may 
+have long term as well as short-term benefits for ameliorating frailty 
+associated with HIV infection.
+
+DOI: 10.3791/54275
+PMCID: PMC5092148
+PMID: 27768079 [Indexed for MEDLINE]
+
+
+881. Health Promot Chronic Dis Prev Can. 2016 Oct;36(10):205-213. doi: 
+10.24095/hpcdp.36.10.01.
+
+Describing the population health burden of depression: health-adjusted life 
+expectancy by depression status in Canada.
+
+Steensma C(1)(2), Loukine L(1), Orpana H(1)(3), McRae L(1), Vachon J(1), Mo 
+F(1), Boileau-Falardeau M(1)(2), Reid C(1), Choi BC(1)(4)(5).
+
+Author information:
+(1)Health Promotion and Chronic Disease Prevention Branch, Public Health Agency 
+of Canada, Government of Canada, Ottawa, Ontario, Canada.
+(2)Department of Social and Preventive Medicine, Université de Montréal, 
+Montréal, Quebec, Canada.
+(3)School of Psychology, University of Ottawa, Ottawa, Ontario, Canada.
+(4)Dalla Lana School of Public Health, University of Toronto, Toronto, Ontario, 
+Canada.
+(5)Injury Prevention Research Center, Shantou University Medical College, 
+Shantou, China.
+
+INTRODUCTION: Few studies have evaluated the impact of depression in terms of 
+losses to both premature mortality and health-related quality of life (HRQOL) on 
+the overall population. Health-adjusted life expectancy (HALE) is a summary 
+measure of population health that combines both morbidity and mortality into a 
+single summary statistic that describes the current health status of a 
+population.
+METHODS: We estimated HALE for the Canadian adult population according to 
+depression status. National Population Health Survey (NPHS) participants 20 
+years and older (n = 12 373) were followed for mortality outcomes from 1994 to 
+2009, based on depression status. Depression was defined as having likely 
+experienced a major depressive episode in the previous year as measured by the 
+Composite International Diagnostic Interview Short Form. Life expectancy was 
+estimated by building period abridged life tables by sex and depression status 
+using the relative risks of mortality from the NPHS and mortality data from the 
+Canadian Chronic Disease Surveillance System (2007-2009). The Canadian Community 
+Health Survey (2009/10) provided estimates of depression prevalence and Health 
+Utilities Index as a measure of HRQOL. Using the combined mortality, depression 
+prevalence and HRQOL estimates, HALE was estimated for the adult population 
+according to depression status and by sex.
+RESULTS: For the population of women with a recent major depressive episode, 
+HALE at 20 years of age was 42.0 years (95% CI: 40.2-43.8) compared to 57.0 
+years (95% CI: 56.8-57.2) for women without a recent major depressive episode. 
+For the population of Canadian men, HALE at 20 was 39.0 years (95% CI: 
+36.5-41.5) for those with a recent major depressive episode compared to 53.8 
+years (95% CI: 53.6-54.0) for those without. For the 15.0-year difference in 
+HALE between women with and without depression, 12.3 years can be attributed to 
+the HRQOL gap and the remaining 2.7 years to the mortality gap. The 14.8 fewer 
+years of HALE observed for men with depression equated to a 13.0-year HRQOL gap 
+and a 1.8-year mortality gap.
+CONCLUSION: The population of adult men and women with depression in Canada had 
+substantially lower healthy life expectancy than those without depression. Much 
+of this gap is explained by lower levels of HRQOL, but premature mortality also 
+plays a role.
+
+Publisher: INTRODUCTION: Peu d’études ont évalué, dans l’ensemble d’une 
+population, les conséquences de la dépression en matière de pertes dues à la 
+mortalité prématurée d’une part et à la qualité de vie liée à la santé (QVLS) 
+d’autre part. L’espérance de vie ajustée en fonction de la santé (EVAS) est une 
+mesure synthétique de la santé de la population qui combine la morbidité et la 
+mortalité en une seule statistique succincte décrivant l’état de santé d’une 
+population à un moment donné.
+MÉTHODOLOGIE: Nous avons estimé la QVLS de la population canadienne adulte en 
+fonction de la présence ou non de dépression. Nous avons effectué un suivi de la 
+mortalité, de 1994 à 2009, des participants à l’Enquête nationale sur la santé 
+de la population (ENSP) (n = 12 373) de 20 ans et plus, là aussi en fonction de 
+la présence ou non de dépression. La dépression a été définie comme l’état d’une 
+personne susceptible d’avoir connu au cours de l’année précédente un épisode 
+dépressif majeur au sens du formulaire abrégé de l’Entrevue composite 
+diagnostique internationale. L’espérance de vie a été estimée en créant des 
+tables abrégées de mortalité selon le sexe et l’état dépressif à l’aide des 
+risques relatifs de mortalité de l’ENSP et des données sur la mortalité du 
+Système canadien de surveillance des maladies chroniques (2007 à 2009). 
+L’Enquête sur la santé dans les collectivités canadiennes (2009-2010) a fourni 
+des estimations de la prévalence de la dépression, et l’indice de l’état de 
+santé Health Utilities Index a permis de mesurer la QVLS. L’EVAS de la 
+population adulte a été mesurée en fonction de la présence ou non de dépression 
+et en fonction du sexe à l’aide des estimations combinées de la mortalité, de la 
+prévalence de la dépression et de la QVLS.
+RÉSULTATS: Chez les femmes ayant connu récemment un épisode de dépression 
+majeure, l’EVAS à 20 ans était de 42,0 ans (IC à 95 % : 40,2 à 43,8), contre 
+57,0 ans (IC à 95 % : 56,8 à 57,2) chez les femmes n’ayant pas vécu récemment 
+d’épisode de dépression majeure. Au sein de la population masculine canadienne, 
+l’EVAS à 20 ans était de 39,0 ans (IC à 95 % : 36,5 à 41,5) chez ceux qui 
+avaient connu récemment un épisode de dépression majeure, contre 53,8 ans (IC à 
+95 % : 53,6 à 54,0) chez ceux n’ayant pas connu récemment d’épisode de 
+dépression majeure. La différence de 15 ans dans l’EVAS des femmes avec et sans 
+épisode récent de dépression majeure peut se décomposer en 12,3 ans attribuables 
+à l’écart de la QVLS et 2,7 ans à l’écart observé en matière de mortalité. Les 
+14,8 années de moins d’EVAS chez les hommes ayant souffert de dépression 
+correspondent à un écart de la QVLS de 13 ans et à un écart de mortalité de 1,8 
+an.
+CONCLUSION: La population canadienne adulte atteinte de dépression au Canada 
+avait une espérance de vie en santé considérablement plus faible que celle ne 
+souffrant pas de dépression, chez les hommes comme chez les femmes. Si la 
+majeure partie de cet écart s’explique par des niveaux moins élevés de la QVLS, 
+la mortalité prématurée joue également un rôle.
+
+DOI: 10.24095/hpcdp.36.10.01
+PMCID: PMC5158123
+PMID: 27768557 [Indexed for MEDLINE]
+
+
+882. PLoS One. 2016 Oct 21;11(10):e0164362. doi: 10.1371/journal.pone.0164362. 
+eCollection 2016.
+
+The Economic Burden of Road Traffic Injuries on Households in South Asia.
+
+Alam K(1)(2), Mahal A(3)(4).
+
+Author information:
+(1)Murdoch Childrens Research Institute, 50 Flemington Road, Parkville, 
+Victoria, 3052, Australia.
+(2)Department of Pediatrics, The University of Melbourne, 50 Flemington Road, 
+Parkville, Victoria, 3052, Australia.
+(3)Nossal Institute for Global Health, The University of Melbourne, 161 Barry 
+Street, 4th Floor, Carlton, VIC 3053, Australia.
+(4)Department of Epidemiology and Preventive Medicine, Monash University, Level 
+6, The Alfred Centre, 99 Commercial Road, Melbourne, VIC 3004, Australia.
+
+Globally, road traffic injuries accounted for about 1.36 million deaths in 2015 
+and are projected to become the fourth leading cause of disability-adjusted life 
+years (DALYs) lost by 2030. One-fifth of these deaths occurred in South Asia 
+where road traffic injuries are projected to increase by 144% by 2020. Despite 
+this rapidly increasing disease burden there is limited evidence on the economic 
+burden of road traffic injuries on households in South Asia. We applied a novel 
+coarsened exact matching method to assess the household economic burden of road 
+traffic injuries using nationally representative World Health Survey data from 
+five South Asian countries- Bangladesh, India, Nepal, Pakistan and Sri Lanka 
+collected during 2002-2003. We examined the impact of road traffic injuries on 
+household out-of-pocket (OOP) health spending, household non-medical consumption 
+expenditure and the employment status of the traffic injury-affected respondent. 
+We exactly matched a household (after 'coarsening') where a respondent reported 
+being involved in a road traffic injury to households where the respondent did 
+not report a road traffic injury on each of multiple observed household 
+characteristics. Our analysis found that road traffic injury-affected households 
+had significantly higher levels of OOP health spending per member (I$0.75, 
+p<0.01), higher OOP spending on drugs per member (I$0.30, p = 0.03), and higher 
+OOP hospital spending per member (I$0.29, p<0.01) in the four weeks preceding 
+the survey. Indicators of "catastrophic spending" were also significantly higher 
+in road traffic injury-affected households: 6.45% (p<0.01) for a threshold of 
+OOP health spending to total household spending ratio of 20%, and 7.40% (p<0.01) 
+for a threshold of OOP health spending to household 'capacity to pay' ratio of 
+40%. However, no statistically significant effects were observed for household 
+non-medical consumption expenditure, and employment status of the road traffic 
+injury-affected individual. Our analysis points to the need for financial risk 
+protection against the road traffic injury-related OOP health expenditure and a 
+focus on prevention.
+
+DOI: 10.1371/journal.pone.0164362
+PMCID: PMC5074502
+PMID: 27768701 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+883. Soc Sci Med. 2016 Dec;170:87-96. doi: 10.1016/j.socscimed.2016.08.048. Epub
+2016  Sep 28.
+
+Decolonization and life expectancy in the Caribbean.
+
+Verstraeten SP(1), van Oers HA(2), Mackenbach JP(3).
+
+Author information:
+(1)Department of Public Health, Erasmus MC, Rotterdam, The Netherlands; 
+Institute for Public Health (VIC), Ministry of Public Health, Environment and 
+Nature, Willemstad, Curaçao. Electronic address: S.verstraeten@vic.cw.
+(2)Scientific Centre for Transformation in Care and Welfare (Tranzo), University 
+of Tilburg, Tilburg, The Netherlands; National Institute for Public Health and 
+the Environment, Bilthoven, The Netherlands.
+(3)Department of Public Health, Erasmus MC, Rotterdam, The Netherlands.
+
+Decolonization has brought political independence to half the Caribbean states 
+in the last half of the 20th century, while the other states remain affiliated. 
+Previous studies suggested a beneficial impact of affiliated status on 
+population health, which may be mediated by more favorable economic development. 
+We assessed how disparities in life expectancy between currently sovereign and 
+affiliated states developed over time, whether decolonization coincided with 
+changes in life expectancy, and whether decolonization coincided with similar 
+changes in GDP per capita. Time-series data on life expectancy and related 
+variables, GDP per capita and political status were collected from harmonized 
+databases. We quantified variations in life expectancy by current political 
+status during the 1950-2010 period. We assessed whether decolonization coincided 
+with life expectancy trend changes by: 1. calculating the annual changes before 
+and after independence, and 2. evaluating trend breaks in a predefined period 
+during decolonization using joinpoint analyses. Similar analyses were undertaken 
+for GDP per capita. Life expectancy in currently sovereign Caribbean states was 
+already lower than in affiliated states before political independence. Overall, 
+decolonization coincided with reductions in life expectancy growth, but not with 
+reductions in economic growth, and changes in life expectancy growth in the 
+decade after independence did not correspond with changes in economic 
+performance. The widening of the life expectancy gap between currently sovereign 
+and affiliated states accelerated in the 1990's and continues to increase. 
+Despite considerable life expectancy gains in all Caribbean states, life 
+expectancy in currently sovereign states increasingly lags behind that of states 
+which remained affiliated. Our results indicate that changing economic 
+conditions were not the main determinant of the unfavorable trends in life 
+expectancy during and after decolonization. Circumstantial evidence points to 
+the weakening of bureaucracies during decolonization underlying the uneven life 
+expectancy developments of currently affiliated and sovereign states.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.socscimed.2016.08.048
+PMID: 27768942 [Indexed for MEDLINE]
+
+
+884. Environ Pollut. 2017 Jan;220(Pt A):713-719. doi:
+10.1016/j.envpol.2016.10.036.  Epub 2016 Oct 18.
+
+The short term burden of ambient particulate matters on non-accidental mortality 
+and years of life lost: A ten-year multi-district study in Tianjin, China.
+
+Zeng Q(1), Ni Y(1), Jiang G(1), Li G(2), Pan X(3).
+
+Author information:
+(1)Tianjin Centers for Disease Control and Prevention, Tianjin 300011, PR China.
+(2)Department of Occupational and Environmental Health, School of Public Health, 
+Peking University, Beijing 100191, PR China. Electronic address: 
+liguoxing@bjmu.edu.cn.
+(3)Department of Occupational and Environmental Health, School of Public Health, 
+Peking University, Beijing 100191, PR China.
+
+Years of life lost (YLL) is a more informative and accurate indicator than daily 
+death counts for assessing air pollution related premature death. However, there 
+is limited evidence available about the relationship of air pollution with YLL, 
+especially in China. We conducted a ten-year (from January 1st, 2001 to December 
+31st, 2010) multi-district time-series study to estimate the effects of ambient 
+particulate matter with an aerodynamic diameter of less than 10 μm in size 
+(PM10) on daily non-accidental deaths and YLL in six districts of Tianjin, 
+China. Meta-analysis was used to merge the results of the six districts. We 
+found that the increase of PM10 was significantly associated with daily death 
+and YLL in the six districts, except with the YLL in Heping district. 10 μg/m3 
+increases in PM10 were associated with the maximum increases in excess risk (ER) 
+of death counts of 0.33% (95% confidence interval [CI]: 0.25%, 0.41%) at lag01 
+and in YLL of 0.80 (95%CI: 0.47, 1.13) person year at lag01 for the combined 
+effects of six districts, respectively. Moreover, the associations of PM10 on 
+daily death counts and YLL were stronger in the elder people (≥65 years) than 
+those in the younger ones (<65 years). These findings may help to shed light on 
+the policy-making of PM-control in China and provide useful information for the 
+protection of susceptible population.
+
+Copyright Â© 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.envpol.2016.10.036
+PMID: 27769772 [Indexed for MEDLINE]
+
+
+885. Eur J Endocrinol. 2017 Jan;176(1):67-75. doi: 10.1530/EJE-16-0450. Epub 2016
+Oct  21.
+
+Life expectancy in patients with pituitary adenoma receiving growth hormone 
+replacement.
+
+Olsson DS(1), Trimpou P(2), Hallén T(3), Bryngelsson IL(4), Andersson E(5), 
+Skoglund T(3), Bengtsson BÅ(2), Johannsson G(2), Nilsson AG(2).
+
+Author information:
+(1)Department of EndocrinologyInstitute of Medicine, Sahlgrenska Academy, 
+University of Gothenburg and Sahlgrenska University Hospital, Göteborg, Sweden 
+daniel.olsson@gu.se.
+(2)Department of EndocrinologyInstitute of Medicine, Sahlgrenska Academy, 
+University of Gothenburg and Sahlgrenska University Hospital, Göteborg, Sweden.
+(3)Department of NeurosurgerySahlgrenska University Hospital, Göteborg, Sweden.
+(4)Department of Occupational and Environmental MedicineÖrebro University 
+Hospital, Örebro, Sweden.
+(5)Department of Occupational and Environmental MedicineSahlgrenska University 
+Hospital, Göteborg, Sweden.
+
+OBJECTIVE: Hypopituitarism has been associated with increased mortality. The 
+excess mortality may be due to untreated growth hormone (GH) deficiency but also 
+due to various underlying disorders. We therefore analysed mortality in patients 
+with only one underlying disorder, non-functioning pituitary adenoma (NFPA), 
+with and without GH replacement therapy (GHRT).
+DESIGN AND METHOD: Patients with NFPA in the western region of Sweden, 
+1997-2011, were identified through the National Patient Registry and 
+cross-referenced with several National Health Registries. All patient records 
+were reviewed. Standardised mortality ratios (SMRs) with 95% confidence 
+intervals (CIs) were calculated using the general population as reference. 
+Cox-regression models were performed to identify predictors of mortality.
+RESULTS: A total of 426 NFPA patients with 4599 patient-years were included, of 
+whom 207 had used GHRT and 219 had not received GHRT. Median (range) follow-up 
+in patients with and without GHRT was 12.2 (0-25) and 8.2 (0-27) years, 
+respectively. Other pituitary hormone deficiencies were more frequent in the 
+GHRT group than those in the non-GHRT group. SMR was 0.65 (95% CI, 0.44-0.94; 
+P = 0.018) for the GHRT group and 1.16 (0.94-1.42; P = 0.17) for the non-GHRT 
+group. Direct comparison between the groups showed reduced mortality among those 
+who were GH replaced (P = 0.0063). The SMR for malignant tumours was reduced in 
+the GHRT-group (0.29; 0.08-0.73; P = 0.004) but not in untreated patients.

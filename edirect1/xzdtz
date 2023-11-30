@@ -1,0 +1,1000 @@
+eCollection 2022.
+
+Exploring Machine Learning Algorithms to Unveil Genomic Regions Associated With 
+Resistance to Southern Root-Knot Nematode in Soybeans.
+
+Canella Vieira C(1), Zhou J(2), Usovsky M(3), Vuong T(3), Howland AD(4), Lee 
+D(1), Li Z(5), Zhou J(3), Shannon G(1), Nguyen HT(3), Chen P(1).
+
+Author information:
+(1)Fisher Delta Research, Extension, and Education Center, Division of Plant 
+Science and Technology, University of Missouri, Portageville, MO, United States.
+(2)Biological Systems Engineering, University of Wisconsin-Madison, Madison, WI, 
+United States.
+(3)Division of Plant Science and Technology, University of Missouri, Columbia, 
+MO, United States.
+(4)Department of Entomology, College of Agriculture and Natural Resources, 
+Michigan State University, East Lansing, MI, United States.
+(5)Institute of Plant Breeding, Genetics, and Genomics, College of Agricultural 
+and Environmental Sciences, University of Georgia, Athens, GA, United States.
+
+Southern root-knot nematode [SRKN, Meloidogyne incognita (Kofold & White) 
+Chitwood] is a plant-parasitic nematode challenging to control due to its short 
+life cycle, a wide range of hosts, and limited management options, of which 
+genetic resistance is the main option to efficiently control the damage caused 
+by SRKN. To date, a major quantitative trait locus (QTL) mapped on chromosome 
+(Chr.) 10 plays an essential role in resistance to SRKN in soybean varieties. 
+The confidence of discovered trait-loci associations by traditional methods is 
+often limited by the assumptions of individual single nucleotide polymorphisms 
+(SNPs) always acting independently as well as the phenotype following a Gaussian 
+distribution. Therefore, the objective of this study was to conduct machine 
+learning (ML)-based genome-wide association studies (GWAS) utilizing Random 
+Forest (RF) and Support Vector Machine (SVM) algorithms to unveil novel regions 
+of the soybean genome associated with resistance to SRKN. A total of 717 
+breeding lines derived from 330 unique bi-parental populations were genotyped 
+with the Illumina Infinium BARCSoySNP6K BeadChip and phenotyped for SRKN 
+resistance in a greenhouse. A GWAS pipeline involving a supervised feature 
+dimension reduction based on Variable Importance in Projection (VIP) and SNP 
+detection based on classification accuracy was proposed. Minor effect SNPs were 
+detected by the proposed ML-GWAS methodology but not identified using 
+Bayesian-information and linkage-disequilibrium Iteratively Nested Keyway 
+(BLINK), Fixed and Random Model Circulating Probability Unification (FarmCPU), 
+and Enriched Compressed Mixed Linear Model (ECMLM) models. Besides the genomic 
+region on Chr. 10 that can explain most of SRKN resistance variance, additional 
+minor effects SNPs were also identified on Chrs. 10 and 11. The findings in this 
+study demonstrated that overfitting in GWAS may lead to lower prediction 
+accuracy, and the detection of significant SNPs based on classification accuracy 
+limited false-positive associations. The expansion of the basis of the genetic 
+resistance to SRKN can potentially reduce the selection pressure over the major 
+QTL on Chr. 10 and achieve higher levels of resistance.
+
+Copyright © 2022 Canella Vieira, Zhou, Usovsky, Vuong, Howland, Lee, Li, Zhou, 
+Shannon, Nguyen and Chen.
+
+DOI: 10.3389/fpls.2022.883280
+PMCID: PMC9111516
+PMID: 35592556
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+356. J Pastoral Care Counsel. 2022 Sep;76(3):171-180. doi:
+10.1177/15423050221101818.  Epub 2022 May 20.
+
+Competencies for Spiritual Care Professionals Specializing in Palliative and 
+Bereavement Care in Canada: A Mixed-Methods Study Using Qualitative Interviews 
+and Modified Delphi Survey.
+
+Stang V(1), Barnes P(2), Enfield C(3), Koots H(4).
+
+Author information:
+(1)The Ottawa Hospital, Canada.
+(2)Spiritual Pathways, Canada.
+(3)26637Covenant Health, Canada.
+(4)444703United Church of Canada, Canada.
+
+The purpose of this project was to update competencies for spiritual care 
+professionals specializing in palliative and bereavement care in Canada. Phase 
+one feedback was obtained from 11 clients: six inpatients with greater than two 
+weeks of life expectancy using interviews and five bereaved family members in a 
+focus group. Results were analyzed for congruence or discordance with draft 
+competencies. In phase two, 22 spiritual care experts reached a consensus on 
+nine competencies using a modified Delphi survey. Two limitations were the small 
+sample size and cultural and religious homogeneity of participants.
+
+DOI: 10.1177/15423050221101818
+PMID: 35593093 [Indexed for MEDLINE]
+
+
+357. Niger J Clin Pract. 2022 May;25(5):576-581. doi: 10.4103/njcp.njcp_1370_21.
+
+An investigation of the relationship between the functional status of the 
+individuals with knee osteoarthritis and their quality of life.
+
+Adiguzel L(1), Kilic D(2).
+
+Author information:
+(1)Department of Public Health Nursing, Karadeniz Technical University, Turkey.
+(2)Department of Public Health Nursing, Atatürk University, Turkey.
+
+BACKGROUND: Knee osteoarthritis, a chronic and degenerative joint disease, is 
+more common among the growing elderly population. With the increasing life 
+expectancy and obesity, the significance of knee osteoarthritis for public 
+health has become more evident.
+AIM: This study was carried out to investigate the relationship between the 
+functional status of individuals with knee osteoarthritis and their quality of 
+life.
+PATIENTS AND METHODS: The population of the study consisted of individuals with 
+1-4 s level of knee osteoarthritis diagnosed over the age of 50 who attended the 
+physical therapy and rehabilitation polyclinic at Atatürk University hospital. 
+The study was carried out with 129 individuals with knee osteoarthritis without 
+sample selection. The data were collected using a demographic questionnaire and 
+The Knee Injury and Osteoarthritis Outcome Score (KOOS) and analyzed with SPSS 
+22.00 statistical package program using frequency, percentage, t-test, 
+Mann-Whitney U test, Kruskal-Wallis H test, and Dunnett T3 post hoc test.
+RESULTS: According to the results, the KOOS Function and Daily Life scores 
+showing the functional status of the participants were 46.61 ± 16.17. The 
+Function and Sports/Leisure Activities subscale scores were 29.49 ± 23.73, and 
+the mean scores of the Quality of Life subscale were 34.15 ± 18.11. A positive 
+significant relationship was determined between the functional status and the 
+quality of life in the individuals.
+CONCLUSIONS: As the functional status of individuals improves, the quality of 
+life increases too.
+
+DOI: 10.4103/njcp.njcp_1370_21
+PMID: 35593598 [Indexed for MEDLINE]
+
+Conflict of interest statement: None
+
+
+358. J Med Econ. 2022 Jan-Dec;25(1):774-782. doi: 10.1080/13696998.2022.2080437.
+
+Cost-effectiveness analysis of the Parkinson's KinetiGraph and clinical 
+assessment in the management of Parkinson's disease.
+
+Chaudhuri KR(1), Hand A(2), Obam F(3), Belsey J(3).
+
+Author information:
+(1)Department of Basic and Clinical Neurosciences, Institute of Psychiatry, 
+Psychology & Neuroscience, King's College London, and. Parkinson's Foundation 
+Centre of Excellence, King's College Hospital, London, United Kingdom.
+(2)Newcastle Upon Tyne Hospitals NHS Foundation Trust, Clinical Ageing Research 
+Unit, Campus for Ageing and Vitality, Newcastle upon Tyne, United Kingdom.
+(3)JB Medical Ltd, Sudbury, Suffolk, United Kingdom.
+
+AIMS: The Parkinson's KinetiGraph (PKG) is a wrist-worn movement recording 
+system that collates continuous, objective, data during daily activities in 
+people with Parkinson's disease (PD) providing a report for clinicians. This 
+study explores the cost-effectiveness of adding the PKG to routine PD 
+assessments.
+METHODS: A de novo Markov model of three health states: uncontrolled, controlled 
+and death compared PKG plus routine assessment by a Movement Disease Specialist 
+(MDS) versus routine assessment. Uncontrolled and controlled states were based 
+on the Movement Disorder Society - Unified Parkinson's Disease Rating Scale 
+(MDS-UPDRS) II and III scores. The transition between health states was 
+dependent on improvement in MDS-UPDRS II and III, and transition to death state 
+on all cause-mortality and PD-specific relative mortality risk. Markov cycle 
+length was yearly beyond year 1 and lifetime horizon 22 years.
+LIMITATIONS: PKG evidence incorporated in this analysis is based on findings 
+from one clinical trial. Health state utilities were mapped and the probability 
+of patients progressing from uncontrolled to controlled health state at the 
+second visit and beyond was derived from a bootstrap method which assumed a 
+normal distribution for MDS-UPDRS.
+RESULTS: The addition of the PKG to usual PD assessments is a cost-effective 
+intervention. PKG plus routine assessment is associated with lower total costs 
+compared to routine assessment (£141,950 versus £159,312) and improved 
+quality-adjusted life years (7.88 versus 7.61), resulting in an incremental 
+cost-effectiveness ratio of -£64,978.99 and a net monetary benefit of £22,706.37 
+using a £20,000 threshold. Results were robust across sensitivity and scenario 
+analyses.
+CONCLUSIONS: Management of PD involves monitoring and evaluation of symptoms to 
+assess disease progression and ensure appropriate treatment choices. Adding the 
+PKG to clinical assessment in routine care allows for improved and objective 
+identification of PD motor symptoms which can be used in clinical decision 
+making to improve patient outcomes.
+
+Plain Language Summary: Hospital doctors caring for people with Parkinson's 
+disease (PwP) regularly monitor and assess their patients’ symptoms, relying on 
+patient recall and patient-completed diaries to find out about current symptoms, 
+which can be unreliable. The Parkinson's KinetiGraph (PKG) is a wrist-worn 
+device that collects continuous information on movement in PwP. A report is then 
+provided to the patient's Consultant helping them to understand the PwP's 
+symptoms and make decisions about changing medication to improve symptom 
+control.An economic model compared asking patients to wear a PKG device for 6 
+days before their check-up appointment with their Consultant with usual check-up 
+without the PKG. Information from a clinical trial exploring the use of PKG 
+provided data on Movement Disorder Society – Unified Parkinson's Disease Rating 
+Scale (MDS-UPDRS) II and III scores, which were used in the model to predict 
+improvements in quality of life and whether PwP had controlled or uncontrolled 
+disease.The model showed that addition of PKG to usual check-ups is a 
+cost-effective approach. Use of the PKG reduced costs (£141,950 versus £159,312 
+for usual check-ups) and had a positive impact on quality and quantity of life 
+as measured by quality adjusted life years (7.88 versus 7.61).This study shows 
+that adding the PKG to routine check-ups allows Consultants to accurately assess 
+movement (or motor) symptoms in PwP, which can then be used to ensure optimal 
+mediation choice and improve patient outcomes.
+
+DOI: 10.1080/13696998.2022.2080437
+PMID: 35593687 [Indexed for MEDLINE]
+
+
+359. Soc Sci Med. 2022 Jun;303:114991. doi: 10.1016/j.socscimed.2022.114991. Epub
+ 2022 Apr 28.
+
+Social preferences for adopting new vaccines in the national immunization 
+program: A discrete choice experiment.
+
+Luyten J(1), Beutels P(2), Vandermeulen C(3), Kessels R(4).
+
+Author information:
+(1)KU Leuven, Leuven Institute for Healthcare Policy, Department of Public 
+Health and Primary Care, Kapucijnenvoer 35, 3000, Leuven, Belgium. Electronic 
+address: jeroen.luyten@kuleuven.be.
+(2)University of Antwerp, Centre for Health Economics Research & Modelling 
+Infectious Diseases, Universiteitsplein 1, 2610, Wilrijk, Belgium.
+(3)KU Leuven, Environment and Health, Department of Public Health and Primary 
+Care, Kapucijnenvoer 35, 3000, Leuven, Belgium.
+(4)Maastricht University, Department of Data Analytics and Digitalization, PO 
+Box 616, 6200 MD, Maastricht, The Netherlands; University of Antwerp, Department 
+of Economics, City Campus, Prinsstraat 13, 2000, Antwerp, Belgium.
+
+Governments regularly have to decide whether new vaccines should be adopted in 
+their national immunization program. These choices imply complex trade-offs of 
+epidemiological, medical and socio-economic criteria. We investigated how the 
+population in Flanders (Belgium) wants their government to set vaccine-funding 
+priorities. In December 2019, we executed a discrete choice experiment in a 
+sample of the Flemish population (N = 1636). In total, we analysed 16 360 
+choices between vaccines competing for funding, described in terms of eight 
+characteristics. Using a panel mixed logit model, we quantified the relative 
+importance of each characteristic and investigated differences in preferences 
+across respondent groups. The observed vaccine priorities were different from 
+those that would be identified through cost-effectiveness analysis. People 
+valued the health impact from infectious diseases differently than their weight 
+expressed in QALYs would suggest. Mortality and frequently occurring mild 
+illness were valued higher, whereas lasting morbidity received lower weight. 
+Contribution of the vaccine to disease eradication and uncertainty in vaccine 
+effectiveness were both highly influential factors. Health equity impact was 
+also important whereas the economic impact of the disease did not matter at all. 
+Our results can be used to incorporate public values into vaccine 
+decision-making.
+
+Copyright © 2022 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.socscimed.2022.114991
+PMID: 35594739 [Indexed for MEDLINE]
+
+
+360. Am J Cardiovasc Drugs. 2022 Sep;22(5):545-556. doi:
+10.1007/s40256-022-00534-9.  Epub 2022 May 21.
+
+Cost Effectiveness of Inclisiran in Atherosclerotic Cardiovascular Patients with 
+Elevated Low-Density Lipoprotein Cholesterol Despite Statin Use: A Threshold 
+Analysis.
+
+Desai NR(1), Campbell C(2), Electricwala B(2), Petrou M(3), Trueman D(4), 
+Woodcock F(4), Cristino J(2).
+
+Author information:
+(1)Yale School of Medicine, New Haven, CT, USA.
+(2)Novartis Pharmaceuticals Corporation, East Hanover, NJ, USA.
+(3)Source Health Economics, London, UK. mpetrou@source-he.com.
+(4)Source Health Economics, London, UK.
+
+BACKGROUND: Inclisiran is a novel, cholesterol-lowering therapy, with a long 
+duration of effect, administered every 6 months (subcutaneously by a healthcare 
+professional). In the ORION-10 trial in US patients with atherosclerotic 
+cardiovascular disease (ASCVD) in addition to maximum tolerated statins, with or 
+without ezetimibe, inclisiran demonstrated statistically significant reductions 
+in low-density lipoprotein cholesterol (LDL-C) of up to 51%. This is the first 
+peer-reviewed publication to investigate the price at which inclisiran is cost 
+effective in the US.
+OBJECTIVE: The aim of this study was to determine the maximum price at which 
+inclisiran is cost effective in addition to standard of care, in US patients 
+with ASCVD, versus standard of care alone, at different willingness-to-pay 
+thresholds.
+DESIGN, SETTING AND PARTICIPANTS: A lifetime Markov model from the US health 
+system perspective, including 15 health states, was used to evaluate the cost 
+effectiveness of inclisiran. The following states were separated by time from a 
+previous cardiovascular event (0-1 years, 1-2 years, 2+ years ['stable']): 
+initial, unstable angina, myocardial infarction, and stroke. Additional states 
+included revascularization and death (cardiovascular or non-cardiovascular 
+causes). Baseline risk of cardivoascular events were from US database sources or 
+published literature. Reductions in LDL-C from inclisiran were from the ORION-10 
+trial. LDL-C reduction was used to adjust baseline risk of cardiovascular 
+events, based on established relationships between 1 mmol/L reduction in LDL-C 
+and decreases in cardiovascular events, from the Cholesterol Treatment Trialists 
+studies. The population included adults with a history of ASCVD, and LDL-C 
+≥ 70 mg/dL, despite maximum tolerated doses of statin therapy.
+INTERVENTIONS: Inclisiran as an adjunct to standard of care, compared with 
+standard of care alone.
+MAIN OUTCOMES AND MEASURES: The threshold price of inclisiran.
+RESULTS: Inclisiran as an adjunct to standard of care resulted in threshold 
+annual inclisiran prices of $6383, $9973, and $13,563 at willingness-to-pay 
+thresholds of $50,000, $100,000, and $150,000 per quality-adjusted life-year, 
+respectively. Probabilistic sensitivity analysis showed that at a threshold of 
+$100,000 per QALY, inclisiran had a 100% probability of being cost effective, 
+with an annual price below $9000. At the publicly available price of $3250 per 
+dose, inclisiran was found to have an incremental cost-effectiveness ratio just 
+above the $50,000 per QALY threshold, of $51,686.
+CONCLUSIONS AND RELEVANCE: This study identified the price at which inclisiran 
+is cost effective for the US health system, at generally accepted 
+willingness-to-pay thresholds.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s40256-022-00534-9
+PMCID: PMC9468070
+PMID: 35595929 [Indexed for MEDLINE]
+
+Conflict of interest statement: Caresse Campbell, Batul Electricwala, and 
+Joaquim Cristino are employees of Novartis Pharmaceuticals Corporation, USA, and 
+shareholders of Novartis Pharmaceuticals Corporation stock. Nihar R. Desai is an 
+employee of Yale University School of Medicine and works under contract with the 
+Centers for Medicare and Medicaid Services to develop and maintain performance 
+measures used for public reporting and pay-for-performance programs. Nihar R. 
+Desai also reports research grants and consulting for Amgen, Astra Zeneca, 
+Boehringer Ingelheim, Cytokinetics, MyoKardia, Relypsa, Novartis, and 
+scPharmaceuticals. Margaret Petrou, David Trueman, and Fionn Woodcock are 
+employees of Source Health Economics, UK, the health economics and outcomes 
+research (HEOR) company that conducted the cost-effectiveness analysis and 
+provided writing services. Work by Source Health Economics was funded by 
+Novartis. Inclisiran, sold under the brand name Leqvio®, has been developed by 
+Novartis and is approved in Europe for lowering LDL-cholesterol levels in 
+patients with hypercholesterolemia or mixed dyslipidemia. The efficacy and 
+safety of inclisiran has been evaluated in the ORION clinical trial program; 
+ORION clinical trials cited in this manuscript were developed and funded by 
+Novartis. Caresse Campbell and Margaret Petrou had full access to all the data 
+in the study and take responsibility for the integrity of the data and the 
+accuracy of the data analysis.361. Sci Rep. 2022 May 21;12(1):8611. doi: 10.1038/s41598-022-12714-3.
+
+No effect of dual exposure to sulfoxaflor and a trypanosome parasite on 
+bumblebee olfactory learning.
+
+Vaughan OP(1), Straw EA(2), Linguadoca A(2), Brown MJF(2).
+
+Author information:
+(1)Department of Biological Sciences, Centre for Ecology, Evolution and 
+Behaviour, School of Life Sciences and the Environment, Royal Holloway 
+University of London, Egham, UK. Owen.Vaughan.2019@live.rhul.ac.uk.
+(2)Department of Biological Sciences, Centre for Ecology, Evolution and 
+Behaviour, School of Life Sciences and the Environment, Royal Holloway 
+University of London, Egham, UK.
+
+Bees are important pollinators in wild and agricultural ecosystems, and 
+understanding the factors driving their global declines is key to maintaining 
+these pollination services. Learning, which has been a focus of previous 
+ecotoxicological studies in bees, may play a key role in driving colony fitness. 
+Here we move beyond the standard single-stressor approach to ask how multiple 
+stressors, an agrochemical (sulfoxaflor, a relatively new insecticide) and a 
+parasite (Crithidia bombi, a prevalent gut parasite of bumblebees), impact 
+learning in the bumblebee Bombus terrestris. We developed a modified version of 
+the classic proboscis extension reflex assay to assess the combined effects of 
+acute oral sulfoxaflor exposure and infection by C. bombi on olfactory learning 
+of bumblebee workers. We found no evidence that either sulfoxaflor, C. bombi, or 
+their combination had any significant effect on bumblebee olfactory learning, 
+despite their known negative impacts on other aspects of bumblebee health. This 
+suggests that losses in cognitive ability, as measured here, are unlikely to 
+explain the impacts of sulfoxaflor and its interactions with other stressors on 
+bumblebees. Our novel methodology provides a model system within which to test 
+interactive effects of other key stressors on bee health.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41598-022-12714-3
+PMCID: PMC9124203
+PMID: 35597818 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+362. Dermatol Ther. 2022 Aug;35(8):e15593. doi: 10.1111/dth.15593. Epub 2022 May
+30.
+
+Pustular psoriasis of pregnancy: Clinical and genetic characteristics in a 
+series of eight patients and review of the literature.
+
+Ennouri M(1), Bahloul E(2), Sellami K(2), Marrakchi S(2), Fakhfakh F(1), Turki 
+H(2), Bougacha-Elleuch N(1).
+
+Author information:
+(1)Laboratory of Molecular and Functional Genetics, Faculty of Sciences of Sfax, 
+Sfax University, Sfax, Tunisia.
+(2)Department of Dermatology, CHU Hedi Chaker, Sfax, Sfax University, Sfax, 
+Tunisia.
+
+Pustular psoriasis of pregnancy (PPP) can lead to life-threatening 
+complications. The objective of this study is to report clinical and genetic 
+spectrum, prognostic factors and management options. A retrospective study was 
+designed including eight PPP patients. Clinical data were collected, and 
+performed genetic and statistical analysis to identify factors associated with 
+fetal complications, resistance to treatment and post-partum flare extension. A 
+systematic review of the literature was also carried out. Eight Tunisian 
+patients, with a mean age of 23 ± 3.3 years, were included. They presented 14 
+flares (F) during pregnancies and one flare after delivery. Additional GPP 
+flares outside pregnancy periods were noted in 2/8 of patients. The mean 
+duration of PPP flares was 16.66 ± 7.8 weeks. The first flare occurred at a 
+gestational age of 26 ± 5 weeks. Only 2/8 studied patients presented a 
+homozygous mutation c.80 T > C (p.L27P) in IL36RN gene. Used treatments were 
+topical steroids (n = 12F), systemic steroids (n = 5F), ciclosporin (n = 1F), 
+UVB (n = 1F) and acitretin (in post-partum n = 6F). Complications were 
+oligoamnios (n = 2), intra-uterine growth retardation (n = 1), fetal death in 
+utero (n = 1), prematurity (n = 3), low weight at birth (n = 2). A significant 
+association was found between (i) occurrence of fetal complications and early 
+gestational age at the onset (p = 0.036), (ii) resistance to topical steroids 
+and body surface affected area (p = 0.008), (iii) presence of mutation 
+c.80 T > C in PPP flares and low serum levels of calcium (p = 0.01). Our 
+systematic review of the literature identified 39 patients with 41 flares of 
+PPP. Only 7/39 patients presented a causative mutation in IL36RN and CARD14 
+genes. PPP is characterized by a phenotypic heterogeneity and can be associated 
+to IL36RN mutations. Its early onset can be associated with fetal complications. 
+Systemic steroids and cyclosporine remain the most used therapies.
+
+© 2022 Wiley Periodicals LLC.
+
+DOI: 10.1111/dth.15593
+PMID: 35598320 [Indexed for MEDLINE]
+
+
+363. Osteoarthritis Cartilage. 2022 Aug;30(8):1070-1078. doi: 
+10.1016/j.joca.2022.05.004. Epub 2022 May 19.
+
+Burden of osteoarthritis in India and its states, 1990-2019: findings from the 
+Global Burden of disease study 2019.
+
+Singh A(1), Das S(2), Chopra A(3), Danda D(4), Paul BJ(5), March L(6), Mathew 
+AJ(7), Shenoy P(8), Gotay C(9), Palmer AJ(1), Antony B(10).
+
+Author information:
+(1)Menzies Institute for Medical Research, University of Tasmania, Hobart, 
+Australia.
+(2)Era's University, Lucknow, India.
+(3)Centre for Rheumatic Diseases, Apollo Jehangir Hospital, Pune University, 
+Pune, India.
+(4)Department of Clinical Immunology and Rheumatology, Christian Medical 
+College, Vellore, India.
+(5)Department of General Medicine, KMCT Medical College, Calicut, Kerala, India.
+(6)Institute of Bone and Joint Research, Kolling Institute of Medical Research, 
+University of Sydney, Sydney, Australia; Florance and Cope Professorial 
+Rheumatology Department, University of Sydney Royal North Shore Hospital, St 
+Leonards, Sydney, Australia.
+(7)Department of Clinical Immunology and Rheumatology, Christian Medical 
+College, Vellore, India; Copenhagen Center for Arthritis Research (COPECARE), 
+Center for Rheumatology and Spine Diseases, Copenhagen University Hospital - 
+Rigshospitalet Glostrup, Denmark.
+(8)Centre for Arthritis & Rheumatism Excellence, Kochi, Kerala, India.
+(9)University of British Columbia, Vancouver, BC Canada.
+(10)Menzies Institute for Medical Research, University of Tasmania, Hobart, 
+Australia. Electronic address: benny.eathakkattuantony@utas.edu.au.
+
+Comment in
+    Osteoarthritis Cartilage. 2022 Oct;30(10):1413-1414.
+    Osteoarthritis Cartilage. 2022 Oct;30(10):1411-1412.
+
+OBJECTIVE: To describe the burden of osteoarthritis (OA) in India from 1990 to 
+2019.
+DESIGN: Data from Global Burden of Diseases, Injuries, and Risk Factors Study 
+(GBD) 2019 were used. The burden of OA -knee OA, hip OA, hand OA, and other OA- 
+was estimated for India and its states from 1990 to 2019 through a systematic 
+analysis of prevalence, incidence, years lived with disability (YLD), and 
+disability-adjusted life years (DALY) using methods reported in GBD 2019 study.
+RESULT: Around 23.46 million individuals in India had OA in 1990; this increased 
+to 62.35 million in 2019. The age-standardised prevalence of OA increased from 
+4,895 (95% uncertainty interval (UI):4,420-5,447) in 1990-5313 
+(95%UI:4,799-5,898) in 2019, per 100,000 persons. Similarly, DALYs due to OA 
+increased from 0.79 million (95%UI:0.40-1.55) to 2.12 million (95%UI:1.07-4.23); 
+while age-standardised DALYs increased from 164 (95%UI:83-325) to 180 
+(95%UI:91-361) per 100,000 persons from 1990 to 2019. OA was the 20th most 
+common cause of YLDs in India in 2019, accounting for 1.48% (95%UI:0.88-2.78) of 
+all YLDs; increasing from 23rd most common cause in 1990 
+(1.25%(95%UI:0.74-2.34)). Knee OA was the most common form of OA, followed by 
+hand OA. The prevalence, incidence, and DALYs for OA and knee OA were 
+consistently higher in females than males.
+CONCLUSION: The burden and impact of OA in India are substantial and is 
+increasing. Adopting suitable control and preventive community measures to 
+reduce modifiable risk factors (obesity, injuries, occupational stress) are 
+needed to reduce the current and future burden of OA in India.
+
+Copyright © 2022 Osteoarthritis Research Society International. All rights 
+reserved.
+
+DOI: 10.1016/j.joca.2022.05.004
+PMID: 35598766 [Indexed for MEDLINE]
+
+
+364. J Vasc Surg. 2022 Jun;75(6):2101-2102. doi: 10.1016/j.jvs.2022.01.139.
+
+Risk scoring systems to predict life expectancy after carotid endarterectomy in 
+asymptomatic patients.
+
+Paraskevas KI(1).
+
+Author information:
+(1)Department of General and Vascular Surgery, Central Clinic of Athens, Athens, 
+Greece.
+
+Comment in
+    J Vasc Surg. 2022 Jun;75(6):2102-2103.
+
+Comment on
+    J Vasc Surg. 2022 Mar;75(3):906-914.e4.
+
+DOI: 10.1016/j.jvs.2022.01.139
+PMID: 35598940 [Indexed for MEDLINE]
+
+
+365. J Minim Invasive Surg. 2021 Sep 15;24(3):139-144. doi: 
+10.7602/jmis.2021.24.3.139.
+
+Safe and feasible outcomes of cholecystectomy in extremely elderly patients 
+(octogenarians vs. nonagenarians).
+
+Kim SM(1), Shin MH(1), Choi NK(1).
+
+Author information:
+(1)Division of Hepatobiliary-Pancreas and Liver Transplantation Surgery, 
+Department of Surgery, Chosun University Hospital, Gwangju, Korea.
+
+PURPOSE: Cholecystectomy is the gold standard treatment for gallbladder disease. 
+As life expectancy increases, awareness of cholecystitis treatment in the 
+elderly changes. The safety and feasibility of cholecystectomy in octogenarians 
+have been proven in many studies. Surgical treatment for cholecystitis should be 
+considered in octogenarians and even nonagenarians. In this study, we aimed to 
+assess the outcomes of cholecystectomy in octogenarians and nonagenarians with 
+acute cholecystitis.
+METHODS: A total of 393 patients aged 80 to 89 years (352 octogenarians) and 90 
+to 99 years (41 nonagenarians) diagnosed with acute cholecystitis underwent 
+cholecystectomy between March 2012 and June 2020. All patients were classified 
+according to the Tokyo guidelines. The evaluated parameters included demographic 
+data, surgical outcomes, American Society of Anesthesiologists physical status 
+classification, and Tokyo guidelines.
+RESULTS: All 393 patients were analyzed and divided into two groups according to 
+age; octogenarians (83.57 ± 2.64 years) and nonagenarians (92.98 ± 3.15 years). 
+The survival rate was 97.7% for octogenarians and 97.6% for nonagenarians. 
+Laparoscopic surgery was performed more in both groups (96.8% in octogenarians 
+and 92.7% in nonagenarians) than open surgery (3.2% in octogenarians and 7.3% in 
+nonagenarians). The operation time of the nonagenarian group (74.63 ± 30.83 
+minutes) was shorter than the octogenarian group (75.85 ± 34.63 minutes). The 
+incidences of postoperative complications in the octogenarian and nonagenarian 
+groups were as follows pneumonia, 5.7% and 7.3%; bleeding, 1.7% and 2.4%; 
+gastrointestinal symptoms, 6.0% and 2.4%; and bile leakage, 0.6% and 2.4%, 
+respectively.
+CONCLUSION: Cholecystectomy is a safe and efficient procedure for the treatment 
+of acute cholecystitis in both octogenarians and nonagenarians.
+
+Copyright © 2021 The Journal of Minimally Invasive Surgery. All rights reserved.
+
+DOI: 10.7602/jmis.2021.24.3.139
+PMCID: PMC8977378
+PMID: 35600104
+
+Conflict of interest statement: All authors have no conflicts of interest to 
+declare.
+
+
+366. RETRACTED ARTICLE
+
+Scanning. 2022 May 2;2022:8304071. doi: 10.1155/2022/8304071. eCollection 2022.
+
+Effect of Rehabilitation Training Based on Automatic Extraction Algorithm on 
+Knee Anterior Cruciate Ligament Injury Caused by Exercise.
+
+Zhu S(1), Gao J(1).
+
+Author information:
+(1)China Swimming College, Beijing Sport University, Beijing 100084, China.
+
+Retraction in
+    Scanning. 2023 Jun 21;2023:9765738.
+
+OBJECTIVE: In order to explore the effect of rehabilitation training based on 
+automatic extraction algorithm on knee anterior cruciate ligament reconstruction 
+under arthroscopy.
+METHODS: 81 patients with anterior cruciate ligament injury were randomly 
+divided into observation group (42 cases) and control group (39 cases). The 
+control group was given routine nursing, while the observation group was given 
+rehabilitation training guidance based on automatic extraction algorithm. 
+Lysholm score, HSS score, and range of motion of knee joint extension and 
+flexion were used to evaluate the knee joint function before and after operation 
+in the two groups. The quality of life of the two groups was evaluated by the 
+concise health survey scale. The results showed that 50% of deep venous 
+thrombosis occurred on the first day and 30% on the second day after operation. 
+There was no significant difference in preoperative Lysholm score, HSS score, 
+and knee flexion activity between the observation group and the control group (P 
+> 0.01). After 1-month, 5-month, and 1-year follow-up, the effective rate of 
+knee function recovery in the observation group was significantly better than 
+that in the control group. Lysholm score, HSS score, and knee extension and 
+flexion activity were significantly different from those in the control group (P 
+< 0.01). The postoperative SF-36 quality of life score of the observation group 
+was significantly higher than that of the control group, indicating that the 
+quality of life of the observation group was significantly better than that of 
+the control group. Therefore, early postoperative rehabilitation training 
+guidance based on automatic extraction algorithm can improve local blood 
+circulation and improve knee function and reduce pain, so as to promote the 
+early recovery of patients.
+
+Copyright © 2022 Sibo Zhu and Jie Gao.
+
+DOI: 10.1155/2022/8304071
+PMCID: PMC9085304
+PMID: 35601869 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.
+
+
+367. Front Digit Health. 2022 May 6;4:874251. doi: 10.3389/fdgth.2022.874251. 
+eCollection 2022.
+
+Use of Digital Health Interventions in Sub-Saharan Africa for Health Systems 
+Strengthening Over the Last 10 Years: A Scoping Review Protocol.
+
+Kipruto H(1), Muneene D(2), Droti B(3), Jepchumba V(4), Okeibunor CJ(5), 
+Nabyonga-Orem J(1)(6), Karamagi HC(5).
+
+Author information:
+(1)WHO Regional Office for Africa, Inter Country Support Team for Eastern and 
+Southern Africa, Harare, Zimbabwe.
+(2)WHO Headquarters, Geneva, Switzerland.
+(3)Universal Health Coverage Life Course Cluster, WHO Regional Office for 
+Africa, Brazzaville, Republic of Congo.
+(4)Public Health Consultant, Nairobi, Kenya.
+(5)Assistant Regional Director's Office, WHO Regional Office for Africa, Geneva, 
+Switzerland.
+(6)Centre for Health Professions Education, Faculty of Health Sciences, 
+North-West University, Potchefstroom, South Africa.
+
+BACKGROUND: Digital Health Interventions (DHIs) refers to the utilization of 
+digital and mobile technology to support the health system in service delivery. 
+Over the recent years, advanced computing, genomics, and artificial intelligence 
+are considered part of digital health. In the context of the World Health 
+Organization (WHO) global strategy 2020-2025, digital health is defined as "the 
+field of knowledge and practice associated with the development and use of 
+digital technologies to improve health." The scoping review protocol details the 
+procedure for developing a comprehensive list of DHIs in Sub-Saharan Africa and 
+documenting their roles in strengthening health systems.
+METHOD AND ANALYSIS: A scoping review will be done according to the Joanne 
+Briggs institute reviewers manual and following the Preferred Reporting Items 
+for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews 
+(PRISMA-ScR) checklist and explanation. The protocol has been registered at the 
+Open Science Framework (OSF) database at https://osf.io/5kzq7. The review will 
+include DHIs conceptualized/developed/designed, adapted, piloted, deployed, 
+scaled up, and addressing health challenges in Sub-Saharan Africa. We will 
+retrieve data from the global DHI repository-the WHO Digital Health Atlas (DHA)- 
+and supplement it with information from the WHO eHealth Observatory, eHealth 
+Survey (2015), and eHealth country profiles report. Additional searches will be 
+conducted in four (4) electronic databases: PubMed, HINARI-Reasearch4Life, 
+Cochrane Library, and Google Scholar. The review will also include gray 
+literature and reference lists of selected studies. Data will be organized in 
+conceptual categories looking at digital health interventions' distinct function 
+toward achieving health sector objectives.
+DISCUSSION: Sub-Saharan Africa is an emerging powerhouse in DHI innovations with 
+rapid expansion and evolvement. The enthusiasm for digital health has 
+experienced challenges including an escalation of short-lived digital health 
+interventions, duplication, and minimal documentation of evidence on their 
+impact on the health system. Efficient use of resources is important when 
+striving toward the use digital health interventions in health systems 
+strengthening. This can be achieved through documenting successes and lessons 
+learnt over time.
+CONCLUSION: The review will provide the evidence to guide further investments in 
+DHIs, avoid duplication, circumvent barriers, focus on gaps, and scale-up 
+successful interventions.
+
+Copyright © 2022 Kipruto, Muneene, Droti, Jepchumba, Okeibunor, Nabyonga-Orem 
+and Karamagi.
+
+DOI: 10.3389/fdgth.2022.874251
+PMCID: PMC9120370
+PMID: 35601887
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+368. Commun Med (Lond). 2021 Oct 5;1:35. doi: 10.1038/s43856-021-00033-z.
+eCollection  2021.
+
+Genetic and phenotypic analysis of the causal relationship between aging and 
+COVID-19.
+
+Ying K(#)(1)(2)(3), Zhai R(#)(1), Pyrkov TV(4), Shindyapina AV(2), Mariotti 
+M(2)(5), Fedichev PO(4)(6), Shen X(1)(7), Gladyshev VN(2).
+
+Author information:
+(1)Biostatistics Group, State Key Laboratory of Biocontrol, School of Life 
+Sciences, Sun Yat-sen University, Guangzhou, China.
+(2)Division of Genetics, Department of Medicine, Brigham and Women's Hospital 
+and Harvard Medical School, Boston, MA USA.
+(3)T. H. Chan School of Public Health, Harvard University, Boston, MA USA.
+(4)Gero LLC PTE, Singapore City, Singapore.
+(5)Department of Genetics, Microbiology and Statistics, Universitat de 
+Barcelona, Barcelona, Catalonia Spain.
+(6)Moscow Institute of Physics and Technology, Dolgoprudny, Moscow Region 
+Russia.
+(7)Greater Bay Area Institute of Precision Medicine (Guangzhou), Fudan 
+University, Guangzhou, China.
+(#)Contributed equally
+
+BACKGROUND: Epidemiological studies revealed that the elderly and those with 
+comorbidities are most affected by COVID-19, but it is important to investigate 
+shared genetic mechanisms between COVID-19 risk and aging.
+METHODS: We conducted a multi-instrument Mendelian Randomization analysis of 
+multiple lifespan-related traits and COVID-19. Aging clock models were applied 
+to the subjects with different COVID-19 conditions in the UK-Biobank cohort. We 
+performed a bivariate genomic scan for age-related COVID-19 and Mendelian 
+Randomization analysis of 389 immune cell traits to investigate their effect on 
+lifespan and COVID-19 risk.
+RESULTS: We show that the genetic variation that supports longer life is 
+significantly associated with the lower risk of COVID-19 infection and 
+hospitalization. The odds ratio is 0.31 (P = 9.7 × 10-6) and 0.46 
+(P = 3.3 × 10-4), respectively, per additional 10 years of life. We detect an 
+association between biological age acceleration and future incidence and 
+severity of COVID-19 infection. Genetic profiling of age-related COVID-19 
+infection indicates key contributions of Notch signaling and immune system 
+development. We reveal a negative correlation between the effects of immune cell 
+traits on lifespan and COVID-19 risk. We find that lower B-cell CD19 levels are 
+indicative of an increased risk of COVID-19 and decreased life expectancy, which 
+is further validated by COVID-19 clinical data.
+CONCLUSIONS: Our analysis suggests that the factors that accelerate aging lead 
+to an increased COVID-19 risk and point to the importance of Notch signaling and 
+B cells in both. Interventions that target these factors to reduce biological 
+age may reduce the risk of COVID-19.
+
+© The Author(s) 2021.
+
+DOI: 10.1038/s43856-021-00033-z
+PMCID: PMC9053191
+PMID: 35602207
+
+Conflict of interest statement: Competing interestsThe authors declare no 
+competing interests.
+
+
+369. Commun Med (Lond). 2021 Aug 25;1:27. doi: 10.1038/s43856-021-00026-y. 
+eCollection 2021.
+
+The cost of cuts.
+
+Abbott B(1).
+
+Author information:
+(1)Communications Medicine, https://www.nature.com/commsmed/.
+
+Improvements in life expectancy have stalled over the last ten years in England, 
+prompting research into the underlying causes. A recent study in The Lancet 
+Public Health examines the relationship between cuts to local government funding 
+and mortality in England.
+
+© Springer Nature Limited 2021.
+
+DOI: 10.1038/s43856-021-00026-y
+PMCID: PMC9053199
+PMID: 35602229
+
+
+370. J Food Sci Technol. 2022 Jun;59(6):2231-2242. doi:
+10.1007/s13197-021-05236-9.  Epub 2021 Aug 16.
+
+Quality assessment of nutri-cereal bran rich fraction enriched buns and muffins.
+
+Barbhai MD(1), Hymavathi TV(1), Kuna A(2), Mulinti S(3), Voliveru SR(4).
+
+Author information:
+(1)Department of Foods and Nutrition, Post Graduate and Research Centre, 
+Professor Jayashankar Telangana State Agricultural University, Rajendranagar, 
+Hyderabad, 500030 India.
+(2)MFPI - Quality Control Laboratory, EEI Campus, Professor Jayashankar 
+Telangana State Agricultural University, Rajendranagar, Hyderabad, 500030 India.
+(3)Regional Sugarcane and Rice Research Station, PJTS Agricultural University, 
+Rudrur, 503188 India.
+(4)Extension Education Institute, EEI Campus, Professor Jayashankar Telangana 
+State Agricultural University, Rajendranagar, Hyderabad, 500030 India.
+
+Millet bran, a by-product obtained during millet processing is rich in 
+nutrients, fiber, antioxidants and phyto-nutrients, but remains underutilized. 
+Consumption of bakery products have increased significantly among all age 
+groups. Majority of the bakery products are calorie dense and lack nutrients. 
+There are limited studies on utilization of minor millet brans and bran rich 
+fractions (BRF) in development of bakery products. Thus, present study aimed at 
+formulating designer buns and muffins using foxtail and kodo millet BRF 
+respectively. It was observed that buns prepared with 20% foxtail and muffins 
+prepared with 30% kodo BRF showed better acceptability. The nutritional profile 
+of BRF enriched buns and muffins had significant increase in dietary fibre 
+(2.73% and 2.79%), iron, calcium, zinc, antioxidant capacity and phytonutrient 
+content. A reduction was observed in the available carbohydrates in both buns 
+(51.11-47.85 g/100 g) and muffins (46.76-43.87 g/100 g). Buns and muffin 
+exhibited moderate glycemic index (57.71, 56.42) and glycemic load (19.32, 
+14.85) respectively. Shelf life of buns and muffins was 3 and 7 days 
+respectively at room temperature. In both the products moisture, water activity 
+and microbial plate count increased during storage whereas sensory acceptability 
+decreased. The study indicates that addition of minor millet BRF in baked 
+products enhanced nutritional content and reduced glycemic index thereby 
+exhibiting its potential as a functional ingredient in food processing.
+
+© Association of Food Scientists & Technologists (India) 2021.
+
+DOI: 10.1007/s13197-021-05236-9
+PMCID: PMC9114229
+PMID: 35602440
+
+Conflict of interest statement: Conflict of interestThe authors declare that 
+they have no conflict of interests.
+
+
+371. J Inflamm Res. 2022 May 10;15:2901-2910. doi: 10.2147/JIR.S363610.
+eCollection  2022.
+
+The Efficacy of Percutaneous Transhepatic Gallbladder Drainage Combined with 
+Gallbladder-Preserving Cholecystolithotomy in High-Risk Patients with Acute 
+Calculous Cholecystitis.
+
+Kang C(1), Zhang J(1), Hou S(1), Wang J(1), Li X(1), Li X(1), Chi X(1), Shan 
+H(1), Zhang Q(1), Liu T(1).
+
+Author information:
+(1)General Surgery Department, Beijing Rehabilitation Hospital of Capital 
+Medical University, Beijing, 100144, People's Republic of China.
+
+Erratum in
+    J Inflamm Res. 2023 Mar 08;16:993-994.
+
+OBJECTIVE: This study aimed to investigate the value of combining percutaneous 
+transhepatic gallbladder drainage (PTGD) with gallbladder-preserving 
+cholecystolithotomy (GPC) in high-risk patients with acute calculous 
+cholecystitis.
+METHODS: Clinical data from 74 high-risk patients with acute calculous 
+cholecystitis, admitted to our hospital between October 2018 and September 2021, 
+were analyzed retrospectively. All the patients underwent PTGD, and 59 of them 
+underwent delayed cholecystectomy, while 14 patients were subjected to GPC 8-12 
+weeks after the PTGD; one patient, whose life expectancy was fewer than 6 
+months, was not treated for gallstones after PTGD.
+RESULTS: In all 74 patients, symptom remission was achieved after the PTGD 
+therapy, and the incidence of catheter-related complications was 10.8%. Among 
+the 59 patients who underwent delayed cholecystectomy (DC) after PTGD, there was 
+a complication incidence of 6.8%. Of the 14 patients who underwent GPC after the 
+PTGD, 13 patients were subjected to the removal of drainage tubes, 1 patient 
+received cholecystostomy catheter draining externally, and two patients (14.3%) 
+had complications. There were no perioperative deaths.
+CONCLUSION: Percutaneous transhepatic gallbladder drainage, combined with GPC, 
+is a safe and effective treatment that is suitable for high-risk patients with 
+acute calculous cholecystitis who cannot receive DC. This combined method allows 
+for early acute cholecystitis to settle, helps to remove gallstones at a later 
+stage, and solves the problem of long-term tube drainage after PTGD.
+
+© 2022 Kang et al.
+
+DOI: 10.2147/JIR.S363610
+PMCID: PMC9114648
+PMID: 35602663
+
+Conflict of interest statement: The authors report no conflicts of interest in 
+this work.
+
+
+372. Br J Nutr. 2022 Aug 14;128(3):561-568. doi: 10.1017/S000711452200160X. Epub
+2022  May 23.
+
+The emerging importance of tackling sleep-diet interactions in lifestyle 
+interventions for weight management.
+
+Hall WL(1).
+
+Author information:
+(1)Department of Nutritional Sciences, School of Life Course and Population 
+Sciences, Faculty of Life Sciences and Medicine, King's College London, 
+LondonSE1 9NH, UK.
+
+Sleep habits are directly related to risk of obesity, and this relationship may 
+be partly mediated through food choices and eating behaviour. Short sleep 
+duration, impaired sleep quality and suboptimal sleep timing are all implicated 
+in weight gain and adverse cardiometabolic health, at least partly mediated 
+through their associations with diet quality. Short-term sleep restriction leads 
+to increased energy intake, and habitually short sleepers report dietary intakes 
+that indicate a less healthy diet compared with adequate sleepers. Evidence is 
+emerging that sleep extension interventions in short sleepers may reduce intake 
+of sugars and overall energy intake. Poor sleep quality, night shift work 
+patterns and social jetlag are also associated with lower diet quality and 
+consumption of energy-dense foods. Incorporating sleep advice into weight 
+management interventions may be more effective than energy-restricted diets and 
+exercise advice alone. However, there are a lack of intervention studies that 
+aim to lengthen sleep, improve sleep quality or adjust irregular sleep timing to 
+investigate the impact on dietary intakes and eating behaviour in participants 
+aiming to lose weight or maintain weight loss. Finally, future research should 
+take account of individual characteristics such as age, sex, life stage and 
+changing working practices when designing combined lifestyle interventions 
+including sleep behaviour change for health and well-being.
+
+DOI: 10.1017/S000711452200160X
+PMCID: PMC9340846
+PMID: 35603425 [Indexed for MEDLINE]
+
+
+373. Environ Monit Assess. 2022 May 23;194(6):447. doi:
+10.1007/s10661-022-10124-6.
+
+Ecological risk assessment of the riverine and deltaic environments (Rozechai 
+River, Urmia Lake, Iran), using sediment quality indices.
+
+Gharibreza M(1), Mehdizadeh M(2), Masoumi H(3), Dashte-Bozorg NA(4), 
+Lotfinasabasl S(5).
+
+Author information:
+(1)Agricultural Research, Education and Extension Organization (AREEO), Soil 
+Conservation and Watershed Management Research Institute, Tehran, Iran. 
+gharibreza4@yahoo.com.
+(2)West-Azarbaijan Agricultural and Natural Resources Research and Education 
+Center, AREEO, Urmia, Iran.
+(3)Department of Geology, Islamic Azad University, Bandar Abbas BranchBandar 
+Abbas, Iran.
+(4)Agricultural Research, Education and Extension Organization (AREEO), Soil 
+Conservation and Watershed Management Research Institute, Tehran, Iran.
+(5)Agricultural Research, Education and Extension Organization (AREEO), Research 
+Institute of Forest and Rangelands, Tehran, Iran.
+
+Rozechai River is one of the tributaries of Urmia Lake (the nrthwest of Iran), 
+which has experienced severe pollution and water level fluctuations in the 
+coastal zone over the past four decades. The present study aimed to assess the 
+ecological risk for aquatic life and human health. Research methods were 
+designed for applying the sediment quality guidelines (LEL, PEL, SEL), sediment 
+quality indices (Cf, Cd, Er, RI), and enrichment factor (EF) based on the 
+concentration of toxic metals in sediments. Event-based geochronology of the 
+sediment column showed that the high stands in the water level of the Urmia Lake 
+(> 1274 m) occurred in 1983, 1989, and 1995. Thus, As, Pb, Zn, Cd, Cr, and Ni 
+reached a moderate to considerable enrichment under the oxidation and alkaline 
+condition. Consequently, a moderated level of ecological risk index (RI) was 
+predominant between 1983 and 1999. The uppermost 35 cm of the sediment column 
+was deposited during a severe drought period to which H2S bearing water and 
+reducing status contributed. In such conditions, the low ecological risk was 
+resulted in the basin due to the lower rate of the toxic metal influx. The 
+industrial, urban, and agricultural wastewaters contributed to the release of 
+toxic metals and the dominance of moderate to considerable enrichment, which led 
+to a moderate ecological risk at the coastal zone of the Rozechai River. The 
+sediment column of the deltaic area has experienced a mean sedimentation rate of 
+1.66 cm year-1 since 1982.
+
+© 2022. The Author(s), under exclusive licence to Springer Nature Switzerland 
+AG.
+
+DOI: 10.1007/s10661-022-10124-6
+PMID: 35604487 [Indexed for MEDLINE]
+
+
+374. Clin Drug Investig. 2022 Jun;42(6):491-500. doi: 10.1007/s40261-022-01157-3.
+ Epub 2022 May 23.
+
+Cost-Effectiveness Analysis of Atezolizumab Versus Durvalumab as First-Line 
+Treatment of Extensive-Stage Small-Cell Lung Cancer in the USA.
+
+Ionova Y(1), Vuong W(2), Sandoval O(2), Fong J(2), Vu V(2), Zhong L(3), Wilson 
+L(4).
+
+Author information:
+(1)Department of Clinical Pharmacy, University of California San Francisco, San 
+Francisco, CA, USA. Yelena.Ionova@ucsf.edu.
+(2)School of Pharmacy, University of California San Francisco, San Francisco, 
+CA, USA.
+(3)College of Pharmacy, Texas A&M University, College Station, TX, USA.
+(4)Department of Clinical Pharmacy, University of California San Francisco, San 
+Francisco, CA, USA.
+
+BACKGROUND AND OBJECTIVES: Durvalumab and atezolizumab are approved as 
+first-line therapy in extensive-stage small-cell lung cancer. Although 
+cost-effectiveness analyses compared these immunotherapy drugs with standard 
+chemotherapy-alone regimens, no head-to-head cost-effectiveness comparisons for 
+these treatments exist. The aim of the present analysis is to determine the 
+cost-effectiveness of durvalumab and atezolizumab as first-line therapy for 
+extensive-stage small-cell lung cancer from the US payers' perspective.
+METHODS: This study is based on two placebo-controlled, phase 3 clinical trials: 
+CASPIAN and IMpower133. A Markov model was developed to simulate the three 
+health states: progression-free survival, progressed disease, and death in 
+patients with extensive-stage small-cell lung cancer. Transition probabilities 
+were estimated from the clinical trial survival curves and extended with 
+life-time modelling. Health utilities and direct costs of adverse event 
+treatment were included. Main outcome was the incremental cost-effectiveness 
+ratio (ICER) using quality-adjusted life-years saved (QALYS). Sensitivity 
+analysis was performed to assess the impact of variables on the ICER.
+RESULTS: Durvalumab group has a cost of $187,503 with an effectiveness of 1.08 
+while atezolizumab has a cost of $160,219 and an effectiveness of 0.932. 
+Durvalumab is not cost-effective compared to atezolizumab with an ICER of 
+$165,182 QALYS, which is over the willingness-to-pay threshold of $150,000. The 
+model was most sensitive to durvalumab cost and the cost of treating durvalumab 
+adverse effects.
+CONCLUSIONS: With the ICER of durvalumab treatment group being very close to 
+$150,000, setting a higher willingness-to-pay threshold or decreasing the drug 
+cost through contract pricing can increase the cost-effectiveness of durvalumab 
+compared to atezolizumab.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s40261-022-01157-3
+PMCID: PMC9188525
+PMID: 35604530 [Indexed for MEDLINE]
+
+Conflict of interest statement: Yelena Ionova, Wilson Vuong, Omar Sandoval, 
+Jodie Fong, Vincent Vu, Lixian Zhong, and Leslie Wilson declare that they have 
+no conflict of interest.
+
+
+375. JAMA Netw Open. 2022 May 2;5(5):e2212910. doi: 

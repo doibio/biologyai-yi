@@ -1,0 +1,1000 @@
+
+Schmidt TH(1), Kandt C.
+
+Author information:
+(1)Computational Structural Biology, Department of Life Science Informatics 
+B-IT, Life & Medical Sciences (LIMES) Institute, University of Bonn, 
+Dahlmannstr. 2, 53113 Bonn, Germany.
+
+At the beginning of each molecular dynamics membrane simulation stands the 
+generation of a suitable starting structure which includes the working steps of 
+aligning membrane and protein and seamlessly accommodating the protein in the 
+membrane. Here we introduce two efficient and complementary methods based on 
+pre-equilibrated membrane patches, automating these steps. Using a voxel-based 
+cast of the coarse-grained protein, LAMBADA computes a hydrophilicity 
+profile-derived scoring function based on which the optimal rotation and 
+translation operations are determined to align protein and membrane. Employing 
+an entirely geometrical approach, LAMBADA is independent from any precalculated 
+data and aligns even large membrane proteins within minutes on a regular 
+workstation. LAMBADA is the first tool performing the entire alignment process 
+automatically while providing the user with the explicit 3D coordinates of the 
+aligned protein and membrane. The second tool is an extension of the InflateGRO 
+method addressing the shortcomings of its predecessor in a fully automated 
+workflow. Determining the exact number of overlapping lipids based on the area 
+occupied by the protein and restricting expansion, compression and energy 
+minimization steps to a subset of relevant lipids through automatically 
+calculated and system-optimized operation parameters, InflateGRO2 yields optimal 
+lipid packing and reduces lipid vacuum exposure to a minimum preserving as much 
+of the equilibrated membrane structure as possible. Applicable to atomistic and 
+coarse grain structures in MARTINI format, InflateGRO2 offers high accuracy, 
+fast performance, and increased application flexibility permitting the easy 
+preparation of systems exhibiting heterogeneous lipid composition as well as 
+embedding proteins into multiple membranes. Both tools can be used separately, 
+in combination with other methods, or in tandem permitting a fully automated 
+workflow while retaining a maximum level of usage control and flexibility. To 
+assess the performance of both methods, we carried out test runs using 22 
+membrane proteins of different size and transmembrane structure.
+
+DOI: 10.1021/ci3000453
+PMID: 22989154 [Indexed for MEDLINE]
+
+
+232. Exp Brain Res. 2012 Nov;223(2):189-97. doi: 10.1007/s00221-012-3250-1. Epub
+2012  Sep 19.
+
+Dynamic transformation of vestibular signals for orientation.
+
+Osler CJ(1), Reynolds RF.
+
+Author information:
+(1)School of Sport and Exercise Sciences, College of Life and Environmental 
+Sciences, University of Birmingham, Edgbaston, Birmingham B15 2TT, UK.
+
+The same pattern of vestibular afferent feedback may signify a loss of balance 
+or a change in body orientation, depending upon the initial head posture. To 
+resolve this ambiguity and generate an appropriate motor response, the CNS must 
+transform vestibular information from a head-centred reference frame into 
+relevant motor coordinates. But what if the reference frame is continuously 
+moving? Here, we ask if this neural transformation process is continuously 
+updated during a voluntary change in head posture. Galvanic vestibular 
+stimulation (GVS) was used to induce a sensation of head roll motion in 
+blindfolded subjects marching on the spot. When head orientation was fixed, this 
+caused unconscious turning behaviour that was maximal during neck flexion, 
+minimal with the head level and reversed direction with neck extension. Subjects 
+were then asked to produce a continuous voluntary change in head pitch, while 
+GVS was applied. As the neck moved from full flexion into extension, turn 
+velocity was continuously modulated and even reversed direction, reflecting the 
+pattern observed during the head-fixed condition. Hence, an identical vestibular 
+input resulted in motor output which was dynamically modulated by changes in 
+head pitch. However, response magnitude was significantly reduced, suggesting 
+possible suppression of vestibular input during voluntary head movement. 
+Nevertheless, these results show that the CNS continuously reinterprets 
+vestibular exafference to account for ongoing voluntary changes in head posture. 
+This may explain why the head can be moved freely without losing the sense of 
+balance and orientation.
+
+DOI: 10.1007/s00221-012-3250-1
+PMID: 22990288 [Indexed for MEDLINE]
+
+
+233. Eur J Health Econ. 2013 Dec;14(6):863-73. doi: 10.1007/s10198-012-0431-6.
+Epub  2012 Sep 19.
+
+The cost-effectiveness of TNF-inhibitors for the treatment of rheumatoid 
+arthritis in Swedish clinical practice.
+
+Lekander I(1), Borgström F, Lysholm J, van Vollenhoven RF, Lindblad S, Geborek 
+P, Kobelt G.
+
+Author information:
+(1)LIME/MMC, Karolinska Institute, Stockholm, Sweden, ingrid.lekander@ki.se.
+
+OBJECTIVE: The objective was to estimate the cost-effectiveness of 
+TNF-inhibitors for the treatment of rheumatoid arthritis in Swedish clinical 
+practice, both as a first and second biological treatment, with or without the 
+combination of conventional DMARDs. Further sub-group analysis of etanercept 
+treatment was performed.
+METHODS AND MATERIALS: Patient level data were obtained from three regions of 
+the Swedish Rheumatology Registers. The dataset contained 2,558 patients who had 
+started TNF-inhibitor treatment, 1,049 with etanercept as their first biological 
+treatment. A total of 819 patients had switched to a second TNF-inhibitor, of 
+which 425 to etanercept. A Markov cohort model was used in which health states 
+of disease severity were classified according to HAQ and DAS28. Disease 
+progression and discontinuation rates of TNF-inhibitors were based on the 
+registry and for the comparator on published literature. Mortality, costs and 
+utilities were based on Swedish data. The main analysis had a societal 
+perspective over 20 years and efficacy was measured in quality-adjusted 
+life-years (QALYs).
+RESULTS: TNF-inhibitor treatment was associated with an increase in QALYs and an 
+incremental cost compared to no biological treatment. The cost per QALY gained 
+with the three TNF-inhibitors ranged from euro 50,000 to euro 120,000, with 
+lower estimates for TNF-inhibitors used in combination with MTX and as a first 
+biologic. At a progression of 0.045 for the comparator, most values remain 
+within the accepted range for cost-effectiveness.
+CONCLUSIONS: These results demonstrate that the cost per QALY for TNF-inhibitors 
+was higher than in previous assessments based on registry data and that the 
+results were sensitive to the HAQ progression of the comparator.
+
+DOI: 10.1007/s10198-012-0431-6
+PMID: 22990378 [Indexed for MEDLINE]
+
+
+234. Int Angiol. 2012 Oct;31(5):468-73.
+
+Pilot trial of motivational interviewing in patients with peripheral artery 
+disease.
+
+Quirk F(1), Dickinson C, Baune B, Leicht A, Golledge J.
+
+Author information:
+(1)School of Medicine and Dentistry, James Cook University, Townsville, QLD, 
+Australia.
+
+AIM: Peripheral artery disease (PAD) is a common cause of impaired quality of 
+life and reduced life expectancy in older adults. An important component of PAD 
+management is improvement in health behavior, but few effective means to achieve 
+this have been identified. The aim of the present study was to assess the 
+efficacy of motivational interviewing (MI) to facilitate positive health 
+behavior change in patients with PAD.
+METHODS: Participants (N.=23) diagnosed with PAD were randomized to MI sessions 
+or a control group. Primary outcomes of physical activity and dietary behavior 
+and secondary outcomes of quality of life were assessed with questionnaires at 
+baseline and after 12 weeks.
+RESULTS: At 12 weeks, physical activity (330 vs. 396 met-mins/week, P=0.74) and 
+dietary behavior (1 vs. 1, P=0.89; 2.67 vs. 2.61, P=0.62) were similar in both 
+groups. MI participants reported significantly better quality of life compared 
+to control participants (71 vs. 61, P=0.01). Participants' comments suggested 
+that MI promoted a process of re-appraisal of health status.
+CONCLUSION: This exploratory study has indicated that MI may improve aspects of 
+quality of life and provide a prompt to reappraise health status and health 
+behaviors in patients with PAD. Validation of these findings and assessment of 
+impact on health outcomes is required in a larger and long-term study.
+
+PMID: 22990510 [Indexed for MEDLINE]
+
+
+235. Cancer. 2013 Feb 15;119(4):722-8. doi: 10.1002/cncr.27802. Epub 2012 Sep 18.
+
+A population-based study of metastatic colorectal cancer in individuals aged ≥ 
+80 years: findings from the South Australian Clinical Registry for Metastatic 
+Colorectal Cancer.
+
+Kumar R(1), Jain K, Beeke C, Price TJ, Townsend AR, Padbury R, Roder D, Young 
+GP, Richards A, Karapetis CS.
+
+Author information:
+(1)Department of Medical Oncology, Flinders Medical Center, Bedford Park, South 
+Australia 5042, Australia.
+
+BACKGROUND: Life expectancy is increasing, and more patients are presenting with 
+cancer at an advanced age (≥80 years). Optimal management for this group of 
+patients has not been well defined.
+METHODS: The South Australian Clinical Registry for Metastatic Colorectal Cancer 
+(mCRC) collects data on all patients diagnosed since February 2006 in South 
+Australia. The authors examined cancer characteristics, treatments administered, 
+and outcomes for patients aged ≥80 years compared with patients aged <80 years.
+RESULTS: Data from 2314 patients were evaluable, and 29.2% of these patients 
+were aged ≥80 years. The majority had moderately differentiated tumors. Poorly 
+differentiated tumors were reported in fewer patients aged ≥80 years (20.1% vs 
+26.1%; P < .005). Overall, 28.1% of patients aged ≥80 years received 
+chemotherapy, and 74.2% received single-agent fluoropyrimidines as first-line 
+treatment. By comparison, 68.2% of patients aged <80 years received 
+chemotherapy, 74.3% received combination chemotherapy, and 25.7% received 
+single-agent fluoropyrimidine as first-line treatment. No treatment was received 
+by 38.2% of patients aged ≥80 years compared with 11.4% of those aged <80 years. 
+Participation in clinical trials was lower in patients aged ≥80 years (2% vs 
+13%). The median survival was worse for patients aged ≥80 years (8.2 months vs 
+19.2 months; P < .001), and the median survival of patients who received 
+chemotherapy was 19.0 months for those aged ≥80 years and 22.3 months for those 
+aged <80 years (P = .139). Patients who did not receive treatment had a poor 
+median survival regardless of age (2.6 months for patients aged ≥80 years vs 2.7 
+months for patients aged <80 years).
+CONCLUSIONS: Patients aged ≥80 years were less likely to receive intervention 
+for their metastatic colorectal cancer and had poorer survival. The survival of 
+selected patients aged ≥80 years who received chemotherapy was similar to the 
+survival of those aged <80 years despite the receipt of single-agent therapy. 
+Patients aged ≥80 years with metastatic colorectal cancer are less likely to 
+receive intervention for their disease and have poorer survival. Survival for 
+selected patients aged ≥80 years who receive chemotherapy is similar to the 
+survival of patients aged <80 years despite the receipt of single-agent therapy.
+
+Copyright © 2012 American Cancer Society.
+
+DOI: 10.1002/cncr.27802
+PMID: 22990939 [Indexed for MEDLINE]
+
+
+236. Rev Esp Salud Publica. 2012 Mar-Apr;86(2):153-63. doi: 
+10.1590/S1135-57272012000200004.
+
+[Premature mortality excess related to influenza in Spain during an 
+interpandemic period].
+
+[Article in Spanish]
+
+Simón Méndez L(1), López-Cuadrado T, López Perea N, Larrauri Cámara A, de Mateo 
+Ontañón S.
+
+Author information:
+(1)Centro Nacional de Epidemiología, Instituto de Salud Carlos III, Madrid, 
+España.
+
+BACKGROUND: The indicator of Potential Years of Life Lost (PYLL) has been 
+frequently used to analysis of premature mortality and recently has been used to 
+estimate the impact of the last influenza A(H1N1)pdm09 pandemic. The aim of this 
+study was to estimate the excess deaths from pneumonia and influenza (P&I) in 
+Spain and the PYLL during the period 1980-2008, measuring the mortality 
+attributable to influenza regarding the type/subtype of influenza dominant in 
+each season.
+METHODS: Monthly excess deaths were calculated with cyclical regression models. 
+The PYLL calculation was performed as the product of the number of excess deaths 
+and the difference between life expectancy at birth and years lived for each age 
+group. The analysis of the variation between P&I excess deaths and PYLL, 
+depending on the predominant influenza virus type/subtype was carried out with a 
+Poisson regression analysis.
+RESULTS: In seasons dominated by influenza virus A(H3) the average P&I excess 
+deaths was estimated at 1,348, and for PYLL in 5.297, while in seasons dominated 
+by A(H1) or B the average P&I excess deaths was 648, and for PYLL 2.885. The 
+adjusted rate ratios of excess (2.11, CI-95%=2.05-2.16) and PYLL (1.86, 
+CI-95%=1.83-1.88) indicate that the relative frequencies for both indicators are 
+significantly larger in seasons dominated by influenza virus A(H3).
+CONCLUSIONS: Excess deaths and PYLL doubled when comparing seasons predominantly 
+subtype A(H3) and other influenza viruses.
+
+DOI: 10.1590/S1135-57272012000200004
+PMID: 22991058 [Indexed for MEDLINE]
+
+
+237. Rev Esp Salud Publica. 2012 Mar-Apr;86(2):163-76. doi: 
+10.1590/S1135-57272012000200005.
+
+[Cost-effectiveness analysis of maintenance therapy with rituximab in patients 
+with follicular lymphoma responding to induction therapy at the first line].
+
+[Article in Spanish]
+
+Castro Gómez AJ(1), López-Guillermo A, Rueda Domínguez A, Salar A, Varela Moreno 
+C, Rubio-Terrés C.
+
+Author information:
+(1)Roche Farma (Madrid), Madrid, España.
+
+BACKGROUND: Maintenance therapy with rituximab for follicular lymphoma (FL) 
+responding to induction at the first-line, significantly increases 
+progression-free survival compared with observation. To estimate the efficiency 
+of this therapeutic option, we performed a cost-effectiveness analysis of 
+maintenance therapy of the follicular lymphoma (FL) that responds to induction 
+in first line, with rituximab, compared with the option of "watch and wait" 
+strategy.
+METHODS: We did a Markov model of the FL, with four health states (progression 
+free survival in first or second line, progression and death). The transition 
+probabilities between states were obtained from clinical trials PRIMA and EORTC 
+20981. Health state utilities were obtained from literature. The use of health 
+resources, from the perspective of the National Health System was estimated by a 
+panel of Spanish clinical experts. Unit costs (euros in 2011) were obtained from 
+Spanish sources. Deterministic and probabilistic analyses were made.
+RESULTS: In the deterministic base case analysis, for a time horizon of 30 
+years, the cost per life year gained (LYG) and quality-adjusted life-years 
+(QALYs) gained, was euros 5,663 and euros 6,253 respectively. The sensitivity 
+analyses confirmed the stability of the base case for time horizons of 10 and 20 
+years and various statistical distributions (Weibull, exponential, log-logistic, 
+log-normal, Gompertz, and gamma) ranging between euros 4,222 and euros 8,766. 
+Rituximab maintenance is cost-effective from a time horizon of 5.7 years (cost 
+per QALY gained of euros 29,998).
+CONCLUSION: Compared with observation, rituximab maintenance treatment of the FL 
+that responds to induction therapy in first line, is cost-effective according to 
+the present model.
+
+DOI: 10.1590/S1135-57272012000200005
+PMID: 22991059 [Indexed for MEDLINE]
+
+
+238. Eur J Prev Cardiol. 2012 Jun;19(3):374-81. doi: 10.1177/1741826711409324.
+
+Cause-specific mortality in diabetes: recent changes in trend mortality.
+
+Abi Khalil C(1), Roussel R, Mohammedi K, Danchin N, Marre M.
+
+Author information:
+(1)Diabetology, Endocrinology and Nutrition Department, Hôpital Bichat-Claude 
+Bernard, Paris, France. charbel.abi-khalil@bch.aphp.fr
+
+Diabetes is one of the most chronic diseases in Western populations. Mortality 
+rates in diabetic patients are higher than in the general population and their 
+prognosis following any cardiovascular event is generally worse. Type 1 diabetic 
+patients' acute complications-related mortality decreases with time and the 
+interval free from the diagnosis of diabetes until the development of chronic 
+complications is larger although global mortality is still higher than that of 
+sex- and age matched healthy individuals. As a consequence of better primary and 
+secondary prevention, recent data in the general population show that there is a 
+trend towards decreased cardiovascular events and increased life expectancy. The 
+same thing applies for type 2 diabetic patients. However, increased survival in 
+the general population associated to epidemic bursts of obesity and sedentary 
+lifestyle all over the globe, leads to a higher incidence of type 2 diabetes 
+worldwide. This counteracts the diminution of diabetes-related mortality that 
+would move forward on an ascending slope in the next decades.
+
+DOI: 10.1177/1741826711409324
+PMID: 22991697 [Indexed for MEDLINE]
+
+
+239. Harefuah. 2012 Jun;151(6):368-71, 376.
+
+[The implementation of innovative medical technologies: biological 
+pharmaceuticals for the treatment of psoriasis--a case study].
+
+[Article in Hebrew]
+
+Tal O(1), Lomnicky Y.
+
+Author information:
+(1)Ministry of Health. ornat@gertner.health.gov.il
+
+Advanced health systems worldwide strive to adopt new technologies that will 
+ensure improved health and better clinical outcomes. The implementation of new 
+medical technologies is affected by medical factors as well as economic and 
+social forces, influencing both the individual and the health care providers. 
+Chronic disease management is a major challenge to governments, as a result of 
+the cumulative effects of chronic morbidity, life expectancy, quality of life 
+and the national burden of disease due to accelerating medical expenditure. 
+Psoriasis, a common chronic disease, for which advanced technologies were 
+recently implemented, was chosen as a case study. The distribution of utility of 
+various technologies for the treatment of psoriasis over the past nine years was 
+analyzed to categorize "patterns of behavior" in accordance with the lifecycle 
+of medical technology described in the Literature. It is expected that these 
+changing trends will produce overall economic consequences, on direct 
+expenditure combined with a reduction in some health services. Analyzing these 
+clinical and economic trends, may add important considerations for the adoption 
+of emerging medical technologies, presenting an important tool for policymakers 
+at at all levels.
+
+PMID: 22991870 [Indexed for MEDLINE]
+
+
+240. Cost Eff Resour Alloc. 2012 Sep 19;10(1):12. doi: 10.1186/1478-7547-10-12.
+
+Patient- and population-level health consequences of discontinuing 
+antiretroviral therapy in settings with inadequate HIV treatment availability.
+
+Kimmel AD(1), Resch SC, Anglaret X, Daniels N, Goldie SJ, Danel C, Wong AY, 
+Freedberg KA, Weinstein MC.
+
+Author information:
+(1)Department of Healthcare Policy and Research, Virginia Commonwealth 
+University School of Medicine, Richmond, VA, 23298, USA. adkimmel@vcu.edu.
+
+BACKGROUND: In resource-limited settings, HIV budgets are flattening or 
+decreasing. A policy of discontinuing antiretroviral therapy (ART) after HIV 
+treatment failure was modeled to highlight trade-offs among competing policy 
+goals of optimizing individual and population health outcomes.
+METHODS: In settings with two available ART regimens, we assessed two 
+strategies: (1) continue ART after second-line failure (Status Quo) and (2) 
+discontinue ART after second-line failure (Alternative). A computer model 
+simulated outcomes for a single cohort of newly detected, HIV-infected 
+individuals. Projections were fed into a population-level model allowing 
+multiple cohorts to compete for ART with constraints on treatment capacity. In 
+the Alternative strategy, discontinuation of second-line ART occurred upon 
+detection of antiretroviral failure, specified by WHO guidelines. Those 
+discontinuing failed ART experienced an increased risk of AIDS-related mortality 
+compared to those continuing ART.
+RESULTS: At the population level, the Alternative strategy increased the mean 
+number initiating ART annually by 1,100 individuals (+18.7%) to 6,980 compared 
+to the Status Quo. More individuals initiating ART under the Alternative 
+strategy increased total life-years by 15,000 (+2.8%) to 555,000, compared to 
+the Status Quo. Although more individuals received treatment under the 
+Alternative strategy, life expectancy for those treated decreased by 0.7 years 
+(-8.0%) to 8.1 years compared to the Status Quo. In a cohort of treated patients 
+only, 600 more individuals (+27.1%) died by 5 years under the Alternative 
+strategy compared to the Status Quo. Results were sensitive to the timing of 
+detection of ART failure, number of ART regimens, and treatment capacity. 
+Although we believe the results robust in the short-term, this analysis reflects 
+settings where HIV case detection occurs late in the disease course and 
+treatment capacity and the incidence of newly detected patients are stable.
+CONCLUSIONS: In settings with inadequate HIV treatment availability, trade-offs 
+emerge between maximizing outcomes for individual patients already on treatment 
+and ensuring access to treatment for all people who may benefit. While 
+individuals may derive some benefit from ART even after virologic failure, the 
+aggregate public health benefit is maximized by providing effective therapy to 
+the greatest number of people. These trade-offs should be explicit and 
+transparent in antiretroviral policy decisions.
+
+DOI: 10.1186/1478-7547-10-12
+PMCID: PMC3502124
+PMID: 22992315241. Am J Prev Med. 2012 Oct;43(4):385-91. doi: 10.1016/j.amepre.2012.06.021.
+
+Smoke alarm giveaway and installation programs: an economic evaluation.
+
+Liu Y(1), Mack KA, Diekman ST.
+
+Author information:
+(1)National Center for Injury Prevention and Control, CDC, 4770 Buford Hwy. NE, 
+Atlanta GA 30341, USA.
+
+BACKGROUND: The burden of residential fire injury and death is substantial. 
+Targeted smoke alarm giveaway and installation programs are popular 
+interventions used to reduce residential fire mortality and morbidity.
+PURPOSE: To evaluate the cost effectiveness and cost benefit of implementing a 
+giveaway or installation program in a small hypothetic community with a high 
+risk of fire death and injury through a decision-analysis model.
+METHODS: Model inputs included program costs; program effectiveness (life-years 
+and quality-adjusted life-years saved); and monetized program benefits (medical 
+cost, productivity, property loss and quality-of-life losses averted) and were 
+identified through structured reviews of existing literature (done in 2011) and 
+supplemented by expert opinion. Future costs and effectiveness were discounted 
+at a rate of 3% per year. All costs were expressed in 2011 U.S. dollars.
+RESULTS: Cost-effectiveness analysis (CEA) resulted in an average 
+cost-effectiveness ratio (ACER) of $51,404 per quality-adjusted life-years 
+(QALYs) saved and $45,630 per QALY for the giveaway and installation programs, 
+respectively. Cost-benefit analysis (CBA) showed that both programs were 
+associated with a positive net benefit with a benefit-cost ratio of 2.1 and 2.3, 
+respectively. Smoke alarm functional rate, baseline prevalence of functional 
+alarms, and baseline home fire death rate were among the most influential 
+factors for the CEA and CBA results.
+CONCLUSIONS: Both giveaway and installation programs have an average 
+cost-effectiveness ratio similar to or lower than the median cost-effectiveness 
+ratio reported for other interventions to reduce fatal injuries in homes. 
+Although more effort is required, installation programs result in lower cost per 
+outcome achieved compared with giveaways.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.amepre.2012.06.021
+PMCID: PMC4624218
+PMID: 22992356 [Indexed for MEDLINE]
+
+
+242. Neurology. 2012 Oct 2;79(14):1428-34. doi: 10.1212/WNL.0b013e31826d5fe8.
+Epub  2012 Sep 19.
+
+Cost-effectiveness of apixaban vs warfarin for secondary stroke prevention in 
+atrial fibrillation.
+
+Kamel H(1), Easton JD, Johnston SC, Kim AS.
+
+Author information:
+(1)Department of Neurology and Neuroscience, Weill Cornell Medical College, USA. 
+hok9010@med.cornell.edu
+
+OBJECTIVE: To compare the cost-effectiveness of apixaban vs warfarin for 
+secondary stroke prevention in patients with atrial fibrillation (AF).
+METHODS: Using standard methods, we created a Markov decision model based on the 
+estimated cost of apixaban and data from the Apixaban for Reduction in Stroke 
+and Other Thromboembolic Events in Atrial Fibrillation (ARISTOTLE) trial and 
+other trials of warfarin therapy for AF. We quantified the cost and 
+quality-adjusted life expectancy resulting from apixaban 5 mg twice daily 
+compared with those from warfarin therapy targeted to an international 
+normalized ratio of 2-3. Our base case population was a cohort of 70-year-old 
+patients with no contraindication to anticoagulation and a history of stroke or 
+TIA from nonvalvular AF.
+RESULTS: Warfarin therapy resulted in a quality-adjusted life expectancy of 3.91 
+years at a cost of $378,500. In comparison, treatment with apixaban led to a 
+quality-adjusted life expectancy of 4.19 years at a cost of $381,700. Therefore, 
+apixaban provided a gain of 0.28 quality-adjusted life-years (QALYs) at an 
+additional cost of $3,200, resulting in an incremental cost-effectiveness ratio 
+of $11,400 per QALY. Our findings were robust in univariate sensitivity analyses 
+varying model inputs across plausible ranges. In Monte Carlo analysis, apixaban 
+was cost-effective in 62% of simulations using a threshold of $50,000 per QALY 
+and 81% of simulations using a threshold of $100,000 per QALY.
+CONCLUSIONS: Apixaban appears to be cost-effective relative to warfarin for 
+secondary stroke prevention in patients with AF, assuming that it is introduced 
+at a price similar to that of dabigatran.
+
+DOI: 10.1212/WNL.0b013e31826d5fe8
+PMCID: PMC3525294
+PMID: 22993279 [Indexed for MEDLINE]
+
+
+243. Cardiopulm Phys Ther J. 2012 Sep;23(3):37-45.
+
+Physical therapy management of two patients with stage d heart failure in the 
+cardiac medical intensive care unit.
+
+Macauley K(1).
+
+Author information:
+(1)MGH Institute of Health Professions, School of Health and Rehabilitation 
+Sciences, Boston, MA.
+
+BACKGROUND AND PURPOSE: Due to the increasing prevalence of heart failure (HF) 
+and medical advances extending the life expectancy of patients with HF, physical 
+therapists are often consulted to assist in the management of these patients in 
+light of the benefits of exercise for them. The purpose of this paper is to 
+review the equipment and measures often encountered in patients with Stage D HF 
+in the intensive care unit (ICU) and to discuss the care provided to two 
+patients in this setting.
+CASE DESCRIPTIONS: One patient was a 40-year-old man with Stage D HF on multiple 
+inotropes receiving physical therapy intervention while awaiting a cardiac 
+transplant. The second patient was a 57-year-old man with Stage D HF due to 
+ischemic cardiomyopathy, treated by physical therapy while receiving inotropic 
+and intra-aortic balloon pump support, awaiting a renal and cardiac transplant.
+DISCUSSION: Different physical therapy interventions were safely provided to 
+both patients during their cardiac medical ICU courses. Despite multiple medical 
+issues requiring more complex decision making skills, this patient population 
+may greatly benefit from physical therapy intervention.
+
+PMCID: PMC3443468
+PMID: 22993501
+
+
+244. Front Neuroanat. 2012 Sep 13;6:38. doi: 10.3389/fnana.2012.00038.
+eCollection  2012.
+
+The human brain intracerebral microvascular system: development and structure.
+
+Marín-Padilla M(1).
+
+Author information:
+(1)Departments of Pathology and Pediatrics, Geisel School of Medicine at 
+Dartmouth Hanover, NH, USA.
+
+The capillary from the meningeal inner pial lamella play a crucial role in the 
+development and structural organization of the cerebral cortex extrinsic and 
+intrinsic microvascular compartments. Only pial capillaries are capable of 
+perforating through the cortex external glial limiting membrane (EGLM) to enter 
+into the nervous tissue, although incapable of perforating the membrane to exit 
+the brain. Circulatory dynamics and functional demands determine which 
+capillaries become arterial and which capillaries become venous. The perforation 
+of the cortex EGLM by pial capillaries is a complex process characterized by 
+three fundamental stages: (1) pial capillary contact with the EGLM with fusion 
+of vascular and glial basal laminae at the contact site, (2) endothelial cell 
+filopodium penetration through the fussed laminae with the formation of a funnel 
+between them that accompanies it into the nervous tissue while remaining open to 
+the meningeal interstitium and, (3) penetration of the whole capillary carrying 
+the open funnel with it and establishing an extravascular Virchow-Robin 
+Compartment (V-RC) that maintains the perforating vessel extrinsic (outside) the 
+nervous tissue through its entire length. The V-RC is walled internally by the 
+vascular basal lamina and externally by the basal lamina of joined glial cells 
+endfeet. The VRC outer glial wall appear as an extension of the cortex 
+superficial EGLM. All the perforating vessels within the V-RCs constitute the 
+cerebral cortex extrinsic microvascular compartment. These perforating vessels 
+are the only one capable of responding to inflammatory insults. The V-RC remains 
+open (for life) to the meningeal interstitium permitting the exchanges of fluid 
+and of cells between brain and meninges. The V-RC function as the brain sole 
+drainage (prelymphatic) system in both physiological as well as pathological 
+situations. During cortical development, capillaries emerge from the perforating 
+vessels, by endothelial cells growing sprouts analogous to their angiogenesis, 
+entering into their corresponding V-RCs. These new capillaries to enter into the 
+nervous tissue must perforate through the V-RC outer glial wall, a process 
+analogous to the original perforation of the cortex EGLM by pial capillaries. 
+These emerging capillaries are incapable of reentering the V-RCs and/or 
+perforating vessels. As the new capillary enters into the nervous tissue, it 
+becomes surrounded by glial endfeet and carries a single basal lamina (possibly 
+glial). Capillaries emerging from contiguous perforators establish an 
+anastomotic plexus between them, by mechanisms still poorly understood. The 
+capillaries of this anastomotic plexus constitute the cerebral cortex intrinsic 
+microvascular compartment and together constitute the so-called 
+blood-brain-barrier. The intrinsic capillaries are changing and readapting 
+continuously, by both active angiogenesis and reabsorption, to the gray matter 
+neurons developmental and functional needs. The brain intrinsic capillaries are 
+among the most active microvessels of the human body. Unresolved developmental 
+and functional aspects concerning the cerebral cortex intrinsic capillary plexus 
+need to be further investigated.
+
+DOI: 10.3389/fnana.2012.00038
+PMCID: PMC3440694
+PMID: 22993505
+
+
+245. Int J Health Serv. 2012;42(3):403-24. doi: 10.2190/HS.42.3.c.
+
+Wealth inequality and health: a political economy perspective.
+
+Nowatzki NR(1).
+
+Author information:
+(1)nowatzkn@cc.umanitoba.ca
+
+Despite a plethora of studies on income inequality and health, researchers have 
+been unable to make any firm conclusions as a result of methodological and 
+theoretical limitations. Within this body of research, there has been a call for 
+studies of wealth inequality and health. Wealth is far more unequally 
+distributed than income and is conceptually unique from income. This paper 
+discusses the results of bivariate cross-sectional analyses of the relationship 
+between wealth inequality (Gini coefficient) and population health (life 
+expectancy and infant mortality) in 14 wealthy countries. The results confirm 
+that wealth inequality is associated with poor population health. Both 
+unweighted and weighted correlations between wealth inequality and health are 
+strong and significant, even after controlling for a variety of potential 
+aggregate-level confounders, including gross domestic product per capita, and 
+after excluding the United States, the most unequal country. The results are 
+strongest for female life expectancy and infant mortality. The author outlines 
+potential pathways through which wealth inequality might affect health, using 
+specific countries to illustrate. The article concludes with policy 
+recommendations that could contribute to a more equitable distribution of wealth 
+and, ultimately, decreased health disparities.
+
+DOI: 10.2190/HS.42.3.c
+PMID: 22993961 [Indexed for MEDLINE]
+
+
+246. Am J Public Health. 2012 Nov;102(11):2173-80. doi: 10.2105/AJPH.2012.300805.
+ Epub 2012 Sep 20.
+
+Deaths from secondhand smoke exposure in the United States: economic 
+implications.
+
+Max W(1), Sung HY, Shi Y.
+
+Author information:
+(1)Institute for Health & Aging, Suite 340, 3333 California Street, San 
+Francisco, CA 94118, USA. wendy.max@ucsf.edu
+
+OBJECTIVES: We estimated the number of deaths attributable to secondhand smoke 
+(SHS), years of potential life lost (YPLL), and value of lost productivity for 
+different US racial/ethnic groups in 2006.
+METHODS: We determined the number of SHS-related deaths among nonsmokers from 2 
+adult and 4 infant conditions using an epidemiological approach. We estimated 
+adult SHS exposure using detectable serum cotinine. For each death, we 
+determined the YPLL and the value of lost productivity. Results. SHS exposure 
+resulted in more than 42 000 deaths: more than 41 000 adults and nearly 900 
+infants. Blacks accounted for 13% of all deaths but 24% to 36% of infant deaths. 
+SHS-attributable deaths resulted in a loss of nearly 600 000 YPLL and $6.6 
+billion of lost productivity, or $158 000 per death. The value of lost 
+productivity per death was highest among Blacks ($238 000) and Hispanics ($193 
+000).
+CONCLUSIONS: The economic toll of SHS exposure is substantial, with communities 
+of color having the greatest losses. Interventions need to be designed to reduce 
+the health and economic burden of smoking on smokers and nonsmokers alike and on 
+particularly vulnerable groups.
+
+DOI: 10.2105/AJPH.2012.300805
+PMCID: PMC3477960
+PMID: 22994180 [Indexed for MEDLINE]
+
+
+247. Drug Alcohol Rev. 2013 Mar;32(2):162-9. doi:
+10.1111/j.1465-3362.2012.00500.x.  Epub 2012 Sep 20.
+
+The relationship between placebo alcohol and affect: motives for drinking.
+
+Bailey RC(1), Baillie AJ.
+
+Author information:
+(1)Centre for Emotional Health, Department of Psychology, Macquarie University, 
+Sydney, Australia.
+
+INTRODUCTION AND AIMS: Although alcohol is often used in an attempt to alleviate 
+negative affect, alcohol oftentimes exacerbates depressive symptoms. Therefore 
+the relationship between alcohol and affect, and the role of motives for 
+drinking remain unclear. The present study hypothesised that placebo alcohol 
+would blunt affective responding and that desire to drink would increase in 
+individuals who expected alcohol to help them cope after a negative experience. 
+The present study also explored whether motives and reasons for drinking altered 
+after a negative experience.
+DESIGN AND METHODS: Participants (36 first-year psychology students and 41 
+community members) were randomly assigned to one of four experimental groups, 
+being soft drink or placebo alcohol, neutral or negative mood induction.
+RESULTS: Two repeated measures analyses indicated that placebo alcohol did not 
+significantly blunt affective responding after the negative mood induction. 
+T-tests showed that desire to drink did not significantly increase post negative 
+mood induction for participants who endorsed coping motives for drinking. 
+However, interestingly coping-depression and enhancement motives decreased after 
+negative mood induction, and participants misattributed the majority of their 
+mood to other life events.
+DISCUSSION AND CONCLUSIONS: The findings indicate that motives for drinking are 
+amendable with prior learning, providing support for expectancy challenge 
+procedures. The study also provides some evidence for alcohol's effect on 
+emotional lability.
+
+© 2012 Australasian Professional Society on Alcohol and other Drugs.
+
+DOI: 10.1111/j.1465-3362.2012.00500.x
+PMID: 22994550 [Indexed for MEDLINE]
+
+
+248. Int J Technol Assess Health Care. 2012 Oct;28(4):398-406. doi: 
+10.1017/S0266462312000463. Epub 2012 Sep 21.
+
+Shortened peginterferon and ribavirin treatment for chronic hepatitis C.
+
+Hartwell D(1), Jones J, Baxter L, Shepherd J.
+
+Author information:
+(1)d.hartwell@soton.ac.uk
+
+BACKGROUND: Peginterferon alfa and ribavirin combination therapy is an effective 
+treatment for many patients with chronic hepatitis C virus (HCV). Reducing the 
+length of treatment may be advantageous. We performed a systematic review and 
+economic evaluation to assess shorter treatment duration of this regimen.
+METHODS: We searched fourteen bibliographic databases (including The Cochrane 
+Library, Medline, and Embase) from 2000 to October 2009 and consulted experts 
+and drug manufacturers. Eligible articles were randomized controlled trials 
+(RCTs) selected according to predefined criteria. We undertook an economic 
+evaluation to assess the cost-effectiveness of shortened treatment versus 
+standard treatment in the UK.
+RESULTS: Six trials were included. In the sub-group of patients who had low 
+viral load (LVL) and a rapid virological response (RVR), there were no 
+statistically significant differences in sustained virological response (SVR) 
+rates between patients who received standard treatment (range, 83 percent to 100 
+percent) and those who received shortened courses (range 84 percent to 96 
+percent) (24 weeks for genotype 1, 16 weeks for genotype 2/3). Shortened 
+treatment resulted in cost savings, but in some scenarios also resulted in 
+poorer outcome, compared with standard treatment. This requires a judgment to be 
+made on the value of the quality-adjusted life-year loss resulting from adopting 
+a shorter treatment regimen, if shorter treatment is associated with a lower SVR 
+than standard treatment duration.
+CONCLUSIONS: For chronic HCV patients who have LVL and achieve an RVR, shortened 
+peginterferon and ribavirin combination therapy could be considered as a viable 
+treatment option.
+
+DOI: 10.1017/S0266462312000463
+PMID: 22995040 [Indexed for MEDLINE]
+
+
+249. Lancet. 2012 Nov 3;380(9853):1568-74. doi: 10.1016/S0140-6736(12)61141-6.
+Epub  2012 Sep 18.
+
+Premature death after self-harm: a multicentre cohort study.
+
+Bergen H(1), Hawton K, Waters K, Ness J, Cooper J, Steeg S, Kapur N.
+
+Author information:
+(1)University of Oxford Centre for Suicide Research, Department of Psychiatry, 
+Warneford Hospital, Headington, Oxford, UK.
+
+Erratum in
+    Lancet. 2012 Nov 3;380(9853):1558.
+
+Comment in
+    Lancet. 2012 Nov 3;380(9853):1536-8.
+
+BACKGROUND: People who self-harm have an increased risk of premature death. The 
+aim of this study was to investigate cause-specific premature death in 
+individuals who self-harm, including associations with socioeconomic 
+deprivation.
+METHODS: We undertook a cohort study of patients of all ages presenting to 
+emergency departments in Oxford, Manchester, and Derby, UK, after self-poisoning 
+or self-injury between Jan 1, 2000, and Dec 31, 2007. Postcodes of individuals' 
+place of residence were linked to the Index of Multiple Deprivation 2007 in 
+England. Mortality information was supplied by the Medical Research Information 
+Service of the National Health Service. Patients were followed up to the end of 
+2009. We calculated age-standardised mortality ratios (SMRs) and years of life 
+lost (YLL), and we tested for associations with socioeconomic deprivation.
+FINDINGS: 30 950 individuals presented with self-harm and were followed up for a 
+median of 6·0 years (IQR 3·9-7·9). 1832 (6·1%) patients died before the end of 
+follow-up. Death was more likely in patients than in the general population (SMR 
+3·6, 95% CI 3·5-3·8), and occurred more in males (4·1, 3·8-4·3) than females 
+(3·2, 2·9-3·4). Deaths due to natural causes were 2-7·5 times more frequent than 
+was expected. For individuals who died of any cause, mean YLL was 31·4 years 
+(95% CI 30·5-32·2) for male patients and 30·7 years (29·5-31·9) for female 
+patients. Mean YLL for natural-cause deaths was 25·9 years (25·7-26·0) for male 
+patients and 25·5 years (25·2-25·8) for female patients, and for external-cause 
+deaths was 40·2 years (40·0-40·3) and 40·0 years (39·7-40·5), respectively. 
+Disease of the circulatory (13·1% in males; 13·0% in females) and digestive 
+(11·7% in males; 17·8% in females) systems were major contributors to YLL from 
+natural causes. All-cause mortality increased with each quartile of 
+socioeconomic deprivation in male patients (χ(2) trend 39·6; p<0·0001), female 
+patients (13·9; p=0·0002), and both sexes combined (55·4; p<0·0001). 
+Socioeconomic deprivation was related to mortality in both sexes combined from 
+natural causes (51·0; p<0·0001) but not from external causes (0·30; p=0·58). 
+Alcohol problems were associated with death from digestive-system disease, drug 
+misuse with mental and behavioural disorders, and physical health problems with 
+circulatory-system disease.
+INTERPRETATION: Physical health and life expectancy are severely compromised in 
+individuals who self-harm compared with the general population. In the 
+management of self-harm, clinicians assessing patients' psychosocial problems 
+should also consider their physical needs.
+FUNDING: Department of Health Policy Research Programme.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(12)61141-6
+PMID: 22995670 [Indexed for MEDLINE]
+
+
+250. Internist (Berl). 2012 Oct;53(10):1151-6. doi: 10.1007/s00108-011-2990-5.
+
+[Morbidity and mortality in HIV infection].
+
+[Article in German]
+
+Stöckle M(1), Elzi L, Rockstroh JK, Battegay M.
+
+Author information:
+(1)Klinik für Infektiologie und Spitalhygiene, Universitätsspital Basel, 
+Petersgraben 4, 4031, Basel, Schweiz.
+
+Combination antiretroviral therapy (cART) has dramatically improved the 
+prognosis of HIV-infected individuals, with a close to a normal life expectancy 
+in a significant proportion of treated individuals. Upon start of cART, 
+HIV-induced immune deficiency can be prevented or, if already present, 
+reconstituted. Remaining morbidity and mortality is partly due to the late 
+diagnosis of HIV infection or late presentation of patients, when CD4-T-cells 
+have already fallen below 200 cells/µl and/or AIDS-defining conditions have 
+manifested. Further reasons for remaining morbidity and mortality are related to 
+co-morbidities such as viral hepatitis and tumors, particularly in older 
+patients. As HIV-infected patients become older, increasing co-morbidities and 
+socio-economic costs may become a challenge in the future.
+
+DOI: 10.1007/s00108-011-2990-5
+PMID: 22996358 [Indexed for MEDLINE]
+
+
+251. Ear Nose Throat J. 2012 Sep;91(9):E1-3.
+
+Prostate cancer metastatic to the larynx: a case report.
+
+Katime EE(1), Khurana JS, Arosarena OA.
+
+Author information:
+(1)Valley Family Medicine Residency of Modesto, an affiliate of the University 
+of California Davis Family Practice Residency Program, Modesto, CA, USA.
+
+Prostate cancer, which is the most common cancer among men, rarely metastasizes 
+to the neck. We report a case of prostatic carcinoma that metastasized to the 
+larynx in a 71-year-old man who presented with hoarseness and shortness of 
+breath. Computed tomography (CT) detected a 2.9 × 3.1 × 2.6-cm mass that 
+extended from the cricoid and arytenoid cartilages into the superior trachea. 
+Findings on histopathology and immunohistochemistry of the laryngeal tumor were 
+consistent with a metastasis of the patient's earlier prostate cancer. CT of the 
+chest later detected a soft-tissue mass in the right paraspinal area and other 
+thoracic pathology that represented metastatic disease. The patient was treated 
+with palliative radiation therapy. As androgen deprivation therapy continues to 
+increase the life expectancy of prostate cancer patients, detection of distant 
+metastases will likely increase, as well. Urogenital cancer metastatic to the 
+head and neck should be considered in the differential diagnosis of laryngeal 
+masses.
+
+PMID: 22996711 [Indexed for MEDLINE]
+
+
+252. Clin Infect Dis. 2013 Jan;56(1):140-2. doi: 10.1093/cid/cis813. Epub 2012
+Sep  20.
+
+Editorial commentary: turning the tide on HIV in women and children: preventing 
+breast-milk HIV transmission while increasing maternal life expectancy.
+
+Becquet R, Dabis F.
+
+Comment on
+    Clin Infect Dis. 2013 Jan;56(1):131-9.
+
+DOI: 10.1093/cid/cis813
+PMID: 22997213 [Indexed for MEDLINE]
+
+
+253. Health Serv Res. 2012 Dec;47(6):2097-117. doi:
+10.1111/j.1475-6773.2012.01462.x.  Epub 2012 Sep 21.
+
+Comparative cost-effectiveness of interventions to improve medication adherence 
+after myocardial infarction.
+
+Ito K(1), Shrank WH, Avorn J, Patrick AR, Brennan TA, Antman EM, Choudhry NK.
+
+Author information:
+(1)Division of Pharmacoepidemiology and Pharmacoeconomics, Department of 
+Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA 
+02120, USA.
+
+OBJECTIVE: To evaluate the comparative cost-effectiveness of interventions to 
+improve adherence to evidence-based medications among postmyocardial infarction 
+(MI) patients.
+DATA SOURCES/STUDY SETTING: Cost-effectiveness analysis.
+STUDY DESIGN: We developed a Markov model simulating a hypothetical cohort of 
+65-year-old post-MI patients who were prescribed secondary prevention 
+medications. We evaluated mailed education, disease management, polypill use, 
+and combinations of these interventions. The analysis was performed from a 
+societal perspective over a lifetime horizon. The main outcome was an 
+incremental cost-effectiveness ratio (ICER) as measured by cost per 
+quality-adjusted life year (QALY) gained.
+DATA COLLECTION/EXTRACTION METHODS: Model inputs were extracted from published 
+literature.
+PRINCIPAL FINDINGS: Compared with usual care, only mailed education had both 
+improved health outcomes and reduced spending. Mailed education plus disease 
+management, disease management, polypill use, polypill use plus mailed 
+education, and polypill use plus disease management cost were $74,600, $69,200, 
+$133,000, $113,000, and $142,900 per QALY gained, respectively. In an 
+incremental analysis, only mailed education had an ICER of less than $100,000 
+per QALY and was therefore the optimal strategy. Polypill use, particularly when 
+combined with mailed education, could be cost effective, and potentially cost 
+saving if its price decreased to less than $100 per month.
+CONCLUSIONS: Mailed education and a polypill, once available, may be the 
+cost-saving strategies for improving post-MI medication adherence.
+
+© Health Research and Educational Trust.
+
+DOI: 10.1111/j.1475-6773.2012.01462.x
+PMCID: PMC3523366
+PMID: 22998129 [Indexed for MEDLINE]
+
+
+254. CNS Neurol Disord Drug Targets. 2012 Nov 1;11(7):937-49. doi: 
+10.2174/1871527311201070937.
+
+Radiation-induced neuroinflammation and radiation somnolence syndrome.
+
+Ballesteros-Zebadúa P(1), Chavarria A, Celis MA, Paz C, Franco-Pérez J.
+
+Author information:
+(1)Department of Neurophysiology, National Institute of Neurology and 
+Neurosurgery M.V.S., Insurgentes Sur No. 3877, Col. La Fama, México D.F., 
+México.
+
+Cranial irradiation remains a standard treatment for malignant and benign brain 
+diseases. Although this procedure helps to lengthen the life expectancy of the 
+patient, the appearance of adverse effects related to radiation-induced injury 
+is inevitable. Radiation somnolence syndrome (RSS) has been described as a 
+delayed effect observed mainly after whole-brain radiotherapy in children. The 
+RSS was first linked to demyelination, but more recently it has been proposed 
+that the inflammatory response plays a primary role in the aforementioned 
+syndrome. To evaluate the feasibility of this hypothesis, we explored previous 
+work about RSS and reviewed published research that included measurements of the 
+inflammatory response in models of brain exposure to ionizing radiation. 
+Pro-inflammatory cytokines such as interleukin-1β, tumor necrosis factor-α, 
+interleukin-6 and interleukin-18 as well as other inflammatory markers such as 
+cyclooxygenase-2, prostaglandin E₂, glial fibrillary acid protein, intercellular 
+adhesion molecule-1 and nuclear factor-κB appear to be involved in the brain's 
+response to radiation. However, certain publications have described the 
+somnogenic effects of these cytokines and inflammatory markers. Although the 
+radiation response is a complex phenomenon that involves several molecular and 
+cellular processes, we propose that inflammation may be closely related to the 
+adverse effects of brain irradiation and therefore to the etiology of RSS.
+
+DOI: 10.2174/1871527311201070937
+PMID: 22998139 [Indexed for MEDLINE]
+
+
+255. Value Health. 2012 Sep-Oct;15(6):887-93. doi: 10.1016/j.jval.2012.06.004.
+
+Orthopaedic trauma care in Haiti: a cost-effectiveness analysis of an innovative 
+surgical residency program.
+
+Carlson LC(1), Slobogean GP, Pollak AN.
+
+Author information:
+(1)University of Maryland School of Medicine, R. Adams Cowley Shock Trauma 
+Center, Baltimore, MD 21201, USA.
+
+OBJECTIVE: In an effort to sustainably strengthen orthopaedic trauma care in 
+Haiti, a 2-year Orthopaedic Trauma Care Specialist (OTCS) program for Haitian 
+physicians has been developed. The program will provide focused training in 
+orthopaedic trauma surgery and fracture care utilizing a train-the-trainer 
+approach. The purpose of this analysis was to calculate the cost-effectiveness 
+of the program relative to its potential to decrease disability in the Haitian 
+population.
+METHODS: Using established methodology originally outlined in the World Health 
+Organization's Global Burden of Disease project, a cost-effectiveness analysis 
+was performed for the OTCS program in Haiti. Costs and disability-adjusted 
+life-years (DALYs) averted were estimated per fellow trained in the OTCS program 
+by using a 20-year career time horizon. Probabilistic sensitivity analysis was 
+used to simultaneously test the joint uncertainty of the cost and averted DALY 
+estimates. A willingness-to-pay threshold of $1200 per DALY averted, equal to 
+the gross domestic product per capita in Haiti, was selected on the basis of 
+World Health Organization's definition of highly cost-effective health 
+interventions.
+RESULTS: The OTCS program results in an incremental cost of $1,542,544 ± 
+$109,134 and 12,213 ± 2,983 DALYs averted per fellow trained. The 
+cost-effectiveness ratio of $133.97 ± $34.71 per DALY averted is well below the 
+threshold of $1200 per DALY averted. Furthermore, sensitivity analysis suggests 
+that implementing the OTCS program is the economically preferred strategy with 
+more than 95% probability at a willingness-to-pay threshold of $200 per DALY 
+averted and across the entire range of potential variable inputs.
+CONCLUSIONS: The current economic analysis suggests the OTCS program to be a 
+highly cost-effective intervention. Probabilistic sensitivity analysis 
+demonstrates that the conclusions remain stable even when considering the joint 
+uncertainty of the cost and DALY estimates.
+
+Copyright © 2012 International Society for Pharmacoeconomics and Outcomes 
+Research (ISPOR). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jval.2012.06.004
+PMID: 22999139 [Indexed for MEDLINE]
+
+
+256. Value Health. 2012 Sep-Oct;15(6):894-906. doi: 10.1016/j.jval.2012.06.005.
+Epub  2012 Aug 9.
+
+Cost-effectiveness analysis of antiviral treatments for HBeAg-positive chronic 
+hepatitis B in Canada.
+
+He J(1), Bowen JM, Xie F, Goeree R.
+
+Author information:
+(1)Canadian Institute for Health Information, Toronto, ON, Canada. 
+mail.jinghe@gmail.com
+
+OBJECTIVE: To conduct a cost-effectiveness analysis of currently available 
+nucleos(t)ide antiviral treatments (lamivudine, telbivudine, entecavir, and 
+tenofovir) for chronic hepatitis B in Canada.
+METHODS: Markov modeling was used to project the lifetime health benefits and 
+costs associated with the antiviral treatments. The hypothetical patient 

@@ -1,0 +1,1000 @@
+factors associated with face-to-face interventions; 4) assessing short-term 
+(days), long-term (months), and cumulative effects of expectancy interventions; 
+and 5) investigating possible mechanisms of change. Randomization and expectancy 
+interventions can be realized by the app (e.g., after the clinic/lab visit). As 
+a result, studies can be blinded without the possibility for the clinician to 
+influence study outcomes. Possible app-based expectancy interventions include, 
+for example, verbal suggestions and imagery exercises, although a large number 
+of possible interventions (e.g., hypnosis) could be evaluated using this 
+innovative approach.
+
+DOI: 10.3389/fpsyt.2019.00365
+PMCID: PMC6554680
+PMID: 31214057
+
+
+437. Obes Surg. 2019 Oct;29(10):3202-3211. doi: 10.1007/s11695-019-03957-7.
+
+Cost-Utility of Gastric Bypass Surgery Compared to Clinical Treatment for 
+Severely Obese With and Without Diabetes in the Perspective of the Brazilian 
+Public Health System.
+
+Assumpção RP(1), Bahia LR(2), da Rosa MQM(2), Correia MG(3), da Silva EN(4), 
+Zubiaurre PR(5), Mottin CC(5), Vianna DA(2).
+
+Author information:
+(1)Department of Internal Medicine, State University of Rio de Janeiro, 
+Boulevard 28 de Setembro, 77, 3° andar, Rio de Janeiro, Rio de Janeiro, 
+20551-030, Brazil. rpassumpcao@gmail.com.
+(2)Department of Internal Medicine, State University of Rio de Janeiro, 
+Boulevard 28 de Setembro, 77, 3° andar, Rio de Janeiro, Rio de Janeiro, 
+20551-030, Brazil.
+(3)Biostatistics and Bioinformatics Department, National Institute of 
+Cardiology, Rio de Janeiro, Brazil.
+(4)Department of Public Health, University of Brasilia,, Centro Metropolitano, 
+conjunto A, lote 01, Brasília, Distrito Federal, 72.220-275, Brazil.
+(5)Center of Morbid Obesity, São Lucas Hospital, Pontifical Catholic University 
+of Rio Grande do Sul, Av. Ipiranga 6690/302, Porto Alegre, Rio Grande do Sul, 
+90610-000, Brazil.
+
+PURPOSE: Obesity is associated with increased morbidity and mortality. Weight 
+loss due to gastric bypass (GBP) surgery improves clinical outcomes and may be a 
+cost-effective intervention. To estimate the cost-effectiveness of GBP compared 
+to clinical treatment in severely obese individuals with and without diabetes in 
+the perspective of the Brazilian public health system.
+MATERIALS AND METHODS: A Markov model was developed to compare costs and 
+outcomes of gastric bypass in an open approach to clinical treatment. Health 
+states were living with diabetes, remission of diabetes, non-fatal and fatal 
+myocardial infarction, and death. We also included the occurrence of 
+complications related to surgery and plastic surgery after the gastric bypass 
+surgery. The direct costs were obtained from primary data collection performed 
+in three public reference centers for obesity treatment. Utility values also 
+derived from this cohort, while transition probabilities came from the 
+international literature. A sensitivity analysis was performed to evaluate 
+uncertainties. The model considered a 10-year time horizon and a 5% discount 
+rate.
+RESULTS: Over 10 years, GBP increased quality-adjusted life years (QALY) and 
+costs compared to clinical treatment, resulting in an incremental 
+cost-effectiveness ratio (ICER) of Int$1820.17/QALY and Int$1937.73/QALY in 
+individuals with and without diabetes, respectively. Sensitivity analysis showed 
+that utility values and direct costs of treatments were the parameters that 
+affected the most the ICERs.
+CONCLUSION: The study demonstrated that GBP is a cost-effective intervention for 
+severely obese individuals in the Brazilian public health system perspective, 
+with a better result in individuals with diabetes.
+
+DOI: 10.1007/s11695-019-03957-7
+PMID: 31214966 [Indexed for MEDLINE]
+
+
+438. Drug Dev Ind Pharm. 2019 Sep;45(9):1403-1420. doi: 
+10.1080/03639045.2019.1628770. Epub 2019 Jun 28.
+
+A review on parenteral delivery of peptides and proteins.
+
+Jain D(1), Mahammad SS(1), Singh PP(1), Kodipyaka R(1).
+
+Author information:
+(1)a Custom Pharma Services (CPS) , Dr. Reddy's Laboratories Ltd , Hyderabad , 
+India.
+
+The recent advances in pharmaceutical industry in the area of drug delivery and 
+development have resulted into wide variety of biomolecules, particularly 
+peptides and proteins, to palliate the treatment for severe diseases. The 
+rampant development of peptides and proteins in industry mandate the 
+understanding of their characteristic nature and developability. Despite their 
+therapeutic potential, peptides and proteins pose complex challenges in drug 
+delivery and require scientist to contemplate to achieve suitable delivery 
+system. As most of the commercial products for proteins and peptides are 
+available as a parenteral delivery and freeze drying process is one commonly 
+used technique, it is imperative to understand the complex steps of development 
+for better and faster product development. This review provides an overview of 
+the stability and formulation development for peptides and proteins. The most 
+common route for protein delivery, parenteral, has been focused on parenteral 
+solution and lyophilization as formulation strategy. Additionally, new drug 
+delivery and half-life extension approaches will further the reach of this 
+unique class of molecules. Efforts are underway to explore the area with new 
+technologies and development.
+
+DOI: 10.1080/03639045.2019.1628770
+PMID: 31215293 [Indexed for MEDLINE]
+
+
+439. Biostatistics. 2019 Jun 19:kxz019. doi: 10.1093/biostatistics/kxz019. Online
+ ahead of print.
+
+On the individual surrogate paradox.
+
+Ma L(1), Yin Y(2), Liu L(3), Geng Z(2).
+
+Author information:
+(1)University of Wisconsin-Madison, 1300 University Ave., Madison, WI, USA and 
+School of Statistics, University of Minnesota at Twin Cities, 224 Church St., 
+Minneapolis, MN, USA.
+(2)School of Mathematical Sciences, Peking University, Beijing, China.
+(3)School of Statistics, University of Minnesota at Twin Cities, Minneapolis, 
+224 Church St., MN, USA.
+
+When the primary outcome is difficult to collect, a surrogate endpoint is 
+typically used as a substitute. It is possible that for every individual, the 
+treatment has a positive effect on the surrogate, and the surrogate has a 
+positive effect on the primary outcome, but for some individuals, the treatment 
+has a negative effect on the primary outcome. For example, a treatment may be 
+substantially effective in preventing the stroke for everyone, and lowering the 
+risk of stroke is universally beneficial for life expectancy; however, the 
+treatment may still cause death for some individuals. We define such paradoxical 
+phenomenon as the individual surrogate paradox. The individual surrogate paradox 
+is proposed to capture the treatment effect heterogeneity, which is unable to be 
+described by either the surrogate paradox based on average causal effect or that 
+based on distributional causal effect. We investigate the existing surrogate 
+criteria in terms of whether the individual surrogate paradox could manifest. We 
+find that only the strong binary surrogate can avoid such paradox without 
+additional assumptions. Utilizing the sharp bounds, we propose novel criteria to 
+exclude the individual surrogate paradox. Our methods are illustrated in an 
+application to determine the effect of the intensive glycemia on the risk of 
+development or progression of diabetic retinopathy.
+
+© The Authors 2019. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/biostatistics/kxz019
+PMID: 31215619
+
+
+440. Soft Robot. 2019 Dec;6(6):687-700. doi: 10.1089/soro.2018.0048. Epub 2019
+Jun  19.
+
+Highly Stretchable and Durable Conductive Knitted Fabrics for the Skins of Soft 
+Robots.
+
+Pei Z(1), Xiong X(1), He J(1), Zhang Y(1).
+
+Author information:
+(1)College of Mechanical Engineering, Donghua University, Shanghai, China.
+
+Stretchability and durability are imperative features for many electronic skins 
+of soft robots, particularly those involving high deformability, cyclic gaits, 
+confined space traverse, rough terrain navigation, and frequent human-robot 
+interaction. This article reports on the design, fabrication, and 
+characterization of highly stretchable and durable interconnections based on 
+conductive knitted fabrics for the skins of soft robots. The core-spun yarn 
+containing an ultrafine metal wire (core diameter: 50 μm) fabricated using a 
+newly developed vortex spinning technology is employed as the conductive trace 
+and is integrated into rib-knitted fabrics together with two types of elastic 
+composite yarns-an elastic filament yarn and an elastic vortex core-spun yarn, 
+respectively. Owing to the structures and properties of the yarns and fabrics, 
+the electrical resistance of the fabrics remains stable at a maximum strain of 
+425% in unidirectional tensile test and a maximum average membrane strain of 
+300% in three-dimensional deformation. The fabrics exhibit a fatigue life 
+greater than 1,200,000 loading cycles at 20% tensile strain and 10,000 abrasion 
+cycles. Application of the fabrics is demonstrated by covering an origami 
+paper-fabric composite-based soft extension actuator with the fabric. 
+Performance of the developed conductive knitted fabrics indicates that they have 
+potential to find application in the electronic skins of soft robots.
+
+DOI: 10.1089/soro.2018.0048
+PMID: 31216237
+
+
+441. Int J Mol Sci. 2019 Jun 18;20(12):2976. doi: 10.3390/ijms20122976.
+
+Multidisciplinary Challenges in Mastocytosis and How to Address with 
+Personalized Medicine Approaches.
+
+Valent P(1)(2), Akin C(3), Gleixner KV(4)(5), Sperr WR(6)(7), Reiter A(8), Arock 
+M(9), Triggiani M(10).
+
+Author information:
+(1)Department of Internal Medicine I, Division of Hematology & Hemostaseology, 
+Medical University of Vienna, 1090 Vienna, Austria. 
+peter.valent@meduniwien.ac.at.
+(2)Ludwig Boltzmann Institute for Hematology and Oncology, Medical University of 
+Vienna, 1090 Vienna, Austria. peter.valent@meduniwien.ac.at.
+(3)Division of Allergy and Clinical Immunology, University of Michigan, Ann 
+Arbor, MI 48106, USA. cemakin@umich.edu.
+(4)Department of Internal Medicine I, Division of Hematology & Hemostaseology, 
+Medical University of Vienna, 1090 Vienna, Austria. 
+karoline.gleixner@meduniwien.ac.at.
+(5)Ludwig Boltzmann Institute for Hematology and Oncology, Medical University of 
+Vienna, 1090 Vienna, Austria. karoline.gleixner@meduniwien.ac.at.
+(6)Department of Internal Medicine I, Division of Hematology & Hemostaseology, 
+Medical University of Vienna, 1090 Vienna, Austria. 
+wolfgang.r.sperr@meduniwien.ac.at.
+(7)Ludwig Boltzmann Institute for Hematology and Oncology, Medical University of 
+Vienna, 1090 Vienna, Austria. wolfgang.r.sperr@meduniwien.ac.at.
+(8)III. Medizinische Klinik, Universitätsmedizin Mannheim, 68167 Mannheim, 
+Germany. andreas.reiter@uum.de.
+(9)Department of Hematological Biology, Pitié-Salpêtrière Hospital, Pierre et 
+Marie Curie University (UPMC), 75005 Paris, France. arock@ens-cachan.fr.
+(10)Division of Allergy and Clinical Immunology, University of Salerno, 84131 
+Salerno, Italy. mtriggiani@unisa.it.
+
+Mastocytosis is a hematopoietic neoplasm defined by abnormal expansion and focal 
+accumulation of clonal tissue mast cells in various organ-systems. The disease 
+exhibits a complex pathology and an equally complex clinical behavior. The 
+classification of the World Health Organization (WHO) divides mastocytosis into 
+cutaneous forms, systemic variants, and localized mast cell tumors. In >80% of 
+patients with systemic mastocytosis (SM), a somatic point mutation in KIT at 
+codon 816 is found. Whereas patients with indolent forms of the disease have a 
+normal or near-normal life expectancy, patients with advanced mast cell 
+neoplasms, including aggressive SM and mast cell leukemia, have a poor prognosis 
+with short survival times. In a majority of these patients, multiple somatic 
+mutations and/or an associated hematologic neoplasm, such as a myeloid leukemia, 
+may be detected. Independent of the category of mastocytosis and the serum 
+tryptase level, patients may suffer from mediator-related symptoms and/or 
+osteopathy. Depending on the presence of co-morbidities, the symptomatology in 
+such patients may be mild, severe or even life-threatening. Most relevant 
+co-morbidities in such patients are IgE-dependent allergies, psychiatric, 
+psychological or mental problems, and vitamin D deficiency. The diagnosis and 
+management of mastocytosis is an emerging challenge in clinical practice and 
+requires vast knowledge, a multidisciplinary approach, and personalized medicine 
+procedures. In this article, the current knowledge about mastocytosis is 
+reviewed with special emphasis on the multidisciplinary aspects of the disease 
+and related challenges in daily practice.
+
+DOI: 10.3390/ijms20122976
+PMCID: PMC6627900
+PMID: 31216696 [Indexed for MEDLINE]
+
+Conflict of interest statement: Peter Valent: 1. Research grant: Deciphera 2. 
+Advisory Board and Honoraria: Novartis, Deciphera, Pfizer; Cem Akin: 1. 
+Honoraria: Novartis, Blueprint, 2. Research Grant: Blueprint; Wolfgang R. Sperr: 
+1. Research Grant: Phadia, 2. Advisory Board and Honoraria: Novartis, Deciphera, 
+Phadia; Andreas Reiter: Advisory Board and Honoraria: Novartis, Deciphera, 
+Blueprint; Michel Arock: 1. Research grants: Blueprint Medicine, Deciphera and 
+2. Advisory Board and Honoraria: Deciphera, Novartis; Massimo Triggiani: 
+Advisory Board and Honoraria: Novartis, Patara, Deciphera, Blueprint. The 
+authors declare that they have no other conflicts of interest to disclose in 
+this project.
+
+
+442. N Am Actuar J. 2018;22(2):198-209. doi: 10.1080/10920277.2017.1381031. Epub
+2017  Dec 20.
+
+Evaluating Life Expectancy Evaluations.
+
+Bauer D(1), Fasano MV(2), Russ J(3), Zhu N(4).
+
+Author information:
+(1)Department of Economics, Finance, and Legal Studies, University of Alabama, 
+Tuscaloosa, Alabama.
+(2)Fasano Associates, Washington, District of Columbia.
+(3)Institute for Finance and Actuarial Science, Ulm University, Ulm, Germany.
+(4)Department of Risk Management, Pennsylvania State University, University 
+Park, Pennsylvania.
+
+The quality of life expectancy estimates is one key consideration for an 
+investor in life settlements. The predominant metric for assessing this quality 
+is the so-called A-to-E ratio, which relies on a comparison of the actual to the 
+predicted number of deaths. In this article, we explain key issues with this 
+metric: In the short run, it is subject to estimation uncertainty for small and 
+moderately sized portfolios; and, more critically, in the long run, it converges 
+to 100% even if the underwriting is systematically biased. As an alternative, we 
+propose and discuss a set of new metrics based on the difference in (temporary) 
+life expectancies. We examine the underwriting quality of a leading U.S. life 
+expectancy provider based on this new methodology.
+
+DOI: 10.1080/10920277.2017.1381031
+PMCID: PMC6583892
+PMID: 31217675
+
+
+443. Open Heart. 2019 May 21;6(1):e001008. doi: 10.1136/openhrt-2019-001008. 
+eCollection 2019.
+
+Trial protocol for the validation of the 'Toronto Aortic Stenosis Quality of 
+Life (TASQ) Questionnaire' in patients undergoing surgical aortic valve 
+replacement (SAVR) or transfemoral (TF) transcatheter aortic valve implantation 
+(TAVI): the TASQ registry.
+
+Frank D(1), Kennon S(2), Bonaros N(3), Romano M(4), Lefèvre T(4), Di Mario C(5), 
+Stefàno P(5), Ribichini FL(6), Himbert D(7), Urena-Alcazar M(7), 
+Salgado-Fernandez J(8), Cuenca Castillo JJ(8), Garcia B(9), Kurucova J(10), 
+Thoenes M(11), Lüske C(12), Bramlage P(12), Styra R(13).
+
+Author information:
+(1)Departmentof Internal Medicine III (Cardiology, Angiology and Intensive Care 
+Medicine), UKSH University Clinical Center Schleswig-Holstein, Kiel, Germany and 
+DZHK (German Centre for Cardiovascular Research), partner site 
+Hamburg/Kiel/Lübeck, Kiel, Germany.
+(2)Department of Cardiology, Barts Heart Centre, St. Bartholomew's Hospital 
+London, London, UK.
+(3)Departmentof Cardiac Surgery, Innsbruck Medical University, Innsbruck, 
+Austria.
+(4)Departmentof Thoracic and Cardiovascular Surgery, Department of 
+Interventional Cardiology, Hopital Privé Jacques Cartier, Massy, France.
+(5)Department of Structural Interventional Cardiology, Department of Cardiac 
+Surgery, Careggi University Hospital, Florence, Italy.
+(6)Division of Cardiology, Department of Medicine, University of Verona, Verona, 
+Italy.
+(7)Department of Cardiology, Bichat-Claude Bernard Hospital, Paris, France.
+(8)Department of Cardiology, Department of Cardiovascular Surgery, Hospital Juan 
+Canalejo, Coruña, Spain.
+(9)Department of Cardiology, Hospital Vall d'Hebron, Barcelona, Spain.
+(10)Edwards Lifesciences, Prague, Czech Republic.
+(11)Edwards Lifesciences, Nyon, Switzerland.
+(12)Institute for Pharmacology and Preventive Medicine, Cloppenburg, Germany.
+(13)Department of Psychiatry, University Health Network, Toronto, Ontario, 
+Canada.
+
+BACKGROUND: Patients with severe aortic stenosis (AS) have a reduced life 
+expectancy and quality of life (QoL), owing to advanced age and the presence of 
+multiple comorbidities. Currently, there is no AS-specific QoL measurement tool, 
+which prevents an accurate assessment of how this chronic condition and its 
+treatment affect patients. The Toronto Aortic Stenosis Quality of Life 
+Questionnaire (TASQ) was developed in order to address this deficiency.
+METHODS: The present trial protocol was designed to enable validation of the 
+TASQ, which has been produced in five languages (English, French, German, 
+Italian and Spanish) to increase usability. Patients with severe AS who are 
+undergoing surgical aortic valve replacement (SAVR) or transcatheter aortic 
+valve implantation (TAVI) will be asked to complete the TASQ and, for 
+comparative purposes, the Kansas City Cardiomyopathy Questionnaire and the 
+general health-related QoL Short Form-12 questionnaire. The questionnaires will 
+be completed prior to the intervention, at discharge, as well as at 30 days and 
+3 months follow-up. A total of 290 patients will be recruited across one 
+Canadian and nine European centres. Overall, the protocol validation aims to 
+include 120 patients undergoing transfemoral TAVI (TF-TAVI), 120 undergoing SAVR 
+and up to 50 being treated medically. The primary objective of the registry is 
+to validate the TASQ in five different languages. The secondary objective is to 
+assess the utility of the TASQ for assessing differences in QoL outcome between 
+patients undergoing TF-TAVI, SAVR or medical management for their AS.
+DISCUSSION: Validation and roll-out of the TASQ will enable clinicians to 
+capture an accurate assessment of how AS and its management affects the QoL of 
+patients and will help them to determine the most appropriate treatment strategy 
+for individual patients.
+TRIAL REGISTRATION NUMBER: NCT03186339.
+
+DOI: 10.1136/openhrt-2019-001008
+PMCID: PMC6546188
+PMID: 31218003
+
+Conflict of interest statement: Competing interests: PB is the representative of 
+the Institute for Pharmacology and Preventive Medicine, Cloppenburg, Germany. 
+All centres were paid by IPPMed for the enrolment and documentation of patients.
+
+
+444. Curr Diab Rep. 2019 Jun 19;19(7):43. doi: 10.1007/s11892-019-1160-3.
+
+Diabetes Prevention Programs in Rural North America: a Systematic Scoping 
+Review.
+
+Rosputni C(1), Short E(2), Rahim-Sepulveda M(2), Howe CL(3), da Silva V(2)(4), 
+Alvarez K(2), Hingle MD(5).
+
+Author information:
+(1)Department of Physiology, University of Arizona, Tucson, AZ, USA.
+(2)Department of Nutritional Sciences, College of Agriculture & Life Sciences, 
+The University of Arizona, 1177 E 4th Street, Shantz Building Room 328, Tucson, 
+AZ, 85721, USA.
+(3)Health Sciences Library, University of Arizona, Tucson, AZ, USA.
+(4)Arizona Cooperative Extension, University of Arizona, Tucson, AZ, USA.
+(5)Department of Nutritional Sciences, College of Agriculture & Life Sciences, 
+The University of Arizona, 1177 E 4th Street, Shantz Building Room 328, Tucson, 
+AZ, 85721, USA. hinglem@email.arizona.edu.
+
+AIMS: The aims of this systematic scoping review were to characterize the extent 
+to which diabetes prevention programs have focused on rural populations in North 
+America and where possible, identify efficacious program components.
+METHODS: The review was guided by the PRISMA statement and five steps for 
+scoping studies. Searches were conducted in August 2017 in Tucson, Arizona. Two 
+teams of three independently screened full texts, excluding prior reviews, 
+systematic reviews, and opinion pieces. Two authors abstracted data, which were 
+reviewed by other team members.
+RESULTS: Of the 12,840 articles identified, 12 met all criteria. Nine studies 
+were based in the USA and three were Canadian. Demographics reflected high 
+enrollment of underrepresented minorities, adults, and females. Methodological 
+rigor was low; most studies were single-arm interventions evaluated using 
+pre-/post-measures. Weight was measured across all studies, although biological, 
+behavioral, and psychosocial outcomes were inconsistently assessed. Eight 
+studies reported significant changes in primary outcomes. Duration and intensity 
+were variable; delivery was led by trained volunteers or health professionals. 
+Seven studies reported recruitment, retention, and adherence data.
+CONCLUSIONS: Surprisingly, few rural diabetes prevention studies have been 
+published. Published programs were notable for lack of youth and/or family 
+involvement, integrated prevention and treatment programs, and heavy reliance on 
+self-reported outcomes.
+
+DOI: 10.1007/s11892-019-1160-3
+PMID: 31218509 [Indexed for MEDLINE]
+
+
+445. Pharmacoeconomics. 2019 Sep;37(9):1177-1193. doi:
+10.1007/s40273-019-00812-6.
+
+Cost Effectiveness of Blinatumomab Versus Inotuzumab Ozogamicin in Adult 
+Patients with Relapsed or Refractory B-Cell Precursor Acute Lymphoblastic 
+Leukemia in the United States.
+
+Delea TE(1), Zhang X(2), Amdahl J(3), Boyko D(3), Dirnberger F(4), Campioni 
+M(4), Cong Z(2).
+
+Author information:
+(1)Policy Analysis Inc. (PAI), 4 Davis Court, Brookline, MA, 02445, USA. 
+tdelea@pai2.com.
+(2)Amgen Inc., Thousand Oaks, CA, USA.
+(3)Policy Analysis Inc. (PAI), 4 Davis Court, Brookline, MA, 02445, USA.
+(4)Amgen (Europe) GmbH, Zug, Switzerland.
+
+BACKGROUND AND OBJECTIVE: The TOWER and INO-VATE-ALL trials demonstrated the 
+efficacy and safety of blinatumomab and inotuzumab ozogamicin (inotuzumab), 
+respectively, versus standard-of-care (SOC) chemotherapy in adults with relapsed 
+or refractory (R/R) B-cell precursor acute lymphoblastic leukemia (ALL). The 
+cost effectiveness of blinatumomab versus inotuzumab has not previously been 
+examined.
+METHODS: Cost effectiveness of blinatumomab versus inotuzumab in R/R B-cell 
+precursor ALL patients with one or no prior salvage therapy from a United States 
+(US) payer perspective was estimated using a partitioned survival model. Health 
+outcomes were estimated based on published aggregate data from INO-VATE-ALL and 
+individual patient data from TOWER weighted to match patients in INO-VATE-ALL 
+using matching adjusted indirect comparison (MAIC). Analyses were conducted 
+using five approaches relating to use of anchored versus unanchored comparisons 
+of health outcomes and, for the anchored comparisons, the reference treatment to 
+which treatment effects on health outcomes were applied. Estimates from TOWER 
+including the probabilities of complete remission and allogeneic stem-cell 
+transplant (allo-SCT), overall and event-free survival, utilities, duration of 
+therapy, and use of subsequent therapies were MAIC adjusted to match 
+INO-VATE-ALL. Costs of treatment, adverse events, allo-SCT, subsequent 
+therapies, and terminal care were from published sources. A 50-year time horizon 
+and 3% annual discount rate were used.
+RESULTS: Incremental costs for blinatumomab versus inotuzumab ranged from 
+US$7023 to US$36,244, depending on the approach used for estimating relative 
+effectiveness. Incremental quality-adjusted life-years (QALYs) ranged from 0.54 
+to 1.78. Cost effectiveness for blinatumomab versus inotuzumab ranged from 
+US$4006 to US$20,737 per QALY gained.
+CONCLUSIONS: Blinatumomab is estimated to be cost effective versus inotuzumab in 
+R/R B-cell precursor ALL adults who have received one or no prior salvage 
+therapy from a US payer perspective.
+
+DOI: 10.1007/s40273-019-00812-6
+PMCID: PMC6830399
+PMID: 31218655 [Indexed for MEDLINE]
+
+Conflict of interest statement: TED is an employee and owner of PAI. PAI 
+received research funding from Amgen for this study. PAI has received research 
+funding and consulting fees from Amgen and Pfizer for research activities 
+unrelated to this study. XZ was an employee at the time this study was conducted 
+and is a stockholder of Amgen. JA is an employee of PAI. DB is an employee of 
+PAI. FD is an employee and stockholder of Amgen. MC is an employee and 
+stockholder of Amgen. ZC was an employee at the time this study was conducted 
+and is a stockholder of Amgen.
+
+
+446. Drugs. 2019 Jul;79(10):1147-1156. doi: 10.1007/s40265-019-01152-7.
+
+Damoctocog Alfa Pegol: A Review in Haemophilia A.
+
+Paik J(1), Deeks ED(2).
+
+Author information:
+(1)Springer Nature, Private Bag 65901, Mairangi Bay, Auckland, 0754, New 
+Zealand. demail@springer.com.
+(2)Springer Nature, Private Bag 65901, Mairangi Bay, Auckland, 0754, New 
+Zealand.
+
+Erratum in
+    Drugs. 2019 Aug 23;:
+
+Damoctocog alfa pegol (Jivi®) is approved in the USA, EU, Japan and Canada for 
+the treatment and prophylaxis of previously treated patients aged ≥ 12 years 
+with haemophilia A. Formulated with a 60 kDa polyethylene glycol (PEG) moiety, 
+damoctocog alfa pegol is an intravenously (IV) administered recombinant factor 
+VIII (rFVIII) product with a longer terminal half-life than non-PEGylated FVIII 
+and rFVIII products. In the multinational phase II/III PROTECT VIII trial, 
+prophylaxis with damoctocog alfa pegol reduced the likelihood of bleeding in 
+previously treated patients aged ≥ 12 years with severe haemophilia A, with 
+dosing schedules ranging from twice weekly to once every 7 days. Interim data 
+from the ongoing extension phase indicated that the reduced annualized bleeding 
+rates (ABRs) were maintained for up to 5.2 years of prophylaxis with damoctocog 
+alfa pegol. Damoctocog alfa pegol was also effective in treating bleeding 
+episodes and in providing haemostatic control during surgery. Damoctocog alfa 
+pegol was generally well tolerated in adult and adolescent patients with severe 
+haemophilia A, with most adverse events considered to be unrelated to treatment. 
+There were no new or confirmed cases of FVIII inhibitor development and anti-PEG 
+antibodies, observed in some patients, were of low titre and transient. 
+Damoctocog alfa pegol extends the available treatment options in previously 
+treated adults and adolescents with haemophilia A, offering the possibility of 
+up to once-weekly administration for suitable patients.
+
+DOI: 10.1007/s40265-019-01152-7
+PMCID: PMC6711950
+PMID: 31218660 [Indexed for MEDLINE]
+
+Conflict of interest statement: Julia Paik and Emma Deeks are salaried employees 
+of Adis International Ltd/Springer Nature, are responsible for the article 
+content and declare no relevant conflicts of interest.
+
+
+447. Indian J Public Health. 2019 Apr-Jun;63(2):107-113. doi: 
+10.4103/ijph.IJPH_166_18.
+
+Burden of dengue in Kerala using disability-adjusted life years from 2006 to 
+2016.
+
+Nujum ZT(1), Vijayakumar K(2), Meenakshy V(3), Beegum MS(4).
+
+Author information:
+(1)Associate Professor, Department of Community Medicine, Government Medical 
+College, Kollam, India.
+(2)Professor and Head, Department of Community Medicine, Amrita Institute of 
+Medical Sciences, Kochi, India.
+(3)Additional Director, Public Health, Directorate of Health Services, 
+Thiruvananthapuram, Kerala, India.
+(4)Professor and Head, Department of Biochemistry, Government Medical College, 
+Thiruvananthapuram, Kerala, India.
+
+BACKGROUND: State-specific disability-adjusted life years (DALYs) are seldom 
+calculated. Understanding the health and disease trends in groups of states is 
+useful for finding the heterogeneity of disease epidemiology in the country.
+OBJECTIVE: The objective of the study was to assess dengue burden in Kerala 
+state, using DALY.
+METHODS: DALY was computed using the DALY package of R. Incidence was derived 
+using reported and estimated dengue cases for 2006-2016. Mortality was 
+calculated using reported deaths. We computed DALYs using the mortality 
+estimates for the South-East Asia region (SEAR) also. Sensitivity and scenario 
+analyses were done.
+RESULTS: The highest estimated relative DALY for dengue is 7.22 (95% confidence 
+interval [CI]: 6.66-7.72) per lakh population. The DALY obtained using the 
+mortality rates of SEAR ranged from 19.89 (95% CI: 8.44-29.45) per lakh 
+population to 28.56 (95% CI: 17.04-38.05). We observed a cyclical pattern of 
+increase in DALY every 2-3 years. The DALY in lower age groups is lesser. DALY 
+in females was higher than males.
+CONCLUSIONS: The dengue-related DALY for the state of Kerala is lower than that 
+of the global burden of disease due to lower mortality rates. Mortality 
+reduction becomes the key to reducing burden, especially in areas of low 
+incidence. The study also forms the benchmark for evaluating and implementing 
+cost-effective measures for dengue control in the state.
+
+DOI: 10.4103/ijph.IJPH_166_18
+PMID: 31219058 [Indexed for MEDLINE]
+
+Conflict of interest statement: None
+
+
+448. Expert Rev Pharmacoecon Outcomes Res. 2020 Apr;20(2):199-205. doi: 
+10.1080/14737167.2019.1628642. Epub 2019 Jun 20.
+
+Cost-effectiveness of sacubitril/valsartan for the treatment of patients with 
+heart failure with reduced ejection fraction in Portugal.
+
+Borges M(1)(2), Afonso-Silva M(3), Laires PA(3)(4), Gouveia M(5), Alarcão J(1), 
+Ascenção R(1)(6), Costa J(1)(2).
+
+Author information:
+(1)Center for Evidence Based Medicine, Faculdade de Medicina, Universidade de 
+Lisboa, Lisbon, Portugal.
+(2)Laboratório de Farmacologia Clínica e Terapêutica, Faculdade de Medicina, 
+Universidade de Lisboa, Lisbon, Portugal.
+(3)HE&OR, Novartis Farma, Produtos Farmacêuticos SA, Porto Salvo, Portugal.
+(4)Centro de Investigação em Saúde Pública, Escola Nacional de Saúde Pública, 
+Universidade NOVA de Lisboa, Lisbon, Portugal.
+(5)Catolica Lisbon School of Business and Economics, Lisbon, Portugal.
+(6)Clínica Universitária de Medicina Geral e Familiar, Faculdade de Medicina, 
+Universidade de Lisboa, Lisbon, Portugal.
+
+Objectives: This study assesses the cost-effectiveness of sacubitril/valsartan 
+versus enalapril in patients with symptomatic heart failure with reduced 
+ejection fraction (HFrEF).Methods: We used a previously developed Markov model 
+calibrated with patient-level data from the PARADIGM-HF trial, adapted to the 
+Portuguese setting. The model considers two health states (alive or dead) and 
+uses regression analyzes to estimate hospitalizations and deaths over time. A 
+panel of experts estimated resource consumption in the outpatient setting. To 
+estimate resource consumption with hospitalizations, the National Health Service 
+Diagnosis Related Groups database was used. Unit costs were based on national 
+legislation, and on the Infomed database. The model considers a societal 
+perspective, a time horizon of 30-years, and a 5% annual discount rate. 
+Sensitivity analyses assessed the robustness of results.Results: 
+Sacubitril/valsartan increases life expectancy by 0.5 life-years, corresponding 
+to 0.4 incremental quality adjusted life-years (QALY) versus enalapril. The 
+estimated incremental cost-effectiveness ratio (ICER) is 22,702€/QALY. 
+Sensitivity analysis shows that results are robust, but sensitive to the 
+parameter estimates of the cardiovascular survival curve.Conclusion: 
+Sacubitril/valsartan is a cost-effective therapeutic option in the treatment of 
+Portuguese patients with HFrEF and translate into significant health gains and 
+increased life expectancy versus the current standard of care.
+
+DOI: 10.1080/14737167.2019.1628642
+PMID: 31219361 [Indexed for MEDLINE]
+
+
+449. PLoS One. 2019 Jun 20;14(6):e0218463. doi: 10.1371/journal.pone.0218463. 
+eCollection 2019.
+
+Impacts of unfavourable lifestyle factors on biomarkers of liver function, 
+inflammation and lipid status.
+
+Nivukoski U(1), Niemelä M(1)(2), Bloigu A(3), Bloigu R(4), Aalto M(5), 
+Laatikainen T(6)(7)(8), Niemelä O(1).
+
+Author information:
+(1)Department of Laboratory Medicine and Medical Research Unit, Seinäjoki 
+Central Hospital and Tampere University, Seinäjoki, Finland.
+(2)Department of Medicine, University of Oulu, Oulu, Finland.
+(3)Center for Life Course Health Research, University of Oulu, Oulu, Finland.
+(4)Infrastructure for Population studies, University of Oulu, Oulu, Finland.
+(5)Department of Psychiatry, Seinäjoki Central Hospital and Tampere University, 
+Tampere, Finland.
+(6)National Institute for Health and Welfare (THL), Helsinki, Finland.
+(7)The Institute of Public Health and Clinical Nutrition, University of Eastern 
+Finland, Kuopio, Finland.
+(8)Joint Municipal Authority for North Karelia Social and Health Services, 
+Joensuu, Finland.
+
+BACKGROUND: Adopting a healthy lifestyle is associated with prolonged life 
+expectancy. The main modifiable lifestyle-related risk factors are hazardous 
+alcohol drinking, smoking, excess body weight and lack of physical activity. Our 
+aim was to estimate the impact of unfavourable lifestyle factors on 
+abnormalities in laboratory tests reflecting liver status, inflammation and 
+lipid metabolism in a population-based cross-sectional study.
+METHODS: The study included 22,273 participants (10,561 men, 11,712 women) aged 
+25-74 years from the National FINRISK Study. Data on alcohol use, smoking, body 
+weight, and physical activity were recorded from structured interviews. The risk 
+scores for the various life style factors were established on a 0-8 scale and 
+used to stratify the population in classes to allow estimates of their joint 
+effects. Serum liver enzymes (GGT, ALT), C-reactive protein (CRP) and lipid 
+profiles were measured using standard laboratory techniques.
+RESULTS: Consistent dose-response relationships were observed between the number 
+of unfavourable risk factors and serum levels of GGT, ALT, CRP, cholesterol, 
+HDL, LDL and triglycerides (p < 0.0005 for linear trend in all comparisons). 
+When compared with those with zero risk factors, the multivariable-adjusted odds 
+ratios (ORs) for abnormalities in all biomarkers were significantly higher in 
+those with a sum of risk score two or more. The most striking increases in ORs 
+in the group with the highest numbers of risk factors were observed among men in 
+serum GGT: 26.6 (12.4-57.0), ALT: 40.3 (5.3-307.8), CRP: 16.2 (7.8-33.7) and 
+serum triglycerides: 14.4 (8.6-24.0).
+CONCLUSIONS: The data support the view that the presence of unfavourable life 
+style risk factors is associated with distinct abnormalities in laboratory tests 
+for liver function, inflammation and lipid status. Such biomarkers may prove to 
+be of value in the assessment of interventions aimed at reducing unfavourable 
+risk factors and in helping individuals in long-term maintenance of lifestyle 
+modifications.
+
+DOI: 10.1371/journal.pone.0218463
+PMCID: PMC6586311
+PMID: 31220128 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+450. Age Ageing. 2019 Jul 1;48(4):526-532. doi: 10.1093/ageing/afz038.
+
+Long-term effect of community-based continence promotion on urinary symptoms, 
+falls and healthy active life expectancy among older women: cluster randomised 
+trial.
+
+Tannenbaum C(1), Fritel X(2), Halme A(3), van den Heuvel E(4), Jutai J(5), Wagg 
+A(6).
+
+Author information:
+(1)Department of Geriatrics, Faculty of Medicine, Université de Montréal, 
+Quebec, Canada.
+(2)Department of Obstetrics and Gynecology, Faculté de Médecine et Pharmacie, 
+Université de Poitiers, Poitiers, France.
+(3)Department of Geriatrics, Internal Medicine Resident, McGill University, 
+Montréal, Québec, Canada.
+(4)Department of Clinical Sciences, Brunel Institute for Ageing Studies, Brunel 
+University, Uxbridge, UK.
+(5)Department of Health Sciences, Interdisciplinary School of Health Sciences, 
+University of Ottawa, Ottawa, Ontario Canada.
+(6)Department of Geriatrics, Faculty of Medicine, University of Alberta, 
+Edmonton, Alberta, Canada.
+
+Comment in
+    J Urol. 2020 Oct;204(4):856-857.
+
+BACKGROUND: The long-term effectiveness of group continence promotion delivered 
+via community organisations on female urinary incontinence, falls and healthy 
+life expectancy remains unknown.
+METHODS: A pragmatic cluster randomised trial was conducted among 909 women aged 
+65-98 years with urinary incontinence, recruited from 377 community 
+organisations in the UK, Canada and France. A total of 184 organisations were 
+randomised to an in-person 60-min incontinence self-management workshop (461 
+participants), and 193 to a control healthy ageing workshop (448 participants). 
+The primary outcome was self-reported incontinence improvement at 1-year. Falls 
+and gains in health utility were secondary outcomes.
+RESULTS: A total 751 women, mean age 78.0, age range 65-98 completed the trial 
+(83%). At 1-year, 15% of the intervention group versus 6.9% of controls reported 
+significant improvements in urinary symptoms, (difference 8.1%, 95% confidence 
+intervals (CI) 4.0-12.1%, intracluster correlation 0.04, number-needed-to-treat 
+13) and 35% versus 19% reported any improvement (risk difference 16.0%, 95% CI 
+10.4-21.5, number-needed-to-treat 6). The proportion of fallers decreased from 
+42% to 36% in the intervention group (-8.0%, 95% CI -14.8 - -1.0) and from 44% 
+to 34% in the control group (-10.3%, 95% CI -17.4 - -3.6), no difference between 
+groups. Both intervention and control groups experienced a gain in health 
+utility (0.022 points (95% CI 0.005-0.04) versus 0.035 (95% CI 0.017-0.052), 
+respectively), with no significant difference between groups.
+CONCLUSION: Community-based group continence promotion achieves long-term 
+benefits on older women's urinary symptoms, without improvement in falls or 
+healthy life expectancy compared with participation in a healthy ageing 
+workshop.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of the 
+British Geriatrics Society.
+
+DOI: 10.1093/ageing/afz038
+PMCID: PMC6593322
+PMID: 31220200 [Indexed for MEDLINE]
+
+
+451. Eur J Public Health. 2019 Aug 1;29(4):647-655. doi: 10.1093/eurpub/ckz010.
+
+All-cause and cause-specific mortality in Scotland 1981-2011 by age, sex and 
+deprivation: a population-based study.
+
+Brown D(1), Allik M(1), Dundas R(1), Leyland AH(1).
+
+Author information:
+(1)MRC/CSO Social and Public Health Sciences Unit, University of Glasgow, 
+Glasgow, UK.
+
+BACKGROUND: Average life expectancy has stopped increasing for many countries. 
+This has been attributed to causes such as influenza, austerity policies and 
+deaths of despair (drugs, alcohol and suicide). Less is known on the inequality 
+of life expectancy over time using reliable, whole population, data. This work 
+examines all-cause and cause-specific mortality rates in Scotland to assess the 
+patterning of relative and absolute inequalities across three decades.
+METHODS: Using routinely collected Scottish mortality and population records we 
+calculate directly age-standardized mortality rates by age group, sex and 
+deprivation fifths for all-cause and cause-specific deaths around each census 
+1981-2011.
+RESULTS: All-cause mortality rates in the most deprived areas in 2011 (472 per 
+100 000 population) remained higher than in the least deprived in 1981 (422 per 
+100 000 population). For those aged 0-64, deaths from circulatory causes more 
+than halved between 1981 and 2011 and cancer mortality decreased by a third 
+(with greater relative declines in the least deprived areas). Over the same 
+period, alcohol- and drug-related causes and male suicide increased (with 
+greater absolute and relative increases in more deprived areas). There was also 
+a significant increase in deaths from dementia and Alzheimer's disease for those 
+aged 75+.
+CONCLUSIONS: Despite reductions in mortality, relative (but not absolute) 
+inequalities widened between 1981 and 2011 for all-cause mortality and for 
+several causes of death. Reducing relative inequalities in Scotland requires 
+faster mortality declines in deprived areas while countering increases in 
+mortality from causes such as drug- and alcohol-related harm and male suicide.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of the 
+European Public Health Association.
+
+DOI: 10.1093/eurpub/ckz010
+PMCID: PMC6660111
+PMID: 31220246 [Indexed for MEDLINE]
+
+
+452. Clin Gastroenterol Hepatol. 2020 Apr;18(4):822-829.e4. doi: 
+10.1016/j.cgh.2019.06.009. Epub 2019 Jun 18.
+
+Optimal Timing of Total Gastrectomy to Prevent Diffuse Gastric Cancer in 
+Individuals With Pathogenic Variants in CDH1.
+
+Laszkowska M(1), Silver ER(2), Schrope B(3), Kastrinos F(4), Wang TC(4), Hur 
+C(5).
+
+Author information:
+(1)Department of Medicine, Division of Digestive and Liver Diseases, New York 
+Presbyterian Columbia University Medical Center, New York, New York.
+(2)Department of Medicine, Division of General Medicine, New York Presbyterian 
+Columbia University Medical Center, New York, New York.
+(3)Columbia University Irving Cancer Center, New York, New York; Department of 
+Surgery, New York Presbyterian Columbia University Medical Center, New York, New 
+York.
+(4)Department of Medicine, Division of Digestive and Liver Diseases, New York 
+Presbyterian Columbia University Medical Center, New York, New York; Columbia 
+University Irving Cancer Center, New York, New York.
+(5)Department of Medicine, Division of Digestive and Liver Diseases, New York 
+Presbyterian Columbia University Medical Center, New York, New York; Department 
+of Medicine, Division of General Medicine, New York Presbyterian Columbia 
+University Medical Center, New York, New York; Columbia University Irving Cancer 
+Center, New York, New York. Electronic address: chin.hur@columbia.edu.
+
+BACKGROUND & AIMS: Carriers of pathogenic variants in CDH1 have a high risk of 
+hereditary diffuse gastric cancer (HDGC). Guidelines recommend prophylactic 
+total gastrectomy (PTG) at age 20-30 years, although there is controversy over 
+the optimal age. We developed a simulation model to analyze the effects of PTG 
+at different ages on quality-adjusted life-years (QALYs), cancer mortality, and 
+life expectancy.
+METHODS: We used a Markov model of HDGC progression associated with pathogenic 
+variants in CDH1 to simulate outcomes of hypothetical cohorts with different 
+ages at time of PTG (ages 20-79 years). Model inputs including health state 
+transition probabilities, mortality and complication rates, quality of life 
+utility values, and endoscopic surveillance sensitivity were derived from 
+publications. The primary outcome, used to determine the optimal strategy, was 
+age at which PTG yielded the highest QALYs. Secondary outcomes were cancer 
+mortality and unadjusted life-years.
+RESULTS: Our model found that for men, the optimal age for PTG is 39 years, 
+resulting in 32.01 incremental QALYs, 58.81 life-years (biologic age, 72.81 
+years), and lifetime cancer mortality of 8.5%. Incorporating endoscopic 
+surveillance prior to PTG decreased cancer mortality to 6.7%, but had lower 
+QALYs (31.59). PTG at age 30 reduced cancer mortality to 3.2%, with 31.45 
+incremental QALYs. For women, the optimal age for PTG was calculated to be 30 
+years, with 33.09 incremental QALYs, 66.17 life-years (biologic age, 80.17 
+years), and lifetime cancer mortality of 1.6%. Addition of endoscopic 
+surveillance did not decrease the risk of HDGC mortality in women.
+CONCLUSIONS: Using a Markov model of HDGC progression associated with pathogenic 
+variants in CDH1 to simulate outcomes, we found the optimal ages for PTG to be 
+39 years for men and 30 years for women, when QALYs are the primary endpoint. 
+These ages for PTG are older than those of current recommendations.
+
+Copyright © 2020 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cgh.2019.06.009
+PMID: 31220641 [Indexed for MEDLINE]
+
+
+453. Expert Rev Pharmacoecon Outcomes Res. 2020 Jun;20(3):295-303. doi: 
+10.1080/14737167.2019.1635014. Epub 2019 Jul 25.
+
+Cost-effectiveness of Cladribine Tablets and fingolimod in the treatment of 
+relapsing multiple sclerosis with high disease activity in Spain.
+
+Poveda JL(1), Trillo JL(2), Rubio-Terrés C(3), Rubio-Rodríguez D(3), Polanco 
+A(4), Torres C(4).
+
+Author information:
+(1)Pharmacy Department, Hospital Universitario y Politécnico La Fe , Valencia, 
+Spain.
+(2)Pharmacy Department, Hospital Clínico Universitario de Valencia , Valencia, 
+Spain.
+(3)Pharmacoeconomics Department, Health Value , Madrid, Spain.
+(4)Corporate Affairs Department, Merck , Madrid, Spain.
+
+OBJECTIVE: To estimate the cost-effectiveness of Cladribine Tablets in the 
+treatment of relapsing multiple sclerosis (RMS) with high disease activity 
+compared with fingolimod, from the perspective of the National Health System 
+(NHS) in Spain.
+METHODS: A Markov model was developed. The annual transition probabilities, were 
+adjusted to patients with RMS with high disease activity. The effect of the 
+treatments compared on the Expanded Disability Status Scale (EDSS) was modeled 
+by hazard ratios for the confirmed progression of disability. The annual relapse 
+rate and the probability of suffering adverse reactions were obtained from a 
+meta-analysis and the literature. The derived costs were calculated from Spanish 
+unit costs. The utilities were obtained from the CLARITY clinical trial and the 
+literature. Deterministic and probabilistic sensitivity analyzes were performed.
+RESULTS: Cladribine tablets was the dominant treatment: lower costs (-86,536 €) 
+and more effective (+1.11 quality-adjusted life years - QALYs) compared to 
+fingolimod. The probability that Cladribine Tablets was cost-effective compared 
+to fingolimod ranged between 94.6% and 96.1% for willingness to pay from € 
+20,000 to € 30,000 per QALY gained.
+CONCLUSIONS: Cladribine Tablets is a cost-effective treatment, compared to 
+fingolimod, for the treatment of RMS with high disease activity.
+EXPERT OPINION: According to the present study, compared to fingolimod, 
+treatment with Cladribine Tablets of relapsing multiple sclerosis with high 
+disease activity is an option that could generate savings for the Spanish 
+National Health System, with a considerable gain in QALYs. Cladribine Tablets is 
+considered cost-effective and dominant (less costs and more effectiveness) than 
+fingolimod treatment option in this population.
+
+DOI: 10.1080/14737167.2019.1635014
+PMID: 31220959 [Indexed for MEDLINE]
+
+
+454. Scand J Rheumatol. 2019 Nov;48(6):439-447. doi:
+10.1080/03009742.2019.1613674.  Epub 2019 Jun 21.
+
+Cost-effectiveness of five different anti-tumour necrosis factor tapering 
+strategies in rheumatoid arthritis: a modelling study.
+
+Verhoef LM(1), Bos D(1), van den Ende C(1)(2), van den Hoogen F(1)(2), Fautrel 
+B(3), Hulscher ME(4), Kievit W(5), den Broeder AA(1)(2).
+
+Author information:
+(1)Department of Rheumatology, Sint Maartenskliniek, Nijmegen, The Netherlands.
+(2)Department of Rheumatology, Radboud Institute for Health Sciences, Radboud 
+University Medical Center, Nijmegen, The Netherlands.
+(3)AP-HP, Rheumatology Department, Pitié-Salpêtrièe Hospital, Paris, France.
+(4)IQ healthcare, Radboud Institute for Health Sciences, Radboud University 
+Medical Center, Nijmegen, The Netherlands.
+(5)Department for Health Evidence, Radboud Institute for Health Sciences, 
+Radboud University Medical Center, Nijmegen, The Netherlands.
+
+Objective: To investigate the cost-effectiveness of five different tumour 
+necrosis factor inhibitor tapering strategies in patients with rheumatoid 
+arthritis (RA) and stable low disease activity, using a modelling design.Method: 
+Using Markov models based on data from the DRESS and STRASS randomized 
+controlled trials, and the Nijmegen RA cohort, five tapering strategies for 
+etanercept and adalimumab were tested against continuation: 1, four-step 
+tapering (DRESS strategy); 2, five-step tapering; 3, tapering without 
+withdrawal; 4, use of a stricter flare criterion; and 5, use of a theoretical 
+predictor for successful tapering. We also examined how well a biomarker should 
+be able to predict in order for strategy 5 to become cost-effective compared to 
+the other strategies.Results: All examined tapering strategies were cost saving 
+(range: EUR 5128 to 7873) but yielded more short-lived flares compared to 
+continuation. The change in utilities compared to continuation was minimal and 
+not clinically relevant (range: -0.005 to 0.007 quality-adjusted life-years). 
+Strategy 1 was cost-effective compared to all other strategies [highest 
+incremental net monetary benefit (iNMB)]. However, there was a large overlap in 
+credible intervals, especially between strategies 1 and 2. Scenario analyses 
+showed that 50% reduction of drug prices would result in the highest iNMB for 
+strategy 2. A biomarker only becomes cost-effective when it is inexpensive and 
+has a sensitivity and specificity of at least 84%.Conclusion: Because our study 
+showed a comparable iNMB for tapering in four or five steps (including 
+discontinuation), we recommend a choice between these strategies, based on 
+shared decision making.
+
+DOI: 10.1080/03009742.2019.1613674
+PMID: 31220991 [Indexed for MEDLINE]
+
+
+455. Inj Prev. 2020 Aug;26(4):302-309. doi: 10.1136/injuryprev-2019-043184. Epub
+2019  Jun 20.
+
+Cataract surgery for falls prevention and improving vision: modelling the health 
+gain, health system costs and cost-effectiveness in a high-income country.
+
+Boyd M(1), Kvizhinadze G(2), Kho A(3), Wilson G(3), Wilson N(2).
+
+Author information:
+(1)Adapt Research Ltd, Reefton, New Zealand mattjamesboyd@gmail.com.
+(2)Public Health, University of Otago, Wellington, Wellington, New Zealand.
+(3)Department of Ophthalmology, Tairawhiti District Health Board, Gisborne, New 
+Zealand.
+
+AIM: To estimate the health gain, health system costs and cost-effectiveness of 
+cataract surgery when expedited as a falls prevention strategy (reducing the 
+waiting time for surgery by 12 months) and as a routine procedure.
+METHODS: An established injurious falls model designed for the New Zealand (NZ) 
+population (aged 65+ years) was adapted. Key parameters relating to cataracts 
+were sourced from the literature and the NZ Ministry of Health. A health system 
+perspective with discounting at 3% was used.
+RESULTS: Expedited cataract surgery for 1 year of incident cases was found to 
+generate a total 240 quality-adjusted life years (QALYs) (95% uncertainty 
+interval (UI) 161 to 360) at net health system costs of NZ$2.43 million (95% UI 
+2.02 to 2.82 million) over the remaining lifetimes of the surgery group. This 
+intervention was cost-effective by widely accepted standards with an incremental 
+cost-effectiveness ratio (ICER) of NZ$10 600 (US$7540) (95% UI NZ$6030 to NZ$15 
+700) per QALY gained. The level of cost-effectiveness did not vary greatly by 
+sex, ethnicity and previous fall history, but was higher for the 65-69 age group 
+compared with the oldest age group of 85-89 years (NZ$7000 vs NZ$14 200 per QALY 
+gained). Comparing cataract surgery with no surgery, the ICER was even more 
+favourable at NZ$4380 (95% UI 2410 to 7210) per QALY. Considering only the 
+benefits for vision improvement and excluding the benefits of falls prevention, 
+it was still favourable at NZ$9870 per QALY.
+CONCLUSIONS: Expedited cataract surgery appears very cost-effective. Routine 
+cataract surgery is itself very cost-effective, and its value appears largely 
+driven by the falls prevention benefits.
+
+© Author(s) (or their employer(s)) 2020. No commercial re-use. See rights and 
+permissions. Published by BMJ.
+
+DOI: 10.1136/injuryprev-2019-043184
+PMID: 31221667 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+456. Cancer Epidemiol Biomarkers Prev. 2019 Sep;28(9):1544-1551. doi: 
+10.1158/1055-9965.EPI-19-0125. Epub 2019 Jun 20.
+
+Differences in Cancer Survival with Relative versus Cause-Specific Approaches: 
+An Update Using More Accurate Life Tables.
+
+Forjaz de Lacerda G(1)(2), Howlader N(3), Mariotto AB(3).
+
+Author information:
+(1)Division of Cancer Control and Population Sciences, National Cancer 
+Institute, Rockville, Maryland. goncalo.forjaz@nih.gov.
+(2)Azores Cancer Registry, Azores Oncological Centre, Portugal.
+(3)Division of Cancer Control and Population Sciences, National Cancer 
+Institute, Rockville, Maryland.
+
+BACKGROUND: We investigated differences in net cancer survival (survival 
+observed if the only possible cause of death was the cancer under study) 
+estimated using new approaches for relative survival (RS) and cause-specific 
+survival (CSS).
+METHODS: We used SEER data for patients diagnosed in 2000 to 2013, followed-up 
+through December 31, 2014. For RS, we used new life tables accounting for 
+geography and socio-economic status. For CSS, we used the SEER cause of death 
+algorithm for attributing cancer-specific death. Estimates were compared by 
+site, age, stage, race, and time since diagnosis.
+RESULTS: Differences between 5-year RS and CSS were generally small. RS was 
+always higher in screen-detectable cancers, for example, female breast (89.2% 
+vs. 87.8%) and prostate (98.5% vs. 93.7%) cancers; differences increased with 
+age or time since diagnosis. CSS was usually higher in the remaining cancer 
+sites, particularly those related to specific risk factors, for example, cervix 
+(70.9% vs. 68.3%) and liver (20.7% vs. 17.1%) cancers. For most cancer sites, 
+the gap between estimates was smaller with more advanced stage.Conclusion: RS is 
+the preferred approach to report cancer survival from registry data because 
+cause of death may be inaccurate, particularly for older patients and long-term 
+survivors as comorbidities increase challenges in determining cause of death. 
+However, CSS proved to be more reliable in patients diagnosed with localized 
+disease or cancers related to specific risk factors as general population life 
+tables may not capture other causes of mortality.

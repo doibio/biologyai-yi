@@ -1,0 +1,1000 @@
+(11)Haslinger Family Pediatric Palliative Care Center, Akron Children's 
+Hospital, Akron, OH, United States.
+(12)Rebecca D Considine Research Institute, Akron Children's Hospital, Akron, 
+OH, United States.
+(13)Division of Family & Community Medicine, Akron Children's Hospital, Akron, 
+OH, United States.
+(#)Contributed equally
+
+BACKGROUND: Despite steady gains in life expectancy, individuals with cystic 
+fibrosis (CF) lung disease still experience rapid pulmonary decline throughout 
+their clinical course, which can ultimately end in respiratory failure. 
+Point-of-care tools for accurate and timely information regarding the risk of 
+rapid decline is essential for clinical decision support.
+OBJECTIVE: This study aims to translate a novel algorithm for earlier, more 
+accurate prediction of rapid lung function decline in patients with CF into an 
+interactive web-based application that can be integrated within electronic 
+health record systems, via collaborative development with clinicians.
+METHODS: Longitudinal clinical history, lung function measurements, and 
+time-invariant characteristics were obtained for 30,879 patients with CF who 
+were followed in the US Cystic Fibrosis Foundation Patient Registry (2003-2015). 
+We iteratively developed the application using the R Shiny framework and by 
+conducting a qualitative study with care provider focus groups (N=17).
+RESULTS: A clinical conceptual model and 4 themes were identified through coded 
+feedback from application users: (1) ambiguity in rapid decline, (2) clinical 
+utility, (3) clinical significance, and (4) specific suggested revisions. These 
+themes were used to revise our application to the currently released version, 
+available online for exploration. This study has advanced the application's 
+potential prognostic utility for monitoring individuals with CF lung disease. 
+Further application development will incorporate additional clinical 
+characteristics requested by the users and also a more modular layout that can 
+be useful for care provider and family interactions.
+CONCLUSIONS: Our framework for creating an interactive and visual analytics 
+platform enables generalized development of applications to synthesize, model, 
+and translate electronic health data, thereby enhancing clinical decision 
+support and improving care and health outcomes for chronic diseases and 
+disorders. A prospective implementation study is necessary to evaluate this 
+tool's effectiveness regarding increased communication, enhanced shared 
+decision-making, and improved clinical outcomes for patients with CF.
+
+©Christopher Wolfe, Teresa Pestian, Emrah Gecili, Weiji Su, Ruth H Keogh, John P 
+Pestian, Michael Seid, Peter J Diggle, Assem Ziady, John Paul Clancy, Daniel H 
+Grossoehme, Rhonda D Szczesniak, Cole Brokamp. Originally published in JMIR 
+Medical Informatics (http://medinform.jmir.org), 16.12.2020.
+
+DOI: 10.2196/23530
+PMCID: PMC7773511
+PMID: 33325834
+
+Conflict of interest statement: Conflicts of Interest: AZ, JPC, RDS, and CB are 
+co-inventors on a provisionally approved patent, Application No. 15/927,575, 
+under disclosure D17-0021 and tech ID # 2017-0211. For all other authors, there 
+are no conflicts of interest to declare.
+
+
+164. JAMA Cardiol. 2021 Mar 1;6(3):364. doi: 10.1001/jamacardio.2020.6130.
+
+Cost-effectiveness of Statin Use Guidelines-Reply.
+
+Pandya A(1)(2), Zhu J(2), Spahillari A(3).
+
+Author information:
+(1)Department of Health Policy and Management, Harvard T. H. Chan School of 
+Public Health, Boston, Massachusetts.
+(2)Center for Health Decision Science, Harvard T. H. Chan School of Public 
+Health, Boston, Massachusetts.
+(3)Division of Cardiology, Department of Medicine, Massachusetts General 
+Hospital, Harvard Medical School, Boston, Massachusetts.
+
+Comment on
+    JAMA Cardiol. 2020 Aug 1;5(8):871-880.
+    JAMA Cardiol. 2021 Mar 1;6(3):363-364.
+
+DOI: 10.1001/jamacardio.2020.6130
+PMID: 33325987 [Indexed for MEDLINE]
+
+
+165. JAMA Cardiol. 2021 Mar 1;6(3):363-364. doi: 10.1001/jamacardio.2020.6121.
+
+Cost-effectiveness of Statin Use Guidelines.
+
+Blum CB(1), Stone NJ(2).
+
+Author information:
+(1)Columbia University Vagelos College of Physicians and Surgeons, New York, New 
+York.
+(2)Feinberg School of Medicine, Northwestern University, Chicago, Illinois.
+
+Comment in
+    JAMA Cardiol. 2021 Mar 1;6(3):364.
+
+Comment on
+    JAMA Cardiol. 2020 Aug 1;5(8):871-880.
+
+DOI: 10.1001/jamacardio.2020.6121
+PMID: 33325990 [Indexed for MEDLINE]
+
+
+166. Annu Rev Public Health. 2021 Apr 1;42:381-403. doi: 
+10.1146/annurev-publhealth-082619-104231. Epub 2021 Dec 16.
+
+Declining Life Expectancy in the United States: Missing the Trees for the 
+Forest.
+
+Harper S(1)(2)(3), Riddell CA(4), King NB(1)(2)(5).
+
+Author information:
+(1)Department of Epidemiology, Biostatistics and Occupational Health, McGill 
+University, Montreal, Quebec H3A 1A2, Canada; email: sam.harper@mcgill.ca, 
+nicholas.king@mcgill.ca.
+(2)Institute for Health and Social Policy, McGill University, Montreal, Quebec 
+H3A 1A2, Canada.
+(3)Department of Public Health, Erasmus Medical Center, 3015 GD Rotterdam, The 
+Netherlands.
+(4)Division of Epidemiology and Biostatistics, School of Public Health, 
+University of California, Berkeley, California 94720, USA; email: 
+c.riddell@berkeley.edu.
+(5)Biomedical Ethics Unit, McGill University, Montreal, Quebec H3A 1X1, Canada.
+
+In recent years, life expectancy in the United States has stagnated, followed by 
+three consecutive years of decline. The decline is small in absolute terms but 
+is unprecedented and has generated considerable research interest and theorizing 
+about potential causes. Recent trends show that the decline has affected nearly 
+all race/ethnic and gender groups, and the proximate causes of the decline are 
+increases in opioid overdose deaths, suicide, homicide, and Alzheimer's disease. 
+A slowdown in the long-term decline in mortality from cardiovascular diseases 
+has also prevented life expectancy from improving further. Although a popular 
+explanation for the decline is the cumulative decline in living standards across 
+generations, recent trends suggest that distinct mechanisms for specific causes 
+of death are more plausible explanations. Interventions to stem the increase in 
+overdose deaths, reduce access to mechanisms that contribute to violent deaths, 
+and decrease cardiovascular risk over the life course are urgently needed to 
+improve mortality in the United States.
+
+DOI: 10.1146/annurev-publhealth-082619-104231
+PMID: 33326297 [Indexed for MEDLINE]
+
+
+167. J Palliat Med. 2021 Jul;24(7):1036-1044. doi: 10.1089/jpm.2020.0496. Epub
+2020  Dec 16.
+
+Pediatric Project ECHO(®): A Virtual Community of Practice to Improve Palliative 
+Care Knowledge and Self-Efficacy among Interprofessional Health Care Providers.
+
+Lalloo C(1)(2), Osei-Twum JA(1), Rapoport A(3)(4)(5)(6), Vadeboncoeur 
+C(7)(8)(9), Weingarten K(3)(5), Veldhuijzen van Zanten S(7)(8)(9), Widger 
+K(3)(10), Stinson J(1)(2)(10).
+
+Author information:
+(1)Child Health Evaluative Sciences, The Hospital for Sick Children, Toronto, 
+Ontario, Canada.
+(2)Institute of Health Policy, Management and Evaluation, University of Toronto, 
+Toronto, Ontario, Canada.
+(3)Pediatric Advanced Care Team, The Hospital for Sick Children, Toronto, 
+Ontario, Canada.
+(4)Emily's House, Toronto, Ontario, Canada.
+(5)Department of Pediatrics and University of Toronto, Toronto, Ontario, Canada.
+(6)Department of Family and Community Medicine, University of Toronto, Toronto, 
+Ontario, Canada.
+(7)Children's Hospital of Eastern Ontario, Ottawa, Ontario, Canada.
+(8)Roger Neilson House, Ottawa, Ontario, Canada.
+(9)Department of Pediatrics, University of Ottawa, Ottawa, Ontario, Canada.
+(10)Lawrence S. Bloomberg Faculty of Nursing, University of Toronto, Toronto, 
+Ontario, Canada.
+
+Background: Health care providers (HCPs) require ongoing training and mentorship 
+to fully appreciate the palliative care needs of children. Project ECHO® 
+(Extension for Community Healthcare Outcomes) is a model for delivering 
+technology-enabled interprofessional education and cultivating a community of 
+practice among HCPs who care for children with life-limiting illness. 
+Objectives: To develop, implement, and evaluate the Project ECHO model within 
+the pediatric palliative care (PPC) context. Specific objectives were to 
+evaluate (1) participation levels, (2) program acceptability, (3) HCP knowledge 
+changes, (4) HCP self-efficacy changes, and (5) perceived practice changes after 
+six months. Intervention: An interprofessional PPC curriculum was informed by a 
+needs assessment. The curriculum was delivered through monthly virtual 90-minute 
+TeleECHO sessions (didactic presentation and case-based learning) from January 
+2018 to December 2019. The program was freely available to all HCPs wishing to 
+participate. Design: A mixed-methods design with repeat measures was used. 
+Surveys were distributed at baseline and six months to assess outcomes using 
+7-point Likert scales. Descriptive and inferential statistical analyses were 
+conducted. The study was approved by the Research Ethics Board at the Hospital 
+for Sick Children. Results: Twenty-four TeleECHO sessions were completed with a 
+mean of 32 ± 12.5 attendees. Acceptability scores (n = 43) ranged from 5.1 ± 1.1 
+to 6.5 ± 0.6. HCPs reported improvements in knowledge and self-efficacy across 
+most topics (11 out of 12) and skills (8 out of 10) with demonstrated 
+statistical significance (p < 0.05). Most participants reported positive 
+practice impacts, including enhanced ability to provide PPC in their practice. 
+Conclusion: Project ECHO is a feasible and impactful model for fostering a 
+virtual PPC-focused community of practice among interprofessional HCPs.
+
+DOI: 10.1089/jpm.2020.0496
+PMCID: PMC8215401
+PMID: 33326309 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors have no disclosures to declare.
+
+
+168. PLoS Med. 2020 Dec 16;17(12):e1003478. doi: 10.1371/journal.pmed.1003478. 
+eCollection 2020 Dec.
+
+Long-term health outcomes of people with reduced kidney function in the UK: A 
+modelling study using population health data.
+
+Schlackow I(1), Simons C(1), Oke J(2), Feakins B(2), O'Callaghan CA(3), Hobbs 
+FDR(2), Lasserson D(4), Stevens RJ(2), Perera R(2), Mihaylova B(1)(5).
+
+Author information:
+(1)Nuffield Department of Population Health, University of Oxford, Oxford, 
+United Kingdom.
+(2)Nuffield Department of Primary Care Health Sciences, University of Oxford, 
+Oxford, United Kingdom.
+(3)Nuffield Department of Medicine, University of Oxford, Oxford, United 
+Kingdom.
+(4)Warwick Medical School, Population Evidence and Technologies, University of 
+Warwick, Warwick, United Kingdom.
+(5)Institute of Population Health Sciences, Barts and The London School of 
+Medicine and Dentistry, Queen Mary University of London, London, United Kingdom.
+
+BACKGROUND: People with reduced kidney function have increased cardiovascular 
+disease (CVD) risk. We present a policy model that simulates individuals' 
+long-term health outcomes and costs to inform strategies to reduce risks of 
+kidney and CVDs in this population.
+METHODS AND FINDINGS: We used a United Kingdom primary healthcare database, the 
+Clinical Practice Research Datalink (CPRD), linked with secondary healthcare and 
+mortality data, to derive an open 2005-2013 cohort of adults (≥18 years of age) 
+with reduced kidney function (≥2 measures of estimated glomerular filtration 
+rate [eGFR] <90 mL/min/1.73 m2 ≥90 days apart). Data on individuals' 
+sociodemographic and clinical characteristics at entry and outcomes (first 
+occurrences of stroke, myocardial infarction (MI), and hospitalisation for heart 
+failure; annual kidney disease stages; and cardiovascular and nonvascular 
+deaths) during follow-up were extracted. The cohort was used to estimate risk 
+equations for outcomes and develop a chronic kidney disease-cardiovascular 
+disease (CKD-CVD) health outcomes model, a Markov state transition model 
+simulating individuals' long-term outcomes, healthcare costs, and quality of 
+life based on their characteristics at entry. Model-simulated cumulative risks 
+of outcomes were compared with respective observed risks using a split-sample 
+approach. To illustrate model value, we assess the benefits of partial (i.e., at 
+2013 levels) and optimal (i.e., fully compliant with clinical guidelines in 
+2019) use of cardioprotective medications. The cohort included 1.1 million 
+individuals with reduced kidney function (median follow-up 4.9 years, 45% men, 
+19% with CVD, and 74% with only mildly decreased eGFR of 60-89 mL/min/1.73 m2 at 
+entry). Age, kidney function status, and CVD events were the key determinants of 
+subsequent morbidity and mortality. The model-simulated cumulative disease risks 
+corresponded well to observed risks in participant categories by eGFR level. 
+Without the use of cardioprotective medications, for 60- to 69-year-old 
+individuals with mildly decreased eGFR (60-89 mL/min/1.73 m2), the model 
+projected a further 22.1 (95% confidence interval [CI] 21.8-22.3) years of life 
+if without previous CVD and 18.6 (18.2-18.9) years if with CVD. Cardioprotective 
+medication use at 2013 levels (29%-44% of indicated individuals without CVD; 
+64%-76% of those with CVD) was projected to increase their life expectancy by 
+0.19 (0.14-0.23) and 0.90 (0.50-1.21) years, respectively. At optimal 
+cardioprotective medication use, the projected health gains in these individuals 
+increased by further 0.33 (0.25-0.40) and 0.37 (0.20-0.50) years, respectively. 
+Limitations include risk factor measurements from the UK routine primary care 
+database and limited albuminuria measurements.
+CONCLUSIONS: The CKD-CVD policy model is a novel resource for projecting 
+long-term health outcomes and assessing treatment strategies in people with 
+reduced kidney function. The model indicates clear survival benefits with 
+cardioprotective treatments in this population and scope for further benefits if 
+use of these treatments is optimised.
+
+DOI: 10.1371/journal.pmed.1003478
+PMCID: PMC7769604
+PMID: 33326459 [Indexed for MEDLINE]
+
+Conflict of interest statement: I have read the journal's policy and the authors 
+of this manuscript have the following competing interests: RP declares being the 
+PI of NIHR funded Programme of work to evaluate how to monitor CKD in Primary 
+Care which part-funded his salary as well as members of the research team.
+
+
+169. Klin Mikrobiol Infekc Lek. 2020 Mar;26(1):18-24.
+
+[Cost-effectiveness analysis for HIV pre-exposure prophylaxis in a high-risk 
+population in the Czech Republic].
+
+[Article in Czech]
+
+Skoupá J(1), Švecová K, Snopková S.
+
+Author information:
+(1)EconHealth, Prague, Czech Republic, e-mail: jana.skoupa@iol.cz.
+
+OBJECTIVES: To assess the cost-effectiveness of pharmacological pre-exposure 
+prophylaxis (PrEP) using a combination of emtricitabine and tenofovir disoproxil 
+fumarate (FTC/TDF) with respect to HIV transmission in high-risk patients in the 
+Czech Republic.
+MATERIAL AND METHODS: A pharmacoeconomic model was constructed to compare costs 
+and outcomes in a cohort with and without PrEP. Initially, a decision tree is 
+used to evaluate short-term benefits of PrEP (proportion of HIV-infected 
+individuals), followed by Markov cycles to simulate the course of the disease 
+based on CD4 lymphocyte counts. The efficacy of PrEP, probability of transition 
+between HIV infection stages, costs per category and quality of life data were 
+derived from the literature. The results are presented as an incremental cost 
+effectiveness ratio of incremental costs and incremental quality adjusted 
+life-years (ICER/QALY) in a lifetime horizon with a 3% annual discount rate of 
+costs and benefits.
+RESULTS: The FTC/TDF prophylaxis is dominant, that is, it generates lower costs 
+and higher benefits (expressed as QALYs) in comparison with the control group 
+without prophylaxis. A sensitivity analysis modelled all relevant parameters and 
+all scenarios confirmed the PrEP dominance.
+CONCLUSIONS: A cost-effectiveness analysis in the Czech Republic setting 
+confirmed that pharmacological PrPE intervention is cost-effective, or 
+cost-saving, in a high-risk population of men having sex with men, using a 
+lifetime horizon.
+
+PMID: 33326591 [Indexed for MEDLINE]
+
+
+170. J Hepatol. 2021 Jun;74(6):1286-1294. doi: 10.1016/j.jhep.2020.12.004. Epub
+2020  Dec 14.
+
+Cost-effectiveness of alcohol use treatments in patients with alcohol-related 
+cirrhosis.
+
+Avanceña ALV(1), Miller N(2), Uttal SE(3), Hutton DW(4), Mellinger JL(5).
+
+Author information:
+(1)Department of Health Management and Policy, School of Public Health, 
+University of Michigan, Ann Arbor, MI, USA. Electronic address: 
+antonlv@umich.edu.
+(2)Department of Epidemiology, School of Public Health, University of Michigan, 
+Ann Arbor, MI, USA.
+(3)Department of Internal Medicine, University of Michigan, Ann Arbor, MI, USA.
+(4)Department of Health Management and Policy, School of Public Health, 
+University of Michigan, Ann Arbor, MI, USA; Department of Industrial and 
+Operations Engineering, College of Engineering, University of Michigan, Ann 
+Arbor, MI, USA.
+(5)Division of Gastroenterology and Hepatology, Department of Internal Medicine, 
+University of Michigan, Ann Arbor, MI, USA.
+
+BACKGROUND & AIMS: Alcohol use treatment such as medication-assisted therapies 
+(MATs) and counseling are available and effective in promoting alcohol 
+abstinence. We sought to explore the cost-effectiveness of different alcohol use 
+treatments among patients with compensated alcohol-related cirrhosis (AC).
+METHODS: We simulated a cohort of patients with compensated AC receiving care 
+from a hepatology clinic over their lifetimes. We estimated costs (in 2017 US$) 
+and benefits in terms of quality-adjusted life years (QALYs) gained from 
+healthcare and societal perspectives. Transition probabilities, costs, and 
+health utility weights were taken from the literature. Treatment effects of 
+FDA-approved MATs (acamprosate and naltrexone) and non-FDA approved MATs 
+(baclofen, gabapentin, and topiramate) and counseling were based on a study of 
+employer-insured patients with AC. We calculated incremental cost-effectiveness 
+ratios (ICERs) and performed one-way and probabilistic sensitivity analyses to 
+understand the impact of parameter uncertainty.
+RESULTS: Compared to a do-nothing scenario, MATs and counseling were found to be 
+cost-saving from a healthcare perspective, which means that they provide more 
+benefits with less costs than no intervention. Compared to other interventions, 
+acamprosate and naltrexone cost the least and provide the most QALYs. If the 
+effectiveness of MATs and counseling decreased, these interventions would still 
+be cost-effective based on the commonly used $100,000 per QALY gained threshold. 
+Several sensitivity and scenario analyses showed that our main findings are 
+robust.
+CONCLUSIONS: Among patients with compensated AC, MATs and counseling are 
+extremely cost-effective, and in some cases cost-saving, interventions to 
+prevent decompensation and improve health. Health policies (e.g. payer 
+reimbursement) should emphasize and appropriately compensate for these 
+interventions.
+LAY SUMMARY: Alcohol use treatments, including physician counseling and 
+medication-assisted therapies (MATs), improve the outcomes of patients with 
+compensated alcohol-related cirrhosis, though use and access have remained 
+suboptimal. In this study, we found that counseling and MATs are extremely 
+cost-effective, and in some cases cost-saving, interventions to help patients 
+with alcohol-related cirrhosis abstain from alcohol and improve their health. 
+Wider use of these interventions should be encouraged.
+
+Copyright © 2020 European Association for the Study of the Liver. Published by 
+Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jhep.2020.12.004
+PMCID: PMC8177741
+PMID: 33326815 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest The authors declare no 
+conflicts of interest related to this research. Please refer to the accompanying 
+ICMJE disclosure forms for further details.
+
+
+171. Kidney Blood Press Res. 2021;46(1):114-120. doi: 10.1159/000511256. Epub
+2020  Dec 16.
+
+The Challenging Management of Cancer: An Immunonephrologist's Perspective.
+
+Fenoglio R(1), Roccatello D(2), De Simone E(1), Del Vecchio G(1), Ferro M(1), 
+Quattrocchio G(1), Barreca A(3), Sciascia S(1).
+
+Author information:
+(1)Nephrology and Dialysis Unit & CMID (Center of Research of Immunopathology 
+and Rare Diseases), Coordinating Center of the Network for Rare Diseases of 
+Piedmont and Aosta Valley, San Giovanni Bosco Hub Hospital of Turin, and 
+Department of Clinical and Biological Sciences, University of Turin, Turin, 
+Italy.
+(2)Nephrology and Dialysis Unit & CMID (Center of Research of Immunopathology 
+and Rare Diseases), Coordinating Center of the Network for Rare Diseases of 
+Piedmont and Aosta Valley, San Giovanni Bosco Hub Hospital of Turin, and 
+Department of Clinical and Biological Sciences, University of Turin, Turin, 
+Italy, dario.roccatello@unito.it.
+(3)Division of Pathology, Città della Salute e della Scienza Hospital, Turin, 
+Italy.
+
+INTRODUCTION: Onconephrology is an emerging medical subspecialization that 
+focuses on the numberless interrelations between cancer and kidney diseases. 
+Tumor cells evade immune surveillance through activation of immune checkpoint 
+pathways that suppress antitumor immune responses. By blocking checkpoints, new 
+anticancer agents disrupt immune homeostasis but potentially induce 
+immune-mediated diseases. Nephrologists and nephroimmunologists should be able 
+to treat the nephrotoxic sequelae of cancer therapy and ensure continuation of 
+the life-saving treatment.
+METHODS: Thirty-seven renal biopsies have been carried out over 42 months in 
+oncologic patients, that is, 5.2% of the total native renal biopsies were 
+carried out in the same period. The commonest diagnoses (>6 cases) were 
+interstitial tubular nephritis, membranous glomerulopathy, IgA nephropathy, 
+vasculitis, and focal and segmental glomerulosclerosis.
+CASE PRESENTATION: Three example cases, including focusing on key questions 
+which could involve the nephrologists are reported in detail. They include a 
+cancer-related Goodpasture Syndrome, the peculiar toxic effects of pemetrexed on 
+tubular cells, and the intriguing relationship between bevacizumab and 
+cryoglobulinemic glomerulonephritis.
+CONCLUSION: As shown by these 3 example cases, nephrologists need to be 
+open-minded with regard to kidney biopsy in order to get a timely diagnosis. 
+Nephrologists also need to improve their knowledge of cancer biology and therapy 
+in order to prevent kidney problems, manage therapy-related immune-mediated 
+disorders, and improve patient life expectancy.
+
+© 2020 The Author(s). Published by S. Karger AG, Basel.
+
+DOI: 10.1159/000511256
+PMID: 33326976 [Indexed for MEDLINE]
+
+
+172. Sci Rep. 2020 Dec 16;10(1):22099. doi: 10.1038/s41598-020-79176-3.
+
+National burden of cancer in Italy, 1990-2017: a systematic analysis for the 
+global burden of disease study 2017.
+
+Bosetti C(1), Traini E(2), Alam T(3), Allen CA(3), Carreras G(4), Compton K(3), 
+Fitzmaurice C(3)(5), Force LM(6)(7), Gallus S(8), Gorini G(4), Harvey JD(3), 
+Kocarnik JM(3)(9), La Vecchia C(10), Lugo A(8), Naghavi M(3)(11), Pennini A(3), 
+Piccinelli C(12), Ronfani L(2), Xu R(3), Monasta L(2).
+
+Author information:
+(1)Department of Oncology, Istituto di Ricerche Farmacologiche Mario Negri 
+IRCCS, Via Mario Negri, 2, 20156, Milan, Italy. cristina.bosetti@marionegri.it.
+(2)Clinical Epidemiology and Public Health Research Unit, Institute for Maternal 
+and Child Health IRCCS Burlo Garofolo, Trieste, Italy.
+(3)Institute for Health Metrics and Evaluation, University of Washington, 
+Seattle, WA, USA.
+(4)Oncologic Network, Prevention, and Research Institute, Florence, Italy.
+(5)Division of Hematology, University of Washington, Seattle, WA, USA.
+(6)Department of Oncology, St. Jude Children's Research Hospital, Memphis, TN, 
+USA.
+(7)Department of Global Pediatric Medicine, St. Jude Children's Research 
+Hospital, Memphis, TN, USA.
+(8)Department of Environmental Health Sciences, Istituto Di Ricerche 
+Farmacologiche Mario Negri IRCCS, Milan, Italy.
+(9)Public Health Sciences Division, Fred Hutchinson Cancer Research Center, 
+Seattle, WA, USA.
+(10)Department of Clinical Sciences and Community Health, University of Milan, 
+Milan, Italy.
+(11)Department of Health Metrics Sciences, School of Medicine, University of 
+Washington, Seattle, WA, USA.
+(12)CPO Piemonte, AOU Città Della Salute E Della Scienza, Torino, Italy.
+
+We monitored the burden of cancer in Italy and its trends over the last three 
+decades, providing estimates of cancer incidence, mortality, years of life lost, 
+years lived with disability, and disability-adjusted life-years (DALYs), for 
+cancer overall and 30 cancer sites using data from the Global Burden of Disease 
+study 2017. An overview of mortality trends between 1990 and 2017 was also 
+provided. In 2017, there were 254,336 new cancer cases in men and 214,994 in 
+women, corresponding to an age-standardized incidence rate (ASIR) of 438 and 
+330/100,000, respectively. Between 1990 and 2017, incident cancer cases, and, to 
+a lesser extent, ASIRs significantly increased overall and for almost all cancer 
+sites, but ASIRs significantly declined for lung and other tobacco-related 
+neoplasms. In 2017, there were 101,659 cancer deaths in men (age-standardized 
+death rate, ASDR, 158.5/100,000) and 78,918 in women (ASDR 93.9/100,000). Cancer 
+deaths significantly increased between 1990 and 2017 (+ 18%), but ASDR 
+significantly decreased (- 28%). Deaths significantly increased for many cancer 
+sites, but decreased for stomach, esophageal, laryngeal, Hodgkin lymphoma, and 
+testicular cancer. ASDRs significantly decreased for most neoplasms, with the 
+main exceptions of cancer of the pancreas and uterus, and multiple myeloma. In 
+2017, cancer caused 3,204,000 DALYs. Between 1990 and 2017, DALYs and 
+age-standardized DALY rates significantly declined (-3.4% and -33%, 
+respectively). Age-standardized mortality rates in Italy showed favorable 
+patterns over the last few decades. However, the absolute number of cancer cases 
+and, to a lower extent, of cancer deaths increased likely due to the progressive 
+ageing of the population, this calling for a continuous effort in cancer 
+prevention, early diagnosis, and treatment.
+
+DOI: 10.1038/s41598-020-79176-3
+PMCID: PMC7744506
+PMID: 33328623 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+173. Sci Rep. 2020 Dec 16;10(1):22088. doi: 10.1038/s41598-020-79181-6.
+
+Bile accelerates carcinogenic processes in pancreatic ductal adenocarcinoma 
+cells through the overexpression of MUC4.
+
+Gál E(1), Veréb Z(2)(3), Kemény L(2)(3), Rakk D(4), Szekeres A(4), Becskeházi 
+E(1), Tiszlavicz L(5), Takács T(6), Czakó L(6), Hegyi P(6)(7)(8), Venglovecz 
+V(9).
+
+Author information:
+(1)Department of Pharmacology and Pharmacotherapy, University of Szeged, 6720, 
+Szeged, Hungary.
+(2)Regenerative Medicine and Cellular Pharmacology Research Laboratory, 
+Department of Dermatology and Allergology, University of Szeged, Szeged, 
+Hungary.
+(3)HCEMM SZTE Skin Research Group, University of Szeged, Szeged, Hungary.
+(4)Department of Microbiology, University of Szeged, Szeged, Hungary.
+(5)Department of Pathology, University of Szeged, Szeged, Hungary.
+(6)First Department of Medicine, University of Szeged, Szeged, Hungary.
+(7)Institute for Translational Medicine, Medical School, Szentágothai Research 
+Centre, University of Pécs, Pécs, Hungary.
+(8)Division of Gastroenterology, First Department of Medicine, Medical School, 
+University of Pécs, Pécs, Hungary.
+(9)Department of Pharmacology and Pharmacotherapy, University of Szeged, 6720, 
+Szeged, Hungary. venglovecz.viktoria@med.u-szeged.hu.
+
+Pancreatic cancer (PC) is one of the leading causes of mortality rate globally 
+and is usually associated with obstructive jaundice (OJ). Up to date, there is 
+no clear consensus on whether biliary decompression should be performed prior to 
+surgery and how high levels of serum bile affects the outcome of PC. Therefore, 
+our study aims were to characterise the effect of bile acids (BAs) on 
+carcinogenic processes using pancreatic ductal adenocarcinoma (PDAC) cell lines 
+and to investigate the underlying mechanisms. Liquid chromatography-mass 
+spectrometry was used to determine the serum concentrations of BAs. The effects 
+of BAs on tumour progression were investigated using different assays. Mucin 
+expressions were studied in normal and PDAC cell lines and in human samples at 
+gene and protein levels and results were validated with gene silencing. The 
+levels of BAs were significantly higher in the PDAC + OJ group compared to the 
+healthy control. Treating PDAC cells with different BAs or with human serum 
+obtained from PDAC + OJ patients enhanced the rate of proliferation, migration, 
+adhesion, colony forming, and the expression of MUC4. In PDAC + OJ patients, 
+MUC4 expression was higher and the 4-year survival rate was lower compare to 
+PDAC patients. Silencing of MUC4 decreased BAs-induced carcinogenic processes in 
+PDAC cells. Our results show that BAs promote carcinogenic process in PDAC 
+cells, in which the increased expression of MUC4 plays an important role. Based 
+on these results, we assume that in PC patients, where the disease is associated 
+with OJ, the early treatment of biliary obstruction improves life expectancy.
+
+DOI: 10.1038/s41598-020-79181-6
+PMCID: PMC7744548
+PMID: 33328627 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+174. Crop Sci. 2020 Nov-Dec;60(6):2951-2970. doi: 10.1002/csc2.20317. Epub 2020
+Nov  11.
+
+Fall-armyworm invasion, control practices and resistance breeding in Sub-Saharan 
+Africa.
+
+Matova PM(1)(2)(3), Kamutando CN(4), Magorokosho C(2), Kutywayo D(1), Gutsa 
+F(1), Labuschagne M(3).
+
+Author information:
+(1)Department of Research and Specialist Services Crop Breeding Institute 5th 
+Street Extension Harare Zimbabwe.
+(2)International Maize and Wheat Improvement Centre Harare Zimbabwe.
+(3)Department of Plant Sciences University of the Free State Bloemfontein South 
+Africa.
+(4)Department of Crop Science University of Zimbabwe Harare Zimbabwe.
+
+Fall armyworm [Spodoptera frugiperda (J.E. Smith); FAW] invasion has exacerbated 
+maize (Zea mays L.) crop yield losses in sub-Saharan Africa (SSA), already 
+threatened by other stresses, especially those that are climate-change induced. 
+The FAW is difficult to control, manage, or eradicate, because it is polyphagous 
+and trans-boundary, multiplies fast, has a short life cycle and migrates easily, 
+and lacks the diapause growth phase. In this study, FAW and its impact in Africa 
+was reviewed, as well as past and present control strategies for this pest. 
+Pesticides, cultural practices, natural enemies, host-plant resistance, 
+integrated pest management (IPM), and plant breeding approaches were examined as 
+possible control strategies. It was concluded that an IPM control strategy, 
+guided by cultural approaches already being used by farmers, and what can be 
+adopted from the Americas, coupled with an insect-resistance management 
+strategy, is the best option to manage this pest in Africa. These strategies 
+will be strengthened by breeding for multi-trait host-plant resistance through 
+stacking of genes for different modes of control of the pest.
+
+© 2020 The Authors. Crop Science published by Wiley Periodicals, Inc. on behalf 
+of Crop Science Society of America.
+
+DOI: 10.1002/csc2.20317
+PMCID: PMC7702106
+PMID: 33328691
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+175. Front Psychol. 2020 Nov 26;11:575161. doi: 10.3389/fpsyg.2020.575161. 
+eCollection 2020.
+
+Art for Ages: The Effects of Group Music Making on the Wellbeing of Nursing Home 
+Residents.
+
+Paolantonio P(1)(2), Cavalli S(3), Biasutti M(4), Pedrazzani C(3), Williamon 
+A(1)(2)(5).
+
+Author information:
+(1)Department of Research and Development, Conservatory of Southern Switzerland, 
+Lugano, Switzerland.
+(2)Centre for Performance Science, Royal College of Music, London, United 
+Kingdom.
+(3)Department of Business Economics, Health and Social Care, University of 
+Applied Sciences and Arts of Southern Switzerland, Manno, Switzerland.
+(4)FISPPA Department, University of Padua, Padua, Italy.
+(5)Faculty of Medicine, Imperial College London, London, United Kingdom.
+
+In many countries, life expectancy has increased considerably in past years, and 
+the importance of finding ways to ensure good levels of wellbeing through aging 
+has become more important than ever. Arts based interventions are promising in 
+this respect, and the literature suggests that musical activities can reduce 
+isolation and anxiety and foster feelings of achievement and self-confidence. 
+The present study examined the effects of group music making programs on the 
+health and wellbeing of nursing home residents in Southern Switzerland. A team 
+of professional and student musicians delivered 10 weekly music sessions in four 
+nursing homes, focusing on singing, rhythm-based activities with percussion 
+instruments, and listening to short, live performances. 22 participants (16 
+women and 6 men, aged 72-95 years, mean 83.6, SD ± 6.9) were recruited to take 
+part in the study and were interviewed after the last music session. The data 
+were analyzed with thematic analysis to investigate how residents experienced 
+group music making and its effects. The findings show that the music programs 
+were beneficial for residents' wellbeing. Music plays an important role in their 
+lives, both in their pasts and presently, and being involved in musical 
+activities offers engagement and novelty in daily life, providing learning 
+opportunities and facilitating interpersonal relationships. Moreover, these 
+results were due to interactions with the musicians involved. Residents 
+particularly appreciated the opportunity to listen to live performances as part 
+of the sessions. This study suggests that nursing home residents value music and 
+that music based interventions play an important and direct role in enhancing 
+their wellbeing.
+
+Copyright © 2020 Paolantonio, Cavalli, Biasutti, Pedrazzani and Williamon.
+
+DOI: 10.3389/fpsyg.2020.575161
+PMCID: PMC7732664
+PMID: 33329220
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+176. Front Microbiol. 2020 Nov 20;11:594838. doi: 10.3389/fmicb.2020.594838. 
+eCollection 2020.
+
+Splicing Endonuclease Is an Important Player in rRNA and tRNA Maturation in 
+Archaea.
+
+Schwarz TS(1), Berkemer SJ(2)(3)(4), Bernhart SH(2)(5), Weiß M(6), 
+Ferreira-Cerca S(6), Stadler PF(2)(3)(5)(7)(8)(9)(10)(11)(12), Marchfelder A(1).
+
+Author information:
+(1)Biologie II, Ulm University, Ulm, Germany.
+(2)Bioinformatics, Department of Computer Science, Leipzig University, Leipzig, 
+Germany.
+(3)Max Planck Institute for Mathematics in the Sciences, Leipzig, Germany.
+(4)Competence Center for Scalable Data Services and Solutions, Leipzig 
+University, Leipzig, Germany.
+(5)Interdisciplinary Center for Bioinformatics, Leipzig University, Leipzig, 
+Germany.
+(6)Regensburg Center for Biochemistry, Biochemistry III - Institute of 
+Biochemistry, Genetics and Microbiology, University of Regensburg, Regensburg, 
+Germany.
+(7)German Centre for Integrative Biodiversity Research (iDiv) 
+Halle-Jena-Leipzig, Leipzig, Germany.
+(8)Research Center for Civilization Diseases, Leipzig University, Leipzig, 
+Germany.
+(9)Facultad de Ciencias, Universidad Nacional de Colombia, Bogotá, Colombia.
+(10)Institute for Theoretical Chemistry, University of Vienna, Vienna, Austria.
+(11)Center for RNA in Technology and Health, University of Copenhagen, 
+Frederiksberg, Denmark.
+(12)Santa Fe Institute, Santa Fe, NM, United States.
+
+In all three domains of life, tRNA genes contain introns that must be removed to 
+yield functional tRNA. In archaea and eukarya, the first step of this process is 
+catalyzed by a splicing endonuclease. The consensus structure recognized by the 
+splicing endonuclease is a bulge-helix-bulge (BHB) motif which is also found in 
+rRNA precursors. So far, a systematic analysis to identify all biological 
+substrates of the splicing endonuclease has not been carried out. In this study, 
+we employed CRISPRi to repress expression of the splicing endonuclease in the 
+archaeon Haloferax volcanii to identify all substrates of this enzyme. 
+Expression of the splicing endonuclease was reduced to 1% of its normal level, 
+resulting in a significant extension of lag phase in H. volcanii growth. In the 
+repression strain, 41 genes were down-regulated and 102 were up-regulated. As an 
+additional approach in identifying new substrates of the splicing endonuclease, 
+we isolated and sequenced circular RNAs, which identified excised introns 
+removed from tRNA and rRNA precursors as well as from the 5' UTR of the gene 
+HVO_1309. In vitro processing assays showed that the BHB sites in the 5' UTR of 
+HVO_1309 and in a 16S rRNA-like precursor are processed by the recombinant 
+splicing endonuclease. The splicing endonuclease is therefore an important 
+player in RNA maturation in archaea.
+
+Copyright © 2020 Schwarz, Berkemer, Bernhart, Weiß, Ferreira-Cerca, Stadler and 
+Marchfelder.
+
+DOI: 10.3389/fmicb.2020.594838
+PMCID: PMC7714728
+PMID: 33329479
+
+
+177. Front Immunol. 2020 Nov 27;11:564099. doi: 10.3389/fimmu.2020.564099. 
+eCollection 2020.
+
+Phase I Trial of Fourth-Generation Anti-CD19 Chimeric Antigen Receptor T Cells 
+Against Relapsed or Refractory B Cell Non-Hodgkin Lymphomas.
+
+Zhou X(1), Tu S(1), Wang C(1), Huang R(1), Deng L(1), Song C(1), Yue C(1), He 
+Y(1), Yang J(1), Liang Z(1), Wu A(1), Li M(1), Zhou W(1), Du J(1), Guo Z(1), Li 
+Y(2), Jiao C(3), Liu Y(3), Chang LJ(3)(4), Li Y(1)(5).
+
+Author information:
+(1)Department of Hematology, Zhujiang Hospital, Southern Medical University, 
+Guangzhou, China.
+(2)Department of Hematology, Shantou Central Hospital, Shantou, China.
+(3)Department of Research and Development, Geno-Immue Medical Institute, 
+Shenzhen, China.
+(4)School of Medicine, University of Electronic Science and Technology of China, 
+Chengdu, China.
+(5)Bioland Laboratory (Guangzhou Regenerative Medicine and Health Guangdong 
+Laboratory), Guangzhou, China.
+
+BACKGROUND: The administration of second- or third-generation anti-CD19 chimeric 
+antigen receptor (CAR) T cells has remarkably improved the survival of patients 
+with relapsed or refractory B cell malignancies. However, there are limited 
+clinical results from fourth-generation CAR-T cell therapy, and the factors 
+affecting response rate and survival have not been fully determined.
+METHODS: Lymphoma patients with progression or relapse after intensive 
+treatments, including hematopoietic stem cell transplantation, and life 
+expectancy >2 months were enrolled in the study. Peripheral lymphocytes were 
+collected through apheresis, and magnetically selected T cells were lentivirally 
+transduced with a 4th-generation CAR featuring an anti-CD19 CAR and the iCasp9 
+suicide switch (4SCAR19). The patients received 4SCAR19 T cell infusion after 
+approximately seven days of expansion and a conditioning regimen comprising 
+cyclophosphamide/fludarabine. The efficacy, safety, and risk factors were 
+evaluated.
+RESULTS: A total of 21 patients with relapsed/refractory B cell non-Hodgkin 
+lymphoma were enrolled and received 4SCAR19 T cell infusions at a median dose of 
+8.9×105 CAR-T cells/kg. The overall response rate was 67% [95% confidence 
+interval (CI), 43 to 85], with 43% of patients achieving a complete response and 
+24% having a partial response. The overall and complete response rates were 58 
+and 33% in the diffuse large B-cell lymphoma (DLBCL) group and 78 and 56% in the 
+non-DLBCL group, respectively. The median overall survival was 23.8 months (95% 
+CI, not reached), with a median follow-up of 13.7 months. Factors affecting 
+overall survival were International Prognostic Index (IPI), disease type, and 
+remission status after CAR-T cell treatment. The most common adverse events of 
+grade 3 or 4 during treatment were neutropenia (76%), leukopenia (71%), and 
+thrombocytopenia (29%). The incidence of cytokine release syndrome (CRS) was 
+14%, and all cases were grade 1. One patient developed grade 3 neurotoxicity. No 
+deaths were attributed to infusion of 4SCAR19 T cells, CRS, or neurotoxicity.
+CONCLUSIONS: In this study, patients with relapsed or refractory B cell 
+non-Hodgkin's lymphoma who received 4SCAR19 T cell therapy had durable responses 
+and few of adverse events. The IPI model is suitable for evaluating the 
+prognosis of patients receiving CAR-T cell therapy.
+TRIAL REGISTRATION: Chinese Clinical Trial Registry (http://www.chictr.org.cn): 
+ChiCTR-OOC-16007779.
+
+Copyright © 2020 Zhou, Tu, Wang, Huang, Deng, Song, Yue, He, Yang, Liang, Wu, 
+Li, Zhou, Du, Guo, Li, Jiao, Liu, Chang and Li.
+
+DOI: 10.3389/fimmu.2020.564099
+PMCID: PMC7731732
+PMID: 33329526 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+178. Front Plant Sci. 2020 Nov 19;11:558403. doi: 10.3389/fpls.2020.558403. 
+eCollection 2020.
+
+Nanovirus Disease Complexes: An Emerging Threat in the Modern Era.
+
+Lal A(1), Vo TTB(1), Sanjaya IGNPW(1), Ho PT(1), Kim JK(2), Kil EJ(1)(3), Lee 
+S(1).
+
+Author information:
+(1)Department of Integrative Biotechnology, Sungkyunkwan University, Suwon, 
+South Korea.
+(2)Research and Development Bureau, Chungcheongnam-do Agricultural Research and 
+Extension Services, Yesan, South Korea.
+(3)Department of Plant Medicals, Andong National University, Andong, South 
+Korea.
+
+Multipartite viruses package their genomic segments independently and mainly 
+infect plants; few target animals. Nanoviridae is a family of multipartite 
+single-stranded DNA plant viruses that individually encapsidate single-stranded 
+DNAs of approximately 1 kb and transmit them through aphids without replication 
+in the aphid vectors, thereby causing important diseases of leguminous crops and 
+banana. Significant findings regarding nanoviruses have recently been made on 
+important features, such as their multicellular way of life, the transmission of 
+distinct encapsidated genome segments through the vector body, evolutionary 
+ambiguities, mode of infection, host range and geographical distribution. This 
+review deals with all the above-mentioned features in view of recent advances 
+with special emphasis on the emergence of new species and recognition of new 
+host range of nanoviruses and aims to shed light on the evolutionary linkages, 
+the potentially devastating impact on the world economy, and the future 
+challenges imposed by nanoviruses.
+
+Copyright © 2020 Lal, Vo, Sanjaya, Ho, Kim, Kil and Lee.
+
+DOI: 10.3389/fpls.2020.558403
+PMCID: PMC7710663
+PMID: 33329624
+
+
+179. Front Pediatr. 2020 Nov 23;8:583877. doi: 10.3389/fped.2020.583877.
+eCollection  2020.
+
+New Therapeutics Options for Pediatric Neuromuscular Disorders.
+
+Flotats-Bastardas M(1), Hahn A(2).
+
+Author information:
+(1)Department of Pediatric Neurology, Saarland University Hospital, Homburg, 
+Germany.
+(2)Department of Child Neurology, University of Giessen, Giessen, Germany.
+
+Neuromuscular disorders (NMDs) of Childhood onset are a genetically 
+heterogeneous group of diseases affecting the anterior horn cell, the peripheral 
+nerve, the neuromuscular junction, or the muscle. For many decades, treatment of 
+NMDs has been exclusively symptomatic. But this has changed fundamentally in 
+recent years due to the development of new drugs attempting either to ameliorate 
+secondary pathophysiologic consequences or to modify the underlying genetic 
+defect itself. While the effects on the course of disease are still modest in 
+some NMDs (e.g., Duchenne muscular dystrophy), new therapies have substantially 
+prolonged life expectancy and improved motor function in others (e.g., spinal 
+muscular atrophy and infantile onset Pompe disease). This review summarizes 
+recently approved medicaments and provides an outlook for new therapies that are 
+on the horizon in this field.
+
+Copyright © 2020 Flotats-Bastardas and Hahn.
+
+DOI: 10.3389/fped.2020.583877
+PMCID: PMC7719776
+PMID: 33330280
+
+
+180. Front Public Health. 2020 Nov 19;8:604339. doi: 10.3389/fpubh.2020.604339. 
+eCollection 2020.
+
+Covid-19 Mortality: A Matter of Vulnerability Among Nations Facing Limited 
+Margins of Adaptation.
+
+De Larochelambert Q(1), Marc A(1), Antero J(1), Le Bourg E(2), Toussaint 
+JF(1)(3).
+
+Author information:
+(1)EA7329, Institute for Research in bioMedicine and Epidemiology of Sport 
+(IRMES), Paris, France.
+(2)Centre de Recherche sur la Cognition Animale (CRCA), Centre de Biologie 
+Intégrative (CBI Toulouse), Université de Toulouse, CNRS, UPS, Toulouse, France.
+(3)CIMS, Hôtel-Dieu, Assistance Publique-Hôpitaux de Paris, Paris, France.
+
+Comment in
+    Front Public Health. 2021 Apr 16;9:642825.
+
+Context: The human development territories have been severely constrained under 
+the Covid-19 pandemic. A common dynamics has been observed, but its propagation 
+has not been homogeneous over each continent. We aimed at characterizing the 
+non-viral parameters that were most associated with death rate. Methods: We 
+tested major indices from five domains (demography, public health, economy, 
+politics, environment) and their potential associations with Covid-19 mortality 
+during the first 8 months of 2020, through a Principal Component Analysis and a 
+correlation matrix with a Pearson correlation test. Data of all countries, or 
+states in federal countries, showing at least 10 fatality cases, were retrieved 
+from official public sites. For countries that have not yet finished the first 
+epidemic phase, a prospective model has been computed to provide options of 
+death rates evolution. Results: Higher Covid death rates are observed in the 
+[25/65°] latitude and in the [-35/-125°] longitude ranges. The national criteria 
+most associated with death rate are life expectancy and its slowdown, public 
+health context (metabolic and non-communicable diseases (NCD) burden vs. 
+infectious diseases prevalence), economy (growth national product, financial 
+support), and environment (temperature, ultra-violet index). Stringency of the 
+measures settled to fight pandemia, including lockdown, did not appear to be 
+linked with death rate. Conclusion: Countries that already experienced a 
+stagnation or regression of life expectancy, with high income and NCD rates, had 
+the highest price to pay. This burden was not alleviated by more stringent 
+public decisions. Inherent factors have predetermined the Covid-19 mortality: 
+understanding them may improve prevention strategies by increasing population 
+resilience through better physical fitness and immunity.
+
+Copyright © 2020 De Larochelambert, Marc, Antero, Le Bourg and Toussaint.
+
+DOI: 10.3389/fpubh.2020.604339
+PMCID: PMC7710830
+PMID: 33330343 [Indexed for MEDLINE]181. Front Cell Dev Biol. 2020 Nov 30;8:603306. doi: 10.3389/fcell.2020.603306. 
+eCollection 2020.
+
+Bone Morphogenetic Protein Signaling Restricts Proximodistal Extension of the 
+Ventral Fin Fold.
+
+Ka J(1), Kim JD(2)(3), Pak B(1), Han O(1), Choi W(1), Kim H(4), Jin SW(1)(2).
+
+Author information:
+(1)School of Life Sciences, Cell Logistics Research Center, Gwangju Institute of 
+Science and Technology, Gwangju, South Korea.
+(2)Yale Cardiovascular Research Center, Section of Cardiovascular Medicine, 
+Department of Internal Medicine, Yale School of Medicine, New Haven, CT, United 
+States.
+(3)Center for Cardiovascular Regeneration, Department of Cardiovascular 
+Sciences, Houston Methodist Research Institute, Houston, TX, United States.
+(4)Gwangju Institute of Science and Technology, Central Research Facilities, 
+Gwangju, South Korea.
+
+Unpaired fins, which are the most ancient form of locomotory appendages in 
+chordates, had emerged at least 500 million years ago. While it has been 
+suggested that unpaired fins and paired fins share structural similarities, 
+cellular and molecular mechanisms that regulate the outgrowth of the former have 
+not been fully elucidated yet. Using the ventral fin fold in zebrafish as a 
+model, here, we investigate how the outgrowth of the unpaired fin is modulated. 
+We show that Bone Morphogenetic Protein (BMP) signaling restricts extension of 
+the ventral fin fold along the proximodistal axis by modulating diverse aspects 
+of cellular behaviors. We find that lack of BMP signaling, either caused by 
+genetic or chemical manipulation, prolongs the proliferative capacity of 
+epithelial cells and substantially increases the number of cells within the 
+ventral fin fold. In addition, inhibition of BMP signaling attenuates the innate 
+propensity of cell division along the anteroposterior axis and shifts the 
+orientation of cell division toward the proximodistal axis. Moreover, abrogating 
+BMP signaling appears to induce excessive distal migration of cells within the 
+ventral fin fold, and therefore precipitates extension along the proximodistal 
+axis. Taken together, our data suggest that BMP signaling restricts the 
+outgrowth of the ventral fin fold during zebrafish development.
+
+Copyright © 2020 Ka, Kim, Pak, Han, Choi, Kim and Jin.
+
+DOI: 10.3389/fcell.2020.603306
+PMCID: PMC7734333
+PMID: 33330499
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+182. J Thromb Haemost. 2021 Jan;19 Suppl 1(Suppl 1):32-41. doi:
+10.1111/jth.15187.
+
+Application of a hemophilia mortality framework to the Emicizumab Global Safety 
+Database.
+
+Peyvandi F(1)(2), Mahlangu JN(3), Pipe SW(4), Hay CRM(5), Pierce GF(6), Kuebler 
+P(7), Kruse-Jarres R(8)(9), Shima M(10).
+
+Author information:
+(1)IRCCS Fondazione Ca' Granda Ospedale Maggiore Policlinico, Angelo Bianchi 
+Bonomi Hemophilia and Thrombosis Center, Milan, Italy.
+(2)Department of Pathophysiology and Transplantation, University of Milan, 
+Milan, Italy.
+(3)University of Witwatersrand and NHLS, Johannesburg, South Africa.
+(4)Departments of Pediatrics and Pathology, University of Michigan Medical 
+School, Ann Arbor, MI, USA.
+(5)University of Manchester, Manchester, UK.
+(6)World Federation of Hemophilia, Montreal, QC, Canada.
+(7)Genentech, Inc., South San Francisco, CA, USA.
+(8)University of Washington, Seattle, WA, USA.
+(9)Washington Center for Bleeding Disorders, Seattle, WA, USA.
+(10)Nara Medical University, Kashihara, Japan.
+
+BACKGROUND: As the first non-factor replacement therapy for persons with 
+congenital hemophilia A (PwcHA), emicizumab's safety profile is of particular 
+interest to the community.
+OBJECTIVES: We applied an algorithm for categorization of fatal events 
+contemporaneous to emicizumab using reporter-assessed causality documented in 
+the Roche Emicizumab Global Safety Database.
+PATIENTS/METHODS: All fatalities in PwcHA reported to the database (from 
+clinical trials, pre-market access, and spontaneous post-marketing reports) were 
+categorized into: associated with hemophilia A-hemorrhagic, thrombotic, human 
+immunodeficiency virus (HIV)/hepatitis C virus (HCV), hepatic (non-HCV); 
+associated with general population-trauma/suicide, non-HA-associated conditions; 
+or, unspecified. Reported cause of death was not reassessed.
+RESULTS: As of cut-off May 15, 2020, 31 fatalities in PwcHA taking emicizumab 
+were reported. Median age at death was 58 years; 51% had factor VIII inhibitors. 
+Fifteen fatalities were considered associated with HA; overall, the most 
+frequent category was hemorrhage (11/31). Of these, six had a history of 
+life-threatening bleeds, and four had a history of intracranial hemorrhage. The 
+remaining HA-associated fatalities were related to HIV/HCV (3/31) and other 
+hepatic causes (1/31). No cases were categorized as thrombotic. Of 10 cases 
+considered not associated with HA, two were categorized as cardiovascular 
+(non-thrombotic), five as infection/sepsis, and one each of trauma/suicide, 
+pulmonary, and malignancy. Six cases were unspecified.
+CONCLUSIONS: No unique risk of death was associated with emicizumab prophylaxis 
+in PwcHA. The data reveal that mortality in PwcHA receiving emicizumab was 
+primarily associated with hemorrhage or non-HA-associated conditions, and was 
+not reported by treaters to be related to emicizumab treatment.
+
+© 2020 The Authors. Journal of Thrombosis and Haemostasis published by Wiley 
+Periodicals LLC on behalf of International Society on Thrombosis and 
+Haemostasis.
+
+DOI: 10.1111/jth.15187
+PMCID: PMC7756327
+PMID: 33331041 [Indexed for MEDLINE]
+
+Conflict of interest statement: None of the authors received honoraria or fees 

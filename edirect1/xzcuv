@@ -1,0 +1,1000 @@
+
+We investigated the therapeutic potential of polymerized anthocyanin (PA) on a 
+nonalcoholic fatty liver disease (NAFLD) model in mice. C57BL/6 mice were fed a 
+high-fat diet (HFD) for 8 weeks to establish the NAFLD mouse model and randomly 
+divided into four groups: control diet (con), NAFLD mice treated with saline 
+(NAFLD), NAFLD mice treated with PA (PA), and NAFLD mice treated with orlistat 
+(Orlistat) for four weeks. Mice were euthanized at the end of the four weeks. 
+Total cholesterol (TC) and triglyceride (TG) levels were estimated, and 
+pathological changes in the liver, white adipose tissue, and signaling pathways 
+related to lipid metabolism were evaluated. Results revealed that the body, 
+liver, and white fat weight of the NAFLD group was significantly increased 
+compared to that of the con group, while that of the PA group showed significant 
+reduction. NAFLD led to an increase in blood lipids in mice (except for HDL). 
+Conversely, PA effectively reduced TC and LDL-C. Compared to the control group, 
+the degree of steatosis in the mice of PA group was decreased. Moreover, PA also 
+regulated the NAFLD signaling pathway. In agreement with improved lipid 
+deposition, PA supplementation inhibited the activation of inflammatory 
+pathways, depressing oxidative stress through increased antioxidant levels, and 
+increasing β-oxidation to inhibit mitochondrial dysfunction. Taken together, our 
+results demonstrate that PA can improve the liver function of NAFLD mice, 
+regulating blood lipids, reducing liver-fat accumulation, and regulating lipid 
+metabolism.
+
+DOI: 10.3390/nu11112586
+PMCID: PMC6893447
+PMID: 31717842 [Indexed for MEDLINE]
+
+Conflict of interest statement: We wish to confirm that there are no known 
+conflicts of interest associated with this publication, and there has been no 
+significant financial support for this work that could have influenced its 
+outcome.
+
+
+91. Prep Biochem Biotechnol. 2020;50(3):281-291. doi:
+10.1080/10826068.2019.1689509.  Epub 2019 Nov 13.
+
+High yield expression, characterization, and biological activity of IFNα2-Tα1 
+fusion protein.
+
+Aslam MS(1), Gull I(1), Mahmood MS(1), Iqbal MM(1), Abbas Z(2), Tipu I(3), Ahmed 
+A(4), Athar MA(1).
+
+Author information:
+(1)Institute of Biochemistry and Biotechnology, University of the Punjab, 
+Lahore, Pakistan.
+(2)Department of Microbiology and Molecular Genetics, University of the Punjab, 
+Lahore, Pakistan.
+(3)Department of Life Sciences, School of Sciences, University of Management and 
+Technology, Lahore, Pakistan.
+(4)School of Biological Sciences, University of the Punjab, Lahore, Pakistan.
+
+The use of interferon α-2 in combination with thymosin α-1 shows higher 
+anti-cancer effect in comparison when both are used individually because of 
+their synergistic effects. In this study we produced an important human 
+interferon α-2-thymosin α-1 (IFNα2-Tα1) fusion protein with probable 
+pharmaceutical properties coupled to its high-level expression, 
+characterization, and study of its biological activity. The IFNα2-Tα1 fusion 
+gene was constructed by over-lap extension PCR and expressed in Escherichia coli 
+expression system. The expression of IFNα2-Tα1 fusion protein was optimized to 
+higher level and its maximum expression was obtained in modified terrific broth 
+medium when lactose was used as inducer. The fusion protein was refolded into 
+its native biologically active form with maximum yield of 83.14% followed by 
+purification with ∼98% purity and 69% final yield. A band of purified IFNα2-Tα1 
+fusion protein equal to ∼23 kDa was observed on 12 % SDS-PAGE gel. The integrity 
+of IFNα2-Tα1 fusion protein was confirmed by western blot analysis and secondary 
+structure was assessed by CD spectroscopy. When IFNα2-Tα1 fusion protein was 
+subjected to its biological activity analysis it was observed that it exhibits 
+both IFNα2 & Tα1 activities as well as significantly higher anticancer activity 
+as compared to IFNα-2 alone.
+
+DOI: 10.1080/10826068.2019.1689509
+PMID: 31718419 [Indexed for MEDLINE]
+
+
+92. BMC Public Health. 2019 Nov 12;19(1):1509. doi: 10.1186/s12889-019-7681-5.
+
+Optimal allocation of HIV resources among geographical regions.
+
+Kedziora DJ(1)(2)(3), Stuart RM(1)(4), Pearson J(5), Latypov A(6), Dierst-Davies 
+R(7), Duda M(6), Avaliani N(5), Wilson DP(1), Kerr CC(8)(9)(10).
+
+Author information:
+(1)Burnet Institute, Melbourne, Australia.
+(2)Department of Epidemiology and Preventive Medicine, Monash University, 
+Melbourne, Australia.
+(3)Complex Systems Group, School of Physics, University of Sydney, Sydney, 
+Australia.
+(4)Department of Mathematical Sciences, University of Copenhagen, Copenhagen, 
+Denmark.
+(5)Deloitte Consulting LLP, Arlington, USA.
+(6)Deloitte Consulting LLP, The USAID HIV Reform in Action Project, Kyiv, 
+Ukraine.
+(7)Deloitte Consulting LLP, San Francisco, USA.
+(8)Burnet Institute, Melbourne, Australia. cliff@optimamodel.com.
+(9)Complex Systems Group, School of Physics, University of Sydney, Sydney, 
+Australia. cliff@optimamodel.com.
+(10)Institute for Disease Modeling, Seattle, USA. cliff@optimamodel.com.
+
+BACKGROUND: Health resources are limited, which means spending should be focused 
+on the people, places and programs that matter most. Choosing the mix of 
+programs to maximize a health outcome is termed allocative efficiency. Here, we 
+extend the methodology of allocative efficiency to answer the question of how 
+resources should be distributed among different geographic regions.
+METHODS: We describe a novel geographical optimization algorithm, which has been 
+implemented as an extension to the Optima HIV model. This algorithm identifies 
+an optimal funding of services and programs across regions, such as multiple 
+countries or multiple districts within a country. The algorithm consists of 
+three steps: (1) calibrating the model to each region, (2) determining the 
+optimal allocation for each region across a range of different budget levels, 
+and (3) finding the budget level in each region that minimizes the outcome (such 
+as reducing new HIV infections and/or HIV-related deaths), subject to the 
+constraint of fixed total budget across all regions. As a case study, we applied 
+this method to determine an illustrative allocation of HIV program funding 
+across three representative oblasts (regions) in Ukraine (Mykolayiv, Poltava, 
+and Zhytomyr) to minimize the number of new HIV infections.
+RESULTS: Geographical optimization was found to identify solutions with better 
+outcomes than would be possible by considering region-specific allocations 
+alone. In the case of Ukraine, prior to optimization (i.e. with status quo 
+spending), a total of 244,000 HIV-related disability-adjusted life years (DALYs) 
+were estimated to occur from 2016 to 2030 across the three oblasts. With 
+optimization within (but not between) oblasts, this was estimated to be reduced 
+to 181,000. With geographical optimization (i.e., allowing reallocation of funds 
+between oblasts), this was estimated to be further reduced to 173,000.
+CONCLUSIONS: With the increasing availability of region- and even facility-level 
+data, geographical optimization is likely to play an increasingly important role 
+in health economic decision making. Although the largest gains are typically due 
+to reallocating resources to the most effective interventions, especially 
+treatment, further gains can be achieved by optimally reallocating resources 
+between regions. Finally, the methods described here are not restricted to 
+geographical optimization, and can be applied to other problems where competing 
+resources need to be allocated with constraints, such as between diseases.
+
+DOI: 10.1186/s12889-019-7681-5
+PMCID: PMC6849208
+PMID: 31718603 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+93. J Cardiothorac Surg. 2019 Nov 12;14(1):194. doi: 10.1186/s13019-019-1019-3.
+
+Long-term outcomes and predictors of recurrent aortic regurgitation after aortic 
+valve-sparing and reconstructive cusp surgery: a single centre experience.
+
+Karciauskas D(1), Mizariene V(2), Jakuska P(3), Ereminiene E(2), Vaskelyte 
+JJ(2), Nedzelskiene I(4), Kinduris S(3), Benetis R(3).
+
+Author information:
+(1)Department of Cardiac, Thoracic and Vascular Surgery, Medical Academy, 
+Lithuanian University of Health Sciences, A. Mickeviciaus g. 9, 44307, Kaunas, 
+LT, Lithuania. dainkar@gmail.com.
+(2)Department of Cardiology, Medical Academy, Lithuanian University of Health 
+Sciences, Kaunas, Lithuania.
+(3)Department of Cardiac, Thoracic and Vascular Surgery, Medical Academy, 
+Lithuanian University of Health Sciences, A. Mickeviciaus g. 9, 44307, Kaunas, 
+LT, Lithuania.
+(4)Department of Dental and Oral Diseases, Lithuanian University of Health 
+Sciences, Kaunas, Lithuania.
+
+BACKGROUND: Aortic valve sparing surgery (AVS), in combination with aortic cusp 
+repair (ACR), still raises many questions about the increased surgical 
+complexity and applicability for patients with pure aortic valve regurgitation 
+(AR). The aim of this study was to investigate our long-term outcomes and 
+predictors of recurrent AR (> 2+) after AVS and reconstructive cusp surgery.
+METHODS: We reviewed data of 81 patients who underwent AVS (a reimplantation 
+technique) with concomitant ACR for AR and or dilatation of the aortic root at 
+our institution during the period from April 2004 to October 2016. On 
+preoperative echocardiography, the majority of the patients, 70 (86.4%) 
+presented with severe AR grade (> 3+) and 28 (34.5%) of the patients had the 
+bicuspid phenotype. Time to event analysis (long-term survival, freedom from 
+reoperation, and recurrence of AR > 2+) was performed with the Kaplan-Meier 
+method. Multivariate Cox regression risk analysis was performed to identify 
+independent predictors of recurrent AR (> 2+). The mean follow-up was 
+5.3 ± 3.3 years and 100% complete.
+RESULTS: The in-hospital (30-day) mortality rate after elective surgery was 
+1.2%. The overall actuarial survival rates were 92.9 ± 3.1% and 90.4 ± 3.9% at 
+five and 10 years, respectively. Actuarial freedom from recurrent AR (> 2+) was 
+83.7 ± 4.5% within the cohort at five and 10 years. The cumulative freedom from 
+all causes of cardiac reoperation was 94.2 ± 2.8% within the cohort at 10 years. 
+Neither bleeding nor thromboembolic or permanent neurologic events were reported 
+during follow-up. By multivariate analysis, independent predictors of reccurent 
+AR (> 2+) were an effective height lower than 9 mm (p= 0.02) and intraoperative 
+residual mild AR (p= 0.0001).
+CONCLUSIONS: AVS with ACR, combined in a systematic fashion, is a safe and 
+reproducible option with low risk of long-term valve related events and normal 
+life expectancy for patients with pure aortic regurgitation. The competent 
+aortic valve and effective height, not lower than 9 mm intraoperatively, are 
+mandatory to achieve long-lasting AV competency.
+
+DOI: 10.1186/s13019-019-1019-3
+PMCID: PMC6852722
+PMID: 31718703 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+94. Mol Brain. 2019 Nov 12;12(1):94. doi: 10.1186/s13041-019-0512-x.
+
+Behavioral analysis in mice deficient for GAREM2 (Grb2-associated regulator of 
+Erk/MAPK subtype2) that is a subtype of highly expressing in the brain.
+
+Nishino T(1), Tamada K(2), Maeda A(1), Abe T(3), Kiyonari H(3), Funahashi Y(4), 
+Kaibuchi K(4), Takumi T(2)(5), Konishi H(6).
+
+Author information:
+(1)The Faculty of Life and Environmental Sciences, Prefectural University of 
+Hiroshima, 5562 Nanatsuka, Shobara, Hiroshima, 727-0023, Japan.
+(2)RIKEN Brain Science Institute, Wako, Saitama, 351-0198, Japan.
+(3)Laboratory for Animal Resources and Genetic Engineering, RIKEN Center for 
+Biosystems Dynamics Research, 2-2-3 Minatojima Minami-machi, Chuou-ku, Kobe, 
+650-0047, Japan.
+(4)Department of Cell Pharmacology, Nagoya University Graduate School of 
+Medicine, Nagoya, Aichi, 466-8550, Japan.
+(5)Department of Physiology and Cell Biology, Kobe University Graduate School of 
+Medicine, Chuo, Kobe, 650-0017, Japan.
+(6)The Faculty of Life and Environmental Sciences, Prefectural University of 
+Hiroshima, 5562 Nanatsuka, Shobara, Hiroshima, 727-0023, Japan. 
+hkonishi@pu-hiroshima.ac.jp.
+
+Grb2-associated regulator of Erk/MAPK (GAREM), is an adaptor protein related to 
+the several cell growth factor receptor-signaling. The GAREM family has two 
+subtypes, GAREM1 and GAREM2, both encoded in the human and mouse genome. Recent 
+genome-wide research identified GAREM2 as a candidate of neurodegenerative 
+diseases. Here, we use knockout (KO) mice to show the role of GAREM2, that is 
+highly expressed in the brain. According to the comprehensive behavioral 
+battery, they exhibited less anxiety both in elevated plus maze and open field 
+tests, mildly increased social approaching behavior in the reciprocal social 
+interaction test, and longer latency to immobility in the tail suspension test 
+as compared to wild-type (WT). Additionally, the extension of neurites in the 
+primary cultured neurons was suppressed in ones derived from GAREM2 KO mice. 
+Furthermore, we also identified Intersectin, as a binding partner of GAREM2 in 
+this study. Intersectin is also a multi-domain adaptor protein that regulates 
+endocytosis and cell signaling, which can potentially alter the subcellular 
+localization of GAREM2. The important molecules, such as the neurotrophin 
+receptor and Erk family, that are involved in the signaling pathway of the 
+neural cell growth in the mouse brain, have been reported to participate in 
+emotional behavior. As GAREM plays a role in the cellular growth factor receptor 
+signaling pathway, GAREM2 may have a common role related to the transduction of 
+Erk signaling in the higher brain functions.
+
+DOI: 10.1186/s13041-019-0512-x
+PMCID: PMC6852768
+PMID: 31718706 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+95. BMJ Open. 2019 Nov 11;9(11):e029449. doi: 10.1136/bmjopen-2019-029449.
+
+Study protocol for a randomised, double-blind, placebo-controlled study 
+evaluating the Efficacy of cannabis-based Medicine Extract in slowing the 
+disease pRogression of Amyotrophic Lateral sclerosis or motor neurone Disease: 
+the EMERALD trial.
+
+Urbi B(1)(2), Broadley S(1)(2), Bedlack R(3), Russo E(4), Sabet A(5)(2).
+
+Author information:
+(1)Neurology, Gold Coast Hospital and Health Service, Southport, Queensland, 
+Australia.
+(2)School of Medicine, Griffith University, Gold Coast, Queensland, Australia.
+(3)School of Medicine, Duke University, Durham, North Carolina, USA.
+(4)International Cannabis and Cannabinoids Institute, Prague, Czech Republic.
+(5)Neurology, Gold Coast Hospital and Health Service, Southport, Queensland, 
+Australia Arman.Sabet@health.qld.gov.au.
+
+INTRODUCTION: Amyotrophic lateral sclerosis (ALS) is a neurodegenerative 
+disorder with no known cure and with an average life expectancy of 3-5 years 
+post diagnosis. The use of complementary medicine such as medicinal cannabis in 
+search for a potential treatment or cure is common in ALS. Preclinical studies 
+have demonstrated the efficacy of cannabinoids in extending the survival and 
+slowing of disease progression in animal models with ALS. There are anecdotal 
+reports of cannabis slowing disease progression in persons with ALS (pALS) and 
+that cannabis alleviated the symptoms of spasticity and pain. However, a 
+clinical trial in pALS with these objectives has not been conducted.
+METHODS AND ANALYSIS: The Efficacy of cannabis-based Medicine Extract in slowing 
+the disease pRogression of Amyotrophic Lateral sclerosis or motor neurone 
+Disease trial is a randomised, double-blind, placebo-controlled cannabis trial 
+in pALS conducted at the Gold Coast University Hospital, Australia. The 
+investigational product will be a cannabis-based medicine extract (CBME) 
+supplied by CannTrust Inc., Canada, with a 
+high-cannabidiol-low-tetrahydrocannabinol concentration. A total of 30 pALS with 
+probable or definite ALS diagnosis based on the El Escorial criteria, with a 
+symptom duration of <2 years, age between 25 and 75years and with at least 70% 
+forced vital capacity (FVC) will be treated for 6 months. The primary objective 
+of the study is to evaluate the efficacy of CBME compared with placebo in 
+slowing the disease progression measured by differences in mean ALS Functional 
+Rating Scale-Revised and FVC score between the groups at the end of treatment. 
+The secondary objectives are to evaluate the safety and tolerability of CBME by 
+summarising adverse events, the effects of CBME on spasticity, pain, weight loss 
+and quality of life assessed by the differences in mean Numeric Rating Scale for 
+spasticity and Numeric Rating Scale for pain, percentage of total weight loss 
+and ALS specific quality of life-Revised questionnaire.
+ETHICS AND DISSEMINATION: The study has been approved by the local Institutional 
+Review Board. The results of this study will be published in a peer-reviewed 
+journal.
+TRIAL REGISTRATION NUMBER: NCT03690791.
+
+© Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2019-029449
+PMCID: PMC6858175
+PMID: 31719072 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: The investigational product 
+has been provided by CannTrust Inc.
+
+
+96. Nat Commun. 2019 Nov 12;10(1):5005. doi: 10.1038/s41467-019-12631-6.
+
+Economic value of protected areas via visitor mental health.
+
+Buckley R(1), Brough P(2), Hague L(2), Chauvenet A(2), Fleming C(2), Roche E(2), 
+Sofija E(2), Harris N(2).
+
+Author information:
+(1)Griffith University, Gold Coast, QLD, Australia, 4222. 
+r.buckley@griffith.edu.au.
+(2)Griffith University, Gold Coast, QLD, Australia, 4222.
+
+Erratum in
+    Nat Commun. 2019 Dec 10;10(1):5706.
+
+We evaluate methods to calculate the economic value of protected areas derived 
+from the improved mental health of visitors. A conservative global estimate 
+using quality-adjusted life years, a standard measure in health economics, is 
+US$6 trillion p.a. This is an order of magnitude greater than the global value 
+of protected area tourism, and two to three orders greater than global aggregate 
+protected area management agency budgets. Future research should: refine this 
+estimate using more precise methods; consider interactions between health and 
+conservation policies and budgets at national scales; and examine links between 
+personalities and protected area experiences at individual scale.
+
+DOI: 10.1038/s41467-019-12631-6
+PMCID: PMC6851373
+PMID: 31719526 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+97. Sci Rep. 2019 Nov 12;9(1):16641. doi: 10.1038/s41598-019-53052-1.
+
+Products of Chemoenzymatic Synthesis Representing MUC1 Tandem Repeat Unit with 
+T-, ST- or STn-antigen Revealed Distinct Specificities of Anti-MUC1 Antibodies.
+
+Yoshimura Y(1)(2), Denda-Nagai K(3), Takahashi Y(2), Nagashima I(4), Shimizu 
+H(4), Kishimoto T(1), Noji M(5), Shichino S(6), Chiba Y(2), Irimura T(7).
+
+Author information:
+(1)Japan Bioindustry Association, 2-26-9 Hatchobori, Chuo-ku, Tokyo, 104-0032, 
+Japan.
+(2)Biotechnology Research Institute for Drug Discovery, Department of Life 
+Science and Biotechnology, Advanced Industrial Science and Technology (AIST), 
+1-1-1 Umezono, Tsukuba, Ibaraki, 305-8568, Japan.
+(3)Division of Glycobiologics, Intractable Disease Research Center, Graduate 
+School of Medicine, Juntendo University, 2-1-1 Hongo, Bunkyo-ku, Tokyo, 
+113-8421, Japan. k-denda@juntendo.ac.jp.
+(4)Bioproduction Research Institute, Department of Life Science and 
+Biotechnology, Advanced Industrial Science and Technology (AIST), 1-1-1 Higashi, 
+Tsukuba, Ibaraki, 305-8568, Japan.
+(5)Division of Glycobiologics, Intractable Disease Research Center, Graduate 
+School of Medicine, Juntendo University, 2-1-1 Hongo, Bunkyo-ku, Tokyo, 
+113-8421, Japan.
+(6)Division of Molecular Regulation of Inflammatory and Immune Diseases, 
+Research Institute of Biomedical Sciences, Tokyo University of Science, 2641 
+Yamasaki, Noda, Chiba, 278-0022, Japan.
+(7)Division of Glycobiologics, Intractable Disease Research Center, Graduate 
+School of Medicine, Juntendo University, 2-1-1 Hongo, Bunkyo-ku, Tokyo, 
+113-8421, Japan. t-irimura@juntendo.ac.jp.
+
+Anti-mucin1 (MUC1) antibodies have long been used clinically in cancer diagnosis 
+and therapy and specific bindings of some of them are known to be dependent on 
+the differential glycosylation of MUC1. However, a systematic comparison of the 
+binding specificities of anti-MUC1 antibodies was not previously conducted. 
+Here, a total of 20 glycopeptides including the tandem repeat unit of MUC1, 
+APPAHGVTSAPDTRPAPGSTAPPAHGV with GalNAc (Tn-antigen), Galβ1-3GalNAc (T-antigen), 
+NeuAcα2-3Galβ1-3GalNAc (sialyl-T-antigen), or NeuAcα2-6GalNAc 
+(sialyl-Tn-antigen) at each threonine or serine residue were prepared by a 
+combination of chemical glycopeptide synthesis and enzymatic extension of 
+carbohydrate chains. These glycopeptides were tested by the enzyme-linked 
+immunosorbent assay (ELISA) for their capacity to bind 13 monoclonal antibodies 
+(mAbs) known to be specific for MUC1. The results indicated that anti-MUC1 mAbs 
+have diverse specificities but can be classified into a few characteristic 
+groups based on their binding pattern toward glycopeptides in some cases having 
+a specific glycan at unique glycosylation sites. Because the clinical 
+significance of some of these antibodies was already established, the structural 
+features identified by these antibodies as revealed in the present study should 
+provide useful information relevant to their further clinical use and the 
+biological understanding of MUC1.
+
+DOI: 10.1038/s41598-019-53052-1
+PMCID: PMC6851390
+PMID: 31719620 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+98. Interdiscip Toxicol. 2018 Aug;11(2):169-177. doi: 10.2478/intox-2018-0013.
+Epub  2019 Mar 2.
+
+Prophylactic efficacy of some chemoprotectants against abrin induced lethality.
+
+Saxena N(1), Bhutia YD(2), Kumar O(3), Phatak P(1), Kaul RK(1).
+
+Author information:
+(1)Division of Pharmacology & Toxicology, Defence Research Development & 
+Establishment, Defence Research Development Organization, Gwalior, India.
+(2)Division of Pharmaceutical Technology, Defence Research Laboratory, Solmara, 
+Tezpur, Assam, India.
+(3)Additional Director, Directorate of Low Intensity Conflicts, DRDO Bhawan, 
+Rajaji Marg, Ministry of Defence, New Delhi, India.
+
+Abrin is a highly toxic protein produced by Abrus precatorius. Exposure to 
+abrin, either through accident or by act of terrorism, poses a significant risk 
+to human health and safety. Abrin functions as a ribosome-inactivating protein 
+by depurinating the 28S rRNA and inhibits protein synthesis. It is a potent 
+toxin warfare agent. There are no antidotes available for abrin intoxication. 
+Supportive care is the only option for treatment of abrin exposure. It is 
+becoming increasingly important to develop countermeasures for abrin by 
+developing pre- and post-exposure therapy. The aim of this study is to screen 
+certain pharmaceutical compounds for their chemoprotective properties against 
+abrin toxicity in vivo in BALB/c male mice. Twenty-one compounds having either 
+antioxidant, anti-inflammatory and cyto-protective properties or combination of 
+them, were screened and administered as 1h pre-treatment followed by exposure of 
+lethal dose (2×LD50, intraperitoneally) of abrin. To assess the protective 
+efficacy of the compounds, survival and body weight was monitored. Fifteen 
+compounds extended the survival time of animals significantly, as compared to 
+abrin. The following five of these compounds, namely: Epicatechin-3-gallate, 
+Gallic Acid, Lipoic Acid, GSH and Indomethacin extended the life time ranging 
+from 6 to 9 days. These compounds also attenuated the abrin induced inflammation 
+and enzymes associated with liver function, but none of them could prevent abrin 
+induced lethality. The compounds offering extension of life could be useful to 
+provide a time-window for other supportive treatment and could also be used as 
+combinatorial therapy with other medical countermeasures against abrin induced 
+lethality.
+
+Copyright © 2018 SETOX & Institute of Experimental Pharmacology and Toxicology, 
+SASc.
+
+DOI: 10.2478/intox-2018-0013
+PMCID: PMC6829683
+PMID: 31719788
+
+
+99. Cureus. 2019 Sep 15;11(9):e5660. doi: 10.7759/cureus.5660.
+
+In-hospital Outcomes and Characteristics of Heart Failure in Sickle Cell 
+Disease.
+
+Fadiran O(1), Balogun AF(1), Ogunti R(1), Buhari O(2), Lanka C(1), Atanda A(3), 
+Larbi DA(1), Prafulla M(4).
+
+Author information:
+(1)Internal Medicine, Howard University Hospital, Washington, USA.
+(2)Internal Medicine, Wake Forest Baptist Medical Center, Winston-Salem, USA.
+(3)Cardiovascular Disease, George Washington University Hospital, Washington, 
+USA.
+(4)Cardiovascular Disease, Howard University Hospital, Washington, USA.
+
+Sickle cell disease (SCD) predominantly affects African-Americans (AAs) in the 
+United States (US). Due to increasing life expectancy in developed countries, 
+SCD-associated cardiomyopathy is typically seen in adults. The aim of this study 
+was to distinguish hospitalization for this phenotype from traditional heart 
+failure (HF) in AAs. We used the National Inpatient Sample (NIS) database to 
+identify HF hospitalizations in AAs between 2005 and 2014 and stratified them 
+according to SCD status. We compared the characteristics and outcomes before and 
+after matching in a 1:3 ratio for age, gender, insurance, smoking status and 
+admission year. Amongst the 1,195,718 HF admissions in AAs, SCD accounted for 
+7835. The age (mean ± SD) in the SCD cohort was significantly younger (45.66 ± 
+13.2) vs non-SCD (64.8 ± 15.2), p<0.001. SCD adults had significantly higher 
+rates of pulmonary hypertension (PH), deep vein thrombosis, and pulmonary 
+embolism while non-SCD adults had higher rates of cardiogenic shock and 
+respiratory failure requiring intubation. The national hospitalization rate for 
+HF in AAs increased from 151 to 257 per million between 2005 and 2011 before 
+declining to 241 per million in 2014. There was a decrease in in-hospital 
+mortality in AAs from 4.8% in 2005 to 3.6% in 2014. We also identified 
+independent predictors of in-hospital mortality in SCD with HF. In conclusion, 
+we described hospitalizations for an emerging heart failure phenotype in AAs. 
+Although there is a national decreasing rate of HF hospitalizations in the US, 
+this may not be reflective of the AA population.
+
+Copyright © 2019, Fadiran et al.
+
+DOI: 10.7759/cureus.5660
+PMCID: PMC6823030
+PMID: 31720136
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+100. Respir Med Case Rep. 2019 Oct 25;28:100960. doi: 10.1016/j.rmcr.2019.100960.
+ eCollection 2019.
+
+Long-term tolerance of a fractured self-expanding metal stent in a patient with 
+adenoid cystic carcinoma.
+
+Ho S(1), Goh SK(1), Ng AW(1), Tai DY(1), Lim AY(1), Kor AC(1), Sien Zin NN(1), 
+Abisheganaden J(1), Verma A(1).
+
+Author information:
+(1)Department of Respiratory and Critical Care Medicine, Tan Tock Seng Hospital, 
+308433, Singapore.
+
+Self-expanding metals stent are used for recanalization of malignant CAO. 
+Fracture of such a stent has been described. This prompts its removal. However 
+removal of a metal stent is difficult and can be hazardous. Due to this US FDA 
+advisory was released against their insertion in benign diseases where long life 
+expectancy can expose the patients to the complications of prolonged indwelling 
+time of these stents. We describe a case of adenoid cystic carcinoma who 
+required SEMS placement for tracheal obstruction. However, stent fracture 
+developed soon after its insertion causing patient to cough out stent pieces 
+multiple times. In view of the challenge associated with removal of metal stent 
+fixed to the tracheal walls at its proximal and distal ends, the stent was left 
+in-situ. Patient has tolerated the fractured stent for 1-year and remains on 
+follow-up without any complication or adverse event. This illustrates the 
+long-term tolerance and safety of a fractured stent and helps to allay anxiety 
+associated with this complication.
+
+© 2019 The Authors. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.rmcr.2019.100960
+PMCID: PMC6838518
+PMID: 31720207
+
+Conflict of interest statement: S.H., S.K.G., A.W.K.N., D.Y.H.T., A.L.Y.H., 
+A.C.K., N.N.S.Z, J.A. and A.V have no competing financial interests to disclose.
+
+
+101. Eur Arch Otorhinolaryngol. 2020 Feb;277(2):577-584. doi: 
+10.1007/s00405-019-05714-z. Epub 2019 Nov 12.
+
+Cost-effectiveness analysis of gemcitabine plus cisplatin versus fluorouracil 
+plus cisplatin in the first-line setting for Chinese patients with metastatic 
+nasopharyngeal carcinoma.
+
+Jin C(1), Zheng H(1), Zhan M(1), Wen F(2)(3), Xu T(4).
+
+Author information:
+(1)Department of Clinical Pharmacy, West China Hospital, Sichuan University, 
+Chengdu, China.
+(2)Department of Medical Oncology, Cancer Center, West China Hospital, Sichuan 
+University, Chengdu, China.
+(3)West China Biostatistics and Cost-Benefit Analysis Center, Sichuan 
+University, Chengdu, China.
+(4)Department of Clinical Pharmacy, West China Hospital, Sichuan University, 
+Chengdu, China. tingx2009@163.com.
+
+PURPOSE: A randomized phase III trial demonstrated that gemcitabine plus 
+cisplatin (GP) prolonged progression-free survival and overall survival compared 
+with fluorouracil plus cisplatin (FP) as first-line chemotherapy in patients 
+with metastatic nasopharyngeal carcinoma (NPC). The cost-effectiveness analysis 
+was designed to identify the economic option for metastatic NPC from a Chinese 
+societal perspective.
+METHODS: We established a Markov model that involved three health states 
+representing the stages of disease to simulate therapy. Survival data of 
+clinical outcomes were derived from the trial and adjusted to quality-adjusted 
+life years (QALYs). Transition probabilities and health utilities were obtained 
+from the clinical trial and published literatures. The cost-effective strategy 
+was estimated for these treatments using a willing-to-pay (WTP) threshold. A 
+one-way sensitivity analysis was conducted to study the influences of 
+parameters.
+RESULTS: GP treatment group produced a gain of 0.37 QALYs with an incremental 
+cost of $2520.80, yielding an incremental cost-effectiveness ratio (ICER) of 
+$6812.97 per QALY, compared with FP treatment ($15,530.96 versus $13,010.16). 
+The ICER was lower than the accepted WTP threshold, which was 3 times gross 
+domestic product per capita of China ($25,749 per QALY).
+CONCLUSION: GP regimen is more cost-effective compared with FP regimen as the 
+first-line treatment for Chinese patients with metastatic NPC.
+
+DOI: 10.1007/s00405-019-05714-z
+PMID: 31720816 [Indexed for MEDLINE]
+
+
+102. Eur J Health Econ. 2020 Apr;21(3):335-349. doi: 10.1007/s10198-019-01134-2.
+Epub  2019 Nov 12.
+
+Cost-effectiveness analysis of the Neuropad device as a screening tool for early 
+diabetic peripheral neuropathy.
+
+Rodríguez-Sánchez B(1), Peña-Longobardo LM(2), Sinclair AJ(3).
+
+Author information:
+(1)Faculty of Law and Social Sciences, University of Castilla-La Mancha, Calle 
+San Pedro Mártir 7, 45002, Toledo, Spain. beatriz.rsanchez@uclm.es.
+(2)Faculty of Law and Social Sciences, University of Castilla-La Mancha, Calle 
+San Pedro Mártir 7, 45002, Toledo, Spain.
+(3)Foundation for Diabetes Research in Older People, Diabetes Frail Ltd, 
+University of Aston, Birmingham, UK.
+
+OBJECTIVE: To carry out a cost-effectiveness analysis of the use of Neuropad as 
+a screening test for diabetic neuropathy together with the standard care tool, 
+the 10-g monofilament, in people with diabetes.
+RESEARCH DESIGN AND METHODS: A cost-effectiveness analysis using a Markov model 
+was developed to assess the impact on costs and outcomes of using Neuropad as a 
+test for diabetic neuropathy (1) as a complement to the standard test, the 10-g 
+monofilament (Neuropad + monofilament vs. monofilament); and (2) as a substitute 
+for the monofilament (Neuropad vs. monofilament); from the healthcare provider 
+perspective. The time horizon was 3 years. Data on costs and health gains were 
+extracted from the literature. The incremental cost-utility ratio was 
+calculated. Deterministic and probabilistic sensitivity analyses were also 
+performed.
+RESULTS: Compared with standard care, Neuropad, in combination with the 10-g 
+monofilament tool, is the dominant strategy as it leads to higher health gains 
+and lower costs. In practice, compared with using the monofilament alone, 
+performing both tests would lead to a savings of £1049.26 per patient and 0.044 
+QALY gain. Results were found to be consistent across the sensitivity analyses.
+CONCLUSIONS: Using both screening tools (Neuropad + monofilament) is a 
+cost-effective strategy and the dominant alternative, when compared against 
+using the 10-g monofilament alone. The results would be of special relevance in 
+the early detection of diabetic peripheral neuropathy and to ensure the 
+efficient allocation of resources and, thus, the sustainability of healthcare 
+systems.
+
+DOI: 10.1007/s10198-019-01134-2
+PMID: 31720872 [Indexed for MEDLINE]
+
+
+103. Expert Rev Clin Immunol. 2019 Dec;15(12):1249-1262. doi: 
+10.1080/1744666X.2020.1693262. Epub 2019 Nov 21.
+
+An overview of T follicular cells in transplantation: spotlight on their 
+clinical significance.
+
+Niu Q(1)(2), Kraaijeveld R(2), Li Y(1), Mendoza Rojas A(2), Shi Y(1), Wang L(1), 
+Van Besouw NM(2), Baan CC(2).
+
+Author information:
+(1)Department of Laboratory Medicine/Research Centre of Clinical Laboratory 
+Medicine, West China Hospital, Sichuan University, Chengdu, China.
+(2)Department Internal Medicine - Sector Nephrology & Transplantation, The 
+Rotterdam Transplant Group, Erasmus MC-University Medical Centre, Rotterdam, The 
+Netherlands.
+
+Introduction: For late stage organ failure patients, transplantation is the best 
+option to increase life expectancy with a superior quality of life. 
+Unfortunately, after transplantation many patients are at risk of cellular and 
+antibody-mediated rejection (ABMR). The latter is initiated by donor specific 
+antibodies (DSA) which depend on the actions of B cells, T follicular helper 
+(Tfh) cells and T follicular regulatory (Tfr) cells that are present in the 
+germinal center of lymphoid organs.Areas covered: In this overview paper, we 
+discuss the biology and function of Tfh and Tfr cells in lymphoid tissues, 
+transplanted organs and their circulating counterparts. We report on their 
+relevance to alloimmunity and on the effects of immunosuppressive drugs on these 
+immunocompetent cell populations.Expert opinion: Growing knowledge about the 
+actions of Tfh and Tfr allows for a better understanding of the immunological 
+mechanisms of ABMR after organ transplantation. This understanding feeds the 
+hypothesis that immunosuppressive drugs targeting the actions of Tfh cells have 
+huge therapeutic potential. This new concept in the treatment of the humoral 
+rejection response will improve graft and patient survival after organ 
+transplantation.
+
+DOI: 10.1080/1744666X.2020.1693262
+PMID: 31721600 [Indexed for MEDLINE]
+
+
+104. Expert Rev Clin Immunol. 2019 Dec;15(12):1239-1248. doi: 
+10.1080/1744666X.2020.1693261. Epub 2019 Nov 19.
+
+Lanadelumab for the prevention of attacks in hereditary angioedema.
+
+Valerieva A(1), Senter R(2), Wu MA(3), Zanichelli A(3), Cicardi M(3)(4).
+
+Author information:
+(1)Department of Allergology, Medical University of Sofia, Sofia, Bulgaria.
+(2)Department of Medicine, University of Padua, Padova, Italy.
+(3)Biomedical and Clinical Sciences, University of Milan, Milan, Italy.
+(4)Rehabilitation and Internal Medicine Department, IRCCS Istituti Clinici 
+Scientifici Maugeri, Milan, Italy.
+
+Introduction: Hereditary angioedema (HAE) with C1 esterase inhibitor deficiency 
+(C1-INH-HAE) is a rare disease that manifests with cutaneous and/or submucosal 
+swellings due to uncontrolled activation of the contact/kinin system. Attacks 
+recur with unpredictable frequency and severity, laryngeal edema is potentially 
+lethal, and the disease burden may severely disrupt patients' lives.Areas 
+covered: This review provides an overview of lanadelumab, a human monoclonal 
+antibody targeted against plasma kallikrein that was recently approved for 
+prevention of symptoms in C1-INH-HAE.Expert opinion: The phase III HELP Study 
+demonstrated the efficacy of lanadelumab in reducing HAE attacks. These positive 
+results are being further confirmed in the open-label extension study. This 
+agent addresses some of the limitations of existing prophylactic options as 
+tolerability issues, the need for intravenous administration and frequent 
+dosing. Therefore, lanadelumab can profoundly improve the quality of life of 
+patients with C1-INH-HAE.
+
+DOI: 10.1080/1744666X.2020.1693261
+PMID: 31721602 [Indexed for MEDLINE]
+
+
+105. N Engl J Med. 2019 Nov 14;381(20):1918-1928. doi: 10.1056/NEJMoa1816594.
+
+Trial of Apremilast for Oral Ulcers in Behçet's Syndrome.
+
+Hatemi G(1), Mahr A(1), Ishigatsubo Y(1), Song YW(1), Takeno M(1), Kim D(1), 
+Melikoğlu M(1), Cheng S(1), McCue S(1), Paris M(1), Chen M(1), Yazici Y(1).
+
+Author information:
+(1)From Istanbul University-Cerrahpaşa, Cerrahpaşa Medical School and Behçet's 
+Disease Research Center, Istanbul, Turkey (G.H., M.M.); Hospital Saint-Louis, 
+University Paris Diderot, Paris (A.M.); Yokohama City University Graduate School 
+of Medicine, Yokohama (Y.I.), and Nippon Medical School, Graduate School of 
+Medicine, Tokyo (M.T.) - both in Japan; Seoul National University and Seoul 
+National University Hospital (Y.-W.S.) and Yonsei University College of Medicine 
+and Severance Hospital (D.K.), Seoul, South Korea; Celgene, Summit, NJ (S.C., 
+S.M., M.P., M.C.); and New York University School of Medicine, New York (Y.Y.).
+
+BACKGROUND: The small-molecule phosphodiesterase 4 inhibitor apremilast 
+modulates cytokines that are up-regulated in Behçet's syndrome. In a phase 2 
+trial involving patients with Behçet's syndrome, apremilast reduced the 
+incidence and severity of oral ulcers. Data on the efficacy and safety of 
+apremilast in patients with Behçet's syndrome who had active oral ulcers and had 
+not previously received biologic agents are limited.
+METHODS: In a phase 3 trial, we randomly assigned, in a 1:1 ratio, patients who 
+had Behçet's syndrome with active oral ulcers but no major organ involvement to 
+receive either apremilast at a dose of 30 mg or placebo, administered orally, 
+twice daily for 12 weeks, followed by a 52-week extension phase. The primary end 
+point was the area under the curve (AUC) for the total number of oral ulcers 
+during the 12-week placebo-controlled period (with lower values indicating fewer 
+ulcers). There were 13 secondary end points, including complete response of oral 
+ulcers, change from baseline in pain associated with oral ulcers, disease 
+activity, and change from baseline in the Behçet's Disease Quality of Life score 
+(range, 0 to 30, with higher scores indicating greater impairment in quality of 
+life). Safety was also assessed.
+RESULTS: A total of 207 patients underwent randomization (104 patients to the 
+apremilast group and 103 to the placebo group). The AUC for the number of oral 
+ulcers was 129.5 for apremilast, as compared with 222.1 for placebo 
+(least-squares mean difference, -92.6; 95% confidence interval [CI], -130.6 to 
+-54.6; P<0.001). The change from baseline in the Behçet's Disease Quality of 
+Life score was -4.3 points in the apremilast group, as compared with -1.2 points 
+in the placebo group (least-squares mean difference, -3.1 points; 95% CI, -4.9 
+to -1.3). Adverse events with apremilast included diarrhea, nausea, and 
+headache.
+CONCLUSIONS: In patients with oral ulcers associated with Behçet's syndrome, 
+apremilast resulted in a greater reduction in the number of oral ulcers than 
+placebo but was associated with adverse events, including diarrhea, nausea, and 
+headache. (Funded by Celgene; ClinicalTrials.gov number, NCT02307513.).
+
+Copyright © 2019 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa1816594
+PMID: 31722152 [Indexed for MEDLINE]
+
+
+106. Syst Rev. 2019 Nov 13;8(1):274. doi: 10.1186/s13643-019-1189-z.
+
+Mapping evidence on the burden and distribution of childhood obesity in 
+sub-Saharan Africa: a scoping review protocol.
+
+Danquah FI(1), Yeboah M(1), Bawontuo V(1)(2), Kuupiel D(3)(4).
+
+Author information:
+(1)Faculty of Health and Allied Sciences, Catholic University College of Ghana, 
+Fiapre, Sunyani, Ghana.
+(2)Research for Sustainable Development Consult, Sunyani, Ghana.
+(3)Research for Sustainable Development Consult, Sunyani, Ghana. 
+desmondkuupie98@hotmail.com.
+(4)Discipline of Public Health Medicine, School of Nursing and Public Health, 
+University of KwaZulu-Natal, Durban, South Africa. desmondkuupie98@hotmail.com.
+
+BACKGROUND: Obesity in childhood is associated with adverse health outcomes and 
+complications throughout the life-span of a child. Available evidence suggests a 
+dramatic increase in childhood obesity in sub-Saharan Africa (SSA) over the past 
+two decades. The health risks associated with obesity/overweight are 
+particularly problematic in children due to the potential for long-term health 
+concerns. The researchers propose to conduct a systematic scoping review to map 
+evidence on the burden and distribution of childhood obesity in SSA.
+METHODS: The study will be guided by the scoping review framework proposed by 
+Arksey and O'Malley. A comprehensive literature search will be performed in the 
+following electronic databases: PubMed, Web of Science, African Index Medicus, 
+and CINAHL with full text via EBSCOhost platform. Primary studies both published 
+in peer-reviewed journals and gray literature such as unpublished studies, 
+thesis, and studies in press addressing the research topic will be included. One 
+reviewer will conduct title screening, and the results will be exported to 
+Mendeley Desktop library. Two independent reviewers will perform both abstract 
+and full article screening in parallel as well as data extraction from eligible 
+studies. The Preferred Reporting Items for Systematic Reviews and Meta-analysis: 
+Extension for Scoping Review (PRISMA-ScR) will be utilized to present the study 
+findings of the proposed scoping review. NVivo version 11.0 will be used to 
+extract the relevant outcomes from the included studies, a content thematic 
+analysis performed, and the results reported using a narrative approach. The 
+Mixed Method Quality Appraisal Tool Version 2018 will be used to assess the 
+methodological quality of all included studies.
+DISCUSSION: We anticipate that the proposed study will contribute to the 
+existing body of knowledge on childhood obesity, identify gaps in knowledge on 
+the topic, inform future research direction, and provide evidence-based 
+information to strengthen health systems and policies on childhood obesity 
+towards achieving the WHO global target of halting the rise in obesity by 2025.
+
+DOI: 10.1186/s13643-019-1189-z
+PMCID: PMC6868500
+PMID: 31722737 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+107. Gates Open Res. 2019 Apr 2;3:1110. doi: 10.12688/gatesopenres.12906.1. 
+eCollection 2019.
+
+The benefits of family planning (FP) use in Benin: an application of the 
+Demographic Dividend Model (DemDiv).
+
+Dansou J(1).
+
+Author information:
+(1)Pan African University Institute for Life and Earth Sciences, University of 
+Ibadan, Ibadan, Nigeria.
+
+Background: Despite the increasing interest in improving access to and 
+utilization of family planning (FP) methods, contraceptives prevalence rates 
+remain low in Benin, and its benefits are not well studied. This study projected 
+FP's benefits for maternal health and child survival over the Sustainable 
+Development Goals period. Methods: The Demographic Dividend Model created by the 
+Health Policy Project using a large range of data was applied based exclusively 
+on assumptions on FP policy options between 2015 and 2030. Results: It was found 
+that, under the base scenario with no improvements in FP, education and economic 
+variables, however unrealistic, the number of children per Beninese woman would 
+be the same in 2030 as it was in 2015 - about 4.5 children per woman. Benin's 
+age structure would remain very young and be dominated by dependents. But, 
+FP-scenarios of improvements in contraceptive variables alone showed a negative 
+and linear relationship between FP use and maternal and child deaths. Under the 
+optimistic scenario, increasing access to and use of FP alone from 7.9% (2015) 
+to 33.95% (2030) will save lives of about 200,000 under five year children and 
+10,000 mothers by 2030. In addition, the average number of children per woman 
+will fall to 3.5 increasing female life expectancy by 5 years. Benin's age 
+structure will be balanced with more working age people. The country will also 
+record an increase in its human development indicator. Conclusion: To accelerate 
+progresses towards improvement of maternal health and child survival, and get on 
+track in meeting related health targets of SDGs, the present study revealed the 
+importance of strengthening actions toward access to and use of FP in Benin 
+Republic. There is also a need to strengthen education and economic policies to 
+successfully harness the demographic dividend.
+
+Copyright: © 2019 Dansou J.
+
+DOI: 10.12688/gatesopenres.12906.1
+PMCID: PMC6826173
+PMID: 31723727
+
+Conflict of interest statement: No competing interests were disclosed.
+
+
+108. Hemasphere. 2019 Jun 4;3(3):e208. doi: 10.1097/HS9.0000000000000208.
+eCollection  2019 Jun.
+
+EHA Research Roadmap on Hemoglobinopathies and Thalassemia: An Update.
+
+Iolascon A(1), De Franceschi L(2), Muckenthaler M(3), Taher A(4), Rees D(5), de 
+Montalembert M(6)(7), Rivella S(8), Eleftheriou A(9), Cappellini MD(10).
+
+Author information:
+(1)Department of Molecular Medicine and Medical Biotechnology, University 
+Federico II of Naples, Naples, Italy.
+(2)Department of Medicine University of Verona, AOUI Verona, Verona, Italy.
+(3)Department of Pediatric Hematology, Oncology and Immunology, University of 
+Heidelberg, Heidelberg, Germany.
+(4)Division of Hematology and Oncology, Department of Internal Medicine, 
+American University of Beirut Medical Center, Beirut, Lebanon.
+(5)Department of Paediatric Haematology, King's College Hospital, London, UK.
+(6)Department of Pediatrics, Necker-Enfants Malades Hospital, Paris, France.
+(7)Descartes University, Labex-GR-Ex, Paris, France.
+(8)Division of Hematology, Department of Pediatrics, The Children's Hospital of 
+Philadelphia (CHOP), Philadelphia, PA, USA.
+(9)Thalassaemia International Federation, Nicosia, Cyprus.
+(10)Department of Clinical Sciences and Community, University of Milan, IRCCS 
+Ca' Granda Foundation Maggiore Policlinico Hospital, Milan, Italy.
+
+The inherited disorders of hemoglobin, which include sickle cell disease and 
+thalassemias, are the most common and widespread distributed monogenic 
+disorders. Due to a selective advantage in malaria regions, these hemoglobin 
+defects are particularly frequent in Africa, Asia, or in the Mediterranean 
+areas, where malaria was endemic until the last century. In recent decades, the 
+globalization of migration has contributed to generate multiethnic European 
+societies. Due to migration from countries or regions with high hemoglobinopathy 
+frequencies such as Africa, Middle East, or Asia, large numbers of patients with 
+these disorders are living in almost every European country today. Furthermore, 
+the numbers are increasing because of increasing refugee flows toward Europe. 
+Additional requirements are the development of European recommendations and 
+guidelines for diagnosis and effective therapeutic approaches. These, together 
+with the advancement of clinical trials using new drugs and therapeutic 
+procedures could ameliorate the quality of life of patients affected with these 
+diseases and increase their life expectancy. Lastly, coordinated efforts should 
+be made to develop diagnostic pathways for thalassemias and hemoglobinopathies, 
+in order to plan interventions, including prenatal diagnosis and cure. For these 
+reasons, the development of new tools to reliably diagnose anemias is urgently 
+needed and fits well with the needs of personalized medicine. In the last 15 
+years, hematology research has made many big leaps forward. Our general aim will 
+be to solve several hematologic problems using these new approaches. We expect 
+that the development of such a diagnostic tool will improve timely diagnosis 
+throughout Europe, especially in those countries where it is difficult to gain 
+access to "classical" diagnostic tests.
+
+Copyright © 2019 the Author(s). Published by Wolters Kluwer Health, Inc. on 
+behalf of the European Hematology Association.
+
+DOI: 10.1097/HS9.0000000000000208
+PMCID: PMC6746021
+PMID: 31723835
+
+
+109. J Gerontol A Biol Sci Med Sci. 2019 Nov 13;74(Suppl_1):S27-S31. doi: 
+10.1093/gerona/glz214.
+
+A Comparison of Variances in Age Cohorts to Understand Longevity in African 
+Americans.
+
+Whitfield KE(1), Forrester S(2), Thorpe RJ(3).
+
+Author information:
+(1)Wayne State University, Detroit, Michigan.
+(2)Quantitative Health Sciences, University of Massachusetts Medical School, 
+Worcester.
+(3)Hopkins Center for Health Disparities Solutions, Johns Hopkins University, 
+Baltimore, Maryland.
+
+BACKGROUND: African American life expectancy at age 65 is about 2 years less 
+than that of Caucasians, but by age 85, African Americans may have a longevity 
+advantage. One possible explanation for this cross-over effect is that African 
+Americans who make it to the oldest ages have done so by handling stressful 
+contextual and health disadvantages. The purpose of this study was to examine 
+possible within group cohort differences that lead to exceptional longevity 
+among older African Americans.
+METHODS: Data came from three cohorts of older African Americans: the Carolina 
+African American Twin Study of Aging (CAATSA), the Baltimore Study of Black 
+Aging-Patterns of Cognitive Aging (BSBA-PCA), and the Study of Longevity and 
+Stress in African American Families (SOLSAA). Of the 533 participants, we 
+compared two age cohorts (60-79 and 80+) with an average age of 73.2 (SD = 8.33) 
+and 26.3% are men. Variables included measures of stress, depression, coping, 
+cognition, and health indicators.
+RESULTS: The variance for depression and average peak expiratory flow (APEF) was 
+significantly larger for the older cohort but after controlling for demographic 
+factors, the measure of depressive symptoms was not. The Alpha Span test showed 
+a significant difference with the older cohort having larger variances after 
+controlling for demographic factors.
+CONCLUSIONS: The findings suggest that there are changes in the characteristics 
+of who makes it to later life, but counter to our hypothesis, there was greater 
+variability in the oldest group relative to the younger.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of The 
+Gerontological Society of America. All rights reserved. For permissions, please 
+e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/gerona/glz214
+PMCID: PMC6853784
+PMID: 31724054 [Indexed for MEDLINE]
+
+
+110. J Gastrointest Surg. 2020 Jan;24(1):198-208. doi:
+10.1007/s11605-019-04369-9.  Epub 2019 Nov 13.
+
+Surveillance Intensity Comparison by Risk for T1NX Locally Excised Rectal 
+Adenocarcinoma: a Cost-Effective Analysis.
+
+McCain M(1), O'Neill Y(1)(2), Hernandez H(3), Foley R(4), Sadowski BM(1)(2)(3), 
+Torgersen Z(1)(2)(3), Beaty J(1)(2)(3), Payacan RR(5), Ternent CA(6)(7)(8).
+
+Author information:
+(1)Colon and Rectal Surgery Inc, Omaha, NE, USA.
+(2)Department of Surgery, Section of Colon and Rectal Surgery, Creighton 
+University School of Medicine, Omaha, NE, USA.
+(3)Department of Surgery, University of Nebraska Medical Center, Omaha, NE, USA.
+(4)University of Kansas, Lawrence, KS, USA.
+(5)School of Health and Related Research, Section of Health Economics and 
+Decision Science, The University of Sheffield, Sheffield, UK.
+(6)Colon and Rectal Surgery Inc, Omaha, NE, USA. ternentc@gmail.com.
+(7)Department of Surgery, Section of Colon and Rectal Surgery, Creighton 
+University School of Medicine, Omaha, NE, USA. ternentc@gmail.com.
+(8)Department of Surgery, University of Nebraska Medical Center, Omaha, NE, USA. 
+ternentc@gmail.com.
+
+BACKGROUND: Controversy exists regarding the optimal surveillance strategy 
+following local excision of T1NX rectal adenocarcinoma. This study aims to 
+determine the cost-effectiveness of surveillance strategies for locally excised 
+T1NX rectal adenocarcinoma based on histopathologic and local staging risk 
+factors.
+METHODS: A Markov model with 10-year follow-up was developed for 
+cost-effectiveness analysis of high-, medium-, and low-intensity surveillance 
+strategies after local excision of T1NX rectal adenocarcinoma. Literature review 
+and expert consensus were utilized to populate state/transition probabilities 
+and rewards. Based on this data, 87% of T1NX patients undergoing local excision 
+were low risk. Healthcare utilization costs were based on Centers for Medicare 
+and Medicaid Services data. The primary outcomes were costs in 2018 US dollars 
+and effectiveness in life-years presented as net monetary benefit and 
+incremental cost-effectiveness ratios. One-way sensitivity and probabilistic 
+sensitivity analyses were performed.
+RESULTS: Net monetary benefit for low-, medium-, and high-intensity surveillance 
+strategies ($393,117.00, $397,978.80, and $397,290.00) shows medium-intensity 
+surveillance to be optimal. One-way sensitivity analysis shows medium-intensity 
+surveillance to be optimal when the cohort is 73-94% low risk. High-intensity 
+surveillance is preferred when less than 73% of the cohort is low risk. 
+Low-intensity surveillance is preferred when greater than 94% is low risk. 
+Probabilistic sensitivity analysis of the base-case shows medium-intensity 
+surveillance is the optimal strategy for 51.5% of the iterations performed.
+CONCLUSIONS: Medium-intensity surveillance is the most cost-effective 
+surveillance strategy for locally excised T1NX rectal adenocarcinoma in a 
+clinically representative population model.
+

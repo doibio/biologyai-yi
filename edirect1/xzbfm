@@ -1,0 +1,1000 @@
+PMID: 24283830 [Indexed for MEDLINE]
+
+
+668. Health Technol Assess. 2013 Nov;17(54):1-190. doi: 10.3310/hta17540.
+
+Lithium or an atypical antipsychotic drug in the management of 
+treatment-resistant depression: a systematic review and economic evaluation.
+
+Edwards SJ(1), Hamilton V, Nherera L, Trevor N.
+
+Author information:
+(1)BMJ Technology Assessment Group (BMJ-TAG), London, UK.
+
+BACKGROUND: Patients with treatment-resistant depression (TRD) are those with 
+major depressive disorder that has not responded adequately to treatment. The 
+causes of depression are not fully understood, although there is evidence to 
+suggest that depression is a complex interaction among biological, genetic, 
+psychosocial and environmental factors. Strategies available for the treatment 
+of patients with TRD include pharmacological, non-pharmacological, and 
+psychological and psychosocial interventions. Pharmacological treatment options 
+include switching to a different antidepressant, the addition of another 
+antidepressant of a different class, or use of an augmenting agent, such as 
+anticonvulsants, lithium or atypical antipsychotics (AAPs). However, there is 
+limited evidence available on the effectiveness of these strategies in the 
+treatment of TRD.
+OBJECTIVES: To estimate the clinical effectiveness and cost-effectiveness of 
+augmentation of selective serotonin reuptake inhibitor (SSRI) antidepressant 
+therapy with either lithium or an AAP drug in the management of people with 
+treatment-resistant unipolar depression, defined as failure to respond to two or 
+more antidepressant drugs in their current episode of depression.
+DATA SOURCES: Databases searched were Cochrane Central Register of Controlled 
+Trials (CENTRAL), EMBASE, MEDLINE, PsycINFO and NHS Economic Evaluation Database 
+(NHS EED). All databases were searched from inception to August 2011. Additional 
+data were obtained from manufacturers.
+REVIEW METHODS: Systematic reviews of studies evaluating clinical effectiveness, 
+economic analyses and quality of life (QoL) were executed. Quality assessment 
+according to predefined criteria was undertaken independently by two reviewers. 
+Pairwise meta-analyses and mixed-treatment comparisons (MTCs) using both fixed- 
+and random-effects models were undertaken based on intention-to-treat analyses. 
+A probabilistic de novo mathematical model was developed to synthesise the 
+available data on costs and clinical outcomes from the UK NHS perspective over a 
+1-year time horizon (8 weeks of acute treatment captured by a decision tree and 
+10 months of maintenance treatment captured by a Markov model).
+RESULTS: Twelve randomised controlled trials (RCTs) were identified in the 
+review of clinical effectiveness literature; 10 considered SSRI  +  AAP compared 
+with SSRI  +  placebo/no treatment, one considered SSRI  +  AAP compared with 
+SSRI  +  lithium and one considered SSRI  +  lithium compared with 
+SSRI  +  placebo. The RCTs included in the primary analyses used fluoxetine as 
+the background SSRI and olanzapine as the AAP. Results of the MTC showed a 
+non-significant trend in favour of lithium augmentation for response [lithium a 
+priori odds ratio (OR) 1.29; 95% credible interval (CrI) 0.11 to 5.32; lithium 
+post hoc OR 4.15; 95% CrI 0.25 to 20.34 (the trial informing the comparison with 
+lithium reported response using two different definitions)], mean change in 
+Montgomery-Åsberg Depression Rating Scale score from baseline (mean difference 
+-  1.47, 95% CrI -  9.10 to 6.41) and all-cause withdrawals (OR 0.74, 95% CrI 
+0.10 to 2.66). Four economic evaluations (none directly addressing the review 
+question) and 17 studies that reported on QoL were identified and summarised in 
+narrative reviews. The results of the de novo modelling indicate that 
+augmentation of SSRI with lithium dominates augmentation of an SSRI with AAP 
+(i.e. it resulted in cost savings of £905 per person per year and generated more 
+health benefits, estimated to be 0.03 quality-adjusted life-years). However, 
+sensitivity analyses showed that the model was highly sensitive to changes in 
+acute treatment efficacy (response and remission) or discontinuation. The model 
+was not sensitive to changes in other parameters.
+LIMITATIONS: In patients with TRD, there is a lack of direct evidence comparing 
+the clinical effectiveness of augmenting an SSRI with an AAP compared with 
+augmenting with lithium. RCTs were identified which facilitated comparison of 
+adding AAP with adding lithium via a MTC. However, variations in the definitions 
+of response implemented in the RCTs, together with differences in patient 
+baseline characteristics across RCTs, introduce bias into the analysis. The 
+direction and extent of the bias is uncertain.
+CONCLUSIONS: Augmentation of SSRIs with lithium or AAP is likely to be 
+beneficial in people with TRD. Clinical evaluation based on the limited evidence 
+identified in this research indicates no statistically significant difference 
+between the two augmentation strategies. Cost-effectiveness analyses suggest 
+that augmentation with lithium is less expensive and more effective than 
+augmentation with AAP. However, the uncertainty in the clinical estimates of 
+discontinuation and treatment response is reflected in the model results. A RCT 
+comparing the two augmentation strategies, reporting relevant outcomes, 
+including QoL, is needed.
+STUDY REGISTRATION: PROSPERO CRD42011001464.
+
+DOI: 10.3310/hta17540
+PMCID: PMC4781298
+PMID: 24284258 [Indexed for MEDLINE]
+
+
+669. Int J Environ Res Public Health. 2013 Oct 25;10(11):5266-83. doi: 
+10.3390/ijerph10115266.
+
+Automatic assessment of socioeconomic impact on cardiac rehabilitation.
+
+Calvo M(1), Subirats L, Ceccaroni L, Maroto JM, de Pablo C, Miralles F.
+
+Author information:
+(1)Cardiac Electrophysiology Unit, Hospital Clínic Universitari de Barcelona, 
+Villarroel, 170, Barcelona 08036, Spain. calvo@clinic.ub.es.
+
+Disability-Adjusted Life Years (DALYs) and Quality-Adjusted Life Years (QALYs), 
+which capture life expectancy and quality of the remaining life-years, are 
+applied in a new method to measure socioeconomic impacts related to health. A 
+7-step methodology estimating the impact of health interventions based on DALYs, 
+QALYs and functioning changes is presented. It relates the latter (1) to the 
+EQ-5D-5L questionnaire (2) to automatically calculate the health status before 
+and after the intervention (3). This change of status is represented as a change 
+in quality of life when calculating QALYs gained due to the intervention (4). In 
+order to make an economic assessment, QALYs gained are converted to DALYs 
+averted (5). Then, by inferring the cost/DALY from the cost associated to the 
+disability in terms of DALYs lost (6) and taking into account the cost of the 
+action, cost savings due to the intervention are calculated (7) as an objective 
+measure of socioeconomic impact. The methodology is implemented in Java. Cases 
+within the framework of cardiac rehabilitation processes are analyzed and the 
+calculations are based on 200 patients who underwent different 
+cardiac-rehabilitation processes. Results show that these interventions result, 
+on average, in a gain in QALYs of 0.6 and a cost savings of 8,000 €.
+
+DOI: 10.3390/ijerph10115266
+PMCID: PMC3863845
+PMID: 24284349 [Indexed for MEDLINE]
+
+
+670. Int J Mol Sci. 2013 Nov 21;14(11):23203-11. doi: 10.3390/ijms141123203.
+
+Possible role of -374T/A polymorphism of RAGE gene in longevity.
+
+Falcone C(1), Bozzini S, Colonna A, Matrone B, Paganini EM, Falcone R, Pelissero 
+G.
+
+Author information:
+(1)Interdepartimental Center for Research in Molecular Medicine (CIRMC), 
+University of Pavia, Via Taramelli 24, Pavia 27100, Italy. 
+colomba.falcone@unipv.it.
+
+Demographic and social changes in the last decades have resulted in improvements 
+in health and longevity. The survival of elderly people has improved 
+significantly and thus centenarians are becoming the fastest growing population 
+group. Environmental, genetic, and accidental factors have influenced the human 
+life span. Researchers have gained substantial evidence that advanced glycation 
+end products may play an important role in the processes of physiological aging. 
+The aim of the present study was to investigate any differences in the 
+frequencies of -374T/A polymorphism in subjects aged >90 years and in 
+middle-aged individuals. We observed association between the A allele and 
+genotype homozygous for this allele (AA) with a longer life expectancy in the 
+male population. In particular, there was a prevalence of AA genotype and A 
+allele in long-living subjects and a prevalence of the allele T in middle-aged 
+subjects, indicating a possible protective role of the allele A to aging. In 
+conclusion, our results support the hypothesis that longevity is the result of a 
+good functioning of the immune system and a presumable hyper-expression of 
+variants of anti-inflammatory genes of immunity. The differences in the genetic 
+regulation of inflammatory processes may influence the presence of age-related 
+disorders.
+
+DOI: 10.3390/ijms141123203
+PMCID: PMC3856114
+PMID: 24284407 [Indexed for MEDLINE]
+
+
+671. J Cardiovasc Surg (Torino). 2015 Aug;56(4):513-8. Epub 2013 Nov 27.
+
+Is intra-aortic balloon pump absolutely contraindicated in type A aortic 
+dissection?
+
+Jaussaud N(1), Durand M, Boignard A, Porcu P, Hacini R, Blin D, Chavanon O.
+
+Author information:
+(1)Department of Cardiac Surgery, Timone University Hospital, Marseille, France 
+- OChavanon@chu-grenoble.fr.
+
+AIM: Circulatory failure following surgery for type A aortic dissection is 
+frequent and associated with a high mortality rate. The intra-aortic balloon 
+pump (IABP) is used to treat postcardiotomy cardiogenic shock but aortic 
+dissection is traditionally a contraindication. In 10 patients we used IABP for 
+severe cardiogenic shock following aortic dissection surgery, here we report on 
+the short and midterm results.
+METHODS: From January 2000 to April 2008, among 151 patients with type A aortic 
+dissection 10 received a postoperative IABP. False lumen extension was limited 
+to the ascending aorta for 3 patients, reached the arch for 1 and the descending 
+aorta for 6.
+RESULTS: The device was placed in the operative room (7 patients), intensive 
+care unit (2) and preoperatively (1). IABP was introduced percutaneously except 
+for one who required surgical placement. The mean duration of IABP therapy was 
+3.8 days. Four patients died, but no death was directly related to IABP. 
+Improvement in hemodynamics allowed 8 patients to be weaned off IABP. None 
+suffered extension of the dissection. Two patients developed IABP-related 
+complications. Six required extrarenal purification. Among the survivors, one 
+died of a stroke at 38 months, 2 recovered the same quality of life and 3 had 
+neurological sequelae without loss of autonomy.
+CONCLUSION: IABP should only be used as a salvage option in cases of severe 
+cardiogenic shock following type A aortic dissection. No patient suffered 
+device-related aortic rupture or extension of the dissection. High mortality and 
+morbidity underline the gravity of cardiogenic shock in this setting.
+
+PMID: 24284938 [Indexed for MEDLINE]
+
+
+672. Asia Pac J Public Health. 2014 Sep;26(5):527-35. doi:
+10.1177/1010539513510556.  Epub 2013 Nov 27.
+
+Estimation of Vietnam national burden of disease 2008.
+
+Nhung NT(1), Long TK(2), Linh BN(2), Vos T(3), Huong NT(2), Anh ND(4).
+
+Author information:
+(1)Hanoi School of Public Health, Hanoi, Vietnam ntn2@hsph.edu.vn.
+(2)Hanoi School of Public Health, Hanoi, Vietnam.
+(3)University of Washington, Seattle, WA, USA.
+(4)University of South Australia, Adelaide, South Australia, Australia.
+
+Burden of disease has been used to assess population health status. This article 
+presents the first estimations of burden of disease in Vietnam in 2008 using 
+disability-adjusted life years (DALYs). DALYs were calculated using the Global 
+Burden of Disease (GBD) methods. Incidence, prevalence of diseases, and causes 
+of death was extracted from Vietnam data. Disability weights were borrowed from 
+GBD and Dutch research. In 2008, the total burden of disease in Vietnam was 12.3 
+million DALYs. Noncommunicable diseases dominated the total burden of diseases 
+in Vietnam, accounting for 71% of the total burden, and cardiovascular disease 
+was the leading cause group of premature death. While pneumonia was an important 
+cause of burden in Vietnamese children, stroke and depression were the main 
+causes of disease burden among adults. The study provides a snapshot of 
+Vietnamese health status and offers guidance for health policymaking in Vietnam.
+
+© 2013 APJPH.
+
+DOI: 10.1177/1010539513510556
+PMID: 24285779 [Indexed for MEDLINE]
+
+
+673. Population (Engl Ed). 2012 Oct 1;67(4):10.3917/pope.1204.0493. doi: 
+10.3917/pope.1204.0493.
+
+Recent Demographic Developments in France: Relatively Low Mortality at Advanced 
+Ages.
+
+Prioux F, Barbieri M.
+
+France had 65.3 million inhabitants as of 1 January 2012, including 1.9 million 
+in the overseas départements. The population is slightly younger than that of 
+the European Union as a whole. Population growth continues at the same rate, 
+mainly through natural increase. There are now more African than European 
+immigrants living in France. Fertility was practically stable in 2011 (2.01 
+children per woman), but the lifetime fertility of the 1971-1972 cohorts reached 
+a historic low in metropolitan France (1.99 children per woman), nevertheless 
+remaining among the highest in Europe. Abortion levels remained stable and rates 
+among young people are no longer increasing. The marriage rate is falling and 
+the divorce rate has stabilized (46.2 divorces per 100 marriages in 2011). The 
+risk of divorce decreases with age, but has greatly increased among the 
+under-70s over the last decade. Life expectancy at birth (78.4 years for men, 
+85.0 for women) has continued to increase at the same rate, mainly thanks to 
+progress at advanced ages. Among European countries, France has the lowest 
+mortality in the over-65 age group, but it ranks less well for premature 
+mortality.
+
+DOI: 10.3917/pope.1204.0493
+PMCID: PMC3839870
+PMID: 24285939
+
+
+674. J Osteoporos. 2013;2013:571418. doi: 10.1155/2013/571418. Epub 2013 Oct 27.
+
+HIV and Bone Disease: A Perspective of the Role of microRNAs in Bone Biology 
+upon HIV Infection.
+
+Del Carpio-Cano FE(1), Dela Cadena RA, Sawaya BE.
+
+Author information:
+(1)Department of Physiology, Fels Institute for Cancer Research and Molecular 
+Biology, Temple University School of Medicine, 3307 North Broad Street, 
+Philadelphia, PA 19140, USA.
+
+Increased life expectancy and the need for long-term antiretroviral therapy have 
+brought new challenges to the clinical management of HIV-infected individuals. 
+The prevalence of osteoporosis and fractures is increased in HIV-infected 
+patients; thus optimal strategies for risk management and treatment in this 
+group of patients need to be defined. Prevention of bone loss is an important 
+component of HIV care as the HIV population grows older. Understanding the 
+mechanisms by which HIV infection affects bone biology leading to osteoporosis 
+is crucial to delineate potential adjuvant treatments. This review focuses on 
+HIV-induced osteoporosis within the context of microRNAs (miRNAs) by reviewing 
+first basic concepts of bone biology as well as current knowledge of the role of 
+miRNAs in bone development. Evidence that HIV-associated osteoporosis is in part 
+independent of therapies employed to treat HIV (HAART) is supported by 
+cross-sectional and longitudinal studies and is the focus of this review.
+
+DOI: 10.1155/2013/571418
+PMCID: PMC3826318
+PMID: 24286015
+
+
+675. Health Technol Assess. 2013 Nov;17(55):xv-xix, 1-211. doi: 10.3310/hta17550.
+
+Faecal calprotectin testing for differentiating amongst inflammatory and 
+non-inflammatory bowel diseases: systematic review and economic evaluation.
+
+Waugh N(1), Cummins E, Royle P, Kandala NB, Shyangdan D, Arasaradnam R, Clar C, 
+Johnston R.
+
+Author information:
+(1)Warwick Evidence, Division of Health Sciences, Warwick Medical School, 
+Coventry, UK.
+
+Comment in
+    Ann Intern Med. 2014 Apr 15;160(8):JC13.
+
+BACKGROUND: Irritable bowel syndrome (IBS) is common, and causes pain, bloating 
+and diarrhoea and/or constipation. It is a troublesome condition that reduces 
+the quality of life but causes no permanent damage. Inflammatory bowel disease 
+(IBD) comprises mainly ulcerative colitis (UC) and Crohn's disease (CD). Both 
+cause serious complications and may lead to sections of the bowel having to be 
+removed, although this is more common with CD. The presenting symptoms of IBS 
+and IBD can be similar. Distinguishing them on clinical signs and symptoms can 
+be difficult. Until recently, colonoscopy was often required to rule out IBD. In 
+younger people, > 60% of colonoscopies showed no abnormality. Faecal 
+calprotectin (FC) is a protein released by the white blood cells, neutrophils, 
+found in inflamed areas of the bowel in IBD. Determining the level of FC in 
+stool samples may help distinguish IBS from IBD.
+OBJECTIVE: To review the value of FC for distinguishing between IBD and non-IBD.
+DATA SOURCES: Sources included MEDLINE, EMBASE, The Cochrane Library, Web of 
+Science, websites of journals and the European Crohn's and Colitis Organisation 
+(conference abstracts 2012 and 2013), and contact with experts.
+REVIEW METHODS: Systematic review and economic modelling. Review Manager 
+(RevMan) version 5.2 (The Cochrane Collaboration, The Nordic Cochrane Centre, 
+Copenhagen, Denmark) was used for most analysis, with statistical analyses done 
+in Stata version 12 (StataCorp LP, College Station, TX, USA). Forest plots and 
+receiver operating characteristic curves were produced. Quality Assessment of 
+Diagnostic Accuracy Studies was used for quality assessment. Economic modelling 
+was done in Microsoft Excel 2010 (Microsoft Corporation, Redmond, WA, USA).
+LIMITATIONS: Studies were often small, most used only one calprotectin cut-off 
+level, and nearly all came from secondary care populations.
+RESULTS: Twenty-eight studies provided data for 2 × 2 tables and were included 
+in meta-analyses, with seven in the most important comparison in adults (IBS vs. 
+IBD) and eight in the key comparison in paediatrics (IBD vs. non-IBD). Most 
+studies used laboratory enzyme-linked immunosorbent assay (ELISA) tests. For 
+distinguishing between IBD and IBS in adults, these gave pooled sensitivity of 
+93% and specificity of 94% at FC cut-off level of 50 µg/g. Sensitivities at that 
+cut-off ranged from 83% to 100%, and specificities from 60% to 100%. For 
+distinguishing between IBD and non-IBD in paediatric populations with ELISA 
+tests, sensitivities ranged from 95% to 100% at cut-off of 50 µg/g and 
+specificities of 44-93%. Few studies used point-of-care testing but that seemed 
+as reliable as ELISA, though perhaps less specific. The evidence did not provide 
+any grounds for preferring one test over others on clinical effectiveness 
+grounds. FC testing in primary care could reduce the need for referral and 
+colonoscopies. Any quality-adjusted life-year gains are likely to be small 
+because of the low prevalence of IBD and the high sensitivities of all of the 
+tests, resulting in few false negatives with IBD. However, considerable savings 
+could accrue. Areas of uncertainty include the optimum management of people with 
+borderline results (50-150 µg/g), most of whom do not have IBD. Repeat testing 
+may be appropriate before referral.
+CONCLUSIONS: Faecal calprotectin can be a highly sensitive way of detecting IBD, 
+although there are inevitably trade-offs between sensitivity and specificity, 
+with some false positives (IBS with positive calprotectin) if a low calprotectin 
+cut-off is used. In most cases, a negative calprotectin rules out IBD, thereby 
+sparing most people with IBS from having to have invasive investigations, such 
+as colonoscopy.
+STUDY REGISTRATION: PROSPERO CRD 42012003287.
+FUNDING: The National Institute for Health Research Health Technology Assessment 
+programme.
+
+DOI: 10.3310/hta17550
+PMCID: PMC4781415
+PMID: 24286461 [Indexed for MEDLINE]
+
+
+676. J Int AIDS Soc. 2013 Nov 27;16(1):18446. doi: 10.7448/IAS.16.1.18446.
+
+From GRID to gridlock: the relationship between scientific biomedical 
+breakthroughs and HIV/AIDS policy in the US Congress.
+
+Platt MB(1), Platt MO.
+
+Author information:
+(1)Department of Government, Harvard University Cambridge, MA, USA.
+
+INTRODUCTION: From the travel ban on people living with HIV (PLHIV) to 
+resistance to needle exchange programmes, there are many examples where policy 
+responses to HIV/AIDS in the United States seem divorced from behavioural, 
+public health and sociological evidence. At its root, however, the unknowns 
+about HIV/AIDS lie at biomedical science, and scientific researchers have made 
+tremendous progress over the past 30 years of the epidemic by using 
+antiretroviral therapy to increase the life expectancy of PLHIV almost to the 
+same level as non-infected individuals; but a relationship between biomedical 
+science discoveries and congressional responses to HIV/AIDS has not been 
+studied. Using quantitative approaches, we directly examine the hypothesis that 
+progress in HIV/AIDS biomedical science discoveries would have a correlative 
+relationship with congressional response to HIV/AIDS from 1981 to 2010.
+METHODS: This study used original data on every bill introduced, hearing held 
+and law passed by the US Congress relating to HIV/AIDS over 30 years 
+(1981-2010). We combined congressional data with the most cited and impactful 
+biomedical research scientific publications over the same time period as a 
+metric of biomedical science breakthroughs. Correlations between congressional 
+policy and biomedical research were then analyzed at the aggregate and 
+individual levels.
+RESULTS: Biomedical research advancements helped shape both the level and 
+content of bill sponsorship on HIV/AIDS, but they had no effect on other stages 
+of the legislative process. Examination of the content of bills and biomedical 
+research indicated that science helped transform HIV/AIDS bill sponsorship from 
+a niche concern of liberal Democrats to a bipartisan coalition when Republicans 
+became the majority party. The trade-off for that expansion has been an emphasis 
+on the global epidemic to the detriment of domestic policies and programmes.
+CONCLUSIONS: Breakthroughs in biomedical science did associate with the number 
+and types of HIV/AIDS bills introduced in Congress, but that relationship did 
+not extend to the passage of laws or to hearings. When science matters, it 
+cannot be separated from political considerations. An important implication of 
+our work has been the depoliticizing role that science can play. Scientific 
+breakthroughs helped to transform HIV/AIDS policy from a niche of liberal 
+Democrats into bipartisan support for the global fight against the disease.
+
+DOI: 10.7448/IAS.16.1.18446
+PMCID: PMC3843110
+PMID: 24286556 [Indexed for MEDLINE]
+
+
+677. Endocrinol Metab Clin North Am. 2013 Dec;42(4):677-95. doi: 
+10.1016/j.ecl.2013.07.001.
+
+Diabetic ketoacidosis and hyperglycemic hyperosmolar state.
+
+Maletkovic J(1), Drexler A.
+
+Author information:
+(1)Department of Endocrinology, UCLA School of Medicine, Gonda Diabetes Center, 
+200 UCLA Medical Plaza, Suite 530, Los Angeles, CA 90095, USA. Electronic 
+address: jmaletkovic@mednet.ucla.edu.
+
+Diabetic ketoacidosis (DKA) and the hyperglycemic hyperosmolar state (HHS) are 
+potentially fatal hyperglycemic crises that occur as acute complications of 
+uncontrolled diabetes mellitus. The authors provide a review of the current 
+epidemiology, precipitating factors, pathogenesis, clinical presentation, 
+evaluation, and treatment of DKA and HHS. The discovery of insulin in 1921 
+changed the life expectancy of patients with diabetes mellitus dramatically. 
+Today, almost a century later, DKA and HHS remain significant causes of 
+morbidity and mortality across different countries, ages, races, and 
+socioeconomic groups and a significant economic burden for society.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ecl.2013.07.001
+PMID: 24286946 [Indexed for MEDLINE]
+
+
+678. Dig Dis Sci. 2014 May;59(5):1042-7. doi: 10.1007/s10620-013-2949-6. Epub
+2013  Nov 28.
+
+Comparison of endoscopic papillary balloon dilation and sphincterotomy in young 
+patients with CBD stones and gallstones.
+
+Seo YR(1), Moon JH, Choi HJ, Kim DC, Ha JS, Lee TH, Cha SW, Cho YD, Park SH, Kim 
+SJ.
+
+Author information:
+(1)Department of Internal Medicine, Digestive Disease Center and Research 
+Institute, SoonChunHyang University School of Medicine, Bucheon and Seoul, 
+Korea.
+
+Comment in
+    Dig Dis Sci. 2014 May;59(5):902-4.
+
+BACKGROUND AND AIMS: Endoscopic biliary sphincterotomy (EBS) results in 
+permanent loss of sphincter function and its long-term complications are 
+unknown. Endoscopic papillary balloon dilation (EPBD) is an alternative 
+procedure that preserves sphincter function, although it is associated with a 
+higher risk of pancreatitis than is EBS. The aim of this study was to evaluate 
+the safety and outcomes of EPBD with limited indications for removal of common 
+bile duct (CBD) stones combined with gallstones in patients younger than 40 
+years.
+METHODS: Young (age < 40 years) patients who had CBD stones combined with 
+gallstones on imaging studies were enrolled in this study. A total of 132 
+patients were randomly divided into the EPBD group (n = 62) or the EBS group (n 
+= 70) for extraction of CBD stones. The ballooning size of EPBD ranged from 6 to 
+10 mm.
+RESULTS: Complete bile duct clearance was achieved in 98.4 % (61/62) of the EPBD 
+group and 100 % (70/70) of the EBS group. Mechanical lithotripsy was required in 
+8.1 % (5/62) of the EPBD group and 8.6 % (6/70) of the EBS group. The early 
+complication rates were 8.1 % (5/62) (five pancreatitis) in the EPBD group and 
+11.4 % (8/70) (five [7.1 %] pancreatitis, two bleeding and one perforation) in 
+the EBS group. The recurrence rates of CBD stones were 1.6 % (1/62) in the EPBD 
+group and 5.7 % (4/70) in the EBS group.
+CONCLUSIONS: EPBD with limited indications was safe and effective as EBS for 
+removal of CBD stones combined with gallstones in young patients who had a 
+longer life expectancy.
+
+DOI: 10.1007/s10620-013-2949-6
+PMID: 24287639 [Indexed for MEDLINE]
+
+
+679. Pharmacoeconomics. 2014 Feb;32(2):135-47. doi: 10.1007/s40273-013-0115-9.
+
+Cost effectiveness of a 21-gene recurrence score assay versus Canadian clinical 
+practice in post-menopausal women with early-stage estrogen or 
+progesterone-receptor-positive, axillary lymph-node positive breast cancer.
+
+Hannouf MB(1), Xie B, Brackstone M, Zaric GS.
+
+Author information:
+(1)Department of Epidemiology and Biostatistics, Schulich School of Medicine and 
+Dentistry, Western University, 1151 Richmond St, London, ON, N6A 5C1, Canada, 
+mbassamh27@gmail.com.
+
+BACKGROUND: A 21-gene recurrence score (RS) assay provides a method of guiding 
+treatment decisions in women with early-stage breast cancer (ESBC). We 
+investigated the cost effectiveness of using the RS assay versus current 
+clinical practice (CCP) in post-menopausal women with estrogen- or 
+progesterone-receptor-positive, one to three positive axillary lymph-node ESBC 
+from the perspective of the Canadian public healthcare system.
+METHODS: We developed a decision analytic model to project the lifetime clinical 
+and economic consequences of ESBC. We assumed that the RS assay would classify 
+patients among risk levels (low, intermediate and high) and corresponding 
+adjuvant treatment regimens. The model was parameterized using 7-year follow-up 
+data from the Manitoba Cancer Registry, cost data from Manitoba Health 
+administrative databases and secondary sources. Costs are presented in 2012 
+Canadian dollars, and future costs and benefits were discounted at 5 %.
+RESULTS: In the base case analysis, the RS assay compared with CCP led to an 
+increase of 0.08 quality-adjusted life-year (QALY) and an increase in cost of 
+Can$36.2 per person, resulting in an incremental cost-effectiveness ratio (ICER) 
+of Can$464/QALY gained. The ICER was most sensitive to the proportion of women 
+classified to intermediate risk by the RS assay who received adjuvant 
+chemotherapy, and absolute risk of relapse among patients receiving the RS 
+assay.
+CONCLUSIONS: The RS assay is likely to be cost effective in the Canadian 
+healthcare system. Field evaluations of the assay in this patient population 
+will help reduce uncertainty in clinical guidelines for intermediate-range 
+RS-assay values and specific disease outcomes by the RS assay, which are 
+important drivers of ICER.
+
+DOI: 10.1007/s40273-013-0115-9
+PMID: 24288208 [Indexed for MEDLINE]
+
+
+680. ScientificWorldJournal. 2013 Oct 27;2013:512313. doi: 10.1155/2013/512313. 
+eCollection 2013.
+
+Immigrant health inequalities in the United States: use of eight major national 
+data systems.
+
+Singh GK(1), Rodriguez-Lainz A, Kogan MD.
+
+Author information:
+(1)US Department of Health and Human Services, Health Resources and Services 
+Administration, Maternal and Child Health Bureau, 5600 Fishers Lane, Room 18-41, 
+Rockville, MD 20857, USA.
+
+Eight major federal data systems, including the National Vital Statistics System 
+(NVSS), National Health Interview Survey (NHIS), National Survey of Children's 
+Health, National Longitudinal Mortality Study, and American Community Survey, 
+were used to examine health differentials between immigrants and the US-born 
+across the life course. Survival and logistic regression, prevalence, and 
+age-adjusted death rates were used to examine differentials. Although these data 
+systems vary considerably in their coverage of health and behavioral 
+characteristics, ethnic-immigrant groups, and time periods, they all serve as 
+important research databases for understanding the health of US immigrants. The 
+NVSS and NHIS, the two most important data systems, include a wide range of 
+health variables and many racial/ethnic and immigrant groups. Immigrants live 
+3.4 years longer than the US-born, with a life expectancy ranging from 83.0 
+years for Asian/Pacific Islander immigrants to 69.2 years for US-born blacks. 
+Overall, immigrants have better infant, child, and adult health and lower 
+disability and mortality rates than the US-born, with immigrant health patterns 
+varying across racial/ethnic groups. Immigrant children and adults, however, 
+fare substantially worse than the US-born in health insurance coverage and 
+access to preventive health services. Suggestions and new directions are offered 
+for improvements in health monitoring and for strengthening and developing 
+databases for immigrant health assessment in the USA.
+
+DOI: 10.1155/2013/512313
+PMCID: PMC3826317
+PMID: 24288488 [Indexed for MEDLINE]
+
+
+681. Curr Med Res Opin. 2014 Apr;30(4):695-709. doi:
+10.1185/03007995.2013.869201.  Epub 2013 Dec 16.
+
+Switching from oral risperidone to flexibly dosed oral paliperidone 
+extended-release: core symptoms, satisfaction, and quality of life in patients 
+with stable but symptomatic schizophrenia: the RISPALI study.
+
+Gattaz WF(1), Campos JA, Lacerda AL, Henna E, Ruschel SI, Bressan RA, de 
+Oliveira IR, Rocha FL, Grabowski HM, Sacomani E Jr, Louzã MR, Quevedo J, Elkis 
+H, Zorzetto Filho D, Périco Cde A, Lawson FL, Appolinário JC.
+
+Author information:
+(1)Department and Institute of Psychiatry, and Laboratory of Neuroscience 
+(LIM27), University of São Paulo Medical School , Brazil.
+
+OBJECTIVE: The purpose of this prospective study was to evaluate the effects of 
+switching from oral risperidone to flexibly dosed oral paliperidone 
+extended-release (ER) in Brazilian adults with schizophrenia because of lack of 
+efficacy, intolerability, or nonadherence after a minimum trial of 30 days on 
+adequate (labeled) doses of oral risperidone, according to individual clinical 
+judgment.
+RESEARCH DESIGN AND METHODS: Subjects with Positive and Negative Syndrome Scale 
+total scores above 78, and/or intolerable adverse effects, with risperidone 
+received open-label paliperidone ER 3 to 12 mg daily for 26 (main phase) to 52 
+(extension phase) weeks.
+CLINICAL TRIAL REGISTRATION: Clinicaltrials.gov identifier: NCT01010776.
+RESULTS: The intent-to-treat (efficacy) populations comprised 213 subjects in 
+the main phase and 159 in the extension phase. Of 213 subjects with baseline and 
+post-baseline efficacy data, 154 (72.3%) switched from risperidone to 
+paliperidone ER because of a lack of efficacy and 59 (27.7%) because of 
+tolerability issues, according to individual clinical judgment. Paliperidone ER 
+significantly (p < 0.0500) improved a broad spectrum of efficacy endpoints from 
+baseline, as early as the first post-baseline visit (Visit 2; 4 weeks) and 
+persisting through 26 to 52 weeks. On most efficacy endpoints, function improved 
+from baseline to the first post-baseline visit (week 4) and remained 
+significantly improved compared to baseline at each visit for paliperidone ER 
+treatment, at weeks 8, 13, 26, 39, 26, and 52; data are reported herein mainly 
+for 26 and 52 weeks compared to baseline. Significant improvements from baseline 
+were observed for the Positive and Negative Syndrome Scale total score and 
+subscale scores (each p < 0.0001 at 26 and 52 weeks vs. baseline); and personal 
+and social functioning (p < 0.0001 at 26 and 52 weeks). Paliperidone ER also 
+significantly improved health-related quality of life (Short-Form 36) from 
+baseline, particularly on the Mental Component Summary (p = 0.0011 at 26 weeks 
+and p = 0.0019 at 52 weeks). Treatment with paliperidone ER also significantly 
+improved (vs. baseline) sleep quality (according to decreases on the Pittsburgh 
+Sleep Quality Index; p < 0.0001 at each visit vs. baseline) and disease severity 
+(Clinical Global Impression-Severity; p < 0.0001 at each visit vs. baseline). 
+Paliperidone ER was well tolerated. Adverse events occurring in at least 10% of 
+subjects in either phase were insomnia (14.9% in the main phase and 8.8% in the 
+extension phase); increased body weight (10.7% and 12.6%, respectively); and 
+anxiety (10.7% and 2.5%). Most of these adverse events were: 1) rated as mild or 
+moderate; 2) did not prompt interventions such as paliperidone ER dose 
+adjustment or interruption; and 3) decreased in frequency from the main to the 
+extension phase.
+CONCLUSIONS: Oral paliperidone ER is a rational treatment alternative for 
+patients with schizophrenia whose antipsychotic regimens are switched because of 
+unsuccessful treatment with oral risperidone according to individual clinical 
+judgment. Study limitations included the open-label study design, lack of 
+placebo, and use of subjective clinical judgment to determine lack of efficacy, 
+intolerability, or nonadherence with oral risperidone.
+
+DOI: 10.1185/03007995.2013.869201
+PMID: 24289141 [Indexed for MEDLINE]
+
+
+682. Curr Med Res Opin. 2014 Apr;30(4):629-35. doi: 10.1185/03007995.2013.869492.
+ Epub 2013 Dec 5.
+
+A benefit-risk analysis of natalizumab in the treatment of patients with 
+multiple sclerosis when considering the risk of progressive multifocal 
+leukoencephalopathy.
+
+Walker A(1), Watson C, Alexopoulos ST, Deniz B, Arnold R, Bates D.
+
+Author information:
+(1)Heron Evidence Development Ltd , London , UK.
+
+BACKGROUND: Natalizumab is a highly effective treatment for patients with 
+relapsing-remitting multiple sclerosis (RRMS). Treatment with natalizumab has 
+been associated with progressive multifocal leukoencephalopathy (PML), a rare 
+yet serious disease of the brain. Published studies have quantified the PML risk 
+by the presence of anti-JC virus antibodies, previous immunosuppressant use, and 
+duration of natalizumab treatment.
+OBJECTIVES: The aim of this analysis was to evaluate the net benefits and risks 
+for patients with RRMS receiving natalizumab treatment compared with fingolimod, 
+interferon-β, and no treatment across PML risk sub-groups.
+RESEARCH DESIGN AND METHODS: Based on previously validated MS model structures, 
+a Markov cohort model was developed to assess the impact of treatment on 
+quality-adjusted life years (QALYs). Natalizumab-treated patients were 
+classified by PML risk sub-groups and analysed separately for short-term (2 
+years) and long-term (20 years) time horizons.
+MAIN OUTCOME MEASURES: Main outcome measures included total QALYs by PML risk 
+sub-group and the increase in PML risk associated with natalizumab treatment 
+which offsets the quality of life benefit of comparator treatments.
+RESULTS: Results showed higher QALYs with natalizumab versus all other 
+comparators across PML risk sub-groups over both time horizons. For the QALYs of 
+natalizumab to equal the QALYs of fingolimod, interferon-β, and no treatment, 
+the risk of PML would have to increase 4.6-84.2 times, 24.0-444.3 times, and 
+5.7-106.1 times, respectively (short term), and 1.4-123.4 times, 1.5-138.3 
+times, and 2.2-193.7 times, respectively (long term).
+CONCLUSION: This study shows that natalizumab generates the most net health 
+benefits in terms of quality-adjusted life years compared with fingolimod, 
+interferon-β, or no treatment, even when the risk of natalizumab-associated PML 
+is taken into consideration. This study is limited by the availability of 
+published data around natalizumab-associated PML, as well as the constraints of 
+the model used to conduct the analysis.
+
+DOI: 10.1185/03007995.2013.869492
+PMID: 24289170 [Indexed for MEDLINE]
+
+
+683. J Sports Sci. 2014;32(8):785-92. doi: 10.1080/02640414.2013.858177. Epub
+2013  Nov 29.
+
+Effects of combined exercise training on immunological, physical and biochemical 
+parameters in individuals with HIV/AIDS.
+
+Garcia A(1), Fraga GA, Vieira RC Jr, Silva CM, Trombeta JC, Navalta JW, Prestes 
+J, Voltarelli FA.
+
+Author information:
+(1)a Federal University of Mato Grosso (UFMT) Cuiabá , Brazil.
+
+The practice of exercise has shown to be beneficial to quality of life of 
+individuals with HIV/AIDS. Thus, the present study analysed the effects of a 
+combined exercise training in persons living with HIV/AIDS. Ten participants 
+participated in the present study. The following variables were analysed: viral 
+load and cell counts for TCD4+/TCD8; maximal oxygen consumption (VO2max); total 
+mass, absolute fat mass, relative fat mass, absolute lean mass, relative lean 
+mass and body mass index; fasting glycaemia, fasting insulinaemia, homeostatic 
+model assessment (HOMA) index (insulin resistance - homeostatic model assessment 
+(IR-HOMA)); total cholesterol, triglycerides, high-density lipoprotein (HDL), 
+very low-density lipoprotein (VLDL), low-density lipoprotein (LDL); superoxide 
+dismutase, catalase, glutathione peroxidase activities; thiobarbituric acid 
+reactive substances. The combined exercise training consisted of resistance 
+exercises plus aerobic training (60 min · session(-1), three times per week, 
+during 20 weeks). The number of TCD4+ cells, absolute lean mass and relative 
+lean mass, muscle strength for the 45° leg press, seated row and triceps 
+extension, HDL-c levels as well as VO2max increased post-training. The activity 
+of superoxide dismutase, catalase, glutathione peroxidase enzymes and 
+thiobarbituric acid reactive substances levels were diminished post-training. 
+Finally, it can be concluded that combined exercise training is able to change 
+positively several variables related to health of individuals with HIV/AIDS, 
+mainly the immune system as well as antioxidant mechanisms re-establishment.
+
+DOI: 10.1080/02640414.2013.858177
+PMID: 24289219 [Indexed for MEDLINE]
+
+
+684. Health Qual Life Outcomes. 2013 Dec 1;11:203. doi: 10.1186/1477-7525-11-203.
+
+Mapping the FACT-G cancer-specific quality of life instrument to the EQ-5D and 
+SF-6D.
+
+Teckle P(1), McTaggart-Cowan H, Van der Hoek K, Chia S, Melosky B, Gelmon K, 
+Peacock S.
+
+Author information:
+(1)Canadian Centre for Applied Research in Cancer Control, British Columbia 
+Cancer Agency, Vancouver, BC, Canada. pteckle@bccrc.ca.
+
+OBJECTIVE: To help facilitate economic evaluations of oncology treatments, we 
+mapped responses on cancer-specific instrument to generic preference-based 
+measures.
+METHODS: Cancer patients (n = 367) completed one cancer-specific instrument, the 
+FACT-G, and two preference-based measures, the EQ-5D and SF-6D. Responses were 
+randomly divided to form development (n = 184) and cross-validation (n = 183) 
+samples. Relationships between the instruments were estimated using ordinary 
+least squares (OLS), generalized linear models (GLM), and censored least 
+absolute deviations (CLAD) regression approaches. The performance of each model 
+was assessed in terms of how well the responses to the cancer-specific 
+instrument predicted EQ-5D and SF-6D utilities using mean absolute error (MAE) 
+and root mean squared error (RMSE).
+RESULTS: Physical, functional, and emotional well-being domain scores of the 
+FACT-G best explained the EQ-5D and SF-6D. In terms of accuracy of prediction as 
+measured in RMSE, the CLAD model performed best for the EQ-5D (RMSE = 0.095) 
+whereas the GLM model performed best for the SF-6D (RMSE = 0.061). The GLM 
+predicted SF-6D scores matched the observed values more closely than the CLAD 
+and OLS.
+CONCLUSION: Our results demonstrate that the estimation of both EQ-5D and SF-6D 
+utility indices using the FACT-G responses can be achieved. The CLAD model for 
+the EQ-5D and the GLM model for the SF-6D are recommended. Thus, it is possible 
+to estimate quality-adjusted life years for economic evaluation from studies 
+where only cancer-specific instrument have been administered.
+
+DOI: 10.1186/1477-7525-11-203
+PMCID: PMC4220776
+PMID: 24289488 [Indexed for MEDLINE]
+
+
+685. BMC Pediatr. 2013 Dec 1;13:198. doi: 10.1186/1471-2431-13-198.
+
+Newborn care practices at home and in health facilities in 4 regions of 
+Ethiopia.
+
+Callaghan-Koru JA(1), Seifu A, Tholandi M, de Graft-Johnson J, Daniel E, Rawlins 
+B, Worku B, Baqui AH.
+
+Author information:
+(1)International Center for Maternal and Newborn Health, Department of 
+International Health, Johns Hopkins Bloomberg School of Public Health, 
+Baltimore, MD, USA. jcallagh@jhsph.edu.
+
+BACKGROUND: Ethiopia is one of the ten countries with the highest number of 
+neonatal deaths globally, and only 1 in 10 women deliver with a skilled 
+attendant. Promotion of essential newborn care practices is one strategy for 
+improving newborn health outcomes that can be delivered in communities as well 
+as facilities. This article describes newborn care practices reported by 
+recently-delivered women (RDWs) in four regions of Ethiopia.
+METHODS: We conducted a household survey with two-stage cluster sampling to 
+assess newborn care practices among women who delivered a live baby in the 
+period 1 to 7 months prior to data collection.
+RESULTS: The majority of women made one antenatal care (ANC) visit to a health 
+facility, although less than half made four or more visits and women were most 
+likely to deliver their babies at home. About one-fifth of RDWs in this survey 
+had contact with Health Extension Workers (HEWS) during ANC, but nurse/midwives 
+were the most common providers, and few women had postnatal contact with any 
+health provider. Common beneficial newborn care practices included exclusive 
+breastfeeding (87.6%), wrapping the baby before delivery of the placenta 
+(82.3%), and dry cord care (65.2%). Practices contrary to WHO recommendations 
+that were reported in this population of recent mothers include bathing during 
+the first 24 hours of life (74.7%), application of butter and other substances 
+to the cord (19.9%), and discarding of colostrum milk (44.5%). The results 
+suggest that there are not large differences for most essential newborn care 
+indicators between facility and home deliveries, with the exception of delayed 
+bathing and skin-to-skin care.
+CONCLUSIONS: Improving newborn care and newborn health outcomes in Ethiopia will 
+likely require a multifaceted approach. Given low facility delivery rates, 
+community-based promotion of preventive newborn care practices, which has been 
+effective in other settings, is an important strategy. For this strategy to be 
+successful, the coverage of counseling delivered by HEWs and other community 
+volunteers should be increased.
+
+DOI: 10.1186/1471-2431-13-198
+PMCID: PMC4219496
+PMID: 24289501 [Indexed for MEDLINE]
+
+
+686. Asian Pac J Cancer Prev. 2013;14(10):6085-8. doi:
+10.7314/apjcp.2013.14.10.6085.
+
+Impact of PSA and DRE on histologic findings at prostate biopsy in Turkish men 
+over 75 years of age.
+
+Verim L(1), Yildirim A, Basok EK, Peltekoglu E, Pelit ES, Zemheri E, Tokuc R.
+
+Author information:
+(1)Haydarpasa Numune Training and Research Hospital Urology Department, 
+Istanbul, Turkey E-mail : leventverim@hotmail.com.
+
+Prostate specidic antigen (PSA) and digital rectal examination (DRE) are the 
+known predictive factors for positive prostate biopsies differing according to 
+the age, region and race. There have been only very limited studies about the 
+impact of PSA on histological findings at prostate biopsy in Turkey. The aim of 
+this study was to evaluate the impact of PSA and clinical stage on histologic 
+findings of prostate biopsy in men older than 75 years of age as a first study 
+in the Turkish population. A total of 1,645 consecutive prostate biopsies were 
+included, with 194 men aged 75 or older. Cancer was identified in 104 patients 
+(53.6%). Of the 104 positive biopsies, Gleason scores were less than 7 in 53 
+(49%) patients, 7 or greater in 51 (51%) patients. Positive prostate biopsies 
+were significantly correlated with advanced age (p=0.0001), abnormal DRE 
+(p=0.0001) and raised PSA (p=0.0001). The prostate volume was significantly 
+correlated with advanced age especially in prostate cancer patients over 75 
+years, compared with those under 75 (p=0.0001). These results are useful for 
+counseling men older than 75 years for prostate cancer detection. However, PCa 
+screening decisions are currently based on urologist judgment and detection of 
+latent asymptomatic disease is an important concern regarding costs, 
+overdiagnosis, overtreatment and quality of life (QOL) for men aged 75 years and 
+older. Healthy old patients with a long life expectancy need to be carefully 
+evaluated for eligibility for PCa screening.
+
+DOI: 10.7314/apjcp.2013.14.10.6085
+PMID: 24289630 [Indexed for MEDLINE]
+
+
+687. Maturitas. 2014 Feb;77(2):185-90. doi: 10.1016/j.maturitas.2013.10.019. Epub
+ 2013 Nov 7.
+
+Predictive outcomes of revision total hip replacement--a consecutive series of 
+1176 patients with a minimum 10-year follow-up.
+
+Philpott A(1), Weston-Simons JS(2), Grammatopoulos G(1), Bejon P(3), Gill HS(4), 
+McLardy-Smith P(3), Gundle R(3), Murray DW(5), Pandit H(5).
+
+Author information:
+(1)Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal 
+Sciences, University of Oxford, Windmill Road, Headington, Oxford OX3 7LD, UK.
+(2)Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal 
+Sciences, University of Oxford, Windmill Road, Headington, Oxford OX3 7LD, UK. 
+Electronic address: samwestonsimons@yahoo.co.uk.
+(3)Nuffield Orthopaedic Centre, Headington, Oxford, UK.
+(4)Department of Mechanical Engineering, University of Bath, UK.
+(5)Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal 
+Sciences, University of Oxford, Windmill Road, Headington, Oxford OX3 7LD, UK; 
+Nuffield Orthopaedic Centre, Headington, Oxford, UK.
+
+The burden of revision total hip replacement (THR) surgery is increasing. With 
+an increasing life expectancy and younger age of primary surgery this trend is 
+set to continue. There are few data on the long-term outcome of revision THR. 
+This retrospective study of 1176 consecutive revision THRs with a minimum 
+10-year follow-up from a University Teaching Hospital was undertaken to review 
+implant survival and patient reported outcomes. Mean follow-up was 11 years with 
+implant survival at 10 years of 82% (CI: 80-85). Implant survival varied between 
+58% (unexplained pain) to 84% (aseptic loosening) depending on the indication 
+for revision surgery. Positive predictors of survival were age greater than 70 
+at the time of surgery (p=0.011), revision for aseptic loosening (p<0.01) and 
+revision of both components or just the acetabular component (p<0.01). At the 
+last review, mean Oxford Hip Score (OHS) was 34 (SD: 11.3) and 92% of the living 
+patients with unrevised hips were satisfied with the outcome of revision 
+surgery. This long term study has demonstrated that positive predictors of 
+survival and outcome of revision THR surgery are age greater than 70 years, 
+revision for aseptic loosening and component revision. This should aid surgeons 
+in their counselling of patients prior to surgery.
+
+Copyright © 2013 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.maturitas.2013.10.019
+PMID: 24289896 [Indexed for MEDLINE]
+
+
+688. Diabetes Metab Syndr. 2013 Oct-Dec;7(4):187-90. doi:
+10.1016/j.dsx.2013.10.024.  Epub 2013 Nov 13.
+
+Relative effect of socio-economic status on the health-related quality of life 
+in type 2 diabetic patients in Iran.
+
+Hosseini Nejhad Z(1), Molavi Vardanjani H, Abolhasani F, Hadipour M, Sheikhzadeh 
+K.
+
+Author information:
+(1)Department of Biochemistry, School of Medicine, Kerman University of Medical 
+Sciences, Kerman, Iran.
+
+INTRODUCTION AND AIMS: Type II diabetes mellitus (T2DM) is a progressing 
+epidemic and a major cause of mortality and morbidity worldwide. The quality of 
+life (QoL) of diabetic patients has been strongly influenced by socioeconomic 
+status (SES) in developed countries. Therefore, the QoL improvement is 
+considered to be a major goal in diabetes control program. In this context, 
+there is no reliable evidence for developing countries. In this study, the 
+relative association of SES with health-related quality of life (HRQoL) was 
+assessed in patients with T2DM in Iran.
+METHOD: The "Cost estimation of Type 2 Diabetes in Iran" was used for secondary 
+data analysis. The socio-economic status has been assessed by Categorical 
+principal component analysis (CATPCA) techniques and HRQoL, using EQ-5D Visual 
+Analog Scale, modified for digit preferences. Age, gender, education, 
+occupation, SES, marital status, residency, education (T2DM related), diagnostic 
+methods, number of annual care, type of treatment and Duration of disease 
+awareness were used as independent variables in the multivariable linear 
+regression model. Statistical analysis was performed using Stata software 
+version 11.2.
+RESULTS: The response rate was 88.6%. Out of 3472 patients, 2128 were female and 
+about 78.7% were from urban areas. All variables associated with T2DM were 
+significant at the level of 0.05 except, the type of treatment, residency and 
+education. Standardized regression coefficient for SES was estimated as 0.106 
+(p-value<0.0001).
+CONCLUSION: It seems that the SES of households in developing countries has a 
+meaningful effect on the HRQoL of patients with T2DM as well as developed 
+countries.
+
+Copyright © 2013 Diabetes India. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.dsx.2013.10.024
+PMID: 24290081 [Indexed for MEDLINE]
+
+
+689. J Clin Epidemiol. 2014 May;67(5):596-600. doi:
+10.1016/j.jclinepi.2013.07.020.  Epub 2013 Nov 28.
+
+Tempo effects may distort the interpretation of trends in life expectancy.
+
+Peters F(1), Nusselder WJ(2), Mackenbach JP(2).
+
+Author information:
+(1)Department of Public Health, Erasmus MC, University Medical Center Rotterdam, 
+PO Box 2040, 3000 CA Rotterdam, The Netherlands. Electronic address: 
+f.peters@erasmusmc.nl.
+(2)Department of Public Health, Erasmus MC, University Medical Center Rotterdam, 
+PO Box 2040, 3000 CA Rotterdam, The Netherlands.
+
+OBJECTIVES: Recently, a new interpretation problem of trends in period life 
+expectancy has been discussed in the demographic literature. The so-called tempo 
+effects arise if large numbers of deaths are suddenly postponed. In such 
+conditions, the life table inflates longevity gains in the population because it 
+weights avoided deaths with the full remaining life expectancy. This article 
+explains how such effects occur and indicates their relevance using an 
+illustrative example.
+STUDY DESIGN AND SETTING: Data of East and West Germany from the Human Mortality 
+Database for the years 1990-2009 were used. We simulated a scenario that 
+contrasts the observed life expectancy in West and East Germany with an 
+alternative one based on the assumption of short-term postponements of deaths.
+RESULTS: Our example demonstrates that if tempo effects have distorted changes 
+in life expectancy, the pace of improvement in underlying mortality conditions 
+could be over- and underestimated.
+CONCLUSION: We recommend that the assumptions of the life table, in this case 
+about the remaining life expectancy of avoided deaths, are carefully evaluated 
+in all applications. Interdisciplinary efforts to develop models to detect and 
+quantify tempo effects from life expectancy calculations should be put on the 
+research agenda.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jclinepi.2013.07.020
+PMID: 24290146 [Indexed for MEDLINE]
+
+
+690. Health Technol Assess. 2013 Dec;17(56):v-xvii, 1-181. doi: 10.3310/hta17560.
+
+Colistimethate sodium powder and tobramycin powder for inhalation for the 
+treatment of chronic Pseudomonas aeruginosa lung infection in cystic fibrosis: 
+systematic review and economic model.
+
+Tappenden P(1), Harnan S, Uttley L, Mildred M, Carroll C, Cantrell A.
+
+Author information:
+(1)School of Health and Related Research (ScHARR), University of Sheffield, 
+Sheffield, UK.
+
+BACKGROUND: Cystic fibrosis (CF) is an inherited condition characterised by the 
+abnormal transport of chloride ions across transporting epithelia. This leads to 
+the production of thick sticky mucus in the lungs, pancreas, liver, intestine 
+and reproductive tract, and an increase in the salt content in sweat. Among 
+other problems, people with CF experience recurrent respiratory infections and 
+have difficulties digesting food. CF affects over 9000 individuals in the UK. CF 
+shortens life expectancy and adversely affects quality of life. In 2010, CF was 
+recorded as the cause of 103 deaths in England and Wales.
+OBJECTIVE: To evaluate the clinical effectiveness and cost-effectiveness of 
+colistimethate sodium dry powder for inhalation (DPI) (Colobreathe(®), Forest 
+Laboratories) and tobramycin DPI (TOBI Podhaler(®), Novartis Pharmaceuticals) 
+for the treatment of Pseudomonas aeruginosa lung infection in CF.
+DATA SOURCES: Electronic databases were searched in February and March 2011 
+[MEDLINE, MEDLINE In-Process & Other Non-Indexed citations, EMBASE, The Cochrane 
+Library databases, Cumulative Index to Nursing and Allied Health Literature 
+(CINAHL), Web of Science, Conference Proceedings Citation Index (CPCI) and 
+Bioscience Information Service (BIOSIS) Previews]. Relevant databases were 

@@ -1,0 +1,1000 @@
+
+Madan J(1), Khan KA(2), Petrou S(2), Lamb SE(3).
+
+Author information:
+(1)Warwick Clinical Trials Unit, Division of Health Sciences, Warwick Medical 
+School, University of Warwick, Coventry, CV4 7AL, UK. j.j.madan@warwick.ac.uk.
+(2)Warwick Clinical Trials Unit, Division of Health Sciences, Warwick Medical 
+School, University of Warwick, Coventry, CV4 7AL, UK.
+(3)Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal 
+Sciences, Medical Science Division, University of Oxford, Oxford, OX3 7HE, UK.
+
+INTRODUCTION: Mapping algorithms are increasingly being used to predict 
+health-utility values based on responses or scores from non-preference-based 
+measures, thereby informing economic evaluations.
+OBJECTIVES: We explored whether predictions in the EuroQol 5-dimension 3-level 
+instrument (EQ-5D-3L) health-utility gains from mapping algorithms might differ 
+if estimated using differenced versus raw scores, using the Roland-Morris 
+Disability Questionnaire (RMQ), a widely used health status measure for low back 
+pain, as an example.
+METHODS: We estimated algorithms mapping within-person changes in RMQ scores to 
+changes in EQ-5D-3L health utilities using data from two clinical trials with 
+repeated observations. We also used logistic regression models to estimate 
+response mapping algorithms from these data to predict within-person changes in 
+responses to each EQ-5D-3L dimension from changes in RMQ scores. Predicted 
+health-utility gains from these mappings were compared with predictions based on 
+raw RMQ data.
+RESULTS: Using differenced scores reduced the predicted health-utility gain from 
+a unit decrease in RMQ score from 0.037 (standard error [SE] 0.001) to 0.020 (SE 
+0.002). Analysis of response mapping data suggests that the use of differenced 
+data reduces the predicted impact of reducing RMQ scores across EQ-5D-3L 
+dimensions and that patients can experience health-utility gains on the EQ-5D-3L 
+'usual activity' dimension independent from improvements captured by the RMQ.
+CONCLUSION: Mappings based on raw RMQ data overestimate the EQ-5D-3L health 
+utility gains from interventions that reduce RMQ scores. Where possible, mapping 
+algorithms should reflect within-person changes in health outcome and be 
+estimated from datasets containing repeated observations if they are to be used 
+to estimate incremental health-utility gains.
+
+DOI: 10.1007/s40273-016-0483-z
+PMID: 28063083 [Indexed for MEDLINE]
+
+
+602. Pharmacoeconomics. 2017 May;35(5):501-515. doi: 10.1007/s40273-016-0485-x.
+
+Methodological Issues Surrounding the Use of Baseline Health-Related Quality of 
+Life Data to Inform Trial-Based Economic Evaluations of Interventions Within 
+Emergency and Critical Care Settings: A Systematic Literature Review.
+
+Dritsaki M(1), Achana F(2), Mason J(2), Petrou S(2).
+
+Author information:
+(1)Oxford Clinical Trials Research Unit, Nuffield Department of Orthopaedics, 
+Rheumatology and Musculoskeletal Sciences, University of Oxford, Oxford, OX3 
+7LD, UK. melina.dritsaki@ndorms.ox.ac.uk.
+(2)Clinical Trials Unit, Warwick Medical School, University of Warwick, 
+Coventry, CV8 7AL, UK.
+
+BACKGROUND: Trial-based cost-utility analyses require health-related quality of 
+life data that generate utility values in order to express health outcomes in 
+terms of quality-adjusted life years (QALYs). Assessments of baseline 
+health-related quality of life are problematic where trial participants are 
+incapacitated or critically ill at the time of randomisation. This review aims 
+to identify and critique methods for handling non-availability of baseline 
+health-related quality of life data in trial-based cost-utility analyses within 
+emergency and critical illness settings.
+METHODS: A systematic literature review was conducted, following PRISMA 
+guidelines, to identify trial-based cost-utility analyses of interventions 
+within emergency and critical care settings. Databases searched included the 
+National Institute for Health Research (NIHR) Journals Library (1991-July 2016), 
+Cochrane Library (all years); National Health Service (NHS) Economic Evaluation 
+Database (all years) and Ovid MEDLINE/Embase (without time restriction). 
+Strategies employed to handle non-availability of baseline health-related 
+quality of life data in final QALY estimations were identified and critiqued.
+RESULTS: A total of 4224 published reports were screened, 19 of which met the 
+study inclusion criteria (mean trial size 1670): 14 (74 %) from the UK, four 
+(21%) from other European countries and one (5%) from India. Twelve studies 
+(63%) were based in emergency departments and seven (37%) in intensive care 
+units. Only one study was able to elicit patient-reported health-related quality 
+of life at baseline. To overcome the lack of baseline data when estimating 
+QALYs, eight studies (42%) assigned a fixed utility weight corresponding to 
+either death, an unconscious health state or a country-specific norm to patients 
+at baseline, four (21%) ignored baseline utilities, three (16%) applied values 
+from another study, one (5%) generated utility values via retrospective recall 
+and one (5%) elicited utilities from experts. A preliminary exploration of these 
+methods shows that incremental QALY estimation is unlikely to be biased if 
+balanced trial allocation is achieved and subsequent collection of 
+health-related quality of life data occurs at the earliest possible opportunity 
+following commencement of treatment, followed by an adequate number of follow-up 
+assessments.
+CONCLUSION: Trial-based cost-utility analyses within emergency and critical 
+illness settings have applied different methods for QALY estimation, employing 
+disparate assumptions about the health-related quality of life of patients at 
+baseline. Where baseline measurement is not practical, measurement at the 
+earliest opportunity following commencement of treatment should minimise bias in 
+QALY estimation.
+
+DOI: 10.1007/s40273-016-0485-x
+PMID: 28063084 [Indexed for MEDLINE]
+
+
+603. Appl Health Econ Health Policy. 2017 Apr;15(2):237-248. doi: 
+10.1007/s40258-016-0301-y.
+
+Cost Effectiveness of Insulin Degludec Plus Liraglutide (IDegLira) in a Fixed 
+Combination for Uncontrolled Type 2 Diabetes Mellitus in Sweden.
+
+Ericsson Å(1), Lundqvist A(2).
+
+Author information:
+(1)Novo Nordisk Scandinavia AB, Box 505, 202 15, Malmö, Sweden. 
+asae@novonordisk.com.
+(2)IHE, The Swedish Institute for Health Economics, Lund, Sweden.
+
+BACKGROUND: Patients with uncontrolled type 2 diabetes mellitus (T2DM) are a 
+priority group for intensified therapy without weight gain and with low risk of 
+hypoglycaemia.
+OBJECTIVE: This study evaluates the cost effectiveness of insulin degludec plus 
+liraglutide (IDegLira, Xultophy®) compared with six potential intensification 
+treatment options for patients with T2DM that is uncontrolled with basal 
+insulin.
+METHODS: The Swedish Institute for Health Economics (IHE) Cohort Model of Type 2 
+Diabetes was used with Swedish input data, a 40-year time frame and a societal 
+perspective. The comparators for treatment intensification included insulin 
+glargine, neutral protamine Hagedorn (NPH) insulin, insulin aspart plus either 
+glargine or NPH, and liraglutide plus either glargine or NPH. Clinical data for 
+all comparators (except NPH insulin) were based on an indirect treatment 
+comparison of several studies. Prices were obtained from the 2014 Swedish Dental 
+and Pharmaceutical Benefits Agency (Tandvårds- och läkemedelsförmånsverket 
+[TLV]) database, and utility values were obtained from published studies. 
+Sensitivity analyses were undertaken.
+RESULTS: Overall incremental cost-effectiveness ratios (ICER) were Swedish krona 
+(SEK) 70,000 or lower per quality-adjusted life-year (QALY). IDegLira compared 
+with intensified basal insulin showed an ICER of SEK 28,000 per QALY versus 
+insulin glargine, SEK70,000 per QALY versus NPH insulin and SEK 60,000 per QALY 
+versus NPH insulin plus liraglutide. IDegLira was dominant over insulin glargine 
+plus liraglutide and insulin aspart plus insulin glargine or NPH insulin. 
+Results were driven by the difference in glycated haemoglobin (HbA1c) reduction 
+between treatments, as confirmed by sensitivity analyses.
+CONCLUSIONS: IDegLira is estimated to be a cost-effective treatment in Sweden 
+compared with commonly used intensification treatments for patients with T2DM 
+uncontrolled with basal insulin.
+
+DOI: 10.1007/s40258-016-0301-y
+PMCID: PMC5343072
+PMID: 28063135 [Indexed for MEDLINE]
+
+Conflict of interest statement: FUNDING: This study was funded by Novo Nordisk 
+Scandinavia AB, the manufacturer of IDegLira. CONFLICT OF INTEREST: Åsa Ericsson 
+is an employee of Novo Nordisk Scandinavia AB. Adam Lundqvist is an employee at 
+IHE and declares no conflicts of interest.
+
+
+604. Photochem Photobiol. 2017 Jul;93(4):956-974. doi: 10.1111/php.12711. Epub
+2017  Mar 14.
+
+Phytochemicals for the Prevention of Photocarcinogenesis.
+
+Montes de Oca MK(1), Pearlman RL(1), McClees SF(1), Strickland R(1), Afaq 
+F(1)(2).
+
+Author information:
+(1)Department of Dermatology, University of Alabama at Birmingham, Birmingham, 
+AL.
+(2)Comprehensive Cancer Center, University of Alabama at Birmingham, Birmingham, 
+AL.
+
+Ultraviolet (UV) exposure has an array of damaging effects and is the main cause 
+of skin cancer in humans. Nonmelanoma skin cancer (NMSC), including basal cell 
+carcinoma and squamous cell carcinoma, is the most common type of cancer. 
+Incidence of NMSC has increased due to greater UV radiation, increased life 
+expectancy and other changes in lifestyle; the annual cost of skin cancer 
+treatment in the United States has increased concurrently to around eight 
+billion dollars. Because of these trends, novel approaches to skin cancer 
+prevention have become an important area of research to decrease skin cancer 
+morbidity and defray the costs associated with treatment. Chemoprevention aims 
+to prevent or delay the development of skin cancer through the use of 
+phytochemicals. Use of phytochemicals as chemopreventive agents has gained 
+attention due to their low toxicity and anticarcinogenic properties. 
+Phytochemicals also exhibit antioxidant, anti-inflammatory and antiproliferative 
+effects which support their use as chemopreventive agents, particularly for skin 
+cancer. Preclinical and human studies have shown that phytochemicals decrease 
+UV-induced skin damage and photocarcinogenesis. In this review article, we 
+discuss the selected phytochemicals that may prevent or delay UV-induced 
+carcinogenesis and highlight their potential use for skin protection.
+
+© 2017 The American Society of Photobiology.
+
+DOI: 10.1111/php.12711
+PMCID: PMC5500428
+PMID: 28063168 [Indexed for MEDLINE]
+
+
+605. J Pain. 2017 May;18(5):546-555. doi: 10.1016/j.jpain.2016.12.013. Epub 2017
+Jan  4.
+
+Activity Pattern Profiles: Relationship With Affect, Daily Functioning, 
+Impairment, and Variables Related to Life Goals.
+
+Esteve R(1), López-Martínez AE(2), Peters ML(3), Serrano-Ibáñez ER(2), 
+Ruíz-Párraga GT(2), González-Gómez H(4), Ramírez-Maestre C(2).
+
+Author information:
+(1)Universidad de Málaga, Andalucía Tech, Facultad de Psicología, Málaga, Spain. 
+Electronic address: zarazaga@uma.es.
+(2)Universidad de Málaga, Andalucía Tech, Facultad de Psicología, Málaga, Spain.
+(3)Maastricht University, Department of Psychology and Neuroscience, Clinical 
+Psychological Science, Behavioural Medicine, The Netherlands.
+(4)Unidad de Rehabilitación de la Unidad de Gestión Clínica Carihuela, 
+Torremolinos, Málaga, Spain.
+
+The aim of this cross-sectional study was to identify subgroups of patients on 
+the basis of their activity patterns and to investigate their relationship with 
+life goals, optimism, affect, and functioning. The sample was comprised of 276 
+patients with chronic musculoskeletal pain. Hierarchical cluster analysis was 
+performed on the activity pattern variables and the resulting clusters were 
+compared using 1-way analysis of variance. The 4-cluster was the optimal 
+solution. The 4 clusters comprised: 1) avoiders: patients with high levels of 
+avoidance and low levels of persistence, who use pacing to reduce pain, 2) 
+doers: patients with high levels of persistence and low levels of pacing and 
+avoidance, 3) extreme cyclers: patients with high levels of avoidance and 
+persistence and low levels of pacing, and 4) medium cyclers: patients with 
+moderately high levels of avoidance and persistence and high levels of pacing. 
+Comparison of the clusters showed that doers had the most adaptive profile, 
+whereas avoiders, followed by extreme cyclers, had unhealthy profiles. Doers 
+showed a high level of optimism and a good balance between goal value, 
+expectancy, and conflict.
+PERSPECTIVE: It is useful to distinguish profiles on the basis of various 
+activity patterns. In contrast to profiles characterized by avoidance, profiles 
+characterized by high persistence and low avoidance were associated with 
+adaptive results. Patients with this profile also showed a high level of 
+optimism and a good balance between goal value, expectancy, and conflict.
+
+Copyright © 2017 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jpain.2016.12.013
+PMID: 28063959 [Indexed for MEDLINE]
+
+
+606. Semin Dial. 2017 Mar;30(2):125-133. doi: 10.1111/sdi.12567. Epub 2017 Jan 8.
+
+Arteriovenous Grafts: Much Maligned But in Need of Reconsideration?
+
+Allon M(1).
+
+Author information:
+(1)Division of Nephrology, University of Alabama at Birmingham, Birmingham, 
+Alabama.
+
+There are substantial variations in arteriovenous fistula (AVF) use among 
+hemodialysis patients in different countries, in different regions of the U.S., 
+and even in different hemodialysis units within a single metropolitan area. 
+These variations persist after adjustment for patient demographics and 
+comorbidities, suggesting that practice patterns play a major role in 
+determining the frequency of AVF use. These observations led to vascular access 
+guidelines urging nephrologists and surgeons to increase AVF creation in 
+patients with chronic kidney disease. Over the past 20 years, as clinicians have 
+adopted these guidelines, the prevalence of AVF use in hemodialysis patients has 
+increased substantially. At the same time, clinicians have recognized important 
+limitations of an unwavering "Fistula First" approach. First, a substantial 
+proportion of AVFs fail to mature even when routine preoperative vascular 
+mapping is used, leading to prolonged catheter dependence. Second, certain 
+patient subgroups are at high risk for AVF nonmaturation. Third, nonmaturing 
+AVFs frequently require interventions to promote their maturation. Fourth, AVFs 
+that require such interventions have shortened cumulative patency. Fifth, 
+arteriovenous grafts (AVG) have several advantages over AVFs, including lower 
+primary failure rates, fewer interventions prior to successful cannulation, and 
+shorter duration of catheter dependence with its associated risk of bacteremia. 
+All these observations have led nephrologists to propose an individualized 
+approach to vascular access, with AVG being preferred in patients who initiate 
+hemodialysis with a catheter, particularly if they are at high risk for AVF 
+nonmaturation and have a relatively short life expectancy.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1111/sdi.12567
+PMCID: PMC5334188
+PMID: 28064472 [Indexed for MEDLINE]
+
+
+607. J Pain Symptom Manage. 2017 Mar;53(3):656-662.e1. doi: 
+10.1016/j.jpainsymman.2016.10.371. Epub 2017 Jan 6.
+
+Integrating Supportive Care Principles Into Dialysis Decision Making: A Primer 
+for Palliative Medicine Providers.
+
+Moss AH(1).
+
+Author information:
+(1)Sections of Nephrology and Supportive Care, West Virginia University School 
+of Medicine, Morgantown, West Virginia, USA. Electronic address: 
+amoss@hsc.wvu.edu.
+
+Despite advances in predialysis care and dialysis technology, patients with 
+advanced chronic kidney disease and end-stage renal disease continue to 
+experience multiple comorbidities, a high symptom burden, a shortened life 
+expectancy, and substantial physical, emotional, and spiritual suffering. 
+Patients with acute kidney injury and end-stage renal disease, especially if 
+they are older, often undergo prolonged hospitalizations, greater use of 
+intensive medical treatment, and limited survival. Unfortunately, most 
+nephrologists are not trained to conduct shared decision-making conversations to 
+elicit patients' values, preferences, and goals for treatment and address their 
+patients' multifactorial suffering. These patients would benefit from the 
+integration of supportive care principles into their care. This article 
+addresses how supportive care specialists can collaborate with nephrology 
+clinicians to provide patient-centered supportive care and identifies resources 
+to assist them in this endeavor.
+
+Copyright © 2017 American Academy of Hospice and Palliative Medicine. Published 
+by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jpainsymman.2016.10.371
+PMID: 28065700 [Indexed for MEDLINE]
+
+
+608. Lancet Diabetes Endocrinol. 2017 Mar;5(3):174-183. doi: 
+10.1016/S2213-8587(16)30424-7. Epub 2017 Jan 6.
+
+Laparoscopic Roux-en-Y gastric bypass in adolescents with severe obesity (AMOS): 
+a prospective, 5-year, Swedish nationwide study.
+
+Olbers T(1), Beamish AJ(2), Gronowitz E(3), Flodmark CE(4), Dahlgren J(5), Bruze 
+G(6), Ekbom K(7), Friberg P(8), Göthberg G(9), Järvholm K(10), Karlsson J(11), 
+Mårild S(12), Neovius M(6), Peltonen M(13), Marcus C(7).
+
+Author information:
+(1)Department of Gastrosurgical Research, Sahlgrenska University Hospital, 
+Institute of Clinical Sciences, University of Gothenburg, Gothenburg, Sweden. 
+Electronic address: torsten.olbers@gu.se.
+(2)Department of Gastrosurgical Research, Sahlgrenska University Hospital, 
+Institute of Clinical Sciences, University of Gothenburg, Gothenburg, Sweden; 
+Department of Research, Royal College of Surgeons of England, London, UK.
+(3)Department of Gastrosurgical Research, Sahlgrenska University Hospital, 
+Institute of Clinical Sciences, University of Gothenburg, Gothenburg, Sweden; 
+Department of Paediatrics, Sahlgrenska University Hospital, Institute of 
+Clinical Sciences, University of Gothenburg, Gothenburg, Sweden.
+(4)Childhood Obesity Unit, Skåne University Hospital, Malmö, Sweden.
+(5)Department of Paediatrics, Sahlgrenska University Hospital, Institute of 
+Clinical Sciences, University of Gothenburg, Gothenburg, Sweden.
+(6)Clinical Epidemiology Unit, Department of Medicine, Solna, Karolinska 
+University Hospital, Stockholm, Sweden.
+(7)Department of Clinical Science, Intervention and Technology (CLINTEC), 
+Karolinska Institutet, Stockholm, Sweden.
+(8)Department of Molecular and Clinical Medicine, Institute of Medicine, 
+Sahlgrenska University Hospital, University of Gothenburg, Gothenburg, Sweden.
+(9)Department of Paediatric Surgery, Queen Silvia Children's Hospital, 
+Sahlgrenska University Hospital, Institute of Clinical Sciences, University of 
+Gothenburg, Gothenburg, Sweden.
+(10)Childhood Obesity Unit, Skåne University Hospital, Malmö, Sweden; Department 
+of Psychology, Lund University, Lund, Sweden.
+(11)Department of Psychology, Lund University, Lund, Sweden.
+(12)Department of Health and Care Sciences, Sahlgrenska University Hospital, 
+Institute of Clinical Sciences, University of Gothenburg, Gothenburg, Sweden.
+(13)National Institute for Health and Welfare, Helsinki, Finland.
+
+Erratum in
+    Lancet Diabetes Endocrinol. 2017 May;5(5):e3.
+
+Comment in
+    Lancet Diabetes Endocrinol. 2017 Mar;5(3):152-154.
+    Nat Rev Endocrinol. 2017 Mar;13(3):125.
+    Lancet Diabetes Endocrinol. 2017 May;5(5):326.
+    Lancet Diabetes Endocrinol. 2017 May;5(5):326-327.
+
+BACKGROUND: Severe obesity in adolescence is associated with reduced life 
+expectancy and impaired quality of life. Long-term benefits of conservative 
+treatments in adolescents are known to be modest, whereas short-term outcomes of 
+adolescent bariatric surgery are promising. We aimed to compare 5-year outcomes 
+of adolescent surgical patients after Roux-en-Y gastric bypass with those of 
+conservatively treated adolescents and of adults undergoing Roux-en-Y gastric 
+bypass, in the Adolescent Morbid Obesity Surgery (AMOS) study.
+METHODS: We did a nationwide, prospective, non-randomised controlled study of 
+adolescents (aged 13-18 years) with severe obesity undergoing Roux-en-Y gastric 
+bypass at three specialised paediatric obesity treatment centres in Sweden. We 
+compared clinical outcomes in adolescent surgical patients with those of matched 
+adolescent controls undergoing conservative treatment and of adult controls 
+undergoing Roux-en-Y gastric bypass. The primary outcome measure was change in 
+BMI over 5 years. We used multilevel mixed-effect regression models to assess 
+longitudinal changes. This trial is registered with ClinicalTrials.gov, number 
+NCT00289705.
+FINDINGS: Between April, 2006, and May, 2009, 100 adolescents were recruited to 
+the study, of whom 81 underwent Roux-en-Y gastric bypass (mean age 16·5 years 
+[SD 1·2], bodyweight 132·8 kg [22·1], and BMI 45·5 kg/m2 [SD 6·1]). 80 matched 
+adolescent controls and 81 matched adult controls were enrolled for comparison 
+of outcomes. The change in bodyweight in adolescent surgical patients over 5 
+years was -36·8 kg (95% CI -40·9 to -32·8), resulting in a reduction in BMI of 
+-13·1 kg/m2 (95% CI -14·5 to -11·8), although weight loss less than 10% occurred 
+in nine (11%). Mean BMI rose in adolescent controls (3·3 kg/m2, 95% CI 1·1-4·8) 
+over the 5-year study period, whereas the BMI change in adult controls was 
+similar to that in adolescent surgical patients (mean change -12·3 kg/m2, 95% CI 
+-13·7 to -10·9). Comorbidities and cardiovascular risk factors in adolescent 
+surgical patients showed improvement over 5 years and compared favourably with 
+those in adolescent controls. 20 (25%) of 81 adolescent surgical patients 
+underwent additional abdominal surgery for complications of surgery or rapid 
+weight loss and 58 (72%) showed some type of nutritional deficiency; health-care 
+consumption (hospital attendances and admissions) was higher in adolescent 
+surgical patients compared with adolescent controls. 20 (25%) of 81 adolescent 
+controls underwent bariatric surgery during the 5-year follow-up.
+INTERPRETATION: Adolescents with severe obesity undergoing Roux-en-Y gastric 
+bypass had substantial weight loss over 5 years, alongside improvements in 
+comorbidities and risk factors. However, gastric bypass was associated with 
+additional surgical interventions and nutritional deficiencies. Conventional 
+non-surgical treatment was associated with weight gain and a quarter of patients 
+had bariatric surgery within 5 years.
+FUNDING: Swedish Research Council; Swedish Governmental Agency for Innovation 
+Systems; National Board of Health and Welfare; Swedish Heart and Lung 
+Foundation; Swedish Childhood Diabetes Foundation; Swedish Order of Freemasons 
+Children's Foundation; Stockholm County Council; Västra Götaland Region; Mrs 
+Mary von Sydow Foundation; Stiftelsen Göteborgs Barnhus; Stiftelsen Allmänna 
+Barnhuset; and the US National Institute of Diabetes, Digestive, and Kidney 
+Diseases (National Institutes of Health).
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S2213-8587(16)30424-7
+PMCID: PMC5359414
+PMID: 28065734 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest: TO reports receiving 
+consulting fees for serving as a participant in the global advisory board and 
+lecturing for Ethicon Endo surgery. TO has also received fees for lecturing for 
+AstraZeneca and Sanofi. AJB reports receiving funding from the Royal College of 
+Surgeons of England in the form of a clinical research fellowship. KJ reports 
+receiving a lecturing fee from Nestlé. MN reports receiving consulting fees for 
+participation in the scientific advisory committee of Itrim. Further, MN has 
+received research grants from Pfizer, Cambridge Weight Plan, Novo Nordisk and 
+Astra Zeneca; and lecture and consulting fees from Pfizer, Sanofi-Aventis, Roche 
+and Strategic Health Resources. CM reports receiving consulting fees for 
+participation in the scientific advisory committee of Itrim, Oriflame Wellnes 
+and Sigrid Therapeutics AB. Further, CM has received research grants from Novo 
+Nordisk. EG, CEF, JD, GB, KE, PF, GG, JK, SM, and MP report no conflicts of 
+interest.
+
+
+609. J Thorac Dis. 2016 Nov;8(11):3343-3360. doi: 10.21037/jtd.2016.11.49.
+
+Techniques of endoscopic airway tumor treatment.
+
+Guibert N(1), Mhanna L(1), Droneau S(1), Plat G(1), Didier A(1), Mazieres J(1), 
+Hermant C(1).
+
+Author information:
+(1)Pulmonology Department, Larrey University Hospital, Toulouse, France.
+
+Interventional bronchoscopy has a predominant role in the management of both 
+early and advanced-stage airway tumors. Given the very poor prognosis of lung 
+cancer, there is a need for new tools to improve early detection and 
+bronchoscopic treatment of endo-bronchial precancerous lesions. In more advanced 
+stages, interventional bronchoscopy plays an important role, as nearly a third 
+of lung cancers lead to proximal airway obstruction. This will cause great 
+discomfort or even life-threatening symptoms related to local extension, such as 
+dyspnea, post-obstructive pneumonia, and hemoptysis. Surgery for very locally 
+advanced disease is only effective for a limited number of patients and the 
+effects of conventional antitumor therapies, like radiation therapy or 
+chemotherapy, are inconstant and are too delayed in a palliative context. In 
+this review, we aim to provide pulmonologists with an exhaustive technical 
+overview of (I) the bronchoscopic management of benign endobronchial lesions; 
+(II) the bronchoscopic management of malignant tumors, including the curative 
+treatment of localized lesions and palliative management of malignant proximal 
+airway stenosis; and (III) descriptions of the emerging endoscopic techniques 
+used to treat peripheral lung tumors.
+
+DOI: 10.21037/jtd.2016.11.49
+PMCID: PMC5179419
+PMID: 28066616
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+declare.
+
+
+610. Sci Rep. 2017 Jan 9;7:40018. doi: 10.1038/srep40018.
+
+Autophagy-related protein MoAtg14 is involved in differentiation, development 
+and pathogenicity in the rice blast fungus Magnaporthe oryzae.
+
+Liu XH(1), Zhao YH(1), Zhu XM(1), Zeng XQ(2), Huang LY(1), Dong B(3), Su 
+ZZ(1)(4), Wang Y(1), Lu JP(5), Lin FC(1).
+
+Author information:
+(1)State Key Laboratory for Rice Biology, Biotechnology Institute, Zhejiang 
+University, Hangzhou, 310058, China.
+(2)State Intellectual Property Office of the People's Republic of China, 
+Beijing, 100080, China.
+(3)State Key Laboratory of Breeding Base for Zhejiang Sustainable Pest and 
+Disease Control, Institute of Virology and Biotechnology, Zhejiang Academy of 
+Agricultural Sciences, Hangzhou 310021, Zhejiang Province, China.
+(4)Agricultural Technology Extension Center, Zhejiang University, Hangzhou, 
+310058, China.
+(5)College of Life Sciences, Zhejiang University, Hangzhou, 310058, China.
+
+Autophagy is the major intracellular degradation system by which cytoplasmic 
+materials are delivered to and degraded in the vacuole/lysosome in eukaryotic 
+cells. MoAtg14 in M. oryzae, a hitherto uncharacterized protein, is the highly 
+divergent homolog of the yeast Atg14 and the mammal BARKOR. The MoATG14 deletion 
+mutant exhibited collapse in the center of the colonies, poor conidiation and a 
+complete loss of virulence. Significantly, the ΔMoatg14 mutant showed delayed 
+breakdown of glycogen, less lipid bodies, reduced turgor pressure in the 
+appressorium and impaired conidial autophagic cell death. The autophagic process 
+was blocked in the ΔMoatg14 mutant, and the autophagic degradation of the marker 
+protein GFP-MoAtg8 was interrupted. GFP-MoAtg14 co-localized with mCherry-MoAtg8 
+in the aerial hypha. In addition, a conserved coiled-coil domain was predicted 
+in the N-terminal region of the MoAtg14 protein, a domain which could mediate 
+the interaction between MoAtg14 and MoAtg6. The coiled-coil domain of the 
+MoAtg14 protein is essential for its function in autophagy and pathogenicity.
+
+DOI: 10.1038/srep40018
+PMCID: PMC5220305
+PMID: 28067330 [Indexed for MEDLINE]
+
+
+611. Head Neck. 2017 Mar;39(3):602-604. doi: 10.1002/hed.24668. Epub 2017 Jan 9.
+
+Single innervated segmented vastus lateralis for midfacial reanimation during 
+radical parotidectomy.
+
+Chong LS(1)(2), Eviston TJ(1)(2), Ashford B(3), Ebrahami A(4)(5), Clark 
+JR(2)(4)(6).
+
+Author information:
+(1)Prince of Wales Clinical School, University of New South Wales, Sydney, New 
+South Wales, Australia.
+(2)Department of Head and Neck Surgery, Chris O'Brien Lifehouse, Camperdown, New 
+South Wales, Australia.
+(3)Department of Head and Neck Surgery, Wollongong Hospital, Wollongong, New 
+South Wales, Australia.
+(4)South Western Clinical School, University of New South Wales, Sydney, New 
+South Wales, Australia.
+(5)Department of Head and Neck Surgery, Liverpool Hospital, Liverpool, New South 
+Wales, Australia.
+(6)Central Clinical School, University of Sydney, Sydney, New South Wales, 
+Australia.
+
+BACKGROUND: Innervated free muscle transfer using the gracilis muscle or 
+temporalis myoplasty has been successfully utilized for facial reanimation in 
+chronic facial palsy. These techniques are less suited to immediate facial 
+reconstruction in the setting of radical parotidectomy, in which the complexity 
+of the defect, patient age, postoperative radiotherapy, and limited life 
+expectancy pose particular challenges.
+METHODS: We present a novel description of the use of a chimeric anterolateral 
+thigh (ALT) flap and innervated vastus lateralis to achieve midface static 
+suspension and dynamic reanimation in the setting of radical parotidectomy.
+RESULTS: The technique is described in detail along with a video demonstrating 
+the early and medium-term results in an example case.
+CONCLUSION: Although outcomes using the vastus lateralis free flap for midface 
+reanimation need to be objectively determined, the flap adds the potential of 
+dynamic midface movement in patients undergoing radical parotidectomy who would 
+otherwise not be afforded this opportunity. © 2017 Wiley Periodicals, Inc. Head 
+Neck 39: 602-604, 2017.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24668
+PMID: 28067972 [Indexed for MEDLINE]
+
+
+612. Inform Health Soc Care. 2018 Jan;43(1):42-55. doi: 
+10.1080/17538157.2016.1255632. Epub 2017 Jan 9.
+
+Personalized risk communication for personalized risk assessment: Real world 
+assessment of knowledge and motivation for six mortality risk measures from an 
+online life expectancy calculator.
+
+Manuel DG(1)(2)(3)(4)(5), Abdulaziz KE(1), Perez R(1)(5), Beach S(1), Bennett 
+C(1)(5).
+
+Author information:
+(1)a Clinical Epidemiology Program, Ottawa Hospital Research Institute , Ottawa 
+, ON , Canada.
+(2)b Departments of Family Medicine , University of Ottawa , Ottawa , ON , 
+Canada.
+(3)c Bruyère Research Institute , Ottawa , ON , Canada.
+(4)d School of Public and Population Health, University of Ottawa , Ottawa , ON 
+, Canada.
+(5)e Institute for Clinical Evaluative Sciences , Ottawa and Toronto , ON , 
+Canada.
+
+In the clinical setting, previous studies have shown personalized risk 
+assessment and communication improves risk perception and motivation. We 
+evaluated an online health calculator that estimated and presented six different 
+measures of life expectancy/mortality based on a person's sociodemographic and 
+health behavior profile. Immediately after receiving calculator results, 
+participants were invited to complete an online survey that asked how 
+informative and motivating they found each risk measure, whether they would 
+share their results and whether the calculator provided information they need to 
+make lifestyle changes. Over 80% of the 317 survey respondents found at least 
+one of six healthy living measures highly informative and motivating, but there 
+was moderate heterogeneity regarding which measures respondents found most 
+informative and motivating. Overall, health age was most informative and life 
+expectancy most motivating. Approximately 40% of respondents would share the 
+results with their clinician (44%) or social networks (38%), although the 
+information they would share was often different from what they found 
+informative or motivational. Online personalized risk assessment allows for a 
+more personalized communication compared to historic paper-based risk assessment 
+to maximize knowledge and motivation, and people should be provided a range of 
+risk communication measures that reflect different risk perspectives.
+
+DOI: 10.1080/17538157.2016.1255632
+PMID: 28068156 [Indexed for MEDLINE]
+
+
+613. Int J Radiat Oncol Biol Phys. 2017 Feb 1;97(2):339-346. doi: 
+10.1016/j.ijrobp.2016.10.009. Epub 2016 Oct 19.
+
+Cost-Effectiveness Analysis of Preoperative Versus Postoperative Radiation 
+Therapy in Extremity Soft Tissue Sarcoma.
+
+Qu XM(1), Louie AV(2), Ashman J(3), Wasif N(4).
+
+Author information:
+(1)Department of Oncology, Queen's University, Kingston, Ontario, Canada.
+(2)Department of Radiation Oncology, London Health Sciences Center, London, 
+Ontario, Canada.
+(3)Department of Radiation Oncology, Mayo Clinic Arizona, Phoenix, Arizona.
+(4)Department of General Surgery, Mayo Clinic Arizona, Phoenix, Arizona. 
+Electronic address: wasif.nabil@mayo.edu.
+
+PURPOSE: Surgery combined with radiation therapy (RT) is the cornerstone of 
+multidisciplinary management of extremity soft tissue sarcoma (STS). Although RT 
+can be given in either the preoperative or the postoperative setting with 
+similar local recurrence and survival outcomes, the side effect profiles, costs, 
+and long-term functional outcomes are different. The aim of this study was to 
+use decision analysis to determine optimal sequencing of RT with surgery in 
+patients with extremity STS.
+METHODS AND MATERIALS: A cost-effectiveness analysis was conducted using a state 
+transition Markov model, with quality-adjusted life years (QALYs) as the primary 
+outcome. A time horizon of 5 years, a cycle length of 3 months, and a 
+willingness-to-pay threshold of $50,000/QALY was used. One-way deterministic 
+sensitivity analyses were performed to determine the thresholds at which each 
+strategy would be preferred. The robustness of the model was assessed by 
+probabilistic sensitivity analysis.
+RESULTS: Preoperative RT is a more cost-effective strategy ($26,633/3.00 QALYs) 
+than postoperative RT ($28,028/2.86 QALYs) in our base case scenario. 
+Preoperative RT is the superior strategy with either 3-dimensional conformal RT 
+or intensity-modulated RT. One-way sensitivity analyses identified the relative 
+risk of chronic adverse events as having the greatest influence on the preferred 
+timing of RT. The likelihood of preoperative RT being the preferred strategy was 
+82% on probabilistic sensitivity analysis.
+CONCLUSIONS: Preoperative RT is more cost effective than postoperative RT in the 
+management of resectable extremity STS, primarily because of the higher 
+incidence of chronic adverse events with RT in the postoperative setting.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ijrobp.2016.10.009
+PMID: 28068242 [Indexed for MEDLINE]
+
+
+614. Transl Res. 2017 May;183:41-56. doi: 10.1016/j.trsl.2016.12.007. Epub 2016
+Dec  23.
+
+HIV and its relationship to insulin resistance and lipid abnormalities.
+
+Non LR(1), Escota GV(2), Powderly WG(2).
+
+Author information:
+(1)Division of Infectious Diseases, Department of Medicine, Washington 
+University School of Medicine, St. Louis, Mo. Electronic address: 
+l.non@wustl.edu.
+(2)Division of Infectious Diseases, Department of Medicine, Washington 
+University School of Medicine, St. Louis, Mo.
+
+Antiretroviral therapy has revolutionized the care of people with human 
+immunodeficiency virus (HIV) by reducing morbidity and mortality from acquired 
+immunodeficiency syndrome-related conditions. Despite longer life expectancy, 
+however, HIV-infected individuals continue to have a higher risk of death 
+compared with the general population. This has been attributed to the increasing 
+incidence of noncommunicable diseases, in particular, atherosclerotic 
+cardiovascular diseases. This is driven, in part, by the emergence of metabolic 
+disorders, particularly dyslipidemia, insulin resistance, and lipodystrophy, in 
+those on antiretroviral therapy. The pathogenesis of these metabolic 
+derangements is complex and multifactorial, and could be a consequence of an 
+interplay between traditional age-related risk factors, HIV infection, 
+antiretroviral therapy effects, and the inflammatory state and immune activation 
+in this population. Understanding the contributions of each of these factors 
+could not just impact the current management of these individuals and help 
+mitigate the risk for premature cardiovascular disease, but also shape the 
+future direction of research in HIV.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.trsl.2016.12.007
+PMID: 28068521 [Indexed for MEDLINE]
+
+
+615. Biomaterials. 2017 Mar;121:41-54. doi: 10.1016/j.biomaterials.2017.01.002.
+Epub  2017 Jan 3.
+
+Visible light-induced crosslinking and physiological stabilization of 
+diselenide-rich nanoparticles for redox-responsive drug release and combination 
+chemotherapy.
+
+Zhai S(1), Hu X(2), Hu Y(1), Wu B(1), Xing D(3).
+
+Author information:
+(1)MOE Key Laboratory of Laser Life Science & Institute of Laser Life Science, 
+College of Biophotonics, South China Normal University, Guangzhou, 510631, 
+China.
+(2)MOE Key Laboratory of Laser Life Science & Institute of Laser Life Science, 
+College of Biophotonics, South China Normal University, Guangzhou, 510631, 
+China. Electronic address: xlhu@scnu.edu.cn.
+(3)MOE Key Laboratory of Laser Life Science & Institute of Laser Life Science, 
+College of Biophotonics, South China Normal University, Guangzhou, 510631, 
+China. Electronic address: xingda@scnu.edu.cn.
+
+Undesired physiological instability of nanocarriers and premature drug leakage 
+during blood circulation result in compromised therapeutic efficacy and severe 
+side effects, which have significantly impeded the development of nanomedicine. 
+Facile crosslinking of drug-loaded nanocarriers while keeping the potency of 
+site-specific degradation and drug release has emerged as a viable strategy to 
+overcome these drawbacks. Additionally, combination therapy has already shown 
+advantages in inhibiting advanced tumors and life extension than single drug 
+therapy. Herein, three kinds of diselenide-rich polymers were fabricated with 
+distinct hydrophobic side chains. The component effect was interrogated to 
+screen out PEG-b-PBSe diblock copolymer due to its favorable self-assembly 
+controllability and high drug loading of camptothecin (CPT) and doxorubicin 
+(DOX) that had synergistic antitumor property. Facile visible light-induced 
+diselenide metathesis and regeneration was employed to crosslink nanocarriers 
+for the first time. The dual drug-loaded crosslinked micelles (CPT/DOX-CCM) were 
+stable in physiological conditions with minimal drug leakage, possessing 
+extended blood circulation, whereas hand-in-hand dual drug release was 
+significantly accelerated in tumor's redox microenvironments. In vitro 
+cytotoxicity evaluation and in vivo tumor suppression with low dosage drugs 
+further demonstrated the favorable potency of the redox-responsive nanoplatform 
+in tumor combination chemotherapy.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biomaterials.2017.01.002
+PMID: 28068593 [Indexed for MEDLINE]
+
+
+616. Lancet. 2017 Feb 11;389(10069):612-620. doi: 10.1016/S0140-6736(16)31403-9.
+Epub  2017 Jan 7.
+
+Masitinib for treatment of severely symptomatic indolent systemic mastocytosis: 
+a randomised, placebo-controlled, phase 3 study.
+
+Lortholary O(1), Chandesris MO(2), Bulai Livideanu C(3), Paul C(3), Guillet 
+G(4), Jassem E(5), Niedoszytko M(5), Barete S(6), Verstovsek S(7), Grattan C(8), 
+Damaj G(9), Canioni D(10), Fraitag S(10), Lhermitte L(11), Georgin Lavialle 
+S(12), Frenzel L(13), Afrin LB(14), Hanssens K(15), Agopian J(15), Gaillard 
+R(16), Kinet JP(17), Auclair C(18), Mansfield C(19), Moussy A(19), Dubreuil 
+P(20), Hermine O(21).
+
+Author information:
+(1)Department of Infectious Diseases and Tropical Medicine and Centre 
+d'Infectiologie Necker-Pasteur, Université Paris Descartes, Hôpital Necker 
+Enfants Malades, Assistance Publique Hôpitaux de Paris, Paris, France; Centre de 
+Référence des Mastocytoses, Université Paris Descartes, Hôpital Necker Enfants 
+Malades, Assistance Publique Hôpitaux de Paris, Paris, France; Université Paris 
+Descartes, Paris, France.
+(2)Department of Hematology, Université Paris Descartes, Hôpital Necker Enfants 
+Malades, Assistance Publique Hôpitaux de Paris, Paris, France.
+(3)Department of Dermatology, Mastocytosis Competence Center, Paul Sabatier 
+University, Hôpital Larrey, Toulouse, France.
+(4)Department of Dermatology, CHU Poitiers, University Hospital, Poitiers, 
+France.
+(5)Department of Allergology, Medical University of Gdansk, Gdansk, Poland.
+(6)Department of Dermatology and Allergology, Centre de Référence des 
+Mastocytoses, Université Pierre et Marie Curie, Hôpital Tenon, Assistance 
+Publique Hôpitaux de Paris, Paris, France.
+(7)Hanns A Pielenz Clinical Research Center for Myeloproliferative Neoplasms, 
+Department of Leukemia, MD Anderson Cancer Center, Houston, TX, USA.
+(8)Department of Dermatology, Norfolk & Norwich University Hospital, Norwich, 
+UK.
+(9)Department of Haematology, University Hospital of Caen, Institut 
+d'Hématologie de Basse Normandie, School of Medicine, University of Lower 
+Normandy, Caen, France.
+(10)Department of Pathology, Université Paris Descartes, Hôpital Necker Enfants 
+Malades, Assistance Publique Hôpitaux de Paris, Paris, France.
+(11)INSERM U1151 and Laboratory of Onco-Hematology, Université Paris Descartes, 
+Hôpital Necker Enfants Malades, Assistance Publique Hôpitaux de Paris, Paris, 
+France.
+(12)Department of Internal Medicine, DHU I2B, Université Pierre et Marie Curie, 
+Hôpital Tenon, Assistance Publique Hôpitaux de Paris, Paris, France.
+(13)Department of Hematology, Université Paris Descartes, Hôpital Necker Enfants 
+Malades, Assistance Publique Hôpitaux de Paris, Paris, France; Institut Imagine 
+INSERM U1163 and CNRS ERL8654, Université Paris Descartes, Hôpital Necker 
+Enfants Malades, Assistance Publique Hôpitaux de Paris, Paris, France.
+(14)Division of Hematology, Oncology & Transplantation, University of Minnesota, 
+Minneapolis, MN, USA.
+(15)Centre de Référence des Mastocytoses, Université Paris Descartes, Hôpital 
+Necker Enfants Malades, Assistance Publique Hôpitaux de Paris, Paris, France; AB 
+Science, Paris, France.
+(16)Human Histopathology and Animal Models, Infection and Epidemiology 
+Department, Institut Pasteur; Université Paris Descartes; Centre Hospitalier 
+Sainte-Anne, Paris, France.
+(17)Department of Pathology, Harvard Medical School and Beth Israel Deaconess 
+Medical Center, Boston, MA, USA.
+(18)Laboratoire de Biologie et Pharmacologie appliqué, CNRS UMR 8113, Ecole 
+Normale Supérieure de Cachan, Université Paris Saclay, Paris, France; AB 
+Science, Paris, France.
+(19)AB Science, Paris, France.
+(20)Centre de Référence des Mastocytoses, Université Paris Descartes, Hôpital 
+Necker Enfants Malades, Assistance Publique Hôpitaux de Paris, Paris, France; 
+INSERM U1068, CRCM (Signaling, Hematopoiesis and Mechanism of Oncogenesis), 
+Institut Paoli-Calmettes, Aix-Marseille Université, CNRS, UMR7258, Marseille, 
+France; AB Science, Paris, France; INSERM, La Ligue Nationale Contre le Cancer 
+(équipe labelliseé), Paris, France.
+(21)Department of Hematology, Université Paris Descartes, Hôpital Necker Enfants 
+Malades, Assistance Publique Hôpitaux de Paris, Paris, France; Institut Imagine 
+INSERM U1163 and CNRS ERL8654, Université Paris Descartes, Hôpital Necker 
+Enfants Malades, Assistance Publique Hôpitaux de Paris, Paris, France; AB 
+Science, Paris, France. Electronic address: ohermine@gmail.com.
+
+Comment in
+    Lancet. 2017 Feb 11;389(10069):576-578.
+
+BACKGROUND: Indolent systemic mastocytosis, including the subvariant of 
+smouldering systemic mastocytosis, is a lifelong condition associated with 
+reduced quality of life. Masitinib inhibits KIT and LYN kinases that are 
+involved in indolent systemic mastocytosis pathogenesis. We aimed to assess 
+safety and efficacy of masitinib versus placebo in severely symptomatic patients 
+who were unresponsive to optimal symptomatic treatments.
+METHODS: In this randomised, double-blind, placebo-controlled, phase 3 study, we 
+enrolled adults (aged 18-75 years) with indolent or smouldering systemic 
+mastocytosis, according to WHO classification or documented mastocytosis based 
+on histological criteria, at 50 centres in 15 countries. We excluded patients 
+with cutaneous or non-severe systemic mastocytosis after a protocol amendment. 
+Patients were centrally randomised (1:1) to receive either oral masitinib (6 
+mg/kg per day over 24 weeks with possible extension) or matched placebo with 
+minimisation according to severe symptoms. The primary endpoint was cumulative 
+response (≥75% improvement from baseline within weeks 8-24) in at least one 
+severe baseline symptom from the following: pruritus score of 9 or more, eight 
+or more flushes per week, Hamilton Rating Scale for Depression of 19 or more, or 
+Fatigue Impact Scale of 75 or more. We assessed treatment effect using repeated 
+measures methodology for rare diseases via the generalised estimating equation 
+model in a modified intention-to-treat population, including all participants 
+assigned to treatment minus those who withdrew due to a non-treatment-related 
+cause. We assessed safety in all patients who received at least one dose of 
+study drug. This trial is registered with ClinicalTrials.gov, number 
+NCT00814073.
+FINDINGS: Between Feb 19, 2009, and July 15, 2015, 135 patients were randomly 
+assigned to masitinib (n=71) or placebo (n=64). By 24 weeks, masitinib was 
+associated with a cumulative response of 18·7% in the primary endpoint (122·6 
+responses of 656·5 possible responses [weighted generalised estimating 
+equation]) compared with 7·4% for placebo (48·9 of 656·5; difference 11·3%; odds 
+ratio 3·6; 95% CI 1·2-10·8; p=0·0076). Frequent severe adverse events (>4% 
+difference from placebo) were diarrhoea (eight [11%] of 70 in the masitinib 
+group vs one [2%] of 63 in the placebo group), rash (four [6%] vs none), and 
+asthenia (four [6%] vs one [2%]). The most frequent serious adverse events were 
+diarrhoea (three patients [4%] vs one [2%]) and urticaria (two [3%] vs none), 
+and no life-threatening toxicities occurred. One patient in the placebo group 
+died (unrelated to study treatment).
+INTERPRETATION: These study findings indicate that masitinib is an effective and 
+well tolerated agent for the treatment of severely symptomatic indolent or 
+smouldering systemic mastocytosis.
+FUNDING: AB Science (Paris, France).
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(16)31403-9
+PMCID: PMC5985971
+PMID: 28069279 [Indexed for MEDLINE]
+
+Conflict of interest statement: DECLARATION OF INTERESTS: Masitinib is under 
+clinical development by the study funder, AB Science. AM, CM, KH, and JA are 
+employees and shareholders of AB Science. OH is the President of the Scientific 
+Committee of AB Science. PD, CA, and J-PK are consultants and shareholders of AB 
+Science. All remaining authors have no competing interests.
+
+
+617. BMJ Open. 2017 Jan 9;7(1):e013158. doi: 10.1136/bmjopen-2016-013158.
+
+The costs of diabetes among Australians aged 45-64 years from 2015 to 2030: 
+projections of lost productive life years (PLYs), lost personal income, lost 
+taxation revenue, extra welfare payments and lost gross domestic product from 
+Health&WealthMOD2030.
+
+Schofield D(1)(2)(3), Shrestha RN(1), Cunich MM(1), Passey ME(4), Veerman L(5), 
+Tanton R(6), Kelly SJ(6).
+
+Author information:
+(1)Faculty of Pharmacy, Charles Perkins Centre, The University of Sydney, 
+Sydney, New South Wales, Australia.
+(2)Murdoch Children's Research Institute, Royal Children's Hospital Flemington 
+Road, Parkville, Victoria, Australia.
+(3)Garvan Institute of Medical Research, Sydney, New South Wales, Australia.
+(4)University Centre for Rural Health, School of Public Health, The University 
+of Sydney, Lismore, New South Wales, Australia.
+(5)Faculty of Medicine and Biomedical Sciences, School of Public Health, 
+University of Queensland, Brisbane, Queensland, Australia.
+(6)National Centre for Social and Economic Modelling, University of Canberra, 
+Canberra, Australian Capital Territory, Australia.
+
+OBJECTIVES: To project the number of people aged 45-64 years with lost 
+productive life years (PLYs) due to diabetes and related costs (lost income, 
+extra welfare payments, lost taxation revenue); and lost gross domestic product 
+(GDP) attributable to diabetes in Australia from 2015 to 2030.
+DESIGN: A simulation study of how the number of people aged 45-64 years with 
+diabetes increases over time (based on population growth and disease trend data) 
+and the economic losses incurred by individuals and the government. 
+Cross-sectional outputs of a microsimulation model (Health&WealthMOD2030) which 
+used the Australian Bureau of Statistics' Survey of Disability, Ageing and 
+Carers 2003 and 2009 as a base population and integrated outputs from two 
+microsimulation models (Static Incomes Model and Australian Population and 
+Policy Simulation Model), Treasury's population and labour force projections, 
+and chronic disease trends data.
+SETTING: Australian population aged 45-64 years in 2015, 2020, 2025 and 2030.
+OUTCOME MEASURES: Lost PLYs, lost income, extra welfare payments, lost taxation 
+revenue, lost GDP.
+RESULTS: 18 100 people are out of the labour force due to diabetes in 2015, 
+increasing to 21 400 in 2030 (18% increase). National costs consisted of a loss 
+of $A467 million in annual income in 2015, increasing to $A807 million in 2030 
+(73% increase). For the government, extra annual welfare payments increased from 
+$A311 million in 2015 to $A350 million in 2030 (13% increase); and lost annual 
+taxation revenue increased from $A102 million in 2015 to $A166 million in 2030 
+(63% increase). A loss of $A2.1 billion in GDP was projected for 2015, 
+increasing to $A2.9 billion in 2030 attributable to diabetes through its impact 
+on PLYs.
+CONCLUSIONS: Individuals incur significant costs of diabetes through lost PLYs 
+and lost income in addition to disease burden through human suffering and 
+healthcare costs. The government incurs extra welfare payments, lost taxation 
+revenue and lost GDP, along with direct healthcare costs.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not 
+already granted under a licence) please go to 
+http://www.bmj.com/company/products-services/rights-and-licensing/.
+
+DOI: 10.1136/bmjopen-2016-013158
+PMCID: PMC5223630
+PMID: 28069621 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: None declared.
+
+
+618. BMJ Open. 2017 Jan 9;7(1):e013592. doi: 10.1136/bmjopen-2016-013592.
+
+Cost-effectiveness of a pragmatic structured education intervention for the 
+prevention of type 2 diabetes: economic evaluation of data from the Let's 
+Prevent Diabetes cluster-randomised controlled trial.
+
+Leal J(1), Ahrabian D(1), Davies MJ(2)(3), Gray LJ(4), Khunti K(2), Yates 
+T(2)(3), Gray AM(1).
+
+Author information:
+(1)Nuffield Department of Population Health, Health Economics Research Centre, 
+University of Oxford, Oxford, UK.
+(2)Diabetes Research Centre, University of Leicester, Leicester, UK.
+(3)Leicester-Loughborough Diet, Lifestyle and Physical Activity Biomedical 
+Research Unit, Leicester, UK.
+(4)Department of Health Sciences, University of Leicester, Leicester, UK.
+
+OBJECTIVES: Prevention of type 2 diabetes mellitus (TD2M) is a priority for 
+healthcare systems. We estimated the cost-effectiveness compared with standard 
+care of a structured education programme (Let's Prevent) targeting lifestyle and 
+behaviour change to prevent progression to T2DM in people with prediabetes.
+DESIGN: Cost-effectiveness analysis alongside randomised controlled trial.
+SETTING: 44 general practices in Leicestershire, England.
+PARTICIPANTS: 880 participants with prediabetes randomised to receive either 
+standard care or a 6-hour group structured education programme with follow-up 
+sessions in a primary care setting.
+MAIN OUTCOME MEASURE: Incremental cost utility from the UK National Health 
+Service (NHS) perspective. Quality of life and resource use measured from 
+baseline and during the 36 months follow-up using the EuroQoL EQ-5D and 15D 
+instruments and an economic questionnaire. Outcomes measured using 
+quality-adjusted life years (QALYs) and healthcare costs calculated in 2012-2013 
+prices.
+RESULTS: After accounting for clustering and missing data, the intervention 
+group was found to have a net gain of 0.046 (95% CI -0.0171 to 0.109) QALYs over 
+3 years, adjusted for baseline utility, at an additional cost of £168 (95% CI 
+-395 to 732) per patient compared with the standard care group. The incremental 
+cost-effectiveness ratio is £3643/QALY with an 86% probability of being 
+cost-effective at a willingness to pay threshold of £20 000/QALY.
+CONCLUSIONS: The education programme had higher costs and higher quality of life 
+compared with the standard care group. The Let's Prevent programme is very 
+likely to be cost-effective at a willingness to pay threshold of £20 000/QALY 
+gained.
+TRIAL REGISTRATION NUMBER: ISRCTN80605705.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not 
+already granted under a licence) please go to 
+http://www.bmj.com/company/products-services/rights-and-licensing/.
+
+DOI: 10.1136/bmjopen-2016-013592
+PMCID: PMC5223732
+PMID: 28069625 [Indexed for MEDLINE]
+
+Conflict of interest statement: An adapted version of the Let's Prevent Diabetes 
+intervention is on the framework for the NHS Diabetes Prevention Programme. This 
+work is led by Ingeus (main contractor), and Leicester Diabetes Centre, 
+University Hospitals of Leicester (sub-contractor) will provide training and 
+quality assurance for which funding will be received. MJD, KK, TY and LJG were 
+involved in the development of this adapted programme. MJD, KK and TY were 
+members (KK chair) of the NICE PH 38 (preventing type 2 diabetes: risk 
+identification and interventions for individuals at high risk) Programme 
+Development Group.
+
+
+619. Ecol Evol. 2016 Dec 16;7(1):145-188. doi: 10.1002/ece3.2579. eCollection
+2017  Jan.
+
+The database of the PREDICTS (Projecting Responses of Ecological Diversity In 
+Changing Terrestrial Systems) project.
+
+Hudson LN(1), Newbold T(2), Contu S(1), Hill SL(3), Lysenko I(4), De Palma A(5), 
+Phillips HR(5), Alhusseini TI(6), Bedford FE(7), Bennett DJ(4), Booth H(8), 
+Burton VJ(9), Chng CW(4), Choimes A(5), Correia DL(10), Day J(4), 
+Echeverría-Londoño S(5), Emerson SR(1), Gao D(1), Garon M(4), Harrison ML(4), 
+Ingram DJ(11), Jung M(11), Kemp V(12), Kirkpatrick L(13), Martin CD(14), Pan 
+Y(15), Pask-Hale GD(1), Pynegar EL(16), Robinson AN(6), Sanchez-Ortiz K(17), 

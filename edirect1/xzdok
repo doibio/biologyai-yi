@@ -1,0 +1,1000 @@
+arterial pressure (MAP) during SCI surgery predicts long-term functional 
+recovery in rodent models, motivating the present multicenter study in patients.
+METHODS: Intra-operative monitoring records and neurological outcome data were 
+extracted (n = 118 patients). We built a similarity network of patients from a 
+low-dimensional space embedded using a non-linear algorithm, Isomap, and ensured 
+topological extraction using persistent homology metrics. Confirmatory analysis 
+was conducted through regression methods.
+RESULTS: Network analysis suggested that time outside of an optimum MAP range 
+(hypotension or hypertension) during surgery was associated with lower 
+likelihood of neurological recovery at hospital discharge. Logistic and LASSO 
+(least absolute shrinkage and selection operator) regression confirmed these 
+findings, revealing an optimal MAP range of 76-[104-117] mmHg associated with 
+neurological recovery.
+CONCLUSIONS: We show that deviation from this optimal MAP range during SCI 
+surgery predicts lower probability of neurological recovery and suggest new 
+targets for therapeutic intervention.
+FUNDING: NIH/NINDS: R01NS088475 (ARF); R01NS122888 (ARF); UH3NS106899 (ARF); 
+Department of Veterans Affairs: 1I01RX002245 (ARF), I01RX002787 (ARF); Wings for 
+Life Foundation (ATE, ARF); Craig H. Neilsen Foundation (ARF); and DOD: SC150198 
+(MSB); SC190233 (MSB).
+
+Plain Language Summary: Spinal cord injury is a devastating condition that 
+involves damage to the nerve fibers connecting the brain with the spinal cord, 
+often leading to permanent changes in strength, sensation and body functions, 
+and in severe cases paralysis. Scientists around the world work hard to find 
+ways to treat or even repair spinal cord injuries but few patients with complete 
+immediate paralysis recover fully. Immediate paralysis is caused by direct 
+damage to neurons and their extension in the spinal cord. Previous research has 
+shown that blood pressure regulation may be key in saving these damaged neurons, 
+as spinal cord injuries can break the communication between nerves that is 
+involved in controlling blood pressure. This can lead to a vicious cycle of 
+dysregulation of blood pressure and limit the supply of blood and oxygen to the 
+damaged spinal cord tissue, exacerbating the death of spinal neurons. Management 
+of blood pressure is therefore a key target for spinal cord injury care, but so 
+far, the precise thresholds to enable neurons to recover are poorly understood. 
+To find out more, Torres-Espin, Haefeli et al. used machine learning software to 
+analyze previously recorded blood pressure and heart rate data obtained from 118 
+patients that underwent spinal cord surgery after acute spinal cord injury. The 
+analyses revealed that patients who suffered from either low or high blood 
+pressure during surgery had poorer prospects of recovery. Statistical models 
+confirming these findings showed that the optimal blood pressure range to ensure 
+recovery lies between 76 to 104-117 mmHg. Any deviation from this narrow window 
+would dramatically worsen the ability to recover. These findings suggests that 
+dysregulated blood pressure during surgery affects to odds of recovery in 
+patients with a spinal cord injury. Torres-Espin, Haefeli et al. provide 
+specific information that could improve current clinical practice in trauma 
+centers. In the future, such machine learning tools and models could help 
+develop real-time models that could predict the likelihood of a patient’s 
+recovery following spinal cord injury and related neurological conditions.
+
+© 2021, Torres-Espín et al.
+
+DOI: 10.7554/eLife.68015
+PMCID: PMC8639149
+PMID: 34783309 [Indexed for MEDLINE]
+
+Conflict of interest statement: AT, JH, RE, DT, CA, JH, AC, DM, NS, BD, CS, JN, 
+NK, DH, JT, GM, SD, WW, JB, MB, SM, JP, AF No competing interests declared
+
+
+700. J Appl Res Intellect Disabil. 2022 Mar;35(2):312-337. doi:
+10.1111/jar.12953.  Epub 2021 Nov 15.
+
+Psychosocial interventions for older people with intellectual disabilities and 
+the role of support staff: A systematic review.
+
+Thalen M(1)(2), Volkers KM(2), van Oorsouw WMWJ(1), Embregts PJCM(1).
+
+Author information:
+(1)Tranzo, Tilburg School of Social and Behavioural Sciences, Tilburg 
+University, Tilburg, The Netherlands.
+(2)Philadelphia Care Foundation, Amersfoort, The Netherlands.
+
+BACKGROUND: The life expectancy of people with intellectual disabilities has 
+increased. The implications of ageing have resulted in changes in their support 
+needs and challenges to support staff. Access to evidence based strategies for 
+support staff providing care to elderly with intellectual disabilities remains 
+scarce. A systematic review was conducted to provide an overview of available 
+psychosocial interventions.
+METHODS: Four databases were searched and assessed according to the PRISMA 
+guidelines. A narrative, integrative method of analysis was conducted to 
+synthesise quantitative and qualitative data.
+RESULTS: The 36 studies included in the review reported on interventions aimed 
+at either identifying and meeting the needs or perceptions of older individuals 
+or at improving their behaviour and skills. Furthermore, the role of support 
+staff in the implementation of interventions was either active, assisting or 
+undefined.
+CONCLUSIONS: This overview of studies could contribute to the existing body of 
+knowledge and help to optimise psychosocial support for a growing population.
+
+© 2021 The Authors. Journal of Applied Research in Intellectual Disabilities 
+published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jar.12953
+PMCID: PMC9298902
+PMID: 34783418 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare not to have any conflict of 
+interest.
+
+
+701. Am Fam Physician. 2021 Nov 1;104(5):493-499.
+
+End-Stage Renal Disease: Medical Management.
+
+Wouk N(1).
+
+Author information:
+(1)Piedmont Health Services, Prospect Hill, NC, USA.
+
+End-stage renal disease (ESRD) is diagnosed when kidney function is no longer 
+adequate for long-term survival without kidney transplantation or dialysis. 
+Primary care clinicians should refer people at risk of ESRD to nephrology to 
+optimize disease management. Kidney transplantation typically yields the best 
+patient outcomes, although most patients are treated with dialysis. The decision 
+to initiate dialysis is best made through shared decision-making. Because most 
+patients with ESRD elect to receive hemodialysis, the preservation of peripheral 
+veins is important for those with stage III to V chronic kidney disease. A 
+palliative approach to ESRD is a reasonable alternative to dialysis, 
+particularly for individuals with limited life expectancy, with severe comorbid 
+conditions, or who wish to avoid medical interventions. For patients with ESRD, 
+vaccination against seasonal influenza, tetanus, hepatitis B, human 
+papillomavirus (through 26 years of age), and Streptococcus pneumoniae is 
+advised. Routine cancer screening for patients not receiving kidney 
+transplantation is discouraged. Controlling blood pressure in patients receiving 
+dialysis improves mortality. Volume control through adequate dialysis and sodium 
+restriction can help optimize hypertension treatment in these patients. Insulin 
+is the preferred treatment for patients with ESRD and diabetes mellitus 
+requiring medication. Patients should be monitored for signs of protein-energy 
+wasting and malnutrition. Clinicians must be aware of the many medical 
+complications associated with ESRD.
+
+PMID: 34783494 [Indexed for MEDLINE]
+
+
+702. Disabil Rehabil. 2022 Dec;44(25):7839-7847. doi:
+10.1080/09638288.2021.2000047.  Epub 2021 Nov 16.
+
+Disability, a priority area for health research in South Africa: an analysis of 
+the burden of disease study 2017.
+
+Carpenter B(1)(2), Nyirenda M(3)(4), Hanass-Hancock J(1)(2).
+
+Author information:
+(1)Gender and Health Research Unit, South African Medical Research Council, 
+Durban, South Africa.
+(2)School of Health Science, University of KwaZulu-Natal, Durban, South Africa.
+(3)Burden of Disease Research Unit, South African Medical Research Council, Cape 
+Town, South Africa.
+(4)School of Nursing and Public Health, University of KwaZulu-Natal, Durban, 
+South Africa.
+
+PURPOSE: Disabilities are increasing globally, which is attributed to the 
+overall ageing of populations in affluent countries. This trend may differ in 
+low and middle-income countries. This paper assesses the change over time in 
+Years Lived with Disability (YLD) for South Africa and how this compares to 
+regional and global trends.
+MATERIALS AND METHODS: This secondary analysis of the Global Burden of Disease 
+Study 2017 dataset describes the observed contribution of YLD to 
+Disability-Adjusted Life Years (DALYs) per 100 000 people over the period 
+1990-2016, and forecast to 2030 using simple linear prediction. South African 
+trends are compared to global and sub-Saharan African (SSA) trends to highlight 
+the effect of HIV and policy implications.
+RESULTS: Globally, the contribution of YLD to DALYs has increased from ±21.7% in 
+1990 to ±34% by 2016, with high socio-demographic index countries having a 
+higher contribution (49%). HIV, mental health, musculoskeletal, neurological, 
+and sense organ disorders are the five main contributors to YLD in South Africa 
+(54%). Removing the effects of HIV/AIDS and sexually transmitted infections on 
+YLD, South Africa's trend appears similar to the global trend, yet opposite to 
+the SSA trend.
+CONCLUSION: Our analysis shows there is a growing burden of disability in South 
+Africa. Differences in trends with the regional and global patterns can be 
+attributed to the high burden of HIV and non-communicable diseases in South 
+Africa. Therefore, strategies are urgently needed to increase integration of 
+disability and rehabilitation services into chronic HIV and non-communicable 
+disease management. This calls for disability screening to identify functional 
+limitations in routine data collection and case management.IMPLICATIONS FOR 
+REHABILITATIONSouth Africa has experienced an increase in disability prevalence 
+over time.This requires strengthening of services such as mental health 
+interventions, physiotherapy, optometry, and audiology, and linking major 
+disease clusters, such as HIV and the NCDs, to rehabilitation services.The 
+greatest contributors towards disability adjusted life years in South Africa are 
+currently mental disorders (13.8%), HIV and sexually transmitted infections 
+(11.8%), musculoskeletal disorders (10.4%), neurological disorders (8.2%), and 
+sense organ diseases (7.5%).Routine data collection and case management needs to 
+include disability screening to identify developing functional limitations.
+
+DOI: 10.1080/09638288.2021.2000047
+PMID: 34783620 [Indexed for MEDLINE]
+
+
+703. Med J Aust. 2022 Feb 21;216(3):147-152. doi: 10.5694/mja2.51343. Epub 2021
+Nov  16.
+
+Cost-utility analysis of breast reduction surgery for women with symptomatic 
+breast hypertrophy.
+
+Crittenden TA(1)(2), Ratcliffe J(3), Watson DI(2), Mpundu-Kaambwa C(3), Dean 
+NR(1)(2).
+
+Author information:
+(1)Flinders Medical Centre, Adelaide, SA.
+(2)Flinders University, Adelaide, SA.
+(3)Caring Futures Institute, Flinders University, Adelaide, SA.
+
+Comment in
+    Med J Aust. 2022 Feb 21;216(3):138-139.
+
+OBJECTIVE: To assess the cost-effectiveness of breast reduction surgery for 
+women with symptomatic breast hypertrophy in Australia.
+DESIGN: Cost-utility analysis of data from a prospective cohort study.
+SETTING, PARTICIPANTS: Adult women with symptomatic breast hypertrophy assessed 
+for bilateral breast reduction at the Flinders Medical Centre, a public tertiary 
+hospital in Adelaide, April 2007 - February 2018. The control group included 
+women with breast hypertrophy who had not undergone surgery.
+MAIN OUTCOME MEASURES: Health care costs (for the surgical admission and other 
+related hospital costs within 12 months of surgery) and SF-6D utility scores 
+(measure of health-related quality of life) were used to calculate incremental 
+costs per quality-adjusted life-year (QALY) gained over 12 months, extrapolated 
+to a 10-year time horizon.
+RESULTS: Of 251 women who underwent breast reduction, 209 completed the baseline 
+and at least one post-operation assessment (83%; intervention group); 124 of 350 
+invited women waiting for breast reduction surgery completed the baseline and 
+12-month assessments (35%; control group). In the intervention group, the mean 
+SF-6D utility score increased from 0.313 (SD, 0.263) at baseline to 0.626 (SD, 
+0.277) at 12 months; in the control group, it declined from 0.296 (SD, 0.267) to 
+0.270 (SD, 0.257). The mean QALY gain was consequently greater for the 
+intervention group (adjusted difference, 1.519; 95% CI, 1.362-1.675). The mean 
+hospital cost per patient was $11 857 (SD, $4322), and the incremental 
+cost-effectiveness ratio (ICER) for the intervention was $7808 per QALY gained. 
+The probability of breast reduction surgery being cost-effective was 100% at a 
+willingness-to-pay threshold of $50 000 per QALY and 88% at $28 033 per QALY.
+CONCLUSIONS: Breast reduction surgery for women with symptomatic breast 
+hypertrophy is cost-effective and should be available to women through the 
+Australian public healthcare system.
+
+© 2021 AMPCo Pty Ltd.
+
+DOI: 10.5694/mja2.51343
+PMID: 34784653 [Indexed for MEDLINE]
+
+
+704. Hypertension. 2022 Jan;79(1):196-206. doi:
+10.1161/HYPERTENSIONAHA.120.15196.  Epub 2021 Nov 17.
+
+Multiple Social Vulnerabilities to Health Disparities and Hypertension and Death 
+in the REGARDS Study.
+
+King JB(1)(2), Pinheiro LC(3), Bryan Ringel J(3), Bress AP(1), Shimbo D(4), 
+Muntner P(5), Reynolds K(6)(7), Cushman M(8), Howard G(9), Manly JJ(10), Safford 
+MM(3).
+
+Author information:
+(1)Department of Population Health Sciences, School of Medicine, University of 
+Utah (J.B.K., A.P.B.).
+(2)Institute for Health Research, Kaiser Permanente Colorado (J.B.K.).
+(3)Department of Medicine, Weill Medical College of Cornell University (L.C.P., 
+J.B.R., M.M.S.).
+(4)Department of Medicine (D.S.), Columbia University Vagelos College of 
+Physicians and Surgeons.
+(5)Department of Epidemiology (P.M.), School of Public Health, University of 
+Alabama at Birmingham.
+(6)Department of Research and Evaluation, Kaiser Permanente Southern California 
+(K.R.).
+(7)Department of Health Systems Science, Kaiser Permanente Bernard J. Tyson 
+School of Medicine (K.R.).
+(8)Department of Medicine, Larner College of Medicine, University of Vermont 
+(M.C.).
+(9)Department of Biostatistics (G.H.), School of Public Health, University of 
+Alabama at Birmingham.
+(10)Department of Neurology (J.J.M.), Columbia University Vagelos College of 
+Physicians and Surgeons.
+
+Social vulnerabilities increase the risk of developing hypertension and lower 
+life expectancy, but the effect of an individual's overall vulnerability burden 
+is unknown. Our objective was to determine the association of social 
+vulnerability count and the risk of developing hypertension or dying over 10 
+years and whether these associations vary by race. We used the REGARDS study 
+(Reasons for Geographic and Racial Differences in Stroke) and included 
+participants without baseline hypertension. The primary exposure was the count 
+of social vulnerabilities defined across economic, education, health and health 
+care, neighborhood and built environment, and social and community context 
+domains. Among 5425 participants of mean age 64±10 SD years of which 24% were 
+Black participants, 1468 (31%) had 1 vulnerability and 717 (15%) had ≥2 
+vulnerabilities. Compared with participants without vulnerabilities, the 
+adjusted relative risk ratio for developing hypertension was 1.16 (95% CI, 
+0.99-1.36) and 1.49 (95% CI, 1.20-1.85) for individuals with 1 and ≥2 
+vulnerabilities, respectively. The adjusted relative risk ratio for death was 
+1.55 (95% CI, 1.24-1.93) and 2.30 (95% CI, 1.75-3.04) for individuals with 1 and 
+≥2 vulnerabilities, respectively. A greater proportion of Black participants 
+developed hypertension and died than did White participants (hypertension, 38% 
+versus 31%; death, 25% versus 20%). The vulnerability count association was 
+strongest in White participants (P value for vulnerability count×race 
+interaction: hypertension=0.046, death=0.015). Overall, a greater number of 
+socially determined vulnerabilities was associated with progressively higher 
+risk of developing hypertension, and an even higher risk of dying over 10 years.
+
+DOI: 10.1161/HYPERTENSIONAHA.120.15196
+PMCID: PMC8665033
+PMID: 34784734 [Indexed for MEDLINE]
+
+
+705. CMAJ Open. 2021 Nov 16;9(4):E1005-E1012. doi: 10.9778/cmajo.20210024. Print
+2021  Oct-Dec.
+
+Estimating the population health burden of Lyme disease in Ontario, Canada: a 
+microsimulation modelling approach.
+
+Mac S(1), Evans GA(2), Patel SN(2), Pullenayegum EM(2), Sander B(2).
+
+Author information:
+(1)Institute of Health Policy, Management and Evaluation (Mac, Sander), 
+University of Toronto; THETA Collaborative (Mac, Sander), University Health 
+Network, Toronto, Ont.; Department of Medicine (Evans), Queen's University, 
+Kingston, Ont.; ICES Central (Evans, Sander); Public Health Ontario (Patel, 
+Sander); Department of Laboratory Medicine and Pathobiology (Patel), University 
+of Toronto; The Hospital for Sick Children (SickKids) (Pullenayegum); Dalla Lana 
+School of Public Health (Pullenayegum), University of Toronto, Toronto, Ont. 
+sm.mac@mail.utoronto.ca.
+(2)Institute of Health Policy, Management and Evaluation (Mac, Sander), 
+University of Toronto; THETA Collaborative (Mac, Sander), University Health 
+Network, Toronto, Ont.; Department of Medicine (Evans), Queen's University, 
+Kingston, Ont.; ICES Central (Evans, Sander); Public Health Ontario (Patel, 
+Sander); Department of Laboratory Medicine and Pathobiology (Patel), University 
+of Toronto; The Hospital for Sick Children (SickKids) (Pullenayegum); Dalla Lana 
+School of Public Health (Pullenayegum), University of Toronto, Toronto, Ont.
+
+BACKGROUND: If untreated, Lyme disease can lead to long-term sequelae and 
+post-treatment Lyme disease syndrome (PTLDS), resulting in reduced 
+health-related quality of life. The objective of this study was to develop a 
+microsimulation model to estimate the population-level health burden of Lyme 
+disease in Ontario, Canada.
+METHODS: We developed a Lyme disease history model using microsimulation, 
+simulating 100 000 people (mean age 37.6 yr, 51% female) from 2017 in Ontario 
+over a lifetime risk of infection and time horizon. We extracted the sensitivity 
+and specificity of the 2-tier testing recommended by the Canadian Public Health 
+Laboratory Network, probabilities and health state utility values from the 
+published literature and health administrative data. Our reported outcomes from 
+our stochastic analysis include diagnosed cases of Lyme disease (stratified by 
+stage), undiagnosed infections, sequelae, individuals with PTLDS and 
+quality-adjusted life-years (QALYs) lost.
+RESULTS: Our model estimated 333 (95% confidence interval [CI] 329-337) 
+infections over the lifetime of 100 000 simulated people (mean age 37.6 yr, 51% 
+female), with 92% (95% CI 91%-93%) of infections diagnosed. Of those 308 people 
+with Lyme Disease diagnoses, 67 (95% CI 65-69) developed sequelae (e.g., 
+arthritic, cardiac, neurologic sequelae), and 34 (95% CI 33-35) developed PTLDS. 
+Lyme disease resulted in a loss of 84.5 QALYs (95% CI 82.9-86.2) over the 
+lifetime of the simulated cohort. Sensitivity and scenario analysis showed that 
+increasing incidence rates of Lyme disease, potential underreporting, duration 
+of PTLDS and quality of life (health state utility) associated with PTLDS had 
+the greatest impact on health burden.
+INTERPRETATION: Lyme disease contributes considerable health burden in terms of 
+QALYs lost. Our analysis provides evidence to understand the disease burden and 
+lays the foundation to assess the cost-effectiveness of pharmaceutical and 
+nonpharmaceutical interventions.
+
+© 2021 CMA Joule Inc. or its licensors.
+
+DOI: 10.9778/cmajo.20210024
+PMCID: PMC8598239
+PMID: 34785530 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+706. BMJ Open. 2021 Nov 16;11(11):e054203. doi: 10.1136/bmjopen-2021-054203.
+
+Developing a preference-based measure for weight-specific health-related quality 
+of life in adolescence: the WAItE UK valuation study protocol.
+
+Robinson T(1), Hill S(2), Oluboyede Y(2).
+
+Author information:
+(1)Population Health Sciences Institute, Newcastle University Faculty of Medical 
+Sciences, Newcastle upon Tyne, UK tom.robinson@ncl.ac.uk.
+(2)Population Health Sciences Institute, Newcastle University Faculty of Medical 
+Sciences, Newcastle upon Tyne, UK.
+
+INTRODUCTION: Adolescent obesity is a public health problem in the UK. The 
+Weight-Specific Adolescent Instrument for Economic Evaluation (WAItE) has been 
+developed as the first weight-specific health-related quality of life measure 
+appropriate for economic evaluation, but currently cannot be used to generate 
+quality-adjusted life years (QALYs), which are the basis of cost-utility 
+analysis. Generic measures (such as the EQ-5D-Y or CHU-9D) may be insensitive to 
+small but important health changes in overweight or obese adolescents. This 
+study aims to generate a preference-based scoring algorithm for the WAItE.
+METHODS AND ANALYSIS: A discrete choice experiment (DCE) will be administered to 
+value health states described by the WAItE classification system. These health 
+states will be presented to members of the adult general population of the UK 
+via an online survey. A range of regression models will be used to produce the 
+utility algorithm for the WAItE. The DCE-visual analogue scale and time 
+trade-off (TTO) anchoring methods will be used anchor the value set on to the 
+0-1 QALY scale.
+ETHICS AND DISSEMINATION: The Newcastle University Medical School Ethics 
+Committee approved the study (references 4772/2020 (DCE) and 9978/2020 (TTO)). 
+The developed algorithm can be applied to future economic evaluations of weight 
+management interventions and treatments for adolescents.
+
+© Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2021-054203
+PMCID: PMC8596058
+PMID: 34785557 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+707. BMJ Open. 2021 Nov 16;11(11):e054629. doi: 10.1136/bmjopen-2021-054629.
+
+Patient perspectives on integrated healthcare for HIV, hypertension and type 2 
+diabetes: a scoping review.
+
+Singh S(1)(2), Kirk O(3), Jaffar S(4), Karakezi C(5), Ramaiya K(6), Kallestrup 
+P(2)(7), Kraef C(8)(3)(9).
+
+Author information:
+(1)Department of Public Health, Aarhus University, Aarhus, Denmark.
+(2)Danish Non-communicable Diseases Alliance, Copenhagen, Denmark.
+(3)Department of Infectious Disease, Rigshospitalet, University of Copenhagen, 
+Copenhagen, Denmark.
+(4)Department of International Public Health, Liverpool School of Tropical 
+Medicine, Liverpool, UK.
+(5)Kenya Diabetes Management and Information Centre, Nairobi, Kenya.
+(6)Shree Hindu Mandal Hospital, Dar es Salaam, Tanzania, United Republic of.
+(7)Centre for Global Health, Department of Public Health, Aarhus University, 
+Aarhus, Denmark.
+(8)Danish Non-communicable Diseases Alliance, Copenhagen, Denmark 
+christiankraef@gmail.com.
+(9)Centre of Excellence for Health, Immunity and Infections (CHIP), 
+Rigshospitalet, University of Copenhagen, Copenhagen, Denmark.
+
+INTRODUCTION: Antiretroviral therapy has reduced mortality and led to longer 
+life expectancy in people living with HIV. These patients are now at an 
+increased risk of non-communicable diseases (NCDs). Integration of care for HIV 
+and NCDs has become a focus of research and policy. In this article, we aim to 
+review patient perspectives on integration of healthcare for HIV, type 2 
+diabetes and hypertension.
+METHODS: The framework for scoping reviews developed by Arksey and O'Malley and 
+updated by Peter et al was applied for this review. The databases PubMed, Web of 
+Science and Cochrane library were searched. Broad search terms for HIV, NCDs 
+(specifically type 2 diabetes and hypertension) and healthcare integration were 
+used. As the review aimed to identify definitions of patient perspectives, they 
+were not included as an independent term in the search strategy. References of 
+included publications were searched for relevant articles. Titles and abstracts 
+for these papers were screened by two independent reviewers. The full texts for 
+all the publications appearing to meet the inclusion criteria were then read to 
+make the final literature selection.
+RESULTS: Of 5502 studies initially identified, 13 articles were included in this 
+review, of which 11 had a geographical origin in sub-Saharan Africa. Nine 
+articles were primarily focused on HIV/diabetes healthcare integration while 
+four articles were focused on HIV/hypertension integration. Patient's 
+experiences with integrated care were reduced HIV-related stigma, reduced travel 
+and treatment costs and a more holistic person-centred care. Prominent concerns 
+were long waiting times at clinics and a lack of continuity of care in some 
+clinics due to a lack of healthcare workers. Non-integrated care was perceived 
+as time-consuming and more expensive.
+CONCLUSION: Patient perspectives and experiences on integrated care for HIV, 
+diabetes and hypertension were mostly positive. Integrated services can save 
+resources and allow for a more personalised approach to healthcare. There is a 
+paucity of evidence and further longitudinal and interventional evidence from a 
+more diverse range of healthcare systems are needed.
+
+© Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2021-054629
+PMCID: PMC8596045
+PMID: 34785559 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+708. Sci Rep. 2021 Nov 16;11(1):22297. doi: 10.1038/s41598-021-01730-4.
+
+The performance of a flapping foil for a self-propelled fishlike body.
+
+Paniccia D(#)(1), Padovani L(#)(2), Graziani G(#)(2), Piva R(#)(2).
+
+Author information:
+(1)Department of Mechanical and Aerospace Engineering, University of Rome "La 
+Sapienza", Rome, Italy. damiano.paniccia@uniroma1.it.
+(2)Department of Mechanical and Aerospace Engineering, University of Rome "La 
+Sapienza", Rome, Italy.
+(#)Contributed equally
+
+Several fish species propel by oscillating the tail, while the remaining part of 
+the body essentially contributes to the overall drag. Since in this case thrust 
+and drag are in a way separable, most attention was focused on the study of 
+propulsive efficiency for flapping foils under a prescribed stream. We claim 
+here that the swimming performance should be evaluated, as for undulating fish 
+whose drag and thrust are severely entangled, by turning to self-propelled 
+locomotion to find the proper speed and the cost of transport for a given 
+fishlike body. As a major finding, the minimum value of this quantity 
+corresponds to a locomotion speed in a range markedly different from the one 
+associated with the optimal efficiency of the propulsor. A large value of the 
+feathering parameter characterizes the minimum cost of transport while the 
+optimal efficiency is related to a large effective angle of attack. We adopt 
+here a simple two-dimensional model for both inviscid and viscous flows to proof 
+the above statements in the case of self-propelled axial swimming. We believe 
+that such an easy approach gives a way for a direct extension to fully free 
+swimming and to real-life configurations.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-01730-4
+PMCID: PMC8595632
+PMID: 34785731
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+709. Nature. 2021 Nov;599(7885):372. doi: 10.1038/d41586-021-03420-7.
+
+Presidents of Royal Society live long lives.
+
+Wilson OS, Huppert HE.
+
+DOI: 10.1038/d41586-021-03420-7
+PMID: 34785802 [Indexed for MEDLINE]
+
+
+710. Eur J Popul. 2021 Oct 7;37(4-5):909-931. doi: 10.1007/s10680-021-09596-y. 
+eCollection 2021 Nov.
+
+The Short-Term Effects of European Integration on Mortality Convergence: A Case 
+Study of European Union's 2004 Enlargement.
+
+Hrzic R(1)(2), Vogt T(3)(4)(5), Brand H(1)(4), Janssen F(3)(6).
+
+Author information:
+(1)Department of International Health, Care and Public Health Research Institute 
+- CAPHRI, Maastricht University, Maastricht, The Netherlands.
+(2)International Max Planck Research School for Population, Health and Data 
+Science, Max Planck Institute for Demographic Research, Rostock, Germany.
+(3)Faculty of Spatial Sciences, Population Research Centre, University of 
+Groningen, Groningen, The Netherlands.
+(4)Prasanna School of Public Health, Manipal Academy of Higher Education, 
+Manipal, India.
+(5)Max Planck Institute for Demographic Research, Rostock, Germany.
+(6)Netherlands Interdisciplinary Demographic Institute - KNAW / University of 
+Groningen, The Hague, The Netherlands.
+
+Although European integration can be expected to result in mortality convergence 
+(reduced mortality differences), a life expectancy divide persists in the 
+European Union (EU) between the old Member States (OMS) in the west and the new 
+Member States (NMS) in the east. Studies investigating the impact of European 
+integration on mortality convergence are rare and did not consider regional 
+differences. We examine the short-term effects of the 2004 enlargement on 
+mortality convergence at the supranational, national, and subnational levels. 
+Using sex-specific life expectancies for 23 Member States (1990-2017) and the 
+NUTS 2 regions in Czechia, Hungary, and Poland for 1992-2016, we examined the 
+trend in sigma and beta mortality convergence measures at the country and 
+regional levels using joinpoint regression. We found no compelling evidence that 
+EU accession influenced the process of mortality convergence between OMS and 
+NMS, or within the three NMS, over the short term. While there was overall beta 
+and sigma convergence at the national level during 1990-2017, no regional 
+convergence showed, and the trends in convergence did not significantly change 
+at the time of EU accession or soon after (2004-2007). The accession in 2004 did 
+not visibly impact the overall process of mortality convergence over the short 
+term, likely because of the greater influence of country and region-specific 
+policies and characteristics. The interaction of Member State and regional 
+contexts with the mechanisms of European integration requires further study. 
+Future enlargement procedures should emphasise tailored support to ensure more 
+equitable gains from European integration.
+SUPPLEMENTARY INFORMATION: The online version contains supplementary material 
+available at 10.1007/s10680-021-09596-y.
+
+© The Author(s) 2021.
+
+DOI: 10.1007/s10680-021-09596-y
+PMCID: PMC8575723
+PMID: 34786002
+
+Conflict of interest statement: Conflict of interestThe authors declare that 
+they have no conflict of interest.
+
+
+711. Eur J Ageing. 2021 Mar 27;18(4):443-451. doi: 10.1007/s10433-021-00614-w. 
+eCollection 2021 Dec.
+
+Gender differences in time to first hospital admission at age 60 in Denmark, 
+1995-2014.
+
+Höhn A(1)(2)(3), Oksuzyan A(2), Lindahl-Jacobsen R(3)(4), Christensen K(3)(5), 
+Seaman R(2)(6).
+
+Author information:
+(1)Institute of Genetics and Molecular Medicine, University of Edinburgh, 
+Edinburgh, UK.
+(2)Max Planck Institute for Demographic Research, Rostock, Germany.
+(3)Department of Epidemiology, Biostatistics, and Biodemography, University of 
+Southern Denmark, Odense, Denmark.
+(4)Interdisciplinary Centre On Population Dynamics (CPop), University of 
+Southern Denmark, Odense, Denmark.
+(5)Danish Ageing Research Centre, University of Southern Denmark, Odense, 
+Denmark.
+(6)University of Stirling, Stirling, UK.
+
+Women have consistently lower mortality rates than men at all ages and with 
+respect to most causes. However, gender differences regarding hospital admission 
+rates are more mixed, varying across ages and causes. A number of intuitive 
+metrics have previously been used to explore changes in hospital admissions over 
+time, but have not explicitly quantified the gender gap or estimated the 
+cumulative contribution from cause-specific admission rates. Using register data 
+for the total Danish population between 1995 and 2014, we estimated the time to 
+first hospital admission for Danish men and women aged 60. This is an intuitive 
+population-level metric with the same interpretive and mathematical properties 
+as period life expectancy. Using a decomposition approach, we were able to 
+quantify the cumulative contributions from eight causes of hospital admission to 
+the gender gap in time to first hospital admission. Between 1995 and 2014, time 
+to first admission increased for both, men (7.6 to 9.4 years) and women (8.3 to 
+10.3 years). However, the magnitude of gender differences in time to first 
+admission remained relatively stable within this time period (0.7 years in 1995, 
+0.9 years in 2014). After age 60, Danish men had consistently higher rates of 
+admission for cardiovascular conditions and neoplasms, but lower rates of 
+admission for injuries, musculoskeletal disorders, and sex-specific causes. 
+Although admission rates for both genders have generally declined over the last 
+decades, the same major causes of admission accounted for the gender gap. 
+Persistent gender differences in causes of admission are, therefore, important 
+to consider when planning the delivery of health care in times of population 
+ageing.
+SUPPLEMENTARY INFORMATION: The online version contains supplementary material 
+available at 10.1007/s10433-021-00614-w.
+
+© The Author(s) 2021.
+
+DOI: 10.1007/s10433-021-00614-w
+PMCID: PMC8563932
+PMID: 34786008
+
+
+712. Spat Stat. 2022 Jun;49:100552. doi: 10.1016/j.spasta.2021.100552. Epub 2021
+Nov  10.
+
+Modelling the effect of a border closure between Switzerland and Italy on the 
+spatiotemporal spread of COVID-19 in Switzerland.
+
+Grimée M(1), Bekker-Nielsen Dunbar M(2)(3)(4), Hofmann F(2), Held L(2)(3)(5); 
+SUSPend modelling consortium.
+
+Author information:
+(1)Institute for Medical Information Processing, Biometry, and Epidemiology, 
+Ludwig-Maximilians-Universität München, Germany.
+(2)Epidemiology, Biostatistics and Prevention Institute, University of Zurich, 
+Hirschengraben 84, 8001 Zurich, Switzerland.
+(3)Swiss School of Public Health, Switzerland.
+(4)Life Science Zurich Graduate School, Switzerland.
+(5)Center for Reproducible Science, University of Zurich, Switzerland.
+
+We present an approach to extend the endemic-epidemic (EE) modelling framework 
+for the analysis of infectious disease data. In its spatiotemporal formulation, 
+spatial dependencies have originally been captured by static neighbourhood 
+matrices. These weight matrices are adjusted over time to reflect changes in 
+spatial connectivity between geographical units. We illustrate this extension by 
+modelling the spread of COVID-19 disease between Swiss and bordering Italian 
+regions in the first wave of the COVID-19 pandemic. The spatial weights are 
+adjusted with data describing the daily changes in population mobility patterns, 
+and indicators of border closures describing the state of travel restrictions 
+since the beginning of the pandemic. These time-dependent weights are used to 
+fit an EE model to the region-stratified time series of new COVID-19 cases. We 
+then adjust the weight matrices to reflect two counterfactual scenarios of 
+border closures and draw counterfactual predictions based on these, to 
+retrospectively assess the usefulness of border closures. Predictions based on a 
+scenario where no closure of the Swiss-Italian border occurred increased the 
+number of cumulative cases in Switzerland by a factor of 2.7 (10th to 90th 
+percentile: 2.2 to 3.6) over the study period. Conversely, a closure of the 
+Swiss-Italian border two weeks earlier than implemented would have resulted in 
+only a 12% (8% to 18%) decrease in the number of cases and merely delayed the 
+epidemic spread by a couple of weeks. Our study provides useful insight into 
+modelling the effect of epidemic countermeasures on the spatiotemporal spread of 
+COVID-19.
+
+© 2021 The Author(s).
+
+DOI: 10.1016/j.spasta.2021.100552
+PMCID: PMC8579705
+PMID: 34786328
+
+
+713. Arch Virol. 2021 Dec;166(12):3567-3579. doi: 10.1007/s00705-021-05266-w.
+
+Correction to: 2021 Taxonomic update of phylum Negarnaviricota (Riboviria: 
+Orthornavirae), including the large orders Bunyavirales and Mononegavirales.
+
+Kuhn JH(1), Adkins S(2), Agwanda BR(3)(4), Al Kubrusli R(5), Alkhovsky SV(6), 
+Amarasinghe GK(7), Avšič-Županc T(8), Ayllón MA(9)(10), Bahl J(11), 
+Balkema-Buschmann A(12), Ballinger MJ(13), Basler CF(14), Bavari S(15), Beer 
+M(16), Bejerman N(17), Bennett AJ(18), Bente DA(19), Bergeron É(20), Bird 
+BH(21), Blair CD(22), Blasdell KR(23), Blystad DR(24), Bojko J(25)(26), Borth 
+WB(27), Bradfute S(28), Breyta R(29)(30), Briese T(31), Brown PA(32), Brown 
+JK(33), Buchholz UJ(34), Buchmeier MJ(35), Bukreyev A(36), Burt F(37), Büttner 
+C(5), Calisher CH(38), Cao M(39), Casas I(40), Chandran K(41), Charrel RN(42), 
+Cheng Q(43), Chiaki Y(44), Chiapello M(45), Choi IR(46), Ciuffo M(45), Clegg 
+JCS(47), Crozier I(48), Dal Bó E(49), de la Torre JC(50), de Lamballerie X(42), 
+de Swart RL(51), Debat H(52)(53), Dheilly NM(54), Di Cicco E(55), Di Paola 
+N(56), Di Serio F(57), Dietzgen RG(58), Digiaro M(59), Dolnik O(60), Drebot 
+MA(61), Drexler JF(62), Dundon WG(63), Duprex WP(64), Dürrwald R(65), Dye 
+JM(56), Easton AJ(66), Ebihara H(67), Elbeaino T(68), Ergünay K(69), Ferguson 
+HW(70), Fooks AR(71), Forgia M(72), Formenty PBH(73), Fránová J(74), 
+Freitas-Astúa J(75), Fu J(76), Fürl S(77), Gago-Zachert S(78), Gāo GF(79), 
+García ML(80), García-Sastre A(81), Garrison AR(56), Gaskin T(5)(82), Gonzalez 
+JJ(83)(84), Griffiths A(85), Goldberg TL(86), Groschup MH(87), Günther S(88), 
+Hall RA(89), Hammond J(90), Han T(76), Hepojoki J(91)(92), Hewson R(93), Hong 
+J(94), Hong N(95), Hongo S(96), Horie M(97)(98), Hu JS(27), Hu T(43), Hughes 
+HR(99), Hüttner F(5), Hyndman TH(100), Ilyas M(101), Jalkanen R(102), Jiāng 
+D(103), Jonson GB(104), Junglen S(105)(106), Kadono F(107), Kaukinen KH(108), 
+Kawate M(27), Klempa B(109), Klingström J(110), Kobinger G(111), Koloniuk I(74), 
+Kondō H(112), Koonin EV(113), Krupovic M(114), Kubota K(115), Kurath G(116), 
+Laenen L(117)(118), Lambert AJ(99), Langevin SL(119), Lee B(120), Lefkowitz 
+EJ(121), Leroy EM(122), Li S(123), Li L(95), Lǐ J(124), Liu H(95), Lukashevich 
+IS(125), Maes P(117), de Souza WM(126), Marklewitz M(105)(127), Marshall 
+SH(128), Marzano SL(129), Massart S(130), McCauley JW(131), Melzer M(132), 
+Mielke-Ehret N(133), Miller KM(108), Ming TJ(134), Mirazimi A(135), Mordecai 
+GJ(136), Mühlbach HP(133), Mühlberger E(85), Naidu R(137), Natsuaki T(138), 
+Navarro JA(139), Netesov SV(140), Neumann G(141), Nowotny N(142)(143), Nunes 
+MRT(144), Olmedo-Velarde A(27), Palacios G(56), Pallás V(145), Pályi B(146), 
+Papa A(147), Paraskevopoulou S(148), Park AC(27)(149), Parrish CR(150), 
+Patterson DA(151), Pauvolid-Corrêa A(152)(153), Pawęska JT(154), Payne S(155), 
+Peracchio C(45), Pérez DR(156), Postler TS(157), Qi L(158), Radoshitzky SR(159), 
+Resende RO(160), Reyes CA(161), Rima BK(162), Luna GR(161), Romanowski V(163), 
+Rota P(164), Rubbenstroth D(16), Rubino L(165), Runstadler JA(166), Sabanadzovic 
+S(167), Sall AA(168), Salvato MS(169), Sang R(170), Sasaya T(171), Schulze 
+AD(172), Schwemmle M(173), Shi M(174), Shí X(175), Shí Z(176), Shimomoto Y(177), 
+Shirako Y(178), Siddell SG(179), Simmonds P(180), Sironi M(181), Smagghe G(182), 
+Smither S(183), Song JW(184), Spann K(185), Spengler JR(186), Stenglein MD(187), 
+Stone DM(188), Sugano J(27), Suttle CA(189), Tabata A(108), Takada A(190), 
+Takeuchi S(191), Tchouassi DP(170), Teffer A(192), Tesh RB(193), Thornburg 
+NJ(194), Tomitaka Y(195), Tomonaga K(196), Tordo N(197), Torto B(170), Towner 
+JS(198)(199), Tsuda S(107), Tu C(200), Turina M(201), Tzanetakis IE(202), Uchida 
+J(27), Usugi T(115), Vaira AM(45), Vallino M(45), van den Hoogen B(203), Varsani 
+A(204)(205), Vasilakis N(193), Verbeek M(206), von Bargen S(5), Wada J(207), 
+Wahl V(208), Walker PJ(209), Wang LF(210), Wang G(95), Wang Y(95), Wang Y(43), 
+Waqas M(211), Wèi T(212), Wen S(95), Whitfield AE(213), Williams JV(64), Wolf 
+YI(113), Wu J(43), Xu L(158), Yanagisawa H(214), Yang C(76), Yang Z(95), Zerbini 
+FM(215), Zhai L(216), Zhang YZ(217)(218), Zhang S(39), Zhang J(219), Zhang 
+Z(95), Zhou X(220).
+
+Author information:
+(1)Integrated Research Facility at Fort Detrick, National Institute of Allergy 
+and Infectious Diseases, National Institutes of Health, Frederick, MD, USA. 
+kuhnjens@mail.nih.gov.
+(2)United States Department of Agriculture, Agricultural Research Service, US 
+Horticultural Research Laboratory, Fort Pierce, FL, USA.
+(3)Zoology Department, National Museums of Kenya, Nairobi, Kenya.
+(4)Jomo Kenyatta University of Agriculture & Technology, Nairobi, Kenya.
+(5)Division Phytomedicine, Faculty of Life Sciences, Humboldt-Universität zu 
+Berlin, Berlin, Germany.
+(6)D.I. Ivanovsky Institute of Virology of N.F. Gamaleya National Center on 
+Epidemiology and Microbiology of Ministry of Health of Russian Federation, 
+Moscow, Russia.
+(7)Department of Pathology and Immunology, Washington University School of 
+Medicine, St. Louis, MO, USA.
+(8)Faculty of Medicine, University of Ljubljana, Ljubljana, Slovenia.
+(9)Centro de Biotecnología y Genómica de Plantas, Universidad Politécnica de 
+Madrid-Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria, 
+Campus de Montegancedo, Pozuelo de Alarcón, Madrid, Spain.
+(10)Departamento de Biotecnología-Biología Vegetal, Escuela Técnica Superior de 
+Ingeniería Agronómica, Alimentaria y de Biosistemas, Universidad Politécnica de 
+Madrid, Madrid, Spain.
+(11)Center for Ecology of Infectious Diseases, Department of Infectious 
+Diseases, Department of Epidemiology and Biostatistics, Insitute of 
+Bioinformatics, University of Georgia, Athens, GA, USA.
+(12)Institute of Novel and Emerging Infectious Diseases, 
+Friedrich-Loeffler-Institut, Federal Research Institute for Animal Health, 
+Greifswald-Insel Riems, Germany.
+(13)Department of Biological Sciences, Mississippi State University, Mississippi 
+State, MS, USA.
+(14)Center for Microbial Pathogenesis, Institute for Biomedical Sciences, 
+Georgia State University, Atlanta, GA, USA.
+(15)Edge BioInnovation Consulting and Mgt, Frederick, MD, USA.
+(16)Institute of Diagnostic Virology, Friedrich-Loeffler-Institut, 
+Greifswald-Insel Riems, Germany.
+(17)UFyMA, INTA-CONICET, Cordoba, Argentina.
+(18)Genomics and Bioinformatics Department, Biological Defense Research 
+Directorate, Naval Medical Research Center-Frederick, Fort Detrick, Frederick, 
+MD, USA.
+(19)University of Texas Medical Branch, Galveston, TX, USA.
+(20)Viral Special Pathogens Branch, Division of High-Consequence Pathogens and 
+Pathology, Centers for Disease Control and Prevention, Atlanta, GA, USA.
+(21)School of Veterinary Medicine, One Health Institute, University of 
+California, Davis, Davis, CA, USA.
+(22)Department of Microbiology, Immunology and Pathology, Colorado State 
+University, Fort Collins, CO, USA.
+(23)Commonwealth Scientific and Industrial Research Organisation (CSIRO), 
+Australian Centre for Disease Preparedness, Geelong, VIC, Australia.
+(24)NIBIO-Norwegian Institute of Bioeconomy Research, Oslo, Norway.
+(25)School of Health and Life Sciences, Teesside University, Middlesbrough, TS1 
+3BX, UK.
+(26)National Horizons Centre, Teesside University, Darlington, DL1 1HG, UK.
+(27)University of Hawaii, Honolulu, HI, USA.
+(28)University of New Mexico Health Sciences Center, Albuquerque, NM, USA.
+(29)University of Washington, Seattle, WA, USA.
+(30)US Geological Survey, Western Fisheries Research Center, Seattle, WA, USA.
+(31)Center for Infection and Immunity, and Department of Epidemiology, Mailman 
+School of Public Health, Columbia University, New York, NY, USA.
+(32)Laboratory of Ploufragan-Plouzané-Niort, French Agency for Food, 
+Environmental and Occupational Heath Safety ANSES, Ploufragan, France.
+(33)School of Plant Sciences, University of Arizona, Tucson, AZ, USA.
+(34)RNA Viruses Section, Laboratory of Infectious Diseases, National Institute 
+of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, 
+USA.
+(35)Department of Molecular Biology and Biochemistry, University of California, 
+Irvine, Irvine, CA, USA.
+(36)Galveston National Laboratory, The University of Texas Medical Branch at 
+Galveston, Galveston, TX, USA.
+(37)Division of Virology, National Health Laboratory Service and Division of 
+Virology, University of the Free State, Bloemfontein, Republic of South Africa.
+(38)Colorado State University, Fort Collins, CO, USA.
+(39)National Citrus Engineering and Technology Research Center, Citrus Research 
+Institute, Southwest University, Beibei, Chongqing, People's Republic of China.
+(40)Respiratory Virus and Influenza Unit, National Microbiology Center, 
+Instituto de Salud Carlos III, Madrid, Spain.
+(41)Department of Microbiology and Immunology, Albert Einstein College of 
+Medicine, Bronx, NY, USA.
+(42)Unité des Virus Emergents (Aix-Marseille Univ, IRD 190, Inserm 1207, IHU 
+Méditerranée Infection), Marseille, France.
+(43)State Key Laboratory of Rice Biology, Institute of Biotechnology, Zhejiang 
+University, Hangzhou, People's Republic of China.
+(44)Grape and Persimmon Research Station, Institute of Fruit tree and Tea 
+Science, NARO, Higashihiroshima, Hiroshima, Japan.
+(45)Institute for Sustainable Plant Protection, National Research Council of 
+Italy (CNR), Strada delle Cacce 73, 10135, Turin, Italy.
+(46)Plant Breeding Genetics and Biotechnology Division and International Rice 
+Research Institute, Los Baños, Philippines.
+(47)Les Mandinaux, Le Grand Madieu, France.
+(48)Clinical Monitoring Research Program Directorate, Frederick National 
+Laboratory for Cancer Research, Frederick, MD, USA.
+(49)CIDEFI, Facultad de Ciencias Agrarias y Forestales, Universidad de La Plata, 
+La Plata, Argentina.
+(50)Department of Immunology and Microbiology IMM-6, The Scripps Research 
+Institute, La Jolla, CA, USA.
+(51)Department Viroscience, Erasmus MC, University Medical Centre Rotterdam, 
+Rotterdam, The Netherlands.
+(52)Centro de Investigaciones Agropecuarias, Instituto Nacional de Tecnología 
+Agropecuaria (IPAVE-CIAP-INTA), Córdoba, Argentina.
+(53)Unidad de Fitopatología y Modelización Agrícola, Consejo Nacional de 
+Investigaciones Científicas y Técnicas (UFYMA-CONICET), Córdoba, Argentina.
+(54)UMR 1161 Virology ANSES/INRAE/ENVA, ANSES Animal Health Laboratory, 94704, 
+Maisons-Alfort, France.
+(55)Pacific Salmon Foundation, Vancouver, BC, Canada.
+(56)United States Army Medical Research Institute of Infectious Diseases, Fort 
+Detrick, Frederick, MD, USA.
+(57)Istituto per la Protezione Sostenibile delle Piante, Consiglio Nazionale 
+delle Ricerche, Bari, Italy.
+(58)Queensland Alliance for Agriculture and Food Innovation, The University of 
+Queensland, St. Lucia, QLD, Australia.
+(59)CIHEAM, Istituto Agronomico Mediterraneo di Bari, Valenzano, Italy.
+(60)Institute of Virology, Philipps University Marburg, Marburg, Germany.
+(61)Zoonotic Diseases and Special Pathogens, National Microbiology Laboratory, 
+Public Health Agency of Canada, Winnipeg, MB, Canada.
+(62)Institute of Virology, Charité-Universitätsmedizin Berlin, Corporate Member 
+of Freie Universität Berlin, Humboldt Universität Berlin, Berlin, Germany.
+(63)Animal Production and Health Laboratory, Joint FAO/IAEA Division of Nuclear 
+Techniques in Food and Agriculture, Department of Nuclear Sciences and 
+Applications, International Atomic Energy Agency, Vienna, Austria.
+(64)School of Medicine, University of Pittsburgh, Pittsburgh, PA, USA.
+(65)Robert Koch Institut, Berlin, Germany.
+(66)School of Life Sciences, University of Warwick, Coventry, UK.
+(67)Department of Molecular Medicine, Mayo Clinic, Rochester, MN, USA.
+(68)Istituto Agronomico Mediterraneo di Bari, Valenzano, Italy.
+(69)Virology Unit, Department of Medical Microbiology, Hacettepe University 
+Faculty of Medicine, Ankara, Turkey.
+(70)School of Veterinary Medicine, St. George's University, True Blue, Grenada.
+(71)Animal and Plant Health Agency, Weybridge, Surrey, UK.
+(72)Institute for sustainable plant protection, CNR, Turin, Italy.
+(73)World Health Organization, Geneva, Switzerland.
+(74)Plant Virology Department, Institute of Plant Molecular Biology, Biology 
+Centre CAS, Ceske Budejovice, Czech Republic.
+(75)Embrapa Cassava and Fruits, Cruz das Almas, Bahia, Brazil.
+(76)College of Life Science and Engineering, Shenyang University, Shenyang, 
+Liaoning, People's Republic of China.
+(77)Albrecht Daniel Thaer-Institute for Crop and Animal Sciences, Division 
+Phytomedicine, Humboldt-Universität zu Berlin, Berlin, Germany.
+(78)Institute of Biochemistry and Biotechnology, Martin Luther University 
+Halle-Wittenberg, Halle/Saale, Germany.
+(79)National Institute for Viral Disease Control and Prevention, Chinese Center 
+for Disease Control and Prevention, Beijing, People's Republic of China.
+(80)nstituto de Biotecnología y Biología Molecular, Facultad de Ciencias 
+Exactas, I, CONICET UNLP, La Plata, Argentina.
+(81)Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+(82)Landwirtschaft und Flurneuordnung, Landesamt für ländliche Entwicklung, 
+Frankfurt (Oder), Germany.
+(83)Department of Microbiology and Immunology, Division of Biomedical Graduate 
+Research Organization, School of Medicine, Georgetown University, Washington, 
+DC, 20057, USA.
+(84)Centaurus Biotechnologies, CTP, Manassas, VA, USA.
+(85)Department of Microbiology and National Emerging Infectious Diseases 
+Laboratories, Boston University School of Medicine, Boston, MA, USA.
+(86)Department of Pathobiological Sciences, School of Veterinary Medicine, 
+University of Wisconsin-Madison, Madison, WI, USA.
+(87)Institute of Novel and Emerging Infectious Diseases, 
+Friedrich-Loeffler-Institut, Greifswald-Insel Riems, Germany.
+(88)WHO Collaborating Centre for Arboviruses and Hemorrhagic Fever Reference and 
+Research, Department of Virology, Bernhard-Nocht Institute for Tropical 
+Medicine, Hamburg, Germany.
+(89)Australian Infectious Diseases Research Centre, School of Chemistry and 
+Molecular Biosciences, The University of Queensland, Brisbane, Australia.
+(90)Floral and Nursery Plants Research Unit, United States Department of 
+Agriculture, Agricultural Research Service, USNA, Beltsville, MD, USA.
+(91)Department of Virology, University of Helsinki, Medicum, Helsinki, Finland.
+(92)Institute of Veterinary Pathology, Vetsuisse Faculty, University of Zurich, 
+Zurich, Switzerland.
+(93)London School of Hygeine and Tropical Medicine, London, UK.
+(94)Analysis Center of Agrobiology and Environmental Sciences, Zhejiang 
+University, Hangzhou, People's Republic of China.
+(95)Key Lab of Plant Pathology of Hubei Province, College of Plant Science and 
+Technology, Huazhong Agricultural University, Wuhan, People's Republic of China.
+(96)Department of Infectious Diseases, Yamagata University Faculty of Medicine, 
+Yamagata, Japan.
+(97)Hakubi Center for Advanced Research, Kyoto University, Kyoto, Japan.
+(98)Division of Veterinary Sciences, Graduate School of Life and Environmental 
+Sciences, Osaka Prefecture University, Izumisano, Japan.
+(99)Centers for Disease Control and Prevention, Fort Collins, CO, USA.
+(100)School of Veterinary Medicine, Murdoch University, Murdoch, WA, Australia.
+(101)Entomology and Plant Pathology, North Carolina State University, Raleigh, 
+NC, USA.
+(102)Silva Lapponica, Rovaniemi, Finland.
+(103)State Key Laboratory of Agricultural Microbiology, Huazhong Agricultural 
+University, Wuhan, Hubei Province, People's Republic of China.
+(104)Rice Breeding Innovations Platform, International Rice Research Institute, 
+Los Baños, Laguna, Philippines.
+(105)Institute of Virology, Charité-Universitätsmedizin Berlin, Corporate Member 
+of Free University Berlin, Humboldt-University Berlin, and Berlin Institute of 
+Health, Berlin, Germany.
+(106)German Centre for Infection Research, Berlin, Germany.
+(107)Department of Clinical Plant Science, Faculty of Bioscience and Applied 
+Chemistry, Hosei University, Koganei, Tokyo, Japan.
+(108)Pacific Biological Station, Fisheries and Oceans Canada, Nanaimo, BC, 
+Canada.
+(109)Institute of Virology, Biomedical Research Center, Slovak Academy of 
+Sciences, Bratislava, Slovakia.
+(110)Center for Infectious Medicine, Department of Medicine Huddinge, Karolinska 
+Institutet, Karolinska University Hospital, Stockholm, Sweden.
+(111)Department of Microbiology, Immunology and Infectious Diseases, Université 
+Laval, Quebec City, Canada.
+(112)Institute of Plant Science and Resources, Okayama University, Kurashiki, 
+Japan.
+(113)National Center for Biotechnology Information, National Library of 
+Medicine, National Institutes of Health, Bethesda, MD, USA.
+(114)Archaeal Virology Unit, Institut Pasteur, Paris, France.
+(115)Central Region Agricultural Research Center, NARO, Tsukuba, Ibaraki, Japan.
+(116)US Geological Survey Western Fisheries Research Center, Seattle, WA, USA.
+(117)KU Leuven, Rega Institute, Zoonotic Infectious Diseases unit, Leuven, 
+Belgium.
+(118)Department of Laboratory Medicine, University Hospitals Leuven, Leuven, 
+Belgium.
+(119)Department of Microbiology, University of Washington, Washington, USA.
+(120)Department of Microbiology, Icahn School of Medicine at Mount Sinai, New 
+York, NY, USA.
+(121)The University of Alabama at Birmingham, Birmingham, AL, USA.
+(122)MIVEGEC (IRD-CNRS-Montpellier university) Unit, French National Research 
+Institute for Sustainable Development (IRD), Montpellier, France.
+(123)Fisheries and Oceans Canada, Pacific Biological Station, 3190 Hammond Bay 
+Road, Nanaimo, BC, V9T 6N7, Canada.
+(124)Department of Veterinary Biosciences, College of Veterinary Medicine, The 
+Ohio State University, Columbus, OH, USA.
+(125)Department of Pharmacology and Toxicology, School of Medicine, and the 
+Center for Predictive Medicine for Biodefense and Emerging Infectious Diseases, 
+University of Louisville, Louisville, KY, USA.
+(126)Virology Research Center, University of São Paulo, Ribeirão Preto, Brazil.
+(127)German Center for Infection Research (DZIF), Berlin, Germany.
+(128)Pontificia Universidad Católica de Valparaíso, Campus Curauma, Valparaíso, 
+Chile.
+(129)United States Department of Agriculture, Agricultural Research Service , 
+Washington, USA.
+(130)Gembloux Agro-Bio Tech, TERRA, Plant Pathology Laboratory, Liège 
+University, Liege, Belgium.
+(131)Worldwide Influenza Centre, Francis Crick Institute, London, UK.
+(132)Plant and Environmental Protection Sciences, University of Hawai'i at 
+Mānoa, Honolulu, HI, USA.
+(133)Biocentre Klein Flottbek, University of Hamburg, Hamburg, Germany.
+(134)Molecular Genetics, Pacific Biological Station, Department of Fisheries and 
+Oceans, Nanaimo, Canada.
+(135)Folkhalsomyndigheten, Stockholm, Sweden.
+(136)Department of Medicine, Univeristy of British Columbia, Vancouver, Canada.
+(137)Department of Plant Pathology, Irrigated Agricultural Research and 
+Extension Center, Washington State University, Prosser, WA, USA.
+(138)School of Agriculture, Utsunomiya University, Utsunomiya, Tochigi, Japan.
+(139)Instituto de Biología Molecular y Celular de Plantas, Universitat 
+Politècnica de València-Consejo Superior de Investigaciones Científicas, 
+Valencia, Spain.
+(140)Novosibirsk State University, Novosibirsk, Novosibirsk Oblast, Russia.
+(141)Influenza Research Institute, Department of Pathobiological Sciences, 
+University of Wisconsin-Madison, Madison, WI, USA.
+(142)Institute of Virology, University of Veterinary Medicine Vienna, Vienna, 
+Austria.
+(143)College of Medicine, Mohammed Bin Rashid University of Medicine and Health 
+Sciences, Dubai, United Arab Emirates.
+(144)Evandro Chagas Institute, Ministry of Health, Pará, Brazil.
+(145)Instituto de Biología Molecular y Celular de Plantas (IBMCP), Consejo 
+Superior de Investigaciones Cientificas-Universidad Politécnica de Valencia, 
+Valencia, Spain.
+(146)National Biosafety Laboratory, National Public Health Center, Budapest, 
+Hungary.
+(147)National Reference Centre for Arboviruses and Haemorrhagic Fever Viruses, 
+Department of Microbiology, Medical School, Aristotle University of 
+Thessaloniki, Thessaloniki, Greece.
+(148)Institute of Virology, Charité-Universitätsmedizin Berlin, corporate member 
+of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin 

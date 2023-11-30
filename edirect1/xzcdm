@@ -1,0 +1,1000 @@
+was similar between all filters.
+CONCLUSIONS: The left vertebral artery is an important entry route for embolic 
+material to the brain during TAVR. Selective filter protection of the left 
+vertebral artery revealed embolic debris in all patients. The clinical value of 
+complete filter-based TCEP during TAVR warrants further research.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ccd.27323
+PMID: 28895285 [Indexed for MEDLINE]
+
+
+156. Health Technol Assess. 2017 Sep;21(51):1-238. doi: 10.3310/hta21510.
+
+Molecular testing for Lynch syndrome in people with colorectal cancer: 
+systematic reviews and economic evaluation.
+
+Snowsill T(1), Coelho H(1), Huxley N(1), Jones-Hughes T(1), Briscoe S(1), 
+Frayling IM(2), Hyde C(1).
+
+Author information:
+(1)Peninsula Technology Assessment Group (PenTAG), University of Exeter, Exeter, 
+UK.
+(2)Institute of Cancer and Genetics, University Hospital of Wales, Cardiff, UK.
+
+BACKGROUND: Inherited mutations in deoxyribonucleic acid (DNA) mismatch repair 
+(MMR) genes lead to an increased risk of colorectal cancer (CRC), gynaecological 
+cancers and other cancers, known as Lynch syndrome (LS). Risk-reducing 
+interventions can be offered to individuals with known LS-causing mutations. The 
+mutations can be identified by comprehensive testing of the MMR genes, but this 
+would be prohibitively expensive in the general population. Tumour-based tests - 
+microsatellite instability (MSI) and MMR immunohistochemistry (IHC) - are used 
+in CRC patients to identify individuals at high risk of LS for genetic testing. 
+MLH1 (MutL homologue 1) promoter methylation and BRAF V600E testing can be 
+conducted on tumour material to rule out certain sporadic cancers.
+OBJECTIVES: To investigate whether testing for LS in CRC patients using MSI or 
+IHC (with or without MLH1 promoter methylation testing and BRAF V600E testing) 
+is clinically effective (in terms of identifying Lynch syndrome and improving 
+outcomes for patients) and represents a cost-effective use of NHS resources.
+REVIEW METHODS: Systematic reviews were conducted of the published literature on 
+diagnostic test accuracy studies of MSI and/or IHC testing for LS, end-to-end 
+studies of screening for LS in CRC patients and economic evaluations of 
+screening for LS in CRC patients. A model-based economic evaluation was 
+conducted to extrapolate long-term outcomes from the results of the diagnostic 
+test accuracy review. The model was extended from a model previously developed 
+by the authors.
+RESULTS: Ten studies were identified that evaluated the diagnostic test accuracy 
+of MSI and/or IHC testing for identifying LS in CRC patients. For MSI testing, 
+sensitivity ranged from 66.7% to 100.0% and specificity ranged from 61.1% to 
+92.5%. For IHC, sensitivity ranged from 80.8% to 100.0% and specificity ranged 
+from 80.5% to 91.9%. When tumours showing low levels of MSI were treated as a 
+positive result, the sensitivity of MSI testing increased but specificity fell. 
+No end-to-end studies of screening for LS in CRC patients were identified. Nine 
+economic evaluations of screening for LS in CRC were identified. None of the 
+included studies fully matched the decision problem and hence a new economic 
+evaluation was required. The base-case results in the economic evaluation 
+suggest that screening for LS in CRC patients using IHC, BRAF V600E and MLH1 
+promoter methylation testing would be cost-effective at a threshold of £20,000 
+per quality-adjusted life-year (QALY). The incremental cost-effectiveness ratio 
+for this strategy was £11,008 per QALY compared with no screening. Screening 
+without tumour tests is not predicted to be cost-effective.
+LIMITATIONS: Most of the diagnostic test accuracy studies identified were rated 
+as having a risk of bias or were conducted in unrepresentative samples. There 
+was no direct evidence that screening improves long-term outcomes. No 
+probabilistic sensitivity analysis was conducted.
+CONCLUSIONS: Systematic review evidence suggests that MSI- and IHC-based testing 
+can be used to identify LS in CRC patients, although there was heterogeneity in 
+the methods used in the studies identified and the results of the studies. There 
+was no high-quality empirical evidence that screening improves long-term 
+outcomes and so an evidence linkage approach using modelling was necessary. Key 
+determinants of whether or not screening is cost-effective are the accuracy of 
+tumour-based tests, CRC risk without surveillance, the number of relatives 
+identified for cascade testing, colonoscopic surveillance effectiveness and the 
+acceptance of genetic testing. Future work should investigate screening for more 
+causes of hereditary CRC and screening for LS in endometrial cancer patients.
+STUDY REGISTRATION: This study is registered as PROSPERO CRD42016033879.
+FUNDING: The National Institute for Health Research Health Technology Assessment 
+programme.
+
+DOI: 10.3310/hta21510
+PMCID: PMC5611555
+PMID: 28895526 [Indexed for MEDLINE]
+
+
+157. J Phys Chem A. 2017 Oct 12;121(40):7543-7549. doi: 10.1021/acs.jpca.7b07080.
+ Epub 2017 Sep 27.
+
+Metrics for Molecular Electronic Excitations: A Comparison between Orbital- and 
+Density-Based Descriptors.
+
+Savarese M(1), Guido CA(2), Brémond E(1), Ciofini I(3), Adamo C(3).
+
+Author information:
+(1)CompuNet, Istituto Italiano di Tecnologia , via Morego 30, I-16163 Genoa, 
+Italy.
+(2)Laboratoire CEISAM-UMR CNRS 6230, Université de Nantes , 2 Rue de la 
+Houssinière, 44322 Nantes Cedex 3, France.
+(3)Chimie ParisTech, PSL Research University , CNRS, Institut de Recherche de 
+Chimie Paris, F-75005 Paris, France.
+
+This study proposes a quantitative and qualitative comparison of two popular 
+metrics used for time-dependent density functional simulations of chromophores 
+when describing absorption and emission processes, with high discrimination 
+power between short- and long-range character of involved electronic excitations 
+and functional performances. To this end, a total of 160 absorption and emission 
+electronic excitations of 80 molecular systems belonging to the "Real-Life 
+Molecules" data set, recently introduced in literature, have been considered a 
+relevant data set. The two selected indexes are based on density (the DCT one) 
+and natural transition orbitals (the ΔrNTO one), respectively. For comparison 
+purposes, an extension of the DCT index, in line with what exists for ΔrNTO, 
+enabling to discriminate electronic transitions occurring in symmetric systems 
+is also proposed. The results show that, independently of the exchange and 
+correlation functional used, a good correlation between the natural transition 
+orbital and density based descriptors is found, thus cross validating their use 
+for the quantification of a large variety of transitions in chemically relevant 
+molecular systems.
+
+DOI: 10.1021/acs.jpca.7b07080
+PMID: 28895739
+
+
+158. J Med Econ. 2017 Nov;20(11):1207-1215. doi: 10.1080/13696998.2017.1379411.
+Epub  2017 Sep 21.
+
+The cost-effectiveness of levodopa/carbidopa intestinal gel compared to standard 
+care in advanced Parkinson's disease.
+
+Lowin J(1), Sail K(2), Baj R(3), Jalundhwala YJ(2), Marshall TS(2), Konwea H(1), 
+Chaudhuri KR(4)(5).
+
+Author information:
+(1)a QuintilesIMS , London , UK.
+(2)b AbbVie , North Chicago , IL , USA.
+(3)c AbbVie Ireland , Dublin , Ireland.
+(4)d National Parkinson Foundation Centre of Excellence, King's College Hospital 
+and King's College London , London , UK.
+(5)e University Hospital Lewisham , London , UK.
+
+BACKGROUND: Parkinson's disease (PD) is an incurable, progressive neurological 
+condition, with symptoms impacting movement, walking, and posture that 
+eventually become severely disabling. Advanced PD (aPD) has a significant impact 
+on quality-of-life (QoL) for patients and their caregivers/families. 
+Levodopa/carbidopa intestinal gel (LCIG) is indicated for the treatment of 
+advanced levodopa-responsive PD with severe motor fluctuations and 
+hyper-/dyskinesia when available combinations of therapy have not given 
+satisfactory results.
+AIMS: To determine the cost-effectiveness of LCIG vs standard of care (SoC) for 
+the treatment of aPD patients.
+METHODS: A Markov model was used to evaluate LCIG vs SoC in a hypothetical 
+cohort of 100 aPD patients with severe motor fluctuations from an Irish 
+healthcare perspective. Model health states were defined by Hoehn & Yahr (H&Y) 
+scale-combined with amount of time in OFF-time-and death. SoC comprised of 
+standard oral therapy ± subcutaneous apomorphine infusion and standard follow-up 
+visits. Clinical efficacy, utilities, and transition probabilities were derived 
+from published studies. Resource use was estimated from individual patient-level 
+data from Adelphi 2012 UK dataset, using Irish costs, where possible. Time 
+horizon was 20 years. Costs and outcomes were discounted at 4%. Both one-way and 
+probabilistic sensitivity analyses were conducted.
+RESULTS: The incremental cost-effectiveness ratio for LCIG vs SOC was 
+€26,944/quality adjusted life year (QALY) (total costs and QALYs for LCIG vs 
+SoC: €537,687 vs €514,037 and 4.37 vs 3.49, respectively). LCIG is 
+cost-effective at a payer threshold of €45,000. The model was most sensitive to 
+health state costs.
+CONCLUSION: LCIG is a cost-effective treatment option compared with SoC in 
+patients with aPD.
+
+DOI: 10.1080/13696998.2017.1379411
+PMID: 28895769 [Indexed for MEDLINE]
+
+
+159. Br J Cancer. 2017 Oct 24;117(9):1419-1426. doi: 10.1038/bjc.2017.300. Epub
+2017  Sep 12.
+
+Estimating the impact of a cancer diagnosis on life expectancy by socio-economic 
+group for a range of cancer types in England.
+
+Syriopoulou E(1), Bower H(2), Andersson TM(2), Lambert PC(1)(2), Rutherford 
+MJ(1).
+
+Author information:
+(1)Biostatistics Research Group, Department of Health Sciences, University of 
+Leicester, Centre for Medicine, University Road, Leicester LE1 7RH, UK.
+(2)Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, 
+SE-171 77, Stockholm, Sweden.
+
+BACKGROUND: Differences in cancer survival exist across socio-economic groups 
+for many cancer types. Standard metrics fail to show the overall impact for 
+patients and the population.
+METHODS: The available data consist of a population of ∼2.5 million patients and 
+include all patients recorded as being diagnosed with melanoma, prostate, 
+bladder, breast, colon, rectum, lung, ovarian and stomach cancers in England 
+between 1998 and 2013. We estimated the average loss in expectation of life per 
+patient in years and the proportion of life lost for a range of cancer types, 
+separately by deprivation group. In addition, estimates for the total number of 
+years lost due to each cancer were also obtained.
+RESULTS: Lung and stomach cancers result in the highest overall loss for males 
+and females in all deprivation groups in terms of both absolute life years lost 
+and loss as a proportion of expected life remaining. Female lung cancer patients 
+in the least- and most-deprived group lose 14.4 and 13.8 years on average, 
+respectively, that is translated as 86.1% and 87.3% of their average expected 
+life years remaining. Melanoma, prostate and breast cancers have the lowest 
+overall loss. On the basis of the number of patients diagnosed in 2013, lung 
+cancer results in the most life years lost in total followed by breast cancer. 
+Melanoma and bladder cancer account for the lowest total life years lost.
+CONCLUSIONS: There are wide differences in the impact of cancer on life 
+expectancy across deprivation groups, and for most cancers the most affluent 
+lose less years.
+
+DOI: 10.1038/bjc.2017.300
+PMCID: PMC5672926
+PMID: 28898233 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+160. Pain Pract. 2018 Apr;18(4):515-522. doi: 10.1111/papr.12641. Epub 2017 Nov
+3.
+
+A Cost-Effectiveness Analysis of Intradiscal Electrothermal Therapy Compared 
+with Circumferential Lumbar Fusion.
+
+Stamuli E(1), Kesornsak W(2), Grevitt MP(2), Posnett J(3), Claxton K(4).
+
+Author information:
+(1)Department of Health Sciences, University of York, York, U.K.
+(2)University Hospitals, Nottingham, U.K.
+(3)PAREXEL, London, U.K.
+(4)Department of Economics and Related Studies, University of York, York, U.K.
+
+STUDY DESIGN: Cost-effectiveness analysis.
+OBJECTIVE: To evaluate the cost-effectiveness of intradiscal electrothermal 
+therapy (IDET) relative to circumferential lumbar fusion with femoral ring 
+allograft (FRA) in the United Kingdom.
+SUMMARY OF BACKGROUND DATA: Circumferential lumbar fusion is an established 
+treatment for discogenic low back pain. However, IDET could be a cost-effective 
+treatment alternative as it can be carried out as a day case.
+METHODS: Patient-level data were available for patients with discogenic low back 
+pain treated with FRA (n = 37) in a randomized trial of FRA vs. titanium cage, 
+and for patients recruited to a separate study evaluating the use of IDET 
+(n = 85). Both studies were carried out at a single institution in the United 
+Kingdom. Patients were followed-up for 24 months, with data collected on low 
+back disability (Oswestry Disability Index), back and leg pain (visual analog 
+scale), quality of life (Short Form 36), radiographic evaluations, and U.K. 
+National Health Service (NHS) resource use. Cost-effectiveness was measured by 
+the incremental cost per quality-adjusted life year (QALY) gained.
+RESULTS: Both treatments produced statistically significant improvements in 
+outcome at 24-month follow-up. NHS costs were significantly lower with IDET due 
+to a shorter mean procedure time (377.4 minutes vs. 49.9 minutes) and length of 
+stay (7 days vs. 1.2 days). At a threshold of £20,000 per QALY, the probability 
+that IDET is cost effective is high.
+CONCLUSIONS: Both treatments led to significant improvements in patient outcomes 
+that were sustained for at least 24 months. Costs were lower with IDET, and for 
+appropriate patients IDET is an effective and cost-effective treatment 
+alternative.
+
+© 2017 World Institute of Pain.
+
+DOI: 10.1111/papr.12641
+PMID: 28898530 [Indexed for MEDLINE]
+
+
+161. Asian J Psychiatr. 2017 Dec;30:124-126. doi: 10.1016/j.ajp.2017.09.004. Epub
+ 2017 Sep 6.
+
+Social functioning in individuals with first episode psychosis: One-year 
+follow-up study.
+
+Raghavan V(1), Ramamurthy M(2), Rangaswamy T(2).
+
+Author information:
+(1)Schizophrenia Research Foundation, R/7A, North Main Road, Anna Nagar West 
+Extension, Chennai, Tamil Nadu, 600101, India. Electronic address: 
+vijayaraghavan@scarfindia.org.
+(2)Schizophrenia Research Foundation, R/7A, North Main Road, Anna Nagar West 
+Extension, Chennai, Tamil Nadu, 600101, India.
+
+BACKGROUND: Improvement in social functioning is important for recovery in first 
+episode psychosis (FEP).
+METHODOLOGY: 51 individuals diagnosed with first episode psychosis were assessed 
+for social functioning at baseline and one year follow-up.
+RESULTS: Significant improvement was seen in certain domains of social 
+functioning measured by LSP scale such as communication and non-turbulence while 
+no significant changes were observed in self-care and social contact.
+CONCLUSION: At one year follow-up, partial improvement in social functioning is 
+observed in individuals with first episode psychosis. This warrants inclusion of 
+specific interventions to improve social functioning in the management plan of 
+individuals with FEP.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ajp.2017.09.004
+PMID: 28898807 [Indexed for MEDLINE]
+
+
+162. Med J Aust. 2017 Sep 18;207(6):244-249. doi: 10.5694/mja17.00015.
+
+Road safety: serious injuries remain a major unsolved problem.
+
+Beck B(1), Cameron PA(2), Fitzgerald MC(3), Judson RT(4), Teague W(5), Lyons 
+RA(6), Gabbe BJ.
+
+Author information:
+(1)Monash University, Melbourne, VIC ben.beck@monash.edu.
+(2)Monash University, Melbourne, VIC.
+(3)Emergency and Trauma Centre, The Alfred Hospital, Melbourne, VIC.
+(4)Private Medical Centre, Royal Melbourne Hospital, Melbourne, VIC.
+(5)Royal Children's Hospital, Melbourne.
+(6)Farr Institute, Swansea University, Swansea, Wales, United Kingdom.
+
+Comment in
+    Med J Aust. 2017 Sep 18;207(6):242-243.
+
+OBJECTIVE: To investigate temporal trends in the incidence, mortality, 
+disability-adjusted life-years (DALYs), and costs of health loss caused by 
+serious road traffic injury.
+DESIGN, SETTING AND PARTICIPANTS: A retrospective review of data from the 
+population-based Victorian State Trauma Registry and the National Coronial 
+Information System on road traffic-related deaths (pre- and in-hospital) and 
+major trauma (Injury Severity Score > 12) during 2007-2015.Main outcomes and 
+measures: Temporal trends in the incidence of road traffic-related major trauma, 
+mortality, DALYs, and costs of health loss, by road user type.
+RESULTS: There were 8066 hospitalised road traffic major trauma cases and 2588 
+road traffic fatalities in Victoria over the 9-year study period. There was no 
+change in the incidence of hospitalised major trauma for motor vehicle occupants 
+(incidence rate ratio [IRR] per year, 1.00; 95% CI, 0.99-1.01; P = 0.70), 
+motorcyclists (IRR, 0.99; 95% CI, 0.97-1.01; P = 0.45) or pedestrians (IRR, 
+1.00; 95% CI, 0.97-1.02; P = 0.73), but the incidence for pedal cyclists 
+increased 8% per year (IRR, 1.08; 95% CI; 1.05-1.10; P < 0.001). While DALYs 
+declined for motor vehicle occupants (by 13% between 2007 and 2015), 
+motorcyclists (32%), and pedestrians (5%), there was a 56% increase in DALYs for 
+pedal cyclists. The estimated costs of health loss associated with road traffic 
+injuries exceeded $14 billion during 2007-2015, although the cost per patient 
+declined for all road user groups.
+CONCLUSIONS: As serious injury rates have not declined, current road safety 
+targets will be difficult to meet. Greater attention to preventing serious 
+injury is needed, as is further investment in road safety, particularly for 
+pedal cyclists.
+
+DOI: 10.5694/mja17.00015
+PMID: 28899316 [Indexed for MEDLINE]
+
+
+163. BMC Health Serv Res. 2017 Sep 12;17(1):644. doi: 10.1186/s12913-017-2594-4.
+
+The utilization of formal and informal home care by older patients with cancer: 
+a Belgian cohort study with two control groups.
+
+Baitar A(1), Buntinx F(2)(3), De Burghgraeve T(2), Deckx L(4), Bulens P(5), 
+Wildiers H(6), van den Akker M(2)(3).
+
+Author information:
+(1)Department of Oncology, ZNA Middelheim, Antwerp, Belgium. 
+Abdelbari.baitar@zna.be.
+(2)Academic Centre for General Practice/ Department of Public Health and Primary 
+Care, KU Leuven, Leuven, Belgium.
+(3)Department of Family Medicine, School CAPHRI, Maastricht University, 
+Maastricht, The Netherlands.
+(4)Department of General Practice, University of Queensland, Brisbane, 
+Australia.
+(5)Limburgs Oncologisch centrum, Jessa hospital, Hasselt, Belgium.
+(6)Department of General Medical Oncology, University hospitals Leuven, Leuven, 
+Belgium.
+
+BACKGROUND: The purpose of this paper is to analyse the utilization of formal 
+and informal home care among older patients with cancer (OCP) and to compare 
+this with middle-aged patients with cancer (MCP) and older patients without 
+cancer (ONC). Additionally, we examined predictors of transitions towards formal 
+care one year after a cancer diagnosis.
+METHODS: OCP and MCP had to be recruited within three months after a cancer 
+diagnosis and have an estimated life expectancy over six months. ONC consisted 
+of patients without known cancer, seen by the general practitioner. Formal and 
+informal care were compared between the patient groups at baseline, i.e. shortly 
+after a cancer diagnosis and changes in care were studied after one year.
+RESULTS: A total of 844 patients were evaluable for formal care at baseline and 
+469 patients (56%) at follow-up. At baseline, about half of older adults and 18% 
+of MCP used formal care, while about 85% of cancer patients and 57% ONC used 
+informal care. Formal care increased for all groups after one year though not 
+significantly in OCP. The amount of informal care only changed in MCP which 
+decreased after one year. Cancer-related factors and changes in need factors 
+predict a transition towards formal care after a cancer diagnosis.
+CONCLUSIONS: A cancer diagnosis has a different impact on the use of formal and 
+informal care than ageing as such. The first year after a cancer diagnosis is an 
+important time to follow-up on the patients' needs for home care.
+
+DOI: 10.1186/s12913-017-2594-4
+PMCID: PMC5596475
+PMID: 28899389 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: The 
+study protocol was approved by the Ethical Review Board of KU Leuven and UZ 
+Leuven (S52097-ML6279). All patients signed informed consent prior to study 
+entry. CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: The authors 
+declare that they have no competing interests. PUBLISHER’S NOTE: Springer Nature 
+remains neutral with regard to jurisdictional claims in published maps and 
+institutional affiliations.
+
+
+164. Enzyme Microb Technol. 2017 Dec;107:15-21. doi:
+10.1016/j.enzmictec.2017.07.011.  Epub 2017 Jul 29.
+
+Enzymatic synthesis of chlorogenic acid glucoside using dextransucrase and its 
+physical and functional properties.
+
+Nam SH(1), Ko JA(2), Jun W(3), Wee YJ(4), Walsh MK(5), Yang KY(6), Choi JH(7), 
+Eun JB(8), Choi J(9), Kim YM(8), Han S(10), Nguyen TTH(11), Kim D(12).
+
+Author information:
+(1)Institute of Agricultural Science and Technology, Chonnam National 
+University, Gwangju, 61186, South Korea. Electronic address: 
+namsh1000@hanmail.net.
+(2)Bio-energy Research Center, Chonnam National University, Gwangju, 61186, 
+South Korea.
+(3)Division of Food and Nutrition and Research Institute for Human Ecology, 
+Chonnam National University, Gwangju, 61186, South Korea.
+(4)Department of Food Science and Technology, Yeungnam University, Gyeongbuk, 
+712-749, South Korea.
+(5)Department of Nutrition, Dietetics, and Food Sciences, Utah State University, 
+8700 Old Main Hill, 750N 1200E, 84322-8700, Logan, UT, USA.
+(6)Department of Plant Biotechnology, College of Agriculture and Life Sciences, 
+Chonnam National University, Gwangju, 61186, South Korea.
+(7)Pear Research Station, National Institute of Horticultural & Herbal Science, 
+Naju, 520-821, South Korea.
+(8)Brain Korea 21 Center for Green Food & Food Materials, Department of Food 
+Science and Technology, Chonnam National University, Gwangju, 61186, South 
+Korea.
+(9)Tea Industry Institute, Jeollanamdo Agricultural Research and Extension 
+Services, Jellanamdo province, Boseong, 59455, South Korea.
+(10)Department of International Agricultural Technology, Seoul National 
+University, Gangwon do, 25354, South Korea.
+(11)Institute of Food Industrialization, Institutes of Green Bio Science & 
+Technology, Seoul National University, Gangwon-do, 25354, South Korea.
+(12)Department of International Agricultural Technology, Seoul National 
+University, Gangwon do, 25354, South Korea; Institute of Food Industrialization, 
+Institutes of Green Bio Science & Technology, Seoul National University, 
+Gangwon-do, 25354, South Korea.
+
+Chlorogenic acid, a major polyphenol in edible plants, possesses strong 
+antioxidant activity, anti-lipid peroxidation and anticancer effects. It used 
+for industrial applications; however, this is limited by its instability to heat 
+or light. In this study, we for the first time synthesized chlorogenic acid 
+glucoside (CHG) via transglycosylation using dextransucrase from Leuconostoc 
+mesenteroides and sucrose. CHG was purified and its structure determined by 
+nuclear magnetic resonance and matrix-associated laser desorption 
+ionization-time-of-flight mass spectroscopy. The production yield of CHG was 
+44.0% or 141mM, as determined by response surface methodology. CHG possessed a 
+65% increased water solubility and 2-fold browning resistance while it displayed 
+stronger inhibition of lipid peroxidation and of colon cancer cell growth by MTT 
+assay, compared to chlorogenic acid. Therefore, this study may expand the 
+industrial applications of chlorogenic acid as water-soluble or browning 
+resistant compound (CHG) through enzymatic glycosylation.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.enzmictec.2017.07.011
+PMID: 28899482 [Indexed for MEDLINE]
+
+
+165. J Med Internet Res. 2017 Sep 12;19(9):e315. doi: 10.2196/jmir.7393.
+
+Enhancing Seasonal Influenza Surveillance: Topic Analysis of Widely Used 
+Medicinal Drugs Using Twitter Data.
+
+Kagashe I(1), Yan Z(1)(2), Suheryani I(3).
+
+Author information:
+(1)School of Management and Economics, Beijing Institute of Technology, Beijing, 
+China.
+(2)Sustainable Development Research Institute for Economy and Society of 
+Beijing, Beijing, China.
+(3)School of Life Science, Department of Biomedical Engineering, Beijing 
+Institute of Technology, Beijing, China.
+
+BACKGROUND: Uptake of medicinal drugs (preventive or treatment) is among the 
+approaches used to control disease outbreaks, and therefore, it is of vital 
+importance to be aware of the counts or frequencies of most commonly used drugs 
+and trending topics about these drugs from consumers for successful 
+implementation of control measures. Traditional survey methods would have 
+accomplished this study, but they are too costly in terms of resources needed, 
+and they are subject to social desirability bias for topics discovery. Hence, 
+there is a need to use alternative efficient means such as Twitter data and 
+machine learning (ML) techniques.
+OBJECTIVE: Using Twitter data, the aim of the study was to (1) provide a 
+methodological extension for efficiently extracting widely consumed drugs during 
+seasonal influenza and (2) extract topics from the tweets of these drugs and to 
+infer how the insights provided by these topics can enhance seasonal influenza 
+surveillance.
+METHODS: From tweets collected during the 2012-13 flu season, we first 
+identified tweets with mentions of drugs and then constructed an ML classifier 
+using dependency words as features. The classifier was used to extract tweets 
+that evidenced consumption of drugs, out of which we identified the mostly 
+consumed drugs. Finally, we extracted trending topics from each of these widely 
+used drugs' tweets using latent Dirichlet allocation (LDA).
+RESULTS: Our proposed classifier obtained an F1 score of 0.82, which 
+significantly outperformed the two benchmark classifiers (ie, P<.001 with the 
+lexicon-based and P=.048 with the 1-gram term frequency [TF]). The classifier 
+extracted 40,428 tweets that evidenced consumption of drugs out of 50,828 tweets 
+with mentions of drugs. The most widely consumed drugs were influenza virus 
+vaccines that had around 76.95% (31,111/40,428) share of the total; other 
+notable drugs were Theraflu, DayQuil, NyQuil, vitamins, acetaminophen, and 
+oseltamivir. The topics of each of these drugs exhibited common themes or 
+experiences from people who have consumed these drugs. Among these were the 
+enabling and deterrent factors to influenza drugs uptake, which are keys to 
+mitigating the severity of seasonal influenza outbreaks.
+CONCLUSIONS: The study results showed the feasibility of using tweets of widely 
+consumed drugs to enhance seasonal influenza surveillance in lieu of the 
+traditional or conventional surveillance approaches. Public health officials and 
+other stakeholders can benefit from the findings of this study, especially in 
+enhancing strategies for mitigating the severity of seasonal influenza 
+outbreaks. The proposed methods can be extended to the outbreaks of other 
+diseases.
+
+©Ireneus Kagashe, Zhijun Yan, Imran Suheryani. Originally published in the 
+Journal of Medical Internet Research (http://www.jmir.org), 12.09.2017.
+
+DOI: 10.2196/jmir.7393
+PMCID: PMC5617904
+PMID: 28899847 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: None declared.
+
+
+166. BMJ Open. 2017 Sep 11;7(9):e016521. doi: 10.1136/bmjopen-2017-016521.
+
+Effect of anesthesia depth on postoperative clinical outcome in patients with 
+supratentorial tumor (DEPTH): study protocol for a randomized controlled trial.
+
+Cui Q(1), Peng Y(1), Liu X(1), Jia B(1), Dong J(1), Han R(1).
+
+Author information:
+(1)Department of Anesthesiology, Beijing Tiantan Hospital, Capital Medical 
+University, Beijing, China.
+
+INTRODUCTION: Recent studies have shown that deep anaesthesia is associated with 
+poor outcomes. However, no randomised controlled trials have been conducted to 
+test the causality in patients undergoing brain tumour resection.
+METHODS AND ANALYSIS: DEPTH is a multicenter, randomised, parallel-group, blind 
+trial. The depth of general anaesthesia will be monitored using the bispectral 
+index (BIS). Patients elected for supratentorial tumour resection will be 
+randomly allocated to the deep or the light anaesthesia group in which the 
+target BIS value is 35 or 50, respectively. BIS will be maintained at the target 
+value for more than 90% of the total anaesthesia period. The primary outcome is 
+the disability-free survival rate at postoperative 30 days and 1 year. The 
+secondary outcomes are the mortality and morbidity within 30 days after surgery.
+ETHICS APPROVAL AND DISSEMINATION: Ethical approval has been granted by the 
+Medical Ethics Committee of Beijing Tiantan Hospital, Capital Medicine 
+University. The reference number is KY2016-059-02. The results of this study 
+will be disseminated through presentations at scientific conferences and 
+publication in scientific journals.
+TRIAL REGISTRATION: NCT03033693.
+
+© Article author(s) (or their employer(s) unless otherwise stated in the text of 
+the article) 2017. All rights reserved. No commercial use is permitted unless 
+otherwise expressly granted.
+
+DOI: 10.1136/bmjopen-2017-016521
+PMCID: PMC5595190
+PMID: 28899891 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+167. J Prev Med Hyg. 2017 Jun;58(2):E114-E120.
+
+An overview of different health indicators used in the European Health Systems.
+
+Gaeta M(1), Campanella F(1), Capasso L(1), Schifino GM(1), Gentile L(1), Banfi 
+G(2)(3), Pelissero G(1), Ricci C(1)(4).
+
+Author information:
+(1)Department of Public Health, Experimental and Forensic Medicine, University 
+of Pavia, Pavia, Italy.
+(2)IRCCS Istituto Ortopedico Galeazzi, Milan, Italy.
+(3)Vita e Salute San Raffaele University, Milan, Italy.
+(4)Centre of Excellence for Nutrition (CEN), North-West University, 
+Potchefstroom, South Africa.
+
+INTRODUCTION: In the European Union three different health systems could be 
+defined according to service delivery, financing, and economic policies: 
+Beveridge, Bismarck and Mixed system. Although health systems are hardly to 
+compare, various organizations are developing methods assessing performance. In 
+the present work the performance of the three systems were evaluated using 
+European Community Health Indicators according to Organization for Economic 
+Cooperation and Development.
+METHODS: The study has been conducted among the 28 states of the European Union 
+using the following indicators: Standardized death rate for diseases of the 
+circulatory system, standardized death rate of malignant neoplasms, road traffic 
+accidents with injury, life expectancy at birth, incidence of Human 
+Immunodeficiency Virus (HIV), infant deaths, pure alcohol consumption, infants 
+vaccinated against Diphtheria Tetanus Pertussis (DTP), public and total 
+expenditure on health over the period 2001-2010.
+RESULTS: The variation of health indicators over the observational time shows 
+similar trend of circulatory system diseases and malignant neoplasms death 
+rates, road accidents with injury, infant deaths, life expectancy at birth, 
+public and total health expenditure. Some differences in the trend of HIV 
+incidence, alcohol intake and DTP vaccination rates arise among systems. 
+Grouping countries by health system paradigm and geographical area, resulted in 
+a relevant heterogeneity (I2 ≥ 90%, Pvalue < 0.0001). No clear superiority of a 
+given health delivery system was found with respect to other paradigms.
+CONCLUSIONS: In accordance with the evidence of our study, it can be stated that 
+best performances are more likely to be linked to country specific economic 
+factors. In conclusion, it was not possible to identify the best health system 
+model.
+
+PMCID: PMC5584080
+PMID: 28900351 [Indexed for MEDLINE]
+
+
+168. Cell Mol Life Sci. 2018 Feb;75(3):563-588. doi: 10.1007/s00018-017-2653-3.
+Epub  2017 Sep 12.
+
+Ammonium trichloro [1,2-ethanediolato-O,O']-tellurate cures experimental 
+visceral leishmaniasis by redox modulation of Leishmania donovani trypanothione 
+reductase and inhibiting host integrin linked PI3K/Akt pathway.
+
+Vishwakarma P(1)(2), Parmar N(1)(2), Chandrakar P(1)(2), Sharma T(3), Kathuria 
+M(4), Agnihotri PK(5), Siddiqi MI(2)(3), Mitra K(2)(4), Kar S(6)(7).
+
+Author information:
+(1)Division of Parasitology, CSIR-Central Drug Research Institute, Jankipuram 
+Extension, Sitapur Road, Lucknow, Uttar Pradesh, 226031, India.
+(2)Academy of Scientific and Innovative Research, Anusandhan Bhawan, New Delhi, 
+India.
+(3)Molecular and Structural Biology Division, CSIR-Central Drug Research 
+Institute, Lucknow, India.
+(4)Electron Microscopy Unit, Sophisticated Analytical Instrument Facility, 
+CSIR-Central Drug Research Institute, Lucknow, India.
+(5)Division of Toxicology, CSIR-Central Drug Research Institute, Lucknow, India.
+(6)Division of Parasitology, CSIR-Central Drug Research Institute, Jankipuram 
+Extension, Sitapur Road, Lucknow, Uttar Pradesh, 226031, India. 
+susantakar@cdri.res.in.
+(7)Academy of Scientific and Innovative Research, Anusandhan Bhawan, New Delhi, 
+India. susantakar@cdri.res.in.
+
+In an endeavor to search for affordable and safer therapeutics against 
+debilitating visceral leishmaniasis, we examined antileishmanial potential of 
+ammonium trichloro [1,2-ethanediolato-O,O']-tellurate (AS101); a tellurium based 
+non toxic immunomodulator. AS101 showed significant in vitro efficacy against 
+both Leishmania donovani promastigotes and amastigotes at sub-micromolar 
+concentrations. AS101 could also completely eliminate organ parasite load from 
+L. donovani infected Balb/c mice along with significant efficacy against 
+infected hamsters (˃93% inhibition). Analyzing mechanistic details revealed that 
+the double edged AS101 could directly induce apoptosis in promastigotes along 
+with indirectly activating host by reversing T-cell anergy to protective Th1 
+mode, increased ROS generation and anti-leishmanial IgG production. AS101 could 
+inhibit IL-10/STAT3 pathway in L. donovani infected macrophages via blocking 
+α4β7 integrin dependent PI3K/Akt signaling and activate host MAPKs and NF-κB for 
+Th1 response. In silico docking and biochemical assays revealed AS101's affinity 
+to form thiol bond with cysteine residues of trypanothione reductase in 
+Leishmania promastigotes leading to its inactivation and inducing ROS-mediated 
+apoptosis of the parasite via increased Ca2+ level, loss of ATP and 
+mitochondrial membrane potential along with metacaspase activation. Our findings 
+provide the first evidence for the mechanism of action of AS101 with excellent 
+safety profile and suggest its promising therapeutic potential against 
+experimental visceral leishmaniasis.
+
+DOI: 10.1007/s00018-017-2653-3
+PMID: 28900667 [Indexed for MEDLINE]
+
+
+169. Oecologia. 2017 Nov;185(3):365-374. doi: 10.1007/s00442-017-3953-x. Epub
+2017  Sep 12.
+
+Telomere length and antioxidant defense associate with parasite-induced retarded 
+growth in wild brown trout.
+
+Stauffer J(1), Bruneaux M(2), Panda B(3), Visse M(4), Vasemägi A(3)(5), Ilmonen 
+P(3).
+
+Author information:
+(1)Department of Biology, University of Turku, Turku, Finland. 
+janina.stauffer@utu.fi.
+(2)Department of Biological and Environmental Science, Centre of Excellence in 
+Biological Interactions, University of Jyväskylä, Jyväskylä, Finland.
+(3)Department of Biology, University of Turku, Turku, Finland.
+(4)Department of Zoology, University of Tartu, Tartu, Estonia.
+(5)Department of Aquaculture, Institute of Veterinary Medicine and Animal 
+Sciences, Estonian University of Life Sciences, Tartu, Estonia.
+
+Early growth conditions can have profound impacts on individuals' development, 
+growth and physiology, with subsequent long-term consequences for individuals' 
+fitness and life expectancy. Telomere length (TL) has been suggested to indicate 
+both individual fitness and life expectancy in wide range of species, as the 
+telomere attrition rate at early age can be accelerated due to exposure to 
+various stressors, including parasites and inflammatory diseases, which increase 
+production of reactive oxygen species (ROS) and influence antioxidant (AO) 
+levels. We investigated impacts of Tetracapsuloides bryosalmonae infection, a 
+causative agent of proliferative kidney disease (PKD), on AO status and TL in a 
+natural population of juvenile brown trout (Salmo trutta). The fish with higher 
+parasite load showed more severe kidney hyperplasia, anemia and smaller body 
+size compared to less parasitized fish. Furthermore, fish with severe PKD 
+symptoms had lower SOD-, CAT- and GST activity than fish with milder kidney 
+hyperplasia. However, parasite load was not directly correlated either with AOs 
+or with TL. Smaller fish showed shorter TLs, potentially reflecting lower 
+individual quality. The fish, which were less sensitive to parasite-induced 
+impaired growth, quantified as parasite load-adjusted fork length, showed also 
+longer TLs, lower GR- and GST activity and less GSHtot compared to more 
+sensitive fish. These results provide novel knowledge about the impacts of the 
+PKD in brown trout at the molecular level and support the idea that TL may 
+reflect individual quality and ability to cope with parasitic infections.
+
+DOI: 10.1007/s00442-017-3953-x
+PMID: 28900791 [Indexed for MEDLINE]
+
+
+170. Clin Transl Oncol. 2018 May;20(5):584-590. doi: 10.1007/s12094-017-1752-9.
+Epub  2017 Sep 12.
+
+Outcome of childhood leukaemia survivors and necrosis of the femoral head 
+treated with autologous mesenchymal stem cells.
+
+de Rojas T(1), Martínez-Álvarez S(2), Lerma-Lara S(3), Díaz MÁ(1)(4), Madero 
+L(1)(4), Ramírez M(5)(6).
+
+Author information:
+(1)Paediatric Oncology Hematology and Stem Cell Transplant, University Hospital 
+Niño Jesús, Av. Menéndez Pelayo, 65, 28009, Madrid, Spain.
+(2)Orthopedics and Traumatology Department, University Hospital Niño Jesús, Av. 
+Menéndez Pelayo, 65, 28009, Madrid, Spain.
+(3)Gait Analysis Laboratory, University Hospital Niño Jesús, Av. Menéndez 
+Pelayo, 65, 28009, Madrid, Spain.
+(4)Research Institute La Princesa, c/Diego de León, 62, 28006, Madrid, Spain.
+(5)Paediatric Oncology Hematology and Stem Cell Transplant, University Hospital 
+Niño Jesús, Av. Menéndez Pelayo, 65, 28009, Madrid, Spain. 
+manuel.ramirez@salud.madrid.org.
+(6)Research Institute La Princesa, c/Diego de León, 62, 28006, Madrid, Spain. 
+manuel.ramirez@salud.madrid.org.
+
+PURPOSE: Corticoid-induced osteonecrosis (ON) of femoral head can lead to severe 
+hip joint impairment and hip replacement, with negative impact in young 
+survivors of acute lymphoblastic leukaemia (ALL) with long life expectancy. We 
+aim to improve quality of life in these patients with a novel approach.
+METHODS/PATIENTS: Based on the regenerative capacities of mesenchymal stem cells 
+(MSCs), we performed locally implanted autologous cell therapy in two 
+adolescents suffering of bilateral femoral ON. This required a simple, minimally 
+invasive surgical procedure.
+RESULTS: Both patients experienced significant pain relief and restoration of 
+gait kinematic values. Radiographic evaluation showed cessation of hip collapse. 
+No toxicities/complications were observed after a 4-year follow-up.
+CONCLUSIONS: Our preliminary results suggest that autologous MSCs can be 
+considered as a novel treatment for children and young adults with ON after 
+overcoming ALL. It may avoid hip replacement and improve quality of life of 
+leukaemia survivors.
+
+DOI: 10.1007/s12094-017-1752-9
+PMID: 28900820 [Indexed for MEDLINE]
+
+
+171. Curr Neuropharmacol. 2018 Mar 5;16(3):308-326. doi: 
+10.2174/1570159X15666170912113852.
+
+The Role of Physical Exercise and Omega-3 Fatty Acids in Depressive Illness in 
+the Elderly.
+
+Farioli Vecchioli S(1), Sacchetti S(2)(3), Nicolis di Robilant V(1), Cutuli 
+D(2)(3).
+
+Author information:
+(1)Institute of Cell Biology and Neurobiology, CNR/Fondazione Santa Lucia, Via 
+del Fosso di Fiorano 64, 00143, Rome, Italy.
+(2)Laboratory of Experimental and Behavioral Neurophysiology, Fondazione Santa 
+Lucia, Via del Fosso di Fiorano 64, 00143, Rome, Italy.
+(3)Department of Psychology, University Sapienza of Rome, Via dei Marsi 78, 
+00185, Rome, Italy.
+
+BACKGROUND: In adulthood, depression is the most common type of mental illness 
+and will be the second leading cause of disease by 2020. Major depression 
+dramatically affects the function of the central nervous system and degrades the 
+quality of life, especially in old age. Several mechanisms underlie the 
+pathophysiology of depressive illness, since it has a multifactorial etiology. 
+Human and animal studies have demonstrated that depression is mainly associated 
+with imbalances in neurotransmitters and neurotrophins, 
+hypothalamic-pituitary-adrenal axis alterations, brain volume changes, 
+neurogenesis dysfunction, and dysregulation of inflammatory pathways. Also the 
+gut microbiota may influence mental health outcomes. Although depression is not 
+a consequence of normal aging, depressive disorders are common in later life, 
+even if often undiagnosed or mis-diagnosed in old age. When untreated, 
+depression reduces life expectancy, worsens medical illnesses, enhances health 
+care costs and is the primary cause of suicide among older people. To date, the 
+underpinnings of depression in the elderly are still to be understood, and the 
+pharmacological treatment is the most commonly used therapy.
+OBJECTIVE: Since a sedentary lifestyle and poor eating habits have recently 
+emerged as crucial contributors to the genesis and course of depression, in the 
+present review, we have focused on the effects of physical activity and omega-3 
+fatty acids on depressive illness in the elderly.
+RESULTS: A growing literature indicates that both exercise and dietary 
+interventions can promote mental health throughout one's lifespan.
+CONCLUSION: There thus emerges the awareness that an active lifestyle and a 
+balanced diet may constitute valid low-cost prevention strategies to counteract 
+depressive illness in the elderly.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.org.
+
+DOI: 10.2174/1570159X15666170912113852
+PMCID: PMC5843982
+PMID: 28901279 [Indexed for MEDLINE]
+
+
+172. Recenti Prog Med. 2017 Sep;108(9):374-378. doi: 10.1701/2745.27989.
+
+[Procurement of medical devices based on cost-effectiveness data.].
+
+[Article in Italian]
+
+Trippoli S(1).
+
+Author information:
+(1)Coordinamento HTA, Ente per i Servizi Tecnici Amministrativi della Regione 
+Toscana, Firenze.
+
+The field of medical devices is characterized by a paucity of cost-effectiveness 
+data that support their use. In this context, we have proposed a project based 
+on the calculation of net monetary benefit (NMB) for each product subjected to 
+procurement through tenders. This project consists of two steps: 1) calculation 
+of NMB; 2) calculation of a value-based score to be used in the process of 
+procurement and tendering. The NMB is defined as follows: NMB per patient= 
+(monetary threshold of WTP) x (QALYs per patient) - (treatment cost per 
+patient); WTP= willingness to pay]. Its main advantage is represented by the 
+linear relation between NMB and unit price as opposed to the non-linear 
+relationship that links the ICER to the unit price of the device. For all 
+devices included in the same tender lot, our procedure firstly determines the 
+valus of NMB and converts the NMB into a tender score determined on a 0-to-100 
+scale. The device with the worst pharmacoeconomic profile is assigned a tender 
+score of 0 while the one with the best pharmacoeconomic profile is assigned a 
+tender score of 100.
+
+DOI: 10.1701/2745.27989
+PMID: 28901346 [Indexed for MEDLINE]
+
+
+173. Am J Public Health. 2017 Oct;107(10):1586-1588. doi:
+10.2105/AJPH.2017.303988.
+
+Low-Income Housing Tax Credit: Optimizing Its Impact on Health.
+
+Shi M(1), Samuels BA(1), Pollack CE(1).
+
+Author information:
+(1)Marc Shi is with Johns Hopkins University School of Medicine, Baltimore, MD. 
+Barbara A. Samuels is with the American Civil Liberties Union of Maryland, 
+Baltimore. Craig Evan Pollack is with the Division of General Internal Medicine, 
+Johns Hopkins University School of Medicine.
+
+DOI: 10.2105/AJPH.2017.303988
+PMCID: PMC5607681
+PMID: 28902563 [Indexed for MEDLINE]
+
+
+174. PLoS One. 2017 Sep 13;12(9):e0183033. doi: 10.1371/journal.pone.0183033. 
+eCollection 2017.
+
+Cost and cost-effectiveness of a school-based education program to reduce salt 
+intake in children and their families in China.
+
+Li X(1), Jan S(2), Yan LL(1), Hayes A(3), Chu Y(1), Wang H(4), Feng X(5), Niu 
+W(4), He FJ(6), Ma J(4), Han Y(5), MacGregor GA(6), Wu Y(1)(7)(8).
+
+Author information:
+(1)The George Institute for Global Health at Peking University Health Science 
+Center, Beijing, China.
+(2)The George Institute for Global Health, Sydney, Australia.
+(3)School of Public Health, University of Sydney, Sydney, Australia.
+(4)Institute of Child and Adolescent Health, Peking University Health Science 
+Center, Beijing, China.
+(5)Changzhi Medical College, Changzhi, Shanxi, China.
+(6)Wolfson Institute of Preventive Medicine, Barts and The London School of 
+Medicine & Dentistry, Queen Mary University of London, London, United Kingdom.
+(7)Department of Epidemiology and Biostatistics, Peking University School of 
+Public Health, Beijing, China.
+(8)Peking University Clinical Research Institute, Beijing, China.
+
+OBJECTIVE: The School-based Education Program to Reduce Salt Intake in Children 
+and Their Families study was a cluster randomized control trial among grade five 
+students in 28 primary schools and their families in Changzhi, China. It 
+achieved a significant effect in lowering systolic blood pressure (SBP) in all 
+family adults by 2.3 mmHg and in elderlies (aged > = 60 years) by 9.5 mmHg. The 
+aim of this study was to assess the cost-effectiveness of this salt reduction 
+program.
+METHODS: Costs of the intervention were assessed using an ingredients approach 
+to identify resource use. A trial-based incremental cost-effectiveness ratio 
+(ICER) was estimated based on the observed effectiveness in lowering SBP. A 
+Markov model was used to estimate the long-term cost-effectiveness of the 
+intervention, and then based on population data, extrapolated to a scenario 
+where the program is scaled up nationwide. Findings were presented in terms of 
+an incremental cost per quality-adjusted life year (QALY). The perspective was 
+that of the health sector.
+RESULTS: The intervention cost Int$19.04 per family and yielded an ICER of 
+Int$2.74 (90% CI: 1.17-12.30) per mmHg reduction of SBP in all participants 
+(combining children and adult participants together) compared with control 
+group. If scaled up nationwide for 10 years and assumed deterioration in 
+treatment effect of 50% over this period, it would reach 165 million families 
+and estimated to avert 42,720 acute myocardial infarction deaths and 107,512 
+stroke deaths in China. This would represent a gain of 635,816 QALYs over 
+10-year time frame, translating into Int$1,358 per QALY gained.
+CONCLUSION: Based on WHO-CHOICE criteria, our analysis demonstrated that the 
+proposed salt reduction strategy is highly cost-effective, and if scaled up 
+nationwide, the benefits could be substantial.
+TRIAL REGISTRATION: ClinicalTrials.gov NCT01821144.
+
+DOI: 10.1371/journal.pone.0183033
+PMCID: PMC5597122
+PMID: 28902880 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: All authors have completed 
+the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf. FJH is a 
+member of Consensus Action on Salt & Health (CASH) and World Action on Salt & 
+Health (WASH). Both CASH and WASH are non-profit charitable organizations and 
+FJH does not receive any financial support from CASH or WASH. GAM is Chairman of 
+Blood Pressure UK (BPUK), Chairman of CASH, WASH and Action on Sugar. BPUK, 
+CASH, WASH, and Action on Sugar are non-profit charitable organizations. GAM 
+does not receive any financial support from any of these organizations. YW is a 
+member of WASH. WASH is a nonprofit charitable organization and YW does not 
+receive any financial support from WASH. The other authors declare that they 
+have no conflicts of interest. This does not alter our adherence to PLOS ONE 
+policies on sharing data and materials.
+
+
+175. Osteoarthritis Cartilage. 2018 Feb;26(2):184-194. doi: 
+10.1016/j.joca.2017.02.805. Epub 2017 Sep 10.
+
+Arthroscopic meniscectomy for degenerative meniscal tears reduces knee pain but 
+is not cost-effective in a routine health care setting: a multi-center 
+longitudinal observational study using data from the osteoarthritis initiative.
+
+Rongen JJ(1), Govers TM(2), Buma P(3), Rovers MM(4), Hannink G(5).
+
+Author information:
+(1)Radboud University Medical Center, Radboud Institute for Health Sciences, 
+Department of Operating Rooms, Nijmegen, The Netherlands. Electronic address: 
+Jan.Rongen@radboudumc.nl.
+(2)Radboud University Medical Center, Radboud Institute for Health Sciences, 
+Department of Operating Rooms, Nijmegen, The Netherlands.
+(3)Radboud University Medical Center, Radboud Institute for Molecular Life 
+Sciences, Orthopaedic Research Lab, Nijmegen, The Netherlands.
+(4)Radboud University Medical Center, Radboud Institute for Health Sciences, 
+Department for Health Evidence, Nijmegen, The Netherlands.
+(5)Radboud University Medical Center, Radboud Institute for Health Sciences, 
+Orthopaedic Research Lab, Nijmegen, The Netherlands.
+
+Comment in
+    Osteoarthritis Cartilage. 2018 Feb;26(2):152-153.
+
+OBJECTIVES: It is disputed whether arthroscopic meniscectomy is an (cost-) 
+effective treatment for degenerative meniscus tears in day-to-day clinical 
+practice. The objective of this study was to assess the cost-effectiveness of 
+arthroscopic meniscectomy in subjects with knee osteoarthritis, in routine 
+clinical practice, while taking into account the increased risk for future knee 
+replacement surgery. We compared cost-effectiveness of arthroscopic meniscectomy 
+compared to no surgery.
+DESIGN: We used a state transition (Markov) simulation model to evaluate the 
+cost-effectiveness of arthroscopic meniscectomy compared to no surgery in 
+subjects with knee osteoarthritis (age range 45-79 years). Data used in the 
+preparation of the current study were obtained from the Osteoarthritis 
+Initiative (AOI) database. We applied a 9 years' time horizon (which is equal to 
+the current OAI study follow up period), and evaluated cost-effectiveness from a 
+societal perspective. The main outcome measure was the incremental 
+cost-effectiveness ratio (Euros per quality adjusted life-year (QALY) gained).
+RESULTS: Arthroscopic meniscectomy was associated with 8.09 (SD ± 0.07) QALYs at 
+a cost of € 21,345 (SD ± 841), whereas the no surgery was associated with 8.05 
+(SD ± 0.07) QALYs at a cost of € 16,284 (SD ± 855). For arthroscopic 
+meniscectomy, the incremental cost per QALY gained was € 150,754.
+CONCLUSIONS: In day-to-day clinical practice, arthroscopic meniscectomy in 
+subjects with knee osteoarthritis is associated with € 150,754 per QALY gained, 
+which exceeds the generally accepted willingness to pay (WTP) (range € 20,000-€ 
+80,000).
+
+Copyright © 2017 Osteoarthritis Research Society International. Published by 
+Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.joca.2017.02.805
+PMID: 28903016 [Indexed for MEDLINE]
+
+
+176. Heart. 2017 Nov;103(22):1756-1759. doi: 10.1136/heartjnl-2017-312348. Epub
+2017  Sep 13.
+
+Importance of the valve durability-life expectancy ratio in selection of a 
+prosthetic aortic valve.
+
+Bagur R(1)(2)(3), Pibarot P(4), Otto CM(5).
+
+Author information:
+(1)Division of Cardiology, London Health Sciences Centre, Department of 
+Medicine, Western University, London, Ontario, Canada.
+(2)Keele Cardiovascular Research Group, Institute for Applied Clinical Science 
+and Centre for Prognosis Research, Institute of Primary Care and Health 
+Sciences, University of Keele, Stoke-on-Trent, UK.
+(3)Department of Epidemiology and Biostatistics, Western University, London, 
+Ontario, Canada.
+(4)Department of Medicine, Laval University, Quebec City, Quebec, Canada.
+(5)Division of Cardiology, Department of Medicine, University of Washington, 
+School of Medicine, Seattle, Washington, USA.
+
+Comment on
+    Heart. 2017 Dec;103(23 ):1899-1905.
+
+DOI: 10.1136/heartjnl-2017-312348
+PMID: 28903992 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.

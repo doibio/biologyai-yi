@@ -1,0 +1,1000 @@
+16 years. Our best estimate of the IRR from MSD-related research was 7%, which 
+is similar to the 9% for CVD and 10% for cancer research.
+CONCLUSIONS: Our estimate of the IRR from the net health gain to public and 
+charitable funding of MSD-related research in the United Kingdom is substantial, 
+and justifies the research investments made between 1978 and 1997. We also 
+demonstrated the applicability of the approach previously used in assessing the 
+returns from cardiovascular and cancer research. Inevitably, with a study of 
+this kind, there are a number of important assumptions and caveats that we 
+highlight, and these can inform future research.
+
+DOI: 10.1186/s12961-017-0276-7
+PMCID: PMC5761203
+PMID: 29316935 [Indexed for MEDLINE]
+
+Conflict of interest statement: Ethical approval for this research was obtained 
+from King’s College London through its minimal risk process (Research Ethics 
+Number: MR/15/16-11). CONSENT FOR PUBLICATION: Not applicable. COMPETING 
+INTERESTS: The authors declare that they have no competing interests. 
+PUBLISHER’S NOTE: Springer Nature remains neutral with regard to jurisdictional 
+claims in published maps and institutional affiliations.
+
+
+452. J Biomed Semantics. 2018 Jan 9;9(1):1. doi: 10.1186/s13326-017-0171-8.
+
+Improving the interoperability of biomedical ontologies with compound 
+alignments.
+
+Oliveira D(1)(2), Pesquita C(3).
+
+Author information:
+(1)Insight Centre for Data Analytics, NUI Galway, Galway Business Park, Dangan, 
+Galway, H91 AEX4, Ireland. daniela.oliveira@insight-centre.org.
+(2)LaSIGE, Faculdade de Ciências, Universidade de Lisboa, Lisboa, 1749-016, 
+Portugal. daniela.oliveira@insight-centre.org.
+(3)LaSIGE, Faculdade de Ciências, Universidade de Lisboa, Lisboa, 1749-016, 
+Portugal.
+
+BACKGROUND: Ontologies are commonly used to annotate and help process life 
+sciences data. Although their original goal is to facilitate integration and 
+interoperability among heterogeneous data sources, when these sources are 
+annotated with distinct ontologies, bridging this gap can be challenging. In the 
+last decade, ontology matching systems have been evolving and are now capable of 
+producing high-quality mappings for life sciences ontologies, usually limited to 
+the equivalence between two ontologies. However, life sciences research is 
+becoming increasingly transdisciplinary and integrative, fostering the need to 
+develop matching strategies that are able to handle multiple ontologies and more 
+complex relations between their concepts.
+RESULTS: We have developed ontology matching algorithms that are able to find 
+compound mappings between multiple biomedical ontologies, in the form of ternary 
+mappings, finding for instance that "aortic valve stenosis"(HP:0001650) is 
+equivalent to the intersection between "aortic valve"(FMA:7236) and 
+"constricted" (PATO:0001847). The algorithms take advantage of search space 
+filtering based on partial mappings between ontology pairs, to be able to handle 
+the increased computational demands. The evaluation of the algorithms has shown 
+that they are able to produce meaningful results, with precision in the range of 
+60-92% for new mappings. The algorithms were also applied to the potential 
+extension of logical definitions of the OBO and the matching of several 
+plant-related ontologies.
+CONCLUSIONS: This work is a first step towards finding more complex relations 
+between multiple ontologies. The evaluation shows that the results produced are 
+significant and that the algorithms could satisfy specific integration needs.
+
+DOI: 10.1186/s13326-017-0171-8
+PMCID: PMC5761129
+PMID: 29316968 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Not 
+applicable. CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: The 
+authors declare that they have no competing interests. PUBLISHER’S NOTE: 
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.
+
+
+453. BMJ Open. 2018 Jan 9;8(1):e018388. doi: 10.1136/bmjopen-2017-018388.
+
+Innovative STRoke Interactive Virtual thErapy (STRIVE) online platform for 
+community-dwelling stroke survivors: a randomised controlled trial protocol.
+
+Johnson L(1)(2)(3), Bird ML(4)(5), Muthalib M(6)(7)(8), Teo WP(9).
+
+Author information:
+(1)Stroke Division, The Florey Institute of Neuroscience and Mental Health, 
+University of Melbourne, Heidelberg, Victoria, Australia.
+(2)Faculty of Health Sciences, Australian Catholic University, Melbourne, 
+Australia.
+(3)Institute of Sport, Exercise and Active Living (ISEAL), Victoria University, 
+Melbourne, Australia.
+(4)Faculty of Health, School of Health Sciences, University of Tasmania, 
+Launceston, Tasmania, Australia.
+(5)Department of Physical Therapy, University of British Columbia and the 
+Rehabilitation Research Program, GF Strong Rehabilitation Centre, University of 
+British Columbia, Vancouver, Canada.
+(6)EuroMov, University of Montpellier, Montpellier, France.
+(7)Cognitive Neuroscience Unit, School of Psychology, Deakin University, 
+Burwood, Victoria, Australia.
+(8)SilverLine Research Services, Brisbane, Australia.
+(9)Institute for Physical Activity and Nutrition (IPAN), School of Exercise and 
+Nutrition Sciences, Deakin University, Burwood, Victoria, Australia.
+
+INTRODUCTION: The STRoke Interactive Virtual thErapy (STRIVE) intervention 
+provides community-dwelling stroke survivors access to individualised, remotely 
+supervised progressive exercise training via an online platform. This trial aims 
+to determine the clinical efficacy of the STRIVE intervention and its effect on 
+brain activity in community-dwelling stroke survivors.
+METHODS AND ANALYSIS: In a multisite, assessor-blinded randomised controlled 
+trial, 60 stroke survivors >3 months poststroke with mild-to-moderate upper 
+extremity impairment will be recruited and equally randomised by location 
+(Melbourne, Victoria or Launceston, Tasmania) to receive 8 weeks of virtual 
+therapy (VT) at a local exercise training facility or usual care. Participants 
+allocated to VT will perform 3-5 upper limb exercises individualised to their 
+impairment severity and preference, while participants allocated to usual care 
+will be asked to maintain their usual daily activities. The primary outcome 
+measures will be upper limb motor function and impairment, which will be 
+assessed using the Action Research Arm Test and Upper Extremity Fugl-Meyer, 
+respectively. Secondary outcome measures include upper extremity function and 
+spasticity, as measured by the box and block test and Modified AshworthScale, 
+respectively, and task-related changes in bilateral sensorimotor cortex 
+haemodynamics during hand reaching and wrist extension movements as measured by 
+functional near-infrared spectroscopy. Quality of life will be measured using 
+the Euro-Quality of Life-5 Dimension-5 Level Scale, and the Motor Activity 
+Log-28 will be used to measure use of the hemiparetic arm. All measures will be 
+assessed at baseline and immediately postintervention.
+ETHICS AND DISSEMINATION: The study was approved by the Deakin University Human 
+Research Ethics Committee in May 2017 (No. 2017-087). The results will be 
+disseminated in peer-reviewed journals and presented at major international 
+stroke meetings.
+TRIAL REGISTRATION NUMBER: ACTRN12617000745347; Pre-results.
+
+© Article author(s) (or their employer(s) unless otherwise stated in the text of 
+the article) 2018. All rights reserved. No commercial use is permitted unless 
+otherwise expressly granted.
+
+DOI: 10.1136/bmjopen-2017-018388
+PMCID: PMC5781224
+PMID: 29317414 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+454. J Clin Med Res. 2018 Feb;10(2):73-76. doi: 10.14740/jocmr3304w. Epub 2017
+Dec  30.
+
+Parafunctional Behaviors and Its Effect on Dental Bridges.
+
+Alharby A(1), Alzayer H(2), Almahlawi A(3), Alrashidi Y(4), Azhar S(3), Sheikho 
+M(4), Alandijani A(5), Aljohani A(6), Obied M(1).
+
+Author information:
+(1)Department of Dentistry, Riyadh Colleges of Dentistry and Pharmacy, Riyadh, 
+Saudi Arabia.
+(2)Department of Dentistry, Primary Health Care, Qatif, Saudi Arabia.
+(3)Department of Dentistry, Ibn Sina National College, Jeddah, Saudi Arabia.
+(4)Department of Dentistry, Prince Sattam Bin Abdulaziz University, Al-Kharj, 
+Saudi Arabia.
+(5)Department of Dentistry, Umm Al-Qura University, Mecca, Saudi Arabia.
+(6)Department of Dentistry, Buraydah Colleges, Buraydah, Saudi Arabia.
+
+Parafunctional behaviors, especially bruxism, are not uncommon among patient 
+visiting dentists' clinics daily and they constitute a major dental issue for 
+almost all dentists. Many researchers have focused on the definition, 
+pathophysiology, and treatment of these behaviors. These parafunctional 
+behaviors have a considerable negative impact on teeth and dental prothesis. In 
+this review, we focused on the impact of parafunctional behaviors on dental 
+bridges. We summarized the definitions, epidemiology, pathophysiology, and 
+consequences of parafunctional behaviors. In addition, we reviewed previous 
+dental literature studies that demonstrated the effect of bruxism or other 
+parafunctional behaviors on dental bridges and dental prothesis. In conclusion, 
+parafunctional behaviors are common involuntary movements involving the 
+masticatory system. They are more prevalent among children. These behaviors have 
+deleterious effects on dental structures. Causes of parafunctional behaviors 
+include anxiety, depression, smoking, caffeine intake, sleep disorders, or 
+central neurotransmitter dysfunction. Bruxism and other similar masticatory 
+system activity cause dental fracture, loss, and weardown of enamel or teeth. 
+They can also affect different types of dental protheses both fixed and 
+removable types. Parafunctional behaviors shorten the life expectancy of these 
+protheses, and damage residual dentition and denture-bearing tissues.
+
+DOI: 10.14740/jocmr3304w
+PMCID: PMC5755645
+PMID: 29317951
+
+
+455. Cardiol Res. 2017 Dec;8(6):331-335. doi: 10.14740/cr598e. Epub 2017 Dec 22.
+
+STEMI Due to Big Ostial Left Main Thrombus Extending Into Aorta: Challenging 
+Situation With No Clear Guidelines.
+
+Shahin M(1), Gaemperli O(1), Siegrist P(1), Alibegovic J(1).
+
+Author information:
+(1)University Heart Center, Department of Cardiology, University Hospital 
+Zurich, Zurich, Switzerland.
+
+Extensive left main (LM) coronary artery thrombus is a rare and life-threatening 
+angiographic finding with usual dramatic clinical presentation including 
+hemodynamic instability and sudden cardiac death. The proper management of a big 
+LM thrombus extending into aorta remains a challenging issue with no clear 
+guidelines. In the following case report we present a 45-year-old patient with 
+no apparent risk factors for coronary artery disease who presented with acute 
+infero-lateral ST-elevation myocardial infarction (STEMI). The examination was 
+performed using a right transfemoral approach and it revealed the presence of a 
+large mobile, hazy mass within the left main coronary artery (LMCA) extending 
+into the aorta. To confirm the extension of that structure we performed 
+intravascular ultrasound (IVUS) which revealed a circumferential mass in the 
+LMCA extending with its two-thirds into the aorta with no evidence of 
+atherosclerotic plaques. After a long discussion within our Heart team we 
+decided to transfer the patient for urgent surgical removal. Such decision was 
+made with regard to the large size of the mass and in order to avoid systemic or 
+distal embolization into coronary arteries. Perioperative transesophageal 
+echocardiography (TEE) confirmed diagnosis and excluded presence of patent 
+foramen ovale (PFO). Surgical removal was done successfully with complete 
+resolution of ST-segment elevation and rapid fall of cardiac enzymes to normal 
+levels. Postoperative course was uneventful. The mass was defined as a thrombus 
+by pathophysiology examination. Patient was discharged well from our hospital 
+after 1 week.
+
+DOI: 10.14740/cr598e
+PMCID: PMC5755666
+PMID: 29317977
+
+
+456. Cardiol Res. 2017 Dec;8(6):339-343. doi: 10.14740/cr640w. Epub 2017 Dec 22.
+
+A Case of Multifaceted Assessment in an Elderly Patient With Acute Decompensated 
+Heart Failure.
+
+Sako H(1), Miyazaki M(1), Suematsu Y(1), Koyoshi R(2), Shiga Y(1), Kuwano T(1), 
+Kitajima K(1), Iwata A(1), Yorinaga K(3), Fujimi K(1)(4), Miura SI(1)(5).
+
+Author information:
+(1)Department of Cardiology, Fukuoka University School of Medicine, Fukuoka, 
+Japan.
+(2)Division of Medical Safety Management, Fukuoka University Hospital, Fukuoka, 
+Japan.
+(3)Division of Nursing, Fukuoka University Hospital, Fukuoka, Japan.
+(4)Division of Rehabilitation, Fukuoka University Hospital, Fukuoka, Japan.
+(5)Department of Molecular Cardiovascular Therapeutics, Fukuoka University 
+School of Medicine, Fukuoka, Japan.
+
+Heart failure (HF) is a common health problem worldwide, including in Japan. 
+Unfortunately, patient outcomes remain poor, with a 5-year survival rate of 
+approximately 50%. Therefore, we need to assess the precise conditions, 
+including cardiac function, in patients with HF, particularly in the elderly. We 
+performed a multifaceted assessment in an elderly patient with HF on admission 
+and at discharge using eight different evaluations (the mean life expectancy 
+using the Seattle Heart Failure Model (SHFM), the severity of dementia, 
+nutrition, medication adherence, biomarker (the level of brain natriuretic 
+peptide in blood), sociality, performance and comorbidity). Each parameter was 
+scored on a 5-point scale (excellent = 5 points; good = 4 points; fair (average) 
+= 3 points; poor = 2 points; failure = 1 point; maximum total points of 40) 
+(Fukuoka University Heart Failure Scoring System, FUFS). An 86-year-old male 
+patient who complained of dyspnea and lower-leg edema was admitted to our 
+university hospital due to acute decompensated HF. After treatment, his symptoms 
+improved, as did his cardiothoracic ratio, plural effusion and pulmonary 
+congestion, and he exhibited compensated HF. His total score improved from 28 to 
+32 points, and his mean life expectancy using SHFM increased from 4.9 to 5.4 
+years. We evaluated the precise conditions using a multifaceted assessment 
+strategy in an elderly patient with HF. The strategy was useful for evaluate the 
+patient's condition in this case.
+
+DOI: 10.14740/cr640w
+PMCID: PMC5755668
+PMID: 29317979
+
+Conflict of interest statement: SM is a Director of NPO Clinical and Applied 
+Science, Fukuoka, Japan, and belongs to the Department of Molecular 
+Cardiovascular Therapeutics supported by MSD, Co. LTD.
+
+
+457. Ther Adv Drug Saf. 2018 Jan;9(1):25-43. doi: 10.1177/2042098617736192. Epub
+2017  Oct 27.
+
+Poly-de-prescribing to treat polypharmacy: efficacy and safety.
+
+Garfinkel D(1).
+
+Author information:
+(1)Geriatric Palliative service, E. Wolfson Medical Center, Holon 58100 & 
+Homecare hospice, Israel Cancer Association, Israel.
+
+BACKGROUND: The aim of this study was to evaluate efficacy and safety of 
+poly-de-prescribing (PDP) based on the Garfinkel method in older people with 
+polypharmacy.
+METHODS: A longitudinal, prospective, nonrandomized study in Israel was carried 
+out between 2009 and 2016. Comprehensive geriatric assessments were performed at 
+home in people age ⩾66 years consuming ⩾6 prescription drugs. Exclusion criteria 
+were life expectancy <6 months and a seeming unwillingness to cooperate (poor 
+compliance). PDP of ⩾3 prescription drugs was recommended. Follow up was at ⩾3 
+years. Between April 2015 and April 2016 Likert scale questionnaires were filled 
+by all participants/families to evaluate overall satisfaction and clinical 
+outcomes. The outcome measures were change in functional, mental and cognitive 
+status, sleep quality, appetite, continence; major complication, 
+hospitalizations, mortality, and family doctor's cooperation.
+RESULTS: Poly-de-prescribing of ⩾3 drugs was eventually achieved by 122 
+participants (PDP group); ⩽2 drugs stopped by 55 'nonresponders' (NR group). The 
+average age was 83.4 ± 5.3 in the PDP group, and 80.8 ± 6.3 in the NR group (p = 
+0.0045). Follow up was 43.6 ± 14 months (PDP) and 39.5 ± 16.6 months (NR) (p = 
+0.09). The prevalence of most diseases/symptoms was comparable except for a 
+higher prevalence for dementia, incontinence and functional decline in the PDP 
+group. The main barrier to de-prescribing was the family doctor's unwillingness 
+to adopt PDP recommendations (p < 0.0001). The baseline median number of 
+medications taken by both groups was 10 (IQR 8 to 12) (p = 0.55). On the last 
+follow up, the drug count was 11 (IQR 8 to 12) in the NR group and 4 (IQR 2 to 
+5) in the PDP group (p =0.0001). The PDP group showed significantly less 
+deterioration (sometimes improvement) in general satisfaction, functional, 
+mental and cognitive status, sleep quality, appetite, sphincter control, and the 
+number of major complications was significantly reduced (p < 0.002 in all). The 
+rate of hospitalizations and mortality was comparable. Health improvement 
+occurred within 3 months after de-prescribing in 83%, and persisted for ⩾2 years 
+in 68%.
+CONCLUSIONS: This self-selected sample longitudinal research strongly suggests 
+that the negative, usually invisible effects of polypharmacy are reversible. PDP 
+is well tolerated and associated with improved clinical outcomes, in comparison 
+with outcomes of older people who adhere to all clinical guidelines and take all 
+medications conventionally. Future double-blind studies will probably prove 
+beneficial economic outcomes as well.
+
+DOI: 10.1177/2042098617736192
+PMCID: PMC5753993
+PMID: 29318004
+
+Conflict of interest statement: Conflict of interest statement: The author 
+declares that there is no conflict of interest.
+
+
+458. Rev Med Brux. 2017;38(6):482-489.
+
+[Bariatric surgery in adolescent with morbid obesity : what role for the child 
+psychiatrist?].
+
+[Article in French; Abstract available in French from the publisher]
+
+Kamdoum C(1), Petit M(1)(2), Steyaert H(2)(3), Delvenne V(1)(3).
+
+Author information:
+(1)Service de Pédopsychiatrie, ULB.
+(2)Service de Chirurgie, H.U.D.E.R.F., ULB.
+(3)Faculté de Médecine, ULB.
+
+The prevalence of obesity has grown steadily in recent years, making it almost 
+an epidemic. Obesity is a chronic condition whose prognosis is burdened by 
+severe comorbidities. Both the quality of life and the life expectancy are 
+affected. The medical management of morbid obesity is still the rule, but 
+surgical practices are developing rapidly. While bariatric surgery in adults is 
+common and gives excellent results, in adolescents, its practice is less 
+prevalent. Beyond issues specific to this developmental period, this question 
+raises ethical issues. In this context, the pluridiscplinary team faces diverse 
+determinants and challenges and the child and adolescent psychiatrist (CAP) is, 
+the psychiatrist is summoned for psychopathological aspects but also for 
+embarrassing questions. In this work, we are going to specify the role of the 
+CAP in the practice of bariatric surgery.
+
+Publisher: L’obésité dont la prévalence n’a cessé de croître ces dernières 
+années, est en passe de devenir une véritable épidémie. Affection chronique, le 
+pronostic de l’obésité morbide est grevé de co- morbidités sévères altérant la 
+qualité de vie des patients et amputant leur espérance de vie. Les prises en 
+charge diététique et médicale restent les plus répandues. Cependant, les 
+pratiques chirurgicales n’ont cessé de se développer. Alors que la chirurgie 
+bariatrique chez l’adulte est devenue courante, sa pratique chez l’adolescent 
+est moins fréquente et se prête moins à la banalisation. Au-delà des enjeux 
+développe- mentaux spécifiques à la période particulière qu’est l’adolescence, 
+cette question soulève des considérations éthiques et suscite des 
+positionnements extrêmes. Dans ce contexte aux déterminants flous et aux enjeux 
+tant sociétaux que médicaux, le pédopsychiatre peut être convoqué, au-delà de la 
+question psycho- pathologique, pour statuer sur des questions relevant plus de 
+la morale que de la science. Nous nous attèlerons donc, au long de ce travail, à 
+définir les différents objets de soins somatiques ou psychiques qui rassemblent 
+les praticiens de différents bords au chevet de l’obésité et à expliciter la 
+fonction psy dans ces prises en charge.
+
+PMID: 29318804
+
+
+459. Health Technol Assess. 2018 Jan;22(2):1-88. doi: 10.3310/hta22020.
+
+A randomised controlled trial and economic evaluation of intraoperative cell 
+salvage during caesarean section in women at risk of haemorrhage: the SALVO 
+(cell SALVage in Obstetrics) trial.
+
+Khan KS(1), Moore P(2), Wilson M(3), Hooper R(4), Allard S(5), Wrench I(6), 
+Roberts T(7), McLoughlin C(7), Beresford L(4), Geoghegan J(2), Daniels J(8), 
+Catling S(9), Clark VA(10), Ayuk P(11), Robson S(12), Gao-Smith F(13), Hogg 
+M(14), Jackson L(7), Lanz D(1), Dodds J(1).
+
+Author information:
+(1)Women's Health Research Unit, Barts and the London School of Medicine and 
+Dentistry, Queen Mary University of London, London, UK.
+(2)Selwyn Crawford Department of Anaesthetics, Birmingham Women's Hospital, 
+Birmingham, UK.
+(3)School of Health and Related Research (ScHARR), University of Sheffield, 
+Sheffield, UK.
+(4)Pragmatic Clinical Trials Unit, Centre for Primary Care and Public Health, 
+Queen Mary University of London, London, UK.
+(5)Haematology, NHS Blood and Transplant, London, UK.
+(6)Anaesthetics, Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, 
+UK.
+(7)Health Economics Unit, University of Birmingham, Birmingham, UK.
+(8)Nottingham Clinical Trials Unit, University of Nottingham, Nottingham, UK.
+(9)Department of Anaesthetics, Singleton Hospital, Swansea, UK.
+(10)Simpson Centre for Reproductive Health, Royal Infirmary of Edinburgh, 
+Edinburgh, UK.
+(11)Women's Services, Royal Victoria Infirmary, Newcastle upon Tyne, UK.
+(12)Institute of Cellular Medicine, Newcastle University, Newcastle upon Tyne, 
+UK.
+(13)Perioperative, Critical Care and Trauma Trials Group, University of 
+Birmingham, Birmingham, UK.
+(14)Royal London Hospital, Barts Health NHS Trust, London, UK.
+
+BACKGROUND: Caesarean section is associated with blood loss and maternal 
+morbidity. Excessive blood loss requires transfusion of donor (allogeneic) 
+blood, which is a finite resource. Cell salvage returns blood lost during 
+surgery to the mother. It may avoid the need for donor blood transfusion, but 
+reliable evidence of its effects is lacking.
+OBJECTIVES: To determine if routine use of cell salvage during caesarean section 
+in mothers at risk of haemorrhage reduces the rates of blood transfusion and 
+postpartum maternal morbidity, and is cost-effective, in comparison with 
+standard practice without routine salvage use.
+DESIGN: Individually randomised controlled, multicentre trial with 
+cost-effectiveness analysis. Treatment was not blinded.
+SETTING: A total of 26 UK obstetric units.
+PARTICIPANTS: Out of 3054 women recruited between June 2013 and April 2016, we 
+randomly assigned 3028 women at risk of haemorrhage to cell salvage or routine 
+care. Randomisation was stratified using random permuted blocks of variable 
+sizes. Of these, 1672 had emergency and 1356 had elective caesareans. We 
+excluded women for whom cell salvage or donor blood transfusion was 
+contraindicated.
+INTERVENTIONS: Cell salvage (intervention) versus routine care without salvage 
+(control). In the intervention group, salvage was set up in 95.6% of the women 
+and, of these, 50.8% had salvaged blood returned. In the control group, 3.9% had 
+salvage deployed.
+MAIN OUTCOME MEASURES: Primary - donor blood transfusion. Secondary - units of 
+donor blood transfused, time to mobilisation, length of hospitalisation, mean 
+fall in haemoglobin, fetomaternal haemorrhage (FMH) measured by Kleihauer-Betke 
+test, and maternal fatigue. Analyses were adjusted for stratification factors 
+and other factors that were believed to be prognostic a priori. 
+Cost-effectiveness outcomes - costs of resources and service provision taking 
+the UK NHS perspective.
+RESULTS: We analysed 1498 and 1492 participants in the intervention and control 
+groups, respectively. Overall, the transfusion rate was 2.5% in the intervention 
+group and 3.5% in the control group [adjusted odds ratio (OR) 0.65, 95% 
+confidence interval (CI) 0.42 to 1.01; p = 0.056]. In a planned subgroup 
+analysis, the transfusion rate was 3.0% in the intervention group and 4.6% in 
+the control group among emergency caesareans (adjusted OR 0.58, 95% CI 0.34 to 
+0.99), whereas it was 1.8% in the intervention group and 2.2% in the control 
+group among elective caesareans (adjusted OR 0.83, 95% CI 0.38 to 1.83) 
+(interaction p = 0.46, suggesting that the difference in effect between 
+subgroups was not statistically significant). Secondary outcomes did not differ 
+between groups, except for FMH, which was higher under salvage in rhesus D 
+(RhD)-negative women with RhD-positive babies (25.6% vs. 10.5%, adjusted OR 
+5.63, 95% CI 1.43 to 22.14; p = 0.013). No case of amniotic fluid embolism was 
+observed. The additional cost of routine cell salvage during caesarean was 
+estimated, on average, at £8110 per donor blood transfusion avoided.
+CONCLUSIONS: The modest evidence for an effect of routine use of cell salvage 
+during caesarean section on rates of donor blood transfusion was associated with 
+increased FMH, which emphasises the need for adherence to guidance on anti-D 
+prophylaxis. We are unable to comment on long-term antibody sensitisation 
+effects. Based on the findings of this trial, cell salvage is unlikely to be 
+considered cost-effective.
+FUTURE WORK: Research into risk of alloimmunisation among women exposed to cell 
+salvage is needed.
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN66118656.
+FUNDING: This project was funded by the National Institute for Health Research 
+(NIHR) Health Technology Assessment programme and will be published in full in 
+Health Technology Assessment; Vol. 22, No. 2. See the NIHR Journals Library 
+website for further project information.
+
+DOI: 10.3310/hta22020
+PMCID: PMC5776407
+PMID: 29318985 [Indexed for MEDLINE]
+
+
+460. Insect Sci. 2019 Aug;26(4):743-752. doi: 10.1111/1744-7917.12568. Epub 2018
+Feb  20.
+
+Mobility affects copulation and oviposition dynamics in Pieris brassicae in 
+seminatural cages.
+
+Larranaga N(1), Baguette M(1)(2), Calvez O(1), Legrand D(1).
+
+Author information:
+(1)Centre National de la Recherche Scientifique and Université Paul Sabatier 
+Toulouse III, SETE Station d'Ecologie Théorique et Expérimentale, UMR 5321, 
+Moulis, France.
+(2)Muséum National d'Histoire Naturelle (Sorbonne Universités), Institut de 
+Systématique, Evolution et Biodiversité, UMR 7205, 57 rue Cuvier, 75005, Paris, 
+cedex 5, France.
+
+When, how often and for how long organisms mate can have strong consequences for 
+individual fitness and are crucial aspects of evolutionary ecology. Such 
+determinants are likely to be of even greater importance in monandrous species 
+and species with short adult life stages. Previous work suggests that mobility, 
+a key dispersal-related trait, may affect the dynamics of copulations, but few 
+studies have investigated the impact of individual mobility on mating latency, 
+copulation duration and oviposition latency simultaneously. In this paper, we 
+monitored the copulation dynamics of 40 males and 40 females, as well as the 
+oviposition dynamics of the females of the Large White butterfly Pieris 
+brassicae, a facultative long-distance disperser butterfly. Individuals from a 
+breeding were selected to create a uniform distribution of mobility and we 
+recorded the timing, number and duration of all copulations in a 
+semiexperimental system. We showed that mobility, measured as the time spent in 
+flight under stressful conditions (a proxy of dispersal tendency), correlates 
+with all aspects of copulation dynamics: mobile males and females mated earlier 
+and for shorter periods than less mobile individuals. In turn, late mating 
+females increased the time between copulation and oviposition. These results 
+feed the previously described mobility syndrome of P. brassicae, involving 
+morphological and physiological characters, with life-history traits. We suggest 
+that the reduction of mating latency and copulation duration has an adaptive 
+value in dispersing individuals, as their life expectancy might be shorter than 
+that of sedentary individuals.
+
+© 2018 Institute of Zoology, Chinese Academy of Sciences.
+
+DOI: 10.1111/1744-7917.12568
+PMID: 29319228 [Indexed for MEDLINE]
+
+
+461. NCHS Data Brief. 2017 Dec;(293):1-8.
+
+Mortality in the United States, 2016.
+
+Kochanek KD, Murphy S, Xu J, Arias E.
+
+This report presents final 2016 U.S. mortality data on deaths and death rates by 
+demographic and medical characteristics. These data provide information on 
+mortality patterns among U.S. residents by variables such as sex, race and 
+ethnicity, and cause of death. Life expectancy estimates, age-specific death 
+rates, age-adjusted death rates by race and ethnicity and sex, 10 leading causes 
+of death, and 10 leading causes of infant death were analyzed by comparing 2016 
+and 2015 final data (1).
+
+All material appearing in this report is in the public domain and may be 
+reproduced or copied without permission; citation as to source, however, is 
+appreciated.
+
+PMID: 29319473 [Indexed for MEDLINE]
+
+
+462. Costs and Benefits from Replacing Thrombolysis with Percutaneous Coronary 
+Intervention (PCI) [Internet].
+
+Halvorsen S, Kristiansen IS, Linnestad K, Myhre KI, Selmer R, Wisløff T.
+
+Oslo, Norway: Knowledge Centre for the Health Services at The Norwegian 
+Institute of Public Health (NIPH); 2004. Report from Norwegian Knowledge Centre 
+for the Health Services (NOKC) No. 03-2004.
+NIPH Systematic Reviews: Executive Summaries.
+
+Background Previous studies have shown that Percutaneous coronary intervention 
+(PCI) is a better treatment than thrombolysis for patients with acute myocardial 
+infarction admitted to an invasive centre. However, the economic consequences of 
+PCI as the primary strategy has not yet been assessed. One should also consider 
+different strategies when there is a long distance from local hospital to the 
+centre offering PCI. The aim of the study was to explore the long-term 
+cost-effectiveness of PCI. Methods Based on a systematic review of clinical 
+trials, we developed a state-transition model that follows patients from when 
+they develop an acute ST-elevation infarction until they die. The model 
+encompassed events (re-infarction, stroke, medical interventions, etc.) and 
+health states (sequalae stroke, heart failure, angina, well, and death). 
+Transition probabilities and utilisation of health care were taken from the 
+systematic review, population statistics, and expert judgement. Unit costs were 
+based on market prices, DRG charges, and reimbursement schedules. One-way 
+sensitivity analyses and Monte-Carlo-simulations were undertaken to explore 
+uncertainty. Results For a 65-year old man living close to a PCI unit, life 
+expectancy was 8.3 years with PCI and 7.6 with thrombolysis, while lifetime 
+costs were 162 000 NOK and 234 000 NOK., respectively. For patients who would 
+need helicopter ambulance to get to a PCI unit, the expected costs were NOK 192 
+000 for PCI (all costs undiscounted). In sensitivity analyses PCI entailed lower 
+costs and greater health benefits for any realistic change in the parameters. 
+Conclusion PCI seems to entail greater health benefits at lower costs than 
+thrombolysis whether the patients live close to PCI hospital or not. The 
+conclusion is unchanged after sensitivity analysis. However, a change to primary 
+PCI as a strategy will have consequences for personnel and organisation of the 
+health care system. These secondary consequences have not been considered in 
+these analyses. In clinical practice combined strategies are actual, that is 
+thrombolysis in ambulance or in local hospital before sending the patient to an 
+invasive centre for PCI. For the present, the clinical data supporting an 
+analysis of combined strategies are still too weak to be analysed by our model. 
+When more robust data are available, it is possible to modify the model to 
+include combinations.
+
+Copyright ©2004 by The Norwegian Institute of Public Health (NIPH).
+
+PMID: 29319962
+
+
+463. Effect of Long-Term Mechanical Ventilation (LTMV) Part 1 – Neuromuscular
+Disease  or Central Respiratory Failure [Internet].
+
+Brurberg KG, Landmark B, Kirkehei I, Reinar LM.
+
+Oslo, Norway: Knowledge Centre for the Health Services at The Norwegian 
+Institute of Public Health (NIPH); 2012 Dec. Report from Norwegian Knowledge 
+Centre for the Health Services (NOKC) No. 13-2012.
+NIPH Systematic Reviews: Executive Summaries.
+
+Patients who fail to maintain adequate respiration may need long-term mechanical 
+ventilation (LTMV) in shorter or longer periods. Patients using LTMV constitute 
+a heterogeneous group with respect to age, diagnoses and disease progression. 
+Norwegian data suggests considerable regional differences in the use of LTMV. 
+Commission The Norwegian Directorate of Health recently prepared new guidelines 
+for the use of LTMV outside hospitals. The Norwegian Knowledge Centre for Health 
+Services was commissioned to prepare a systematic review on the efficacy of 
+LTMV. This is the first of three reviews, and here we summarize evidence on the 
+effectiveness of LTMV for patients with neuromuscular disorders and for patients 
+with central respiratory failure. Main results: LTMV may be associated with some 
+degree of life extension and improved quality of life for patients with 
+amyotrophic lateral sclerosis, at least for patients with good bulbar function. 
+The quality of evidence is low, and it is not possible to draw firm conclusions 
+about the real effect. LTMV can be associated with life extension among 
+hypoventilated patients with Duchenne muscular dystrophy, but the quality of 
+evidence is low, and it is not possible to draw firm conclusions about the real 
+effect. Across patients with various neuromuscular diagnoses, it seems that LTMV 
+may be associated with fewer hospital admissions, and that invasive LTMV is 
+associated with greater risk of complications and hospitalization than 
+non-invasive LTMV. The quality of evidence is low, and we can not draw firm 
+conclusions about the real effect. For some diagnoses, for example central 
+respiratory failure, we were not able to identify any research fulfilling our 
+inclusion criteria.
+
+Copyright ©2012 by The Norwegian Institute of Public Health (NIPH).
+
+PMID: 29320050
+
+
+464. Intravenous Thrombolytic Treatment After Acute Stroke and Secondary 
+Antithrombotic Prevention Treatment (Antiplatelet and Anticoagulant Treatment) 
+After Stroke [Internet].
+
+Wisløff T, Hamidi V, Ringerike T, Harboe I, Klemp M.
+
+Oslo, Norway: Knowledge Centre for the Health Services at The Norwegian 
+Institute of Public Health (NIPH); 2010 Dec. Report from Norwegian Knowledge 
+Centre for the Health Services (NOKC) No. 22-2010.
+NIPH Systematic Reviews: Executive Summaries.
+
+Background Stroke is the third most common cause of death, a major cause of 
+severe disability and accounts for considerable consumption of healthcare 
+resources. Which medication should be chosen for the treatment of stroke depends 
+on several factors, including efficiency and price. Task requirement The 
+Norwegian Directorate of Health’s development groups for the preparation of 
+national clinical guideline for stroke have commissioned the Norwegian Knowledge 
+Centre for the Health Services to conduct economic evaluations of some central 
+recommendations in the stroke guideline. We evaluated the clinical efficacy and 
+conducted health economic evaluation of: 1. Intravenous thrombolytic treatment 
+of patients with acute stroke (within 3 hours and between 3 to 5 hours after 
+symptom onset) in addition to standard treatment compared to treatment without 
+thrombolysis 2. Pharmacological secondary prevention of stroke: Antiplatelet 
+therapy: acetylsalicylic acid (ASA) combined with slow-release dipyridamole 
+compared with ASA monotherapy. Antiplatelet therapy: ASA combined with 
+slow-release dipyridamole compared with clopidogrel monotherapy. Anticoagulation 
+therapy with warfarin compared with ASA for prophylaxis of stroke in patients 
+with atrial fibrillation. Main Results: Thrombolytic treatment within 3 hours 
+after stoke reduces lifetime costs and adds quality-adjusted life years (QALYs) 
+compared with standard treatment without thrombolysis for selected stroke 
+patients. Thrombolysis given between 3 and 5 hours after stroke is 
+cost-effective compared to no thrombolytic treatment. However, the choice of 
+thrombolysis in this time interval should also be carefully considered from an 
+ethical perspective, because it leads to shorter life expectancy relative to no 
+thrombolytic treatment. The combination of ASA and extended-release dipyridamole 
+increases QALYs and reduces lifetime costs compared with ASA monotherapy in 
+secondary prevention of stroke. The use of ASA combined with slow-release 
+dipyridamole for patients of 70 years reduces lifetime costs and adds QALYs 
+compared to clopidogrel for secondary prevention of stroke. Anticoagulation 
+therapy with warfarin has lower expected costs and higher expected QALYs 
+compared with ASA therapy for stroke patients with atrial fibrillation.
+
+Copyright ©2010 by The Norwegian Institute of Public Health (NIPH).
+
+PMID: 29320101
+
+
+465. Med J Aust. 2018 Jan 15;208(1):67. doi: 10.5694/mja17.00173.
+
+Investing in men's health in Australia.
+
+Smith JA(1), Adams M(2), Bonson J(3).
+
+Author information:
+(1)Charles Darwin University, Darwin, NT james.smith3@cdu.edu.au.
+(2)Australian Indigenous HealthInfoNet, Edith Cowan University, Perth, WA.
+(3)Men's Health Strategy Unit, Department of Health, Darwin, NT.
+
+DOI: 10.5694/mja17.00173
+PMID: 29320663 [Indexed for MEDLINE]
+
+
+466. Reumatismo. 2017 Dec 21;69(4):164-169. doi: 10.4081/reumatismo.2017.1010.
+
+Carpal tunnel syndrome in HIV-positive patients coinfected with HCV.
+
+Mastroianni A(1), Allegrini F, Nardi S, Donatucci D, Girelli F, Guidi C.
+
+Author information:
+(1)Unità Operativa Malattie Infettive, Presidio Ospedaliero G.B. Morgagni - L. 
+Pierantoni, Forlì. antoniomastroianni@yahoo.it.
+
+A wide range of rheumatic and peripheral nervous system disorders may develop in 
+patients with HIV infection, leading to pain, sensory symptoms, and muscle 
+weakness. Over the past three decades, the progress in management of HIV disease 
+with anti-retroviral therapy (ART) has resulted in increased life expectancy for 
+people living with HIV disease. With this new chronicity of the disease has a 
+constellation of chronic musculoskeletal, orthopaedic and rheumatic 
+manifestations has emerged, as potential complications of the disease itself 
+and/or the results of ART treatment regimen and/or because of expected 
+age-related symptoms/manifestations. The incidence of CTS in the general 
+population is around 3.8% with clinical examination and, when 
+electroneuromyography is used, it is 2.7%. In the HIV-positive population, the 
+incidence is very close to that of the general population. The aim of this study 
+was to evaluate the incidence of CTS and to identify factors influencing the 
+development of CTS in HIV-infected patients attending our clinic. This syndrome 
+has been associated with advanced HIV disease and the use of ART possibly due to 
+an increased inflammatory state and the presence of concurrent HCV infection.
+
+DOI: 10.4081/reumatismo.2017.1010
+PMID: 29320842 [Indexed for MEDLINE]
+
+
+467. J Health Serv Res Policy. 2018 Apr;23(2):116-122. doi:
+10.1177/1355819617751816.  Epub 2018 Jan 10.
+
+The political economy of the assessment of value of new health technologies.
+
+Karnon J(1), Edney L(2), Afzali H(3).
+
+Author information:
+(1)1 Professor of Health Economics, School of Public Health, University of 
+Adelaide, Australia.
+(2)2 Research Fellow, School of Public Health, University of Adelaide, 
+Australia.
+(3)3 Senior Research Fellow, School of Public Health, University of Adelaide, 
+Australia.
+
+Health technology assessment provides a common framework for evaluating the 
+costs and benefits of new health technologies to inform decisions on the public 
+funding of new pharmaceuticals and other health technologies. In Australia and 
+England, empirical analyses of the opportunity costs of government spending on 
+new health technologies suggest more quality adjusted life years are being 
+forgone than are being gained by a non-trivial proportion of funded health 
+technologies. This essay considers the relevance of available empirical 
+estimates of opportunity costs and explores the relationship between the public 
+funding of health technologies and broader political and economic factors. We 
+conclude that the benefits of a general reduction in the prices paid by 
+governments for new technologies outweigh the costs, but evidence of informed 
+public acceptance of reduced access to new health technologies may be required 
+to shift the current approach to assessing the value of new health technologies.
+
+DOI: 10.1177/1355819617751816
+PMID: 29320891 [Indexed for MEDLINE]
+
+
+468. J Med Econ. 2018 May;21(5):425-437. doi: 10.1080/13696998.2018.1427100. Epub
+ 2018 Feb 7.
+
+Societal costs of multiple sclerosis in Ireland.
+
+Carney P(1)(2), O'Boyle D(2), Larkin A(3), McGuigan C(1)(4), O'Rourke K(1)(5).
+
+Author information:
+(1)a University College Dublin , Dublin , Ireland.
+(2)b Novartis Ireland , Dublin , Ireland.
+(3)c Multiple Sclerosis Ireland , Dublin , Ireland.
+(4)d St. Vincent's University Hospital , Dublin , Ireland.
+(5)e Mater Hospital , Dublin , Ireland.
+
+AIMS: This paper evaluates the impact of multiple sclerosis (MS) in Ireland, and 
+estimates the associated direct, indirect, and intangible costs to society based 
+on a large nationally representative sample.
+MATERIALS AND METHODS: A questionnaire was developed to capture the 
+demographics, disease characteristics, healthcare use, informal care, 
+employment, and wellbeing. Referencing international studies, standardized 
+survey instruments were included (e.g. CSRI, MFIS-5, EQ-5D) or adapted (EDSS) 
+for inclusion in an online survey platform. Recruitment was directed at people 
+with MS via the MS Society mailing list and social media platforms, as well as 
+in traditional media. The economic costing was primarily conducted using a 
+'bottom-up' methodology, and national estimates were achieved using 
+'prevalence-based' extrapolation.
+RESULTS: A total of 594 people completed the survey in full. The sample had 
+geographic, disease, and demographic characteristics indicating good 
+representativeness. At an individual level, average societal cost was estimated 
+at €47,683; the average annual costs for those with mild, moderate, and severe 
+MS were calculated as €34,942, €57,857, and €100,554, respectively. For a total 
+Irish MS population of 9,000, the total societal costs of MS amounted to €429m. 
+Direct costs accounted for just 30% of the total societal costs, indirect costs 
+amounted to 50% of the total, and intangible or QoL costs represented 20%. The 
+societal cost associated with a relapse in the sample is estimated as €2,438.
+LIMITATIONS AND CONCLUSIONS: The findings highlight that up to 70% of the total 
+costs associated with MS are not routinely counted. These "hidden" costs are 
+higher in Ireland than the rest of Europe, due in part to significantly lower 
+levels of workforce participation, a higher likelihood of permanent workforce 
+withdrawal, and higher levels of informal care needs. The relationship between 
+disease progression and costs emphasize the societal importance of managing and 
+slowing the progression of the illness.
+
+DOI: 10.1080/13696998.2018.1427100
+PMID: 29320900 [Indexed for MEDLINE]
+
+
+469. BMC Med. 2018 Jan 11;16(1):5. doi: 10.1186/s12916-017-0988-0.
+
+Deprescribing preventive cardiovascular medication in patients with predicted 
+low cardiovascular disease risk in general practice - the ECSTATIC study: a 
+cluster randomised non-inferiority trial.
+
+Luymes CH(1), Poortvliet RKE(2), van Geloven N(3), de Waal MWM(2), Drewes YM(4), 
+Blom JW(2), Smidt N(5), Assendelft WJJ(6), van den Hout WB(7), de Ruijter 
+W(2)(8), Numans ME(2).
+
+Author information:
+(1)Department of Public Health and Primary Care, Leiden University Medical 
+Centre, PO Box 9600, 2300 RC, Leiden, The Netherlands. c.h.luymes@lumc.nl.
+(2)Department of Public Health and Primary Care, Leiden University Medical 
+Centre, PO Box 9600, 2300 RC, Leiden, The Netherlands.
+(3)Department of Medical Statistics and Bioinformatics, Leiden University 
+Medical Centre, PO Box 9600, 2300 RC, Leiden, The Netherlands.
+(4)Department of Internal Medicine, Section of Gerontology and Geriatrics, 
+Leiden University Medical Centre, PO Box 9600, 2300 RC, Leiden, The Netherlands.
+(5)Department of Epidemiology, University Medical Centre Groningen, PO Box 
+30.001, 9700 RB, Groningen, The Netherlands.
+(6)Department of Primary and Community Care, Radboud University Medical Centre, 
+PO Box 9101, 6500 HB, Nijmegen, The Netherlands.
+(7)Department of Medical Decision Making & Quality of Care, Leiden University 
+Medical Centre, PO Box 9600, 2300 RC, Leiden, The Netherlands.
+(8)Dutch College of General Practitioners, PO Box 3231, 3502 GE, Utrecht, The 
+Netherlands.
+
+Comment in
+    BMJ Evid Based Med. 2018 Dec;23(6):235-236.
+
+BACKGROUND: The use of cardiovascular medication for the primary prevention of 
+cardiovascular disease (CVD) is potentially inappropriate when potential risks 
+outweigh the potential benefits. It is unknown whether deprescribing preventive 
+cardiovascular medication in patients without a strict indication for such 
+medication is safe and cost-effective in general practice.
+METHODS: In this pragmatic cluster randomised controlled non-inferiority trial, 
+we recruited 46 general practices in the Netherlands. Patients aged 40-70 years 
+who were using antihypertensive and/or lipid-lowering drugs without CVD and with 
+low risk of future CVD were followed for 2 years. The intervention was an 
+attempt to deprescribe preventive cardiovascular medication. The primary outcome 
+was the difference in the increase in predicted (10-year) CVD risk in the 
+per-protocol (PP) population with a non-inferiority margin of 2.5 percentage 
+points. An economic evaluation was performed in the intention-to-treat (ITT) 
+population. We used multilevel (generalised) linear regression with multiple 
+imputation of missing data.
+RESULTS: Of 1067 participants recruited between 7 November 2012 and 18 February 
+2014, 72% were female. Overall, their mean age was 55 years and their mean 
+predicted CVD risk at baseline was 5%. Of 492 participants in the ITT 
+intervention group, 319 (65%) quit the medication (PP intervention group); 135 
+(27%) of those participants were still not taking medication after 2 years. The 
+predicted CVD risk increased by 2.0 percentage points in the PP intervention 
+group compared to 1.9 percentage points in the usual care group. The difference 
+of 0.1 (95% CI -0.3 to 0.6) fell within the non-inferiority margin. After 2 
+years, compared to the usual care group, for the PP intervention group, systolic 
+blood pressure was 6 mmHg higher, diastolic blood pressure was 4 mmHg higher and 
+total cholesterol and low-density lipoprotein-cholesterol levels were both 7 
+mg/dl higher (all P < 0.05). Cost and quality-adjusted life years did not differ 
+between the groups.
+CONCLUSIONS: The results of the ECSTATIC study show that an attempt to 
+deprescribe preventive cardiovascular medication in low-CVD-risk patients is 
+safe in the short term when blood pressure and cholesterol levels are monitored 
+after stopping. An attempt to deprescribe medication can be considered, taking 
+patient preferences into consideration.
+TRIAL REGISTRATION: This study was registered with Dutch trial register on 20 
+June 2012 ( NTR3493 ).
+
+DOI: 10.1186/s12916-017-0988-0
+PMCID: PMC5763574
+PMID: 29321031 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: The 
+study protocol was approved by the medical ethics committee of Leiden University 
+Medical Centre. All patients gave informed consent to participate in the 
+ECSTATIC study. CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: 
+All authors have completed the International Committee of Medical Journal 
+Editors uniform disclosure form at www.icmje.org/coi_disclosure.pdf. All authors 
+received financial support from ZonMw, The Netherlands Organisation for Health 
+Research and Development (reference 200320017), for the submitted work. They 
+have no financial relationships with any organisation that might have an 
+interest in the submitted work in the previous three years. They have no other 
+relationships or activities that could appear to have influenced the submitted 
+work. PUBLISHER’S NOTE: Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.
+
+
+470. Stem Cell Res Ther. 2018 Jan 10;9(1):3. doi: 10.1186/s13287-017-0746-4.
+
+Stem cells and anti-aging genes: double-edged sword-do the same job of life 
+extension.
+
+Ullah M(1), Sun Z(2).
+
+Author information:
+(1)Department of Physiology, BMSB, College of Medicine, University of Oklahoma 
+Health Sciences Center (OUHSC), 940 Stanton L. Young Blvd, Oklahoma City, OK, 
+73126-0901, USA. fmujibul@ouhsc.edu.
+(2)Department of Physiology, BMSB, College of Medicine, University of Oklahoma 
+Health Sciences Center (OUHSC), 940 Stanton L. Young Blvd, Oklahoma City, OK, 
+73126-0901, USA.
+
+Aging impacts diseases and lifespan. With current knowledge of stem cells, it is 
+feasible to design and test interventions that delay aging and improve both 
+health and lifespan. Stem cells, together with anti-aging genes such as Klotho, 
+play a crucial role in delaying the aging process. Stem cells in combination 
+with anti-aging genes make a complex and protective shield, which stand against 
+the eroding effects of aging. Increased wear and tear of the stem cells, as well 
+as Klotho deficiency, is expected to heavily increase cellular damage and 
+accelerate the process of aging. Stem cells in conjugation with anti-aging genes 
+probably receive and neutralize most of the devastating signaling effects which 
+are known to cause premature aging. The shield of stem cells combined with 
+anti-aging genes is a primary target for absorbing the shock of aging. If this 
+shield neutralizes the shocks, it could lead to a youthful state, but if not it 
+will accelerate the aging journey. In this review, we concisely discuss the 
+neutralizing ability, operated and regulated by stem cells and other 
+life-extension factors. We suggest that stem cell interventions that increase 
+rejuvenation and keep in balance the expression of anti-aging genes could delay 
+the aging phenotypes and result in prolonged lifespan.
+
+DOI: 10.1186/s13287-017-0746-4
+PMCID: PMC5763529
+PMID: 29321045 [Indexed for MEDLINE]
+
+Conflict of interest statement: Not applicable. CONSENT FOR PUBLICATION: The 
+figures are original for this article and the sources used have been cited both 
+within the article and within the figures. COMPETING INTERESTS: The authors 
+declare that they have no competing interests. PUBLISHER’S NOTE: Springer Nature 
+remains neutral with regard to jurisdictional claims in published maps and 
+institutional affiliations.
+
+
+471. J Med Ethics. 2018 May;44(5):305-309. doi: 10.1136/medethics-2017-104488.
+Epub  2018 Jan 10.
+
+Against proportional shortfall as a priority-setting principle.
+
+Altmann S.
+
+As the demand for healthcare rises, so does the need for priority setting in 
+healthcare. In this paper, I consider a prominent priority-setting principle: 
+proportional shortfall. My purpose is to argue that proportional shortfall, as a 
+principle, should not be adopted. My key criticism is that proportional 
+shortfall fails to consider past health.Proportional shortfall is justified as 
+it supposedly balances concern for prospective health while still accounting for 
+lifetime health, even though past health is deemed irrelevant. Accounting for 
+this lifetime perspective means that the principle may indirectly consider past 
+health by accounting for how far an individual is from achieving a complete, 
+healthy life. I argue that proportional shortfall does not account for this 
+lifetime perspective as it fails to incorporate the fair innings argument as 
+originally claimed, undermining its purported justification.I go on to 
+demonstrate that the case for ignoring past health is weak, and argue that past 
+health is at least sometimes relevant for priority-setting decisions. 
+Specifically, when an individual's past health has a direct impact on current or 
+future health, and when one individual has enjoyed significantly more healthy 
+life years than another.Finally, I demonstrate that by ignoring past illnesses, 
+even those entirely unrelated to their current illness, proportional shortfall 
+can lead to instances of double jeopardy, a highly problematic implication. 
+These arguments give us reason to reject proportional shortfall.
+
+© Article author(s) (or their employer(s) unless otherwise stated in the text of 
+the article) 2018. All rights reserved. No commercial use is permitted unless 
+otherwise expressly granted.
+
+DOI: 10.1136/medethics-2017-104488
+PMID: 29321220 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+472. Proc Jpn Acad Ser B Phys Biol Sci. 2018;94(1):1-19. doi:
+10.2183/pjab.94.001.
+
+A new arena in cardiac surgery: Pediatric coronary artery bypass surgery.
+
+Kitamura S(1).
+
+Author information:
+(1)National Cerebral and Cardiovascular Center.
+
+Prior to the 1970s, pediatric coronary artery bypass surgery (PCABS) was 
+seldomly performed due to the lack of compelling surgical indications. The 
+advent of coronary sequelae secondary to Kawasaki disease (KD) and the 
+occurrence of coronary artery complications due to newly developed procedures, 
+such as the arterial switch operation and early repair for intrinsic congenital 
+coronary malformations, necessitated the development of PCABS. Because children 
+grow rapidly and their life expectancy is very long, with increasing exercise 
+capability requirements, the strategy for PCABS should differ from that for 
+bypass surgery in adults. PCABS utilizing unilateral and bilateral internal 
+thoracic arteries (ITA) has become the most reliable surgical method for 
+children because of the distinct structure of ITAs being resistant to KD, growth 
+potential according to the child's somatic growth and long-term patency without 
+wall degeneration. This operation utilizing ITA grafts is now being performed 
+worldwide and is referred to as the "Kitamura operation" for KD coronary 
+sequelae. Notably, the use of vein grafts should be avoided in children. 
+Likewise, this operation can now be successfully performed in infants using a 
+surgical microscope, for congenital coronary disorders. Currently, PCABS with 
+ITAs has been established as a new arena in cardiac surgery, following our 
+initial attempts.
+
+DOI: 10.2183/pjab.94.001
+PMCID: PMC5829611
+PMID: 29321443 [Indexed for MEDLINE]
+

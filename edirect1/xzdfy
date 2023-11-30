@@ -1,0 +1,1000 @@
+strategies, that cloud successfully influence patients' life expectancy. 
+However, the most performing systems implement the so called black-box approach, 
+which do not provide explicit rules to reach a decision. This lack of 
+interpretability, has hampered the acceptance of those systems by clinicians and 
+their deployment on the field. In this context, we perform a thorough comparison 
+of different machine learning (ML) techniques, whose classification results are 
+characterized by different levels of interpretability. Such techniques were 
+applied for automatically identify PD patients through the analysis of 
+handwriting and drawing samples. Results analysis shows that white-box 
+approaches, such as Cartesian Genetic Programming and Decision Tree, allow to 
+reach a twofold goal: support the diagnosis of PD and obtain explicit 
+classification models, on which only a subset of features (related to specific 
+tasks) were identified and exploited for classification. Obtained classification 
+models provide important insights for the design of non-invasive, inexpensive 
+and easy to administer diagnostic protocols. Comparison of different ML 
+approaches (in terms of both accuracy and interpretability) has been performed 
+on the features extracted from the handwriting and drawing samples included in 
+the publicly available PaHaW and NewHandPD datasets. The experimental findings 
+show that the Cartesian Genetic Programming outperforms the white-box methods in 
+accuracy and the black-box ones in interpretability.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.artmed.2020.101984
+PMID: 33461684 [Indexed for MEDLINE]
+
+
+591. J Diabetes Complications. 2021 Apr;35(4):107835. doi: 
+10.1016/j.jdiacomp.2020.107835. Epub 2021 Jan 2.
+
+The rational treatment of diabetes mellitus in older adults: The adequacy of 
+treatment decisions based on individualized glycemic targets in primary and 
+tertiary care.
+
+Alessi J(1), Telo GH(2), de Oliveira GB(3), Schneiders J(4), Zanella MJB(3), 
+Schaan BD(5).
+
+Author information:
+(1)Medical Science Program: Endocrinology, Universidade Federal do Rio Grande do 
+Sul, Brazil; Internal Medicine Department, Hospital São Lucas - Pontifícia 
+Universidade Católica do Rio Grande do Sul, Brazil. Electronic address: 
+janinealessi@gmail.com.
+(2)Internal Medicine Department, Hospital São Lucas - Pontifícia Universidade 
+Católica do Rio Grande do Sul, Brazil; School of Medicine, Pontifícia 
+Universidade Católica do Rio Grande do Sul, Brazil; Medicine and Health Sciences 
+Program, Pontifícia Universidade Católica do Rio Grande do Sul, Brazil.
+(3)School of Medicine, Pontifícia Universidade Católica do Rio Grande do Sul, 
+Brazil.
+(4)Medical Science Program: Endocrinology, Universidade Federal do Rio Grande do 
+Sul, Brazil.
+(5)Medical Science Program: Endocrinology, Universidade Federal do Rio Grande do 
+Sul, Brazil; School of Medicine, Universidade Federal do Rio Grande do Sul, 
+Brazil; Endocrinology Division, Hospital de Clínicas de Porto Alegre, Brazil.
+
+Comment in
+    J Diabetes Complications. 2021 May;35(5):107872.
+
+OBJECTIVES: To access the adequacy of treatment decisions in accordance with 
+current recommendations for individualizing glycemic targets in primary and 
+tertiary care.
+METHODS: This multicenter cross-sectional study was conducted with a cohort of 
+older type 2 diabetes patients from southern Brazil. Inclusion criteria were age 
+over 65 years, having a previous diagnosis of type 2 diabetes (according to ADA 
+criteria) and having at least two consultations registered in the medical 
+records within one year. The primary outcome was the adequacy of treatment 
+decisions according to pre-established HbA1c targets, which was compared with 
+the complexity of care. The ideal HbA1c targets were: (1) 7-7.5% for an 
+estimated life expectancy >10 years; (2) 7.5-8% for a life expectancy of 
+5-10 years; (3) 8-8.5% for a life expectancy <5 years. For analysis, the 
+chi-square test was used for categorical variables and the t-test was used for 
+continuous variables.
+RESULTS: Overall, 49.1% and 50.3% of the patients in the primary and tertiary 
+care groups, respectively, received inadequate management. In patients whose 
+HbA1c level was over target, the treatment was intensified in 46.3% and 51.2% of 
+the primary and tertiary care groups, respectively (p = 0.57). In patients whose 
+HbA1c level was under target, treatment was de-intensified in 5.9% and 26.2% in 
+the primary and tertiary care groups, respectively (p <0.01).
+CONCLUSION: Treatment changes based on individualized glycemic targets do occur 
+in a minority of patients, which reflects the need for new strategies to 
+facilitate individualized treatment targets and optimize the treatment adequacy 
+in older adults.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jdiacomp.2020.107835
+PMID: 33461926 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest No potential 
+conflicts of interest relevant to this article were reported. The following are 
+the supplementary data related to this article. Supplementary data to this 
+article can be found online at https://doi.org/10.1016/j.jdiacomp.2020.107835.
+
+
+592. BMJ. 2021 Jan 18;372:m4747. doi: 10.1136/bmj.m4747.
+
+Management of non-alcoholic fatty liver disease.
+
+Petroni ML(1), Brodosi L(1), Bugianesi E(2)(3), Marchesini G(1)(3).
+
+Author information:
+(1)Department of Medical and Surgical Sciences, "Alma Mater" University, IRCCS 
+Policlinico Sant'Orsola, Bologna, Italy.
+(2)Division of Gastro-Hepatology, University of Turin, Turin, Italy.
+(3)Contributed equally.
+
+Non-alcoholic fatty liver disease is a very common medical condition, driven by 
+a combination of genetic and lifestyle factors, ultimately producing a severe 
+chronic liver disease and increased cardiovascular risk. Most people are 
+asymptomatic for a long time, and their daily life is unaffected, leading to 
+difficulty in identifying and managing people who slowly progress to 
+non-alcoholic steatohepatitis (NASH), NASH-cirrhosis, and eventually 
+hepatocellular carcinoma. Despite advances in the understanding of pathogenic 
+mechanisms and the identification of liver fibrosis as the strongest factor in 
+predicting disease progression, no specific treatments have been approved by 
+regulatory agencies. Outside controlled trials, treatment is generally limited 
+to lifestyle intervention aimed at weight loss. Pioglitazone remains the drug of 
+choice to reduce progression of fibrosis in people with diabetes, although it is 
+often used off-label in the absence of diabetes. Vitamin E is mainly used in 
+children and may be considered in adults without diabetes. Several drugs are 
+under investigation according to the agreed targets of reduced NASH activity 
+without worsening of fibrosis or improving fibrosis without worsening of NASH. 
+Anti-inflammatory, anti-fibrotic agents and metabolism modulators have been 
+tested in either phase III or phase IIb randomized controlled trials; a few 
+failed, and others have produced marginally positive results, but only a few are 
+being tested in extension studies. The development of non-invasive, easily 
+repeatable surrogate biomarkers and/or imaging tools is crucial to facilitate 
+clinical studies and limit liver biopsy.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not 
+already granted under a licence) please go to 
+http://group.bmj.com/group/rights-licensing/permissions.
+
+DOI: 10.1136/bmj.m4747
+PMID: 33461969
+
+Conflict of interest statement: Competing interests: We have read and understood 
+the BMJ policy on declaration of interests and declare the following interests: 
+MLP has participated in an advisory board of Novo Nordisk; EB has received a 
+grant from Gilead and participated in advisory boards of BMS, GENFIT, Gilead, 
+Intercept, Inventiva, Novo-Nordisk, and Pfizer; GM has received honorariums from 
+Eli Lilly and participated in advisory boards of Gilead, Novartis, Astra-Zeneca, 
+Pfizer, and Mundipharma.
+
+
+593. Pharmacogenomics J. 2021 Apr;21(2):243-250. doi: 10.1038/s41397-020-00204-6.
+ Epub 2021 Jan 18.
+
+Cost-effectiveness of CYP2C19-guided antiplatelet therapy for acute coronary 
+syndromes in Singapore.
+
+Kim JH(1), Tan DS(2), Chan MYY(3).
+
+Author information:
+(1)Department of Pharmacy, Khoo Teck Puat Hospital, Singapore, 768828, 
+Singapore. kim.ji.heon@ktph.com.sg.
+(2)Department of Pharmacy, Khoo Teck Puat Hospital, Singapore, 768828, 
+Singapore.
+(3)Department of Cardiology, Yong Loo-Lin School of Medicine, National 
+University of Singapore, Singapore, 119228, Singapore.
+
+We evaluated the cost-effectiveness of a genotype-guided strategy among patients 
+with acute coronary syndromes using a decision-tree model based on the Singapore 
+healthcare payer's perspective over a 1-year time horizon. Three dual 
+antiplatelet strategies were considered: universal clopidogrel, genotype-guided, 
+and universal ticagrelor. The prevalence of loss-of-function alleles was assumed 
+to be 61.7% and model inputs were identified from the literature. Our primary 
+outcome of interest was incremental cost-effectiveness ratio (ICER) compared to 
+universal clopidogrel. Both genotype-guided (72,158 SGD/QALY) and universal 
+ticagrelor (82,269 SGD/QALY) were considered cost-effective based on a 
+willingness-to-pay (WTP) threshold of SGD 88,991. In our secondary analysis, the 
+ICER for universal ticagrelor was 114,998 SGD/QALY when genotype-guided was 
+taken as a reference. Probabilistic sensitivity analysis revealed that 
+genotype-guided was the most cost-effective strategy when the WTP threshold was 
+between SGD 70,000 to 100,000. Until more data are available, our study suggests 
+that funding for a once-off CYP2C19 testing merits a consideration over 1 year 
+of universal ticagrelor.
+
+DOI: 10.1038/s41397-020-00204-6
+PMID: 33462345 [Indexed for MEDLINE]
+
+
+594. Nat Metab. 2021 Jan;3(1):33-42. doi: 10.1038/s42255-020-00334-y. Epub 2021
+Jan  18.
+
+Tetracyclines promote survival and fitness in mitochondrial disease models.
+
+Perry EA(#)(1)(2)(3), Bennett CF(#)(1)(2), Luo C(1)(2), Balsa E(1)(2), 
+Jedrychowski M(1)(2), O'Malley KE(1)(2), Latorre-Muro P(1)(2), Ladley RP(4), 
+Reda K(4), Wright PM(4), Gygi SP(2), Myers AG(4), Puigserver P(5)(6).
+
+Author information:
+(1)Department of Cancer Biology, Dana-Farber Cancer Institute, Boston, MA, USA.
+(2)Department of Cell Biology, Harvard Medical School, Boston, MA, USA.
+(3)Biological Sciences in Dental Medicine Program, Harvard School of Dental 
+Medicine, Boston, MA, USA.
+(4)Department of Chemistry and Chemical Biology, Harvard University, Cambridge, 
+MA, USA.
+(5)Department of Cancer Biology, Dana-Farber Cancer Institute, Boston, MA, USA. 
+pere_puigserver@dfci.harvard.edu.
+(6)Department of Cell Biology, Harvard Medical School, Boston, MA, USA. 
+pere_puigserver@dfci.harvard.edu.
+(#)Contributed equally
+
+Mitochondrial diseases (MDs) are a heterogeneous group of disorders resulting 
+from mutations in nuclear or mitochondrial DNA genes encoding mitochondrial 
+proteins1,2. MDs cause pathologies with severe tissue damage and ultimately 
+death3,4. There are no cures for MDs and current treatments are only 
+palliative5-7. Here we show that tetracyclines improve fitness of cultured MD 
+cells and ameliorate disease in a mouse model of Leigh syndrome. To identify 
+small molecules that prevent cellular damage and death under nutrient stress 
+conditions, we conduct a chemical high-throughput screen with cells carrying 
+human MD mutations and discover a series of antibiotics that maintain survival 
+of various MD cells. We subsequently show that a sub-library of tetracycline 
+analogues, including doxycycline, rescues cell death and inflammatory signatures 
+in mutant cells through partial and selective inhibition of mitochondrial 
+translation, resulting in an ATF4-independent mitohormetic response. Doxycycline 
+treatment strongly promotes fitness and survival of Ndufs4-/- mice, a 
+preclinical Leigh syndrome mouse model8. A proteomic analysis of brain tissue 
+reveals that doxycycline treatment largely prevents neuronal death and the 
+accumulation of neuroimmune and inflammatory proteins in Ndufs4-/- mice, 
+indicating a potential causal role for these proteins in the brain pathology. 
+Our findings suggest that tetracyclines deserve further evaluation as potential 
+drugs for the treatment of MDs.
+
+DOI: 10.1038/s42255-020-00334-y
+PMCID: PMC7856165
+PMID: 33462515 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests.
+
+
+595. Qual Life Res. 2021 Jun;30(6):1571-1582. doi: 10.1007/s11136-020-02751-8.
+Epub  2021 Jan 19.
+
+Subjective life expectancy and associated factors among cancer survivors over 
+45 years old: evidence from the CHARLS.
+
+Chen Z(1), Zhu D(2), Hu X(3), Gao G(4).
+
+Author information:
+(1)Department of Medical Insurance, Key Laboratory of Carcinogenesis and 
+Translational Research (Ministry of Education), Peking University Cancer 
+Hospital & Institute, Beijing, China.
+(2)Center for Health Development Studies, Peking University, Beijing, China.
+(3)School of Public Health, Capital Medical University, Beijing, China.
+(4)School of Public Health, Capital Medical University, Beijing, China. 
+gaoguangying@yeah.net.
+
+PURPOSE: Associations between subjective life expectancy (SLE) and a variety of 
+factors are well documented, but the relationship regarding cancer is limited. 
+The purpose of this study was to disclose this potential relationship and 
+identify the covariates that might influence this relationship.
+METHODS: Data were extracted from the China Health and Retirement Longitudinal 
+Study (CHARLS), and a sample of 448 cancer survivors and 43,795 individuals 
+without cancer were analyzed. Multilevel mixed-effects logistic regression was 
+performed to examine the SLE associated with cancer survivors and participants 
+without cancer after controlling for demographic, socioeconomic, health-related, 
+and psychosocial factors.
+RESULTS: The findings revealed that cancer survivors had a 39% reduction in 
+longer life expectancy compared to respondents without cancer. Disparities in 
+SLE existed based on diverse individual characteristics. The rate of high SLE in 
+urban citizens was 75% higher compared to that of rural residents, while the 
+rate of high SLE in participants with disability fell by 55%. The rate of high 
+SLE decreased by 22% and 35% in respondents with high blood pressure and 
+diabetes, respectively. The proportion of respondents with high SLE was reduced 
+by 70% when depression was present. Furthermore, the out-of-pocket expenditures 
+of participants with and without cancer showed a significant difference, but 
+discrepancies with respect to SLE among different cancer treatment options were 
+not found.
+CONCLUSION: The more challenging one's socioeconomic status is and the 
+unhealthier one's physical and mental conditions are, the lower one's prospect 
+of subjective life expectancy is. Further work is warranted to confirm the 
+causal association between subjective life expectancy and certain 
+characteristics in cancer survivors.
+
+DOI: 10.1007/s11136-020-02751-8
+PMID: 33462662 [Indexed for MEDLINE]
+
+
+596. Herz. 2021 Mar;46(2):120-128. doi: 10.1007/s00059-020-05016-9. Epub 2021 Jan
+18.
+
+[Air pollution and cardiovascular diseases].
+
+[Article in German; Abstract available in German from the publisher]
+
+Münzel T(1), Hahad O(2), Daiber A(2), Lelieveld J(3).
+
+Author information:
+(1)Zentrum für Kardiologie - Kardiologie I, Universitätsmedizin der 
+Johannes-Gutenberg-Universität Mainz, Langenbeckstraße 1, 55131, Mainz, 
+Deutschland. tmuenzel@uni-mainz.de.
+(2)Zentrum für Kardiologie - Kardiologie I, Universitätsmedizin der 
+Johannes-Gutenberg-Universität Mainz, Langenbeckstraße 1, 55131, Mainz, 
+Deutschland.
+(3)Max-Planck-Institut für Chemie, Johannes-Gutenberg-Universität Mainz, Mainz, 
+Deutschland.
+
+Air pollution in the environment and in households is responsible worldwide for 
+almost 9 million preventable premature deaths per year and almost 800,000 such 
+deaths within Europe. Air pollution therefore shortens life expectancy worldwide 
+by almost 3 years. Smoking, a proven cardiovascular risk factor, shortens the 
+mean life expectancy by 2.2 years. Epidemiological studies have shown that air 
+pollution from fine and coarse particulate matter is associated with increased 
+cardiovascular morbidity and mortality. Responsible for this are mainly 
+cardiovascular diseases, such as coronary heart disease, heart attack, heart 
+failure, stroke, hypertension and also diabetes, which are mainly caused or 
+aggravated by fine particulate matter. After inhalation fine particulate matter 
+can reach the brain directly and also reach the bloodstream via a transition 
+process. There, the particles are absorbed by the blood vessels where they 
+stimulate the formation of reactive oxygen species (ROS) in the vascular wall. 
+They therefore promote the formation of atherosclerotic changes and in this way 
+increase the cardiovascular risks, especially an increase in chronic ischemic 
+heart disease and stroke. Recent studies also reported that in coronavirus 
+disease 2019 (COVID-19) patients a high degree of air pollution is correlated 
+with severe disease courses with cardiovascular complications and pulmonary 
+diseases. This necessitates preventive measures, such as lowering of the upper 
+limits for air pollutants. Individual measures to mitigate the health 
+consequences of fine particulate matter are also discussed.
+
+Publisher: Die Luftverschmutzung in der Umgebung und in Haushalten ist weltweit 
+jährlich für mittlerweile knapp 9 Mio. vermeidbare, vorzeitige Todesfälle und 
+innerhalb Europas für knapp 800.000 solcher Todesfälle verantwortlich. Die 
+Luftverschmutzung verkürzt somit weltweit die Lebenserwartung um knapp 3 Jahre. 
+Das Rauchen, ein nachgewiesener Herz-Kreislauf-Risiko-Faktor, verkürzt die 
+mittlere Lebenserwartung um 2,2 Jahre. Epidemiologische Studien zeigen, dass 
+Luftverschmutzung durch Feinstaub mit erhöhter kardiovaskulärer Morbidität und 
+Mortalität assoziiert ist. Hierfür verantwortlich sind hauptsächlich durch 
+Feinstaub ausgelöste oder verschlimmerte Herz-Kreislauf-Erkrankungen, wie 
+koronare Herzkrankheit (KHK), Herzinfarkt, Herzinsuffizienz, Schlaganfall, 
+Hypertonie und auch Diabetes. Feinstaubpartikel können nach Inhalation zum einen 
+direkt ins Gehirn und zum anderen über einen Transitionsprozess in die Blutbahn 
+gelangen. Dort werden sie in die Blutgefäße aufgenommen, wo sie die Bildung 
+reaktiver Sauerstoffspezies (ROS) in der Gefäßwand stimulieren. Damit 
+begünstigen sie die Entstehung atherosklerotischer Veränderungen und steigern so 
+das kardiovaskuläre Risiko, insbesondere eine Zunahme an chronisch-ischämischer 
+Herzerkrankung und Schlaganfall. Neuere Untersuchungen berichten, dass bei 
+COVID-19(„coronavirus disease 2019“)-Patienten ein hoher Grad an 
+Luftverschmutzung mit schweren Krankheitsverläufen mit kardiovaskulären 
+Komplikationen und Lungenerkrankungen korreliert. Dies macht präventive 
+Maßnahmen, wie z. B. eine Absenkung der Grenzwerte für Luftschadstoffe, 
+erforderlich. Individuelle Maßnahmen, um die gesundheitlichen Folgen von 
+Feinstaub abzumildern, werden ebenfalls diskutiert.
+
+DOI: 10.1007/s00059-020-05016-9
+PMCID: PMC7812988
+PMID: 33462701 [Indexed for MEDLINE]
+
+
+597. Pharmacoeconomics. 2021 Mar;39(3):287-315. doi: 10.1007/s40273-020-00991-7.
+Epub  2021 Jan 19.
+
+Assessment of the Effects of Active Immunisation against Respiratory Syncytial 
+Virus (RSV) using Decision-Analytic Models: A Systematic Review with a Focus on 
+Vaccination Strategies, Modelling Methods and Input Data.
+
+Treskova M(1), Pozo-Martin F(2), Scholz S(2), Schönfeld V(2), Wichmann O(2), 
+Harder T(2).
+
+Author information:
+(1)Immunization Unit, Robert Koch Institute, Seestrasse 10, 13353, Berlin, 
+Germany. TreskovaM@rki.de.
+(2)Immunization Unit, Robert Koch Institute, Seestrasse 10, 13353, Berlin, 
+Germany.
+
+BACKGROUND: Several vaccine and antibody candidates are currently in development 
+for the prevention of lower respiratory tract infections caused by the 
+respiratory syncytial virus (RSV).
+METHODS: We searched MEDLINE, Embase, and SCOPUS and included model-based 
+evaluations of RSV vaccinations. Two reviewers performed the selection, data 
+extraction, and quality evaluation with EVIDEM. Cost-effectiveness (CE) 
+estimates were converted to $US purchasing power parity (PPP), year 2018 values. 
+Potential economic and epidemiological outcomes were summarised for maternal, 
+infant, children, and elderly vaccinations. The PROSPERO identifier is 
+CRD42019122570.
+RESULTS: In total, 22 model-based studies were reviewed. On average, a potential 
+27% reduction in RSV hospitalisations in infants was projected for maternal 
+vaccination and 50% for direct infant immunisation. The CE of maternal 
+vaccination was $US1766-5857 PPP 2018/disability-adjusted life-years (DALYs) for 
+Global Alliance for Vaccines and Immunisation (Gavi)-eligible countries. For 
+England, the maximum cost-effective price of maternal vaccination was estimated 
+at $US81.5 PPP 2018. Infant vaccination was associated with higher CE ratios in 
+low- and high-income settings. Vaccination of neonates born before the RSV 
+season was the most cost effective in high-income settings. Higher values for 
+vaccine effectiveness, duration of protection, and vaccine uptake increased the 
+benefits. Due to indirect effects, the vaccination of school-age children and a 
+cocooning strategy were effective alternatives to protect infants, and the 
+vaccination of children aged < 5 years had a beneficial impact on the elderly.
+CONCLUSION: RSV vaccines with anticipated characteristics may reduce a sizeable 
+proportion of the RSV burden. The results are subject to uncertainty because of 
+the limited epidemiological and clinical data. Data on RSV incidence and 
+hospitalisation risk for granular age strata should be prioritised to facilitate 
+the evaluation of RSV interventions and decision making.
+
+DOI: 10.1007/s40273-020-00991-7
+PMCID: PMC7813556
+PMID: 33462760 [Indexed for MEDLINE]
+
+Conflict of interest statement: Marina Treskova, Francisco Pozo-Martin, Stefan 
+Scholz, Viktoria Schönfeld, Ole Wichmann, and Thomas Harder have no conflicts of 
+interest that are directly relevant to the content of this article.
+
+
+598. JAMA Netw Open. 2021 Jan 4;4(1):e2033761. doi: 
+10.1001/jamanetworkopen.2020.33761.
+
+Cost-effectiveness of Pembrolizumab as a Second-Line Therapy for Hepatocellular 
+Carcinoma.
+
+Chiang CL(1), Chan SK(1), Lee SF(2), Wong IO(3), Choi HC(1).
+
+Author information:
+(1)Department of Clinical Oncology, University of Hong Kong, Hong Kong (SAR), 
+China.
+(2)Department of Clinical Oncology, Tuen Mun Hospital, Hong Kong (SAR), China.
+(3)School of Public Health, University of Hong Kong, Hong Kong (SAR), China.
+
+Comment in
+    JAMA Netw Open. 2021 Jan 4;4(1):e2034020.
+
+IMPORTANCE: Immune checkpoint inhibitors have been approved for use as a 
+second-line therapy for hepatocellular carcinoma (HCC) in patients who 
+previously received sorafenib. Pembrolizumab has shown substantial antitumor 
+activity and a favorable toxicity profile as a second-line treatment of HCC. 
+However, considering the high cost of pembrolizumab, there is a need to assess 
+its value by considering both the clinical efficacy and cost.
+OBJECTIVE: To evaluate the cost-effectiveness of pembrolizumab vs placebo as 
+second-line therapy in patients with HCC from the US payer perspective.
+DESIGN, SETTING, AND PARTICIPANTS: A Markov model was developed to compare the 
+lifetime cost and efficacy of pembrolizumab as a second-line treatment of HCC 
+with those of placebo using outcome data from the KEYNOTE-240 randomized 
+placebo-controlled trial, which included 413 patients with advanced HCC 
+previously treated with sorafenib and randomized patients to receive 
+pembrolizumab plus best supportive care or placebo plus best supportive care in 
+a 2:1 ratio.
+MAIN OUTCOMES AND MEASURES: Life-years, quality-adjusted life-years (QALYs), 
+lifetime costs, and incremental cost-effectiveness ratio (ICER) were estimated 
+at a willingness-to-pay threshold of $150 000 per QALY. One-way and 
+probabilistic sensitivity analyses were performed to account for the parameter 
+of uncertainty. A cost-threshold analysis was also performed. The study was 
+conducted from January 31 to July 29, 2020.
+RESULTS: The base-case model found that treatment with pembrolizumab was 
+associated with increased overall cost by $47 057 and improved effectiveness by 
+0.138 QALYs compared with placebo, leading to an ICER of $340 409 per QALY. The 
+model was most sensitive to the hazard ratio of overall survival (range, 
+0.61-1.00), health utility of placebo (range, 0.59-0.93), price of pembrolizumab 
+(range, $5531-$8297), and price of postprogression therapies (range, $5596-$7944 
+for pembrolizumab and $4770-$7156 for placebo). The ICER of pembrolizumab was 
+larger than $150 000 per QALY in most of the sensitivity and subgroup analyses. 
+The price of pembrolizumab needed to be reduced by 57.7% to $2925 per cycle to 
+achieve cost-effectiveness.
+CONCLUSIONS AND RELEVANCE: The findings of this cost-effectiveness analysis 
+suggest that, at its current price, pembrolizumab is not a cost-effective 
+second-line therapy for HCC in the US, with a willingness-to-pay threshold of 
+$150 000 per QALY.
+
+DOI: 10.1001/jamanetworkopen.2020.33761
+PMCID: PMC7816108
+PMID: 33464318 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Chiang 
+reported receiving grants and personal fees from AstraZeneca, grants from Merck 
+Kgga, and personal fees from Eiasi outside the submitted work. No other 
+disclosures were reported.
+
+
+599. Expert Rev Pharmacoecon Outcomes Res. 2022 Jan;22(1):53-61. doi: 
+10.1080/14737167.2021.1878881. Epub 2021 Feb 1.
+
+A systematic review and meta-regression of studies eliciting willingness-to-pay 
+per quality-adjusted life year in the general population.
+
+Ye Z(1), Ma J(1), Liu F(1), Wang C(1), Zhou Z(1), Sun L(1).
+
+Author information:
+(1)School of business administration, Shenyang Pharmaceutical University, 
+Shenyang, China.
+
+OBJECTIVES: From the demand-side perspective, the monetary value of one 
+additional quality-adjusted life year (QALY) is estimated as willingness-to-pay 
+per QALY (WTPQ). This study aims to summarize the methods and contexts of 
+elicitation of willingness-to-pay per quality-adjusted life year (WTPQ) in the 
+general population and to investigate the heterogeneity of WTPQ estimates.
+METHODS: Meta-regression analysis was conducted using Comprehensive 
+Meta-Analysis Software. Sensitivity analyses were undertaken by replacing the 
+lowest and highest 5% and 2.5% of WTPQ by percentiles.
+RESULTS: 33 studies with 102 WTPQ estimates were included. The overall mean and 
+median WTPQ estimates are $1,280,002 and $44,072, respectively. The 
+meta-regressions demonstrated that types of health gain (quality of life or life 
+length) and certainty of health outcomes are statistically significant factors. 
+Furthermore, compared with online interviews, face-to-face interviews tend to 
+yield lower WTPQ. Moreover, the declining trend of QALY gains and positive 
+effect with statistical significance of the sample age were also noticed.
+CONCLUSION: For valid and representative values of WTPQ, future researchers 
+should therefore take into consideration various scenarios and investigate both 
+health gain with certainty and uncertainty, health gain from both life length 
+and quality of life, and different size of QALY gains.
+
+DOI: 10.1080/14737167.2021.1878881
+PMID: 33464926 [Indexed for MEDLINE]
+
+
+600. Biol Lett. 2021 Jan;17(1):20200819. doi: 10.1098/rsbl.2020.0819. Epub 2021
+Jan  20.
+
+Fish from urban rivers and with high pollutant levels have shorter telomeres.
+
+Molbert N(1), Angelier F(2), Alliot F(1)(3), Ribout C(2), Goutte A(1)(3).
+
+Author information:
+(1)Sorbonne Université, CNRS, EPHE, UMR METIS, 75005 Paris, France.
+(2)Centre d'Etudes Biologiques de Chizé (CEBC), UMR 7372 CNRS, La Rochelle 
+Université, 79360 Villiers en Bois, France.
+(3)EPHE, PSL Research University, 75005 Paris, France.
+
+Environmental pressures, such as urbanization and exposure to pollutants may 
+jeopardize survival of free-living animals. Yet, much remains to be known about 
+physiological and ecological responses to currently-released pollutants, 
+especially in wild vertebrate ectotherms. We tested the effect of urbanization 
+and pollution (phthalates, organochlorine and pyrethroid pesticides, 
+polychlorobiphenyls, polybromodiphenylethers, polycyclic aromatic hydrocarbons, 
+and some of their metabolites) on telomere length, a suggested biomarker of life 
+expectancy, in the European chub, Squalius cephalus, from urban and agricultural 
+rivers of the Marne hydrographic network, France. We showed that telomere length 
+was reduced in chub from urban rivers. Moreover, among the wide range of 
+anthropogenic contaminants investigated, high levels of phthalate metabolites in 
+liver were associated with shorter telomeres. This study suggests that 
+urbanization and chemical pollution may compromise survival of wild fish, by 
+accelerating telomere attrition.
+
+DOI: 10.1098/rsbl.2020.0819
+PMCID: PMC7876608
+PMID: 33465329 [Indexed for MEDLINE]
+
+Conflict of interest statement: We declare we have no competing interests.601. Int J Environ Res Public Health. 2021 Jan 5;18(1):352. doi: 
+10.3390/ijerph18010352.
+
+Demographic Assessment of Down Syndrome: A Systematic Review.
+
+Huete-García A(1), Otaola-Barranquero M(1).
+
+Author information:
+(1)Institute on Community Integration (INICO), School of Education, University 
+of Salamanca, Paseo de Canalejas 169, 37008 Salamanca, Spain.
+
+The objective of this study is to assess the evidence about the demographic 
+transformation of the Down Syndrome population, with a specific focus on 
+prenatal testing, and to identify sources frequently used for demographic 
+assessment of Down Syndrome in the world. We reviewed existing studies on 
+demographic transformations in the population with Down Syndrome, specifically 
+birthrate indicators, under the Preferred Reporting Items for Systematic Reviews 
+and Meta-Analyses (PRISMA) Statement. The searches were made in Medline (via 
+EBSCO Host), Academic Search Complete (via EBSCO Host), PsycINFO (via EBSCO 
+Host), Web of Science (Core Collection), Public Health Database (via ProQuest), 
+and The Cochrane Library. The terms were developed through Medical Subject 
+Headings (MESH) and American Psycological Asociation Thesaurus of Psychological 
+Index Terms (APA). Full texts were reviewed if information was given regarding 
+location and birthrate for a range of three years or more, and if the first and 
+last year considered was within 1960 and 2019. We found 22 references with a 
+period of study between 1960 and 2019 following the global spread of prenatal 
+testing for Down Syndrome. We found a consistent association between prenatal 
+diagnosis and birthrate, enough to explain the significant fall in the 
+prevalence of Down Syndrome, a somewhat rising incidence of Down Syndrome 
+related to increased maternal age and extension of fertility services in 
+healthcare systems, a generalized use of specific congenital birth defect 
+registries as the primary source of data, and an unclear influence of 
+socio-cultural and territorial variables. Our findings can inform research, 
+policy, and practice to improve the reproductive health and quality of life of 
+the population with Down Syndrome.
+
+DOI: 10.3390/ijerph18010352
+PMCID: PMC7796484
+PMID: 33466470 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+602. Int J Environ Res Public Health. 2021 Jan 14;18(2):661. doi: 
+10.3390/ijerph18020661.
+
+New Perspective on Why Women Live Longer Than Men: An Exploration of Power, 
+Gender, Social Determinants, and Capitals.
+
+Baum F(1), Musolino C(1), Gesesew HA(2)(3), Popay J(4).
+
+Author information:
+(1)Southgate Institute for Health, Society & Equity, Flinders University, 
+Adelaide 5042, Australia.
+(2)College of Medicine and Public Health, Flinders University, Adelaide 5048, 
+Australia.
+(3)Epidemiology, School of Health Sciences, Mekelle University, Mekelle 231, 
+Ethiopia.
+(4)Division of Health Research, Faculty of Health & Medicine, Lancaster 
+University, Lancaster LA1 4YW, UK.
+
+BACKGROUND: Women live longer than men, even though many of the recognised 
+social determinants of health are worse for women than men. No existing 
+explanations account fully for these differences in life expectancy, although 
+they do highlight the complexity and interaction of biological, social and 
+health service factors.
+METHODS: this paper is an exploratory explanation of gendered life expectancy 
+difference (GLED) using a novel combination of epidemiological and sociological 
+methods. We present the global picture of GLED. We then utilise a secondary data 
+comparative case analysis offering explanations for GLED in Australia and 
+Ethiopia. We combine a social determinant of health lens with Bourdieu's 
+concepts of capitals (economic, cultural, symbolic and social).
+RESULTS: we confirmed continuing GLED in all countries ranging from less than a 
+year to over 11 years. The Australian and Ethiopian cases demonstrated the 
+complex factors underpinning this difference, highlighting similarities and 
+differences in socioeconomic and cultural factors and how they are gendered 
+within and between the countries. Bourdieu's capitals enabled us to partially 
+explain GLED and to develop a conceptual model of causal pathways.
+CONCLUSION: we demonstrate the value of combing a SDH and Bourdieu's capital 
+lens to investigate GLED. We proposed a theoretical framework to guide future 
+research.
+
+DOI: 10.3390/ijerph18020661
+PMCID: PMC7829786
+PMID: 33466763 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest. 
+F.B. is an independent member of The Lancet Commission on Gender and Global 
+Health and Co-Chair of the Global Steering Council of the People’s Health 
+Movement.
+
+
+603. Antioxidants (Basel). 2021 Jan 14;10(1):113. doi: 10.3390/antiox10010113.
+
+Astaxanthin-, β-Carotene-, and Resveratrol-Rich Foods Support Resistance 
+Training-Induced Adaptation.
+
+Kawamura A(1)(2), Aoi W(1), Abe R(1)(3), Kobayashi Y(1), Kuwahata M(1), Higashi 
+A(1).
+
+Author information:
+(1)Division of Applied Life Sciences, Graduate School of Life and Environmental 
+Sciences, Kyoto Prefectural University, Kyoto 6068522, Japan.
+(2)Sports Science Research Promotion Center, Nippon Sport Science University, 
+Tokyo 1588508, Japan.
+(3)Department of Nutrition Management, Wakayama Medical University Hospital, 
+Wakayama 6418510, Japan.
+
+Resistance training adaptively increases the muscle strength associated with 
+protein anabolism. Previously, we showed that the combined intake of 
+astaxanthin, β-carotene, and resveratrol can accelerate protein anabolism in the 
+skeletal muscle of mice. The purpose of this study was to investigate the effect 
+of anabolic nutrient-rich foods on muscle adaptation induced by resistance 
+training. Twenty-six healthy men were divided into control and intervention 
+groups. All participants underwent a resistance training program twice a week 
+for 10 weeks. Astaxanthin-, β-carotene-, and resveratrol-rich foods were 
+provided to the intervention group. Body composition, nutrient intake, maximal 
+voluntary contraction of leg extension, oxygen consumption, and serum 
+carbonylated protein level were measured before and after training. The skeletal 
+muscle mass was higher after training than before training in both groups (p < 
+0.05). Maximal voluntary contraction was increased after training in the 
+intervention group (p < 0.05), but not significantly increased in the control 
+group. Resting oxygen consumption was higher after training in the intervention 
+group only (p < 0.05). As an oxidative stress marker, serum carbonylated protein 
+level tended to be lower immediately after exercise than before exercise in the 
+intervention group only (p = 0.056). Intake of astaxanthin-, β-carotene-, and 
+resveratrol-rich foods supported resistance training-induced strength and 
+metabolic adaptations.
+
+DOI: 10.3390/antiox10010113
+PMCID: PMC7830030
+PMID: 33466842
+
+Conflict of interest statement: The authors declare that no conflict of interest 
+are associated with this manuscript.
+
+
+604. Cells. 2021 Jan 16;10(1):174. doi: 10.3390/cells10010174.
+
+The Impact of HIV- and ART-Induced Mitochondrial Dysfunction in Cellular 
+Senescence and Aging.
+
+Schank M(1)(2), Zhao J(1)(2), Moorman JP(1)(2)(3), Yao ZQ(1)(2)(3).
+
+Author information:
+(1)Center of Excellence in Inflammation, Infectious Disease and Immunity, James 
+H. Quillen College of Medicine, East Tennessee State University, Johnson City, 
+TN 37614, USA.
+(2)Division of Infectious, Inflammatory and Immunologic Diseases, Department of 
+Internal Medicine, Quillen College of Medicine, East Tennessee State University, 
+Johnson City, TN 37614, USA.
+(3)Hepatitis (HCV/HBV/HIV) Program, James H. Quillen VA Medical Center, 
+Department of Veterans Affairs, Johnson City, TN 37614, USA.
+
+According to the WHO, 38 million individuals were living with human 
+immunodeficiency virus (HIV), 25.4 million of which were using antiretroviral 
+therapy (ART) at the end of 2019. Despite ART-mediated suppression of viral 
+replication, ART is not a cure and is associated with viral persistence, 
+residual inflammation, and metabolic disturbances. Indeed, due to the presence 
+of viral reservoirs, lifelong ART therapy is required to control viremia and 
+prevent disease progression into acquired immune deficiency syndrome (AIDS). 
+Successful ART treatment allows people living with HIV (PLHIV) to achieve a 
+similar life expectancy to uninfected individuals. However, recent studies have 
+illustrated the presence of increased comorbidities, such as accelerated, 
+premature immune aging, in ART-controlled PLHIV compared to uninfected 
+individuals. Studies suggest that both HIV-infection and ART-treatment lead to 
+mitochondrial dysfunction, ultimately resulting in cellular exhaustion, 
+senescence, and apoptosis. Since mitochondria are essential cellular organelles 
+for energy homeostasis and cellular metabolism, their compromise leads to 
+decreased oxidative phosphorylation (OXPHOS), ATP synthesis, gluconeogenesis, 
+and beta-oxidation, abnormal cell homeostasis, increased oxidative stress, 
+depolarization of the mitochondrial membrane potential, and upregulation of 
+mitochondrial DNA mutations and cellular apoptosis. The progressive 
+mitochondrial damage induced by HIV-infection and ART-treatment likely 
+contributes to accelerated aging, senescence, and cellular dysfunction in PLHIV. 
+This review discusses the connections between mitochondrial compromise and 
+cellular dysfunction associated with HIV- and ART-induced toxicities, providing 
+new insights into how HIV and current ART directly impact mitochondrial 
+functions and contribute to cellular senescence and aging in PLHIV. Identifying 
+this nexus and potential mechanisms may be beneficial in developing improved 
+therapeutics for treating PLHIV.
+
+DOI: 10.3390/cells10010174
+PMCID: PMC7830696
+PMID: 33467074 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+605. J Funct Morphol Kinesiol. 2020 Apr 25;5(2):27. doi: 10.3390/jfmk5020027.
+
+Physiological, Psychological and Performance-Related Changes Following Physique 
+Competition: A Case-Series.
+
+Longstrom JM(1), Colenso-Semple LM(1), Waddell BJ(1), Mastrofini G(1), Trexler 
+ET(1), Campbell BI(1).
+
+Author information:
+(1)Exercise Science Program, University of South Florida, Performance and 
+Physique Enhancement Laboratory, Tampa, FL 33620, USA.
+
+The purpose of this case-series was to evaluate the physiological, psychological 
+and performance-related changes that occur during the postcompetition period. 
+Participants included three male (34.3 ± 6.8 years, 181.6 ± 8.9 cm) and four 
+female (29.3 ± 4.9 years, 161.4 ± 6.0 cm) natural physique athletes. Body 
+composition (fat mass (FM) and fat-free mass (FFM); Skinfold), resting metabolic 
+rate (RMR; indirect calorimetry), total body water (TBW; bioelectrical impedance 
+analysis), sleep quality (PSQI; Pittsburgh Sleep Quality Index), quality of life 
+measures (RAND SF36), menstrual irregularities, and knee extension performance 
+were assessed 1-2 weeks prior to competition, and 4 weeks and 8-10 weeks 
+postcompetition. Blood hormones (free triiodothyronine; T3, free thyroxine; T4, 
+and leptin) were assessed at 1-2 weeks prior to competition and 8-10 weeks 
+postcompetition. Participants tracked daily macronutrient intake daily for the 
+duration of the study. Group-level data were analyzed using exploratory, 
+one-tailed, nonparametric statistical tests. Bodyweight, FM, bodyfat%, RMR, and 
+blood hormones (T3, T4, and leptin) increased significantly (p < 0.05) at the 
+group level. Relative (%Δ) increases in fat mass were associated with △RMR (τ = 
+0.90; p = 0.001) and △leptin (τ = 0.68; p = 0.02), and △leptin was associated 
+with △RMR (τ = 0.59; p = 0.03). The time course for recovery appears to vary 
+substantially between individuals potentially due to strategies implemented 
+postcompetition.
+
+DOI: 10.3390/jfmk5020027
+PMCID: PMC7739261
+PMID: 33467243
+
+Conflict of interest statement: J.M.L. and E.T.T. earn income as writers and 
+practitioners within the fitness industry. The other authors declare no 
+conflicts of interest.
+
+
+606. J Funct Morphol Kinesiol. 2019 Dec 2;4(4):72. doi: 10.3390/jfmk4040072.
+
+The Biomechanics of Pregnancy: A Systematic Review.
+
+Conder R(1), Zamani R(1), Akrami M(2).
+
+Author information:
+(1)Medical School, University of Exeter, Exeter EX1 2LU, UK.
+(2)Department of Engineering, College of Engineering, Mathematics, and Physical 
+Sciences University of Exeter, Exeter EX4 4QF, UK.
+
+During pregnancy, a number of biomechanical and hormonal changes occur that can 
+alter spinal curvature, balance, and gait patterns by affecting key areas of the 
+human body. This can greatly impact quality of life (QOL) by increasing back 
+pain and the risk of falls. These effects are likely to be the ultimate result 
+of a number of hormonal and biomechanical changes that occur during pregnancy. 
+Research Question and Methodology: Using the Preferred Reporting Items for 
+Systematic reviews and Meta-Analyses (PRISMA) guidelines, this systematic review 
+sets out to analyse all available literature relating to the biomechanics 
+factors caused by pregnancy and assess how this might reduce QOL. Fifty papers 
+were deemed eligible for inclusion in this review based on the PUBMED and SCOPUS 
+databases. Results: Angles of lordosis and kyphosis of the spine are 
+significantly increased by pregnancy, but not consistently across all studies. 
+Back pain is significantly increased in pregnant women, although this is not 
+significantly correlated with spinal changes. Increased movements of centre of 
+pressure (COP) and increased stability indexes indicate postural control is 
+reduced in pregnancy. Trunk range of motion, hip flexion, and extension are 
+reduced, as well as decreased stride length, decreased gait velocity, and 
+increased step width; again, not consistently. It is likely that each woman 
+adopts unique techniques to minimise the effects, for example increasing step 
+width to improve balance. Further research should focus on how altered limb 
+kinematics during gait might affect QOL by influencing the human body, as well 
+as assessing parameters in all planes to develop a wider understanding of 
+pregnant biomechanical alterations.
+
+DOI: 10.3390/jfmk4040072
+PMCID: PMC7739277
+PMID: 33467386
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+607. Psychol Rep. 2022 Apr;125(2):1041-1067. doi: 10.1177/0033294121988997. Epub
+2021  Jan 19.
+
+Will Life Extension Affect Our Social Judgments? Evidence That the Possibility 
+of Indefinite Life Extension Increases Harshness Toward Social Transgressors.
+
+Helm PJ(1), Lifshin U(2), Greenberg J(3), Pyszczynski T(4).
+
+Author information:
+(1)Department of Psychological Sciences, University of Missouri, Columbia, USA.
+(2)Department of Psychology, Interdisciplinary Center, Herzliya, Israel.
+(3)Department of Psychology, University of Arizona, Tucson, USA.
+(4)Department of Psychology, University of Colorado, Colorado Springs, USA.
+
+We tested the hypothesis that if indefinite life extension (ILE) through medical 
+technologies were to become a reality, then people may become harsher in their 
+judgment of social transgressors. In support of this hypothesis, we found that 
+higher positive attitudes towards ILE technologies related to harshness in 
+judgment of social transgressions (Study 1), and that making ILE plausible 
+(compared to not plausible) led participants to endorse harsher punishments for 
+social transgressors (Studies 2-3). We replicated this effect and found that it 
+is not amplified by subliminal death primes, although the primes also increased 
+harshness (Study 3). These results may have implications to understanding how 
+social judgment may be affected by the prospect of ILE.
+
+DOI: 10.1177/0033294121988997
+PMID: 33467977 [Indexed for MEDLINE]
+
+
+608. J Epidemiol Community Health. 2021 Aug;75(8):735-740. doi: 
+10.1136/jech-2020-215505. Epub 2021 Jan 19.
+
+Estimating the burden of the COVID-19 pandemic on mortality, life expectancy and 
+lifespan inequality in England and Wales: a population-level analysis.
+
+Aburto JM(1)(2), Kashyap R(1), Schöley J(2), Angus C(3), Ermisch J(4), Mills 
+MC(4), Dowd JB(4).
+
+Author information:
+(1)Leverhulme Centre for Demographic Science, Department of Sociology and 
+Nuffield College, University of Oxford, Oxford, UK 
+jose-manuel.aburto@sociology.ox.ac.uk ridhi.kashyap@nuffield.ox.ac.uk.
+(2)Interdisciplinary Centre on Population Dynamics, University of Southern 
+Denmark, Odense, Denmark.
+(3)ScHARR, University of Sheffield, Sheffield, UK.
+(4)Leverhulme Centre for Demographic Science, Department of Sociology and 
+Nuffield College, University of Oxford, Oxford, UK.
+
+BACKGROUND: Deaths directly linked to COVID-19 infection may be misclassified, 
+and the pandemic may have indirectly affected other causes of death. To overcome 
+these measurement challenges, we estimate the impact of the COVID-19 pandemic on 
+mortality, life expectancy and lifespan inequality from week 10 of 2020, when 
+the first COVID-19 death was registered, to week 47 ending 20 November 2020 in 
+England and Wales through an analysis of excess mortality.
+METHODS: We estimated age and sex-specific excess mortality risk and deaths 
+above a baseline adjusted for seasonality with a systematic comparison of four 
+different models using data from the Office for National Statistics. We 
+additionally provide estimates of life expectancy at birth and lifespan 
+inequality defined as the SD in age at death.
+RESULTS: There have been 57 419 (95% prediction interval: 54 197, 60 752) excess 
+deaths in the first 47 weeks of 2020, 55% of which occurred in men. Excess 
+deaths increased sharply with age and men experienced elevated risks of death in 
+all age groups. Life expectancy at birth dropped 0.9 and 1.2 years for women and 
+men relative to the 2019 levels, respectively. Lifespan inequality also fell 
+over the same period by 5 months for both sexes.
+CONCLUSION: Quantifying excess deaths and their impact on life expectancy at 
+birth provide a more comprehensive picture of the burden of COVID-19 on 
+mortality. Whether mortality will return to-or even fall below-the baseline 
+level remains to be seen as the pandemic continues to unfold and diverse 
+interventions are put in place.
+
+© Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY. Published 
+by BMJ.
+
+DOI: 10.1136/jech-2020-215505
+PMCID: PMC7818788
+PMID: 33468602 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+609. Clin Interv Aging. 2021 Jan 11;16:83-96. doi: 10.2147/CIA.S283177.
+eCollection  2021.
+
+Changes in Menopausal Risk Factors in Early Postmenopausal Osteopenic Women 
+After 13 Months of High-Intensity Exercise: The Randomized Controlled 
+ACTLIFE-RCT.
+
+Hettchen M(1), von Stengel S(1), Kohl M(2), Murphy MH(3), Shojaa M(1), 
+Ghasemikaram M(1), Bragonzoni L(4), Benvenuti F(4), Ripamonti C(5), Benedetti 
+MG(6), Julin M(7), Risto T(7), Kemmler W(1).
+
+Author information:
+(1)Institute of Medical Physics, Friedrich-Alexander University 
+Erlangen-Nürnberg, Erlangen, Germany.
+(2)Department of Medical and Life Sciences, University of Furtwangen, 
+Schwenningen, Germany.
+(3)Doctoral College, Ulster University, Newtownabbey, Antrim, Northern Ireland, 
+UK.
+(4)University of Bologna, Campus Rimini, Rimini, Italy.
+(5)Center for Osteoporosis and Bone Metabolic Disease, Rizzoli Orthopaedic 
+Institute, Bologna, Italy.
+(6)Physical Medicine and Rehabilitation Unit, IRCCS - Rizzoli Orthopaedic 
+Institute, Bologna, Italy.
+(7)Laurea University of Applied Sciences, Espoo, Finland.
+
+The menopausal transition is a critical period in women's lives. Exercise might 
+be the most promising non-pharmaceutic intervention to address the large variety 
+of risk factors related to the pronounced estradiol decline during peri- and 
+early-postmenopause. The aim of this study was to determine the effect of an 
+18-month multipurpose exercise program on risk factors and symptoms related to 
+the menopausal transition. Fifty-four women 1-5 years postmenopause with 
+osteopenia or osteoporosis were randomly assigned 1) to a high impact 
+weight-bearing/high-intensity/velocity resistance training group (EG: n=27) 
+exercising three times a week or 2) to an attendance control group (CG: n=27) 
+that performed low-intensity exercise once a week. Both groups were supplemented 
+with cholecalciferol and calcium. The primary study endpoint was bone mineral 
+density (BMD) at lumbar spine (LS) and total hip, secondary outcomes were lean 
+body mass (LBM), total and abdominal body percentage, metabolic syndrome Z-Score 
+(MetS-Z), menopausal symptoms and muscle strength and power. Due to COVID-19, 
+the study was stopped after 13 months. We observed significant effects for 
+BMD-LS (EG: 0.002±.018 versus CG: -.009±0.018 mg/cm2, p=0.027) but not for BMD 
+total hip (EG: -0.01±.016 versus CG: -.009±0.020 mg/cm2, p=0.129). LBM improved 
+significantly in the EG and decreased in the CG (0.39±1.08 vs -0.37±1.34 kg, 
+p=0.026). Total and abdominal body fat improved significantly in the EG and was 
+maintained in the CG (-1.44±1.49 vs -0.02±1.55 kg, p=0.002 and -1.50±2.33 vs 
+0.08±2.07 kg, p=0.011). Significant effects in favor of the EG were also 
+determined for menopausal symptoms (p=0.029), hip/leg extension strength 
+(p<0.001) and power (p<0.001). However, changes of the MetS-Z did not differ 
+significantly (p=0.149) between EG and CG. In summary, with minor exceptions, we 
+demonstrated the effectiveness of a multipurpose exercise protocol dedicated to 
+early-postmenopausal women on various risk factors and complaints related to the 
+menopausal transition.
+
+© 2021 Hettchen et al.
+
+DOI: 10.2147/CIA.S283177
+PMCID: PMC7810823
+PMID: 33469276 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflicts of interest in 
+this work.
+
+
+610. Bioimpacts. 2021;11(1):5-14. doi: 10.34172/bi.2021.02. Epub 2019 Dec 20.
+
+Impact of RAS/RAF mutations on clinical and prognostic outcomes in metastatic 
+colorectal cancer.
+
+Dolatkhah R(1), Dastgiri S(2), Eftekhar Sadat AT(3), Farassati F(4), Nezamdoust 
+M(5), Somi MH(3).
+
+Author information:
+(1)Hematology and Oncology Research Center, Tabriz University of Medical 
+Sciences, Tabriz, Iran.
+(2)Tabriz Health Services Management Research Center, Tabriz University of 
+Medical Sciences, Tabriz, Iran.
+(3)Liver and Gastrointestinal Diseases Research Center, Tabriz University of 
+Medical Sciences, Tabriz, Iran.
+(4)Midwest Biomedical Research Foundation, Kansas City, MO, USA.
+(5)Tabriz University of Medical Sciences, Tabriz, Iran.
+
+Introduction: Early-activated RAS/RAF mutation status is a key molecular finding 
+in colorectal cancer (CRC), while these mutations have been proposed as 
+predictive and prognostic biomarkers. The present study has been designed as a 
+longitudinal study to evaluate and summarize the different genotypes of 
+metastatic CRC (mCRC), and assessing any association with the disease prognosis 
+and clinicopathological characteristics. This study was performed in two main 
+referral hospitals of Tabriz University of Medical Sciences, over three years 
+(2016-2018). Methods: Mutations were detected by Idylla tests of KRAS/NRAS/BRAF 
+among a total of 173 mCRCs, using surgically-resected specimens or biopsied 
+samples. To evaluate the factors associated with overall survival (OS) and 
+prognosis, the Cox proportional hazards model was used in two steps to estimate 
+the outcome measures (hazard ratio, or HR) with a 95% confidence interval (CI). 
+Results: The nominal 1 to 5-year OS rates were 78%, 65%, 55%, 46%, and 42%, 
+respectively. KRAS mutations in codon 12 was an independent significant 
+prognostic factor, as the patients with codon 12 mutations had a significantly 
+lower OS (P Log-rank=0.049) and a higher hazard of mortality (HR=2.30; 95% CI: 
+0.95-5.58; P =0.066). Also, the mCRC patients with liver metastasis (HR=2.49; 
+95% CI: 1.49-12.52; P =0.002) and tumors of the distal colon (HR=3.36; 95% CI: 
+1.07-10.49; P =0.037) had a significantly worse prognosis. Conclusion: KRAS 
+mutation in codon 12 was an independent significant poor prognostic factor, and 
+patients with liver metastasis had a significantly worse prognosis. Routinely 
+performing specific oncogenic tests may help improve the patients' prognosis and 
+life expectancy.
+
+© 2021 The Author(s).
+
+DOI: 10.34172/bi.2021.02
+PMCID: PMC7803924
+PMID: 33469503
+

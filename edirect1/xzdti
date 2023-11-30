@@ -1,0 +1,1000 @@
+
+Comparison of standard prophylactic, intermediate prophylactic and therapeutic 
+anticoagulation in patients with severe COVID-19: protocol for the ANTICOVID 
+multicentre, parallel-group, open-label, randomised controlled trial.
+
+Labbe V(1)(2), Contou D(3), Heming N(4)(5), Megarbane B(6), Ait-Oufella H(7), 
+Boissier F(8), Carreira S(9), Robert A(10)(11), Vivier E(12), Fejjal M(13), 
+Doyen D(14)(15), Monchi M(16), Preau S(17), Noel-Savina E(18), Souweine B(19), 
+Zucman N(20)(21), Picos SA(22), Dres M(23), Juguet W(24), Mariotte E(25), Timsit 
+JF(26), Turpin M(27), Razazi K(2)(28), Gendreau S(2)(28), Baloul S(29), Voiriot 
+G(27)(2), Fartoukh M(27)(2), Audureau E(29), Mekontso Dessap A(2)(28).
+
+Author information:
+(1)Service de Médecine Intensive Réanimation, Hôpital Tenon, Département 
+Médico-Universitaire APPROCHES, Assistance Publique-Hôpitaux de Paris (APHP), 
+Sorbonne Université, Paris, France vincent.labbe@aphp.fr.
+(2)Université Paris Est, Groupe de Recherche Clinique GR05 CARMAS, Institut 
+Mondor de recherche biomédicale, INSERM, Créteil, France.
+(3)Service de Réanimation Polyvalente, Centre Hospitalier Victor Dupouy, 
+Argenteuil, France.
+(4)Department of Intensive Care, Hôpital Raymond Poincaré, Assistance Publique - 
+Hopitaux de Paris, University Versailles Saint Quentin - University Paris 
+Saclay, Garches, France.
+(5)Laboratory of Infection & Inflammation - U1173, School of Medicine Simone 
+Veil, University Versailles Saint Quentin - University Paris Saclay, INSERM, 
+Garches, France.
+(6)Service de Réanimation Médicale et Toxicologique, Hôpital Lariboisière, 
+Assistance Publique-Hôpitaux de Paris, INSERM UMRS-1144, Université de Paris, 
+Paris, France.
+(7)Service de Médecine Intensive Réanimation, Hôpital Saint Antoine, Assistance 
+Publique-Hôpitaux de Paris, Sorbonne Université, Paris, France.
+(8)Service de Médecine Intensive Réanimation, Centre Hospitalo-Universitaire de 
+Poitiers, INSERM CIC 1402 (ALIVE group), Université de Poitiers, Poitiers, 
+France.
+(9)Service d'Anesthésie-Réanimation polyvalente, Hôpital Saint Camille, 
+Bry-sur-Marne, France.
+(10)Service de Médecine Intensive Réanimation, Hôpital Simone Veil, Centre 
+Hospitalier de Cannes, Cannes, France.
+(11)Unité INSERM 1065, Laboratoire C3M, Université Côte d'Azur, Nice, France.
+(12)Service de Réanimation Polyvalente, Centre Hospitalier Saint Joseph-Saint 
+Luc, Lyon, France.
+(13)Service de Médecine Intensive Réanimation, Centre Hospitalier Léon Binet, 
+Provins, France.
+(14)Service de Médecine Intensive Réanimation, Hôpital l'Archet 1, Centre 
+Hospitalier Universitaire de Nice, Nice, France.
+(15)UR2CA Unité de Recherche Clinique Côte d'Azur, Université Côte d'Azur, Nice, 
+France.
+(16)Département de Médecine intensive, Groupe Hospitalier Sud Ile de France, 
+Melun, France.
+(17)Service de Réanimation, INSERM, Institut Pasteur de Lille, U1167, Université 
+de Lille, Centre Hospitalo-Universitaire Lille, Lille, France.
+(18)Service de Pneumologie et de soins intensifs Respiratoires, Hôpital Larrey, 
+Toulouse, France.
+(19)Service de Médecine Intensive Réanimation, Centre Hospitalo-Universitaire 
+Gabriel-Montpied, Clermont-Ferrand, France.
+(20)Service de Médecine Intensive Réanimation, Hôpital Louis-Mourier, DMU 
+ESPRIT, Assistance Publique-Hôpitaux de Paris, Colombes, France.
+(21)Université de Paris, UFR de médecine Paris Nord, Paris, France.
+(22)Service de Médecine Intensive Réanimation, Centre Hospitalier La Dracenie De 
+Draguignan, Draguignan, France.
+(23)Service de Médecine intensive Réanimation, Hôpital Pitie Salpêtrière, 
+Assistance Publique-Hôpitaux de Paris, Sorbonne Université, Paris, France.
+(24)Service de Réanimation Médico-Chirurgicale, Hôpital Avicenne, Assistance 
+Publique-Hôpitaux de Paris, Université Sorbonne Paris Nord, Bobigny, France.
+(25)Service de Médecine Intensive Réanimation, Hôpital Saint-Louis, Assistance 
+Publique-Hôpitaux de Paris, Paris, France.
+(26)Medical and infectious diseases ICU (MI2), Bichat Hospital, Assistance 
+Publique-Hôpitaux de Paris, University of Paris, IAME, INSERM U1137, Paris, 
+France.
+(27)Service de Médecine Intensive Réanimation, Hôpital Tenon, Département 
+Médico-Universitaire APPROCHES, Assistance Publique-Hôpitaux de Paris (APHP), 
+Sorbonne Université, Paris, France.
+(28)Service de Médecine Intensive Réanimation, Hôpitaux Universitaires Henri 
+Mondor-Albert Chenevier, Département Médico-Universitaire Médecine, Assistance 
+Publique-Hôpitaux de Paris, Créteil, France.
+(29)Unité de Recherche Clinique Henri Mondor, Hôpitaux Universitaires Henri 
+Mondor-Albert Chenevier, Assistance Publique-Hôpitaux de Paris, Créteil, France.
+
+INTRODUCTION: COVID-19 induces venous, arterial and microvascular thrombosis, 
+involving several pathophysiological processes. In patients with severe COVID-19 
+without macrovascular thrombosis, escalating into high-dose prophylactic 
+anticoagulation (HD-PA) or therapeutic anticoagulation (TA) could be beneficial 
+in limiting the extension of microvascular thrombosis and forestalling the 
+evolution of lung and multiorgan microcirculatory dysfunction. In the absence of 
+data from randomised trials, clinical practice varies widely.
+METHODS AND ANALYSIS: This is a French multicentre, parallel-group, open-label, 
+randomised controlled superiority trial to compare the efficacy and safety of 
+three anticoagulation strategies in patients with COVID-19. Patients with 
+oxygen-treated COVID-19 showing no pulmonary artery thrombosis on computed 
+tomography with pulmonary angiogram will be randomised to receive either 
+low-dose PA, HD-PA or TA for 14 days. Patients attaining the extremes of weight 
+and those with severe renal failure will not be included. We will recruit 353 
+patients. Patients will be randomised on a 1:1:1 basis, and stratified by 
+centre, use of invasive mechanical ventilation, D-dimer levels and body mass 
+index. The primary endpoint is a hierarchical criterion at day 28 including 
+all-cause mortality, followed by the time to clinical improvement defined as the 
+time from randomisation to an improvement of at least two points on the ordinal 
+clinical scale. Secondary outcomes include thrombotic and major bleeding events 
+at day 28, individual components of the primary endpoint, number of oxygen-free, 
+ventilator-free and vasopressor-free days at day 28, D-dimer and sepsis-induced 
+coagulopathy score at day 7, intensive care unit and hospital stay at day 28 and 
+day 90, and all-cause death and quality of life at day 90.
+ETHICS AND DISSEMINATION: The study has been approved by an ethical committee 
+(Ethics Committee, Ile de France VII, Paris, France; reference 2020-A03531-38). 
+Patients will be included after obtaining their signed informed consent. The 
+results will be submitted for publication in peer-reviewed journals.
+TRIAL REGISTRATION NUMBER: NCT04808882.
+
+© Author(s) (or their employer(s)) 2022. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2021-059383
+PMCID: PMC9044512
+PMID: 35473740 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: AMD reports lectures for 
+Leo Pharma. EA reports personal fees from GBT, personal fees from Hemanext, both 
+unrelated to the present study. GV received research grant from Bio-Mérieux, SOS 
+Oxygène, Janssen, all unrelated to the present study; and advisory board fees 
+from BioMérieux that are unrelated to the present study. VL receives advisory 
+board fees from Amomed, unrelated to the present study.
+
+
+40. BMJ. 2022 Apr 26;377:o1056. doi: 10.1136/bmj.o1056.
+
+Life expectancy: Parts of England and Wales see "shocking" fall.
+
+Wise J(1).
+
+Author information:
+(1)Kent.
+
+DOI: 10.1136/bmj.o1056
+PMID: 35474172 [Indexed for MEDLINE]
+
+
+41. Health Expect. 2022 Aug;25(4):1498-1507. doi: 10.1111/hex.13490. Epub 2022
+Apr  26.
+
+'I Don't Like Uncertainty, I Like to Know': How and why uveal melanoma patients 
+consent to life expectancy prognostication.
+
+Brown SL(1), Fisher PL(2), Morgan A(2), Davies C(2), Olabi Y(2), Hope-Stone 
+L(1)(2)(3), Heimann H(2)(3), Hussain R(2)(3), Cherry MG(1).
+
+Author information:
+(1)School of Psychology, University of Plymouth, Plymouth, UK.
+(2)Department of Psychological Sciences, University of Liverpool, Liverpool, UK.
+(3)Liverpool Ocular Oncology Centre, Liverpool University Hospitals NHS 
+Foundation Trust, Liverpool, UK.
+
+BACKGROUND: Technological advances have led to cancer prognostication that is 
+increasingly accurate but often unalterable. However, a reliable prognosis of 
+limited life expectancy can cause psychological distress. People should 
+carefully consider offers of prognostication, but little is known about how and 
+why they decide on prognostication. Using uveal melanoma (UM) patients, we aimed 
+to identify (i) how and why do people with UM decide to accept prognostication 
+and (ii) alignment and divergence of their decision-making from 
+conceptualizations of a 'well-considered' decision.
+METHODS: UM provides a paradigm to elucidate clinical and ethical perspectives 
+on prognostication, because prognostication is reliable but prognoses are 
+largely nonameliorable. We used qualitative methods to examine how and why 20 UM 
+people with UM chose prognostication. We compared findings to a template of 
+'well-considered' decision-making, where 'well-considered' decisions involve 
+consideration of all likely outcomes.
+RESULTS: Participants wanted prognostication to reduce future worry about 
+uncertain life expectancy. They spontaneously spoke of hoping for a good 
+prognosis when making their decisions, but largely did not consider the 50% 
+possibility of a poor prognosis. When pressed, they argued that a poor outcome 
+at least brings certainty.
+CONCLUSIONS: While respecting decisions as valid expressions of participants' 
+wishes, we are concerned that they did not explicitly consider the realistic 
+possibility of a poor outcome and how this would affect them. Thus, it is 
+difficult to see their decisions as 'well-considered'. We propose that 
+nondirective preference exploration techniques could help people to consider the 
+possibility of a poor outcome.
+PATIENT OR PUBLIC CONTRIBUTION: This paper is a direct response to a 
+patient-identified and defined problem that arose in therapeutic and 
+conversational discourse. The research was informed by the responses of patient 
+participants, as we used the material from interviews to dynamically shape the 
+interview guide. Thus, participants' ideas drove the analysis and shaped the 
+interviews to come.
+
+© 2022 The Authors. Health Expectations published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/hex.13490
+PMCID: PMC9327814
+PMID: 35474381 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+42. ACS Omega. 2022 Apr 9;7(15):12922-12936. doi: 10.1021/acsomega.2c00227. 
+eCollection 2022 Apr 19.
+
+Study on Pore Structure and Fractal Characterization during Thermal Evolution of 
+Oil Shale Experiments.
+
+Liu G(1)(2), Liu R(1)(2)(3), Du J(4), Zhang K(1)(2), Yu J(1)(2), Liu Q(1)(2), He 
+X(1)(2).
+
+Author information:
+(1)College of Earth Sciences, Jilin University, 130061 Changchun, China.
+(2)Key Laboratory of Oil Shale and Coexistent Energy Minerals of Jilin Province, 
+130061 Changchun, China.
+(3)Ministry of Education, Key Laboratory for Evolution of Past Life and 
+Environment in Northeast Asia (Jilin University), 130026 Changchun, China.
+(4)CNOOC Research Institute Co., Ltd., 100028 Beijing, China.
+
+In order to better study the characteristics of the pore structure and to 
+explore the influence factors of its fractal dimensions during the thermal 
+evolution of oil shale, the immature oil shale (T max = 433 °C, TOC = 28.00%) of 
+the Ordos Basin Extension Group was selected to simulate the whole thermal 
+evolution process from immature to over mature in a semiopen system. Organic 
+geochemical data show that the thermal simulation hydrocarbon generation 
+threshold is between 300 and 400 °C. According to AIP-SEM observation, the pore 
+types of the samples are different in different thermal simulation stages. The 
+fractal dimensions are calculated by low-temperature N2 adsorption data using 
+the fractal Frenkel-Halsey-Hill fractal model. The average surface fractal 
+dimension (D 1) is 2.26, indicating that the pore (<4 nm) surface is relatively 
+smooth. The average pore structure fractal dimension (D 2) is 2.49, indicating 
+that the pore (>4 nm) structure is complex. Through the exploration of the 
+relationship between fractal dimensions and organic geochemistry, whole rock 
+X-ray diffraction, and N2 adsorption data, it is found that fractal dimensions 
+have different degrees of correlation with thermal maturity, mineral 
+composition, TOC content, and pore parameters. Through comprehensive research, 
+it shows that hydrocarbon generation and expulsion, oil and gas cracking, and 
+organic matter carbonization have important effects on the pore structure and 
+fractal characteristics of oil shale.
+
+© 2022 American Chemical Society.
+
+DOI: 10.1021/acsomega.2c00227
+PMCID: PMC9026140
+PMID: 35474800
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.
+
+
+43. Acta Med Litu. 2021;28(2):330-343. doi: 10.15388/Amed.2021.28.2.1. Epub 2021
+Jul  29.
+
+Paraneoplastic Phenomena of Disseminated Intravascular Coagulopathy in Hepatic 
+Angiosarcoma - Rare, Challenging and Fatal. Case Report and Literature Review.
+
+Strainienė S(1), Jauniškis K(2), Savlan I(3), Pamedys J(4), Stundienė I(5), 
+Liakina V(6), Valantinas J(7).
+
+Author information:
+(1)Clinic of Gastroenterology, Nephrourology and Surgery, Centre of Hepatology, 
+Gastroenterology and Dietetics, Institute of Clinical Medicine, Vilnius 
+University, Lithuania https://orcid.org/0000-0003-1884-1353.
+(2)Vilnius University, Faculty of Medicine, Vilnius, Lithuania 
+https://orcid.org/0000-0002-4318-4431.
+(3)Clinic of Gastroenterology, Nephrourology and Surgery, Centre of Hepatology, 
+Gastroenterology and Dietetics, Institute of Clinical Medicine, Vilnius 
+University, Lithuania https://orcid.org/0000-0002-3689-5040.
+(4)National Centre of Pathology, Affiliate of Vilnius University Hospital 
+Santaros Clinics, Vilnius, Lithuania https://orcid.org/000-0001-5263-9891.
+(5)Clinic of Gastroenterology, Nephrourology and Surgery, Centre of Hepatology, 
+Gastroenterology and Dietetics, Institute of Clinical Medicine, Vilnius 
+University, Vilnius, Lithuania https://orcid.org/0000-0002-2569-3638.
+(6)Clinic of Gastroenterology, Nephrourology and Surgery, Centre of Hepatology, 
+Gastroenterology and Dietetics, Institute of Clinical Medicine, Vilnius 
+University, Vilnius, Lithuania Department of Chemistry and Bioengineering, 
+Faculty of Fundamental Science, Vilnius Gediminas Technical University, Vilnius, 
+Lithuania https://orcid.org/0000-0001-8685-1292.
+(7)Clinic of Gastroenterology, Nephrourology and Surgery, Centre of Hepatology, 
+Gastroenterology and Dietetics, Institute of Clinical Medicine, Vilnius 
+University, Vilnius, Lithuania https://orcid.org/0000-0003-4534-2293.
+
+BACKGROUND: Hepatic angiosarcoma is an uncommon, malignant, primary liver tumor, 
+comprising 2% of liver cancers and accounting for < 1% of all sarcomas. Patients 
+usually present with nonspecific symptoms, such as fatigue, weight loss, right 
+upper quadrant pain, anemia, which leads to late diagnosis of an advanced stage 
+tumor. The median life expectancy after the diagnosis of hepatic angiosarcoma is 
+about 6 months, with only 3% of patients surviving more than 2 years. Liver 
+failure and hemoperitoneum are the leading causes of death in patients with 
+liver angiosarcoma. In rarer cases, it might cause paraneoplastic syndromes such 
+as disseminated intravascular coagulopathy. The treatment of angiosarcomas is 
+complicated as there are no established and effective treatment guidelines due 
+to the tumor's low frequency and aggressive nature.
+CASE SUMMARY: We present the case of a 68-year old woman who was admitted to the 
+hospital due to fatigue and severe anemia (hemoglobin 65 g/l). Laboratory 
+results also revealed high-grade thrombocytopenia (8 × 109/l). The abdominal 
+ultrasound and computed tomography scan showed multiple lesions throughout the 
+liver, spleen and kidneys. After the histological examination of the liver 
+biopsy, the patient was diagnosed with hepatic angiosarcoma. The treatment with 
+first-line chemotherapy (doxorubicin) was initiated despite ongoing 
+paraneoplastic syndrome - disseminative intravascular coagulopathy. However, the 
+disease was terminal, and the patient died 2 months since diagnosed.
+CONCLUSIONS: Hepatic angiosarcoma is a rare and terminal tumor. Therefore, 
+knowledge about its manifestations and effective treatment methods is lacking. 
+Disseminative intravascular coagulopathy is a unique clinical characteristic of 
+angiosarcoma seen in a subset of patients.
+
+Publisher: Santrauka. Apžvalga. Kepenų angiosarkoma yra retas piktybinis 
+pirminis kepenų navikas, sudaro apie 2 proc. visų kepenų vėžio ir < 1 proc. visų 
+sarkomų atvejų. Liga dažniausiai pasireiškia nespecifiniais simptomais – 
+nuovargiu, svorio kritimu, dešiniojo viršutinio pilvo kvadranto skausmu, 
+anemija. Dėl to kepenų angiosarkoma dažnai diagnozuojama jau pažengusios 
+stadijos. Vidutinė gyvenimo trukmė diagnozavus HA – apie 6 mėnesius ir tik 3 
+proc. pacientų išgyvena ilgiau nei dvejus metus. Kepenų nepakankamumas ir 
+hemoperitoeumas yra pagrindinės kepenų angiosarkoma sergančių pacientų mirties 
+priežastys. Retesniais atvejais liga gali sukelti paraneoplastinius sindromus, 
+pavyzdžiui, diseminę intravaskulinę koaguliaciją. Kepenų angiosarkomos gydymas 
+yra sudėtingas, nes dėl reto pasireiškimo ir agresyvaus naviko pobūdžio nėra 
+nustatyta bendrų ir efektyvių gydymo gairių. Klinikinis atvejis. 68 metų moteris 
+hospitalizuota dėl progresuojančio nuovargio ir sunkios anemijos (hemoglobinas 
+65 g/l). Atlikus laboratorinius tyrimus nustatyta didelio laipsnio 
+trombocitopenija (8 × 109/l). Pilvo ultragarsinis tyrimas ir kompiuterinė 
+tomografija parodė daugybinius židininius pakitimus kepenyse, blužnyje ir 
+inkstuose. Atlikus histologinį kepenų biopsijos tyrimą, pacientei diagnozuota 
+kepenų angiosarkoma. Gydymo eigoje išsivystė paraneoplastinis diseminės 
+intravaskulinės koaguliacijos sindromas. Nepaisant to, pradėtas gydymas 
+pirmosios eilės chemoterapija (doksorubicinu). Deja, liga buvo labai sunki ir 
+pacientė mirė praėjus 2 mėnesiams nuo diagnozės nustatymo. Išvados. Kepenų 
+angiosarkoma yra retas ir mirtinas navikas. Vis dar trūksta žinių apie ligos 
+reiškimąsi ir veiksmingus gydymo metodus. Diseminė intravaskulinė koaguliacija 
+yra unikalus klinikinis angiosarkomos požymis, pasireiškiantis daliai 
+pacientų.Raktažodžiai: kepenų angiosarkoma, paraneoplastinis sindromas, diseminė 
+intravaskulinė koaguliacija, atvejo aprašymas, literatūros apžvalga.
+
+Copyright © 2021 Sandra Strainienė, Kipras Jaunškis, Ilona Savlan, Justinas 
+Pamedys, Ieva Stundienė, Valentina Liakina, Jonas Valantinas.
+
+DOI: 10.15388/Amed.2021.28.2.1
+PMCID: PMC8958659
+PMID: 35474934
+
+
+44. Cureus. 2022 Mar 21;14(3):e23365. doi: 10.7759/cureus.23365. eCollection 2022
+ Mar.
+
+Pulmonary Manifestations in Von Recklinghausen's Disease: A Rare Presentation.
+
+Leggett LR(1), Alexis F(2), Agarwal N(2), Bakhtin Z(2), Farabi B(2).
+
+Author information:
+(1)Medicine, St. Peter's University Hospital, New Brunswick, USA.
+(2)Internal Medicine, St. Peter's University Hospital, New Brunswick, USA.
+
+Neurofibromatosis type 1 is a genetic disease that leads to a specific 
+collection of symptoms. Most patients over time develop cutaneous 
+manifestations, which include neurofibromas, freckling, or even cafe-au-lait 
+spots. In general, patients with NF1 have a shorter life expectancy than 
+non-affected individuals. This report aims to present our patient with NF1 and 
+one of its rare manifestations, neurofibromatosis with diffuse lung disease. 
+Hopefully, by describing this case and our patient's condition, it will serve as 
+a resource to those treating similar patients.
+
+Copyright © 2022, Leggett et al.
+
+DOI: 10.7759/cureus.23365
+PMCID: PMC9020589
+PMID: 35475080
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+45. J Med Econ. 2022 Jan-Dec;25(1):618-629. doi: 10.1080/13696998.2022.2071066.
+
+Cost-effectiveness analysis of sintilimab + chemotherapy versus 
+camrelizumab + chemotherapy for the treatment of first-line locally advanced or 
+metastatic nonsquamous NSCLC in China.
+
+Rui M(1)(2), Fei Z(1)(2), Wang Y(1)(2), Zhang X(1)(2), Ma A(1)(2), Sun H(3), Li 
+H(1)(2).
+
+Author information:
+(1)School of International Pharmaceutical Business, China Pharmaceutical 
+University, Nanjing, Jiangsu, People's Republic of China.
+(2)Center for Pharmacoeconomics and Outcomes Research, China Pharmaceutical 
+University, Nanjing, Jiangsu, People's Republic of China.
+(3)Innovent Biologics (Suzhou) Co., Ltd, Suzhou, Jiangsu, People's Republic of 
+China.
+
+BACKGROUND AND OBJECTIVE: Sintilimab is a selective PD-1 inhibitor with efficacy 
+in advanced or metastatic nonsquamous non-small-cell lung cancer (NSCLC) 
+patients. This study evaluated the cost-effectiveness of 
+sintilimab + chemotherapy versus camrelizumab + chemotherapy as the first-line 
+treatment for locally advanced or metastatic nonsquamous NSCLC in Chinese 
+patients. In addition, this study aimed to reveal the impact of the reference 
+treatment choice on the incremental cost-effectiveness ratio (ICER) results.
+METHODS: A partitioned survival model (PSM) with three health states was 
+constructed in a 3-week cycle with a lifetime horizon from the Chinese 
+healthcare system perspective. Anchored matching adjusted indirect comparison 
+was used for survival analyses based on individual patient data from Orient-11. 
+Sintilimab + chemotherapy was chosen as the reference treatments in scenarios 1 
+and 2, while the camrelizumab + chemotherapy was chosen as the reference 
+treatments in scenario 3. The utility values of different health states were 
+derived from the patient-level European Organization for Research and Treatment 
+Quality of Life Questionnaire-Core 30 (EORTC QLQ-C30) scores by mapping to the 
+EQ-5D-5L, and QALYs were calculated as the health outcomes. One-way 
+deterministic sensitivity analysis (DSA) and probability sensitivity analysis 
+(PSA) were performed to explore model uncertainty.
+RESULTS: Compared to camrelizumab + chemotherapy, sintilimab + chemotherapy was 
+associated with higher effectiveness (incremental QALYs ranged from 0.13-0.62) 
+and lower total costs (incremental costs ranged from $1,099-$5,201), resulting 
+in an ICER ranging from $6,440-$8,454/QALY.
+CONCLUSIONS: Sintilimab + chemotherapy is a cost-effective option compared with 
+camrelizumab + chemotherapy as the first-line treatment for locally advanced or 
+metastatic nonsquamous NSCLC in China.
+
+DOI: 10.1080/13696998.2022.2071066
+PMID: 35475459 [Indexed for MEDLINE]
+
+
+46. Cancer Med. 2022 Nov;11(22):4310-4320. doi: 10.1002/cam4.4783. Epub 2022 Apr
+27.
+
+The global, regional, national burden of nasopharyngeal cancer and its 
+attributable risk factors (1990-2019) and predictions to 2035.
+
+Song Y(1), Cheng W(2)(3), Li H(1), Liu X(4).
+
+Author information:
+(1)Department of Otolaryngology-Head Neck Surgery, The Third Xiangya Hospital of 
+Central South University, Changsha, China.
+(2)The Third Xiangya Hospital of Central South University, Changsha, China.
+(3)Xiangya School of Public Health, Central South University, Changsha, China.
+(4)Graduate School of Guilin Medical University, Guilin, China.
+
+We aim to report the latest incidence, mortality, and disability-adjusted 
+life-years (DALYs) between 1990 and 2019, by age, sex, sociodemographic index 
+(SDI), and provide predictions to 2035. We use estimates from Global Burden of 
+Disease, Injuries, and Risk Factors Study 2019 to analyze the incidence, 
+mortality, and DALYs. All the estimates were shown as counts and 
+age-standardized rates (ASR). In 2019, there were more than 176,501 (156,046 to 
+199,917) incidence cases, with ASRs of 2.1 (1.9 to 2.4). Nasopharyngeal cancer 
+(NPC) accounted for 71,610 (65,442 to 77,625) deaths, with ASRs of 0.9 (0.8 to 
+0.9). NPC was also responsible for 2.34 million (2,139,753 to 2,536,657) DALYs, 
+with ASRs of 28.0 (25.7 to 30.4). The count of all the new cases increased from 
+1990 to 2019. At the regional level, the highest age-standardized incidence 
+rates were found in East Asia, the highest age-standardized death and DALY rates 
+were shown in Southeast Asia. At the national level, the age-standardized 
+incidence rates were highest in Singapore, and the age-standardized death and 
+DALY rates were highest in Malaysia. The total numbers and rates of all the 
+estimates were significantly higher among males than females across most of the 
+age groups. The considerable burden of NPC was attributable to alcohol use, 
+smoking, and occupational exposure to formaldehyde. A total of six GBD regions 
+and 88 countries are projected to experience an increase in NPC ASRs between 
+2019 and 2035, respectively. Despite the current decline in age-standardized 
+mortality and DALY rates globally, the age-standardized incidence rate has 
+increased from 1990 to 2019, and continues to increase between 2020 and 2035, 
+indicating that nasopharyngeal cancer remains a major health challenge 
+worldwide. Prevention strategies should focus on modifiable risk factors, 
+especially among males in East Asia.
+
+© 2022 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/cam4.4783
+PMCID: PMC9678109
+PMID: 35475595 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+47. Curr Microbiol. 2022 Apr 27;79(6):172. doi: 10.1007/s00284-022-02863-z.
+
+Combined System of Organic Substrate and Straw-Degrading Microbial Agents 
+Improved Soil Organic Matter Levels and Microbial Abundance in a Rice-Wheat 
+Rotation.
+
+Song SL(#)(1), Luo X(#)(1), Wu H(1), Lu XL(1), Xu FJ(1), Zhang ZH(2), Guan 
+YX(3), Dai CC(4).
+
+Author information:
+(1)Jiangsu Key Laboratory for Microbes and Functional Genomics, Jiangsu 
+Engineering and Technology Research Center for Industrialization of Microbial 
+Resources, College of Life Sciences, Nanjing Normal University, Nanjing, 210023, 
+Jiangsu, China.
+(2)Institute of Agricultural Resources and Environment, Jiangsu Academy of 
+Agricultural Science, Nanjing, 210014, Jiangsu, China.
+(3)Jiangsu Agricultural Technology Extension Station, Nanjing, 210036, Jiangsu, 
+China.
+(4)Jiangsu Key Laboratory for Microbes and Functional Genomics, Jiangsu 
+Engineering and Technology Research Center for Industrialization of Microbial 
+Resources, College of Life Sciences, Nanjing Normal University, Nanjing, 210023, 
+Jiangsu, China. daichuanchao@njnu.edu.cn.
+(#)Contributed equally
+
+Rice-wheat rotation is one of the most intensive agricultural planting modes in 
+China and is pivotal to develop optimized straw-returning management in situ to 
+improve soil fertility and productivity in agricultural ecosystems. Previous 
+studies have mainly focused on the effects of straw return with a single 
+application of organic fertilizers. The integrated management of different 
+fertilizers in improving the management of straw return in situ is not well 
+known. In this study, a field experiment was conducted from 2017 to 2019 to 
+explore the effects of a combined system of modified organic substrate (MOS) and 
+straw-degrading compound microbial agent (CMA) on soil physiochemical 
+properties, labile organic carbon, microbial activities, and soil microbial 
+community composition under the background of direct crop straw return and 
+chemical fertilizer utilization. Four treatments were designed: (1) control 
+check; (2) CMA; (3) MOS; and (4) MOS + CMA. The results showed that 
+the MOS + CMA treatment had the combined advantages of soil organic matter (SOM) 
+accumulation, soil nutrient increase and soil microbial community alteration, 
+which may be more suitable for improving the quality and fertility of sandy loam 
+soil. This study provides novel insights for further understanding the effects 
+of organic substrates and composite microbial agents on SOM changes and 
+microbial community composition and function in the field, which has important 
+implications for sustainable crop production and agricultural development.
+
+© 2022. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s00284-022-02863-z
+PMID: 35476161 [Indexed for MEDLINE]
+
+
+48. JMIR Res Protoc. 2022 May 13;11(5):e34480. doi: 10.2196/34480.
+
+Implementing Infection Control and Quality of Life Best Practices in Nursing 
+Homes With Project ECHO: Protocol for a Patient-Centered Randomized Controlled 
+Trial.
+
+Calo WA(#)(1), Francis E(#)(2), Kong L(#)(1), Hogentogler R(#)(2), Heilbrunn 
+E(2), Fisher A(#)(2), Hood N(#)(3), Kraschnewski J(#)(2).
+
+Author information:
+(1)Department of Public Health Sciences, Penn State College of Medicine, Penn 
+State University, Hershey, PA, United States.
+(2)Department of Medicine, College of Medicine, Penn State University, Hershey, 
+PA, United States.
+(3)Health Sciences Center, University of New Mexico, Albuquerque, NM, United 
+States.
+(#)Contributed equally
+
+BACKGROUND: Nursing homes in the United States were devastated by COVID-19, with 
+710,000 cases and 138,000 deaths nationally through October 2021. Although 
+facilities are required to have infection control staff, only 3% of designated 
+infection preventionists have taken a basic infection control course prior to 
+the COVID-19 pandemic. Most research has focused on infection control in the 
+acute care setting. However, little is known about the implementation of 
+infection control practices and effective interventions in nursing homes. This 
+study utilizes Project ECHO (Extension for Community Health Outcomes), an 
+evidence-based telementoring model, to connect Penn State University subject 
+matter experts with nursing home staff and administrators to proactively support 
+evidence-based infection control guideline implementation.
+OBJECTIVE: Our study seeks to answer the research question of how evidence-based 
+infection control guidelines can be implemented effectively in nursing homes, 
+including comparing the effectiveness of two ECHO-delivered training 
+interventions on key patient-centered outcomes such as reducing the number of 
+residents with a COVID-19 diagnosis.
+METHODS: A stratified cluster randomized design was utilized. Using a 1:1 ratio, 
+we randomly assigned 136 nursing homes to ECHO or ECHO Plus arms. Randomization 
+was stratified by geographic location, baseline COVID-19 infection rate, and 
+facility capacity. The study had two phases. In phase one, completed in July 
+2021, nursing homes in both study arms received a 16-week infectious disease and 
+quality improvement training intervention via real-time, interactive 
+videoconferencing and the ECHO learning model. Phase one sessions were up to 90 
+minutes in duration. In phase two, completed in November 2021, the ECHO group 
+was offered optional 60-minute office hours for 9 weeks and the ECHO Plus group 
+received 9 weeks of 60-minute sessions on emerging topics and an additional 
+8-session refresher series on infection control.
+RESULTS: A total of 290 nursing home facilities were assessed for eligibility, 
+with 136 nursing homes recruited and randomly assigned to ECHO or ECHO Plus. 
+Guided by the Reach, Effectiveness, Adoption, Implementation, and Maintenance 
+(RE-AIM) framework, we will simultaneously evaluate the study's effectiveness 
+and implementation outcomes at baseline (intervention start date), and at 4, 6, 
+12, and 18 months. The primary outcome is the COVID-19 infection rate in nursing 
+homes. Secondary outcomes include COVID-19 hospitalizations and deaths, flu-like 
+illness, and quality of life. Surveys and interviews with participants will also 
+provide data as to the adoption, implementation, and maintenance of best 
+practices taught throughout ECHO sessions.
+CONCLUSIONS: A multipronged approach to improving infection control and 
+emergency preparedness in nursing homes is important, given the toll that the 
+COVID-19 pandemic has taken on residents and staff. The ECHO model has 
+significant strengths when compared to traditional training, as it allows for 
+remote learning delivered by a multidisciplinary team of experts, and utilizes 
+case discussions that match the context and capacity of nursing homes.
+TRIAL REGISTRATION: ClinicalTrials.gov NCT04499391; 
+https://clinicaltrials.gov/ct2/show/NCT04499391.
+
+©William A Calo, Erica Francis, Lan Kong, Ruth Hogentogler, Emily Heilbrunn, 
+Abbey Fisher, Nancy Hood, Jennifer Kraschnewski. Originally published in JMIR 
+Research Protocols (https://www.researchprotocols.org), 13.05.2022.
+
+DOI: 10.2196/34480
+PMCID: PMC9109778
+PMID: 35476823
+
+Conflict of interest statement: Conflicts of Interest: JK served on an advisory 
+board for Sanofi on addressing health disparities in influenza vaccination rates 
+in primary care from October through November 2021. The other authors have no 
+conflicts of interest to declare.
+
+
+49. Orthop Traumatol Surg Res. 2022 Sep;108(5):103280. doi: 
+10.1016/j.otsr.2022.103280. Epub 2022 Apr 25.
+
+Morbidity of long head of the triceps motor branch neurotization to the axillary 
+nerve: Retrospective subjective and objective assessment of triceps brachii 
+strength after transfer.
+
+Richard E(1), Coulet B(2), Chammas M(2), Lazerges C(2).
+
+Author information:
+(1)Département de Chirurgie Orthopédique, Unité de Chirurgie de la Main et du 
+Membre Supérieur, Chirurgie des Nerfs Périphériques, CHU Montpellier, 191, 
+avenue du Doyen Gaston Giraud, 34295 Montpellier cedex 5, France. Electronic 
+address: manue_44@hotmail.com.
+(2)Département de Chirurgie Orthopédique, Unité de Chirurgie de la Main et du 
+Membre Supérieur, Chirurgie des Nerfs Périphériques, CHU Montpellier, 191, 
+avenue du Doyen Gaston Giraud, 34295 Montpellier cedex 5, France.
+
+INTRODUCTION: Morbidity is considered to be negligible in Leechavengvongs 
+transfer (LT) of the long head of the triceps onto the axillary nerve, but the 
+assessment methods used may lack reproducibility. We assessed triceps strength 
+after LT objectively by the isokinetic technique, addressing the following 
+questions: Is strength lowered after LT compared to the healthy limb? And 2) is 
+there a good correlation between isokinetic dynamometry and subjective 
+assessment?
+HYPOTHESIS: Isokinetic measurement shows a decrease in triceps strength at peak 
+torque after LT compared to the healthy limb, and this morbidity is 
+underestimated on subjective assessment.
+MATERIAL AND METHODS: This single-center retrospective study included patients 
+undergoing LT for axillary nerve trunk palsy between 2008 and 2020, with M5 
+triceps preoperatively on the British Medical Research Council (BMRC) scale. 
+Twenty patients, with a mean age of 25±9years (range, 15-48years) were assessed 
+at a mean 58±47months (range, 6-174months). Elbow extension strength was 
+assessed on a standardized questionnaire, BMRC isometric test and isokinetic 
+test on an angular course of 90° at 60°/sec and 180°/sec concentrically and 
+30°/sec excentrically.
+RESULTS: Strength at 60°/sec and 180°/sec concentrically and 30°/sec 
+excentrically was significantly lower than in the healthy limb: respectively, 
+-17Nm, -15Nm, and -16Nm, (p<0.001) for a mean -23%. Loss of strength was mainly 
+severe on isokinetic testing and mild on isometric testing. Seven patients 
+reported contracture (35%), 12 fatigue (60%), and 3 weakness (15%). Satisfaction 
+with extension strength was excellent or good for respectively 12 (60%) and 8 
+patients (40%). Triceps strength was graded BMRC M4 in 9 triceps (11%) and M5 in 
+11 (55%).
+DISCUSSION: After LT, isokinetic measurement found generally severe loss of 
+triceps strength, but without subjective impact on everyday life.
+LEVEL OF EVIDENCE: IV; retrospective study.
+
+Copyright © 2022 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.otsr.2022.103280
+PMID: 35477040 [Indexed for MEDLINE]
+
+
+50. BMC Geriatr. 2022 Apr 27;22(1):367. doi: 10.1186/s12877-022-03067-7.
+
+Prevalence of potentially inappropriate medications based on the STOPPFrail 
+criteria in frail older patients with limited life expectancy: a cross-sectional 
+study.
+
+Chae HW(1), Kim Y(1), Suh Y(1)(2), Lee J(1), Lee E(1), Lee E(2), Choi JY(3), Kim 
+KI(4)(5), Lee JY(6)(7).
+
+Author information:
+(1)Department of Pharmacy, Seoul National University Bundang Hospital, 166 
+Gumi-ro, Bundang-Gu, Seongnam-Si, Gyeonggi-Do, 13620, Republic of Korea.
+(2)College of Pharmacy & Research Institute of Pharmaceutical Sciences, Seoul 
+National University, 1 Gwanak-ro, Gwanak-gu, Seoul, 08826, Republic of Korea.
+(3)Department of Internal Medicine, Geriatric Centre, Seoul National University 
+Bundang Hospital, 166 Gumi-ro, Bundang-Gu, Seongnam-Si, Gyeonggi-Do, 13620, 
+Republic of Korea.
+(4)Department of Internal Medicine, Geriatric Centre, Seoul National University 
+Bundang Hospital, 166 Gumi-ro, Bundang-Gu, Seongnam-Si, Gyeonggi-Do, 13620, 
+Republic of Korea. kikim907@snu.ac.kr.
+(5)Department of Internal Medicine, Seoul National University College of 
+Medicine, 103 Daehak-ro, Jongno-gu, Seoul, 03080, Republic of Korea. 
+kikim907@snu.ac.kr.
+(6)Department of Pharmacy, Seoul National University Bundang Hospital, 166 
+Gumi-ro, Bundang-Gu, Seongnam-Si, Gyeonggi-Do, 13620, Republic of Korea. 
+jypharm@snu.ac.kr.
+(7)College of Pharmacy & Research Institute of Pharmaceutical Sciences, Seoul 
+National University, 1 Gwanak-ro, Gwanak-gu, Seoul, 08826, Republic of Korea. 
+jypharm@snu.ac.kr.
+
+BACKGROUND: The recently developed Screening Tool of Older Persons' 
+Prescriptions in Frail adults with a limited life expectancy (STOPPFrail) 
+criteria can be helpful for screening medications (PIMs), but it is yet to be 
+widely used in clinical practice. Herein, we aimed to investigate the prevalence 
+of PIMs based on the STOPPFrail criteria (STOPPFrail-PIM) among frail older 
+adults with limited life expectancy admitted to the geriatric center.
+METHODS: This was a retrospective cross-sectional study conducted in the 
+geriatric center at an academic tertiary care hospital in Korea. We evaluated 
+frail older adults with limited life expectancy who received comprehensive 
+geriatric assessment (CGA) admitted between 1 January, 2019 and 30 June, 2020. 
+Frail older adults with limited life expectancy were identified by geriatricians 
+with retrospective records and the prevalence of STOPPFrail-PIMs was analysed by 
+trained pharmacists. Descriptive analysis, t-test, and chi-square test were 
+conducted using IBM SPSS software version 25.0.
+RESULTS: Among 504 older adults who underwent CGA after admission, 171 frail 
+older adults with limited life expectancy were identified by geriatricians and 
+included in the study. An average of 11.3 ± 4.7 medications were administered 
+regularly to each patient before admission. Overall, 97.1% (166/171) had at 
+least one STOPPFrail-PIM, and the mean number of STOPPFrail-PIM was 4.2 ± 2.8. 
+Drugs without clear clinical indication (A2) were the most frequent 
+pre-admission STOPPFrail-PIM, followed by lipid-lowering therapies (B1) and 
+neuroleptic antipsychotics (D1). The number of STOPPFrail-PIM was significantly 
+lower at discharge than that at admission, with the decrease being the highest 
+for A2 at 94.7%.
+CONCLUSIONS: Most frail older adults with limited life expectancy had at least 
+one STOPPFrail-PIM at admission, and the rate of STOPPFrail-PIM decreased 
+significantly at discharge after the geriatric multidisciplinary team care. 
+Further studies are needed to investigate the association between the use of 
+STOPPFrail-PIM and adverse consequences in frail older adults.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12877-022-03067-7
+PMCID: PMC9044865
+PMID: 35477358 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+51. Nat Commun. 2022 Apr 27;13(1):2272. doi: 10.1038/s41467-022-30041-z.
+
+A distinctive ligand recognition mechanism by the human vasoactive intestinal 
+polypeptide receptor 2.
+
+Xu Y(#)(1), Feng W(#)(1), Zhou Q(#)(1), Liang A(2), Li J(1), Dai A(3), Zhao 
+F(3), Yan J(3)(4)(5), Chen CW(6), Li H(6), Zhao LH(4)(5), Xia T(2), Jiang 
+Y(4)(5), Xu HE(7)(8), Yang D(9)(10)(11)(12), Wang 
+MW(13)(14)(15)(16)(17)(18)(19).
+
+Author information:
+(1)Department of Pharmacology, School of Basic Medical Sciences, Fudan 
+University, Shanghai, 200032, China.
+(2)School of Artificial Intelligence and Automation, Huazhong University of 
+Science and Technology, Wuhan, 430074, China.
+(3)The National Center for Drug Screening, Shanghai Institute of Materia Medica, 
+Chinese Academy of Sciences, Shanghai, 201203, China.
+(4)The CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia 
+Medica, Chinese Academy of Sciences, Shanghai, 201203, China.
+(5)University of Chinese Academy of Sciences, Beijing, 100049, China.
+(6)Research Center for Deepsea Bioresources, Sanya, Hainan, 572025, China.
+(7)The CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia 
+Medica, Chinese Academy of Sciences, Shanghai, 201203, China. 
+eric.xu@simm.ac.cn.
+(8)University of Chinese Academy of Sciences, Beijing, 100049, China. 
+eric.xu@simm.ac.cn.
+(9)The National Center for Drug Screening, Shanghai Institute of Materia Medica, 
+Chinese Academy of Sciences, Shanghai, 201203, China. dhyang@simm.ac.cn.
+(10)The CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia 
+Medica, Chinese Academy of Sciences, Shanghai, 201203, China. dhyang@simm.ac.cn.
+(11)University of Chinese Academy of Sciences, Beijing, 100049, China. 
+dhyang@simm.ac.cn.
+(12)Research Center for Deepsea Bioresources, Sanya, Hainan, 572025, China. 
+dhyang@simm.ac.cn.
+(13)Department of Pharmacology, School of Basic Medical Sciences, Fudan 
+University, Shanghai, 200032, China. mwwang@simm.ac.cn.
+(14)The National Center for Drug Screening, Shanghai Institute of Materia 
+Medica, Chinese Academy of Sciences, Shanghai, 201203, China. mwwang@simm.ac.cn.
+(15)The CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia 
+Medica, Chinese Academy of Sciences, Shanghai, 201203, China. mwwang@simm.ac.cn.
+(16)University of Chinese Academy of Sciences, Beijing, 100049, China. 
+mwwang@simm.ac.cn.
+(17)Research Center for Deepsea Bioresources, Sanya, Hainan, 572025, China. 
+mwwang@simm.ac.cn.
+(18)School of Life Science and Technology, ShanghaiTech University, Shanghai, 
+201210, China. mwwang@simm.ac.cn.
+(19)Department of Chemistry, School of Science, The University of Tokyo, Tokyo, 
+113-0033, Japan. mwwang@simm.ac.cn.
+(#)Contributed equally
+
+Class B1 of G protein-coupled receptors (GPCRs) comprises 15 members activated 
+by physiologically important peptide hormones. Among them, vasoactive intestinal 
+polypeptide receptor 2 (VIP2R) is expressed in the central and peripheral 
+nervous systems and involved in a number of pathophysiological conditions, 
+including pulmonary arterial hypertension, autoimmune and psychiatric disorders, 
+in which it is thus a valuable drug target. Here, we report the cryo-electron 
+microscopy structure of the human VIP2R bound to its endogenous ligand PACAP27 
+and the stimulatory G protein. Different from all reported peptide-bound class 
+B1 GPCR structures, the N-terminal α-helix of VIP2R adopts a unique conformation 
+that deeply inserts into a cleft between PACAP27 and the extracellular loop 1, 
+thereby stabilizing the peptide-receptor interface. Its truncation or extension 
+significantly decreased VIP2R-mediated cAMP accumulation. Our results provide 
+additional information on peptide recognition and receptor activation among 
+class B1 GPCRs and may facilitate the design of better therapeutics.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41467-022-30041-z
+PMCID: PMC9046186
+PMID: 35477937 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+52. Mov Ecol. 2022 Apr 27;10(1):21. doi: 10.1186/s40462-022-00323-8.
+
+The multivariate analysis of variance as a powerful approach for circular data.
+
+Landler L(1), Ruxton GD(2), Malkemper EP(3)(4).
+
+Author information:
+(1)Institute of Zoology, University of Natural Resources and Life Sciences 
+(BOKU), Gregor-Mendel-Straße 33, 1180, Vienna, Austria. 
+Lukas.landler@boku.ac.at.
+(2)School of Biology, University of St Andrews, St Andrews, KY16 9TH, UK.
+(3)Research Group Neurobiology of Magnetoreception, Max Planck Institute for 
+Neurobiology of Behavior - caesar, Ludwig-Erhard-Allee 2, 53175, Bonn, Germany.
+(4)Department of Game Management and Wildlife Biology, Faculty of Forestry and 
+Wood Sciences, Czech University of Life Sciences, 16521, Prague 6, Czech 
+Republic.
+
+BACKGROUND: A broad range of scientific studies involve taking measurements on a 
+circular, rather than linear, scale (often variables related to times or 
+orientations). For linear measures there is a well-established statistical 
+toolkit based on linear modelling to explore the associations between this focal 
+variable and potentially several explanatory factors and covariates. In 
+contrast, statistical testing of circular data is much simpler, often involving 
+either testing whether variation in the focal measurements departs from circular 
+uniformity, or whether a single explanatory factor with two levels is supported.
+METHODS: We use simulations and example data sets to investigate the usefulness 
+of a MANOVA approach for circular data in comparison to commonly used 
+statistical tests.
+RESULTS: Here we demonstrate that a MANOVA approach based on the sines and 
+cosines of the circular data is as powerful as the most-commonly used tests when 
+testing deviation from a uniform distribution, while additionally offering 
+extension to multi-factorial modelling that these conventional 
+circular statistical tests do not.
+CONCLUSIONS: The herein presented MANOVA approach offers a substantial 
+broadening of the scientific questions that can be addressed statistically using 
+circular data.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s40462-022-00323-8
+PMCID: PMC9044715
+PMID: 35478074
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+53. J Bone Oncol. 2022 Apr 6;34:100427. doi: 10.1016/j.jbo.2022.100427.
+eCollection  2022 Jun.
+
+Outcomes and prognostic factors after surgery for bone metastases in the 
+extremities and pelvis: A retrospective analysis of 140 patients.
+
+Raschka T(1), Weiss S(1), Reiter A(1), Barg A(1)(2), Schlickewei C(1), Frosch 
+KH(1)(2), Priemel M(1).
+
+Author information:
+(1)Department of Trauma and Orthopaedic Surgery, University Medical Center 
+Hamburg-Eppendorf, Martinistrasse 52, 20246 Hamburg, Germany.
+(2)Department of Trauma Surgery, Orthopaedics and Sports Traumatology, BG 
+Hospital Hamburg, Bergedorfer Straße 10, 21033 Hamburg, Germany.
+
+BACKGROUND: Surgical therapy of bone metastases is becoming increasingly 
+important due to prolonged life expectancy and improved oncological treatment 
+options. In a mostly palliative approach, it is necessary to identify those 
+patients who might benefit from surgery. The shorter the remaining lifetime, the 
+more restricted the indication and the less radical the intervention should be. 
+The aim of this study was to evaluate the postoperative outcomes and prognostic 
+factors for survival of patients with surgically treated bone metastases.
+METHODS: We retrospectively included 140 patients who underwent surgery for 151 
+bone metastases in the extremities and pelvis at our hospital between 2010 and 
+2020. We examined patient demographics, surgical procedures, 30-day 
+complications, local tumour progression, and reoperations. Survival was 
+calculated using Kaplan-Meier analysis. Prognostic factors were investigated by 
+univariate analysis using the log-rank test and multivariate analysis using the 
+Cox regression hazard model.
+RESULTS: In 138 patients, the median survival time was 12.3 months. The overall 
+survival rates at one, two, three and five years were 52.3%, 37.6%, 28.0%, and 
+18.0%, respectively. In univariate analysis, lung cancer, renal cell carcinoma, 
+pathological fracture, visceral metastasis and multiple bone metastases were 
+significantly associated with prognosis. No significant influence was determined 
+for gender, age, location of bone metastasis, type of surgical procedure and 
+time between diagnosis of primary tumour and surgery for bone metastasis. 
+Multivariate analysis confirmed that pathological fracture, visceral metastasis 
+and lung cancer were negative prognostic variables in terms of survival. Within 
+30 days, the incidence of complications was 25.0% and mortality was 9.3%. The 
+most common complications were urinary tract infections (5.0%), pneumonia 
+(4.3%), and delirium (2.9%). Local tumour progression occurred in 12 patients 
+(8.7%) and five reoperations (3.6%) were performed. There were no significant 
+differences between patients treated with endoprosthetic replacement (n = 47) 
+and those treated with internal fixation (n = 91) in terms of 30-day 
+complications and mortality as well as local tumour progression.
+CONCLUSIONS: Survival of patients after surgery for bone metastases in the 
+extremities or pelvis is very limited. The presence of a pathological fracture, 
+visceral metastasis and lung cancer were independent prognostic factors for poor 
+survival. Both internal fixation and endoprosthetic replacement achieved similar 
+outcomes.
+
+© 2022 The Authors.
+
+DOI: 10.1016/j.jbo.2022.100427
+PMCID: PMC9035402
+PMID: 35479666
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+54. Orthop Res Rev. 2022 Apr 20;14:113-120. doi: 10.2147/ORR.S337491. eCollection
+ 2022.
+
+Monitoring and Management of Fibrodysplasia Ossificans Progressiva: Current 
+Perspectives.
+
+Smilde BJ(1)(2)(3), Botman E(1)(2)(3), de Ruiter RD(1)(2)(3), Smit JM(2)(4), 
+Teunissen BP(2)(5), Lubbers WD(2)(6), Schwarte LA(2)(6), Schober P(2)(6), 
+Eekhoff EMW(1)(2)(3).
+
+Author information:
+(1)Amsterdam UMC Location Vrije Universiteit Amsterdam, Department of Internal 
+Medicine Section Endocrinology, Amsterdam, the Netherlands.
+(2)Amsterdam UMC, Amsterdam Bone Center, Amsterdam, the Netherlands.
+(3)Amsterdam Movement Sciences, Tissue Function and Regeneration, Amsterdam, the 
+Netherlands.
+(4)Amsterdam UMC Location Vrije Universiteit Amsterdam, Department of Plastic, 
+Reconstructive and Hand Surgery, Amsterdam, the Netherlands.
+(5)Amsterdam UMC location Vrije Universiteit Amsterdam, Department of Radiology 
+and Nuclear Medicine, Amsterdam, the Netherlands.
+(6)Amsterdam UMC Location Vrije Universiteit Amsterdam, Department of 
+Anaesthesiology, Amsterdam, the Netherlands.
+
+Erratum in
+    Orthop Res Rev. 2022 May 04;14:147-148.
+
+Fibrodysplasia ossificans progressiva (FOP), sometimes known as myositis 
+ossificans progressiva, is an ultra-rare disease in which bone is formed in 
+muscular tissue, tendons and ligaments. This is known as heterotopic 
+ossification (HO). FOP is caused by a heterozygous mutation in the highly 
+conserved ACVR1/ALK2 gene which affects about 1 in 1.5-2 million individuals. At 
+birth, patients with the predominant R206H mutation only exhibit a bilateral 
+hallux valgus. During childhood, heterotopic bone formation develops in a 
+typical pattern, affecting the axial muscles first before appendicular body 
+parts are involved. HO can start spontaneously but is often elicited by soft 
+tissue trauma or medical procedures. After soft tissue injury, an inflammatory 
+process called a flare-up can start, followed by the formation of HO. HO leads 
+to a limited range of motion, culminating in complete ankylosis of nearly all 
+joints. As a result of HO surrounding the thorax, patients often suffer from 
+thoracic insufficiency syndrome (TIS). TIS is the most common cause of a limited 
+life expectancy for FOP patients, with a median life expectancy of 56 years. 
+Management is focused on preventing soft-tissue injury that can provoke 
+flare-ups. This includes prevention of iatrogenic damage by biopsies, 
+intramuscular injections and surgery. Anti-inflammatory medication is often 
+started when a flare-up occurs but has a poor basis of evidence. Several forms 
+of potential treatment for FOP are being researched in clinical trials. 
+Progression of the disease is monitored using CT and 18F-NaF PET/CT combined 
+with functional assessments. Patients are regularly evaluated for frequently 
+occurring complications such as restrictive lung disease. Here, we review the 
+current management, monitoring and treatment of FOP.
+
+© 2022 Smilde et al.
+
+DOI: 10.2147/ORR.S337491
+PMCID: PMC9035442
+PMID: 35480068
+
+Conflict of interest statement: The authors report no conflicts of interest in 
+this work.
+
+
+55. RSC Adv. 2021 May 13;11(29):17630-17641. doi: 10.1039/d1ra02464g. eCollection
+ 2021 May 13.
+
+Betel (Piper betle L.) leaf ethanolic extracts dechlorophyllized using different 
+methods: antioxidant and antibacterial activities, and application for 
+shelf-life extension of Nile tilapia (Oreochromis niloticus) fillets.
+
+Tagrida M(1), Benjakul S(1).
+
+Author information:
+(1)International Center of Excellence in Seafood Science and Innovation, Faculty 
+of Agro-Industry, Prince of Songkla University Hat Yai Songkhla 90110 Thailand 
+soottawat.b@psu.ac.th +66 7455 8866 +66 7428 6334.
+
+Different methods for chlorophyll removal were used for betel leaf ethanolic 
+extracts (BLEE). Chlorophyll content, color, and antioxidant and antibacterial 
+activities of the resulting extracts were examined. Sedimentation process 
+remarkably reduced the chlorophyll content and color of BLEE (p < 0.05), while 
+antioxidant and antibacterial activities were enhanced (p < 0.05). Polyphenol 
+content and bioactivities of the extracts dechlorophyllized using organic 
+solvents varied (p < 0.05). Antibacterial efficacy of BLEE dechlorophyllized by 
+the sedimentation method (BLEE-SED) depended on concentrations. Lower minimum 
+inhibitory concentration (MIC) and minimum bactericidal concentration (MBC) of 
+BLEE-SED toward 4 bacteria were obtained, compared to other extracts. Lower 
+microbiological and chemical changes were achieved when Nile tilapia fillets 
+were treated with BLEE-SED at 400 and 600 ppm after 12 days of storage at 4 °C. 
+Therefore, sedimentation as a green process could be adopted for preparing a 
+safe BLEE with augmented bioactivities and pale color, which could extend 
+shelf-life of refrigerated Nile tilapia fillets.
+
+This journal is © The Royal Society of Chemistry.
+
+DOI: 10.1039/d1ra02464g
+PMCID: PMC9032994
+PMID: 35480198
+
+Conflict of interest statement: There are no conflicts to declare.
+
+
+56. Front Public Health. 2022 Apr 5;10:848370. doi: 10.3389/fpubh.2022.848370. 
+eCollection 2022.
+

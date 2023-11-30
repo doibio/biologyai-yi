@@ -1,0 +1,1000 @@
+Lau TS(1).
+
+Author information:
+(1)Department of Statistics, Chinese University of Hong Kong, Shatin, Hong Kong. 
+tslau@sparc2.sta.cuhk.edu.hk
+
+We propose to use a general mixing distribution in modeling the heterogeneity of 
+the fecundability of couples. We introduce a sequence of parameters called 
+canonical moments, which is in one to one correspondence with the moments, to 
+characterize the mixing distribution. By using the bootstrap method, we can 
+estimate the standard errors of our estimates. Our method modifies the usual 
+moment estimates so that the resulting mixing distribution is always supported 
+on [0, 1]. Moreover, the downward bias of the moment estimate of the number of 
+support points would be reduced. Our approach can be used for censored data. The 
+application of our technique in finding the sterile subpopulation is also 
+discussed. The theory is illustrated with several data examples and simulations.
+
+DOI: 10.1007/BF00127310
+PMID: 9384633 [Indexed for MEDLINE]
+
+
+209. Lifetime Data Anal. 1996;2(3):219-40. doi: 10.1007/BF00128975.
+
+Estimation of prolongation of hospital stay attributable to nosocomial 
+infections: new approaches based on multistate models.
+
+Schulgen G(1), Schumacher M.
+
+Author information:
+(1)Institute of Medical Biometry and Medical Informatics, 
+Albert-Ludwigs-University, Freiburg, Germany. gs@imbi.uni-freiburg.de
+
+Evaluation of the impact of nosocomial infection on duration of hospital stay 
+usually relies on estimates obtained in prospective cohort studies. However, the 
+statistical methods used to estimate the extra length of stay are usually not 
+adequate. A naive comparison of duration of stay in infected and non-infected 
+patients is not adequate to estimate the extra hospitalisation time due to 
+nosocomial infections. Matching for duration of stay prior to infection can 
+compensate in part for the bias of ad hoc methods. New model-based approaches 
+have been developed to estimate the excess length of stay. It will be 
+demonstrated that statistical models based on multivariate counting processes 
+provide an appropriate framework to analyse the occurrence and impact of 
+nosocomial infections. We will propose and investigate new approaches to 
+estimate the extra time spent in hospitals attributable to nosocomial infections 
+based on functionals of the transition probabilities in multistate models. 
+Additionally, within the class of structural nested failure time models an 
+alternative approach to estimate the extra stay due to nosocomial infections is 
+derived. The methods are illustrated using data from a cohort study on 756 
+patients admitted to intensive care units at the University Hospital in 
+Freiburg.
+
+DOI: 10.1007/BF00128975
+PMID: 9384634 [Indexed for MEDLINE]
+
+
+210. Lifetime Data Anal. 1996;2(3):241-59. doi: 10.1007/BF00128976.
+
+Modelling conditional distributions in bivariate survival.
+
+Henderson R(1).
+
+Author information:
+(1)Department of Mathematics and Statistics, University of Lancaster, UK. 
+henderr1@lancaster.ac.uk
+
+Conditional distributions for bivariate survival can be obtained via a model for 
+the joint distribution, or, as has sometimes been suggested, by modelling the 
+conditioned variable directly, with the conditioning variable included as a 
+covariate. A quantitative comparison of estimated covariate effects and 
+predictive distributions under the two approaches is given. The results are 
+illustrated in a novel frailty application.
+
+DOI: 10.1007/BF00128976
+PMID: 9384635 [Indexed for MEDLINE]
+
+
+211. Lifetime Data Anal. 1996;2(3):261-76. doi: 10.1007/BF00128977.
+
+The influence of load on the lifetime distribution.
+
+Mendel MB, Huseby AB.
+
+This paper derives lifetime distributions for components that fail due to 
+overloading. We introduce the notion of energy similarity. This makes it 
+possible to use knowledge about how components behave under different loads in 
+order to establish a probability model. To obtain parametric families, we 
+consider two physically distinct cases: (1) components that function 
+individually and (2) components that function as part of a system. The former 
+leads to univariate and the latter to multivariate models. The results are 
+particularly useful when little or no data is available.
+
+DOI: 10.1007/BF00128977
+PMID: 9384636 [Indexed for MEDLINE]
+
+
+212. Lifetime Data Anal. 1996;2(3):277-89. doi: 10.1007/BF00128978.
+
+Bivariate frailty model for the analysis of multivariate survival time.
+
+Xue X(1), Brookmeyer R.
+
+Author information:
+(1)Department of Biometry & Statistics, School of Public Health, New York State 
+University at Albany, USA.
+
+Because of limitations of the univariate frailty model in analysis of 
+multivariate survival data, a bivariate frailty model is introduced for the 
+analysis of bivariate survival data. This provides tremendous flexibility 
+especially in allowing negative associations between subjects within the same 
+cluster. The approach involves incorporating into the model two possibly 
+correlated frailties for each cluster. The bivariate lognormal distribution is 
+used as the frailty distribution. The model is then generalized to multivariate 
+survival data with two distinguished groups and also to alternating process 
+data. A modified EM algorithm is developed with no requirement of specification 
+of the baseline hazards. The estimators are generalized maximum likelihood 
+estimators with subject-specific interpretation. The model is applied to a 
+mental health study on evaluation of health policy effects for inpatient 
+psychiatric care.
+
+DOI: 10.1007/BF00128978
+PMID: 9384637 [Indexed for MEDLINE]
+
+
+213. Lifetime Data Anal. 1996;2(3):291-308. doi: 10.1007/BF00128979.
+
+Nonparametric estimation of discrete hazard functions.
+
+Tutz G(1), Pritscher L.
+
+Author information:
+(1)Institut für quantitative Methoden, Technische Universität Berlin. 
+tutz@cs.tu-berlin.de
+
+A smoothing procedure for discrete time failure data is proposed which allows 
+for the inclusion of covariates. This purely nonparametric method is based on 
+discrete or continuous kernel smoothing techniques that gives a compromise 
+between the data and smoothness. The method may be used as an exploratory tool 
+to uncover the underlying structure or as an alternative to parametric methods 
+when prediction is the primary objective. Confidence intervals are considered 
+and alternative techniques of cross validation based choices of smoothing 
+parameters are investigated.
+
+DOI: 10.1007/BF00128979
+PMID: 9384638 [Indexed for MEDLINE]
+
+
+214. Lifetime Data Anal. 1996;2(2):119-29. doi: 10.1007/BF00128570.
+
+Estimation from current-status data in continuous time.
+
+Keiding N(1), Begtrup K, Scheike TH, Hasibeder G.
+
+Author information:
+(1)University of Copenhagen, Denmark.
+
+The nonparametric maximum likelihood estimator for current-status data has been 
+known for at least 40 years, but only recently have the mathematical-statistical 
+properties been clarified. This note provides a case study in the important and 
+often studied context of estimating age-specific immunization intensities from a 
+seroprevalence survey. Fully parametric and spline-based alternatives (also 
+based on continuous-time models) are given. The basic reproduction number R0 
+exemplifies estimation of a functional. The limitations implied by the 
+necessarily rather restrictive epidemiological assumptions are briefly 
+discussed.
+
+DOI: 10.1007/BF00128570
+PMID: 9384639 [Indexed for MEDLINE]
+
+
+215. Lifetime Data Anal. 1996;2(2):131-44. doi: 10.1007/BF00128571.
+
+Applying locally optimal criterion for classifying highly-reliable products with 
+a control.
+
+Chiao CH(1), Tseng ST.
+
+Author information:
+(1)Department of Business Mathematics, Soochow University, Taipei, Taiwan.
+
+At the research and development stage, decision-makers may wish to classify 
+several competing designs with respect to a control (or standard) one. The 
+classification problem may become very difficult when the products are highly 
+reliable, since only a few (or even no) failures may be observed under normal 
+use condition. The accelerated life test model resolves this difficulty by 
+shortening the time of life testing and quickly provides life data of products. 
+For highly-reliable products with a Weibull log-linear model, we propose a 
+classification rule based on a locally optimal criterion. A suitable sampling 
+plan based on this rule is also developed. The performance of this rule is 
+compared with a pairwise comparison classification rule. It is shown that the 
+sample sizes needed for the new rule are considerably lower than those needed 
+for the pairwise comparison rule.
+
+DOI: 10.1007/BF00128571
+PMID: 9384640 [Indexed for MEDLINE]
+
+
+216. Lifetime Data Anal. 1996;2(2):145-57. doi: 10.1007/BF00128572.
+
+Checking adequacy of the semiparametric location shift model with censored data.
+
+Rossini AJ(1), Wei LJ, Ying Z.
+
+Author information:
+(1)Department of Statistics, University of South Carolina, Columbia 29208, USA. 
+rossini@stat.sc.edu
+
+The location shift model is commonly used to quantify the difference between 
+groups in a two-arm study. Nonparametric inference procedures for the location 
+shift parameter with censored observations have recently been extensively 
+studied. However, the validity of these procedures depends heavily on the model 
+assumption. In this article, a class of graphical and numerical methods are 
+proposed for checking the adequacy of the location shift model. Our graphical 
+procedures are much less subjective than the eye-ball method based on the 
+standard Q-Q plot. The proposed methods are illustrated with real-life examples.
+
+DOI: 10.1007/BF00128572
+PMID: 9384641 [Indexed for MEDLINE]
+
+
+217. Lifetime Data Anal. 1996;2(2):159-74. doi: 10.1007/BF00128573.
+
+A Bayesian approach to Weibull survival models--application to a cancer clinical 
+trial.
+
+Abrams K(1), Ashby D, Errington D.
+
+Author information:
+(1)Department of Epidemiology and Public Health, University of Leicester, U.K. 
+kra1@le.ac.uk
+
+In this paper we outline a class of fully parametric proportional hazards 
+models, in which the baseline hazard is assumed to be a power transform of the 
+time scale, corresponding to assuming that survival times follow a Weibull 
+distribution. Such a class of models allows for the possibility of time varying 
+hazard rates, but assumes a constant hazard ratio. We outline how Bayesian 
+inference proceeds for such a class of models using asymptotic approximations 
+which require only the ability to maximize the joint log posterior density. We 
+apply these models to a clinical trial to assess the efficacy of neutron therapy 
+compared to conventional treatment for patients with tumours of the pelvic 
+region. In this trial there was prior information about the log hazard ratio 
+both in terms of elicited clinical beliefs and the results of previous studies. 
+Finally, we consider a number of extensions to this class of models, in 
+particular the use of alternative baseline functions, and the extension to 
+multi-state data.
+
+DOI: 10.1007/BF00128573
+PMID: 9384642 [Indexed for MEDLINE]
+
+
+218. Lifetime Data Anal. 1996;2(2):175-94. doi: 10.1007/BF00128574.
+
+A three-state disease model with interval-censored data: estimation and 
+applications to AIDS and cancer.
+
+Leung KM(1), Elashoff RM.
+
+Author information:
+(1)Department of Biostatistics, UCLA School of Public Health 90024, USA. 
+moon@ucla.edu
+
+In presence of interval-censored data, we propose a general three-state disease 
+model with covariates. Such data can arise, for example, in epidemiologic 
+studies of infectious disease where both the times of infection and disease 
+onset are not directly observed, or in cancer studies where the time of disease 
+metastasis is known up to a specified interval. The proposed model allows the 
+distributions of the transition times between states to depend on covariates and 
+the time in the previous state. An estimation procedure for the underlying 
+distributions and the model coefficients is suggested with the EM algorithm. The 
+EMS algorithm (Smoothed EM algorithm) is also considered to obtain smooth 
+estimates of the distributions. The proposed method is illustrated with data 
+from an AIDS study and a study of patients with malignant melanoma.
+
+DOI: 10.1007/BF00128574
+PMID: 9384643 [Indexed for MEDLINE]
+
+
+219. Lifetime Data Anal. 1996;2(2):195-209. doi: 10.1007/BF00128575.
+
+On assessing independence of competing risks when failure times are discrete.
+
+Crowder M(1).
+
+Author information:
+(1)Department of Mathematical and Computing Sciences, Surrey University, 
+Guildford, U.K.
+
+The traditional approach to modelling for Competing Risks, via a multivariate 
+distribution of latent failure times, is very natural for many applications but 
+suffers from a well-documented problem of identifiability. However, the 
+demonstrations of this problem in the literature apply to essentially continuous 
+latent failure times where any atoms of probability in their distributions are 
+not too intrusive. It is shown in this paper that for discrete failure times the 
+classic results on the identifiability problem concerning the existence of 
+equivalent independent risks are incomplete.
+
+DOI: 10.1007/BF00128575
+PMID: 9384644 [Indexed for MEDLINE]
+
+
+220. Lifetime Data Anal. 1996;2(1):5-14. doi: 10.1007/BF00128467.
+
+Using the EM-algorithm for survival data with incomplete categorical covariates.
+
+Lipsitz SR(1), Ibrahim JG.
+
+Author information:
+(1)Department of Biostatistics, Harvard School of Public Health, Boston, MA, 
+USA.
+
+Incomplete covariate data is a common occurrence in many studies in which the 
+outcome is survival time. With generalized linear models, when the missing 
+covariates are categorical, a useful technique for obtaining parameter estimates 
+is the EM by the method of weights proposed in Ibrahim (1990). In this article, 
+we extend the EM by the method of weights to survival outcomes whose 
+distributions may not fall in the class of generalized linear models. This 
+method requires the estimation of the parameters of the distribution of the 
+covariates. We present a clinical trials example with five covariates, four of 
+which have some missing values.
+
+DOI: 10.1007/BF00128467
+PMID: 9384645 [Indexed for MEDLINE]
+
+
+221. Lifetime Data Anal. 1996;2(1):15-29. doi: 10.1007/BF00128468.
+
+Marker processes in survival analysis.
+
+Jewell NP(1), Kalbfleisch JD.
+
+Author information:
+(1)Department of Statistics, University of California, Berkeley 94720, USA.
+
+In the development of many diseases there are often associated variables which 
+continuously measure the progress of an individual towards the final expression 
+of the disease (failure). Such variables are stochastic processes, here called 
+marker processes, and, at a given point in time, they may provide information 
+about the current hazard and subsequently on the remaining time to failure. Here 
+we consider a simple additive model for the relationship between the hazard 
+function at time t and the history of the marker process up until time t. We 
+develop some basic calculations based on this model. Interest is focused on 
+statistical applications for markers related to estimation of the survival 
+distribution of time to failure, including (i) the use of markers as surrogate 
+responses for failure with censored data, and (ii) the use of markers as 
+predictors of the time elapsed since onset of a survival process in prevalent 
+individuals. Particular attention is directed to potential gains in efficiency 
+incurred by using marker process information.
+
+DOI: 10.1007/BF00128468
+PMID: 9384646 [Indexed for MEDLINE]
+
+
+222. Lifetime Data Anal. 1996;2(1):31-49. doi: 10.1007/BF00128469.
+
+Models for residual time to AIDS.
+
+Shi M(1), Taylor JM, Muñoz A.
+
+Author information:
+(1)Department of Biostatistics, UCLA School of Public Health 90095, USA. 
+mshi@sunlab.ph.ucla.edu
+
+The distributions of the time from Human Immunodeficiency Virus (HIV) infection 
+to the onset of Acquired Immune Deficiency Syndrome (AIDS) and of the residual 
+time to AIDS diagnosis are important for modeling the growth of the AIDS 
+epidemic and for predicting onset of the disease in an individual. Markers such 
+as CD4 counts carry valuable information about disease progression and therefore 
+about the two survival distributions. Building on the framework set out by 
+Jewell and Kalbfleisch (1992), we study these two survival distributions based 
+on stochastic models for the marker process (X(t)) and a marker-dependent hazard 
+(h(.)). We examine various plausible CD4 marker processes and marker-dependent 
+hazard functions for AIDS proposed in recent literature. For a random effects 
+plus Brownian motion marker process X(t) = (a + bt + BM(t))4, where a has a 
+normal distribution, b < 0 is an unknown parameter and BM(t) is Brownian motion, 
+and marker-dependent hazard h(X(t)), we prove that, given CD4 cell count X(t), 
+the residual time to AIDS distribution does not depend on the time since 
+infection t. Using simulation and numerical integration, we find the marginal 
+incubation period distribution, the marginal hazard and the residual time 
+distribution for several combinations of marker processes and marker-dependent 
+hazards. An example using data from the Multicenter AIDS Cohort Study is given. 
+A simple regression model relating the cube root of residual time to AIDS to CD4 
+count is suggested.
+
+DOI: 10.1007/BF00128469
+PMID: 9384647 [Indexed for MEDLINE]
+
+
+223. Lifetime Data Anal. 1996;2(1):51-61. doi: 10.1007/BF00128470.
+
+Renovating interval-censored responses.
+
+Smith PJ(1).
+
+Author information:
+(1)Department of Statistics and Operations Research, Royal Melbourne Institute 
+of Technology, Victoria, Australia.
+
+In this note we provide a general framework for describing interval-censored 
+samples including estimation of the magnitude and rank positions of data that 
+have been interval-censored so as to counteract the effect of censoring. This 
+process of sample adjustment, or renovation, allows samples to be compared 
+graphically, using diagrams (such as boxplots) which are based on ranks. The 
+renovation process is based on Buckley-James regression estimators for linear 
+regression with censored data.
+
+DOI: 10.1007/BF00128470
+PMID: 9384648 [Indexed for MEDLINE]
+
+
+224. Lifetime Data Anal. 1996;2(1):63-71. doi: 10.1007/BF00128471.
+
+A Weibull-based score test for heterogeneity.
+
+Kimber AC(1).
+
+Author information:
+(1)Department of Mathematical and Computing Sciences, University of Surrey, 
+Guildford, UK. a.kimber@surrey.ac.uk
+
+The Weibull distribution is a natural starting point in the modelling of failure 
+times in reliability, material strength data and many other applications that 
+involve lifetime data. In recent years there has been a growing interest in 
+modelling heterogeneity within this context. A natural approach is to consider a 
+mixture, either discrete or continuous, of Weibull distributions. A judicious 
+choice of mixing distribution yields a tractable and flexible generalization of 
+the Weibull distribution. In this note a score test for detecting heterogeneity 
+in this context is discussed and illustrated using some infant nutrition data.
+
+DOI: 10.1007/BF00128471
+PMID: 9384649 [Indexed for MEDLINE]
+
+
+225. Lifetime Data Anal. 1996;2(1):73-90. doi: 10.1007/BF00128472.
+
+Adjusted variable plots for Cox's proportional hazards regression model.
+
+Hall CB(1), Zeger SL, Bandeen-Roche KJ.
+
+Author information:
+(1)Department of Statistics, University of Connecticut, Storrs 06269, USA. 
+chall@stat.uconn.edu
+
+Adjusted variable plots are useful in linear regression for outlier detection 
+and for qualitative evaluation of the fit of a model. In this paper, we extend 
+adjusted variable plots to Cox's proportional hazards model for possibly 
+censored survival data. We propose three different plots: a risk level adjusted 
+variable (RLAV) plot in which each observation in each risk set appears, a 
+subject level adjusted variable (SLAV) plot in which each subject is represented 
+by one point, and an event level adjusted variable (ELAV) plot in which the 
+entire risk set at each failure event is represented by a single point. The 
+latter two plots are derived from the RLAV by combining multiple points. In each 
+point, the regression coefficient and standard error from a Cox proportional 
+hazards regression is obtained by a simple linear regression through the origin 
+fit to the coordinates of the pictured points. The plots are illustrated with a 
+reanalysis of a dataset of 65 patients with multiple myeloma.
+
+DOI: 10.1007/BF00128472
+PMID: 9384650 [Indexed for MEDLINE]
+
+
+226. Lifetime Data Anal. 1996;2(1):91-112. doi: 10.1007/BF00128473.
+
+Stochastic comparison of processes generated by random interruptions of monotone 
+functions and related results.
+
+Pellerey F(1), Shaked M.
+
+Author information:
+(1)Istituto di Biomatematica, Università di Urbino, Italy.
+
+Many stochastic processes considered in applied probability models, and, in 
+particular, in reliability theory, are processes of the following form: Shocks 
+occur according to some point process, and each shock causes the process to have 
+a random jump. Between shocks the process increases or decreases in some 
+deterministic fashion. In this paper we study processes for which the rate of 
+increase or decrease between shocks depends only on the height of the process. 
+For such processes we find conditions under which the processes can be 
+stochastically compared. We also study 'hybrid' processes in which periods of 
+increase and periods of decrease alternate. A further result yields a stochastic 
+comparison of processes that start with a random jump, rather than processes in 
+which there is at the beginning some random delay time before the first jump.
+
+DOI: 10.1007/BF00128473
+PMID: 9384651 [Indexed for MEDLINE]
+
+
+227. Lifetime Data Anal. 1997;3(3):197-213. doi: 10.1023/a:1009613313677.
+
+Regression estimation using multivariate failure time data and a common baseline 
+hazard function model.
+
+Cai J(1), Prentice RL.
+
+Author information:
+(1)University of North Carolina, Chapel Hill, USA.
+
+Recent 'marginal' methods for the regression analysis of multivariate failure 
+time data have mostly assumed Cox (1972) model hazard functions in which the 
+members of the cluster have distinct baseline hazard functions. In some 
+important applications, including sibling family studies in genetic epidemiology 
+and group randomized intervention trials, a common baseline hazard assumption is 
+more natural. Here we consider a weighted partial likelihood score equation for 
+the estimation of regression parameters under a common baseline hazard model, 
+and provide corresponding asymptotic distribution theory. An extensive series of 
+simulation studies is used to examine the adequacy of the asymptotic 
+distributional approximations, and especially the efficiency gain due to 
+weighting, as a function of strength of dependency within cluster, and cluster 
+size.
+
+DOI: 10.1023/a:1009613313677
+PMID: 9384652 [Indexed for MEDLINE]
+
+
+228. Lifetime Data Anal. 1997;3(3):215-23. doi: 10.1023/a:1009696830515.
+
+A test for independence of competing risks with discrete failure times.
+
+Crowder M(1).
+
+Author information:
+(1)Department of Mathematical and Computing Sciences, Surrey University, 
+Guildford, U.K.
+
+The identifiability problem in Competing Risks is well known. In particular, it 
+implies that independent action or otherwise of the risks cannot be inferred 
+from data alone. However, Crowder (1996) showed that, in the case of purely 
+discrete failure times, an inference can be made. An algebraic criterion was 
+derived which bears essentially on the independence in question. The condition 
+was presented in a theoretical setting but it was pointed out that the 
+quantities involved can be estimated from data and that, therefore, there is the 
+potential to develop practical tests for the hypothesis of independence. It is 
+the purpose of this paper to construct such a test.
+
+DOI: 10.1023/a:1009696830515
+PMID: 9384653 [Indexed for MEDLINE]
+
+
+229. Lifetime Data Anal. 1997;3(3):225-49. doi: 10.1023/a:1009648914586.
+
+An asymptotic analysis of the logrank test.
+
+Strawderman RL(1).
+
+Author information:
+(1)Department of Biostatistics, University of Michigan, Ann Arbor 48109-2029, 
+USA. strawder@umich.edu
+
+Asymptotic expansions for the null distribution of the logrank statistic and its 
+distribution under local proportional hazards alternatives are developed in the 
+case of iid observations. The results, which are derived from the work of Gu 
+(1992) and Taniguchi (1992), are easy to interpret, and provide some theoretical 
+justification for many behavioral characteristics of the logrank test that have 
+been previously observed in simulation studies. We focus primarily upon (i) the 
+inadequacy of the usual normal approximation under treatment group imbalance; 
+and, (ii) the effects of treatment group imbalance on power and sample size 
+calculations. A simple transformation of the logrank statistic is also derived 
+based on results in Konishi (1991) and is found to substantially improve the 
+standard normal approximation to its distribution under the null hypothesis of 
+no survival difference when there is treatment group imbalance.
+
+DOI: 10.1023/a:1009648914586
+PMID: 9384654 [Indexed for MEDLINE]
+
+
+230. Lifetime Data Anal. 1997;3(3):251-68. doi: 10.1023/a:1009601031424.
+
+Dependence estimation for marginal models of multivariate survival data.
+
+Segal MR(1), Neuhaus JM, James IR.
+
+Author information:
+(1)Division of Biostatistics, University of California, San Francisco 
+94143-0560, USA. mark@biostat.ucsf.edu
+
+We have previously (Segal and Neuhaus, 1993) devised methods for obtaining 
+marginal regression coefficients and associated variance estimates for 
+multivariate survival data, using a synthesis of the Poisson regression 
+formulation for univariate censored survival analysis and generalized estimating 
+equations (GEE's). The method is parametric in that a baseline survival 
+distribution is specified. Analogous semiparametric models, with unspecified 
+baseline survival, have also been developed (Wei, Lin and Weissfeld, 1989; Lin, 
+1994). Common to both these approaches is the provision of robust variances for 
+the regression parameters. However, none of this work has addressed the more 
+difficult area of dependence estimation. While GEE approaches ostensibly provide 
+such estimates, we show that there are problems adopting these with multivariate 
+survival data. Further, we demonstrate that these problems can affect estimation 
+of the regression coefficients themselves. An alternate, ad hoc approach to 
+dependence estimation, based on design effects, is proposed and evaluated via 
+simulation and illustrative examples.
+
+DOI: 10.1023/a:1009601031424
+PMID: 9384655 [Indexed for MEDLINE]
+
+
+231. Lifetime Data Anal. 1997;3(3):269-88. doi: 10.1023/a:1009653032333.
+
+Tail behavior of the failure rate functions of mixtures.
+
+Block H(1), Joe H.
+
+Author information:
+(1)Department of Statistics, University of Pittsburgh, USA.
+
+The tail behavior of the failure rate of mixtures of lifetime distributions is 
+studied. A typical result is that if the failure rate of the strongest component 
+of the mixture decreases to a limit, then the failure rate of the mixture 
+decreases to the same limit. For a class of distributions containing the gamma 
+distributions this result can be improved in the sense that the behavior of the 
+failure rate of the mixture asymptotically mirrors that of the strongest 
+component in whether it decreases or increases to a limit.
+
+DOI: 10.1023/a:1009653032333
+PMID: 9384656 [Indexed for MEDLINE]
+
+
+232. Lifetime Data Anal. 1997;3(3):289-98. doi: 10.1023/a:1009657116403.
+
+Multiple imputation for the Cox proportional hazards model with missing 
+covariates.
+
+Paik MC(1).
+
+Author information:
+(1)Division of Biostatistics, Columbia University, New York, New York 10032, 
+USA. mcp@biostat.columbia.edu
+
+We present three multiple imputation estimates for the Cox model with missing 
+covariates. Two of the suggested estimates are asymptotically equivalent to 
+estimates in the literature when the number of multiple imputations approaches 
+infinity. The third estimate can be implemented using standard software that 
+could handle time-varying covariates.
+
+DOI: 10.1023/a:1009657116403
+PMID: 9384657 [Indexed for MEDLINE]
+
+
+233. Lifetime Data Anal. 1995;1(1):7-18. doi: 10.1007/BF00985253.
+
+Multiple time scales in survival analysis.
+
+Oakes D(1).
+
+Author information:
+(1)Department of Statistics, University of Rochester, NY 14627, USA.
+
+In some problems in survival analysis there may be more than one plausible 
+measure of time for each individual. For example mileage may be a better 
+indication of the age of a car than months. This paper considers the possibility 
+of combining two (or more) time scales measured on each individual into a single 
+scale. A collapsibility condition is proposed for regarding the combined scale 
+as fully informative regarding survival. The resulting model may be regarded as 
+a generalization of the usual accelerated life model that allows time-dependent 
+covariates. Parametric methods for the choice of time scale, for testing the 
+validity of the collapsibility assumption and for parametric inference about the 
+failure distribution along the new scale are discussed. Two examples are used to 
+illustrate the methods, namely Hyde's (1980) Channing House data and a large 
+cohort mortality study of asbestos workers in Quebec.
+
+DOI: 10.1007/BF00985253
+PMID: 9385093 [Indexed for MEDLINE]
+
+
+234. Lifetime Data Anal. 1995;1(2):171-86. doi: 10.1007/BF00985768.
+
+Product-limit survival functions with correlated survival times.
+
+Williams RL(1).
+
+Author information:
+(1)Research Triangle Institute, NC 27709-2194, USA. willy@rti.org
+
+A simple variance estimator for product-limit survival functions is demonstrated 
+for survival times with nested errors. Such data arise whenever survival times 
+are observed within clusters of related observations. Greenwood's formula, which 
+assumes independent observations, is not appropriate in this situation. A robust 
+variance estimator is developed using Taylor series linearized values and the 
+between-cluster variance estimator commonly used in multi-stage sample surveys. 
+A simulation study shows that the between-cluster variance estimator is 
+approximately unbiased and yields confidence intervals that maintain the nominal 
+level for several patterns of correlated survival times. The simulation study 
+also shows that Greenwood's formula underestimates the variance when the 
+survival times are positively correlated within a cluster and yields confidence 
+intervals that are too narrow. Extension to life table methods is also 
+discussed.
+
+DOI: 10.1007/BF00985768
+PMID: 9385099 [Indexed for MEDLINE]
+
+
+235. Todays Surg Nurse. 1997 Sep-Oct;19(5):19-22.
+
+Postoperative considerations. Geriatric surgical patients and cardiovascular 
+function.
+
+Clement SB(1).
+
+Author information:
+(1)Greater Houston Anesthesiology, PA, Texas, USA.
+
+An increasing number of geriatric patients will present for surgery as the 
+average life expectancy climbs. Age-related cardiovascular changes jeopardize 
+the elderly surgical patient's ability to compensate for surgically induced 
+stressors. Changes in cardiovascular function are one of the most significant 
+alterations associated with geriatric patients.
+
+PMID: 9385223 [Indexed for MEDLINE]
+
+
+236. Acta Orthop Scand Suppl. 1997 Oct;275:127-31. doi: 
+10.1080/17453674.1997.11744765.
+
+Reduction of polyethylene in a congruent meniscal knee prosthesis. Experimental 
+and clinical studies.
+
+Tsakonas AC(1), Polyzoides AJ.
+
+Author information:
+(1)Orthopaedic Department, Hippokratio General Hospital, Thessaloniki, Greece.
+
+Polyethylene wear was assessed in the Rotaglide congruent meniscal bearing total 
+knee prosthesis and a partial congruent total knee prosthesis with fixed bearing 
+polyethylene tibial platform and a posterior stabilizer mechanism. A special 
+wear test rig was used to test the 2 prostheses under compression load of 2960 
+N/mm2 (about 4 times the average body weight) and continuous 0 degree-70 degrees 
+flexion-extension motion at the rate of 1 cycle per second. The most remarkable 
+finding was the lack of measurable wear on the Rotaglide meniscal bearing up to 
+3.5 million cycles, while the other prosthesis began to show wear from the first 
+million cycles and progressed to 0.38 mm at about 3.5 million cycles. At 11 
+million cycles (about 20 years of life), the Rotaglide showed penetration wear 
+of 0.35 mm compared to 2.1 mm in the other prosthesis. In 7 meniscal bearings, 
+retrieved either at postmortem (2) or at reoperation (5), no measurable 
+penetration wear was observed after 3 years of implantation. Only 1 prosthesis 
+obtained 5 years after implantation showed 0.23 mm penetration wear or about 
+0.05 mm per year. These findings strongly suggest that the use of congruent 
+meniscal bearing prosthesis can reduce the polyethylene wear in total knee 
+replacement.
+
+DOI: 10.1080/17453674.1997.11744765
+PMID: 9385287 [Indexed for MEDLINE]
+
+
+237. Nurs Clin North Am. 1997 Dec;32(4):863-80.
+
+Diet therapy for organ transplantation. A problem-based approach.
+
+Hasse JM(1).
+
+Author information:
+(1)Baylor Institute of Transplantation Sciences, Baylor University Medical 
+Center, Dallas, Texas 75246, USA.
+
+Nutrition plays a vital role in the recovery, health, and life expectancy of 
+transplant recipients. Because the medical problems differ between the acute 
+recovery and chronic maintenance phases following transplantation, nutrient 
+requirements and nutrition therapies are unique and distinctly different between 
+these 2 periods. Nutrition therapy during the acute post-transplant phase is 
+aimed at promoting healing. Nutrition and pharmaceutical therapies during the 
+long-term post-transplant phase are intended to prevent and treat common 
+problems such as obesity, diabetes, hyperlipidemia, hypertension, and 
+osteoporosis. Nutrition goals and therapies should be individualized based on 
+the specific complications each patient experiences.
+
+PMID: 9386230 [Indexed for MEDLINE]
+
+
+238. Ann Thorac Surg. 1997 Nov;64(5):1296-301; discussion 1302. doi: 
+10.1016/S0003-4975(97)00805-9.
+
+Decision-making in end-stage coronary artery disease: revascularization or heart 
+transplantation?
+
+Hausmann H(1), Topp H, Siniawski H, Holz S, Hetzer R.
+
+Author information:
+(1)Department of Thoracic and Cardiovascular Surgery, German Heart Institute 
+Berlin, Germany.
+
+BACKGROUND: Left ventricular function is the most important predictor of 
+survival in patients with coronary artery disease. It is also an important 
+indicator for hospital and late mortality after operation for endstage coronary 
+artery disease.
+METHODS: Between April 1986 and December 1994, 514 patients with end-stage 
+coronary artery disease and left ventricular ejection fraction between 0.10 and 
+0.30 underwent coronary artery bypass grafting at the German Heart Institute 
+Berlin. Two hundred twenty-five of these patients had been referred as possible 
+candidates for heart transplantation. The prime criterion for bypass grafting 
+was ischemia diagnosed by myocardial scintigraphy and echocardiography 
+("hibernating myocardium").
+RESULTS: Operative mortality for the group was 7.1%. The actuarial survival rate 
+was 90.8% after 2 years, 87.6% after 4, and 78.9% after 6. Left heart 
+catheterizations performed 1 year after the operation showed that left 
+ventricular ejection fraction had increased from a mean of 0.24 +/- 0.03 
+preoperatively to 0.39 +/- 0.06 postoperatively (p < 0.0001). Preoperatively 
+91.6% of the patients were in New York Heart Association (NYHA) class III or IV; 
+6 months postoperatively 90.2% of the surviving patients were in NYHA class I or 
+II. Two hundred thirty-one patients with end-stage coronary artery disease and 
+predominant heart failure underwent heart transplantation. Their actuarial 
+survival rate was 74.9% after 2 years, 73.2% after 4, and 68.9% after 6. All of 
+the patients could be recategorized into NYHA class I or II after the operation.
+CONCLUSIONS: We conclude that coronary artery bypass grafting and heart 
+transplantation can be used successfully to improve the life expectancy of 
+patients with end-stage coronary artery disease. Coronary artery bypass grafting 
+leads to an excellent prognosis for these high-risk patients when the myocardium 
+is preoperatively identified as being viable.
+
+DOI: 10.1016/S0003-4975(97)00805-9
+PMID: 9386693 [Indexed for MEDLINE]
+
+
+239. Can Fam Physician. 1997 Nov;43:1900-1, 1907-9.
+
+Physician suicide. Can something be done?
+
+Desjardins M.
+
+PMCID: PMC2255181
+PMID: 9386872 [Indexed for MEDLINE]
+
+
+240. Cent Eur J Public Health. 1997 Sep;5(3):133-5.
+
+The influence of some factors on the non-homogeneity in adult male life 
+expectancy in the Slovak Republic.
+
+Ginter E(1).
+
+Author information:
+(1)Institute of Preventive and Clinical Medicine, Bratislava, Slovak Republic.
+
+Life expectancy of males in the Slovak Republic, a small postcommunist country 
+in Central Europe, is among the lowest in Europe due to the extremely high 
+mortality rate in middle-aged men. The relation between male life expectancy at 
+age 20 and several variables (i.e. ethnic structure, educational status, 
+religious belief and economic activity) was analysed by simple regressions and 
+by multifactorial methods in all 38 districts of Slovakia. Significant negative 
+associations were found between male life expectancy at age 20 and ethnic 
+structure (i.e. percent of Hungarian population), economic activity (percent of 
+men employed in agriculture) and educational status (percent of men having only 
+a basic education). In multifactorial analysis educational status and ethnic 
+structure entered the model. The most dramatic health decline occurred in 
+agricultural southern districts with high percentage of Hungarian minority and 
+with high percentage of men with the lowest educational status. Lifestyle 
+probably presents the background of these relations, but there is a lack of 
+reliable data from the individual districts for a more profound analysis. More 
+sophisticated epidemiological research projects are important for the 
+formulation of a public health strategy in Slovakia.
+
+PMID: 9386900 [Indexed for MEDLINE]241. Semin Thromb Hemost. 1997;23(5):479-88. doi: 10.1055/s-2007-996125.
+
+Microvascular disturbances, thrombosis, and bleeding in thrombocythemia: current 
+concepts and perspectives.
+
+Ravandi-Kashani F(1), Schafer AI.
+
+Author information:
+(1)Department of Medicine, Baylor College of Medicine, Houston, Texas 77030, 
+USA.
+
+Although ET is a relatively rare disease and, in general, life expectancy of 
+patients is similar to that of individuals without the disease, hemostatic 
+complications are the major causes of mortality and morbidity in some patients. 
+Hemostatic complications are most likely due to as yet poorly defined 
+abnormalities in platelet-vessel wall interactions. Treatment modalities used in 
+the past include cytoreductive therapy and antiplatelet therapy, although the 
+basis of their use has been, until recently, only retrospective observations and 
+not prospective, randomized clinical trials. The older therapeutic modalities, 
+such as radiophosphorus (32P) and alkylating agents, have been largely abandoned 
+because of their leukemogenic potential. The leukemogenic potential of 
+hydroxyurea, presently the most widely used cytoreductive agent, remains 
+uncertain. Interferon-alpha and anagrelide are promising newer drugs. However, 
+because of the toxicity of these agents, there is a pressing need for 
+prospective, controlled clinical trials to establish the indications for 
+cytoreductive and antiplatelet therapy in different subsets of patients with ET. 
+Ultimately, it can be anticipated that elucidation of the molecular basis of ET 
+will permit specific targeting of therapy to the pathogenetic megakaryopoietic 
+defect(s) in the disease.
+
+DOI: 10.1055/s-2007-996125
+PMID: 9387207 [Indexed for MEDLINE]
+
+
+242. Zhonghua Liu Xing Bing Xue Za Zhi. 1996 Aug;17(4):193-4.
+
+[Analysis and evaluation of cause of death].
+
+[Article in Chinese]
+
+Wu XK.
+
+PMID: 9387580 [Indexed for MEDLINE]
+
+
+243. Zhonghua Liu Xing Bing Xue Za Zhi. 1996 Aug;17(4):195-8.
+
+[A comparative study on mortality and YPLL of accidents].
+
+[Article in Chinese]
+
+Chi GB(1), Wang SY.
+
+Author information:
+(1)Deptartment of Epidemiology, Medical College of Jinan University, Guangzhou.
+
+Years of potential life lost (YPLL) was used to analyse deaths caused by 
+accidents in Guangzhou in 1988-1994. The results showed that the accident death 
+was the fourth in the proportionate mortality ratio and the second in the rates 
+of YPLL. The ratio of male to female was 1.69:1. The majority of accidents 
+involved in youth people. Work years of potential life lost and valued years of 
+potential life lost relevantly increased along with the rose of YPLL. According 
+to the findings the author regard that YPLL is more reasonable index in 
+reflecting the deaths by accidents among youth people.
+
+PMID: 9387581 [Indexed for MEDLINE]
+
+
+244. Zhonghua Liu Xing Bing Xue Za Zhi. 1996 Aug;17(4):199-202.
+
+[Priorities of disease control in China--analysis on mortality data of National 
+Disease Surveillance Points System].
+
+[Article in Chinese]
+
+Yang GH(1), Huang ZJ, Tan J.
+
+Author information:
+(1)Institute of Epidemiology & Microbiology, Chinese Academy of Preventive 
+Medicine, Beijing.
+
+The leading health problems in the Chinese population are analyzed with indices 
+as standard death rate, YPLL and DALY, using data from The Chinese Diseases 
+Surveillance Points System (DSP). Disease pattern in China is different from 
+that in the 1950's owing to demographic transition (aging of the population), 
+decrease of both morbidity and mortality of communicable disease etc. That made 
+chronic disease relatively more important the increase of some risk factors, 
+directly cause the rising of mortality and morbidity of some chronic diseases 
+and injuries related to lung cancer and transportation. At present the character 
+of the disease pattern is as follows: there is still a long way to go to control 
+communicable diseases, although the incidence rates and proportion have 
+decreased. Meanwhile, chronic diseases and injuries are becoming major health 
+issues. Hence, China is facing double challenges.
+
+PMID: 9387582 [Indexed for MEDLINE]
+
+
+245. Zhonghua Liu Xing Bing Xue Za Zhi. 1996 Aug;17(4):203-7.
+
+[An new index to evaluate the elderly health care-geracomia effect index].
+
+[Article in Chinese]
+
+Hu YL(1), Wang SY.
+
+Author information:
+(1)Department of Preventive Medicine, Medical College of Jinan University, 
+Guangzhou.
+
+This paper introduced a new index--geracomia effect index (GEI) which is 
+expressed by the ratio of survival years of the elderly after their retirement 
+to the expected survival years in order to evaluate the health care service to 
+the elderly. The application of this index was discussed using the mortality 
+data of cardiovascular diseases of a city from 1983 to 1994. The results showed 
+that coronary heart disease, pulmonary heart disease and cerebrovascular disease 
+had a stable influence on the survival years of the elderly during this period 
+while the negative effect of diabetes had been weaken with the calendar years. 
+However, myocardial infarction had begun to threaten the younger groups. The 
+author realized that it needs further practice to make the index applicable.
+
+PMID: 9387583 [Indexed for MEDLINE]
+
+
+246. Zhonghua Liu Xing Bing Xue Za Zhi. 1996 Aug;17(4):208-12.
+
+[An analysis of YPLL, WYPLL and VYPLL in Guangzhou, 1983-1994].
+
+[Article in Chinese]
+
+Yang ZC(1), Zhou XZ.
+
+Author information:
+(1)Municipal Health and Anti-epidemic Station of Guangzhou.
+
+In order to assess the health status and risk of various diseases in the 
+population of Guangzhou, the surveillance data of death in 1983-1994 in 
+Guangzhou was analyzed by indicesas: year of potential life lost (YPLL), work 
+year of lost (WYPLL) and valued year of potential life lost (VYPLL). It was 
+indicated that both Chinese standardized mortality rates (CSMR) and Chinese 
+standardized rates (CSYPLLR) had been declined from 448.2 x 10(-5) and 
+53.16/1000 to 398.6 x 10(-5) and 42.29/1000 during 1983-1994, respectively. It 
+was suggested that the health status of inhabitants in Guangzhou had been 
+gradually improved. Cancer lesion and poisoning, cardiovascular diseases rank 
+top in CSYPLLR, were the most important diseases affecting life span of the 
+inhabitants. Lesion and poisoning, infectious disease, psychotic disease, ranked 
+the first in Chinese tandardized WYPLL rates (CSWYPLLR) and Chinese standardized 
+VYPLL rates (CSVYPLLR), were important factors that periled the society labor 
+force and economic development. By comparison of sex, both CSMR and CSYPLLR were 
+higher in male than in female (u = 14.76, P < 0.01; u = 27.05, P < 0.01, 
+respectively). Although both values of CSWYPLLR and CSVYPLLR were negative, they 
+were still higher in male than in female. The zero-age-group was far more higher 
+than all the other age groups in CSPLLR, CSWYPLLR and CSVYPLLR.
+
+PMID: 9387584 [Indexed for MEDLINE]

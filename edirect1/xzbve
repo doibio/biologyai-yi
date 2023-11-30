@@ -1,0 +1,1000 @@
+
+794. Politics Life Sci. 2016 Spring;35(1):1-26. doi: 10.1017/pls.2016.6.
+
+The evolution of offensive realism.
+
+Johnson DD(1), Phil D(1), Thayer BA(2).
+
+Author information:
+(1)* Department of Politics and International Relations, University of Oxford.
+(2)† Stjórnmálafræðideild/Department of Political Science, Háskóli 
+Íslands/University of Iceland.
+
+Offensive realism, a theory of international relations, holds that states are 
+disposed to competition and conflict because they are self-interested, power 
+maximizing, and fearful of other states. Moreover, it argues that states are 
+obliged to behave this way because doing so favors survival in the international 
+system. Debate continues as to whether modern states actually do, or should, 
+behave in this way, but we are struck by a different question. In this article, 
+we ask whether the three core assumptions about behavior in offensive 
+realism-self-help, power maximization, and outgroup fear-have any basis in 
+scientific knowledge about human behavioral evolution. We find that these 
+precise traits are not only evolutionarily adaptive but also empirically common 
+across the animal kingdom, especially in primate and human societies. Based on 
+these findings, we hypothesize that states behave as offensive realists predict 
+not just because of anarchy in the modern international system but also because 
+of the legacy of our evolution. In short, offensive realism may really be 
+describing the nature of the human species more than the nature of the 
+international system. If our hypothesis is correct, then evolutionary theory 
+offers the following: (1) a novel ultimate cause of offensive realist behavior; 
+(2) an extension of offensive realism to any domain in which humans compete for 
+power; and (3) an explanation for why individual leaders themselves, and not 
+just states, seek power. However, a key insight from evolution is that the 
+primacy of self-help, power maximization, and outgroup fear does not necessarily 
+condemn individuals or groups to competition and conflict; rather, these traits 
+can in themselves give rise to cooperation and alliances.
+
+DOI: 10.1017/pls.2016.6
+PMID: 27378020 [Indexed for MEDLINE]
+
+
+795. Natl Vital Stat Rep. 2016 Jun;65(4):1-122.
+
+Deaths: Final Data for 2014.
+
+Kochanek KD, Murphy SL, Xu J, Tejada-Vera B.
+
+Objectives-This report presents final 2014 data on U.S. deaths, death rates, 
+life expectancy, infant mortality, and trends, by selected characteristics such 
+as age, sex, Hispanic origin, race, state of residence, and cause of death.
+
+All material appearing in this report is in the public domain and may be 
+reproduced or copied without permission; citation as to source, however, is 
+appreciated.
+
+PMID: 27378572 [Indexed for MEDLINE]
+
+
+796. Front Neurosci. 2016 Jun 14;10:234. doi: 10.3389/fnins.2016.00234.
+eCollection  2016.
+
+Effects of Body Mass Index and Body Fat Percent on Default Mode, Executive 
+Control, and Salience Network Structure and Function.
+
+Figley CR(1), Asem JS(2), Levenbaum EL(3), Courtney SM(4).
+
+Author information:
+(1)Department of Radiology, University of ManitobaWinnipeg, MB, Canada; 
+Biomedical Engineering Graduate Program, University of ManitobaWinnipeg, MB, 
+Canada; Neuroscience Research Program, Kleysen Institute for Advanced Medicine, 
+Winnipeg Health Sciences CentreWinnipeg, MB, Canada; Department of Psychological 
+and Brain Sciences, Johns Hopkins UniversityBaltimore, MD, USA.
+(2)Department of Psychological and Brain Sciences, Johns Hopkins 
+UniversityBaltimore, MD, USA; Department of Neurobiology and Behavior, 
+University of CaliforniaIrvine, CA, USA; Center for the Neurobiology of Learning 
+and Memory, University of CaliforniaIrvine, CA, USA.
+(3)Department of Psychological and Brain Sciences, Johns Hopkins 
+UniversityBaltimore, MD, USA; School of Medicine and Dentistry, University of 
+Rochester Medical CenterRochester, NY, USA.
+(4)Department of Psychological and Brain Sciences, Johns Hopkins 
+UniversityBaltimore, MD, USA; Solomon H. Snyder Department of Neuroscience, 
+Johns Hopkins UniversityBaltimore, MD, USA; F. M. Kirby Research Center for 
+Functional Brain Imaging, Kennedy Krieger InstituteBaltimore, MD, USA.
+
+It is well established that obesity decreases overall life expectancy and 
+increases the risk of several adverse health conditions. Mounting evidence 
+indicates that body fat is likely also associated with structural and functional 
+brain changes, reduced cognitive function, and greater impulsivity. However, 
+previously reported differences in brain structure and function have been 
+variable across studies and difficult to reconcile due to sample population and 
+methodological differences. To clarify these issues, we correlated two 
+independent measures of body composition-i.e., body mass index (BMI) and body 
+fat percent (BFP)-with structural and functional neuroimaging data obtained from 
+a cohort of 32 neurologically healthy adults. Whole-brain voxel-wise analyses 
+indicated that higher BMI and BFP were associated with widespread decreases in 
+gray matter volume, white matter volume, and white matter microstructure 
+(including several regions, such as the striatum and orbitofrontal cortex, which 
+may influence value assessment, habit formation, and decision-making). Moreover, 
+closer examination of resting state functional connectivity, white matter 
+volume, and white matter microstructure throughout the default mode network 
+(DMN), executive control network (ECN), and salience network (SN) revealed that 
+higher BMI and BFP were associated with increased SN functional connectivity and 
+decreased white matter volumes throughout all three networks (i.e., the DMN, 
+ECN, and SN). Taken together, these findings: (1) offer a biologically plausible 
+explanation for reduced cognitive performance, greater impulsivity, and altered 
+reward processing among overweight individuals, and (2) suggest neurobiological 
+mechanisms (i.e., altered functional and structural brain connectivity) that may 
+affect overweight individuals' ability to establish and maintain healthy 
+lifestyle choices.
+
+DOI: 10.3389/fnins.2016.00234
+PMCID: PMC4906227
+PMID: 27378831
+
+
+797. Lifetime Data Anal. 2017 Oct;23(4):671-691. doi: 10.1007/s10985-016-9372-1.
+Epub  2016 Jul 5.
+
+L₁ splitting rules in survival forests.
+
+Moradian H(1), Larocque D(2), Bellavance F(1).
+
+Author information:
+(1)Department of Decision Sciences, HEC Montréal, 3000 chemin de la 
+Côte-Sainte-Catherine, Montreal, QC, H3T 2A7, Canada.
+(2)Department of Decision Sciences, HEC Montréal, 3000 chemin de la 
+Côte-Sainte-Catherine, Montreal, QC, H3T 2A7, Canada. denis.larocque@hec.ca.
+
+The log-rank test is used as the split function in many commonly used survival 
+trees and forests algorithms. However, the log-rank test may have a significant 
+loss of power in some circumstances, especially when the hazard functions or 
+when the survival functions cross each other in the two compared groups. We 
+investigate the use of the integrated absolute difference between the two 
+children nodes survival functions as the splitting rule. Simulations studies and 
+applications to real data sets show that forests built with this rule produce 
+very good results in general, and that they are often better compared to forests 
+built with the log-rank splitting rule.
+
+DOI: 10.1007/s10985-016-9372-1
+PMID: 27379423 [Indexed for MEDLINE]
+
+
+798. Am J Epidemiol. 2016 Aug 1;184(3):219-26. doi: 10.1093/aje/kwv319. Epub 2016
+Jul  5.
+
+Socioeconomic Disparities and Mortality After a Diagnosis of Dementia: Results 
+From a Nationwide Registry Linkage Study.
+
+van de Vorst IE, Koek HL, Stein CE, Bots ML, Vaartjes I.
+
+Low socioeconomic status (SES) has been linked to a higher incidence of 
+dementia. Less is known about the association between SES and mortality in 
+persons with dementia. We studied this association in a prospective cohort of 
+15,558 patients in the Netherlands between 2000 and 2010. SES was measured using 
+disposable household income and divided in tertiles. Overall, there was a 
+negative relationship between SES and mortality in both sexes and both settings 
+of care. For men who visited a day clinic, the 5-year mortality rate was 74% 
+among those in the lowest tertile of SES and 57% among those in the highest; for 
+women, the rates were 60% and 50%, respectively. The differences in median 
+survival times between persons in the lower and upper tertiles of SES were 260 
+days for men and 300 days for women. For men who were admitted to the hospital, 
+the 5-year mortality rate was 89% among those in the lowest tertile of SES and 
+86% among those in the highest; for women, the rates were 83% and 77%, 
+respectively. The differences in median survival times between persons in the 
+lower and upper tertiles of SES were 80 days for men and 130 days for women. 
+Among patients who visited a day clinic, for patients in the lowest tertile of 
+SES versus those in the highest, the adjusted hazard ratio was 1.41 (95% 
+confidence interval: 1.26, 1.57); for those admitted to the hospital, it was 
+1.14 (95% confidence interval: 1.07, 1.20). In summary, lower SES was associated 
+with a higher mortality risk in both men and women with dementia. The results of 
+the present study should raise awareness in clinicians and caregivers about the 
+unfavorable prognosis in the most deprived patients.
+
+© The Author 2016. Published by Oxford University Press on behalf of the Johns 
+Hopkins Bloomberg School of Public Health. All rights reserved. For permissions, 
+please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/aje/kwv319
+PMID: 27380760 [Indexed for MEDLINE]
+
+
+799. Exp Gerontol. 2016 Sep;82:139-49. doi: 10.1016/j.exger.2016.07.001. Epub
+2016  Jul 2.
+
+Peptides from sesame cake extend healthspan of Caenorhabditis elegans via 
+upregulation of skn-1 and inhibition of intracellular ROS levels.
+
+Wang Z(1), Ma X(2), Li J(3), Cui X(4).
+
+Author information:
+(1)School of Life Science, Shanxi University, Taiyuan 030006, Shanxi, PR China; 
+Key Laboratory of Chemical Biology and Molecular Engineering of Ministry of 
+Education, Institute of Biotechnology, Shanxi University, Taiyuan 030006, 
+Shanxi, PR China. Electronic address: zhwang@sxu.edu.cn.
+(2)School of Life Science, Shanxi University, Taiyuan 030006, Shanxi, PR China.
+(3)Key Laboratory of Chemical Biology and Molecular Engineering of Ministry of 
+Education, Institute of Biotechnology, Shanxi University, Taiyuan 030006, 
+Shanxi, PR China.
+(4)Key Laboratory of Chemical Biology and Molecular Engineering of Ministry of 
+Education, Institute of Biotechnology, Shanxi University, Taiyuan 030006, 
+Shanxi, PR China. Electronic address: cuixiaodong@sxu.edu.cn.
+
+The peptides from sesame cake (PSC) which are the main by-product of 
+agricultural processing of sesame were prepared. To evaluate benefits of PSC for 
+health and longevity, antioxidant activity and anti-aging effects were studied 
+in vitro and in a Caenorhabditis elegans (C. elegans) model system. PSC 
+exhibited antioxidant activity in vitro, and induced beneficial effects on 
+lifespan and several health parameters of C.elegans, including pharyngeal 
+pumping rate, locomotion and lipofuscin accumulation. In a mev-1 mutant, PSC 
+increased lifespan, and it enhanced oxidative stress tolerance in wild-type 
+nematodes. After treatment with PSC, SOD activity, GSH content, and GSH/GSSG 
+ratio were increased, leading to low intracellular ROS levels in C. elegans. PSC 
+up-regulated skn-1 mRNA, and its target gene gcs-1, and abolished the extension 
+of lifespan in skn-1 mutant, indicating that PSC-mediated longevity is dependent 
+on activation of the skn-1/Nrf-2 transcription factor. Current results warrant 
+research into the use of PSC as nutraceuticals for overall health improvement.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.exger.2016.07.001
+PMID: 27381188 [Indexed for MEDLINE]
+
+
+800. Clin Appl Thromb Hemost. 2017 Oct;23(7):871-875. doi:
+10.1177/1076029616655616.  Epub 2016 Jul 4.
+
+Prevalence and Risk Factors Associated With Hypertension in Hemophilia: 
+Cross-Sectional Analysis of a National Discharge Register.
+
+Seaman CD(1)(2), Apostolova M(3), Yabes J(4), Comer DM(4), Ragni MV(1)(2).
+
+Author information:
+(1)1 Division of Hematology/Oncology, Department of Medicine, University of 
+Pittsburgh Medical Center, Pittsburgh, PA, USA.
+(2)2 Hemophilia Center of Western Pennsylvania, Pittsburgh, PA, USA.
+(3)3 Division of Hematology/Oncology, Department of Medicine, West Penn 
+Allegheny Health Network, Pittsburgh, PA, USA.
+(4)4 Center for Research on Health Care Data Center, University of Pittsburgh, 
+Pittsburgh, PA, USA.
+
+INTRODUCTION: Improved life expectancy of persons with hemophilia (PWHs) has led 
+to a greater interest in the role of age-related chronic diseases, such as 
+hypertension, in this cohort. Several observational studies have reported an 
+increased prevalence of hypertension in PWHs; however, this has not been 
+assessed using a large, national database in the United States.
+AIMS: We hypothesized the prevalence of hypertension is increased in PWHs and 
+compared the prevalence of hypertension and associated risk factors among 
+patients with and without hemophilia.
+METHODS: A cross-sectional analysis was performed using discharge data among 
+adult males from the National Inpatient Sample over the 3-year period, 2009 to 
+2011. Hypertension was compared across groups using Rao-Scott χ2 test. 
+Multivariable logistic regression was used to estimate the odds of hypertension 
+in patients with hemophilia after adjustment for hypertension-associated risk 
+factors.
+RESULTS: The prevalence of hypertension in patients with hemophilia was less 
+than the prevalence of hypertension in patients without hemophilia (39.5% vs 
+56.3%, P < .001). Hemophilia was associated with a decreased odds of 
+hypertension after adjusting for associated risk factors (odds ratio: 0.87; 95% 
+confidence interval: 0.81-0.94).
+CONCLUSION: In contrast to the findings of several other recent studies, we 
+report a decreased prevalence of hypertension in PWHs. The discrepancy among the 
+reported prevalence of hypertension in our study and several others highlights 
+the potential biases inherent to retrospective and cross-sectional studies and 
+underscores the need for well-designed prospective studies to determine the true 
+incidence of hypertension in PWHs, which may lie somewhere in between our 
+findings and the findings of others.
+
+DOI: 10.1177/1076029616655616
+PMID: 27381754 [Indexed for MEDLINE]
+
+
+801. Duodecim. 2016;132(10):912-6.
+
+[Novel approved form of treatment for colonic cancer with peritoneal metastases 
+- radicality-aimed surgery combined with hyperthermic intraperitoneal 
+chemotherapy].
+
+[Article in Finnish]
+
+Lepistö A.
+
+Carcinomatosis occurs in almost 10% of colonic cancer patients, whereby the 
+five-year survival rate on cytostatic chemotherapy is approx. 13% at best. For 
+patients having carcinomatosis restricted to a fairly small area, surgical 
+removal of peritoneal metastases combined with hyperthermic intraperitoneal 
+chemotherapy (HIPEC) may be a curative procedure. The treatment has resulted in 
+a five-year life expectancy of 30 to 35% for selected patients. The treatment 
+is, however, associated with significant morbidity and even mortality. 
+Colorectal cancer patients diagnosed with restricted peritoneal carcinomatosis 
+should be referred to an assessment for HPEC treatment.
+
+PMID: 27382828 [Indexed for MEDLINE]
+
+
+802. J Biosoc Sci. 2017 Jul;49(4):536-555. doi: 10.1017/S002193201600033X. Epub
+2016  Jul 7.
+
+THE CAUSAL RELATIONSHIP BETWEEN CONSANGUINEOUS MARRIAGES AND INFANT MORTALITY IN 
+TURKEY.
+
+Koç İ(1), Eryurt MA(1).
+
+Author information:
+(1)Hacettepe University Institute of Population Studies,Ankara,Turkey.
+
+Erratum in
+    J Biosoc Sci. 2017 Jul;49(4):556.
+
+Turkey has high levels of infant mortality and consanguineous marriages. It has 
+had a high level of infant mortality for its economic level for many years. Over 
+recent decades, although adult mortality rates have not been very different from 
+those of other countries with similar socioeconomic structures, its life 
+expectancy at birth has remained low due to its high infant mortality rate. This 
+has been called the Turkish Puzzle. According to the Turkey Family Structure and 
+Population Issues Survey, 27% of women had a consanguineous marriage in 1968. 
+Subsequent Turkish Demographic and Health Surveys (TDHSs) found the rate of 
+consanguineous marriages to be stagnated at 22-24%, with a resistance to 
+reduction. According to the TDHS-2008, 24% of women had a consanguineous 
+marriage. Numerous studies in various countries of the world have indicated that 
+consanguineous marriages, particularly of first-degree, have the effect of 
+increasing infant mortality. The main aim of this study was to assess the causal 
+impact of consanguineous, particularly first-degree consanguineous, marriages on 
+infant mortality, controlling for individual, cultural, bio-demographic and 
+environmental factors. Data were merged from four Turkish DHS data sets (1993, 
+1998, 2003 and 2008). Multivariate analysis revealed that first-degree 
+consanguineous marriages have increased infant mortality by 45% in Turkey: 57% 
+in urban areas and 39% in rural areas. The results indicate that there is a 
+causal relationship between consanguineous marriages and infant mortality. This 
+finding should be taken into account when planning policies to reduce infant 
+mortality in Turkey, and in other countries with high rates of consanguineous 
+marriage and infant mortality.
+
+DOI: 10.1017/S002193201600033X
+PMID: 27382977 [Indexed for MEDLINE]
+
+
+803. Demography. 2016 Aug;53(4):1109-34. doi: 10.1007/s13524-016-0488-4.
+
+Life Expectancy Among U.S.-born and Foreign-born Older Adults in the United 
+States: Estimates From Linked Social Security and Medicare Data.
+
+Mehta NK(1), Elo IT(2), Engelman M(3), Lauderdale DS(4), Kestenbaum BM(5).
+
+Author information:
+(1)Department of Global Health, Emory University, Claudia Nance Rollins 
+Building, 1518 Clifton Road, Room 7035, Atlanta, GA, 30322, USA. 
+nkmehta@emory.edu.
+(2)Population Aging Research Center and Population Studies Center, University of 
+Pennsylvania, Philadelphia, PA, USA.
+(3)Department of Sociology, University of Wisconsin-Madison, Madison, WI, USA.
+(4)Department of Public Health Sciences, University of Chicago, Chicago, IL, 
+USA.
+(5)Office of the Chief Actuary, Social Security Administration, Baltimore, MD, 
+USA.
+
+In recent decades, the geographic origins of America's foreign-born population 
+have become increasingly diverse. The sending countries of the U.S. foreign-born 
+vary substantially in levels of health and economic development, and immigrants 
+have arrived with distinct distributions of socioeconomic status, visa type, 
+year of immigration, and age at immigration. We use high-quality linked Social 
+Security and Medicare records to estimate life tables for the older U.S. 
+population over the full range of birth regions. In 2000-2009, the foreign-born 
+had a 2.4-year advantage in life expectancy at age 65 relative to the U.S.-born, 
+with Asian-born subgroups displaying exceptionally high longevity. Foreign-born 
+individuals who migrated more recently had lower mortality compared with those 
+who migrated earlier. Nonetheless, we also find remarkable similarities in life 
+expectancy among many foreign-born subgroups that were born in very different 
+geographic and socioeconomic contexts (e.g., Central America, western/eastern 
+Europe, and Africa).
+
+DOI: 10.1007/s13524-016-0488-4
+PMCID: PMC5026916
+PMID: 27383845 [Indexed for MEDLINE]
+
+
+804. Oncotarget. 2016 Sep 13;7(37):59173-59188. doi: 10.18632/oncotarget.10384.
+
+Tumor cells derived exosomes contain hTERT mRNA and transform nonmalignant 
+fibroblasts into telomerase positive cells.
+
+Gutkin A(1), Uziel O(1)(2), Beery E(1), Nordenberg J(1)(2), Pinchasi M(1)(2), 
+Goldvaser H(1)(3), Henick S(1), Goldberg M(4), Lahav M(1)(2)(5).
+
+Author information:
+(1)The Felsenstein Medical Research Center, Rabin Medical Center, Petah Tikva, 
+Israel.
+(2)Sackler School of Medicine, Tel-Aviv University, Petah Tikva, Israel.
+(3)Institute of Oncology, Davidoff Cancer Center, Rabin Medical Center, Petah 
+Tikva, Israel.
+(4)Department of Genetics, Institute of Life Sciences, Hebrew University of 
+Jerusalem, Petah Tikva, Israel.
+(5)Institute of Hematology, Davidoff Cancer Center, Rabin Medical Center, Petah 
+Tikva, Israel.
+
+Exosomes are small (30-100nm) vesicles secreted from all cell types serving as 
+inter-cell communicators and affecting biological processes in "recipient" cells 
+upon their uptake. The current study demonstrates for the first time that hTERT 
+mRNA, the transcript of the enzyme telomerase, is shuttled from cancer cells via 
+exosomes into telomerase negative fibroblasts, where it is translated into a 
+fully active enzyme and transforms these cells into telomerase positive, thus 
+creating a novel type of cells; non malignant cells with telomerase activity. 
+All tested telomerase positive cells, including cancer cells and non malignant 
+cells with overexpressed telomerase secreted exosomal hTERT mRNA in accordance 
+with the endogenous levels of their hTERT mRNA and telomerase activity. 
+Similarly exosomes isolated from sera of patients with pancreatic and lung 
+cancer contained hTERT mRNA as well. Telomerase activity induced phenotypic 
+changes in the recipient fibroblasts including increased proliferation, 
+extension of life span and postponement of senescence. In addition, telomerase 
+activity protected the fibroblasts from DNA damage induced by phleomycin and 
+from apoptosis, indicating that also telomerase "extracurricular" activities are 
+manifested in the recipient cells. The shuttle of telomerase from cancer cells 
+into fibroblasts and the induction of these changes may contribute to the 
+alterations of cancer microenvironment and its role in cancer. The described 
+process has an obvious therapeutic potential which will be explored in further 
+studies.
+
+DOI: 10.18632/oncotarget.10384
+PMCID: PMC5312303
+PMID: 27385095 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICTS OF INTEREST The authors declare no 
+conflict of interest.
+
+
+805. Thorac Cancer. 2016 Jul;7(4):393-8. doi: 10.1111/1759-7714.12354. Epub 2016
+May  5.
+
+Predictors of survival in patients who underwent video-assisted thoracic surgery 
+talc pleurodesis for malignant pleural effusion.
+
+Yoon DW(1), Cho JH(1), Choi YS(1), Kim J(1), Kim HK(1), Zo JI(1), Shim YM(1).
+
+Author information:
+(1)Department of Thoracic Surgery, Samsung Medical Center Sungkyunkwan 
+University School of Medicine Seoul South Korea.
+
+BACKGROUND: Patients with malignant pleural effusion have a limited life 
+expectancy. An increase in pleural and oncological treatment options and more 
+accurate prognostic evaluation may help individualize treatment strategies. The 
+aim of this study was to identify the prognostic indicators of overall survival 
+(OS) after video-assisted thoracic surgery (VATS) talc pleurodesis for malignant 
+pleural effusion.
+METHODS: We examined the medical records of all consecutive patients with 
+malignant pleural effusion who underwent VATS talc pleurodesis from 2006 to 2008 
+at the Samsung Medical Center. Univariate and multivariate analyses were used to 
+identify predictors of OS after VATS talc pleurodesis.
+RESULTS: During the study period, 91 patients underwent VATS talc pleurodesis to 
+treat malignant pleural effusion. Early (within 30 days) and late (within 90 
+days) postoperative mortality rates were 9.9% (9 patients), and 25.3% (23), 
+respectively. Median survival time after VATS talc pleurodesis was 10.5 months. 
+The postoperative respiratory complication rate was 11% (10 patients), and 
+included pneumonia (9) and acute respiratory distress syndrome (4). Multivariate 
+analysis revealed that preoperative chemotherapy (P = 0.012), preoperative 
+radiotherapy (P = 0.003), and Eastern Cooperative Oncology Group (ECOG) 
+performance score 3 or 4 (P = 0.013) were independent risk factors of OS after 
+VATS talc pleurodesis.
+CONCLUSIONS: We identified previous chemotherapy or radiotherapy and poor 
+performance status (ECOG 3 or 4) as significant predictors of OS after VATS talc 
+pleurodesis. These prognostic factors can help surgeons select candidates for 
+VATS pleurodesis for malignant pleural effusion.
+
+DOI: 10.1111/1759-7714.12354
+PMCID: PMC4930957
+PMID: 27385980
+
+
+806. An R Acad Nac Med (Madr). 2014;131(1):77-94; discussion 94-7.
+
+[THE GLOBAL AND ECONOMIC CRISIS. AND HEALTH MANAGEMENT].
+
+[Article in Spanish]
+
+del Rey Calero J.
+
+The Global and economic crisis and Health Management The Health care process 
+discussed are 4 steps: assessment, planing, intervention and evaluation. The 
+identify association between social factors linked to social vulnerability 
+(socio economic status, unemployed, poverty) and objective health relate quality 
+of life. The poverty rate is 24.2%, unemployed 26.26%, youth unemployed 
+56.13%.ratio worker/retired 2.29. Debts 100% GDP The health inequality influence 
+on health related quality of life. The Health System efficiency index. according 
+Bloomber rate (2,013) Spain is 5 degrees in the world, points 68.3 on 100, for 
+the life expectancy 82.3 years, the personal cost of health care 2,271€. Health 
+care 10% GDP (public 7%,private 3%), SS protected population 92.4%, retired 
+person cost 9.2% GDP, p. capita GDP 23,737€. Cost of Care: Hospital/specialist 
+54%, P. Care 15%, Pharmaceutical 19.8%, P. Health 3.1%.
+
+PMID: 27386674 [Indexed for MEDLINE]
+
+
+807. Curr Treat Options Gastroenterol. 2016 Sep;14(3):285-304. doi: 
+10.1007/s11938-016-0099-6.
+
+Management of Inflammatory Bowel Disease in the Elderly.
+
+John ES(1)(2), Katz K(3), Saxena M(3), Chokhavatia S(3), Katz S(4).
+
+Author information:
+(1)Department of Internal Medicine, Rutgers Robert Wood Johnson, New Brunswick, 
+NJ, USA. elizabethjohn17@gmail.com.
+(2)Division of Gastroenterology, Rutgers Robert Wood Johnson, New Brunswick, NJ, 
+USA. elizabethjohn17@gmail.com.
+(3)Division of Gastroenterology, Rutgers Robert Wood Johnson, New Brunswick, NJ, 
+USA.
+(4)New York University School of Medicine, 1000 Northern Blvd, Great Neck, NY, 
+11020, USA.
+
+A substantial and growing proportion of patients with inflammatory bowel disease 
+(IBD) are elderly, and these patients require tailored treatment strategies. 
+However, significant challenges exist in the management of this population due 
+to the paucity of data. Establishing the initial diagnosis and assessing the 
+etiology of future symptoms and flares can be challenging as several other 
+prevalent diseases can masquerade as IBD, such as ischemic colitis, diverticular 
+disease, and infectious colitis. Important pharmacologic considerations include 
+reduced glomerular filtration rate and drug-drug interactions in the elderly. No 
+drug therapy is absolutely contraindicated in this population; however, special 
+risk and benefit assessments should be made. Older patients are more susceptible 
+to side effects of steroids such as delirium, fractures, and cataracts. 
+Budesonide can be an appropriate alternative for mild to moderate ulcerative 
+colitis (UC) or Crohn's disease (CD) as it has limited systemic absorption. Pill 
+size and quantity, nephrotoxicity, and difficulty of administration of rectal 
+preparations should be considered with 5-aminosalicylic (5-ASA) therapy. 
+Biologics are very effective, but modestly increase the risk of infection in a 
+susceptible group. Based on their mechanisms, integrin receptor antagonists 
+(e.g., vedolizumab) may reduce these risks. Use of antibiotics for anorectal or 
+fistulizing CD or pouchitis in UC increases the risk of Clostridium difficile 
+infection. Pre-existing comorbidities, functional status, and nutrition are 
+important indicators of surgical outcomes. Morbidity and mortality are increased 
+among IBD patients undergoing surgery, often due to postoperative complications 
+or sepsis. Elderly adults with IBD, particularly UC, have very high rates of 
+venous thromboembolism (VTE). Colonoscopy appears safe, but the optimal 
+surveillance interval has not been well defined. Should the octogenarian, 
+nonagenarian, and centurion undergo colonoscopy? The length of surveillance 
+should likely account for the individual's overall life expectancy. Specific 
+health maintenance should emphasize administering non-live vaccines to patients 
+on thiopurines or biologics and regular skin exams for those on thiopurines. 
+Smoking cessation is crucial to overall health and response to medical therapy, 
+even among UC patients. This article will review management of IBD in the 
+elderly.
+
+DOI: 10.1007/s11938-016-0099-6
+PMID: 27387455
+
+
+808. PLoS Negl Trop Dis. 2016 Jul 7;10(7):e0004831. doi: 
+10.1371/journal.pntd.0004831. eCollection 2016 Jul.
+
+The Burden of Zoonoses in Kyrgyzstan: A Systematic Review.
+
+Counotte MJ(1)(2), Minbaeva G(3), Usubalieva J(3), Abdykerimov K(4), Torgerson 
+PR(1).
+
+Author information:
+(1)Section of Epidemiology, Vetsuisse Faculty, University of Zurich, Zurich, 
+Switzerland.
+(2)Faculty of Veterinary Medicine, Utrecht University, Utrecht, The Netherlands.
+(3)State Sanitary Epidemiological Department of the Kyrgyz Republic, Bishkek, 
+Kyrgyzstan.
+(4)Laboratory "Express Plus", Bishkek, Kyrgyzstan.
+
+INTRODUCTION: Zoonotic disease (ZD) pose a serious threat to human health in 
+low-income countries. In these countries the human burden of disease is often 
+underestimated due to insufficient monitoring because of insufficient funding. 
+Quantification of the impact of zoonoses helps in prioritizing healthcare needs. 
+Kyrgyzstan is a poor, mountainous country with 48% of the population employed in 
+agriculture and one third of the population living below the poverty line.
+METHODOLOGY/PRINCIPAL FINDINGS: We have assessed the burden of zoonoses in 
+Kyrgyzstan by conducting a systematic review. We have used the collected data to 
+estimate the burden of ZDs and addressed the underestimation in officially 
+reported disease incidence. The estimated incidences of the ZDs were used to 
+calculate incidence-based Disability Adjusted Life Years (DALYs). This 
+standardized health gap measure enhances comparability between injuries and 
+diseases. The combined burden for alveolar echinococcosis, cystic 
+echinococcosis, brucellosis, campylobacteriosis, congenital toxoplasmosis, 
+non-typhoidal salmonellosis and rabies in Kyrgyzstan in 2013 was 35,209 DALYs 
+[95% Uncertainty interval (UI):13,413-83,777]; 576 deaths [95% UI: 279-1,168] 
+were attributed to these infections. We estimate a combined median incidence of 
+ZDs of 141,583 cases [95% UI: 33,912-250,924] in 2013. The highest burden was 
+caused by non-typhoidal Salmonella and Echinococcus multilocularis, respectively 
+14,792 DALYs [95% UI: 3,966-41,532] and 11,915 DALYs [95% UI: 4,705-27,114] per 
+year.
+CONCLUSION/SIGNIFICANCE: The health impact of zoonoses in Kyrgyzstan is 
+substantial, comparable to that of HIV. Community-based surveillance studies and 
+hospital-based registration of all occurrences of zoonoses would increase the 
+accuracy of the estimates.
+
+DOI: 10.1371/journal.pntd.0004831
+PMCID: PMC4936671
+PMID: 27387925 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+809. Invest Ophthalmol Vis Sci. 2016 Jul 1;57(8):3581-7. doi:
+10.1167/iovs.16-19287.
+
+Dystrophin Is Required for Proper Functioning of Luminance and Red-Green Cone 
+Opponent Mechanisms in the Human Retina.
+
+Barboni MT(1), Martins CM(1), Nagy BV(1), Tsai T(2), Damico FM(3), da Costa 
+MF(1), de Cassia R, Pavanello M(4), Lourenço NC(4), de Cerqueira AM(4), Zatz 
+M(4), Kremers J(2), Ventura DF(1).
+
+Author information:
+(1)Núcleo de Neurociências e Comportamento, Universidade de São Paulo, São 
+Paulo, Brasil 2Departamento de Psicologia Experimental, Instituto de Psicologia, 
+Universidade de São Paulo, São Paulo, Brasil.
+(2)Department of Ophthalmology, University Hospital Erlangen, Erlangen, Germany.
+(3)Núcleo de Neurociências e Comportamento, Universidade de São Paulo, São 
+Paulo, Brasil 2Departamento de Psicologia Experimental, Instituto de Psicologia, 
+Universidade de São Paulo, São Paulo, Brasil 4Departamento de Oftalmologia, 
+Faculdade de Medicina, Uni.
+(4)Centro de Pesquisas do Genoma Humano e Células-Tronco Universidade de São 
+Paulo, São Paulo, Brasil.
+
+PURPOSE: Visual information is processed in parallel pathways in the visual 
+system. Parallel processing begins at the synapse between the photoreceptors and 
+their postreceptoral neurons in the human retina. The integrity of this first 
+neural connection is vital for normal visual processing downstream. Of the 
+numerous elements necessary for proper functioning of this synaptic contact, 
+dystrophin proteins in the eye play an important role. Deficiency of muscle 
+dystrophin causes Duchenne muscular dystrophy (DMD), an X-linked disease that 
+affects muscle function and leads to decreased life expectancy. In DMD patients, 
+postreceptoral retinal mechanisms underlying scotopic and photopic vision and 
+ON- and OFF-pathway responses are also altered.
+METHODS: In this study, we recorded the electroretinogram (ERG) while 
+preferentially activating the (red-green) opponent or the luminance pathway, and 
+compared data from healthy participants (n = 16) with those of DMD patients (n = 
+10). The stimuli were heterochromatic sinusoidal modulations at a mean luminance 
+of 200 cd/m2. The recordings allowed us also to analyze ON and OFF cone-driven 
+retinal responses.
+RESULTS: We found significant differences in 12-Hz response amplitudes and 
+phases between controls and DMD patients, with conditions with large luminance 
+content resulting in larger response amplitudes in DMD patients compared to 
+controls, whereas responses of DMD patients were smaller when pure chromatic 
+modulation was given.
+CONCLUSIONS: The results suggest that dystrophin is required for the proper 
+function of luminance and red-green cone opponent mechanisms in the human 
+retina.
+
+DOI: 10.1167/iovs.16-19287
+PMID: 27388051 [Indexed for MEDLINE]
+
+
+810. BMC Cancer. 2016 Jul 7;16:405. doi: 10.1186/s12885-016-2431-x.
+
+A cost effective analysis of fixed-dose combination of dutasteride and 
+tamsulosin compared with dutasteride monotherapy for benign prostatic 
+hyperplasia in Nigeria: a middle income perspective; using an interactive Markov 
+model.
+
+Udeh EI(1), Ofoha CG(2), Adewole DA(3), Nnabugwu II(4).
+
+Author information:
+(1)Department of Surgery, Faculty of medicine, College of Medicine, University 
+of Nigeria Enugu campus, Enugu, Nigeria. emeka.udeh@unn.edu.ng.
+(2)Division of Urology, Department of Surgery, Jos University Teaching Hospital, 
+Jos, Nigeria.
+(3)Department of Community Medicine, Bowen University/Bowen University Teaching 
+Hospital, Iwo/Ogbomoso, Nigeria.
+(4)Department of Surgery, University of Nigeria Teaching Hospital Ituku-Ozalla 
+Enugu, Enugu, Nigeria.
+
+BACKGROUND: The number of Nigerian men presenting with benign prostatic 
+hyperplasia is on the rise because of increase awareness about the ailment. With 
+the renewed effort by the national health insurance scheme to cover the informal 
+sector, it becomes imperative to determine the cost implication for managing 
+Benign Prostatic Hyperplasia (BPH) and the cost effective drug combination to be 
+adopted. The objective of this study is to estimate cost effective analysis 
+(CEA) of fixed -dose combination of dutasteride and tamsulosin compared with 
+dutasteride monotherapy from the health service provider perspective design.
+METHODS: An interactive Markov's model was used to generate incremental cost per 
+QALY and incremental cost per life years gained. 2.9 million Men who were 
+50 years of age were fed into the model. The outcome measures included: costs of 
+drug treatment, consultation, acute urinary retention (AUR), transurethral 
+resection of prostate (TURP), hospitalisation post TURP, and quality adjusted 
+life years (QALYs), incremental cost per life years gained, and incremental cost 
+per QALY gained.
+RESULTS: Fixed-dose combination of dutasteride and tamsulosin (FDCT) produced an 
+Incremental cost-effectiveness ratios of US$1481.92 per Quality adjusted for 
+life-years saved.
+CONCLUSION: Universal FDCT provision for Nigeria has major economic 
+implications. This study in the context of its limitations has demonstrated the 
+cost effectiveness of FDCT for the long term treatment of patients with moderate 
+to severe BPH from the perspective of a developing country. Currently, there are 
+few studies available to give economic data evidence to policy makers in Nigeria 
+which is applicable to developing countries with similar economies. As such, the 
+findings in this study will be relevant to policy makers in these countries.
+
+DOI: 10.1186/s12885-016-2431-x
+PMCID: PMC4936011
+PMID: 27388750 [Indexed for MEDLINE]
+
+
+811. Infect Dis Poverty. 2016 May 24;5(1):54. doi: 10.1186/s40249-016-0147-4.
+
+The health and economic benefits of the global programme to eliminate lymphatic 
+filariasis (2000-2014).
+
+Turner HC(1)(2), Bettis AA(3)(4), Chu BK(5), McFarland DA(6), Hooper PJ(5), 
+Ottesen EA(5), Bradley MH(7).
+
+Author information:
+(1)London Centre for Neglected Tropical Disease Research, London, UK. 
+hugo.turner@imperial.ac.uk.
+(2)Department of Infectious Disease Epidemiology, School of Public Health, 
+Faculty of Medicine, St Marys Campus, Imperial College London, Norfolk Place, 
+London, W2 1PG, UK. hugo.turner@imperial.ac.uk.
+(3)London Centre for Neglected Tropical Disease Research, London, UK.
+(4)Department of Infectious Disease Epidemiology, School of Public Health, 
+Faculty of Medicine, St Marys Campus, Imperial College London, Norfolk Place, 
+London, W2 1PG, UK.
+(5)Neglected Tropical Diseases Support Center, Task Force for Global Health, 
+Decatur, GA, USA.
+(6)Rollins School of Public Health, Emory University, Atlanta, GA, USA.
+(7)Global Health Programs, GlaxoSmithKline, London, UK.
+
+BACKGROUND: Lymphatic filariasis (LF), also known as elephantiasis, is a 
+neglected tropical disease (NTD) targeted for elimination through a Global 
+Programme to Eliminate LF (GPELF). Between 2000 and 2014, the GPELF has 
+delivered 5.6 billion treatments to over 763 million people. Updating the 
+estimated health and economic benefits of this significant achievement is 
+important in justifying the resources and investment needed for eliminating LF.
+METHOD: We combined previously established models to estimate the number of 
+clinical manifestations and disability-adjusted life years (DALYs) averted from 
+three benefit cohorts (those protected from acquiring infection, those with 
+subclinical morbidity prevented from progressing and those with clinical disease 
+alleviated). The economic savings associated with this disease prevention was 
+then analysed in the context of prevented medical expenses incurred by LF 
+clinical patients, potential income loss through lost-labour, and prevented 
+costs to the health system to care for affected individuals. The indirect cost 
+estimates were calculated using the human capital approach. A combination of 
+four wage sources was used to estimate the fair market value of time for an 
+agricultural worker with LF infection (to ensure a conservative estimate, the 
+lowest wage value was used).
+RESULTS: We projected that due to the first 15 years of the GPELF 36 million 
+clinical cases and 175 (116-250) million DALYs will potentially be averted. It 
+was estimated that due to this notable health impact, US$100.5 billion will 
+potentially be saved over the lifetimes of the benefit cohorts. This total 
+amount results from summing the medical expenses incurred by LF patients (US$3 
+billion), potential income loss (US$94 billion), and costs to the health system 
+(US$3.5 billion) that were projected to be prevented. The results were subjected 
+to sensitivity analysis and were most sensitive to the assumed percentage of 
+work hours lost for those suffering from chronic disease (changing the total 
+economic benefit between US$69.30-150.7 billion).
+CONCLUSIONS: Despite the limitations of any such analysis, this study identifies 
+substantial health and economic benefits that have resulted from the first 
+15 years of the GPELF, and it highlights the value and importance of continued 
+investment in the GPELF.
+
+DOI: 10.1186/s40249-016-0147-4
+PMCID: PMC4937583
+PMID: 27388873 [Indexed for MEDLINE]
+
+
+812. Int J Aging Hum Dev. 2016 Oct;83(4):402-17. doi: 10.1177/0091415016657560.
+Epub  2016 Jul 7.
+
+Relationship Between the Remaining Years of Healthy Life Expectancy in Older Age 
+and National Income Level, Educational Attainment, and Improved Water Quality.
+
+Kim JI(1), Kim G(2).
+
+Author information:
+(1)Division of Social Welfare and Public Health Administration, Wonkwang 
+University, Republic of Korea Institute for Longevity Sciences, Wonkwang 
+University, Republic of Korea kji122@wku.ac.kr.
+(2)Global Management of Natural Resources, University College London (UCL), UK.
+
+The remaining years of healthy life expectancy (RYH) at age 65 years can be 
+calculated as RYH (65) = healthy life expectancy-aged 65 years. This study 
+confirms the associations between socioeconomic indicators and the RYH (65) in 
+148 countries. The RYH data were obtained from the World Health Organization. 
+Significant positive correlations between RYH (65) in men and women and the 
+socioeconomic indicators national income, education level, and improved drinking 
+water were found. Finally, the predictors of RYH (65) in men and women were used 
+to build a model of the RYH using higher socioeconomic indicators (R(2 )= 0.744, 
+p < .001). Overall country-level educational attainment, national income level, 
+and improved water quality influenced the RYH at 65 years. Therefore, 
+policymaking to improve these country-level socioeconomic factors is expected to 
+have latent effects on RYH in older age.
+
+© The Author(s) 2016.
+
+DOI: 10.1177/0091415016657560
+PMID: 27388888 [Indexed for MEDLINE]
+
+
+813. Int J Cardiol. 2016 Oct 1;220:235-41. doi: 10.1016/j.ijcard.2016.06.138.
+Epub  2016 Jun 25.
+
+The role of neuropeptide Y in the pathophysiology of atherosclerotic 
+cardiovascular disease.
+
+Zhu P(1), Sun W(1), Zhang C(1), Song Z(2), Lin S(3).
+
+Author information:
+(1)Department of Cardiology, Southwest Hospital, Third Military Medical 
+University, China.
+(2)Department of Cardiology, Southwest Hospital, Third Military Medical 
+University, China. Electronic address: zysong2010@126.com.
+(3)Department of Cardiology, Southwest Hospital, Third Military Medical 
+University, China; Illawarra Health and Medical Research Institute, Wollongong 
+2522, Australia. Electronic address: shulin1956@126.com.
+
+With average life expectancy rising greatly, the incidence rate of 
+arteriosclerotic cardiovascular disease (ASCVD) has significantly increased. The 
+heart disease has now become the number one killer that threatens the global 
+population health, the second is stroke. It will be of great significance to 
+investigate the underlying pathophysiological mechanisms of ASCVD in order to 
+promote effective prevention and treatment. The neuropeptide Y (NPY) has now 
+been discovered for more than thirty years and is widely distributed in the 
+central nervous system (CNS) and peripheral tissues. By combining with certain 
+receptors, NPY performs a variety of physiological functions, including the 
+regulation of food intake, cardiovascular effects, development, hormonal 
+secretion, sexual behavior, biological rhythms, temperature and emotion. In 
+ASCVD, increased peripheral NPY was involved in the pathophysiological process 
+of atherosclerosis through affecting the vascular endothelial dysfunction, the 
+formation of foam cells, the proliferation of vascular smooth muscle cells, the 
+local inflammatory response of plaques and the activation and aggregation of 
+platelets. Via central and/or the peripheral nervous system, increased NPY was 
+associated with dyslipidemia, hypertension, obesity, diabetes, impaired glucose 
+tolerance, and smoking which are all risk factors for ASCVD. In this review, we 
+summarize the role of neuropeptide Y in the development of atherosclerotic 
+cardiovascular disease.
+
+Copyright © 2016 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.ijcard.2016.06.138
+PMID: 27389447 [Indexed for MEDLINE]
+
+
+814. Epilepsy Res. 2016 Sep;125:37-41. doi: 10.1016/j.eplepsyres.2016.05.006.
+Epub  2016 May 25.
+
+Determining the disability adjusted life years lost to childhood and adolescence 
+epilepsy in southeast Nigeria: An exploratory study.
+
+Ughasoro MD(1), Onwujekwe OE(2), Ojinnaka NC(3).
+
+Author information:
+(1)Department of Paediatrics, University of Nigeria, Enugu Campus, Enugu, 
+Nigeria. Electronic address: maduka.ughasoro@unn.edu.ng.
+(2)Department of Pharmacology and Therapeutics, and Department of Health 
+Administration and Management, University of Nigeria, Enugu Campus, Enugu, 
+Nigeria.
+(3)Department of Paediatrics, University of Nigeria, Enugu Campus, Enugu, 
+Nigeria.
+
+OBJECTIVES: Disease burden has always been based on associated mortality. An 
+accurate measurement of the burden of epilepsy should rely on both morbidity and 
+mortality. This will close any existing gap in knowledge and provide useful 
+information to aid evidence-based decision-making. In this study, burden of 
+epilepsy was estimated, using disability-adjusted-life-years (DALYs), using 
+disability weights for epilepsy that were part of the Global Burden of Disease 
+2010 work.
+METHODS: The study was conducted at the University of Nigeria Teaching Hospital, 
+Enugu. Interviewer-administered questionnaire was used to collect information 
+from patients with epilepsy who presented to neurology clinic. The prevalence of 
+epilepsy, and case-fatality were obtained from previous publications. The DALYs 
+were estimated by adding together the years lost to disability (YLDs) and years 
+lost to life (YLLs) to epilepsy (DALYs=YLD+YLL). DALYs were dis-aggregated by 
+age group and by whether or not epilepsy was treated.
+RESULTS: A total of 134 children with epilepsy-interviews were conducted. Some 
+56% and 44% of the subjects had primary and secondary epilepsy, respectively. 
+The childhood epilepsy caused 1.63 YLLs per 1000 population, 0.45 YLDs per 1000 
+population and 2.08 DALY per 1000 population. The highest burden was in children 
+within the age group of 5-14 years at 2.18 DALY per 1000 people. The YLDs was 
+higher (0.63/1000 population) among the untreated group, compared with the YLDs 
+(0.27/1000 population) among the treated group. The YLLs lost for children with 
+secondary epilepsy (2.23/1000 population) was higher than primary epilepsy YLLs 
+of 1.07/1000 population.
+SIGNIFICANCE: The DALYs due to childhood epilepsy was high. The YLDs was high 
+among children with epilepsy who were not on treatment. The YLLs were found to 
+be the same in all children with epilepsy, irrespective of their treatment 
+status. This imperatively necessitates the de-emphasis on just mortality as an 
+indicator of the burden of childhood epilepsy but rather a holistic approach 
+should be adopted in considering both the mortality and disability in monitoring 
+the outcome of health interventions.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.eplepsyres.2016.05.006
+PMID: 27389705 [Indexed for MEDLINE]
+
+
+815. RNA. 2016 Sep;22(9):1386-99. doi: 10.1261/rna.055798.115. Epub 2016 Jul 7.
+
+The N-terminal extension of yeast ribosomal protein L8 is involved in two major 
+remodeling events during late nuclear stages of 60S ribosomal subunit assembly.
+
+Tutuncuoglu B(1), Jakovljevic J(1), Wu S(2), Gao N(2), Woolford JL Jr(3).
+
+Author information:
+(1)Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, 
+Pennsylvania 15213, USA.
+(2)School of Life Sciences, Tsinghua University, Beijing, 100084, China.
+(3)Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, 
+Pennsylvania 15213, USA jw17@andrew.cmu.edu.
+
+Assaying effects on pre-rRNA processing and ribosome assembly upon depleting 
+individual ribosomal proteins (r-proteins) provided an initial paradigm for 
+assembly of eukaryotic ribosomes in vivo-that each structural domain of 
+ribosomal subunits assembles in a hierarchical fashion. However, two features 
+suggest that a more complex pathway may exist: (i) Some r-proteins contain 
+extensions that reach long distances across ribosomes to interact with multiple 
+rRNA domains as well as with other r-proteins. (ii) Individual r-proteins may 
+assemble in a stepwise fashion. For example, the globular domain of an r-protein 
+might assemble separately from its extensions. Thus, these extensions might play 
+roles in assembly that could not be revealed by depleting the entire protein. 
+Here, we show that deleting or mutating extensions of r-proteins L7 (uL30) and 
+L35 (uL29) from yeast reveal important roles in early and middle steps during 
+60S ribosomal subunit biogenesis. Detailed analysis of the N-terminal terminal 
+extension of L8 (eL8) showed that it is necessary for late nuclear stages of 60S 
+subunit assembly involving two major remodeling events: removal of the ITS2 
+spacer; and reorganization of the central protuberance (CP) containing 5S rRNA 
+and r-proteins L5 (uL18) and L11 (uL5). Mutations in the L8 extension block 
+processing of 7S pre-rRNA, prevent release of assembly factors Rpf2 and Rrs1 
+from pre-ribosomes, which is required for rotation of the CP, and block 
+association of Sda1, the Rix1 complex, and the Rea1 ATPase involved in late 
+steps of remodeling.
+
+© 2016 Tutuncuoglu et al.; Published by Cold Spring Harbor Laboratory Press for 
+the RNA Society.
+
+DOI: 10.1261/rna.055798.115
+PMCID: PMC4986894
+PMID: 27390266 [Indexed for MEDLINE]
+
+
+816. Natl J Maxillofac Surg. 2015 Jul-Dec;6(2):252-5. doi:
+10.4103/0975-5950.183864.
+
+Immediate dental implant placement with immediate loading following extraction 
+of natural teeth.
+
+Singh M(1), Kumar L(1), Anwar M(1), Chand P(1).
+
+Author information:
+(1)Department of Prosthodontics, Crown and Bridges, Faculty of Dental Sciences, 
+King George's Medical University, Lucknow, Uttar Pradesh, India.
+
+The loss of tooth in the esthetic area is often a traumatic experience for the 
+patient. Patients may suffer real or perceived detrimental effects following the 
+loss of one or more teeth. Dental implant offers the most cost-effective and 
+long-term solution for replacement of missing teeth with high average life 
+expectancy, providing the patient with the best sense of security and 
+well-being. Recently, immediate implant placement after extraction of tooth with 
+early loading has become more common. The advantages of this procedure include 
+fewer surgical interventions, reduction in overall treatment time, reduced soft 
+and hard tissue loss, and psychological satisfaction to the patient. This case 
+report describes the procedure for immediate implant placement with immediate 
+loading of implants by provisional restorations.
+
+DOI: 10.4103/0975-5950.183864
+PMCID: PMC4922245
+PMID: 27390509
+
+
+817. Curr Urol. 2016 May;9(2):93-103. doi: 10.1159/000442860. Epub 2016 May 20.
+
+Intraoperative Frozen Section of the Prostate Reduces the Risk of Positive 
+Margin Whilst Ensuring Nerve Sparing in Patients with Intermediate and High-Risk 
+Prostate Cancer Undergoing Robotic Radical Prostatectomy: First Reported UK 
+Series.
+
+Vasdev N(1), Agarwal S(2), Rai BP(3), Soosainathan A(3), Shaw G(3), Chang S(4), 
+Prasad V(5), Mohan-S G(5), Adshead JM(3).
+
+Author information:
+(1)Hertfordshire and South Bedfordshire Robotic Urological Cancer Centre, 
+Department of Urology, Lister Hospital, Stevenage, UK; School of Life and 
+Medical Sciences, University of Hertfordshire, Hatfield, UK.
+(2)Department of Histopathology, Lister Hospital, Stevenage, UK.
+(3)Hertfordshire and South Bedfordshire Robotic Urological Cancer Centre, 
+Department of Urology, Lister Hospital, Stevenage, UK.
+(4)Department of Radiology, Lister Hospital, Stevenage, UK.
+(5)Department of Anaesthetics, Lister Hospital, Stevenage, UK.
+
+INTRODUCTION: Nerve sparing during robotic radical prostatectomy (RRP) 
+considerably improves post-operative potency and urinary continence as long as 
+it does not compromise oncological outcome. Excision of the neurovascular bundle 
+(NVB) is often performed in patients with intermediate and high risk prostate 
+cancer to reduce the risk of positive surgical margin raising the risk of 
+urinary incontinence and impotence. We present the first UK series outcomes of 
+such patients who underwent an intra-operative frozen section (IOFS) analysis of 
+the prostate during RRP allowing nerve sparing.
+PATIENTS AND METHODS: We prospectively analysed the data of 40 patients who 
+underwent an IOFS during RRP at our centre from November 2012 until November 
+2014. Our IOFS technique involved whole lateral circumferential analysis of the 
+prostate during RRP with the corresponding neurovascular tissue. An intrafascial 
+nerve spare was performed and the specimen was removed intra-operatively via an 
+extension of the 12 mm Autosuture™ camera port without undocking robotic arms. 
+It was then painted by the surgeon and sprayed with "Ink Aid" prior to frozen 
+section analysis. The corresponding NVB was excised if the histopathologist 
+found a positive surgical margin on frozen section.
+RESULTS: Median time to extract the specimen, wound closure and re-establishment 
+of pneumoperitoneum increased the operative time by 8 min. Median blood loss for 
+IOFS was 130 ± 97 ml vs. 90 ± 72 ml (p = NS). IOFS was not associated with major 
+complications or with blood transfusion. PSM decreased significantly from 

@@ -1,0 +1,1000 @@
+(2)University of Sheffield School of Health and Related Research (ScHARR), 
+Sheffield, United Kingdom of Great Britain and Northern Ireland (JS, SR, NL).
+(3)University of York, Heslington, United Kingdom of Great Britain and Northern 
+Ireland (LB, AM).
+(4)University of Leeds, Leeds, United Kingdom of Great Britain and Northern 
+Ireland (LS).
+
+This article describes methods used to estimate parameters governing long-term 
+survival, or times to other events, for health economic models. Specifically, 
+the focus is on methods that combine shorter-term individual-level survival data 
+from randomized trials with longer-term external data, thus using the 
+longer-term data to aid extrapolation of the short-term data. This requires 
+assumptions about how trends in survival for each treatment arm will continue 
+after the follow-up period of the trial. Furthermore, using external data 
+requires assumptions about how survival differs between the populations 
+represented by the trial and external data. Study reports from a national health 
+technology assessment program in the United Kingdom were searched, and the 
+findings were combined with "pearl-growing" searches of the academic literature. 
+We categorized the methods that have been used according to the assumptions they 
+made about how the hazards of death vary between the external and internal data 
+and through time, and we discuss the appropriateness of the assumptions in 
+different circumstances. Modeling choices, parameter estimation, and 
+characterization of uncertainty are discussed, and some suggestions for future 
+research priorities in this area are given.
+
+DOI: 10.1177/0272989X16639900
+PMCID: PMC5424081
+PMID: 27005519 [Indexed for MEDLINE]
+
+
+759. Zhonghua Liu Xing Bing Xue Za Zhi. 2016 Mar;37(3):375-80. doi: 
+10.3760/cma.j.issn.0254-6450.2016.03.017.
+
+[Influence of daily ambient temperature on mortality and years of life lost in 
+Chongqing].
+
+[Article in Chinese]
+
+Li J(1), Luo S(2), Ding X(2), Yang J(1), Li J(3), Liu X(1), Gao J(1), Xu L(1), 
+Tang W(2), Liu Q(1).
+
+Author information:
+(1)National Institute for Communicable Disease Control and Prevention, State Key 
+Laboratory for Communicable Disease Prevention and Control, Chinese Center for 
+Disease Control and Prevention, Beijing 102206, China.
+(2)Chongqing Center for Disease Control and Prevention, Chongqing 400042, China.
+(3)National Institute for Communicable Disease Control and Prevention, State Key 
+Laboratory for Communicable Disease Prevention and Control, Chinese Center for 
+Disease Control and Prevention, Beijing 102206, China; Department of 
+Epidemiology, School of Public Health, Shandong University, Jinan 250012, China.
+
+OBJECTIVE: To evaluate the influence of extreme ambient temperature on mortality 
+and years of life lost (YLL) in Chongqing.
+METHODS: The daily mortality, meteorology and air pollution index data in 
+Chongqing from the 1(st) January 2010 to the 31(st) December 2013 were 
+collected. Distributed lag non-linear model (DLNM) was used to assess the 
+influence of daily ambient temperature on daily number of deaths and daily YLL 
+respectively. The delayed and cumulative effects of extreme temperature on sex, 
+age, and cause-specific mortality were also assessed.
+RESULTS: The relationships between ambient temperature and non-accidental, 
+cardiovascular disease and respiratory disease mortalities and YLL were U-shaped 
+or W-shaped. The effect of heat was obvious on that day, peaked on day 7, and 
+lasted for two weeks, whereas the effect of cold was obvious a week later and 
+lasted for a month. As 1 ℃ increase of ambient temperature, the cumulative 
+relative risks (CRR) of high temperature across lag 0-7 days on non-accidental, 
+respiratory disease and cardiovascular disease mortalities were 1.05 (95%CI: 
+1.03-1.07), 1.08 (95%CI: 1.05-1.11) and 1.05 (95%CI: 1.01-1.09) respectively. 
+The effects of heat on YLL for each cause were 23.81 (95%CI: 12.31-35.31), 14.34 
+(95%CI: 8.98-19.70) and 4.43 (95%CI: 1.64-7.21), respectively. On cold days, 1 ℃ 
+decrease of ambient temperature was correlated with an increase in CRR of 1.06 
+(95%CI: 1.04-1.08), 1.09 (95%CI:1.06-1.12) and 1.06 (95%CI: 1.02-1.11) from lag 
+0 to 14 for non-accidental, respiratory disease and cardiovascular disease 
+mortalities, respectively. The estimated YLL were 23.34 (95%CI: 10.04-36.64), 
+16.39 (95%CI: 10.19-22.59) and 2.61 (95%CI: -0.61-5.82). People aged ≥65 years 
+tend to have higher CRR and YLL than those aged <65 years. On high temperature 
+days, the CRR in women was higher than that in men, while the YLL in women was 
+lower than that in men. On low temperature days, both the CRR and YLL in women 
+were higher than those in men.
+CONCLUSIONS: Both high and low ambient temperature have adverse health effects. 
+People aged ≥65 years are more sensitive to both high and low ambient 
+temperature. Younger men are more sensitive to high ambient temperature and 
+women and elder men are sensitive to low ambient temperature. It is necessary to 
+take targeted measures to protect the population in Chongqing from the adverse 
+influence of extreme ambient temperature.
+
+DOI: 10.3760/cma.j.issn.0254-6450.2016.03.017
+PMID: 27005540 [Indexed for MEDLINE]
+
+
+760. N Z Med J. 2016 Mar 11;129(1431):85-92.
+
+Decision-making in an era of cancer prevention via aspirin: New Zealand needs 
+updated guidelines and risk calculators.
+
+Wilson N(1), Selak V, Blakely T, Leung W, Clarke P, Jackson R, Knight J, Nghiem 
+N.
+
+Author information:
+(1)Public Health, University of Otago, Wellington. Nick.Wilson@otago.ac.nz.
+
+Based on new systematic reviews of the evidence, the US Preventive Services Task 
+Force has drafted updated guidelines on the use of low-dose aspirin for the 
+primary prevention of both cardiovascular disease (CVD) and cancer. The Task 
+Force generally recommends consideration of aspirin in adults aged 50-69 years 
+with 10-year CVD risk of at least 10%, in who absolute health gain (reduction of 
+CVD and cancer) is estimated to exceed absolute health loss (increase in 
+bleeds). With the ongoing decline in CVD, current risk calculators for New 
+Zealand are probably outdated, so it is difficult to be precise about what 
+proportion of the population is in this risk category (roughly equivalent to 
+5-year CVD risk ≥5%). Nevertheless, we suspect that most smokers aged 50-69 
+years, and some non-smokers, would probably meet the new threshold for taking 
+low-dose aspirin. The country therefore needs updated guidelines and risk 
+calculators that are ideally informed by estimates of absolute net health gain 
+(in quality-adjusted life-years (QALYs) per person) and cost-effectiveness. 
+Other improvements to risk calculators include: epidemiological rigour (eg, by 
+addressing competing mortality); providing enhanced graphical display of risk to 
+enhance risk communication; and possibly capturing the issues of medication 
+disutility and comparison with lifestyle changes.
+
+PMID: 27005878 [Indexed for MEDLINE]
+
+
+761. Drug Alcohol Depend. 2016 May 1;162:154-61. doi: 
+10.1016/j.drugalcdep.2016.03.004. Epub 2016 Mar 10.
+
+Cost-effectiveness of multidimensional family therapy compared to cognitive 
+behavioral therapy for adolescents with a cannabis use disorder: Data from a 
+randomized controlled trial.
+
+Goorden M(1), van der Schee E(2), Hendriks VM(3), Hakkaart-van Roijen L(4).
+
+Author information:
+(1)Institute for Medical Technology Assessment & Institute of Health Policy & 
+Management, P.O. Box 1738, 3000 DR, Erasmus University Rotterdam, The 
+Netherlands. Electronic address: Goorden@bmg.eur.nl.
+(2)Parnassia Addiction Research Centre (PARC), Brijder Addiction Treatment, 
+Parnassia Group, P.O. Box 53002, 2505 AA The Hague, The Netherlands.
+(3)Parnassia Addiction Research Centre (PARC), Brijder Addiction Treatment, 
+Parnassia Group, P.O. Box 53002, 2505 AA The Hague, The Netherlands; Curium, 
+Leiden University Medical Center, Department of Child and Adolescent Psychiatry, 
+Leiden University, P.O. Box 37, 2300 AA Leiden, The Netherlands.
+(4)Institute for Medical Technology Assessment & Institute of Health Policy & 
+Management, P.O. Box 1738, 3000 DR, Erasmus University Rotterdam, The 
+Netherlands.
+
+OBJECTIVE: To evaluate the cost-effectiveness of Multidimensional Family Therapy 
+(MDFT) for adolescents with a cannabis use disorder, compared to Cognitive 
+Behavioural Therapy (CBT).
+METHODS: A parallel-group randomized controlled trial was performed. 109 
+adolescents with a DSM-IV cannabis use disorder (CBT n=54; MDFT n=55) were 
+included. Assessments were conducted at baseline, and 3, 6, 9 and 12 months 
+post-baseline, and included measures on cannabis and other substance use, 
+delinquency, health care utilization, and general health related quality of 
+life.
+RESULTS: Excluding those with missing cost-data, 96 participants (MDFT n=49; CBT 
+n=47) were included. From a health care perspective, the average annual direct 
+medical costs in the CBT group were €2015 (95%C.I. 1397-2714), compared to €5446 
+(95%C.I. 4159-7092) in the MDFT group. The average quality-adjusted life years 
+(QALY's) gained were 0.06 QALY higher for the MDFT group, which led to an 
+incremental cost-effectiveness ratio (ICER) of 54,308 Euro/QALY or €43,405 per 
+recovered patient. Taking the costs of delinquency into account, the costs 
+increased to €21,330 (95%C.I. 12,389-32,894) for the CBT group and to €21,915 
+(95%C.I. 16,273-28,181) for the MDFT group, which lead to an ICER of 9266 
+Euro/QALY or a cost per recovered patient of €7491.
+CONCLUSIONS: This is the first comprehensive CEA of MDFT compared to CBT and it 
+demonstrated that when costs of delinquency were included, the ICERS were 
+modest. The results underline the importance of adopting a broader perspective 
+regarding cost effectiveness analyses in mental health care.
+
+Copyright © 2016 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.drugalcdep.2016.03.004
+PMID: 27006273 [Indexed for MEDLINE]
+
+
+762. J Med Eng. 2014;2014:248316. doi: 10.1155/2014/248316. Epub 2014 Feb 19.
+
+Assessment of Visual Reliance in Balance Control: An Inexpensive Extension of 
+the Static Posturography.
+
+Púčik J(1), Šaling M(2), Lukáč T(1), Ondráček O(1), Kucharík M(2).
+
+Author information:
+(1)Institute of Electronics and Photonics, Slovak University of Technology in 
+Bratislava, Ilkovičova 3, 81219 Bratislava, Slovakia.
+(2)II Neurologic Department, Medical Faculty of Commenius Univesity, Derer 
+University Hospital, Limbová 5, 83305 Bratislava, Slovakia; Institute of Normal 
+and Pathological Physiology, Slovak Academy of Sciences, Sienkiewiczova 1, 813 
+71 Bratislava, Slovakia.
+
+Ability of humans to maintain balance in an upright stance and during movement 
+activities is one of the most natural skills affecting everyday life. This 
+ability progressively deteriorates with increasing age, and balance impairment, 
+often aggravated by age-related diseases, can result in falls that adversely 
+impact the quality of life. Falls represent serious problems of health concern 
+associated with aging. Many investigators, involved in different science 
+disciplines such as medicine, engineering, psychology, and sport, have been 
+attracted by a research of the human upright stance. In a clinical practice, 
+stabilometry based on the force plate is the most widely available procedure 
+used to evaluate the balance. In this paper, we have proposed a low-cost 
+extension of the conventional stabilometry by the multimedia technology that 
+allows identifying potentially disturbing effects of visual sensory information. 
+Due to the proposed extension, a stabilometric assessment in terms of line 
+integral of center of pressure (COP) during moving scene stimuli shows higher 
+discrimination power between young healthy and elderly subjects with supposed 
+stronger visual reliance.
+
+DOI: 10.1155/2014/248316
+PMCID: PMC4782629
+PMID: 27006930
+
+
+763. J Immigr Minor Health. 2017 Jun;19(3):716-722. doi:
+10.1007/s10903-016-0396-0.
+
+Social Capital and the Paradox of Poor but Healthy Groups in the United States.
+
+Singer E(1), McElroy R(2), Muennig P(3).
+
+Author information:
+(1)Department of Emergency Medicine, Icahn School of Medicine, Mount Sinai St. 
+Luke's/Mount Sinai West Hospitals, 1111 Amsterdam Avenue, New York, NY, 10025, 
+USA. Elizabeth.singer@mssm.edu.
+(2)Department of Emergency Medicine, Mt. Sinai Hospital, 600 University Ave, 
+Toronto, ON, M5G 1X5, Canada.
+(3)Department of Health Policy and Management, Mailman School of Public Health, 
+Columbia University, 722 West 168th St., New York, NY, 10032, USA.
+
+Increased income strongly correlates with improved health and lower mortality 
+risk. Yet in spite of having a lower mean and median income, both Hispanics and 
+the foreign-born living within the U.S. have higher longevity compared with 
+native-born, non-Hispanics. We explored the role of structural social capital in 
+conferring protection against poor health outcomes among Hispanics and the 
+foreign-born in the US. We used the National Health and Nutrition Examination 
+Survey III 1988-1994 linked to prospective mortality follow up to examine the 
+relationship between five measures of structural social capital and: (1) 
+intermediate health outcomes (blood pressure, plasma fibrinogen, C-reactive 
+protein, and total cholesterol) and (2) a distal outcome (all cause mortality). 
+The foreign-born and Hispanics generally had lower measures of structural social 
+capital relative to native-born non-Hispanics. Additionally, while structural 
+social capital was protective against poor health or mortality among native-born 
+persons, the association disappeared for Hispanics and the foreign-born.
+
+DOI: 10.1007/s10903-016-0396-0
+PMID: 27007124 [Indexed for MEDLINE]
+
+
+764. Pharmacotherapy. 2016 May;36(5):472-81. doi: 10.1002/phar.1742. Epub 2016
+May 2.
+
+Cost-Utility Analysis of Infliximab with Standard Care versus Standard Care 
+Alone for Induction and Maintenance Treatment of Patients with Ulcerative 
+Colitis in Poland.
+
+Stawowczyk E(1), Kawalec P(2), Pilc A(3).
+
+Author information:
+(1)Statsoft Polska Sp. z o.o., Krakow, Poland.
+(2)Drug Management Department, Institute of Public Health, Faculty of Health 
+Sciences, Jagiellonian University Medical College, Krakow, Poland.
+(3)Department of Neurobiology, Institute of Pharmacology, Polish Academy of 
+Sciences, Krakow, Poland.
+
+STUDY OBJECTIVE: To assess the cost-effectiveness of infliximab with standard 
+care (e.g., azathioprine, prednisolone, mesalazine, and 6-mercaptopurine) versus 
+standard care alone for induction and maintenance treatment of patients with 
+ulcerative colitis (UC) in Poland.
+DESIGN: Cost-utility decision analytic model.
+MEASUREMENTS AND MAIN RESULTS: A Markov model was used to estimate the expected 
+costs and effects of infliximab/standard care and standard care alone. For each 
+treatment option, costs and quality-adjusted life-years (QALYs) were calculated 
+to estimate the incremental cost-utility ratio. The target population consisted 
+of a hypothetical cohort of adult patients with moderately to severely active UC 
+who had an inadequate response to standard treatment, including corticosteroids 
+and 6-mercaptopurine or azathioprine, or who were intolerant to or had medical 
+contraindications to such therapies. The analysis was performed from the 
+perspective of the Polish public payer over a 30-year time horizon. The clinical 
+parameters were derived mainly from the Active Ulcerative Colitis Trial (ACT) 1 
+and ACT 2 and from the Ulcerative Colitis Long-term Remission and Maintenance 
+with Adalimumab (ULTRA) 2 clinical trial. Different costs and utility values 
+were assigned to the various health states in the model; utility values were 
+derived from a previously published study. Treatment of patients who received 
+infliximab/standard care instead of standard care alone resulted in 0.174 
+additional QALYs. Treatment with infliximab/standard care was found to be more 
+expensive than treatment with standard care alone from the Polish National 
+Health Fund perspective. The incremental cost-utility ratio of 
+infliximab/standard care compared with standard care alone was estimated to be 
+402,420 Polish zlotys (PLN)/QALY gained (95% confidence interval [CI] 
+253,936-531,450 PLN/QALY gained), which is equivalent to $106,743 (U.S. 
+dollars)/QALY gained (95% CI $67,357-140,968 [U.S. dollars]/QALY gained).
+CONCLUSION: Treatment with infliximab/standard care instead of standard care 
+alone resulted in additional QALYs but also additional costs. The incremental 
+cost per QALY gained of infliximab/standard care compared with standard care 
+alone exceeded the willingness-to-pay threshold in Poland (equivalent to 
+~$33,400).
+
+© 2016 Pharmacotherapy Publications, Inc.
+
+DOI: 10.1002/phar.1742
+PMID: 27007213 [Indexed for MEDLINE]
+
+
+765. Ned Tijdschr Geneeskd. 2015;160:D217.
+
+[The Starr-Edwards heart valve: one of the oldest mechanical heart valves still 
+functioning today].
+
+[Article in Dutch]
+
+Schoenaker MH(1), van Wetten HB, Morshuis WJ.
+
+Author information:
+(1)Radboudumc, afd. Cardio-thoracale Chirurgie, Nijmegen.
+
+In the 1960s, the Starr-Edwards valve was the first artificial heart valve to be 
+successfully implanted in humans. This valve has now been in use for decades 
+with outstanding results: patients whose life expectancy had previously been 
+short acquired a good prognosis with this development. Nowadays the 
+Starr-Edwards valve is not used anymore, but patients are being described today 
+in whom these valves are still functioning well after more than 40 years.
+
+PMID: 27007936 [Indexed for MEDLINE]
+
+
+766. Matern Child Health J. 2016 Aug;20(8):1753-8. doi:
+10.1007/s10995-016-1980-6.
+
+Power, Politics, and Health: A New Public Health Practice Targeting the Root 
+Causes of Health Equity.
+
+Iton A(1)(2), Shrimali BP(3).
+
+Author information:
+(1)School of Public Health, University of California, Berkeley, CA, USA. 
+aiton@calondow.org.
+(2)The California Endowment, Los Angeles, CA, USA. aiton@calondow.org.
+(3)Alameda County Public Health Department, Oakland, CA, USA.
+
+Purpose Understanding the WHY, WHAT, and HOW of place-based work in maternal and 
+child health (MCH) is critical to examining the components of the environment 
+that shape health opportunity through the relationship between life expectancy 
+and neighborhood residence. Description On September 18, 2014, during the 
+CityMatCH Leadership and MCH Epidemiology Conference, Dr. Anthony Iton provided 
+the Keynote Address focused on the root causes of health inequities. Assessment 
+The address focused on issues of equity in California and initiatives designed 
+to mitigate and prevent disparities, including the Bay Area Regional Health 
+Equities Initiative framework. Dr. Iton presented information on how the 
+framework translated into investment strategies and a policy and systems change 
+approach to place-based work. Conclusion The field of MCH, because of its focus 
+on supporting health during critical periods of development, is poised to play a 
+significant role in reducing health inequities. Recognizing that human health 
+suffers when low income communities are passive, disenfranchised and 
+disorganized, in order to change this status quo, understanding that human 
+capital is the greatest asset is the urgent challenge to the field of MCH.
+
+DOI: 10.1007/s10995-016-1980-6
+PMID: 27008176 [Indexed for MEDLINE]
+
+
+767. Cardiovasc Res. 2016 Jun 1;110(3):298-308. doi: 10.1093/cvr/cvw061. Epub
+2016  Mar 22.
+
+Matrix ageing and vascular impacts: focus on elastin fragmentation.
+
+Duca L(1), Blaise S(1), Romier B(1), Laffargue M(2), Gayral S(2), El Btaouri 
+H(1), Kawecki C(1), Guillot A(1), Martiny L(1), Debelle L(1), Maurice P(3).
+
+Author information:
+(1)Team 2: Matrix aging and Vascular remodelling, UMR CNRS 7369 Matrice 
+Extracellulaire et Dynamique Cellulaire (MEDyC), Université de Reims Champagne 
+Ardenne (URCA), UFR Sciences Exactes et Naturelles, Reims, France.
+(2)INSERM UMR 1048, Institut des Maladies Métaboliques et Cardiovasculaires 
+(I2MC), Toulouse, France.
+(3)Team 2: Matrix aging and Vascular remodelling, UMR CNRS 7369 Matrice 
+Extracellulaire et Dynamique Cellulaire (MEDyC), Université de Reims Champagne 
+Ardenne (URCA), UFR Sciences Exactes et Naturelles, Reims, France 
+pascal.maurice@univ-reims.fr.
+
+Cardiovascular diseases (CVDs) are the leading cause of death worldwide and 
+represent a major problem of public health. Over the years, life expectancy has 
+considerably increased throughout the world, and the prevalence of CVD is 
+inevitably rising with the growing ageing of the population. The normal process 
+of ageing is associated with progressive deterioration in structure and function 
+of the vasculature, commonly called vascular ageing. At the vascular level, 
+extracellular matrix (ECM) ageing leads to molecular alterations in long 
+half-life proteins, such as elastin and collagen, and have critical effects on 
+vascular diseases. This review highlights ECM alterations occurring during 
+vascular ageing with a specific focus on elastin fragmentation and also the 
+contribution of elastin-derived peptides (EDP) in age-related vascular 
+complications. Moreover, current and new pharmacological strategies aiming at 
+minimizing elastin degradation, EDP generation, and associated biological 
+effects are discussed. These strategies may be of major relevance for preventing 
+and/or delaying vascular ageing and its complications.
+
+Published on behalf of the European Society of Cardiology. All rights reserved. 
+© The Author 2016. For permissions please email: journals.permissions@oup.com.
+
+DOI: 10.1093/cvr/cvw061
+PMID: 27009176 [Indexed for MEDLINE]
+
+
+768. Circ Cardiovasc Imaging. 2016 Apr;9(4):e004077. doi: 
+10.1161/CIRCIMAGING.115.004077.
+
+Cardiovascular Magnetic Resonance Myocardial Feature Tracking: Concepts and 
+Clinical Applications.
+
+Schuster A(1), Hor KN(2), Kowallick JT(2), Beerbaum P(2), Kutty S(2).
+
+Author information:
+(1)From the Department of Cardiology and Pneumology (A.S.) and Institute for 
+Diagnostic and Interventional Radiology (J.T.K.), University Medical Centre 
+Göttingen, Georg-August University, Göttingen, Germany; DZHK (German Centre for 
+Cardiovascular Research), Partner Site Göttingen, Göttingen, Germany (A.S., 
+J.T.K.); Division of Imaging Sciences and Biomedical Engineering, The Rayne 
+Institute, KCL, London, United Kingdom (A.S.); The Heart Center at Nationwide 
+Children's Hospital, The Ohio State University, Columbus (K.N.H.); Department of 
+Paediatric Cardiology and Critical Care Medicine, Children's Hospital, Hannover 
+Medical School, Hannover, Germany (P.B.); and Division of Pediatric Cardiology, 
+University of Nebraska Medical Center, Children's Hospital and Medical Center, 
+Omaha (S.K.). andreas_schuster@gmx.net.
+(2)From the Department of Cardiology and Pneumology (A.S.) and Institute for 
+Diagnostic and Interventional Radiology (J.T.K.), University Medical Centre 
+Göttingen, Georg-August University, Göttingen, Germany; DZHK (German Centre for 
+Cardiovascular Research), Partner Site Göttingen, Göttingen, Germany (A.S., 
+J.T.K.); Division of Imaging Sciences and Biomedical Engineering, The Rayne 
+Institute, KCL, London, United Kingdom (A.S.); The Heart Center at Nationwide 
+Children's Hospital, The Ohio State University, Columbus (K.N.H.); Department of 
+Paediatric Cardiology and Critical Care Medicine, Children's Hospital, Hannover 
+Medical School, Hannover, Germany (P.B.); and Division of Pediatric Cardiology, 
+University of Nebraska Medical Center, Children's Hospital and Medical Center, 
+Omaha (S.K.).
+
+Heart failure-induced cardiovascular morbidity and mortality constitute a major 
+health problem worldwide and result from diverse pathogeneses, including 
+coronary artery disease, nonischemic cardiomyopathies, and arrhythmias. 
+Assessment of cardiovascular performance is important for early diagnosis and 
+accurate management of patients at risk of heart failure. During the past 
+decade, cardiovascular magnetic resonance myocardial feature tracking has 
+emerged as a useful tool for the quantitative evaluation of cardiovascular 
+function. The method allows quantification of biatrial and biventricular 
+mechanics from measures of deformation: strain, torsion, and dyssynchrony. The 
+purpose of this article is to review the basic principles, clinical 
+applications, accuracy, and reproducibility of cardiovascular magnetic resonance 
+myocardial feature tracking, highlighting the prognostic implications. It will 
+also provide an outlook on how this field might evolve in the future.
+
+© 2016 American Heart Association, Inc.
+
+DOI: 10.1161/CIRCIMAGING.115.004077
+PMID: 27009468 [Indexed for MEDLINE]
+
+
+769. J Clin Pharm Ther. 2016 Apr;41(2):189-97. doi: 10.1111/jcpt.12384. Epub 2016
+Mar  23.
+
+Systematic review of the economic evaluations of novel therapeutic agents in 
+multiple myeloma: what is the reporting quality?
+
+Aguiar PM(1), Lima TM(1), Storpirtis S(1).
+
+Author information:
+(1)Department of Pharmacy, Faculty of Pharmaceutical Sciences, University of São 
+Paulo, São Paulo, Brazil.
+
+WHAT IS KNOWN AND OBJECTIVE: Given the increasing healthcare costs and the 
+recent introduction of novel agents in the treatment for multiple myeloma (MM), 
+an incurable haematologic malignancy, more efficient use of existing resources 
+is fundamental. The objective of this study was to systematically review 
+economic evaluations of the use of novel agents in MM and assess their reporting 
+quality.
+METHODS: A literature search was performed in PubMed/Medline, Latin American and 
+Caribbean Health Sciences Literature, Cost-Effectiveness Analysis Registry and 
+the National Health Services Economic Evaluation Database for economic 
+evaluations up to June 2015. The search strategy included Medical Subject 
+Headings terms or text words related to MM, economic evaluations and drugs. Full 
+economic evaluations of bortezomib, thalidomide or lenalidomide in patients with 
+MM that were published in English, Portuguese or Spanish were included. Two 
+independent authors performed study selection, data extraction and quality 
+assessment using 24 items from the Consolidated Health Economic Evaluation 
+Reporting Standards (CHEERS) statement.
+RESULTS AND DISCUSSION: Of the 132 potentially relevant records identified, 
+eight satisfied the inclusion criteria. Most studies were cost-effectiveness 
+analyses combined with cost-utility analyses (n = 6) from the public payer 
+perspective (n = 4) and were performed in Europe (n = 6) on patients with 
+refractory or relapsed MM (n = 5). All studies were based on economic models, 
+with four of them using discrete event simulation. We found bortezomib-based 
+therapies to be one of the more commonly selected treatment strategies for 
+comparison (n = 7). Overall, the intervention was more effective and costlier 
+than the alternative strategy (average of $54 630 per life year; $68 261 per 
+quality-adjusted life year-QALY). The CHEERS' total score was 14·6 (SD = 2·6) 
+with the most frequent problems being the lack of precision measures for all 
+model parameters, no evaluation of heterogeneity of the results by subgroup 
+analyses and no description of the role the funder in the identification, 
+design, conduct and reporting of the analysis.
+WHAT IS NEW AND CONCLUSION: Most analyses of the novel therapeutic agents 
+determined that they were cost-effective in MM at a threshold of up to $100 
+000/QALY. Nevertheless, the poor reporting quality of the economic studies 
+requires improvement to ensure greater transparency.
+
+© 2016 John Wiley & Sons Ltd.
+
+DOI: 10.1111/jcpt.12384
+PMID: 27009796 [Indexed for MEDLINE]
+
+
+770. J Virol. 2016 May 12;90(11):5384-5398. doi: 10.1128/JVI.03216-15. Print 2016
+Jun  1.
+
+Porcine Reproductive and Respiratory Syndrome Virus Nucleocapsid Protein 
+Interacts with Nsp9 and Cellular DHX9 To Regulate Viral RNA Synthesis.
+
+Liu L(1), Tian J(1), Nan H(1), Tian M(1), Li Y(1), Xu X(1), Huang B(2), Zhou 
+E(2), Hiscox JA(3), Chen H(4).
+
+Author information:
+(1)College of Life Sciences, Northwest A&F University, Yangling, China.
+(2)College of Veterinary Medicine, Northwest A&F University, Yangling, China.
+(3)NIHR Health Protection Research Unit in Emerging and Zoonotic Infections, 
+Liverpool, United Kingdom.
+(4)College of Life Sciences, Northwest A&F University, Yangling, China 
+chenhy@nwsuaf.edu.cn.
+
+Porcine reproductive and respiratory syndrome virus (PRRSV) nucleocapsid (N) 
+protein is the main component of the viral capsid to encapsulate viral RNA, and 
+it is also a multifunctional protein involved in the regulation of host cell 
+processes. Nonstructural protein 9 (Nsp9) is the RNA-dependent RNA polymerase 
+that plays a critical role in viral RNA transcription and replication. In this 
+study, we demonstrate that PRRSV N protein is bound to Nsp9 by protein-protein 
+interaction and that the contacting surface on Nsp9 is located in the two 
+predicted α-helixes formed by 48 residues at the C-terminal end of the protein. 
+Mutagenesis analyses identified E646, E608, and E611 on Nsp9 and Q85 on the N 
+protein as the pivotal residues participating in the N-Nsp9 interaction. By 
+overexpressing the N protein binding fragment of Nsp9 in infected Marc-145 
+cells, the synthesis of viral RNAs, as well as the production of infectious 
+progeny viruses, was dramatically inhibited, suggesting that Nsp9-N protein 
+association is involved in the process of viral RNA production. In addition, we 
+show that PRRSV N interacts with cellular RNA helicase DHX9 and redistributes 
+the protein into the cytoplasm. Knockdown of DHX9 increased the ratio of short 
+subgenomic mRNAs (sgmRNAs); in contrast, DHX9 overexpression benefited the 
+synthesis of longer sgmRNAs and the viral genomic RNA (gRNA). These results 
+imply that DHX9 is recruited by the N protein in PRRSV infection to regulate 
+viral RNA synthesis. We postulate that N and DHX9 may act as antiattenuation 
+factors for the continuous elongation of nascent transcript during 
+negative-strand RNA synthesis.
+IMPORTANCE: It is unclear whether the N protein of PRRSV is involved in 
+regulation of the viral RNA production process. In this report, we demonstrate 
+that the N protein of the arterivirus PRRSV participates in viral RNA 
+replication and transcription through interacting with Nsp9 and its RdRp and 
+recruiting cellular RNA helicase to promote the production of longer viral 
+sgmRNAs and gRNA. Our data here provide some new insights into the discontinuous 
+to continuous extension of PRRSV RNA synthesis and also offer a new potential 
+anti-PRRSV strategy targeting the N-Nsp9 and/or N-DHX9 interaction.
+
+Copyright © 2016, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.03216-15
+PMCID: PMC4934760
+PMID: 27009951 [Indexed for MEDLINE]
+
+
+771. J Occup Health. 2016 May 25;58(2):216-9. doi: 10.1539/joh.15-0326-OP. Epub
+2016  Mar 24.
+
+Work stress and cardiovascular disease: a life course perspective.
+
+Li J(1), Loerbroks A, Bosma H, Angerer P.
+
+Author information:
+(1)Institute of Occupational and Social Medicine, Centre for Health and Society, 
+Faculty of Medicine, University of Düsseldorf.
+
+Individuals in employment experience stress at work, and numerous 
+epidemiological studies have documented its negative health effects, 
+particularly on cardiovascular disease (CVD). Although evidence on the various 
+interrelationships between work stress and CVD has been accumulated, those 
+observations have not yet been conceptualized in terms of a life course 
+perspective. Using the chain of risk model, we would like to propose a 
+theoretical model incorporating six steps: (1) work stress increases the risk of 
+incident CVD in healthy workers. (2) Among those whose work ability is not fully 
+and permanently damaged, work stress acts as a determinant of the process of 
+return to work after CVD onset. (3) CVD patients experience higher work stress 
+after return to work. (4) Work stress increases the risk of recurrent CVD in 
+workers with prior CVD. (5) CVD patients who fully lose their work ability 
+transit to disability retirement. (6) Disability retirees due to CVD have an 
+elevated risk of CVD mortality. The life course perspective might facilitate an 
+in-depth understanding of the diverse interrelationships between work stress and 
+CVD, thereby leading to work stress management interventions at each period of 
+the lifespan and three-level prevention of CVD.
+
+DOI: 10.1539/joh.15-0326-OP
+PMCID: PMC5356969
+PMID: 27010081 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest: None declared.
+
+
+772. JAMA Facial Plast Surg. 2016 Jul 1;18(4):241-9. doi: 
+10.1001/jamafacial.2015.2365.
+
+The Cost of Facial Deformity: A Health Utility and Valuation Study.
+
+Dey JK(1), Ishii LE(1), Joseph AW(1), Goines J(2), Byrne PJ(1), Boahene KD(1), 
+Ishii M(3).
+
+Author information:
+(1)Division of Facial Plastic & Reconstructive Surgery, Department of 
+Otolaryngology-Head & Neck Surgery, Johns Hopkins School of Medicine, Baltimore, 
+Maryland.
+(2)Morehouse School of Medicine, Atlanta, Georgia.
+(3)Division of Rhinology, Department of Otolaryngology-Head & Neck Surgery, 
+Johns Hopkins School of Medicine, Baltimore, Maryland.
+
+IMPORTANCE: The impact of facial defects on quality of life as perceived by 
+society and the value society places on facial reconstruction are important 
+outcomes measures.
+OBJECTIVE: To measure the health state utility and dollar value of surgically 
+reconstructing facial defects as perceived by society.
+DESIGN, SETTING, AND PARTICIPANTS: A randomized observational study conducted in 
+an academic tertiary referral center using a socioeconomically diverse group of 
+200 casual observers.
+MAIN OUTCOMES AND MEASURES: Observers viewed images of faces with defects of 
+varying sizes and locations before and after surgical reconstruction. Observers 
+imagined if the defect in each image were on their own face and rated (1) their 
+health state utility with the defect and (2) how much they would be willing to 
+pay to have the defect surgically repaired to normal (perfect repair). 
+Established health state utility and contingent valuation metrics were used.
+RESULTS: Data from 200 observers were analyzed. Facial defects significantly 
+decreased perceived health state utility with the greatest penalty attributed to 
+large and centrally located defects. Surgical reconstruction of the facial 
+defects increased health state utility to near-normal ranges for all groups 
+except large central defects. Participants were willing to pay an average of 
+$1170 (95% CI, $767-$1572) to repair a de novo small peripheral defect; they 
+were willing to pay $4274 more than the average (95% CI, $3296-$5251) to repair 
+a large defect and $2372 more (95% CI, $1379-$3366) to repair a central defect. 
+Using these valuation and health utility data, we calculated willingness to pay 
+per quality-adjusted life-year (WTP/QALY), a value-related metric. Mean WTP/QALY 
+ratios ranged from $639/QALY for repairing small peripheral defects to 
+$2838/QALY for repairing large central defects, well below all 
+cost-effectiveness thresholds.
+CONCLUSIONS AND RELEVANCE: Casual observers perceived that facial defects 
+significantly decrease quality of life, an effect improved by reconstructive 
+surgery. Measuring WTP and calculating WTP/QALY provides novel data to assess 
+the social importance and value of facial reconstructive surgery. To our 
+knowledge, these are the first data demonstrating that surgical reconstruction 
+of facial defects is a high-value intervention as perceived by society. These 
+findings have implications for a broad range of stakeholders, including 
+patients, surgeons, health policy makers, and payers.
+LEVEL OF EVIDENCE: NA.
+
+DOI: 10.1001/jamafacial.2015.2365
+PMID: 27010626 [Indexed for MEDLINE]
+
+
+773. Exp Brain Res. 2016 Aug;234(8):2179-88. doi: 10.1007/s00221-016-4621-9. Epub
+ 2016 Mar 24.
+
+Developmental changes in intralimb coordination during spontaneous movements of 
+human infants from 2 to 3 months of age.
+
+Ohmura Y(1), Gima H(2), Watanabe H(2), Taga G(2), Kuniyoshi Y(3).
+
+Author information:
+(1)Department of Mechano-Informatics, Graduate School of Information Science and 
+Technology, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8656, 
+Japan. ohmura@isi.imi.i.u-tokyo.ac.jp.
+(2)Graduate School of Education, The University of Tokyo, 7-3-1 Hongo, 
+Bunkyo-ku, Tokyo, 113-0033, Japan.
+(3)Department of Mechano-Informatics, Graduate School of Information Science and 
+Technology, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8656, 
+Japan.
+
+Human infants show a variety of spontaneous movements in the first few months of 
+life. Although the pattern of spontaneous movements changes at approximately 
+2 months of age, the precise mechanism that governs the developmental changes in 
+intralimb coordination remains unclear. In the present study, we focused on 
+knee-ankle coordination during spontaneous movements of human infants from 2 to 
+3 months of age. Multiple attitude sensors were used to measure 
+three-dimensional angular motion of knee and ankle joint motions. We acquired a 
+one-dimensional time series of the knee joint angle around the putative hinge 
+joint and a two-dimensional time series of ankle motions on the putative 
+sagittal and frontal plane. First, we found that 3-month-old infants show a 
+significant predominance to extend their knee joints, remarkably so on the left 
+side. To quantify dissociated motions of the knee and ankle, we calculated the 
+temporal correlation and the regression slope between them. We observed that 
+3-month-old infants moved their ankle joints more independently of knee motions 
+than 2-month-old infants. Finally, we found that dissociated motions of the knee 
+and ankle simultaneously develop with knee extension predominance. The 
+developmental change from synchronization to dissociation of intralimb joint 
+movements during spontaneous movements suggests that the development of the 
+cortical and/or subcortical mechanism may mediate selective activation and 
+inhibition of joint motions at approximately 2 months of age.
+
+DOI: 10.1007/s00221-016-4621-9
+PMID: 27010721 [Indexed for MEDLINE]
+
+
+774. Expert Rev Anticancer Ther. 2016 Jun;16(6):661-71. doi: 
+10.1586/14737140.2016.1170595. Epub 2016 Apr 8.
+
+Adjuvant chemotherapy in elderly patients with breast cancer: key challenges.
+
+Pondé N(1), Dal Lago L(2), Azim HA Jr(1).
+
+Author information:
+(1)a BrEAST Data Centre, Department of Medicine, Institut Jules Bordet , 
+Université Libre de Bruxelles , Brussels , Belgium.
+(2)b Medicine Department, Institut Jules Bordet , Université Libre de Bruxelles 
+, Brussels , Belgium.
+
+Comment in
+    Expert Rev Anticancer Ther. 2016 Sep;16(9):895.
+    Expert Rev Anticancer Ther. 2016 Sep;16(9):893.
+
+Elderly women with early breast cancer (BC) form a heterogeneous and large 
+subgroup (41.8% of women with BC are over 65). Decision making in this subgroup 
+is made more difficult by lack of familiarity with their physical, cognitive and 
+social issues. Adequate management depends on biological factors and accurate 
+clinical evaluation through comprehensive geriatric assessment (CGA). CGA can 
+help to better select and determine potential risks factors for patients who are 
+candidates for adjuvant chemotherapy. It is still recently introduced in 
+geriatric oncology and there is a lack of awareness of its importance. Available 
+data on adjuvant chemotherapy for BC is limited but suggests it can be of 
+benefit for well selected patients, though the risk of short and long-term 
+toxicity is significant. Here we provide a discussion of the key practical 
+issues in decision making in the setting of adjuvant chemotherapy for elderly BC 
+patients.
+
+DOI: 10.1586/14737140.2016.1170595
+PMID: 27010772 [Indexed for MEDLINE]
+
+
+775. JAMA Oncol. 2016 Jul 1;2(7):890-8. doi: 10.1001/jamaoncol.2015.6275.
+
+Economic Analysis of Prostate-Specific Antigen Screening and Selective Treatment 
+Strategies.
+
+Roth JA(1), Gulati R(2), Gore JL(3), Cooperberg MR(4), Etzioni R(2).
+
+Author information:
+(1)Division of Public Health Sciences, Fred Hutchinson Cancer Research Center, 
+Seattle, Washington2Hutchinson Institute for Cancer Outcomes Research, Fred 
+Hutchinson Cancer Research Center, Seattle, Washington3Pharmaceutical Outcomes 
+Research and Policy Prog.
+(2)Division of Public Health Sciences, Fred Hutchinson Cancer Research Center, 
+Seattle, Washington.
+(3)Department of Urology, University of Washington, Seattle.
+(4)Department of Urology, University of California, San Francisco.
+
+Comment in
+    JAMA Oncol. 2016 Jul 1;2(7):899-900.
+    J Urol. 2016 Oct;196(4):1127-8.
+
+IMPORTANCE: Prostate-specific antigen (PSA) screening for prostate cancer is 
+controversial. Experts have suggested more personalized or more conservative 
+strategies to improve benefit-risk tradeoffs, but the value of these 
+strategies-particularly when combined with increased conservative management for 
+low-risk cases-is uncertain.
+OBJECTIVES: To evaluate the potential cost-effectiveness of plausible PSA 
+screening strategies and to assess the value added by increased use of 
+conservative management among low-risk, screen-detected cases.
+DESIGN, SETTING, AND PARTICIPANTS: A microsimulation model of prostate cancer 
+incidence and mortality was created. A simulated contemporary cohort of US men 
+beginning at 40 years of age underwent 18 strategies for PSA screening. 
+Treatment strategies included (1) contemporary treatment practices based on age 
+and cancer stage and grade observed in the Surveillance, Epidemiology, and End 
+Results program in 2010 or (2) selective treatment practices whereby cases with 
+a Gleason score lower than 7 and clinical T2a stage cancer or lower are treated 
+only after clinical progression, and all other cases undergo contemporary 
+treatment practices. National and trial data on PSA growth, screening and biopsy 
+patterns, incidence of prostate cancer, treatment distributions, treatment 
+efficacy, mortality, health-related quality of life, and direct medical 
+expenditure were analyzed. Data were collected from March 18, 2009, to August 
+15, 2014, and analyzed from November 20, 2012, to December 11, 2015.
+INTERVENTIONS: Eighteen screening strategies that vary by start and stop age, 
+screening interval, and criteria for biopsy referral and contemporary or 
+selective treatment practices.
+MAIN OUTCOMES AND MEASURES: Life-years (LYs), quality-adjusted life-years 
+(QALYs), direct medical expenditure, and cost per LY and QALY gained.
+RESULTS: All 18 screening strategies were associated with increased LYs (range, 
+0.03-0.06) and costs ($263-$1371) compared with no screening, with the cost 
+ranging from $7335 to $21 649 per LY. With contemporary treatment, only 
+strategies with biopsy referral for PSA levels higher than 10.0 ng/mL or 
+age-dependent thresholds were associated with increased QALYs (0.002-0.004), and 
+only quadrennial screening of patients aged 55 to 69 years was potentially 
+cost-effective in terms of cost per QALY (incremental cost-effectiveness ratio, 
+$92 446). With selective treatment, all strategies were associated with 
+increased QALYs (0.002-0.004), and several strategies were potentially 
+cost-effective in terms of cost per QALY (incremental cost-effectiveness ratio, 
+$70 831-$136 332).
+CONCLUSIONS AND RELEVANCE: For PSA screening to be cost-effective, it needs to 
+be used conservatively and ideally in combination with a conservative management 
+approach for low-risk disease.
+
+DOI: 10.1001/jamaoncol.2015.6275
+PMCID: PMC4945414
+PMID: 27010943 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+declare.
+
+
+776. Med Sci (Paris). 2016 Mar;32(3):231-2. doi: 10.1051/medsci/20163203001. Epub
+ 2016 Mar 23.
+
+[The favorable evolution of life expectancy: is it an increase of wellness 
+related to health?].
+
+[Article in French]
+
+Jusot F(1).
+
+Author information:
+(1)Paris sciences et lettres (PSL), Université Paris-Dauphine, Laboratoire 
+d'économie de Dauphine, Laboratoire d'économie et gestion des organisations de 
+santé (Leda-Legos) Place du maréchal de Lattre-de-Tassigny 75775 Paris, France.
+
+DOI: 10.1051/medsci/20163203001
+PMID: 27011236 [Indexed for MEDLINE]
+
+
+777. Diagn Interv Imaging. 2016 May;97(5):505-12. doi:
+10.1016/j.diii.2016.02.009.  Epub 2016 Mar 21.
+
+CT and MR imaging in congenital cardiac malformations: Where do we come from and 
+where are we going?
+
+Dacher JN(1), Barre E(2), Durand I(3), Hazelzet T(3), Brasseur-Daudruy M(4), 
+Blondiaux É(5), Bauer F(6), Dubourg B(7).
+
+Author information:
+(1)Radiology, Rouen university hospital, 1, rue de Germont, 76031 Rouen, France; 
+INSERM U1096, medicine and pharmacy UFR, 22, boulevard Gambetta, 76183 Rouen, 
+France. Electronic address: jean-nicolas.dacher@chu-rouen.fr.
+(2)Pediatrics, Rouen university hospital, 1, rue de Germont, 76031 Rouen, 
+France; Cardiology, Rouen university hospital, 1, rue de Germont, 76031 Rouen, 
+France.
+(3)Pediatrics, Rouen university hospital, 1, rue de Germont, 76031 Rouen, 
+France.
+(4)Radiology, Rouen university hospital, 1, rue de Germont, 76031 Rouen, France.
+(5)Radiology, Trousseau hospital, 26, avenue du Dr-Arnold-Netter, 75012 Paris, 
+France.
+(6)INSERM U1096, medicine and pharmacy UFR, 22, boulevard Gambetta, 76183 Rouen, 
+France; Cardiology, Rouen university hospital, 1, rue de Germont, 76031 Rouen, 
+France.
+(7)Radiology, Rouen university hospital, 1, rue de Germont, 76031 Rouen, France; 
+INSERM U1096, medicine and pharmacy UFR, 22, boulevard Gambetta, 76183 Rouen, 
+France.
+
+The management of patients with congenital heart disease was profoundly changed 
+firstly by the advent of pediatric and prenatal ultrasound and then more 
+recently by cardiac magnetic resonance imaging (MRI) and computed tomography 
+(CT) of the heart and great vessels. The improved life expectancy of these 
+patients has brought about new medical and imaging requirements. MRI and CT are 
+increasing second line techniques in this group of patients. This article 
+summarizes the advantages and limitations of CT and MRI in some frequently 
+encountered situations in children and adults followed up for congenital heart 
+disease.
+
+Copyright © 2016 Éditions françaises de radiologie. Published by Elsevier Masson 
+SAS. All rights reserved.
+
+DOI: 10.1016/j.diii.2016.02.009
+PMID: 27012158 [Indexed for MEDLINE]
+
+
+778. J Arthroplasty. 2016 Sep;31(9):1927-32. doi: 10.1016/j.arth.2016.02.035.
+Epub  2016 Feb 27.
+
+Factors Predicting the Forgotten Joint Score After Total Knee Arthroplasty.
+
+Behrend H(1), Zdravkovic V(1), Giesinger J(2), Giesinger K(1).
+
+Author information:
+(1)Department of Orthopaedic Surgery and Traumatology, Kantonsspital St. Gallen, 
+St. Gallen, Switzerland.
+(2)Department of Psychiatry and Psychotherapy, Innsbruck Medical University, 
+Innsbruck, Austria.
+
+BACKGROUND: We recently developed the forgotten joint score 12 (FJS-12), a tool 
+to assess joint awareness in everyday life. It is unknown whether patient 
+factors predicting the outcome of the FJS-12 after total knee arthroplasty (TKA) 
+exist.
+METHODS: Five hundred forty cases of TKA were analyzed. Objective clinical 
+results were obtained for range of motion, stability, and alignment. 
+Patient-reported outcome was assessed using the FJS-12. Baseline data and 
+complications were recorded. Cluster analysis based on FJS-12, postoperative 
+flexion, and age resulted in 3 groups: poor outcome (88 patients), good outcome 
+(340 patients), and excellent outcome (118 patients). The characteristics of 
+"poor" compared to "excellent" clusters were studied more closely using 
+bivariate comparative tests and logistic regression.
+RESULTS: We could find that male patients around 63 years with a lower body mass 
+index were most likely to be allocated to the cluster "excellent" (defined as 
+high FJS-12 and high postoperative flexion). Preoperative extension and flexion, 
+stability, varus/valgus alignment, surgery prior TKA, or comorbidities were not 
+predictive for the FJS-12 at 1 year follow-up.
+CONCLUSION: We identified 3 preoperative patient-related factors that may 
+predict the FJS-12 after TKA: body mass index, age, and gender. These findings 
+can be used to guide decision-making and important preoperative discussions on 
+expectations after TKA.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.arth.2016.02.035
+PMID: 27012431 [Indexed for MEDLINE]
+
+
+779. J Urol. 2016 Sep;196(3):672-7. doi: 10.1016/j.juro.2016.03.133. Epub 2016
+Mar  21.
+
+Life Expectancy and Variation in Treatment for Early Stage Kidney Cancer.
+
+Daskivich TJ(1), Tan HJ(2), Litwin MS(3), Hu JC(4).
+
+Author information:
+(1)Division of Urology, Cedars-Sinai Medical Center, Los Angeles, California. 
+Electronic address: Timothy.Daskivich@csmc.edu.
+(2)Department of Urology, David Geffen School of Medicine, University of 
+California-Los Angeles, Los Angeles, California.
+(3)Department of Urology, David Geffen School of Medicine, University of 
+California-Los Angeles, Los Angeles, California; Department of Health Policy and 
+Management, Fielding School of Public Health, University of California-Los 
+Angeles, Los Angeles, California.
+(4)Department of Urology, Weill Cornell School of Medicine, Cornell University, 
+New York, New York.
+
+PURPOSE: Patients with limited life expectancy are at risk for overtreatment of 
+T1a kidney cancer. We sought to determine patterns of treatment for T1a kidney 
+cancer in a nationally representative sample of patients with life expectancy 
+less than 10 and less than 5 years.
+MATERIALS AND METHODS: We sampled 9,825 patients older than 65 years with 
+clinical T1a kidney cancer diagnosed between 2000 and 2010 from the SEER 
+(Surveillance, Epidemiology and End Results)-Medicare database. We performed 
+competing risks regression to model survival by age/comorbidity and identified 
+patients with life expectancy less than 10 and less than 5 years. Multivariate 
+logistic regression was used to determine the probability of aggressive 
+treatment with surgery or ablation among those with limited life expectancy.
+RESULTS: Life expectancy was less than 10 years in patients 66 to 80 years old 
+with a Charlson score of 3+, in those 80 to 84 years old with a Charlson score 
+of 1+ and in all patients 85 years old or older. Among those with life 
+expectancy less than 10 years the multivariate probability of aggressive 
+treatment was 85%, 84%, 82%, 75% and 50% in those 66 to 69, 70 to 74, 75 to 79, 
+80 to 84 and 85 years old or older, respectively. In those with life expectancy 
+less than 10 years who were treated aggressively treatment was radical 
+nephrectomy in 61%, partial nephrectomy in 24% and ablation in 14%. Among those 
+with life expectancy less than 5 years (age 85 years or greater with a Charlson 
+score of 3+) the multivariate probability of aggressive treatment was 41% and 
+more often surgery than ablation (68% vs 32% of patients).
+CONCLUSIONS: The majority of patients with life expectancy less than 10 years 
+and a significant minority with life expectancy less than 5 years were treated 
+with surgery or ablation for T1a kidney cancer. Life expectancy should be better 
+incorporated into treatment decision making for early stage kidney cancer.
+
+Copyright © 2016 American Urological Association Education and Research, Inc. 
+Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.juro.2016.03.133
+PMID: 27012644 [Indexed for MEDLINE]
+
+
+780. Physiotherapy. 2017 Mar;103(1):90-97. doi: 10.1016/j.physio.2015.10.016.
+Epub  2015 Dec 12.
+
+Immediate effects of thoracic spinal mobilisation on erector spinae muscle 
+activity and pain in patients with thoracic spine pain: a preliminary randomised 
+controlled trial.
+
+Pecos-Martín D(1), de Melo Aroeira AE(1), Verás Silva RL(1), Martínez de Tejada 
+Pozo G(1), Rodríguez Solano LM(1), Plaza-Manzano G(2), Gallego-Izquierdo T(1), 
+Falla D(3).
+
+Author information:
+(1)Department of Physical Therapy, University of Alcalá, Alcalá de Henares, 
+Madrid, Spain.
+(2)Department of Medicine, University Complutense of Madrid, Madrid, Spain.
+(3)School of Sport, Exercise and Rehabilitation Sciences, College of Life and 
+Environmental Sciences, University of Birmingham, Birmingham, UK; Pain Clinic, 
+Center for Anesthesiology, Emergency and Intensive Care Medicine, University 
+Hospital Göttingen, Göttingen, Germany. Electronic address: 
+deborah.falla@bccn.uni-goettingen.de.
+
+OBJECTIVES: To investigate the activity of the thoracic erector spinae muscles 
+and perceived pain intensity immediately after central postero-anterior (PA) 
+mobilisation of the thoracic spine.
+DESIGN: Randomised, placebo-controlled, experimental design.
+PARTICIPANTS AND INTERVENTIONS: Thirty-four participants with non-specific 
+thoracic pain were randomised to the experimental group [grade III central PA 
+mobilisation performed for 3minutes at the level of the seventh thoracic 
+vertebra (T7)] or the placebo group (less than grade I central PA mobilisation 
+performed for 3minutes at T7).
+MAIN OUTCOME MEASURES: Before and immediately after PA mobilisation, surface 
+electromyography (EMG) was recorded from the thoracic erector spinae muscles as 
+the participants performed 10° spine extension from a prone position for 
+10seconds. Each participant rated their pain intensity as an investigator 
+performed grade III central PA over the most symptomatic thoracic segment, and 
+the pressure pain threshold (PPT) was evaluated bilaterally over the erector 
+spinae muscles.
+RESULTS: The EMG amplitude of thoracic erector spinae activity was reduced 
+significantly after the intervention in the experimental group (P<0.05), but not 
+in the placebo group. The difference between the groups was significant 

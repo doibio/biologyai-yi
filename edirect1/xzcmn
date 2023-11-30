@@ -1,0 +1,1000 @@
+2017  Nov 23.
+
+Bayesian projection of life expectancy accounting for the HIV/AIDS epidemic.
+
+Godwin J(1), Raftery AE(1).
+
+Author information:
+(1)Department of Statistics, University of Washington, Seattle, USA.
+
+BACKGROUND: While probabilistic projection methods for projecting life 
+expectancy exist, few account for covariates related to life expectancy. 
+Generalized HIV/AIDS epidemics have a large, immediate negative impact on the 
+life expectancy in a country, but this impact can be mitigated by widespread use 
+of antiretroviral therapy (ART). Thus, projection methods for countries with 
+generalized HIV/AIDS epidemics could be improved by accounting for HIV 
+prevalence, the future course of the epidemic, and ART coverage.
+METHODS: We extend the current Bayesian probabilistic life expectancy projection 
+methods of Raftery et al. (2013) to account for HIV prevalence and adult ART 
+coverage in countries with generalized HIV/AIDS epidemics.
+RESULTS: We evaluate our method using out-of-sample validation. We find that the 
+proposed method performs better than the method that does not account for HIV 
+prevalence or ART coverage for projections of life expectancy in countries with 
+a generalized epidemic, while projections for countries without an epidemic 
+remain essentially unchanged.
+CONCLUSIONS: In general, our projections show rapid recovery to pre-epidemic 
+life expectancy levels in the presence of widespread ART coverage. After the 
+initial life expectancy recovery, we project a steady rise in life expectancy 
+until the end of the century.
+CONTRIBUTION: We develop a simple Bayesian hierarchical model for long-term 
+projections of life expectancy while accounting for HIV/AIDS prevalence and 
+coverage of ART. The method produces well-calibrated projections for countries 
+with generalized HIV/AIDS epidemics up to 2100 while having limited data 
+demands.
+
+DOI: 10.4054/DemRes.2017.37.48
+PMCID: PMC6238958
+PMID: 30450011
+
+
+874. Oncotarget. 2018 Oct 19;9(82):35293-35299. doi: 10.18632/oncotarget.24293. 
+eCollection 2018 Oct 19.
+
+Systemic immune-inflammation index, SII, for prognosis of elderly patients with 
+newly diagnosed tumors.
+
+Li C(#)(1)(2)(3), Tian W(#)(4)(5), Zhao F(#)(4)(6), Li M(2)(3), Ye Q(7), Wei 
+Y(6), Li T(1)(8), Xie K(4)(7)(2)(3).
+
+Author information:
+(1)Department of Oncology, Southwest Medical University, Luzhou, Sichuan 646000, 
+P.R. China.
+(2)Department of Oncology, People's Hospital of Xinjin, Chengdu, Sichuan 611430, 
+P.R. China.
+(3)Department of Oncology, Xinjin Precision Tumor Hospital, Chengdu, Sichuan 
+611430, P.R. China.
+(4)Department of Operation Management, Sichuan Academy of Medical Sciences & 
+Sichuan Provincial People's Hospital, Chengdu 610072, P.R. China.
+(5)School of Medicine, University of Electronic Science and Technology of China, 
+Chengdu 611731, P.R. China.
+(6)State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, 
+Sichuan University, Chengdu, Sichuan 610041, P.R. China.
+(7)Department of Biomedical Engineering, School of Medicine, University of 
+Electronic Science and Technology of China, Chengdu, Sichuan 610054, P.R. China.
+(8)Department of Radiation Oncology, Sichuan Cancer Hospital and Institute, 
+Chengdu, Sichuan 610041, P.R. China.
+(#)Contributed equally
+
+BACKGROUND: Cancer in the elderly has become a common problem due in part to the 
+increase in life expectancy. Compared to younger counterparts, the biological 
+characteristics of tumors and their responsiveness to therapy may differ in 
+elderly patients, and the elderly also can have a decreased tolerance to 
+anticancer therapy. In addition, there is less evidence from clinical trials to 
+guide physicians in treating aged patients with solid tumors. Thus, we often 
+face a dilemma as to how actively to treat these patients and it would be highly 
+useful to have a simple and powerful indicator of their prognosis. In this paper 
+we evaluated the predictive value of the Systemic Immune-inflammation Index, 
+SII, in determining the one-year survival and tumor differentiation status in 
+elderly patients with newly diagnosed solid tumors.
+RESULTS: A high SII > 390×109 cells/L was correlated with poor tumor 
+differentiation (χ2 = 9.791, P = 0.002) and poor one-year survival (χ2 = 7.658, 
+P = 0.006). Patients with low SII had improved survival and better tumor 
+differentiation (Stage I-II). The SII was not associated with Ki-67 expression.
+MATERIALS AND METHODS: Data from 119 patients, 70 to 89 years of age with newly 
+diagnosed solid tumors in 2014 were retrospectively analyzed. The patients were 
+divided into two groups according to age: (1) 70-75 years of age and (2) over 75 
+years of age. We calculated SII from the equation, SII = P x N/L, where P, N and 
+L are the preoperative peripheral blood platelet, neutrophil and lymphocyte 
+counts per liter respectively. The optimum cutoff point for SII for a favorable 
+prognosis was determined to be 390×109 cells/L. For evaluation of SII as a 
+prognostic indicator, the patients were divided into high SII (> 390×109 
+cells/L) and low SII (≤ 390×109 cells/L) groups. Individual values were used to 
+determine the relationship between SII and one-year survival, tumor 
+differentiation and Ki-67 expression in the two age groups.
+CONCLUSIONS: SII was a robust indicator of tumor differentiation and one-year 
+survival in elderly patients with newly diagnosed solid tumors. Patients in the 
+high SII group showed poor tumor differentiation and poor prognosis compared to 
+patients with a low SII score.
+
+DOI: 10.18632/oncotarget.24293
+PMCID: PMC6219675
+PMID: 30450158
+
+Conflict of interest statement: CONFLICTS OF INTEREST The authors declare no 
+conflicts of interest.
+
+
+875. Ann Med Surg (Lond). 2018 Nov 2;36:90-95. doi: 10.1016/j.amsu.2018.09.042. 
+eCollection 2018 Dec.
+
+Surgical management of metastatic lesions of proximal femur and the hip.
+
+Khattak MJ(1), Ashraf U(1), Nawaz Z(1), Noordin S(1), Umer M(1).
+
+Author information:
+(1)Aga Khan University, Karachi, Pakistan.
+
+Metastatic bony lesions involving proximal femur and hip joint pose a challenge 
+to orthopedic surgeons. Lesions in this important weight-bearing zone of the 
+femur weaken its ability to sustain load causing pain and impending pathologic 
+fracture. These Patients warrant multidisciplinary approach including orthopedic 
+surgeons, oncologist and medical specialties. Management of these lesions has 
+evolved over the last 60 years from benign neglect to internal fixation and 
+recently to prosthetic reconstruction for optimum function. Decision for 
+surgical approach requires consideration for location of the lesion, presence of 
+a fracture, tumor type, cortical destruction, patient's life expectancy, patient 
+preferences and the expected outcome. We aim to present a narrative review of 
+the options and results of surgical management of these lesions in the light of 
+literature.
+
+DOI: 10.1016/j.amsu.2018.09.042
+PMCID: PMC6226618
+PMID: 30450202
+
+
+876. J Sport Health Sci. 2018 Oct;7(4):405-415. doi: 10.1016/j.jshs.2018.09.002.
+Epub  2018 Sep 8.
+
+Limb symmetry index in competitive alpine ski racers: Reference values and 
+injury risk identification according to age-related performance levels.
+
+Steidl-Müller L(1), Hildebrandt C(1), Müller E(2), Fink C(3)(4), Raschner C(1).
+
+Author information:
+(1)Department of Sport Science, University of Innsbruck, Innsbruck 6020, 
+Austria.
+(2)Department of Sport Science and Kinesiology, University of Salzburg, Salzburg 
+5400, Austria.
+(3)Research Unit for Orthopedic Sports Medicine and Injury Prevention, Institute 
+of Psychology (ISAG), The Health & Life Sciences University (UMIT), Innsbruck 
+6020, Austria.
+(4)Gelenkpunkt - Sports and Joint Surgery, Innsbruck 6020, Austria.
+
+PURPOSE: The aims of this study were to assess differences of limb symmetry 
+index (LSI) in strength- and coordination-related tasks between high-level, 
+competitive, noninjured ski racers of different age-related performance levels 
+and to prospectively assess limb differences as a possible risk factor for 
+traumatic and overuse injury in youth ski racers.
+METHODS: The study (Study 1) included 285 high-level competitive ski racers (125 
+females, 160 males) of 3 age-related performance levels and based on the school 
+system: 95 youth (10-14 years, secondary modern school), 107 adolescent (15-19 
+years, grammar school), and 83 elite athletes (20-34 years). To investigate the 
+second aim (Study 2), 67 of the 95 youth athletes were included and any 
+traumatic or overuse injuries were prospectively recorded over 2 seasons. All 
+athletes performed 4 unilateral tests (strength related: one-leg counter 
+movement jump (OL-CMJ) and one-leg isometric/isokinetic press strength test 
+(OL-ILS); coordination related: one-leg stability test (OL-ST) and one-leg 
+speedy jump test (OL-SJ)). The LSI was calculated by dividing the dominant leg 
+by the nondominant leg and multiplying by 100. Kruskal-Wallis H tests and binary 
+logistic regression analyses were conducted.
+RESULTS: There were significant differences between the LSI of the 3 age-related 
+performance-level groups only in the strength-related tests: the OL-CMJ (χ²(2, 
+285) = 9.09; p = 0.01) and the OL-ILS (χ²(2, 285) = 14.79; p < 0.01). The LSI 
+for OL-ILS was found to be a significant risk factor for traumatic injury in 
+youth ski racers (Wald = 7.08; p < 0.01). No significant risk factors were found 
+for overuse injuries.
+CONCLUSION: Younger athletes display slightly greater LSI values only in the 
+strength-related tests. The cut-off value of limb differences of <10% for return 
+to sport decisions seems to be appropriate for elite athletes, but for youth and 
+adolescent athletes it has to be critically discussed. It seems to be necessary 
+to define thresholds based on specific performance tasks (strength vs. 
+coordination related) rather than on generalizations, and age-related 
+performance levels must be considered. Limb differences in unilateral leg 
+extension strength represent a significant injury risk factor in youth ski 
+racers.
+
+DOI: 10.1016/j.jshs.2018.09.002
+PMCID: PMC6230217
+PMID: 30450248
+
+
+877. Geriatrics (Basel). 2018 Dec;3(4):63. doi: 10.3390/geriatrics3040063. Epub
+2018  Sep 27.
+
+How Overweight and Obesity Relate to the Development of Functional Limitations 
+among Filipino Women.
+
+Adair LS(1), Duazo P(2), Borja JB(1)(2)(3).
+
+Author information:
+(1)Department of Nutrition, Gillings School of Global Public Health, University 
+of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.
+(2)USC-Office of Population Studies Foundation, Inc., University of San Carlos, 
+Nasipit, Talamban, Cebu City 6000, The Philippines; litlitduazo@yahoo.com.
+(3)Department of Nutrition and Dietetics, University of San Carlos, Nasipit, 
+Talamban, Cebu City 6000, The Philippines.
+
+As life expectancy and obesity increase in low and middle-income countries, the 
+relationship of weight status to functional outcomes in older adults in these 
+settings requires attention. We examined how overweight (BMI > 25 kg/m2), 
+obesity (BMI > 30 kg/m2), and high waist circumference (WC > 80 cm) related to 
+grip strength, timed up-and-go, and development of limitations in mobility, 
+activities of daily living (ADL), and instrumental activities of daily living 
+(IADL) among Filipino women. We analyzed data from seven rounds of the Cebu 
+Longitudinal Health and Nutrition Survey (1994, n = 2279 to 2015, n = 1568, age 
+49-78 years) to examine how women's reports of functional limitations related to 
+their prior WC, and how their grip strength and timed up-and-go related to 
+concurrently measured overweight and obesity, adjusted for age, socioeconomic 
+status, and urbanicity. High WC was associated with higher odds of subsequent 
+mobility and IADL limitations. Chronic disease morbidity (sum of self-reported 
+arthritis, high blood pressure, heart disease, diabetes, and cancer) fully 
+mediated the association of high WC with ADL and IADL limitations, but not 
+physical/mobility limitations. Longer up-and-go times, and higher grip strength 
+were related to overweight and obesity. Results emphasize the need for obesity 
+prevention to reduce chronic diseases and maintain good functional status as 
+women age.
+
+DOI: 10.3390/geriatrics3040063
+PMCID: PMC6233880
+PMID: 30450359
+
+Conflict of interest statement: Conflicts of Interest: The authors declare no 
+conflict of interest. The funders had no role in the design of the study; in the 
+collection, analyses, or interpretation of data; in the writing of the 
+manuscript, or in the decision to publish the results.
+
+
+878. Aging Ment Health. 2020 Apr;24(4):550-556. doi:
+10.1080/13607863.2018.1537361.  Epub 2018 Nov 18.
+
+Factors affecting the will to live among elderly jews living in israel.
+
+Zamir A(1)(2), Granek L(1)(3), Carmel S(1)(3).
+
+Author information:
+(1)Department of Public Health, Faculty of Health Sciences, Ben-Gurion 
+University of the Negev, Beer-Sheva, Israel.
+(2)Department of Gerontology, University of Haifa, Haifa, Israel.
+(3)Center for Multidisciplinary Research in Aging, Ben-Gurion University of the 
+Negev, Beer-Sheva, Israel.
+
+Objectives: The aim of this qualitative study was to explore factors that 
+influence older persons' will to live (WTL).Methods: Twenty-five Israeli elders 
+were interviewed about what weakens and/or strengthens their WTL. Elements of 
+the grounded theory method guided the data collection and analysis.Results: Our 
+analysis revealed that the elements that pertain to WTL could potentially both 
+increase and decrease the WTL in elders. These factors included social networks, 
+financial security, religious faith, working and volunteering, and honor versus 
+ageism.Conclusions: Five factors represent different aspects of older persons' 
+lives that influence the WTL. The first four themes including Social Networks, 
+Religious Faith, Honor versus Ageism, and Working and Volunteering are 
+consistent with the findings of the study of Blue Zones. Blue Zones are areas 
+characterized by high life expectancy. Israel shares cultural characteristics 
+with the Blue Zones, being a society with traditional collective characteristics 
+stemming from the Jewish tradition. The last theme of financial security is 
+related to the characteristics of Israel as a society in which the social gaps 
+are large and many elderly are pushed to the social margins, and lack financial 
+security. This study points to the unique cultural characteristics of Israel 
+that affect the WTL among elderly Jews and proposes a hypothesis linking Israeli 
+culture to the high life expectancy in Israel.
+
+DOI: 10.1080/13607863.2018.1537361
+PMID: 30450944 [Indexed for MEDLINE]
+
+
+879. J Aging Health. 2020 Mar;32(3-4):143-153. doi: 10.1177/0898264318809798.
+Epub  2018 Nov 18.
+
+Family Member Death and Subjective Life Expectancy Among Black and White Older 
+Adults.
+
+Donnelly R(1), Umberson D(1), Pudrovska T(1).
+
+Author information:
+(1)The University of Texas at Austin, USA.
+
+Objective: To examine whether exposure to family member deaths throughout the 
+life course is associated with subjective life expectancy-a person's assessment 
+of their own mortality risk-at age 65, with attention to differences by race. 
+Method: We analyzed 11 waves of data from a study of men and women above age 50 
+(Health and Retirement Study; n = 13,973). Results: Experiencing the deaths of 
+multiple family members before the respondent is 50 years old is negatively 
+associated with subjective life expectancy at age 65. Discussion: Understanding 
+the life-course predictors of older adults' subjective life expectancy is 
+particularly important because survival expectations influence long-term 
+planning, health, and longevity. Moreover, Black Americans are exposed to more 
+family member deaths earlier in their life compared with White Americans, with 
+implications for long-term health and well-being.
+
+DOI: 10.1177/0898264318809798
+PMCID: PMC6525659
+PMID: 30451061 [Indexed for MEDLINE]
+
+
+880. J Eur Acad Dermatol Venereol. 2019 Apr;33(4):761-765. doi:
+10.1111/jdv.15354.  Epub 2018 Dec 10.
+
+Apremilast for moderate hidradenitis suppurativa: no significant change in 
+lesional skin inflammatory biomarkers.
+
+Vossen ARJV(1), van der Zee HH(1), Davelaar N(2), Mus AMC(2), van Doorn MBA(1), 
+Prens EP(1).
+
+Author information:
+(1)Department of Dermatology, Erasmus University Medical Center, Rotterdam, The 
+Netherlands.
+(2)Laboratory of Rheumatology & Dermatology, Erasmus University Medical Center, 
+Rotterdam, The Netherlands.
+
+BACKGROUND: Treatment with apremilast has recently demonstrated clinically 
+meaningful improvement in moderate hidradenitis suppurativa (HS).
+OBJECTIVE: To evaluate the change in expression of inflammatory markers in 
+lesional skin of HS patients receiving apremilast 30 mg twice daily (n = 15) for 
+16 weeks compared with placebo (n = 5).
+METHODS: At baseline, 5-mm punch biopsies were obtained from an index lesion 
+(HSL) and non-lesional (HSN) skin in the same anatomical area. Subsequent HSL 
+samples were taken as close as possible to the previously biopsied site at week 
+4 and week 16. After sampling, biopsies were split; one half was processed for 
+in vivo mRNA analysis using real-time quantitative PCR; the other half was 
+cultured for ex vivo protein analysis using a proximity extension assay (Olink). 
+Linear mixed effects models were calculated to compare the levels of 
+inflammatory markers in HSL skin between apremilast and placebo over time.
+RESULTS: At baseline, 17 proteins with a fold change >2 in HSL vs. HSN skin were 
+identified in 20 patients. The top five were IL-17A (5), S100A12, CST5, 
+IL-12/23p40, CD6 (1) with fold changes ranging from 6.6 to 1638, respectively 
+(FDR <0.044). Linear mixed effects models for 75 assays were calculated. Protein 
+levels of S100A12 decreased during treatment in the apremilast group compared 
+with the placebo group (p = 0.014, FDR = 0.186). None of the 14 genes exhibited 
+significant changes in expression over time. However, an evident downward trend 
+in relative mRNA expression of IL-17A and IL-17F was demonstrated in patients 
+receiving apremilast.
+CONCLUSION: We did not detect statistically significant changes in inflammatory 
+markers in HSL skin of HS patients receiving apremilast compared with placebo, 
+despite clinical improvement in the apremilast group. Nonetheless, S100A12 and 
+IL-17A were significantly elevated in HSL skin and showed a decrease in response 
+to apremilast. The translational model in clinical trials involving HS clearly 
+needs further improvement.
+
+© 2018 The Authors. Journal of the European Academy of Dermatology and 
+Venereology published by John Wiley & Sons Ltd on behalf of European Academy of 
+Dermatology and Venereology.
+
+DOI: 10.1111/jdv.15354
+PMCID: PMC6590194
+PMID: 30451329 [Indexed for MEDLINE]
+
+
+881. Mol Oncol. 2019 Feb;13(2):376-391. doi: 10.1002/1878-0261.12410. Epub 2019
+Jan  7.
+
+Protein profiling of fine-needle aspirates reveals subtype-associated immune 
+signatures and involvement of chemokines in breast cancer.
+
+Franzén B(1), Alexeyenko A(2)(3), Kamali-Moghaddam M(4), Hatschek T(1)(5), 
+Kanter L(1), Ramqvist T(1), Kierkegaard J(6)(7), Masucci G(1)(5), Auer G(1), 
+Landegren U(4), Lewensohn R(1)(5).
+
+Author information:
+(1)Department of Oncology and Pathology, Cancer Center Karolinska, Karolinska 
+Institutet and University Hospital, Stockholm, Sweden.
+(2)Department of Microbiology, Tumor and Cell Biology (MTC), Karolinska 
+Institutet, Stockholm, Sweden.
+(3)National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, 
+Solna, Sweden.
+(4)Department of Immunology, Genetics and Pathology, Science for Life 
+Laboratory, Uppsala University, Sweden.
+(5)Theme Cancer, Patient Area Head and Neck, Lung, and Skin, Karolinska 
+University Hospital, Stockholm, Sweden.
+(6)BröstCentrum City, Stockholm, Sweden.
+(7)Capio S:t Görans Sjukhus, Stockholm, Sweden.
+
+There are increasing demands for informative cancer biomarkers, accessible via 
+minimally invasive procedures, both for initial diagnostics and for follow-up of 
+personalized cancer therapy, including immunotherapy. Fine-needle aspiration 
+(FNA) biopsy provides ready access to relevant tissue samples; however, the 
+minute amounts of sample require sensitive multiplex molecular analysis to be of 
+clinical biomarker utility. We have applied proximity extension assays (PEA) to 
+analyze 167 proteins in FNA samples from patients with breast cancer (BC; 
+n = 25) and benign lesions (n = 32). We demonstrate that the FNA BC samples 
+could be divided into two main clusters, characterized by differences in 
+expression levels of the estrogen receptor (ER) and the proliferation marker 
+Ki67. This clustering corresponded to some extent to established BC subtypes. 
+Our analysis also revealed several proteins whose expression levels differed 
+between BC and benign lesions (e.g., CA9, GZMB, IL-6, VEGFA, CXCL11, PDL1, and 
+PCD1), as well as several chemokines correlating with ER and Ki67 status (e.g., 
+CCL4, CCL8, CCL20, CXCL8, CXCL9, and CXCL17). Finally, we also identified three 
+signatures that could predict Ki67 status, ER status, and tumor grade, 
+respectively, based on a small subset of proteins, which was dominated by 
+chemokines. To our knowledge, expression profiles of CCL13 in benign lesions and 
+BC have not previously been described but were shown herein to correlate with 
+proliferation (P = 0.00095), suggesting a role in advanced BC. Given the broad 
+functional range of the proteins analyzed, immune-related proteins were 
+overrepresented among the observed alterations. Our pilot study supports the 
+emerging role of chemokines in BC progression. Due to the minimally traumatic 
+sampling and clinically important molecular information for therapeutic 
+decisions, this methodology is promising for future immunoscoring and monitoring 
+of treatment efficacy in BC.
+
+© 2018 The Authors. Published by FEBS Press and John Wiley & Sons Ltd.
+
+DOI: 10.1002/1878-0261.12410
+PMCID: PMC6360506
+PMID: 30451357 [Indexed for MEDLINE]
+
+
+882. Congenit Heart Dis. 2019 Mar;14(2):185-192. doi: 10.1111/chd.12716. Epub
+2018  Nov 19.
+
+Historical investigation of medical treatment for adult congenital heart 
+disease: A Canadian perspective.
+
+Lapum JL(1), Fredericks S(1), Bailey B(2), Yau TM(3)(4), Graham J(5), Marelli 
+AJ(6)(7).
+
+Author information:
+(1)Daphne Cockwell School of Nursing, Faculty of Community Services, Ryerson 
+University, Toronto, Ontario, Canada.
+(2)Toronto Congenital Cardiac Centre for Adults, Peter Munk Cardiac Centre, 
+University Health Network, University of Toronto, Toronto, Ontario, Canada.
+(3)Division of Cardiovascular Surgery, Peter Munk Cardiac Centre, University 
+Health Network, Toronto, Ontario, Canada.
+(4)Division of Cardiac Surgery, University of Toronto, Toronto, Ontario, Canada.
+(5)Canadian Congenital Heart Alliance, Toronto, Ontario, Canada.
+(6)Faculty of Medicine, McGill University, Montreal, Quebec, Canada.
+(7)McGill Adult Unit for Congenital Heart Disease Excellence, McGill University 
+Health Centre, Montreal, Quebec, Canada.
+
+OBJECTIVE: The number of adults with congenital heart disease (CHD) has 
+increased substantially because of medical advances that are extending life 
+expectancy beyond childhood. A historical investigation is timely not only 
+because of this significant demographic shift, but also because stakeholder 
+engagement is increasingly important in shaping research directions. The study 
+questions were: From the perspective of stakeholders, what is known about the 
+medical treatment for the adult CHD cohort in Canada and how has it changed over 
+time?
+DESIGN/METHODS: We harnessed the use of historical research methods and 
+conducted interviews with 21 key informants in order to articulate a 
+contextualized understanding of the evolution of adult CHD treatment in Canada. 
+The informants recruited were currently or previously located in and/or involved 
+in treatment in seven provinces and two territories across Canada including 
+patients, families, advocates, researchers, and practitioners located in 
+disciplines that included cardiology, cardiovascular surgery, nursing, 
+psychology, dietetics, and kinesiology.
+RESULTS: Alongside findings that highlighted the significant demographic shift, 
+the findings highlight key themes related to temporal shifts in treatment, 
+emergence of organizational structures and use of evidence, comprehensive 
+approaches to care, and future directions. A critical finding that requires 
+immediate attention is the significantly disproportionate resources to the 
+number of adults living with CHD, and as a result, the real risk of premature 
+death for this population.
+CONCLUSIONS: The insights provided behoove the community of stakeholders to 
+think creatively on how to draw attention to the inadequacy of resources and the 
+unique and diverse needs of this population.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1111/chd.12716
+PMID: 30451387 [Indexed for MEDLINE]
+
+
+883. J Nematol. 2018;50(3):453-455. doi: 10.21307/jofnem-2018-038.
+
+First Report of Stubby-Root Nematode, Paratrichodorus minor, on Onion in 
+Georgia, U.S.A.
+
+Hajihassani A(1), Hamidi N(1), Dutta B(1), Tyson C(2).
+
+Author information:
+(1)Department of Plant Pathology, University of Georgia, Tifton, Georgia, 31794.
+(2)University of Georgia Cooperative Extension Office, Tattnall County, 
+Reidsville, Georgia, 30453.
+
+Onions ( Allium cepa L.) are the leading vegetable crop in Georgia accounting 
+for 13.7% of total state vegetable production ( Wolfe and Stubbs, 2017 ). In 
+November 2017, two samples each of onion (var. Candy Ann) seedlings and soil 
+were received from the University of Georgia Cooperative Extension office in 
+Tattnall County, GA. The samples were collected from a nursery fumigated with 
+metam sodium and used for sweet onion transplant production. Symptoms of the 
+damaged plants included stunted growth both in the root system and foliage, tip 
+die-back of the leaves ( Fig. 1A,B ), and slight swelling at the tip of roots. 
+Vermiform life stages from the soil samples were extracted using 
+centrifugal-flotation technique ( Jenkins, 1964 ). On an average, 67 stubby-root 
+nematodes per 100 cm 3 of soil were obtained. Additional two soil samples were 
+collected from the nursery in December 2017 to confirm the presence of the 
+nematode. On an average, 1 and 75 nematodes per 100 cm 3 of soil were recovered 
+from areas with healthy and infested plants, respectively. Because the male 
+individuals were not found in the soil samples, females were used for species 
+identification. Morphological and molecular analyses of females ( Fig. 2A-C ) 
+identified the species as Paratrichodorus minor (Colbran) Siddiqi; ( Decraemer, 
+1995 ). Nematode body shape was "cigar-shaped" with dorsally curved 
+"onchiostyle" stylet Females had an oval-shaped vagina, vulva a transverse slit, 
+and lateral body pores were absent. The measurements of females ( n = 20) 
+included: body length 671.1 (570.1-785.3) µm; body width 32.5 (27.8-37.0) µm; 
+onchiostyle 32.5 (31.1-34.8) µm; anterior end to esophagus-intestinal valve 
+117.6 (101.2-128.5) µm; a 21.5 (15.3-28.1) µm; b 5.2 (4.9-6.3) µm; V 52.9% 
+(48.1-55.4%) µm; and vagina length 8.7 (7.8-10.7) µm. To confirm the identity of 
+P. minor, DNA was extracted from single females ( n = 3) using Extract-N-Amp ™ 
+Tissue PCR Kit (Sigma-Alredich Inc., St. Louis, MO). The partial 18S rRNA, the 
+D2-D3 expansion segments of 28S rRNA, and ITS1 rDNA were amplified using primer 
+pairs 360F (5' CTACCACATCCAAGGAAGGC 3')/932R (5' TATCTGATCGCTGTCGAACC 3'), D2A 
+(5' ACAAGTACCGTGAGGGAAAGTTG 3')/D3B (5' TCGGAAGGAACCAGCTACTA 3'), and BL18 (5' 
+CCCGTCGCTACTACCGATT 3')/5818 (5' ACGARCCGAGTGATCCAC 3'), respectively ( Riga et 
+al., 2007 ; Duarte et al., 2010 ; Ye et al., 2015 ; Shaver et al., 2016 ). The 
+obtained PCR fragments were purified using QIAquick Gel Extraction Kit (Qiagen 
+Inc., Santa Clara, CA, USA), sequenced and deposited in the GenBank databases 
+(18S rRNA: MG856931; 28S rRNA: MG856933; ITS1 rDNA: MH464152). The 18S rRNA, 28S 
+D2-D3, and ITS1 rDNA sequences shared 99% similarity (100% coverage) with 
+GenBank accessions of P. minor from California, Arkansas, and China (18S rRNA: 
+JN123365; 28S D2-D3: JN123395; ITS1 rDNA: GU645811). In a pathogenicity test, 
+five sweet onion seeds var. Pirate were planted (one per pot) in 
+11.5-cm-diameter polyethylene pots containing 1,000 cm 3 of equal parts of 
+pasteurized field soil and sand, and then inoculated with 1,000 fresh P. minor . 
+Plants were grown for 9 wk in a greenhouse at 25 ± 2°C prior to extraction of 
+nematodes from soil. Plant roots were abbreviated and final population density 
+of P. minor was 2,856 ± 104 per pot (285 nematodes/100 cm 3 of soil) confirming 
+the nematode parasitism on onion. To our knowledge, this is the first report of 
+P. minor parasitizing onion in Georgia. Stubby-root nematode ( Paratrichodorus 
+sp.) has already been reported on corn, St. Augustine grass, and switchgrass in 
+Georgia ( Heald and Perry, 1969 ; Davis and Timper, 2000 ; Mekete et al., 2011 
+). In the U.S.A, P. minor is known to occur on diverse crops in most of the 
+states ( Decraemer, 1995 ; CABI/EPPO, 2002 ). A survey of vegetable-producing 
+areas in Georgia is currently under investigation to determine the distribution 
+of this economically important nematode species. Figure 1Damage symptoms caused 
+by stubby-root nematode Paratrichodorus minor on sweet onion in Georgia. A large 
+area of stunted and chlorotic plant foliage (A); Infested seedlings with 
+abbreviated roots and necrotic leaf tips (B). Figure 2Light microscopy 
+micrographs showing morphological characters of stubby-root nematode, 
+Paratrichodorus minor. Entire body (A), anterior end (B), and posterior region 
+(C) of female nematode.
+
+© The Society of Nematologists.
+
+DOI: 10.21307/jofnem-2018-038
+PMCID: PMC6909337
+PMID: 30451427
+
+
+884. Geospat Health. 2018 Nov 12;13(2). doi: 10.4081/gh.2018.702.
+
+Analysis of the relationship between life expectancy and social determinants in 
+a north-eastern region of Brazil, 2010-2017.
+
+Duque AM(1), Peixoto MV, Lima SVMA, Goes MAO, Santos AD, Araújo KCGM, Nunes MAP.
+
+Author information:
+(1)Department of Occupational Therapy; Post-Graduate Program in Health Sciences, 
+Federal University of Sergipe, Sergipe. andrezza.duque@yahoo.com.br.
+
+The process of population aging is a worldwide reality becoming a global public 
+health challenge. Although population aging is especially noticeable in more 
+developed regions, there has also been a significant advance in the quantity of 
+elderly people in areas with unfavourable socioeconomic indicators, and a rapid 
+growth in countries with a low level of economic development. This article 
+presents an analysis based on spatial autocorrelation of the relationship 
+between life expectancy and social determinants in a north-eastern region of 
+Brazil. An ecological study was conducted using the secondary data of social, 
+demographic, and health indicators of elderly people collected in the Brazilian 
+Demographic Census of the 75 municipalities of the state of Sergipe. Spatial 
+autocorrelation was evaluated using the Moran global index and the local 
+indicators of space association. Multiple linear regression models were used to 
+identify the relationship between life expectancy and social determinants. The 
+South-eastern region of the state presented clusters with all indicators 
+pointing to acceptable lifestyles, whereas the municipalities of the 
+north-western and far-eastern regions were characterized by values demonstrating 
+precarious living conditions. The high dependency ratio, illiteracy rate, and 
+unemployment rate among elderly people had a negative impact on life expectancy. 
+The evidence confirms that there is an autocorrelation between social 
+determinants and life expectancy, indicating that the worse the social, 
+economic, and health indicators are, the lower the life expectancy. This finding 
+indicates the need to redirect public policies and formulate strategies aimed at 
+reducing social and health inequalities.
+
+DOI: 10.4081/gh.2018.702
+PMID: 30451477 [Indexed for MEDLINE]
+
+
+885. Acta Oncol. 2019 Feb;58(2):237-242. doi: 10.1080/0284186X.2018.1532602. Epub
+ 2018 Nov 19.
+
+Prediction of early mortality following stereotactic body radiotherapy for 
+peripheral early-stage lung cancer.
+
+Baker S(1), Sharma A(2), Peric R(3), Heemsbergen WD(1), Nuyttens JJ(1).
+
+Author information:
+(1)a Department of Radiation Oncology , Erasmus MC Cancer Institute , Rotterdam 
+, The Netherlands.
+(2)b Department of Radiotherapy and Oncology , Regional Cancer Centre, Indira 
+Gandhi Medical College , Shimla , India.
+(3)c Department of Pulmonary Medicine , Erasmus MC Cancer Institute , Rotterdam 
+, The Netherlands.
+
+BACKGROUND/PURPOSE: To investigate prognostic factors for death within 6 months 
+of stereotactic body radiotherapy (SBRT) for patients with peripheral 
+early-stage non-small cell lung cancer (NSCLC).
+MATERIALS AND METHODS: This analysis included 586 NSCLC patients with peripheral 
+tumors treated with SBRT. Potential patient and tumor prognostic factors, 
+including the Charlson Comorbidity Index (CCI) and Cumulative Illness Rating 
+Scale (CIRS), were analyzed by logistic regression analysis for association with 
+early mortality (death <6 months after SBRT). Additionally, CCI and CIRS were 
+compared with respect to their predictive ability for early mortality by 
+comparing multivariate models with each comorbidity index, and assessing their 
+respective discriminatory abilities (C-index).
+RESULTS: A total of 36 patients (6.1%) died within 6 months of the start of 
+SBRT. With a median follow-up of 25 months, 3-year overall survival was 54%. 
+CIRS and tumor diameter were significant predictors of early mortality on 
+multivariate analysis (p = .001). Patients with a CIRS score of 8 or higher and 
+a tumor diameter over 3 cm had a 6-month survival of 70% versus 97% for those 
+lacking these two features (p < .001). CCI was not predictive for early 
+mortality on univariate nor multivariate analysis; the model containing CCI had 
+a C-index of 0.65 versus 0.70 for the model containing CIRS.
+CONCLUSION: CIRS and tumor diameter predict for early-mortality in peripheral 
+early-stage NSCLC treated with SBRT. CIRS may be a more useful comorbidity index 
+than CCI in this population when assessing short-term life expectancy.
+
+DOI: 10.1080/0284186X.2018.1532602
+PMID: 30451552 [Indexed for MEDLINE]
+
+
+886. Technol Health Care. 2021;29(6):1141-1151. doi: 10.3233/THC-181373.
+
+Analyzing the effect of an arch support functional insole on walking and jogging 
+in young, healthy females.
+
+Zhao X(1), Wang M(1), Fekete G(2), Baker JS(3), Wiltshire H(4), Gu Y(1).
+
+Author information:
+(1)Faculty of Sports Science, Ningbo University, Ningbo, Zhejiang, China.
+(2)Savaria Institute of Technology, Eötvös Loránd University, Szombathely, 
+Hungary.
+(3)School of Health and Life Sciences, University of the West of Scotland, 
+Renfrewshire, UK.
+(4)Cardiff School of Sport and Health Sciences, Cardiff Metropolitan University, 
+Cardiff, UK.
+
+BACKGROUND AND OBJECTIVE: The aim of this study was to explore the effectiveness 
+of arch support functional insoles to prevent metatarsalgia.
+METHOD: Twenty-five healthy females participated in the study. A Vicon motion 
+capture system was used to collect kinematics data of the lower limb. An AMTI 
+force plate was used to record the vertical ground reaction force (GRF), and the 
+Novel Pedar-X System was used to measure foot pressure while subjects wore 
+normal insoles or functional insoles with an arch support during walking and 
+jogging.
+RESULTS: With the arch support functional insoles, the first metatarsal (FM) 
+region's contact area was increased and the peak pressure and time-pressure 
+integral of the FM and second and third metatarsal (SATM) were areas decreased. 
+This suggests a lower risk of longitude stress injuries in these areas. The 
+ankle dorsiflexion angle of jogging with the 'arch support functional insoles' 
+(RF) and walking with the 'arch support functional insoles' (WF) were 
+significantly increased at initial contact and the knee and hip flexion angle of 
+RF and WF were reduced. The peak hip extension angle of WF and RF also declined. 
+The vertical loading rate of RF was lower, which would be beneficial in reducing 
+the risk of lower limb injuries during jogging.
+CONCLUSIONS: The results demonstrate that arch support functional insoles can be 
+used effectively to prevent and decrease pain and promote a suitable 
+weight-bearing pattern in the foot for promoting the health of young females.
+
+DOI: 10.3233/THC-181373
+PMID: 30452428 [Indexed for MEDLINE]
+
+
+887. J Gerontol A Biol Sci Med Sci. 2019 Aug 16;74(9):1396-1407. doi: 
+10.1093/gerona/gly261.
+
+Klotho Deficiency Accelerates Stem Cells Aging by Impairing Telomerase Activity.
+
+Ullah M(1)(2), Sun Z(1)(3).
+
+Author information:
+(1)Department of Physiology, College of Medicine, University of Oklahoma Health 
+Sciences Center, Biomedical Research Center, Oklahoma City.
+(2)Interventional Regenerative Therapies lab, Department of Medicine, Stanford 
+University, Palo Alto, California.
+(3)Department of Physiology, College of Medicine, University of Tennessee Health 
+Science Center, Memphis.
+
+Understanding the effect of molecular pathways involved in the age-dependent 
+deterioration of stem cell function is critical for developing new therapies. 
+The overexpression of Klotho (KL), an antiaging protein, causes treated animal 
+models to enjoy extended life spans. Now, the question stands: Does KL 
+deficiency accelerate stem cell aging and telomere shortening? If so, what are 
+the specific mechanisms by which it does this, and is cycloastragenol (CAG) 
+treatment enough to restore telomerase activity in aged stem cells? We found 
+that KL deficiency diminished telomerase activity by altering the expression of 
+TERF1 and TERT, causing impaired differentiation potential, pluripotency, 
+cellular senescence, and apoptosis in stem cells. Telomerase activity decreased 
+with KL-siRNA knockdown. This suggests that both KL and telomeres regulate the 
+stem cell aging process through telomerase subunits TERF1, POT1, and TERT using 
+the TGFβ, Insulin, and Wnt signaling. These pathways can rejuvenate stem cell 
+populations in a CD90-dependent mechanism. Stem cell dysfunctions were largely 
+provoked by KL deficiency and telomere shortening, owing to altered expression 
+of TERF1, TGFβ1, CD90, POT1, TERT, and basic fibroblast growth factor (bFGF). 
+The CAG treatment partially rescued telomerase deterioration, suggesting that KL 
+plays a critical role in life-extension by regulating telomere length and 
+telomerase activity.
+
+© The Author(s) 2018. Published by Oxford University Press on behalf of The 
+Gerontological Society of America. All rights reserved. For permissions, please 
+e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/gerona/gly261
+PMCID: PMC6696722
+PMID: 30452555 [Indexed for MEDLINE]
+
+
+888. J Med Philos. 2018 Nov 17;43(6):724-745. doi: 10.1093/jmp/jhy026.
+
+Committing to Priorities: Incompleteness in Macro-Level Health Care Allocation 
+and Its Implications.
+
+Herlitz A(1)(2).
+
+Author information:
+(1)Harvard University, Boston, Massachusetts, USA.
+(2)Institute of Futures Studies, Stockholm, Sweden.
+
+This article argues that values that apply to health care allocation entail the 
+possibility of "spectrum arguments," and that it is plausible that they often 
+fail to determine a best alternative. In order to deal with this problem, a 
+two-step process is suggested. First, we should identify the Strongly Uncovered 
+Set that excludes all alternatives that are worse than some alternatives and not 
+better in any relevant dimension from the set of eligible alternatives. Because 
+the remaining set of alternatives often contain more than one element, we need 
+some complementary method of selecting a unique alternative. In order to address 
+this issue, I suggest that we must invoke caps on the values that are used to 
+evaluate alternatives, and that these caps must be grounded in collective 
+commitments.
+
+DOI: 10.1093/jmp/jhy026
+PMID: 30452677 [Indexed for MEDLINE]
+
+
+889. J Anim Sci. 2019 Feb 1;97(2):945-961. doi: 10.1093/jas/sky442.
+
+Carbon and blue water footprints of California sheep production.
+
+Dougherty HC(1), Oltjen JW(1), Mitloehner FM(1), DePeters EJ(1), Pettey LA(1), 
+Macon D(2), Finzel J(3), Rodrigues K(4), Kebreab E(1).
+
+Author information:
+(1)Department of Animal Science, University of California, Davis.
+(2)University of California Cooperative Extension, Auburn.
+(3)University of California Cooperative Extension, Bakersfield.
+(4)Hopland Research & Extension Center, Hopland.
+
+While the environmental impacts of livestock production, such as greenhouse gas 
+emissions and water usage, have been studied for a variety of US livestock 
+production systems, the environmental impact of US sheep production is still 
+unknown. A cradle-to-farm gate life cycle assessment (LCA) was conducted 
+according to international standards (ISO 14040/44), analyzing the impacts of CS 
+representing five different meat sheep production systems in California, and 
+focusing on carbon footprint (carbon dioxide equivalents, CO2e) and irrigated 
+water usage (metric ton, MT). This study is the first to look specifically at 
+the carbon footprint of the California sheep industry and consider both wool and 
+meat production across the diverse sheep production systems within California. 
+This study also explicitly examined the carbon footprint of hair sheep as 
+compared with wooled sheep production. Data were derived from producer 
+interviews and literature values, and California-specific emission factors were 
+used wherever possible. Flock outputs studied included market lamb meat, 
+breeding stock, 2-d-old lambs, cull adult meat, and wool. Four different methane 
+prediction models were examined, including the current IPCC tier 1 and 2 
+equations, and an additional sensitivity analysis was conducted to examine the 
+effect of a fixed vs. flexible coefficient of gain (kg) in mature ewes on carbon 
+footprint per ewe. Mass, economic, and protein mass allocation were used to 
+examine the impact of allocation method on carbon footprint and water usage, 
+while sensitivity analyses were used to examine the impact of ewe replacement 
+rate (% of ewe flock per year) and lamb crop (lambs born per ewe bred) on carbon 
+footprint per kilogram market lamb. The carbon footprint of market lamb 
+production ranged from 13.9 to 30.6 kg CO2e/kg market lamb production on a mass 
+basis, 10.4 to 18.1 kg CO2e/kg market lamb on an economic basis, and 6.6 to 10.1 
+kg CO2e/kg market lamb on a protein mass basis. Enteric methane (CH4) production 
+was the largest single source of emissions for all CS, averaging 72% of total 
+emissions. Emissions from feed production averaged 22% in total, primarily from 
+manure emissions credited to feed. Whole-ranch water usage ranged from 2.1 to 
+44.8 MT/kg market lamb, almost entirely from feed production. Overall results 
+were in agreement with those from meat-focused sheep systems in the United 
+Kingdom as well as beef raised under similar conditions in California.
+
+DOI: 10.1093/jas/sky442
+PMCID: PMC6358244
+PMID: 30452693 [Indexed for MEDLINE]
+
+
+890. Antibiotics (Basel). 2018 Nov 16;7(4):101. doi: 10.3390/antibiotics7040101.
+
+Fighting Fire with Fire: Phage Potential for the Treatment of E. coli O157 
+Infection.
+
+Howard-Varona C(1), Vik DR(2), Solonenko NE(3), Li YF(4), Gazitua MC(5), 
+Chittick L(6), Samiec JK(7), Jensen AE(8), Anderson P(9), Howard-Varona A(10), 
+Kinkhabwala AA(11), Abedon ST(12), Sullivan MB(13)(14).
+
+Author information:
+(1)Department of Microbiology, The Ohio State University, Columbus, OH 43210, 
+USA. howard-varona.2@osu.edu.
+(2)Department of Microbiology, The Ohio State University, Columbus, OH 43210, 
+USA. vik.1@buckeyemail.osu.edu.
+(3)Department of Microbiology, The Ohio State University, Columbus, OH 43210, 
+USA. solonenko.2@osu.edu.
+(4)Department of Microbiology, The Ohio State University, Columbus, OH 43210, 
+USA. li.918@osu.edu.
+(5)Department of Microbiology, The Ohio State University, Columbus, OH 43210, 
+USA. consuelogazitua@gmail.com.
+(6)Department of Microbiology, The Ohio State University, Columbus, OH 43210, 
+USA. chittick.3@osu.edu.
+(7)Department of Microbiology, The Ohio State University, Columbus, OH 43210, 
+USA. Jennifer.Samiec@osumc.edu.
+(8)Department of Microbiology, The Ohio State University, Columbus, OH 43210, 
+USA. aubrey.jensen9@gmail.com.
+(9)Department of Microbiology, The Ohio State University, Columbus, OH 43210, 
+USA. anderson.2805@buckeyemail.osu.edu.
+(10)Department of Microbiology, The Ohio State University, Columbus, OH 43210, 
+USA. ahowardv11@gmail.com.
+(11)EpiBiome, Inc., 29528 Union City blvd, Union City, CA 94587, USA. 
+anikaak@gmail.com.
+(12)Department of Microbiology, The Ohio State University, Columbus, OH 43210, 
+USA. abedon.1@osu.edu.
+(13)Department of Microbiology, The Ohio State University, Columbus, OH 43210, 
+USA. sullivan.948@osu.edu.
+(14)Department of Civil, Environmental and Geodetic Engineering, The Ohio State 
+University, Columbus, OH 43210, USA. sullivan.948@osu.edu.
+
+Hemolytic⁻uremic syndrome is a life-threating disease most often associated with 
+Shiga toxin-producing microorganisms like Escherichia coli (STEC), including E. 
+coli O157:H7. Shiga toxin is encoded by resident prophages present within this 
+bacterium, and both its production and release depend on the induction of Shiga 
+toxin-encoding prophages. Consequently, treatment of STEC infections tend to be 
+largely supportive rather than antibacterial, in part due to concerns about 
+exacerbating such prophage induction. Here we explore STEC O157:H7 prophage 
+induction in vitro as it pertains to phage therapy-the application of 
+bacteriophages as antibacterial agents to treat bacterial infections-to curtail 
+prophage induction events, while also reducing STEC O157:H7 presence. We 
+observed that cultures treated with strictly lytic phages, despite being lysed, 
+produce substantially fewer Shiga toxin-encoding temperate-phage virions than 
+untreated STEC controls. We therefore suggest that phage therapy could have 
+utility as a prophylactic treatment of individuals suspected of having been 
+recently exposed to STEC, especially if prophage induction and by extension 
+Shiga toxin production is not exacerbated.
+
+DOI: 10.3390/antibiotics7040101
+PMCID: PMC6315980
+PMID: 30453470
+
+Conflict of interest statement: Epibiome is a phage therapy start-up company, 
+but all data were independently analyzed at OSU and none of the authors from OSU 
+have financial ties with Epibiome.
+
+
+891. Disabil Rehabil. 2020 Mar;42(6):849-856. doi: 10.1080/09638288.2018.1512165.
+ Epub 2018 Nov 19.
+
+Pain, impaired functioning, poor satisfaction and diminished health status eight 
+years following perilunate (fracture) dislocations.
+
+Lameijer CM(1), Niezen CK(2), El Moumni M(1), van der Sluis CK(2).
+
+Author information:
+(1)Department of Trauma Surgery, University of Groningen, University Medical 
+Center Groningen, Groningen, the Netherlands.
+(2)Department of Rehabilitation Medicine, University of Groningen, University 
+Medical Center Groningen, Groningen, the Netherlands.
+
+Purpose: Perilunate (fracture) dislocations are rare injuries and diminished 
+functional outcomes are reported. However, Patient Reported Outcomes (PROs) 
+following these injuries are rarely described. The aim of this study was to 
+investigate the long-term impact of perilunate (fracture) dislocations using a 
+range of measures, including pain, function, and quality of life.Materials and 
+Methods: This cross-sectional study was conducted from January 2016 until March 
+2016. Eleven patients who had suffered from perilunate (fracture) dislocations 
+between August 1996 and January 2014 were matched on age and gender with 22 
+healthy controls. Functional outcome included range of motion and grip strength 
+measurements. The Patient Reported Outcomes included: Patient Reported Wrist 
+Evaluation, Disability of Arm, Shoulder and Hand questionnaire, Michigan Hand 
+Questionnaire and the Short Form-36.Results: The 11 patients that were included 
+(9 males) had a median age at injury of 38 years (IQR 33; 54) and median follow 
+up of 97 months (IQR 84-193). Flexion/extension (mean difference -60°, 95% CI 
+-76, -43, p < 0.001) and ulnar/radial deviation (mean difference -28°, 95% CI 
+-38, -18, p < 0.001) were significantly diminished in patients following 
+perilunate (fracture) dislocations. Grip strength was not affected. The patients 
+experienced significantly more pain as assessed on all pain subscales. Physical 
+functioning was significantly worse in the group with perilunate (fracture) 
+dislocations as assessed on all function subscales, except the PRWE function 
+score and the subscale physical functioning of the Short Form-36. Satisfaction 
+as measured with the Michigan Hand Questionnaire satisfaction subscale (mean 
+difference -36, 95% CI -57, -16, p = 0.002) was also reported poorer. No 
+difference was found regarding work participation.Conclusions: A perilunate 
+(fracture) dislocation has a significant impact on everyday life, as patients 
+experience diminished range of motion, pain, diminished physical functioning, 
+diminished satisfaction and report lower general health status than healthy 
+controls. However, no consequences for work participation were found in this 
+study. Level of evidence 3.Implications for rehabilitationFlexion/extension and 
+ulnar/radial deviation remains limited following perilunate (fracture) 
+dislocations.Grip strength is not diminished in patients with perilunate 
+(fracture) dislocations.Pain, restrictions in physical functioning, diminished 
+satisfaction and lower general health status are likely to be present following 
+perilunate (fracture) dislocations.If conservative treatment including pain 
+medication and rehabilitation strategies do not relief pain following perilunate 
+(fracture) dislocations, surgical treatment options such as wrist denervation or 
+arthrodesis should be considered.
+
+DOI: 10.1080/09638288.2018.1512165
+PMID: 30453787 [Indexed for MEDLINE]
+
+
+892. J Vet Diagn Invest. 2019 Jan;31(1):128-132. doi: 10.1177/1040638718814109.
+Epub  2018 Nov 19.
+
+Eimeria gilruthi-associated abomasitis in a group of ewes.
+
+Ammar SI(1)(2)(3)(4), Watson AM(1)(2)(3)(4), Craig LE(1)(2)(3)(4), Cope 
+ER(1)(2)(3)(4), Schaefer JJ(1)(2)(3)(4), Mulliniks JT(1)(2)(3)(4), Gerhold 
+RW(1)(2)(3)(4).
+
+Author information:
+(1)Department of Biomedical and Diagnostic Sciences, College of Veterinary 
+Medicine (Gerhold, Ammar, Watson, Craig, Schaefer), University of Tennessee, 
+Knoxville, TN.
+(2)Department of Animal Science (Cope), University of Tennessee, Knoxville, TN.
+(3)West Central Research and Extension Center, University of Nebraska, North 
+Platte, NE (Mulliniks).
+(4)Clinical Pathology Department, College of Veterinary Medicine, Sadat City 
+University, Sadat City, Menofia, Egypt (Ammar).
+
+Nine of 23 (39%) research ewes with severe diarrhea and weight loss had 
+histologic lesions consistent with Eimeria gilruthi infection in their abomasa. 
+Gross anatomic lesions included hundreds of opaque 1-mm nodules in abomasal 
+mucosa that corresponded microscopically to 200-300 µm diameter organisms 
+surrounded by areas of necrosis. Analysis of fecal samples from 4 ewes 
+demonstrated oocysts from typical ovine Eimeria species, none of which were E. 
+gilruthi. Two separate PCR reactions were performed on abomasal tissue from 4 
+sheep to amplify the 18S ribosomal DNA (rDNA) and internal transcribed spacer 
+(ITS) region of the rDNA, respectively. The resultant 18S rDNA nucleotide 
+sequences shared 99% homology with multiple Eimeria species in GenBank. The ITS 
+region shared 77% homology with E. ellipsoidalis in GenBank. Further studies are 
+needed to understand the life cycle and pathogenicity of E. gilruthi. Our 
+results underscore the inclusion of E. gilruthi in the differential diagnosis of 
+diarrhea and weight loss in sheep.
+
+DOI: 10.1177/1040638718814109
+PMCID: PMC6505772
+PMID: 30453850 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of conflicting interests: The 
+authors declared no potential conflicts of interest with respect to the 
+research, authorship, and/or publication of this article.
+
+
+893. BMC Bioinformatics. 2018 Nov 20;19(Suppl 14):414. doi: 
+10.1186/s12859-018-2381-1.
+
+Automated shape-based clustering of 3D immunoglobulin protein structures in 
+chronic lymphocytic leukemia.
+
+Polychronidou E(1), Kalamaras I(2), Agathangelidis A(3), Sutton LA(4), Yan 
+XJ(5), Bikos V(6), Vardi A(7), Mochament K(2), Chiorazzi N(5), Belessi C(8), 
+Rosenquist R(4), Ghia P(9), Stamatopoulos K(3), Vlamos P(10), Chailyan A(11), 
+Overby N(12), Marcatili P(12), Hatzidimitriou A(3), Tzovaras D(2).
+
+Author information:
+(1)Information Technologies Institute, Centre for Research and Technology 
+Hellas, 6th km Harilaou-Thermi Road, Thessaloniki, Greece. epolyc@iti.gr.
+(2)Information Technologies Institute, Centre for Research and Technology 
+Hellas, 6th km Harilaou-Thermi Road, Thessaloniki, Greece.
+(3)Institute of Applied Biosciences, Centre for Research and Technology Hellas, 
+6th km Harilaou-Thermi Road, Thessaloniki, Greece.
+(4)Department of Immunology, Technical University of Denmark,Genetics and 
+Pathology, Science for Life Laboratory, Uppsala University, Uppsala, Sweden.
+(5)Karches Center for Chronic Lymphocytic Leukemia Research, The Feinstein 
+Institute for Medical Research, Manhasset, NY, USA.
+(6)Masaryk University, Central European Institute of Technology, Brno, Czech 
+Republic.
+(7)Hematology Department and HCT Unit, G. Papanikolaou Hospital, Thessaloniki, 
+Greece.
+(8)Nikea General Hospital, Hematology Department, Piraeus, Greece.
+(9)IRCCS San Raffaele Scientific Institute and Università, VitaSalute, San 
+Raffaele, Division of Experimental Oncology, Milan, Italy.
+(10)Department of Informatics,Ionian University, Corfu, Greece.
+(11)Carlsberg Research Laboratory, Copenhagen, Denmark.
+(12)Center for Biological Sequence Analysis, Technical University of Denmark, 
+Copenhagen, Denmark.
+
+BACKGROUND: Although the etiology of chronic lymphocytic leukemia (CLL), the 
+most common type of adult leukemia, is still unclear, strong evidence implicates 
+antigen involvement in disease ontogeny and evolution. Primary and 3D structure 
+analysis has been utilised in order to discover indications of antigenic 
+pressure. The latter has been mostly based on the 3D models of the clonotypic B 
+cell receptor immunoglobulin (BcR IG) amino acid sequences. Therefore, their 
+accuracy is directly dependent on the quality of the model construction 
+algorithms and the specific methods used to compare the ensuing models. Thus 
+far, reliable and robust methods that can group the IG 3D models based on their 
+structural characteristics are missing.
