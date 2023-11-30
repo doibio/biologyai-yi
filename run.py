@@ -3,12 +3,16 @@ import os
 import codecs
 
 
-API_URL = "https://zbcr1xtvyhjfqg93.us-east-1.aws.endpoints.huggingface.cloud"
+# API_URL = "https://zbcr1xtvyhjfqg93.us-east-1.aws.endpoints.huggingface.cloud"
+# headers = {
+# 	"Authorization": "Bearer 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",
+# 	"Content-Type": "application/json"
+# }
+API_URL = "https://cyk532m7zhkpqslt.us-east-1.aws.endpoints.huggingface.cloud"
 headers = {
 	"Authorization": "Bearer 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",
 	"Content-Type": "application/json"
 }
-
 
 directory_path = 'edirect2'
 
@@ -36,7 +40,7 @@ for filename in os.listdir(directory_path):
 
 for document in documents:
     output = query({
-	"inputs": "Please summarize the following: " + document,
+	"inputs": "Evaluate this treatment for efficacy: " + document["snippet"],
     })
     print("----------------------------------------")
     print(output)

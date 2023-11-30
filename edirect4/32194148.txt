@@ -1,0 +1,47 @@
+1. J Clin Epidemiol. 2020 Jun;122:78-86. doi: 10.1016/j.jclinepi.2020.03.007.
+Epub  2020 Mar 17.
+
+Prior event rate ratio adjustment produced estimates consistent with randomized 
+trial: a diabetes case study.
+
+Rodgers LR(1), Dennis JM(2), Shields BM(3), Mounce L(2), Fisher I(4), Hattersley 
+AT(5), Henley WE(2); MASTERMIND Consortium.
+
+Author information:
+(1)Institute of Health Research, University of Exeter Medical School, Exeter, 
+UK. Electronic address: L.R.Rodgers@exeter.ac.uk.
+(2)Institute of Health Research, University of Exeter Medical School, Exeter, 
+UK.
+(3)NIHR Exeter Clinical Research Facility, University of Exeter Medical School, 
+Exeter, UK.
+(4)IQVIA, London UK.
+(5)Department of Diabetes and Endocrinology, Royal Devon and Exeter NHS 
+Foundation Trust, Exeter, UK.
+
+OBJECTIVES: Electronic health records (EHR) provide a valuable resource for 
+assessing drug side-effects, but treatments are not randomly allocated in 
+routine care creating the potential for bias. We conduct a case study using the 
+Prior Event Rate Ratio (PERR) Pairwise method to reduce unmeasured confounding 
+bias in side-effect estimates for two second-line therapies for type 2 diabetes, 
+thiazolidinediones, and sulfonylureas.
+STUDY DESIGN AND SETTINGS: Primary care data were extracted from the Clinical 
+Practice Research Datalink (n = 41,871). We utilized outcomes from the period 
+when patients took first-line metformin to adjust for unmeasured confounding. 
+Estimates for known side-effects and a negative control outcome were compared 
+with the A Diabetes Outcome Progression Trial (ADOPT) trial (n = 2,545).
+RESULTS: When on metformin, patients later prescribed thiazolidinediones had 
+greater risks of edema, HR 95% CI 1.38 (1.13, 1.68) and gastrointestinal 
+side-effects (GI) 1.47 (1.28, 1.68), suggesting the presence of unmeasured 
+confounding. Conventional Cox regression overestimated the risk of edema on 
+thiazolidinediones and identified a false association with GI. The PERR Pairwise 
+estimates were consistent with ADOPT: 1.43 (1.10, 1.83) vs. 1.39 (1.04, 1.86), 
+respectively, for edema, and 0.91 (0.79, 1.05) vs. 0.94 (0.80, 1.10) for GI.
+CONCLUSION: The PERR Pairwise approach offers potential for enhancing 
+postmarketing surveillance of side-effects from EHRs but requires careful 
+consideration of assumptions.
+
+Copyright © 2020 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jclinepi.2020.03.007
+PMCID: PMC7262589
+PMID: 32194148 [Indexed for MEDLINE]

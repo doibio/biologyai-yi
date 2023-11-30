@@ -1,0 +1,73 @@
+1. JCO Clin Cancer Inform. 2020 Mar;4:171-183. doi: 10.1200/CCI.19.00107.
+
+Treatment Patterns for Chronic Comorbid Conditions in Patients With Cancer Using 
+a Large-Scale Observational Data Network.
+
+Chen R(1)(2)(3), Ryan P(1)(2)(4), Natarajan K(1)(2), Falconer T(1)(2), Crew 
+KD(5), Reich CG(2)(6), Vashisht R(2)(7), Randhawa G(8), Shah NH(2)(7), Hripcsak 
+G(1)(2)(9).
+
+Author information:
+(1)Department of Biomedical Informatics, Columbia University, New York, NY.
+(2)Observational Health Data Sciences and Informatics, New York, NY.
+(3)Department of Medicine, Weill Cornell Medical College, New York, NY.
+(4)Epidemiology Analytics, Janssen Research and Development, Titusville, NJ.
+(5)Department of Medicine and the Herbert Irving Comprehensive Cancer Center, 
+Vagelos College of Physicians and Surgeons, Columbia University, New York, NY.
+(6)IQVIA, Cambridge, MA.
+(7)Center for Biomedical Informatics Research, Stanford University, Palo Alto, 
+CA.
+(8)Health Systems and Interventions Research Branch, Healthcare Delivery 
+Research Program, Division of Cancer Control and Population Sciences, National 
+Cancer Institute, Bethesda, MD.
+(9)Medical Informatics Services, New York-Presbyterian Hospital, New York, NY.
+
+PURPOSE: Patients with cancer are predisposed to developing chronic, comorbid 
+conditions that affect prognosis, quality of life, and mortality. While 
+treatment guidelines and care variations for these comorbidities have been 
+described for the general noncancer population, less is known about real-world 
+treatment patterns in patients with cancer. We sought to characterize the 
+prevalence and distribution of initial treatment patterns across a large-scale 
+data network for depression, hypertension, and type II diabetes mellitus (T2DM) 
+among patients with cancer.
+METHODS: We used the Observational Health Data Sciences and Informatics network, 
+an international collaborative implementing the Observational Medical Outcomes 
+Partnership Common Data Model to standardize more than 2 billion patient 
+records. For this study, we used 8 databases across 3 countries-the United 
+States, France, and Germany-with 295,529,655 patient records. We identified 
+patients with cancer using SNOMED (Systematized Nomenclature of Medicine) codes 
+validated via manual review. We then characterized the treatment patterns of 
+these patients initiating treatment of depression, hypertension, or T2DM with 
+persistent treatment and at least 365 days of observation.
+RESULTS: Across databases, wide variations exist in treatment patterns for 
+depression (n = 1,145,510), hypertension (n = 3,178,944), and T2DM (n = 
+886,766). When limited to 6-node (6-drug) sequences, we identified 61,052 unique 
+sequences for depression, 346,067 sequences for hypertension, and 40,629 
+sequences for T2DM. These variations persisted across sites, databases, 
+countries, and conditions, with the exception of metformin (73.8%) being the 
+most common initial T2DM treatment. The most common initial medications were 
+sertraline (17.5%) and escitalopram (17.5%) for depression and 
+hydrochlorothiazide (20.5%) and lisinopril (19.6%) for hypertension.
+CONCLUSION: We identified wide variations in the treatment of common 
+comorbidities in patients with cancer, similar to the general population, and 
+demonstrate the feasibility of conducting research on patients with cancer 
+across a large-scale observational data network using a common data model.
+
+DOI: 10.1200/CCI.19.00107
+PMCID: PMC7113074
+PMID: 32134687 [Indexed for MEDLINE]
+
+Conflict of interest statement: The following represents disclosure information 
+provided by authors of this manuscript. All relationships are considered 
+compensated unless otherwise noted. Relationships are self-held unless noted. I 
+= Immediate Family Member, Inst = My Institution. Relationships may not relate 
+to the subject matter of this manuscript. For more information about ASCO's 
+conflict of interest policy, please refer to www.asco.org/rwc or 
+ascopubs.org/cci/author-center. Open Payments is a public database containing 
+information reported by companies about payments made to US-licensed physicians 
+(Open Payments). PATRICK RYAN: Employment: Janssen Research & Development Stock 
+and Other Ownership Interests: Johnson & Johnson NIGAM H. SHAH: Leadership: 
+Prealize Health Stock and Other Ownership Interests: Apixio Consulting or 
+Advisory Role: Apixio Research Funding: Google (Inst) Travel, Accommodations, 
+Expenses: Apixio GEORGE HRIPCSAK: Research Funding: Janssen Research & 
+Development No other potential conflicts of interest were reported.

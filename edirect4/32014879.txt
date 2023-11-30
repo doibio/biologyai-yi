@@ -1,0 +1,65 @@
+1. BMJ Open. 2020 Feb 2;10(1):e034741. doi: 10.1136/bmjopen-2019-034741.
+
+Antidiabetic and antiosteoporotic pharmacotherapies for prevention and treatment 
+of type 2 diabetes-induced bone disease: protocol for two network meta-analyses.
+
+Deng J(1), Abbas U(2), Chang O(2), Dhivagaran T(2), Sanger S(3), Bozzo A(4).
+
+Author information:
+(1)Faculty of Health Sciences, McMaster University, Hamilton, Ontario, Canada 
+dengj35@mcmaster.ca.
+(2)Faculty of Health Sciences, McMaster University, Hamilton, Ontario, Canada.
+(3)Health Sciences Library, McMaster University, Hamilton, Ontario, Canada.
+(4)Division of Orthopedic Surgery, Department of Surgery, McMaster University, 
+Hamilton, Ontario, Canada.
+
+INTRODUCTION: Patients with type 2 diabetes mellitus (T2DM) are at risk for a 
+variety of severe debilitating effects. One of the most serious complications 
+experienced by patients with T2DM are skeletal diseases caused by changes in the 
+bone microenvironment. As a result, patients with T2DM are at risk for higher 
+prevalence of fragility fractures. There are a variety of treatments available 
+for counteracting this effect. Some antidiabetic medications, such as metformin, 
+have been shown to have a positive effect on bone health without the addition of 
+additional drugs into patients' treatment plans. Chinese randomised controlled 
+trial (RCT) studies have also proposed antiosteoporotic pharmacotherapies as a 
+viable alternative treatment strategy. Previous network meta-analyses (NMAs) and 
+meta-analyses regarding this topic did not include all available RCT trials, or 
+only performed pairwise comparisons. We present a protocol for a two-part NMA 
+that incorporates all available RCT data to provide the most comprehensive 
+ranking of antidiabetics (part I) and antiosteoporotic (part II) 
+pharmacotherapies in terms of their ability to decrease fracture incidences, 
+increase bone mineral density (BMD) and improve indications of bone turnover 
+markers (BTMs) in adult patients with T2DM.
+METHODS AND ANALYSIS: We will search Medical Literature Analysis and Retrieval 
+System Online, Excerpta Medica Database, PubMed, Web of Science, Cumulative 
+Index to Nursing and Allied Health Literature, Cochrane Central Register of 
+Controlled Trials and Chinese literature sources (China National Knowledge 
+Infrastructure, Chongqing VIP Information, Wanfang Data, Wanfang Med Online) for 
+RCTs, which fit our criteria. We will include adult patients with T2DM who have 
+taken antidiabetics (part I) or antiosteoporotic (part II) therapies with 
+relevant outcome measures in our study. We will perform title/abstract and 
+full-text screening as well as data extraction in duplicate. Risk of bias will 
+be evaluated in duplicate for each study, and the quality of evidence will be 
+examined using Confidence in Network Meta-Analysis in accordance to the Grading 
+of Recommendations Assessment, Development and Evaluation framework. We will use 
+R and gemtc to perform the NMA. We will report changes in BMD and BTMs in either 
+weighted or standardised mean difference, and we will report fracture incidences 
+as ORs. We will use the Surface Under the Cumulative Ranking Curve scores to 
+provide numerical estimates of the rankings of interventions.
+ETHICS AND DISSEMINATION: The study will not require ethics approval. The 
+findings of the two-part NMA will be disseminated in peer-reviewed journals and 
+presented at conferences. We aim to produce the most comprehensive quantitative 
+analysis regarding the management of T2DM bone disease. Our analysis should be 
+able to provide physicians and patients with up-to-date recommendations for 
+antidiabetic medications and antiosteoporotic pharmacotherapies for maintaining 
+bone health in patients with T2DM.
+PROSPERO REGISTRATION NUMBER: CRD42019139320.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2019-034741
+PMCID: PMC7045154
+PMID: 32014879 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.

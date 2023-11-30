@@ -1,0 +1,64 @@
+1. Circulation. 2020 Apr 28;141(17):1360-1370. doi: 
+10.1161/CIRCULATIONAHA.119.043353. Epub 2020 Feb 26.
+
+Exploring the Possible Impact of Unbalanced Open-Label Drop-In of 
+Glucose-Lowering Medications on EXSCEL Outcomes.
+
+Bethel MA(1), Stevens SR(2), Buse JB(3), Choi J(4), Gustavson SM(4), Iqbal N(4), 
+Lokhnygina Y(2), Mentz RJ(2), Patel RA(1), Öhman P(4), Schernthaner G(5), Lecube 
+A(6), Hernandez AF(2), Holman RR(1).
+
+Author information:
+(1)Diabetes Trials Unit, Oxford Centre for Diabetes, Endocrinology and 
+Metabolism, University of Oxford, UK (M.A.B., R.A.P., R.R.H.).
+(2)Duke Clinical Research Institute, Duke University School of Medicine, Durham, 
+NC (S.R.S., Y.L., R.J.M., A.F.H.).
+(3)Department of Medicine, University of North Carolina School of Medicine, 
+Chapel Hill (J.B.B.).
+(4)AstraZeneca Research and Development, Gaithersburg, MD (J.C., S.M.G., N.I., 
+P.Ö.).
+(5)Department of Medicine, Rudolfstiftung Hospital-Vienna, Austria (G.S.).
+(6)University Hospital Arnau de Vilanova, Obesity, Diabetes and Metabolism 
+Research Group (IRBLleida), Lleida, Spain (A.L.). Dr Bethel is now at Eli Lilly 
+and Co., Indianapolis, IN. Dr Patel is now with the National Health Service, UK.
+
+BACKGROUND: EXSCEL (Exenatide Study of Cardiovascular Event Lowering) assessed 
+the impact of once-weekly exenatide 2 mg versus placebo in patients with type 2 
+diabetes mellitus, while aiming for glycemic equipoise. Consequently, greater 
+drop-in of open-label glucose-lowering medications occurred in the placebo 
+group. Accordingly, we explored the potential effects of their unbalanced use on 
+major adverse cardiovascular events (MACE), defined as cardiovascular death, 
+nonfatal myocardial infarction or nonfatal stroke, and all-cause mortality 
+(ACM), given that some of these agents are cardioprotective.
+METHODS: Cox hazard models were performed by randomized treatment for drug 
+classes where >5% open-label drop-in glucose-lowering medication occurred, and 
+for glucagon-like peptide-1 receptor agonists (GLP-1 RAs; 3.0%) using three 
+methodologies: drop-in visit right censoring, inverse probability for treatment 
+weighting (IPTW), and applying drug class risk reductions.
+RESULTS: Baseline glucose-lowering medications for the 14 752 EXSCEL 
+participants (73.1% with previous cardiovascular disease) did not differ between 
+treatment groups. During median 3.2 years follow-up, open-label drop-in occurred 
+in 33.4% of participants, more frequently with placebo than exenatide (38.1% 
+versus 28.8%), with metformin (6.1% versus 4.9%), sulfonylurea (8.7% versus 
+6.9%), dipeptidyl peptidase-4 inhibitors (10.6% versus 7.5%), SGLT-2i (10.3% 
+versus 8.1%), GLP-1 RA (3.4% versus 2.4%), and insulin (13.8% versus 9.4%). The 
+MACE effect size was not altered meaningfully by right censoring, but the 
+favorable HR for exenatide became nominally significant in the sulfonylurea and 
+any glucose-lowering medication groups, while the ACM HR and p-values were 
+essentially unchanged. IPTW decreased the MACE HR from 0.91 (P=0.061) to 0.85 
+(P=0.008) and the ACM HR from 0.86 (P=0.016) to 0.81 (P=0.012). Application of 
+literature-derived risk reductions showed no meaningful changes in MACE or ACM 
+HRs or P values, although simulations of substantially greater use of drop-in 
+cardioprotective glucose-lowering agents demonstrated blunting of signal 
+detection.
+CONCLUSIONS: EXSCEL-observed HRs for MACE and ACM remained robust after right 
+censoring or application of literature-derived risk reductions, but the 
+exenatide versus placebo MACE effect size and statistical significance were 
+increased by IPTW. Effects of open-label drop-in cardioprotective medications 
+need to be considered carefully when designing, conducting, and analyzing 
+cardiovascular outcome trials of glucose-lowering agents under the premise of 
+glycemic equipoise. Registration: URL: https://www.clinicaltrials.gov; Unique 
+identifier: NCT01144338.
+
+DOI: 10.1161/CIRCULATIONAHA.119.043353
+PMID: 32098501 [Indexed for MEDLINE]

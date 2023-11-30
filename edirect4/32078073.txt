@@ -1,0 +1,39 @@
+1. Biomed Microdevices. 2020 Feb 20;22(1):20. doi: 10.1007/s10544-020-0474-x.
+
+Cell trapping microfluidic chip made of Cyclo olefin polymer enabling two 
+concurrent cell biology experiments with long term durability.
+
+Gencturk E(1), Yurdakul E(1), Celik AY(2), Mutlu S(2), Ulgen KO(3).
+
+Author information:
+(1)Department of Chemical Engineering, Biosystems Engineering Laboratory, 
+Bogazici University, 34342, Istanbul, Turkey.
+(2)Department of Electrical and Electronics Engineering, BUMEMS Laboratory, 
+Bogazici University, 34342, Istanbul, Turkey.
+(3)Department of Chemical Engineering, Biosystems Engineering Laboratory, 
+Bogazici University, 34342, Istanbul, Turkey. ulgenk@boun.edu.tr.
+
+Cyclo Olefin Polymer (COP) based microbioreactors on a microfluidic chip were 
+produced in house by hot-embossing and thermo-compression bonding methods. The 
+chip allows two different experiments to be performed on trapped cells at the 
+same time. On one side of the chip, red fluorescent protein (RFP) tagged 
+nucleolar Nop56 protein was used to track changes in cell cycle as well as 
+protein synthesis within the yeast cells under the application of the anti-tumor 
+agent hydroxyurea (HU). Simultaneously, on the other side of the chip, the 
+response of yeast cells to the drug metformin, mTOR inhibitor, was investigated 
+to reveal the role of TOR signaling in ribosome biogenesis and cell 
+proliferation. The results of 20 h long experiments are captured by taking 
+brightfield and fluorescent microscopy images of the trapped cells every 9 min. 
+The expression of Nop56 protein of ribosome assembly and synthesis was densely 
+observed during G1 phase of cell cycle, and later towards the end of cell cycle 
+the ribosomal protein expression slowed down. Under HU treatment, the morphology 
+of yeast cells changed, but after cessation of HU, the biomass synthesis rate 
+was sustained as monitored by the cell perimeter. Under metformin treatment, the 
+perimeters of single cells were observed to decrease, implying a decrease in 
+biomass growth; however these cells continued their proliferation during and 
+after the drug application. The relation between ribosome biogenesis and cell 
+cycle was successfully investigated on single cell basis, capturing cell-to-cell 
+variations, which cannot be tracked by regular macroscale bioreactors.
+
+DOI: 10.1007/s10544-020-0474-x
+PMID: 32078073 [Indexed for MEDLINE]
