@@ -26,7 +26,7 @@ for filename in os.listdir(directory_path):
 
 co = cohere.Client('KEY_HERE')
 response = co.chat(
-    message="Evaluate tebentafusp for efficacy",
+    message="Evaluate these life extension drugs for efficacy",
     documents=documents,
     prompt_truncation="AUTO"
 )
