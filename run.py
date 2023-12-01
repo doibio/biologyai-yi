@@ -4,7 +4,7 @@ import codecs
 
 url = "https://gpu-server.onrender.com/" #'http://localhost:8000/' #
 
-directory_path = 'edirect10'
+directory_path = 'edirect-rilmenidine'
 
 documents = []
 
