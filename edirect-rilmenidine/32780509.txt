@@ -1,0 +1,50 @@
+1. Cancer Med. 2020 Oct;9(19):7018-7033. doi: 10.1002/cam4.3361. Epub 2020 Aug
+11.
+
+Identification of potential prognostic small nucleolar RNA biomarkers for 
+predicting overall survival in patients with sarcoma.
+
+Liu J(1), Liao X(2), Zhu X(1), Lv P(1), Li R(3).
+
+Author information:
+(1)Department of Spine Surgery, The Third Affiliated Hospital of Guangxi Medical 
+University, Nanning, People's Republic of China.
+(2)Department of Hepatobiliary Surgery, The First Affiliated Hospital of Guangxi 
+Medical University, Nanning, People's Republic of China.
+(3)Department of Reproductive Center, The Third Affiliated Hospital of Guangxi 
+Medical University, Nanning, People's Republic of China.
+
+OBJECTIVE: The main purpose of the present study is to screen prognostic small 
+nucleolar RNA (snoRNA) markers using the RNA-sequencing (RNA-seq) dataset of The 
+Cancer Genome Atlas (TCGA) sarcoma cohort.
+METHODS: The sarcoma RNA-seq dataset comes from the TCGA cohort. A total of 257 
+sarcoma patients were included into the prognostic analysis. Multiple 
+bioinformatics analysis methods for functional annotation of snoRNAs and 
+screening of targeted drugs, including biological network gene ontology tool, 
+Gene Ontology (GO), Kyoto Encyclopedia of Genes and Genomes (KEGG), Gene Set 
+Enrichment Analysis (GSEA), and connectivity map (CMap) are used.
+RESULTS: We had identified 15 snoRNAs that were significantly related to the 
+prognosis of sarcoma and constructed a prognostic signature based on four 
+prognostic snoRNA (U3, SNORA73B, SNORD46, and SNORA26) expression values. 
+Functional annotation of these four snoRNAs by their co-expression genes 
+suggests that some of them were closely related to cell cycle-related biological 
+processes and tumor-related signaling pathways, such as Wnt, mitogen-activated 
+protein kinase, target of rapamycin, and nuclear factor-kappa B signaling 
+pathway. GSEA of the risk score suggests that high risk score phenotype was 
+significantly enriched in cell cycle-related biological processes, protein 
+SUMOylation, DNA replication, p53 binding, regulation of DNA repair, and DNA 
+methylation, as well as Myc, Wnt, RB1, E2F, and TEL pathways. Then we also used 
+the CMap online tool to screen five targeted drugs (rilmenidine, pizotifen, 
+amiprilose, quipazine, and cinchonidine) for this risk score model in sarcoma.
+CONCLUSION: Our study have identified 15 snoRNAs that may be serve as novel 
+prognostic biomarkers for sarcoma, and constructed a prognostic signature based 
+on four prognostic snoRNA expression values.
+
+© 2020 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/cam4.3361
+PMCID: PMC7541128
+PMID: 32780509 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interest exists.

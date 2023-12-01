@@ -1,0 +1,60 @@
+1. Hepatology. 2023 Jan 1;77(1):256-267. doi: 10.1002/hep.32545. Epub 2022 May
+24.
+
+The steatosis-associated fibrosis estimator (SAFE) score: A tool to detect 
+low-risk NAFLD in primary care.
+
+Sripongpun P(1)(2), Kim WR(1), Mannalithara A(1), Charu V(3)(4), Vidovszky A(1), 
+Asch S(5), Desai M(4), Kim SH(6)(7), Kwong AJ(1).
+
+Author information:
+(1)Division of Gastroenterology and Hepatology , Department of Medicine , 
+Stanford University , Redwood City , California , USA.
+(2)Gastroenterology and Hepatology Unit , Division of Internal Medicine , Prince 
+of Songkla University , Hat Yai , Thailand.
+(3)Department of Pathology , Stanford University , Redwood City , California , 
+USA.
+(4)Quantitative Sciences Unit , Department of Medicine , Stanford University , 
+Redwood City , California , USA.
+(5)Division of Primary Care and Population Health , Department of Medicine , 
+Stanford University , Redwood City , California , USA.
+(6)Endocrinology, Gerontology and Metabolism , Department of Medicine , Stanford 
+University , Redwood City , California , USA.
+(7)Stanford Diabetes Research Center , Stanford University , Redwood City , 
+California , USA.
+
+Comment in
+    Hepatology. 2023 Jan 1;77(1):18-19.
+
+BACKGROUND: NAFLD is common in primary care. Liver fibrosis stage 2 or higher 
+(≥F2) increases future risk of morbidity and mortality. We developed and 
+validated a score to aid in the initial assessment of liver fibrosis for NAFLD 
+in primary care.
+METHODS: Data from patients with biopsy-proven NAFLD were extracted from the 
+NASH Clinical Research Network observational study ( n = 676). Using logistic 
+regression and machine-learning methods, we constructed prediction models to 
+distinguish ≥F2 from F0/1. The models were tested in participants in a trial 
+("FLINT," n = 280) and local patients with NAFLD with magnetic resonance 
+elastography data ( n = 130). The final model was applied to examinees in the 
+National Health and Nutrition Examination Survey (NHANES) III ( n = 11,953) to 
+correlate with long-term mortality.
+RESULTS: A multivariable logistic regression model was selected as the 
+Steatosis-Associated Fibrosis Estimator (SAFE) score, which consists of age, 
+body mass index, diabetes, platelets, aspartate and alanine aminotransferases, 
+and globulins (total serum protein minus albumin). The model yielded areas under 
+receiver operating characteristic curves ≥0.80 in distinguishing F0/1 from ≥F2 
+in testing data sets, consistently higher than those of Fibrosis-4 and NAFLD 
+Fibrosis Scores. The negative predictive values in ruling out ≥F2 at SAFE of 0 
+were 88% and 92% in the two testing sets. In the NHANES III set, survival up to 
+25 years of subjects with SAFE < 0 was comparable to that of those without 
+steatosis ( p = 0.34), whereas increasing SAFE scores correlated with shorter 
+survival with an adjusted HR of 1.53 ( p < 0.01) for subjects with SAFE > 100.
+CONCLUSION: The SAFE score, which uses widely available variables to estimate 
+liver fibrosis in patients diagnosed with NAFLD, may be used in primary care to 
+recognize low-risk NAFLD.
+
+Copyright © 2022 American Association for the Study of Liver Diseases.
+
+DOI: 10.1002/hep.32545
+PMCID: PMC9613815
+PMID: 35477908 [Indexed for MEDLINE]

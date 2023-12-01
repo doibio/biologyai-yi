@@ -1,0 +1,58 @@
+1. BMC Med. 2023 Jan 8;21(1):10. doi: 10.1186/s12916-022-02698-2.
+
+Predicting mortality in acutely hospitalised older patients: the impact of model 
+dimensionality.
+
+Tsui A(1), Tudosiu PD(2), Brudfors M(2)(3), Jha A(4), Cardoso J(2), Ourselin 
+S(2), Ashburner J(3), Rees G(4), Davis D(5), Nachev P(6).
+
+Author information:
+(1)MRC Unit for Lifelong Health and Ageing at UCL, London, UK. a.tsui@ucl.ac.uk.
+(2)School of Imaging and Biomedical Engineering, King's College London, London, 
+UK.
+(3)Wellcome Centre for Human Neuroimaging, UCL, London, UK.
+(4)UCL Queen Square Institute of Neurology, UCL, London, UK.
+(5)MRC Unit for Lifelong Health and Ageing at UCL, London, UK.
+(6)UCL Queen Square Institute of Neurology, UCL, London, UK. p.nachev@ucl.ac.uk.
+
+BACKGROUND: The prediction of long-term mortality following acute illness can be 
+unreliable for older patients, inhibiting the delivery of targeted clinical 
+interventions. The difficulty plausibly arises from the complex, multifactorial 
+nature of the underlying biology in this population, which flexible, multimodal 
+models based on machine learning may overcome. Here, we test this hypothesis by 
+quantifying the comparative predictive fidelity of such models in a large 
+consecutive sample of older patients acutely admitted to hospital and 
+characterise their biological support.
+METHODS: A set of 804 admission episodes involving 616 unique patients with a 
+mean age of 84.5 years consecutively admitted to the Acute Geriatric service at 
+University College Hospital were identified, in whom clinical diagnoses, blood 
+tests, cognitive status, computed tomography of the head, and mortality within 
+600 days after admission were available. We trained and evaluated out-of-sample 
+an array of extreme gradient boosted trees-based predictive models of 
+incrementally greater numbers of investigational modalities and modelled 
+features. Both linear and non-linear associations with investigational features 
+were quantified.
+RESULTS: Predictive models of mortality showed progressively increasing fidelity 
+with greater numbers of modelled modalities and dimensions. The area under the 
+receiver operating characteristic curve rose from 0.67 (sd = 0.078) for age and 
+sex to 0.874 (sd = 0.046) for the most comprehensive model. Extracranial bone 
+and soft tissue features contributed more than intracranial features towards 
+long-term mortality prediction. The anterior cingulate and angular gyri, and 
+serum albumin, were the greatest intracranial and biochemical model contributors 
+respectively.
+CONCLUSIONS: High-dimensional, multimodal predictive models of mortality based 
+on routine clinical data offer higher predictive fidelity than simpler models, 
+facilitating individual level prognostication and interventional targeting. The 
+joint contributions of both extracranial and intracranial features highlight the 
+potential importance of optimising somatic as well as neural functions in 
+healthy ageing. Our findings suggest a promising path towards a high-fidelity, 
+multimodal index of frailty.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12916-022-02698-2
+PMCID: PMC9827638
+PMID: 36617542 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
