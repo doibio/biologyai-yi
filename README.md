@@ -6,3 +6,9 @@ for PMID in $(esearch -db pubmed -query "life extension AND 2023/01/01:3000[Date
 
 esearch -db pubmed -query "life extension" | efetch -format abstract > life_extension.txt\n
 
+
+
+# how to run
+
+python run.py
+
