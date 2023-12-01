@@ -1,0 +1,107 @@
+1. BMJ Med. 2023 Aug 9;2(1):e000419. doi: 10.1136/bmjmed-2022-000419. eCollection
+ 2023.
+
+Comparative effectiveness of second line glucose lowering drug treatments using 
+real world data: emulation of a target trial.
+
+Deng Y(1)(2), Polley EC(3), Wallach JD(4), Herrin J(5), Ross JS(6)(7)(8), McCoy 
+RG(1)(9).
+
+Author information:
+(1)Robert D and Patricia E Kern Center for the Science of Health Care Delivery, 
+Mayo Clinic, Rochester, Minnesota, USA.
+(2)OptumLabs, Eden Prairie, Minnesota, USA.
+(3)Department of Public Health Sciences, University of Chicago, Chicago, 
+Illinois, USA.
+(4)Department of Epidemiolgy, Emory University School of Public Health, Atlanta, 
+Georgia, USA.
+(5)Section of Cardiovascular Medicine, Department of Internal Medicine, Yale 
+School of Medicine, New Haven, Connecticut, USA.
+(6)Department of Internal Medicine, Yale School of Medicine, New Haven, 
+Connecticut, USA.
+(7)Center for Outcomes Research and Evaluation, Yale-New Haven Hospital, New 
+Haven, Connecticut, USA.
+(8)Department of Health Policy and Management, Yale School of Public Health, New 
+Haven, Connecticut, USA.
+(9)Division of Community Internal Medicine, Geriatrics, and Palliative Care, 
+Department of Medicine, Mayo Clinic, Rochester, Minnesota, USA.
+
+OBJECTIVE: To build on the recently completed GRADE (Glycemia Reduction 
+Approaches in Diabetes: A Comparative Effectiveness Study) randomised trial 
+examining the comparative effectiveness of second line glucose lowering drugs in 
+achieving and maintaining glycaemic control in adults with type 2 diabetes.
+DESIGN: Emulation of a target trial.
+SETTING: Medical and pharmacy claims data from the OptumLabs Data Warehouse, a 
+de-identified US national dataset of beneficiaries of commercially insured and 
+Medicare Advantage plans, 29 March 2013 to 30 June 2021.
+PARTICIPANTS: Adults (≥18 years) with type 2 diabetes who first started taking 
+glimepiride, sitagliptin, liraglutide, insulin glargine, or canagliflozin 
+between 29 March 2013 and 30 June 2021. Participants were treatment naive or 
+were receiving metformin monotherapy at the time of starting the study drug.
+MAIN OUTCOME MEASURES: The main outcomes were time to primary and secondary 
+metabolic failure of the assigned treatment, calculated as days to haemoglobin 
+A1c levels of ≥7.0% and >7.5%, respectively. Secondary metabolic, 
+cardiovascular, and microvascular outcomes were analysed as specified in the 
+GRADE statistical analysis plan. Propensity scores were estimated with the 
+gradient boosting method, and inverse propensity score weighting was used to 
+emulate randomisation to the treatment groups, which were then compared with Cox 
+proportional hazards regression.
+RESULTS: The study cohort included participants starting treatment with 
+glimepiride (n=20 511), liraglutide (n=5569), sitagliptin (n=13 039), insulin 
+glargine (n=7262), and canagliflozin (n=5290). The insulin glargine arm was 
+excluded because of insufficient control of confounding. Median times to primary 
+metabolic failure were 439 (95% confidence interval 400 to 489) days in the 
+canagliflozin arm, 439 (426 to 453) days in the glimepiride arm, 624 (567 to 
+731) days in the liraglutide arm, and 461 (442 to 482) days in the sitagliptin 
+arm. Median time to secondary metabolic failure was also longest in the 
+liraglutide arm. Adults receiving liraglutide had the lowest one year cumulative 
+incidence rate of primary metabolic failure (0.37, 95% confidence interval 0.35 
+to 0.40) followed by sitagliptin (0.44, 0.43 to 0.45), glimepiride (0.45, 0.44 
+to 0.45), and canagliflozin (0.46, 0.44 to 0.48). Similarly, the one year 
+cumulative incidence rate of secondary metabolic failure was 0.27 (0.25 to 0.29) 
+in the canagliflozin arm, 0.28 (0.27 to 0.29) in the glimepiride arm, 0.23 (0.21 
+to 0.26) in the liraglutide arm, and 0.28 (0.27 to 0.29) in the sitagliptin arm. 
+No differences were observed between the study arms in the rates of 
+microvascular and macrovascular complications.
+CONCLUSIONS: In this target trial emulation of an expanded GRADE study 
+framework, liraglutide was more effective in achieving and maintaining glycaemic 
+control as a second line glucose lowering drug than canagliflozin, sitagliptin, 
+or glimepiride.
+
+© Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjmed-2022-000419
+PMCID: PMC10414064
+PMID: 37577025
+
+Conflict of interest statement: Competing interests: All authors have completed 
+the ICMJE uniform disclosure form at www.icmje.org/disclosure-of-interest/ and 
+declare: support from the National Institute of Health (NIH), National Institute 
+of Diabetes and Digestive and Kidney Diseases (NIDDK), for the submitted work; 
+RGM has received unrelated research support from NIDDK and the Patient-Centered 
+Outcomes Research Institute (PCORI); RGM has also served as a consultant to Emmi 
+on the development of patient education materials related to diabetes; JDW has 
+received research support from the National Institute on Alcohol Abuse and 
+Alcoholism of the NIH, the Food and Drug Administration (FDA), Johnson & 
+Johnson, and the Collaboration for Research Integrity and Transparency (CRIT) at 
+Yale University from the Arnold Ventures; JDW serves as a consultant for Hagens 
+Berman Sobol Shapiro and Dugan Law Firm; JH works under contract to the Centers 
+for Medicare and Medicaid Services on the development and evaluation of measures 
+of provider quality; JH also receives research support from the National 
+Institute on Aging, the National Cancer Institute, PCORI, the American Heart 
+Association, and additional support from Yale University, Johnson & Johnson, and 
+the Department of Defense; JSR currently receives research support through Yale 
+University from Johnson & Johnson to develop methods of clinical trial data 
+sharing, from the Medical Device Innovation Consortium as part of the National 
+Evaluation System for Health Technology (NEST), from the FDA for the Yale-Mayo 
+Clinic Center for Excellence in Regulatory Science and Innovation (CERSI) 
+programme (U01FD005938), from the Agency for Healthcare Research and Quality 
+(R01HS022882), from the National Heart, Lung, and Blood Institute of the NIH 
+(R01HS025164, R01HL144644), and from Arnold Ventures; JSR was an expert witness 
+at the request of relator's attorneys, the Greene Law Firm, in a qui tam suit 
+alleging violations of the False Claims Act and Anti-Kickback Statute against 
+Biogen that was settled September 2022; no financial relationships with any 
+organisations that might have an interest in the submitted work in the previous 
+three years; no other relationships or activities that could appear to have 
+influenced the submitted work.

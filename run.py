@@ -2,26 +2,12 @@ import requests
 import os
 import codecs
 
+url = "https://gpu-server.onrender.com/" #'http://localhost:8000/' #
 
-# API_URL = "https://zbcr1xtvyhjfqg93.us-east-1.aws.endpoints.huggingface.cloud"
-# headers = {
-# 	"Authorization": "Bearer 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",
-# 	"Content-Type": "application/json"
-# }
-API_URL = "https://cyk532m7zhkpqslt.us-east-1.aws.endpoints.huggingface.cloud"
-headers = {
-	"Authorization": "Bearer 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",
-	"Content-Type": "application/json"
-}
-
-directory_path = 'edirect2'
+directory_path = 'edirect10'
 
 documents = []
 
-def query(payload):
-    response = requests.post(API_URL, headers=headers, json=payload)
-    return response.json()
-    
 for filename in os.listdir(directory_path):
     if filename.endswith(".txt"):  
         filepath = os.path.join(directory_path, filename)
@@ -39,8 +25,12 @@ for filename in os.listdir(directory_path):
 
 
 for document in documents:
-    output = query({
-	"inputs": "Evaluate this treatment for efficacy" + document["snippet"],
-    })
+    prompt = document["snippet"]
+    model2 = "TheBloke/Yi-34B-Chat-AWQ"
+    response2 = requests.post(url + "llm_prompt", 
+                              json={"prompt":prompt, 
+                                    "model":model2,
+                                    "system_message":"Describe this for a person interested in life extension who is well educated about life extension methods."})
+    print(response2.text)
     print("----------------------------------------")
-    print(output)
+ 

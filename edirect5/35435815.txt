@@ -1,0 +1,49 @@
+1. Autophagy. 2023 Jan;19(1):338-351. doi: 10.1080/15548627.2022.2065617. Epub
+2022  Jun 26.
+
+Autophagy profiling in single cells with open source CellProfiler-based image 
+analysis.
+
+Schüssele DS(1), Haller PK(1)(2), Haas ML(1), Hunter C(1)(2), Sporbeck K(1)(2), 
+Proikas-Cezanne T(1)(2).
+
+Author information:
+(1)Interfaculty Institute of Cell Biology, Eberhard Karls University Tübingen, 
+Tübingen, Germany.
+(2)International Max Planck Research School 'From Molecules to Organisms', Max 
+Planck Institute for Developmental Biology and Eberhard Karls University 
+Tübingen, Tübingen, Germany.
+
+Single cell-based analysis of macroautophagy/autophagy is largely achieved 
+through the use of fluorescence microscopy to detect autophagy-related proteins 
+that associate with autophagic membranes and therefore can be quantified as 
+fluorescent puncta. In this context, an automated analysis of the number and 
+size of recognized puncta is preferable to a manual count, because more reliable 
+results can be generated in a short time. Here we present a method for open 
+source CellProfiler software-based analysis for quantitative autophagy 
+assessments using GFP-tagged WIPI1 (WD repeat domain, phosphoinositide 
+interacting 1) images acquired with Airyscan or confocal laser-scanning 
+microscopy. The CellProfiler protocol is provided as a ready-to-use software 
+pipeline, and the creation of this pipeline is detailed in both text and video 
+formats. In addition, we provide CellProfiler pipelines for endogenous 
+SQSTM1/p62 (sequestosome 1) or intracellular lipid droplet (LD) analysis, 
+suitable to assess forms of selective autophagy. All protocols and software 
+pipelines can be quickly and easily adapted for the use of alternative autophagy 
+markers or cell types, and can also be used for high-throughput 
+purposes.Abbreviations: AF Alexa Fluor ATG autophagy related BafA1 bafilomycin 
+A1 BSA bovine serum albumin DAPI 4,6-diamidino-2-phenylindole DMEM Dulbecco's 
+modified Eagle's medium DMSO dimethyl sulfoxide EDTA ethylenediaminetetraacetic 
+acid EBSS Earle's balanced salt solution FBS fetal bovine serum GFP green 
+fluorescent protein LD lipid droplet LSM laser scanning microscope MAP1LC3B 
+microtubule associated protein 1 light chain 3 beta MTOR mechanistic target of 
+rapamycin kinase PBS phosphate-buffered saline PIK3C3/VPS34 phosphatidylinositol 
+3-kinase catalytic subunit type 3 SQSTM1 sequestosome 1 TIFF tagged image file 
+format U2OS U-2 OS cell line WIPI WD repeat domain, phosphoinositide 
+interacting.
+
+DOI: 10.1080/15548627.2022.2065617
+PMCID: PMC9809960
+PMID: 35435815 [Indexed for MEDLINE]
+
+Conflict of interest statement: No potential conflicts of interest was reported 
+by the authors.
